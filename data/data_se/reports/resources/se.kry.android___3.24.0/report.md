@@ -190,6 +190,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> very exellent<br> :date: __2021-03-02 10:12:56__
+
 > Excellent<br> :date: __2021-02-22 12:26:16__
 
 > snabbt och enkelt<br> :date: __2021-02-21 08:55:18__
@@ -207,8 +209,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > I love this app. It is so convenient. And so far the doctors are very nice and competent. I will use that every time I can now.<br> :date: __2021-01-30 12:21:02__
 
 > Gd customer service<br> :date: __2021-01-29 13:53:03__
-
-> Great experience, I would definitely recommend!<br> :date: __2021-01-26 22:13:45__
 
 
 

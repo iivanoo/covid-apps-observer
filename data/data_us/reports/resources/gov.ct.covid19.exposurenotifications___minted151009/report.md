@@ -188,6 +188,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> This app only allows you to share Covid-19 test results. It should also allow you to share close contacts. I just found out that my fiance and I came in close contact with someone we see regularly who tested positive earlier today. Due to the time of night, currently 10:48pm, we're unable to get tested ourselves. We should be able to alert anyone through the app that we may have contracted the virus BEFORE being tested. Early detection is key with any illness. Please add this function.<br> :date: __2021-03-04 04:52:04__
+
 > It was helpful then all the reviews got positive.Well I live in housing Authority in New Haven and half the building is not being safe not wearing mask it's a terror dome. I'm doubling up on my mask staying safe as possible. The Health Dept.should do more for the ederly and disabled. So as far as I'm concern this app just eat up my data. So No<br> :date: __2021-01-24 21:32:35__
 
 > None of these apps work together. People should not have to worry if they have the correct states app installed and active, then have to switch between apps depending on what state they are in.<br> :date: __2021-01-06 04:18:51__
@@ -234,6 +236,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> The state has abandoned this cancer patient, so you can pound sand. I will not be sharing anymore data with this state.<br> :date: __2021-03-04 15:45:44__
+
 > Pointless app. I've had one exposure alert.<br> :date: __2021-02-20 18:18:54__
 
 > I support this app in principle but I cannot find the source code. Without access to the source code there can be no trust.<br> :date: __2021-02-11 16:51:59__
@@ -251,7 +255,5 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > No, don't want it<br> :date: __2021-01-26 19:47:56__
 
 > Poor, at best. I know I have been in close proximity to many individuals who have tested positive. Never once have i been notified. There is 1 person I know for certain and I spend an extensive amount of time with. I should have received a notice. I got bubkiss.<br> :date: __2021-01-14 18:58:55__
-
-> IT REALLY SOUNDS LIKE THIS APP SUCKS.!!! Reading the reviews I DEFINITELY WOULD NOT INSTALL THIS ON MY PHONE. 👎 👎 👎 FROM AN ANDROID USER.<br> :date: __2021-01-11 21:31:10__
 
 

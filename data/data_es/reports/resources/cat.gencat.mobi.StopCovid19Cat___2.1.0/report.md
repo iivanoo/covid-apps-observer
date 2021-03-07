@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Patética y no ayuda en nada. Una aplicación más para que te controlen a cambio de nada. Cualquier cosa llama a tu CAP. Esta aplicación es inútil.<br> :date: __2021-03-04 11:59:18__
+
 > Me lo he instalado bastantes veces tanto en castellano, como en catalán y no he conseguido que me dé acceso para el test. No me ha servido de nada. Mi opinión, negativa total.<br> :date: __2021-01-28 15:59:04__
 
 > El test es para los estados graves supongo. Yo he dado positivo y haciendo el test me dice que no tengo síntomas (por ser leves en mi caso) No me ha servido está aplicación y no sé exactamente para que sirve.<br> :date: __2021-01-22 07:58:07__
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de allí no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. Así no me extraña que no se puedan contabilizar los casos, si no funciona una simple aplicación, que se puede esperar de situaciones más complejas?<br> :date: __2020-12-16 14:56:06__
 
 > Borrar esta app, es vergonzosa. Despedir al jefe.<br> :date: __2020-12-14 12:16:10__
-
-> La app no funcina bien. Cuando voy a hacer el test se queda colgada. La he desintalado y vuelto a instalar y nada. Sin el test no sirve para nada. Despues de la reseña, funciono una vez y ahora otra vez no puedo hacer el test<br> :date: __2020-12-06 21:00:34__
 
 

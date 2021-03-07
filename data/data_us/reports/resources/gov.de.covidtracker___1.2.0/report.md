@@ -173,6 +173,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="gov.de.covidtracker 4 reviews"/>
 </p>
 
+> Easy<br> :date: __2021-03-04 23:31:57__
+
 > Very interesting<br> :date: __2020-12-22 02:32:40__
 
 > It works fine but, we NEED A DAILY REMINDER TO CHECK IN!<br> :date: __2020-12-04 13:13:16__

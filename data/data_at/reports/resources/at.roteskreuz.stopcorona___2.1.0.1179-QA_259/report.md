@@ -148,6 +148,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Die App ist gut, macht, was sie soll. Das Problem der App ist, dass sie auf jede Befindlichkeit und Bedenken von Nicht-Usern Rücksicht nimmt und deshalb nur sehr eingeschränkt leistet, was technisch wie DSVO-rechtlich durchaus möglich wäre. Corona ist aber kein Problem, dass sich mit Meinungsvielfalt, Einwandbehandlung und Demokratie in den Griff kriegen lãsst.<br> :date: __2021-03-03 11:13:01__
+
+> Leider haben nicht alle diesen App<br> :date: __2021-03-02 23:47:28__
+
+> I find das wichtig.<br> :date: __2021-02-28 07:34:41__
+
 > Gut Nur empfehlen<br> :date: __2021-02-26 17:45:42__
 
 > Sehr wichtige APP !!!<br> :date: __2021-02-23 12:22:31__
@@ -162,12 +168,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Ich fühle mich sicher mit dieser App! Danke dafür! 😉<br> :date: __2021-02-11 13:20:17__
 
-> Finde diese App ist sehr praktisch<br> :date: __2021-02-11 12:21:11__
-
-> Ich hatte noch keine Warnung über einen Kontakt mit positiv getestete Person.<br> :date: __2021-02-11 11:53:04__
-
-> Finde ich sehr wichtig!<br> :date: __2021-02-07 12:41:40__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
+
+> Tägliche aktuelle Nachschau, sicheres Gefühl, eigene Kontakte nachvollziehen zu können!<br> :date: __2021-03-04 20:03:45__
+
+> Bin gesund seit Beginn<br> :date: __2021-03-03 18:33:08__
 
 > e hxss<br> :date: __2021-02-21 14:05:08__
 
@@ -191,10 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Alles gut 👍 s<br> :date: __2020-11-23 20:15:40__
 
 > Update gibt es nicht?<br> :date: __2020-11-23 19:41:11__
-
-> Wie in anderen Kommentaren wäre Feedback hilfreich wie viele Kontakte in den letzten x Tagen erkannt wurden. Sonst top.<br> :date: __2020-11-17 06:41:57__
-
-> Habe erst heute die app runtergeladen<br> :date: __2020-11-16 17:58:07__
 
 
 
@@ -232,6 +232,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> warum kommt nach dem aufrufen der app zuerst die frage nach dem "handschake" , anstelle die frage "symptome" prüfen? das verwirrt viele. und warum kommt nach der frage 1, keine frage 2 (falls ich mich gesund fühle, wähle?) das verwirrt zum 2. mal. haben die entwickler irgendwann die user gefragt wie es ihnen mit der app geht.<br> :date: __2021-03-03 09:18:03__
+
 > Angeblich hat die App 20.000.000 Euro gekostet; da würde man sich etwas mehr erwarten: 1.) Ist der Schalter "Automatische Handshake" ein/aus ident mit dem Schalter "COVID 19-Benachrichtigung aktivieren"? Wenn ja, warum verwendet man zwei verschiedene Bezeichnungen? Ich kann keinen Unterschied feststellen! Wenn ich "COVID 19-Benachrichtigung aktivieren" ausschalte, dann wird noch "Automatische Handshake" als aktiv angezeigt, obwohl es auch ausgeschaltet ist. Nach Neustart sind beide auf aus. Das ist ein FEHLER bei der Anzeige! 2.) Die Liste der möglichen Begegnungen war nicht sortiert und ist in der neuen Version (Feb 2021) nicht mehr vorhanden! 3.) Es gibt jedoch noch den Punkt "App-Einstellungen öffnen", hier werden jedoch nur Informationen angezeigt. 4.) In der App steht immer noch "1 Meter Abstand". Es sollte "2 Meter Abstand" lauten! 5.) Das Design ist schlecht, die Menüpunkte unlogisch verschachtelt, die Bezeichnungen sind teilweise nicht ganz passend gewählt usw. 6.) Hilfe, FAQ usw. passen teilweise nicht mehr zur aktuellen App-Version.<br> :date: __2021-02-17 14:33:03__
 
 > Offensichtlich sinnlos und lässt den User im Regen stehen. Ich bekam heute eine Warnung eines möglichen Kontaktes. Dieses nicht ausgereifte Stück Software zeigt nicht mal an, an welchem Tag der Kontakt statt gefunden hat. Erst eine Kontaktaufnahme der betroffenen Person bestätigte die offensichtliche Quelle des Kontakts (Gott sei Dank alles negativ). Seit dem nervt die App im ca 30min. Takt mit Warnmeldungen. Lt. App hatte ich jetzt schon 5 weitere Kontakte. Stümperhaft. Schade ums Geld.<br> :date: __2021-02-07 11:27:25__
@@ -250,8 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Warum kann ich die Stopp Corona App nicht mehr aufmachen, so wie vorher immer?<br> :date: __2021-01-14 16:03:58__
 
-> Die Zählweise der IDs ist nicht nachvollziehbar. Habe in der Wohnung keinen Untermieter und trotzdem neue IDs bekommen. 1k sind für die zweit größte Stadt Österreichs dann doch wenig IDs. Keine Alarmmeldung noch bekommen.<br> :date: __2021-01-06 19:03:52__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,16 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Scheint nicht zu funktionieren, kein Mehrwert<br> :date: __2021-03-04 08:08:41__
+
+> seit Februar 2021 mutiert die App zum größten Datenverbraucher all meiner Apps. Funktion ist keine zu sehen, keine Kontrolle was vor sich geht etc. mit reicht's, ich hau das Zeug wieder weg...<br> :date: __2021-03-03 21:40:51__
+
+> Eine "lahme Ente" Wo ist die Erfahrung nachzulesen, die andere Nutzer damit gemacht hatten? Ich habe damit keine Erfahrungen machen und weitergeben können. Bin neugierig ob dazu ein "Feedback" kommt.<br> :date: __2021-03-01 23:17:39__
+
+> Leider sinnlos, wenn's niemand nutzt. Habe alle paar Wochen nur mal einen Kontakt/den Check zu einem anderen Nutzer. Noch keine einzige Risikobegegnung nach einem Jahr konstanter Nutzung in der Hauptstadt.<br> :date: __2021-03-01 00:39:04__
+
+> Gut gemeint aber leider nicht gut umgesetzt. Wenn ich die App monatelang auf meinem Handy habe, wäre zumindest interessant mit wie vielen anderen Personen die ich getroffen habe sie sich bereits synchronisiert hat. Derzeit sieht es einfach nur danach aus als würde die App nichts tun / nichts können. Zuviel verlangt, dass da steht: Sie haben sich bereits mit XX unterschiedlichen Personen synchronisiert?<br> :date: __2021-02-28 08:42:17__
 
 > 500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht.<br> :date: __2021-02-26 11:23:14__
 
@@ -269,15 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Also ich habe auch den Verdacht dass alle Bluetooth Geräte gespeichert werden... sobald ich mein Headset einschalte... zack, allein zuHause zw 21 und 4 uhr Früh immer Laptop, Bluetooth Lautsprecher alles Meldungen wo definitiv nur ich mit diesen Geräten in Sendereichweite bin ..... Aber 2 Kolleginnen die sehr oft mit mir gearbeitet haben und auch die App installiert UND am Laufen haben.. diese Kontakte wurden NICHT gespeichert... also komplett Sinnbefreit diese österreichische Lösung dieser App<br> :date: __2021-02-18 16:34:06__
 
 > Es ist relativ schwierig, dass man alles so einstellt, dass die App auch funktioniert. Habe Bluetooth aktiviert, trotzdem Fehlermeldung - Framework Einstellungen ??? Da finde ich nichts. Werde wieder deinstallieren.<br> :date: __2021-02-17 20:06:33__
-
-> Alles in allem macht die App das was sie soll, und das ganze ohne sonst oft lästige Benachrichtigungen. Aber: das Tracking-Verhalten ist erratisch. Habe innerhalb von 2 Stunden, in denen ich die Wohnung nicht verlassen habe, über 100000 Kontakte?<br> :date: __2021-02-16 15:33:57__
-
-> Bin nicht mal in den Genuss gekommen, Framework Fehler.<br> :date: __2021-02-14 20:00:26__
-
-> Anwendung gelöscht. Hat keine Funktion, seit Monaten keine Angabe von Kontakten usw. Dafür werden andere BT-Verbindungen (Autofreisprech, Headset etc.) permanent geblockt. Diese funktionieren erst nach deaktivieren der Stopp Corona App.<br> :date: __2021-02-11 15:49:20__
-
-> Hätte mir viel mehr erwartet, inzwischen hätte man ja vielleicht neue Funktionen einbauen können, wie Impfanmeldung, Info zur Inzidenz Entwicklung etc. So nutzt die App eigentlich erst wenn du offiziell als infiziert gemeldet bist, und da nur jenen die sie auch installiert haben. Nett, aber ausbaufähig<br> :date: __2021-02-11 10:45:16__
-
-> Verwendet die noch jemand? Irgendeine Info, ob sie überhaupt was tut (Anzahl der Kontakte mit anderen Corona Apps, Gesamtanzahl der Risiko Kontakte die mittels der App identifiziert wurden) wäre gut. Gibt auch keine updates dafür. Wieder deinstalliert.<br> :date: __2021-02-08 09:27:55__
 
 

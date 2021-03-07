@@ -186,6 +186,18 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Very easy to use and hardly had to wait to get a sick release note for work. Video call quality was great and the Doctor was very professional and as thorough as needed. Much easier than waiting to get an appointment as I downloaded it and was able to get setup in only minutes.<br> :date: __2021-03-06 01:12:06__
+
+> Really makes life easier! Having 2 littles at home, no vehicle and all the restrictions due to covid about bringing more than one person to the appt creates a TON of stress for myself. Thankful!!<br> :date: __2021-03-04 20:04:18__
+
+> This app has made my life so much easier! It is easy to navigate and they provide the services that you need.<br> :date: __2021-03-04 01:53:01__
+
+> I had the worst sinus & ear infection 2 weeks ago. After setting up the program I spoke with a doctor from Philadelphia. I told him my symptoms. He said I needed to use Flonase and over the counter Zyrtec. I insisted that was not enough bc my snot was yellow and bloody, my ears ached from the drainage & my tonsil was on fire. He told me my sinuses were inflammed. He said wait 2 weeks & then they would consider antibiotics. Afterwards I met w/a local NP who gave me Amoxicillan. He was a joke<br> :date: __2021-02-27 21:26:42__
+
+> This is so much better than going to an urgent care would highly recommend this.<br> :date: __2021-02-27 17:36:28__
+
+> Awesome caring 💊🏥💊<br> :date: __2021-02-27 17:27:04__
+
 > amazing<br> :date: __2021-02-27 05:59:59__
 
 > Input reason why I need to talk to a doctor Meds refill and Pharmacy info Attending Dr. stratton was very nice and take care of my refill Rx right away and reply accordingly. Thanks so much.Great service God bless 💫🙏☘️🕊️<br> :date: __2021-02-27 00:09:31__
@@ -193,18 +205,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Well some medical concerns benefit from having an ongoing relationship, most of my medical needs are transactional in nature, and this app makes it extremely easy<br> :date: __2021-02-26 13:01:54__
 
 > Access to lots of doctors of all kinds almost instantly, my prescription was ready an hour later and the only thing I left the house for was to pick up the medicine. Far exceeded my expectations.<br> :date: __2021-02-26 00:40:20__
-
-> Great experience work's just like it should<br> :date: __2021-02-25 17:58:57__
-
-> Excellent from start to finish. Very well organized app. Quick visit got the help I needed.<br> :date: __2021-02-23 21:34:15__
-
-> Quick and easy<br> :date: __2021-02-20 20:58:25__
-
-> Excellent providers and convenient.<br> :date: __2021-02-20 15:51:08__
-
-> Very easy to use<br> :date: __2021-02-19 21:56:29__
-
-> Great services and it is very professional<br> :date: __2021-02-19 19:32:07__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> It says 24/7 help. There are no doctors available. 24/6?<br> :date: __2021-02-27 16:38:45__
+
 > Camera won't connect. This is a huge failure, and the idea had so much promise. There are problems with the camera on my phone connecting every time. I'm very disappointed.<br> :date: __2021-02-25 14:59:53__
 
 > Never works<br> :date: __2021-01-30 00:36:54__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Doesn't work<br> :date: __2021-01-12 03:23:49__
 
 > Dosent load<br> :date: __2021-01-08 20:36:02__
-
-> Can't update card number and therefore can't even make appointments. Customer service said they'd "open a ticket for me" so I am left waiting to be able to see a dr until they're tech system is fixed for something that should be completely routine, like updating a credit card. Greedy company with garbage technology.<br> :date: __2021-01-06 18:52:40__
 
 

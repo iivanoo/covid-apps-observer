@@ -140,6 +140,10 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
 </p>
 
+> Volgens mij wel prima... Nog geen meldingen gehad.<br> :date: __2021-03-03 12:35:11__
+
+> heel duidelijk oke<br> :date: __2021-03-01 16:22:57__
+
 > Werkt prima, staat gewoon constant aan sinds de app erop staat. Ook iedere update wordt duidelijk toegelicht. Ik denk dan ook dat alle mensen die 1 ster geven eerst maar eens moeten kijken of alles goed is ingesteld op de eigen telefoon, voor ze de app de volle laag geven.<br> :date: __2021-02-25 20:46:39__
 
 > App doet het inmiddels beter op mijn telefoon.<br> :date: __2021-02-25 15:24:53__
@@ -156,10 +160,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Prima app, nog geen melding gehad gelukkig maar hij checkt op de achtergrond als je deze uitleest via de API via Instellingen in je Android toestel.<br> :date: __2021-02-19 12:02:52__
 
-> goed<br> :date: __2021-02-18 10:34:03__
-
-> Het helpt wand je kan zo weten of je bij iemand met corona bent geweest<br> :date: __2021-02-18 08:10:06__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 4 reviews"/>
 </p>
+
+> Ik snap iets niet ik krijg 3 maart een melding dat ik mij moet laten testen omdat ik 1 maart in de beurt ben geweest van iemand met corona heb een afspraak gemaakt voor 5 maart blijkt dat ik me nu de 5e dag of daarna nog een keer moet laten testen waarom maakt men dan niet meteen een afspraak op de 5e dag of daarna dat scheelt toch 1 x testen en vergroot toch de capaciteit en scheelt mij 1x testen<br> :date: __2021-03-05 11:23:09__
 
 > Haha beste prank ooit<br> :date: __2021-02-11 12:04:38__
 
@@ -186,8 +188,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > 👍🏻<br> :date: __2021-01-28 17:28:21__
 
-> Werkt probleemloos, maar ook wat onzichtbaar. Zou leuk zijn om een beetje feedback te krijgen, bijvoorbeeld dat hij de afgelopen dag x andere coronamelder Apps heeft gezien.<br> :date: __2021-01-26 23:04:53__
-
 
 
 #### 3-star reviews
@@ -195,6 +195,16 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 3 reviews"/>
 </p>
+
+> Hoi, heb deze app gedownload om te laten weten aan mijn omgeving dat ik positief getest ben op Covid-19.... Alleen kan ik nergens in de App vinden hoe ik dit moet aangeven.... Alleen hoe je een test kunt aanvragen.... Deze heb ik gehad, is er een manier om het alsnog later in te vullen? Grt Sebastiaan<br> :date: __2021-03-05 12:05:37__
+
+> Misschien handig om toe te voegen als de telefoon even trilt als het een andere telefoon met coronamelder-app registreert voor bijv. langer dan 5 seconden. Dan weet je dat als je telefoon níet heeft getrild je extra alert moet zijn als je vlak bij iemand bent,die het -blijkbaar- minder nauw neemt met de corona-maatregelen.<br> :date: __2021-03-05 08:51:50__
+
+> Bij mij in Grave N.B. geeft de melder steeds dat hij niets kan scannen.<br> :date: __2021-03-04 17:47:30__
+
+> Voor zo'n essentiële app krijg ik erg vaak meldingen dat hij uit is gevallen en de afgelopen 24 uur niet heeft kunnen meten.<br> :date: __2021-02-28 11:31:17__
+
+> Laatste tijd vaak technische storing en dan werkt de app 24 uur niet. Wat heb je dan aan die app???<br> :date: __2021-02-28 10:21:30__
 
 > Valt elke dag uit.<br> :date: __2021-02-26 20:04:18__
 
@@ -206,16 +216,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Valt steeds uit, oorzaak wordt niet genoemd<br> :date: __2021-02-23 23:19:38__
 
-> Matig<br> :date: __2021-02-23 22:45:38__
-
-> Deze app heeft het probleem dat hij uitvalt voor 24-uur terwijl ik wel goede verbinding heb niet constant maar wel vaak genoeg om de app weer automatisch te laten starten Deze app is up to date ben zeer streng in het updaten Update Updates hebben bovenstaand probleem niet opgelost. Ik heb geen stroombesparing ingesteld nog de app gesnoozed in welke vorm dan ook<br> :date: __2021-02-19 08:43:17__
-
-> Mijn corona app blijf niet altijd stand by valt telkens weg rede hier van ?<br> :date: __2021-02-16 14:25:33__
-
-> Het is goed hij gaat zelf op pauze en zegt dat hij geen 24 uur controle uit kan voeren en het is al 2 keer gebeurd<br> :date: __2021-02-09 17:41:03__
-
-> Negatief getest<br> :date: __2021-02-06 13:17:28__
-
 
 
 #### 2-star reviews
@@ -223,6 +223,14 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 2 reviews"/>
 </p>
+
+> Ik vind t heel vreemd. 14 dagen terug blijk ik in contact te zijn geweest met iemand die positief is. 14 dagen later krijg ik bericht van de corona app. Ik heb geen klachten gelukkig. Ik bel de ggd en die zegt als u besmet bent had u dit al na 5 dagen moeten merken. Waarom krijg ik dit bericht dan zo laat? Geen idee zeggen ze. U hoeft zich geen zorgen te maken. Nou ik vind dit best vreemd dus. Wel rade ze aan om me te laten testen. Nou ik ben in de war nu zeg maar.<br> :date: __2021-03-06 11:01:48__
+
+> gemiddeld een paar keer per week melding dat de app niet heeft gewerkt. kwalijk.<br> :date: __2021-03-05 22:56:38__
+
+> Batterij loopt met deze app binnen no time leeg. Echt jammer, aan zich werkt de app namelijk goed volgens mij.<br> :date: __2021-03-03 14:57:32__
+
+> De app heeft het een poosje goed gedaan maar nu moet ik het elke keer weer toestemming geven omdat het niet actief was. Kan er dus niet van op aan. Dit was na de laatste update.<br> :date: __2021-03-02 16:10:50__
 
 > De app valt vaak uit, ik heb er geen vertrouwen meer in. Dit gebeurt dagelijks, hoezo als ik de batterij van de telefoon oplaad schakelt de app uit? Wat een onzin. Heb de telefoon de hele dag op zak en laad hem in de nacht op dus wat is het probleem?<br> :date: __2021-02-24 23:35:56__
 
@@ -236,14 +244,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Nog nooit melding van gehad dat ik bij mogelijk besmette mensen in de buurt ben geweest. Daarnaast kon ik niets meer met Bluetooth, deze app blokkeert alles... En als blauwtand wel werkte erg instabiel... Bijvoorbeeld smartwach die ik handmatig moet synchroniseren en meldingen op watch komen niet door. App verwijderd en het lijkt weer normaal Bluetooth.<br> :date: __2021-02-16 00:21:39__
 
-> Moet hem bijna elke dag opnieuw starten, minder leuk .<br> :date: __2021-02-12 14:13:54__
-
-> Moet bijna dagelijks de app opnieuw aanzetten omdat ik de melding krijg dat hij niet actief is.<br> :date: __2021-02-11 09:44:52__
-
-> Ik ben arts, zie inmiddels wekelijks wel een aantal zieke, bij de GGD positieve geteste coronapatienten, maar zelfs als ik de app op de achtergrond draaiend houd, heb ik nog NOOIT een melding ontvangen... En ik heb een nieuwe smartphone die nog vorig jaar pas uitgebrachts is met de nieuwste android versie erop<br> :date: __2021-02-04 12:41:20__
-
-> Slechte app, gaat veel te veel uit van de eerlijke en goede wil van de gebruiker.<br> :date: __2021-02-03 17:37:16__
-
 
 
 #### 1-star reviews
@@ -252,24 +252,24 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
 </p>
 
-> Ik kreeg een melding dat ik op een woensdag meer dan 15 minuten bij iemand was geweest die corona had. Ik was echter op dat moment al 5 dagen thuis aan het werk, zonder daarbij met anderen in contact te zijn geweest. Ook was ik niet in de winkel of elders geweest. Nu ben ik een nuchter persoon en maakte ik me er niet druk om maar ik kan me voorstellen dat er mensen zijn die hier compleet paranoïa van worden.<br> :date: __2021-02-26 19:07:01__
+> App van Hugo de Jong om de burgers onder controle te krijgen. Verwijder deze app en voorkom dat je straks in verplichte quarantaine komt. Vrijheid terug er is geen super gevaarlijk virus. Het is een stevige griep meer niet.<br> :date: __2021-03-06 12:13:44__
 
-> Ik met volle overjoy naar buiten gegaan om rond te gaan zoeken in m'n buurt. Maar niks kunnen vinden ! App maar verwijderd en Pokemon go opgestart!<br> :date: __2021-02-26 17:11:54__
+> Niet downloaden!<br> :date: __2021-03-06 00:08:07__
 
-> Is niet betrouwbaar. Is vaak uitgevallen. Ik ben niet tevreden.<br> :date: __2021-02-26 15:36:57__
+> Ik heb corona en zit thuis alleen de app ziet mij niet als positief getest dus hij faalt, heb ook nooit een melding ontvangen,, lijkt me een mislukking<br> :date: __2021-03-05 20:20:50__
 
-> BELACHELIJK!! positief getest. De app vanaf begin erop voor mezelf en anderen inzicht te geven in geval van besmetting. GGD aan de lijn gehad, sleutel invoeren lukte niet ivm storing. Volgende ochtend GGD nr 2 voor de sleutel. Doorgegeven en app zou actief zijn. Alles was in orde zo. S'avonds de app helpdesk gebeld. Moet je ergens onderop in de app nog iets bevestigen! Kan niet meer ivm nieuwe sleutel. 40 minuten diverse nrs gebeld. Zou worden teruggebeld door GGD. Na 5 dagen app noginactief!<br> :date: __2021-02-25 23:49:52__
+> Zie alleen maar uitleg, maar weet niet welke registraties er zijn geweest. Weet niet wat ik met deze app aanmoet.<br> :date: __2021-03-05 17:40:11__
 
-> Bij mij is het bewezen dat de app niet werkt, me vriendin heeft de app net als ik, zij heeft corona en ik geen meding Maar dat zanwe aan ons liggen zeker als ik de ruikende reactie goed lees<br> :date: __2021-02-25 23:35:27__
+> laat maar<br> :date: __2021-03-05 12:11:56__
 
-> Miraculous ladybug new york special kijken<br> :date: __2021-02-25 22:44:18__
+> Waardeloos. Krijg regelmatig melding, dat de app 24 uur niet gewerkt heeft??<br> :date: __2021-03-05 11:57:46__
 
-> Haha ik had wel een beter beveiligde app verwacht. Wel jammer voor de overheid dat ze gemiddeld 3,0 sterren hebben🤣 ik ken slechtere apps en die hebben nog meer sterren. Maar ja ik vind deze app echt zonde van je opslagruimte. IT SUCK!!!! Het is van de overheid dus het is gewoon flut want die kunnen geen apps maken.<br> :date: __2021-02-25 08:36:13__
+> Belachelijke app. Ik ben positief getest en geef code aan ggd, maar de ggd heeft geen code terug. "Als je wilt maar het is niet nodig. Dus nutteloze app.<br> :date: __2021-03-04 12:14:40__
 
-> Mijn halve familie heeft corona, ik wacht op een test, maar nog steeds geen melding. Niemand van mijn familie krijgt een melding. Heel gek! We hebben allemaal de app in gebruik.<br> :date: __2021-02-24 10:23:08__
+> App doet het niet bij mij. Heeft geen melding doorgegeven aan mij. Mijn man ontving wel een melding over dezelfde situatie.<br> :date: __2021-03-04 06:49:24__
 
-> Ik snap niet dat de mensen er in trappen. PCR test is onbetrouwbaar. Griep bestaat nu in eens niet meer.<br> :date: __2021-02-24 08:09:14__
+> Iemand met corona in huis gehad in december. Maar als die mensen hem niet gebruiken heb je er niets aan. Dus wat een flauwekul deze app. Ik heb het gevoel dat weinig mensen hem gebruiken. Aanfluiting dus.<br> :date: __2021-03-03 14:52:13__
 
-> Nutteloos. Dat kan ik wel toelichten. Het geeft geen enkele melding omtrent de waarschuwing van het virus. Ik heb de app verwijderd, het heeft geen meerwaarde. Ik was in de beurt van een positieve geteste persoon.<br> :date: __2021-02-23 10:12:18__
+> Hij valt telkens uit en er zijn bijna geen mensen die hem grbruiken<br> :date: __2021-03-03 12:53:02__
 
 

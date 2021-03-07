@@ -168,8 +168,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 5 reviews"/>
 </p>
 
-> Prima App. Sehr schön Designed und die Informationen sind gut aufbereitet. Weiter so.<br> :date: __2021-02-27 09:41:14__
-
 > Derzeit stürzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann stürzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank 👍.<br> :date: __2021-02-17 15:10:54__
 
 > Eigentlich eine tolle APP. aktuell startet die. Anwendung leider nicht sondern wird direkt beendet. Ich kann nur einen Fehler an meinen smartphone Hersteller melden. Push Nachrichten kommen zwar an, aber auch hier kommt es beim anclicken zum Absturz. Edit. Nach Rückmeldung der Entwickler Problem beseitigt. Alles Bestens, vielen Dank.<br> :date: __2020-12-20 08:27:00__
@@ -208,11 +206,11 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Ich bekomme regelmässig die Nachricht, dass die App zu langsam läuft. Es könnte vielleicht zusätzlich aufgenommen werden Müllgefässe zu bestellen bzw. zu ändern. Die Rubrik Baustellen scheint nicht aktuell. Unsere Strasse ist durch Kanalbauarbeiten schon seit 1 Jahr eine Dauerbaustelle und ist nicht einmal erwähnt.<br> :date: __2020-11-29 09:37:31__
 
-> Okay, die App läuft mittlerweile und tut was sie soll. Der Funktionsumfang könnte noch was größer sein. Leider klappt das Scaling nich nicht ganz, zum Teil werden Textbereiche bin anderen Boxen überdeckt (Samsung S10)<br> :date: __2020-11-28 11:50:51__
-
 > Vielen Dank, läuft jetzt wieder einwandfrei. Eigentlich eine schöne App aber seit dem letzten Update nur noch einmal zu öffnen (Samsung M21, Android 10).<br> :date: __2020-11-22 02:39:48__
 
 > Bei der 1ten Benutzung sehr zufrieden schöne App... lässt sich leider bei erneuter Nutzung nicht öffnen...schade... Keine Verbindung zum Server möglich...bitte um Hilfe !!!<br> :date: __2020-11-18 10:22:27__
+
+> Update: Mit Version 2.0.7 sind die bisherigen Fehler schnell behoben worden. Sehr gut. Die zukünftige Abwicklung von Verwaltungsdienstleistungen und Zahlfunktion hin zum mobilen "Bürgerbüro" ist ja das Ziel. Bin mal gespannt. Der 5. Stern wartet schon...<br> :date: __2020-08-30 10:57:21__
 
 
 
@@ -238,6 +236,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
 
+> Okay, die App läuft mittlerweile und tut was sie soll. Der Funktionsumfang könnte noch was größer sein. Leider klappt das Scaling nich nicht ganz, zum Teil werden Textbereiche bin anderen Boxen überdeckt (Samsung S10) Update: bekam heute die erste Benachrichtigung von der App, und ich bekomme einen dauerhaften Fehler angezeigt... Jetzt deinstalliert, schade<br> :date: __2021-03-05 17:02:32__
+
 > Gibt man bei dem Abfallkalender eine Hausnummer ein die nicht in dem System ist funktioniert die Funktion nicht. Ergo existiert unser Haus nicht und man muss dann eine völlig andere Hausnummer eingeben.Das Haus meiner Eltern gibt es auch nicht aber vielleicht leben wir ja in Bielefeld 😁 Die Wetterstation Eichenstrasse gibt es nicht obwohl sie im System auftaucht. Alles in allem irgendwie sehr unprofessionell und das ganze war wahrscheinlich nicht billig.<br> :date: __2021-01-08 21:17:37__
 
 > Am anfang hat alles super geklappt.. Nun stockt es und dass Laden der App dauert 2 min bis sie geöffnet werden kann<br> :date: __2020-12-13 18:47:22__
@@ -255,8 +255,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Ganz schlechte App immerwieder kommt keine Verbindung zustande.<br> :date: __2020-11-23 16:24:15__
 
 > Die Ausdrucksform gefällt mir nicht, ich möchte von der Stadtverwaltung nicht geduzt werden.<br> :date: __2020-08-29 13:52:56__
-
-> Netter Versuch - hoffentlich wird die App noch weiter verbessert Egal was ich wähle (Freizeit, Baustellen, Sehenswürdigkeit...) - ich lande immer auf der Landkarte im Südpazifik. Mag ja schön sein dort, halte ich aber als lokales Freizeitangebot für Solingen für nicht ganz geeignet...<br> :date: __2020-08-23 12:12:57__
 
 
 

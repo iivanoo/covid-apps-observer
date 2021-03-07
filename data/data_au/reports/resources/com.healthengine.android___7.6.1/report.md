@@ -174,25 +174,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> So easy to use<br> :date: __2021-02-27 06:19:10__
+> Too easy! 😀<br> :date: __2021-03-06 04:14:12__
 
-> Awesome app..so easy to use<br> :date: __2021-02-26 10:48:58__
+> Good app. Easy to understand and use.<br> :date: __2021-03-06 01:27:17__
 
-> All medical practitioners should be in this app<br> :date: __2021-02-26 05:22:47__
+> Easy to use.<br> :date: __2021-03-05 10:04:34__
 
-> I can use it to book appointments quickly and easily and save my details as well as the clinics and practitioners I want, meaning that booking an appointment takes less than a minute. Very convenient and easy to use.<br> :date: __2021-02-26 03:26:29__
+> Easy and fast.....great<br> :date: __2021-03-05 09:31:29__
 
-> Easy to use and fast reply<br> :date: __2021-02-26 00:48:22__
+> Good service<br> :date: __2021-03-05 04:07:35__
 
-> Easy to book and good to a get reminder for the appointment.<br> :date: __2021-02-25 21:05:35__
+> Have had no issues with app at all 😊<br> :date: __2021-03-05 03:31:00__
 
-> Easy to use.<br> :date: __2021-02-25 11:18:05__
+> SO EASY & PRACTICAL TO USE<br> :date: __2021-03-05 00:09:23__
 
-> I can almost all the doctors easily<br> :date: __2021-02-24 11:09:51__
+> So easy, very handy.<br> :date: __2021-03-04 04:36:17__
 
-> Very easy to use. Because it shows all the appointment times available it gives users flexibility to organise their day. Extremely useful.<br> :date: __2021-02-24 04:37:05__
+> Always very helpful.<br> :date: __2021-03-04 03:32:32__
 
-> Easy to use<br> :date: __2021-02-24 03:41:04__
+> Quick and easy to use<br> :date: __2021-03-03 10:15:37__
 
 
 
@@ -201,6 +201,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> Good app, However the login page is a pain.<br> :date: __2021-03-03 01:36:03__
 
 > Fast and easy to use and I no longer have to wait on the phone waiting for am appointment<br> :date: __2021-02-25 23:08:08__
 
@@ -219,8 +221,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Very good<br> :date: __2021-02-11 01:15:00__
 
 > Good so far<br> :date: __2021-02-10 08:36:33__
-
-> Happy with the easy use.<br> :date: __2021-02-09 09:34:17__
 
 
 
@@ -274,8 +274,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 
 > This app used to be great, then the developers got greedy and it has become useless. I am completely unable to book my regular doctor through this app, I apparently don't meet the "criteria " so I now have to phone the practice directly. The app is to busy asking you questions so they can cross sell products. Bin it and start again guys.<br> :date: __2020-08-13 01:01:29__
 
-> This app crashes almost every time when I open it. This happened after the new update. Please fix the issue<br> :date: __2020-08-08 03:46:13__
-
 
 
 #### 1-star reviews
@@ -283,6 +281,10 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.healthengine.android 1 reviews"/>
 </p>
+
+> This company was fined for onselling client information.<br> :date: __2021-03-05 09:38:30__
+
+> Made appointments with ap that never made to doctors office my doctor has had enough of this ap and switched to a service<br> :date: __2021-03-02 23:06:57__
 
 > Doctor very rude and Nasty. Not recommended for older people!!!!<br> :date: __2021-02-13 06:44:28__
 
@@ -299,9 +301,5 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Great!<br> :date: __2020-12-03 09:31:58__
 
 > Not loading<br> :date: __2020-12-03 07:21:45__
-
-> Its will not load properly<br> :date: __2020-11-26 15:01:08__
-
-> Ive never actually been able to make appointments on this app with my clinic. Uninstalling, its just a waste of space<br> :date: __2020-11-24 21:15:15__
 
 

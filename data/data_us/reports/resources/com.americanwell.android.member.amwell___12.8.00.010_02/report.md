@@ -215,6 +215,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> A wonderful service. My boyfriend has throat cancer. And last year they removed his voice box. Now he cannot talk. He always in pain as well from chronic gout flare ups. Those difficult times when he can't move, we use Swell. The doctors here are fast, knowledgeable, and through.I highly recommend this application. He has United Healthcare (medicaid), I have Wellcare HMO (medicare advantage).They take almost all insurances. I signed up as well. Since we live 2 hours away.Hard to get to doctors.<br> :date: __2021-02-28 08:53:35__
+
 > Honesty I loved it it was fast and easy and the Dr was patient and it was a new and easy experience.<br> :date: __2021-02-25 19:46:38__
 
 > Fast and convenient<br> :date: __2021-02-24 18:52:08__
@@ -232,8 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Love this option<br> :date: __2021-02-03 09:13:37__
 
 > Fast and easy!!! I've seen 2 doctors so far the last one being Cynthia which was a VERY nice doctor. She knows exactly what she's talking about an listens to you... I recommend Amwell.. If u can't get out or not feeling too good and don't have any transportation this is who you go to!<br> :date: __2021-02-02 17:46:33__
-
-> Fast<br> :date: __2021-01-29 18:06:41__
 
 
 
@@ -271,8 +271,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="3_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 3 reviews"/>
 </p>
 
-> I haven't used this app enough to make it worth my whileand since I'm going to be dead in a few months I probably never will<br> :date: __2020-07-13 16:18:13__
-
 > Always updating, frequently have trouble with app, video connection pretty poor.<br> :date: __2020-03-22 15:54:59__
 
 > I'm sorry I only gave you a three but when I am promised paperwork on a Friday and don't get it there's something wrong you got what you wanted from me but yet I don't get anything from you I know it's busy but I need my paperwork that's all I'm saying You're a little slow getting paperwork to your patients or your emails I wish your daughters were a little more reliable when it comes to sending paperwork<br> :date: __2020-03-16 04:33:01__
@@ -290,6 +288,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Disappointed off the bat. was sent an email from uhc to click and register to get an amazon gift card for registering. nada. its a good idea for doctors... help people out by making it cheaper and more accessible during the times of day when people actually get sick. so 3 stars.<br> :date: __2019-05-25 22:29:37__
 
 > 1 doctor online and 8 people in line.<br> :date: __2019-04-03 12:16:45__
+
+> Not impressed. The doctor was nice enough. felt very rushed. Diagnosed pink eye but had an issue with my prescription and no way to follow up on it. Probably wont use again.<br> :date: __2019-03-23 17:12:25__
 
 
 
@@ -327,6 +327,12 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> I HATE THIS APP!! It constantly crashes, won't load, or won't even stay open. I got kicked out of another appointment and that's not good. Especially for people who are paying their hard earned money for the services provided. Please fix.<br> :date: __2021-03-03 20:12:02__
+
+> Got someone who allegedly graduated from NYU School of Med, but had no idea bacteria grew in the large intestine. Not even exaggerating this. Don't use this app unless you have no other options. I'd better not be charged the copay for this.<br> :date: __2021-03-03 02:15:31__
+
+> Sucks<br> :date: __2021-02-27 22:23:22__
+
 > Uninstalled immediately after the signup page. I am a trans person who came across their services recommended as being LGBTQ+ friendly but the app has a signup form with no options for gender other than male/female, and no option for a social name. This tells me everything I need to know about how I might be treated. Terrible.<br> :date: __2021-02-18 17:43:38__
 
 > Dificult to use<br> :date: __2021-02-17 06:48:47__
@@ -340,11 +346,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > It was working fine for the first time..then all the sudden it start acting up for me<br> :date: __2020-11-22 01:20:40__
 
 > Last Time I tried to Tele Visit a doctor. He was extremely rude and unprofessional<br> :date: __2020-11-14 19:10:58__
-
-> Not worth my time. Called for a uti, described my symptoms, mentioned several times that these are the symptoms I ALWAYS get for uti's. Doctor prescribed antifungal, and said if I get flulike symptoms, to go see someone in person. Really, wait until I have flulike symptoms to get appropriate treatment? During a pandemic? Thanks for nothing, jerk.<br> :date: __2020-11-10 03:06:24__
-
-> Thanks for letting me spend $70 for a 10 minute visit for a doctor to tell me I need to see a doctor in person. Super (un)helpful Also I've been waiting to be reimbursed for two visits that happened in August and September. I sent the proof from my insurance that I should be reimbursed but it's been stuck in the billing department for over 4 weeks.<br> :date: __2020-11-09 20:00:28__
-
-> Not very comprehensive. Nothing for chronic pain of any type.<br> :date: __2020-11-02 18:53:20__
 
 

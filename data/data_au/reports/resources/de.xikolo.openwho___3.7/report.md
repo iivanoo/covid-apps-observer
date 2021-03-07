@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Nice<br> :date: __2021-03-05 17:29:37__
+
 > V.good<br> :date: __2021-02-09 14:12:24__
 
 > Great medical field app sourceGreat medical field app source!<br> :date: __2021-02-09 07:42:09__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > It's a great platform for me to send money 💰 safely<br> :date: __2020-12-15 14:26:31__
 
 > Good<br> :date: __2020-12-08 16:01:38__
-
-> + definitely a good app. I'm a fan<br> :date: __2020-12-03 11:12:16__
 
 
 

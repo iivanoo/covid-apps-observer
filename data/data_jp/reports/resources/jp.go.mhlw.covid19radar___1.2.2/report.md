@@ -237,6 +237,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> I couldn't go past accepting the terms and conditions of the app since it keeps giving me a network connection error but my internet works and my mobile data also works fine. The app has a bug making it unusable on Android 11, google pixel 4a, 5g phone 😨<br> :date: __2021-03-02 09:11:48__
+
+> 規約に同意して次へ進もうとすると通信エラーになり先へ進めません。<br> :date: __2021-03-02 05:12:30__
+
 > Is it just a mockup?<br> :date: __2021-02-26 05:43:29__
 
 > Worse than a fax machine. I've been using this app diligently since release, only to find out it hasn't been functioning for Android or iPhone for months. A complete wasted effort on part of developers and the government sponsors. These apps have proven critical in New Zealand and other countries in the fight against covid, so it's a shame that Japan didn't take it more seriously.<br> :date: __2021-02-23 00:27:33__
@@ -252,9 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 通知も来ないし、生ログ確認しないとわからないし、陽性者と接触があった旨Exposure Notification のログに引っかかっても保健所は誤報の可能性が高いと検査もしてくれない。アプリも EN API も運用体制も最低だと思います。アンインストールします。<br> :date: __2021-02-18 07:23:02__
 
 > This app is nothing for you that it does not work properly yet. This only spend a resource in your phone.<br> :date: __2021-02-17 11:12:35__
-
-> 控えめに行ってゴミクズアプリ！！ 誰が使うかこんなバカみてえなもの！ヘドが出るわ！！！ 星一もつけねえよ誰も！ クソほどの金つぎ込んで適当なゴミアプリ作りやがって！ アプリの根幹の機能が使えないのに、それで個人情報だけは奪われてるとかホントにふざけてんじゃねえよ！💢💢💢<br> :date: __2021-02-16 09:15:04__
-
-> Placebo<br> :date: __2021-02-11 00:56:17__
 
 

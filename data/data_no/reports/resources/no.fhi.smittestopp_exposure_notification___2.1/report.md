@@ -148,6 +148,10 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 5 reviews"/>
 </p>
 
+> Virker være grei.<br> :date: __2021-03-03 10:01:52__
+
+> Fungerer problemfritt. Ser det er mange som klager om hyppige varslinger, men jeg får ikke mere enn kanskje to pr. døgn, og de er så anonyme at jeg ikke legger merke til dem. Ser ikke noen endringer i batteribruken heller. (Har samsung S7)<br> :date: __2021-03-01 22:23:57__
+
 > Smittesporing som ivaretar personvern på en utmerket måte! Det lagres minimalt med informasjon om meg som bruker, og det som lagres er kryptert og lagret distribuert. Genialt! Denne appen beviser at det går an å lage god og funksjonell teknologi uten at det går utover personvernet.<br> :date: __2021-02-27 10:57:12__
 
 > Skulle være viktig å ha! Men d skjer jo absolutt ingen ting. Kanskje fordi vi har lik null stress med Smitte i Levanger 😎👍Eller! Så er ingen så ærlige at dem registrerer seg.<br> :date: __2021-02-20 23:24:12__
@@ -163,10 +167,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > En god trygghet. Har den i lomma hele tiden. Jobber i butikk og treffer mange i løpet av dagen. Funker veldig bra på min Samsung s 7. Ikke maser den, og ikke drar den mye strøm<br> :date: __2021-02-04 23:12:41__
 
 > 23.01.21 ga jeg en stjerne, fordi appen ba meg om å slå på posisjonsfunksjonen i tillegg til Bluetooth. Jeg slår på posisjon kun når jeg bruker kartapper/navigasjonsapper, men ellers har jeg den avslått. Den forrige smittesporingsappen ble stoppet nettopp på grunn av at den benyttet posisjon. Nå gir jeg fem stjerner fordi appen ikke ber om posisjon, og fordi den er et meget viktig bidrag for smittesporing.<br> :date: __2021-02-04 09:34:19__
-
-> Last ned og vær med på "dugnaden" om å stoppe fysaken og få en bedre fremtid. 😃<br> :date: __2021-02-03 23:07:53__
-
-> God og fornuftig app for å forhindre spredning😀👍<br> :date: __2021-02-03 19:44:02__
 
 
 
@@ -260,6 +260,8 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
 
+> Etter siste oppdatering, sluker denne appen strøm må lade 2-3x i døgnet på lik linje om ikke mere enn den i som ble lansert i 2020. Synd da denne versjonen funket utmerket frem til nå nylig, får heller ikke så hyppige varslinger som mange besktiver max 2 i døgnet og disse er uten lyd. Håper på ny oppdatering der dette problemet blir fikset opp i.<br> :date: __2021-03-04 13:12:10__
+
 > Står appen nå skal støtte individuelle innstillinger for varsler. Men dette er ikke blir valg jeg klarer å finne i appen.<br> :date: __2021-02-24 15:33:09__
 
 > Konstant pushvarsel om oppdatering av posisjon. Hvert 5 min. Altså dobbelt så ofte som annonsert. Henger innimellom. Blir avinstallert hvis det ikke blir bedring.<br> :date: __2021-02-23 20:04:14__
@@ -277,7 +279,5 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Popup på mobilen så ofte at en blir sprø! Selv når den er slått av og jeg er hjemme. Avinstallerer den før jeg blir sprø!<br> :date: __2021-02-19 23:21:49__
 
 > Avinstallere møkka, push varsler hele tiden gidder ikke masete apper<br> :date: __2021-02-19 21:12:43__
-
-> Klikker hele tiden<br> :date: __2021-02-19 10:04:25__
 
 

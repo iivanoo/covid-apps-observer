@@ -213,6 +213,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
 
+> Es útil y aclara todo el lío de medidas. Pero al seleccionar tenerlo en español, los textos (salvo el primero) siguen estando en gallego.<br> :date: __2021-03-01 11:44:23__
+
 > Funciones e información de restricciones del concello donde vives. Para registrar el acceso o permanencia en un bar ó restaurante. Muy útil.<br> :date: __2021-02-26 20:20:43__
 
 > Resulta muy sencillo comprobar las restricciones de tu municipio. Y la idea del código QR aparenta muy práctica. Quizás hecho en falta el mapa con los municipios según restricciones<br> :date: __2021-02-26 11:57:16__
@@ -228,6 +230,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 3 reviews"/>
 </p>
+
+> La aplicación parece qué funciona bien, traé todas las medidas explicadas,la pena es que ni la gente ni los locales las cumplen.y llamas a las fuerzas del orden y pasan de todo.esto es la jungla.<br> :date: __2021-03-04 11:03:31__
 
 > HAY GRAVE PROBLEMA HAY BARES ESOS CODIGOS A ESCANEAR ,OURENSE MUCHOS NO LO TIENEN ES ILEGALIDAD,ESTA APP SE BASA CON ESA, INFORMACIÓN,VERAZ,XUNTA DEBE OBLIGAR,COLOQUEN LAS PUERTAS DE LOS NEGOCIOS,DISCRECION,SI VAS NO LO HAY NO TE LO VAN DAR SI NO ESTA A LA VISTA,HAY BARES BARRIO COVADONGA,NO PONEN MASCARILLA,EL TABERNERO,Y MUCHOS,O ESTO NO ES SERIO,CP,32001Y NO ESTA AL DIA CON LOS CAMBIOS,RESTRINCCIONES,HACERME CASO BARES BARRIO COVADONGA,CREEN SE CONOCEN SON VECINOS NO PASA NADA,NO ES JUSTO PO<br> :date: __2021-01-02 01:37:17__
 
@@ -275,6 +279,12 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> Porque quereis acceder a contenidos de internet? Mientras no saqueis ese requisito mucha gente, no aceptara<br> :date: __2021-03-04 19:54:38__
+
+> Non é mala, e peor. Información errónea. Non está actualizada. Solicita accesos como os contactos do teu teléfono sin ningún sentido. A quen lle ten que entrar sentidiño e a Xunta de Galicia. Máis trabas para a hostelería, menos privacidade para a sociedade.<br> :date: __2021-03-04 10:43:29__
+
+> Otra traba inútil para dar problemas a la hostelería. Voluntario para el cliente, obligatorio para el hostelero, otro sinsentido más.<br> :date: __2021-03-03 12:25:21__
+
 > No sirve para nada, además aunque la configures en castellano sigue poniendo todo en gallego , muy útil para turistas y todos los castellano parlantes.<br> :date: __2021-02-26 08:03:05__
 
 > Sin comentarios<br> :date: __2021-01-16 12:21:58__
@@ -288,11 +298,5 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > Voy a ajustes y pongo idioma castellano y toda la información está en gallego. Si tengo la opción de castellano, esa opción no existe?. Soy gallega y tengo el derecho de elegir. Sin comentarios.<br> :date: __2020-12-03 22:40:10__
 
 > Lo de la llave es algo complicado sacr lo de llave y que la persona se pueda rejistrar<br> :date: __2020-12-01 21:17:42__
-
-> Terrible. Después de una eternidad para sacar la chave365 porque los sms tardan un siglo en llegar, resulta que no me entra. Sale un cartelito de "entrando en passcovid.gal", otro de "cargando" y se vuelve al formulario de ingresar el DNI y la chave365. Patata de leira.<br> :date: __2020-12-01 14:36:12__
-
-> Decepcionante ! A mí no me sirve de nada.La información que me da ya la tengo cada dia en los informativos(pongo una estrella porque no me deja no dar ninguna)<br> :date: __2020-11-30 23:50:29__
-
-> Es mala y Liosa. Demasiados apartados. Con lo fácil que es, simplemente notificar si eres positivo o que te notifiquen si entre tus contactos hay alguno... Así, sin más.<br> :date: __2020-11-30 19:53:56__
 
 

@@ -141,6 +141,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Sehr großartige App sehr gut weiter verbessern und entwickeln vielen Dank<br> :date: __2021-03-05 23:40:30__
+
+> Sinnvolle App, endlich ist die Verknüpfung zu Samsung Health hergestellt. Jetzt nutze ich gerne die App.<br> :date: __2021-03-02 21:36:32__
+
 > Optimierung der Onlinefrequenzen und einer Tag genauen Information gibt diese App eine neue Version von Sicherheit auch beim Onlineshopping.<br> :date: __2021-02-22 16:56:31__
 
 > Ich würde ja gerne die App nutzen, aber entgegen der FAQ werden Samsung Health Geräte nicht unterstützt. Update: Nach Installation auf neuem Handy geht es plötzlich<br> :date: __2021-02-18 18:12:05__
@@ -156,10 +160,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Die App vor 3 Wochen installiert, funktioniert bis jetzt ohne Probleme mit der Fitbit Charge 4. Nun hoffe ich das diese App ihren Zweck erfüllt.<br> :date: __2021-02-01 13:35:36__
 
 > Leider nicht mit Samsung health verwendbar. Ich versuche das irgendwie mit google fit hinzubekommen. Ich weiß aber nicht wieviele Daten da mit samsung health synchronisiert werden.<br> :date: __2021-01-29 20:30:32__
-
-> Funktionierte unkompliziert auf meiner Garmin. Bis die Uhr den Geist aufgegeben hat. Mit meiner neuen Huawei Uhr lässt sich die App nicht mehr verbinden.<br> :date: __2021-01-29 09:26:07__
-
-> Corona Ap<br> :date: __2021-01-25 21:28:13__
 
 
 
@@ -197,6 +197,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
 
+> Sehr gute Idee. Daher ein Stern. Aber leider ist die App nicht zu gebrauchen. Samsung, Huawei oder auch Apple werden leider nicht unterstützt. Fitbit und GoogleFit sind allein nicht aussagekräftig genug. Sehr schlecht Umsetzung des Robert Koch Instituts. Habe eigentlich mehr erwartet. Heute 3.März neuer Versuch. Nun werden auch andere Hersteller unterstützt. Huawei und Apple fehlen aber leider immer noch.<br> :date: __2021-03-03 20:40:51__
+
 > Wäre schön, wenn die App direkt mit Huawei Health gekoppelt werden könnte und nicht nur über den Umweg über Google Fit. Dann würden mehr Daten automatisch zur Verfügung stehen, z.B. Sauerstoff Sättigung, Puls, Gewicht (Ich benutze ein Huawei Band 4 Pro). LG<br> :date: __2021-02-21 12:28:32__
 
 > Es ist immernoch nicht möglich die honor health app zu koppeln. Man muss nach wie vor den Umweg über google fit gehen. Google fit überträgt die Daten allerdings nicht zuverlässig. Schade.<br> :date: __2021-02-20 13:17:54__
@@ -215,8 +217,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Anscheinend will man von mir nicht mehr wie 66 Tage.. und dies ist schon über 2 Monate her 😒 Update: nachdem ich 120 Tage im Rückstand war, hat sich die App wieder die Tage geholt und ist "auf dem aktuellen Stand" Darstellung und Auswertung könnte ansprechender dargestellt werden..<br> :date: __2020-12-12 08:33:37__
 
-> Leider kann ich die App nicht, da mein MI Bank und die App dazu nicht auswählbar ist.<br> :date: __2020-12-06 11:36:38__
-
 
 
 #### 2-star reviews
@@ -224,6 +224,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
+
+> Eigentlich eine prima Idee. Leider kann ich nicht beitragen, da Huawei nicht unterstützt wird.<br> :date: __2021-02-27 14:19:43__
 
 > Leider mal wieder so eine halbgare und unispirierte Neuland-Anwendung, die so ziemlich alles falsch macht, was man falsch machen kann. Obwohl mit Steuergeldern finanziert nicht Open Source. Nur im Google Store erhältlich und nur mit Google-Diensten zu benutzen. Nur eine Handvoll teurer Tracker werden unterstützt. Der Benutzer erfährt seine Ergebnisse nicht (ja, ich weiss, dass ist noch Forschung... TROTZDEM!) Kurzum: Das gewohnte Elend, wenn Behörden was planen. Schade :-(<br> :date: __2021-02-17 11:56:23__
 
@@ -243,8 +245,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > 'Verbindung nicht möglich. Es ist ein Problem mit dem Server aufgetreten.' Leider kann so auch der willigste nicht helfen.<br> :date: __2020-12-27 11:51:46__
 
-> Einloggen bei Polar nicht möglich. System Huawei P30 Pro. Update : was für eine Fieberkurve wird da angezeigt, meine?<br> :date: __2020-12-22 07:45:30__
-
 
 
 #### 1-star reviews
@@ -252,6 +252,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Totaler Schmarrn. Könne ihr euch sparen.<br> :date: __2021-03-04 21:40:05__
 
 > Die Idee ist super, die Ausführung vor allen Dingen die Kompatibilität noch sehr dünn, für die mi-band Fitness Tracker unbrauchbar. Da gibt es wohl noch Hoffnung eine App zu bekommen die nicht mit heißer Nadel gestrickt wurde. Bis jetzt 22. 02.2021 ist nichts geschehen für Mifit. Warum eigentlich???<br> :date: __2021-02-22 10:29:11__
 
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich wollte es nicht glauben, aber Xiaomi als einer der drei größten Hersteller von Fitnesstrackern fehlt ja wirklich. Das ist ja, als wenn man eine Studie zur Autonutzung macht und den VW Konzern nicht anklicken kann. Oder Studie zur Smartphone Nutzung und Apple steht nicht dabei.<br> :date: __2021-01-30 09:00:36__
 
 > Deinstalliert!! RKI-akademische Datenspielerei 🤔 ohne Transparenz weil voll wenn aber vielleicht vorausgesetzt daß mit für den user undefinierten Fakten,Algorithmen, Ergebnis/Folgerungen ist Geheimnis der RKI Akademiker. Wie von unterschiedlichen Smartwatches u Fitclouds die Daten u in z bsp Google fit nur teilw. angekommen bleibt ein Geheimnis u ist nicht reproduzierbar. RKI gibt diese Daten für politische Entscheidungen, ganz schlimm. Ebenso die sinnlose App zu Corona Kontakten deaktiviert.<br> :date: __2021-01-27 09:27:07__
-
-> Ich hätte die App gerne genutzt um zu helfen, leider funktioniert die App nicht mit Mi Fit. Ich habe sie deinstalliert und hoffe, dass es diesbezüglich bald eine Erweiterung gibt . Dann bin ich gerne dabei<br> :date: __2021-01-27 00:11:55__
 
 

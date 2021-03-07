@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Es muy fácil y cómodo<br> :date: __2021-03-01 15:28:34__
+
 > Perfecte per l'Estat policial en el qual vivim!!<br> :date: __2021-02-27 07:40:50__
 
 > Fenomenal app para solicitar morbilidad<br> :date: __2021-02-26 15:03:49__
@@ -136,8 +138,6 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > acurada i informada<br> :date: __2020-11-10 09:42:11__
 
 > Molt bé. Clar. Avui faig dos trajectes. De Sant Boi a Cornellà i de Cornellà a Canovelles. No quedaria reflectit el primer trajecte<br> :date: __2020-11-01 10:44:04__
-
-> Util<br> :date: __2020-10-31 22:47:53__
 
 
 

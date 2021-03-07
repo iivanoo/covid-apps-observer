@@ -175,6 +175,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 5 reviews"/>
 </p>
 
+> Just testing it out<br> :date: __2021-02-28 18:10:38__
+
 > I had a virtual appointment with my Dr and it was very convenient.<br> :date: __2021-01-27 02:13:32__
 
 > So grateful for this app worked amazing for us!<br> :date: __2021-01-19 18:54:56__
@@ -192,8 +194,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Quality application provides what I need for virtual appointments<br> :date: __2020-12-18 18:09:44__
 
 > I have no problem with online care<br> :date: __2020-12-17 16:33:12__
-
-> Such a safe experience to get a simple treatment for non emergency issue. Thank you<br> :date: __2020-12-16 20:24:52__
 
 
 
@@ -283,6 +283,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 1 reviews"/>
 </p>
 
+> aweful. theres 4 buttons and none do anything<br> :date: __2021-02-27 21:17:28__
+
 > I am 14 and something is wrong with my heart but it won't let me sign up because I'm not 18 what am I supposed to do??<br> :date: __2021-02-20 18:30:28__
 
 > Tried going to look at my lab results from my cancer doctor and could not see them or even anything about her. Very disappointed<br> :date: __2021-01-24 17:52:04__
@@ -300,7 +302,5 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Completely useless app, freezes every time I open it. No menu pops up after the login screen. Android user.<br> :date: __2020-11-11 17:14:01__
 
 > Poor App, can't send a message to my doctor.<br> :date: __2020-11-09 14:17:26__
-
-> Always have trouble logging in I am very discouraged and the support number given is not the correct one<br> :date: __2020-10-29 16:16:29__
 
 

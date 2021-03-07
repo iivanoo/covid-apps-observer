@@ -128,6 +128,14 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Elpata<br> :date: __2021-03-06 05:29:16__
+
+> I like it<br> :date: __2021-03-02 01:51:35__
+
+> Secures privacy while still providing information on COVID exposure.<br> :date: __2021-03-01 22:08:15__
+
+> The underlying message is insuring individual privacy... I'm glad there is a way to get the word out via media tool kit.. nice....<br> :date: __2021-02-28 22:42:28__
+
 > Neve used it<br> :date: __2021-02-25 05:07:55__
 
 > Hello My Name Is Carolene Mae Sears And Yes I Have Have Been Falsely Caqused About What I May Have Said To The Public & What I Have On My Private Phone. Yes I Live In A Senior Apptarment One Of Four Buildings. Yes at First Things & Places That We Both Had Been To Had Been Closed Or Their Buiding had a improved or removed So Yes Would Go Out Just To Go Out For A Meal & Find Out Where The Different & Meet People That We'd Pass each & Say Hello To & Yes Because Just Met & Yes Nothing Important<br> :date: __2021-02-17 22:01:46__
@@ -139,14 +147,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > PRAYERS BLESSINGS ALWAYS FOREVER THANKS<br> :date: __2021-02-15 09:17:50__
 
 > I just let this app run it hasn't gone off yet so I guess that's a good thing. I hope more people install it so they have more data to work with and identify clusters and superspreader events with higher resolution.<br> :date: __2021-02-13 07:25:58__
-
-> Edit: I was told by someone I work with that they tested positive, however this app is not showing that info. That's concerning. I'm hoping more and more people download this app. I live in a small community so I'm not sure if I'm ever going to get a notification stating someone tested positive because I don't think many people know about this app. But there are a lot of positives reported to the news by our County Public Health Dept.<br> :date: __2021-02-12 21:18:36__
-
-> Incredibly beneficial<br> :date: __2021-02-11 20:46:05__
-
-> Download this app to be notified for possible exposure to Covid. You have to keep Blutooth on at all times for this app to work properly. Not battery intensive though.<br> :date: __2021-02-05 02:35:03__
-
-> Very useful, now I can stay home and be safe.<br> :date: __2021-02-02 10:20:01__
 
 
 
@@ -212,6 +212,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> It just used resources but I was never notified of any outbreaks.<br> :date: __2021-03-02 01:01:33__
+
 > How does this work? I read online but I don't get how it can tell if you have covid or not. Does it take the positive people's identities and connect it with the phone or do people with covid have to manually put in that they tested positive? If they have to manually put it in, it's unlikely that they will. I give it 2 stars for the effort but I don't understand how its suppose to tell who has covid or not.<br> :date: __2021-02-26 00:53:52__
 
 > CA Notify used to appear on my phone, but I can't see it anymore. I tried to download it again, and my computer says that CA Notify is installed on my phone. Why can't I see it there?<br> :date: __2021-02-24 20:14:24__
@@ -230,8 +232,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > this will work great if every single family get this app. now, 4 families got infected around my house and the app did not hit any allert<br> :date: __2021-01-18 20:28:51__
 
-> App doesn't do much. I think it works off blue tooth and if the other person has their Bluetooth on. I know for certain I've been danger close to numerous people that tested positive with covid-19, but app doesn't recognize that. I assume they need to report it to the app as well . It's a good idea, but requires too many variables to line up.<br> :date: __2021-01-16 10:21:31__
-
 
 
 #### 1-star reviews
@@ -240,9 +240,13 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
 
-> Does it even work? At the very least tell us how many devices did u check per day, if others are not using this service, it's just using my battery for nothing<br> :date: __2021-02-25 20:14:10__
+> If I could rate this no stars I would. Do not download stuff on to my phone without my permission. Disgusting.<br> :date: __2021-03-06 03:57:35__
 
-> Just want to complete app for covid19 1st injection.<br> :date: __2021-02-24 19:19:59__
+> Doesn't do anything<br> :date: __2021-03-03 19:14:08__
+
+> My roommate had covid and this app showed no exposure. I was around him the whole time, fortunately I didn't get it. I've been around others who were positive and the app still said no exposure. It's useless. Uninstalling.<br> :date: __2021-03-02 02:07:57__
+
+> Does it even work? At the very least tell us how many devices did u check per day, if others are not using this service, it's just using my battery for nothing<br> :date: __2021-02-25 20:14:10__
 
 > Never worked<br> :date: __2021-02-21 23:25:40__
 
@@ -255,9 +259,5 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > I have been in contact with someone who has had covid.<br> :date: __2021-02-18 01:58:45__
 
 > Doesn't work my friends tested Positive never got notified. They also have the app and put in that they had tested positive.<br> :date: __2021-02-17 15:51:56__
-
-> Do not work on my phone. Always "Something went wrong"<br> :date: __2021-02-12 07:36:00__
-
-> Creepy and invasion of privacy<br> :date: __2021-02-12 07:10:24__
 
 

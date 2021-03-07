@@ -168,6 +168,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 4 reviews"/>
 </p>
 
+> Goed.<br> :date: __2021-03-05 01:50:28__
+
 > Goede ervaring, duidelijk<br> :date: __2021-01-01 14:18:12__
 
 > Bij mogelijk Covid-19Besmetting (bijv. door CoronaMelder app gemeld): Met covid19Radar kan men na een patientstatus-verandering, dit doorgeven. Men zou ook Griep- en Covid19-VACCinnaties-met xxx moeten kunnen registreren, later eventuele bijwerkingen Als men last van HooiKoorts of andere onderliggendeZiektes heeft, kan men wel Zelf beoordelen of iets al-of-niet toch een Covid-19Symptoom is.<br> :date: __2020-12-03 05:53:58__
@@ -185,8 +187,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Sommige schuiven zijn nogal aanraakgevoelig, geeft onbedoeld verkeerde waarden. Sinds de laatste update valt de Versturen knop over de laatste schuif heen en is niet meer bereikbaar.<br> :date: __2020-04-24 21:18:13__
 
 > Laatste vraag kan niet worden ingevuld, het veld "Versturen" staat ervoor en dus in de weg. Verder een onzinnige vraag over 5 meter afstand. Als je alleen al aan het fietsen bent, komt iedereen die je tegenkomt binnen die 5 meter....<br> :date: __2020-04-24 08:12:08__
-
-> Heel makkelijk de app opent direct.<br> :date: __2020-04-23 19:24:13__
 
 
 

@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Nice app...works well<br> :date: __2021-03-01 17:11:35__
+
 > Fantastic App.<br> :date: __2021-02-25 16:40:16__
 
 > This app not only helped during Covid, but it also helps my every day anxiety and depression!!<br> :date: __2021-02-24 20:58:21__
@@ -157,8 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Highly recommend it. I worked in a very demanding environment where there wasn't enough support. Using this coupled with professional help maximize the experience.<br> :date: __2021-02-03 18:14:23__
 
 > Very helpful and informative<br> :date: __2021-02-02 19:54:22__
-
-> I don't know why I resisted using an emotional support app but I did. Originally I downloaded this Covid Coach to evaluate it before recommending it to tech preference friends. Now utilizing this app for myself is supportive in ways that surprise me. It reminds me to USE the tools I have which allows me to have more choice in my days & nights. This ultimately allows me to have a life more of my choosing. By acknowledging where I'm at with my scheduled check-ins I choose what to do from there.<br> :date: __2021-02-02 13:12:27__
 
 
 
@@ -217,6 +217,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 1 reviews"/>
 </p>
+
+> Covid19 not real because tree give free oxygen<br> :date: __2021-03-02 02:34:37__
 
 > Why do I have to allow this app to access my photos? I installed it and uninstalled. Please, explain why need access to my files .<br> :date: __2021-02-26 23:48:21__
 

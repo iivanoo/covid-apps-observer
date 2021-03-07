@@ -166,6 +166,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="3_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> I am positive for covid. It wants a code but don't tell me how to get code<br> :date: __2021-03-03 05:31:00__
+
 > No idea if it is working or what it is doing<br> :date: __2021-02-23 18:52:47__
 
 > I live is a low income high-rise housing unit that's dealing with a outbreak and the county health department knows because my social worker knows but yet instead of a app I downloaded to inform me of such risks I found out from paper signs that have to keep being reposted because some people can't leave them alone you would think the state would track outbreaks in mainly senior elderly housing units and issue appropriate notices.<br> :date: __2021-02-18 04:54:03__

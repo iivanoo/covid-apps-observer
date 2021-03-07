@@ -124,6 +124,8 @@ The UT Exposure Notifications app has been installed by more than **10000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Easy to use and gives piece of mind<br> :date: __2021-03-06 02:21:08__
+
 > I downloaded this just for fun. Let's see if it can brainwash me or feed me fear 🐑🐑<br> :date: __2021-02-25 17:08:37__
 
 > We're currently wasting millions of vaccines on people who have already had covid and are likely immune, but don't know it. Do your part for getting society up and running by downloading this app, getting tested, and not being a weirdo about masks. We all want the end of the pandemic.<br> :date: __2021-02-23 21:46:23__

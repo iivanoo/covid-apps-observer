@@ -197,6 +197,16 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Overall great! Addressed my issues with care & understanding.<br> :date: __2021-03-04 05:34:59__
+
+> I was able to set up my account and talk to the doctor in less than 15 minutes (this includes the time that I spent on the phone with the doctor). I would highly recommend!!!<br> :date: __2021-03-03 23:36:54__
+
+> 2nd time using the online doctor visit. Both good experiences. Better than going into a possible covid infested waiting room. I used my phone and had no issues with the connection at all. This will always be my 1st choice if it's something that can be diagnosed over video chat. I was only billed $59 so no complaints about that at all. Wait time was less than 10 minutes.<br> :date: __2021-03-02 03:25:14__
+
+> Excellent experience, the doctor was very professional and friendly<br> :date: __2021-03-01 13:57:10__
+
+> Very easy to use, right from home...thanks<br> :date: __2021-02-28 15:29:07__
+
 > Convenient<br> :date: __2021-02-20 13:41:28__
 
 > Excellent<br> :date: __2021-02-17 20:30:36__
@@ -207,16 +217,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 
 > Have done an in person visit yet but it works nicely<br> :date: __2021-02-08 02:42:03__
 
-> Doctors are nice and usually not a long wait.<br> :date: __2021-02-06 19:45:59__
-
-> Worked very well. Be sure to have any PCP information and any of your meical history, allergies & list of medications to speed things up.<br> :date: __2021-02-03 00:22:30__
-
-> Fast an simple respectful<br> :date: __2021-02-02 19:59:05__
-
-> Very Professional and helpful<br> :date: __2021-02-02 17:38:03__
-
-> Easy!!<br> :date: __2021-02-02 12:51:55__
-
 
 
 #### 4-star reviews
@@ -224,6 +224,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 4 reviews"/>
 </p>
+
+> Overall good experiences, perosnel were very educated. The video quality was a little spotty but did not dissrupt my visit.<br> :date: __2021-02-28 02:13:16__
 
 > Easy fast option<br> :date: __2021-01-25 20:59:30__
 
@@ -242,8 +244,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Good experience little bit of video jumping cutting in and out! Doctor was good felt confident he knew what he was talking about<br> :date: __2020-07-18 17:27:11__
 
 > Ok<br> :date: __2020-06-10 13:04:51__
-
-> Good. Easy to follow.<br> :date: __2020-06-08 16:05:59__
 
 
 

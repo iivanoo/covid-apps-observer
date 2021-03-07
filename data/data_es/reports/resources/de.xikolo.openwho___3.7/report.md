@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> HPI<br> :date: __2021-03-06 01:48:22__
+
 > Muy buena<br> :date: __2021-02-25 01:30:55__
 
 > Es excelente aunque este en Inglés, nos ayuda mucho a seguir aprendiendo y ganar certificados<br> :date: __2021-02-08 18:12:25__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Excelente para aprender de forma gratuita, aquellos que se quejan del inglés DEBEN aprender a hablar inglés ya que es necesario para cualquier médico.<br> :date: __2020-09-21 19:37:37__
 
 > The best way to learn<br> :date: __2020-09-12 00:34:57__
-
-> Buena<br> :date: __2020-08-23 08:33:07__
 
 
 

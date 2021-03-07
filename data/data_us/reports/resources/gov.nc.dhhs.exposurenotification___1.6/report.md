@@ -131,6 +131,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> This is What A Lot of Us Need and i Say Thinks,, For This =May-(GOD){Blessing)-You and your Compomey.<br> :date: __2021-03-03 08:36:18__
+
 > Excellant App!! Works beautifully. Accurate. On point.<br> :date: __2021-02-25 05:09:07__
 
 > So you know everybody status!!..??<br> :date: __2021-02-25 01:34:37__
@@ -148,8 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Great<br> :date: __2021-01-29 20:21:02__
 
 > After i re-installed the app on 1/27/21, the app is working great! No exposures as of today at 3:42am! Thanks to developers who suggested this fix!!<br> :date: __2021-01-29 13:54:29__
-
-> Kool app! However, still trying to figure out how it exactly works 🤔. After careful review........ Now I see all 🇺🇲 States whom reported their results......TOTALLY AWESOME APP. LOVE 💘 IT!!!<br> :date: __2021-01-26 06:44:02__
 
 
 
@@ -187,6 +187,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
+> Have recently uninstalled and then reinstalled this app. Seems to be working since I can see the date change from last check, but one problem, if this app has been downloaded by so many how is it that when I go to the store around a lot of people, there's no show that I may have been exposed. I'm pretty sure that majority of these people have the app, and care for others to turn it on correctly?.<br> :date: __2021-03-02 14:35:51__
+
 > It's a good idea if that it would keep up to date. The last time mine checked in was back on December 24th 2020. My app is up to date also..<br> :date: __2021-02-26 16:30:10__
 
 > App works well in theory. Tested positive and never was able to get my pin to report positive result. Now app no longer checking for notifications. Hasn't checked for any since January 2, 2021<br> :date: __2021-02-08 03:18:18__
@@ -205,8 +207,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > Dont know if it really works<br> :date: __2021-01-11 15:02:14__
 
-> Just need more people to use it.<br> :date: __2021-01-08 17:20:33__
-
 
 
 #### 2-star reviews
@@ -223,8 +223,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I am becoming increasingly disappointed with this app. It hasn't checked exposure since January 5th 2021, that's over 5 weeks ago. Seems a pointless app. I have been opening the app almost daily. And yes, it is the latest update according to the app store and it is on the do not sleep list. Even today, Feb 15th, the last exposure check was Jan 5th.<br> :date: __2021-02-15 14:25:51__
 
-> Was good in the beginning when the app first into being, but has gotten slack. On the main page of the app it just has that I was last notified on the 6th January 2021, and has not changed since. Thinking of deleting the app because it seems that you can't trust anyone these days. Sacrificed my 2020 year, and maybe more to come, to take care of my father by myself, no other family or friends and would like to know if I have been exposed. May have to sacrifice my life and go back to work soon.<br> :date: __2021-02-09 03:10:27__
-
 > This app used to update daily to show potential exposures. Here we are on Feb 1 and app last updated exposures on Jan 17. Perhaps funding ran out. I will be deleting this app. Update: Ultimately had to uninstall and reinstall. Will see if it updates regularly.<br> :date: __2021-02-02 15:24:09__
 
 > I had the app for a few months, but I never got a notification. Either COVID didn't exist where I was, or people are not using the app properly. Looking at the other reviews I'm going to go with people aren't using the app properly with no fault of their own. If it's difficult to get a pin on the app then people will be less likely to log their positive results.<br> :date: __2021-01-27 17:45:33__
@@ -235,6 +233,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I havent had an update since December 26, 2020. What has happened to this app<br> :date: __2021-01-21 03:02:27__
 
+> I tested positive at a minute clinic. When I tried to enter my positive result it didn't have my information. I called and got a PIN, but when I entered it, the app still wouldn't take it. I was able to notify everyone I was in contact with that I knew, but I was out in the world a good bit.<br> :date: __2021-01-19 22:28:39__
+
 
 
 #### 1-star reviews
@@ -242,6 +242,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
+
+> Never contacted me!!!<br> :date: __2021-03-04 19:53:10__
+
+> Exposure last checked on 2/8. It is now 2/28. Exactly what is the usefulness of that? I am using the latest update.<br> :date: __2021-02-28 18:57:53__
 
 > UPDATE!! (""NOT RECOMMENDED"")!! don't download!! only trust the news on tv!! i would not trust these apps because i have heard on the real news that these could possibly be scams and there have been some reports that people did get scammed!!!<br> :date: __2021-02-27 05:10:59__
 
@@ -258,9 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Will not allow me to setup a pin to share my test results. States that the last time it's checked my exposure was 2 months ago!<br> :date: __2021-02-22 22:54:49__
 
 > Same as to subscribers above... Update stopped in early January. I do have the latest version of the app 1.6 on Android. I have auto update set for this app as well. Someone needs to actually look into this.<br> :date: __2021-02-22 03:37:43__
-
-> The app is not working, it has not checked for exposure since January 9th. I keep seeing where they are telling people to go to Device Care > Battery ..... That does not exist on my phone, they must be giving instructions for an iPhone.<br> :date: __2021-02-21 19:18:48__
-
-> I know for a fact I've been exposed since this app was installed in my phone and I've never been notified. Luckily I'm smart enough to be tested<br> :date: __2021-02-17 04:31:34__
 
 

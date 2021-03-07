@@ -137,6 +137,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Gostei muito de poder instalar esta app sobre a exposição á Covid - 19 e posso garantir a sua total fiabilidade!<br> :date: __2021-03-05 09:59:01__
+
+> Muito importante p a imunidade de grupo e ver wurm sao os assintomaticos. Muit boa app. Parabens<br> :date: __2021-03-03 14:18:11__
+
 > O 😯😯😯😯😯😯🙎🙎🙎🙎 .<br> :date: __2021-02-24 23:19:49__
 
 > Muito bom<br> :date: __2021-02-23 23:23:24__
@@ -152,10 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > É uma opção escolher esta app. Aconselho a aderirem<br> :date: __2021-02-17 12:18:22__
 
 > Excelente<br> :date: __2021-02-17 11:56:27__
-
-> Tudo Bom.<br> :date: __2021-02-13 12:51:31__
-
-> Bom<br> :date: __2021-02-12 15:48:31__
 
 
 
@@ -221,6 +221,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
 
+> O código não é fornecido automaticamente por nenhuma entidade, portanto quem fica doente tem que se lembrar de o pedir nas 2/3 vezes em que fala com alguém. Um bocado inútil, assim.<br> :date: __2021-03-02 01:39:09__
+
 > Aplicação inútil quando se é das poucas pessoas a utilizá-la... falta de conhecimento sobre o funcionamento da aplicação faz com que as pessoas não a utilizem, porque sentem "a sua privacidade a ser invadida". Apesar de os seus dados estarem a ser partilhados noutras aplicações. A única crítica que tenho a cerca da aplicação é que devia ter uma aba onde mostrasse as restrições actuais o que se pode e o que não se pode fazer.<br> :date: __2021-02-12 14:24:11__
 
 > Deveria ser a entidade que confirma que a pessoa está infectada a adicionar essa informação à aplicação (automaticamente) e não os utilizadores! Deste modo a aplicação nunca terá benefícios práticos!!!<br> :date: __2021-02-10 22:18:45__
@@ -239,8 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > A APP está constantemente a desligar-se devido às optimização da bateria, quando a mesma está desactivada..<br> :date: __2021-01-26 19:25:06__
 
-> Já estive positiva e já recuperei e não recebi nenhum código do SNS. Era suposto esta App ser útil mas nem para os meus familiares serviu. Revejam isto PF.<br> :date: __2021-01-21 11:11:36__
-
 
 
 #### 1-star reviews
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Belo tledo<br> :date: __2021-03-06 02:16:17__
+
+> Não serve de nada<br> :date: __2021-03-04 00:31:55__
+
+> Só invenções inúteis devoradoras de bateria. 😒<br> :date: __2021-03-03 13:43:49__
+
+> Totalmente inutil. Podiam enviar os codigos automaticamente por sms para quem está infectado mas não enviam nada. Isto torna a app totalmente inutil.<br> :date: __2021-03-01 15:27:34__
+
+> Esta app nao presta para nada a nao ser ocupar espaço e deixar o telemovel lento<br> :date: __2021-03-01 14:49:43__
+
+> Aplicação inútil se não há códigos gerados.<br> :date: __2021-02-28 19:03:22__
+
+> Não vale nada<br> :date: __2021-02-28 05:39:08__
+
+> Ja alguem viu isto funcionar?<br> :date: __2021-02-27 21:19:10__
+
 > M3rda!! Tudo fachada!! Uma completa farça!! Se não queres apanhar covid não é a app que te salva. Tens de utilizar mascara, respeitar o distanciamento e higienizar as mãos para te precaver. E a vacina é treta!! Não houve tempo para testar a vacina como deve de ser. Quem acredita que isto é a salvação para o covid anda a dormir na vida. Sem travão ninguém nos quê? Sem travão ninguém nos pára. Boca calada nunca xibo na nha brada Mesmo levando porrada Manto e firme o pé na estrada FK gang 🔞😤😤🔞<br> :date: __2021-02-27 10:51:45__
 
 > O nome é stayaway covid mas mesmo assim apanhei covid, pensando que este APP ia fazer com que o covid ficasse longe de mim.<br> :date: __2021-02-25 23:07:47__
-
-> Useless, my friends.<br> :date: __2021-02-25 22:16:45__
-
-> não vale a pena mesmo lol.<br> :date: __2021-02-25 17:20:30__
-
-> Não funciona<br> :date: __2021-02-23 23:40:56__
-
-> Não presta e não serve<br> :date: __2021-02-23 01:00:52__
-
-> Péssima! Não faz sentido, só ocupa espaço necessário para aplicações mais importantes.<br> :date: __2021-02-21 21:44:55__
-
-> N da nada muito fraco<br> :date: __2021-02-21 20:24:01__
-
-> Só têm um problema! NÃO FUNCIONA<br> :date: __2021-02-21 05:09:45__
-
-> Muito obrigado pela atenção e disponibilidade para me ajudar a resolver o problema com a maioria da minha empresa e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me fez sentir bem e que me faz sorrir sempre.<br> :date: __2021-02-18 16:17:46__
 
 

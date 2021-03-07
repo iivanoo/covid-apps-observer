@@ -126,6 +126,8 @@ The Corona Health app has been installed by more than **1000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.dbis.haugxhaug.coronahealth 5 reviews"/>
 </p>
 
+> Sehr gute App!!! Nur leider manchmal Fehlermeldung von wegen keine Internetverbindung wa sich aber hab. Es funktioniert aber trodstdem.<br> :date: __2021-03-02 21:55:49__
+
 > Immer wieder Infos uebr u um covid. Kurzer teaser, mit link.<br> :date: __2021-01-28 19:49:32__
 
 > Sehr hilfreiche App<br> :date: __2020-12-18 10:38:25__
@@ -143,8 +145,6 @@ The Corona Health app has been installed by more than **1000** times. At this ti
 > Eine tolle Initiative und hervorragend durchdachte App, bei der man auf einfache Weise zu internationaler Forschung zum Coronavirus beitragen kann. Klare Empfehlung und Gratulation zu dieser Idee und der Umsetzung!<br> :date: __2020-08-07 11:17:52__
 
 > Super App!<br> :date: __2020-08-04 18:12:03__
-
-> Coole App!<br> :date: __2020-08-04 17:22:32__
 
 
 

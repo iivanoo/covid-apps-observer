@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFsdftVZL2J3Vj6RLEV6VCRtcbEJjdwIAvycfokd5O3tawDoOGSREqM-CGOyvT4IskCnxesW788IO8r_gQ",
+        "userName": "Dani Piot",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi06oHk618ClLGyx6zHlbDAindLOhqTDpQzRhiVyA",
+        "content": "Pat\u00e9tica y no ayuda en nada. Una aplicaci\u00f3n m\u00e1s para que te controlen a cambio de nada. Cualquier cosa llama a tu CAP. Esta aplicaci\u00f3n es in\u00fatil.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-03-04 11:59:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEngqLyrSrNIcINJ5sFOIzdQsgf-QUBspZvTu11P3e3x94jmSia7nL7xbNzHxR7xt8B8MwzlT8iFwpsd-8",
         "userName": "Rafa",
         "userImage": "https://play-lh.googleusercontent.com/-C6Zw4MmAwH4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclM8U2NYaPvlhUEeLvJh_1W_FdsKg/photo.jpg",
@@ -29,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-u5cPi20USLQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGmLmKjc5oyU-HBhqA1dXvOhR3pg/photo.jpg",
         "content": "No sirve de nada,yo he dado positivo y tengo casi todos los s\u00edntomas y fuertes. Seg\u00fan la App s\u00f3lo pone \"Podr\u00edas ser positivo \"",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-01-19 21:30:19",
         "replyContent": "Gracias por comunicarnos su caso. Estamos mejorando la aplicaci\u00f3n.",
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLVpDxe9795egDa9M72QSQlfM14Lp_foph8TTwRg",
         "content": "No sirve de mucho bajo mi humilde opini\u00f3n... ayer me hicieron el test r\u00e1pido que suelen hacer antes del pcr y di positivo con s\u00edntomas evidentes tales como p\u00e9rdida de olfato, gusto, fiebre, etc.. seg\u00fan el test de \u00e9sta app no tengo s\u00edntomas... cosas a mejorar, ah\u00ed lo dejo.",
         "score": 1,
-        "thumbsUpCount": 17,
+        "thumbsUpCount": 18,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-01-12 11:55:26",
         "replyContent": "Gracias por comunicarnos su opini\u00f3n que vamos a trasladar a los responsables para su mejora",
@@ -506,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOENTOoQTn5sDhS30_lohK4kzf8ZmI1f1oyok1Cc5cOWxSo1awGfmQKpCU-h-QDcGqKrdVQ3eoqbUSsjPL8",
         "userName": "Joan Rivas Alvarez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghsj4Lx3Nsm-Ext_ANhmglZ87r2f14D7uNMz5IcJA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGpvpUq2jFgeocnM94VmCDztvgRnwZNmjxZKg1dg",
         "content": "Va b\u00e9 per controlar els s\u00edmptomes. Hauria d'estar integrada dintre de La Meva Salut, juntament amb Radar Covid.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1466,7 +1478,7 @@
     {
         "reviewId": "gp:AOqpTOEpwPVohXvM_6Gn7D0qQlhpUS_fDiMMs2UjSd8vLp16fIuO6hMrtJ5ymhLw1w7NA-l4D3j9JlfoGomnhRU",
         "userName": "Ra\u00fal BC",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjF7H9X0x2LalornL39KZm6umFrVwkvJPxBE9_Bs7U",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6XlKClHh2gbxFzKTFPwN46IfqKeVha9D4SjPWY4Q",
         "content": "A casa som 4 i solament guarda el CIP de l'\u00faltim. \u00c9s podria buscar la forma de que els guard\u00e9s",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2857,7 +2869,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF7ax95pCUSF16w3aTdM0pldL-BNAJ1-R2XhbSW8q7VI522eds1ak7FYbZSK6WQ5aVa2OjHhGtnurAGeQk",
-        "userName": "CuEsCo\u2022CuGo 8",
+        "userName": "CUGO 16",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0dHGDe9cf9Y5cExjQJHQVFlZd3G9Yn6_4iLepxQ",
         "content": "\ud83d\ude09",
         "score": 5,

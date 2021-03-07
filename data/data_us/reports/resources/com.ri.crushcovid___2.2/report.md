@@ -237,6 +237,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Good concept but it stopped tracking, which is a major function of the app. I deleted and downloaded again and still no tracking, so finding a reason to keep hard to come by.<br> :date: __2021-02-28 21:08:49__
+
 > My app hasn't tracked my location since Dec 23, 2020. It has said it is "in progress" since then.<br> :date: __2021-01-09 15:25:09__
 
 > Rarely works<br> :date: __2020-11-19 15:46:15__
@@ -254,8 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Battery not working charging likely from multiple ConVid19 tracker, in DC and other areas people may be running different apps from other states like Virginia and miss encounters...<br> :date: __2020-08-24 10:03:37__
 
 > Location tracker doesn't work<br> :date: __2020-08-19 17:52:53__
-
-> Location has never worked even though all settings and permissions have been done. My phone with Google maps me correctly on the few occasions I went out, so I know the phone functions work . What is the problem with this?<br> :date: __2020-08-17 20:09:30__
 
 
 

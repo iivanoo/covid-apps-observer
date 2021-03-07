@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Etisalat<br> :date: __2021-02-27 11:25:44__
+> Not working<br> :date: __2021-03-06 12:53:34__
 
-> my mub this apps not working this whats happen<br> :date: __2021-02-27 10:41:43__
+> Good.<br> :date: __2021-03-06 10:56:31__
 
-> Simplest to protect yourself and others<br> :date: __2021-02-27 09:02:13__
+> good<br> :date: __2021-03-06 07:21:34__
 
-> Hh<br> :date: __2021-02-27 08:25:39__
+> Good<br> :date: __2021-03-05 19:44:44__
 
-> Very gud app<br> :date: __2021-02-27 06:16:06__
+> I to much try but only come like this. Unfortunately has stopped<br> :date: __2021-03-05 15:56:35__
 
-> Very nice<br> :date: __2021-02-26 20:47:35__
+> Excellent<br> :date: __2021-03-05 13:37:53__
 
-> I like it.very good app for uae<br> :date: __2021-02-26 17:51:03__
+> Good<br> :date: __2021-03-05 11:53:27__
 
-> Good<br> :date: __2021-02-26 15:54:18__
+> Very good<br> :date: __2021-03-05 08:51:48__
 
-> Good<br> :date: __2021-02-26 15:48:38__
+> Nice app<br> :date: __2021-03-05 06:30:07__
 
-> Super Apps<br> :date: __2021-02-26 14:29:26__
+> Good<br> :date: __2021-03-04 16:38:07__
 
 
 
@@ -174,6 +174,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Good<br> :date: __2021-03-04 16:22:15__
+
+> Good<br> :date: __2021-03-03 12:07:45__
+
+> Nice<br> :date: __2021-03-03 09:25:09__
+
+> Really amazing application।But I applied the covid 19 vaccine. Its been 1 month yet the result has not come Please tell me why my vaccine result did not come thanks please reply me thanks<br> :date: __2021-03-03 09:24:29__
 
 > My registered mobile number is expired... how can I login with another number<br> :date: __2021-02-25 16:33:16__
 
@@ -187,14 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > فحصت بتاريخ 16/1 في خمية صحة الكورنيش ابوظبي والى تاريخ اليوم لم نظهر النتيجة ونزلت علي مخالفة 5000 درهم وقدمت تظلم للأسف هذه المرة الثانية لا تظهر النتيجة علما بأن صحة أرسلت لي رسالة بالنتيجة.<br> :date: __2021-02-20 09:45:18__
 
-> tth<br> :date: __2021-02-18 15:47:02__
-
-> Good<br> :date: __2021-02-18 04:38:05__
-
-> Working well<br> :date: __2021-02-12 07:47:56__
-
-> Good<br> :date: __2021-02-09 17:47:36__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,14 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Keep crashing, test results are not updating for past 2 days.<br> :date: __2021-03-04 05:58:17__
+
+> Good<br> :date: __2021-03-03 11:02:12__
+
+> Errors occur<br> :date: __2021-03-03 10:41:48__
+
+> Great to knowing my status<br> :date: __2021-03-02 09:58:14__
 
 > Nice app<br> :date: __2021-02-26 14:20:05__
 
@@ -215,14 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > It's not easy to access<br> :date: __2021-02-19 07:53:06__
 
-> It worked but now it's not even loading<br> :date: __2021-02-18 11:46:09__
-
-> My old no. is not longer in service it means my sponsor cut it.. I reinstall my al hosn to put my new number that already exists to my pcr test clinic.. The problem now I can't sign in it said try again later or contact etc.. I did many times to sign in and contact the costumer services but the same.. Pls help me what should I do to activate my al hosn.. God bless to all<br> :date: __2021-02-18 11:35:57__
-
-> AL HOSN APP HAS STOPPED WORKING IN MY MOBILE. WHATS GOING ON ANY UPDATES. I NEED TO ENTER ABU DHABI. HOW I WILL ENTER WITHOUT AL HOSN APP. ANY ONE GOING THROUGH THE SAME. WHAT ABOUT THE CHECKPOINT POLICE. HOW WE CAN SHOW THEM THE E LOGO WHICH WE USE TO SHOW THEM IN AL HOSN APP<br> :date: __2021-02-18 11:24:58__
-
-> I download this app but not working I don't know why,<br> :date: __2021-02-17 21:20:20__
-
 
 
 #### 2-star reviews
@@ -231,25 +231,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
 
+> The regulations that shows that you are vaccinated only after 28days of the 2nd dose and only if you keep taking PCR tests make no sense. A vaccination is a vaccination. It should not be dependent on PCR. And the 28 days gap also makes no sense, if you got 2 doses it should reflect on the app along with your last pcr test and status.<br> :date: __2021-03-04 15:34:47__
+
+> It doesn't show that I got vaccinated, though itsalready 3p days from the second dose. So e tests are also missing. Customer service don't respond to calls, and there is no way to co tact anybody.<br> :date: __2021-03-04 14:41:09__
+
+> Its not working my samsung s9 mobile<br> :date: __2021-03-04 08:50:26__
+
+> Not loading user information today.. same with iPhone<br> :date: __2021-03-03 13:00:01__
+
+> Frezze all the time ,have to unistall. And start over<br> :date: __2021-03-03 12:09:08__
+
+> وايد يعلق ولا يسوي تجديد للبيانات<br> :date: __2021-03-03 09:19:27__
+
+> Costumers service no one answer<br> :date: __2021-03-02 19:53:24__
+
+> Test results need to he uploaded MUCH FASTER. Waiting 3 days for a result to show on the app is unacceptable.<br> :date: __2021-03-02 07:50:21__
+
+> This app no updates covid test results ferfect<br> :date: __2021-03-01 04:38:36__
+
 > Good<br> :date: __2021-02-27 02:47:16__
-
-> i down loaded on 22 feb and i try many times but unable to login because its showing error so i think no benifts for this app.or fix it pkease<br> :date: __2021-02-26 15:56:54__
-
-> Consume too much battery life<br> :date: __2021-02-23 15:39:55__
-
-> No customer support<br> :date: __2021-02-19 07:55:05__
-
-> Instructions are not clear, no contact number for a help centre, interface is clean but doesn't give enough info to the user. Design of the app makes a person feel that they have to go for a test but doesn't consider the time passed since last infection. Statuses should be re-evaluated. Location permissions has to be always on but doesn't say why. Annoying notification to fight COVID which you cannot fully read.<br> :date: __2021-02-19 06:06:07__
-
-> I vaccinated second dose, already pass 28 days, i done PCR test on 28th days, i received PCR Test results, Al Hosn Apps updated PCR test results on mobile, but status E not appeared on mobile.<br> :date: __2021-02-19 04:13:20__
-
-> Stuck in loading<br> :date: __2021-02-18 13:53:34__
-
-> Some times not working<br> :date: __2021-02-18 11:55:37__
-
-> Why not opan this aap today im in dubai road ples wana help<br> :date: __2021-02-18 11:17:29__
-
-> Some times my results uploaded jnto app, sometimes no. Costumer service line not working. Email bouncing back. Horrible.<br> :date: __2021-02-18 10:00:00__
 
 
 
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Very bad app we just stuck here on dessert like this worst<br> :date: __2021-02-27 11:08:22__
+> Is there any solution for updating vaccination E symbol in the app.. I had completed 28 days and done two Covid tests..😔 still no updation<br> :date: __2021-03-06 12:27:31__
 
-> Id<br> :date: __2021-02-27 06:39:14__
+> I can't see my Corona test, so please if any one know another app show the Corona test<br> :date: __2021-03-06 09:12:23__
 
-> Slow<br> :date: __2021-02-27 03:34:14__
+> Worst app.ever,technical support NO. Is not working keep asking to leave voice message and didn't allowed you to leave it.<br> :date: __2021-03-06 08:29:34__
 
-> This application is not working in my Samsung note 8 when I install and open it show me a message App info and uninstall can't be open properly<br> :date: __2021-02-26 18:25:39__
+> Pathetic app and even worse is the technical support. Technical support mailbox is full and they won't pickup the phone. The app doesn't have very basic functionality like changing mobile number. If you don't know how to make app then why it is mandatory for every purpose. Either update this app or kill it, it's rather easy to get results through SMS.<br> :date: __2021-03-06 08:11:42__
 
-> Terrible experience. No support if something goes wrong.<br> :date: __2021-02-26 16:39:56__
+> I completed my 2nd dose of vaccination on 27 of January but in alhosn application didn't updated yet..<br> :date: __2021-03-06 07:30:24__
 
-> It doesnt work. Customer service also doesnt work.<br> :date: __2021-02-26 13:21:26__
+> the app doesn't update on time, i got tested 3 times since feb. 22 and still the result from that day is still posted up to now, how frustrating i badly need this result for my work... and i uninstall and install it again but it didn't work<br> :date: __2021-03-06 03:16:52__
 
-> Worst Customer care ever. Bunch of fools are handling the customer service, no reply no assistance no knowledge. Mandatory to use the app to cross the border however.<br> :date: __2021-02-26 12:23:10__
+> The most disgusting app I have come across<br> :date: __2021-03-05 22:50:32__
 
-> Doesn't even open<br> :date: __2021-02-26 12:23:08__
+> البرنامج خارج الدولة لايعمل واحاول فتخه منذ حوالي الأسبوعين وحذفته وحملته اكثر من خمسه مرات<br> :date: __2021-03-05 20:28:45__
 
-> Not reliable app<br> :date: __2021-02-26 12:19:44__
+> good mission<br> :date: __2021-03-05 18:25:41__
 
-> I've been trying to use the app but it doesn't move beyond welcome page. The page just stucks. Previously it'd ask permissions but no more. I'm traveling worried how I am gona get the result. Anybody any clue?<br> :date: __2021-02-26 09:38:38__
+> Very bad app because you are not updating my status.<br> :date: __2021-03-05 15:40:05__
 
 

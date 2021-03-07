@@ -193,6 +193,10 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> Very Excellent Thank You<br> :date: __2021-03-02 09:16:12__
+
+> Does what I need it to do<br> :date: __2021-03-01 15:58:28__
+
 > Used to be a time , when i was healthier than a horse 😡<br> :date: __2021-02-23 15:04:06__
 
 > Love this app<br> :date: __2021-02-22 00:20:16__
@@ -208,10 +212,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Most Authentic Health App.... Highly recommend.<br> :date: __2021-02-01 01:54:58__
 
 > working perfectly<br> :date: __2021-01-30 21:38:10__
-
-> Helpful<br> :date: __2021-01-30 07:41:29__
-
-> Great info when you need it !!<br> :date: __2021-01-29 05:18:11__
 
 
 
@@ -305,6 +305,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="1_star_reviews_wordcloud.png" alt="com.webmd.android 1 reviews"/>
 </p>
 
+> All the app keeps doing is giving me unfounded info about covid. Except for a few extremists and far out nuts, Most of the world is over it. This app used to be useful, but now every symptom seems to point to covid. That makes this app difficult to use because now you have to put a lot of thought into exact symptoms to get accurate results. No thanks!<br> :date: __2021-02-28 18:38:43__
+
 > ONLINE ✘✘✘✘✘✘....<br> :date: __2021-02-09 04:10:27__
 
 > App is worthless. Go to an actual doctor.<br> :date: __2021-01-31 23:10:32__
@@ -322,7 +324,5 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Started getting political propaganda from web md. Very disappointed. Removing App. They should stick to Science and Medicine.<br> :date: __2021-01-12 00:22:25__
 
 > Can't even open the app anymore. It just says WebMD has stopped or keeps stopping<br> :date: __2021-01-09 00:55:32__
-
-> The app just updated and the app will not open.<br> :date: __2021-01-08 07:03:04__
 
 

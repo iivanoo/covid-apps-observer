@@ -229,6 +229,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Super easy to make appointments and talk with a doctor<br> :date: __2021-03-02 21:14:19__
+
 > Immediate acces to health care virtually, the app works phenomenal! I will never go without my One Medical membership!<br> :date: __2021-02-24 23:13:39__
 
 > Great app! Easy to use & super helpful with accessing and managing all services with my primary care provider.<br> :date: __2021-02-24 11:02:08__
@@ -246,8 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Excellent genuine service. Thanks<br> :date: __2021-02-12 10:26:33__
 
 > Works great<br> :date: __2021-02-11 16:31:15__
-
-> Easy to use. Good quality platform.<br> :date: __2021-02-08 14:11:41__
 
 
 
@@ -285,6 +285,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.onemedical.android 3 reviews"/>
 </p>
 
+> Don't like that you can't pick a time frame for a call or choose your doctor. But the doctor that I got after about 8 min wait time was great.<br> :date: __2021-03-05 01:16:33__
+
 > The doctors are great. The treat me now feature is fantastic. However, customer service 100% unreachable and insurance admin / billing issues take months to resolve.<br> :date: __2021-01-31 01:00:19__
 
 > Doesn't list the provider and clinic I want to go to...pretty frustrating<br> :date: __2021-01-05 10:37:08__
@@ -302,8 +304,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Could be better in navigation and the resources it offers. I would have preferred if it looked like the desktop site<br> :date: __2020-06-07 10:59:54__
 
 > The treat me now video call feature currently is broken for me (Google Pixel). I get an error "Uh oh looks like something went wrong" when after I request a video visit.<br> :date: __2019-10-07 06:48:13__
-
-> Cannot take a picture of my insurance card. Camera button does not work. Using a Samsung Galaxy S10. It's been months since I last tried, but this issue has not been solved.<br> :date: __2019-09-27 13:20:01__
 
 
 

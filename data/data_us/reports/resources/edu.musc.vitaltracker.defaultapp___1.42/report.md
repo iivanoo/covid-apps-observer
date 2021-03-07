@@ -172,7 +172,9 @@ No recent reviews available with 3 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="edu.musc.vitaltracker.defaultapp 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Covid 19 not real because tree give free oxygen everyone<br> :date: __2021-03-02 02:35:34__
+
+

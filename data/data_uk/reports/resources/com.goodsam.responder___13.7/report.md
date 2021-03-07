@@ -199,6 +199,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
 
+> Since the update, this is a good app. I still haven't had a volunteering alert for the vaccination centres yet, here's hoping!<br> :date: __2021-02-27 17:01:46__
+
 > Seems to run well. Had no alerts yet since registering<br> :date: __2021-02-26 05:17:37__
 
 > I got my Hi Vis jackets but im still waiting for a shift as a Vaccine Steward through the app, im not sure if you need the Duty button on or off for it but im looking forward to it.<br> :date: __2021-02-12 16:45:42__
@@ -217,8 +219,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Update: issue now fixed with a distance slider on the 'me' tab, the app now works fine. ----- I am being inundated with requests that are far outside of the area I can reasonably travel. In the last 10 minutes I have had 31 requests to help, but all 5km-10km away. I have double checked that the app knows my location via the emailed link. I can't spend all day rejecting 3 requests a minute until I find one that is in a reasonable cycle/foot radius of my location.<br> :date: __2021-01-11 18:50:43__
 
-> Early experience so far is fine. Though when I select 'find a route' in simulation mode Uber opens rather than Google maps. Any ideas on how to correct this?<br> :date: __2021-01-06 19:02:09__
-
 
 
 #### 3-star reviews
@@ -228,8 +228,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 </p>
 
 > Have not received actual work in months. Lots of alerts about people safeguarding but when called no action required. Also I'm supposed to be a driver but haven't seen a driver call since I initially registered.<br> :date: __2021-02-26 18:26:17__
-
-> The AED upload function doesn't work on my phone. Every time I go to upload a geo-tagged picture it crashes, regardless of crop size. Geo-tagging is also often inaccurate, so should be replaced with manual location entry.<br> :date: __2021-02-16 07:28:02__
 
 > This app worked very well with my previous Android 10. Since upgrading my phone to a new Android 10, I stopped getting sound notifications. I followed your FAQs, allowed all permissions, but I still don't get them as sound alert. I used to have a sound notification for a simulated task, but I don't get it now. Can you help please as I may miss request if I don't look on the screen...<br> :date: __2021-02-11 11:50:54__
 
@@ -247,6 +245,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > NHS have advised that app has been modified to allow selection of the distance you are willing to accept a task but I cannot find this feature. Also I don't have a "tasks" tab, still showing the "comms" tab. Edward<br> :date: __2021-01-15 20:08:06__
 
+> I don't know how to change my settings, as requested, and don't know how you would know my preferred distances (for being a steward at vaccination centres). Incidentally, I'd find it easier if messages referred to miles not kilometres, as that's what we use in this country!<br> :date: __2021-01-15 00:28:17__
+
 
 
 #### 2-star reviews
@@ -255,13 +255,13 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
 
+> 28/02/21 V 13.7 Now able to upload photo of new AED locations, it's only taken a year.<br> :date: __2021-02-28 15:41:31__
+
 > Rubbish - waiting 5 weeks now no shifts nothing??? Frustrating 😞<br> :date: __2021-02-26 18:12:54__
 
 > Patchy<br> :date: __2021-02-26 16:59:05__
 
 > Mine looks nothing like the simulation pictures, nothing ever in my tasks<br> :date: __2021-02-23 09:28:11__
-
-> 19/02/21 V 13.6 STILL UNABLE to upload photos. GoodSAM crashing every time I try to upload photo of new AED location to the app. Duty hours increasing when not on duty.😔 Still using Google Pixel phone.<br> :date: __2021-02-19 19:21:34__
 
 > Poor<br> :date: __2021-02-19 18:51:16__
 
@@ -283,6 +283,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
+> I still haven't had a Volunteering alert for the Vaccination Centre in my area where I live, patiently waiting!<br> :date: __2021-03-02 15:26:33__
+
 > Completely ineffective,I haven't had a single alert since I downloaded the app. No tasks have shown up either. I have logged out, uninstalled the app, reinstalled it and logged back in but still nothing. What is the point of volunteering if the app doesn't work properly. Really frustrated! GoodSAM LTD Thanks for your reply.I'm not asking you to generate an alert just for me, simply stating my experience.The one time when tasks appeared the app wouldn't allow me to accept so somethings not right<br> :date: __2021-02-27 00:44:01__
 
 > Never had any notification since April 2020 to end Feb 2021. Hours clock up but not heard anything. Don't think it works.<br> :date: __2021-02-26 17:48:54__
@@ -296,8 +298,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > My brother's android go mobile "incompatible" with this software Guess that's the price of volunteering So that's one person wishing to volunteer but excluded from doing so by this gatekeeper..<br> :date: __2021-02-15 19:22:38__
 
 > The installation is clunky. If there's anything going to stop somewhere using an app, that'll be it. (I test and write software as a profession.) It's hard to scroll the page without hitting a selector (such as the country). The image crop allows only a square and could not set to the width of my driver's license, so part of the license was cut off. After several attemps of that, I was forced to select Work ID instead of Drivers License. And please fully capitalise countries' names! Edit: Thank you for your reply. I know how to use a camera. The image I was trying to use had the full driver's license - it was the cropping that did not allow me to use any more than 2/3 of the image that was previously taken by the camera. Edit 2: As noted, it can get into a state where a community responder cannot select 'drivetrs license. Was this app tested by devs?<br> :date: __2021-02-15 10:49:38__
-
-> I got another siren today at 11:42. I immediately opened the app to accept, but a message told me as I had not responded it had been given to someone else. Again the alert came 40 minutes AFTER the request. I got a "siren" on my phone for the first time the other day at 13:50. I responded straight away, however the task was requested at 13:10 and was given to someone else as they stated I hadn't responded. Why did I get the alert 40 minutes AFTER the request? Very disappointed!<br> :date: __2021-02-14 12:52:08__
 
 > I'm a Nurse.Loved the theory behind this app.Unfortunately I've tried to install it twice tonight..no luck..im off to night shift now, I wont tell my staff to try to install, only bcause we are really smashed atm.good luck.good idea.just make it simpler for reallllllllllly tired aged care nurses.🌷🌷🌷🌷👍<br> :date: __2021-02-14 08:52:19__
 

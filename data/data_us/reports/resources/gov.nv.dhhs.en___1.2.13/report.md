@@ -121,6 +121,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Elpata<br> :date: __2021-03-06 05:30:43__
+
+> It works like is was advised.<br> :date: __2021-03-05 18:21:36__
+
 > Just get the app so you can keep you, your family, your friends, community safer. Contact tracing is one of the best ways to help stop the spread of this virus. So download the app and wear a mask when your out and about for just a little bit longer and we will be on the other side of this whole ordeal in no time. Have a safe and happy day.<br> :date: __2021-02-16 09:44:48__
 
 > I don't live in Nevada I live in Michigan<br> :date: __2021-02-03 19:28:11__
@@ -136,10 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > It work good tho<br> :date: __2021-01-17 09:05:15__
 
 > Safe and fast good for elderly And frontliners protections<br> :date: __2021-01-09 20:29:53__
-
-> So far, not a problem.<br> :date: __2021-01-09 07:05:36__
-
-> Yayyy am NEGATIVE<br> :date: __2021-01-06 05:55:39__
 
 
 
@@ -163,6 +163,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 3 reviews"/>
 </p>
 
+> It only works if others report that they've had COVID-19 so I'm not sure what the point is. I've been around people who have recovered from the virus but the app did NOT show that I've been exposed.<br> :date: __2021-02-28 06:27:27__
+
 > I wanted to alert people about possible exposure to Covid as soon as I recieved my positive results but was unable to due to the verification code requirement. I called all over the place and sent out emails and got no closer ro alerting people until 6 days after my positive test when the Washoe County Health department called for contact tracing and gave me the code. So it appears that the app works but you probably won't be notified about exposures for about a week after someone tests positive<br> :date: __2021-01-06 19:15:25__
 
 > Love this app<br> :date: __2020-12-07 12:52:21__
@@ -180,8 +182,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Update: Its fixed. I hope people use this as a great tool to assist 7s in fighting COVID-19. The app will not let me go beyond the 3rd page. It doesnt work. My bluetooth and location are on. The "exposure notification" will not let me turn it on as it says "I need to finish setting up the app" others instructions say the "exposure notification" must be on to finish the app. ????? I am stuck in a loop.<br> :date: __2020-10-25 18:30:48__
 
 > Requires having Bluetooth on at all times which drains my battery. It also keeps giving me drop down notifications even though I disabled notifications. I have an android.<br> :date: __2020-10-22 17:34:36__
-
-> No exp. yet- just wondering- if u really want to PREVENT the spread of covid, wouldn't it be better to come up with an app that tracks actual outbreaks/cases, then alert ppl? Or, if I'm going into a high risk area. Let me kno? I'm pretty much buggered if I've already been exposed. Jus sayin<br> :date: __2020-10-14 05:27:02__
 
 
 

@@ -145,25 +145,25 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
-> Why does this have such bad reviews, it works perfectly fine for me! Love the design too.<br> :date: __2021-02-21 15:20:39__
+> The app works great. More should use it<br> :date: __2021-03-04 14:20:11__
 
-> Data respected/reflected /time travel to the end of Pandemic<br> :date: __2021-02-21 15:04:52__
+> Very good everithing<br> :date: __2021-03-04 13:29:32__
 
-> Easy to use. I will check in on it everyday to report my health condition. I am healthy now. I am looking for a vaccination. I guess that's a different app.<br> :date: __2021-02-12 05:11:07__
+> Great app , glad they made it<br> :date: __2021-03-03 17:31:34__
 
-> Great<br> :date: __2021-02-10 01:40:17__
+> Surrounded with covid patients.never got covid...<br> :date: __2021-03-03 15:27:43__
 
-> Been entering.my status daily. Useful and like shows trends.<br> :date: __2021-02-07 01:55:31__
+> Very useful thank you<br> :date: __2021-03-03 14:26:48__
 
-> That is the best thing that ever happen on that website with COVID Alert intrustment and was invented whoever thanks for their macnificent technologies to the worldwilde people to remain safe.<br> :date: __2021-02-06 11:30:33__
+> Good<br> :date: __2021-03-03 05:41:07__
 
-> OK<br> :date: __2021-02-03 08:13:17__
+> I love this app check know everyone..<br> :date: __2021-03-02 22:37:37__
 
-> Baylo RCI .<br> :date: __2021-01-29 22:40:08__
+> Excellent<br> :date: __2021-03-02 21:12:52__
 
-> I’ve helped 100s of ppl increase their pay checks by $100-$600 per pay period. That extra money helped them build an emergency fund, eliminate debt, start investments and more. My goal is to help 20,000+ more. Who’s Next⁉️<br> :date: __2021-01-28 12:37:20__
+> 👍<br> :date: __2021-03-02 14:24:16__
 
-> I like this app cuz it tells you exactly what covid-19 is about and what when it got here why it got here how it got here and other things that are affiliated with it unfortunately are polishing politicians don't do all that they tell you as little as possible to keep you in the dark they tell you what you need but not everything that you need to hear you find it on the app<br> :date: __2021-01-26 23:00:09__
+> I have no clue if this does anything, but I feel safer with it on.<br> :date: __2021-03-02 04:30:23__
 
 
 
@@ -201,6 +201,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 3 reviews"/>
 </p>
 
+> This app works if "EVERYONE" follow the procedure. And are truthful.<br> :date: __2021-02-28 20:06:49__
+
 > I have it installed. With such an allegedly important tool that could save life's it really is discouraging that it only relies 9n Bluetooth. Even a ping of data could provide enough location for triangular based location. Uninstalling, scientific based precautions will help. Not on a COB Job cell phone app, and also this is a lesson for the people of NY also. Common sense and caution will benefit not this. C<br> :date: __2021-02-21 14:55:54__
 
 > Gets confusing<br> :date: __2021-02-19 15:00:40__
@@ -219,8 +221,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Just tested positive. Tried to send a notification to all codes I've come into contact with and app requires 6 digit code from a contact tracer. 1. So I'm going to sit here not being able to notify anyone until a contact tracer calls me? A day can mean the difference between life and death. 2. Give us the option to edit our symptoms today. I usually do it in the morning but developed a symptom this afternoon but it was too late, I had already submitted for the day.<br> :date: __2020-12-16 00:34:53__
 
-> I understand privacy but for this app to truly work.... work related we make house calls but ask a series of questions before we enter the home. They can easily lie and say no. It be nice that the GPS (Location) when on and at a house can notify you of a positive person in that household or residence or a location address. That information is out there vs relaying on someone else phone and hoping they have the app to talk.<br> :date: __2020-12-09 22:08:36__
-
 
 
 #### 2-star reviews
@@ -228,6 +228,10 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 2 reviews"/>
 </p>
+
+> The App appears to have the right concept, but when it comes to what people want to use it for it irrelevant. If I use it I want it to tell me if my working location is safe, not to find out that it's only collecting information. To many cases are showing up around my job, and were finding out by people calling out. We need a tool that is more essential, with a Covid report button.<br> :date: __2021-03-05 03:35:34__
+
+> Randomly popped up with a notification even though I'd never had it installed. Basically tricked me into installing based on the assumption that it was trying to warn me of a potential exposure.<br> :date: __2021-03-04 04:41:05__
 
 > Come on Google play, the dems/big tech YOU successfully stole the election, covid is a thing of the past, get with the times! Don't you watch cnn?<br> :date: __2021-02-11 10:05:10__
 
@@ -245,10 +249,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Does not give accurate numbers if total infected in some counties. Numbers are often misleading.<br> :date: __2020-11-08 22:56:07__
 
-> More work on the app is needed. Despite enabling Bluetooth, the app still ask for you to do so; then it hangs. Keep work on it.<br> :date: __2020-11-08 13:41:49__
-
-> concept is good. alas even with bluetooth on it didn't work. then again most of the people in my neighborhood refuse to get tested (I get tested) and/or aren't tech savvy so this app isn't useful for my neighborhood<br> :date: __2020-11-07 14:18:38__
-
 
 
 #### 1-star reviews
@@ -257,24 +257,24 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
-> No help<br> :date: __2021-02-23 17:55:03__
+> Do not download this app its a waste of time and space<br> :date: __2021-03-06 06:01:36__
 
-> Imagine being a pathetic sheep and allowing yourself to be stalked wherever you go by this app. Let alone, the government.<br> :date: __2021-02-20 13:27:47__
+> This app is full of security holes. Leaves your Bluetooth open to vulernability. It's a great concept, but I work from home and I'd rather not risk (more) identity theft<br> :date: __2021-03-04 22:44:00__
 
-> Stop asking me if I want this app. .this is good for people who drive around by themselves with mask on.Media is lying to you.<br> :date: __2021-02-17 03:33:20__
+> Where the hell is the Am I eligible app? No working links Anywhere. Sad.....<br> :date: __2021-03-04 17:49:34__
 
-> This is stupid. Google the CDC weekly flu numbers and you'll see all these Covid numbers are actually flu. There's 23 total flu for 1 week in USA but a billion covid cases? Bullcrap. They just want to do "the great reset" .<br> :date: __2021-02-12 04:27:37__
+> cuomo killed the elderly and sexually harasses women<br> :date: __2021-03-04 04:41:49__
 
-> Caused 6 other apps to fail and stop working. Uninstalled from phone, but still getting this apps notifications when Bluetooth is disabled. Very disappointed. Not recommended.<br> :date: __2021-02-11 18:12:50__
+> Stop spamming me to install I'm not a scared sheeple.<br> :date: __2021-03-04 01:35:25__
 
-> I love Quomo he is the best NYC mayor in the last 20 years. He is the sexyist hottest e boy president. Love the app. App gave covid only to Karen. App very hot and sexy. Unfortunately not enough BBC.<br> :date: __2021-02-06 00:44:31__
+> Wake up to the scam. Who has died? No one dieing in the streets. And flu seemed to disappear. Go to CDC.gov website to see the real numbers. Don't believe me.<br> :date: __2021-03-03 17:23:51__
 
-> my bluetooth always on cause my wireless ear buds. I work in a clinic that does covid testing and people who have symptoms for covid. not 1 notification.<br> :date: __2021-02-05 01:52:41__
+> I'm abit confused!! 2 Totally different Reviews!! 1 gets 1 Star, The 2nd gets 5 Stars!! Why is this App on my Phone!!?<br> :date: __2021-03-03 16:40:09__
 
-> Stop spamming me to install I'm not a scared sheeple<br> :date: __2021-02-02 16:32:49__
+> App can be manipulated for false positives. After providing symptoms, it tells me unfortunately and I may have Covid-19, yet my symptoms are for a different diagnosis that someone like myself deals with daily due to other health reasons. So basically this app is not fool proof and cannot be taken seriously. I'm now uninstalling it and hope that no residue applications within the app has been left behind in my device as some apps do leave behind unwanted features. Use at your own discretion.<br> :date: __2021-03-03 14:57:12__
 
-> Garbage<br> :date: __2021-01-31 18:50:40__
+> App can be manipulated for false positives. After providing symptoms, it tells me unfortunately and I may have Covid-19, yet these symptoms are for a different diagnosis that someone like myself deals with due to other health reasons. So basically this app is not fool proof and cannot be taken seriously. I'm now uninstalling it and hope that no residue applications within the app has been left behind in my device as some apps do leave behind unwanted features. Use at your own discretion<br> :date: __2021-03-03 14:55:43__
 
-> We had the app and have since deleted it. We caught Covid. There is no way to state so in the app. You need to wait for the Health Dept to do something with it. By the time we received a call from the HD (poor staff are so over worked because people are careless!) we were almost off quarantine, so they didn't bother doing anything with the app or contact tracing (which we had already done on our own anyway). The app was a waste! Totally defeated the purpose of it.<br> :date: __2021-01-28 03:27:26__
+> Invasive use of solicitation to user by recommending via notification outside of the app store. I should not be getting push notifications that override my settings for these to be unable to do so. Google and affiliates are invading users privacy by doing so.<br> :date: __2021-03-03 14:24:45__
 
 

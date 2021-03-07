@@ -1,11 +1,35 @@
 [
     {
+        "reviewId": "gp:AOqpTOH-FELiFMVyT6RWYoH_2-C1gUqvD1JARwvM27RRKADPQKf44ZXVSY3YlIHSVu9VkQPgC0DSTLrSb6pQYg",
+        "userName": "Cristian Canovo",
+        "userImage": "https://play-lh.googleusercontent.com/-Ljyv50IEOg4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLLc-Jw1ZyDoQgnI6N_3ENeUydkg/photo.jpg",
+        "content": "NON FUNZIONA PI\u00d9",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-03-03 20:30:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOForn2I7NXtWakPWmZhHCRj56pZFm3A_Q0IRUb6iZzgsQ6n8riTYnqRaqPgcpa1huNbMzmAG_I7IiVxEw",
+        "userName": "Franco Lezzi",
+        "userImage": "https://play-lh.googleusercontent.com/-ohkxNrZvjm0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmipOUEVza8H0ZjT9-FIiFVag_iUw/photo.jpg",
+        "content": "Ok",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-02-27 12:18:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGXhAefiayJvx819VnYfF0TGTlSf52ZBlNsp_S_Ek8ZDEjTQr6QIK0AhQ0yFnR6jmElY3bCWq99Y4KWAw",
         "userName": "Gabriele Cambiaghi",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhiyKupyM_lgcbe-MxNmaaKzo48eWVeJH5itv1Bwg",
         "content": "Con l'ultimo aggiornamento non riesco pi\u00f9 ad usare l'app senza compilare il questionario covid, e se provo a compilarlo si blocca sulla schermata di scelta familiare.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.1",
         "at": "2021-02-24 15:38:39",
         "replyContent": null,
@@ -73,8 +97,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGu9XkkRkpUE4XyJO-C_hJ7lReKj2KPLI3LJcsH9USgkAY75CVSOuKvXxIoPZ14BWc0aC61dwL80iIJSA",
-        "userName": "luigi scuri",
-        "userImage": "https://play-lh.googleusercontent.com/-LdlLRLeQkzg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4Qz2COnrtWfmV70bLVMZcEBidwA/photo.jpg",
+        "userName": "LUIS",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwRshg4noDtVazlpvXIRvvgvOH0sRKGc_u4Pp7Qw",
         "content": "Ogni tanto un po' lento",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1033,7 +1057,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFHlPOFaIPmG6AkMRSVIAoOMh1mF0GJjc1CVliCdLQYEcN52SUgeheWrMTfu34jaQpJttyjuw8j2_mMnQ",
-        "userName": "Massimiliano C.",
+        "userName": "Max M.",
         "userImage": "https://play-lh.googleusercontent.com/-jug5U5RQCQg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrqMoBbNUs-DmxnTWozYtkeNS79w/photo.jpg",
         "content": "Arrivano le notifiche si clicca sul popup che contiene il link.. pagina non trovata.",
         "score": 2,
@@ -1369,7 +1393,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEgmRawduUgztJNVotX2ClL6PJJZ6GEv7F-glOb_9StkZosUWQ_R48B028z4bM7ubf7whIfqBo5sDuw4A",
-        "userName": "Rebecca",
+        "userName": "Rebecca rsst",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0ZjouMipqMpMbuELSs6O6CbAV_L7VFbVCvqj6Cg",
         "content": "Al momento utile.",
         "score": 5,
@@ -3302,7 +3326,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg3DQAKQQvQKiORXMemxh6Z5-1dv0hnoRmkcRb3lg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwdbHtk_Khbmcq2d7ehnSO9C2gXeQPpEIlygXISQ",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3625,7 +3649,7 @@
     },
     {
         "reviewId": "gp:AOqpTOELY2STnlm5WEtAg5oyO43xHqbfSBqDChuJTPUVrn_zskAMqYiAGtQsSw4yXgpRkZkyZNOYUBhg7n6lKQ",
-        "userName": "Claudia Montanelli",
+        "userName": "Claudia",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjRNfxo93pbNxvMGTC3UXrD44NDbQWEvEEouK2_zog",
         "content": "Dopo aver fatto l'aggiornamento \u00e8 tutto a posto, Ricerca Covid compare nella home Page e si pu\u00f2 fare il questionario ogni giorno, aggiungendo anche i familiari.",
         "score": 4,
@@ -7214,7 +7238,7 @@
     {
         "reviewId": "gp:AOqpTOHkk8rkgLPFfJdw9YU_8op3p5Bit6_bi_tLVcJ3Jd6Nb9A9-nCgBkiqsw7v9zJdRPbjy7ybjJCO1oKLxQ",
         "userName": "Hikko",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5YJfTWBcmaKFBICTOrC4aKXqnrXn54903cQEnWQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZRcNRz3xbYlqARj-_wsz-Q-icgPjA6gEr9-FuPA",
         "content": "Per adesso funziona tutto a meraviglia.Comunque...bella idea quella di fare un'applicazione di questo genere. Sono soddisfatto : )",
         "score": 4,
         "thumbsUpCount": 0,
@@ -11974,29 +11998,5 @@
         "at": "2020-04-12 10:20:53",
         "replyContent": "-\tCiao Gianluca, grazie della recensione!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
         "repliedAt": "2020-04-24 19:59:26"
-    },
-    {
-        "reviewId": "gp:AOqpTOEhTHElcTfCdfDHZAD967l22wO9BGhLFtvx-2MXzPR8VPZ1vNRCjHHdQ8NLbq0SbBVLTrzfjI1lociwBA",
-        "userName": "Bruno Esposti",
-        "userImage": "https://play-lh.googleusercontent.com/-sot3OSaByNo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckgp_qUYXS6S5uG1yYdNFvICF0CfQ/photo.jpg",
-        "content": "Buona",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-12 09:00:07",
-        "replyContent": "Ciao Bruno, grazie per il feedback!",
-        "repliedAt": "2020-04-24 20:01:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOE1vI4tPPJppsw7FVpnwVrlgZ9mgSURy26IhWybrZZon4bjxHFRl5BgypmKsD7a-vZkAb_GQok53salqA",
-        "userName": "Dario Ugolotti",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggp5zDO2gzknwIq7yw5Wn5f0Aps4gHGvJxkXORcxw",
-        "content": "Una volta inserito tutti i dati e faccio invio non funziona nulla, sembra bloccato lo ripetuto pi\u00f9 volte ma non va!",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-12 05:02:52",
-        "replyContent": "Ciao Dario, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-24 19:56:12"
     }
 ]

@@ -142,25 +142,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> Great app that's works as intended<br> :date: __2021-02-27 01:42:59__
+> I have not been exposed to covid<br> :date: __2021-03-06 11:11:32__
 
-> Easy explainable 😊<br> :date: __2021-02-26 21:48:47__
+> I like this App.<br> :date: __2021-03-05 10:11:37__
 
-> invaluable, works very well and reassuring<br> :date: __2021-02-26 14:47:23__
+> Good<br> :date: __2021-03-04 23:37:00__
 
-> Excellent<br> :date: __2021-02-26 14:13:20__
+> Great<br> :date: __2021-03-04 06:30:22__
 
-> You don't have to think about it, all automatic<br> :date: __2021-02-26 13:13:02__
+> Exelent app having problems at the moment I constantly have the shield 🛡 symbol at the top of my ohine saying loading<br> :date: __2021-03-03 22:38:38__
 
-> Covid<br> :date: __2021-02-26 12:07:56__
+> A must<br> :date: __2021-03-03 16:56:04__
 
-> Great, no problems at all and only uses a minuscule amount of power, so absolutely no fear of draining the phone. Cheers.<br> :date: __2021-02-26 11:49:39__
+> Excellent app, and a brilliant way of protecting our fellow man. Never leave home without the app running.<br> :date: __2021-03-03 15:19:48__
 
-> Thank God for this 🙏...it would seem.<br> :date: __2021-02-26 11:37:34__
+> Awesome<br> :date: __2021-03-03 14:36:46__
 
-> it's a very good way of checking and knowing where the COVID is.<br> :date: __2021-02-26 11:18:35__
+> Unfortunately I cannot download this app, I get a message after entering my post code, it does not support it, download app for your area 🤔<br> :date: __2021-03-03 13:21:28__
 
-> Good<br> :date: __2021-02-25 21:38:23__
+> Great for keeping track of tests but also notifying you if you have potentially been infected. This will not track you as a person.<br> :date: __2021-03-03 07:48:25__
 
 
 
@@ -170,6 +170,18 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
 
+> Apart from putting in test results function, can we have the NHS jab card to put in the app to proof we have done the jab? Like test results function. Thank you!<br> :date: __2021-03-05 16:49:57__
+
+> OK, needed now for school. As children are back at school, adults must test twice a week and we have to put data into this app. Easy to use.<br> :date: __2021-03-05 15:49:42__
+
+> Good app<br> :date: __2021-03-04 04:59:02__
+
+> Loading... notification bug is back!<br> :date: __2021-03-02 09:36:07__
+
+> Great updates<br> :date: __2021-03-01 17:36:00__
+
+> it's very good helped through covid-19<br> :date: __2021-02-28 20:57:05__
+
 > Why not have a facility on the app to record your jab details?<br> :date: __2021-02-23 20:02:16__
 
 > This week the app won't open at all. Immediately crashes every time. I'm on a Pixel 3. Was fine previously (apart from the usual meaningless notifications).<br> :date: __2021-02-23 19:35:14__
@@ -177,18 +189,6 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 > Works fine 99% of the time. Previous problems resolved.<br> :date: __2021-02-23 15:29:09__
 
 > Updated review — hopefully the Pixel issues have been resolved now. So far, so good.<br> :date: __2021-02-23 14:05:28__
-
-> Actuallly does what expected and whilst not had "near someome" warning all else has been good.<br> :date: __2021-02-23 01:38:42__
-
-> Very good<br> :date: __2021-02-21 15:49:45__
-
-> The app is fine, just gets stuck on loading on my home screen.<br> :date: __2021-02-19 22:03:25__
-
-> Good<br> :date: __2021-02-19 13:57:26__
-
-> Good reliable app regarding covid-19 test and trace.<br> :date: __2021-02-18 14:26:47__
-
-> Would like link to info on no of cases in area / borough<br> :date: __2021-02-18 12:05:41__
 
 
 
@@ -198,25 +198,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
-> Keeps people safe so does the job. The annoying "app loading" notifications get me worried.<br> :date: __2021-02-27 12:11:15__
+> After testing positive I input my results for the app to then notify my next door neighbours, who I had not been in any contact with. It also contacted my boss who I hadn't seen for 4 days, surely it should onlu ping those who you've been in close contact with within the last 48 hours. Its all well and good having this app, as it can be useful but surely it needs updating to it being within 2 meters and 48 hours with and not the 10-20 meters bluetooth range of most phones.<br> :date: __2021-03-06 07:02:14__
 
-> Notification has been stuck on loading for over 24hrs. Can't seem to get rid of it 🙄4<br> :date: __2021-02-27 09:07:05__
+> Doesn't distinguish whether walls are between you and infected person (terraced houses) as it uses Bluetooth technology that can transmit through walls.<br> :date: __2021-03-04 17:16:10__
 
-> No idea if it works, I mean how do you test it really? Most annoyingly there is always a notification that it's 'loading'.<br> :date: __2021-02-26 17:24:08__
+> The app is very helpful but one thing I would like to find out is there any way the app can have a checkout button.<br> :date: __2021-03-04 14:27:00__
 
-> I had booked 2 test Kits but I did not get kits yet. Can anyone help for that? It's my fourth day in Uk.<br> :date: __2021-02-26 16:26:08__
+> I used this app once. I found it useful but the downside with this app is it drains my battery life!<br> :date: __2021-03-03 23:25:42__
 
-> Easy to use.<br> :date: __2021-02-25 12:29:12__
+> This app also won't allow you to input negative results from tests that were booked outside the app. It also doesn't accept results from labs like the Public Health England lab or NHS hospital, or as part of national surveillance testing conducted by the Office for National Statistics. It also comes up with the notification "NHS Covid-19 Loading..." after the phone has rebooted and this notification won't go away.<br> :date: __2021-03-03 15:28:55__
 
-> Good, but useless because no one near me has the virus.<br> :date: __2021-02-25 07:02:38__
+> the qr scanner doesn't always work !<br> :date: __2021-03-03 14:35:52__
 
-> Fine<br> :date: __2021-02-24 23:02:58__
+> I have the figure 1 on the app on my home page and I have been searching the app for the notification but can't find any. Why is this??! I always use the QR scanner if I go out, however, that isn't very often as very few places have the QR code to scan!<br> :date: __2021-03-02 23:43:06__
 
-> Currently just says loading. Restarted phone, checked app up to date as well. Earlier was loading twice at the same time! :/ otherwise so far so good. Am at home so not usually out and about. Don't find it a battery drain at all.<br> :date: __2021-02-24 22:31:39__
+> Bluetooth has to be on 24/7 if you turn it off the app keeps telling you it becomes annoying why should i have it scanning when at home on my own pain in the back side<br> :date: __2021-03-02 13:22:21__
 
-> Further to Matt's review below- I think the "vaccine power up" is getting popular- it's had almost 18 million hits this year. I think it's going viral. The Bozzer Surfer (watch the next wave) has released news of the kids back to school mod due out next month. (Unless the U-Turn mod is released first by the competition.) It will, however, be available to eligible players only...<br> :date: __2021-02-24 16:47:19__
+> Don't know if I'm coming or going just hurry up and get the hairdressers open cos I feel like one of the flintstones here.<br> :date: __2021-03-01 12:19:40__
 
-> Always loading.......<br> :date: __2021-02-24 10:48:04__
+> Well it's poor considering your life may depend on it this is twice I've had this app 1st time didn't even open now it dose Nd I just hope that this can be sorted out Nd fixed as this covid is going to be around for a long time it's the new plague<br> :date: __2021-02-28 20:31:58__
 
 
 
@@ -225,6 +225,14 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
+
+> The same previous old bike has returned and it's the one that has the constant loading notification that doesn't go away even if you try to clear the notifications and also try to restart the app<br> :date: __2021-03-04 11:38:46__
+
+> Using a note edge paired with smart watch, kept getting notifications on the watch telling me to check the phone for details, but when I do there is nothing; 68 (empty) notifications on the watch, none of which I could read.<br> :date: __2021-03-03 15:32:44__
+
+> I've had 2 negative tests and it's not accepted either code! The codes were entered correctly and were not recognised at any point. I'm afraid the FAQ answer does not help.<br> :date: __2021-03-02 16:20:30__
+
+> When you change areas the app does not pick up location change<br> :date: __2021-02-27 18:00:48__
 
 > Loading notification never goes away<br> :date: __2021-02-25 15:35:52__
 
@@ -238,14 +246,6 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 
 > I have this app on two phones, my personal mobile and my work mobile. I tested positive last month and updated my personal mobile with my code to confirm I was positive. As a test I waited for my work mobile to notify me to self isolate as I'd been in contact with someone who had tested positive but it didn't. No harm done but surely my work phone should have notified me as the app doesn't know I own both phones!<br> :date: __2021-02-22 23:54:23__
 
-> Constant red alert on the app icon. What is this supposed to indicate? Can't find any alerts within the app. Very unnerving.<br> :date: __2021-02-22 22:44:04__
-
-> The app used to "work" and now it won't open at all and I just keep getting notifications saying it has crashed. Have now uninstalled since those are getting old.<br> :date: __2021-02-21 23:52:26__
-
-> Poor compared to the apple version. My sister got told by her app to self-isolate, yet despite this mine was as normal the whole time (I did self-isolate due to being in the same house though). No notifications or even a change on screen telling me too when opening the app. Hers also tells her every week whether or not she has any possible contacts and gave her an urgent notification telling her to self-isolate. Mine does neither of those despite notifications being on. Its pointless really.<br> :date: __2021-02-21 04:58:54__
-
-> 1.) I found the version Date: 08.02.2021. Version 4. Release 4. Modification (146). You need to update the Android help text in Settings: It is in App Info, NOT App-Notification. 2.) My three sons families do not use the app. They tell me it doesn't work. You need a Basic Test icon that does some basic simple checking and gives reassurance that it's working Currently there is NO feedback to the user whatever ! How can I sell that? Let alone defend the app. At least this ver has an icon & help<br> :date: __2021-02-20 17:56:39__
-
 
 
 #### 1-star reviews
@@ -254,24 +254,24 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> It's a good app but drains data with loads of updates<br> :date: __2021-02-27 11:36:31__
+> A complete waste UK tax payers money that has solved and achieved nothing.<br> :date: __2021-03-06 12:06:32__
 
-> Still waiting for a response and it is not coming 26.02.2021 a waste of time number 1 why do I have to be over 16 to use this(explain) number 2 I still do not no with which person I have in contact must be a system created by politicians and NHS waste of time does this app look bad visually the only answers are no and not sure what about it looks absolutely wrong.to add on know still no response when other people posted later than me,,,?????????? hello still waiting for an response¿?????????????<br> :date: __2021-02-27 00:26:41__
+> Drains battery with constant 'loading' notifications.<br> :date: __2021-03-06 09:50:35__
 
-> The notification loading pop won't go away. How can you make something so rubbish.<br> :date: __2021-02-27 00:06:38__
+> Absolutely awful. I've been in close contact with at least 3 people I know of who have had the virus yet not a single alert. Total waste of time and tax payers money!<br> :date: __2021-03-05 23:19:40__
 
-> Well worth the millions we paid to get this up and running 6 months later than we needed it.<br> :date: __2021-02-26 23:14:17__
+> Drained my battery way too much for no discernable benefit<br> :date: __2021-03-05 22:01:25__
 
-> Keeps leaving loading icon on screen so pointless to have as you have to uninstall to remove so looses all your previous data so you could miss going into isolation !!!<br> :date: __2021-02-26 11:56:12__
+> I've had something loading for over a week now? I've uninstall and reinstall app and it's still there. What does this mean please?<br> :date: __2021-03-05 19:03:56__
 
-> DO NOT DOWNLOAD. You will be feeding all your location and othet personal data straight into Palantir for them to weaponise and sell/use. Your personal data is valuable, dont hand it over to them for free!<br> :date: __2021-02-26 08:10:27__
+> "Loading..." Notification will not go away. No reference number if told to isolate. All in all I'd expect more from an app that cost 70 times the development cost of Pokémon Go to create. All in all a massive rip off of the British taxpayer for an app that doesn't work. I also know I've been close to people who have tested positive but have not been notified.<br> :date: __2021-03-05 18:33:42__
 
-> Civic is fake<br> :date: __2021-02-25 19:22:01__
+> This app crashes all the time. Matt Hancock's chums did a terrible job at creating it.<br> :date: __2021-03-05 15:15:25__
 
-> Useless app I've downloaded twice and uninstall twice I'll never download again<br> :date: __2021-02-25 19:09:26__
+> This ain't it chief.<br> :date: __2021-03-05 11:34:41__
 
-> Told me to isolate even though I had not left the house for over a week. Also keeps reappearing on my phone after numerous times uninstalling it.<br> :date: __2021-02-25 18:50:20__
+> Unfortunately I can't make it zero stars cause let's be frank, ducking 37 billion on this garbage should be criminal and stop calling it the NHS track and trace unless you're willing to hand them over some billions. The SERCO TRACK AND TRACE APP is shite. Thanks for listening to my ted talk ✌️<br> :date: __2021-03-05 11:24:56__
 
-> Loading... Like forever. What exactly are you loading?<br> :date: __2021-02-25 17:17:01__
+> No link up or provision to log vaccination. Bluetooth energy use to high Poor design Wasted opportunity to do something good.<br> :date: __2021-03-05 09:40:00__
 
 

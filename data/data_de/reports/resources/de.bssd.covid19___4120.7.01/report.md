@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Also mein tesy Inder Düsseldorfer Flughafen gemacht worden. Jetzt habe ich Bescheid bekommen. NEGATIV. Dankeschön an alle Test bearbeiteten de liebe Leute. Sie waren sehr nett hilfsbereit und freundlich .<br> :date: __2021-03-01 08:00:18__
+
 > Alles super , scannt, benachrichtigt,21.45uhr grün.<br> :date: __2020-12-03 23:08:28__
 
 > En büyük FENERBAHÇE o kadar<br> :date: __2020-11-22 15:29:36__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > War nach all den negativen Rezensionen skeptisch aber bei mir hat die App super funktioniert - inkl. Push Nachricht innerhalb von 12/18 Stunden. Kurzum: Super App! 🙂<br> :date: __2020-10-13 07:59:37__
 
 > Macht was Sie soll! Binnen 18 h Ergebnis per push Nachricht erhalten!<br> :date: __2020-10-06 12:30:26__
-
-> Ok<br> :date: __2020-10-03 11:44:13__
 
 
 
@@ -243,6 +243,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Schließt sofort beim Öffnen...<br> :date: __2021-02-27 19:02:09__
+
 > Am liebsten 0 Sterne. Da ich auf mein Ergebnis warte und sich die App schon seit längeren nicht mehr öffnen lässt. Das kann doch nicht sein man wartet und die App geht nicht.<br> :date: __2021-02-27 07:14:03__
 
 > Man kommt nicht rein<br> :date: __2021-02-16 18:22:39__
@@ -260,7 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Wie alle anderen schreiben. Nix geht. Absoluter Dreck<br> :date: __2021-02-05 12:45:29__
 
 > Die App stürzt direkt beim Öffnen ab. (Android 11 Galaxy S20+)<br> :date: __2021-02-04 10:08:28__
-
-> Es ist lange genug bekannt dass die App nicht fubktioniert. QR Codes werden über den integrierten Scanner nicht erkannt und den Code den man manuell eintippt bringt die Fehlermeldung zurück dass es nicht dem entsprechenden Format entspricht. Es ist lächerlich Menschen diese App Überprüfung eines Corona Tests anzubieten.<br> :date: __2021-02-02 10:40:23__
 
 

@@ -230,6 +230,8 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="ca.bc.gov.health.hlbc.COVID19 1 reviews"/>
 </p>
 
+> Lies<br> :date: __2021-03-03 21:49:21__
+
 > Useless. Absolute trash. The app recommends contact tracing, yet doesn't provide it lol 😆. The app gives no localized case data, you know, the data required to make intelligent risk assessments, lol 😆. This app does nothing, and is the only tool available to the middle and under class. It's fun trying to survive a pandemic with no tools and no information from our government. Just delete this useless waste of time.<br> :date: __2020-12-12 20:34:44__
 
 > Not good. Tells you to get checked and self isolate if you have a mild headache. For useful stats it just refers you to the website.<br> :date: __2020-11-21 03:52:14__
@@ -247,7 +249,5 @@ The BC COVID-19 Support app has been installed by more than **50000** times. At 
 > Great resource until recent update...now inaccessible on our devices. At a time when you we should be enabling access to appropriate info the app is now limited to due to browser requirements.<br> :date: __2020-04-07 21:44:05__
 
 > Terrible app. Never gets updated and gives out of date advise. Makes you wonder what else the BC Goverment is mismanaging during the COVID crisis.<br> :date: __2020-04-03 04:30:17__
-
-> Can't use it anymore. Says browser needs to be updated (not true as far as I can tell)<br> :date: __2020-04-01 01:43:55__
 
 

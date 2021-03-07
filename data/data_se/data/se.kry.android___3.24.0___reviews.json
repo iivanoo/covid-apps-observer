@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGqoFwa79Oo0fIdeonswykKA_Eym5pDDTZaRumJa3le3qdpY_oq7bhHGCjZA4DrtStVeu4mi6IypSIt4Ag",
+        "userName": "Andi Naschberger",
+        "userImage": "https://play-lh.googleusercontent.com/-eVHm9-H9eOs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkT2od6b-seqzC2fb2-ZhTQnmV1A/photo.jpg",
+        "content": "very exellent",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.24.0",
+        "at": "2021-03-02 10:12:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGysH2BJsZH-oUy_QclHAPBxZDUN6Kbe6vH8tBXlER6n-jWjIwUQSJ29DZfV9-o6B0oBEbpdXD_YA3LrII",
         "userName": "john svensson",
         "userImage": "https://play-lh.googleusercontent.com/-1kNDysrQvs8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHllNKvdtetDjKdrbHVAnxQdIQ1w/photo.jpg",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-02-22 18:40:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi John!\nWe are sorry to hear you are not satisfied with your experience at kry. Kry always strives to put the patient first and offer qualitative and professional care. You are welcome to contact our support at 08-22 77 07 from 9am to 5pm and tell us more about your experience. Wishing you a great day!",
+        "repliedAt": "2021-03-03 09:46:28"
     },
     {
         "reviewId": "gp:AOqpTOGklT114yS0OU5qRLJp1zPvinp5dMm9vioJ4qBwTyFN_jDBhL0au7DpDRn4dYB_asvFVw1xYNSqHDXiJXw",
@@ -41,11 +53,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJpgBLElyRU-CcAIOGNLWK96YbqPqNpNoOEuwtEQ",
         "content": "Saw an add for a self test. Downloaded the app and then there were no self test. Badly structured campaign.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.24.0",
         "at": "2021-02-16 13:33:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Olle!\nWe offer self-test for chlamydia and pcr for priority group three. If you were unable to order a test you can our support at 08-22 77 07 from 9am to 5pm on weekend free days. Wishing you a great day!",
+        "repliedAt": "2021-03-03 09:44:46"
     },
     {
         "reviewId": "gp:AOqpTOGbEeeMl967YP0v2flz383_Rb-U3slr4RBuUL_h_fQ902nj2HH59rrvdck3L1pVv5eexEigbTmJPKfTjj8",
@@ -377,7 +389,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifZ6wQaMS0kdeQiGcnDuDxQxwBm--bKEATpsafeA",
         "content": "While doctors are good, app does not have a \"help, service desk\" option. My prescription was not successfully added to my account, and there was no way to contact them for help. Only option was to pay 200sek and get a doctors appointment to fix a technical problem.",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.22.1",
         "at": "2021-01-14 12:24:37",
         "replyContent": null,
@@ -2606,7 +2618,7 @@
     {
         "reviewId": "gp:AOqpTOFDkCOvQsdFZmcf1mCb_JjWqTHg5dGIt5RvKdD4vsxkQ-YPJNuPf8czn_MqPmUGXrEFaAdf9XRBdWBOSB4",
         "userName": "Romi Gr\u00e5hed",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_rFPNk6HTgxTI6vI3YhBfZHIpVoA6I4KVTrOA9HI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZphzDGpEfYoN6gXfmY81rPV5tH0-RoLcWd8lkTBA",
         "content": "Wonderful doctor, very informative and kind. Very fast service.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2701,7 +2713,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE123z0wGc4dkZFh7QwiiE1t7LBw8Xqztz3j-y68t6grJoxbIi2I0VIDehYf2lvYsmPi2eLRCpElLiuUeE",
-        "userName": "Merry Snape",
+        "userName": "Missy Miss",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLCMZq9pkgsDcl_AOlC4ttay24kmljvraitdpfylI",
         "content": "Good and its help without we're going to the doctor",
         "score": 5,
@@ -2810,7 +2822,7 @@
     {
         "reviewId": "gp:AOqpTOHY2f-nI5x5tWnOaiwJ7xYS5T8EoxxxywSzVm8x6273KrtpBYjj9e_FgsTQj6RX4-2_X9SAR0QSufMazBU",
         "userName": "Tomislav Galeta",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKvkSRrutehFhn8sMTsUU5KClx2X8kF1M7CR8HICE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjcaZQea-YWyUKies2zpf5PQ3nDCN0SxhjdvvnUM_I",
         "content": "I am so impressed!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3205,7 +3217,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHS7zxZ1TcR_JzGIS5ICLwNi2n-RozayK9Vr3FZkm5mBhq1mxFvtSI-Tl8ckFw4Gd2YMrV2IX8AK1WiCm0",
-        "userName": "Olga Akselrad",
+        "userName": "Eleanor Akselrad",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUqyFwQrjHtwdlfe6xljtCvlNLTabM9fzaQVQg",
         "content": "Really good. Easy to use, easy to get in touch with real nurses and doctors.",
         "score": 5,

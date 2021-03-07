@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Very Thankful! On time updates Always available!!<br> :date: __2021-03-05 15:09:39__
+
 > Thank you for keeping us updated and safe during this pandemic!<br> :date: __2021-02-26 12:35:23__
 
 > Well is the best app thus far<br> :date: __2021-02-24 11:56:11__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Nice<br> :date: __2021-02-04 11:00:30__
 
 > Grest app to get up to dste info on thr pandemic as well as best practices for curtailing transmission. Grest as long as executive branch keeps his hands away from thr organization and allows them to help the people.<br> :date: __2021-01-12 12:41:08__
-
-> Constantly being updated to provide latest information, a must have app for providers<br> :date: __2021-01-03 23:30:14__
 
 
 
@@ -300,7 +300,7 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
-> bad experience<br> :date: __2021-02-27 02:45:47__
+> Covid19 not real because tree gave free oxygen everyone<br> :date: __2021-03-02 02:32:37__
 
 > I've tried several times to get the app to open. All i get is a white screen. I've uninstalled and installed the app several time and it won't open.<br> :date: __2021-02-26 03:18:05__
 

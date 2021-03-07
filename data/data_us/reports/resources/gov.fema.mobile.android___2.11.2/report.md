@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Set it and forget it, until you get Emergency Notifications for where you live<br> :date: __2021-03-03 18:07:15__
+
 > Excellent thanks<br> :date: __2021-02-26 16:19:15__
 
 > Awesome<br> :date: __2021-02-21 15:38:49__
@@ -181,8 +183,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Superior great + AAAAAA<br> :date: __2021-02-09 03:14:12__
 
-> Well worth the download, great and timely information.<br> :date: __2021-01-29 06:14:11__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> I think that it's pretty good.<br> :date: __2021-03-04 04:02:31__
 
 > This app is worth the download. You get a lot of notifications, but they are easy to mute, and might save your life.<br> :date: __2021-02-02 22:03:12__
 
@@ -208,8 +210,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Overall decent, but I don't need 17 alerts in one hour for the same storm.<br> :date: __2020-08-24 01:10:21__
 
 > It's missing the alerts Snow Squall Warning, Inland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, and Inland Tropical Storm Watch.<br> :date: __2020-07-27 22:57:25__
-
-> Fast reliablie services<br> :date: __2020-07-09 01:04:27__
 
 
 

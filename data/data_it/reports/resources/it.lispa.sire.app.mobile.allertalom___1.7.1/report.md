@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-02-27 12:18:08__
+
 > Ok<br> :date: __2021-02-13 21:07:14__
 
 > Dopo aver segnalato l'errore persistente (impossibile evitare la compilazione questionario COVID e altri problemi), lo sviluppatore ha risolto il problema. Al momento tutto funziona come deve. Grazie Devs.<br> :date: __2021-01-24 10:39:00__
@@ -205,8 +207,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Utilissima soprattutto per un montanaro come me<br> :date: __2020-11-21 20:29:11__
 
 > Molto buona!!<br> :date: __2020-11-14 09:31:47__
-
-> Chiedo scusa sabato dopo averla aggiornata funziona regolarmente e ho mandato una email alla vostra società<br> :date: __2020-11-03 08:43:12__
 
 
 
@@ -244,6 +244,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> NON FUNZIONA PIÙ<br> :date: __2021-03-03 20:30:12__
+
 > Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.<br> :date: __2021-01-10 11:16:37__
 
 > Poco efficente e con descrizioni e annunci che sono copia di quelli ministeriali. Era meglio potenziare di più Immuni invece di farne una simile.<br> :date: __2020-12-10 17:45:49__
@@ -261,8 +263,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Non si comprende l utilizzo<br> :date: __2020-09-23 12:44:32__
 
 > Poco utile<br> :date: __2020-09-09 18:24:47__
-
-> Tutti i giorni un'allerta meteo, tutte sbagliate<br> :date: __2020-08-29 19:29:58__
 
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFPgeSXazpLShHcH30-xmBLBUJxgTlKksEBq24rAQ9X3QhWccQMGDiruS6BvKdRCBRRXjSNykIOYTIYgQ",
+        "userName": "Debbie Bonaminio",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7MiaUkJd-qQnjeosgHJk4y8-7vZeV9zs-mFuaZA",
+        "content": "Good concept but it stopped tracking, which is a major function of the app. I deleted and downloaded again and still no tracking, so finding a reason to keep hard to come by.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2",
+        "at": "2021-02-28 21:08:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEoFqgHyGWz9Ul9LDU1uI6buQtx4j7wOWmi3d1AFJWG5zGNFpdD1s83rZQK0O8oB8XPBidPtUcPzPS9yA",
         "userName": "Cameron Montalbano",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-M3NcHoJFdn5UClabLvP-ycSYQnAb08TC7XX2mw",
@@ -233,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-zvLBE_TGTMU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTrGJqNPkIs64cY4c3WJ2BCp1yLw/photo.jpg",
         "content": "I have used this app regularly since downloading it months ago & while it was a rudimentary app in the beginning the 2.0 upgrades were a good improvement. What I DON'T find helpful is with today's update, I am forced to turn on my GPS feature in order to take the daily symptom survey; this is completely unnecessary as I may not have any plans to leave my house. I'm not a fan of an app controlling how my device works. Also the \"No thanks\" option does nothing, and I have to force the app closed.",
         "score": 3,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "2.2",
         "at": "2020-10-14 14:12:33",
         "replyContent": null,

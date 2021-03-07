@@ -186,6 +186,16 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> It took a while to install when i installed it last year but so far i have no complaints about the app<br> :date: __2021-03-05 06:43:05__
+
+> Is very useful and easy to use since I lost my ID<br> :date: __2021-03-03 22:15:00__
+
+> Super easy app! Very user friendly!<br> :date: __2021-03-03 03:59:00__
+
+> Very easy to use<br> :date: __2021-03-03 01:06:20__
+
+> Excellent idea of the Digital ID. Very handy.! Thanks Co<br> :date: __2021-03-01 21:09:13__
+
 > Absolutely love this app I don't have to dig through my purse to find my ID my phone is already in my hands and my ID is already in my hand<br> :date: __2021-02-27 04:15:09__
 
 > Good app to keep important vehicle papers<br> :date: __2021-02-23 04:19:15__
@@ -195,16 +205,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Really sharp and innovative, the app to use for our now generation. Still loving it.<br> :date: __2021-02-20 19:28:40__
 
 > Very easy had no problems at all, very cool, good bye wallet:)<br> :date: __2021-02-11 06:47:10__
-
-> This APP literally just saved my life....thank you State of Colorado for making our tax dollars work for the people. Wyatt Selle<br> :date: __2021-02-11 04:02:06__
-
-> Extremely convenient.<br> :date: __2021-02-10 23:43:05__
-
-> Quick and effective for getting digital license<br> :date: __2021-02-07 19:50:37__
-
-> Easy to upload information. Navigation is intuitive and I like the available features.<br> :date: __2021-02-07 18:34:22__
-
-> Love this app it's an great idea for Colorado....<br> :date: __2021-02-03 02:30:25__
 
 
 
@@ -270,6 +270,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
 
+> Can't start up error for days<br> :date: __2021-03-03 00:17:19__
+
 > My household moved 5 months ago & 6 of us changed our address online through DMV & followed the instructions to stick a label on the back of our DL's with the new address. However when I scanned the back of my DL today to try to create an account, my information still had my previous address. So this app really won't help me or any of my household members because the address will always be incorrect & cause problems for us in which we will still have to show our actual DL with the sticker.<br> :date: __2020-11-17 19:24:28__
 
 > Cannot access my account anymore. The account recovery should work. I put in my email address but nothing comes back to reset my password.<br> :date: __2020-10-10 20:29:38__
@@ -288,8 +290,6 @@ The myColorado app has been installed by more than **10000** times. At this time
 
 > Sweet, I need a registration renewal and everything is closed. So I see on Nextdoor about this app. But I can't use it - why? I have a 2 yr old $150 Lenovo Phab which won't allow this app. So I need to buy a new phone to use - great. Not everyone can afford a new phone every year especially Seniors. The emissions places are closed as are the DL locations so I guess I just drive with an expired tag.<br> :date: __2020-04-22 20:23:52__
 
-> I dont like the registration processes seems like a traker, n I dont trust it.<br> :date: __2020-04-21 03:11:37__
-
 
 
 #### 1-star reviews
@@ -297,6 +297,8 @@ The myColorado app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
+
+> Freezes every time i attempt to scan barcode. Tried both on and off wifi. Reinstalled multiple times. Ensured all permissions are allowed. Then when i try to chat for help, i get queued for 26 minutes until it closes on a Friday. I need help. If you're moving this direction, you still need humans to address concerns.<br> :date: __2021-03-06 01:51:13__
 
 > App doesn't work don't bother downloading waste of time. I tried making an account and it said I already made one when I tried to make it the night before it claimed the site was down and to try the next morning.<br> :date: __2021-02-24 22:58:24__
 
@@ -315,7 +317,5 @@ The myColorado app has been installed by more than **10000** times. At this time
 > Horrible. I'd give you negatives if I could.<br> :date: __2021-02-11 00:57:16__
 
 > I have a LG V60. During the selfie facial rocognition the picture oval stays black like its not connecting to my camera. I gave the app all permissions it needs.<br> :date: __2021-02-04 17:37:12__
-
-> Worst app layout, I have seen in a few years. Taxes five minutes to set up, if you have 5 bars. Is heavy, and has minimal, albeit, important use...<br> :date: __2021-02-04 06:38:23__
 
 

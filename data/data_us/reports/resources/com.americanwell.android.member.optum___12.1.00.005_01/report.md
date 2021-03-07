@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
-> Easy to use, set up was simple, camera and sound good. Using a Samsung note9<br> :date: __2021-02-25 06:35:52__
+> Amazing!! A must have!!<br> :date: __2021-03-06 09:23:40__
 
-> Awesome experience<br> :date: __2021-02-24 22:50:24__
+> Better than the website. I have an old phone, had no issues<br> :date: __2021-03-05 23:15:27__
 
-> It worked easily without any problems both installing and using.<br> :date: __2021-02-24 22:37:41__
+> Love seeing a doc at home especially during covid scared to go in to urgent care. Doctor was knowledgeable courteous an understanding<br> :date: __2021-03-05 06:18:39__
 
-> Quick and easy to chat with the doctor.<br> :date: __2021-02-24 22:02:10__
+> Smooth and fast. Dr Nesbit was awesome.<br> :date: __2021-03-04 02:11:38__
 
-> Easier than I expected.<br> :date: __2021-02-24 17:05:24__
+> Its really great!<br> :date: __2021-03-03 22:14:55__
 
-> Worked well some small hesitation but over all good.<br> :date: __2021-02-24 04:08:27__
+> don't like virtual visits, I like seeing my doctor in person, I have more time to think of things that I am concerned about.<br> :date: __2021-03-03 17:50:07__
 
-> Good<br> :date: __2021-02-23 20:01:06__
+> Very helpful.<br> :date: __2021-03-02 02:17:48__
 
-> Service was fast and the provider was very knowledgeable. Would definitely recommend them!<br> :date: __2021-02-22 10:03:22__
+> Quick and easy Dr was very nice and professional I love this app it's so convenient not having to go sit in an office<br> :date: __2021-03-01 18:31:17__
 
-> Very good! I actually prefer this method to reduce loss of work time. With COVID-19, it has to be the safest method for patients to meet with their health care providers. Thank you Dr Gotardo!<br> :date: __2021-02-19 16:59:11__
+> The app works pretty well. I had no trouble with the forms or with the visit. The physician was pleasant and knowledgeable. The video was clear and the audio was at a good level. I appreciate having an app like this, as I do not like to leave home a lot. Thank You for the convenience and flow of the NowClinic.<br> :date: __2021-02-28 22:12:21__
 
-> It's most effective<br> :date: __2021-02-18 22:53:01__
+> Can not beat the convenience, but not all can be done virtually<br> :date: __2021-02-28 02:48:56__
 
 
 
@@ -265,8 +265,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > This app doesn't work for me because when I was with waiting for the doctor the app stop<br> :date: __2019-11-20 03:32:03__
 
 > The Now Clinic is supposed to provide services aside from or in place of the urgent care. I've had two different doc's tell me that I need to go into an UC for a simple follow up AFTER I've already been there and the UC instructed me to follow up with the NOW CLINIC provider! PLUS I don't get money back even though the N C Doc's turn me away within 60 sec of logging on. There is no one monitoring this so no way to complain or request a refund. This is a Waste Of Time and Money!<br> :date: __2019-11-11 02:33:43__
-
-> There's a message button, but doesn't work. Cannot select the provider to message them like it says you can. Please correct<br> :date: __2019-01-29 17:23:33__
 
 
 

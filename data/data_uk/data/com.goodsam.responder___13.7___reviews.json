@@ -1,11 +1,47 @@
 [
     {
+        "reviewId": "gp:AOqpTOGQq_DluwXhHZymWzBpxYQ8ijc9wrBOySZfJpgNRhAzUtZ7ltOuJuEkcsG9zUcn7EHfUwYP7i24Ns7Ocg",
+        "userName": "Diana Wagstaff",
+        "userImage": "https://play-lh.googleusercontent.com/-A43fAYsMCqk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRYPAvYv8PHfmSmrA7NU_ipozV-w/photo.jpg",
+        "content": "I still haven't had a Volunteering alert for the Vaccination Centre in my area where I live, patiently waiting!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.7",
+        "at": "2021-03-02 15:26:33",
+        "replyContent": "Dear Diana, we think it's important to emphasise that this is not a problem with the app or the platform. The system simply matches the local need to the local volunteers based on their roles and has a 100% matching rate, this means whoever needs help gets the help required. There isnt much us as the technology provider can do in respect to demand.",
+        "repliedAt": "2021-03-02 15:30:46"
+    },
+    {
+        "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
+        "userName": "Alan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvd52JPNMsnEaTq9yENP9H0S7hATud4SiRd6qP-w",
+        "content": "28/02/21 V 13.7 Now able to upload photo of new AED locations, it's only taken a year.",
+        "score": 2,
+        "thumbsUpCount": 45,
+        "reviewCreatedVersion": "13.7",
+        "at": "2021-02-28 15:41:31",
+        "replyContent": "Dear Alan, in order to upload an AED, you need to take a photo with the location on. (And your photo library app needs to have access to your location to tag the photo.) We then use the geolocation information on the image to know where the AED is, without this, the app will not work because it would not know where the AED is located.",
+        "repliedAt": "2020-11-17 12:40:53"
+    },
+    {
+        "reviewId": "gp:AOqpTOGrctyPhm-rq8JZZt7-pL098o7LVjxS6bKXljnuetBCpYpBcV-ukH9yV9US554b0nyzNwBphQDUiNqZig",
+        "userName": "Barbara Cass",
+        "userImage": "https://play-lh.googleusercontent.com/-3t1MG3TIrec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnImfUL1h3JIFAvWUVBOV0RlzhArA/photo.jpg",
+        "content": "Since the update, this is a good app. I still haven't had a volunteering alert for the vaccination centres yet, here's hoping!",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.7",
+        "at": "2021-02-27 17:01:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGbRhpauehMG_wqNchDs_L_kXOdkZUuYiAvj0D-BBRpUX9SatDLD8juuj5HCgQE4wPLChw2yz6i0mqpkw",
         "userName": "Jennie Morris",
         "userImage": "https://play-lh.googleusercontent.com/-BxL6fVAPduU/AAAAAAAAAAI/AAAAAAAAA00/AMZuucn8sAerN3bEKMi0pcWuDYQpEvfIYA/photo.jpg",
         "content": "Completely ineffective,I haven't had a single alert since I downloaded the app. No tasks have shown up either. I have logged out, uninstalled the app, reinstalled it and logged back in but still nothing. What is the point of volunteering if the app doesn't work properly. Really frustrated! GoodSAM LTD Thanks for your reply.I'm not asking you to generate an alert just for me, simply stating my experience.The one time when tasks appeared the app wouldn't allow me to accept so somethings not right",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "13.6",
         "at": "2021-02-27 00:44:01",
         "replyContent": "Dear Jennie, we think it's really important to emphasise that this is not a problem with the app or the platform. The system simply matches the local need to the local volunteers based on their roles and has a 100% matching rate, this means whoever needs help gets the help required. We can not artificially generate tasks or demands in your area.",
@@ -65,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-7Wv7mZOuK4M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvnj3dxea-9C_XVnxEcj5A1J6HFg/photo.jpg",
         "content": "Never had any notification since April 2020 to end Feb 2021. Hours clock up but not heard anything. Don't think it works.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "13.6",
         "at": "2021-02-26 17:48:54",
         "replyContent": "Dear Peter, we think it's important to emphasise that this is not a problem with the app or the platform. The system simply matches the local need to volunteers based on their roles and has a 100% matching rate, this means whoever needs help gets the help required. We can not artificially generate tasks. You may wish to add other roles, thanks!",
@@ -132,18 +168,6 @@
         "repliedAt": "2021-02-23 10:17:41"
     },
     {
-        "reviewId": "gp:AOqpTOG5aVuUx96m4D8jzS49ryRhsz1cLKNeZvw5uHzHmrJIfS5VdAEjZc35Mc3ndxfgkrlYqpiKr5HBRXX27Q",
-        "userName": "Alan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvd52JPNMsnEaTq9yENP9H0S7hATud4SiRd6qP-w",
-        "content": "19/02/21 V 13.6 STILL UNABLE to upload photos. GoodSAM crashing every time I try to upload photo of new AED location to the app. Duty hours increasing when not on duty.\ud83d\ude14 Still using Google Pixel phone.",
-        "score": 2,
-        "thumbsUpCount": 45,
-        "reviewCreatedVersion": "13.5",
-        "at": "2021-02-19 19:21:34",
-        "replyContent": "Dear Alan, in order to upload an AED, you need to take a photo with the location on. (And your photo library app needs to have access to your location to tag the photo.) We then use the geolocation information on the image to know where the AED is, without this, the app will not work because it would not know where the AED is located.",
-        "repliedAt": "2020-11-17 12:40:53"
-    },
-    {
         "reviewId": "gp:AOqpTOEGfGOH4HJPpN9p1G_AmufXX7aZmNFxLvS5g-4DYGeEn5JZ4N2ot7u_kioo2TvmeK0fESLhDKNO2eNoIw",
         "userName": "Eric Hilton",
         "userImage": "https://play-lh.googleusercontent.com/-zVIZlZFeYXw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3Tfjl63fZKSysSTUfso8GERzF5A/photo.jpg",
@@ -180,18 +204,6 @@
         "repliedAt": "2021-02-16 11:02:43"
     },
     {
-        "reviewId": "gp:AOqpTOF9B2qHd158Ab4-ecjruzg_sXsEOUjMOpFk9-7KlvhxaNBpTYpF5YhfY2E_WnD6dHaKk_kF-7236FTaog",
-        "userName": "Daniel Saltzman",
-        "userImage": "https://play-lh.googleusercontent.com/-3cYNJMwDB8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucml_yEviyeqVEd51vmGtTmZlP8Jpg/photo.jpg",
-        "content": "The AED upload function doesn't work on my phone. Every time I go to upload a geo-tagged picture it crashes, regardless of crop size. Geo-tagging is also often inaccurate, so should be replaced with manual location entry.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "13.5",
-        "at": "2021-02-16 07:28:02",
-        "replyContent": "Hi Daniel, sorry to hear this, does the app have access to your photo gallery? Also the geo-tag is used for safeguarding so out team can cross check the location, we would alter the coordinates on our side and encourage users to provide as much information necessary in the \"Additional information\" section. We hope that helps!",
-        "repliedAt": "2021-02-16 10:59:48"
-    },
-    {
         "reviewId": "gp:AOqpTOF270TP4RbRl3KOmuw9k0k3TC-NsTlxpeJ1fFeLR4ct3hvYAPd0DMsZVa-IrlWj7zWQLTF8AztteKRWtg",
         "userName": "Jason Udall",
         "userImage": "https://play-lh.googleusercontent.com/-8fzS5-IVeQI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6f8BySdx6z1LKJAzxMl0d9UUBXg/photo.jpg",
@@ -226,18 +238,6 @@
         "at": "2021-02-15 10:49:38",
         "replyContent": "Dear Richard, the app can accept multiple type of licenses and certificates (based on the chosen organisation) and they come in all shapes and sizes, please move the camera slightly back to include the whole license. If we make it a horizontal rectangle, it wont work for organisations who need a square or vertical certificates.",
         "repliedAt": "2021-02-14 12:32:04"
-    },
-    {
-        "reviewId": "gp:AOqpTOGrctyPhm-rq8JZZt7-pL098o7LVjxS6bKXljnuetBCpYpBcV-ukH9yV9US554b0nyzNwBphQDUiNqZig",
-        "userName": "Barbara Cass",
-        "userImage": "https://play-lh.googleusercontent.com/-3t1MG3TIrec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnImfUL1h3JIFAvWUVBOV0RlzhArA/photo.jpg",
-        "content": "I got another siren today at 11:42. I immediately opened the app to accept, but a message told me as I had not responded it had been given to someone else. Again the alert came 40 minutes AFTER the request. I got a \"siren\" on my phone for the first time the other day at 13:50. I responded straight away, however the task was requested at 13:10 and was given to someone else as they stated I hadn't responded. Why did I get the alert 40 minutes AFTER the request? Very disappointed!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "13.3",
-        "at": "2021-02-14 12:52:08",
-        "replyContent": "Dear Barbara, the app relies on an internet connection to deliver the notifications, if your phone does not have an internet connection (like 3g) and is not connected to wifi it can not receive the notifications on time; in this cases the notifications would be delayed until your device gets connected to the internet. We hope that helps!",
-        "repliedAt": "2021-02-14 12:47:17"
     },
     {
         "reviewId": "gp:AOqpTOGSbV0ah_R0HwvXc1hfBWATqASA1oAMv4HBUkIkSuFKSFOMbAIfOF5ZAKY__H_czm27KrAEpQiL0q7_Xw",
@@ -449,7 +449,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-FxSGzDfrjVU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIuBIN4xTyl30PD4qa9ihLKSgSjA/photo.jpg",
         "content": "Over 500 hours of volunteering, not been called on once. Reported the problem, told to uninstall and reinstall. Did that a few times, still not working. Reported the problem verbally on a couple of occasions as well as by email, to no avail. How much money and time have the NHS wasted on this app? Please tell me if this app is working.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "13.1",
         "at": "2021-01-25 19:47:47",
         "replyContent": "Dear User, our app is the most efficient way of connecting the local demand to local volunteers based on the volunteers chosen roles. The scheme is ran at cost and is second to none in the world, helping over 1.5 million people so far. Re-installing the app doesn't change the level of demand in your area, your area coping well is good news.",
@@ -598,18 +598,6 @@
         "at": "2021-01-20 10:29:45",
         "replyContent": "Dear Julie, if you switch on duty, you would be allocated to the tasks based on your roles and the needs in the community around you. We can not guarantee the tasks and the timings as we would not know when the request for help arises as this purely depends on the demand and number of volunteers available. Hope that helps!",
         "repliedAt": "2021-01-07 14:54:24"
-    },
-    {
-        "reviewId": "gp:AOqpTOFIlBBBh1jXhDThQmpcF3S7RklUP04spROujMKwaYl9TIJZRXzxUfmx7olx7MYwR8Tiz67I7nMVx3hQ_g",
-        "userName": "Aaron Foster",
-        "userImage": "https://play-lh.googleusercontent.com/-NFFWxXPKdBM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxLxtx-sl7pf5XvRDej3TzYcFGwg/photo.jpg",
-        "content": "Impossible to get account deleted once signed up. Zero response from anyone at GoodSAM or RVS.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "13",
-        "at": "2021-01-20 03:49:08",
-        "replyContent": "Hi Aaron, that is not true at all. Both GoodSAM and RVS are ICO registered and all accounts are deleted immediately under GDPR. Please email us at info@goodsamapp.org.",
-        "repliedAt": "2021-01-20 10:43:33"
     },
     {
         "reviewId": "gp:AOqpTOG2z9H4e9Nq513gi0bf_NpzTe3QgJ6ErcXXuBP6LxZUQyzK0Sqde1xc2QniUGQu9jdiVgti6QkZN295YQ",
@@ -1370,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOGTjGWUhwylTULvuRWmisoYcDB2BxASN3LX17f5i3y9K02A7Xze9YOQHtxFgR8zTlmVVGqlmIYB8Xuudw",
         "userName": "Gary Grayson",
-        "userImage": "https://play-lh.googleusercontent.com/-Zy1TDiAq73Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckh_6tdrEPfA7AEbnFrFTrrdoGyAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijAdOUOmxV8cyGgDHQQd_FUvK58ngfVl4P0j-NVQ",
         "content": "Yay ! Now can change the alert sound, both I, my neighbour and my neighbour's dog are happy :-)",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2438,7 +2426,7 @@
     {
         "reviewId": "gp:AOqpTOEiT0sXNA8PE2e75VMZ409Yg8Ms0O4RLO0gzNuNtDB6FhnkhpPh3RVgEksSRO-wujjwbYqHti6Smlos5A",
         "userName": "roland j. ruttledge",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6kn12KqWNE-1odgxSLOdPWBZq5eIX7G17YG6JL4A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPnfW2jmhjtZdLhJSU1UPYJhyvNnuNH0w4_gQfAcA",
         "content": "Easy to use and extremely useful.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3914,7 +3902,7 @@
     {
         "reviewId": "gp:AOqpTOHFSL5AW_KPa0xInwTmCwkqJevLP5CqG0xx7wBoiXhZNsFJ3eGwiBhfP_0Bqv3vFLOy3qwy09GasOF5Bg",
         "userName": "Sj Jaison",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTg9Lt4agfRUZvAlM89Ly2YoKS1EohzFNHDh5MGg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj59SgtqoPrjMQ4JdM40AFWjNEYGYgnfOQgOWm-_w",
         "content": "Was working fine after recent update app is crashing.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -6590,7 +6578,7 @@
     {
         "reviewId": "gp:AOqpTOEURsOSN5RDO07y89mvzmyZgxriz3XT_R3nylmm7HRTzJcasAOVz4ipbSuUTUBpwm8IRVjDLi12J4mFOw",
         "userName": "Becca",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgE4_RRjxFFYkq6ea6BzoLaB3d5iwOQIPI63N4cba8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpRbK32cQ_-0BBpPw-WukADeUDAUyeDxT_tBOXJtU",
         "content": "The app is completely useless. I can't log in, I'm just taken to a screen telling me to upload my certificate. I'm not trying to be a medical responder, I only signed up as an NHS volunteer. You need to make a separate app specifically for us. This app is NOT fit for purpose, read the reviews! What was the point in 750,000 of us signing up if your app doesn't even work? Edit: your FAQ does NOT address my issue. I used the email I signed up with at the NHS volunteer link. It still doesn't work.",
         "score": 1,
         "thumbsUpCount": 24,
@@ -11996,6 +11984,18 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "4.6",
         "at": "2016-04-28 08:52:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF6xet2iufbFRvMmPzuZGeJ77B_mtWS1TFxIvV9QS2qe6TOOSFdSHhWKvJLZj4wbSjJhHcbGrJ2EGXgqw",
+        "userName": "Andrei Maghiar",
+        "userImage": "https://play-lh.googleusercontent.com/-5aKdU4fS36E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmg2LxLOMH4pR4XXXfV7cP0xjf0gA/photo.jpg",
+        "content": "The app is keep loading unable to see the message and don't save my settings. Please fix.thank you!:)",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2016-04-15 02:05:37",
         "replyContent": null,
         "repliedAt": null
     }

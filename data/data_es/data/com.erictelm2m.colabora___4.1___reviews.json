@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEsRt7uKMfGkKTy1nM8b3I49kv8_FOYBdcmFrkTY6YZ0vVfMEZrixJVjZ5GHnYmBLWTOnxJNdyFFZ6Srg",
+        "userName": "Luz Sanchez",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbRTbm3Vknx8ugXdgnaXtbFvMB1qDLnfZTH8BM",
+        "content": "Mala",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-02-28 21:50:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGJHWUVvxQkYyPmRJN0ILPLsz-oIO3wm9m4Z6xj33sX-wfQ2BfTpCPm3-h73ByZzH45XMdRtG-YAfi6wg",
         "userName": "Pedro Maria Gomez",
         "userImage": "https://play-lh.googleusercontent.com/-dcbfDTccGbo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBhho_NtQ-xXgeeQDYhD3ePdCPbg/photo.jpg",
@@ -14,7 +26,7 @@
     {
         "reviewId": "gp:AOqpTOEOHLi9RxDjbhjFAUmzyDIBeN6SDXzCEnT2TJaGrtuv2y-N-e2EDM8gYRsyIt7y56DiVUK-UZtStDwKUw",
         "userName": "Jose Luis S.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggk5YbuJ6X8mSl-canRsd1CY1_fdT224yLSBS530Es",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSv7dJ66ylRmmfEARNSVJZET2MSblQftx-h7aG8Xw",
         "content": "No vale. No funciona para lo que fu\u00e9 creada. Desinstalo que al menos me ahorro bater\u00eda del m\u00f3vil.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -797,7 +809,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhIbMn3jg4Z4NFCNurzcvdjyULgULXC-gzlKQIF2w",
         "content": "La hab\u00e9is vuelto a dejar in\u00fatil con la \u00faltima actualizaci\u00f3n. Vuelvo a bajar la puntuaci\u00f3n al m\u00ednimo.",
         "score": 1,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "2.0",
         "at": "2020-06-29 14:39:49",
         "replyContent": "Muchas gracias por la sugerencia, analizaremos lo indicado.",
@@ -2669,7 +2681,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgoOtViYNWK3eyaGHWQUKljF6p8_-i8IrxOfPIo0A",
         "content": "Se agradece el esfuerzo pero es la app menos intuitiva que he visto nunca. Es necesaria una interfaz mas simple y amigable. Actualizacion: BUG detectado, al a\u00f1adir un contacto de la agenda no se envia la solicitud si el numero de telfono tiene algun guion",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.1",
         "at": "2020-04-04 13:55:21",
         "replyContent": "Muchas gracias por la sugerencia, revisaremos lo indicado.",
@@ -3269,7 +3281,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5eF7zdUCSE4tE20toFCPxt6nqje6wIizRTemOChs",
         "content": "Demasiado simple. No funciona en todos los m\u00f3viles: En el m\u00edo (Android 8) va bien, pero a mi mujer (Android 6) no le arranca, avisando de que la app \"se ha detenido\" Ambos terminales son SAMSUNG Deber\u00eda ser compatible desde versiones Android 4, por lo menos. No tod@s podemos cambiar de m\u00f3vil cada 2 a\u00f1os, para estar \"a la \u00faltima\". Y si no, al menos, informar sobre las versiones realmente compatibles.",
         "score": 2,
-        "thumbsUpCount": 29,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-30 16:24:15",
         "replyContent": "Hola, en la primera versi\u00f3n tuvimos un error con Android 6.\nDisculpe las molestias",

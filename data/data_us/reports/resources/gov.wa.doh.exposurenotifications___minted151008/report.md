@@ -129,6 +129,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> I like the idea that it gives you a heads up if you contact and/or get near a person tested positive for COVID-19.<br> :date: __2021-03-02 09:01:18__
+
 > Lots of fun. Get lost and enjoy!<br> :date: __2021-02-25 23:15:43__
 
 > Good app<br> :date: __2021-02-25 14:56:40__
@@ -146,8 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Need it! One of those I never get allerts on.<br> :date: __2021-01-16 20:03:01__
 
 > Satisfecho de ser notificado cuando uno este expuesto ante gentes con covid-19 mil gracias.<br> :date: __2021-01-14 01:22:18__
-
-> Much needed<br> :date: __2021-01-12 01:20:21__
 
 
 

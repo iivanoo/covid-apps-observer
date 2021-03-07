@@ -177,6 +177,8 @@ The Genesis Convenient CareNow app has been installed by more than **5000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.genesishealth.android.gens.carenow 5 reviews"/>
 </p>
 
+> Great today. Few problems in past weeks.<br> :date: __2021-03-02 19:06:59__
+
 > So convenient since i dont have a vehicle<br> :date: __2021-02-06 18:06:07__
 
 > This was was so much faster than waiting in the office, when its something small. I was done from check in to exit in minutes!<br> :date: __2020-12-30 16:33:24__
@@ -194,8 +196,6 @@ The Genesis Convenient CareNow app has been installed by more than **5000** time
 > Super Easy to use! This is by far the easiest way to get covid testing done for work or to get minor problems diagnosed like pink eye or something. The Drs are awesome!<br> :date: __2020-10-22 18:11:37__
 
 > Makes dr visits easy when working and balancing home life.<br> :date: __2020-10-13 23:12:10__
-
-> Great app worked perfectly<br> :date: __2020-10-11 04:59:07__
 
 
 

@@ -174,25 +174,25 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <img src="5_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 5 reviews"/>
 </p>
 
-> Super fast an great information..Thank you<br> :date: __2021-02-26 21:58:02__
+> Friendly, efficient and informative.<br> :date: __2021-03-06 01:31:12__
 
-> SIMPLE EASY AND QUICK<br> :date: __2021-02-26 21:11:42__
+> Great<br> :date: __2021-03-05 15:48:54__
 
-> Very professional staff, clean environment and Covid-19 protocols followed<br> :date: __2021-02-26 16:37:29__
+> I love this app<br> :date: __2021-03-05 12:06:40__
 
-> Fast Results<br> :date: __2021-02-26 16:07:08__
+> Great easy to use app<br> :date: __2021-03-05 04:22:01__
 
-> It gas been a very professional and prompt service .<br> :date: __2021-02-26 11:01:59__
+> Good<br> :date: __2021-03-05 00:36:12__
 
-> very thankful for this useful app<br> :date: __2021-02-25 21:16:18__
+> great<br> :date: __2021-03-05 00:10:48__
 
-> Really fast way to get your results.<br> :date: __2021-02-25 17:18:45__
+> first class customer service at Mills Pond Park<br> :date: __2021-03-04 19:55:51__
 
-> Shayla and entire staff amazing at advent health labs in Tavares<br> :date: __2021-02-25 15:19:14__
+> Good<br> :date: __2021-03-04 16:08:28__
 
-> decent and quick response<br> :date: __2021-02-25 06:29:16__
+> Get my results a soon as they come in ty.<br> :date: __2021-03-04 15:22:23__
 
-> Excellent service<br> :date: __2021-02-25 00:30:31__
+> Informative<br> :date: __2021-03-04 13:52:50__
 
 
 
@@ -201,6 +201,14 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 4 reviews"/>
 </p>
+
+> im feel great BACK to WORK<br> :date: __2021-03-06 02:56:48__
+
+> Ok<br> :date: __2021-03-04 17:31:39__
+
+> Great.!!<br> :date: __2021-03-03 22:22:46__
+
+> I keep getting notifications without a test<br> :date: __2021-02-28 18:23:08__
 
 > great job<br> :date: __2021-02-26 16:38:54__
 
@@ -213,14 +221,6 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 > Unsure<br> :date: __2021-02-20 15:32:47__
 
 > Haven't used yet<br> :date: __2021-02-19 22:18:51__
-
-> the Health care workers were in the community the test were done it was an easy process and the results were send to my phone and it were free. I were very grateful for the test.<br> :date: __2021-02-18 17:01:35__
-
-> Wounderful<br> :date: __2021-02-17 22:26:15__
-
-> my test came back quickly and negative.<br> :date: __2021-02-16 13:50:49__
-
-> App works!<br> :date: __2021-02-16 02:45:49__
 
 
 
@@ -258,6 +258,12 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <img src="2_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 2 reviews"/>
 </p>
 
+> I downloaded the app and this link says the app is installed but I cannot find anything called Healthy Together. Is there a different name for this app?<br> :date: __2021-03-05 00:46:16__
+
+> Some of us are not attached to our phone the results should have come by email.<br> :date: __2021-03-02 19:28:50__
+
+> This app needs to work for samsung s21 ultra. Not cool.<br> :date: __2021-03-01 16:56:08__
+
 > Its not fully downloading the apps<br> :date: __2021-02-14 18:11:34__
 
 > Mostly useless. Contact tracing isn't good sincere there isn't wide adoption. If the symptom checker tells you to get tested, it provides contact information which is usually wrong. Test results take days to post here - long after I've heard back from other sources.<br> :date: __2021-02-13 19:55:56__
@@ -272,12 +278,6 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 
 > Cannot get pin no. To verify phone no. Use mobile instead of land line and it works fine.<br> :date: __2021-02-05 18:17:36__
 
-> I just uninstalled your app because it interfered with all my other apps or instillation s o I took it off my phone<br> :date: __2021-01-23 05:31:04__
-
-> Can't download my results<br> :date: __2021-01-11 19:38:39__
-
-> Doesn't always do what supposed to.<br> :date: __2021-01-10 16:17:19__
-
 
 
 #### 1-star reviews
@@ -286,24 +286,24 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <img src="1_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 1 reviews"/>
 </p>
 
+> Couldn't get my results, this is fustraiting<br> :date: __2021-03-05 02:45:04__
+
+> Can not get past the basic enter your phone number screen to continue. There's no regular website to check just the app and it doesn't work.<br> :date: __2021-03-04 23:53:55__
+
+> It gave me a pin and now it won't accept that pin.<br> :date: __2021-03-04 18:17:59__
+
+> 1st thing it demands, cell number. Wake up sheep.<br> :date: __2021-03-03 18:06:18__
+
+> I have been trying to download the ap for 15 minutes, it just keeps spinning around and around. I am not going to sit here all day and wait for the ap to upload to my phone. Why can't Baycare just send us our results: positive or negative? This is frustrating!<br> :date: __2021-03-02 15:41:50__
+
+> The app never download<br> :date: __2021-03-01 03:46:12__
+
+> First I had to do a weird pin thing that didn't work until I uninstalled/reinstalled twice. Then it gives me a list of results to "unlock" Most of them are days I didn't get tested. I realize that they are my kid's results. I'm not sure how they know who my kids are but they do. On the days that we all got tested I have to guess each of our names/birthdates to figure out whose results are whoes.I'll get at call before the app gives me my kids results "faster" how do they know to send them to me?<br> :date: __2021-02-28 10:42:33__
+
+> All I wanted was my COVID19 test results. After many pages I came to this eval page-- no test results.<br> :date: __2021-02-28 07:38:46__
+
+> Having problems getting in for weeks please update.<br> :date: __2021-02-27 17:31:37__
+
 > Installed app. Requested pin 3 times. Haven't yet received pin even though it says it has been sent.<br> :date: __2021-02-26 22:26:01__
-
-> Could not get my results after signing up.<br> :date: __2021-02-26 22:00:43__
-
-> I stopped registering after the app required me to enter my device password. Not cool. I saw another comment say the same thing and the app denied it saying it was requesting the pin. I already entered the pin at this point and it will not let me continue unless I give my device password. Update after developer response: I already entered the texted pin when it explicitly asked for my device password<br> :date: __2021-02-26 17:03:03__
-
-> The app will not open. I get a text saying my results are ready, but when I click on the link, I'm taken to the Google play page and told the app is "installed", but am given no way to open it or access my results, and no way to request assistance. Would have given 0 stars had the option been available<br> :date: __2021-02-26 16:31:34__
-
-> Having problems getting in for weeks<br> :date: __2021-02-26 16:08:49__
-
-> I already have my results. Why should I download an app that I don't need? If they want more personal info from me they are not going to get it!<br> :date: __2021-02-25 20:59:19__
-
-> Unable to unlock if errpred in input.<br> :date: __2021-02-25 00:31:48__
-
-> Received a text stating download this app for test results. I did. Nothing on it. Now 2 hours and 2 additional text later... telling me results are in. Yet the app reads no new info. Waste of time.......<br> :date: __2021-02-24 17:58:56__
-
-> Prompts for sign in every use. How is this effective for contact tracing when it doesn't activate the option in settings? Daily checkups aren't able to be responded to from notification quick response.<br> :date: __2021-02-24 17:49:55__
-
-> First of all you cant get it down loaded<br> :date: __2021-02-24 17:27:16__
 
 

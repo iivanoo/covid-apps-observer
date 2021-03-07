@@ -204,6 +204,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
 
+> I like that it makes me mindful of my mental health at least once a day.<br> :date: __2021-03-04 17:59:54__
+
 > Editing my review 2/9/2021 - app seems to work again, installed on a new phone (Galaxy S21 Ultra). Not sure what changed, but whatevs...<br> :date: __2021-02-10 14:23:44__
 
 > I hope I'm contributing to research. I feel I need to help, somehow, in this pandemic! The little gratefulness reminders in the process are helpful!<br> :date: __2021-01-22 15:10:47__
@@ -221,8 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Good except times when I couldn't get to the reporting page of the app. I usually just quit. It would be nice to be more user friendly.<br> :date: __2020-11-12 07:28:00__
 
 > I like that mental health and not just COVID symptoms is tracked.<br> :date: __2020-11-11 07:13:33__
-
-> Clear to understand, easy to use<br> :date: __2020-11-11 03:25:16__
 
 
 

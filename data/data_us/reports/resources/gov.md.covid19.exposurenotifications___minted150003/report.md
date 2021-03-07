@@ -213,6 +213,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> This app would be way more useful as a public health tool if it centralized vaccine appointment scheduling across all the administration sites. How often do COVID-infected persons actually report their cases here?<br> :date: __2021-03-02 15:44:05__
+
 > I wanted to download to support but seeing the reviews and the lack of actual care in updating this app to be on par with neighboring state apps which are way more helpful... I used to use citizen to enable the covid alerts but they removed that feature from the app and decided to try the state app before searching for their tracer app. Way more comprehensive information and you don't need some code from the health department that apparently even the health department can't figure out.<br> :date: __2021-02-06 00:19:57__
 
 > Updates without proper detailed changelogs.<br> :date: __2021-01-27 07:35:20__
@@ -230,8 +232,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > I wish I could use both Maryland and Pennsylvania COVID apps because I live in Maryland and work in Pennsylvania. But I can only get notifications from one of them. I am more likely to get exposed to COVID in PA then MD. Other then that it is nice.<br> :date: __2020-12-11 18:19:42__
 
 > I am not sure whete to get the verification code to use in the app.?.?.?<br> :date: __2020-12-10 04:46:27__
-
-> Good to know about possible exposure but using bluetooth is almost as bad, please change this?<br> :date: __2020-11-29 16:04:37__
 
 
 

@@ -142,6 +142,14 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> It's good God bless<br> :date: __2021-03-03 07:23:35__
+
+> I really like this App, Thanks alot.<br> :date: __2021-03-02 19:41:00__
+
+> Great app in helping one to keep track of self related symptoms, contact tracing, and covid information on a up to date status locally, state wide, & nationally.<br> :date: __2021-03-02 18:09:00__
+
+> What can be told about covid-19 cases by county help<br> :date: __2021-02-27 22:08:43__
+
 > Nice clean design and no apparent bugs<br> :date: __2021-02-26 23:38:31__
 
 > Daily reminder very useful.<br> :date: __2021-02-25 01:09:10__
@@ -153,14 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > This is a very useful app, easy read & helps inform everybody aware of anything old & new about COVID, ESP. since it is such a very deadly disease striking everybody in it's parh in many horrible ways & symptoms, & sadly death. God Bless🙏🏿<br> :date: __2021-02-17 01:36:20__
 
 > So much information that you need to know it's a good app<br> :date: __2021-02-14 23:45:37__
-
-> Very satisfied<br> :date: __2021-02-14 02:48:57__
-
-> It's letting me know what is going on.<br> :date: __2021-02-13 21:56:31__
-
-> Thx..Be safe with this app<br> :date: __2021-02-12 22:23:33__
-
-> (Hopefully) keeping us safe. Contains COVID stats so useful even when you're not putting yourself at risk. Refreshingly well-designed for a gov't app. I never got an alert so I don't know how well the COVID tracing works.<br> :date: __2021-02-10 18:36:54__
 
 
 
@@ -226,6 +226,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> Had to go back 73yrs just to get to your site with a arrow one by one.<br> :date: __2021-03-04 18:57:57__
+
 > So introverted I was never around anyone long enough to set it off, but I was around people who contracted covid<br> :date: __2021-02-25 14:50:54__
 
 > Same old info every day. Got name in 5-6 places. Much more vaccine than Delivery<br> :date: __2021-02-07 23:49:49__
@@ -244,8 +246,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Who knows if it's actually useful? It does nothing hurtful. My latest annoyance.<br> :date: __2020-12-21 10:23:42__
 
-> The info on it is useful. But the app itself seems to shut off my Bluetooth on its own. After downloading the app my Bluetooth never stays on. I Uninstalled the app yesterday and my Bluetooth stays on. I use my Bluetooth for other things, so I can't use the app until they fix that.<br> :date: __2020-12-08 20:10:14__
-
 
 
 #### 1-star reviews
@@ -254,11 +254,15 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> You're very stupid if you believe the government's bs.<br> :date: __2021-03-05 16:23:06__
+
+> Junk. Don't waste your time.. also this is the second time I reviewed it my last review also a one star was deleted how ironic.<br> :date: __2021-02-28 21:30:37__
+
+> Useless to the consumer, IMO. The information is sketchy, at best; and, where it truly matters, there is no real information.<br> :date: __2021-02-28 20:38:03__
+
 > Was OK. Now it has Vaccine info and wants my birthday. In order to put it in the way you have it set up, I would have to go back on your calendar 67 years, one month at a time (about 800 taps to reach Nov 1953). Please fix this with drop downs vs calendar selection. Otherwise, it's useless.<br> :date: __2021-02-25 21:18:34__
 
 > Covid is fake virus. This one big hoax like 9/11<br> :date: __2021-02-24 20:37:57__
-
-> This is a placebo people.. this app is bs and just giving them easy access to your location. It doesn't tell you anything valuable at all.<br> :date: __2021-02-23 04:53:07__
 
 > The app itself is decent however it will only work when the County department of health is willing to work with it. I recently got diagnosed with covid and has been almost a week for a call with the validation code for the app.<br> :date: __2021-02-21 23:07:20__
 
@@ -269,9 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Besides the fact that the app is not that great, in no way do I trust The People's Republic of Pennsylvania. I guess their drones in the sky constantly watching us weren't enough. Now they want to use our phones to track us better. I'd like to believe this is to help with COVID but my gut tells me otherwise.<br> :date: __2021-02-14 04:21:03__
 
 > What a joke, I have been around plenty of people with COVID and was never notified<br> :date: __2021-02-04 14:20:02__
-
-> Does not work. Health department does not have a code for you to enter, for tracking.<br> :date: __2021-02-01 20:30:11__
-
-> The whole context of this app is a joke like the governors rediculous and unconstitutional mandates. Just a way they try to control and track you. DO NOT TRUST ANYTHING THAT COMES FROM THE WOLF ADMINISTRATION.<br> :date: __2021-02-01 01:31:31__
 
 

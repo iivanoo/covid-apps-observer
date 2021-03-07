@@ -146,6 +146,12 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Nice apk<br> :date: __2021-03-05 01:13:37__
+
+> Keeps me well informed<br> :date: __2021-03-04 03:56:02__
+
+> Had 1st shot. 2nd scheduled for 10th of March. But I have a head cold & a mild sore throat with a dormant ache in my chest!<br> :date: __2021-03-02 12:53:45__
+
 > Good<br> :date: __2021-02-23 06:35:12__
 
 > Awesome<br> :date: __2021-02-15 12:18:57__
@@ -159,12 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Keeps me posted on what is going on<br> :date: __2021-01-30 23:21:39__
 
 > No problems<br> :date: __2021-01-29 20:14:21__
-
-> Perfect<br> :date: __2021-01-20 08:45:44__
-
-> Everyone in NJ should be on this. It automates contact tracing, anonymously. Will notify you if you've been exposed.<br> :date: __2021-01-14 22:17:13__
-
-> Exelent<br> :date: __2021-01-14 05:37:09__
 
 
 
@@ -202,6 +202,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
 
+> It's fine for the State of NJ tracking you. But, if you like me are struggling to get vaccinated it is totally useless, much like the State of NJ's vaccine site.<br> :date: __2021-03-02 13:23:05__
+
 > no data update for several days<br> :date: __2021-02-23 18:09:44__
 
 > Never received any alerts<br> :date: __2021-02-12 03:18:12__
@@ -220,8 +222,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Works ONLY: #1. If an infected person ALSO has the APP and you both have Bluetooth &. Location turned on. And #2. You come within 6 Feet for more than 10 minutes of an infected person AND #3 The infected person AGREES to allow the Tracers to access the app code information. What code? When your phone meets another phone ( see #1) a code is sent via bluetooth to both phones. The app remembers the code info. The tracer simply activates that code to send you an alert. Good for crowds etc.<br> :date: __2020-11-18 04:34:50__
 
-> This app collects daily data well enough, BUT IT GIVES LITTLE INFO THAT CAN HELP PEOPLE!! PLEASE IMPROVE IT!!! - County-level % is % of STATE!! USELESS!! WHAT'S IMPORTANT is the current 7 day positivity testing rate!!! - NOT BY COUNTY, BUT BY MY CURRENT LOCATION!!! - EVEN BETTER: GIVE THE % POSITIVITY WITHIN A 1,5,10,25 MIKE RADIUS!!! THIS WAY, PEOPLE CAN MANAGE RISK!!! - YOU HAVE THE GPS COORDINATES OF EVERYONE, SO YOU CAN DO THIS!!! WHY DON'T YOU????<br> :date: __2020-11-15 21:25:32__
-
 
 
 #### 2-star reviews
@@ -229,6 +229,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
+
+> Bad<br> :date: __2021-03-06 10:14:05__
 
 > For the elderly or those who cannot walk long distances, there is no information on which site is best; I am in category 1b. Everytime I search for a location. I am re-routed back to this site which I have already registered.<br> :date: __2021-01-26 23:12:35__
 
@@ -248,8 +250,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Y 553e<br> :date: __2020-10-13 03:40:34__
 
-> In order to install app I was to turn off my wifi during install and my malware scanner. After doing this I turned on my wifi no problem, but my malware scanner detected the NJ COVID ALERT as malware due to I guess the access to Bluetooth. I will try it for a week and decide weather to keep it<br> :date: __2020-10-11 16:57:02__
-
 
 
 #### 1-star reviews
@@ -257,6 +257,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
+
+> Crazy<br> :date: __2021-03-03 16:11:11__
+
+> Ĺeads you to believe it will let you know where to get vaccinated. Nj has the worst system as it relates to vaccines. It so simple, every area code has there own site, if you prove you live in that zip, you can get vaccinated. Its a no brainer, but the state has NO CLUE!!!<br> :date: __2021-03-02 01:56:28__
 
 > This is not my state take it off of my phone now<br> :date: __2021-02-26 14:44:24__
 
@@ -273,9 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > nobody uses it<br> :date: __2021-01-25 07:24:34__
 
 > Shows negative daily deaths<br> :date: __2021-01-19 03:50:44__
-
-> It's not mine but it's on my phone<br> :date: __2021-01-12 11:50:16__
-
-> 2019 US deaths be4 Pandemic: 2.85 mil 2020 US deaths After Pandemic: 2.83 mil Per C.D.C. Say no to fascism. Say no to this garbage app..<br> :date: __2021-01-06 11:15:47__
 
 

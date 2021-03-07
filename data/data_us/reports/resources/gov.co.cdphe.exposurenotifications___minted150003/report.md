@@ -125,6 +125,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> Elpata<br> :date: __2021-03-06 05:27:02__
+
+> I think<br> :date: __2021-03-03 20:07:33__
+
+> I had it for months and thought it didn't work until I got a message that I was exposed on a trip! It only works if more people download it, use it and report if they test positive. It helped me to notify my job and quarantine effectively.<br> :date: __2021-02-28 10:33:55__
+
 > People hack my account<br> :date: __2021-02-23 08:01:47__
 
 > Great app!!!<br> :date: __2021-02-18 09:51:27__
@@ -138,12 +144,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Awesome<br> :date: __2021-02-02 10:22:45__
 
 > Glad its her<br> :date: __2021-02-02 00:56:04__
-
-> good<br> :date: __2021-01-31 21:50:12__
-
-> This app. does what it says<br> :date: __2021-01-18 07:59:50__
-
-> Amazing<br> :date: __2021-01-10 02:04:49__
 
 
 
@@ -237,6 +237,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> Pointless. I'm a teacher and have been quarantined for to exposure from a student. It's obvious this info isn't getting passed on.<br> :date: __2021-02-27 17:14:04__
+
 > Only works if people register, which doesn't seem likely to me....<br> :date: __2021-02-20 14:16:34__
 
 > Not enough people use it to make any difference..<br> :date: __2021-02-14 22:06:32__
@@ -254,7 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > I don't see how this is useful if you don't really know where you got exposed and the date & time. And why not get an alert at the time of the event so an individual can remove themselves. Why doesn't a store owner get an alert so they know someone positive is in the store. It makes no sense that if we are trying to control the spread if this disease that this program doesn't seem a bit more comprehensive. After the fact seems a bit useless. Besides, it sucks battery.<br> :date: __2021-02-04 16:59:11__
 
 > Pretty useless since you can't let it know if you test positive without entering some sort of mysterious missing/failing verification code. Where is that supposed to come? Who knows because it is not mentioned in their guidance.<br> :date: __2021-02-03 21:59:10__
-
-> I have had countless people in my life get COVID 19 and this app has been silent. Absolutely a pointless app.<br> :date: __2021-01-27 06:52:38__
 
 

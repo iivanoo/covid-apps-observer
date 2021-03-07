@@ -198,6 +198,8 @@ The Covid Watch Arizona app has been installed by more than **10000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 1 reviews"/>
 </p>
 
+> Was hopeful for this, but this app is *extremely* limited. With only around 10K downloads (assuming these are still installed and running), there's no way it can function effectively for contact tracing. First, this had apparently been available since August 2020? No one knows about this app. Second, there needs to be a way for users to report their own exposures to those diagnosed covid positive, not just personal diagnoses - consider medical field workers: doctors, nurses, pharmacy.<br> :date: __2021-03-05 20:29:24__
+
 > I know I've been potentially exposed and have received no exposure notifications<br> :date: __2021-01-30 19:11:05__
 
 > Pretty useless since statewide reporting is not available for the app. Need to change the name to UofA/ASU COVID Tracker since they're the only regions that actually work.<br> :date: __2020-12-16 16:06:21__

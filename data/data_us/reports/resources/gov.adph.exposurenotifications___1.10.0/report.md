@@ -151,6 +151,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-03-03 05:13:55__
+
+> If you're struggling with the app not being active, make sure in Android settings that it isn't being put to sleep. Android puts apps that you don't open often into a suspended state to save battery usage. You need to disable that for this app.<br> :date: __2021-03-01 19:26:16__
+
 > Very interesting<br> :date: __2021-02-11 20:09:14__
 
 > Edit from 1 to 5 stars: Developers replied to my complaint echoing many other's issues since November and the update is running smoothly so far, I really want this to work well for everyone. Previous review: Reminds me to turn BT and location without fail so I always activate while in public but Samsung Android app says last check was Nov 21, 2020 no matter what....sooo honestly have no idea if it's been working correctly or not.<br> :date: __2021-02-08 23:57:33__
@@ -166,10 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Was good to know about the App<br> :date: __2020-11-28 18:00:06__
 
 > People saying this app is not working what is this used for I will try it anyway if it doesn't work then I'll take it off my phone<br> :date: __2020-11-20 01:08:13__
-
-> Amazing<br> :date: __2020-11-12 13:16:22__
-
-> Eh Um.... HMMM 1# question tho why this app 4 all the phone's?.. Just wondering...<br> :date: __2020-10-27 02:22:20__
 
 
 
@@ -257,9 +257,11 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
-> Absolutely cringe<br> :date: __2021-02-25 19:52:40__
+> i want to install it 😭 but i dont have gigabites and i only have 1 app installed so sad<br> :date: __2021-03-02 23:08:46__
 
-> DON'T HAVE ON MY PHONE<br> :date: __2021-02-24 17:54:17__
+> Doesn't work just opens to an arrow and sits there.<br> :date: __2021-03-02 04:40:04__
+
+> Absolutely cringe<br> :date: __2021-02-25 19:52:40__
 
 > Wasnt for my state<br> :date: __2021-02-23 07:32:27__
 
@@ -274,7 +276,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Just like wearing a mask some do not want there rights being taken from them so this site only works as those who are positive fill out the notice . So its a honor system and so far i did not get one notification.So I am thinking most do not report positive results and do not trust it.<br> :date: __2021-02-04 00:11:11__
 
 > I tested positive and reported it through the app. My husband STILL has not received an exposure notification 4 days later.<br> :date: __2021-02-03 00:24:41__
-
-> As far as dumb and useless apps go, this one definitely takes the cake.<br> :date: __2021-02-01 05:37:56__
 
 

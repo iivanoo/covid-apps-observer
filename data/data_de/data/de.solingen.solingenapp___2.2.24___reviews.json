@@ -1,15 +1,15 @@
 [
     {
-        "reviewId": "gp:AOqpTOGJ0pybU7MeMKRzH6WL8C-ZFfHupnjSoGIHB6Ntu4KO9-2l124Hg0GhVMkPJYsqWGG1BuapmMPKzMOq5Kc",
-        "userName": "Oliver",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg9Xx4Vq7eJYxFWoYKPVDA8xEZAIZasvul7qsPS5P4",
-        "content": "Prima App. Sehr sch\u00f6n Designed und die Informationen sind gut aufbereitet. Weiter so.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.2.24",
-        "at": "2021-02-27 09:41:14",
-        "replyContent": null,
-        "repliedAt": null
+        "reviewId": "gp:AOqpTOFkuwjbSV33uinrVt6fehVdUwIvJJ2u9Ih36olAD6SVhe2l7VclhpIxmD8Q2CNzyfx1F6zNnG7yCR1Oy0Y",
+        "userName": "Bilbo B.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOnW9rkPT7AqnjateMUjQZGfSQt8ySkIQVmHGaQQ",
+        "content": "Okay, die App l\u00e4uft mittlerweile und tut was sie soll. Der Funktionsumfang k\u00f6nnte noch was gr\u00f6\u00dfer sein. Leider klappt das Scaling nich nicht ganz, zum Teil werden Textbereiche bin anderen Boxen \u00fcberdeckt (Samsung S10) Update: bekam heute die erste Benachrichtigung von der App, und ich bekomme einen dauerhaften Fehler angezeigt... Jetzt deinstalliert, schade",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.2.17",
+        "at": "2021-03-05 17:02:32",
+        "replyContent": "Hallo Bilbo B.! Vielen Dank f\u00fcr Ihr Feedback, wir haben gestern erneut die Version 2.2.7 hochgeladen. Funktioniert die App nun auf Ihrem Ger\u00e4t? Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
+        "repliedAt": "2020-11-26 16:59:41"
     },
     {
         "reviewId": "gp:AOqpTOEqV-Oi-w5GdgAJEmkhaD1LzasHqRgAb1R7Hdyui2QvFWZcTlLrZ0yC29UsYnfvvb1t9RUw4nMgSeereyc",
@@ -41,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-F6wmhgXJyU4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclreipxLPJEdRk-2riaMrUi-edOdA/photo.jpg",
         "content": "App lie\u00df sich \u00fcber mehrere Tage nicht starten. Es wurde immer der Fehler 100 angezeigt. Habe sie jetzt deinstalliert und neu installiert. L\u00e4uft wieder.",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-13 23:54:38",
         "replyContent": "Hallo Brigitta Fassender, wir freuen uns, dass die App auf Ihrem Ger\u00e4t wieder l\u00e4uft und bedanken uns f\u00fcr die positive Bewertung. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
@@ -418,18 +418,6 @@
         "at": "2020-11-29 09:37:31",
         "replyContent": "Hallo Herr Schneeloch, wenn Sie uns an solingen.digital@solingen.de die Adresse des Baustelle senden, pr\u00fcfen wir warum diese Baustelle nicht im Datenbestand enthalten ist. Vielen Dank!",
         "repliedAt": "2020-12-02 08:00:34"
-    },
-    {
-        "reviewId": "gp:AOqpTOFkuwjbSV33uinrVt6fehVdUwIvJJ2u9Ih36olAD6SVhe2l7VclhpIxmD8Q2CNzyfx1F6zNnG7yCR1Oy0Y",
-        "userName": "Bilbo B.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOnW9rkPT7AqnjateMUjQZGfSQt8ySkIQVmHGaQQ",
-        "content": "Okay, die App l\u00e4uft mittlerweile und tut was sie soll. Der Funktionsumfang k\u00f6nnte noch was gr\u00f6\u00dfer sein. Leider klappt das Scaling nich nicht ganz, zum Teil werden Textbereiche bin anderen Boxen \u00fcberdeckt (Samsung S10)",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "2.2.7",
-        "at": "2020-11-28 11:50:51",
-        "replyContent": "Hallo Bilbo B.! Vielen Dank f\u00fcr Ihr Feedback, wir haben gestern erneut die Version 2.2.7 hochgeladen. Funktioniert die App nun auf Ihrem Ger\u00e4t? Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
-        "repliedAt": "2020-11-26 16:59:41"
     },
     {
         "reviewId": "gp:AOqpTOHdmkKB9tAVenfeA0YusFS0l-1ZntAswXsTngBZY5HKm0umx13b9v15LiNvScpEttKN7bJn7p9i9Ycpp0g",

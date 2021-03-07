@@ -257,6 +257,12 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Inlike the canada app. This one knows who you are so they can send "support" sounds like they want to police us.<br> :date: __2021-03-03 15:55:33__
+
+> Drained 40% of my battery in 8 hours in the background<br> :date: __2021-03-01 23:59:26__
+
+> Relies on non existent / useless contract tracing and honesty from users so is doomed to be useless<br> :date: __2021-03-01 13:48:55__
+
 > Alberta needs to join the national tracking app and quit thinking their app is worth a damn<br> :date: __2021-02-26 20:37:06__
 
 > National app available. Why arnt we using it<br> :date: __2021-02-19 16:29:03__
@@ -270,11 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Its draining my phoes battery.<br> :date: __2021-02-03 10:04:53__
 
 > Wasted time monitoring<br> :date: __2021-02-02 02:10:31__
-
-> I was being told my information will be kept in private. Why do they need to ask my phone numbers? The 1st version never my phone number but this one need it. The App kept eating up phone battery. My phone has a 5000mA battery. It should last 3 days if I put it on standby mode. Now, it can only last 1 day long. It toke away so much government money to design this App. Why not update this App to make it save more cell phone battery?<br> :date: __2021-02-02 02:07:04__
-
-> Same complaints as everyone else<br> :date: __2021-01-29 16:42:42__
-
-> Like others are saying, it needs an off button because of the battery drain when using it at home. Also, we need to use the federal app asap this one just doesn't have a audience anymore.<br> :date: __2021-01-26 03:30:38__
 
 

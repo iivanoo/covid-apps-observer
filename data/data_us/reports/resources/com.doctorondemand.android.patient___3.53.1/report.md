@@ -191,25 +191,25 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 5 reviews"/>
 </p>
 
-> I love this service!! The Doctors are Awesome, they take the time to explain everything patiently to you. I will recommend Doctor on Demand 100% to anyone.<br> :date: __2021-02-27 09:11:48__
+> Very good 1st time experience.<br> :date: __2021-03-06 10:56:11__
 
-> Great option vs going into a doc office<br> :date: __2021-02-27 04:54:57__
+> Absolutely love this service it works around my schedule as well I feel I always have a DR I trust at my finger tips, for the minor illnesses that sometimes require a prescription<br> :date: __2021-03-06 02:34:56__
 
-> Nice<br> :date: __2021-02-27 04:07:07__
+> Great app!<br> :date: __2021-03-06 01:15:54__
 
-> Professional, quick, and extremly helpful!<br> :date: __2021-02-27 01:46:52__
+> Very helpful Dr's and being able to be seen so quickly is a huge benefit<br> :date: __2021-03-05 22:38:47__
 
-> Great experience with Dr. Andrew Zaager. Fast and efficient! Will definitely use again!👍<br> :date: __2021-02-27 01:39:33__
+> Please, convenient, professional, pleasant staff and doctors! I well use them again and again.<br> :date: __2021-03-05 21:04:15__
 
-> Doctor was available quicker than estimated, and showed concern while providing fast care. And free through my insurance! Will use again if needed. Edit: used today for a different medical concern. The doctor ordered labs immediately, gave me homework, and asked for a follow-up visit to build a plan. I feel better already knowing my concerns are being addressed.<br> :date: __2021-02-26 23:50:54__
+> Surprisingly easy. Great service.<br> :date: __2021-03-05 19:14:16__
 
-> great service and easy to use. attentive doctors! Always very satisfied after numerous calls with different doctors. Highly recommend. App works very.<br> :date: __2021-02-26 22:08:28__
+> Quick and painless!<br> :date: __2021-03-05 18:20:25__
 
-> Convenient<br> :date: __2021-02-26 19:38:23__
+> Excellent service wonderful doctor listen to all my complaints and knew excatly what was happen to me<br> :date: __2021-03-05 17:54:52__
 
-> Simply the best<br> :date: __2021-02-26 19:21:15__
+> Excellent care, and very convenient<br> :date: __2021-03-05 16:27:45__
 
-> This app is the future of medicine. It's not perfect yet but we it will get there<br> :date: __2021-02-26 17:47:36__
+> App works well I enjoy it<br> :date: __2021-03-05 15:15:15__
 
 
 
@@ -218,6 +218,12 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 4 reviews"/>
 </p>
+
+> Good<br> :date: __2021-03-05 16:25:54__
+
+> easy and efficient<br> :date: __2021-03-04 16:53:16__
+
+> The online service is convenient for the patient. I've had all good experiences. Friendly doctors. I'm glad my friend recommended Doctor on Demand.<br> :date: __2021-03-03 16:30:46__
 
 > It's nice to get good care at home<br> :date: __2021-02-26 23:03:42__
 
@@ -233,12 +239,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Good very informative!<br> :date: __2021-02-21 14:39:41__
 
-> I have overall enjoyed my use of D.O.D, however, what needs to be improved upon is the scheduling. There seems to be an issue always when trying to schedule follow-up appointments (at least for me - i.e. no dates available). I don't have time to check the app every day to see if there are openings. Outside of this hiccup, I don't have any other issues with the app. Very convenient.<br> :date: __2021-02-16 05:26:59__
-
-> A big hell ya. No one feels like getting out of PJ's when you feel bad and the Cova Cloud is lerking.<br> :date: __2021-02-15 19:37:37__
-
-> It's a good option for a lot of more minor problem's. The audio kept breaking up but the weather is horrible and that was a connection issue not Dr..onD. 's fault.<br> :date: __2021-02-14 20:09:58__
-
 
 
 #### 3-star reviews
@@ -246,6 +246,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 3 reviews"/>
 </p>
+
+> I would've given a better rating it it wasn't for the fact that they added my sister along with my mother as family members suffering from dementia. They didn't provide a way for me to correct the misinformation.<br> :date: __2021-03-05 00:49:51__
+
+> I don't have insurance because I can't afford it and Doctor on Demand is very expensive.<br> :date: __2021-03-02 18:21:55__
 
 > Dr great. Tech not so good.<br> :date: __2021-02-23 18:48:28__
 
@@ -261,8 +265,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > The doctors are fabulous. However their lack of ability of tec support and processing insurance is not good.<br> :date: __2021-01-22 01:24:14__
 
-> Nice and safe way to check symptoms before going in to ER.<br> :date: __2021-01-09 03:28:42__
-
 
 
 #### 2-star reviews
@@ -270,6 +272,10 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 2 reviews"/>
 </p>
+
+> Ive used yhis app 3 times. 2 of the times they didnt fulfill the papeework requirement i had to return ti work. Which makes you have to go back a 2nd time. Last time took 5 wks for them to get a pi release for me to give dr and they never contacted him to sign paperwork. lost the job.<br> :date: __2021-03-06 00:50:25__
+
+> The consulting service itself is great, and the doctors have been both helpful and professional, but the app/service restricting the ability to make appointments based on your current location and not the location where you'll have returned to in... I don't know... 5 weeks' time when the appointment ACTUALLY is scheduled is more than a little frustrating. Not only that, booking on a PC isn't allowed without camera access. Except I don't have a camera installed on this PC, and I don't intend to use it for the appointment. App developers, please consider that the devices and locations used during the appointment booking process may not reflect those used at the time of service and be more flexible. Show a warning: "This doctor is not licensed in your current state. Please ensure you have returned to your state of residence at the time of your appointment." or perhaps "Please note that this service will require camera access at the time of your appointment." These restrictions should only apply at the time of service. What's to stop me from booking an appointment in the correct state and on a device with a webcam, only to lack both of those at or near the time of the appointment? THAT'S the issue you need to address. Not the arbitrary one you're creating for your users. Overall, it's a good service with a restricted app and website that don't even necessarily address the issues for which they've made the app/website so restrictive.<br> :date: __2021-02-28 18:27:12__
 
 > No callback or reconnect function of your internet drops during the call so you have to reschedule for the next appointment which could be days or weeks away very unprofessional for an app in 2021<br> :date: __2021-02-09 23:49:18__
 
@@ -281,8 +287,6 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 
 > Doctors are great!! Super nice and always so helpful! Usually never a long wait. But don't ever have any questions to submit to the support team. I have message multiple times with no reply. Literally week 3 of no responses. I need a doctor's note for work, the doctor forgot to send it to me. I reached out January 15 for one, and nothing no responses at all.<br> :date: __2021-02-03 18:10:21__
 
-> Not a good fit for the care I need.<br> :date: __2021-01-08 16:51:08__
-
 
 
 #### 1-star reviews
@@ -290,6 +294,16 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.doctorondemand.android.patient 1 reviews"/>
 </p>
+
+> Huge scam. They said they would provide a service and didn't. Just told me to go see a local doctor for a simple condition that they claim they can help with. How does that help?<br> :date: __2021-03-05 03:50:48__
+
+> Does not take my insurances.<br> :date: __2021-03-04 15:24:08__
+
+> What If I want to speak to a doctor without having any symptoms? Not clear if available.<br> :date: __2021-03-01 04:31:33__
+
+> Had to change my review to one star. Sick as a dog won't go into detail but need to be seen by medical professionals and the app just will not work. Go for an appointment and it just loading and then says sorry try again later. Well after 5 hrs and trying along the way I still can't get threw<br> :date: __2021-02-28 16:37:34__
+
+> Insurance acceptance always glitchy<br> :date: __2021-02-28 14:56:46__
 
 > only wanf to use this app when i am sick and it is so frustrating to use I give up<br> :date: __2021-02-26 23:18:05__
 
@@ -300,15 +314,5 @@ The Doctor On Demand app has been installed by more than **1000000** times. At t
 > I have changes my 5 star review to a 1 star! For urgent care services and to avoid a trip to the emergency room, this app has been great! However, my most recent experiences have not been the same. I have made 3 appointments for therapy services and each time we are prepared waiting for the appointment to start and the appointment drops or is canceled within minutes. Very disappointing!<br> :date: __2021-02-22 22:23:20__
 
 > Incompetence, telling me they called in my prescription, and they didn't. Connection problems on there part. If I could give a 0., I would. Warning.<br> :date: __2021-02-21 00:42:47__
-
-> They say if you have Medicare you pay 0! I was looking for a counselor not an MD. But what they dont say is, you can't get a counselor for an appointment unless your paying full price with no insurance! I tried with an alternate log in without insurance and could get an appointment right away, but with Medicare I couldn't even get an appointment period!!! This app is a freaking scam! Thanks for the help!<br> :date: __2021-02-17 00:08:01__
-
-> Delete<br> :date: __2021-02-14 03:16:37__
-
-> Horrible doctors that almost always miss diagnose you. Scam don't use it go to the urgent care you will end up going anyways.<br> :date: __2021-02-14 01:37:38__
-
-> HORRIBLE EXPERIENCE entered data and got TO pharmacy input a nd screen said "no pharmacy" listed Three days later tried and hitting on initial pro.pts for ins,pharm, etc dont work IM TOO SICK AND VERY DONE WITH THIS SLOW DISORGANIZED OUTFIT!!!<br> :date: __2021-02-13 22:13:21__
-
-> Dr.Phil said they take Medicare part b,4 a freedr.appt.they would not do this.<br> :date: __2021-02-13 20:58:56__
 
 

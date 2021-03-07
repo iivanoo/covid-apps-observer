@@ -155,25 +155,25 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
-> Very Good App<br> :date: __2021-02-26 14:12:08__
+> Very good app and so easy to use. Keeping track of outgoing/incoming parcels is very handy<br> :date: __2021-03-06 10:55:20__
+
+> The royal mail is fab thank very good<br> :date: __2021-03-06 08:44:29__
+
+> I think this app is great. I can track my packages easily and change delivery address if needed. Good for finding a Post Office or a priority post box.<br> :date: __2021-03-05 23:00:37__
+
+> Brilliant tracking app, really impressed, like that it keeps all your past tracking data.<br> :date: __2021-03-05 19:01:47__
+
+> Sounds good<br> :date: __2021-03-04 14:09:54__
+
+> Just sometimes!!<br> :date: __2021-03-03 18:36:18__
+
+> Top class service from Royal Mail 📦. Especially proud of them for continuing to work throughout this pandemic. 5 stars 💫 .<br> :date: __2021-03-01 17:13:50__
+
+> Looks a good app<br> :date: __2021-03-01 15:09:08__
+
+> Awful trackers Don't get updated at all.<br> :date: __2021-02-27 13:55:55__
 
 > Great Post man<br> :date: __2021-02-26 06:58:27__
-
-> Easy Peasy<br> :date: __2021-02-24 15:48:06__
-
-> Works perfect for me.. Several times I've used it now..<br> :date: __2021-02-24 11:41:11__
-
-> Amazing big time ace<br> :date: __2021-02-24 10:09:33__
-
-> Quite simply brilliant 👏 👌<br> :date: __2021-02-24 09:07:55__
-
-> Perfect international tracker. Good info<br> :date: __2021-02-23 07:18:57__
-
-> Totally straight forward<br> :date: __2021-02-22 12:00:20__
-
-> Excellent service<br> :date: __2021-02-20 08:49:32__
-
-> Brilliant 👏<br> :date: __2021-02-19 19:28:55__
 
 
 
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
+> Same as other comments. On my tablet It won't accept password, it will not let me create an account using a different email and I can't change the password. But on my phone I don't need to log in, it goes right to the home page and I haven't clicked on keep me signed in.<br> :date: __2021-03-06 11:27:06__
+
+> Won't open!<br> :date: __2021-03-05 15:57:16__
+
+> Like the royal mail staff this is absolutely useless. Doesn't show what I am looking for despite claiming it does.<br> :date: __2021-03-05 01:17:30__
+
+> Unable to print at home after purchase. Keep getting "sorry an error occurred whilst processing request"<br> :date: __2021-03-04 12:45:30__
+
+> I would give this app a minus score if it was possible. All it ever tells you is that 'no attempt has been made to deliver the parcel yet so no updates are available ! Not very helpful when all you really want to know is when you may expect your parcel to arrive !<br> :date: __2021-03-03 15:24:51__
+
+> Dont like this app. I am currently waiting for an expensive parcel and I have the tracking info which i have put in but a message pops up saying they cant tell me where my package is. I hope that i recieve my parcel. If not i will be so upset.<br> :date: __2021-03-02 12:40:48__
+
+> Useless. No option to print postage and cancellation is a nightmare. Print form, post back to RM and wait 30 days for 96p refund. What a joke<br> :date: __2021-03-01 09:29:06__
+
+> The password doesn't work, it doesn't allow me to create a new account because my email is already used and the password reset is sending me no email. This is utterly useless. update: the password-reset emails arrived after 10 minutes!?! update2: after updating the password, the login still doesn't work.<br> :date: __2021-02-28 23:46:08__
+
+> Will not install on pixel 3<br> :date: __2021-02-27 16:28:59__
+
 > Unless junk app can't Trace anything even though I paid 1.83 typical up postal service<br> :date: __2021-02-25 20:05:33__
-
-> Rubbish, no advertised details available.<br> :date: __2021-02-25 12:26:49__
-
-> The app is useless . not able to live track anything .the app needs a complete overhaul and up data<br> :date: __2021-02-24 05:41:58__
-
-> Just installed the app and tried to register but it keeps saying something went wrong so I have now uninstalled it.<br> :date: __2021-02-24 00:37:09__
-
-> App crashes - I'm trying to print a label for a letter but the app says my details are not recognised . The error message appears randomly at different stages of completing the label. It then logs me completely out of the app. (Same issue on various Android phone/tablets).<br> :date: __2021-02-23 17:45:07__
-
-> Been clunky but fine until it logged me out and wiped all data at random making me lose all of my tracked parcels and postage proofs... Safer just using the site and paper/photo records<br> :date: __2021-02-23 17:21:22__
-
-> Utter rubbish. Told me there was a parcel postbox in Constitution Street, but it doesn't exist. Complete waste of time and a long walk for nothing, horrible if you are disabled.<br> :date: __2021-02-23 15:01:57__
-
-> Very, very poor! Just spent 3 hours going round in circles in the attempt to amend a collection date. Then tried calling Royal Mail for help and was told '6 minutes waiting time'. Ended the call after spending 29:33 minutes on hold. Not impressed. You really need to up your game with basic and ready available Help Topics. Wished I'd gone with UPS...<br> :date: __2021-02-22 19:13:49__
-
-> Don't use the app to pay postage. I spent 10 minutes inputting all required details, made payment, received confirmation email, but app would not let me print a postage label (not included in email either). Just kept saying an error had occurred. Then spent 40 minutes on hold for customer services, only for them to say all they can do is refund me, and I'll have to do the whole thing again on desktop. Beyond useless for this purpose.<br> :date: __2021-02-22 13:14:16__
-
-> Go through the whole rigmarole including payment, only to find that the "print your label now" button doesn't work! I've just lost a couple of hours that I'll never get back. What a crock of rubbish!<br> :date: __2021-02-21 22:52:17__
 
 

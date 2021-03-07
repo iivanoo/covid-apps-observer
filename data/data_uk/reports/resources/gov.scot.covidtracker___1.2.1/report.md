@@ -139,6 +139,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Kept me covid free from all the halfwit mouth-breathers<br> :date: __2021-03-05 21:38:57__
+
+> Very good<br> :date: __2021-03-01 10:07:11__
+
+> Not used it for a long time,but it's brilliant so far<br> :date: __2021-02-28 10:54:25__
+
 > Fantastic app easy to use<br> :date: __2021-02-27 10:12:44__
 
 > Just had a message from track and trace so it works thanks<br> :date: __2021-02-26 09:40:37__
@@ -152,12 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > I feel safer having this app, and I feel good that I'm helping to curb the spread of Covid-19.<br> :date: __2021-02-19 21:24:22__
 
 > This is a key element in the identification of virus outbreaks early and allows action to be taken, the app is unobtrusive and lightweight in respect to system usage get it asap.<br> :date: __2021-02-18 14:01:40__
-
-> Just a touch brings me in to the app makes me know I feel safe I would rememend you all out there use this App😏👍<br> :date: __2021-02-18 13:29:48__
-
-> Very easy to use<br> :date: __2021-02-16 23:09:47__
-
-> A must<br> :date: __2021-02-15 18:04:13__
 
 
 
@@ -251,6 +251,18 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Had covid but no code given to make others aware from track and trace. Makes app useless. All it is is an app to monitor what your doing and when.<br> :date: __2021-03-06 00:52:40__
+
+> Doesn't work with Huawei P40 mobile. Google play issue with Huawei. Therefore there needs to be another solution to download that does not involve Google Play.<br> :date: __2021-03-04 17:54:25__
+
+> Total lack of confidence in this. I spent a lunch break across the table from a friend who tested positive, and worked with another person. Test and trace failed to notify me. Ludicrous and ineffective. Utter waste of time and has caused me much worry.<br> :date: __2021-03-02 23:16:31__
+
+> I downloaded the app but then found you need to have Bluetooth enabled permanently. For those of you that don't know this is a security risk as you could be hacked. So back to just wearing a mask and being sensible.<br> :date: __2021-03-02 19:14:42__
+
+> Don't know if it works as never see any messages?<br> :date: __2021-03-02 09:46:46__
+
+> Haha. Why would you need to fake the rating. Is it because it's a fake virus...#Flu #Controlavirus<br> :date: __2021-02-27 20:48:08__
+
 > Twice notified by the app to isolate and twice it has been ridiculously late in doing so. First instance was 8 days late and most recently 5 days late. Pointless app that simply doesn't protect anyone.... deleted.<br> :date: __2021-02-23 06:49:05__
 
 > Cannot download update 🤷‍♂️<br> :date: __2021-02-22 19:02:45__
@@ -258,17 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > It did not work so uninstalled it and tried reinstalling it but it always says already installed and won't allow reinstalling. A very poor app.<br> :date: __2021-02-20 13:47:43__
 
 > Absolutely garbage<br> :date: __2021-02-15 18:21:14__
-
-> Could be a great platform to disseminate information. This is wasted by a lack of communication policy...<br> :date: __2021-02-14 23:51:18__
-
-> I am still trying to download your application. Why does it take so long ?<br> :date: __2021-02-14 11:02:28__
-
-> As someone who works in England and commutes back to Scotland, this app is useless. Why is everyone in the UK not using the same app. There are thousands like me.<br> :date: __2021-02-13 14:15:18__
-
-> Exceeding doubtful that the App actually works.<br> :date: __2021-02-13 14:11:50__
-
-> This app seems useless<br> :date: __2021-02-13 12:21:58__
-
-> CONTROLAVIRUS. . Switch off your TV..bin the mask.. Hug each other.. Educate yourselves. Seriously people this app is a security risk.. NEVER keep your Bluetooth 0n...<br> :date: __2021-02-13 07:23:28__
 
 
