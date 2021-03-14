@@ -184,6 +184,8 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> Excellent service!!<br> :date: __2021-03-08 16:25:48__
+
 > Great<br> :date: __2021-03-03 16:00:39__
 
 > Very good<br> :date: __2021-02-23 15:51:48__
@@ -201,8 +203,6 @@ The Horizon Telehealth app has been installed by more than **1000** times. At th
 > I've had the best help in the most support from the employees at horizon health 699 hurdle rocks!!!<br> :date: __2021-01-21 21:47:48__
 
 > Very helpful. Therapeutic.<br> :date: __2021-01-15 01:19:25__
-
-> Something I really needed during the pandemic!<br> :date: __2021-01-12 16:01:28__
 
 
 

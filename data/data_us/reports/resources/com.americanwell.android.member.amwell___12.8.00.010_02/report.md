@@ -215,6 +215,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Easy to use and the doctors are very thorough and helpful. I've used this app to get doctors notes for work instead of going there just to get a paper. Also I Just gave the doctor my symptoms to get antibiotics and an inhaler. Its convenient especially when you have an idea of what's wrong with you they can easily prescribe what you need. I have no insurance so it's cheaper than urgent care but they do accept insurance.<br> :date: __2021-03-09 14:18:11__
+
+> I can actually get medical help on a Sunday!<br> :date: __2021-03-07 21:27:58__
+
 > A wonderful service. My boyfriend has throat cancer. And last year they removed his voice box. Now he cannot talk. He always in pain as well from chronic gout flare ups. Those difficult times when he can't move, we use Swell. The doctors here are fast, knowledgeable, and through.I highly recommend this application. He has United Healthcare (medicaid), I have Wellcare HMO (medicare advantage).They take almost all insurances. I signed up as well. Since we live 2 hours away.Hard to get to doctors.<br> :date: __2021-02-28 08:53:35__
 
 > Honesty I loved it it was fast and easy and the Dr was patient and it was a new and easy experience.<br> :date: __2021-02-25 19:46:38__
@@ -230,10 +234,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > I have used the service twice I have had great results each time<br> :date: __2021-02-22 15:52:41__
 
 > Very Helpful and informative. Would definitely recommend.<br> :date: __2021-02-17 19:18:48__
-
-> Love this option<br> :date: __2021-02-03 09:13:37__
-
-> Fast and easy!!! I've seen 2 doctors so far the last one being Cynthia which was a VERY nice doctor. She knows exactly what she's talking about an listens to you... I recommend Amwell.. If u can't get out or not feeling too good and don't have any transportation this is who you go to!<br> :date: __2021-02-02 17:46:33__
 
 
 
@@ -327,6 +327,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> Doesn't have healthfirst so beware.<br> :date: __2021-03-07 09:51:03__
+
 > I HATE THIS APP!! It constantly crashes, won't load, or won't even stay open. I got kicked out of another appointment and that's not good. Especially for people who are paying their hard earned money for the services provided. Please fix.<br> :date: __2021-03-03 20:12:02__
 
 > Got someone who allegedly graduated from NYU School of Med, but had no idea bacteria grew in the large intestine. Not even exaggerating this. Don't use this app unless you have no other options. I'd better not be charged the copay for this.<br> :date: __2021-03-03 02:15:31__
@@ -344,7 +346,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Needs a computer to hook up<br> :date: __2020-11-29 18:05:08__
 
 > It was working fine for the first time..then all the sudden it start acting up for me<br> :date: __2020-11-22 01:20:40__
-
-> Last Time I tried to Tele Visit a doctor. He was extremely rude and unprofessional<br> :date: __2020-11-14 19:10:58__
 
 

@@ -186,6 +186,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="org.alohasafe.alert 3 reviews"/>
 </p>
 
+> Assumes computer literacy!!!<br> :date: __2021-03-08 16:23:29__
+
 > No one checks if you have downloaded the app upon arrival on Maui. It consumes a lot of battery.<br> :date: __2021-02-19 17:53:48__
 
 > Interesting app... Although with only around 5000+ downloads I'm not sure if the rate of population with this app installed is enough to achieve its intended purpose.<br> :date: __2021-01-22 09:37:13__

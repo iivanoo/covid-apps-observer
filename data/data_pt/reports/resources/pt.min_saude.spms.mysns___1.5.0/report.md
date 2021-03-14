@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Fundamental. Mas o utente poderia carregar mais dados, eg, os das vacinações antigas.<br> :date: __2021-03-14 16:57:25__
+
 > Top<br> :date: __2021-02-22 22:33:34__
 
 > Muito útil. OBRIGADO<br> :date: __2021-02-21 10:56:18__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Impecavel<br> :date: __2020-11-24 18:59:55__
 
 > Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
-
-> Gosto<br> :date: __2020-11-05 19:26:51__
 
 
 
@@ -255,6 +255,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> Está sempre a parar de funcionar. Era bom actualizar esta app.<br> :date: __2021-03-12 12:33:48__
+
 > Nao abre no android 10. Para quango atualizacao?<br> :date: __2021-02-01 17:52:50__
 
 > Não está a trabalhar direito<br> :date: __2021-01-30 18:06:04__
@@ -273,8 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Elaborada para uma versão mais antiga<br> :date: __2020-07-02 08:58:12__
 
-> Muito complicada para acessar da muitas voltas, ao paciente !!!<br> :date: __2020-05-11 00:17:22__
-
 
 
 #### 1-star reviews
@@ -282,6 +282,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> Simplesmente não funciona<br> :date: __2021-03-12 10:30:59__
+
+> Horrível<br> :date: __2021-03-11 13:39:39__
+
+> Não atualizada. O meu Android; diz q é para versões mais antigas<br> :date: __2021-03-07 14:13:25__
 
 > Última atualização em 2018?<br> :date: __2021-03-04 23:50:37__
 
@@ -296,11 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Nem abre... Muito mau<br> :date: __2021-02-15 17:11:06__
 
 > No meu telemóvel antigo funcionava na perfeição agora neste novo nem abre a aplicação .<br> :date: __2021-02-15 10:53:41__
-
-> Diz que a App. Não funciona porque a versão do meu Android é mais recente do que a app. Por isso não funciona! Muito mau!<br> :date: __2021-02-13 23:29:28__
-
-> A APP no telefone funciona mt bem, no tablet NADA.<br> :date: __2021-02-13 22:26:16__
-
-> A aplicação não funciona. Diz que foi concebida para uma versão mais antiga de android.<br> :date: __2021-02-12 22:51:01__
 
 

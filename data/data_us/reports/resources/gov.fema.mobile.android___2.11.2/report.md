@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Great to have when need to apply for emergency mishaps. Never know, but great to have.<br> :date: __2021-03-10 15:18:59__
+
+> nice apps<br> :date: __2021-03-08 22:12:02__
+
 > Set it and forget it, until you get Emergency Notifications for where you live<br> :date: __2021-03-03 18:07:15__
 
 > Excellent thanks<br> :date: __2021-02-26 16:19:15__
@@ -178,10 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > I thoroughly enjoy this app! Up to date on active warnings - unlike other local weather apps!<br> :date: __2021-02-16 21:39:18__
 
 > Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2021-02-15 15:49:44__
-
-> Great app for weather notifications<br> :date: __2021-02-09 23:30:39__
-
-> Superior great + AAAAAA<br> :date: __2021-02-09 03:14:12__
 
 
 
@@ -275,6 +275,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> this app as well as so many others show i downloaded them when i infact have not<br> :date: __2021-03-10 03:18:24__
+
 > I am deleting this app. I get 6 or more notifications a day when we are getting 2-4 inches of snow. It wakes me in the middle of the night to update when I have already recieved the same notification before. It's too bad, I liked getting the bitter windchill warning. If the weather was serious it would be fine but I don't consider 4 inches of snow a blizzard.<br> :date: __2021-02-22 00:50:48__
 
 > Into a busy season and it's worse (after weather alert this morning there have been at least 5 false/blank alerts). Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-02-15 23:00:29__
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > NO ALERTS... APP IS A JOKE.<br> :date: __2020-11-14 18:25:33__
 
 > Share doesn't work!!!! UNINSTALLED the junk app<br> :date: __2020-11-01 13:09:50__
-
-> Zeta not an option to qualify for assistance!<br> :date: __2020-10-31 05:39:11__
 
 

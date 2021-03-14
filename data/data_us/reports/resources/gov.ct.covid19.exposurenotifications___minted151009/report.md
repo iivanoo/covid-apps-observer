@@ -132,6 +132,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> THAT HOW I CUT TO NOW ABOUT THIS VIRUS<br> :date: __2021-03-07 20:00:17__
+
 > Simple enough to use. The best way to get the most out of this app is to encourage your friends & family to also get the app! It's a community effort.<br> :date: __2021-02-14 02:27:29__
 
 > I like this. It's simple and easy. I wish my state participated in the program (a state next to mine does).<br> :date: __2021-02-13 22:22:08__
@@ -149,8 +151,6 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > Good.<br> :date: __2020-12-17 16:25:14__
 
 > The exposure notification activation issue I reported in November seems to be resolved. Thanks!<br> :date: __2020-12-14 09:08:08__
-
-> I love it<br> :date: __2020-12-13 06:24:14__
 
 
 

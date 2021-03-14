@@ -203,7 +203,9 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="com.menalabs.app 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Covid pcr test not available in Dubai<br> :date: __2021-03-08 18:39:40__
+
+

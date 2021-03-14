@@ -146,6 +146,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Good information about COVID-19.<br> :date: __2021-03-08 15:39:22__
+
+> I LOVE THIS APP! I Live In Essex County, NJ Which Is The 2nd Highest In The State. While Taking NJ Transit Yesterday, I Actually Received An Exposure Alert While On The Bus! I Immediately Got Off The Bus, And Waited For The Next One, And The Exposure Alert Stopped!<br> :date: __2021-03-07 19:04:04__
+
 > Nice apk<br> :date: __2021-03-05 01:13:37__
 
 > Keeps me well informed<br> :date: __2021-03-04 03:56:02__
@@ -161,10 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > If you live in great state of New Jersey in the United States you should be using this app.<br> :date: __2021-02-08 13:38:54__
 
 > Great idea. Great app.<br> :date: __2021-02-05 15:41:31__
-
-> Keeps me posted on what is going on<br> :date: __2021-01-30 23:21:39__
-
-> No problems<br> :date: __2021-01-29 20:14:21__
 
 
 
@@ -230,7 +230,13 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
 
-> Bad<br> :date: __2021-03-06 10:14:05__
+> DOESN'T WORK...Never got notified of infections in my area meanwhile my whole family contacted covid<br> :date: __2021-03-14 00:36:19__
+
+> What happens when you get vaccinated? How does the app know?<br> :date: __2021-03-11 15:49:44__
+
+> Wish it was more helpful<br> :date: __2021-03-09 03:21:42__
+
+> THIS IS NOT A VACCINE APP. IT IS A CONTACT TRACING APP- THAT'S IT (for everyone complaining that it won't help them find a vaccine distribution center)<br> :date: __2021-03-08 21:30:57__
 
 > For the elderly or those who cannot walk long distances, there is no information on which site is best; I am in category 1b. Everytime I search for a location. I am re-routed back to this site which I have already registered.<br> :date: __2021-01-26 23:12:35__
 
@@ -244,12 +250,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > I am not leaving my Bluetooth on everywhere I go which isn't far but this will take a long time to get enough peoples info and get them on board before you can do that! Ifmt feels intrusive as well. Never leave your Bluetooth on unless you know what your hooked up to.<br> :date: __2020-11-13 21:08:54__
 
-> Unfortunately b cause of the blue tooth ne don't to be on it has caused issues with my phone. In which I have issues turning off and or turning on manually the bluetooth. It has also cause phone to lock up. This is causing issues with hands free calling. Uninstalled app.<br> :date: __2020-10-27 21:13:14__
-
-> Slowest app in existence, love the daily check-ins and the the app in general but the horrendous slowness makes it a pain<br> :date: __2020-10-16 14:52:44__
-
-> Y 553e<br> :date: __2020-10-13 03:40:34__
-
 
 
 #### 1-star reviews
@@ -257,6 +257,14 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
+
+> bad<br> :date: __2021-03-13 16:48:24__
+
+> Has ANYONE on this review thread been notified of a positive Covid-19 contact? Anyone? I was encouraged to download and use this app when I was first tested in Union County. I checked in with my status every day, for many months. I have NEVER been notified of a potential Covid-19 exposure. As a first responder, I know that I have been within close contact with dozens of Covid-positive people. I have lost confidence that this is a valid weapon against the continuing pandemic.<br> :date: __2021-03-09 16:28:14__
+
+> Still does not work for me. Tried turning off WiFi & Bluetooth—no difference. Gives "Error 104" —totally unhelpfull. Uninstalling. For those complaining about vaccine being unavailable, well it is NJ. We don't do anything sensibly. In my area, there 3 websites (State, Atlantic Health & RWJ). All are unconnected, so need register on all 3—and wait. Seriously? 😠<br> :date: __2021-03-09 01:10:43__
+
+> Dumb<br> :date: __2021-03-08 19:46:31__
 
 > Crazy<br> :date: __2021-03-03 16:11:11__
 
@@ -269,13 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Death transparency is gone. What are you hiding?<br> :date: __2021-02-16 19:01:21__
 
 > Good<br> :date: __2021-02-10 22:35:09__
-
-> Do not like this app<br> :date: __2021-02-07 19:49:52__
-
-> Bogus<br> :date: __2021-02-03 06:12:06__
-
-> nobody uses it<br> :date: __2021-01-25 07:24:34__
-
-> Shows negative daily deaths<br> :date: __2021-01-19 03:50:44__
 
 

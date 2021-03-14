@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Not working<br> :date: __2021-03-06 12:53:34__
+> It excellent and great service<br> :date: __2021-03-14 14:28:14__
 
-> Good.<br> :date: __2021-03-06 10:56:31__
+> Nice app<br> :date: __2021-03-14 14:24:06__
 
-> good<br> :date: __2021-03-06 07:21:34__
+> Love<br> :date: __2021-03-14 13:50:10__
 
-> Good<br> :date: __2021-03-05 19:44:44__
+> Excellent information gettng this apo<br> :date: __2021-03-14 12:39:14__
 
-> I to much try but only come like this. Unfortunately has stopped<br> :date: __2021-03-05 15:56:35__
+> Excellent<br> :date: __2021-03-14 12:32:09__
 
-> Excellent<br> :date: __2021-03-05 13:37:53__
+> تم<br> :date: __2021-03-14 11:05:16__
 
-> Good<br> :date: __2021-03-05 11:53:27__
+> Good<br> :date: __2021-03-14 10:07:34__
 
-> Very good<br> :date: __2021-03-05 08:51:48__
+> Wonderful<br> :date: __2021-03-14 09:30:30__
 
-> Nice app<br> :date: __2021-03-05 06:30:07__
+> Good<br> :date: __2021-03-14 08:57:36__
 
-> Good<br> :date: __2021-03-04 16:38:07__
+> Exceptional<br> :date: __2021-03-14 08:23:03__
 
 
 
@@ -175,25 +175,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
 
+> There is no update for samsong phone<br> :date: __2021-03-14 05:26:43__
+
+> After 2nd dose of covid vaccine 28 days have been completed but so far status not updated. I tried to call on help line but after few rings line disconnected. Need help on it.<br> :date: __2021-03-10 11:12:56__
+
+> Good app<br> :date: __2021-03-09 18:25:44__
+
+> i couldn't ope this app in my phone why<br> :date: __2021-03-09 07:31:06__
+
+> It's been ovee 28 days since I received my second dose but still E did not appear on my Al horn app<br> :date: __2021-03-07 19:59:13__
+
+> Nice<br> :date: __2021-03-06 20:51:08__
+
+> I have cpmpleted 28 days after 2nd dose vaccine still the vaccinated details are not getting updated in the application<br> :date: __2021-03-06 18:59:48__
+
+> Nice<br> :date: __2021-03-06 15:22:43__
+
 > Good<br> :date: __2021-03-04 16:22:15__
 
 > Good<br> :date: __2021-03-03 12:07:45__
-
-> Nice<br> :date: __2021-03-03 09:25:09__
-
-> Really amazing application।But I applied the covid 19 vaccine. Its been 1 month yet the result has not come Please tell me why my vaccine result did not come thanks please reply me thanks<br> :date: __2021-03-03 09:24:29__
-
-> My registered mobile number is expired... how can I login with another number<br> :date: __2021-02-25 16:33:16__
-
-> Good<br> :date: __2021-02-25 15:57:37__
-
-> Good aap<br> :date: __2021-02-24 15:17:08__
-
-> Excellent<br> :date: __2021-02-23 08:08:48__
-
-> Good<br> :date: __2021-02-21 20:19:20__
-
-> فحصت بتاريخ 16/1 في خمية صحة الكورنيش ابوظبي والى تاريخ اليوم لم نظهر النتيجة ونزلت علي مخالفة 5000 درهم وقدمت تظلم للأسف هذه المرة الثانية لا تظهر النتيجة علما بأن صحة أرسلت لي رسالة بالنتيجة.<br> :date: __2021-02-20 09:45:18__
 
 
 
@@ -203,25 +203,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
 
+> Test result not yet updated I have done my test yesterday and got negative result message on mobile but till now not updated in app.<br> :date: __2021-03-14 14:59:44__
+
+> I download and installed the app. But its not starting to log.<br> :date: __2021-03-14 08:34:52__
+
+> Tha best app use<br> :date: __2021-03-12 20:00:33__
+
+> I'm still waiting my vaccine update massage.. Pls update my vaccination details<br> :date: __2021-03-11 17:32:41__
+
+> Unreliable. Sometimes delayed in update of information/tests.<br> :date: __2021-03-11 06:47:29__
+
+> I already vaccinated of 1st dose and 2nd dose and after 1 month with 4 consecutive swabtest my results in al hoshn still not mention that I am E-Vaccinated.<br> :date: __2021-03-10 09:15:48__
+
+> Al Hosn app not updated,Two time I did the test after completing 28 days vaccination period.but still not showing my negative result (E) in application.<br> :date: __2021-03-08 15:54:06__
+
 > Keep crashing, test results are not updating for past 2 days.<br> :date: __2021-03-04 05:58:17__
 
 > Good<br> :date: __2021-03-03 11:02:12__
 
 > Errors occur<br> :date: __2021-03-03 10:41:48__
-
-> Great to knowing my status<br> :date: __2021-03-02 09:58:14__
-
-> Nice app<br> :date: __2021-02-26 14:20:05__
-
-> Hello how can my app get updated after the covid vaccine already finished 2 does and also pcr test after 28 days<br> :date: __2021-02-24 20:25:03__
-
-> Its terrible<br> :date: __2021-02-24 10:54:01__
-
-> I can't open the apps<br> :date: __2021-02-23 20:45:18__
-
-> Very nice and easy to us<br> :date: __2021-02-20 13:23:48__
-
-> It's not easy to access<br> :date: __2021-02-19 07:53:06__
 
 
 
@@ -231,25 +231,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
 
-> The regulations that shows that you are vaccinated only after 28days of the 2nd dose and only if you keep taking PCR tests make no sense. A vaccination is a vaccination. It should not be dependent on PCR. And the 28 days gap also makes no sense, if you got 2 doses it should reflect on the app along with your last pcr test and status.<br> :date: __2021-03-04 15:34:47__
+> Results are not updating<br> :date: __2021-03-14 14:07:17__
 
-> It doesn't show that I got vaccinated, though itsalready 3p days from the second dose. So e tests are also missing. Customer service don't respond to calls, and there is no way to co tact anybody.<br> :date: __2021-03-04 14:41:09__
+> ol c<br> :date: __2021-03-14 11:30:31__
 
-> Its not working my samsung s9 mobile<br> :date: __2021-03-04 08:50:26__
+> Why it's not showing my last 2 PCR test results?<br> :date: __2021-03-13 08:09:55__
 
-> Not loading user information today.. same with iPhone<br> :date: __2021-03-03 13:00:01__
+> This app.not totaly updated they said if u take secone doze of vaccine it shows here the letter E,,,until now i dont recieved mine i took 2nd doze last feb 10,2021 and i take weekly pcr...<br> :date: __2021-03-11 18:30:53__
 
-> Frezze all the time ,have to unistall. And start over<br> :date: __2021-03-03 12:09:08__
+> This app should be upgrade its service otherwise please stop .Last 6 days I am waiting for my result but still not come. I get already message from Meena Lab.<br> :date: __2021-03-11 04:46:12__
 
-> وايد يعلق ولا يسوي تجديد للبيانات<br> :date: __2021-03-03 09:19:27__
+> I have been getting my results on Alhosn but latelyI have done 3 test got the result by SMS but yet to receive the result in Alhosn what could be the problem😢<br> :date: __2021-03-10 06:22:42__
 
-> Costumers service no one answer<br> :date: __2021-03-02 19:53:24__
+> Cant access the app<br> :date: __2021-03-09 21:24:54__
 
-> Test results need to he uploaded MUCH FASTER. Waiting 3 days for a result to show on the app is unacceptable.<br> :date: __2021-03-02 07:50:21__
+> Even i receive msg from text to my pcr results but still not updated my results to get my e vaccinated why like this even updated apps still the same very disappointed really not good can u please fixed this because it's terrible i always updated apps but may pcr test results got message but in apps still nothing why they need to make apps if nothing really really disappointed really<br> :date: __2021-03-08 09:13:43__
 
-> This app no updates covid test results ferfect<br> :date: __2021-03-01 04:38:36__
+> Pcr test after 4 days works<br> :date: __2021-03-07 20:19:11__
 
-> Good<br> :date: __2021-02-27 02:47:16__
+> no update 🥵<br> :date: __2021-03-07 10:23:10__
 
 
 
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Is there any solution for updating vaccination E symbol in the app.. I had completed 28 days and done two Covid tests..😔 still no updation<br> :date: __2021-03-06 12:27:31__
+> Whay not coming my test results in this apps<br> :date: __2021-03-14 15:08:51__
 
-> I can't see my Corona test, so please if any one know another app show the Corona test<br> :date: __2021-03-06 09:12:23__
+> My covid vaccination already complete January 4 second dose 2 months complete still not showing covid vaccination also I have PCR test<br> :date: __2021-03-14 13:57:21__
 
-> Worst app.ever,technical support NO. Is not working keep asking to leave voice message and didn't allowed you to leave it.<br> :date: __2021-03-06 08:29:34__
+> Not updated me the COVID-19 vaccinated details, after 2nd dose completed 28 days<br> :date: __2021-03-14 12:43:57__
 
-> Pathetic app and even worse is the technical support. Technical support mailbox is full and they won't pickup the phone. The app doesn't have very basic functionality like changing mobile number. If you don't know how to make app then why it is mandatory for every purpose. Either update this app or kill it, it's rather easy to get results through SMS.<br> :date: __2021-03-06 08:11:42__
+> Why It' s Not Working In My Phone<br> :date: __2021-03-14 11:44:58__
 
-> I completed my 2nd dose of vaccination on 27 of January but in alhosn application didn't updated yet..<br> :date: __2021-03-06 07:30:24__
+> Appalling, same problems as everyone else. No customer service, my phone number is now 'not the one registered' when it my only number and was confirmed by the test centre. Still, the UAE can tick a box saying it has a nationwide test and trace system. The fact it doesn't work won't worry anyone from the government, they've ticked their box!<br> :date: __2021-03-14 10:53:25__
 
-> the app doesn't update on time, i got tested 3 times since feb. 22 and still the result from that day is still posted up to now, how frustrating i badly need this result for my work... and i uninstall and install it again but it didn't work<br> :date: __2021-03-06 03:16:52__
+> What for bluetooth! What for GPS!<br> :date: __2021-03-14 07:22:35__
 
-> The most disgusting app I have come across<br> :date: __2021-03-05 22:50:32__
+> This app not updated my vaccination details.<br> :date: __2021-03-14 06:21:22__
 
-> البرنامج خارج الدولة لايعمل واحاول فتخه منذ حوالي الأسبوعين وحذفته وحملته اكثر من خمسه مرات<br> :date: __2021-03-05 20:28:45__
+> It's not reflecting the tests results<br> :date: __2021-03-14 05:58:17__
 
-> good mission<br> :date: __2021-03-05 18:25:41__
+> Sucks<br> :date: __2021-03-14 05:02:06__
 
-> Very bad app because you are not updating my status.<br> :date: __2021-03-05 15:40:05__
+> Actually I would not rate this app even 1 star (but have no choice to post it since it's required to put it to be able to post it)because it keeps on hanging up and it's not clear, lack of options for every detail of the info that every individual needs. This app needs more enhancements.<br> :date: __2021-03-14 04:23:32__
 
 

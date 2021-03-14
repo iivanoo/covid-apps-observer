@@ -1,11 +1,71 @@
 [
     {
+        "reviewId": "gp:AOqpTOHATOuRCzqrD2--md3zhDVrGslVDTzCbgI6RGvSOlmfvc75DWBr_0hMRaZUPcFIN1L-ro4JnJLdnEukTw",
+        "userName": "Conchi Andrades",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixG14-t15zE7z-e9qNcIhe7e6JbQBhhm3JFxiZpeE",
+        "content": "Muy buena",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.9",
+        "at": "2021-03-14 13:10:25",
+        "replyContent": "Hola Conchi, muchas gracias por la valoraci\u00f3n, nos alegra saber que te est\u00e1 siendo \u00fatil la aplicaci\u00f3n. Un saludo.",
+        "repliedAt": "2021-02-16 18:17:56"
+    },
+    {
+        "reviewId": "gp:AOqpTOERnH9cPLRq-V5F9S2FbyYfim8Fj7dOKnKde9MHR67Sr8DI1Q2e-AC8xDUxGL-MiZKWHOg7NYR4aQhW0w",
+        "userName": "Pilar Ruiz Garcia",
+        "userImage": "https://play-lh.googleusercontent.com/-d-WEAnWjU1E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMns4cSdjZgz-aJWMU_ILwQwOJVg/photo.jpg",
+        "content": "Hola, me acabo de asegurar y dar de alta la app, es imposible ver el cuadro m\u00e9dico, c\u00f3mo puedo acceder? Si no, tendr\u00e9 que darme de baja del seguro",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.9",
+        "at": "2021-03-09 23:25:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEOcHo2RH3kZOSZrmpDNjz3p89cw-bWCbTwb35V8NLr5I9qpBEYwcXSlNz5IAkKrJ4Mg399e-Ol9qmtOA",
+        "userName": "armando cordero gomez",
+        "userImage": "https://play-lh.googleusercontent.com/-mftyqX2NKpc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_pExMyXoSA2KCTo5S69gVjiyGSA/photo.jpg",
+        "content": "Fenomenal , muy profesional",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.9",
+        "at": "2021-03-09 12:39:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEnSc9KqNoFVYnuBwVnQwsbgQKqKfD_3TR8aB4ttPNGEpZvQN3NcPEPIPTCgqs_oYqleYGKTcQMrwLwdA",
+        "userName": "Lesbia Junieth Lagos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJ_fQid5QPKTAExuo2ot0UdVnmHN_7cUCStI7UUeA",
+        "content": "Ise una cancelacion para darme de baja me pidieron 15.95 euros y nada isieron sean mas responsables y no estes sacando el dinero que tanto cuesta ganarlo",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-07 20:21:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGrW8BgLodczf9CGBzW5WhWczbbQZUMqaDoPxy1czCwBwAv6z9TfX0fKK3bfMoDUUtWeKScrMilx0aQWw",
+        "userName": "Francisco Balduque Cambra",
+        "userImage": "https://play-lh.googleusercontent.com/-kuxhKq5yJZk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFGyF3694GFCKBipR2j8vhLAI1bw/photo.jpg",
+        "content": "Genial!!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.7",
+        "at": "2021-03-07 10:09:23",
+        "replyContent": "Hola Francisco, muchas gracias por su comentario, nos alegra que la aplicaci\u00f3n le est\u00e9 resultando \u00fatil. Un saludo.",
+        "repliedAt": "2021-03-08 15:55:03"
+    },
+    {
         "reviewId": "gp:AOqpTOGKo37mt--dURzBF3_Odu6mcSkoYoUOV4Wl36Sh1yZONhEVZe5rvKyHRpj0A9Lpgos_OgmvCKOr2DbLKQ",
         "userName": "Felipe Ramirez Gomez",
         "userImage": "https://play-lh.googleusercontent.com/-GhyHFFhquw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7X56oTsn6SiaHcSM3c2jF6qK2vw/photo.jpg",
         "content": "Malisima no lo siguiente he tenido varios seguros m\u00e9dicos y esto ha sido nefasto, en esta aplicaci\u00f3n no permite pedir una cita por especialista ni por centro medico, en pocas palabras no sirve para nada tengo que llamar y esperar 30 mins a que me atiendan en la l\u00ednea telef\u00f3nica para asignar una cita puffff",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-03-06 09:19:25",
         "replyContent": null,
@@ -29,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-hiOrrxyzZSM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmSx488-yKcPb9qK5xl4QLuaFu4w/photo.jpg",
         "content": "Horroroso tanto la aplicaci\u00f3n como los servicios que prestan ,ya que una consulta de dermatolog\u00eda te dan para dentro de 4meses , tardan m\u00e1s que la p\u00fablica. En cuanto a la app ,las videollamadas no valen para nada por qu\u00e9 no se ven,y otra vas a coger la llamada y se cierra la app,cuando consigues cogerlo,pues se corta y no se escucha muy bien Si haces un chat medico te contestan con suerte cada hora ,otras veces te cierran la consulta directamente,y las recetas nunca llegan.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-03-05 20:26:30",
         "replyContent": null,
@@ -56,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-03-04 10:23:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Yoa, nos alegra mucho saber que la aplicaci\u00f3n te es de utilidad. Muchas gracias por tu comentario. Un saludo",
+        "repliedAt": "2021-03-08 15:39:22"
     },
     {
         "reviewId": "gp:AOqpTOEeg4OLMoJp_XMhuYK0ck6QiUYvECyG1H6SCh2hj4qSIU7iJpInQ9YM1-K_7cWmUaB2XTiIkVMy-dpVPg",
@@ -192,18 +252,6 @@
         "repliedAt": "2021-02-16 18:15:46"
     },
     {
-        "reviewId": "gp:AOqpTOHATOuRCzqrD2--md3zhDVrGslVDTzCbgI6RGvSOlmfvc75DWBr_0hMRaZUPcFIN1L-ro4JnJLdnEukTw",
-        "userName": "Conchi Andrades",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixG14-t15zE7z-e9qNcIhe7e6JbQBhhm3JFxiZpeE",
-        "content": "Muy buena",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-02-13 19:22:45",
-        "replyContent": "Hola Conchi, muchas gracias por la valoraci\u00f3n, nos alegra saber que te est\u00e1 siendo \u00fatil la aplicaci\u00f3n. Un saludo.",
-        "repliedAt": "2021-02-16 18:17:56"
-    },
-    {
         "reviewId": "gp:AOqpTOHakv74YfME4fnhSqk9i0p2M39-3v40PsFKVIImLMoS3I4fRYpN77B1-UWMGiBpPkq9iCuml_6w6CeogQ",
         "userName": "madalina bolocan",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVLcWK2Ehp-Ie6YcNkc9xFugRb6ycSBrDAbauk1A",
@@ -221,7 +269,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgRJfAPRPxgrkaeO91E9xQrywnxxVUO7hk60EWD",
         "content": "parece que esta todo correcto pero se deberia desarrollar la app para windows , seria mas comodo para compartir los informes medicos y las recetas electronica , gana tiempo y evita ir a las consultas para temas leves. dos detalles mas : los correos de empresa o de dominio propio dan problemas solo acepta gmail, hotmail... y el codigo que hay que meter sobran los ultimos cinco ceros...en cualquier caso enhorabuena !!!!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.2.7",
         "at": "2021-02-11 13:43:49",
         "replyContent": "Hola Miguel \u00c1ngel, muchas gracias por tu comentario. Por el momento no tenemos previsto desarrollar una aplicaci\u00f3n para Windows pero s\u00ed que puedes acceder a la versi\u00f3n web (http://dkv.es/qcmas), donde existen algunas de las funcionalidades como la carpeta de salud. Revisaremos bien tus propuestas para seguir mejorando. Un saludo",
@@ -694,18 +742,6 @@
         "at": "2020-12-17 16:50:03",
         "replyContent": "Hola Anghely. \u00a1Muchas gracias por tu comentario y valoraci\u00f3n!. Un saludo.",
         "repliedAt": "2020-12-18 11:30:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOFEWXwTWQLfDwX1HGJM47AhWGkYDv4C9FhzAF5VxUpIKHT36e7oQ2gAyx2e-ZeZAdwTXfxYNaAUGah4BA",
-        "userName": "Tricy Hill",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWz83y06LANqAC9aXkWgVYRlR1oRUDeWIZl68QSoo",
-        "content": "No me deja iniciar sesi\u00f3n, se cierra antes de ejecutarse.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.2.2",
-        "at": "2020-12-15 12:54:30",
-        "replyContent": "Hola Tricy. Lamentamos los problemas con el acceso a la App. Nuestro equipo t\u00e9cnico est\u00e1 trabajando en la soluci\u00f3n a esta incidencia. Un saludo.\nHola de nuevo, Tricy. Ya est\u00e1 disponible la versi\u00f3n que soluciona las incidencias detectadas. Si a\u00fan as\u00ed se cierra, por favor contacta con soporte@dkvservicios.com con m\u00e1s detalles para buscar la soluci\u00f3n.",
-        "repliedAt": "2020-12-24 14:00:14"
     },
     {
         "reviewId": "gp:AOqpTOGPOtI38GH3wk7cjVC9AxakGZF--mozdv38_wT3KvdQ4aw1x1wX0KLBRg7Olnjj6H8KTYOYlORSvDt1Dw",
@@ -2532,18 +2568,6 @@
         "repliedAt": "2020-06-29 16:13:28"
     },
     {
-        "reviewId": "gp:AOqpTOGAZ62BsGLlgeQNSLG2_pbjXCW7Kul00v1Kl19gclmjLCXCeJy0EIRJPMQs8wy4XAtumAcwbDISX7XnNg",
-        "userName": "Beatriz Albiol Tortosa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0Kem2POs9HuKW3SgGVze5psQGDveLeQIFhUf5Yg",
-        "content": "A ver, es que si funcionase ser\u00eda estupenda, pero est\u00e1 llena de errores, no puedo acceder casi a ning\u00fan servicio...",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.7.5",
-        "at": "2020-06-17 21:08:56",
-        "replyContent": "Hola Beatriz, sentimos los problemas que est\u00e1s teniendo. Estamos investigando tu caso y la causa de los errores. Te avisaremos cuando est\u00e9 solucionado. Un saludo\n\nHola Beatriz, ya est\u00e1 solucionado. Ese d\u00eda se hizo una actualizaci\u00f3n que provoc\u00f3 algunas incidencias como tu bloqueo. Disculpas de nuevo y un saludo.",
-        "repliedAt": "2020-06-25 10:16:00"
-    },
-    {
         "reviewId": "gp:AOqpTOHZ8sGuKj-5uS9f6xLUvrkUuJpf8Hyd4557H_OafrP_kYNCGo2AFSIUn_pJ8g909kS7mX2txEpGdIS99w",
         "userName": "Juanan D\u00cdEZ",
         "userImage": "https://play-lh.googleusercontent.com/-6cqUTYePBgY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJPd9kj47XZuizsRIWI_W2P2Z2ig/photo.jpg",
@@ -2870,7 +2894,7 @@
     {
         "reviewId": "gp:AOqpTOH7zclDPWiKd7ZtgOQzQbcVtnvZ7XrNlVCq_HQQ7Ai3J2yRWhbrm9F8LrCaXWfc7Ob6eSNlLHQ6AzLg8g",
         "userName": "Javier de O\u00f1a",
-        "userImage": "https://play-lh.googleusercontent.com/-h8Sf6QAVc1I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSB-dI9_fHQnHtmskwnWZngohIdw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyUqGy-NAwqxIRsawdewNykKL37mL527rHw5ivIg0",
         "content": "Felicidades a DKV por la aplicaci\u00f3n, la verdad es que es estupenda",
         "score": 5,
         "thumbsUpCount": 1,

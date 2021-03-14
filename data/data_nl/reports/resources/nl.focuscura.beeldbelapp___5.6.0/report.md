@@ -199,25 +199,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Simpel en effectief.<br> :date: __2021-03-04 10:03:11__
+> Makkelijk in gebruik en handig om zo symptomen bij te houden<br> :date: __2021-03-12 10:55:09__
 
-> Lekker op het gemak. en ik hoef nergens naar toe<br> :date: __2021-03-04 06:25:40__
+> Goede back up<br> :date: __2021-03-11 10:53:57__
 
-> Top!!!<br> :date: __2021-03-03 08:07:30__
+> Duidelijk en prettig om te gebruiken<br> :date: __2021-03-10 10:08:39__
 
-> Werkt perfect.<br> :date: __2021-03-02 07:21:32__
+> Ook voor ouderen is er goed mee om te gaan<br> :date: __2021-03-10 08:57:36__
 
-> Belangrijk vertrouwt dat iemand je in de gaten houd.<br> :date: __2021-03-01 18:08:05__
+> Ik ben ontzettend blij met luscii, dat ik ten allertijden kan aangeven mocht het slechter gaan met mij dat ik de lijst opnieuw kan invullen, en dat ze dan ook vrij snel contact met je opnemen. Dat geeft mij een heel veilig gevoel nu.<br> :date: __2021-03-09 10:50:04__
 
-> Werkt prima<br> :date: __2021-03-01 15:41:09__
+> Vind het een fijn programma<br> :date: __2021-03-09 10:22:35__
 
-> Werkt goed zonder poespas.<br> :date: __2021-03-01 11:33:59__
+> Zeer goed<br> :date: __2021-03-09 09:24:19__
 
-> Prima app<br> :date: __2021-02-28 20:42:21__
+> Makkelijk in gebruik. Goed contact met behandelaar.<br> :date: __2021-03-08 12:12:13__
 
-> Al drie weken kan ik de app niet meer openen en dus geen gegevens doorgeven. Zelfs verwijderd en opnieuw gedownload. Nee dus. Lex.<br> :date: __2021-02-24 12:04:49__
+> Werkt heel makkelijk, snel doorgeven van standen<br> :date: __2021-03-08 07:49:42__
 
-> De app werkt weer perfect<br> :date: __2021-02-22 09:04:16__
+> Fijn apparaat, snel en nauwkeurig<br> :date: __2021-03-08 07:33:43__
 
 
 
@@ -226,6 +226,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Vroeger kon men de dagelijkse metigen zien .....<br> :date: __2021-03-11 09:24:32__
+
+> Werkt prima.<br> :date: __2021-03-09 08:44:17__
+
+> Goed<br> :date: __2021-03-08 09:35:05__
+
+> Lekker makkelijk<br> :date: __2021-03-08 08:53:34__
 
 > Deze app is, samen met de meetapparatuur, een goede oplossing om veelvuldig ziekenhuisbezoek te voorkomen en toch controle te houden over de gezondheid. De Bluetooth van mijn weegschaal functioneert niet goed, maar gelukkig kun ik de gegevens ook handmatig invoeren.<br> :date: __2021-03-05 18:15:17__
 
@@ -239,14 +247,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Nog even hiermee wachten.<br> :date: __2021-03-01 21:13:53__
 
-> Goed<br> :date: __2021-02-23 09:39:51__
-
-> de vragenlijsten zijn hetzelfde.<br> :date: __2021-02-22 12:03:45__
-
-> Handmatig waarden door sturen gaat prima<br> :date: __2021-02-22 11:27:16__
-
-> Kort, bondig en duidelijke vragen.<br> :date: __2021-02-19 09:49:42__
-
 
 
 #### 3-star reviews
@@ -254,6 +254,12 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Werkt nu weer beter.<br> :date: __2021-03-12 11:07:13__
+
+> Even wennen.<br> :date: __2021-03-09 07:47:54__
+
+> Ik had ook andere klachten mbt corona maar doe stonden er niet bij. En nu het beter gaat vind ik elke dag invullen niet relevant tenzij er verandering optreed.<br> :date: __2021-03-07 10:19:05__
 
 > Vindt het jammer dat ik de stappen van gisteren niet kan invullen<br> :date: __2021-03-05 09:17:05__
 
@@ -268,12 +274,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Ter info...vanaf nu werkt de app niet bij mij. Ook na de update niets...start niet op.Heb de app verwijderd en opnieuw gedownload. Nu krijg ik melding dat hij niet werkt op Android. Hoop op een berichtje van u.<br> :date: __2021-02-06 10:41:29__
 
 > Het zou handig zijn om alle antwoorden in 1x te verzenden inplaats van per antwoord. Dit probleem is inmiddels opgelost.<br> :date: __2021-02-06 06:06:54__
-
-> Werk mee aan Corona onderzoek voor Feyenoord maar sinds 3 weken werkt het niet meer, krijg wel meldingen maar app leeg !!!<br> :date: __2021-01-29 13:14:13__
-
-> Kan na Lang gebruik niet meer openen. De display was leeg. App. Verwijderd en opnieuw geinstalleerd. Mijn gebruikersnaam/email wordt niet herkent.<br> :date: __2021-01-15 20:20:13__
-
-> Het is goed bedacht. Maar ik heb android versie 11 (oneplus 8) en die antwoorden waarbij je moet scrollen voor de cijfers doen het niet. Dus die had ik niet ingevuld. Kreeg vandaag het verzoek om de rest ook in te vullen maar kan daar dan geen bericht op terugsturen dat het bij mij niet werkt 🙈. Het idee is goed maar de uitvoering werkt niet op mijn mobiel. Ik heb dit probleem niet met andere apps met scrollsystemen.<br> :date: __2020-12-23 10:35:49__
 
 
 

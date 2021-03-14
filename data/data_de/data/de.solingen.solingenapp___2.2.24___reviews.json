@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFBMzPtw_r3Lq1sIXNQUJW0peOCuWBEMAJ6F_Mjq_ncUN7PpnWOeqja1ltW3h2oq6bn7DB_QItUfX564B0",
+        "userName": "S. K.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giiihlby1pDUFWAvSu7rtU1-4Cb96sMktRpJH_SuA",
+        "content": "Geht so. St\u00fcrzt andauernd ab. Sehr oft keine Verbindung zum Server. Ansonsten OK",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-03-13 08:43:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHTAlXroF1yjOyY7dPC5EU0aQHzHQwEkq6KgF-sldl4_aPEW83N5WnHjnrj3d9BVws2NyM7KNUD4D3Wua4",
+        "userName": "Hasan Tv",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGI-sJ20KMAtAx7utm21iQuwsGsMOZiKV_-RFeSg",
+        "content": "Sie st\u00fcrzt zum mindestens immer bei M\u00e4ngel ab, aber sonnst top die app",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.19",
+        "at": "2021-03-11 08:45:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFkuwjbSV33uinrVt6fehVdUwIvJJ2u9Ih36olAD6SVhe2l7VclhpIxmD8Q2CNzyfx1F6zNnG7yCR1Oy0Y",
         "userName": "Bilbo B.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOnW9rkPT7AqnjateMUjQZGfSQt8ySkIQVmHGaQQ",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.17",
         "at": "2021-03-05 17:02:32",
-        "replyContent": "Hallo Bilbo B.! Vielen Dank f\u00fcr Ihr Feedback, wir haben gestern erneut die Version 2.2.7 hochgeladen. Funktioniert die App nun auf Ihrem Ger\u00e4t? Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
-        "repliedAt": "2020-11-26 16:59:41"
+        "replyContent": "Hallo Bilbo B., mit der Version 2.2.25 besteht der Fehler nicht mehr, bitte laden Sie sich dazu das neuste Update herunter. Ideen f\u00fcr Funktionserweiterungen nehmen wir gerne unter solingen.digital@solingen.de entgegen. Viele Gr\u00fc\u00dfe Ihr Solingen App-Team",
+        "repliedAt": "2021-03-10 11:34:43"
     },
     {
         "reviewId": "gp:AOqpTOEqV-Oi-w5GdgAJEmkhaD1LzasHqRgAb1R7Hdyui2QvFWZcTlLrZ0yC29UsYnfvvb1t9RUw4nMgSeereyc",
@@ -17,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6e7ki1CJq1L8WrT7Z23Mv3wJK5hXH8Hql9LjZcQ",
         "content": "Derzeit st\u00fcrzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann st\u00fcrzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank \ud83d\udc4d.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-17 15:10:54",
         "replyContent": "Hallo THE TO, vielen Dank f\u00fcr die Aktualisierung der Bewertung! Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
@@ -41,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-F6wmhgXJyU4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclreipxLPJEdRk-2riaMrUi-edOdA/photo.jpg",
         "content": "App lie\u00df sich \u00fcber mehrere Tage nicht starten. Es wurde immer der Fehler 100 angezeigt. Habe sie jetzt deinstalliert und neu installiert. L\u00e4uft wieder.",
         "score": 4,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-13 23:54:38",
         "replyContent": "Hallo Brigitta Fassender, wir freuen uns, dass die App auf Ihrem Ger\u00e4t wieder l\u00e4uft und bedanken uns f\u00fcr die positive Bewertung. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-u9X5qVyp6nE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckseS9dcnONsAU_b8bhm1RdErmtrw/photo.jpg",
         "content": "Bisher lief die App gut, doch seit einigen Tagen l\u00e4sst sie sich nicht mehr \u00f6ffnen. Erst kommt Fehler 100. Dann wird doch die Verbindung zum Server hergestellt und dann st\u00fcrzt sie ab.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-13 15:17:38",
         "replyContent": "Hallo Karin Rex, bitte versuchen Sie die App zu l\u00f6schen und neu zu installieren. Dann sollte der Fehler nicht mehr auftreten. Wenn der Fehler weiterhin besteht, freuen wir uns, wenn Sie uns per Mail kontaktieren, dann k\u00f6nnen wir uns das Problem genauer ansehen und beheben: appdev@solingen.de\nDanke und viele Gr\u00fc\u00dfe Ihr Team Solingen App",

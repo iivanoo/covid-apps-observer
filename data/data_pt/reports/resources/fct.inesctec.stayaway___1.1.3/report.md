@@ -137,6 +137,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Eu adorei a App stayaway covid<br> :date: __2021-03-11 21:16:23__
+
+> 🌏🌏🌎🌍🌍<br> :date: __2021-03-11 11:47:15__
+
 > Gostei muito de poder instalar esta app sobre a exposição á Covid - 19 e posso garantir a sua total fiabilidade!<br> :date: __2021-03-05 09:59:01__
 
 > Muito importante p a imunidade de grupo e ver wurm sao os assintomaticos. Muit boa app. Parabens<br> :date: __2021-03-03 14:18:11__
@@ -152,10 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Bom<br> :date: __2021-02-18 20:21:03__
 
 > Bom e ajuda.recomando🥰<br> :date: __2021-02-18 00:52:37__
-
-> É uma opção escolher esta app. Aconselho a aderirem<br> :date: __2021-02-17 12:18:22__
-
-> Excelente<br> :date: __2021-02-17 11:56:27__
 
 
 
@@ -221,6 +221,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
 
+> Não cheguei a perceber o que se trata<br> :date: __2021-03-11 15:26:03__
+
 > O código não é fornecido automaticamente por nenhuma entidade, portanto quem fica doente tem que se lembrar de o pedir nas 2/3 vezes em que fala com alguém. Um bocado inútil, assim.<br> :date: __2021-03-02 01:39:09__
 
 > Aplicação inútil quando se é das poucas pessoas a utilizá-la... falta de conhecimento sobre o funcionamento da aplicação faz com que as pessoas não a utilizem, porque sentem "a sua privacidade a ser invadida". Apesar de os seus dados estarem a ser partilhados noutras aplicações. A única crítica que tenho a cerca da aplicação é que devia ter uma aba onde mostrasse as restrições actuais o que se pode e o que não se pode fazer.<br> :date: __2021-02-12 14:24:11__
@@ -239,8 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Tenho uma dúvida que me persegue desde o seu lançamento. Se alguém dá positivo e introduz o código, como é que poderá alertar outras pessoas que se cruzou com um doente, se um infectado tem de ficar obrigatoriamente em casa? Não percebo muito bem a lógica da aplicação<br> :date: __2021-01-27 12:39:43__
 
-> A APP está constantemente a desligar-se devido às optimização da bateria, quando a mesma está desactivada..<br> :date: __2021-01-26 19:25:06__
-
 
 
 #### 1-star reviews
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
-> Belo tledo<br> :date: __2021-03-06 02:16:17__
+> Se a pessoa infectada não colocar o código não serve de nada esta aplicação<br> :date: __2021-03-14 02:12:51__
 
-> Não serve de nada<br> :date: __2021-03-04 00:31:55__
+> Ninguém declara q esteve infetado. Essa declaracao deveria ser automática.<br> :date: __2021-03-13 14:45:50__
 
-> Só invenções inúteis devoradoras de bateria. 😒<br> :date: __2021-03-03 13:43:49__
+> As pessoas nao partilham os resultados, po isso nao vale a pena.<br> :date: __2021-03-12 21:50:35__
 
-> Totalmente inutil. Podiam enviar os codigos automaticamente por sms para quem está infectado mas não enviam nada. Isto torna a app totalmente inutil.<br> :date: __2021-03-01 15:27:34__
+> De acordo com o produtor da app apenas são necessários dados de internet e bluetooth. No entanto está sempre a exigir acesso à localização. Se ativo a localização estou a drenar rapidamente a bateria com uma função que, de acordo com os produtores, não serve para nada. se desativo a localização estou constantemente a receber alertas de que a app não está a funcionar bem. Desinstalar<br> :date: __2021-03-12 18:14:50__
 
-> Esta app nao presta para nada a nao ser ocupar espaço e deixar o telemovel lento<br> :date: __2021-03-01 14:49:43__
+> Acabou por não ter relevância. O caminho é desinstalar.<br> :date: __2021-03-12 03:05:27__
 
-> Aplicação inútil se não há códigos gerados.<br> :date: __2021-02-28 19:03:22__
+> Boa d+ cara gostosinha<br> :date: __2021-03-11 18:42:34__
 
-> Não vale nada<br> :date: __2021-02-28 05:39:08__
+> Os sms que recebemos dos laboratórios com o resultado, nao tem qualquer código para colocar na app. Tanto investimento para o lixo.<br> :date: __2021-03-11 13:55:07__
 
-> Ja alguem viu isto funcionar?<br> :date: __2021-02-27 21:19:10__
+> Orrivel, Mau e porco e gosto de pinga Não tem vinho Kkkklkkkkkk🤷‍♀️🤦‍♀️🤷‍♀️🤦‍♀️🤷‍♀️🤦‍♀️🤷‍♀️🤦‍♀️🤷‍♀️🤩🥰🃏😅😥🧐🤗🤩🎆👁🤗😘🤣🤩😅👁😥👁😘😬🧐🃏🥰🃏🙂🤨😑😊😍😥🏆🥉🎗🏆🎎🎀🥈🎋🥉🏆🎏🏆🥉🏖🏢🏭🏢🧭🏢 Edit: porque eu escrevi isto??<br> :date: __2021-03-11 12:03:43__
 
-> M3rda!! Tudo fachada!! Uma completa farça!! Se não queres apanhar covid não é a app que te salva. Tens de utilizar mascara, respeitar o distanciamento e higienizar as mãos para te precaver. E a vacina é treta!! Não houve tempo para testar a vacina como deve de ser. Quem acredita que isto é a salvação para o covid anda a dormir na vida. Sem travão ninguém nos quê? Sem travão ninguém nos pára. Boca calada nunca xibo na nha brada Mesmo levando porrada Manto e firme o pé na estrada FK gang 🔞😤😤🔞<br> :date: __2021-02-27 10:51:45__
+> Não faz nada<br> :date: __2021-03-08 16:01:58__
 
-> O nome é stayaway covid mas mesmo assim apanhei covid, pensando que este APP ia fazer com que o covid ficasse longe de mim.<br> :date: __2021-02-25 23:07:47__
+> na minha zona os Supermercados ficam a metros de casas,o GPS não tem precisão de indicar se as pessoas estarão em casa ou no Supermercado. Já aos dados pessoais, as pessoas preocupam-se bastante e esquecem que bem pior são as redes sociais que usam, onde toda a sua vida privada é exposta assim como dados de registo inseridos, basta ler as condições de utilização das mais conhecidas redes sociais.<br> :date: __2021-03-07 16:27:09__
 
 

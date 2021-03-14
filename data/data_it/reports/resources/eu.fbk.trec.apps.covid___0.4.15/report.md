@@ -172,6 +172,8 @@ The TreCovid19 app has been installed by more than **1000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="eu.fbk.trec.apps.covid 1 reviews"/>
 </p>
 
+> La app si blocca in continuazione. Inutile come Fugatti e la sua amministrazione.<br> :date: __2021-03-10 10:17:51__
+
 > si blocca sempre!<br> :date: __2021-02-22 21:48:06__
 
 

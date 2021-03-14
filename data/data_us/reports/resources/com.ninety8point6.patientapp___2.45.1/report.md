@@ -192,25 +192,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> Got a prescription quickly!<br> :date: __2021-03-12 12:46:33__
+
+> So efficient and easy to use.<br> :date: __2021-03-11 18:19:45__
+
+> Easy! Fast! And friendly doctors!<br> :date: __2021-03-09 18:26:24__
+
+> Fairly agreeable app, I've not had trouble in the two times I've used it.<br> :date: __2021-03-09 18:23:50__
+
+> Very professional<br> :date: __2021-03-09 15:15:01__
+
+> Easy breezy. Courteous Doctors. This is the future.<br> :date: __2021-03-08 22:43:07__
+
+> This is a great way to avoid picking up unnecessary germs and possibly bringing those germs home to be spread around.<br> :date: __2021-03-07 22:18:22__
+
+> Very easy and quick, the Doctor was knowledgeable and we were able to get my daughter on a prescription right away<br> :date: __2021-03-07 16:49:32__
+
+> I have had the opportunity to use this app a couple of times. It's great being able to speak with a doctor instead of spending all day waiting in an office.<br> :date: __2021-03-07 03:59:16__
+
 > The doctors here always go above and beyond!<br> :date: __2021-03-03 15:53:23__
-
-> This has been an amazing resource. Have not had a bad experience and have used it twice. Great.<br> :date: __2021-03-03 03:41:08__
-
-> The doctors are amazing its quick & easy!<br> :date: __2021-03-02 19:01:42__
-
-> I'm so glad my dad introduced me to this app - since I lost my job to covid, it's been so rough without insurance but this is affordable and I can get my prescriptions refilled easily. Heck, I feel like the doctors I talk to via chat here listen to my concerns more than any in-person visit I've had!<br> :date: __2021-03-01 22:53:17__
-
-> Fantastic service, highly recommend<br> :date: __2021-02-28 16:03:27__
-
-> The app has been great for me as my anxiety causes me to skip appointments or undervalue my care needs. Now I feel that I can get a quick assessment and medication without having to wait at an urgent care and can take care of my other commitments.<br> :date: __2021-02-27 17:51:39__
-
-> The doctor was very helpful and listen to my concerns and answered all my questions and found a medication and a plan for my health.<br> :date: __2021-02-26 18:11:45__
-
-> Awesome doctors. Great app<br> :date: __2021-02-26 10:06:36__
-
-> Groundbreaking approach to medicine. Deeply grateful.<br> :date: __2021-02-25 20:17:53__
-
-> Love this app!!<br> :date: __2021-02-25 13:30:03__
 
 
 
@@ -276,6 +276,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="2_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 2 reviews"/>
 </p>
 
+> I don't think this doctor listened to what I said.<br> :date: __2021-03-06 16:55:58__
+
 > Great concept but a real cra\*\*y app. I have insurance. The only questions asked have nothing to do with anything other than basic personal info. You got next and theb told your not covered. $120? I don't think so. Some of us are on social security<br> :date: __2020-08-14 14:02:12__
 
 > Didn't like it<br> :date: __2020-08-12 20:17:58__
@@ -300,6 +302,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> Useless have earache and congestion told cant help me<br> :date: __2021-03-13 17:49:44__
+
 > Not good<br> :date: __2021-03-01 01:17:03__
 
 > I received terrible customer service from the 98point6 doctors during virtual visits on several occasions. They rushed through the visits, didn't listen to me or give me time to explain my heathcote concerns or needs. Their doctors ended the visits abruptly and signed out of the app before I could even finish asking them questions. Highly DO NOT recommend this app!<br> :date: __2021-02-28 22:13:06__
@@ -317,7 +321,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Waste of time, just go to a real Doctor.<br> :date: __2020-12-28 02:26:43__
 
 > The first time i used this app was great...after that it was useless.. The drs didnt want to do anything to help me and suggested i go to a dr... I have no insurance and my normal dr is a low income clinic that takes months to get an appt at... And i cant afford an er visit each time i need a medication refilled... And it wasnt even a narcotic medication or anything along those lines... So whats the point of this app??<br> :date: __2020-12-21 12:48:01__
-
-> Terrible. No one to help with technical issues and no number to call.<br> :date: __2020-12-02 02:44:52__
 
 

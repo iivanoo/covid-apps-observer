@@ -192,6 +192,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 4 reviews"/>
 </p>
 
+> Sie stürzt zum mindestens immer bei Mängel ab, aber sonnst top die app<br> :date: __2021-03-11 08:45:04__
+
 > Sehr informel<br> :date: __2021-02-16 18:55:45__
 
 > App ließ sich über mehrere Tage nicht starten. Es wurde immer der Fehler 100 angezeigt. Habe sie jetzt deinstalliert und neu installiert. Läuft wieder.<br> :date: __2021-02-13 23:54:38__
@@ -209,8 +211,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Vielen Dank, läuft jetzt wieder einwandfrei. Eigentlich eine schöne App aber seit dem letzten Update nur noch einmal zu öffnen (Samsung M21, Android 10).<br> :date: __2020-11-22 02:39:48__
 
 > Bei der 1ten Benutzung sehr zufrieden schöne App... lässt sich leider bei erneuter Nutzung nicht öffnen...schade... Keine Verbindung zum Server möglich...bitte um Hilfe !!!<br> :date: __2020-11-18 10:22:27__
-
-> Update: Mit Version 2.0.7 sind die bisherigen Fehler schnell behoben worden. Sehr gut. Die zukünftige Abwicklung von Verwaltungsdienstleistungen und Zahlfunktion hin zum mobilen "Bürgerbüro" ist ja das Ziel. Bin mal gespannt. Der 5. Stern wartet schon...<br> :date: __2020-08-30 10:57:21__
 
 
 
@@ -236,6 +236,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
 
+> Geht so. Stürzt andauernd ab. Sehr oft keine Verbindung zum Server. Ansonsten OK<br> :date: __2021-03-13 08:43:37__
+
 > Okay, die App läuft mittlerweile und tut was sie soll. Der Funktionsumfang könnte noch was größer sein. Leider klappt das Scaling nich nicht ganz, zum Teil werden Textbereiche bin anderen Boxen überdeckt (Samsung S10) Update: bekam heute die erste Benachrichtigung von der App, und ich bekomme einen dauerhaften Fehler angezeigt... Jetzt deinstalliert, schade<br> :date: __2021-03-05 17:02:32__
 
 > Gibt man bei dem Abfallkalender eine Hausnummer ein die nicht in dem System ist funktioniert die Funktion nicht. Ergo existiert unser Haus nicht und man muss dann eine völlig andere Hausnummer eingeben.Das Haus meiner Eltern gibt es auch nicht aber vielleicht leben wir ja in Bielefeld 😁 Die Wetterstation Eichenstrasse gibt es nicht obwohl sie im System auftaucht. Alles in allem irgendwie sehr unprofessionell und das ganze war wahrscheinlich nicht billig.<br> :date: __2021-01-08 21:17:37__
@@ -253,8 +255,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Nach der Installation ließ sich die App normal bedienen. Jedoch nach erneutem Start komme ich nur bis zum Logo. Dann schließt die App wieder. Hab das Gerät neu gebootet. Bleibt so. Hab die App erstmal deinstalliert.<br> :date: __2020-11-24 10:40:40__
 
 > Ganz schlechte App immerwieder kommt keine Verbindung zustande.<br> :date: __2020-11-23 16:24:15__
-
-> Die Ausdrucksform gefällt mir nicht, ich möchte von der Stadtverwaltung nicht geduzt werden.<br> :date: __2020-08-29 13:52:56__
 
 
 

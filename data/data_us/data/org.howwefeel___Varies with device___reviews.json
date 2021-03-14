@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOE_c2n7F0jZ1Uyd7ybd64Iqf5qbYfUkAskvv4DJK9mNJ5vFx6lkJPQpO79I8L6UYqtRJIThWZ0RsQJcFZg",
+        "userName": "Nancy J Hafner",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiH2ze2lFaTeMhG5dmGP8cA5QEl8mLSCOXLKQNMSXE",
+        "content": "Good tracking",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-03-09 22:32:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH0GZ8gqKNlZkniL9c8DpSlT7M7LtSJRhpXVKsi3eibRiz_07f1pcyvCCyYaNoiK5LsvkWm3Rb8G03FNBM",
         "userName": "Monique Davis",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQOYyUN5WKqYAmLimfnxL7cf2XEzLdh1IvXgDx6A",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXbqXAUyUn5OBTmOtKyFrux_jlQVrGweb6DjPG",
         "content": "This app is so user friendly, ridiculously easy to dive right in. I love being able to track metrics around my mood and wellbeing. It's super cool to see metrics from my state and around the country as well! I could see something like this really taking off and becoming a valuable asset to our community health.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-02-25 20:10:21",
         "replyContent": null,
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0ZDgCW8gp97sLKkaAzK9yMq8YiJ7iEPhf8KqEyw",
         "content": "Non invasive Since the update, the reminder/notification has not worked. When it did work, I completed it daily, faithfully. But w.o the reminder, it's all fallen apart. Now it feels like there's really no point. Chances are, I'll uninstall soon.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-02-21 18:03:43",
         "replyContent": null,
@@ -185,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxmXiIH-nFPnuTgElrgEktyvAWRIuWVSSUdxn3MvI",
         "content": "This app is a tool to gauge the impact of the covid-19 pandemic. Provides info on state level, then compares the state & national statistics. App gives you a feel for how other states are coping. Provides links to the CDC website & other medical centers. If you dig deep enough, you can find the impact on your county. Finding granular data isn't straightforward. There's a lot of info out there if you care to find it. Info can be found by going straight to CDC.gov. I like this app. Recommended.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-02-05 23:46:24",
         "replyContent": null,
@@ -2688,18 +2700,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOGcCBNOdxe0CZEn8XjzlYXovI_R6LsqMDvdmBY1SNGe-Kc5HGFDMOyja9TwSi5Lzp5dNoQyBq5FDOlGiYo",
-        "userName": "Dorinda Spilman",
-        "userImage": "https://play-lh.googleusercontent.com/-wOW_rXKwC6s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktvKJMvJD8kzvFpY4lcZpxTodx3Q/photo.jpg",
-        "content": "I feel better doing this. For it helping others.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.8.9",
-        "at": "2020-08-01 20:29:08",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEPlA5lUqG9UgOUuhzVTyJEhh2oIBbmQ3FWQ1HwwBmUqS3TuktBN8hcupDHqqCcf9yLadOu_fFMQfboSDc",
         "userName": "Sharon Barr",
         "userImage": "https://play-lh.googleusercontent.com/-CAW1XCq7g1I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnUStDPYW8-7qHrkzXSzYc5q9fIKQ/photo.jpg",
@@ -3362,7 +3362,7 @@
     {
         "reviewId": "gp:AOqpTOGCDR9SLgcC__YUwDpbrxbI5AiMlHFx30L0zrhxhBQzQr1BNsZ-U0pGhHk1IHMSeVaIOmCUmRKZO7ha5kA",
         "userName": "Eric Petty",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghiz6BTqsiX_h1JG6-idJ-qAwyF-_X3ykssDMRgbA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWK_nTGjpH_Hqj2bkyfq2_c8zdoCDQuUAzgmRLGQ",
         "content": "I don't even recall downloading this app but apparently I did. Never used it.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3517,7 +3517,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGA2xE6qVw7IQHQlZQgPZHzLiIU_Hv1S8K3cvRjzd3dYcmstM1mDbY46jz-xXRfHEbgUJHrtQUkv9S5Iy8",
-        "userName": "rebbc recc",
+        "userName": "Rebecca Harris",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpPz6ATr8o_RDjqXhAVLDCRDRTVhfRue7T5liLHg",
         "content": "Very good, very easy",
         "score": 5,
@@ -4693,7 +4693,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGGPb_uQC5g3Xl0XuwUhFRkZFk8hGmJTbyTwJ5K9cjjNKzVjmRWUXODDIqMeuFfXd_bohPGuqhWsFjBt0A",
-        "userName": "Mark Butler",
+        "userName": "Mark B",
         "userImage": "https://play-lh.googleusercontent.com/-6sD7xR3WUCI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBAEwfAziczIcGnrxRk5rKxOinkA/photo.jpg",
         "content": "Not great after adding the input of feelings. It was quick and simple when I first downloaded it. But then they pushed an update that asks you 900 questions about how you are feeling mentally. I thought the idea was tracking the virus itself not mental health. Deleting.",
         "score": 2,
@@ -5077,7 +5077,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFMJJ7ibGKPy5zYDHmLV_zTmG0uNF1ioqw-ZxHuXpGrJg_JiLPFrgWsVkqEEL_i43zTrAGAwiFekWGj5aM",
-        "userName": "Joe Public",
+        "userName": "Ken LOUCKS",
         "userImage": "https://play-lh.googleusercontent.com/-l-dVoVdhBjE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrWw2wV5-ZV1XQRzJiKJtX97nPPA/photo.jpg",
         "content": "Easiest app, no personal info, or login",
         "score": 5,

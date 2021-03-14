@@ -178,6 +178,16 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-03-13 05:56:33__
+
+> Great<br> :date: __2021-03-12 19:27:29__
+
+> Fantastic<br> :date: __2021-03-12 01:20:11__
+
+> Very clear, no hiccups or disconnects. The Provider understood and fixed me up promptly. Thanks!<br> :date: __2021-03-07 13:34:07__
+
+> Fantastic option to see a doctor<br> :date: __2021-03-07 00:56:17__
+
 > Amazing!! A must have!!<br> :date: __2021-03-06 09:23:40__
 
 > Better than the website. I have an old phone, had no issues<br> :date: __2021-03-05 23:15:27__
@@ -187,16 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Smooth and fast. Dr Nesbit was awesome.<br> :date: __2021-03-04 02:11:38__
 
 > Its really great!<br> :date: __2021-03-03 22:14:55__
-
-> don't like virtual visits, I like seeing my doctor in person, I have more time to think of things that I am concerned about.<br> :date: __2021-03-03 17:50:07__
-
-> Very helpful.<br> :date: __2021-03-02 02:17:48__
-
-> Quick and easy Dr was very nice and professional I love this app it's so convenient not having to go sit in an office<br> :date: __2021-03-01 18:31:17__
-
-> The app works pretty well. I had no trouble with the forms or with the visit. The physician was pleasant and knowledgeable. The video was clear and the audio was at a good level. I appreciate having an app like this, as I do not like to leave home a lot. Thank You for the convenience and flow of the NowClinic.<br> :date: __2021-02-28 22:12:21__
-
-> Can not beat the convenience, but not all can be done virtually<br> :date: __2021-02-28 02:48:56__
 
 
 
@@ -274,6 +274,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> Will not down load<br> :date: __2021-03-12 16:09:12__
+
 > Dr leslie remedies is very rude<br> :date: __2021-02-26 02:18:56__
 
 > This app is terrible. I didnt used to have problems with it but the last 2 times have been a nightmare. The doctors werent able to connect, 1 had to call me and for the other the app stated that my appointment had finished even though it never connected me to the doctor.<br> :date: __2021-02-22 22:33:48__
@@ -291,7 +293,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Couldn't even connect<br> :date: __2020-07-01 23:41:53__
 
 > Made to use this app because of Corona virus, 200$ for a normal check up? No thanks I'd rather die.<br> :date: __2020-05-18 12:28:23__
-
-> It doesn't open 😠 I've tried and tried and nothing!!<br> :date: __2020-04-12 03:17:30__
 
 

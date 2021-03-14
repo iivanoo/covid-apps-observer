@@ -160,6 +160,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> App puntuale molto valida<br> :date: __2021-03-13 14:25:24__
+
+> Aggiungerei una pagina relativa a info vaccini Covid e con l'occasione proporrei l'iscrizione si avrebbe un censimento migliore delle persone magari anche chiedendo vari dati lavoro, patologie, esenzioni ecc. Ecc. .<br> :date: __2021-03-11 01:51:09__
+
+> NON FUNZIONA PIÙ<br> :date: __2021-03-09 11:43:55__
+
 > Funziona bene<br> :date: __2021-01-29 01:26:56__
 
 > Ottimo<br> :date: __2021-01-20 14:23:32__
@@ -173,12 +179,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > App molto utile per info sul tempo sulle allerte sui decreti per notizie e spostamenti utili in questo particolare momento un Grazie a tutti coloro che partecipano alla realizzazione del programma<br> :date: __2020-12-11 22:56:29__
 
 > Seria<br> :date: __2020-12-11 16:52:11__
-
-> Applicazione utilissima e costantemente aggiornata rischi che si possano verificare, un sentito grazie da una volontaria della protezione civile<br> :date: __2020-11-15 14:59:43__
-
-> Un App molto ben sviluppata,ed utile per avere informazioni sicure sull'andamento della circolazione del Covid 19 nella tua città e regioni italiane. Molto ben sviluppata,e di facile configurazione, fluida e completa di molte informazioni che possono essere utili. Con la possibilità di avere la situazione della circolazione del Coronavirus, tramite un sistema che ti mostra l'andamento della criticità, durante le 24 ore della giornata. Con la legenda con i colori dell'incidenza dei contagi nelle<br> :date: __2020-10-31 02:10:46__
-
-> Perché l'app è rimasta ferma al 19 Settembre? Nonostante gli aggiornamenti non si muove.<br> :date: __2020-10-21 19:54:14__
 
 
 
@@ -216,6 +216,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
 
+> Non è possibile cambiare l'età durante l'aggiornamento dei dati in un modulo già compilato<br> :date: __2021-03-12 15:22:58__
+
+> Ha funzionato sempre bene ma, da un paio di settimane il servizio risulta "non raggiungibile, riprova più tardi ". L'ho disinstallato e reinstallato ma, non cambia nulla.<br> :date: __2021-03-08 19:14:03__
+
 > Ottima okk<br> :date: __2020-12-01 18:32:58__
 
 > Abbastanza semplice e pratica ..... Ma mi domando..... ---- Serve a qualcosa ?????<br> :date: __2020-11-10 15:03:59__
@@ -232,10 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Come si cambia l'età anagrafica?<br> :date: __2020-09-18 20:18:32__
 
-> Funziona solo il questionario Covid e l'invio delle regole Covid aggiornate. Per il resto, non azzecca un'allerta meteo che sia una.<br> :date: __2020-08-28 00:31:16__
-
-> Funzionare funziona... le cose che ci sono servono... bruttina. Quello si e le allerte meteo attendibili come le previsioni mentre per i decreti covid rimanda ad apposite pagine on line.<br> :date: __2020-08-20 22:16:38__
-
 
 
 #### 2-star reviews
@@ -244,7 +244,7 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
-> NON FUNZIONA PIÙ<br> :date: __2021-03-03 20:30:12__
+> Con l'ultimo aggiornamento mi chiede di compilare il questionario che ho già fatto ma non va più avanti. Mi chiede di inserire un parente<br> :date: __2021-03-07 14:22:52__
 
 > Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.<br> :date: __2021-01-10 11:16:37__
 
@@ -272,6 +272,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Una cosa aveva di buono: quando arrivavano le allerte meteo, vedevi la cartina della regione coi colori e poi potevi vedere il dettaglio. Ora invece c'è un elenco di zone assolutamente inutile.<br> :date: __2021-03-13 12:59:41__
+
 > Con l'ultimo aggiornamento non riesco più ad usare l'app senza compilare il questionario covid, e se provo a compilarlo si blocca sulla schermata di scelta familiare.<br> :date: __2021-02-24 15:38:39__
 
 > Si blocca sempre<br> :date: __2021-01-23 20:49:46__
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Buon giorno Da ieri ho notato che app non si riesce più ad aprire.<br> :date: __2020-10-30 08:31:44__
 
 > Non aggiornata<br> :date: __2020-10-27 23:50:27__
-
-> Allerta in tempo reale???? Non scrivete certe cose!!<br> :date: __2020-10-22 20:26:03__
 
 

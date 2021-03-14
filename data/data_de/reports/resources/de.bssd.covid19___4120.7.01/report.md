@@ -243,6 +243,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Es ist nicht möglich, der Datenschutzerklärung zuzustimmen. Dann lasse ich es eben. Deshalb die schlechtestmögliche Beurteilung!!<br> :date: __2021-03-13 22:00:46__
+
+> Die App ist keine Hilfe und verschafft keinerlei Zeitersparnis! Der QR Scanner der App schaft es nicht zu scannen, weshalb man zum anmelden eine 43-Stellige ID aus Buchstaben, Zahlen und Sonderzeichen von Hand eingeben muss. Das dauert jedes mal Minuten. Nächstes Mal sag ich meinem Arzt einfach, dass er mich anrufen soll.<br> :date: __2021-03-08 21:50:53__
+
+> Die App startet nicht mal<br> :date: __2021-03-07 17:05:00__
+
 > Schließt sofort beim Öffnen...<br> :date: __2021-02-27 19:02:09__
 
 > Am liebsten 0 Sterne. Da ich auf mein Ergebnis warte und sich die App schon seit längeren nicht mehr öffnen lässt. Das kann doch nicht sein man wartet und die App geht nicht.<br> :date: __2021-02-27 07:14:03__
@@ -256,11 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > App bricht sofort ab. Kein Dienst möglich!<br> :date: __2021-02-11 06:40:49__
 
 > App schließt wiederholt selbständig kein Aprufen des Ergebnisse möglich! Handy Samsung S 20 einfach emteuchend Update wäre von Vorteil ! Und wirklich nett das man bei ihnen so nett ist und die Menschen ernst nimmt ! Lieber hunderte Menschen anrufen lassen ! Service null komma null.!<br> :date: __2021-02-10 16:15:47__
-
-> Die App lässt sich seit dem neuesten Android-Update nicht mehr öffnen. Es erscheint das Logo und verschwindet sofort wieder. Bei einer so wichtigen App sollte der Support up to date sein. Neuinstallation brachte ebenso wenig Erfolg.<br> :date: __2021-02-10 13:48:47__
-
-> Wie alle anderen schreiben. Nix geht. Absoluter Dreck<br> :date: __2021-02-05 12:45:29__
-
-> Die App stürzt direkt beim Öffnen ab. (Android 11 Galaxy S20+)<br> :date: __2021-02-04 10:08:28__
 
 

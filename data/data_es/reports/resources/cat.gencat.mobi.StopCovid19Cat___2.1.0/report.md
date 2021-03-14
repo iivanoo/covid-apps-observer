@@ -160,6 +160,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
 
+> Es master doctoral<br> :date: __2021-03-08 11:31:07__
+
 > Bueno esta bien y gracias a la informacion que facilita la institución sanitaria es más fiable.<br> :date: __2020-11-01 15:32:45__
 
 > Todo bien por el momento. Lo unico es que estoy confinada desde el 22 de Octubre y no logro que me hagan la baja laboral...Quien la debe de tramitar. Gracias..<br> :date: __2020-10-26 15:08:41__
@@ -177,8 +179,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Necesaria para Prevenir Gracias<br> :date: __2020-07-21 17:40:01__
 
 > No me deja poner el n° de tef, me sale que hay un error. La anterior era perfecta pero esta no funciona. El problema se a solucionado, ahora esta OK.<br> :date: __2020-06-12 20:44:26__
-
-> Ha funcionat bé des de el primer día<br> :date: __2020-05-24 18:05:44__
 
 
 
@@ -244,6 +244,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Después de poner que tengo problemas para respirar y de rellenar el formulario para que me llamen, no me ha llamado nadie en más de 2 semanas. Es mejor ir en persona al médico porque está aplicación no ayuda en nada. Luego dicen que no hay que ir en persona etc. Pero si los recursos que ponen no funcionan, no quedan más opciones<br> :date: __2021-03-07 23:03:08__
+
 > Patética y no ayuda en nada. Una aplicación más para que te controlen a cambio de nada. Cualquier cosa llama a tu CAP. Esta aplicación es inútil.<br> :date: __2021-03-04 11:59:18__
 
 > Me lo he instalado bastantes veces tanto en castellano, como en catalán y no he conseguido que me dé acceso para el test. No me ha servido de nada. Mi opinión, negativa total.<br> :date: __2021-01-28 15:59:04__
@@ -261,7 +263,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > He dado positivo. Hago el test para informarlo. Pongo los síntomas. Fiebre tos dificultad para respirar, dolor de cabeza. Malestar. El resultado es: no tienes síntomas , pero no te confíes.<br> :date: __2020-12-24 15:17:35__
 
 > La primera vez he logrado llegar al paso de recibir el codigo por Sms, lo he puesto pero de allí no se mueve, la segunda vez ya ni he podido intentar enviar el SMS, por mucho que apretaba no pasaba nada. Así no me extraña que no se puedan contabilizar los casos, si no funciona una simple aplicación, que se puede esperar de situaciones más complejas?<br> :date: __2020-12-16 14:56:06__
-
-> Borrar esta app, es vergonzosa. Despedir al jefe.<br> :date: __2020-12-14 12:16:10__
 
 

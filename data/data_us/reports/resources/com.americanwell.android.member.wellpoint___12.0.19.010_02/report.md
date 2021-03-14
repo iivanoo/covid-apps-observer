@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> Very easy to use and hardly had to wait to get a sick release note for work. Video call quality was great and the Doctor was very professional and as thorough as needed. Much easier than waiting to get an appointment as I downloaded it and was able to get setup in only minutes.<br> :date: __2021-03-06 01:12:06__
+> Very happy that my liuna laborer union anthem blue cross blue shield has this option. Especially with my son living with his mother through the week sometimes, and this pandemic. It has taken the issue and barriers of leaving work early & scheduling my son and myself for the same day concurrently after my appointment or vice versa. I very much appreciate this service. I am a union laborer. I've been a pipe layer and built wind farms on nightshift. So some weeks I have 72 hours worked<br> :date: __2021-03-14 05:25:12__
 
-> Really makes life easier! Having 2 littles at home, no vehicle and all the restrictions due to covid about bringing more than one person to the appt creates a TON of stress for myself. Thankful!!<br> :date: __2021-03-04 20:04:18__
+> Logged on as a last-ditch effort to refill a psychiatric prescription before running out, and within ten minutes I was connected to a lovely nurse practitioner who chatted with me about symptoms and wrote the prescription. The app was not clear before making the appointment about whether this particular provider accepts my insurance, but either way, I was happy to get care at a moment's notice on a Saturday morning in my pajamas!<br> :date: __2021-03-13 17:54:25__
 
-> This app has made my life so much easier! It is easy to navigate and they provide the services that you need.<br> :date: __2021-03-04 01:53:01__
+> The reception was poor on my tablet. Better on my phone.<br> :date: __2021-03-13 15:03:22__
 
-> I had the worst sinus & ear infection 2 weeks ago. After setting up the program I spoke with a doctor from Philadelphia. I told him my symptoms. He said I needed to use Flonase and over the counter Zyrtec. I insisted that was not enough bc my snot was yellow and bloody, my ears ached from the drainage & my tonsil was on fire. He told me my sinuses were inflammed. He said wait 2 weeks & then they would consider antibiotics. Afterwards I met w/a local NP who gave me Amoxicillan. He was a joke<br> :date: __2021-02-27 21:26:42__
+> It was great and so easy.<br> :date: __2021-03-12 23:23:07__
 
-> This is so much better than going to an urgent care would highly recommend this.<br> :date: __2021-02-27 17:36:28__
+> Easy<br> :date: __2021-03-11 12:16:12__
 
-> Awesome caring 💊🏥💊<br> :date: __2021-02-27 17:27:04__
+> Very nice and wonderful doctor to talk to.<br> :date: __2021-03-10 20:11:01__
 
-> amazing<br> :date: __2021-02-27 05:59:59__
+> This app is amazing and I love my new therapist, easy to navigate and get help<br> :date: __2021-03-10 02:51:50__
 
-> Input reason why I need to talk to a doctor Meds refill and Pharmacy info Attending Dr. stratton was very nice and take care of my refill Rx right away and reply accordingly. Thanks so much.Great service God bless 💫🙏☘️🕊️<br> :date: __2021-02-27 00:09:31__
+> It was very fast and the doctor was very knowledgeable<br> :date: __2021-03-09 00:57:49__
 
-> Well some medical concerns benefit from having an ongoing relationship, most of my medical needs are transactional in nature, and this app makes it extremely easy<br> :date: __2021-02-26 13:01:54__
+> Love it<br> :date: __2021-03-08 22:18:14__
 
-> Access to lots of doctors of all kinds almost instantly, my prescription was ready an hour later and the only thing I left the house for was to pick up the medicine. Far exceeded my expectations.<br> :date: __2021-02-26 00:40:20__
+> Always fast. All Doctors have been professional and kind.<br> :date: __2021-03-08 17:33:03__
 
 
 
@@ -213,6 +213,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> The app is convenient but the doctor I had was rude, didn't really listen to my issues and kept interrupting me.<br> :date: __2021-03-11 02:42:13__
+
+> Great<br> :date: __2021-03-08 20:12:22__
 
 > I set up a doctor appointment for my sleep, waited 16 minutes in the waiting room after the set appointment time, only to be told that he's unavailable. I would rate him but so far I'm unable to find his information or even asked why he's declined to see me as a patient today. So far this app has been the worse to appointments, I'm giving it one more chance with a therapist to see if it's any better this round.<br> :date: __2021-02-22 20:40:24__
 
@@ -229,10 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > 1st time to use app. Worked great and had a good Dr. Will use again<br> :date: __2020-12-20 01:18:11__
 
 > Very convenient and helpful. Doesn't take the place of in person though where tests can be run. Great to be able to talk to a professional about what's ailing you.<br> :date: __2020-11-25 19:45:38__
-
-> First time using app. First time I did an appointment, the doctor had to cancel due to technical issues. I wasnt charged for it. The second time I was able to get ahold of a doctor and she was very nice. Recommend if you are unable to make a same day appointment with doctor.<br> :date: __2020-11-18 17:10:06__
-
-> App is great. Physicians can be rude.<br> :date: __2020-10-15 02:37:32__
 
 
 
@@ -298,6 +298,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Charged multiple times Dr kept cancelling on me Put me on meds without refills and suffered withdrawals and was never contacted by Dr again she ignored my emails<br> :date: __2021-03-13 13:36:51__
+
+> Complete waste of my money, they charged me for them to tell me to go see my primary care doctor!<br> :date: __2021-03-07 18:54:55__
+
 > It says 24/7 help. There are no doctors available. 24/6?<br> :date: __2021-02-27 16:38:45__
 
 > Camera won't connect. This is a huge failure, and the idea had so much promise. There are problems with the camera on my phone connecting every time. I'm very disappointed.<br> :date: __2021-02-25 14:59:53__
@@ -313,9 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Bad<br> :date: __2021-01-13 20:24:36__
 
 > Horrible will never use again<br> :date: __2021-01-12 23:01:24__
-
-> Doesn't work<br> :date: __2021-01-12 03:23:49__
-
-> Dosent load<br> :date: __2021-01-08 20:36:02__
 
 

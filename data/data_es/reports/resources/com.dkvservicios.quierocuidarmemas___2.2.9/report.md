@@ -217,6 +217,12 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Muy buena<br> :date: __2021-03-14 13:10:25__
+
+> Fenomenal , muy profesional<br> :date: __2021-03-09 12:39:13__
+
+> Genial!!!<br> :date: __2021-03-07 10:09:23__
+
 > Contento con el servicio<br> :date: __2021-03-06 02:03:45__
 
 > Excelente<br> :date: __2021-03-04 10:23:00__
@@ -230,12 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Muy top!<br> :date: __2021-02-24 12:48:49__
 
 > Los doctores muy atentos y la aplicación muy bien<br> :date: __2021-02-24 11:05:58__
-
-> Pues la verdad que soy nueva en esto pero la carpeta salud de mi hijo no se abre por lo cual no puedo entrar para ver las recetas Muchas gracias<br> :date: __2021-02-23 15:19:35__
-
-> Buen trato<br> :date: __2021-02-22 15:24:35__
-
-> De momento genial<br> :date: __2021-02-22 11:51:14__
 
 
 
@@ -289,6 +289,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="2_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 2 reviews"/>
 </p>
 
+> Hola, me acabo de asegurar y dar de alta la app, es imposible ver el cuadro médico, cómo puedo acceder? Si no, tendré que darme de baja del seguro<br> :date: __2021-03-09 23:25:53__
+
 > La aplicación tarda mucho en abrirse o se corta usando la video llamada. No aparecen muchos médicos en los listados. En general, no funciona correctamente.<br> :date: __2021-01-20 12:24:10__
 
 > No me queda activado el acceso digital. Cada vez q entro selecciono está forma de exceder pero vuelve a pedírmelo cuando intento entrar de nuevo.<br> :date: __2021-01-13 13:27:31__
@@ -307,8 +309,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 
 > No funciona bien la aplicación<br> :date: __2020-10-17 10:09:06__
 
-> Poco intuitiva, lenta, los aspectos que cuidan tu privacidad hacen que sea muy complicada de usar<br> :date: __2020-09-23 19:28:24__
-
 
 
 #### 1-star reviews
@@ -316,6 +316,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
+
+> Ise una cancelacion para darme de baja me pidieron 15.95 euros y nada isieron sean mas responsables y no estes sacando el dinero que tanto cuesta ganarlo<br> :date: __2021-03-07 20:21:42__
 
 > Malisima no lo siguiente he tenido varios seguros médicos y esto ha sido nefasto, en esta aplicación no permite pedir una cita por especialista ni por centro medico, en pocas palabras no sirve para nada tengo que llamar y esperar 30 mins a que me atiendan en la línea telefónica para asignar una cita puffff<br> :date: __2021-03-06 09:19:25__
 
@@ -334,7 +336,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Horrible. Además de lenta no me deja cambiar la fecha de nacimiento ( pongo la mía y se pone sola 14/03/1978) y por tanto cuando quiero darme de alta como cliente no me reconoce.<br> :date: __2021-02-04 14:45:13__
 
 > No te reconoce nunca la contraseña, aunque la escribas correctamente, 15 veces, al no reconocerla, después de 5 intentos, te bloquea. Va fatal !!!!! He leído en una respuesta que cambiando datos de acceso diferentes podía funcionar, pues tampoco, estoy desesperada!!<br> :date: __2021-02-03 17:05:16__
-
-> va fatal<br> :date: __2021-01-29 19:29:42__
 
 

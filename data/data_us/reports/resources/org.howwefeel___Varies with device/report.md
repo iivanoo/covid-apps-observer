@@ -176,6 +176,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Good tracking<br> :date: __2021-03-09 22:32:44__
+
 > Fairly straight-forward and easy to use. Was a reminder to myself to be more mindful of my actions and how I was feeling.<br> :date: __2021-02-27 03:28:13__
 
 > Been using since July. Really like it. Keeps me focused on staying health and in compliance with the CDC.<br> :date: __2021-02-25 23:53:34__
@@ -193,8 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Easy and rather quick<br> :date: __2021-02-21 17:26:40__
 
 > It's a way to help out when I can't donate money.<br> :date: __2021-02-20 14:20:49__
-
-> Good way to check in with yourself and any data on covid is a bonus! The more we know the better for everyone<br> :date: __2021-02-14 04:07:30__
 
 
 

@@ -126,6 +126,8 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> So simple, doesn't drain your battery like some say. The more people who get this the more chances it has of doing what it's supposed to... Not getting a notification is the goal and a good thing. Zero exposures so far and I hope it stays that way.<br> :date: __2021-03-08 21:03:23__
+
 > The app reminds me when I have Bluetooth turned off and otherwise operates entirely in the background. There doesn't appear to be any impact on battery life. The more people who download it, the more useful it becomes. I've done my part.<br> :date: __2021-02-25 23:58:29__
 
 > Great idea, we all should use this. I'm promoting it to everyone I know.<br> :date: __2021-02-02 03:32:47__
@@ -143,8 +145,6 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > Don't pay any attention to the ignorant Trump Hannity worshipers. This is a useful app that is intended to help protect you and others.<br> :date: __2021-01-01 01:08:54__
 
 > Took long enough<br> :date: __2020-12-31 14:12:35__
-
-> This app fits under the heading 'civil responsibility.' If you care about your family, neighbors and community, you will add this to your phone to help keep them and you safe until we can all get this virus under control.<br> :date: __2020-12-30 17:48:56__
 
 
 

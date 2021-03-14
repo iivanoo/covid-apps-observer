@@ -213,6 +213,10 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 <img src="5_star_reviews_wordcloud.png" alt="com.getheal.patient 5 reviews"/>
 </p>
 
+> Great app. Nice clean UI. Does what it needs to do without getting in the way with too many bells and whistles.<br> :date: __2021-03-13 05:44:02__
+
+> We have used the HEAL app since 2019 when my daughter was in bed for 3 days and couldn't move due to a headache. Dr. Mitton came out within hours to see her and properly diagnosed her with migraines (which run in my family). The process was amazing. She couldn't have walked out of the house to the car to get to our Dr so it was a blessing to have the Dr come to us. We have used the app a few times and will continue to do so in the future!<br> :date: __2021-03-12 15:33:44__
+
 > Wonderful conversation with the Dr. She was very sweet and Her Concern was outstanding!<br> :date: __2021-03-03 05:54:10__
 
 > I would have to come back and read this app later. All I could say is that the nurse assistant that came to see me was a very proficient, professional, and personable, young lady with a very wonderful attitude.<br> :date: __2021-02-22 02:39:28__
@@ -228,10 +232,6 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 > Great way to see a doctor, especially when you don't feel well.<br> :date: __2021-01-22 00:30:05__
 
 > It's great not having to leave the house to be seen by a primary care physican. Telehealth is also a good why to ask questions and discuss concerns about your health and get medication refills covered.<br> :date: __2020-12-31 21:17:42__
-
-> good dr<br> :date: __2020-12-24 19:42:50__
-
-> Hello I had a wonderful appointment with the Doctor.She educated me about health. I had concerns about some medications she answered my questions. She took time out with me she was very patient and caring. Encouraged me to continue to be healthy to exercise and to keep in contact with my regular doctor. She let it be known that heal is there for me thank you so much. Very grateful Doretta Williams<br> :date: __2020-12-21 22:03:47__
 
 
 

@@ -207,25 +207,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="5_star_reviews_wordcloud.png" alt="it.pagopa.io.app 5 reviews"/>
 </p>
 
-> Molto semplice e utile<br> :date: __2021-03-06 12:07:25__
+> Ottima<br> :date: __2021-03-14 12:07:42__
 
-> per ora uno per non mettere zero. da oggi inizia l'utilizzo e non fa registrare le carte<br> :date: __2021-03-06 10:41:08__
+> Ottima<br> :date: __2021-03-14 11:53:07__
 
-> Top<br> :date: __2021-03-05 23:45:39__
+> Ben funzionale<br> :date: __2021-03-14 07:25:29__
 
-> Ok<br> :date: __2021-03-05 22:29:21__
+> Ottima app. No problem<br> :date: __2021-03-13 22:54:06__
 
-> Perfetta<br> :date: __2021-03-05 21:01:35__
+> Molto intuitiva e di facile applicazione<br> :date: __2021-03-13 21:10:23__
 
-> Ok<br> :date: __2021-03-05 20:55:51__
+> Grazie mille<br> :date: __2021-03-13 20:27:13__
 
-> utile<br> :date: __2021-03-05 16:21:20__
+> Tempo al tempo x valutare<br> :date: __2021-03-13 19:31:48__
 
-> Molto positiva!<br> :date: __2021-03-05 16:07:38__
+> Ottimo<br> :date: __2021-03-13 18:11:45__
 
-> Utile necessaria. Tutti dovrebbero usarla<br> :date: __2021-03-05 15:26:56__
+> Ottimo.<br> :date: __2021-03-13 17:08:34__
 
-> Perfetto<br> :date: __2021-03-05 14:58:17__
+> Ottima app<br> :date: __2021-03-13 11:48:32__
 
 
 
@@ -235,25 +235,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="4_star_reviews_wordcloud.png" alt="it.pagopa.io.app 4 reviews"/>
 </p>
 
-> Funziona !<br> :date: __2021-03-06 09:45:19__
+> Buona<br> :date: __2021-03-14 12:08:46__
 
-> Dopo il codice di sblocco, si blocca non ti consente di andare avanti<br> :date: __2021-03-06 09:43:47__
+> Funziona bene, ma mancano ancora i servizi di pagamento con app (google pay, samsung, apple e via dicendo). Ormai è un po' che si dice che verranno aggiunti.<br> :date: __2021-03-14 09:48:48__
 
-> Non registra la carta BancoPosta Postamat ma mi prelevano i 2 centesimi ogni volta che provo ad aggiungere metodo pagamento!!<br> :date: __2021-03-06 07:35:53__
+> Complimentoni! Impossibile caricare le carte! L' unica funzione che serve è anche l'unica a non funzionare guardacaso.<br> :date: __2021-03-14 08:56:02__
 
-> Fatto aggiornamento , mi trovo bloccato fino a 44 e fermo al 22 febbraio non mi carica più le operazioni<br> :date: __2021-03-06 07:13:03__
+> Di semplice consultazuone<br> :date: __2021-03-14 08:44:29__
 
-> dopo un difficile inizio funziona benissimo e molto facile da usare<br> :date: __2021-03-05 21:17:49__
+> Semplice e efficace<br> :date: __2021-03-13 11:33:29__
 
-> Buona usabilità generale. Ancora pochi servizi disponibili.<br> :date: __2021-03-05 19:58:32__
+> Le stelle diventeranno 5/5 quando verranno implementati i pagamenti con Google pay ed Apple pay per il cashback<br> :date: __2021-03-13 10:27:54__
 
-> Fino ad ora funziona tutto.<br> :date: __2021-03-05 17:46:16__
+> Ok<br> :date: __2021-03-13 10:07:24__
 
-> Utile...<br> :date: __2021-03-05 17:20:34__
+> Facile chiara<br> :date: __2021-03-12 17:32:36__
 
-> Ha bisogno di ulteriore miglioramento<br> :date: __2021-03-05 13:37:59__
+> Va bene! Funziona<br> :date: __2021-03-12 17:13:29__
 
-> È una bella novità!<br> :date: __2021-03-05 13:17:55__
+> Facile da usare<br> :date: __2021-03-12 11:41:35__
 
 
 
@@ -263,25 +263,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="3_star_reviews_wordcloud.png" alt="it.pagopa.io.app 3 reviews"/>
 </p>
 
-> Buona<br> :date: __2021-03-06 11:00:36__
+> Esperienza disastrosa. Ho carte Ing che il servizio clienti Ing mi dice idonee e corrette per aggiungere ai metodi di pagamento di io ma l'applicazione le rifiuta. Più volte aperte segnalazioni alle quali rispondono con messaggi preimpostati. Ennesimo flop delle app promosse dal governo come immuni per la quale ho anche dato una stella perché non c'è la possibilità di dare 0. L'idea potrebbe essere buona ma..... AGGIORNAMENTO Oggi 14/03/2021 finalmente sono riuscito ad aggiungere le mie carte..<br> :date: __2021-03-14 11:53:29__
 
-> Troppo lunga la operazione di identificazione<br> :date: __2021-03-05 22:32:30__
+> Ottimo<br> :date: __2021-03-14 10:02:24__
 
-> Ok, ma Google pay arriverà mai?<br> :date: __2021-03-05 19:42:33__
+> Ok<br> :date: __2021-03-13 20:18:37__
 
-> L'app chiede di aggiornare ma poi non si riesce a farlo. Tre stelle di incitamento<br> :date: __2021-03-05 15:33:25__
+> App buona..ma perché non fate vedere anche gli scontrini della lotteria degli scontrini con le eventuali estrazioni ed eventuali vincite così si evita di dove accendere il PC facendo tutto da questa App? Inoltre il cambio password obbligatorio mi pare assurdo..sarebbe molto meglio abilitare un accesso a due fattori!<br> :date: __2021-03-13 20:02:17__
 
-> Annoying passwords expiring too often<br> :date: __2021-03-05 14:04:09__
+> In netto miglioramento<br> :date: __2021-03-13 19:23:43__
 
-> Impossibile registrare le carte di credito o i bancomat<br> :date: __2021-03-05 13:11:21__
+> Mediamente utile Grazie<br> :date: __2021-03-13 19:05:17__
 
-> Quasi inutilizzabile. Continua ad uscire "Aggiornamento disponibile". Rimanda al Play Store, dove non c'è alcun aggiornamento, e si va avanti e indietro.<br> :date: __2021-03-05 12:31:15__
+> MIGLIORABILE<br> :date: __2021-03-13 13:13:10__
 
-> In questi ultimi giorni è notevolmente lenta e spesso non carica la sezione "portafoglio". Il che è ovvio dal momento che hanno avuto la brillante idea di rilasciare l'aggiornamento per la configurazione dell'Extra Cashback di Natale e l'inserimento dell'IBAN, il giorno dell'attivazione del cashback stesso. Ci voleva troppo a pensare che, prevedendo solo 1 giorno di tempo, la gente avrebbe intasato e rallentato la app?! Boh!<br> :date: __2021-03-05 02:13:13__
+> buona<br> :date: __2021-03-13 11:15:04__
 
-> Fino a quando non saranno implementate samsung pay ed google pay non potrò dare le 5 stelle<br> :date: __2021-03-05 00:46:19__
+> Buona<br> :date: __2021-03-11 21:29:55__
 
-> App migliorata<br> :date: __2021-03-04 23:36:45__
+> Alla 49° transazione 4 marzo si è fermato tutto, e le successive? Disposizioni di bloccare tutto, guarda caso per quel che mi riguarda giusto alla 49°, perchè la EU ha detto detto di eliminare il cashback? ...quindi con 49 niente cashback<br> :date: __2021-03-11 14:05:54__
 
 
 
@@ -291,25 +291,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="2_star_reviews_wordcloud.png" alt="it.pagopa.io.app 2 reviews"/>
 </p>
 
-> L app lo scaricata ma non capisco perché non di passano tante transizioni mi sembra tutto un blef!<br> :date: __2021-03-05 19:45:03__
+> Iniziativa lodevole. Purtroppo è da circa un mese che la sezione servizi mostra il messaggio "Stiamo aggiornando i servizi locali. La lista tornerà presto disponibile". Ho aperto una segnalazione ma non ho ricevuto risposta. Aggiorno la recensione con 2 stelle.<br> :date: __2021-03-13 23:59:13__
 
-> mancano 3 transazioni del 21 febbraio, non ho più gli scontrini e l'assistenza dice che non sono più recuperabili!!!!!!<br> :date: __2021-03-04 15:27:00__
+> Non si può ogni 30 gg cambiare pass ..e tanto nella mia regione ancora non ci sono servizi enti pubblici..a che mi serve?<br> :date: __2021-03-13 15:42:08__
 
-> L'app fondamentalnente non è male, anche se sarebbe gradito un numero verde da poter contattare in caso di problematiche. In quanto ho problemi nell aggiungere un circuito di pagamento alla mia carta e la problematica non è dovuta all erogatore di essa ed la risposta automatica del team IO non è soddisfacente alla risoluzione del problema.<br> :date: __2021-03-04 10:37:27__
+> Troppe volte in stallo o senza adeguata comunicazione<br> :date: __2021-03-13 11:21:29__
 
-> Scaricata da due giorni non sono ancora riuscita ad attivare il cashback.<br> :date: __2021-03-04 08:53:46__
+> Da inizio marzo non ricevo più transazioni nonostante 6 acquisti fatti con bancomat negli stessi negozi dei mesi precedenti. Ho scritto più volte al Tim IO ma non ho mai ricevuto risposte chiare. Non è possibile altra strada per avere informazioni?<br> :date: __2021-03-13 07:26:14__
 
-> Ora va un po' meglio<br> :date: __2021-03-04 07:23:13__
+> Farragginosa<br> :date: __2021-03-12 18:32:40__
 
-> Dopo un mese di mancato accesso hanno richiesto una nuova password Io mi ero registrato con spid di poste italiane. All'inizio tutto è andato abbastanza bene, poi dopo un mese di mancato accesso non c'è stato più verso di accedere al servizio, anche perché il servizio di assistenza di poste italiane è pessimo e dovrò cercarmi un altro spid. Modonesi Vittorio<br> :date: __2021-03-03 23:18:06__
+> Spesso usando Mastercard non prende le transazioni, mi sono rotto il c@zzo. Ora la recensione ve la metto<br> :date: __2021-03-12 09:29:55__
 
-> È più di una settimana che non vengono registrati gli acquisti su CASHBACK<br> :date: __2021-03-03 22:50:00__
+> La app si è bloccata e da oltre due giorni nessuna risposta dal supporto<br> :date: __2021-03-11 23:49:06__
 
-> Non riesco ad aggiornarla e non mi permette di usare quella non aggiornata , boh?<br> :date: __2021-03-03 19:21:42__
+> Cashback: non vengono aggiornate le transazioni da almeno 5 giorni. All'appello me ne mancano inoltre una ventina se non di più da inizio marzo. E il servizio di assistenza non risponde in maniera utile.<br> :date: __2021-03-11 23:30:24__
 
-> Problemi su tutti i fronti.. dopo tre ( dico tre) giorni che non la uso mi dice che ne sono passati 30 e mi chiede di immettere di nuovo credenziali ecc. Poco immediata nell'utilizzo. Complicata per le persone più anziane..<br> :date: __2021-03-03 18:45:31__
+> Lenta ad aprirsi e spesso non si apre neanche, si interrompe.<br> :date: __2021-03-11 19:21:32__
 
-> 🙂<br> :date: __2021-03-03 18:12:13__
+> Dopo una settimana dalla attivazione non si vedono le transazioni eseguite con bancomat<br> :date: __2021-03-11 14:37:58__
 
 
 
@@ -319,24 +319,24 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="1_star_reviews_wordcloud.png" alt="it.pagopa.io.app 1 reviews"/>
 </p>
 
-> Per carità! Lasciate stare! Non funziona e fa arrabbiare tutte le volte che si tenta di metterci mano, tutti soldi sprecati<br> :date: __2021-03-06 11:29:41__
+> Non riesco a collegare carta credito<br> :date: __2021-03-14 11:55:15__
 
-> Servizio scadente<br> :date: __2021-03-06 10:18:47__
+> Da inizio febbraio "stiamo aggiornando i servizi locali. La lista tornerà presto disponibile". Se PRESTO è considerato in tempi cosmici va benissimo!<br> :date: __2021-03-14 11:29:20__
 
-> Non funziona, non conteggia le transazioni del cashback Il mio conteggio è fermo al 21 marzo!<br> :date: __2021-03-06 09:44:49__
+> Non risponde nessuno nella chat si supporto, ma vergognatevi<br> :date: __2021-03-14 10:35:37__
 
-> Farabutti maledetti<br> :date: __2021-03-06 08:12:07__
+> Ovviamente non ho mai ricevuto il rimborso del periodo di natale e se fai un reclamo ti rispondono con la classica frase all'italiana "prenderemo al più presto in visione la sua richiesta" ridicolo...<br> :date: __2021-03-14 03:11:05__
 
-> una volta funziona e 100 no! complimenti!<br> :date: __2021-03-05 21:49:14__
+> App penosa. Non funziona<br> :date: __2021-03-13 18:21:29__
 
-> pessima<br> :date: __2021-03-05 16:35:44__
+> disinstallato perché non serve più<br> :date: __2021-03-13 17:29:27__
 
-> Il login è un inferno... perché non usa l'applicazione invece di mail e password che non bastano per un livello 2?<br> :date: __2021-03-05 15:17:21__
+> Sembrava andare tutto bene, ma non ho ancora ricevuto l'accredito sul mio conto corrente relativo alle operazioni bancomat di dicembre.<br> :date: __2021-03-13 17:15:07__
 
-> Non conteggia le transazioni.....<br> :date: __2021-03-05 13:03:15__
+> Fa schifo!!!!!<br> :date: __2021-03-13 14:19:10__
 
-> É aberrante il reset periodico del login : email + password spid + sms + acconsento + errore toppo tempo + codice di sblocco ogni 30 giorni + reset notifiche di nuovo i messaggi vecchi tutti da riaprire e leggere: La mia valutazione sarà meno uno ogni volta che devo rompermi le balle a fare questa estenuante procedura obbligatoria: novembre-20 dicembre-20 gennaio-21 febbraio-21 marzo-21 Verro a scrivere qui ogni volta. Innovazione tecnologica un corno. Questa è schiavitù digitale, così la gente viene allontanata. Una vita persa dietro a ste str\*\**ate. Ma vi rendete conto se una banca o google, che vengono ogni giorno usati sullo smartphone, mi chiedessero questa procedura ogni 30 giorni già sarebbero falliti da tempo?<br> :date: __2021-03-05 12:35:25__
+> ok<br> :date: __2021-03-13 14:08:59__
 
-> Non vedo le operazioni eseguite ed ora per entrare devo usare l app di spid quando il pin era gia inserito<br> :date: __2021-03-05 12:19:53__
+> Le dimensioni del testo all'interno dell'app non è ingrandibile e sebbene abbia impostato la visualizzazione dello schermo al massimo, lo scritto è piccolissimo e si fa fatica a leggere.<br> :date: __2021-03-13 12:28:29__
 
 

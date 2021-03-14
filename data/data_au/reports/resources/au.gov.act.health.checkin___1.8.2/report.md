@@ -142,6 +142,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Work well and easy to use compare to NSW app<br> :date: __2021-03-14 10:25:36__
+
 > EDIT: In response to my previous rating developer explained app had stopped working with earlier versions of Android. They have now fixed it and it's working perfectly so I've upgraded to 5 stars. Has stopped working since last update. Have reinstalled but still crashes.<br> :date: __2021-03-05 03:31:28__
 
 > All fixed now! Make sure you update to allow the app to use the camera. That is what I had to do after reinstalling it.<br> :date: __2021-03-03 08:05:00__
@@ -160,8 +162,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Easy to use.<br> :date: __2021-02-22 08:09:10__
 
-> This app works well. Should be used all across Australia.<br> :date: __2021-01-24 23:29:37__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,12 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
+
+> Up to a few days ago this was near perfect. I used it everywhere. For some reason this weekend it fails to launch on my S7 Samsung mobile. I have uninstalled, restarted, reinstalled, but still it fails to launch. Something is now incompatible. I hope it's fixed asap. UPDATE The problem is now fixed. Thanks for the support.<br> :date: __2021-03-11 10:20:44__
+
+> Does its job. No issues really. First check in takes a little time, then its quite smooth going.<br> :date: __2021-03-10 08:34:42__
+
+> works fine for me, but will it ever include a 'checkout' function similar to the NSW version?<br> :date: __2021-03-07 06:58:44__
 
 > App worked fine on my Moto G5 Android (8.1.0) until a week or so ago, since when it won't even open. I have just downloaded the latest version - no change. Please fix whatever you did to break it EDIT: following update 1.8.2, the app now opens and functions as before. Thanks for taking action, as the 'solution' provided to many people below was really not acceptable in 2021<br> :date: __2021-03-03 06:26:53__
 
@@ -183,12 +189,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Was easy to install particularly for a tech challenged person. Only issue is that does not allow me to check out unlike the nsw app<br> :date: __2021-02-12 01:47:53__
 
 > App makes check-in easy and I like how it remembers dependents for easy future check-ins. Would be nice if locations you frequented could be remembered and used in the same way for easy repeat check-ins without needing a code or to huddle around a QR code that someone had posted on the wall.<br> :date: __2021-01-14 07:37:19__
-
-> Its missing a checkout button to end ur visit to a place. It needs a time out to ensure correct contact tracing<br> :date: __2020-12-09 02:30:00__
-
-> First try today - so very relieved to have no issues at Restaurant. Guess there's no need to checkout on departure?<br> :date: __2020-12-04 03:55:33__
-
-> Not enough businesses on it. Many still using pen and paper.<br> :date: __2020-10-17 05:00:51__
 
 
 
@@ -252,6 +252,14 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> App didn't work so i deleted it and tried to upload again, it won't load....it must be broken....it used to be a good app<br> :date: __2021-03-12 11:33:16__
+
+> I used this app successfully for 6 weeks until the beginning of March on my Samsung Galaxy s9. Now it will not work. Tells me there is no internet connection which is not true. I have uninstalled it and reinstalled it a number of times it work once or twice then fails again. It will not accept keying in the code manually either.<br> :date: __2021-03-09 05:29:36__
+
+> Far too messy compared to other states<br> :date: __2021-03-09 02:03:13__
+
+> Tried to install but it just spun around on pending. I've got plenty of space.<br> :date: __2021-03-08 23:46:49__
+
 > Doing an upgrade that invalidates all users WITHOUT REPEAT WITHOUT telling anyone is arrogant stupidity from the ACT government. It also shows the contempt that the ACT government has for its citizens. Bringing in $1000 fines right after changing the system is nothing but a money grabbing exercise.<br> :date: __2021-03-05 09:26:15__
 
 > Cant even install<br> :date: __2021-03-05 06:31:58__
@@ -263,13 +271,5 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > I have a new phone and cannot load this app .<br> :date: __2021-03-03 12:08:29__
 
 > Doesnt work sometimes<br> :date: __2021-03-03 01:40:00__
-
-> Stopped working<br> :date: __2021-03-02 05:34:36__
-
-> Same peoblem on a Galaxy S6. Not everyone can afford to update their phones guys, especially in a pandemic. Please make sure any updates are compatible!<br> :date: __2021-03-01 22:06:47__
-
-> Apps keeps crashing and unable to start. Reinstalling does not work. Web form back up would be useful in case of the apps crashing all the time like this.<br> :date: __2021-03-01 20:20:12__
-
-> Nup, still not working on my Samsung 7.... Crashes when you load it.<br> :date: __2021-03-01 13:54:37__
 
 

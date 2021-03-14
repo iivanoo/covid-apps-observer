@@ -139,6 +139,16 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Love you Scotland<br> :date: __2021-03-14 11:55:20__
+
+> If it helps everyone to be safe and stay safe quickly, then of course it's not a problem 👌<br> :date: __2021-03-12 21:44:05__
+
+> Great<br> :date: __2021-03-11 16:21:52__
+
+> Very good<br> :date: __2021-03-09 21:22:00__
+
+> Good<br> :date: __2021-03-07 17:29:29__
+
 > Kept me covid free from all the halfwit mouth-breathers<br> :date: __2021-03-05 21:38:57__
 
 > Very good<br> :date: __2021-03-01 10:07:11__
@@ -148,16 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Fantastic app easy to use<br> :date: __2021-02-27 10:12:44__
 
 > Just had a message from track and trace so it works thanks<br> :date: __2021-02-26 09:40:37__
-
-> Very easily installed to give you piece of mind whilst around others<br> :date: __2021-02-25 10:15:50__
-
-> Fine<br> :date: __2021-02-21 14:47:38__
-
-> Keeps me informed<br> :date: __2021-02-20 12:18:37__
-
-> I feel safer having this app, and I feel good that I'm helping to curb the spread of Covid-19.<br> :date: __2021-02-19 21:24:22__
-
-> This is a key element in the identification of virus outbreaks early and allows action to be taken, the app is unobtrusive and lightweight in respect to system usage get it asap.<br> :date: __2021-02-18 14:01:40__
 
 
 
@@ -195,6 +195,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
 
+> Seems ok<br> :date: __2021-03-09 20:15:55__
+
 > Oooft photo.yruk<br> :date: __2021-02-25 12:44:41__
 
 > Not enough people using it to make it effective.<br> :date: __2021-02-19 17:56:39__
@@ -213,8 +215,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > The app used to work fine until the 10 Dec update but then stopped checking for exposures automatically. It was difficult to report the issue --- it feels like mails / app reviews only got attention after people made fuss on social media. The app works OK now, after the 5 Jan update, but I wish there was an easier way to report bugs, and more transparency regarding existing ones.<br> :date: __2021-01-08 13:18:19__
 
-> Just got a notification after accidently turning off my.location to be informed I haven't been checked since 14th December !!!<br> :date: __2021-01-07 23:23:07__
-
 
 
 #### 2-star reviews
@@ -222,6 +222,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
+
+> Twice in three days I was contacted to isolate for 10 days despite never being in anyone's company inside or out within two meters I haven't even been near my own family. If passing someone on a pavement within seconds triggers the app for you to isolate then what's the point? They sell coffee at a door where people congregate on a pavement less than two meters to get past?<br> :date: __2021-03-13 10:03:34__
 
 > Gave me a notification saying I had been in contact with someone with covid and had to self isolate....10 days AFTER I had been in contact with them and I only had to isolate for 1 day?? Not convinced it works or it is very slow to update you.<br> :date: __2021-02-19 14:05:01__
 
@@ -241,8 +243,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Known not to work as positive testing patients do not put in their results<br> :date: __2021-01-16 11:16:29__
 
-> Entered my post code to see the restrictions in my post code and it can't find it<br> :date: __2021-01-13 16:28:03__
-
 
 
 #### 1-star reviews
@@ -250,6 +250,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> Ok stop giving me this ad I don't go outside<br> :date: __2021-03-13 22:31:14__
+
+> I have this app on both my phone and my works phone. I've been in contact with 5 people who have had covid . 5 of them gave my details as being close contact . I have my works phone and personal phone on me at all times. Yet not once did I get anything from track trace alerting me of my contact with covid. I did isolate and contacted people I was with to be vigilante of any symptoms. I didn't have any but i still isolated to protect others. Which is clearly not what this app is doing at all.<br> :date: __2021-03-11 22:05:24__
+
+> Waste of tax payers money had this app downloaded from day 1 had to manually update the app a few months back. How long was I using an outdated app dont waste time downloading this lie of an app<br> :date: __2021-03-09 17:45:07__
 
 > Had covid but no code given to make others aware from track and trace. Makes app useless. All it is is an app to monitor what your doing and when.<br> :date: __2021-03-06 00:52:40__
 
@@ -264,11 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Haha. Why would you need to fake the rating. Is it because it's a fake virus...#Flu #Controlavirus<br> :date: __2021-02-27 20:48:08__
 
 > Twice notified by the app to isolate and twice it has been ridiculously late in doing so. First instance was 8 days late and most recently 5 days late. Pointless app that simply doesn't protect anyone.... deleted.<br> :date: __2021-02-23 06:49:05__
-
-> Cannot download update 🤷‍♂️<br> :date: __2021-02-22 19:02:45__
-
-> It did not work so uninstalled it and tried reinstalling it but it always says already installed and won't allow reinstalling. A very poor app.<br> :date: __2021-02-20 13:47:43__
-
-> Absolutely garbage<br> :date: __2021-02-15 18:21:14__
 
 

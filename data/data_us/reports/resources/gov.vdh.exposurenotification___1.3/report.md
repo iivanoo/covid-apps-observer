@@ -134,6 +134,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> I love covidwise<br> :date: __2021-03-10 22:59:12__
+
+> I use Samsung Note 20 ultra and didnt encounter a single problem with the app. Its really helpful<br> :date: __2021-03-10 01:33:44__
+
+> Good job.<br> :date: __2021-03-09 02:16:21__
+
 > Very useful<br> :date: __2021-03-05 23:40:00__
 
 > Thank you my results is negative<br> :date: __2021-03-01 17:17:04__
@@ -142,17 +148,11 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Works in background, only time I know its installed is if zi turn off Bluetooth.<br> :date: __2021-02-27 02:02:06__
 
-> It is fixed now. It updates.<br> :date: __2021-02-17 19:17:02__
-
 > Love it<br> :date: __2021-02-16 01:37:29__
 
 > Baddddd<br> :date: __2021-01-13 17:23:03__
 
 > Works as intended if you are not an idiot.<br> :date: __2021-01-10 16:56:50__
-
-> Excellent!<br> :date: __2021-01-10 09:35:13__
-
-> Good have<br> :date: __2020-12-31 03:21:43__
 
 
 
@@ -190,6 +190,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> The app stopped checking in a few months ago. I tried reinstalling it and that got it to check in, but only once.<br> :date: __2021-03-11 17:46:41__
+
+> Pointless<br> :date: __2021-03-11 05:52:57__
+
 > Stopped using this because NOBODY else seemed to be using it Great idea but I think most people felt like it was an invasion of their privacy. Plus, we have to rely on people being honest about their health.<br> :date: __2021-03-02 20:31:29__
 
 > It was working and put date of checking very often. Now it hasn't did anything since feb 10.<br> :date: __2021-02-26 21:46:45__
@@ -206,10 +210,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Edit: apparently you need a pin to report positive. Rating is only 3* This is a very well made app! I'm a person who values my privacy, and this app is made in a way which respects that. It doesn't record location. It give each phone an anonymous ID and uses Bluetooth to tell which others IDs you were near. If any of those IDs report they have COVID, any othrt ID they were nearby within the past 2 weeks gets an alert. It does not track location or the owner of the phone, only the anonymous IDs<br> :date: __2021-01-12 17:31:52__
 
-> Not for my phone<br> :date: __2020-12-28 19:41:26__
-
-> At least Someone Creative is Trying to Help this State and The Good Hard Working Citizens. JD<br> :date: __2020-12-28 03:13:20__
-
 
 
 #### 2-star reviews
@@ -217,6 +217,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> Does not scan every day...last scan over a week ago. Only way to fix is uninstall and redo...but then you lose the past 14 days.....for all the money virginia has been given you think they would have spent a little more on this..but no they need to work on gun control instead<br> :date: __2021-03-11 01:20:34__
 
 > Never really got to see how the app worked. Got COVID, but never got a number to enter my positive results in the app. I'm a construction Project Manager and have been on jobsites with lots of COVID cases, and have worked at retirement communities with outbreaks. I never got a notification that I may have been exposed. I assume this is largely due to the barriers in entering positive results. Neat idea, but terrible execution.<br> :date: __2021-02-23 01:09:28__
 
@@ -236,8 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I was potentially exposed by my doc at a visit. The app is weak because reporting is optional. A good start. However in a few minutes my wife and I were able to be in the presence of: a vegetable lady, and 4 office co-workers in our local dem office. We duly called them all.i felt like typhoid mary. John.<br> :date: __2020-10-16 00:31:32__
 
-> Not sure if it actually works<br> :date: __2020-10-15 22:11:19__
-
 
 
 #### 1-star reviews
@@ -245,6 +245,16 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> Damn thing hasn't checked exposure in three days now. Kind of pointless<br> :date: __2021-03-14 09:50:12__
+
+> Not sure if it actually works. UPDATED 03/10/21. I believe this really is of no use. According to the apps own info under the heading "How it works", the alert criteria is based on being closer than 6 feet away some diagnosed with Covid for a whopping 15 minutes! So it takes an exposure of 15 minutes to catch the covid virus? I am curious to actually how many people actually got an alert based upon the flawed criteria.<br> :date: __2021-03-10 16:33:16__
+
+> QUIT SENDING ME NOTIFICATIONS TO INSTALL THIS APP.<br> :date: __2021-03-08 21:36:05__
+
+> App is useless. I got covid back in December. Tried to report on this app and it said I needed to get a code from the VDH. Never got a call from VDH. Called VDH and left a message to call me back and never got a call back. I doubt I'm the only one, so how is this supposed to work exactly if you can't report on it? Useless.<br> :date: __2021-03-08 19:34:08__
+
+> Continually gives false alerts. It honestly just doesn't work.<br> :date: __2021-03-06 17:20:26__
 
 > Does nothing. The amount of time I've been around people with Covid never once has this app notified me<br> :date: __2021-03-05 15:22:05__
 
@@ -255,15 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > I can't report my positive result. I guess others can't either because this thing isn't working right and neither is the VDH site. Thanks gubnah. Happy hunger games, and may the odds be ever in your favor.<br> :date: __2021-03-04 18:52:40__
 
 > According to the app, the last time exposure was checked was January 29, 2021 (as of this writing, that is almost a full month ago). I see this is mentioned in other reviews, and that you are responding with the same form response to those reports. Please investigate and resolve this issue. Update after developer response on March 3: verified that I am on the latest version which at the time of this writing is version 1.3. All the issues described above are still occurring.<br> :date: __2021-03-03 15:05:39__
-
-> I have little confidence in anything the Va government endorsed since the Va Governor aka. "Koonman" is a pathetic excuse for a Governor.<br> :date: __2021-03-01 02:07:38__
-
-> Pretty interesting that I've had this app for months, including hundreds of rideshare and delivery trips, plus going to very crowded places.. and not a peep. Odds are extremely high that I have been around people with coronavirus. So, is it the system or people not reporting?<br> :date: __2021-02-28 04:44:46__
-
-> You should let peoples put in their birthday instead of given the calendar to scroll. In my case I'm 58 years old it's forever scrolling. Stupid system<br> :date: __2021-02-27 14:40:00__
-
-> I've been running this since last July? August? Seemingly it's worked fine -- no notifications, but I'm rarely out of the house. App stopped checking the server about a week ago; had to reinstall to get it to start up again... Edit: Covidwise continues to stop checking exposures, despite following VDH's recommendations and protecting the app from power-related backgrounding. It kind of kills the purpose of the app if one has to reinstall it frequently, losing all exposure history...<br> :date: __2021-02-27 02:27:31__
-
-> App does nothing but intrusion, All it does is track you and your wearabouts and that is worth billions to the right company. We have been had.<br> :date: __2021-02-26 21:23:50__
 
 

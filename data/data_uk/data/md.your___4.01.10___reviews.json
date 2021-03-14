@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGVLxmx3sp0AVVIMmi3SNR6F0GUgRgOlwh4c7QNgWyv0wLfWGhEoQKY7swqbc8QMVruDo16DZ0A9Fj44Rc",
+        "userName": "Dave Poulos",
+        "userImage": "https://play-lh.googleusercontent.com/-Ov_dApe4zUM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmo2CP4U6uJs94EM5lCqtOgLtyBww/photo.jpg",
+        "content": "They lied it costs money",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.01.10",
+        "at": "2021-03-09 09:11:56",
+        "replyContent": "Hi Dave, thanks for your comment. The Android Healthily app is currently a free service, with premium features coming soon. You\u2019ll always be able to talk to our friendly chatbot, browse our health library, use our journal and trackers and find vetted products for free. If you have any questions please write to us at support@livehealthily.com.",
+        "repliedAt": "2021-03-10 11:39:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOHbTI6R7pWaBElpN07tGPGecU7TEkJI5qNOPQ8HVcmgUfh01q54Oa8fw2BL6L7qPfuh_S6ksdpsvfzPRNI",
+        "userName": "Jaime Rolle",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8-H_8Xen9lcH1U3B62ajepg8SFu0B5sEj5goFxw",
+        "content": "Exvellent",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-08 08:04:06",
+        "replyContent": "Hi Jaime, thank you very much for your review!",
+        "repliedAt": "2021-03-10 11:11:42"
+    },
+    {
         "reviewId": "gp:AOqpTOFXL7uVv60AgPRI4S7IGLQcyqnuBf5mAjzN8P4oJb9WlJ3rhjAQGZiX_KS81q9Tu4EJSB28syELafgoL9o",
         "userName": "Joy joyjoy",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggdms2RyxrOHiRZz3GVWOSYCsyYprEcuQcTZySh9w",
@@ -77,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9fvliAHDHkRcWw3Z5I4qolVxK-cgMPv-KSsBq",
         "content": "This is a really good app. I think it could use some more features like pain location and number scale.",
         "score": 4,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "4.01.08",
         "at": "2021-01-29 20:37:49",
         "replyContent": "Thanks for your review, Jim. We absolutely love hearing feedback from our users and it's great that you like the app. If you have any more suggestions please email us at support@livehealthily.com. Thanks again!",
@@ -241,8 +265,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEmzl7aN4cuTVl4uyOpjLw25GNZ09eDpIRSw5xPYYrzLMfsk9jyxquBdLHmqG-UmxGc_0ujZKgPih_nEBo",
-        "userName": "Jayrald Ado",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgP4H5I6Kq8aIwqExuuuSRMpfJpAvcW8wkYJ9qKng",
+        "userName": "Jay's Travelogue",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgeS_MFCGojC95k1iHBYdZiZ7b969_r7yZw9q-OO3Q",
         "content": "I'm loving it. I loved the revamped UI design. Seems like I won't be needing another health app. Keep it up!",
         "score": 5,
         "thumbsUpCount": 9,
@@ -881,7 +905,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhycIlHOVjeiGfR9swkw926yaFq5A-CLvru2GaIjA",
         "content": "I have a headache today and app sent me almost strait to the doctor as a serious issue. Not sure one of headache is that serious and reason might be any. Also I would welcome dark version (theme) of the app. Headache and white screen is not good.",
         "score": 3,
-        "thumbsUpCount": 54,
+        "thumbsUpCount": 55,
         "reviewCreatedVersion": "4.01.04",
         "at": "2020-10-09 20:36:09",
         "replyContent": "Hi Erika. We're sorry to hear about your experience and are working on addressing these concerns. We always value feedback - please contact us at feedback@your.md with any further comments you may have. Thanks again.",
@@ -985,8 +1009,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFuafzlLDkutgAJIDLtk12D27v6_DDwgQRaeYCYSnI7z_G5c865Sgt1tp_SLG8BeatM0n3Eml-J8GQYum4",
-        "userName": "Lisa Love",
-        "userImage": "https://play-lh.googleusercontent.com/-ZzF5YGXDSMQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckO2kyFj3Q-6Rket3YUJ_fIw1MXBw/photo.jpg",
+        "userName": "Lisa Marlene",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYXO6CVdNwBPCqTDS52365JdKN3ADscqdDHurgJg",
         "content": "Informative.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2438,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOFk8jGRXF8Py5g3O15BBB_uR7bQZY311d74efAaOwzoJQXr_puNUZIWCn9r3eYvo2_o-ZpxF4avi_LHij0",
         "userName": "James Zurc Aled",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjyoH9yE18-uMJkYqfbrEnIJsthrWTZiJ3wUkvSbw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_impfOeRLdfQuU6zfGxWWQaGr2VV-WTqBMwIEqA",
         "content": "Check if it really works",
         "score": 4,
         "thumbsUpCount": 2,
@@ -3757,7 +3781,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHUevUW-S9401TOWh8hAAUtKml-394SJcqeEItF55jImg9dS8boGOMeCV4jAtEiwRn0bFwyo2yszanRiHg",
-        "userName": "GLOB'ARNOLD WEB DEVELOPMENT WORLD",
+        "userName": "GLOB'ARNOLD",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhjaDOrvauQfmCIefBa0iFgsA9ULC0wWf0gH3OyaA",
         "content": "Useful",
         "score": 5,
@@ -4298,7 +4322,7 @@
     {
         "reviewId": "gp:AOqpTOEDrsVPI11-nImNyfES6BeiIMs7ZOovDfF6TYl8RMsDzJbNQXVuq3LvJS1DE64efytjtUIOt8XMj838kss",
         "userName": "lawal Samson olawale",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4rUeKNs11YDWrzDr-vszcVdIc1iOvUh7lyb2Ylw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhX6Yd6bR-o8FJ_vg06VBzI2p7jjD2AdSdh4vIsvw",
         "content": "its good",
         "score": 2,
         "thumbsUpCount": 0,
@@ -6197,7 +6221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghn79zy7T_xZHa_Pqu5mNhZ_Y1b_cn2ulc_VkcmlKs",
         "content": "It tells there's no Internet connection whereas i have a connection.",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "3.2.1",
         "at": "2018-04-20 17:25:22",
         "replyContent": "Hi,\n\nWe are sorry to hear that your experience with our app was not positive. The app is constantly improving, so we appreciate you taking the time to feedback. \n\nYour comments are valuable to us, so please email care@your.md with the make/model of the phone you are using as well as the app version number,  we can look into it.\n\nThanks,\nYour.MD",
@@ -6469,7 +6493,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGHJXcOUZX22HU3Wan7vh2IsicruETNiiZCR1Gti1OpBp6gJkWR1_icWRsKUZj59a6YtKDGrNG3CxoIe2k",
-        "userName": "Rommel Spencer Acu\u00f1a",
+        "userName": "ACU\u00d1A, ROMMEL SPENCER D.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3RBQubuo6Lfvs5O75rtbM8exJx0HbZXqldHUHzg",
         "content": "It really helps!!! Love this application \ud83d\ude18\ud83d\ude18",
         "score": 5,
@@ -7214,7 +7238,7 @@
     {
         "reviewId": "gp:AOqpTOFwDuaUZzsZZsXb5uHSqxkn_k3o3SJAuwGF4guge9sq37-C_2pYyAr_d6d2mSo0imik91uEcGiZ2thAem4",
         "userName": "Ashwani singh",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiA2EcK8bMm8qVtuUOKcziGwcnD4GeijnzyvpnxLg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg3uB3n8nExIJq5urqBAR8UqBuxyjdMvh8sJBZUtQ",
         "content": "Best app for basic knowledge and more....",
         "score": 5,
         "thumbsUpCount": 2,
@@ -11281,8 +11305,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFt57DUquAT6zu5Dz9K2UkhJECdxG4lrro-E_OCxnYWviIoCv46jRXUDnjYK6pWtCBzZQQZn7P3qfen7A0",
-        "userName": "T kai",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYnEaEooMLQYB9bUJ3emrhJq5jky16t1kH4RrxcDo",
+        "userName": "Tarh Kaya",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9dr6-pddWf0FvXedHYKbWBdzW7HiXxQtjZuK91Yg",
         "content": "Helpful",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.8.1",
         "at": "2017-03-20 16:45:32",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOETVMa0YEVFVHnd4acsgPhj5hlTVqRVVQdrlP7FW8MFhpxSsWgqoRHSIDoD-yRXqihsegF-iDDZxXTQlj4",
-        "userName": "lemonthe neutralNatutarcolour",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9AYx-RFUvl3SNLrUiY8tjywiSfmx55jG0857Gzg",
-        "content": "every time once i open data you force me to install it for which purpose i hate you ok enjoy now i installed but soon i will unstall",
-        "score": 1,
-        "thumbsUpCount": 16,
-        "reviewCreatedVersion": "2.8.1",
-        "at": "2017-03-20 16:34:31",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGbPPbsGAoo5ApchM0kIay6h15BE31Qb7pOCwXglM_Vl9j5_brgsVr1atRza0rn4-OgFYbD9hFfa_GvL4k",
-        "userName": "Robert Hollon",
-        "userImage": "https://play-lh.googleusercontent.com/-CFh0zGudq6o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7l_uKfusxGvPE67eui20LVyZbZw/photo.jpg",
-        "content": "It's a very good start",
-        "score": 5,
-        "thumbsUpCount": 9,
-        "reviewCreatedVersion": "2.8.1",
-        "at": "2017-03-20 12:27:14",
         "replyContent": null,
         "repliedAt": null
     }

@@ -198,6 +198,8 @@ The AveraNow app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.avera 5 reviews"/>
 </p>
 
+> This made seeing my dr easy + safe.<br> :date: __2021-03-10 18:11:01__
+
 > Clear and no problems.<br> :date: __2020-12-14 23:15:21__
 
 > Easy to use and I didn't have to goto a covid filled doctors office.<br> :date: __2020-11-01 17:29:26__
@@ -215,8 +217,6 @@ The AveraNow app has been installed by more than **10000** times. At this time, 
 > this is a great app...especially during the pandemic. once in a while I have to wait for a doc, but they are doctors... 99% I have no wait and no problems at all. thanks for making my healthcare safe and easy.<br> :date: __2020-08-04 17:56:54__
 
 > Great app. I love the video appointments.<br> :date: __2020-07-14 19:21:30__
-
-> It is good, since I'm not having any serious problems. Helps me when I would have to travel 70 miles for a face to face visit.<br> :date: __2020-06-22 22:57:20__
 
 
 

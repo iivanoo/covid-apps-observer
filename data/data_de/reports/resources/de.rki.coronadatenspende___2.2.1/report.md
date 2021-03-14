@@ -141,7 +141,7 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
-> Sehr großartige App sehr gut weiter verbessern und entwickeln vielen Dank<br> :date: __2021-03-05 23:40:30__
+> Sehr großartige App sehr gut weiter verbessern und entwickeln vielen Dank. Könnt ihr bitte antworten vielen Dank.<br> :date: __2021-03-10 21:40:03__
 
 > Sinnvolle App, endlich ist die Verknüpfung zu Samsung Health hergestellt. Jetzt nutze ich gerne die App.<br> :date: __2021-03-02 21:36:32__
 
@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Server fehler<br> :date: __2021-03-08 20:25:53__
+
 > Totaler Schmarrn. Könne ihr euch sparen.<br> :date: __2021-03-04 21:40:05__
 
 > Die Idee ist super, die Ausführung vor allen Dingen die Kompatibilität noch sehr dünn, für die mi-band Fitness Tracker unbrauchbar. Da gibt es wohl noch Hoffnung eine App zu bekommen die nicht mit heißer Nadel gestrickt wurde. Bis jetzt 22. 02.2021 ist nichts geschehen für Mifit. Warum eigentlich???<br> :date: __2021-02-22 10:29:11__
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Würde ja gerne meine Daten zu ferfügung stellen. Da ich ein Mi Band besitze und mit diesem Problem nicht alleine bin frage ich mich wann Xiaomi in die Liste der kompatiblen Geräte mit aufgenommen wird.<br> :date: __2021-01-31 09:54:05__
 
 > Ich wollte es nicht glauben, aber Xiaomi als einer der drei größten Hersteller von Fitnesstrackern fehlt ja wirklich. Das ist ja, als wenn man eine Studie zur Autonutzung macht und den VW Konzern nicht anklicken kann. Oder Studie zur Smartphone Nutzung und Apple steht nicht dabei.<br> :date: __2021-01-30 09:00:36__
-
-> Deinstalliert!! RKI-akademische Datenspielerei 🤔 ohne Transparenz weil voll wenn aber vielleicht vorausgesetzt daß mit für den user undefinierten Fakten,Algorithmen, Ergebnis/Folgerungen ist Geheimnis der RKI Akademiker. Wie von unterschiedlichen Smartwatches u Fitclouds die Daten u in z bsp Google fit nur teilw. angekommen bleibt ein Geheimnis u ist nicht reproduzierbar. RKI gibt diese Daten für politische Entscheidungen, ganz schlimm. Ebenso die sinnlose App zu Corona Kontakten deaktiviert.<br> :date: __2021-01-27 09:27:07__
 
 

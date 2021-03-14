@@ -151,9 +151,11 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
-> Great<br> :date: __2021-03-03 05:13:55__
+> It works, but only if everyone uses it. Which given this state 🙄<br> :date: __2021-03-08 14:10:58__
 
-> If you're struggling with the app not being active, make sure in Android settings that it isn't being put to sleep. Android puts apps that you don't open often into a suspended state to save battery usage. You need to disable that for this app.<br> :date: __2021-03-01 19:26:16__
+> If you're struggling with the app not being active, make sure in Android settings that it isn't being put to sleep. Android puts apps that you don't open often into a suspended state to save battery usage. You need to disable that for this app.<br> :date: __2021-03-08 06:47:29__
+
+> Great<br> :date: __2021-03-03 05:13:55__
 
 > Very interesting<br> :date: __2021-02-11 20:09:14__
 
@@ -168,8 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Best<br> :date: __2021-01-07 12:48:04__
 
 > Was good to know about the App<br> :date: __2020-11-28 18:00:06__
-
-> People saying this app is not working what is this used for I will try it anyway if it doesn't work then I'll take it off my phone<br> :date: __2020-11-20 01:08:13__
 
 
 

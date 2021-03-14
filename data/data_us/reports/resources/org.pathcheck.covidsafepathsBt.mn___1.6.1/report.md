@@ -221,6 +221,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
+> I find that my phone does not have enough space to install this app. I have 2 big apps on my phone, and that is all that I can fit. It would be nice if cell phones were less expensive or if my employer issued me a cell phone, but they aren't and they don't, I am not paying $30-$200 per month for a cell phone. $125/year is plenty! So call my land-line or send me an email.<br> :date: __2021-03-12 22:04:43__
+
+> Random notifications with no information in them, no information from MN about how or whether it has been effective... seemed a bit pointless.<br> :date: __2021-03-10 05:25:28__
+
 > I tested this app with someone I know had recently tested positive for Covid-19 2 days after they entered their confirmation code. I never recieved a notice or warning. My phone was next to this person's phone on a table for two hours on three different days? I'm concerned about the purpose for this application and where this information is going and why.. I think logically and am not afflicted with episodes of paranoia. Please explain.<br> :date: __2021-02-26 09:16:08__
 
 > This app gives very vague information about potential exposure. It caused me to be quarantined for exposure to a neighbor whom I rarely ever see. That placed me closer to that neighbor than I normally would be. After testing negative on the 6th day, I decided to remove the app from my phone.<br> :date: __2021-02-18 14:08:36__
@@ -236,10 +240,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > So I got a positive test; the app REFUSES my code saying that theres an error or that something went wrong i deleted the app; redownloaded it; cleared the cache and nothing works but the MDH wanted me to download the app.<br> :date: __2020-12-30 02:19:23__
 
 > Very poorly engineered. The fact that there is only one notification category is a problem in-and-of itself. That my downloads list is full of exposure check files is another. Other reviews complain about requiring completely new setup every time a needed service is disabled and re-enabled. Overall, the functionality is important, but I cannot endorse the engineering effort here.<br> :date: __2020-12-26 21:37:47__
-
-> I think this app is fine. However I live in a boarder area MN WI, and WI also has a tracking app. I can only use one at a time, not both. For me this is a problem. Isn't there a way you can create them to work at the same time and give people like me better coverage?<br> :date: __2020-12-26 13:51:11__
-
-> Verification code is not work.<br> :date: __2020-12-20 06:19:01__
 
 
 

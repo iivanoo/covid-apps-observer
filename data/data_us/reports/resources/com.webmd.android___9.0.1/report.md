@@ -193,6 +193,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> Not enough time to express how awesome and helpful webMD has been. Keeping it simple,. LOVE AND WILL CONTINUE TO LOVE THIS SITE AND APP. CAN'T MAKE BETTER BETTER THAN. THANK YOU VERY MUCH<br> :date: __2021-03-09 22:27:57__
+
 > Very Excellent Thank You<br> :date: __2021-03-02 09:16:12__
 
 > Does what I need it to do<br> :date: __2021-03-01 15:58:28__
@@ -210,8 +212,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Love having answers at my finger tips!<br> :date: __2021-02-04 20:31:33__
 
 > Most Authentic Health App.... Highly recommend.<br> :date: __2021-02-01 01:54:58__
-
-> working perfectly<br> :date: __2021-01-30 21:38:10__
 
 
 
@@ -305,6 +305,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="1_star_reviews_wordcloud.png" alt="com.webmd.android 1 reviews"/>
 </p>
 
+> Your COVID19 guidance is all over the place. How can anyone trust this information or even yet make sense of it<br> :date: __2021-03-09 03:10:00__
+
 > All the app keeps doing is giving me unfounded info about covid. Except for a few extremists and far out nuts, Most of the world is over it. This app used to be useful, but now every symptom seems to point to covid. That makes this app difficult to use because now you have to put a lot of thought into exact symptoms to get accurate results. No thanks!<br> :date: __2021-02-28 18:38:43__
 
 > ONLINE ✘✘✘✘✘✘....<br> :date: __2021-02-09 04:10:27__
@@ -322,7 +324,5 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Worthless account set up designed by a moron<br> :date: __2021-01-12 03:32:29__
 
 > Started getting political propaganda from web md. Very disappointed. Removing App. They should stick to Science and Medicine.<br> :date: __2021-01-12 00:22:25__
-
-> Can't even open the app anymore. It just says WebMD has stopped or keeps stopping<br> :date: __2021-01-09 00:55:32__
 
 

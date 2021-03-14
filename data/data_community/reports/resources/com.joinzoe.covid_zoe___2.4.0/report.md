@@ -185,25 +185,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Well I've been using this app now from day 1 and it has thankfully turned in to a habit. The info it provides is second to none and the ease of use is great. It literally does take less than a minute to report and I'm glad I can be of use to the study. Stay safe everyone. Samsung S21 Ultra on Android 11.<br> :date: __2021-03-06 10:49:24__
+> Excellent 👌<br> :date: __2021-03-14 12:23:19__
 
-> This app is easy to use. You log on every day and update your health. I feel like I'm contributing to something good and helpful.<br> :date: __2021-03-06 10:19:20__
+> Quick and easy to use<br> :date: __2021-03-14 12:19:02__
 
-> Quick and easy to use<br> :date: __2021-03-06 10:14:11__
+> Very useful<br> :date: __2021-03-14 11:43:49__
 
-> The app is easy to use and only takes a few seconds each day.<br> :date: __2021-03-06 10:02:25__
+> Brillant app<br> :date: __2021-03-14 11:39:43__
 
-> Very good and informative<br> :date: __2021-03-06 09:51:51__
+> Easy to use & doing a great service against covid.<br> :date: __2021-03-14 11:31:43__
 
-> Easy to use.<br> :date: __2021-03-06 09:07:13__
+> Very easy to use. Giving data is painless and hopefully helpful to the end goal.<br> :date: __2021-03-14 10:39:30__
 
-> Helpful<br> :date: __2021-03-06 02:02:37__
+> It's simple to use and potentially of huge importance to the scientists trying to get the measure of the virus.<br> :date: __2021-03-14 09:28:38__
 
-> Love it. Very informative and up-to-date on all things associated with Covid19 and its effect on all our lives.Feel like you're contributing just by checking in everyday to something that's making a real difference. Its been amazing to watch it develop and expand over the last 12mths.Highly recommend.<br> :date: __2021-03-06 01:57:09__
+> Easy to do and helps the world<br> :date: __2021-03-13 23:28:05__
 
-> Easy to access. Full of info<br> :date: __2021-03-06 00:08:45__
+> Lots of good science based information. Feel I am doing my bit to help research.<br> :date: __2021-03-13 19:56:32__
 
-> Useful at a difficult time<br> :date: __2021-03-05 22:41:21__
+> So easy to use, constantly with new information<br> :date: __2021-03-13 14:39:41__
 
 
 
@@ -213,25 +213,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> It won't accept my postcode!<br> :date: __2021-03-06 10:39:03__
+> Easy to use. Adaptable so additional research can be done. Allows us guinea pigs to contribute to the sum total of human knowledge.<br> :date: __2021-03-14 10:54:11__
 
-> Easy to remember to do most days no<br> :date: __2021-03-05 21:55:54__
+> Happy to contribute but no map data for my area during the past few months which is frustrating.<br> :date: __2021-03-14 09:58:04__
 
-> Really easy to use & you get a daily reminder to comment.<br> :date: __2021-03-04 20:34:54__
+> Easy to use - check you get to bottom of page<br> :date: __2021-03-13 21:28:43__
 
-> Very easy to use.<br> :date: __2021-03-04 20:11:52__
+> Could the record of test results be displayed in reverse order as when you have taken a lot of tests it is a pain having to scroll to the bottom just to say the list is correct.<br> :date: __2021-03-13 12:26:44__
 
-> I'm sure it is helpful for studies. I've had the same long haulers symptoms for several months, so the questionnaire is a little long to repeat everyday until changes may occur.<br> :date: __2021-03-04 17:56:35__
+> Easy to use<br> :date: __2021-03-13 12:15:22__
 
-> Once set up it's quick and easy. Takes second everyday. Only thing I'd like to see is space for the underlying health conditions as I'm saying I'm physically normal, and in terms of covid, I am, but I've a chronic condition, so I'm not actually physically " normal".<br> :date: __2021-03-04 12:47:56__
+> I have been using the app since it was first released and have been happy with it's simplicity and the various articles are interesting and give a lot of insight. I am however, unhappy that despite having the latest version installed, I have not received the promised vaccine questions despite uninstalling and reinstalling. I have also emailed them several times about this but have received no response.<br> :date: __2021-03-13 11:24:06__
 
-> Easy to use, clear instructions<br> :date: __2021-03-03 18:35:27__
+> Was OK until recently. Now android version goes to blank screen at log in stage. Tried reinstalling - same tesult. Please fix. Statistics somewhat erratic possibly down to low relatively low numbers in each area. Blank screen syndrome fixed quickly. Recent alterations in handling report numbers also improved erratic results.<br> :date: __2021-03-13 09:03:40__
 
-> Have had to reinstall a couple of times. Not a big issue though<br> :date: __2021-03-03 17:33:43__
+> Eesy good<br> :date: __2021-03-12 12:57:57__
 
-> Simple to use and takes very little time to complete each day<br> :date: __2021-03-03 16:58:16__
+> App works as expected, bonus is the clear, concise videos about the state of the pandemic.<br> :date: __2021-03-11 22:49:03__
 
-> Very useful way of collecting data. An improvement would be to allow people who were vaccinated before December (in the trials) to enter the dates of their vaccination if they have been "unblinded" . Currently it isn't possible to enter dates before 8 December.<br> :date: __2021-03-02 23:39:07__
+> The app is easy to use and I really like all the research info and the access to recordings of the webinars. My only criticism is that you never get an answer if you ask a question using their email contact. Other than that I think the app is brilliant and does an excellent and useful job.<br> :date: __2021-03-11 11:34:40__
 
 
 
@@ -240,6 +240,16 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
+
+> App is OK for answering their set questions but doesn't give much opportunity to offer feedback. Takes up a lot of memory for not much functionality.<br> :date: __2021-03-13 16:23:25__
+
+> It works but I will be glad when it is no longer necessary.<br> :date: __2021-03-13 11:18:07__
+
+> It seems to give different numbers for the number in your area eg today Dartford 318 and the result for your area on the map eg Dartford 87 ?<br> :date: __2021-03-13 10:36:50__
+
+> It works ok<br> :date: __2021-03-09 20:46:18__
+
+> Does not seem to recognise lateral flow tests. Could not input vaccine side effects 4 days later, wanted me to go for a test. I really struggle with the feeling fine /not quite right question when pre menstrual. If I'm honest, I get sent for an unnecessary test. If I'm not honest, there's no point in doing it! I wish there was a way of saying 'I'm not right but I'm pretty certain that it's because of this'<br> :date: __2021-03-09 00:03:53__
 
 > I deleted this app because it was using vast amounts of storage space. For an app that does very little I do not understand why..<br> :date: __2021-03-05 15:24:03__
 
@@ -251,16 +261,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Hasn't sent reminders since an update in November.<br> :date: __2021-02-28 18:14:46__
 
-> Nothing to report 🤗🤗🤗🤗<br> :date: __2021-02-27 18:00:09__
-
-> No longer seem to get reminders to login 🙁<br> :date: __2021-02-27 09:14:43__
-
-> Fervently wish your iPad page would rotate to the horizontal position!<br> :date: __2021-02-26 19:49:27__
-
-> Trying to rejoin study but not getting anywhere it won't send me a new link my emails changed so Zoe study can you please send link to the email I have you last night not the one on records thanks it's important you have research on side affect as to help manufactures thanks where can you record your innoculation details side affects etc<br> :date: __2021-02-26 16:52:56__
-
-> A bit confusing at first, it was not obvious which buttons to press, particularly the first time I had to report back. There's too much on screen in my opinion. Once you know, it's easy enough.<br> :date: __2021-02-26 12:49:23__
-
 
 
 #### 2-star reviews
@@ -268,6 +268,14 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
+
+> Good for up to date info. I'm unable to log my vaccination, told to ensure I have latest updates etc. so even reinstalled app to ensure this, but still can't. Disappointing<br> :date: __2021-03-10 12:56:37__
+
+> I had a lateral test turns out to be positive and a lab test turns out negative, does this app help me what I need to do next NO. Use the lab tests use the track and trace app. More accurate.<br> :date: __2021-03-10 09:54:30__
+
+> Cannot find where I put my daily health check in<br> :date: __2021-03-08 12:31:19__
+
+> It seems to make up local cases numbers on the fly. My area hasn't seen more than 6900 cases since the start of the pandemic, yet apparently, according to the app we've had nearly 15k... Something's amiss here<br> :date: __2021-03-07 10:44:34__
 
 > Has been great until today, then froze. Rebooted phone and 95 days of data lost. Including all inputs on jabs and dates.<br> :date: __2021-03-06 11:02:38__
 
@@ -281,14 +289,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > difficulty in navigation and screen has frozen several times when entering data.<br> :date: __2021-02-14 01:06:47__
 
-> Difficult to work. Repeatedly back to first page. Does not accept what is entered.<br> :date: __2021-02-13 18:00:23__
-
-> Can no longer see the prompt on the vaccine page<br> :date: __2021-02-12 12:19:35__
-
-> It stopped working, button stays grayed on screen display vaccine dosage information when one dose recorded and no change, can't hit enter.<br> :date: __2021-02-11 22:35:06__
-
-> Didn't seem to have an option for being pregnant. I think a lot of my symptoms can be down to pregnancy...<br> :date: __2021-02-10 14:14:43__
-
 
 
 #### 1-star reviews
@@ -297,11 +297,17 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
 
-> Very easy to use. Rating given was 5. But Update PROBLEMS 3 MARCH 2021 APP SEEMS TO BE EXTREMELY SLOW TO LOAD for daily input AND HAS BEEN FOR 2 OR 3 WEEKS. Rating dropped to 1, sorry<br> :date: __2021-03-05 22:00:03__
+> Very easy to use. Rating given was 5. But Update PROBLEMS 3 MARCH 2021 APP SEEMS TO BE EXTREMELY SLOW TO LOAD for daily input AND HAS BEEN FOR 2 OR 3 WEEKS. Rating dropped to 1, sorry. Update 14th mar 2021 STILL extremely slow and failing to load my information!!<br> :date: __2021-03-14 10:12:04__
+
+> Not impressed with the smoothing of infection rates lines. Feels like it's not as transparent anymore. If rates were cresting I'd avoid shops. Impossible to tell now. Map of Location of positive test results reported in the app over last 2 weeks has no boarder lines and impossible to tell where these black dots are. Are they near by or next county? Map is useless.<br> :date: __2021-03-10 11:04:51__
+
+> I have been entering data every day since installing this over 9 months ago. I now have a new phone and my also no longer have access to my email address I used to register with, do sapdly won't be using the app anymore.<br> :date: __2021-03-09 16:33:55__
+
+> I'm not recieving updates like other which is frustrating. I have information regarding vaccine to input.<br> :date: __2021-03-08 08:05:11__
+
+> Update: there is still a blank white space where the graphs should be. All you see is the covid case figure, 'Dec-Mar' on the horizontal axis & 'Share the graph', nothing else. Ditto for the UK map: that's become invisible too. I contacted Zoe, have now had a response asking for screenshots which I sent a few days ago. Still awaiting a resolution to this issue...I opened the app today to report in: still no graphs or maps...It is a good app, but I do wish they would hurry up & resolve this.<br> :date: __2021-03-07 13:08:50__
 
 > Was interested in contributing but can not set up log in. Keeps saying invalid parameters/missing info. (Yes I went over it several times).<br> :date: __2021-03-05 19:06:38__
-
-> It's been nearly 2 wks, and there is still a blank white space where the graphs should be. All you see is the covid case figure, 'Dec-Mar' on the horizontal axis and 'Share the graph', nothing else. Ditto for the UK map: that has also become invisible. I have contacted Zoe via the app, I've emailed them twice, and I've still had no response from them about this specific issue.<br> :date: __2021-03-04 15:07:25__
 
 > Just more Spyware<br> :date: __2021-02-27 23:03:23__
 
@@ -310,11 +316,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > Useless since its upgrade have tried to uninstal, reinstalling, forgotten password reset it refuses to work. I will remove it and not bother anymore.<br> :date: __2021-02-21 09:48:35__
 
 > Wouldn't let me register as I don't know my blood group. Totally useless<br> :date: __2021-02-20 14:13:52__
-
-> Pointless, local infection rates reported fluctuate by hundreds day to day. Basically they have no idea what's going on. Not going to bother any more.<br> :date: __2021-02-19 13:53:32__
-
-> Doesn't appear to work. It asks you to report symptoms even if well but the 2 drop down questions are both not applicable and you cannot proceed further. Also, I thought the app wanted you to report if you'd had vaccine and side effects but only option is to share that you've had it on social media? What's the point?<br> :date: __2021-02-16 20:58:48__
-
-> Doesn't work!!<br> :date: __2021-02-15 18:46:32__
 
 

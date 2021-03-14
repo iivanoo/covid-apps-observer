@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Brilliant way to help without even thinking about it<br> :date: __2021-03-14 09:31:23__
+
+> Works as advertised<br> :date: __2021-03-13 19:32:30__
+
+> It's good to know that one is contributing to such important Research.<br> :date: __2021-03-13 11:15:04__
+
+> Great way to support medical research!<br> :date: __2021-03-13 08:46:59__
+
+> Very well design user experience, feels great to help fight against the problems plaguing our society today. Download this today to pave the promise of tomorrow<br> :date: __2021-03-11 17:12:55__
+
+> Great idea, it's for a good cause<br> :date: __2021-03-10 23:48:45__
+
+> Good way to help out<br> :date: __2021-03-10 06:06:22__
+
+> Easy to use app, great purpose<br> :date: __2021-03-08 14:32:25__
+
+> Excellent<br> :date: __2021-03-07 11:26:41__
+
 > Great app<br> :date: __2021-03-05 19:26:33__
-
-> Great to be able to provide support for such an innovative and potentially valuable programme. All working quietly in the background, and at no appreciable cost. If we all come together to do this, think of the difference we can make.8o<br> :date: __2021-03-04 09:08:38__
-
-> we try...<br> :date: __2021-03-02 14:26:46__
-
-> An interesting app to rate as it works in the background so I have no idea what it is doing. But I do get messages saying thank-you from time to time. If it could be improved a bit of feedback from the team explaining in more detail what they are doing would be helpful. At the moment it could be calculating the best route to deliver newspapers for all I know. There is just a hint at the moment that I am being taken for granted.<br> :date: __2021-03-02 08:27:32__
-
-> If want to help out download this it's easy to use<br> :date: __2021-03-02 03:08:20__
-
-> Everyone should use this app period. The only annoying thing is you must run the app with the phone on charge and leave it. If you out the phone into sleep mode it stops the apl for some reason.<br> :date: __2021-03-01 17:23:27__
-
-> If you don't have it, why not?<br> :date: __2021-03-01 12:54:36__
-
-> No problems.<br> :date: __2021-02-27 21:10:09__
-
-> Excellent<br> :date: __2021-02-27 13:30:19__
-
-> I think this app should be downloaded by everybody. All you need to do is plug your phone in and voila your helping cure cancer. It's easy to use. And really is just an amazing app with a great cause.<br> :date: __2021-02-27 12:19:38__
 
 
 
@@ -182,6 +182,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Giving something back to Society! Especially with this lethal virus!!<br> :date: __2021-03-11 21:58:28__
+
+> Love this app. It works at night while the phone is being charged so it doesn't interfere with anything and at the same time you are helping cancer research. What more could you want.<br> :date: __2021-03-10 00:41:27__
 
 > Brilliant citizen science<br> :date: __2021-03-03 21:08:00__
 
@@ -198,10 +202,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Can make my phone a bit hotter than I am comfortable with.<br> :date: __2021-02-13 23:03:54__
 
 > App is good but could be better. The platform & institutions should take cues from BOINC's Android app's advance settings & notification feature. Also, as others have mentioned, you need to keep the calculations coming at a steady rate or at least inform users if there will be a slow down. BOINC institutions do this - they inform users if there will be a pause for maintenance or other reasons.<br> :date: __2021-02-11 22:45:34__
-
-> I love the fact I can use this app and feel like I'm making a difference, currently I'm at home alot so when I'm not actively using my phone or I'm asleep I just let the app run, I would not recommend powering a project if your actively using the device however because it's using your phone as a processor for constant calculations it gets very hot and slows down all other stuff, but if you dont actively use your phone much while it charges it's a great tool to make a difference!<br> :date: __2021-02-09 13:29:37__
-
-> Like helping out<br> :date: __2021-02-08 19:40:23__
 
 
 
@@ -239,6 +239,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
+> I was so excited to contribute to a worthy cause, but it makes my phone unusable when charging. It just needs to have some more settings.<br> :date: __2021-03-07 18:17:45__
+
 > App doesn't start up when plugged in, even on manual start, just keeps saying data will restart the following month, even though setting is for wifi.<br> :date: __2021-03-03 02:00:52__
 
 > What's the reason for rarely updating users on progress % of research project? It's really irritating to dedicate hours of your devices power for weeks and still not see the percentage budge.<br> :date: __2021-02-28 08:51:42__
@@ -256,8 +258,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Doesn't show right progress, after every few deletes requires reinstall for knowing progress.<br> :date: __2021-01-08 00:22:12__
 
 > It just won't stay running.<br> :date: __2020-12-30 21:36:07__
-
-> Great idea, was excited to help but the app always crashes. Have turned it on every night for over a week and there hasn't been a single morning the app was still running and only clocked up 5 hours<br> :date: __2020-12-30 14:06:28__
 
 
 

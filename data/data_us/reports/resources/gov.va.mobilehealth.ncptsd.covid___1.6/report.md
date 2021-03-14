@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Great ideas on ways to relieve stress. Love the variety of tools and resources.<br> :date: __2021-03-11 00:41:07__
+
 > Nice app...works well<br> :date: __2021-03-01 17:11:35__
 
 > Fantastic App.<br> :date: __2021-02-25 16:40:16__
@@ -158,8 +160,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 
 > Highly recommend it. I worked in a very demanding environment where there wasn't enough support. Using this coupled with professional help maximize the experience.<br> :date: __2021-02-03 18:14:23__
 
-> Very helpful and informative<br> :date: __2021-02-02 19:54:22__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 4 reviews"/>
 </p>
+
+> Good in balancing my life.<br> :date: __2021-03-11 21:42:58__
 
 > Worthwhile, inspiring daily messages<br> :date: __2021-02-26 16:03:25__
 
@@ -185,8 +187,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Haven't had to use it but it appears to have resources that would help someone in need<br> :date: __2020-10-10 19:35:22__
 
 > Not a meditatong person but Wow! Body scan leaves me fresh as having a two hour nap.<br> :date: __2020-08-03 20:12:13__
-
-> So far, so good.☺️<br> :date: __2020-07-15 02:32:24__
 
 
 

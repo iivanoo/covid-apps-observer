@@ -131,6 +131,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> I really want 💗💕💕<br> :date: __2021-03-10 05:37:35__
+
+> So far, negative!!!<br> :date: __2021-03-09 00:38:15__
+
 > This is What A Lot of Us Need and i Say Thinks,, For This =May-(GOD){Blessing)-You and your Compomey.<br> :date: __2021-03-03 08:36:18__
 
 > Excellant App!! Works beautifully. Accurate. On point.<br> :date: __2021-02-25 05:09:07__
@@ -146,10 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > I hate covid-19 so much because of the masks<br> :date: __2021-02-08 11:06:49__
 
 > I love thia app and hope every pne will and use it thank you<br> :date: __2021-01-30 07:31:47__
-
-> Great<br> :date: __2021-01-29 20:21:02__
-
-> After i re-installed the app on 1/27/21, the app is working great! No exposures as of today at 3:42am! Thanks to developers who suggested this fix!!<br> :date: __2021-01-29 13:54:29__
 
 
 
@@ -243,6 +243,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> Worthless. I have been in bed sick, sick with Covid for a week. Still tells me no exposures detected. Getting ready to remove it.<br> :date: __2021-03-11 17:28:50__
+
+> I was positive with COVID. I was never able to enter results in this app. I was never contacted for contact tracing. I am an essential worker. This app is a tracking mechanism only and is NOT uses for COVID.<br> :date: __2021-03-10 12:30:11__
+
 > Never contacted me!!!<br> :date: __2021-03-04 19:53:10__
 
 > Exposure last checked on 2/8. It is now 2/28. Exactly what is the usefulness of that? I am using the latest update.<br> :date: __2021-02-28 18:57:53__
@@ -258,9 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > This app, as the developers admit is useless. False sense of security. Because it is impossible to timely report covid--what is the use? Our entire household now has Covid. No one can report to this app. Since no one can report being sick, you will never be notified of exposure. Got back a positive test result. Tried to tell the app that I tested positive. Unfortunately it wants me to jump through hoops to get a pin to report a covert positive test. It will not give me a pin.<br> :date: __2021-02-26 21:05:58__
 
 > How did you find my phone to send this app notification? I see at least two violations of my privacy before even installing. Very bad.<br> :date: __2021-02-26 15:33:36__
-
-> Will not allow me to setup a pin to share my test results. States that the last time it's checked my exposure was 2 months ago!<br> :date: __2021-02-22 22:54:49__
-
-> Same as to subscribers above... Update stopped in early January. I do have the latest version of the app 1.6 on Android. I have auto update set for this app as well. Someone needs to actually look into this.<br> :date: __2021-02-22 03:37:43__
 
 

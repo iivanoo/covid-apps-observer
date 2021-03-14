@@ -237,6 +237,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> NETWORK CONNECTION ERROR !!<br> :date: __2021-03-07 11:10:41__
+
 > I couldn't go past accepting the terms and conditions of the app since it keeps giving me a network connection error but my internet works and my mobile data also works fine. The app has a bug making it unusable on Android 11, google pixel 4a, 5g phone 😨<br> :date: __2021-03-02 09:11:48__
 
 > 規約に同意して次へ進もうとすると通信エラーになり先へ進めません。<br> :date: __2021-03-02 05:12:30__
@@ -254,7 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > It doesn't work pour<br> :date: __2021-02-18 15:14:49__
 
 > 通知も来ないし、生ログ確認しないとわからないし、陽性者と接触があった旨Exposure Notification のログに引っかかっても保健所は誤報の可能性が高いと検査もしてくれない。アプリも EN API も運用体制も最低だと思います。アンインストールします。<br> :date: __2021-02-18 07:23:02__
-
-> This app is nothing for you that it does not work properly yet. This only spend a resource in your phone.<br> :date: __2021-02-17 11:12:35__
 
 

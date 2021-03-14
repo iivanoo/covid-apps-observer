@@ -248,6 +248,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.care 1 reviews"/>
 </p>
 
+> Installed this last spring when it first was available, had it for months, and then found out it wasn't tracing anything because it closes down unless you open it constantly. What's the point of a tracing app that doesn't trace? And what's the point of an app that you have to open that doesn't do anything except show you a screen that says "hi, I'm open, now you can close me"? This should just run quietly in the background when your phone is on. South Dakota, you can do better. We expect more.<br> :date: __2021-03-07 20:13:46__
+
 > Need to have a way to add places one has been when it quite often misses the place one had visited all together. Can't update. Hasn't tracked fo days.<br> :date: __2021-02-03 03:26:37__
 
 > Play store cannot download it..hacked account<br> :date: __2020-11-13 02:37:16__
@@ -265,7 +267,5 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > utTý5hat's drive changes b<br> :date: __2020-08-14 22:35:18__
 
 > Edit: 8.10.20 Still same problems. If battery saver is issue, fix it. Update 6.27.20 - Tou can tell the developer(s) doesnt even use this app or they would know what we are talking about. You say it's just the way it is, no, you know how it's supposed to work, so find someone to make it work correctly. This app does not trace where I been going. It does not stay open in the background. When open, it does not show where I go or been since the 23rd. I restarted phone and reinstalled app on S9+<br> :date: __2020-08-11 03:56:40__
-
-> Uninstall. I didn't put it in<br> :date: __2020-08-04 19:20:34__
 
 

@@ -174,25 +174,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> Too easy! 😀<br> :date: __2021-03-06 04:14:12__
+> Quick & easy<br> :date: __2021-03-14 07:16:19__
 
-> Good app. Easy to understand and use.<br> :date: __2021-03-06 01:27:17__
+> Quick, easy and precise! A+++<br> :date: __2021-03-14 04:42:33__
 
-> Easy to use.<br> :date: __2021-03-05 10:04:34__
+> perfect<br> :date: __2021-03-14 03:32:30__
 
-> Easy and fast.....great<br> :date: __2021-03-05 09:31:29__
+> Works a treat<br> :date: __2021-03-14 03:19:38__
 
-> Good service<br> :date: __2021-03-05 04:07:35__
+> Very easy to use and understand<br> :date: __2021-03-13 16:21:40__
 
-> Have had no issues with app at all 😊<br> :date: __2021-03-05 03:31:00__
+> Very satisfied patient😀<br> :date: __2021-03-13 13:31:35__
 
-> SO EASY & PRACTICAL TO USE<br> :date: __2021-03-05 00:09:23__
+> Simple to use.<br> :date: __2021-03-13 01:41:15__
 
-> So easy, very handy.<br> :date: __2021-03-04 04:36:17__
+> Easy to use<br> :date: __2021-03-13 01:04:37__
 
-> Always very helpful.<br> :date: __2021-03-04 03:32:32__
+> Great app thanks<br> :date: __2021-03-12 09:06:57__
 
-> Quick and easy to use<br> :date: __2021-03-03 10:15:37__
+> Easy, clear and straight to the point.<br> :date: __2021-03-12 07:57:38__
 
 
 
@@ -201,6 +201,14 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> Pretty good. It's a shame that the Dr surgery can delete appointment when they want to without telling you. But it still comes up as you still have an appointment That part I don't like.<br> :date: __2021-03-13 05:30:03__
+
+> Great for booking, wish could change appointments through the app as well.<br> :date: __2021-03-10 13:04:57__
+
+> Easy to use<br> :date: __2021-03-10 01:41:15__
+
+> Great<br> :date: __2021-03-09 13:49:42__
 
 > Good app, However the login page is a pain.<br> :date: __2021-03-03 01:36:03__
 
@@ -213,14 +221,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > I took 1 star off because I can't add my dental clinic into it, other than that, it's great, Thankyou<br> :date: __2021-02-21 15:25:45__
 
 > It was quite good letting me know where closest GP is or small healthcare clinic is. Also let's me see the pictures and name of f all the doctors at the GP clinics or medical centres<br> :date: __2021-02-18 10:01:22__
-
-> So easy to use to make appointments love this app.<br> :date: __2021-02-17 13:28:22__
-
-> Easy to use and great 😊<br> :date: __2021-02-11 07:06:39__
-
-> Very good<br> :date: __2021-02-11 01:15:00__
-
-> Good so far<br> :date: __2021-02-10 08:36:33__
 
 
 
@@ -258,6 +258,8 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.healthengine.android 2 reviews"/>
 </p>
 
+> Was starting to enjoy this app however the most recent update has ruined it. I now open the app and receive a blank page with a logo - that's it - no functionality whatsoever.<br> :date: __2021-03-10 03:41:09__
+
 > Why after each upgrade it forgets my password? And when you try to reset the password it fails.<br> :date: __2020-11-22 23:15:54__
 
 > Great till new update never had an issue till now doesn't show appointments anymore for any doctor can't book<br> :date: __2020-11-18 11:58:09__
@@ -272,8 +274,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 
 > Why does it keep asking for Medicare card info to be input every single time I make a booking when it's already been saved in the profile? VERY annoying when I just want to make a booking quickly.<br> :date: __2020-09-06 22:41:19__
 
-> This app used to be great, then the developers got greedy and it has become useless. I am completely unable to book my regular doctor through this app, I apparently don't meet the "criteria " so I now have to phone the practice directly. The app is to busy asking you questions so they can cross sell products. Bin it and start again guys.<br> :date: __2020-08-13 01:01:29__
-
 
 
 #### 1-star reviews
@@ -281,6 +281,14 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.healthengine.android 1 reviews"/>
 </p>
+
+> Was an amazing and helpful app.Now it is the most useless app on the internet. Im not feeling well and its a sunday, i know my GP is popular but its ok. I have this app and can make an appointment so i dont miss out. NOPE!!!! The app doesnt allow me to make appointments on weekends anymore. So instead i cant sleep tonight out of stress. I will hsve roughly 60 sec when they start answering calls to try and gain one of 5 appointments i can see visible. If i miss out i spend days in pain.<br> :date: __2021-03-14 15:20:29__
+
+> Stopped using this app, my mobile number changed and I cannot change it online or through the app. Can no longer access to app due to access to sms otp. I cannot access app without otp and don't use app enough to waist time calling support to update my phone number.<br> :date: __2021-03-11 07:31:34__
+
+> Didn't appreciate my details being given to a compare the market call centre.<br> :date: __2021-03-10 13:46:16__
+
+> Text automatically redirected me to this app, meaning while already only just in time for an appointment I had to download this on data, login to my password manager, login to this, create a passcode, and then lookup my appointment before realising the app booked me to the wrong medical center...I'm sure its a good app but why is it necessary to go through this process every time I want to do something these days? Answer: It shouldn't be, fix your $hit.<br> :date: __2021-03-10 03:07:29__
 
 > This company was fined for onselling client information.<br> :date: __2021-03-05 09:38:30__
 
@@ -293,13 +301,5 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > I book my aappointment online and recieved confmation email and phone with Dr rupali sharp 12:pm afternoon on Monday 04/01/2121 . When I reached i am watting for one hour . After one hour I asked the question resepetionst how much I am watting for she said no idea still three more patient watting meet to Dr rupali before you .. I am surprised and ask resepetionst what you give me time 12.00pm if appionement not avaiable. She give me no any response. really very bad services. I never goi again<br> :date: __2021-01-04 04:30:05__
 
 > 1 hr notice for an appointment is silly. Make it the day before do there is a chance to cancel in a timely manner.<br> :date: __2020-12-09 23:38:27__
-
-> Every time I'm logging on it's asking to create a passcode,,, most useless app I've come across,,, uninstalling it fix this annoyance..<br> :date: __2020-12-04 13:13:00__
-
-> All these doctors expect their kickbacks...and most are dodgy as<br> :date: __2020-12-03 12:30:10__
-
-> Great!<br> :date: __2020-12-03 09:31:58__
-
-> Not loading<br> :date: __2020-12-03 07:21:45__
 
 

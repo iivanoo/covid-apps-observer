@@ -253,6 +253,8 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 1 reviews"/>
 </p>
 
+> Wasted time filling everything out and the doctor cancelled the visit...<br> :date: __2021-03-13 10:17:15__
+
 > I can't login to the app with the same credentials that I logged in on desktop website. I tried resetting my password, but app didn't even find my account either. Yikes. Zero star<br> :date: __2020-08-27 14:18:37__
 
 > You can't even log on to the app doesn't matter how many times I try and i know for a fact that it's the Right information until this issue is worked out i would stick to Checking online<br> :date: __2020-08-14 00:09:32__
@@ -270,7 +272,5 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Log in fail! I keep entering my username and password and it tells me it's wrong. I know it's not because I can log in through the web patient portal.<br> :date: __2020-07-02 16:01:20__
 
 > Can't log in on the app.<br> :date: __2020-06-29 17:39:33__
-
-> The app doesn't recognize the the patient's portal username and password.<br> :date: __2020-06-16 01:56:10__
 
 

@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Sinnvoll<br> :date: __2021-03-07 10:50:13__
+
 > Die App ist gut, macht, was sie soll. Das Problem der App ist, dass sie auf jede Befindlichkeit und Bedenken von Nicht-Usern Rücksicht nimmt und deshalb nur sehr eingeschränkt leistet, was technisch wie DSVO-rechtlich durchaus möglich wäre. Corona ist aber kein Problem, dass sich mit Meinungsvielfalt, Einwandbehandlung und Demokratie in den Griff kriegen lãsst.<br> :date: __2021-03-03 11:13:01__
 
 > Leider haben nicht alle diesen App<br> :date: __2021-03-02 23:47:28__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Wichtig! 👍🏻 Bitte installiert diese App!<br> :date: __2021-02-19 10:09:50__
 
 > Passt! Eine, der notwendigen Maßnahmen. Schade, dass die Lügner und Verschwörungstheoretiker versuchen, die App kaputtzureden.<br> :date: __2021-02-19 08:46:22__
-
-> Ich fühle mich sicher mit dieser App! Danke dafür! 😉<br> :date: __2021-02-11 13:20:17__
 
 
 
@@ -260,6 +260,18 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Der Entwickler ist der Einzige, welcher aus dieser App einen (monetären) Nutzen zieht. Ansonsten taugt die App gar nicht. Die Informationen wiederholen sich ständig, Kontakte werden nicht über eine Infektion informiert, etc.<br> :date: __2021-03-13 00:09:22__
+
+> Man sieht als Konsument nicht ob die App tatsächlich funktioniert. Diese App ist zusätzlich der Größte Stromfresser den ich je erlebt habe. Mails an den Produkthersteller werden hier genausowenig beantwortet wie alle Fragen in den Bewertungen hier. Sichtlich steckt hier das Rote Kreuz Geld ein und leistet dafür auch noch Null Support. Diese App verschwindet demnächst aus GooglePlay da ein Funktionsnachweis für AppUser weder nachvollziehbar noch jemals erfolgt ist. Behaupten kann man viel!<br> :date: __2021-03-12 17:37:02__
+
+> Kein feed back, kein Nutzen erkannt bisher<br> :date: __2021-03-12 17:07:15__
+
+> Die App ist leider absoluter Blödsinn. Da hat man die App 1 Jahr am Handy und wenn jemand aus dem Verwandtenkreis sie nützen möchte weil er positiv ist, meldet die App, dass ein Update notwendig ist und in der Vergangenheit nichts aufgezeichnet wurde. Super App! Absoluter Schrott!<br> :date: __2021-03-08 15:00:38__
+
+> absolut störend... einer meiner kontakte ist positiv... set dem kommt mehrmals am tag eie warnung... das ist störend.... ein mal mit bestätigung würde reichen. SO unser kompletter bekanntenkreis ist gezwungen den schrott zu deinstallieren.... fast stündlich pipsende warnungen und fragen die sich im android system for diese app nicht abschalten lassen.... schade... guter ansatz - aber das SPAM verhalten der app geht gar nicht<br> :date: __2021-03-07 12:39:55__
+
+> So ne blöde unnötige app, die geht nicht mal, obwohl Bluetooth aktiviert ist, gleich wieder deinstalliert<br> :date: __2021-03-06 17:03:08__
+
 > Scheint nicht zu funktionieren, kein Mehrwert<br> :date: __2021-03-04 08:08:41__
 
 > seit Februar 2021 mutiert die App zum größten Datenverbraucher all meiner Apps. Funktion ist keine zu sehen, keine Kontrolle was vor sich geht etc. mit reicht's, ich hau das Zeug wieder weg...<br> :date: __2021-03-03 21:40:51__
@@ -267,17 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Eine "lahme Ente" Wo ist die Erfahrung nachzulesen, die andere Nutzer damit gemacht hatten? Ich habe damit keine Erfahrungen machen und weitergeben können. Bin neugierig ob dazu ein "Feedback" kommt.<br> :date: __2021-03-01 23:17:39__
 
 > Leider sinnlos, wenn's niemand nutzt. Habe alle paar Wochen nur mal einen Kontakt/den Check zu einem anderen Nutzer. Noch keine einzige Risikobegegnung nach einem Jahr konstanter Nutzung in der Hauptstadt.<br> :date: __2021-03-01 00:39:04__
-
-> Gut gemeint aber leider nicht gut umgesetzt. Wenn ich die App monatelang auf meinem Handy habe, wäre zumindest interessant mit wie vielen anderen Personen die ich getroffen habe sie sich bereits synchronisiert hat. Derzeit sieht es einfach nur danach aus als würde die App nichts tun / nichts können. Zuviel verlangt, dass da steht: Sie haben sich bereits mit XX unterschiedlichen Personen synchronisiert?<br> :date: __2021-02-28 08:42:17__
-
-> 500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht.<br> :date: __2021-02-26 11:23:14__
-
-> Bin seit 11.20 angemeldet. Sinnlose App reagiert erst nach 30 Tage ohne Meldung. Hab jetzt lang genug getestet. Sinnlos<br> :date: __2021-02-25 21:43:57__
-
-> Seit dem Update Ende Jänner hat sich der Datenverbrauch egal ob WLAN bzw LTE. verhundertfacht!!!! 600 MB im Monat - das ist bei mir mehr als WhatsApp<br> :date: __2021-02-23 19:58:43__
-
-> Also ich habe auch den Verdacht dass alle Bluetooth Geräte gespeichert werden... sobald ich mein Headset einschalte... zack, allein zuHause zw 21 und 4 uhr Früh immer Laptop, Bluetooth Lautsprecher alles Meldungen wo definitiv nur ich mit diesen Geräten in Sendereichweite bin ..... Aber 2 Kolleginnen die sehr oft mit mir gearbeitet haben und auch die App installiert UND am Laufen haben.. diese Kontakte wurden NICHT gespeichert... also komplett Sinnbefreit diese österreichische Lösung dieser App<br> :date: __2021-02-18 16:34:06__
-
-> Es ist relativ schwierig, dass man alles so einstellt, dass die App auch funktioniert. Habe Bluetooth aktiviert, trotzdem Fehlermeldung - Framework Einstellungen ??? Da finde ich nichts. Werde wieder deinstallieren.<br> :date: __2021-02-17 20:06:33__
 
 

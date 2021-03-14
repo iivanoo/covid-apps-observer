@@ -169,6 +169,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="com.intellicare.covid 4 reviews"/>
 </p>
 
+> Serve per informazione<br> :date: __2021-03-10 19:57:14__
+
 > Scaricata appena uscita, ora che mi serve, nemmeno si apre. 24/1/21 contattata dal gestore dell'app, che consigliava di reinstallare l'app. Nel frattempo, è uscito il nuovo aggiornamento e l'app funziona di nuovo. Do 4 stelle, perché credo sia un servizio utile, ma non ho avuto il modo di sperimentarlo, in quanto, al momento, non ne ho la necessità.<br> :date: __2021-01-24 15:20:11__
 
 > Utile applicazione. Ho avuto feedback dal medico di medicina generale senza problemi.<br> :date: __2021-01-14 17:29:26__
@@ -186,8 +188,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Ottima<br> :date: __2020-04-13 13:24:49__
 
 > Buona applicazione utile e ben strutturata Ma nel mio caso è da qualche giorno ( 2 ) che non riesco a trasmettere i dati e si chiude. Provato a disinstallare e istallare sempre uguale.<br> :date: __2020-04-11 11:00:48__
-
-> Update 6/4/2020: Scaricata nuova versione, confermo la risoluzione delle problematiche. Grazie<br> :date: __2020-04-07 11:08:15__
 
 
 
@@ -253,6 +253,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> La app non accetta un nr di telefono non italiano. Un problema per i non residenti.<br> :date: __2021-03-06 20:58:09__
+
 > Non riesco a scaricarla eppure spazio nella memoria ne ho abbastanza. forse sbaglio qualcosa, chi mi può aiutare?<br> :date: __2021-02-23 12:38:25__
 
 > Avevo installato l app 12 mesi fa, non funzionava. Cosi l ho disinstallata. Ci riprovo oggi e mi da lo stesso problema ... inserisco dati, arriva messaggio, click su link entro, esco....non entro più, e nella pagina iniziale mi dice account non attivo!!!!!!!!! Incredibile!!!!! Dopo un anno lo stesso problema, che, a quanto pare è comune a molti utenti.<br> :date: __2021-02-11 11:21:04__
@@ -270,7 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Una volta effettuata la registrazione, non si apre.<br> :date: __2021-01-27 19:37:49__
 
 > Scaricata, aggiornata, ora non si apre più, a che serve.<br> :date: __2021-01-18 19:02:34__
-
-> Direi che... fa abbastanza caxxare. Non me ne vogliamo i colleghi programmatori, so che non è colpa loro. Ma credo sia un app approssimativamente inutile. Tra l'altro mi si è impallata mentre cercavo di usare il sistema di messaggistica interna<br> :date: __2020-12-17 16:03:26__
 
 

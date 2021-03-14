@@ -237,6 +237,10 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> Piss off, covid brownshirts.<br> :date: __2021-03-12 02:31:49__
+
+> This app doesn't let you report your results of you got them from somewhere other than a mass testing site. Nearly useless.<br> :date: __2021-03-06 21:49:26__
+
 > Pointless. I'm a teacher and have been quarantined for to exposure from a student. It's obvious this info isn't getting passed on.<br> :date: __2021-02-27 17:14:04__
 
 > Only works if people register, which doesn't seem likely to me....<br> :date: __2021-02-20 14:16:34__
@@ -252,9 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > I tested positive for covid on Wed 2/3 and have been trying to report it to the app since to notify others and help contact trace. I haven't heard from the health dept or been able to get in touch w them in order to get my "verification code", which makes this app completely useless.<br> :date: __2021-02-07 05:58:21__
 
 > Why does this app exist? It does nothing if folks don't share their status.<br> :date: __2021-02-06 03:47:28__
-
-> I don't see how this is useful if you don't really know where you got exposed and the date & time. And why not get an alert at the time of the event so an individual can remove themselves. Why doesn't a store owner get an alert so they know someone positive is in the store. It makes no sense that if we are trying to control the spread if this disease that this program doesn't seem a bit more comprehensive. After the fact seems a bit useless. Besides, it sucks battery.<br> :date: __2021-02-04 16:59:11__
-
-> Pretty useless since you can't let it know if you test positive without entering some sort of mysterious missing/failing verification code. Where is that supposed to come? Who knows because it is not mentioned in their guidance.<br> :date: __2021-02-03 21:59:10__
 
 

@@ -164,6 +164,14 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Better Application health safety<br> :date: __2021-03-13 19:19:47__
+
+> Yydud<br> :date: __2021-03-11 11:20:39__
+
+> I love it<br> :date: __2021-03-08 22:16:16__
+
+> Mrga<br> :date: __2021-03-06 18:55:10__
+
 > Nice<br> :date: __2021-03-05 17:29:37__
 
 > V.good<br> :date: __2021-02-09 14:12:24__
@@ -175,14 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Good<br> :date: __2021-01-07 09:35:04__
 
 > Iloveit<br> :date: __2021-01-03 07:20:51__
-
-> Very good<br> :date: __2020-12-29 17:40:56__
-
-> I love this app because it makes essay a lot.<br> :date: __2020-12-27 18:00:46__
-
-> It's a great platform for me to send money 💰 safely<br> :date: __2020-12-15 14:26:31__
-
-> Good<br> :date: __2020-12-08 16:01:38__
 
 
 

@@ -148,6 +148,8 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 5 reviews"/>
 </p>
 
+> Fungerer problemfritt, tapper ikke mye strøm fra telefonen. Kjekt å ha:-)<br> :date: __2021-03-14 08:02:45__
+
 > Virker være grei.<br> :date: __2021-03-03 10:01:52__
 
 > Fungerer problemfritt. Ser det er mange som klager om hyppige varslinger, men jeg får ikke mere enn kanskje to pr. døgn, og de er så anonyme at jeg ikke legger merke til dem. Ser ikke noen endringer i batteribruken heller. (Har samsung S7)<br> :date: __2021-03-01 22:23:57__
@@ -165,8 +167,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Merker ikke mer batteribruk. Bra app som vi alle bør installere.<br> :date: __2021-02-05 10:32:46__
 
 > En god trygghet. Har den i lomma hele tiden. Jobber i butikk og treffer mange i løpet av dagen. Funker veldig bra på min Samsung s 7. Ikke maser den, og ikke drar den mye strøm<br> :date: __2021-02-04 23:12:41__
-
-> 23.01.21 ga jeg en stjerne, fordi appen ba meg om å slå på posisjonsfunksjonen i tillegg til Bluetooth. Jeg slår på posisjon kun når jeg bruker kartapper/navigasjonsapper, men ellers har jeg den avslått. Den forrige smittesporingsappen ble stoppet nettopp på grunn av at den benyttet posisjon. Nå gir jeg fem stjerner fordi appen ikke ber om posisjon, og fordi den er et meget viktig bidrag for smittesporing.<br> :date: __2021-02-04 09:34:19__
 
 
 
@@ -204,6 +204,8 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 3 reviews"/>
 </p>
 
+> Appen nekter å la seg skru av, selv om jeg tvinger den til å stoppe med "tving stopp". Den maser om at jeg må skru på GPS og Bluetooth hvert 5. minutt og trekker masse strøm. Greit nok at jeg har den på når jeg er ute, men når jeg er hjemme trenger jeg ikke at den trekker strøm. Derfor avinstalleres den.<br> :date: __2021-03-11 18:10:47__
+
 > Har satt pris på appen helt til i dag, nå sjekker den hvert 2. minutt om jeg har vært i nærheten av smittede! 🤷🏼‍♀️<br> :date: __2021-02-17 21:51:10__
 
 > Men irriterende plinging, Bluetooth hvorfor? Hver gang jeg går til kjøkkenet eller ned 1 etasje til toalettet. Dvs du slår av Bluetooth, og glemmer å slå på når du går ut.<br> :date: __2021-02-17 11:26:10__
@@ -213,8 +215,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Kommer med irriterende varsler mange ganger om dagen. Slike varsler burde være valgfrie. Vurderer å avinstallere pga. det.<br> :date: __2021-02-12 23:44:26__
 
 > I begynnelsen fungerte den utmerket. Etter siste OS-oppdatering har jeg begynt å få varsel hver eneste gang appen gjør en sjekk, noe som til tider skjer flere ganger i minuttet. Bare mens jeg har skrevet dette har den gitt varsel 3 ganger. Jeg tør ikke deaktivere varsler fra appen i Android heller, i frykt for å ikke få med meg at jeg har hatt nærkontakt av den uheldige typen.<br> :date: __2021-02-12 17:19:06__
-
-> Fungerer stort sett greit hele tiden, MEN.. virker som at den tar over bluetooth. Opplever dette når bilen min er kobla til telefon. Da kutter den samtalen.<br> :date: __2021-02-12 16:07:33__
 
 > Ett er noen dager.. slår appen seg automatisk av... dette er ikke helt bra<br> :date: __2021-02-09 22:29:15__
 
@@ -260,6 +260,12 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
 
+> Ikke bra app. Kan forbedres.<br> :date: __2021-03-13 18:14:46__
+
+> Før ikke smittestopp app til å starte.<br> :date: __2021-03-11 09:43:27__
+
+> Smitteinfo er ikke oppdatert siden 28.02. Hva skjer?<br> :date: __2021-03-07 12:25:24__
+
 > Etter siste oppdatering, sluker denne appen strøm må lade 2-3x i døgnet på lik linje om ikke mere enn den i som ble lansert i 2020. Synd da denne versjonen funket utmerket frem til nå nylig, får heller ikke så hyppige varslinger som mange besktiver max 2 i døgnet og disse er uten lyd. Håper på ny oppdatering der dette problemet blir fikset opp i.<br> :date: __2021-03-04 13:12:10__
 
 > Står appen nå skal støtte individuelle innstillinger for varsler. Men dette er ikke blir valg jeg klarer å finne i appen.<br> :date: __2021-02-24 15:33:09__
@@ -273,11 +279,5 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Valgte å avinstallere appen, siden den er altfor inngripende med notifikasjoner som lyser opp skjermen og vibrerer telefonen flere ganger i timen. Appen er en god plan, men dessverre ennå dårlig gjennomført.<br> :date: __2021-02-21 15:05:43__
 
 > alt for mye spam på notice melding, viktig men gav opp og slett det pga ligg i vei hos spill<br> :date: __2021-02-21 12:24:24__
-
-> 1. Sier den ikke krever posisjonering for å fungere. Deaktiverer posisjon. Får varsel om at posisjonering må aktiveres for at den skal fungere. 2. Etter 900000000000 varsler siden desember om at den sjekker så har jeg tilgode å få én melding om at jeg har vært i nærheten av noen med smitte. Jeg bor i Oslo. Enten virker ikke appen, eller så er antallet brukere så lavt at appen ikke har en funksjon. Litt som regjeringen der, altså. Slettet.<br> :date: __2021-02-21 09:55:59__
-
-> Popup på mobilen så ofte at en blir sprø! Selv når den er slått av og jeg er hjemme. Avinstallerer den før jeg blir sprø!<br> :date: __2021-02-19 23:21:49__
-
-> Avinstallere møkka, push varsler hele tiden gidder ikke masete apper<br> :date: __2021-02-19 21:12:43__
 
 

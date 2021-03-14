@@ -129,6 +129,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> 2021-03-07 Update fixed. 5 stars! {App worked as expected for the first 2 months, however this morning I see a notice that I need to have location turned on as well as bluetooth. This is unnerving seeing that the app settings on my phone show no permissions are in use. I have android 6 but this same concern is being voiced by an android 9 user here in the comments. This behaviour is new and as I can only toggle location globally on my device.}<br> :date: __2021-03-07 16:34:01__
+
 > I like the idea that it gives you a heads up if you contact and/or get near a person tested positive for COVID-19.<br> :date: __2021-03-02 09:01:18__
 
 > Lots of fun. Get lost and enjoy!<br> :date: __2021-02-25 23:15:43__
@@ -146,8 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Secure. Good software design.<br> :date: __2021-01-20 07:00:49__
 
 > Need it! One of those I never get allerts on.<br> :date: __2021-01-16 20:03:01__
-
-> Satisfecho de ser notificado cuando uno este expuesto ante gentes con covid-19 mil gracias.<br> :date: __2021-01-14 01:22:18__
 
 
 
@@ -187,8 +187,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > Relys on people being honest and truthful<br> :date: __2021-02-24 15:27:06__
 
-> App worked as expected for the first 2 months, however this morning I see a notice that I need to have location turned on as well as bluetooth. This is unnerving seeing that the app settings on my phone show no permissions are in use. I have android 6 but this same concern is being voiced by an android 9 user here in the comments. This behaviour is new and as I can only toggle location globally on my device this is NOT going to happen. This behaviour is similar to malware. Please correct.<br> :date: __2021-02-13 13:16:24__
-
 > I received a notification that I was exposed on a day where I had kept my phone in a space not shared with others (no shared wall, etc), as I do every work day. In other words, no one spent 15 minutes within 6 feet of my phone. It is a healthcare facility, so there is little doubt the "exposure" was generated here, but it seems that either the location sharing probably far exceeds 6 feet, or is far less than 15 minutes in order for me to be alerted to exposure.<br> :date: __2021-01-23 14:36:29__
 
 > Not sure if it's even working<br> :date: __2021-01-08 19:59:09__
@@ -205,6 +203,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > I echo Josh McAllister's comments. Recently tried to upload my test result which came to a dead end with the elusive "verification code".<br> :date: __2020-12-18 17:23:03__
 
+> Havent had none<br> :date: __2020-12-15 18:36:19__
+
 
 
 #### 2-star reviews
@@ -212,6 +212,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
+
+> I'm about to uninstall. I'm not going to keep BT on 24/7 and I am fully aware that when it is off I can't get warnings. I'm at home 99.9% of the time. The app used to let me clear the notification but recently left the notification posted full time even after acknowledging. Annoying people isn't the way to get them to adopt.<br> :date: __2021-03-12 10:29:57__
 
 > The second you turn Bluetooth off it annoys the hell out of you to turn it back on. There needs to be functionality that addresses this gap as people will discontinue use due to the annoyance. Reading the reviews here does not give me confidence that positive cases are being captured properly (even if the person tests positive and gets a verification code by doh) due to the delay from the point they positive test, to them talking to DOH WA to get the code. 2 days to weeks, to possibly never.<br> :date: __2021-02-13 10:30:52__
 
@@ -230,8 +232,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Nice concept, but poor execution on letting the public know it is available, and letting them know how the app works and what safeguards are in place to protect their privacy. To many people think the app will share personal information, so are unwilling to download it. This is making the app unusable as it was designed to be used. If only one person out of a hundred has downloaded it and is using it, then what use is having it on your phone?<br> :date: __2021-01-01 09:30:17__
 
 > Isn't invasive I'm just not sure its actually doing anything<br> :date: __2020-12-27 20:34:56__
-
-> Had to uninstall to fix bluetooth connection problems with Fitbit and car audio bluetooth<br> :date: __2020-12-23 07:59:57__
 
 
 

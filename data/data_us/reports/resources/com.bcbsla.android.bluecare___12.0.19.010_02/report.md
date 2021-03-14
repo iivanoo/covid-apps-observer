@@ -186,6 +186,8 @@ The BlueCare app has been installed by more than **10000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsla.android.bluecare 5 reviews"/>
 </p>
 
+> Absolutely fantastic!!!!!<br> :date: __2021-03-13 01:01:26__
+
 > Very Professional and timely and thorough and truly concerned about me<br> :date: __2021-02-09 02:22:51__
 
 > Great option for medical care<br> :date: __2021-01-19 19:12:41__
@@ -203,8 +205,6 @@ The BlueCare app has been installed by more than **10000** times. At this time, 
 > Everything worked great! Dr. Christina George was very helpful and professional.<br> :date: __2020-08-06 17:54:55__
 
 > Great<br> :date: __2020-07-31 20:45:29__
-
-> Best app ever<br> :date: __2020-07-25 22:03:49__
 
 
 

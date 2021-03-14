@@ -144,6 +144,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> 👍👍👍👍👍<br> :date: __2021-03-13 07:11:13__
+
 > Kok,🌬️🤩🤩🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🌬️🐸🌬️⌨️🦃🦃🦃🦃🦃🦃🌬️🐸🌬️🐸🌬️🐸🌬️🤩🦃<br> :date: __2021-02-12 03:31:48__
 
 > I check out all the nerdy statistics every night! 10/10<br> :date: __2021-01-27 04:21:56__
@@ -161,8 +163,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Good way to keep posted who sick got virus good app .<br> :date: __2021-01-02 13:55:56__
 
 > Doesn't work anymore Edit: It is working again<br> :date: __2020-11-28 16:38:07__
-
-> Works great<br> :date: __2020-11-07 23:36:18__
 
 
 

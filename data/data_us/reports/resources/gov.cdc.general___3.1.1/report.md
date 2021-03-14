@@ -188,6 +188,12 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> CDC mobile app needs to make the app interesting. But I like it a little.<br> :date: __2021-03-13 13:14:10__
+
+> (Teaches us to stop the spread of germs by washing our hands)!<br> :date: __2021-03-10 14:45:32__
+
+> Great<br> :date: __2021-03-08 23:09:32__
+
 > Very Thankful! On time updates Always available!!<br> :date: __2021-03-05 15:09:39__
 
 > Thank you for keeping us updated and safe during this pandemic!<br> :date: __2021-02-26 12:35:23__
@@ -201,12 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > I love this app. Tessa harrod<br> :date: __2021-02-20 01:18:17__
 
 > Very useful, & GPS keep one updated!<br> :date: __2021-02-17 01:39:33__
-
-> Nice<br> :date: __2021-02-09 18:13:22__
-
-> Nice<br> :date: __2021-02-04 11:00:30__
-
-> Grest app to get up to dste info on thr pandemic as well as best practices for curtailing transmission. Grest as long as executive branch keeps his hands away from thr organization and allows them to help the people.<br> :date: __2021-01-12 12:41:08__
 
 
 
@@ -244,6 +244,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> Like the topics & research<br> :date: __2021-03-07 15:47:54__
+
 > Why R the EyEs not a point of passing 19 to the nose❓🤪🌿<br> :date: __2021-02-01 08:01:46__
 
 > deleted this app because the same information is on their website<br> :date: __2020-10-23 04:57:07__
@@ -262,8 +264,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Depresing inormationb<br> :date: __2020-06-04 04:00:19__
 
-> What happened to the daily updates? Did Trump get to you? Ah science. What do you matter.<br> :date: __2020-05-26 18:27:05__
-
 
 
 #### 2-star reviews
@@ -275,8 +275,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > No search on opening screen<br> :date: __2021-02-24 19:24:58__
 
 > Cannot find the post test for a module that took me an hour to complete, and only offers 0.5 CEs 🤬<br> :date: __2021-01-10 22:38:32__
-
-> Not interesting<br> :date: __2020-12-19 19:21:51__
 
 > Ughh<br> :date: __2020-11-04 07:10:21__
 
@@ -291,6 +289,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Didn't use this app much so I can't tell you much about it..you gonna have to try it and decide for yourself.... good luck...<br> :date: __2020-06-07 15:28:34__
 
 > I hear the very Patriot Japanese have a Voluntary CoVid19 website where they have the option to report if they feel sick or well and their accurate tracking, voluntarily. Scientists says this raw data would be useful. So which Politicians are again standing in the way of Public Health and Progress??<br> :date: __2020-05-25 06:30:00__
+
+> I give only two stars only because I've only learned of the "CDC" Due to the Covid-19. Im very secluded other then facebook so i regret i can not rate CDC with a higher rating.<br> :date: __2020-05-07 08:06:04__
 
 
 

@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOH32R-ZNbUwnqyl6zLS7uVeJBjqbNkh0PaGodo_oEnIYuwWAbruXl3kgwdLCzy9ZDNEGx2VFar06gbf1qA",
+        "userName": "Rosa Bailen Garcia",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtWEBigBJdaHnyJqRLO-K_voIybHVmfmuU8nnW",
+        "content": "Es master doctoral",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-08 11:31:07",
+        "replyContent": "Gracias.",
+        "repliedAt": "2021-03-12 14:56:42"
+    },
+    {
+        "reviewId": "gp:AOqpTOH9ViFWOwvqN5hTYBYBkV5mbtu-mnpqjX7ktKT0V-ca0qqQtcTxw5OtnG_1cqvf9JmItIxGSqMLF-8ERiU",
+        "userName": "Antonio Torres Escobar",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gho7YienqtsEZv8yIa-FKE3X4KQncYvQDGdLLO01Q",
+        "content": "Despu\u00e9s de poner que tengo problemas para respirar y de rellenar el formulario para que me llamen, no me ha llamado nadie en m\u00e1s de 2 semanas. Es mejor ir en persona al m\u00e9dico porque est\u00e1 aplicaci\u00f3n no ayuda en nada. Luego dicen que no hay que ir en persona etc. Pero si los recursos que ponen no funcionan, no quedan m\u00e1s opciones",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.1.0",
+        "at": "2021-03-07 23:03:08",
+        "replyContent": "Trasladamos su queja sobre el servicio de la aplicaci\u00f3n.",
+        "repliedAt": "2021-03-12 14:57:14"
+    },
+    {
         "reviewId": "gp:AOqpTOFsdftVZL2J3Vj6RLEV6VCRtcbEJjdwIAvycfokd5O3tawDoOGSREqM-CGOyvT4IskCnxesW788IO8r_gQ",
         "userName": "Dani Piot",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi06oHk618ClLGyx6zHlbDAindLOhqTDpQzRhiVyA",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-03-04 11:59:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentamos que no responda a sus expectativas.",
+        "repliedAt": "2021-03-07 13:20:14"
     },
     {
         "reviewId": "gp:AOqpTOEngqLyrSrNIcINJ5sFOIzdQsgf-QUBspZvTu11P3e3x94jmSia7nL7xbNzHxR7xt8B8MwzlT8iFwpsd-8",
@@ -1585,7 +1609,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFfUns0nNkX2ljr6RutjWoQ4ripKyFIEY3n7a3_nvaKL6Ugt1jpJXpChqRS4As-Jh0x8LPso7iQdiCSTbk",
-        "userName": "Nuria Riera",
+        "userName": "Nuria Riera Riera",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8TNCLbc8HtUkJD99ja7LKMKN-uzkcatr1GCk5Jg",
         "content": "Ja l'he probat, i funciona s\u00ed",
         "score": 5,
@@ -4310,7 +4334,7 @@
     {
         "reviewId": "gp:AOqpTOFlzouHtdosI7Vo7f6sCf0KiOmiH_aDxQ6QzQSqC6V7ulE8Wvs_aquUsJytg8qxLMgOUCeCGD6EiTuMQQo",
         "userName": "Miguel Ortega",
-        "userImage": "https://play-lh.googleusercontent.com/-5ZeL9x1r96U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmu1EgFyDjOgnH3bxogjgVw9aDy6w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiipCHF2Cps0llAqOnduAatBQogk7OQeWp6W_in1Q",
         "content": "No li veig utilita",
         "score": 1,
         "thumbsUpCount": 0,

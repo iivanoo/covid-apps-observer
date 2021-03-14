@@ -129,25 +129,25 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
-> Es muy interesante lo qie ocurre es que muchas personas no comunican que tienen el virus<br> :date: __2021-03-05 18:28:16__
+> Muy buen juego, deberían mejorar los niveles yo estoy en la cuarta fase y no subo de nivel, llevo un año jugando y no di positivo ninguna vez, a alguien más le pasa?<br> :date: __2021-03-14 14:14:04__
 
-> En mi opinión todos debieran tener instalada esta aplicación Es super interesante<br> :date: __2021-03-05 12:31:13__
+> Aplicación profesional<br> :date: __2021-03-14 07:44:22__
 
-> NO LO SE<br> :date: __2021-03-05 00:27:33__
+> YO HICE LA PRUEVA DE COVID NO ME LLAMARON ALOMEJOR HE ESTADO CON GENTE QUE LO TIENE Y NO TE LO DICE NI DA ALERTA<br> :date: __2021-03-13 19:00:41__
 
-> Es buena aplicacion 🤭😇<br> :date: __2021-03-04 17:19:05__
+> Muy bien<br> :date: __2021-03-12 13:53:28__
 
-> Correcta<br> :date: __2021-03-04 09:34:30__
+> Hola Yo vivo en el campo solo,<br> :date: __2021-03-12 12:48:15__
 
-> El aviso oportuna ante una peligrosa pandemia<br> :date: __2021-03-03 22:25:27__
+> A mi me funciona genial. Por suerte, nunca me ha saltado ninguna alerta.<br> :date: __2021-03-12 11:00:48__
 
-> Genial<br> :date: __2021-03-03 18:15:03__
+> M parece muche bien este aplicación todo tiene k tenerlo para mejorar<br> :date: __2021-03-09 20:48:11__
 
-> Es lo q debemos de usar todos esta perfecto<br> :date: __2021-03-02 22:47:45__
+> Buena privacidad, funciona de fondo sin consumir mucho ni molestar. No he podido probar si es efectiva, ya que no he contactado con nadie positivo.<br> :date: __2021-03-09 16:32:19__
 
-> Buena interfaz y funciona bien, pero la gente debería de usarla más y tomársela enserio..<br> :date: __2021-03-02 15:55:23__
+> Me gusta mucho la aplicación<br> :date: __2021-03-08 18:21:40__
 
-> Es muy simple de usar, y la idea es genial!!! Si la gente fuese más responsable y disciplinada...ya estaríamos haciendo vida normal y la economía no se resentiría tanto. Las apps no solo sirven para la diversión, también son buenas aliadas para combatir pandemias. La gente debería de empezar a tomar esto en serio y darle prioridad a lo que de verdad importa. Además funciona entre países y de forma anónima<br> :date: __2021-03-02 15:32:06__
+> 1omuy bien<br> :date: __2021-03-08 00:52:15__
 
 
 
@@ -156,6 +156,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.radarcovid 4 reviews"/>
 </p>
+
+> Viajo en transporte público y trabajo en un centro administrativo. La duración del transporte es de más de una hora. Tengo 64 años.<br> :date: __2021-03-13 07:48:05__
+
+> Falla mucho<br> :date: __2021-03-09 19:08:42__
 
 > Acabo de descargármela. Me parece estupendo la iniciativa, así podremos detectar más casos y de forma más rápida.<br> :date: __2021-03-06 04:58:49__
 
@@ -173,10 +177,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Chachy<br> :date: __2021-02-25 16:49:34__
 
-> Regular<br> :date: __2021-02-25 12:20:14__
-
-> Buena<br> :date: __2021-02-24 22:20:01__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,12 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
+
+> muy sitifactoria.<br> :date: __2021-03-11 15:42:58__
+
+> No se por que la gente no lo usa. Media poblacion contagiada y nunca ha saltado. Funciona realmente????<br> :date: __2021-03-09 13:58:43__
+
+> Creo que es una buena idea veremos como es de efectiva<br> :date: __2021-03-08 22:04:51__
 
 > LA APP TIENE UN VIRUS NO LA DESCARGUES Y SI LA TIENES DESINSTALALA YA ES MUY PELIGROSO PUEDEN RASTREARTE ATENCIÓN TIENE UN VIRUS<br> :date: __2021-03-04 04:33:13__
 
@@ -199,12 +205,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Funcionaría si el codigo que hay que poner se facilitara con el resultado del positivo... no se da tal codigo al paciente, no se promociona la app y ni los centros de salud están al tanto de ella. Después de tantos meses estamos así, es imposible que funcione...<br> :date: __2021-03-01 12:15:23__
 
-> O resto de idiomas cooficiais do estado onde están, polo menos respetade iso??<br> :date: __2021-02-28 20:40:08__
-
-> Aparentemente funciona bien, pero si intento abrir la pestaña «como actuar si tengo sintomas», aparece error «no ae puede abrir pdf». ¿Se puede solucionar ese error? Gracias<br> :date: __2021-02-23 12:21:10__
-
-> Poca aceptacion ciudadana, debido a poca pedagogia<br> :date: __2021-02-22 10:42:26__
-
 
 
 #### 2-star reviews
@@ -212,6 +212,16 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.radarcovid 2 reviews"/>
 </p>
+
+> Poco útil<br> :date: __2021-03-13 07:07:11__
+
+> La aplicación está bien, pero la veo algo limitada para la situación actual, sería conveniente añadir una opción para declarar si tienes síntomas, ya que la aplicación solo sirve si oficialmente has dado positivo (cosa que está perfecto) pero hay muchas personas que aún no se han hecho una pcr y padecen síntomas de covid, pues opino que por prevención, sería útil añadir esta opción<br> :date: __2021-03-12 10:34:52__
+
+> Desinstalando... La idea es buena la verdad, pero no está teniendo mucho éxito, ya que el covid me ha rozado ya varias veces, hemos estado hasta arriba de casos en Alicante y me dice que nunca he tenido contacto con ningún infectado y eso es porque la gente no conoce la app y/o porque a la gente no le interesa.<br> :date: __2021-03-12 02:34:54__
+
+> No hace más que darme alertas de que no funciona correctamente<br> :date: __2021-03-09 17:42:02__
+
+> No le han hecho la publicidad que está aplicación necesita, para que sea efectiva.<br> :date: __2021-03-07 18:29:09__
 
 > Mi experiencia con está aplicación es nula<br> :date: __2021-03-04 13:47:50__
 
@@ -223,16 +233,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Buena iniciativa pero no vale para nada.<br> :date: __2021-03-01 15:04:49__
 
-> Cada días trabajo cerca de muchas gentes distintas y nunca me ha saltado ninguna alarma desde que la sacaron prácticamente.<br> :date: __2021-02-28 12:04:43__
-
-> Si el que da covid+ no tiene esta app abierta, puedo pasar al lado de 20 covi sin tener conocimiento de ello, es decir, con una patata no se hace el caldo<br> :date: __2021-02-26 18:40:18__
-
-> La aplicación está muy bien. El problema es que los positivos no lo comunican. No quieren que les controlen donde estan NOMBRE<br> :date: __2021-02-24 17:53:49__
-
-> Losiento ¿govierno pero vamos pudiese no atacar ala privacidad?? Graciaaas<br> :date: __2021-02-23 17:34:11__
-
-> La idea es buena, pero la ejecución ha sido nefasta. La tasa de contagios declarada con la aplicación ha sido ínfima,y su coste no habrá sido pequeño.<br> :date: __2021-02-23 07:53:03__
-
 
 
 #### 1-star reviews
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> Un desastre no sirve para nada.<br> :date: __2021-03-06 10:43:00__
+> Confiar en que los contagiados por covid van a indicarlo en la app, aunque sea de manera anónima, es de ilusos. Esta app en este país no puede funcionar<br> :date: __2021-03-14 15:45:29__
 
-> No funciona<br> :date: __2021-03-06 04:38:39__
+> No sirve para nada, en un año no ha habido ningún contacto en toda Barcelona? La gente pasa de esta aplicación, la desinstalo y punto.<br> :date: __2021-03-14 14:28:30__
 
-> Ya de poner una app para un tema tan serio estaría bien que no diera error por absolutamente todo, que si el bluetooth está apagado cuando en realidad está encendido, que si no funciona porque está activado el modo ahorro y es mentira. No sé, como idea está muy bien, ahora falta que funcione de verdad.<br> :date: __2021-03-06 02:47:23__
+> coleta cabrón<br> :date: __2021-03-14 12:54:42__
 
-> Debo de pasar por sitios donde no hay nadie con COVID. En seis meses ningún solo aviso...<br> :date: __2021-03-05 19:22:58__
+> Es una app que ya no sirve para nada. La tenia puesta no detectaba nada en Hospitalet en varias olas de todo el año. A día hoy, menos todavía, ya que bajadas de contagios, vacunas sumistradas y puestadas, dia 14 marzo menos detectará ya no es necesaria ya que consume recursos para tu mobil y se funde la batería de tenerla puesta.<br> :date: __2021-03-14 11:35:49__
 
-> No vale para nada. Además, te obliga a tener encendido el bluetooth y está activada en segundo plano, haciendo que se te gaste más rápido la batería<br> :date: __2021-03-05 15:34:07__
+> Terrible la app<br> :date: __2021-03-14 10:05:52__
 
-> Va muy mal y en esto se gasta el dinero el gobierno, penoso<br> :date: __2021-03-05 12:51:34__
+> No sirve para nada. Nunca avisa...y más si no se hacen las cosas bien, " como siempre" vecinos con COVID, en mi empresa más de 20 positivos, trabajo en el centro de la ciudad y una me ha dado un aviso. Hay gente que no sabe de la existencia de la app, ni de código.<br> :date: __2021-03-14 09:21:53__
 
-> Me da fallo prácticamente a diario. Un desastre<br> :date: __2021-03-05 04:25:47__
+> Inservible<br> :date: __2021-03-14 08:58:20__
 
-> El mayor éxito español desde que le ganamos a los franceses a principios del siglo XIX<br> :date: __2021-03-05 00:43:54__
+> Constantes problemas, de Bluetooth, de modo ahorro de batería o simplemente que no funciona, y todo sin estar realmente el Bluetooth desactivado o el modo ahorro puesto<br> :date: __2021-03-14 08:56:46__
 
-> No sirve de nada si la gente no da aviso de su situación<br> :date: __2021-03-04 23:46:03__
+> Buena idea e intenciones pero no me funcionó y acabé desinstalándola. Todo porque no me facilitaron –no supieron– mi código al contagiarme: 'Para las cuestas arriba quiero yo el burro, que las cuestas abajo yo me las subo…'<br> :date: __2021-03-13 23:48:34__
 
-> Dicen que sólo necesita conexión Bluetooth y creo que también necesita tener activada la ubicación. Si es así, el consumo de batería es enorme. Donde està la verdad?<br> :date: __2021-03-04 18:20:20__
+> Komo se nota k el gobierno de españa a echo esto a su imagen y semejanza (inutil totalmente)<br> :date: __2021-03-13 21:32:39__
 
 

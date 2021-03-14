@@ -213,6 +213,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
 
+> Siempre funcionó bien pero desde el viernes me sale todo en blanco, desinstalo e instalo y se queda pillado en cambio de idioma y no avanza<br> :date: __2021-03-08 18:09:59__
+
 > Es útil y aclara todo el lío de medidas. Pero al seleccionar tenerlo en español, los textos (salvo el primero) siguen estando en gallego.<br> :date: __2021-03-01 11:44:23__
 
 > Funciones e información de restricciones del concello donde vives. Para registrar el acceso o permanencia en un bar ó restaurante. Muy útil.<br> :date: __2021-02-26 20:20:43__
@@ -251,6 +253,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> Los desplegables para seleccionar el Ayuntamiento me salen vacíos y no puedo hacer nada.ni reinstalando se soluciona<br> :date: __2021-03-09 03:08:06__
+
 > En Lugo, según la aplicación el interior de los locales de hostelería CERRADO, cuando según el DOG también en interior al 30%. Y los establecimientos NO TIENEN CÓDIGO QR que escanear. Ni cafeterías, ni supermercados, farmacias, bancos, ferreterías, tiendas de ropa....<br> :date: __2021-02-27 09:00:56__
 
 > Mal elaborada, me parece que dar como opción de identificación solo chave 365 es un error, en mi caso tengo certificado digital y no es posible registrarse con el.<br> :date: __2021-02-25 16:20:44__
@@ -269,8 +273,6 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 
 > Ya la tuve y era un desastre...la vuelvo a instalar pero ....sin esperanzas ...<br> :date: __2020-11-30 12:40:33__
 
-> Solo me deja personalizar con chave pero no con certificado digital, por qué?<br> :date: __2020-11-30 11:12:47__
-
 
 
 #### 1-star reviews
@@ -278,6 +280,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
+
+> No va la aplicación de ninguna manera<br> :date: __2021-03-14 04:33:01__
 
 > Porque quereis acceder a contenidos de internet? Mientras no saqueis ese requisito mucha gente, no aceptara<br> :date: __2021-03-04 19:54:38__
 
@@ -296,7 +300,5 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > No actualizan los datos, no coinciden las restricciones que indica la aplicación con la realidad<br> :date: __2020-12-04 08:43:32__
 
 > Voy a ajustes y pongo idioma castellano y toda la información está en gallego. Si tengo la opción de castellano, esa opción no existe?. Soy gallega y tengo el derecho de elegir. Sin comentarios.<br> :date: __2020-12-03 22:40:10__
-
-> Lo de la llave es algo complicado sacr lo de llave y que la persona se pueda rejistrar<br> :date: __2020-12-01 21:17:42__
 
 

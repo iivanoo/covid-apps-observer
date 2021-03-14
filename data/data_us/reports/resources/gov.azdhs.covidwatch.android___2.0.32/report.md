@@ -184,6 +184,8 @@ The Covid Watch Arizona app has been installed by more than **10000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 2 reviews"/>
 </p>
 
+> Not even the hospitals where i work at are aware of this app.<br> :date: __2021-03-07 16:49:46__
+
 > I don't see how this app can be helpful at all for contact tracing. Few people in Arizona I know are aware of this app, and even if they're informed about it, it doesn't even appear in a general search with keywords. Then it will randomly inform you that you have a notification and, when you click to find out what it is, it will tell you that you have no notifications. You'll have an icon that sits in your notifications for 12 hours telling you that it's looking for exposures that can't be dismissed. Also, you can't even choose Phoenix nor Maricopa County as your location despite that being the most populous region of the state; your options are Tucson, Flagstaff, and "State of Arizona" which apparently isn't even functional.<br> :date: __2021-01-13 20:07:20__
 
 > Great idea but unclear. IMPOSSIBLE to find by simple searching for it in the app store. I had to follow internet breadcrumbs over the different sites to finally get a link to the exact app. Once here, while setting up, you need to select your location, one of which is "State of Arizona". But later it says that statewide implementation means that you can get alerts, but not alert anyone else. So if I'm in Prescott, and no one in Prescott can actually send an alert, what is the point????<br> :date: __2020-10-06 19:06:36__
@@ -203,8 +205,6 @@ The Covid Watch Arizona app has been installed by more than **10000** times. At 
 > I know I've been potentially exposed and have received no exposure notifications<br> :date: __2021-01-30 19:11:05__
 
 > Pretty useless since statewide reporting is not available for the app. Need to change the name to UofA/ASU COVID Tracker since they're the only regions that actually work.<br> :date: __2020-12-16 16:06:21__
-
-> Deleted immediately. Way too many permissions, microphone & other permissions are more than what is needed. Buggy. Google is awful.<br> :date: __2020-12-15 05:09:34__
 
 > This app only works for UofA & NAU and isn't on the CDC's list so trying to find it is challenging. What are the developers waiting for, especially with the current spike in Arizona? It dosen't do any good to share this with others if no one can add there positive diagnosis in an unsupported region (meaning the rest of the state).<br> :date: __2020-11-23 16:02:59__
 
