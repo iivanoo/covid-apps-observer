@@ -229,6 +229,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Amazing service!<br> :date: __2021-03-15 18:20:23__
+
 > Great app<br> :date: __2021-03-11 02:21:41__
 
 > Perfect.<br> :date: __2021-03-09 21:19:59__
@@ -246,8 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Easier than the Dept of Health portal. Got more progress in 2 days than 1 month before.<br> :date: __2021-02-21 18:38:19__
 
 > The video chat feature connects you to a medical personnel immediately. We found this extremely useful.<br> :date: __2021-02-19 18:44:18__
-
-> Everything works as expected<br> :date: __2021-02-19 01:54:16__
 
 
 

@@ -213,6 +213,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
 
+> The Bluetooth notification is annoying. I'm at home most of the time and am not going to have Bluetooth on all the time.<br> :date: __2021-03-18 15:21:01__
+
 > I'm about to uninstall. I'm not going to keep BT on 24/7 and I am fully aware that when it is off I can't get warnings. I'm at home 99.9% of the time. The app used to let me clear the notification but recently left the notification posted full time even after acknowledging. Annoying people isn't the way to get them to adopt.<br> :date: __2021-03-12 10:29:57__
 
 > The second you turn Bluetooth off it annoys the hell out of you to turn it back on. There needs to be functionality that addresses this gap as people will discontinue use due to the annoyance. Reading the reviews here does not give me confidence that positive cases are being captured properly (even if the person tests positive and gets a verification code by doh) due to the delay from the point they positive test, to them talking to DOH WA to get the code. 2 days to weeks, to possibly never.<br> :date: __2021-02-13 10:30:52__
@@ -231,8 +233,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > Nice concept, but poor execution on letting the public know it is available, and letting them know how the app works and what safeguards are in place to protect their privacy. To many people think the app will share personal information, so are unwilling to download it. This is making the app unusable as it was designed to be used. If only one person out of a hundred has downloaded it and is using it, then what use is having it on your phone?<br> :date: __2021-01-01 09:30:17__
 
-> Isn't invasive I'm just not sure its actually doing anything<br> :date: __2020-12-27 20:34:56__
-
 
 
 #### 1-star reviews
@@ -240,6 +240,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
+
+> Won't allow you to turn on Exposure Notifications. I Uninstaller, and reinstalled app. Still won't allow me to turn on exposure notifications. I get an error message "something went wrong. Please try again" any suggestions? I uninstalled and now when I try to reinstall I get the something went wrong message. Garbage<br> :date: __2021-03-15 01:17:23__
 
 > Poor<br> :date: __2021-02-21 02:25:07__
 
@@ -258,7 +260,5 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Needs bluetooth enabled.<br> :date: __2021-01-26 01:25:15__
 
 > I tested positive and the app wouldn't let me notify people. It turns out the app needs a code, given by Washington State department of health employees when they call you for a phone survey/interview. I received positive test results on Sunday 1/17 and received a phone call follow up on Tuesday 1/19. I brought up the code and was given it, but that was only after the entire call was completed with no mention of the code or app. If I hadn't brought it up it would not have come up otherwise.<br> :date: __2021-01-20 20:54:20__
-
-> People need to know where to get a code from if they have tested positive. There's more information that needs to be put on here for the people. I didn't say it was me!<br> :date: __2021-01-19 05:03:48__
 
 

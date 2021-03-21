@@ -140,6 +140,8 @@ No recent reviews available with 5 stars.
 <img src="4_star_reviews_wordcloud.png" alt="com.hug_ge.coronapp 4 reviews"/>
 </p>
 
+> Il devrait avoirs une application gratuite qui devrait existe et à m'être dans tout les téléphones lors d'un achats d'un portables ce serait une application pour pouvoir prendre sa température avec son portable. Sa existe des scaner pour alimentation alors pourquoi pas pour la santé public 😷<br> :date: __2021-03-18 14:45:31__
+
 > Pratique et utile mais dommage que les données parfois datent de mars ou avril...certains points ayant changé !<br> :date: __2020-11-13 14:51:16__
 
 

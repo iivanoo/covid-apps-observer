@@ -217,6 +217,12 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Muy bien , todo perfecto ... hE querido hablar con un médico en el chat para una consulta y antes de 5 min ya me habían contestado , no llevo mucho con la app pero el tema de la carpeta médica , las recetas electrónicas y la atención recibida a sido perfecta<br> :date: __2021-03-19 20:25:17__
+
+> Buena aplicación<br> :date: __2021-03-18 15:58:52__
+
+> Muchas gracias por su atención desearía continuar con usted, muy amable,,,<br> :date: __2021-03-15 12:59:01__
+
 > Muy buena<br> :date: __2021-03-14 13:10:25__
 
 > Fenomenal , muy profesional<br> :date: __2021-03-09 12:39:13__
@@ -230,12 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Sorprendente que funcione tan bien la videollamada<br> :date: __2021-03-01 20:20:39__
 
 > Va súper bien,los especialistas atiende muy bien y te hacen todo lo necesario para solucionar el problema. Estoy muy contenta con ellos<br> :date: __2021-02-26 13:29:16__
-
-> Excelente app me encanta<br> :date: __2021-02-26 12:50:17__
-
-> Muy top!<br> :date: __2021-02-24 12:48:49__
-
-> Los doctores muy atentos y la aplicación muy bien<br> :date: __2021-02-24 11:05:58__
 
 
 

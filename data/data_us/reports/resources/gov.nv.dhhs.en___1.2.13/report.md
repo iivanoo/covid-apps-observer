@@ -219,6 +219,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Ibhave never been notified even though people in my Sun city community have been infected. Worthless app.<br> :date: __2021-03-19 19:51:02__
+
 > No evidence of covid-19 at all send back home to mom only. Nothing else anded.<br> :date: __2021-03-14 01:39:12__
 
 > In case you dont realize it is just a way to attach a marker to your cell phone the department of health is using you to get more of a grasp of your lives. To think if you never would be put on an ankle bracelet The government just made you carry one with out due process<br> :date: __2021-02-26 09:06:59__
@@ -236,7 +238,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > I tried to use this to notify that I had a positive test while sitting in the urgent care that gave me the results. They had no verification code to give me. What good is the app if I can't actually use it for it's intended purpose?<br> :date: __2021-02-06 18:40:50__
 
 > Dreadfully non-functional software.<br> :date: __2021-02-05 14:20:38__
-
-> This app is worthless, it never warned me about a contact. I was notified through an text AFTER I already tested positive and wasn't able to warn everybody because we need a secret code<br> :date: __2021-01-30 05:59:05__
 
 

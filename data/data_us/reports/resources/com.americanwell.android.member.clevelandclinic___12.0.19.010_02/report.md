@@ -203,6 +203,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 5 reviews"/>
 </p>
 
+> Very positive experiences<br> :date: __2021-03-18 21:32:52__
+
 > Excellent!<br> :date: __2021-03-08 12:39:27__
 
 > Pretty simple to use.<br> :date: __2021-03-04 13:37:25__
@@ -220,8 +222,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Easy to setup and use, got a virtual appointment right away<br> :date: __2021-02-19 16:58:24__
 
 > Great experience very helpful<br> :date: __2021-02-17 17:35:36__
-
-> Excellent<br> :date: __2021-02-05 20:19:11__
 
 
 

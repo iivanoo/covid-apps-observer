@@ -169,6 +169,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 3 reviews"/>
 </p>
 
+> Dommage qu'il ne soit pas possible de modifier la saisie si on a fait une erreur, et qu'il ne soit pas possible d'ajouter de commentaires par nuit pour savoir ce qu'il s'est passé dans la soirée (consommation d'excitant...) et les raisons des réveils<br> :date: __2021-03-17 11:17:58__
+
 > Bien mais à améliorer. Dommage de ne pas pouvoir ajouter des commentaires lors de la saisie des nuits (raison des réveils nocturnes par ex). Conseils très simples et déjà connus pour les personnes souffrant de troubles du sommeil. Rien sur les hypersomnies, je dors beaucoup, apparemment bien mais je suis toujours fatiguée, aucune réponse ou proposition dans l'application, dommage. Un lien vers une prise de consultation avec un praticien serait intéressant (en visio ou physique).<br> :date: __2020-12-23 09:26:03__
 
 > L'application vient de se bloquer aprés le 2nd entretien. Je n'ai donc pas eu le CR de l'analyse des données sur 7 nuits et des réponses au 2nd entretien. L'avatar reste à l'écran et plus rien ne se produit. Dommage. Je retenterai peut être en désinstallant puis en la réinstallant<br> :date: __2020-12-13 15:21:53__
@@ -209,11 +211,11 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 1 reviews"/>
 </p>
 
+> Trop long, impossible de quitter, sachez qu'on ne note pas la durée pendant laquelle on est reveillé en cours de nuit, on attend 'simplement' de pouvoir se rendormir...ou alors il faut regarder son reveil....pas top...<br> :date: __2021-03-17 07:00:32__
+
 > Problème de fonctionnement, dès que j'arrive à la page ou je dois donner des infos sur les horaires de coucher, lever.. je ne peux plus rien faire il est impossible de noter quoi que ce soit, malgré désinstallation et réinstallation.<br> :date: __2020-12-25 09:10:53__
 
 > Mon commentaire ayant été supprimé, je le remets : pendant 8 matin, j'ai rempli scrupuleusement le questionnaire Au bout de ces 8 jours, le petit avatar conseillé de faire le point sur mes nuits, Oui et ? Rien, aucun conseil, aucune conclusion virtuelle de l'analyse, juste une récap de mes nuits Cette appli ne sert absolument à rien<br> :date: __2020-12-14 14:19:42__
-
-> Au secours ! Si après ça tu trouves le sommeil !<br> :date: __2020-12-12 09:11:12__
 
 > Je viens de terminer une semaine de suivi du sommeil et suis très déçu par les conseils. Rien de nouveau par rapport à la littérature journalistique : proposer en septembre une chambre entre18 et 20° quand la température de nuit, fenêtres ouvertes, ne descendent pas sous 22° c'est juste inapproprié. Respirer par le ventre OK on sais déjà. Pas de café apres 14h00 quelle nouveauté ! Une arnaque déguisée par le CHU de Bordeaux.<br> :date: __2020-09-21 22:25:13__
 

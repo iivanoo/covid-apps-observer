@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFerVlzHOhcEM0TnB8BaUIHTnoTzDYGBJ3QViVjjlJVwHnTrYGr__IQt4JMSJw45wV9FbSvuFzbd9xzbA",
+        "userName": "Eduardo Calder\u00f3n",
+        "userImage": "https://play-lh.googleusercontent.com/-YAxCMp7FOKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIXz3kZqpDy0hvMkeTPfY8-msv5w/photo.jpg",
+        "content": "Buena app, muy recomendable. Gracias por la app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-03-20 20:59:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHz-5COuEmys1sZuhRDQBafYM4_6NObtq9bLwwDC0c7lK7NTcMVULG4ikHD5Cdk7UTx3jvykGkK7A0Jzg",
         "userName": "Carmen Nu\u00f1ez",
         "userImage": "https://play-lh.googleusercontent.com/-NhKOfIguGI0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVyKZKgnTS2SBAGRCDolC3FktsHA/photo.jpg",
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi27m9UWTvhyOPbD4grgvM5YvicEsQNs66S4o-5WCA",
         "content": "En Lugo, seg\u00fan la aplicaci\u00f3n el interior de los locales de hosteler\u00eda CERRADO, cuando seg\u00fan el DOG tambi\u00e9n en interior al 30%. Y los establecimientos NO TIENEN C\u00d3DIGO QR que escanear. Ni cafeter\u00edas, ni supermercados, farmacias, bancos, ferreter\u00edas, tiendas de ropa....",
         "score": 2,
-        "thumbsUpCount": 28,
+        "thumbsUpCount": 29,
         "reviewCreatedVersion": "1.0.3",
         "at": "2021-02-27 09:00:56",
         "replyContent": "Buenos d\u00edas, agradecemos su comentario. El registro de estancia en establecimientos debe hacerse con un QR espec\u00edfico para PassCOVID que podr\u00e1 encontrar en los carteles con el t\u00edtulo \u201cEstablecimientos con Sentidi\u00f1o\u201d. Le animamos a mantener la aplicaci\u00f3n siempre actualizada. Muchas gracias por su colaboraci\u00f3n.",

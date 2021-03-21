@@ -131,6 +131,12 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> This comes in handy when it comes to finding out where to go and where not to go to catch covid-19<br> :date: __2021-03-21 11:58:48__
+
+> Awesome<br> :date: __2021-03-16 10:27:16__
+
+> Gives me some peace of mind<br> :date: __2021-03-15 20:02:19__
+
 > I really want 💗💕💕<br> :date: __2021-03-10 05:37:35__
 
 > So far, negative!!!<br> :date: __2021-03-09 00:38:15__
@@ -144,12 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Excellent App!! Very Informative and Very Much Appreciated, a Five Star Keeper!!!!!!!<br> :date: __2021-02-23 04:01:27__
 
 > Ty! This makes me feel safer when I go out (what few times I do go out!)<br> :date: __2021-02-20 06:00:17__
-
-> How would I be able to received the cavcene.or<br> :date: __2021-02-13 00:31:50__
-
-> I hate covid-19 so much because of the masks<br> :date: __2021-02-08 11:06:49__
-
-> I love thia app and hope every pne will and use it thank you<br> :date: __2021-01-30 07:31:47__
 
 
 
@@ -243,6 +243,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> Stupid thing doesn't work. Someone has covid and two stores have been closed due to having covid 19. This app never alerted me I found out via facebook.<br> :date: __2021-03-18 22:21:55__
+
 > Worthless. I have been in bed sick, sick with Covid for a week. Still tells me no exposures detected. Getting ready to remove it.<br> :date: __2021-03-11 17:28:50__
 
 > I was positive with COVID. I was never able to enter results in this app. I was never contacted for contact tracing. I am an essential worker. This app is a tracking mechanism only and is NOT uses for COVID.<br> :date: __2021-03-10 12:30:11__
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > It is stupid I deleted it because at the beginning it was great but at the end sooooook dumb. Its just I don't know what to do in this app. January, 2021 bruh so dumb 🤦 😒 😪<br> :date: __2021-02-26 21:54:35__
 
 > This app, as the developers admit is useless. False sense of security. Because it is impossible to timely report covid--what is the use? Our entire household now has Covid. No one can report to this app. Since no one can report being sick, you will never be notified of exposure. Got back a positive test result. Tried to tell the app that I tested positive. Unfortunately it wants me to jump through hoops to get a pin to report a covert positive test. It will not give me a pin.<br> :date: __2021-02-26 21:05:58__
-
-> How did you find my phone to send this app notification? I see at least two violations of my privacy before even installing. Very bad.<br> :date: __2021-02-26 15:33:36__
 
 

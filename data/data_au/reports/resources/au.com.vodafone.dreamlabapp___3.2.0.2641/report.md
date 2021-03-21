@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
-> Brilliant way to help without even thinking about it<br> :date: __2021-03-14 09:31:23__
+> It has the best purpose, is really simple to activate, doesn't use anything but my Wi-Fi, and only if I say so, and has no commercial.<br> :date: __2021-03-20 11:11:23__
 
-> Works as advertised<br> :date: __2021-03-13 19:32:30__
+> Giving something back.<br> :date: __2021-03-19 09:47:31__
 
-> It's good to know that one is contributing to such important Research.<br> :date: __2021-03-13 11:15:04__
+> Very good<br> :date: __2021-03-19 08:25:26__
 
-> Great way to support medical research!<br> :date: __2021-03-13 08:46:59__
+> It feels good 👍 to be of use while I'm asleep and the phone is charging. Make sure that your data is turned off though and that you are using WiFi, don't want any unexpected bills now do we?<br> :date: __2021-03-18 19:59:33__
 
-> Very well design user experience, feels great to help fight against the problems plaguing our society today. Download this today to pave the promise of tomorrow<br> :date: __2021-03-11 17:12:55__
+> Anything that helps advance research progress whilst not impacting me is a win win in my view.<br> :date: __2021-03-17 15:11:50__
 
-> Great idea, it's for a good cause<br> :date: __2021-03-10 23:48:45__
+> Worthwhile app. Runs in the background and doesn't affect the use of the 'phone.<br> :date: __2021-03-17 07:04:51__
 
-> Good way to help out<br> :date: __2021-03-10 06:06:22__
+> Helping world health science with no effort or cost to me. Nice!<br> :date: __2021-03-16 18:15:07__
 
-> Easy to use app, great purpose<br> :date: __2021-03-08 14:32:25__
+> Helping fight covid and cancer.<br> :date: __2021-03-16 08:40:50__
 
-> Excellent<br> :date: __2021-03-07 11:26:41__
+> Quietly chunters away while you sleep, allowing you to loan your phone to the boffins for their important scientifical calculations, in service to humankind. It's a no-brainer.<br> :date: __2021-03-15 08:05:22__
 
-> Great app<br> :date: __2021-03-05 19:26:33__
+> It's good to feel involved<br> :date: __2021-03-15 07:45:50__
 
 
 
@@ -182,6 +182,12 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> a great way to help the fight when you can't donate money or time. Love the idea of the app, only problem is that the app doesn't always automatically turn on when on charge and hits 80%.<br> :date: __2021-03-19 13:56:20__
+
+> Dreamlab works fine on Galaxy tab no overheating no problem no worries can leave on all day better still if worked without having to be on charge all the time thank you can you please fix this please Vodafone<br> :date: __2021-03-19 01:55:49__
+
+> Great easy to forget to bturn on<br> :date: __2021-03-18 12:53:43__
 
 > Giving something back to Society! Especially with this lethal virus!!<br> :date: __2021-03-11 21:58:28__
 
@@ -197,12 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > I want to give this 5 stars because the idea is great. Only knocked down to 4 because it doesn't always work, starting automatically at 80% charge. Maybe this is a problem with the APIs available, but it would be good it they could find a way around it. I'd be happy if it always started when charging, even if that slows charging a bit. Maybe that could be made an option.<br> :date: __2021-02-19 09:28:14__
 
-> Darei 5 stelle, ma non sempre l'app parte in automatico quando attacco il telefono alla presa<br> :date: __2021-02-18 00:17:15__
-
-> Can make my phone a bit hotter than I am comfortable with.<br> :date: __2021-02-13 23:03:54__
-
-> App is good but could be better. The platform & institutions should take cues from BOINC's Android app's advance settings & notification feature. Also, as others have mentioned, you need to keep the calculations coming at a steady rate or at least inform users if there will be a slow down. BOINC institutions do this - they inform users if there will be a pause for maintenance or other reasons.<br> :date: __2021-02-11 22:45:34__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> Because politicians have used certain issues inappropriately, there are certain analyses I do not wish to participate in. Over time this application automatically switches away from analyses I feel are more important to those which are more politically appraised.<br> :date: __2021-03-17 17:47:10__
+
+> Good app with great intentions. The problem is that the program I chose keeps getting switched for another program which I do not wish to support. All. Trying to do is support coronavirus research and the app keeps trying to make me support hyperfoods which is suspiciously run in the UK. Stop switching it automatically.<br> :date: __2021-03-16 00:48:21__
 
 > Presumably im helping. Boinc is better. Give more feedback on how we are helping. Also gridcoin being an additional bonus that potentially may have value in the far future. Why bother with this? It is nice if you are not very technical or dont want to fall into the rabbit hole of the many different sciences connected to boinc. If you want no hassle just do this. But if I want more meaningful results I use other platforms. I just need more feedback I guess. This platform is "ok" at least.<br> :date: __2021-03-05 14:06:45__
 
@@ -226,10 +230,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Great to help out but sometimes have difficulty starting a session due to 'used all daya' message<br> :date: __2021-01-30 17:01:33__
 
 > The app is strange. Compred to folding@home it does not stimulate competition by giving you and Id, points, and the ability to gain more points by putting more devices under the same ID. Also it doesn't have any settings to allow me to use more or less resources. For instance it was initially using only one big core and now it seems to have settled for some of the little cores and I have no control over this behaviour. The app does not work in landscape mode which is very annoying.<br> :date: __2021-01-24 22:23:05__
-
-> A great idea this but it does not automatically start calculations when I put my phone on charge. I have to manually start the calculations - it's rare I think to do so. There should be an in-app setting to allow automatic start upon plug in. 1 star lost because it's missing this obvious function. 1 star lost because without this function, the app is simply a waste of memory on my phone. Fix this and it's 5 stars.<br> :date: __2021-01-12 18:53:46__
-
-> Very nice app, however, I wish it has I control when the app starts crunching numbers, for example after my battery level is up to 99% for example and it will stop if the battery drops Below 90% and so on.<br> :date: __2021-01-12 14:54:10__
 
 
 
@@ -267,6 +267,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
 
+> Great idea, app badly done. We do free work for the company, but the app isn't FOSS. There is no option to disable dreamlab, sometimes I just want to charge my phone and not run the app. It frequently gets stuck on 1 job and doesn't do anything all night. Finally it needs a way to disable Amber alerts so I can sleep and run dreamlab without being awoken by gov.<br> :date: __2021-03-21 04:16:27__
+
 > Used it for a few years. Was a good app. Then for 2 months in a row it claimed I'd used all my data allocation on the first day. Uninstalled and reinstalled and was considered a new user.<br> :date: __2021-03-05 12:20:49__
 
 > Stop and start, changes what youve sekected rubbish<br> :date: __2021-02-26 01:19:42__
@@ -284,7 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Tells you nothing that you already know. All they do is count how many minutes on the website you are on and if a website counts how long you have been on for well that's suss in my opinion.<br> :date: __2020-12-28 22:33:52__
 
 > Kept freezing Android 7 tablet & Android 9 phone. Unacceptable behaviour. Uninstalled.<br> :date: __2020-12-20 11:44:11__
-
-> I tried the app on my phone. My phone got red hot. So I tried it on my iPad. It drained the battery completely; unfortunately even while on charge. Had to delete it. Shame. I wanted to help....<br> :date: __2020-12-20 10:45:36__
 
 

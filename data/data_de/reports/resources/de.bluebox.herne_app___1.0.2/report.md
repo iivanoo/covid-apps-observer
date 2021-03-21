@@ -241,6 +241,8 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="de.bluebox.herne_app 1 reviews"/>
 </p>
 
+> Irgendwie ist die app nicht durchdacht, auch wenn sie noch in der Entwicklung steckt. Es gibt schon so viele gute Apps, die anständig ihre Arbeit verrichten. Nur bei uns klappt das leider nicht. Seit einigen Tagen schließt sich die App automatisch, wenn man sie öffnet (irgendwie auch lustig...). Naja, ist deinstalliert. Mal sehen, wann ich die wieder installiere.<br> :date: __2021-03-15 15:10:42__
+
 > Mängelmelder gibt immer eine Fehlermeldung aus. Unbrauchbar<br> :date: __2021-02-03 17:57:28__
 
 > Funktioniert nicht so toll versuche einen Online Termin zu vereinbaren klappt aber seit Tagen nicht<br> :date: __2020-08-03 22:41:17__

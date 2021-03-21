@@ -237,6 +237,12 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> これ、海外からの帰国者に帰国前インストール必須にしてますが、開くと多分日本のipアドレスからじゃないと弾かれますね。数百億円かけてこのレベルのアプリって。。。<br> :date: __2021-03-19 08:06:55__
+
+> 星一つもあげたくない。<br> :date: __2021-03-19 05:01:45__
+
+> Blocked on the accepting the terms of use page because of a network connection failure. But my connection works fine...<br> :date: __2021-03-18 01:38:58__
+
 > NETWORK CONNECTION ERROR !!<br> :date: __2021-03-07 11:10:41__
 
 > I couldn't go past accepting the terms and conditions of the app since it keeps giving me a network connection error but my internet works and my mobile data also works fine. The app has a bug making it unusable on Android 11, google pixel 4a, 5g phone 😨<br> :date: __2021-03-02 09:11:48__
@@ -250,11 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 報道にある通り<br> :date: __2021-02-22 04:16:01__
 
 > I had this app deleted after it finding out it wasn't working properly since Sept last year, meaning you wouldn't get notifications even if you came into contact with someone. Even now, you won't get notifications unless you open the app daily. This is an unbelievable waste of taxpayers money and I really hope someone is held accountable for this massive failure.<br> :date: __2021-02-19 08:36:15__
-
-> It didn't work!<br> :date: __2021-02-18 23:00:00__
-
-> It doesn't work pour<br> :date: __2021-02-18 15:14:49__
-
-> 通知も来ないし、生ログ確認しないとわからないし、陽性者と接触があった旨Exposure Notification のログに引っかかっても保健所は誤報の可能性が高いと検査もしてくれない。アプリも EN API も運用体制も最低だと思います。アンインストールします。<br> :date: __2021-02-18 07:23:02__
 
 

@@ -202,6 +202,10 @@ The WI Exposure Notification app has been installed by more than **100000** time
 <img src="1_star_reviews_wordcloud.png" alt="gov.wi.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Doesn't work at all<br> :date: __2021-03-21 03:22:16__
+
+> Requires some verification code to report positive result. No clue where this code comes from so I couldn't post my result. Pointless, but that tracks due a government app.<br> :date: __2021-03-15 00:33:50__
+
 > This app is completely pointless. Not once have I been notified that I have come in close contact with someone infected so it gives me a hunch that no one is using this pointless app. Just another FAIL by One Term Tony and his cronies. This app eats up your battery; don't waste your time. After all it's just a virus and you cannot hide from it. Let's get back to living normal life again.<br> :date: __2021-02-18 18:43:35__
 
 > This App Is stupid even tho I Did not install it everytime i search these Stupid Waste of time apps are herw what the heck man!?<br> :date: __2021-02-10 21:53:07__
@@ -217,9 +221,5 @@ The WI Exposure Notification app has been installed by more than **100000** time
 > didn't find this too useful<br> :date: __2021-01-12 03:58:00__
 
 > The app does not install at all. Please fix it so more people can use this tool to keep our state virus free.<br> :date: __2021-01-06 19:06:55__
-
-> Don't have any experience. Why are people so positive about this. This app just came out. No one can you really say what's going to happen. Here come the AI filled Dracos.<br> :date: __2021-01-01 00:48:41__
-
-> Evey news story says turn off Bluetooth because that is how people hack your phone. This turns on your Bluetooth forever all day.<br> :date: __2020-12-31 23:28:40__
 
 

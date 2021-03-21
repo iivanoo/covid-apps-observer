@@ -283,6 +283,10 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 1 reviews"/>
 </p>
 
+> App looks nice, but crashes everytime I try to add a credit card, making it completely useless.<br> :date: __2021-03-19 00:14:56__
+
+> Couldn't even find primary care physician on it and you can't book an appointment if you don't have insurance.<br> :date: __2021-03-17 06:29:38__
+
 > aweful. theres 4 buttons and none do anything<br> :date: __2021-02-27 21:17:28__
 
 > I am 14 and something is wrong with my heart but it won't let me sign up because I'm not 18 what am I supposed to do??<br> :date: __2021-02-20 18:30:28__
@@ -298,9 +302,5 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > My doctor couldnt get thru and my tablet wasnt compable<br> :date: __2020-11-21 17:16:34__
 
 > Get to the insurance part and I can't log in since only 4 listed and mine is not. Yey you have to put something in that spot. Uninstaller app. Guess I'll have to call doctor.<br> :date: __2020-11-16 15:29:12__
-
-> Completely useless app, freezes every time I open it. No menu pops up after the login screen. Android user.<br> :date: __2020-11-11 17:14:01__
-
-> Poor App, can't send a message to my doctor.<br> :date: __2020-11-09 14:17:26__
 
 

@@ -253,24 +253,24 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> non funziona, dovrebbe arrivare una email con un link per l'attivazione che non è mai arrivato.<br> :date: __2021-03-19 09:34:20__
+
+> Pessima, ne io ne la mia Compagna riusciamo ad aprirla.<br> :date: __2021-03-17 00:25:09__
+
+> L'app dopo l'autenticazione non funziona<br> :date: __2021-03-16 22:55:26__
+
+> Non funziona. Come già segnalato da molti altri - aspiranti! - utenti, dopo aver ricevuto l'SMS per la conferma dei dati, continua a dire che bisogna cliccare sul link ricevuto ed effettuare un nuovo accesso malgrado sia già stato fatto. Ma non c'è nessuno che legge le recensioni e lavora per risolvere questo problema? Vedo che è stato riportato già da mesi, ma le recensioni non hanno avuto nessuna risposta.<br> :date: __2021-03-16 17:24:18__
+
+> Non funziona...<br> :date: __2021-03-16 17:19:09__
+
+> Dovrebbe essere una risorsa per chi è malato di covid e invece è soltanto una perdita di tempo. Non funziona e non si apre nemmeno dopo l'attivazione. Speculare sulla salute delle persone è un fatto ignobile. Vergogna.<br> :date: __2021-03-15 12:42:20__
+
+> Non funziona: inseriti email, codice fiscale e telefono corretti. Dopo aver cliccato sul link all'SMS ricevuto e ritornato sull'app ricevo l'avviso di account non attivo con invito a cliccare sul link all'SMS. Cosa peraltro già fatta. Comunque ritentata registrazione con risposta di tornare sull'app e di accedere con i dati già inseriti in un loop infinito. Tentata cancellazione di cache e dati senza che nulla sia cambiato. Huawei P30 Pro, android 10 aggiornato ad ultima versione<br> :date: __2021-03-14 17:50:29__
+
 > La app non accetta un nr di telefono non italiano. Un problema per i non residenti.<br> :date: __2021-03-06 20:58:09__
 
 > Non riesco a scaricarla eppure spazio nella memoria ne ho abbastanza. forse sbaglio qualcosa, chi mi può aiutare?<br> :date: __2021-02-23 12:38:25__
 
 > Avevo installato l app 12 mesi fa, non funzionava. Cosi l ho disinstallata. Ci riprovo oggi e mi da lo stesso problema ... inserisco dati, arriva messaggio, click su link entro, esco....non entro più, e nella pagina iniziale mi dice account non attivo!!!!!!!!! Incredibile!!!!! Dopo un anno lo stesso problema, che, a quanto pare è comune a molti utenti.<br> :date: __2021-02-11 11:21:04__
-
-> Scaricata ma non si apre va' in crash, mandato mail ma nessuna risposta....<br> :date: __2021-02-10 21:21:26__
-
-> Inutile<br> :date: __2021-02-07 09:19:12__
-
-> Installata, compilato i campi, arriva l'sms con il link per l'attivazione dell'account,account attivato ma una volta riavviata l'app si chiude automaticamente andando in crash. Disinstallata e reinstallata identico problema. Inoltre una volta installata nuovamente mi diceva di premere sul link dell'sms per attivare l'account in quanto non attivo quindi le credenziali inserite precedentemente non le ha validate diversamente da quanto mi ha detto il sistema. Delusione profonda...<br> :date: __2021-02-05 11:32:51__
-
-> Me l ha consigliata il mio.medico in quanto sono positivo,ma non funziona,l applicazione non si apre e dopo qualche secondo va in crash<br> :date: __2021-02-01 17:29:46__
-
-> Mi dispiace per chi si fida ancora dei medici di oggi, e della "scienza" corrotta<br> :date: __2021-01-30 17:26:18__
-
-> Una volta effettuata la registrazione, non si apre.<br> :date: __2021-01-27 19:37:49__
-
-> Scaricata, aggiornata, ora non si apre più, a che serve.<br> :date: __2021-01-18 19:02:34__
 
 

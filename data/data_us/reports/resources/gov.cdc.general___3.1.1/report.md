@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> To me it was filled with useful information, and if necessary I will definitely download the application again for the next update<br> :date: __2021-03-19 12:27:33__
+
 > CDC mobile app needs to make the app interesting. But I like it a little.<br> :date: __2021-03-13 13:14:10__
 
 > (Teaches us to stop the spread of germs by washing our hands)!<br> :date: __2021-03-10 14:45:32__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Info....👍👍👍👍.<br> :date: __2021-02-21 13:38:37__
 
 > I love this app. Tessa harrod<br> :date: __2021-02-20 01:18:17__
-
-> Very useful, & GPS keep one updated!<br> :date: __2021-02-17 01:39:33__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> I can't believe this app<br> :date: __2021-03-17 07:24:17__
+
 > Covid19 not real because tree gave free oxygen everyone<br> :date: __2021-03-02 02:32:37__
 
 > I've tried several times to get the app to open. All i get is a white screen. I've uninstalled and installed the app several time and it won't open.<br> :date: __2021-02-26 03:18:05__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Information over -simplified, misleading, & not reliable. Political Correctness is very Dominant & over-riding information.<br> :date: __2020-09-29 23:04:13__
 
 > We can no longer trust the CDC.<br> :date: __2020-09-03 02:55:12__
-
-> Case count for covid is not available. Covid information is too bast it lacks its own menu or search box.<br> :date: __2020-08-31 14:45:50__
 
 

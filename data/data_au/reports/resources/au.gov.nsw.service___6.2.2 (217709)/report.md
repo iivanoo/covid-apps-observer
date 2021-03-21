@@ -210,25 +210,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> Goid app ,,Thank you Service NSW9<br> :date: __2021-03-13 01:00:00__
+> Works great, should probably quit buying bloat loaded chinese phones and samsung's. Sucks to suck!<br> :date: __2021-03-21 08:28:21__
 
-> Service the nation. In update and response to your accustomed reply, this an amazing ap for letting you verify yourself and sign in and I find having my driver licence on my phone is amazing.<br> :date: __2021-03-12 04:53:20__
+> Very easy to use<br> :date: __2021-03-20 06:29:39__
 
-> Excellent ease of use<br> :date: __2021-03-11 23:00:36__
+> Excellent app!<br> :date: __2021-03-19 13:54:22__
 
-> 😍♥️♥️♥️🧐<br> :date: __2021-03-11 05:06:36__
+> great App easy to use for visiting venues shopping centres<br> :date: __2021-03-18 11:19:17__
 
-> Brilliant app!<br> :date: __2021-03-10 14:25:18__
+> Had to update service app. first to be able to use.<br> :date: __2021-03-18 01:30:16__
 
-> Good app<br> :date: __2021-03-10 10:08:28__
+> Amazing<br> :date: __2021-03-17 09:19:38__
 
-> Good<br> :date: __2021-03-10 09:36:27__
+> Very good<br> :date: __2021-03-16 07:25:46__
 
-> Great<br> :date: __2021-03-10 02:32:54__
+> Great<br> :date: __2021-03-16 01:48:01__
 
-> Excellent<br> :date: __2021-03-10 02:12:37__
+> Great<br> :date: __2021-03-15 14:25:33__
 
-> Excellent. Easy use and I register all my cars and licence renewal.<br> :date: __2021-03-09 20:44:28__
+> Easy to use this app<br> :date: __2021-03-15 05:33:58__
 
 
 
@@ -237,6 +237,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
+
+> Waiting for app regarding vouchers.<br> :date: __2021-03-21 05:17:38__
 
 > Works well<br> :date: __2021-03-12 07:53:22__
 
@@ -256,8 +258,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > OK<br> :date: __2021-03-04 21:50:20__
 
-> Like the app, up/down scrolling much more usable than left/right. Check-out notifications when I have already checked out are a little annoying, please modify so that it only notifies if not checked out.<br> :date: __2021-03-04 05:48:28__
-
 
 
 #### 3-star reviews
@@ -266,25 +266,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
+> having trouble scanning in at places over the last few days<br> :date: __2021-03-19 06:54:09__
+
+> Had this app on previous phone have a later model phone operating system android 5.1 trying to download on new phone told that app can not be downloaded due to operating system not being 6+. Have enormous problem understanding why a later phone model is not compatible. I now have no app other QR apps I do not trust and don't work the same way so I am now not complying with Gov request??????????<br> :date: __2021-03-18 23:55:21__
+
+> I have tried to use the Services App for 2 days.Every time I attempt tp use it, it says that I am locked out. Services NSW staff at Goulburn were unable to find the problem. I now say the app is USELESS.<br> :date: __2021-03-18 11:10:03__
+
+> My app disappeared from my device, google day i have no devices. ???? I cant download or update<br> :date: __2021-03-17 00:00:26__
+
+> Unable to update digital drivers licence after renewal (combined boat/car). Can you please allow users to deregister individual licences rather than deregister them all?<br> :date: __2021-03-15 09:17:17__
+
+> When using covid check in my app does not save my details (ie name and phone number) and sends me a code to enter every check in, however my husbands app saves his details and let's him check in without waiting for a code. I can't locate any settings to change this.<br> :date: __2021-03-15 08:15:49__
+
+> Good<br> :date: __2021-03-15 01:56:15__
+
 > Works as intended<br> :date: __2021-03-12 02:45:05__
 
 > Very complicated to set up password<br> :date: __2021-03-11 04:04:43__
 
 > Stuck in 'one moment, please' when applying for the voucher.<br> :date: __2021-03-11 01:40:45__
-
-> So all of a sudden my digital license has disappeared and can't add it on the app<br> :date: __2021-03-09 03:46:28__
-
-> Reminders to check out are now bringing me back to 'check in' page for a location from previous day. It's confusing especially if I already think I've checked out.<br> :date: __2021-03-04 03:38:54__
-
-> Great service<br> :date: __2021-03-01 04:39:27__
-
-> Good app but the biometric login is broken.... So if your fingerprint scanner and home button are built into one (as is the case on most devices) I'll place my finger on the scanner and it'll go back home not actually log me in! Frustrating especially when you're trying to check-in for covid safe every 2mins.....<br> :date: __2021-02-19 21:48:36__
-
-> Cannot access form<br> :date: __2021-02-19 00:52:11__
-
-> Works ok on newer phones but plenty of older people have pre Android 6.0 devices and guess what? Not suitable for your device message is all you get. Surely you can make it work on older devices that can't be updated?<br> :date: __2021-02-17 05:01:46__
-
-> Frustrating.... No issues checking in but for the last 2 days it won't let me check out. Comes up with "unable to check out please try again. Physically can not check out until I check in at another location. I have been checked into one place for 15hrs until I have needed to check in somewhere else. Covid tracing data hard to get right if I am not able to check out ☹<br> :date: __2021-02-16 00:32:07__
 
 
 
@@ -293,6 +293,10 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
+
+> I'd l like to give this app five stars as it has functioned well in the past, but now it refuses log in on my mobile phone because my "device may be using non-standard software" and "for your security" I am not allowed to log in. Why is the NSW Government now dictating what I can or cannot do with my own personal device? Does this mean I need to spend hundreds of dollars on a new device simply to claim my $100 voucher? Or revert back to unsafe insecure out-dated official software?<br> :date: __2021-03-21 13:47:34__
+
+> It resets it self when I use other apps and then get back to it, Android.<br> :date: __2021-03-19 03:04:06__
 
 > Have tried to get vouchers, put address in, says I'm eligible, press the accept button the sits there and spins. Have been trying for 2 days now. Just great.<br> :date: __2021-03-13 11:49:39__
 
@@ -310,10 +314,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Was good till updated then it says email and passwords incorrect same as ive been using for ages just unistalled and reinstalled to see if that helps<br> :date: __2021-03-11 05:35:42__
 
-> Dark mode needed!<br> :date: __2021-03-11 00:54:47__
-
-> NSW would have done well to mimic the VIC app which is much simpler, faster and easier to use.<br> :date: __2021-03-06 21:57:37__
-
 
 
 #### 1-star reviews
@@ -322,24 +322,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Horrible stupid app doesnt always work at venues. Saying wrong password to log today which its right. Logged me out of the app nd wont let me back in. Try forgot password nd still doesnt work on the app.<br> :date: __2021-03-14 09:56:43__
+> I cant sign in on this app but have no trouble signing in on a computer ive contacted service nsw and they cant help either. Ive deleted the app and re installed it, turned phone off and on everything does not help. I use to use it alot but one day it signed me out for no reason and that was it. Cant even check in to a venue for covid but if i use my internet browser on my phone i can log in that way. I have a galaxy s10.<br> :date: __2021-03-21 12:27:44__
 
-> Unable to install this app. Once i click install it just slins saying waiting to downliad and nothing further. Would really appreciate some assistance.<br> :date: __2021-03-14 05:01:23__
+> Can't redeem my entertainment vouchers. The page hangs and then eventually times out. Unacceptable.<br> :date: __2021-03-21 08:32:01__
 
-> Disfunctional App - Shocking Customer Service! Where do I start? On a good note when the app works it's fantastic. For the last approximately 6 months I have had to chase Service NSW up regarding a ticket I have lodged and they have still not been able to rectify why my app says my Digital Licence and RSA etc are linked but are not visible. Pointless using this as my pocket wallet!!!<br> :date: __2021-03-13 03:48:20__
+> Tried 3 photos (Android devices) and cannot redeem the covid vouchers<br> :date: __2021-03-21 06:24:19__
 
-> This app is useless half of the time and I seriously doubt their data security<br> :date: __2021-03-12 02:13:35__
+> Have to have the app to claim vouchers, everytime I try to claim a voucher I just get a continuous buffering screen with a grey circle that says "please wait a moment", I have been waiting over 24 hours now. I have also deleted and re-downloaded the app. It just seems broken. Ever notice how this government never goes for the good option, it's always the cheapest. It's the nbn all over again.<br> :date: __2021-03-20 20:55:00__
 
-> Disaster<br> :date: __2021-03-12 02:09:48__
+> I cannot claim the Dine & Discover vouchers via this dodgy app. I enter my address, it says I'm eligible, I click where I'm told, then the "circle" spins for eternity. Plenty of others say the same! I've tried on four separate days, and different times (in case it's overwhelmed, and our govt is poorly prepared again)... fails EVERY time.<br> :date: __2021-03-20 08:45:10__
 
-> Worked fine but now refuses to recognise my login details even though works on home computer. Tried to set up a new account. Set-up worked fine but refuses to let me login. Pain in the arse when trying to register for Covid visits. App is useless. Got a reply. yahoo. still doesnt work. Useles C\*\*ts.<br> :date: __2021-03-11 10:35:31__
+> Won't let me download dine and discover vouchers. Very frustrating<br> :date: __2021-03-20 05:35:19__
 
-> I have downloaded this app 3 times everytime it tells me there is an error so frustrating<br> :date: __2021-03-11 08:13:35__
+> This app gets worse as time goes by, can you employ professional developers who know what they are doing rather than the clowns running it now. Would give it zero stars if that was an option<br> :date: __2021-03-20 00:45:18__
 
-> It's such a rediculou app, why ask to check out everytime? We already check in with time stamp. And even if I had manually checked out, it still keeps prompting me to check out😡😡😡. And why not all venues are using the same gov approved QR code? Some places I cant use the app to check in coz it's NOT a NSW gov approved code n I can use a QR code scanner to scan, then it leads back to the organisations own website. There needs to be standardised QR code. Stop asking for check in experience!<br> :date: __2021-03-11 08:06:10__
+> How much money did the tax payer waste on this poor functioning app?.Tried for over 2 hours to obtain the dine/discover vouchers for my elderly mother.It wouldn't accept Medicare number 6 times.It rejected it every time even though it was correct! it reverted back to make me log in again,every time!.On the last occasion prior to giving up,the screen said,please wait! I gave up after waiting half an hour!.The poor businesses that were forced to lockdown can't receive our vouchers now #👎gov!!.<br> :date: __2021-03-19 13:00:05__
 
-> Never works when you actually need it to. Make it mandatory to sign in everywhere we go but with an app that never works. Tell us we can use a digital licence and we aren't able to bring it up when we need it the most!<br> :date: __2021-03-11 07:28:57__
+> Absolute rubbish, will not accept email address to create a account! typical garbage fed to the gullible public from a very greedy government. Don't waste your time, believe me it doesn't work, huge thumbs down 👇<br> :date: __2021-03-19 08:46:41__
 
-> Hopeless app<br> :date: __2021-03-11 06:55:38__
+> EVERY TIME. The app asks me to log in, even after clicking remember info. Now it logged me out completely & apparently my email address is invalid, so I can't send a change password email or even create a new log in. So that helps.<br> :date: __2021-03-19 07:21:27__
 
 

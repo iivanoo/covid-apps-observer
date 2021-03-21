@@ -140,6 +140,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Funcionamiento perfecto. Alta de usuario sin problema con el certificado digital de la FNMT.<br> :date: __2021-03-16 19:46:28__
+
 > Práctico y veraz<br> :date: __2021-03-12 18:50:55__
 
 > Buena<br> :date: __2021-03-08 18:36:51__
@@ -158,8 +160,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 
 > Extraordinaria. Muy intuitiva y completa.<br> :date: __2020-06-17 13:30:37__
 
-> Una aplicación prometedora. A ver cómo evoluciona. Revisión. La nueva versión incluye mejoras muy interesantes. El siguiente paso debería sustituir la obsoleta Salud Responde.<br> :date: __2020-06-14 13:49:06__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 4 reviews"/>
 </p>
+
+> Muy buena App<br> :date: __2021-03-19 11:19:43__
 
 > No consigo enterarme<br> :date: __2020-11-27 13:53:31__
 
@@ -206,6 +208,16 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> Mal<br> :date: __2021-03-20 21:53:17__
+
+> Inútil total, sólo se puede acceder a través de la cl@ve digital y esta debe de ser registrada presencial. Yo con 80 años y varias operaciones no me puedo desplazar. Debido a la pandemia nadie te atiende. Para que tanta seguridad solo para pedir cita médica. ABSURDO<br> :date: __2021-03-15 09:42:41__
+
+> Le doy una estrella porque no se puede poner menos. Me hace cambiar mi contraseña CL@VE y después no me deja acceder porque da error. Sale el mensaje de que mi clave no es correcta. Es pésima.<br> :date: __2021-03-14 22:45:45__
+
+> No sirve para nada<br> :date: __2021-03-14 21:37:56__
+
+> Muy mala<br> :date: __2021-03-14 18:34:26__
+
 > No se descarga certificado covid de vacunacion así que no puedo obtener mi certificado. Pero además de ser sanitario con mis dosis las cuales me pusieron muy enfermos ya que la segunda me provocó u a bronquitis aguda grave, 1 mes de bajay cual es mi sorpresa al hacerme u a serlogia no tengo anticuerpo ni rastro de virus. Que medicamento.me.inyectaro? Que consecuencias para mi salud xorre... nadie me explica nada<br> :date: __2021-03-12 23:08:33__
 
 > Ahora da la opción de poner los datos personales, pero no sale la opción de iniciar sesión, dos semanas con la aplicación instalada para nada<br> :date: __2021-03-12 18:36:59__
@@ -215,15 +227,5 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > No se puede entrar, ni con certificado, ni con los datos, no hay forma.<br> :date: __2021-03-12 12:58:11__
 
 > Malisima<br> :date: __2021-03-12 12:08:21__
-
-> La APP descargada No reconoce el certificado digital aunque este en memoria, y no da datos,<br> :date: __2021-03-09 21:46:09__
-
-> El acceso con clave no funciona!!!! Haced el favor de arreglarlo<br> :date: __2021-03-09 21:08:37__
-
-> Al intentar autenticar el usuario con el clave permanente y no permite acceder. El Userid y password está verificado que son correctos. Los apellidos con Ñ pueden ser el problema al intercambiar información con la pasarela de autentificación.<br> :date: __2021-03-06 11:44:07__
-
-> No puedes acceder a nada todo da error<br> :date: __2021-03-05 15:35:14__
-
-> No conecta la autenticación con clave pin con la app de clave pin, con lo que no sirve para nada.<br> :date: __2021-03-04 12:53:13__
 
 

@@ -186,6 +186,8 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <img src="5_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 5 reviews"/>
 </p>
 
+> Very easy to use and understand<br> :date: __2021-03-16 18:54:07__
+
 > Very easy to do enjoyed it<br> :date: __2021-03-12 20:50:49__
 
 > So happy that I no longer have to trigger my anxiety by leaving the house to get treatment for my anxiety.<br> :date: __2021-03-11 17:07:56__
@@ -204,8 +206,6 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 
 > Very Good Customer Service<br> :date: __2020-12-31 01:30:18__
 
-> The app is very easy to use and the doctors visit beats going in and waiting in a room where you have the potential to expose yourself to ill patients coming in<br> :date: __2020-12-27 23:15:35__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,8 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 4 reviews"/>
 </p>
+
+> Faster way to knowing what your next step is towards your health.<br> :date: __2021-03-16 21:11:44__
 
 > Easy to use and friendly physicians, but you can't use non-IU health plans, so I have to pay $60 per visit.<br> :date: __2020-11-01 20:28:13__
 
@@ -231,8 +233,6 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 > All was fine , but volume was very low!<br> :date: __2020-06-15 18:02:09__
 
 > Great for normal visit.<br> :date: __2020-05-27 19:53:04__
-
-> Its been 60 / 40 on successful completed visits. Todsy great. This us a tremendos tool for our generation in this ever changing times.....<br> :date: __2020-05-26 22:06:52__
 
 
 

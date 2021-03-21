@@ -129,6 +129,10 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> You need a verification code but how does one get one!<br> :date: __2021-03-17 16:37:58__
+
+> Happy to help app is great<br> :date: __2021-03-15 23:02:28__
+
 > So far so good everybody should have this<br> :date: __2021-03-08 21:52:20__
 
 > If this app helps slow or terminate the spread of covid 19 or any of its variations I'm all for it!<br> :date: __2021-02-08 07:27:53__
@@ -144,10 +148,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > The app is ok good if used properly & commonly and frequently<br> :date: __2020-12-24 09:59:58__
 
 > Thanks MD Dept of Health! I'll take all the layers I can get.<br> :date: __2020-12-21 19:21:28__
-
-> Good idea. I wish more would enroll<br> :date: __2020-12-16 04:42:57__
-
-> I am very glad to have this app available. Thank you very much 😊<br> :date: __2020-12-13 20:14:18__
 
 
 

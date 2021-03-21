@@ -164,6 +164,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Covid 19 loan<br> :date: __2021-03-19 17:57:06__
+
+> Good platform for learning<br> :date: __2021-03-15 18:21:49__
+
 > Better Application health safety<br> :date: __2021-03-13 19:19:47__
 
 > Yydud<br> :date: __2021-03-11 11:20:39__
@@ -180,10 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > Very useful<br> :date: __2021-01-18 06:49:28__
 
-> Good<br> :date: __2021-01-07 09:35:04__
-
-> Iloveit<br> :date: __2021-01-03 07:20:51__
-
 
 
 #### 4-star reviews
@@ -191,6 +191,10 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Helpful<br> :date: __2021-03-17 21:04:11__
+
+> Excellent<br> :date: __2021-03-15 02:41:11__
 
 > Get the things that wark in all honesty s Yes it does<br> :date: __2021-01-11 02:38:09__
 
@@ -207,10 +211,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Good source of information<br> :date: __2020-06-20 09:36:05__
 
 > Excellent Direction~<br> :date: __2020-06-19 14:08:55__
-
-> Mast<br> :date: __2020-06-13 09:10:54__
-
-> Good app of thh halt.<br> :date: __2020-05-31 05:25:43__
 
 
 

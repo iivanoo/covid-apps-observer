@@ -166,6 +166,8 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="org.who.infoapp 4 reviews"/>
 </p>
 
+> It's always good in human resources manager<br> :date: __2021-03-18 00:21:01__
+
 > Not sure yet<br> :date: __2020-09-27 08:50:53__
 
 > Excellent engineering tools. Your whatsapp number please.<br> :date: __2020-08-05 11:01:52__
@@ -183,8 +185,6 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 > I really want to appreciate Dr. Aliu Sam for using his natural roots and herbs medicine to cure me of Syphilis Since 11 months now I have been living with this disease and it has been giving me challenges, I was so perplexed cause I have been taking several drugs to be cured but all have been in vain. One morning I was browsing through the Internet then i saw several testimonies about Dr. Aliu Sam curing people off verious diseases and immediately I contacted Dr. Aliu Sam I told himabout my trou<br> :date: __2020-05-08 05:33:57__
 
 > It did not detect<br> :date: __2020-04-29 18:37:26__
-
-> Could do with more accurate information to keep people alive. But no harm done.<br> :date: __2020-04-29 13:41:12__
 
 
 
@@ -236,6 +236,8 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> Herd immunity is real. Stop changing facts<br> :date: __2021-03-14 16:25:09__
+
 > I do not like the new update.<br> :date: __2021-01-19 23:39:15__
 
 > Says I can't connect even tho I have WiFi and data on<br> :date: __2021-01-04 02:35:04__
@@ -253,7 +255,5 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 > Does not work<br> :date: __2020-10-09 00:12:33__
 
 > This is your official application? and sometimes it doesn't work<br> :date: __2020-10-07 18:26:16__
-
-> I am not able to download it fully its no use to me as i am a type1 Diabetic and Asthmatic i am also in 3rd degree Kidney Failure.<br> :date: __2020-09-29 02:20:05__
 
 

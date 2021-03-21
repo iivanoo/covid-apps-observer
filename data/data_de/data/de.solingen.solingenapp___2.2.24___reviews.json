@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEOf-AfEVXL_ns8d1UZBs7bg2CGX8GObqECXtewRWm3VXZrhBjGsVHr_ENhWZS4KU9TyBQ1DyyR78rGcNw",
+        "userName": "Ralf W",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5LmSftMxzNpdokYO9fjb5ssQKumu86AaaCsP-ztI",
+        "content": "Bin begeistert, danke Tim K. Funktioniert wie beschrieben. Ausbauf\u00e4hige Grundlage. Habe direkt die defekte Ampelanlage auf unserer Stra\u00dfe gemeldet. Ich bleibe dabei, wenn ihr auch bei der Weiterentwicklung dran bleibt.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-03-20 10:35:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFXUwv0kMPlE8gYKmAJLHdbAlJhM0NymzxCpM3WEyQJXIe6QFYaEWdDT-VMpxtnB2eaulVcplRqfxbstog",
+        "userName": "Kosmetik Ilona Turk",
+        "userImage": "https://play-lh.googleusercontent.com/-CrhtitlPwtQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIAzQEl65UuQ5A99YZuydvK_Sbcw/photo.jpg",
+        "content": "Der letzte Mist. Bricht entweder direkt zusammen oder Verbindung zum Server schl\u00e4gt fehl. Deinstalliert.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-16 08:36:17",
+        "replyContent": "Hallo Ilona Turk, es tut uns leid, dass die App auf Ihrem Ger\u00e4t nicht funktioniert. Wir m\u00f6chten Ihnen gerne helfen. Bitte schicken Sie uns dazu eine Mail an appdev@solingen.de, damit wir den Fehler finden und beheben k\u00f6nnen, damit Sie die App wieder einwandfrei nutzen k\u00f6nnen. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-03-19 14:27:43"
+    },
+    {
         "reviewId": "gp:AOqpTOFBMzPtw_r3Lq1sIXNQUJW0peOCuWBEMAJ6F_Mjq_ncUN7PpnWOeqja1ltW3h2oq6bn7DB_QItUfX564B0",
         "userName": "S. K.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giiihlby1pDUFWAvSu7rtU1-4Cb96sMktRpJH_SuA",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-03-13 08:43:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Cat S41, um dem Fehler auf den Grund zu gehen, haben wir noch ein paar Fragen zu den Abst\u00fcrzen und wann diese auftreten. Wir freuen uns, wenn Sie \u00fcber appdev@solingen.de Kontakt zu uns aufnehmen, damit wir den Fehler beheben k\u00f6nnen. Viele Gr\u00fc\u00dfe Ihr Team Solingen",
+        "repliedAt": "2021-03-19 14:24:48"
     },
     {
         "reviewId": "gp:AOqpTOHTAlXroF1yjOyY7dPC5EU0aQHzHQwEkq6KgF-sldl4_aPEW83N5WnHjnrj3d9BVws2NyM7KNUD4D3Wua4",
@@ -20,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.19",
         "at": "2021-03-11 08:45:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Hasan Tv, wir freuen uns, dass Ihnen die App gef\u00e4llt. K\u00f6nnen Sie uns an appdev@solingen.de eine Mail mit einer Beschreibung schicken, wann der Fehler im M\u00e4ngelmelder auftritt? Wir setzen uns dann mit Ihnen in Verbindung, um den Fehler zu beheben. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-03-19 14:21:37"
     },
     {
         "reviewId": "gp:AOqpTOFkuwjbSV33uinrVt6fehVdUwIvJJ2u9Ih36olAD6SVhe2l7VclhpIxmD8Q2CNzyfx1F6zNnG7yCR1Oy0Y",
@@ -41,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6e7ki1CJq1L8WrT7Z23Mv3wJK5hXH8Hql9LjZcQ",
         "content": "Derzeit st\u00fcrzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann st\u00fcrzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank \ud83d\udc4d.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-17 15:10:54",
         "replyContent": "Hallo THE TO, vielen Dank f\u00fcr die Aktualisierung der Bewertung! Viele Gr\u00fc\u00dfe Ihr Team Solingen App",

@@ -148,6 +148,12 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 5 reviews"/>
 </p>
 
+> ALLE MÅ HA DENNE!!!<br> :date: __2021-03-19 11:18:04__
+
+> Fungerer helt fint.<br> :date: __2021-03-16 11:25:38__
+
+> Nødvendig i disse dager<br> :date: __2021-03-15 16:51:26__
+
 > Fungerer problemfritt, tapper ikke mye strøm fra telefonen. Kjekt å ha:-)<br> :date: __2021-03-14 08:02:45__
 
 > Virker være grei.<br> :date: __2021-03-03 10:01:52__
@@ -162,12 +168,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > Noe vi alle skulle hatt lastet ned spør du meg......<br> :date: __2021-02-17 13:24:45__
 
-> Grei app fungere fint!<br> :date: __2021-02-13 20:51:19__
-
-> Merker ikke mer batteribruk. Bra app som vi alle bør installere.<br> :date: __2021-02-05 10:32:46__
-
-> En god trygghet. Har den i lomma hele tiden. Jobber i butikk og treffer mange i løpet av dagen. Funker veldig bra på min Samsung s 7. Ikke maser den, og ikke drar den mye strøm<br> :date: __2021-02-04 23:12:41__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,8 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 4 reviews"/>
 </p>
+
+> Men irriterende plinging, Bluetooth hvorfor? Hver gang jeg går til kjøkkenet eller ned 1 etasje til toalettet. Løsning: slå av pushvarsel. (Takk til S. Andersens anmeldelse nede) Men hvorfor ikke bruke denne appen til å gi info gjennom en link til FHI o.l.<br> :date: __2021-03-17 09:28:51__
 
 > Fungerer greit så lenge man skrur av pushvarsel. Gå til innstillinger på mobilen og velg "Varsler". Finn Smittestopp-appen og skru av "Local notifications". Da plager den ikke deg med stadige pushvarsler, men du vil fortsatt få beskjed om du har vært i nærheten av noen som er smittet. "Local notifications" burde i utgangspunktet ikke vært påslått siden mange velger å slette appen i irritasjon. Det kan da neppe være hensikten?<br> :date: __2021-02-24 23:31:28__
 
@@ -194,8 +196,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > Trenger en oppdatering for Android 11, spammer voldsomt mye notifications om at den sjekker... Holder å gi beskjed om viktige varsler!<br> :date: __2021-01-24 14:07:17__
 
-> Virker som de har knekt koden. Alle forholdsregler tatt. Men redd det er så mange forholdsregler og begrensninger at det begrenser smittesporinga. Men alle bør ha denne da kan løse problemet og restriksjoner. For korte frister og for rask utvikling gjorde at det var umulig for norske utviklere å levere eller konkurrere, bare mulig å lage en norsk kopi av den danske appen. Den første appen var kanskje bedre egentlig, men problemene fra den første er løst.<br> :date: __2021-01-23 08:15:08__
-
 
 
 #### 3-star reviews
@@ -207,8 +207,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Appen nekter å la seg skru av, selv om jeg tvinger den til å stoppe med "tving stopp". Den maser om at jeg må skru på GPS og Bluetooth hvert 5. minutt og trekker masse strøm. Greit nok at jeg har den på når jeg er ute, men når jeg er hjemme trenger jeg ikke at den trekker strøm. Derfor avinstalleres den.<br> :date: __2021-03-11 18:10:47__
 
 > Har satt pris på appen helt til i dag, nå sjekker den hvert 2. minutt om jeg har vært i nærheten av smittede! 🤷🏼‍♀️<br> :date: __2021-02-17 21:51:10__
-
-> Men irriterende plinging, Bluetooth hvorfor? Hver gang jeg går til kjøkkenet eller ned 1 etasje til toalettet. Dvs du slår av Bluetooth, og glemmer å slå på når du går ut.<br> :date: __2021-02-17 11:26:10__
 
 > Appen er enkel og funker bra, men den har en veldig irriterende push-varsling på Android som jeg ikke får skrudd. Push kommer hver gang "smittestopp undersøker om du har vært i nærheten av smittede personer". Dette er selvsagt irrelevant for meg; men gi meg gjerne push om jeg faktisk har vært i nærheten av noen som har markert seg som smittet!<br> :date: __2021-02-13 18:08:44__
 
@@ -224,6 +222,8 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > Ok<br> :date: __2021-02-03 16:32:31__
 
+> Henter informasjon og gir varsler x antall ganger om dagen/natten, plagsomt<br> :date: __2021-02-02 04:46:29__
+
 
 
 #### 2-star reviews
@@ -231,6 +231,8 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 2 reviews"/>
 </p>
+
+> Prøver den ut,så får jeg se.<br> :date: __2021-03-17 04:48:58__
 
 > Siste oppdatering gjorde at jeg fikk push-varsler hele tiden, dag som natt(flere ganger i min). Da disse ikke går ann å velge bort og tærer på batterier så slettes appen 😔. Synd egentlig.<br> :date: __2021-02-24 08:11:59__
 
@@ -250,8 +252,6 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 
 > Sjekker utrolig ofte når det er få personer/mobiler i nærheten samtidig som den suger strøm.<br> :date: __2021-02-12 16:15:45__
 
-> Har kommet en oppdatering nå som gjør at det kommer opp notifications hele tiden. Sykt irriterende. To ganger mens jeg skrev de linjene over.<br> :date: __2021-02-10 19:45:41__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,10 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
+
+> Den maser hele tiden,når jeg skrur av blåtann og posisjon,når jeg er hjemme. Trenger ikke varsler når jeg sitter i stua kvelder å helg.<br> :date: __2021-03-19 19:18:42__
+
+> Denne appen fungerer ikke.<br> :date: __2021-03-17 06:12:39__
 
 > Ikke bra app. Kan forbedres.<br> :date: __2021-03-13 18:14:46__
 
@@ -275,9 +279,5 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Nå er jeg rimelig lei denne appen. Sender pushmeldinger hvert bidige minutt 24 timer i døgnet. Kommer det ingen oppdatering på dette snarest, så slettes hele appen.<br> :date: __2021-02-23 13:30:40__
 
 > Pushvarsler hele tiden. Fryktelig irriterende. Avinstallerer inntill dette blir fikset.<br> :date: __2021-02-22 16:09:04__
-
-> Valgte å avinstallere appen, siden den er altfor inngripende med notifikasjoner som lyser opp skjermen og vibrerer telefonen flere ganger i timen. Appen er en god plan, men dessverre ennå dårlig gjennomført.<br> :date: __2021-02-21 15:05:43__
-
-> alt for mye spam på notice melding, viktig men gav opp og slett det pga ligg i vei hos spill<br> :date: __2021-02-21 12:24:24__
 
 

@@ -140,6 +140,10 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> Cool thanks.<br> :date: __2021-03-21 09:07:26__
+
+> It's a great way to let everyone know more about the situation of the Covid 19 and what to do when your contract with the Covid 19 virus..<br> :date: __2021-03-16 10:37:20__
+
 > Elpata<br> :date: __2021-03-06 05:23:14__
 
 > Good<br> :date: __2021-03-05 19:33:27__
@@ -155,10 +159,6 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 > I have used the app for about one week now. And there has been no contact warning. Was just wondering if it is still working. I just checked the number of installs and it's more than 10 thousand. That means that less than one of us gets positive each day. Its unlikely that we have had any contact in say the last week. No news is good news.<br> :date: __2021-02-16 02:58:13__
 
 > At 10k downloads, roughly 0.71% of Hawaii's 1,416,000 population are using this app (unless my math is wrong). It's a great app, but more people need to know about it to be truly useful.<br> :date: __2021-02-05 09:51:33__
-
-> Very thankful Hawaii has an app like this. It's straightforward and non-intrusive.<br> :date: __2021-02-02 12:32:58__
-
-> It,s okay<br> :date: __2021-01-31 07:54:55__
 
 
 
@@ -211,8 +211,6 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 > This app shares the weakness of all of these apps in that it doesn't warn me of shorter exposures rather only if I've been exposed for 15 minutes. Plus it doesn't tell me where the hotspot areas are so I have no way of knowing where or when I should avoid certain places. A minor but annoying point was that this app interfered with the playing of Bluetooth in my car.<br> :date: __2021-02-07 20:32:00__
 
 > Got aloha safe app cause i live on maui, Hi and am worried about covid numbers rising dramaticly daily so i only activate it when im out grocery shopping or going to the doctors office or anywhere in public then i deactivate it cause it drains battery life and does weird things to my phones touch screen and interferes with other apps on my phone when its on<br> :date: __2021-02-04 18:06:22__
-
-> Good idea ... But not yet ready for prime time, methinks. After I installed it, I could no longer use my Qardio Blood Pressure machine, which also communicates via Bluetooth. So I uninstalled this Nov. 30, 2020, and the Qardio app could connect again. Possibly a coincidence. I'll try this app again in a few weeks, after they've had a chance to iron out the wrinkles. Like I said ... a good idea ... assuming that the app attracts enough users to be useful. It'll need a lot.<br> :date: __2020-12-06 08:23:53__
 
 
 

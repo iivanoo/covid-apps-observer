@@ -189,6 +189,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Großartiges Konzept, großartig umgesetzt! Toll!<br> :date: __2021-03-15 15:09:00__
+
 > Very good😊<br> :date: __2021-03-10 13:09:47__
 
 > very exellent<br> :date: __2021-03-02 10:12:56__
@@ -206,8 +208,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > The best<br> :date: __2021-02-03 14:04:47__
 
 > Most helpful<br> :date: __2021-02-02 16:34:37__
-
-> I love this app. It is so convenient. And so far the doctors are very nice and competent. I will use that every time I can now.<br> :date: __2021-01-30 12:21:02__
 
 
 
@@ -285,6 +285,12 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="1_star_reviews_wordcloud.png" alt="se.kry.android 1 reviews"/>
 </p>
 
+> Välfärden dukar under och det är detta vi lägger pengarna på istället för fler sköterskor på äldreboendena. Vi som betalar skatt förtjänar inte att få våra ihoparbetade pengar bortslösade på det här sättet. Går rakt ner i ägarnas fickor. Såna här företag borde inte vara skattefinansierade.<br> :date: __2021-03-20 19:07:07__
+
+> Vilket skräp, 400kr faktura för nån indier ska hålla med dig o skriva ut ett värdelöst recept.<br> :date: __2021-03-19 19:30:57__
+
+> Helt meningslöst, ett simpelt läkarintyg behövdes men hänvisades till vårdcentralen. Bortkastade pengar. Jaja. Avinstallerat nu.<br> :date: __2021-03-15 23:56:53__
+
 > Hell no. Don't use this app.<br> :date: __2021-02-22 18:40:28__
 
 > Saw an add for a self test. Downloaded the app and then there were no self test. Badly structured campaign.<br> :date: __2021-02-16 13:33:04__
@@ -298,11 +304,5 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Useless. I have a positive test from a lab that needs antibiotics. The doctor only referred me to another useless instance "vård central" where they never answer the phone and you can't book a time online if you are no longer living in Sweden. Swedish health care is a joke.<br> :date: __2021-01-07 19:37:47__
 
 > They always say they can't help you and you need to see a doctor at vårdcentral. Why the hell don't they tell the patient before, they have the info they need prior to the consultation. Who needs a doctor to tell you to see another doctor and charge for that? Today I booked for weight loss (a service they offer) and within 30 sec of seing my face dr said he didn't think I looked fat (I'm obese) and refused to refer me because he didnt believe my weight. He didnt even bother looking at my files<br> :date: __2020-12-11 18:12:14__
-
-> I don't recommend it.<br> :date: __2020-12-10 09:25:41__
-
-> After all data (health insurance data multiple times!) have been entered, the process always ends with "no appointment available". No indication of next appointments, or how or when you could look again. And: Only private prescriptions are issued, health insurance patients are allowed to reach into their pockets. Worthless.<br> :date: __2020-11-27 14:24:02__
-
-> Wow, if I could give minus starts I actually would. This was a really bad experience. I met an unfriendly doctor who was totally not interested in me and my symptoms. I am not only still sick but also really sad after this experience. I have to pay 200 SEK for an unfriendly meeting with no help at all. If you can avoid kry, do it. This was simply pointless.<br> :date: __2020-11-09 15:48:20__
 
 

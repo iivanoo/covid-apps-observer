@@ -174,25 +174,25 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <img src="5_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 5 reviews"/>
 </p>
 
-> Great app very good information<br> :date: __2021-03-13 20:31:43__
+> good<br> :date: __2021-03-21 00:04:07__
 
-> Wonderful<br> :date: __2021-03-13 09:40:13__
+> I liked how I received my medical results .thank you!<br> :date: __2021-03-20 19:07:01__
 
-> Good<br> :date: __2021-03-13 01:14:34__
+> It was timely and all staff were professional, polite and helpful.<br> :date: __2021-03-20 15:14:54__
 
-> proud to see the guard helping with the vaccines God bless them every one.<br> :date: __2021-03-12 22:25:12__
+> Great app<br> :date: __2021-03-20 00:50:04__
 
-> it made things a lot easier<br> :date: __2021-03-12 15:37:21__
+> Thank you so, much. It was a relief to see this and the prompness very much appreciated.<br> :date: __2021-03-19 17:38:41__
 
-> Great app to have for you to keep up with your covid results<br> :date: __2021-03-12 09:54:45__
+> Great information. Such a relief to be able to find out all I need to know about this virus. Thank you so much for easing my mind. God bless. Great Site.<br> :date: __2021-03-19 06:05:15__
 
-> When I got my covid-19 test result, I was in the hospital. I'm not positive they ever got the report. Part of the excuses offered was that their computers weren't talking to each other. It was much more involved but I appreciate your app communication with me.<br> :date: __2021-03-12 00:17:32__
+> great App with a lot of info.<br> :date: __2021-03-19 01:00:33__
 
-> Quick and easy.<br> :date: __2021-03-12 00:17:28__
+> amazing app. Love the idea of having everything in one place. safe for me. safe for us.<br> :date: __2021-03-18 21:54:49__
 
-> Really quick and for me, such a relief. Thanks!<br> :date: __2021-03-11 18:53:51__
+> Very accurate results<br> :date: __2021-03-18 20:38:20__
 
-> Muy buena y segura.<br> :date: __2021-03-11 16:19:36__
+> WONDERFUL STAFF<br> :date: __2021-03-18 15:17:41__
 
 
 
@@ -201,6 +201,8 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 4 reviews"/>
 </p>
+
+> Ok<br> :date: __2021-03-19 23:54:06__
 
 > awesome<br> :date: __2021-03-11 00:00:35__
 
@@ -220,8 +222,6 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 
 > Won't download. Now downloaded and working fine. Thanks<br> :date: __2021-02-24 21:59:02__
 
-> very fast results!<br> :date: __2021-02-22 14:07:35__
-
 
 
 #### 3-star reviews
@@ -229,6 +229,8 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 3 reviews"/>
 </p>
+
+> W was m<br> :date: __2021-03-20 19:54:07__
 
 > I need my results and they won't give me the pin to unlock the results<br> :date: __2021-03-08 18:10:30__
 
@@ -248,8 +250,6 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 
 > So what do I do if my name is listed wrong and therefore cannot see my results<br> :date: __2021-02-02 21:03:21__
 
-> This app does a great job of collating test results in chronological order, appears to use proper security, and has a useful interface. Test results from NYS reported to FL are listed too. Currently, none of my results from before December 2020 are listed, nor are employed the personal proximity features that were built for Android specifically for the Covid-19 pandemic that kills more Americans per day than died on the terrorist attack on our country on 11 September 2001. Fix for five stars.<br> :date: __2021-02-02 17:11:31__
-
 
 
 #### 2-star reviews
@@ -257,6 +257,10 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 2 reviews"/>
 </p>
+
+> It wouldnt let me set a pin.<br> :date: __2021-03-20 23:12:48__
+
+> The app will say test results are in and when I enter my information, they tell me that the info is wrong and will not give me my results. Very frustrating.<br> :date: __2021-03-15 17:37:11__
 
 > Can't see the result<br> :date: __2021-03-13 18:46:01__
 
@@ -274,10 +278,6 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 
 > It been trying to download fr the last 30 minutes<br> :date: __2021-02-10 17:09:21__
 
-> Too complicated. Not easy accesible.<br> :date: __2021-02-10 15:19:06__
-
-> It's useless if it only downloads 67%NOW its just spinning and spinning and said not all features available in Florida....grrrrr<br> :date: __2021-02-06 16:29:03__
-
 
 
 #### 1-star reviews
@@ -286,24 +286,24 @@ The Healthy Together - COVID-19 app has been installed by more than **500000** t
 <img src="1_star_reviews_wordcloud.png" alt="co.twenty.stop.spread 1 reviews"/>
 </p>
 
+> Poor. Would not take pin. Could not get results<br> :date: __2021-03-20 21:03:17__
+
+> I'm not getting forced into this application and give up my personal info just to get my covid test results. Insert expletive here..........<br> :date: __2021-03-20 15:45:19__
+
+> THIS APP ASK FOR MY CREDIT CARD NUMBER AND I DID NOT GIVE IT. SO I DO NOT HAVE MY COVID TEST RESULTS...<br> :date: __2021-03-19 16:51:42__
+
+> The PIN they gave me doesn't work. I can't go any further to unlock the app with an incorrect PIN.<br> :date: __2021-03-18 16:09:44__
+
+> They keep sending a a notification to go to this to download this app to see my covid-19 tested and then when I try to understand this they charged me like $50 or something out of my account that I don't approve of and then approve of not taking me a hell of a time to get it back stop sending me notification and give me my money back I don't want this app it sucks<br> :date: __2021-03-18 01:10:20__
+
+> good<br> :date: __2021-03-17 21:05:04__
+
+> It's not right that I can't get an apt. So it's always an assistant. I'm upset that I can't enter to make a copy of test . I need to change the app but I hope to see the code they sent. Nothing was sent specially with this pandemic around the 🌎 Good bye<br> :date: __2021-03-17 11:05:48__
+
+> Makes no sense. App goes no where.<br> :date: __2021-03-16 22:21:55__
+
 > It's seems like the app is to keep track of people and the government knows where you are at!<br> :date: __2021-03-14 12:56:13__
 
 > I really hate that idk how to get my security use! How to fix this?<br> :date: __2021-03-14 00:09:31__
-
-> App won't open<br> :date: __2021-03-13 19:10:49__
-
-> Couldn't get password<br> :date: __2021-03-13 17:58:07__
-
-> ASKING US TO SIGN OFF ON VIOLATION OF OUR RIGHTS IN YOUR TERMS OF SERVICE IS A NICE TOUCH! DO NOT DOWNLOAD THIS IF YOU VALUE YOUR FREEDOM!!!<br> :date: __2021-03-13 14:52:55__
-
-> no matter what I do, I cannot get my results. I got a message saying result was ready, I followed the instructions over and over, but constantly says "something went wrong". I did the troubleshoots, cleared caches, wrote u a reply text, and get No help at all. It's a Covid result, not some super private AIDS test. How can I get my results?????<br> :date: __2021-03-13 14:09:22__
-
-> App sucks meatballs<br> :date: __2021-03-11 22:13:20__
-
-> Does not load can not get pin<br> :date: __2021-03-11 21:13:24__
-
-> Unauthorized download. This just started downloading after an update on its own. Crazy, I never wanted to have the app.<br> :date: __2021-03-11 17:11:21__
-
-> Been attempting to download the app for three hours. I scanned the code square which brought me to the browser. From the browser it brought me to the app store to install from online. Then after logging into my Google account to give permission, it said that it would notify me when completed. It's been 3 hours. I then just tried this time from Google Play Store and it's still swirling for ten minutes. This is the "easiest" way to get my results?<br> :date: __2021-03-10 17:58:59__
 
 

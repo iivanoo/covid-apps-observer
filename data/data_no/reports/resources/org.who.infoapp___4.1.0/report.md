@@ -167,7 +167,9 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Gratulerer til Bill Gates<br> :date: __2021-03-17 09:55:50__
+
+

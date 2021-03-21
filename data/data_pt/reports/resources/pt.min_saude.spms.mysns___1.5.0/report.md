@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Bom.<br> :date: __2021-03-15 19:40:57__
+
 > Fundamental. Mas o utente poderia carregar mais dados, eg, os das vacinações antigas.<br> :date: __2021-03-14 16:57:25__
 
 > Top<br> :date: __2021-02-22 22:33:34__
@@ -189,8 +191,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Impecavel<br> :date: __2020-11-24 18:59:55__
 
-> Nunca pensei que há tantos ignorantes no meu País. É aterrador, pior que o coronavírus.<br> :date: __2020-11-18 08:13:42__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> Nenhuma<br> :date: __2021-03-18 11:03:27__
 
 > Boa<br> :date: __2021-02-04 12:01:31__
 
@@ -216,8 +218,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Bom<br> :date: __2020-10-31 20:49:08__
 
 > Fiz a instalação, acedi através da chave móvel digital e funcionou à primeira.<br> :date: __2020-08-05 21:42:20__
-
-> Agora que já consegui entrar com a ChaveMovelDigital (que não tinha activa) já funciona!!!!<br> :date: __2020-07-16 12:20:38__
 
 
 
@@ -283,6 +283,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Leva uma estrela porque nao da para levar zero. Uma pena que a app nao funciona de maneira nenhuma. Algo que poderia ser bastante util simplesmente nao serve para nada.<br> :date: __2021-03-18 11:36:05__
+
+> Por enquanto, uma app de notícias e pouco mais.<br> :date: __2021-03-17 14:27:24__
+
+> Zero! Não vale a pena instalar....<br> :date: __2021-03-15 09:45:56__
+
 > Simplesmente não funciona<br> :date: __2021-03-12 10:30:59__
 
 > Horrível<br> :date: __2021-03-11 13:39:39__
@@ -296,11 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Naõ faz atualizaçaõ.<br> :date: __2021-02-25 11:00:27__
 
 > Não funciona em telemóveis com Android 10<br> :date: __2021-02-15 21:53:37__
-
-> Para quando uma actualização de software pra poder funcionar nas versões mais recentes de Android?! Só estamos à frente naquilo que não interessa...<br> :date: __2021-02-15 20:59:51__
-
-> Nem abre... Muito mau<br> :date: __2021-02-15 17:11:06__
-
-> No meu telemóvel antigo funcionava na perfeição agora neste novo nem abre a aplicação .<br> :date: __2021-02-15 10:53:41__
 
 

@@ -142,6 +142,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> I don't know exactly how useful this app has been during the pandemic--never needed it for myself, since I have not contracted the virus. I, thankfully, haven't received any exposure alerts either. But, I see these specific things as good things. Being able to look at a little local health data was nice. Glad the app existed!<br> :date: __2021-03-21 10:18:10__
+
 > I answer one question and then I get notified again the same time the next day. Very simple and easy to use and I can also read other Covid-19 info.<br> :date: __2021-03-12 03:06:19__
 
 > How to report if someone is exposers<br> :date: __2021-03-11 21:23:02__
@@ -160,8 +162,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > I really like this App, Thanks alot.<br> :date: __2021-03-02 19:41:00__
 
-> Great app in helping one to keep track of self related symptoms, contact tracing, and covid information on a up to date status locally, state wide, & nationally.<br> :date: __2021-03-02 18:09:00__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> Trying to get the Vaccine.<br> :date: __2021-03-16 05:29:45__
 
 > Not real sure it actually works. I've been out shopping for Necessities and it's never went off yet & info stats are available before noon news.<br> :date: __2021-02-05 22:53:56__
 
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > I don't want to be tracked! Just wanted updated information on covid19 well thanks for reply✌<br> :date: __2020-12-20 08:45:29__
 
 > It was good for that period of time. Another period, well,...i would guess that that will be a matter of time.<br> :date: __2020-12-19 03:06:44__
-
-> I do like the app as far as letting you know if you came close to anyone with covid but it can be better by marking areas specific so me and my family can avoid the areas!!<br> :date: __2020-12-14 23:38:53__
 
 
 
@@ -226,6 +226,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> I received a contact tracing covid alert on 3.11.2021. It did not tell me when this happened so i had no idea what to do. Got tested, Negative, but no clear time line to quarantine since no date of exposure was given<br> :date: __2021-03-16 13:14:29__
+
 > Forces you to page back through EVERY month of EVERY year to get to your date of birth, rather than either just typing it or selecting the year from a list. I just don't have enough time to page back that far.<br> :date: __2021-03-09 15:51:30__
 
 > Had to go back 73yrs just to get to your site with a arrow one by one.<br> :date: __2021-03-04 18:57:57__
@@ -244,8 +246,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > There was no way to quickly self-report a positive test, so the contact tracing is useless.<br> :date: __2021-01-19 03:55:09__
 
-> Since the last update they took off the daily death count. They only tell you the total death count up to the current date. Because of this the app doesn't exactly tell you the whole situation currently. In begining I actually liked the way app, but since of the many changes that isn't the case anymore. I feel as if they are trying to hide the real truth to the situation & that isn't a good thing at all.<br> :date: __2020-12-23 20:53:01__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,14 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
+
+> What has this app done for us?<br> :date: __2021-03-19 13:00:42__
+
+> Started out okay, then went into continuous loading, depleting battery. Removed<br> :date: __2021-03-18 20:10:32__
+
+> Fake disease. The US government is evil, especially the "governor." He sucks.<br> :date: __2021-03-17 04:17:42__
+
+> Straight doesn't work. Not sure why, might be because my phone is rooted, but when I click Continue on the "Your data" page, it simply says "Sorry, that didn't work properly, error 104" and I can go no further.<br> :date: __2021-03-16 02:13:08__
 
 > I don't get why they need location they say they don't use it then why does it need it and it's inaccurate by far don't recommend<br> :date: __2021-03-10 19:55:56__
 
@@ -264,14 +272,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > I'm not from Pennsylvania but this keeps on getting recommended to me.<br> :date: __2021-03-06 19:07:24__
 
-> You're very stupid if you believe the government's bs.<br> :date: __2021-03-05 16:23:06__
-
 > Junk. Don't waste your time.. also this is the second time I reviewed it my last review also a one star was deleted how ironic.<br> :date: __2021-02-28 21:30:37__
-
-> Useless to the consumer, IMO. The information is sketchy, at best; and, where it truly matters, there is no real information.<br> :date: __2021-02-28 20:38:03__
-
-> Was OK. Now it has Vaccine info and wants my birthday. In order to put it in the way you have it set up, I would have to go back on your calendar 67 years, one month at a time (about 800 taps to reach Nov 1953). Please fix this with drop downs vs calendar selection. Otherwise, it's useless.<br> :date: __2021-02-25 21:18:34__
-
-> Covid is fake virus. This one big hoax like 9/11<br> :date: __2021-02-24 20:37:57__
 
 

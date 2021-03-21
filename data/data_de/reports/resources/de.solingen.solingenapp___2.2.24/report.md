@@ -168,6 +168,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 5 reviews"/>
 </p>
 
+> Bin begeistert, danke Tim K. Funktioniert wie beschrieben. Ausbaufähige Grundlage. Habe direkt die defekte Ampelanlage auf unserer Straße gemeldet. Ich bleibe dabei, wenn ihr auch bei der Weiterentwicklung dran bleibt.<br> :date: __2021-03-20 10:35:26__
+
 > Derzeit stürzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann stürzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank 👍.<br> :date: __2021-02-17 15:10:54__
 
 > Eigentlich eine tolle APP. aktuell startet die. Anwendung leider nicht sondern wird direkt beendet. Ich kann nur einen Fehler an meinen smartphone Hersteller melden. Push Nachrichten kommen zwar an, aber auch hier kommt es beim anclicken zum Absturz. Edit. Nach Rückmeldung der Entwickler Problem beseitigt. Alles Bestens, vielen Dank.<br> :date: __2020-12-20 08:27:00__
@@ -264,6 +266,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
 
+> Der letzte Mist. Bricht entweder direkt zusammen oder Verbindung zum Server schlägt fehl. Deinstalliert.<br> :date: __2021-03-16 08:36:17__
+
 > Bisher lief die App gut, doch seit einigen Tagen lässt sie sich nicht mehr öffnen. Erst kommt Fehler 100. Dann wird doch die Verbindung zum Server hergestellt und dann stürzt sie ab.<br> :date: __2021-02-13 15:17:38__
 
 > Derzeit ist keine Info über die App möglich, da es scheinbar zu Fehlern in der Verbindung zum Server gibt.<br> :date: __2021-01-31 11:15:31__
@@ -281,7 +285,5 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Trotz angeblicher Fehlerbehebung startet die App noch immer nicht. Was ist daran so schwer, eine App zu programmieren, die funktioniert?<br> :date: __2020-12-15 19:16:19__
 
 > App funktionierte nur am 1. Tag.<br> :date: __2020-12-11 17:40:47__
-
-> keine Verbindung zum Server ... in einem von 10 Versuchen klappt es<br> :date: __2020-12-09 20:09:18__
 
 

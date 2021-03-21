@@ -189,6 +189,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> best doctors I have ever been with. staff are so caring and helpful<br> :date: __2021-03-19 18:39:14__
+
+> great app. essential if you want your GP to update some of your case without having to answer the annoying questions about how much you smoke and drink. tell the truth because they will check<br> :date: __2021-03-17 11:36:32__
+
 > Great site easy to use.<br> :date: __2021-03-09 12:44:24__
 
 > no hassle and easy<br> :date: __2021-03-07 23:40:46__
@@ -204,10 +208,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > brilliant app<br> :date: __2021-03-02 11:28:59__
 
 > Fantastic. Only issue I had was with reconnecting to new service but just needed to log out and back in rather than re-install. It's a great start of an app and I hope it gets regular updates and improvements.<br> :date: __2021-03-01 14:22:45__
-
-> does what it says on the tin as long as your GP is on the ball with updating at their end.<br> :date: __2021-02-24 11:35:02__
-
-> great app<br> :date: __2021-02-22 12:56:01__
 
 
 
@@ -245,6 +245,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> Good, but the app freezes quite a lot. The full DNA results actually caused more questions that couldn't be answered due to a lack of clarity in the original answers. The questions around daily health involve a community question and if you aren't community minded in their opinion your score hits the floor. People can be happy without being involved in community. I use it daily just to register my covid status. Would I be using it otherwise, probably not.<br> :date: __2021-03-21 11:53:58__
+
 > Wont let me get on to log in<br> :date: __2021-03-09 18:33:29__
 
 > fairly easy to use but the app is a bit unstable - slow at times and some screens don't load on 1st or 2nd attempt<br> :date: __2021-03-05 21:46:12__
@@ -262,8 +264,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Even after making a note of my password, it still told me it was wrong. The last few times I've logged in I've had to set up a new one. Not the best app in the world<br> :date: __2021-01-06 13:50:24__
 
 > good app but was simpler to use in earlier versions; a bit cumbersome UI, the most popular shortcuts (e.g. repeat prescription) are not immediately obvious.<br> :date: __2021-01-05 18:34:24__
-
-> every so often I have problems logging in but on the whole its good<br> :date: __2021-01-04 11:04:40__
 
 
 
@@ -301,6 +301,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> I am returning to the app after changing phone. It just is not working<br> :date: __2021-03-20 14:11:51__
+
 > Cannot get on the app, click forgotten password, get emailed code, enter code, and it asks security question, answer question and get message too many failed attempts, account temporarily suspended, come back a month later, and get same message on first security question answer, so just how long is your idea of temporary?<br> :date: __2021-03-13 20:15:59__
 
 > does not work correctly. the screen for ordering prescriptions never loads, so i cant order anything through the app. ive had this problem on my s8, s10 and now s20. i spoke to customer service via email and they didnt help at all and the issue is still not resolved. avoid<br> :date: __2021-03-06 23:14:16__
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Was good at first but now seems more concerned with getting you to fill in stupid health questions than keeping it simple to follow. Always takes me a while to find out where I order repeat prescriptions.<br> :date: __2021-01-07 18:59:10__
 
 > Support staff are wonderful, patient but latest app is not easy to navigate & when I finally manage to find where to order medications, I get repeated notifications about the message box having 'special characters' even when it's blank. Seriously, I've wasted hours on different days reloading the app, try typing a sentence or removing it. I've only a few days of meds left. I've tried again, done exactly the same & got error notification & leaving then coming back, it's accepted! Bizarre<br> :date: __2021-01-07 14:48:17__
-
-> Just got worse, all I want is to access the GP services, I don't want any of the other bloat! The latest update has turned documents from the doctors into a html link! Now I have no way of saving a PDF copy which was the feature I used the most. It hasn't fixed the size problem, trying to print to PDF gives 13 pages for a few page document, not even changing the paper size to A2 works! Definitely on my list to change services to an alternative access method.<br> :date: __2021-01-04 12:30:50__
 
 

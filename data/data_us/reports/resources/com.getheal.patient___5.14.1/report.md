@@ -213,6 +213,10 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 <img src="5_star_reviews_wordcloud.png" alt="com.getheal.patient 5 reviews"/>
 </p>
 
+> I really love this app. The drs are awesome. Really helped me with my medicine. Awesome!<br> :date: __2021-03-18 02:47:26__
+
+> This is my first time setting up the Heal App. I will in the future let you know if it works for us. Thank you<br> :date: __2021-03-14 17:57:41__
+
 > Great app. Nice clean UI. Does what it needs to do without getting in the way with too many bells and whistles.<br> :date: __2021-03-13 05:44:02__
 
 > We have used the HEAL app since 2019 when my daughter was in bed for 3 days and couldn't move due to a headache. Dr. Mitton came out within hours to see her and properly diagnosed her with migraines (which run in my family). The process was amazing. She couldn't have walked out of the house to the car to get to our Dr so it was a blessing to have the Dr come to us. We have used the app a few times and will continue to do so in the future!<br> :date: __2021-03-12 15:33:44__
@@ -228,10 +232,6 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 > The 2 ladies that came at 8:30 this morning 2/15/2021 were so nice and very efficient. Enjoyed their visit.<br> :date: __2021-02-15 23:56:29__
 
 > Incredible service. Professional doctors. I'm very grateful for this service, especially during the pandemic.<br> :date: __2021-01-28 17:37:14__
-
-> Great way to see a doctor, especially when you don't feel well.<br> :date: __2021-01-22 00:30:05__
-
-> It's great not having to leave the house to be seen by a primary care physican. Telehealth is also a good why to ask questions and discuss concerns about your health and get medication refills covered.<br> :date: __2020-12-31 21:17:42__
 
 
 

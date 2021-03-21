@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGGwRrN5PLQQKZa9HQBRwpC-LyMTjftbPnmZ3U4w3g-lWSQpmyqpSGgPSvaHCxUlcVdpghnfi7avqpPhQ",
+        "userName": "Wolfgang Vo\u00df",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgzdqF8_BWQenkGhhYQtuXuxgiZlIlYzinpA0iYqQ",
+        "content": "Irgendwie ist die app nicht durchdacht, auch wenn sie noch in der Entwicklung steckt. Es gibt schon so viele gute Apps, die anst\u00e4ndig ihre Arbeit verrichten. Nur bei uns klappt das leider nicht. Seit einigen Tagen schlie\u00dft sich die App automatisch, wenn man sie \u00f6ffnet (irgendwie auch lustig...). Naja, ist deinstalliert. Mal sehen, wann ich die wieder installiere.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-15 15:10:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH-ATqxHThBmZpfBYXh5WOOP-by9i6NovZ5CEqDzc1x-VZIUY4qyzbLHUBXT5Sap3uVjC-3Y3Twli8D2Q",
         "userName": "Sascha Merz",
         "userImage": "https://play-lh.googleusercontent.com/-6QBT43vnQd4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLYKdiPru9X-Ox2GXtXGSZ7wUeFg/photo.jpg",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Wqm_DWxeRFA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCixlvVT0FZn8XRZ72MU9B0zW3DA/photo.jpg",
         "content": "Gute Idee, aber ich m\u00f6chte die Funktion haben, dass ich nach Bereichen suchen kann und mir ein Ansprechpartner angezeigt wird. Des Weiteren w\u00e4re ein Darkmode super!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.2",
         "at": "2021-02-03 16:09:13",
         "replyContent": null,

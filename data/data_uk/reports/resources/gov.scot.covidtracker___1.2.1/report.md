@@ -139,6 +139,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> So simple - I'm surprised it took so long. Well done Scotland - the delay by the UK governments showed how shambooic and expensive their effort was. 500k downloads tho out of 6 million, can we make it mandatory??<br> :date: __2021-03-16 10:29:37__
+
 > Love you Scotland<br> :date: __2021-03-14 11:55:20__
 
 > If it helps everyone to be safe and stay safe quickly, then of course it's not a problem 👌<br> :date: __2021-03-12 21:44:05__
@@ -156,8 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Not used it for a long time,but it's brilliant so far<br> :date: __2021-02-28 10:54:25__
 
 > Fantastic app easy to use<br> :date: __2021-02-27 10:12:44__
-
-> Just had a message from track and trace so it works thanks<br> :date: __2021-02-26 09:40:37__
 
 
 
@@ -195,6 +195,10 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
 
+> Of questionable usability. Stay at home, and this app will still keep nagging you to switch on location - presumably the vision of the Covid hordes invading your dwelling makes spending battery power on satellite navigation worthwhile. Now, I remember The Omega Man from the first time around (1971 film), but did the designer of this really do so too? 🤔 I'd rather not be nagged at home to turn this on, thanks.<br> :date: __2021-03-19 19:13:23__
+
+> It says it is unable to check for exposures as Bluetooth is turned off, but it's on.<br> :date: __2021-03-16 03:27:16__
+
 > Seems ok<br> :date: __2021-03-09 20:15:55__
 
 > Oooft photo.yruk<br> :date: __2021-02-25 12:44:41__
@@ -210,10 +214,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > An ok app but my husband and I both tested positive on the same day. The following day, we each received a text to say we'd been in close contact with someone who had tested positive. Given we live in the same house ...<br> :date: __2021-01-20 18:16:11__
 
 > Nice if there was a log of when it was working and when instead of praying that a notification comes up if you've been exposed.<br> :date: __2021-01-13 18:32:20__
-
-> Update: appear to be getting daily exposure updates now. Will give the app another try. I have had zero response from the developer.<br> :date: __2021-01-09 00:16:58__
-
-> The app used to work fine until the 10 Dec update but then stopped checking for exposures automatically. It was difficult to report the issue --- it feels like mails / app reviews only got attention after people made fuss on social media. The app works OK now, after the 5 Jan update, but I wish there was an easier way to report bugs, and more transparency regarding existing ones.<br> :date: __2021-01-08 13:18:19__
 
 
 
@@ -251,24 +251,24 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Shite<br> :date: __2021-03-21 01:57:25__
+
+> What an incredible way of wasting billions of tax payer money.<br> :date: __2021-03-19 11:35:17__
+
+> Useless if you work in England but live in Scotland. Can't give access to both apps.<br> :date: __2021-03-18 23:23:59__
+
+> FRAUD, RAPE AND ROBBERY. SHAME ON ALL OF YOU.<br> :date: __2021-03-17 03:45:13__
+
+> Not sure if it works<br> :date: __2021-03-16 18:48:37__
+
+> Just stopped tracing i never new until looked on app deleting app now<br> :date: __2021-03-15 17:37:24__
+
+> I've been in close contact with 2 people with confirmed covid and the app failed to notify me. It doesn't work.<br> :date: __2021-03-14 19:14:36__
+
+> Has been pretty useless I think. It relies on people being honest enough to add a positive test.<br> :date: __2021-03-14 16:54:20__
+
 > Ok stop giving me this ad I don't go outside<br> :date: __2021-03-13 22:31:14__
 
 > I have this app on both my phone and my works phone. I've been in contact with 5 people who have had covid . 5 of them gave my details as being close contact . I have my works phone and personal phone on me at all times. Yet not once did I get anything from track trace alerting me of my contact with covid. I did isolate and contacted people I was with to be vigilante of any symptoms. I didn't have any but i still isolated to protect others. Which is clearly not what this app is doing at all.<br> :date: __2021-03-11 22:05:24__
-
-> Waste of tax payers money had this app downloaded from day 1 had to manually update the app a few months back. How long was I using an outdated app dont waste time downloading this lie of an app<br> :date: __2021-03-09 17:45:07__
-
-> Had covid but no code given to make others aware from track and trace. Makes app useless. All it is is an app to monitor what your doing and when.<br> :date: __2021-03-06 00:52:40__
-
-> Doesn't work with Huawei P40 mobile. Google play issue with Huawei. Therefore there needs to be another solution to download that does not involve Google Play.<br> :date: __2021-03-04 17:54:25__
-
-> Total lack of confidence in this. I spent a lunch break across the table from a friend who tested positive, and worked with another person. Test and trace failed to notify me. Ludicrous and ineffective. Utter waste of time and has caused me much worry.<br> :date: __2021-03-02 23:16:31__
-
-> I downloaded the app but then found you need to have Bluetooth enabled permanently. For those of you that don't know this is a security risk as you could be hacked. So back to just wearing a mask and being sensible.<br> :date: __2021-03-02 19:14:42__
-
-> Don't know if it works as never see any messages?<br> :date: __2021-03-02 09:46:46__
-
-> Haha. Why would you need to fake the rating. Is it because it's a fake virus...#Flu #Controlavirus<br> :date: __2021-02-27 20:48:08__
-
-> Twice notified by the app to isolate and twice it has been ridiculously late in doing so. First instance was 8 days late and most recently 5 days late. Pointless app that simply doesn't protect anyone.... deleted.<br> :date: __2021-02-23 06:49:05__
 
 

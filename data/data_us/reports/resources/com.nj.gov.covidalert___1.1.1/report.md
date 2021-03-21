@@ -146,6 +146,16 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> In the year of the begin stroke and stage of covid it hands down help to get information and clear image a covid 19 wear and tear Thank you for the strong verification Ps Sylvester J Ali<br> :date: __2021-03-21 08:20:22__
+
+> It has check in every day and also has alerts if you have been near a person with Covid 19.<br> :date: __2021-03-19 12:19:46__
+
+> It's the best app and with very accurate information.<br> :date: __2021-03-16 22:58:35__
+
+> Has done what it says. As long as other people have this on their phone you are safer. It always you if someone nearby has had covid-19, as long as they use the app.<br> :date: __2021-03-16 16:24:59__
+
+> This is so usefull<br> :date: __2021-03-16 02:56:12__
+
 > Good information about COVID-19.<br> :date: __2021-03-08 15:39:22__
 
 > I LOVE THIS APP! I Live In Essex County, NJ Which Is The 2nd Highest In The State. While Taking NJ Transit Yesterday, I Actually Received An Exposure Alert While On The Bus! I Immediately Got Off The Bus, And Waited For The Next One, And The Exposure Alert Stopped!<br> :date: __2021-03-07 19:04:04__
@@ -155,16 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Keeps me well informed<br> :date: __2021-03-04 03:56:02__
 
 > Had 1st shot. 2nd scheduled for 10th of March. But I have a head cold & a mild sore throat with a dormant ache in my chest!<br> :date: __2021-03-02 12:53:45__
-
-> Good<br> :date: __2021-02-23 06:35:12__
-
-> Awesome<br> :date: __2021-02-15 12:18:57__
-
-> Very helpful in staying up to date with county and state covid statistics.<br> :date: __2021-02-12 00:46:22__
-
-> If you live in great state of New Jersey in the United States you should be using this app.<br> :date: __2021-02-08 13:38:54__
-
-> Great idea. Great app.<br> :date: __2021-02-05 15:41:31__
 
 
 
@@ -230,7 +230,7 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
 
-> DOESN'T WORK...Never got notified of infections in my area meanwhile my whole family contacted covid<br> :date: __2021-03-14 00:36:19__
+> This app doesn't alert you to anything. I used it for months and absolutely NOTHING.<br> :date: __2021-03-17 02:04:06__
 
 > What happens when you get vaccinated? How does the app know?<br> :date: __2021-03-11 15:49:44__
 
@@ -258,6 +258,14 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> Don't work!! Just useless. Deinstalling.<br> :date: __2021-03-20 22:44:41__
+
+> Doesn't help where you can be vaccinated & when<br> :date: __2021-03-19 20:09:05__
+
+> Opt-Out<br> :date: __2021-03-19 00:51:00__
+
+> Uninstalling. Does not give exposure alerts. I did not update the app to say I had covid, but the state knows and called me. I don't get exposure notifications when I'm at my house. The whole reason I downloaded this was to be notified of possible exposure and I have never gotten a notification ever. Waste of time.<br> :date: __2021-03-18 07:41:20__
+
 > bad<br> :date: __2021-03-13 16:48:24__
 
 > Has ANYONE on this review thread been notified of a positive Covid-19 contact? Anyone? I was encouraged to download and use this app when I was first tested in Union County. I checked in with my status every day, for many months. I have NEVER been notified of a potential Covid-19 exposure. As a first responder, I know that I have been within close contact with dozens of Covid-positive people. I have lost confidence that this is a valid weapon against the continuing pandemic.<br> :date: __2021-03-09 16:28:14__
@@ -269,13 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Crazy<br> :date: __2021-03-03 16:11:11__
 
 > Ĺeads you to believe it will let you know where to get vaccinated. Nj has the worst system as it relates to vaccines. It so simple, every area code has there own site, if you prove you live in that zip, you can get vaccinated. Its a no brainer, but the state has NO CLUE!!!<br> :date: __2021-03-02 01:56:28__
-
-> This is not my state take it off of my phone now<br> :date: __2021-02-26 14:44:24__
-
-> Informative<br> :date: __2021-02-25 12:22:40__
-
-> Death transparency is gone. What are you hiding?<br> :date: __2021-02-16 19:01:21__
-
-> Good<br> :date: __2021-02-10 22:35:09__
 
 

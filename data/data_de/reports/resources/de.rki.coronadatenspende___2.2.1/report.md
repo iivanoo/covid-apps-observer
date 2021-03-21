@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Überhaupt nicht selbsterklärend.<br> :date: __2021-03-20 15:25:22__
+
 > Server fehler<br> :date: __2021-03-08 20:25:53__
 
 > Totaler Schmarrn. Könne ihr euch sparen.<br> :date: __2021-03-04 21:40:05__
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Da Europa sowieso als reiner Datensammler zwischen Amerika und China enden wird. Sollte es einer Institution wie Ihnen gelingen 95% aller SmartWatches abzudecken. Bei einer reinen Datensammler App. Meine Empfehlung: 6, Thema verfehlt, setzen.<br> :date: __2021-01-31 10:28:26__
 
 > Würde ja gerne meine Daten zu ferfügung stellen. Da ich ein Mi Band besitze und mit diesem Problem nicht alleine bin frage ich mich wann Xiaomi in die Liste der kompatiblen Geräte mit aufgenommen wird.<br> :date: __2021-01-31 09:54:05__
-
-> Ich wollte es nicht glauben, aber Xiaomi als einer der drei größten Hersteller von Fitnesstrackern fehlt ja wirklich. Das ist ja, als wenn man eine Studie zur Autonutzung macht und den VW Konzern nicht anklicken kann. Oder Studie zur Smartphone Nutzung und Apple steht nicht dabei.<br> :date: __2021-01-30 09:00:36__
 
 

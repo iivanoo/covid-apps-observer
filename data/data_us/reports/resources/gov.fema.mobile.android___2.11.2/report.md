@@ -163,6 +163,14 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> The best ad-free alerts out out there! Lets you specify the exact kinds of alerts you want for your area and others. It's only drawback is that its county-wide. Some alerts are issued for only specific areas of counties. This app would be perfect if would allow you to set alerts to a precise location (not just county-wide) as some other apps do.<br> :date: __2021-03-19 18:14:50__
+
+> They warn people when a tornado is coming<br> :date: __2021-03-17 03:02:07__
+
+> Very useful; a lot of real time info.<br> :date: __2021-03-15 04:10:51__
+
+> Seriously necessary valued. Weather, w possible empending disasters, & worse, necessary notification.<br> :date: __2021-03-14 20:57:43__
+
 > Great to have when need to apply for emergency mishaps. Never know, but great to have.<br> :date: __2021-03-10 15:18:59__
 
 > nice apps<br> :date: __2021-03-08 22:12:02__
@@ -174,14 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Awesome<br> :date: __2021-02-21 15:38:49__
 
 > 💙💯⚖️🕕✔️🇺🇸 To USA<br> :date: __2021-02-21 09:19:48__
-
-> I always have up to date information on the weather. This App appears to be the most accurate as well.<br> :date: __2021-02-19 02:00:42__
-
-> Very helpful to offer an app like this, thanks FEMA<br> :date: __2021-02-18 05:38:43__
-
-> I thoroughly enjoy this app! Up to date on active warnings - unlike other local weather apps!<br> :date: __2021-02-16 21:39:18__
-
-> Great app! The only thing is, I wish it had a share button to send the Alerts to family & friends. Thank you for adding the share button!<br> :date: __2021-02-15 15:49:44__
 
 
 

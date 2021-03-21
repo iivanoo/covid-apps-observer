@@ -176,6 +176,12 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Very easy and quick to do. lt's good to know my 30 seconds will help 'Feed America' and track how Covid-19 is affecting others in our area.<br> :date: __2021-03-21 08:01:09__
+
+> Like this app.<br> :date: __2021-03-20 21:16:48__
+
+> Very easy, very quick. Helpful for self assessment.<br> :date: __2021-03-18 03:08:59__
+
 > Good tracking<br> :date: __2021-03-09 22:32:44__
 
 > Fairly straight-forward and easy to use. Was a reminder to myself to be more mindful of my actions and how I was feeling.<br> :date: __2021-02-27 03:28:13__
@@ -189,12 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > We the people are angry we the people believe a great Injustice is done against us and those that put in place to speak for us cannot speak and he's not worthy they don't know all to articulate themself and conduct themself they are fraud and they're put in place by people who want to break us and rip us aparts or boys or girls they need to stop never mind of a right to be free and freedom is when someone don't tell you what to do I went to do it and respect you for the color of your skin and yo<br> :date: __2021-02-22 15:15:16__
 
 > I like that I have a way to contribute to helping fight against Covid and that I can see how other areas are faring. I also like that I can watch how my own state is doing also.<br> :date: __2021-02-22 05:12:30__
-
-> Non invasive Since the update, the reminder/notification has not worked. When it did work, I completed it daily, faithfully. But w.o the reminder, it's all fallen apart. Now it feels like there's really no point. Chances are, I'll uninstall soon.<br> :date: __2021-02-21 18:03:43__
-
-> Easy and rather quick<br> :date: __2021-02-21 17:26:40__
-
-> It's a way to help out when I can't donate money.<br> :date: __2021-02-20 14:20:49__
 
 
 

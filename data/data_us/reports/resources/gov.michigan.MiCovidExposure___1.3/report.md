@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> I love it<br> :date: __2021-03-19 03:12:34__
+
 > I have had no issues and no interruption of updates. This is simple data recording, even if on your phone it doesn't say it has updated the data has been transmitted. End result you would still get notified.<br> :date: __2021-03-09 11:43:09__
 
 > Too much covid news they need to get the cure out there and stop this garbage and it lets me know every time somebody blows Bobby if they got a sniffle or fart!!!<br> :date: __2021-03-07 22:56:02__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Covid 19b is almost gone.<br> :date: __2021-01-31 02:51:04__
 
 > Really do appreciate this app. I'm high risk and so is my husband, staying on top of where this virus is and if we may have been in contact with it puts my mind at ease.<br> :date: __2021-01-26 20:14:09__
-
-> Started updating after reinstall. Turned on power management exception. Seems to be working again. Developer responds quickly. Edit: Hasn't checked exposure since 1/4/21. Seems stuck. Checked google exposure over past 14 days. Contained no data. Wish there was a way to force a check/notification update. Reinstalled. Still not updating Original: Low battery consumption. Exceptional privacy. No location tracking. Low data use. Not invasive.<br> :date: __2021-01-26 17:00:11__
 
 
 
@@ -210,11 +210,17 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
 
+> The app is ON but has not done an exposure check since Jan 24. Today is Mar 18.<br> :date: __2021-03-19 16:34:13__
+
+> Good idea, but app stops updating/checking from time to time and won't refresh or reconnect. Tried turning bluetooth off/on, restarting phone, but couldn't make it active again. Last check was over a month ago. Is COVID over?<br> :date: __2021-03-19 01:17:23__
+
+> I've had to reinstall this app on a few occasions. No it is still displaying last checked March 08, 2021.<br> :date: __2021-03-17 15:11:09__
+
+> The app stopped scanning so I redownloaded it and it still doesn't update. Also, not sure how effective it really is since sharing if you've trsted positive for covid is by choice and I'm pretty sure most people in my area haven't even heard about the app and if they have, probably wouldn't choose to share.<br> :date: __2021-03-16 20:50:17__
+
 > My app hasn't checked for any exposures since Feb 6th. I don't have an update option, and all permissions are granted. Frustrating. - I tried to export and nothing happens on my end. I clicked "export" and I didn't have the option to view or email anything over.<br> :date: __2021-03-13 16:14:37__
 
 > This app is a great idea, but seems that it could be a bit more transparent. I appreciate that the app does not track me in any identifiable way, but I think it would be helpful to have more personalized statistics. Right now, the only thing we know is when the app last checked for exposures. I think it would be helpful to know how many unique IDs were gather over the last day. That way we can determine if the people around us are using the app and that the app is actually gather data fromothers<br> :date: __2021-03-10 18:59:41__
-
-> I've had to reinstall this app on a few occasions.<br> :date: __2021-03-08 18:05:14__
 
 > Data is old and hasn't been updated. I dont trust that this would help keep me safe at ALL ETA: Added star because of the response from the developer, but data is still wrong. Michigan covid deaths specifically. When the average person can get accurate data by using a quick Google search, I would much rather be able to open my app and get all data available as ACCURATELY as possible.<br> :date: __2021-03-01 16:56:29__
 
@@ -224,12 +230,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > The app does NOT update as it should! It unexpectedly will stop and the only alternative is to delete it and then reinstall it. I have done this 3x....<br> :date: __2021-01-19 14:05:19__
 
-> Haven't had a logged exposure check since Dec 27 with no way to refresh.<br> :date: __2021-01-07 15:37:22__
-
-> Why isn't there a Caucasian stat on the racial breakdown...?<br> :date: __2020-12-18 23:00:36__
-
-> I've been in direct contact with 3 people who have tested positive. This app didn't notify me if a single thing. Seems pointless.<br> :date: __2020-12-05 19:14:18__
-
 
 
 #### 1-star reviews
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> I am giving up on this app. It stops checking. I reload it. It works for a few days and stops. It is partcularly likely to stop checking when I leave home to shop or go to the doctors, exactly when I need it. I do not have a Samsung phone. Battery saving is turned off for this app. I open it daily to keep it active. All other apps work. The fact is that this app simply does not work.<br> :date: __2021-03-20 01:16:52__
+
+> Constantly stops checking . Need to Uninstall and reinstall every few days. edit: that sites instructions are terrible. I tried multiple times to figure it out. And needed to do anything extra to get your app to work still means it's terrible and deserves 1 star. EDIT AGAIN: yeah those instructions aren't exact, but I did it and the app would still stop checking after a couple days. Even if I opened the app every single day. No one should have to change settings for this to work.<br> :date: __2021-03-19 16:20:36__
+
+> Everyone has sams complaint. Time to uninstall.<br> :date: __2021-03-18 19:08:35__
+
+> You dumb or what? Covid is a damn hoax!<br> :date: __2021-03-17 20:42:36__
+
+> I have installed, uninstalled and reinstalled so many times it is ridiculous. I just realized today that it has checked exposures since March 10th. That is 7 days ago. Why bother having this on my phone if it doesn't work? I am not installing this app again. Good concept but it is useless.<br> :date: __2021-03-17 14:03:47__
+
+> Last time updated Jan 26. Pointless<br> :date: __2021-03-15 21:21:32__
+
+> Stopped working at the end of January<br> :date: __2021-03-14 20:59:11__
+
 > Has not checked for exposures since February 11.<br> :date: __2021-03-12 22:38:12__
 
 > I have had this app installed for 3 months and I am out and about all the time. According to this app I have never even been close to anyone with the "disease". You must be kidding me. With the whole country shut down because of this I must have been near someone by now. What a joke. Either make it work or trash it. You are supposed to be protecting peoples lives but you are just giving false hope. If that is your answer then the whole idea doesn't work and this is a total failure.<br> :date: __2021-03-12 17:25:47__
 
 > It is the best game ever but covid19 the worst theres a lot of videos tho But it still the best<br> :date: __2021-03-10 02:08:28__
-
-> I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3<br> :date: __2021-03-09 00:48:45__
-
-> It a nuisance Seattle notification pop-up to download this app<br> :date: __2021-03-08 17:39:02__
-
-> When I got app I thought it included ever race I just feel it bias towards minority counterparts<br> :date: __2021-03-08 14:43:38__
-
-> Got covid and couldn't actually submit it to the app, no wonder I never received a single a exposure notice in over 6 months of having the app.<br> :date: __2021-03-08 14:33:38__
-
-> How do we not get an alert to update the app? We've all had been walking around for a month or 2 with an app that needed an update that we didnt know about. Since my app stopped checking for exposures in january, will i be notified if the past few weeks i had an exposure? I just uninstalled and reinstalled. Honestly, how was no notification sent out about updating the app?<br> :date: __2021-03-06 17:29:22__
-
-> Uninstalled APP. Hasn't updated in 3 weeks, even after installing the March 5 update that I see has been the response to everyone who has also reported it doesn't update. Simply don't waste your time with this APP.<br> :date: __2021-03-06 12:39:55__
-
-> I've had this app since it came out. It worked fine until around December, then updates were more sporadic. Now it says it hasn't checked for exposures since 10 am February 13. For the past two weeks, I have tried all the troubleshooting tips offered in the responses to poor reviews. Guess it's a good thing I've had both my shots since I'll never know if I've been exposed or not. I work in a public space, so I do leave the house and am around dozens of strangers every day.<br> :date: __2021-03-04 14:57:42__
 
 

@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Hasta 10 llamadas al día desde la Consejería de Sanidad para verificar lo que indico en la aplicación y yo agotado de hablar. No agiliza nada administrativo. No le veo utilidad :(<br> :date: __2021-03-17 10:42:55__
+
 > Para poner fecha nacimiento tengo que recorrer mes a mes desde ahora.<br> :date: __2021-02-20 11:11:05__
 
 > No me enviaba el código de registro. Después de 55 minutos, me han llegado 4. Al ir a meterlos, no me acepta ninguno y cuando intento pedir uno nuevo, me dice que he superado el máximo de intentos. La desinstalo ahora mismo, porque vaya basura.<br> :date: __2021-02-15 19:24:26__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Se supone que incluye las pruebas realizada en la SS y otros centros sanitarios. Como la SS no me hizo ni una triste PCR durante las dos bajas que pasé, me las hice por lo privado. Pues no aparece nada en mis pruebas, pese a que me acerqué al centro de salud a informar de mis anticuerpos.<br> :date: __2020-12-17 20:14:24__
 
 > Mi nombre y DNI porque<br> :date: __2020-11-19 08:59:29__
-
-> Inutil en todos los sentidos.<br> :date: __2020-11-14 06:16:26__
 
 

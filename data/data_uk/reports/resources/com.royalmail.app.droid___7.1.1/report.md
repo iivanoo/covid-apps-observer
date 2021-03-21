@@ -155,25 +155,25 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
-> Never had a problem with them<br> :date: __2021-03-14 11:00:01__
+> Ideal to keep you updated where your parcel is<br> :date: __2021-03-19 19:34:08__
 
-> Amazing app for you sell on ebay ect and you track the items you can nickname the parcels<br> :date: __2021-03-13 10:05:47__
+> Good for tracking. Worked well for an incoming parcel.<br> :date: __2021-03-18 13:49:01__
 
-> Easy to use.<br> :date: __2021-03-12 18:53:48__
+> Once logged in easy to use.<br> :date: __2021-03-17 22:03:09__
 
-> Very good can keep track.<br> :date: __2021-03-10 11:02:52__
+> Service was excellent product<br> :date: __2021-03-17 10:34:19__
 
-> Nice experience<br> :date: __2021-03-09 14:41:05__
+> Very good<br> :date: __2021-03-17 08:25:04__
 
-> Very good quality 👌<br> :date: __2021-03-08 17:13:04__
+> Good app<br> :date: __2021-03-16 21:49:54__
 
-> Very good app and so easy to use. Keeping track of outgoing/incoming parcels is very handy<br> :date: __2021-03-06 10:55:20__
+> Brilliant app<br> :date: __2021-03-16 18:54:37__
 
-> The royal mail is fab thank very good<br> :date: __2021-03-06 08:44:29__
+> Brilliant app. Works well. Love the feature where you can name your delivery instead of it having a number.<br> :date: __2021-03-16 18:32:00__
 
-> I think this app is great. I can track my packages easily and change delivery address if needed. Good for finding a Post Office or a priority post box.<br> :date: __2021-03-05 23:00:37__
+> Used it to reschedule a delivery. Easy to do/easy to keep track Very good app for me! Used on Samsung S8+<br> :date: __2021-03-16 13:19:55__
 
-> Brilliant tracking app, really impressed, like that it keeps all your past tracking data.<br> :date: __2021-03-05 19:01:47__
+> The app is brilliant so much easier to check everything on your phone<br> :date: __2021-03-16 12:40:16__
 
 
 
@@ -239,6 +239,10 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 2 reviews"/>
 </p>
 
+> Used this app twice now to buy postage and both tines had to input info numerous times then when ptint your label at home constant error messages, it will allow me to pront a qr click and drop A4 label but that's not what I want so now I have to drive 10+ miles to the nearest mail drop office. I will be removing the RM option from my selling site.<br> :date: __2021-03-15 09:21:07__
+
+> App won't open. comes up with a notification saying that it's unable to open and I'm left to tap either app info, close app or send feedback. If I tap send feedback it tells me my phone isn't connected to a data service. Seems a lot of hassle to report a problem 😕<br> :date: __2021-03-15 09:17:09__
+
 > Useful to store your sending history, that's about it. No way to save my details or edit addresses, and I can't use card info saved to my phone when paying for postage. Even hermes can do better...<br> :date: __2021-03-11 02:21:32__
 
 > So much room for improvement. I have to enter all my details every time I use the app, why can't it remember my name and address???? A list of favourite destination addresses would save loads of time as well. Tracking means where is it now, not we'll tell you after we have tried to deliver!! Also, why not attach the label to the email I receive to save me having to fiddle about downloading the label from the app before I can print it? Come on Royal Mail, a few teaks would make this a genuine alternative to your competitors.<br> :date: __2021-03-08 13:09:13__
@@ -255,10 +259,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Useless they delivered to my house every day but don't have my address in the app therefore cant even log on or do anything<br> :date: __2021-01-26 21:24:17__
 
-> Difficult to track things<br> :date: __2021-01-25 16:16:27__
-
-> Needs quite a bit of work to make it worth having on the phone. It tells you you've had an attempted delivery, but with the same notification you cannot book a redelivery. Makes no sense.<br> :date: __2021-01-24 11:49:15__
-
 
 
 #### 1-star reviews
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> I'm giving it one star because its not acruite when tracking your parcel terrible<br> :date: __2021-03-12 09:23:40__
+> Absolutely dreadful, won't print label, last time no QR code either. I spent more time running around than just going to the PO and buy it there.<br> :date: __2021-03-20 14:26:47__
 
-> Utter rubbish. Had to download the app to find the location of parcel postboxes. Told me there was a parcel postbox in Constitution Street, Edinburgh, but it doesn't exist. Complete waste of time and a long walk for nothing, horrible if you are disabled. In the end I got a friend to post parcel, he handed it to a post person on their round!<br> :date: __2021-03-11 11:34:04__
+> I have click and drop on my pc which work's fine. After installing app it refuses to recognise my log in details. If I try to re-register it says my email address is already registered!!?? Have tried changing password, re-installing app etc. Useless! Have given up and deleted app.<br> :date: __2021-03-20 09:17:22__
 
-> This app is pure drivel. What's all this zebra crossing and squares business. And furthermore the app does not function.<br> :date: __2021-03-11 01:54:38__
+> Extremely Rubbish service. Would give nil if possible, Customer service can contact me for further details. (One lives in hope.)<br> :date: __2021-03-19 17:15:38__
 
-> Horrible<br> :date: __2021-03-10 17:43:12__
+> QR code useless.<br> :date: __2021-03-19 15:19:41__
 
-> Couldn't tell you if the app works or not, it won't even let me log in even though I can log in fine on the PC.<br> :date: __2021-03-09 18:18:17__
+> Your app can not find my number<br> :date: __2021-03-19 13:42:40__
 
-> Worst app world wide makes you touch on squares with no traffic lights & no bicycle's least 5 times every time you want to check tracking had to do it 7:30 this morning 3 diff occasion's meant so i touched at least 30-40 squares to be told no updates available 😆<br> :date: __2021-03-09 10:45:11__
+> Rubbish<br> :date: __2021-03-19 10:11:34__
 
-> Pointless app. They decided to leave an expensive Xmas present behind the wheelie bin, despite NO instructions from me to do so. Family heirloom stolen. Compensation £0<br> :date: __2021-03-08 18:17:52__
+> Doesn't work as advertised. I paid for a letter in the app and then had to pay again in the post office because they "do not support this service".<br> :date: __2021-03-17 16:30:40__
 
-> Same as other comments. On my tablet It won't accept password, it will not let me create an account using a different email and I can't change the password. But on my phone I don't need to log in, it goes right to the home page and I haven't clicked on keep me signed in.<br> :date: __2021-03-06 11:27:06__
+> Worst company on heart! They lost 3 packages of mine. 3 out of 3! I can't believe it. Customer service? Absolutely ridiculous! App? Even worse! I can't believe they are still on business. Don't waist your time and money with them!<br> :date: __2021-03-17 15:19:25__
 
-> Won't open!<br> :date: __2021-03-05 15:57:16__
+> Useless doesn't do anything like most modern technology today 🙄<br> :date: __2021-03-17 10:25:30__
 
-> Like the royal mail staff this is absolutely useless. Doesn't show what I am looking for despite claiming it does.<br> :date: __2021-03-05 01:17:30__
+> I'm sure this is useful for something, just not anything I've ever tried to use it for.<br> :date: __2021-03-16 15:12:00__
 
 

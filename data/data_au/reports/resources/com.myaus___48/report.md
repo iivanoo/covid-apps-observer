@@ -176,6 +176,8 @@ The MyAus COVID-19 app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.myaus 5 reviews"/>
 </p>
 
+> it is a great app to try and control covid 19<br> :date: __2021-03-18 22:36:26__
+
 > Amazing app well worth downloading<br> :date: __2020-05-31 05:41:12__
 
 > Great source of info, nice and clear<br> :date: __2020-05-27 13:18:57__
@@ -227,6 +229,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.myaus 1 reviews"/>
 </p>
+
+> Looking for a sign in app for android phone. None found. Useless<br> :date: __2021-03-16 05:49:42__
 
 > Could not get it to work.<br> :date: __2020-09-10 11:21:12__
 

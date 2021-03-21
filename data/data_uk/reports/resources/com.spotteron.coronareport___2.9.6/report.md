@@ -163,10 +163,12 @@ The CoronaReport - COVID-19 reports for Social Science app has been installed by
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="com.spotteron.coronareport 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Paitra<br> :date: __2021-03-17 15:54:38__
+
+
 
 #### 3-star reviews
 

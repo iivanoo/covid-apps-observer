@@ -137,6 +137,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Penso que é uma app útil e de ajuda a nos protegermos de situações de perigo e contágio<br> :date: __2021-03-17 00:59:45__
+
 > Eu adorei a App stayaway covid<br> :date: __2021-03-11 21:16:23__
 
 > 🌏🌏🌎🌍🌍<br> :date: __2021-03-11 11:47:15__
@@ -154,8 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Muito útil está aplicação.<br> :date: __2021-02-19 14:23:21__
 
 > Bom<br> :date: __2021-02-18 20:21:03__
-
-> Bom e ajuda.recomando🥰<br> :date: __2021-02-18 00:52:37__
 
 
 
@@ -193,6 +193,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
 
+> Boa ideia, mas para funcionar a 100% temos de ter GPS e BT sempre ligados, e existe uma coisa chamada bateria que viciam facilmente depois de algum tempo<br> :date: __2021-03-19 03:07:52__
+
 > Não discuto o mérito desta app. Mas o que gostava era de saber qual o impacto que ela já teve no controlo da pandemia. Estatísticas sérias sobre a sua real utilidade.<br> :date: __2021-02-25 08:59:25__
 
 > Desde há semanas que está a mostrar erro de acesso ao servidor: falha a carregar dados de infeção.<br> :date: __2021-02-20 18:05:03__
@@ -211,8 +213,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Misses European countries app integration like the Spanish app which has a integration between each other. How can I monitor my app if I study abroad? There should be just one EU app for all<br> :date: __2021-01-17 14:22:59__
 
-> Não dá para ter essa aplicação porque tenho que ter o Bluetooth ligado 24 horas sobre 24horas. Ao ter isso sempre ligado, há interferências no meu telemóvel. Não vou danificar o meu telemóvel porque não tenho dinheiro para comprar outro e o estado não vai dar me um novo. Por isso eu não uso a aplicação. Eu protejo me ao máximo porque eu quero estar protegida e quero proteger as outras pessoas.<br> :date: __2021-01-12 16:29:52__
-
 
 
 #### 2-star reviews
@@ -220,6 +220,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
+
+> Dei 2 estrelas porque a ideia é boa, mas é inútil quando quem está infectado só coloca o código se quiser logo não vai funcionar na prática, tenho a app desde do fim do mês de Agosto de 2020 e na prática nunca evitou aquilo que aconteceu em Janeiro 2021. Na pior altura não deu qualquer sinal no entanto soube que tive com pessoas que ficaram infectadas. O uso de GSM e código automático no sistema de saúde do número de telefone do infectado era o mais eficaz a meu ver.<br> :date: __2021-03-21 16:04:46__
+
+> Nada de especial. Estive em contato com covid positivo e não alertou<br> :date: __2021-03-18 08:53:37__
 
 > Não cheguei a perceber o que se trata<br> :date: __2021-03-11 15:26:03__
 
@@ -237,10 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Tinha a aplicação instalada desde o início. Desde a última atualização que por três vezes me avisa para ativar Bluetooth e GPS, mesmo tendo os mesmos ativos. Nunca me notificou de nada. Nao vejo verdadeira utilidade na aplicação nos moldes atuais e com estes erros sem sentido. Desinstalei.<br> :date: __2021-01-30 23:16:52__
 
-> Porque não dá dados nenhuns é só para gastar bateria<br> :date: __2021-01-30 19:28:25__
-
-> Tenho uma dúvida que me persegue desde o seu lançamento. Se alguém dá positivo e introduz o código, como é que poderá alertar outras pessoas que se cruzou com um doente, se um infectado tem de ficar obrigatoriamente em casa? Não percebo muito bem a lógica da aplicação<br> :date: __2021-01-27 12:39:43__
-
 
 
 #### 1-star reviews
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> E muito má está App não está boa porque ela está sempre a pedir a localização. E está a dar cabo da minha bateria por isso o meu voto é 👇🏼 *NÃO*<br> :date: __2021-03-19 22:16:33__
+
+> Deveria ser o SNS a controlar os dados e por no Sistema<br> :date: __2021-03-19 22:04:09__
+
+> Não consigo actualizar! Diz q está desatualizado<br> :date: __2021-03-17 17:03:50__
+
+> Inútil<br> :date: __2021-03-17 00:19:52__
+
+> Excelente aplicação por parte dos developers. Parabéns. Mas por parte do governo um grande grande grande flop<br> :date: __2021-03-15 21:10:27__
+
+> Booo<br> :date: __2021-03-15 13:49:02__
+
+> Nao serve de nada.<br> :date: __2021-03-15 02:40:16__
+
 > Se a pessoa infectada não colocar o código não serve de nada esta aplicação<br> :date: __2021-03-14 02:12:51__
 
 > Ninguém declara q esteve infetado. Essa declaracao deveria ser automática.<br> :date: __2021-03-13 14:45:50__
 
 > As pessoas nao partilham os resultados, po isso nao vale a pena.<br> :date: __2021-03-12 21:50:35__
-
-> De acordo com o produtor da app apenas são necessários dados de internet e bluetooth. No entanto está sempre a exigir acesso à localização. Se ativo a localização estou a drenar rapidamente a bateria com uma função que, de acordo com os produtores, não serve para nada. se desativo a localização estou constantemente a receber alertas de que a app não está a funcionar bem. Desinstalar<br> :date: __2021-03-12 18:14:50__
-
-> Acabou por não ter relevância. O caminho é desinstalar.<br> :date: __2021-03-12 03:05:27__
-
-> Boa d+ cara gostosinha<br> :date: __2021-03-11 18:42:34__
-
-> Os sms que recebemos dos laboratórios com o resultado, nao tem qualquer código para colocar na app. Tanto investimento para o lixo.<br> :date: __2021-03-11 13:55:07__
-
-> Orrivel, Mau e porco e gosto de pinga Não tem vinho Kkkklkkkkkk🤷‍♀️🤦‍♀️🤷‍♀️🤦‍♀️🤷‍♀️🤦‍♀️🤷‍♀️🤦‍♀️🤷‍♀️🤩🥰🃏😅😥🧐🤗🤩🎆👁🤗😘🤣🤩😅👁😥👁😘😬🧐🃏🥰🃏🙂🤨😑😊😍😥🏆🥉🎗🏆🎎🎀🥈🎋🥉🏆🎏🏆🥉🏖🏢🏭🏢🧭🏢 Edit: porque eu escrevi isto??<br> :date: __2021-03-11 12:03:43__
-
-> Não faz nada<br> :date: __2021-03-08 16:01:58__
-
-> na minha zona os Supermercados ficam a metros de casas,o GPS não tem precisão de indicar se as pessoas estarão em casa ou no Supermercado. Já aos dados pessoais, as pessoas preocupam-se bastante e esquecem que bem pior são as redes sociais que usam, onde toda a sua vida privada é exposta assim como dados de registo inseridos, basta ler as condições de utilização das mais conhecidas redes sociais.<br> :date: __2021-03-07 16:27:09__
 
 

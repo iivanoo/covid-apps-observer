@@ -199,25 +199,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Altijd een reminder als er nog niet aan toegekomen bent.<br> :date: __2021-03-18 11:47:59__
+
+> Erg goede app om te kijken of je je moet laten testen<br> :date: __2021-03-17 09:22:44__
+
+> Super fijne ap<br> :date: __2021-03-17 08:51:02__
+
+> Makkelijk geen storingen<br> :date: __2021-03-17 08:41:00__
+
+> Overzichtelijk...👍👍<br> :date: __2021-03-15 09:33:13__
+
+> Meer uithoudingsvermogen onrwikkeld. Goede tips. Met training thuis en op de physio al veel vooruitgang geboekt.<br> :date: __2021-03-15 08:18:26__
+
+> Werkt goed , prima oplossing .<br> :date: __2021-03-15 06:22:05__
+
 > Makkelijk in gebruik en handig om zo symptomen bij te houden<br> :date: __2021-03-12 10:55:09__
 
 > Goede back up<br> :date: __2021-03-11 10:53:57__
 
 > Duidelijk en prettig om te gebruiken<br> :date: __2021-03-10 10:08:39__
-
-> Ook voor ouderen is er goed mee om te gaan<br> :date: __2021-03-10 08:57:36__
-
-> Ik ben ontzettend blij met luscii, dat ik ten allertijden kan aangeven mocht het slechter gaan met mij dat ik de lijst opnieuw kan invullen, en dat ze dan ook vrij snel contact met je opnemen. Dat geeft mij een heel veilig gevoel nu.<br> :date: __2021-03-09 10:50:04__
-
-> Vind het een fijn programma<br> :date: __2021-03-09 10:22:35__
-
-> Zeer goed<br> :date: __2021-03-09 09:24:19__
-
-> Makkelijk in gebruik. Goed contact met behandelaar.<br> :date: __2021-03-08 12:12:13__
-
-> Werkt heel makkelijk, snel doorgeven van standen<br> :date: __2021-03-08 07:49:42__
-
-> Fijn apparaat, snel en nauwkeurig<br> :date: __2021-03-08 07:33:43__
 
 
 
@@ -226,6 +226,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Soms does de App het niet voor de rest ok<br> :date: __2021-03-15 09:14:51__
 
 > Vroeger kon men de dagelijkse metigen zien .....<br> :date: __2021-03-11 09:24:32__
 
@@ -244,8 +246,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Jammer dat er geen zuurstofgehalte bij staat.<br> :date: __2021-03-03 10:24:52__
 
 > Prettig dat er controle is. Werkt prettig<br> :date: __2021-03-02 10:08:42__
-
-> Nog even hiermee wachten.<br> :date: __2021-03-01 21:13:53__
 
 
 
@@ -311,6 +311,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Het werkt heel goed. Mooie apparatuur en in het begin kwam ik niet uit de bloeddrukmeter en ben ik door een medewerker van Lusci heel goed geholpen.<br> :date: __2021-03-19 08:12:03__
+
 > Werkt niet meer na update<br> :date: __2021-02-12 23:55:01__
 
 > Het kost me veel moeite<br> :date: __2021-02-11 10:33:47__
@@ -328,7 +330,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > 😋<br> :date: __2021-01-15 13:06:27__
 
 > Snap de nut niet<br> :date: __2021-01-06 08:15:19__
-
-> Zeer goed<br> :date: __2020-12-17 10:52:12__
 
 

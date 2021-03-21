@@ -176,6 +176,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
+> Alles im grünen Bereich<br> :date: __2021-03-20 10:41:39__
+
+> 500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht. Update: Nach Rückfrage beim RK wurde mir empfohlen, die mobilen Daten für die App auszuschalten, da es ausreicht, wenn die App sich ein paar Mal am Tag übers WLAN verbindet. Begründet wurde der Datenverbrauch mit der Interoperabilität zwischen einigen EU-Contact-Tracing Apps.<br> :date: __2021-03-16 11:41:04__
+
 > Tägliche aktuelle Nachschau, sicheres Gefühl, eigene Kontakte nachvollziehen zu können!<br> :date: __2021-03-04 20:03:45__
 
 > Bin gesund seit Beginn<br> :date: __2021-03-03 18:33:08__
@@ -192,10 +196,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Wenn das alle hätten wäre das Contact-Tracing ein Selbstläufer. Aber das UI ist halt sehr lahm. Wenn man die Statistik über die Handshakes wenigstens gleich auf der ersten Seite hätte, dass man irgend eine Aktivität sieht.<br> :date: __2020-11-27 10:55:40__
 
-> Alles gut 👍 s<br> :date: __2020-11-23 20:15:40__
-
-> Update gibt es nicht?<br> :date: __2020-11-23 19:41:11__
-
 
 
 #### 3-star reviews
@@ -203,6 +203,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
+
+> Zu wenige Nutzer.<br> :date: __2021-03-21 11:52:32__
 
 > Hab sie jetzt nach langer Zeit deinstalliert... bisher nie eine Meldung bekommwn, kein einziger Kontakt.. da weiß man nicht mal ob sie funktioniert 😑 und solangs fast keiner verwendet is es ziemlich sinnfrei<br> :date: __2021-02-03 11:46:28__
 
@@ -222,8 +224,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Wie auch schon berichtet, besteht keine Möglichkeit, nach einer Infektion wieder auf Gesund zu wechseln. Eine Email Anfrage wurde schnell aber nicht hilfreich beantwortet.<br> :date: __2020-12-01 19:29:16__
 
-> War krank, habe alle über die App informiert, bin wieder gesund dennoch bekomme ich permanent die Aufforderung meine ID s zu benachrichtigen, kann das nicht abstellen. Werde alles löschen 😠<br> :date: __2020-12-01 11:30:36__
-
 
 
 #### 2-star reviews
@@ -232,9 +232,9 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
-> warum kommt nach dem aufrufen der app zuerst die frage nach dem "handschake" , anstelle die frage "symptome" prüfen? das verwirrt viele. und warum kommt nach der frage 1, keine frage 2 (falls ich mich gesund fühle, wähle?) das verwirrt zum 2. mal. haben die entwickler irgendwann die user gefragt wie es ihnen mit der app geht.<br> :date: __2021-03-03 09:18:03__
+> 1.) Der Verbrauch an mobilen Daten ist SEHR HOCH!!! 2.) Man hat keine Rückmeldung, ob die App wirklich funktioniert. 3.) Ist der Schalter "Automatische Handshake" ein/aus ident mit dem Schalter "COVID 19-Benachrichtigung aktivieren"? Wenn ja, warum verwendet man zwei verschiedene Bezeichnungen? Ich kann keinen Unterschied feststellen! 4.) Wenn ich "COVID 19-Benachrichtigung aktivieren" ausschalte, dann wird noch "Automatische Handshake" als aktiv angezeigt, obwohl es auch ausgeschaltet ist. Nach Neustart sind beide auf aus. Das ist ein FEHLER bei der Anzeige! 5.) Die Liste der möglichen Begegnungen war nicht sortiert und ist in der neuen Version (Feb 2021) nicht mehr vorhanden! 6.) Es gibt jedoch noch den Punkt "App-Einstellungen öffnen", hier werden jedoch nur Informationen angezeigt. 7.) In der App steht immer noch "1 Meter Abstand". Es sollte "2 Meter Abstand" lauten! 8.) Angeblich hat die App 20.000.000 Euro gekostet; da würde man sich etwas mehr erwarten:<br> :date: __2021-03-16 09:01:03__
 
-> Angeblich hat die App 20.000.000 Euro gekostet; da würde man sich etwas mehr erwarten: 1.) Ist der Schalter "Automatische Handshake" ein/aus ident mit dem Schalter "COVID 19-Benachrichtigung aktivieren"? Wenn ja, warum verwendet man zwei verschiedene Bezeichnungen? Ich kann keinen Unterschied feststellen! Wenn ich "COVID 19-Benachrichtigung aktivieren" ausschalte, dann wird noch "Automatische Handshake" als aktiv angezeigt, obwohl es auch ausgeschaltet ist. Nach Neustart sind beide auf aus. Das ist ein FEHLER bei der Anzeige! 2.) Die Liste der möglichen Begegnungen war nicht sortiert und ist in der neuen Version (Feb 2021) nicht mehr vorhanden! 3.) Es gibt jedoch noch den Punkt "App-Einstellungen öffnen", hier werden jedoch nur Informationen angezeigt. 4.) In der App steht immer noch "1 Meter Abstand". Es sollte "2 Meter Abstand" lauten! 5.) Das Design ist schlecht, die Menüpunkte unlogisch verschachtelt, die Bezeichnungen sind teilweise nicht ganz passend gewählt usw. 6.) Hilfe, FAQ usw. passen teilweise nicht mehr zur aktuellen App-Version.<br> :date: __2021-02-17 14:33:03__
+> warum kommt nach dem aufrufen der app zuerst die frage nach dem "handschake" , anstelle die frage "symptome" prüfen? das verwirrt viele. und warum kommt nach der frage 1, keine frage 2 (falls ich mich gesund fühle, wähle?) das verwirrt zum 2. mal. haben die entwickler irgendwann die user gefragt wie es ihnen mit der app geht.<br> :date: __2021-03-03 09:18:03__
 
 > Offensichtlich sinnlos und lässt den User im Regen stehen. Ich bekam heute eine Warnung eines möglichen Kontaktes. Dieses nicht ausgereifte Stück Software zeigt nicht mal an, an welchem Tag der Kontakt statt gefunden hat. Erst eine Kontaktaufnahme der betroffenen Person bestätigte die offensichtliche Quelle des Kontakts (Gott sei Dank alles negativ). Seit dem nervt die App im ca 30min. Takt mit Warnmeldungen. Lt. App hatte ich jetzt schon 5 weitere Kontakte. Stümperhaft. Schade ums Geld.<br> :date: __2021-02-07 11:27:25__
 
@@ -260,6 +260,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> bringt ständig irgendwelche Meldungen und das immer auf Englisch... ich dachte es ist eine österreichische App? Brauch ich jetzt dazu ein Übersetzungsprogramm oder was?<br> :date: __2021-03-20 20:19:10__
+
+> Die App verbraucht nur Ressourcen. Diese App hat jedes Vertrauen verloren. Solange ich keine Informationen darüber erhalte, ob sie überhaupt funktioniert hat sie bei mir keine Chance auf dem Handy. Eine Rückmeldung von der App über die anonymen aber erfassten Kontakte wäre nicht schlecht. Ich weiß einfach nicht ob die App wirklich funktioniert. Also habe ich sie wieder gelöscht. Die App ist Ressourcen- und Geldverschwendung.<br> :date: __2021-03-20 18:52:24__
+
+> Die App ist aus vermeintlichen Datenschutzgründen bis zur Nutzlosigkeit kastriert .. Den "Self-Check" finden wohl nur Leute hilfreich, denen zuvor das Hirn amputiert wurde .. für alle anderen denkbegabten Menschen eher eine Zeitverschwendung ..<br> :date: __2021-03-17 18:36:45__
+
 > Der Entwickler ist der Einzige, welcher aus dieser App einen (monetären) Nutzen zieht. Ansonsten taugt die App gar nicht. Die Informationen wiederholen sich ständig, Kontakte werden nicht über eine Infektion informiert, etc.<br> :date: __2021-03-13 00:09:22__
 
 > Man sieht als Konsument nicht ob die App tatsächlich funktioniert. Diese App ist zusätzlich der Größte Stromfresser den ich je erlebt habe. Mails an den Produkthersteller werden hier genausowenig beantwortet wie alle Fragen in den Bewertungen hier. Sichtlich steckt hier das Rote Kreuz Geld ein und leistet dafür auch noch Null Support. Diese App verschwindet demnächst aus GooglePlay da ein Funktionsnachweis für AppUser weder nachvollziehbar noch jemals erfolgt ist. Behaupten kann man viel!<br> :date: __2021-03-12 17:37:02__
@@ -273,11 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > So ne blöde unnötige app, die geht nicht mal, obwohl Bluetooth aktiviert ist, gleich wieder deinstalliert<br> :date: __2021-03-06 17:03:08__
 
 > Scheint nicht zu funktionieren, kein Mehrwert<br> :date: __2021-03-04 08:08:41__
-
-> seit Februar 2021 mutiert die App zum größten Datenverbraucher all meiner Apps. Funktion ist keine zu sehen, keine Kontrolle was vor sich geht etc. mit reicht's, ich hau das Zeug wieder weg...<br> :date: __2021-03-03 21:40:51__
-
-> Eine "lahme Ente" Wo ist die Erfahrung nachzulesen, die andere Nutzer damit gemacht hatten? Ich habe damit keine Erfahrungen machen und weitergeben können. Bin neugierig ob dazu ein "Feedback" kommt.<br> :date: __2021-03-01 23:17:39__
-
-> Leider sinnlos, wenn's niemand nutzt. Habe alle paar Wochen nur mal einen Kontakt/den Check zu einem anderen Nutzer. Noch keine einzige Risikobegegnung nach einem Jahr konstanter Nutzung in der Hauptstadt.<br> :date: __2021-03-01 00:39:04__
 
 

@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Mi esposa y yo hemos recibido la segunda dosis de la vacuna del covid19 nos han entregado un certifiado de SALUD/generalitat de catalunya nos servira como documento para viajar por carretera a suiza tenemos la familia residiendo en Berna gracias Rivero<br> :date: __2021-03-16 16:47:11__
+
 > Es muy fácil y cómodo<br> :date: __2021-03-01 15:28:34__
 
 > Perfecte per l'Estat policial en el qual vivim!!<br> :date: __2021-02-27 07:40:50__
@@ -136,8 +138,6 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > bien rápida<br> :date: __2020-11-27 19:37:49__
 
 > acurada i informada<br> :date: __2020-11-10 09:42:11__
-
-> Molt bé. Clar. Avui faig dos trajectes. De Sant Boi a Cornellà i de Cornellà a Canovelles. No quedaria reflectit el primer trajecte<br> :date: __2020-11-01 10:44:04__
 
 
 
@@ -213,6 +213,12 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Absurdo a decir basta. Si voy solo a otra comarca y no hay restricciones, porque narices tengo que dar cuentas a nadie. Y si voy con burbuja familiar con el certificado de empadronamiento del ayuntamiento va que arde. Vivimos en un estado policial brutal. Ya sólo falta que bloqueen Internet y volvamos al 30...<br> :date: __2021-03-17 12:41:43__
+
+> Cada poco tiempo tienes que crear el perfil de nuevo y se borran los certficados que tengas preparados. No funciona nada bien.<br> :date: __2021-03-16 05:17:31__
+
+> Actualizar app<br> :date: __2021-03-15 11:57:45__
+
 > Basura,como cualquier cosa que venga del gobierno<br> :date: __2021-02-25 21:27:42__
 
 > Sólo para p*""" catalanes<br> :date: __2021-02-22 01:00:35__
@@ -226,11 +232,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Pitjor impossible. No es poden omplir, de cap manera, els camps de l'adreça de destinació. Degut això, no genera el document. Completament inutil.<br> :date: __2021-02-04 13:12:20__
 
 > Se borran los certificados en poco tiempo.No vale la app<br> :date: __2021-01-29 18:24:09__
-
-> O no me deja renovar los certificados o cada pocos días se me borra todo el perfil y tengo que volver a crearlo. Si funcionara mejor sería más útil. También sería útil una opción para poder hacer automáticamente el de vuelta a casa con los datos ya introducidos.<br> :date: __2021-01-28 09:33:27__
-
-> No es una App, se limita a abrir lo mismo que verías desde el navegador.<br> :date: __2021-01-22 08:45:18__
-
-> Molt poc útil, les novetats no s' actualitzen, el certificats no es guarden. És una llastima perque actualitzada i amb els certificats seria una app super útil<br> :date: __2021-01-16 09:17:01__
 
 

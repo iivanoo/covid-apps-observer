@@ -189,6 +189,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Awesome Experience! Will use in the future if a problem arises.<br> :date: __2021-03-18 22:33:42__
+
 > Intermountain Healthcare is awesome.<br> :date: __2021-03-11 22:46:59__
 
 > The absolute best doctors visit I have ever had. Easy to set up, easy to schedule, easy to chat and explain my symptoms. Instead of the minimum 1 Hr. Round trip (realistically 2 Hr.) To the office to be told the same thing from login to logout was 12 minutes! You do not have to be tech savvy to use this it walks you right through the steps and don't worry if you don't have a computer or laptop you can use your smart phone . Rest assured it's an absolute delightful experience.<br> :date: __2021-02-18 23:30:56__
@@ -206,8 +208,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Great, got me in in the early morning hours before urgent cares were even open.<br> :date: __2021-01-26 14:03:49__
 
 > The provider was very concerned about why I was using connect care. She was just a caring person.<br> :date: __2021-01-17 23:08:12__
-
-> So convenient. Can't wait to share with my college student. Be prepared to fill in information as you would at a doctor's office.<br> :date: __2021-01-14 23:20:59__
 
 
 
@@ -273,6 +273,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="2_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 2 reviews"/>
 </p>
 
+> This app always freezes up. So hard to get to everything you need to see.<br> :date: __2021-03-21 03:13:16__
+
 > Not do happy with some things<br> :date: __2021-01-26 03:57:34__
 
 > I was next to see someone 6 times and got booted back to the beginning, had to reenter my info, and wasted 45 minutes.<br> :date: __2020-10-19 03:38:49__
@@ -290,8 +292,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Not able to connect - no video<br> :date: __2020-05-18 18:38:55__
 
 > Freezes a lot.<br> :date: __2020-05-06 00:20:16__
-
-> Worked before but now it only records the front camera (the wrong one) and the physician says they can only see lines, like a garbled old school tv. Broken video...<br> :date: __2020-04-24 06:33:34__
 
 
 

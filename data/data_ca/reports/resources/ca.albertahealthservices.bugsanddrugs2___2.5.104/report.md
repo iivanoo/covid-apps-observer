@@ -151,17 +151,17 @@ No recent reviews available with 3 stars.
 #### 2-star reviews
 
 <p align="center">
-<img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.bugsanddrugs2 2 reviews"/>
+
 </p>
 
-> Content is great but the UI had suffered since 2.0 upgrade (user interface downgrade in my opinion).<br> :date: __2020-09-01 05:27:00__
-
-
+No recent reviews available with 2 stars.
 
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.bugsanddrugs2 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Content is great but the UI had suffered since 2.0 upgrade (user interface downgrade in my opinion). The app freezes every time I try to search content. I suggest find go back to the old app which was awesome!<br> :date: __2021-03-16 21:48:04__
+
+

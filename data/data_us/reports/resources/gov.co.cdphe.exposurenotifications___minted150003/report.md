@@ -153,6 +153,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="4_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 4 reviews"/>
 </p>
 
+> Good<br> :date: __2021-03-18 18:03:16__
+
 > Thanks keep us informed?<br> :date: __2021-02-05 23:11:31__
 
 > Dunno if there's anything I can reasonably say about it useful.<br> :date: __2021-01-28 03:03:37__
@@ -170,8 +172,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Great concept but kills my battery. I do have an old phone though so that may be the issue.<br> :date: __2020-10-27 15:53:56__
 
 > I had trouble getting the notifications to work like a lot of people had posted, I uninstalled and reinstalled the app and it worked the next time. Not sure what causes this. Glad we have some form of contact tracing!<br> :date: __2020-10-26 03:29:29__
-
-> The title makes it sounds like a carbon monoxide detector -why no mention of COVID-19 or "infectious disease"?<br> :date: __2020-10-26 02:43:35__
 
 
 
@@ -209,6 +209,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
 
+> Used to only notify you once about bluetooth, now does it all the time. That incentivizes me to uninstall since you cannot turn that notification off. Unfortunate.<br> :date: __2021-03-18 04:36:52__
+
 > Confusing app. When you go to notify the app you have covid it prompts you to enter a notification code. But the text message you receive doesn't contain a code, but a link you click on and follow prompts. The text I got after testing positive came 2 days later and was in a spam folder (I didn't know my phone filtered suspected spam). So I kept thinking I didn't have the verification code & contacted CDPHE several times to no avail. They should email the info too & have an FAQ on the app.<br> :date: __2021-02-19 19:43:17__
 
 > This app doesn't work. I installed it when it first became available. It has never once in all that time reported an exposure regardless of how remote the exposure might be.<br> :date: __2021-02-03 23:39:55__
@@ -227,8 +229,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > Jg<br> :date: __2020-12-18 12:54:33__
 
-> I don't think this app works<br> :date: __2020-11-28 16:58:50__
-
 
 
 #### 1-star reviews
@@ -236,6 +236,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
+
+> I have a question.. If your app uses Bluetooth to recognize other phones and that phone's user's status, what happens if I 'always' listen to music on Bluetooth headphones when out in downtown.. Is your app useless in this situation?<br> :date: __2021-03-18 07:09:12__
+
+> I was asked to install this by my boss at work but I don't think it works itself? 🤔<br> :date: __2021-03-18 01:50:21__
+
+> Its lying cuz I'm outside doing it<br> :date: __2021-03-17 17:43:47__
 
 > Piss off, covid brownshirts.<br> :date: __2021-03-12 02:31:49__
 
@@ -250,11 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Pretty useless since people don't post their results on here.<br> :date: __2021-02-14 19:02:01__
 
 > Tried to report a positive case and it wouldn't let me. Needed some kind of code but there was no information on where to get the code from. Useless. I also had it installed for months and never got one notification of any exposure, which seems really improbable.<br> :date: __2021-02-14 05:03:06__
-
-> I've had this app for several months but I've never had any reports of someone having Covid-19 which doesn't seem realistic.<br> :date: __2021-02-14 03:45:15__
-
-> I tested positive for covid on Wed 2/3 and have been trying to report it to the app since to notify others and help contact trace. I haven't heard from the health dept or been able to get in touch w them in order to get my "verification code", which makes this app completely useless.<br> :date: __2021-02-07 05:58:21__
-
-> Why does this app exist? It does nothing if folks don't share their status.<br> :date: __2021-02-06 03:47:28__
 
 

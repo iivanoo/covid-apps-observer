@@ -174,6 +174,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="gov.de.covidtracker 4 reviews"/>
 </p>
 
+> Recommend adding a setting for those vaccinated to help keep track.<br> :date: __2021-03-15 19:06:08__
+
 > Easy<br> :date: __2021-03-04 23:31:57__
 
 > Very interesting<br> :date: __2020-12-22 02:32:40__
@@ -193,6 +195,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.de.covidtracker 3 reviews"/>
 </p>
+
+> I got a few advises but not many<br> :date: __2021-03-19 06:15:52__
 
 > its boring<br> :date: __2020-12-12 11:47:50__
 

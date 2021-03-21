@@ -142,25 +142,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 5 reviews"/>
 </p>
 
-> Application très utile pour la situation actuelle. Merci<br> :date: __2021-03-14 13:33:40__
+> Tres burn felicitation<br> :date: __2021-03-21 14:19:55__
 
-> Très bien c'est plus info.<br> :date: __2021-03-14 11:54:18__
+> Superbe j'adore cette appli<br> :date: __2021-03-21 11:26:20__
 
-> Pour moi, ne pose aucun problème à par le fait de devoir garder le WiFi actif. Pour ceux qui critiqueraient les développeurs, cette appli est développée par les plus grosses entreprises de développement du pays, et pas par "l'administration"...tout a été fait pour respecter la protection des données, ce qui peut mener à un manque d'information quand on est cas contact, mais l'état ne vas pas s'amuser à violer la loi pour que vous sachiez qui vous a potentiellement transmis le virus par exemple<br> :date: __2021-03-14 09:50:27__
+> Simple<br> :date: __2021-03-21 11:13:36__
 
-> Application en cours. J'attends son efficacité.<br> :date: __2021-03-14 06:46:00__
+> Très bien<br> :date: __2021-03-21 10:32:43__
 
-> Tres bonne application merci<br> :date: __2021-03-13 20:14:27__
+> Lolo<br> :date: __2021-03-21 10:32:05__
 
-> Devrait devenir obligatoire. A mettre entre toutes les mains.<br> :date: __2021-03-13 19:29:22__
+> il manque de statistiques c'est mieux d'avoir le risque en temps réel il doit nous alerter soit avec vibrations soit par une alarme il ne servent qu'à faire l attestation rien de plus<br> :date: __2021-03-21 10:03:29__
 
-> Qui as dit sa pour r ma'chaine yt G4Bnael<br> :date: __2021-03-13 16:13:08__
+> Vive Macron. Merci Manu!<br> :date: __2021-03-21 08:54:12__
 
-> Efficace pour la santé de la population.<br> :date: __2021-03-13 12:45:27__
+> Pour des sortie<br> :date: __2021-03-21 08:02:41__
 
-> Super pratique<br> :date: __2021-03-13 12:19:09__
+> Excellente. Application très pratique<br> :date: __2021-03-21 05:59:26__
 
-> Indispensable<br> :date: __2021-03-13 11:39:40__
+> Aucun problèmes . Bien utile<br> :date: __2021-03-20 23:21:31__
 
 
 
@@ -170,25 +170,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 4 reviews"/>
 </p>
 
-> Toujours négatif Envoyé<br> :date: __2021-03-13 15:22:04__
+> Facile à utiliser et non intrusive<br> :date: __2021-03-21 11:38:23__
 
-> Difficile de taper le texte manque d entraînement<br> :date: __2021-03-13 05:01:55__
+> Dommage que la mise à jour d'exposition soit des délais trop long.<br> :date: __2021-03-21 10:15:10__
 
-> Première fois que je veux l'utiliser : impossible ! Ça plante à chaque fois que je la lance...<br> :date: __2021-03-12 21:59:26__
+> Manque de clarter<br> :date: __2021-03-21 08:18:00__
 
-> Pas de reponse......?<br> :date: __2021-03-12 19:59:16__
+> Ça ne fonctionne pas du tout c est dingue d être incapable de créer une application et encore plus fou de demander aux citoyens de la télécharger sans vérifier que cela fonctionne...on se demande du coup si cela a réellement un intérêt !!!<br> :date: __2021-03-20 21:55:31__
 
-> Tout ok.<br> :date: __2021-03-12 17:31:41__
+> Pas adapté à la version de mes téléphones et tablettes<br> :date: __2021-03-20 19:04:59__
 
-> Bonne source d'informations .<br> :date: __2021-03-12 10:19:26__
+> Les attestations de sortie pour les zones confinés n'ont pas été mises à jour . Dommage car super pratique l'attestation sur TousAntiCovid !<br> :date: __2021-03-20 18:47:44__
 
-> Très bien pour les suivis<br> :date: __2021-03-12 10:18:26__
+> Bien<br> :date: __2021-03-20 15:20:30__
 
-> 0ans 00ans 0ans 00ans ont 00ans 00ans 0mois 990ans 0ans 00ans 09ans 8ans 0ans 0ans 0ans 0ans 003800ans 0ans 0jours 93000ans 0009ans 0ans 0ans: p: 8ans des 79ans et 0ans 000ans ( ⁸8) en<br> :date: __2021-03-12 07:29:11__
+> Cool<br> :date: __2021-03-20 14:51:56__
 
-> impeccable<br> :date: __2021-03-11 21:54:27__
+> Je galère un peu, pas évident<br> :date: __2021-03-20 14:28:53__
 
-> Regrette que TousAntiCovid ne soit pas ouvert pr couple ou famille avec inscription des membres. Merci svp Cordialement<br> :date: __2021-03-11 20:25:06__
+> Il faudrait rapidement mettre à jour l'appli pour prendre en compte le 3eme confinement 😒. Il est inutile d'afficher les motifs 9 à 13 en dehors des weekends. Merci d'avoir ajouté les graph 🤩. Je mets donc 5 étoiles 😘. Petite suggestion : placer une petite flèche vers le haut ⬆️ ou bas ⬇️ devant les chiffres pour montrer d'un coup d'œil la tendance. Je n'ai noté aucun impact négatif sur la consommation de batterie sur mon smartphone 👍🔋.<br> :date: __2021-03-20 13:30:06__
 
 
 
@@ -198,25 +198,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 3 reviews"/>
 </p>
 
-> J'ai été alerté d'une exposition à risque élevée suite à un contact il y a 2 jours. Je suis isolé depuis mais ai reçu une nouvelle alerte hier puis encore une à l'instant. Est-ce que cela signifie que plusieurs personnes ayant été en contact proche se sont déclarées positives, ou est-ce un comportement normal ? N'ayant quasiment pas eu de contact à part au bureau où personne n'est positif, je me pose des questions. Il est dommage qu'on n'ai pas l'information de date du contact à risque...<br> :date: __2021-03-13 14:56:32__
+> Je n'ai pas les mêmes chiffres que d'autres personnes ayant l'application alors que nous vivons tous dans le même département.<br> :date: __2021-03-21 14:33:12__
 
-> Je n'arrive toujours pas à l'activer<br> :date: __2021-03-12 17:46:20__
+> Attestation pas mise à jour en temps réel<br> :date: __2021-03-21 13:54:25__
 
-> Rbr rrr4 .3e année. Qu'elle 2ème année 2222222 de te dire dire un peu plus r r rr4 de r3<br> :date: __2021-03-12 12:20:38__
+> Je viens juste,telegarger l'application.<br> :date: __2021-03-21 11:51:33__
 
-> Il serait vraiment souhaitable que l'application donne la date précise de la rencontre avec un contact testé covid<br> :date: __2021-03-12 09:55:50__
+> Les nouvelles attestations de sortie ne sont toujours pas disponibles depuis l'annonce du 18 mars 2021, cela fait 3 jours maintenant<br> :date: __2021-03-21 11:42:27__
 
-> Ça marche.<br> :date: __2021-03-12 07:01:51__
+> Quand sera mise à jour l'application suite aux mesures gouvernementales entrées en vigueur le 20 mars 2021 ?<br> :date: __2021-03-21 11:07:27__
 
-> Informatif<br> :date: __2021-03-11 21:00:18__
+> J'ai un Samsung galaxy A3 2016 réf SM-A310F. L'application indique que le smartphone n'est pas intégralement compatible avec le Bluetooth low energy, alors que l'application BLE checker me donne un résultat positif et que l'application fonctionne correctement sur un smartphone identique que possède ma femme. Le problème est résolu lors de l'avant dernière mise à jour Par contre je ne comprends pas qu'on soit obligé d'aller sur le site du gouvernement pour les attestations de journée,<br> :date: __2021-03-21 10:32:22__
 
-> Dernière maj. L appli cherche internet et ne trouve pas. Après 2 re install ça a fini par refonctionner.<br> :date: __2021-03-11 19:31:56__
+> Impossible de charger les motifs de déplacement pour les déplacements en journée de 6h à 19h. Ils restent sur ceux du couvre-feu.<br> :date: __2021-03-21 10:30:20__
 
-> Mieux qu'avant<br> :date: __2021-03-11 13:46:09__
+> La dernière attestation dérogatoire du 20 mars 2021 n est pas disponible sur T.A.C.<br> :date: __2021-03-21 09:07:56__
 
-> Application pratique pour créer facilement son attestation et être sûr de l'avoir avec soi.<br> :date: __2021-03-10 22:48:15__
+> La mise à jour<br> :date: __2021-03-21 08:35:38__
 
-> Impossible à activer msg apres mise à jour reclamee par l appli. " tousanticovid s est arreté. Corrigé ensuite. Sur Derniere version icone inactive. Il faut repartir chaque fois de google play store. Quid de l anonymat ?<br> :date: __2021-03-10 18:05:30__
+> Attestation pas à jour<br> :date: __2021-03-21 04:56:29__
 
 
 
@@ -226,25 +226,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 2 reviews"/>
 </p>
 
-> Site sans intérêt<br> :date: __2021-03-14 12:03:27__
+> Il n à pas la nouvelle attestation c'est comme exagéré ça fait 3 jours que les annonces ont été faites ça devrait être déjà à jour<br> :date: __2021-03-21 15:09:08__
 
-> Tous anti covid<br> :date: __2021-03-14 08:55:00__
+> L'attestation n'est pas à jour<br> :date: __2021-03-21 14:45:38__
 
-> Il y a soit disant une nouvelle aplication mais elle ne se charge pas et cela me fait juste perdre du temps<br> :date: __2021-03-13 23:53:43__
+> C tu yyy<br> :date: __2021-03-21 10:48:05__
 
-> L'application donne une alerte sans même donner une date. Elle annonce un isolement de sept jours à venir chaque jour qui suit. Voilà huit jours, test négatif. Application mal conçue, simplement anxiogène.<br> :date: __2021-03-12 23:31:10__
+> La batterie de mon téléphone baisse très vite et je ne peux plus utiliser le bluetooth lorsque l'application est activée. Elle me sert uniquement pour les attestations ce qui est quand même dommage.<br> :date: __2021-03-21 10:31:40__
 
-> Même problème que beaucoup de personnes : obligée de désinstaller et réinstaller pour que ça remarche. Les statistiques de chargement de cette application doivent être fausses du coup !!! C'est dommage.<br> :date: __2021-03-12 18:13:25__
+> L'application ne fonctionne plus pour les attestations , même en passant par le touche site Web avec apres 19h jusqu'à 6h mais impossible de 6h à 19h j'espère que cela va vite être réglé. Sinon très bonne application<br> :date: __2021-03-21 08:25:55__
 
-> Fonctionne bien pour les attestations sur smartphone samsung mais impossible sur iPhone - utilisé Ancienne et nouvelle version aucun message pour cas positif même chez médecin kiné etc ... et même sur des voisins confiné ..( raison : pas obligatoire) A revoir - ne fonctionne pas après 18h00<br> :date: __2021-03-11 18:26:29__
+> Impossible de télécharger la nouvelle attestation ! Je suis dans un département "confiné" et je n'ai pas d'imprimante. Une MAJ s'impose ! 🤬<br> :date: __2021-03-20 22:20:48__
 
-> Impossible d'activer l'application depuis la dernière mise à jours<br> :date: __2021-03-11 17:59:57__
+> Mises à jours non automatiques<br> :date: __2021-03-20 21:28:47__
 
-> Déjà, lors d'une alerte, la date du contact n'est pas indiquée. On ne sait donc pas jusqu'à quand s'isoler. Pire : mon épouse et moi avons reçu une alerte en même temps. Depuis 5 jours nous sommes totalement isolés et pourtant nous recevons des alertes tous les jours et plusieurs fois par jours. Parce que chacun de nous est proche de l'autre ? Avec ce jeu de miroirs, devra-t-on rester isolés jusqu'à la fin des temps ?<br> :date: __2021-03-11 07:49:20__
+> Chaque mise à jour efface les données personnelles. Il y a très souvent des mises à jour sauf lorsqu'elles seraient nécessaires, comme aujourd'hui 20 mars 2021 puisque l'attestation n'est pas nécessaire entre 6h et 19h en Ile-de-France et la carte d'identité suffit pour prouver que l'on reste dans un rayon de 10 km autour de son domicile !! Je ne félicite ni notre gouvernement ni nos administrations sur la gestion de cette pandémie et la mise à disposition de l'appli Tous Anticovid. Amateurs !😱<br> :date: __2021-03-20 20:24:32__
 
-> Je la retrouve regulierement desactivee sans aucune alerte ni explication et sans avoir arrete bluetooth . Ras le bol<br> :date: __2021-03-10 16:37:57__
+> Les mises à jour ne sont pas au point!<br> :date: __2021-03-20 18:14:47__
 
-> Dérangé par des notifications sans intérêt et qu'on ne peut pas bloquer sans rendre l'appli inutile<br> :date: __2021-03-09 20:53:58__
+> L' attestation n' a pas été mise à jour suite au confinement de toutes les régions<br> :date: __2021-03-20 16:56:15__
 
 
 
@@ -254,24 +254,24 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 1 reviews"/>
 </p>
 
-> Moi je maintiens 1 étoiles grosses déceptions , n'arrête pas de planter , bouffe énormément batterie faut en prévoir une externe ! Vous allez utiliser cette chose pour réouvertures bar , resto etc .... Sur un commentaire une personne parle jeux de miroir car sa femme et lui reçoives alertes en même temps il demande si il leurs faudras rester isolés jusqu'à la fin des temps ? Il vous quand même mit 2 étoiles<br> :date: __2021-03-14 14:11:00__
+> N a jamais pu l installer encore quelque chose d inutile comme les attestations lamentable<br> :date: __2021-03-21 15:33:16__
 
-> Décidément il n'y a aucun talent chez nous<br> :date: __2021-03-14 11:18:34__
+> Pas efficace, j'ai été testée positive le 19 mars, j'ai rentré le code pour me signaler dans l'après midi même, et nous sommes le 21, et mon mari qui vit avec moi n'a toujours pas eu d'alerte, ca lui dit toujours "pas de contact a risque détecté..." lorsqu'il ouvre l'appli ! Alors qu'il est cas contact et isolé avec moi...<br> :date: __2021-03-21 15:16:29__
 
-> 27/10/20. Je dois la réinstaller régulièrement à cause de bugs à répétition qui bloquent toute activation. J'espère que l'État français n'a pas dépensé une fortune dans ce travail ni fait ni à faire. En complément : même bug avec tousanticovid que j'installe pour le 3eme fois en 4 jours... Je commence à désespérer et pense à renoncer. 15/01/21. Installation de l'appli pour la 20ème fois. 15/01/21 (+5'). Et de 24 ! Faites quelque chose si vous tenez à ce que les gens utilisent cette application.<br> :date: __2021-03-14 10:45:50__
+> Et si l'application permettait d'être plus claire que le discours fumeux du premier ministre il y aurait du progrès... même pas à jour Di 21 mars pour le confinement de Mars c'est pénible et trop bureaucratique avec je m'en foutisme gouvernemental ! Vive la bidulocratie républicaine... Vive la Castexo Bordellie tatillonne Après la Merdouille Philipienne d'avant ! Vive les en marche la Bureaucratie le fameux parti au Pouvoir !<br> :date: __2021-03-21 13:13:55__
 
-> Je ne parviens plus à activer l'application alors que je l'avais fait dès le début.<br> :date: __2021-03-14 10:27:50__
+> Positif, je me suis signalé il y a 2 jours, et alors que toute ma famille utilise l'application, personne n'a pourtant été prévenu qu'il était cas contact. Pourquoi nous faire utiliser une application qui ne remplie pas son rôle ?<br> :date: __2021-03-21 13:11:32__
 
-> Impossible de se declarer<br> :date: __2021-03-14 09:41:04__
+> Nécessite toujours d'etre réinstallée après chaque mise à jour (pour gonfler les chiffres de téléchargements ?). A cet instant ne propose toujours pas les attestations à jour liées au confinement. Enfin, le plus important, ne m'a jamais informé d'un contact depuis qu'elle existe, je suis... Médecin généraliste et reçoit des patients Covid+ tous les jours. Comme quoi personne ne l'utilise !<br> :date: __2021-03-21 13:07:37__
 
-> Impossible d'ouvrir l'application<br> :date: __2021-03-13 22:25:27__
+> Ne fonctionne pas depuis novembre elle est quasiment toujours désactivée alors que tous les paramètres et autorisations sont OK. Je viens de passer 3 semaines en milieu hospitalier dans différents services elle n'a pas fonctionné, du coup je ne sais pas si j'ai été en contact avec des personnes positives. Son seul intérêt c'est de délivrer les autorisations rapidement lors du confinement donc rarement pour moi. Bref beaucoup de pubs, de bruits pour une application HS.<br> :date: __2021-03-21 12:52:40__
 
-> Donnez nous tous les chiffres du 'jour<br> :date: __2021-03-13 20:23:29__
+> Informations contradictoire peut pas mettre moins<br> :date: __2021-03-21 11:48:48__
 
-> Application pour les hypocondriaques écervelés toujours prets à sacrifier leur liberté pour plus de sécurité. Bientôt TousAntiBronchite, TousAntiGrippe, TousAntiAmiantose, TousAntiRhume, TousAntiPneumonie... Ah non tout ça n'existe plus.<br> :date: __2021-03-13 19:22:31__
+> Ne fonctionne plus depuis la dernière mise à jour<br> :date: __2021-03-21 11:16:07__
 
-> Impossible à télécharger deouis mon smartphone Galaxy S20 5G FE<br> :date: __2021-03-13 18:34:29__
+> Lent...<br> :date: __2021-03-21 10:31:17__
 
-> Et sinon, à quand une strategie pour soigner les gens ( hcq, ivermectine...) ?<br> :date: __2021-03-13 17:18:19__
+> La liste des dérogations de sorties n'est pas à jour. De plus le site web pour les attestations est défaillant. Impossible de cliquer sur "Journée 6h-19h"... En gros impossible de faire une attestation potable<br> :date: __2021-03-21 10:01:09__
 
 

@@ -193,6 +193,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> Great App for information on any type of medical questions<br> :date: __2021-03-18 09:43:15__
+
 > Not enough time to express how awesome and helpful webMD has been. Keeping it simple,. LOVE AND WILL CONTINUE TO LOVE THIS SITE AND APP. CAN'T MAKE BETTER BETTER THAN. THANK YOU VERY MUCH<br> :date: __2021-03-09 22:27:57__
 
 > Very Excellent Thank You<br> :date: __2021-03-02 09:16:12__
@@ -210,8 +212,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Nice<br> :date: __2021-02-07 16:42:29__
 
 > Love having answers at my finger tips!<br> :date: __2021-02-04 20:31:33__
-
-> Most Authentic Health App.... Highly recommend.<br> :date: __2021-02-01 01:54:58__
 
 
 
@@ -305,6 +305,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="1_star_reviews_wordcloud.png" alt="com.webmd.android 1 reviews"/>
 </p>
 
+> Totally useless<br> :date: __2021-03-20 00:04:19__
+
 > Your COVID19 guidance is all over the place. How can anyone trust this information or even yet make sense of it<br> :date: __2021-03-09 03:10:00__
 
 > All the app keeps doing is giving me unfounded info about covid. Except for a few extremists and far out nuts, Most of the world is over it. This app used to be useful, but now every symptom seems to point to covid. That makes this app difficult to use because now you have to put a lot of thought into exact symptoms to get accurate results. No thanks!<br> :date: __2021-02-28 18:38:43__
@@ -322,7 +324,5 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > Keeps crashing, not opening!!<br> :date: __2021-01-12 20:14:41__
 
 > Worthless account set up designed by a moron<br> :date: __2021-01-12 03:32:29__
-
-> Started getting political propaganda from web md. Very disappointed. Removing App. They should stick to Science and Medicine.<br> :date: __2021-01-12 00:22:25__
 
 

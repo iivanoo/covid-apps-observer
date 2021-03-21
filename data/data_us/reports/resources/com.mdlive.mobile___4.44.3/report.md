@@ -210,25 +210,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Very professional doctor and very thorough examination I really appreciated her.<br> :date: __2021-03-14 07:44:52__
+> Profesional and convenient.<br> :date: __2021-03-21 00:42:21__
 
-> Its optional<br> :date: __2021-03-14 07:24:18__
+> Good doctors<br> :date: __2021-03-20 23:16:14__
 
-> Have had a great experience with the doctors. Is so helpful to have a doctor in your home right when needed.<br> :date: __2021-03-13 17:15:16__
+> Overall great experience everytime I use it and I would definitely recommend it to anyone.<br> :date: __2021-03-20 14:02:22__
 
-> Appreciate this service in these troubling times<br> :date: __2021-03-12 20:38:54__
+> Okay 👌<br> :date: __2021-03-19 20:47:52__
 
-> Needed a prescription for a pretty minor problem and 10 min later I had it!!! What a great process!!!<br> :date: __2021-03-12 18:45:02__
+> Always helpful and fast best way to see the dr<br> :date: __2021-03-19 14:04:37__
 
-> Super quick, the doctor was so nice and helpful!!<br> :date: __2021-03-12 02:58:27__
+> Wake up<br> :date: __2021-03-19 10:44:49__
 
-> Professional, easy, and a great tool to accommodate a busy lifestyle.<br> :date: __2021-03-11 23:28:04__
+> Fast easy service way cheaper than insurance for my needs.<br> :date: __2021-03-18 13:01:59__
 
-> Great experience Doctor was informative and explained everything perfectly<br> :date: __2021-03-11 22:24:44__
+> Wonderful experience.... Doctor was very detailed and pleasant. Great app!!<br> :date: __2021-03-17 22:59:22__
 
-> The system works very well. Dr. is always very kind and caring.<br> :date: __2021-03-11 14:57:39__
+> Nice experience.<br> :date: __2021-03-17 14:03:56__
 
-> Absolutely amazing. Great doctor, fast wait time 100% recommend<br> :date: __2021-03-11 00:57:43__
+> Once you get set up and figure it out, super easy to use. See a doctor right away who is very good and understanding of kids<br> :date: __2021-03-16 15:40:02__
 
 
 
@@ -237,6 +237,10 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> Very good experience with this app. I only knocked off a star because the first appointment was through video and it didn't connect. I have 5G so I knew i had a pretty good connection. It may have been something else but other than that it was as good as in person but with everything going on its even safer.<br> :date: __2021-03-18 21:00:45__
+
+> Doctors are readily available, and app is easy to use.<br> :date: __2021-03-18 00:51:07__
 
 > The doctors are wonderful, very knowledgeable and precise. I do have issues with Sofie triage, you have to trick the system because it may not register your ailments.<br> :date: __2021-03-13 20:17:56__
 
@@ -254,10 +258,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 
 > Good video connection<br> :date: __2021-02-15 16:06:18__
 
-> Main issue is accidentally skipping appointments by just a few seconds puts you back in line. However the ability to jump right back in is easy and the low cost really helps motivate me to get medical advise I'd otherwise need to spend way more money for.<br> :date: __2021-02-02 21:43:14__
-
-> Awesome and helpful<br> :date: __2021-01-28 18:15:05__
-
 
 
 #### 3-star reviews
@@ -265,6 +265,10 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.mdlive.mobile 3 reviews"/>
 </p>
+
+> It's better than most other than apps<br> :date: __2021-03-15 16:21:15__
+
+> Medical phone up to, "... $82, $108," insurance is payment. See app pre explanations. Not a patient.<br> :date: __2021-03-14 22:43:21__
 
 > Hard to navigate.<br> :date: __2021-02-26 21:33:04__
 
@@ -281,10 +285,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > Countless technical difficulties logging in to do a video chat missed four appointments in a row because video chat wouldn't connect.<br> :date: __2020-12-06 01:58:44__
 
 > The app its self is hit or miss performance. There are often errors especially with video stream consolation. The rest of the app seems to work fine. I missed a total of 4 appts in a row.<br> :date: __2020-12-01 19:39:15__
-
-> Super buggy. Lacks adequate loading signifiers. Lacks profile signifiers when 2 people share the same name. Refreshes spontaneously when trying to create profile. But still a good service. Was able to get my medicine way faster than if I scheduled a live appointment.<br> :date: __2020-12-01 04:32:18__
-
-> The app did not work i had to go through my insurance company to get through something is not good with the app it just keeps kicking me to web page not avilible<br> :date: __2020-11-28 00:29:37__
 
 
 

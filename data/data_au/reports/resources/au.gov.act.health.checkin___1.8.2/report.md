@@ -142,6 +142,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Very responsive and quick and easy to use.<br> :date: __2021-03-15 01:17:29__
+
 > Work well and easy to use compare to NSW app<br> :date: __2021-03-14 10:25:36__
 
 > EDIT: In response to my previous rating developer explained app had stopped working with earlier versions of Android. They have now fixed it and it's working perfectly so I've upgraded to 5 stars. Has stopped working since last update. Have reinstalled but still crashes.<br> :date: __2021-03-05 03:31:28__
@@ -159,8 +161,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Works for me 👍<br> :date: __2021-02-28 08:40:06__
 
 > Great idea and was easy to use BUT doesn't work any more on my Samsung after the upgrade on 25th of Feb. A bug must have been introduced.<br> :date: __2021-02-27 20:21:14__
-
-> Easy to use.<br> :date: __2021-02-22 08:09:10__
 
 
 
@@ -224,6 +224,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
 
+> Devs should be shot. Does not work with Google to restore on reinstall. QR scan is black. It cannot use the camera? All other QR apps work perfectly. This is a bog simple App. Who is testing it? Black screen on subsequent attempts. It's not memory it is programming. How hard can it be? API level 21 indeed.<br> :date: __2021-03-16 04:11:59__
+
 > Why does this get stuck "finding location" now? It used to work reliably.<br> :date: __2021-03-06 09:55:15__
 
 > Does not work on samsung J mini. Screen keeps going blank and won't connect to camera.<br> :date: __2021-03-02 00:32:11__
@@ -242,8 +244,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Takes to long to download<br> :date: __2020-12-06 04:07:36__
 
-> App fails to install, despite several attempts...says it is installed but goes back tp wil instal shortly.....<br> :date: __2020-11-11 09:29:39__
-
 
 
 #### 1-star reviews
@@ -252,9 +252,9 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
-> App didn't work so i deleted it and tried to upload again, it won't load....it must be broken....it used to be a good app<br> :date: __2021-03-12 11:33:16__
+> App didn't work so i deleted it and tried to upload again, it won't load....it must be broken....it used to be a good app.<br> :date: __2021-03-17 01:53:44__
 
-> I used this app successfully for 6 weeks until the beginning of March on my Samsung Galaxy s9. Now it will not work. Tells me there is no internet connection which is not true. I have uninstalled it and reinstalled it a number of times it work once or twice then fails again. It will not accept keying in the code manually either.<br> :date: __2021-03-09 05:29:36__
+> This app worked fine on my Samsung Galaxy s9 for 6 weeks. Now it no longer works. I have uninstalled it and reinstalled it numerous times. It will work once and then I get the red error message saying there is no wi fi connection. Not true. What do you mean apply the fix 1.8.2? No explanation has been given. This is becoming so frustrating. Please don't say it is an issue with older Androids. Th phone is 2 years old. There is a problem with the app.<br> :date: __2021-03-16 02:05:16__
 
 > Far too messy compared to other states<br> :date: __2021-03-09 02:03:13__
 

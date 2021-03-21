@@ -145,9 +145,9 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
-> I believe in anything created by our saviour Jason "the king" Kenny. May this app save Alberta from economic ruin.<br> :date: __2021-01-01 07:29:58__
+> 3rd Rev: If more Albertans use this it would be more effective! Still no battery problem, 5 days 20 hrs used 8.9%. Dec 29/20 2nd Rev: No problem with battery, 5 days 19 hrs used 9.2%. Minimal to assist Contact Tracing! Sept 4/20: My phone is 3 1/2. In a 12 hr period the battery usage was only 0.7%. My only complaint is that it shows an icon in my status bar regardless if Bluetooth is on or off. I would prefer that the icon only shows when Bluetooth is off.<br> :date: __2021-03-17 16:52:32__
 
-> 2nd Review: No problem with battery, 5 days 19 hrs used 9.2%. Minimal to assist Contact Tracing! Sept 4/20: My phone is 3 1/2, in a 12 hr period the battery usage was only 0.7%. My only complaint is that it shows an icon in my status bar regardless if Bluetooth is on or off. I would prefer that the icon only shows when Bluetooth is off. Until we get the National app here at least it's one thing I can do. Who knows when we'll get the National one!?! Hopefully sooner than later!<br> :date: __2020-12-29 22:50:28__
+> I believe in anything created by our saviour Jason "the king" Kenny. May this app save Alberta from economic ruin.<br> :date: __2021-01-01 07:29:58__
 
 > It tells you where the cases are<br> :date: __2020-12-22 18:04:21__
 

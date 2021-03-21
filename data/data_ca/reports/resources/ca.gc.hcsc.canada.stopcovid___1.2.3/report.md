@@ -147,6 +147,12 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="5_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-03-20 22:48:20__
+
+> More people need to download this app. Editing my review after seeing other comments: STOP GIVING THIS APP 1 STAR YOU MORONS!! Youre not getting a notifocation because you havent been exposed to someone who has been exposed AND also has the app. Bad review = less people using the app = less likely to get a notifocation. Good review = more people using the app = you may actually find out through the app that you were exposed.<br> :date: __2021-03-18 14:25:40__
+
+> Perfect for years thre the end of 2019 too 2021 and maybe longer<br> :date: __2021-03-14 19:00:04__
+
 > Safe feeling<br> :date: __2021-03-13 18:20:09__
 
 > It make it us alert<br> :date: __2021-03-11 21:13:27__
@@ -160,12 +166,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 > Teamgoogle@google com help my team<br> :date: __2021-03-07 06:34:16__
 
 > Definitely a needed app covid has changed everyone's lives and the world we live in this app hell yeah we need it so everyone please get it 🙏🙌❤👍 this app everyone should have ..<br> :date: __2021-03-06 16:46:57__
-
-> Let's do this! I do love the fact that the code is up on GitHub (which I've checked out and it's really well organised.) And kudos to the team for patiently responding to comments, even if most are misguided.<br> :date: __2021-03-05 20:00:46__
-
-> I like it good and great<br> :date: __2021-03-05 19:40:52__
-
-> Excellent<br> :date: __2021-03-03 06:21:35__
 
 
 
@@ -203,6 +203,18 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="3_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 3 reviews"/>
 </p>
 
+> As someone working in the healthcare field, I strongly recommend this app for everyone to use. There is however an issue with the app recently where it always sends a reminder notification that "bluetooth is off, unable to check for exposure" multiple times a day. It ends up being very annoying since I only turn off bluetooth at home, with no one else going out.<br> :date: __2021-03-20 18:17:29__
+
+> Why does this app slow my phone down so much? It drains the battery twice as fast, and my phone is about half as fast. Everything lags while this app is running. I love the idea for the app, but this needs to be improved so as to discourage people from uninstalling it.<br> :date: __2021-03-20 01:25:15__
+
+> I used to think it's great and encouraged everyone to get it, but the latest update keeps reminding me to turn bluetooth on needlessly. When I am home alone, there's no reason to pester me to keep it on 24/7. Please revert this feature<br> :date: __2021-03-18 21:14:57__
+
+> decent<br> :date: __2021-03-16 04:50:19__
+
+> Ok. So what kinds of data is the app now collecting and sending back to the mothership? As I cannot control any aettings<br> :date: __2021-03-14 19:52:25__
+
+> Does this app give me updates on Tableau for my area. I have it on my computer but can't get it on my phone.<br> :date: __2021-03-14 16:26:52__
+
 > Keeps asking to switch on the phone Bluetooth even though it is always on. Uninstalling as not working but just annoying.<br> :date: __2021-03-14 08:08:52__
 
 > It is 100% voluntary COVID reporting which means that infected people will have to notify the app of their infection. What if they don't?<br> :date: __2021-03-13 21:01:17__
@@ -211,18 +223,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > Still not available for Alberta, it's been half a year<br> :date: __2021-03-07 20:07:25__
 
-> I strongly support the principle behind this app and all measures to protect the users' privacy however it would be a HUGE asset to be alerted with a date of exposure, if not a date and time. It would help users identify how long to wait to get tested (asymptomatic individuals should isolate but wait 3-5 days to get swabbed to minimize false negatives) as well as to help with contact tracing. It would also possibly help users identify which activities they are doing are higher risk<br> :date: __2021-03-07 18:17:12__
-
-> When will BC be added?? I've had this app for over 8 month.<br> :date: __2021-03-07 09:41:01__
-
-> Only found out of exposure contact by checking app, was not notified for over 12 hours that I had been exposed.<br> :date: __2021-02-27 21:30:30__
-
-> Stopped working from October to January. Kind of pointless if it doesn't work.<br> :date: __2021-02-26 23:04:27__
-
-> My understanding is that THIS app is for Canadians? How come america doesnt have something like it?<br> :date: __2021-02-25 03:03:04__
-
-> Government starts to use online screening before entering the mall in Ontario. Why not wisely to add the screening in this app and encourage more people to use this. Plus it is waste of time to ask people enter the code in the app IF they test positive. This app should link with the health card system, if they have covid test, it will show on here both negative n positive. So far, I don't see how useful this app is. But it can be useful if add more things in it.<br> :date: __2021-02-24 14:03:28__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,10 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 2 reviews"/>
 </p>
+
+> Great idea but poor execution. It's not useful if persons with Covid are not given the codes to report it.<br> :date: __2021-03-19 12:17:13__
+
+> Needs A Lot of Work. The concept is fine but a lot of flaws. I tested positive for Covid and about 3 times every day it tells me to get a new code to share my new exposures. I'm in quarantine for at least 10 days and not going anywhere. I had to turn it off because it was so annoying.<br> :date: __2021-03-18 19:47:09__
 
 > Just hope no one forgets their phone!<br> :date: __2021-03-06 11:38:26__
 
@@ -247,10 +251,6 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 
 > It doesn't work on my phone:(<br> :date: __2021-02-09 02:32:45__
 
-> Zero, but gave it a 2 for effort. It would be great to see the statistics on the number of events transpired, and if this has done anything or is just another waste of money. Thinking its the latter? Who is going to log in, as exposed, then go out for a walk to a crowded area? Million downloads? Hmmm.<br> :date: __2021-02-07 16:46:01__
-
-> I support the idea of this app but I don't beleive it works. What use is it if nobody whom has received a positive test result shares this with the app? I have been very near to multiple cases over the past 2 months due to an outbreak at work and I've not had a single alert to this fact from this app. Clearly none of those cases were reported. I would be interested in knowing how many positive cases have been documented in my area vs how many were self-reported to this app.<br> :date: __2021-02-07 12:18:08__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The COVID Alert - Let’s protect each other app has been installed by more than
 <img src="1_star_reviews_wordcloud.png" alt="ca.gc.hcsc.canada.stopcovid 1 reviews"/>
 </p>
 
-> Kept prompting me to turn it on even though I had notifications for this app turned off, so I got rid of it<br> :date: __2021-03-13 17:01:05__
+> Don't get it.....<br> :date: __2021-03-21 00:16:05__
 
-> Useless<br> :date: __2021-03-13 00:54:42__
+> This app is an embarrassment to our country. Seriously, we have done an appalling job dealing with this pandemic and an app which does virtually nothing just adds insult to all of the deaths. This app makes me ashamed to be Canadian. A complete failure of an app from a complete failure as a country. Nice one. To elaborate: please compare this app with the one which the South Korean government deployed. Theirs is clearly superior in every way. Check it out. We failed!<br> :date: __2021-03-20 03:46:06__
 
-> App doesn't work of samsung s 20 ultra<br> :date: __2021-03-12 22:37:40__
+> USLESS APP!! Forgot I even had it because its never alerted me. Had it since April 2020<br> :date: __2021-03-20 02:15:18__
 
-> Totally useless in BC. Even now there is no reporting here.<br> :date: __2021-03-12 03:03:12__
+> Useless since no one enters if they are positive for Covid<br> :date: __2021-03-19 01:28:50__
 
-> No one seems to be using it so I don't really have confidence it is working to keep me updated on exposures.<br> :date: __2021-03-10 15:45:41__
+> Useless App. Without a person identity them, it won't alert others. It should be an app the one used in Singapore<br> :date: __2021-03-18 20:21:44__
 
-> App still not active in my province!! 9 months into covid and still not available in BC. Please sort it out!!! Update, well over a year later still does not work, appalling.<br> :date: __2021-03-10 05:44:07__
+> Knowbody is updating the app when they have covid. Waste of taxpayers money.<br> :date: __2021-03-18 16:59:41__
 
-> Totally useless as nobody inputs that they are positive tested.<br> :date: __2021-03-09 18:12:45__
+> Lol. Useless.<br> :date: __2021-03-18 07:47:58__
 
-> Still says not available for use in my area (vancouver island BC)<br> :date: __2021-03-09 06:28:37__
+> Totally piece of carbage ,does not work.i showed positive and nothing happened with app kept saying negative.junk Health Canada is the worst outfit don't trust you at all.<br> :date: __2021-03-18 01:55:08__
 
-> Wow...still doesn't want to work on my Samsung Galaxy S10+. What's up with that?<br> :date: __2021-03-05 23:08:49__
+> No CERB, no data.<br> :date: __2021-03-17 16:35:30__
 
-> Useless. Only tracks people who have the app too.<br> :date: __2021-03-03 14:26:15__
+> Pretty useless for BC residents<br> :date: __2021-03-17 13:16:47__
 
 

@@ -145,6 +145,18 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> information and alert<br> :date: __2021-03-20 19:27:03__
+
+> Good information<br> :date: __2021-03-19 05:43:16__
+
+> The app is well built and is sleek. Unfortunately it captured less than 1% of cases in New York because people are not using it. People are not willing to do the right thing even when their life depends on it.<br> :date: __2021-03-17 21:10:02__
+
+> Very good app.<br> :date: __2021-03-16 18:36:34__
+
+> Did a great job<br> :date: __2021-03-16 13:00:02__
+
+> Great app<br> :date: __2021-03-15 19:15:24__
+
 > The title of the app explains it all<br> :date: __2021-03-12 17:26:53__
 
 > i cant get my exposure alerts<br> :date: __2021-03-09 11:54:35__
@@ -153,18 +165,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > The app works great. More should use it<br> :date: __2021-03-04 14:20:11__
 
-> Very good everithing<br> :date: __2021-03-04 13:29:32__
-
-> Great app , glad they made it<br> :date: __2021-03-03 17:31:34__
-
-> Surrounded with covid patients.never got covid...<br> :date: __2021-03-03 15:27:43__
-
-> Very useful thank you<br> :date: __2021-03-03 14:26:48__
-
-> Good<br> :date: __2021-03-03 05:41:07__
-
-> I love this app check know everyone..<br> :date: __2021-03-02 22:37:37__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 4 reviews"/>
 </p>
+
+> Signed up but it has never activated an alert. Assuming that's a good thing.<br> :date: __2021-03-15 18:08:38__
 
 > Tge app is alright<br> :date: __2021-03-13 01:39:45__
 
@@ -190,8 +192,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Awesome<br> :date: __2020-12-10 16:25:25__
 
 > Greatest<br> :date: __2020-11-26 16:58:01__
-
-> Sounds like a good idea but I really don't know how it works, haven't been getting out much, so I haven't had no alert yet! thank God<br> :date: __2020-11-25 21:36:48__
 
 
 
@@ -257,6 +257,12 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> My wife's boyfriend told me that I should be using this app while I am out playing pokémon GO with my other frienx, or rioting and arsoning with my comrades. Because he doesn't want me bringing this filthy virus into his bedroom. The joke is on him, it's not his bedroom. Our place is owned by a coveting filthy landlord. I asked my frienx john, she/they agreed, i respect xie's truth.<br> :date: __2021-03-19 06:23:14__
+
+> Kinda useless<br> :date: __2021-03-16 17:45:53__
+
+> The government is just trying to control your life by telling you what is good for you. Thank you, but no thank you. I can go to my own personal doctor, he does a much better job than they do.<br> :date: __2021-03-16 15:21:59__
+
 > Janky UI<br> :date: __2021-03-10 22:45:00__
 
 > ableist and unnecessarily invasive<br> :date: __2021-03-10 21:53:04__
@@ -270,11 +276,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > cuomo killed the elderly and sexually harasses women<br> :date: __2021-03-04 04:41:49__
 
 > Stop spamming me to install I'm not a scared sheeple.<br> :date: __2021-03-04 01:35:25__
-
-> Wake up to the scam. Who has died? No one dieing in the streets. And flu seemed to disappear. Go to CDC.gov website to see the real numbers. Don't believe me.<br> :date: __2021-03-03 17:23:51__
-
-> I'm abit confused!! 2 Totally different Reviews!! 1 gets 1 Star, The 2nd gets 5 Stars!! Why is this App on my Phone!!?<br> :date: __2021-03-03 16:40:09__
-
-> App can be manipulated for false positives. After providing symptoms, it tells me unfortunately and I may have Covid-19, yet my symptoms are for a different diagnosis that someone like myself deals with daily due to other health reasons. So basically this app is not fool proof and cannot be taken seriously. I'm now uninstalling it and hope that no residue applications within the app has been left behind in my device as some apps do leave behind unwanted features. Use at your own discretion.<br> :date: __2021-03-03 14:57:12__
 
 

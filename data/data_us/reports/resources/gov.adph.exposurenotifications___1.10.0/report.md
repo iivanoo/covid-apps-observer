@@ -151,6 +151,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> It's straight forward. I mean. Pleasant experience.<br> :date: __2021-03-18 19:50:49__
+
 > It works, but only if everyone uses it. Which given this state 🙄<br> :date: __2021-03-08 14:10:58__
 
 > If you're struggling with the app not being active, make sure in Android settings that it isn't being put to sleep. Android puts apps that you don't open often into a suspended state to save battery usage. You need to disable that for this app.<br> :date: __2021-03-08 06:47:29__
@@ -168,8 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Corpus .. best way to freedom<br> :date: __2021-01-20 08:47:30__
 
 > Best<br> :date: __2021-01-07 12:48:04__
-
-> Was good to know about the App<br> :date: __2020-11-28 18:00:06__
 
 
 
@@ -207,6 +207,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> Works sometimes<br> :date: __2021-03-20 01:55:29__
+
+> Ballz in ya mouth 👄👄<br> :date: __2021-03-16 06:21:44__
+
 > Its not working on my Droid<br> :date: __2021-02-07 04:03:52__
 
 > The app has not sent since November 26. Devs, please advise<br> :date: __2021-01-21 17:55:40__
@@ -222,10 +226,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > None<br> :date: __2020-11-25 00:11:08__
 
 > Up front everything is bluetooth, bluetooth, bluetooth. Then after install the app demands location, too. Good privacy policy, but I can't leave both bluetooth and location on at all times or my phone would have to stay on the charger 24/7. Maybe my fault for having an old phone. I'll leave it installed and just enable everything as the Austin e demands.<br> :date: __2020-11-18 21:28:03__
-
-> it would be better if it reported an estimate of how many unique devices it detected and has checked itself against just to know it is working and seeing other people with the app.<br> :date: __2020-11-16 17:07:14__
-
-> Giving a 3 star review now because I've not used this app on an Android device. I have both Android and iPhone devices. Upon reading reviews of when using on Android devices, as opposed to iPhone devices, I know my iPhone works in real time notifications. Update was recently done on this application, so I'm going to give it a try. He!l, in reality even it notifying a few days later is better than NOT BEING NOTIFIED AT ALL. I will update with a comparison review. Stay safe, do the right thing masks don't hurt ya, and vote. Truly, Your Fellow American<br> :date: __2020-10-12 15:50:41__
 
 
 

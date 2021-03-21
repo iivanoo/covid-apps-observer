@@ -140,9 +140,9 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
-> Was al een fijne app, maar is nu nog beter geworden om in te vullen, geeft ook goede en nuttige updates.👌👍<br> :date: __2020-12-24 04:41:24__
+> voor Elk gezin zeker bij ZelfQuarantaine en/of VACcinatie: jullie en postcode-gebied kunnen zo nog beter in de gaten worden gehouden door onzeGGD. Antwoorden in welke 1) MILDE-vorm van covid kunnen signaleren 2) VACcin bijwerkingen: zoals Trombose-signalen (tintellen handen en/of voeten en of zwartig worden, vocht vasthouden in kuiten/benen). LOGEES ZONDER-deze-app voer ik in en Wil niet-THUis optie! TraceBack-covid19patient krijgt meerEnMeer vorm. Signaal-checks ook in Luscii(=persoonlijk)<br> :date: __2021-03-21 08:01:31__
 
-> voor Elk gezin zeker bij ZelfQuarantaine. postcode-gebied kan zo nog beter in de gaten worden gehouden door onzeGGD. . Selecteren van ja/nee = iedereen dan hetzelfde bedoeld. Antwoorden in welke de MILDE-vorm van covid kunnen signaleren en kan de app dit aangeven dat de gebruiker dit heeft? LOGEES ZONDER-deze-app voer ik in en WIL IK NIET-AKTIEF kunnen zetten!!! TraceBack-covid19patient krijgt meerEnMeer vorm. m.i. zal Rivm/OMT eind sep met coronaMelderapp komen, welke ook BuitensHuis actief is.<br> :date: __2020-12-20 10:20:21__
+> Was al een fijne app, maar is nu nog beter geworden om in te vullen, geeft ook goede en nuttige updates.👌👍<br> :date: __2020-12-24 04:41:24__
 
 > Covid Radar Van het Lumc Oke.alles Goed 👍👍😊Prima 👌 Lang blijven nu niet verwijderen<br> :date: __2020-10-11 08:39:28__
 
@@ -196,6 +196,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 3 reviews"/>
 </p>
 
+> Ineens werkt de app niet meer<br> :date: __2021-03-16 21:50:53__
+
 > Ik mis dat je aan kunt vinken dat je gevaccineerd bent!!!!<br> :date: __2021-02-10 20:12:11__
 
 > Handmatig afsluiten is knullig.<br> :date: __2021-01-31 13:56:39__
@@ -213,8 +215,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Meerdere gebruikers schreven het al : de schuifbalken zijn veel te gevoelig waardoor onbedoeld hoge waarden worden doorgegeven. Gebeurt vooral bij scrollen. Bijvoorbeeld 15 bezoekers gehad terwijl dit eigenlijk 0 had moeten zijn. Mijn inziens worden de uitkomsten dus onbetrouwbaar. Kijk het nog weekje aan, anders stop ik.<br> :date: __2020-04-29 15:13:12__
 
 > Leek een aardige app. Kap ermee want de 5m regel is niet uitvoerbaar<br> :date: __2020-04-25 19:37:29__
-
-> goed idee, alleen jammer dat je gelijk 'besmet' ben als je op een vraag ja antwoord, variabelen zoals hooikoorts worden niet meegenomen althans niet toen ik er mee startte, app dus verwijderd!<br> :date: __2020-04-25 17:44:07__
 
 
 

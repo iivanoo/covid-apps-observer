@@ -157,6 +157,8 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 4 reviews"/>
 </p>
 
+> Reading some of the other reviews. This app only works if other people use it! On that note I had one exposure notification. An improvement would be to have the notification provide links to walk up and drive up testing sites that would hot link me to those sites for immediate testing!<br> :date: __2021-03-16 12:40:20__
+
 > GUrpreet shgh<br> :date: __2020-10-21 19:58:46__
 
 
