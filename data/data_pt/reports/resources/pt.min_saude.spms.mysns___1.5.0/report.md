@@ -171,6 +171,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Excelente<br> :date: __2021-03-27 12:28:23__
+
+> Sem dificuldade.<br> :date: __2021-03-25 16:34:31__
+
 > Bom.<br> :date: __2021-03-15 19:40:57__
 
 > Fundamental. Mas o utente poderia carregar mais dados, eg, os das vacinações antigas.<br> :date: __2021-03-14 16:57:25__
@@ -186,10 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito prático e eficiente. Resume o histórico clinico<br> :date: __2021-01-29 11:51:00__
 
 > Muito bom<br> :date: __2021-01-27 17:41:06__
-
-> Bom.<br> :date: __2021-01-21 23:47:44__
-
-> Impecavel<br> :date: __2020-11-24 18:59:55__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Esta senpre PARAR NÃO presta<br> :date: __2021-03-22 20:11:37__
+
 > Leva uma estrela porque nao da para levar zero. Uma pena que a app nao funciona de maneira nenhuma. Algo que poderia ser bastante util simplesmente nao serve para nada.<br> :date: __2021-03-18 11:36:05__
 
 > Por enquanto, uma app de notícias e pouco mais.<br> :date: __2021-03-17 14:27:24__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Porque não funciona neste telemóvel???<br> :date: __2021-03-04 00:58:01__
 
 > Naõ faz atualizaçaõ.<br> :date: __2021-02-25 11:00:27__
-
-> Não funciona em telemóveis com Android 10<br> :date: __2021-02-15 21:53:37__
 
 

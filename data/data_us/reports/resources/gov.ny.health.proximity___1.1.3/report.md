@@ -145,6 +145,16 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> 02bvo$nowor...<br> :date: __2021-03-26 19:03:03__
+
+> Tested positive. NY Contact tracer was able to activate it..<br> :date: __2021-03-25 15:34:25__
+
+> HELP FROM UPSTAE NEW YORK I HA D. .. ....! R<br> :date: __2021-03-24 09:44:11__
+
+> Accurate and easy to use<br> :date: __2021-03-23 04:28:19__
+
+> The information was very helpful and more awareness about this new techology. Thanks!<br> :date: __2021-03-22 07:47:44__
+
 > information and alert<br> :date: __2021-03-20 19:27:03__
 
 > Good information<br> :date: __2021-03-19 05:43:16__
@@ -154,16 +164,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Very good app.<br> :date: __2021-03-16 18:36:34__
 
 > Did a great job<br> :date: __2021-03-16 13:00:02__
-
-> Great app<br> :date: __2021-03-15 19:15:24__
-
-> The title of the app explains it all<br> :date: __2021-03-12 17:26:53__
-
-> i cant get my exposure alerts<br> :date: __2021-03-09 11:54:35__
-
-> 😎😎😎😎😎😎<br> :date: __2021-03-08 03:18:42__
-
-> The app works great. More should use it<br> :date: __2021-03-04 14:20:11__
 
 
 
@@ -229,6 +229,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 2 reviews"/>
 </p>
 
+> Kind of useless. Relies too much on self reporting, which doesn't tell me anything about my risk of exposure from others. If users who are diagnosed with COVID-19 don't self report, the need for this app becomes null. Also, if they don't have location services on, that also doesn't help at all.<br> :date: __2021-03-23 17:16:58__
+
 > i dont understand why i cant change my country .When i opened the app it said that im in New York and that a have to choose where i live in new york and then when i tried to change there was only the option not in new york state. I want to know the cases in My country Bulgaria not in America rn.<br> :date: __2021-03-12 10:15:59__
 
 > The App appears to have the right concept, but when it comes to what people want to use it for it irrelevant. If I use it I want it to tell me if my working location is safe, not to find out that it's only collecting information. To many cases are showing up around my job, and were finding out by people calling out. We need a tool that is more essential, with a Covid report button.<br> :date: __2021-03-05 03:35:34__
@@ -240,8 +242,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Useless control measure from NYS to you under false pretenses..<br> :date: __2021-01-24 16:06:46__
 
 > To hard to do<br> :date: __2021-01-04 16:34:28__
-
-> Lacking in functionality to inform users... Doesn't link outside the app to get additional up-to-date information and directives from government agencies.<br> :date: __2020-12-20 23:49:39__
 
 > No one likes using it for personal health reason. It doesn't go off when needed, because of low membership.<br> :date: __2020-12-16 17:56:59__
 
@@ -257,6 +257,18 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> Excelsior Pass is a violation of out health privacy. Let's not think this is okay.<br> :date: __2021-03-26 23:12:01__
+
+> Have to use it to rate it. Day 1<br> :date: __2021-03-25 14:55:31__
+
+> Designed for ios only.<br> :date: __2021-03-25 07:20:15__
+
+> Lacking in functionality to inform users... Doesn't link outside the app to get additional up-to-date information and directives from government agencies.<br> :date: __2021-03-25 05:47:54__
+
+> It never alerted me to anything. Bet it just says on us.<br> :date: __2021-03-24 22:14:08__
+
+> Uninstalling this app as it doesn't seem to actually be used by any NYC contact tracing group. When I tested positive for covid, neither of the two contact tracing officials brought it up or could give me a code to notify people I was in contact with. What was the point lol?<br> :date: __2021-03-22 20:41:51__
+
 > My wife's boyfriend told me that I should be using this app while I am out playing pokémon GO with my other frienx, or rioting and arsoning with my comrades. Because he doesn't want me bringing this filthy virus into his bedroom. The joke is on him, it's not his bedroom. Our place is owned by a coveting filthy landlord. I asked my frienx john, she/they agreed, i respect xie's truth.<br> :date: __2021-03-19 06:23:14__
 
 > Kinda useless<br> :date: __2021-03-16 17:45:53__
@@ -264,17 +276,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > The government is just trying to control your life by telling you what is good for you. Thank you, but no thank you. I can go to my own personal doctor, he does a much better job than they do.<br> :date: __2021-03-16 15:21:59__
 
 > Janky UI<br> :date: __2021-03-10 22:45:00__
-
-> ableist and unnecessarily invasive<br> :date: __2021-03-10 21:53:04__
-
-> Do not download this app its a waste of time and space<br> :date: __2021-03-06 06:01:36__
-
-> This app is full of security holes. Leaves your Bluetooth open to vulernability. It's a great concept, but I work from home and I'd rather not risk (more) identity theft<br> :date: __2021-03-04 22:44:00__
-
-> Where the hell is the Am I eligible app? No working links Anywhere. Sad.....<br> :date: __2021-03-04 17:49:34__
-
-> cuomo killed the elderly and sexually harasses women<br> :date: __2021-03-04 04:41:49__
-
-> Stop spamming me to install I'm not a scared sheeple.<br> :date: __2021-03-04 01:35:25__
 
 

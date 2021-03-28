@@ -1,0 +1,32 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.GET_TASKS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "activities": [
+        "app.covidshield.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://%s/%s.%s?platform=android&dev=%s&minify=%s",
+        "http://%s/launch-js-devtools",
+        "http://%s/open-stack-frame",
+        "http://%s/status",
+        "http://%s/%s",
+        "http://%s/symbolicate",
+        "http://%s/nuclide/attach-debugger-nuclide?title=%s&app=%s&device=%s",
+        "http://%s/inspector/device?name=%s&app=%s",
+        "http://www.android.com/",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

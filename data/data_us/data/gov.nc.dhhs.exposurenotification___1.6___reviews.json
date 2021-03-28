@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHkfHkWjCe2ZRHgpW8jC1uA-68LZ_FkZUK0IWE5VvYGo9bclC6DCMaB8qkKi2e5xAjv2p7ypgHDFnbWfeQ",
+        "userName": "Denis Anderson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggw4YkoHHCGkp79tLeXkVOL78jVKqS7sYgi8uzEWw",
+        "content": "The app is not working, it has not checked for exposure since January 9th. I keep seeing where they are telling people to go to Device Care > Battery ..... That does not exist on my phone, they must be giving instructions for an iPhone. ********* Update still is showing January 9th as my last exposure check. This app has not worked since then. I guess that I may as well uninstall.",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.6",
+        "at": "2021-03-25 21:14:28",
+        "replyContent": "Hi, Denis! We have worked with Google to address this issue and just released a new version of the app. Please update to the latest version of the app on the Play Store and make sure the exposure notifications are enabled. Also, you can find Device Care under Settings. Thank you for your feedback!",
+        "repliedAt": "2021-02-26 15:00:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOE42FIZP0OVKdQx8ZWiw4RP4OYZeGIbvwMTB34Hj42Uh4O4zFINNujo0CsZqqOsdzQr_8ljqfGLWmympHM",
+        "userName": "Cathy Evans",
+        "userImage": "https://play-lh.googleusercontent.com/-sk-qs-mwd8o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4GD9DXu13TvxmYT4HqfLbg--a7w/photo.jpg",
+        "content": "The last time my app worked was 12/27/20, with no exposure detected, it'll be a really good app if it worked.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6",
+        "at": "2021-03-21 19:24:07",
+        "replyContent": "Hello, Cathy! We have worked with Google to address this issue and recently released a new version of the app. Please update to the latest version of the app on the Play Store and make sure the exposure notifications are enabled. Please email NCHealthIT@dhhs.nc.gov if you continue experiencing issues. Thanks again for your feedback!",
+        "repliedAt": "2021-03-22 13:34:42"
+    },
+    {
+        "reviewId": "gp:AOqpTOH89cpzYuZMgLWfnR_UGJZf0sbX7C-ij0ggAUE21BVQk1IeoY37y1TH4EYZ-JxZ261JzXkTt8PEJ-cJqWo",
+        "userName": "Angela Windom",
+        "userImage": "https://play-lh.googleusercontent.com/-Thewbvet0uw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMNIDgO7BXZ9V_Fwsx9AJeeQOycg/photo.jpg",
+        "content": "Now this app is SO smart!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6",
+        "at": "2021-03-21 19:16:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF56ryxfzslzOE0AVMBMaESome0EeChH9YEEwO6KcTCkCXcd1WGH93nNbgKJAXFeZaFWH9a4klnNO2VjuI",
         "userName": "Claudius O. Atkinson Sr.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0UXockgWMj5er9cHCc3KHl3ZoJMjD8ARmicCK",
@@ -17,11 +53,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOl2qj6KgBBvvEkGZ8yaSk_aHjeyavO-BdviYCow",
         "content": "Stupid thing doesn't work. Someone has covid and two stores have been closed due to having covid 19. This app never alerted me I found out via facebook.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.6",
         "at": "2021-03-18 22:21:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello! The app should provide you with an exposure notification if you and the person who tested positive had the app installed prior to them testing positive for COVID-19 and the phones were spaced 6ft or less for 15 mins. If this wasn't the case, please email us at NCHealthIT@dhhs.nc.gov to further escalate the issue. Thanks!",
+        "repliedAt": "2021-03-22 13:37:53"
     },
     {
         "reviewId": "gp:AOqpTOHE5fM-zGZXIyL19_bpXmLlRJXINkB-KwJEXkLl0bOJKSYrizWMVrqy-zI0GLwCXsawUDzc5y9Sb03O_MA",
@@ -125,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjC8asZm1ssX6e3NQcPTMaHUkEucMsnmcD9maWy4Q",
         "content": "Have recently uninstalled and then reinstalled this app. Seems to be working since I can see the date change from last check, but one problem, if this app has been downloaded by so many how is it that when I go to the store around a lot of people, there's no show that I may have been exposed. I'm pretty sure that majority of these people have the app, and care for others to turn it on correctly?.",
         "score": 3,
-        "thumbsUpCount": 77,
+        "thumbsUpCount": 78,
         "reviewCreatedVersion": "1.6",
         "at": "2021-03-02 14:35:51",
         "replyContent": "Hi Paul! Please make sure you have the latest version of the app and the Google Play Store. To prevent the app from snoozing, open your phone\u2019s Settings and go to Device Care > Battery > App power management > Apps that won't be put to sleep > and Add SlowCOVIDNC. If that doesn't work, please try uninstalling and re-installing the app. Thanks!",
@@ -209,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-jkSAtJDkCE8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDl_duXJ0kXLmwW_aN0Ig3ATB_5g/photo.jpg",
         "content": "This app, as the developers admit is useless. False sense of security. Because it is impossible to timely report covid--what is the use? Our entire household now has Covid. No one can report to this app. Since no one can report being sick, you will never be notified of exposure. Got back a positive test result. Tried to tell the app that I tested positive. Unfortunately it wants me to jump through hoops to get a pin to report a covert positive test. It will not give me a pin.",
         "score": 1,
-        "thumbsUpCount": 45,
+        "thumbsUpCount": 55,
         "reviewCreatedVersion": "1.6",
         "at": "2021-02-26 21:05:58",
         "replyContent": "As testing has surged, many of the test providers are having delays in the data entry process. The PIN is generated immediately upon the lab report being received by the NCDHHS system. We are working with our partners to improve the process. If you continue having issues, please call our dedicated help line at 844-628-7223. Thanks for your support!",
@@ -221,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0pPuesJBrDLDeIqB5qgxgM32DRT2vT3S8P5TmqA",
         "content": "It's a good idea if that it would keep up to date. The last time mine checked in was back on December 24th 2020. My app is up to date also..",
         "score": 3,
-        "thumbsUpCount": 33,
+        "thumbsUpCount": 39,
         "reviewCreatedVersion": "1.6",
         "at": "2021-02-26 16:30:10",
         "replyContent": null,
@@ -322,18 +358,6 @@
         "at": "2021-02-22 03:37:43",
         "replyContent": "Hello, Jim! We have worked with Google to address this issue and just released a new version of the app. Please update to the latest version of the app on the Play Store and make sure the exposure notifications are enabled. Thank you for your feedback and please email NCHealthIT@dhhs.nc.gov if you continue experiencing issues.",
         "repliedAt": "2021-02-26 14:59:28"
-    },
-    {
-        "reviewId": "gp:AOqpTOHkfHkWjCe2ZRHgpW8jC1uA-68LZ_FkZUK0IWE5VvYGo9bclC6DCMaB8qkKi2e5xAjv2p7ypgHDFnbWfeQ",
-        "userName": "Denis Anderson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggw4YkoHHCGkp79tLeXkVOL78jVKqS7sYgi8uzEWw",
-        "content": "The app is not working, it has not checked for exposure since January 9th. I keep seeing where they are telling people to go to Device Care > Battery ..... That does not exist on my phone, they must be giving instructions for an iPhone.",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "1.6",
-        "at": "2021-02-21 19:18:48",
-        "replyContent": "Hi, Denis! We have worked with Google to address this issue and just released a new version of the app. Please update to the latest version of the app on the Play Store and make sure the exposure notifications are enabled. Also, you can find Device Care under Settings. Thank you for your feedback!",
-        "repliedAt": "2021-02-26 15:00:36"
     },
     {
         "reviewId": "gp:AOqpTOGeOlzKNCOMgmYO3xXZxW6fr1bvZ6Ng5AalbahS_zpFC48gwQvd3ZOmRMuFqBNrXZLZqZoBQtPVGinpZeE",
@@ -758,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOHQ41QV3aJF9HzPuob-lKXNxfyqRYO4x3anX5Ir98Oo-IGDwNYpzbIEFcDn2qzSiJpBLzuaXZvdsm-ZqAA",
         "userName": "Brenda Mckee",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5L3Nav0NQX3T5voBnSNeXspbbrFPmsHVN7TbkFQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggu01hXV0hdzIJ5FvpQP-doJj-AXAulFjw7R-KbyQ",
         "content": "I've no trouble with the app, so far",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3806,7 +3830,7 @@
     {
         "reviewId": "gp:AOqpTOEACYpUrXldhSSiabaRsqqN4mO04epXMii6Wo5DPTOkU__5T2HiBC3NGb3Y9E_If9C7evVTiw_WwEy9gyE",
         "userName": "Doug Quick",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXn1u7Z3WeEQzXohwsHvfAw56OAOqp7-ZdNWq2RQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJXfHuFuLLgFwwf-KB1GtxErxwpk3wt3nZANnTrU4",
         "content": "Little to no impact on my phone performance and battery life. Appears to work as described, but many more people in North Carolina need to install this app. This app can help to slow the spread of Covid-19 by alerting you to early possible exposure to someone who tested positive. This app needs to be promoted more prominently on social media so people will know it's available. I found it by chance on the Google Play app.",
         "score": 5,
         "thumbsUpCount": 283,
@@ -3985,7 +4009,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEvvbWvq50VRK3pljJ6MFg70Frh18T4z2szKq8N9sXMm5Jjfmp69AaA8BT1o8r30Lnn16EI2G89rewR6GY",
-        "userName": "J. M",
+        "userName": "Joseph McCallister",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh2ifyqzT-98lWZBOmcqZeAvEA30EwEdzs4yTJGBw",
         "content": "Wont work. Seems like a bogus app to spread fear. So many ppl are willing to give up all their rights. Sad",
         "score": 1,
@@ -4298,7 +4322,7 @@
     {
         "reviewId": "gp:AOqpTOHJeq-5sF7oMAlh1map0KhF5EAQ-7XB6xwYXHHr4DC4HmSDZotFuR6A25lLTOTMiUsUKfew6ikEimJ7IKw",
         "userName": "Brandon Jones",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFjSL0eIO0KJ8p_DDfQIrcsUjOKnJerbIKGMHn4A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-jUDCy5YTw9Zj-aW-_mH2Pcr0jD1hLZPAYaW2nw",
         "content": "It does exactly as it should. A sharing feature is the only missing option. With this app being dependant on community involvement I'm surprised there's no share option already.",
         "score": 4,
         "thumbsUpCount": 23,

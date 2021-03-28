@@ -140,6 +140,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> Cvs vaccination for daycare provider to make an appointment<br> :date: __2021-03-24 10:45:53__
+
 > Cool thanks.<br> :date: __2021-03-21 09:07:26__
 
 > It's a great way to let everyone know more about the situation of the Covid 19 and what to do when your contract with the Covid 19 virus..<br> :date: __2021-03-16 10:37:20__
@@ -157,8 +159,6 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 > Love it<br> :date: __2021-02-16 09:25:53__
 
 > I have used the app for about one week now. And there has been no contact warning. Was just wondering if it is still working. I just checked the number of installs and it's more than 10 thousand. That means that less than one of us gets positive each day. Its unlikely that we have had any contact in say the last week. No news is good news.<br> :date: __2021-02-16 02:58:13__
-
-> At 10k downloads, roughly 0.71% of Hawaii's 1,416,000 population are using this app (unless my math is wrong). It's a great app, but more people need to know about it to be truly useful.<br> :date: __2021-02-05 09:51:33__
 
 
 

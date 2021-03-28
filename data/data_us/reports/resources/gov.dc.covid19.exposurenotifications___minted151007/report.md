@@ -129,6 +129,8 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> 💎😇💎#AWESOME.💎😇💎<br> :date: __2021-03-26 13:37:52__
+
 > Clear<br> :date: __2021-01-22 00:09:48__
 
 > The app will work when you get tested by the DC run corona virus testing sites. If you go to private clinic there is no guarantee you will get a verification code if you test positive for covid. The private clinics are supposed to report results to the city health dept but if they don't do that you won't get a call from a contract tracer or a verification code to change your status in the app if you are positive. Go to DC health run testing sites and use this app, and then it works well.<br> :date: __2020-12-26 22:28:01__
@@ -147,8 +149,6 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 
 > Perfectly protected<br> :date: __2020-10-25 10:58:04__
 
-> Super important stuff!!!<br> :date: __2020-10-25 02:28:05__
-
 
 
 #### 4-star reviews
@@ -166,10 +166,12 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Constantly getting notifications to enable Bluetooth and location in order to get the app to work, despite working from home and obviously not going anywhere. While the app idea is decent and I hope more people turn it on when they go outside, the thing really, really needs to tone down the notifications. If it can't limit checks to no more than a few a day I'll uninstall.<br> :date: __2021-03-23 22:13:46__
+
+
 
 #### 2-star reviews
 

@@ -1,15 +1,27 @@
 [
     {
+        "reviewId": "gp:AOqpTOFf60rTVwIWn5xJKI7TKMJ6V7xTjNb62CgsyVgMsUWSYE1akuBffJWNK7V-5AQweTcmlIjoP43GCoERUg",
+        "userName": "Amanda Kot",
+        "userImage": "https://play-lh.googleusercontent.com/-McaHTYStdsQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYNzuELPufnFCSyl79baLtmzD-eA/photo.jpg",
+        "content": "Always reliable no problems when it came time to talk to doctor.",
+        "score": 5,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "12.0.8.015_03",
+        "at": "2021-03-22 23:47:37",
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 22:55:14"
+    },
+    {
         "reviewId": "gp:AOqpTOFghfgOtj3uzXKc19xmsdoQjt9w5tGjEXoM3jVRn9RSSum2UAxqwfzeMOazjPKc9zj5URdKPPuihxBoXw",
         "userName": "Aaron Lette",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVj_ieuma6ToHbXVdrr2o7V9KyN4UY3AcLdyVbQw",
         "content": "App looks nice, but crashes everytime I try to add a credit card, making it completely useless.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.1.2",
         "at": "2021-03-19 00:14:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
+        "repliedAt": "2021-03-22 22:38:54"
     },
     {
         "reviewId": "gp:AOqpTOHEwjcOIy21iIj0VMhpvN3_RvL1SmxH28c87R_B3DzBt5AjYLvx1W50uIzjpVaE5tE8_8qIQijLMheTqw",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.1.2",
         "at": "2021-03-17 06:29:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We try very hard to meet expectations and we regret that we have not done so in this case. We're here to listen, if there is any additional feedback you would like to share with our team, feel free to reach out to us at virtualcare@ascension.org.\n",
+        "repliedAt": "2021-03-22 22:39:22"
     },
     {
         "reviewId": "gp:AOqpTOE-uexMrP_GbmsqlX6Uwd7gqOMSpp3Fj2SX5wsPKhu88YqzrwIQRvKQPOVFQ_ddYHtsli_1CZPduq74Ng",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.1.2",
         "at": "2021-02-28 18:10:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you; we appreciate your feedback!",
+        "repliedAt": "2021-03-22 22:40:09"
     },
     {
         "reviewId": "gp:AOqpTOFzqFpAFL0BBgyZgYoSHS0lPliJMgdwxv5bt2Sqc_3OS9upuVdJyWmIKlOIY4dBzLvdtNLfHnVbagVu0A",
@@ -44,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.1.2",
         "at": "2021-02-27 21:17:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
+        "repliedAt": "2021-03-22 22:40:31"
     },
     {
         "reviewId": "gp:AOqpTOFeRxmYs3QcbO360f0DHK5F4His0Is62Yjf8HdM4C3AAsjd5uH4Jk5mhpAZ2A8iGwXV0LFlCPHd90FF1A",
@@ -68,8 +80,8 @@
         "thumbsUpCount": 9,
         "reviewCreatedVersion": "12.1.1",
         "at": "2021-02-02 18:56:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are continually looking for ways to improve. If you're willing to discuss your review in more detail, please reach out to us at virtualcare@ascension.org. Thank you.",
+        "repliedAt": "2021-03-22 22:41:24"
     },
     {
         "reviewId": "gp:AOqpTOE3uEyzK8wvGSYfgjdOrdsD1hHkxkhvST1U4CYMmcfOb2E1MQsMaVMzqS5OzWkEvMECHpMtRaBGQL7tXA",
@@ -80,8 +92,8 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2021-01-27 02:13:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 22:41:56"
     },
     {
         "reviewId": "gp:AOqpTOFS7C-uLH9DGrR0VYv72R84YCjBroHiEidj1jkt5rH4DLov6oJuZqMhX84xxkCELdpb2K0EgEo2Yphxow",
@@ -104,8 +116,8 @@
         "thumbsUpCount": 11,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2021-01-22 20:19:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are continually looking for ways to improve. If you're willing to discuss your review in more detail, please reach out to us at virtualcare@ascension.org. Thank you.",
+        "repliedAt": "2021-03-22 22:43:49"
     },
     {
         "reviewId": "gp:AOqpTOGpjRznIN__Ds0iWj0eDoxrOKMgLV9dYD8d-xyRqXc6HW6a8pbNVgJBJjAqY9UQikEZrPiM9QUH7YPJUA",
@@ -125,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpQFRHfiLZAxSU0UtXpbeLEH_FCb-LMXMlzdxkRQ",
         "content": "Requires wifi which is not always readily available. Does not work well on cellular network",
         "score": 3,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2021-01-19 23:19:24",
         "replyContent": null,
@@ -197,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZxhTaXUOu7_WKygbjUwrjDM9vV2Ok-hFwatYJ",
         "content": "Love it. Best idea especially if you got that kind of elderly parent who won't listen to you and is very stubborn lol, who needs to hear it from a professional to determine they're options.",
         "score": 5,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2021-01-04 04:47:55",
         "replyContent": null,
@@ -365,7 +377,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-qSKb8cAzmLE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLu1vwHejBz1JYkZno09VeW3nDKA/photo.jpg",
         "content": "Edit: Used a second time and still am impressed! The Dr was very informative and very nice! He helped me with all my questions and I would totally use again.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-12-05 21:12:04",
         "replyContent": null,
@@ -401,7 +413,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgljiFx8myTmNDT5i1Y4rUwwCSO6YSjX9UdeyU8g",
         "content": "Had a virtual appointment today that I couldn't attend because the app keeps closing on me!!!!",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-30 22:03:04",
         "replyContent": null,
@@ -518,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOFpDJ6bdpVdcmXAeB9sot_k8Vc37IfW3x1o4aQcopaqKsqDsZJeiuIdsH0qom0kkxFpLm39ctifwggGRw",
         "userName": "Inwardly Dying",
-        "userImage": "https://play-lh.googleusercontent.com/-mpEwd4amHcI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnTwkE_m68ILOY_6o--wlSzRojQrw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiopuKo6SN3ifylbt18xsudrovE_fuZdJGXbUKA",
         "content": "App works fine both times I have used it for online dr visits, but when I try to send messages to my doctors through this app they are not being received. They show up in the \"sent\" file, but verified with drs office that they never got them. This is very inconvenient. Could someone look into this and fix it? Let me know if you need more info. Much appreciated!",
         "score": 2,
         "thumbsUpCount": 2,
@@ -608,8 +620,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-12 15:33:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate your positive review. Thank you!",
+        "repliedAt": "2021-03-22 23:14:35"
     },
     {
         "reviewId": "gp:AOqpTOGoHhtPatDqulCjO5TW_6zxK55YwYfiH3Qey4zoZw5KiNuN8Ca23dcDHBuSPPQbBLOoqCA2uNN7VbuwgA",
@@ -617,11 +629,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJoMb5c7hlCxgQMfaH52pTGO6ahR1DnTy0k8WzsEs",
         "content": "This experience was good over all. Dr. Joe listen to the symptoms & prescribed me the meds I needed. Thank You!",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-12 00:10:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:15:01"
     },
     {
         "reviewId": "gp:AOqpTOFbCC-HeA-HYpvmnODYCxLPwFH2DVBsu38V0FBMXNkkpEuBEXiaoZFCUm_VZVrjStwkXPaOTE3u2oXLwQ",
@@ -632,8 +644,8 @@
         "thumbsUpCount": 6,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-11 17:14:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We try very hard to meet expectations and we regret that we have not done so in this case. We're here to listen, if there is any additional feedback you would like to share with our team, feel free to reach out to us at virtualcare@ascension.org.\n",
+        "repliedAt": "2021-03-22 23:53:03"
     },
     {
         "reviewId": "gp:AOqpTOEPkJYENbHtDnwh3aih5CBADX-65_-yZkiXAtxt6bY7NIz3flt1w1-17F0rbSGf5JCxHikxPuQMQTr5Jg",
@@ -644,8 +656,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-09 18:12:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:52:37"
     },
     {
         "reviewId": "gp:AOqpTOEuFwkUhnLkhB9JQQXPQaashe0G1nqMlyNa103q6qTKLNYc7TQalOKQmz-dObsDeF-J4gWZj7bizq-LBA",
@@ -656,8 +668,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-09 14:42:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
+        "repliedAt": "2021-03-22 23:52:24"
     },
     {
         "reviewId": "gp:AOqpTOFqPQm-omeorD6nOKUCj7V50DUtQ5d_V1Zb_5oSGK2q7aZMSRyyo1T-WLLpol7jt5jc0nbxASU_fPJjqg",
@@ -668,8 +680,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-09 14:17:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
+        "repliedAt": "2021-03-22 23:51:33"
     },
     {
         "reviewId": "gp:AOqpTOHsA6BZnWHpeWoBQlKM01w5wUdtkzZzKlmjwuJ7aBy_QGLGMEMtkyrSYEorABHg5MM_zcDf1xDBxwGt3A",
@@ -680,8 +692,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-08 21:01:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our care team aims to deliver high quality care. We love hearing about these positive experiences. Thanks for sharing this feedback with us!",
+        "repliedAt": "2021-03-22 23:51:15"
     },
     {
         "reviewId": "gp:AOqpTOEe52oPQzy8IdhqP6U5axc0q68Lpc0KZpFyL0crTFo5WWp5QhLvehLBLDpMxSaA3ogwZcIw9zLSnpLNQg",
@@ -692,8 +704,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-07 16:02:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:50:33"
     },
     {
         "reviewId": "gp:AOqpTOHGGQJWXx27Z56yCoMtdY95Q3pwqCVTfbLHRXEa0K7XyG4PbksXaTG9J-oBal_j7uDigSLlkl2Qaboeeg",
@@ -701,11 +713,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsujdYdgl8sZs8pApoVXL4D9Mq7a25PfsGvz1BmA",
         "content": "Even without covid19 causing all these remote visits I love it and wish this will continue in the future. So easy!",
         "score": 5,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-05 19:01:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:49:52"
     },
     {
         "reviewId": "gp:AOqpTOFkY29Ao8bRLtwEIwqnBdP1SOU2On9T4XG7FOjoC_GGr6ym6IwaEQWGsKj5F20iMgm8bs-jotIREN2U5g",
@@ -716,8 +728,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-02 22:24:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you",
+        "repliedAt": "2021-03-22 23:49:31"
     },
     {
         "reviewId": "gp:AOqpTOEHxD1a9w9pUSJOCgeV7cI3DSjEnwKoaxrYtjhiTu7b-8N-jY7AZajzp2rQ0WAqe8d51ArwD-H5Hz-jYA",
@@ -728,8 +740,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-02 16:25:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you; we appreciate your feedback!",
+        "repliedAt": "2021-03-22 23:49:19"
     },
     {
         "reviewId": "gp:AOqpTOGt4ywauJPY2gOIhOZVDcupUcCT9DDDfAijIP-4Mja_lqv4pqYEgvgXhZ991dA9UqDHaRBv8r-ulF9FVg",
@@ -740,8 +752,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-31 16:01:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:48:23"
     },
     {
         "reviewId": "gp:AOqpTOHUHB7Mgxs6zxwFUaQRCnrolMG3-PjJz91JlCgk4okrMGgGVZ2muUX_kjEkZrwWgE_cxpu7Es8K50I4dQ",
@@ -752,8 +764,8 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-10-29 16:16:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
+        "repliedAt": "2021-03-22 23:48:10"
     },
     {
         "reviewId": "gp:AOqpTOEbsvoRQyJ-aHNP99A_CJch-eR-wsMH2dIH8LKZCYMh-fkcYfY1jzA7wStvM7ErMzQ6dkr-iDQKqLk6OQ",
@@ -764,8 +776,8 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-10-29 13:52:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:47:41"
     },
     {
         "reviewId": "gp:AOqpTOFl9BqCMW4OlEr4-Gt_0YRPmXJd0NCWssNMbrqS-bV6uq14dZJZ57AvaQWjCYzzyUlu0sUD2mbJg8AzvQ",
@@ -776,8 +788,8 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-10-27 20:39:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are continually looking for ways to improve. If you're willing to discuss your review in more detail, please reach out to us at virtualcare@ascension.org. Thank you.",
+        "repliedAt": "2021-03-22 23:47:10"
     },
     {
         "reviewId": "gp:AOqpTOGOB0XV4DvSrJya5RQp5PRLJpXo3gQ8PMb7OGNR9AMg5EuZuKbmucb6zV7A84yCCZ0ZUMp6p2fG8lMazw",
@@ -788,8 +800,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-10-27 16:29:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you; we appreciate your feedback!",
+        "repliedAt": "2021-03-22 23:46:55"
     },
     {
         "reviewId": "gp:AOqpTOG7WVA3JVfzJP_42MUZ7mrlFfdOTAKyxCYC_5I4OzVMFMJeR30vStfGQXjW5iV4OqDqIyjQMVbJjwze9g",
@@ -800,8 +812,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-24 13:49:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "This is great to see, thanks so much for sharing your rating!",
+        "repliedAt": "2021-03-22 23:46:40"
     },
     {
         "reviewId": "gp:AOqpTOGjiqCDJN-nyOkUnGrutvJqV1J0a1kcRuoCR6i1bkQBr9EWERmg_rnSeD-Wh34UElUQgprtOPSNCzxObQ",
@@ -812,8 +824,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-23 21:26:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:46:32"
     },
     {
         "reviewId": "gp:AOqpTOFfMB7UOubQyb4sTHf32-wNMKwrIywMa-g3aIDculZQq24pjhyZeOv-nj31Sli9ZU_c51AJnZXwX7zb8A",
@@ -824,8 +836,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-23 18:42:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
+        "repliedAt": "2021-03-22 23:45:46"
     },
     {
         "reviewId": "gp:AOqpTOGGr5BAdE8Kms-2pELRfJ7cxhnCUhYilK90nxf8vu4Ose8-gEH4ajif7jOV3sJ9ia23hVyuyS8SwMAwOw",
@@ -836,8 +848,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.6.036_07",
         "at": "2020-10-20 16:42:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We really appreciate your positive review! Thank you.",
+        "repliedAt": "2021-03-22 23:45:01"
     },
     {
         "reviewId": "gp:AOqpTOG11ZIDE2-N_GxmhzXyXKQ2WfXkS8t-UbhxbZLIod4UieJKRLZ0QIV-aBWH_rEgHVRTWzwnWOltsWOM1Q",
@@ -860,8 +872,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-18 01:12:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We really appreciate your positive review! Thank you.",
+        "repliedAt": "2021-03-22 23:44:43"
     },
     {
         "reviewId": "gp:AOqpTOHWKRAoAivYLiEIPsqlxNEFOc66JmzccFiL0gkIWr7Oy41rC1YgTLTWQc8-eEzLmn21_UDB2utQvcH3jw",
@@ -872,8 +884,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-17 05:06:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:44:26"
     },
     {
         "reviewId": "gp:AOqpTOFHeIP67gzWvQeqBtV2jPQ7UYDxad37tWjUtebqke09ww8_Ab559HJKsGEeRGWMoOvOvjIZUi9PvHG4eg",
@@ -884,8 +896,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-16 18:03:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review",
+        "repliedAt": "2021-03-22 23:44:01"
     },
     {
         "reviewId": "gp:AOqpTOEX0SOXKaGUG_-WzQwcZ4FM9BdDPtyac__GVF061hFIg-86Z7tbXQqezdRXy1lQFJxqCJachDKJhm3-Hg",
@@ -896,8 +908,8 @@
         "thumbsUpCount": 8,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-15 20:08:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:43:15"
     },
     {
         "reviewId": "gp:AOqpTOGVjdRbJTYAvuTm8V0mWSjckWNeVxK3MzEin7LZ-RnsLZRtbKxBC8Yy8j7YwJJbGqwA17TdzE4to5qAyQ",
@@ -908,8 +920,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-10-15 01:05:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:43:00"
     },
     {
         "reviewId": "gp:AOqpTOEOnW305Q5b3W2KNvnYceD8tSmoT_Q4qeiR7Q6zMle3fyBnwSOznLbgbgU1ry8DuQPyDJ8gk6mXKnBeHg",
@@ -920,8 +932,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-10-14 23:32:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you",
+        "repliedAt": "2021-03-22 23:42:32"
     },
     {
         "reviewId": "gp:AOqpTOHHj2PDo8YF87ZJLAkUFq-VbzibTrVAt3qRn-V7zHiGGXdleiJ0MJLBBoWDtuNfylH7dRqSAc1qvtAlKQ",
@@ -932,8 +944,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-14 14:55:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:42:03"
     },
     {
         "reviewId": "gp:AOqpTOGrZv6VsbaOTiNuzs2d2orcQ7GQTRu68x43n4lGJhlH_RLEPaduUfgKB9u8j7FBJr93NmDCSDgEblP__g",
@@ -944,8 +956,8 @@
         "thumbsUpCount": 6,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-13 19:16:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Reviews like this are inspiring. Thank you for sharing!",
+        "repliedAt": "2021-03-22 23:41:33"
     },
     {
         "reviewId": "gp:AOqpTOGzQhPS0DXKZzGvJTVIp4t6njb0b928LPl756l8XgC4XzgVaZP-cnSHo5nwI8YYca7kQzpR2uUAEsKgvg",
@@ -956,8 +968,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-12 21:11:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our care team aims to deliver high quality care. We love hearing about these positive experiences. Thanks for sharing this feedback with us!",
+        "repliedAt": "2021-03-22 23:40:52"
     },
     {
         "reviewId": "gp:AOqpTOGtSBIouo9IUk7byFYLzhpzWSJoiZt9QoSB7U1mQLfP1XaI04QhqwaRDisLgC6nCvlWWpYmMaQt5-5qnw",
@@ -968,8 +980,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-12 19:21:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "This is great to see, thanks so much for sharing your rating!",
+        "repliedAt": "2021-03-22 23:40:36"
     },
     {
         "reviewId": "gp:AOqpTOGCs9AX-ZyOfmfGvCv30X7XRIq7s37WPOone0uk7Yc5ZLgJRCmlTxbRTWXvz2r0B2EX8u5D4CsC1jr3MA",
@@ -980,8 +992,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-10-10 06:24:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review",
+        "repliedAt": "2021-03-22 23:40:19"
     },
     {
         "reviewId": "gp:AOqpTOG_0wisNyNUf0HEwod7bgKz5-WVr_x_0YLTC4NdKm9WTlui3ogRcU7U-vwn2PS8vyn10UatsUHaUe43FQ",
@@ -992,8 +1004,8 @@
         "thumbsUpCount": 7,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-09 15:27:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.\n",
+        "repliedAt": "2021-03-22 23:39:38"
     },
     {
         "reviewId": "gp:AOqpTOFuqLnBa0nKoh4gHSLX4OB6wIizCn9e9AzMKWdvvvHXdIvWqJy3bFZtLNM93i4cQd6RDPn95AMddull6w",
@@ -1004,8 +1016,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-08 21:59:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:39:13"
     },
     {
         "reviewId": "gp:AOqpTOE2pUeSMnibDxeCZHT-3v_sMPsVO7GxBNgcGvrHQ1gYQ9ayzYwfCvibl73dGHBIUN4AhxfdmnI7ZDjVaw",
@@ -1016,8 +1028,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-07 19:31:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your kind words and this wonderful review!",
+        "repliedAt": "2021-03-22 23:39:01"
     },
     {
         "reviewId": "gp:AOqpTOGrRKf2gAOSGdMWWqDfh4OMuzby2z5MRpcYIwF86yy0-SE_cFm4Zyravxm-lCmqFpgMRn9qLiJbswwW-w",
@@ -1028,8 +1040,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-06 22:15:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We really appreciate your positive review! Thank you.",
+        "repliedAt": "2021-03-22 23:38:18"
     },
     {
         "reviewId": "gp:AOqpTOEF-Q9JIpJ4CM8r0frE3vwuXfI_bRQL7wNT273zMGoZpXzjSvxB95qnHE8IAFtTjIVQdvYId7BFzZXPKw",
@@ -1040,8 +1052,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-06 20:44:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:37:53"
     },
     {
         "reviewId": "gp:AOqpTOFu2--Bdwn_UT4MD5uRzs_qiqilmC6L1MoMkFlGVIQGNe0k9vhb6fRnYTpbV9OBV0mg2BqaF09CbpFQDw",
@@ -1052,8 +1064,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-10-01 17:17:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We try very hard to meet expectations and we regret that we have not done so in this case. We're here to listen, if there is any additional feedback you would like to share with our team, feel free to reach out to us at virtualcare@ascension.org.\n",
+        "repliedAt": "2021-03-22 23:37:22"
     },
     {
         "reviewId": "gp:AOqpTOEPtx7uBm4Fp_-VklZulzhx9MHzS0drMS0P8JmktkgOL7iLSCkvkhapUwA8aslGCXEb95MP2lRnKPfofQ",
@@ -1064,8 +1076,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-30 22:38:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you",
+        "repliedAt": "2021-03-22 23:36:55"
     },
     {
         "reviewId": "gp:AOqpTOEHmewblW6bzvDTWrglTfpHyCfyiQ9S1r4CZBVY4FGFNdWrtCoAv56mICFnM-rS1LZxpZhWhQbm3rRW_g",
@@ -1076,8 +1088,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-30 18:15:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We really appreciate your positive review! Thank you.",
+        "repliedAt": "2021-03-22 23:36:12"
     },
     {
         "reviewId": "gp:AOqpTOGlDHFtsQA5zBv75q228SrFPlYy5YMOMaeYzXY27r7-Qs3fUR2hxPcJod3qyxcRUAiTrV5f9nwFS6jScw",
@@ -1088,8 +1100,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-09-29 13:59:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:35:59"
     },
     {
         "reviewId": "gp:AOqpTOGvK-ve59tgJ_-kgR0DhGdZI70zK6wbwjmrq8la2WpkXNyulvQDyqDn-ipybqoE699PTXlgTtzX8dIFJw",
@@ -1100,8 +1112,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-28 17:54:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We really appreciate your positive review! Thank you.",
+        "repliedAt": "2021-03-22 23:35:47"
     },
     {
         "reviewId": "gp:AOqpTOGwaNBEmbGHvOgPeu1D3HMPDPCrzQ3KZxssRBeyIun6jN2ARi4opLACX5BlUP6k20hIHVcgN43T3ZRRNw",
@@ -1112,8 +1124,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-26 21:47:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:35:34"
     },
     {
         "reviewId": "gp:AOqpTOG817NPAC5jyUn8hX8jhhtdn4Q0VxaRtsxdCvglhbiMz-R297kiCT5qLzySltPvcuDHb9QIFaB2AgEhAg",
@@ -1124,8 +1136,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-22 20:26:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:28:11"
     },
     {
         "reviewId": "gp:AOqpTOHML_RQrhWCpUSoiWFreA62waIiVUsM0z-xUXoCrqdhKrJjPqx2qOsafAJSrPM4Noz0FC5Mxonx-z70qw",
@@ -1136,8 +1148,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-18 15:41:33",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:26:55"
     },
     {
         "reviewId": "gp:AOqpTOHvsaXbVKxtC5AkAxhwJrmGsnWXsX9pSAm0bce7oklX9tiAMOAshZScWevteGYs7EdgVq3xVbuQ981qCA",
@@ -1148,8 +1160,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-18 00:05:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "This is great to see, thanks so much for sharing your rating!",
+        "repliedAt": "2021-03-22 23:25:04"
     },
     {
         "reviewId": "gp:AOqpTOGGANWEx1h7jong7uFIIl538a6e7n7NOw5k0TeXCOuRgcd4bj2j1YwJG76qV6Ri2gQNhIPLhvbnuxRRwA",
@@ -1160,8 +1172,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-09-17 23:49:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.\n",
+        "repliedAt": "2021-03-22 23:23:21"
     },
     {
         "reviewId": "gp:AOqpTOHtNlxejGt24TG02zO4nV1Cy39qkt7Qol1AAKWHI-qieiXgFXRC3OEI_vVBE7Xegco0Ij99vLbbzYvgfg",
@@ -1172,8 +1184,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-17 17:50:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:19:29"
     },
     {
         "reviewId": "gp:AOqpTOEJhfeYIoui6KImcqQAGDlUn6TYTrXhVj-XTm2VzrC2lVhdzsYNy6SCdyLo8xvNUPEGKiEuJXLFVAg9xQ",
@@ -1184,8 +1196,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-15 18:08:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:15:41"
     },
     {
         "reviewId": "gp:AOqpTOFWTkUciDq-dl0RLzuwipb9nMBUqJtwJBzJSmtDPj7o0JncBCAsSi7cl_2Ml860vGwtr9AsdP7FPc5MUQ",
@@ -1196,8 +1208,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-15 00:11:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:15:26"
     },
     {
         "reviewId": "gp:AOqpTOHM1sEQ-23YDOnbGnQb4zpzhxv9-Az4gyZi-iE3L0D4F_4npX3wPT_zBQmHDHoFfN7bNK8zAKzqlPqgww",
@@ -1208,8 +1220,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-14 22:31:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:13:00"
     },
     {
         "reviewId": "gp:AOqpTOGOnKdgl4FFikSj5wEebPrrVz4v4w5R_bl6UztJa2xdymC0ywbdCfcrfG7sEHae65d2H-RRmdCWObbsMA",
@@ -1220,8 +1232,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-11 19:17:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our care team aims to deliver high quality care. We love hearing about these positive experiences. Thanks for sharing this feedback with us!",
+        "repliedAt": "2021-03-22 23:11:46"
     },
     {
         "reviewId": "gp:AOqpTOEmuJKWfAF4JWIaqk8aPwaf3Yc34qMyTM1Gd13PAXcIArFfcpjmOxNulY2ny2ZnUv8MeRVGfwwMTmUMkQ",
@@ -1232,8 +1244,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-05 04:10:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We strive to provide high quality care, so your positive comments mean a lot to us!",
+        "repliedAt": "2021-03-22 23:11:28"
     },
     {
         "reviewId": "gp:AOqpTOEjO-J314XMOdUs7XFjW56mMh8Zru8Z-laNYQT2Jt6P7p4eNZrmuEiQsYn2uVxulmhxENU838DC6Wu-tg",
@@ -1244,8 +1256,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-04 01:52:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for the great review! We are happy to see these comments!",
+        "repliedAt": "2021-03-22 23:09:38"
     },
     {
         "reviewId": "gp:AOqpTOEnCnnqgVkm-okUIJ6hGZ7msjkV4q0bJ3WqhzrNddmnqxLvUsVh9r-MOMi6kiJNlFov-yOicsjRcT_MEA",
@@ -1256,8 +1268,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-03 20:35:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear this! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:09:23"
     },
     {
         "reviewId": "gp:AOqpTOH5x1yxNeuK4K6hAx9ZhatZsw1zLpZ9AXuT6tic5FxJBmM7wQP2rpDw-_6Riar36yUmposScmY0XTJi6Q",
@@ -1268,8 +1280,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-02 21:50:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for taking the time to review us and for the positive rating.",
+        "repliedAt": "2021-03-22 23:09:03"
     },
     {
         "reviewId": "gp:AOqpTOHehJyObCMO8UH4c9iI-tAwisjlHAPqXlw0KOQ71PXRghgOyi3nh3kxcJXBW3xj1S_MHa52hh8x3Ml3fQ",
@@ -1280,8 +1292,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-09-02 21:39:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear this! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:08:43"
     },
     {
         "reviewId": "gp:AOqpTOE6tGvr4uO9ofYQslXjv7dfYX34jtQfcnbpVLVfwNlwWdR7VRSEmyZcpoUYvHz9HrN3Wgjnd-NDW6tKsQ",
@@ -1292,8 +1304,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.6.036_07",
         "at": "2020-09-02 16:25:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are continually looking for ways to improve. If you're willing to discuss your review in more detail, please reach out to us at virtualcare@ascension.org. Thank you.",
+        "repliedAt": "2021-03-22 23:08:26"
     },
     {
         "reviewId": "gp:AOqpTOEzVsJOnkhlXRQ3KabnHQCVecPfCc_mQZpSKJZCjDqpMsHka-sKWsEgZ-Y2bLShvKV0nAKwbjoICW9a2Q",
@@ -1304,8 +1316,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-28 20:26:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:07:31"
     },
     {
         "reviewId": "gp:AOqpTOGnOBQtZAIfod31F5c6IqHh_tJWGWYY5QYMhVhpTN7TwIE_RSwJEw6dHoNfXFojFMy5JIf5r54MWAcpPw",
@@ -1316,8 +1328,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-28 20:05:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 23:07:15"
     },
     {
         "reviewId": "gp:AOqpTOEsTxOvDmrMaPeAuzNQ4eOkpJb5RIOBoAEzuwoBqdqB_rdC0Cd4FhcIB_mCqT8yk-tmy200Xng5d1xF9g",
@@ -1328,8 +1340,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-28 01:08:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:06:56"
     },
     {
         "reviewId": "gp:AOqpTOFM0eAjMk9Tl3hjvfSbgdhNeFic7xH0t_A_aYU0HahZoG5V_wCB977IHFP-rVFxOhA7fk99ACKFVK0FeQ",
@@ -1340,8 +1352,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-27 18:21:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate your positive review. Thank you!",
+        "repliedAt": "2021-03-22 23:06:16"
     },
     {
         "reviewId": "gp:AOqpTOEA55ZeMLnh3nlSi_U7xpU2glS6oZwYzAoiS8j39yqaYUjB47FRpcrBRv55jKF-auDFrepFnoxs3yZaBw",
@@ -1352,8 +1364,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-26 00:46:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you; we appreciate your feedback!",
+        "repliedAt": "2021-03-22 23:06:04"
     },
     {
         "reviewId": "gp:AOqpTOGq4rtT9Psnc7zv9MVkIKLoYSVrjeN2_dZRyGz1aavWOEBb0ROxW10d3sbeZWk0lIUpY55wUp4JyDhkpg",
@@ -1364,8 +1376,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-24 20:48:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:05:51"
     },
     {
         "reviewId": "gp:AOqpTOGwVrrGsi4s6nyhtuQJf9-EVdAg7lC8ku4_X5QIY4EknQRxCmWHN3Hmf1BRbs5hTRARBea419b3iXHbjw",
@@ -1376,8 +1388,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-24 16:07:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our care teams aim to deliver high quality care. Thank you for sharing this feedback with us!",
+        "repliedAt": "2021-03-22 23:05:21"
     },
     {
         "reviewId": "gp:AOqpTOHUyqPa9OuGnWAU4MYzYMaPK3wiB9QYidVBewh5T10Rv1MPd7wBpPYfGiXkm2S9CUVKifr8yDq0GLSfZA",
@@ -1388,8 +1400,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-20 21:55:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:04:39"
     },
     {
         "reviewId": "gp:AOqpTOGM0rzWmMHZYIMuIj4_FNkBEYGXnNk3bCEHOoWn8rpAcDMONsbVDzooR9QhD2p2ZE3zxi6mL-tb2Yf6tQ",
@@ -1400,8 +1412,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-20 19:42:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your kind words and this wonderful review!",
+        "repliedAt": "2021-03-22 23:04:21"
     },
     {
         "reviewId": "gp:AOqpTOGwzsqw4_h4kuqrQbVQmdhl--PIWO40DR9zXS8lXgQVyeyc9YiPgC4re2w48Xm_ii8GjZG9Ue8bxWPXSQ",
@@ -1412,8 +1424,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-17 19:10:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 23:03:35"
     },
     {
         "reviewId": "gp:AOqpTOEQ82emlK3mxTaKoZ5RuNJEivQT3rMsPVDItgijtq80qivjJTJ7j7IDII641MleLcRsADpfyy7YT1w8Fw",
@@ -1424,8 +1436,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-14 23:02:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you; we appreciate your feedback!",
+        "repliedAt": "2021-03-22 23:02:29"
     },
     {
         "reviewId": "gp:AOqpTOFah1Hw5VxzBbiH3OsSCLTVGJ2YYXsiBtIYNv_mbZbRxVJUe57DN9va4EuPqTg6LH3Ghwm4zzPRhasNoA",
@@ -1436,8 +1448,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-12 22:44:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 23:02:14"
     },
     {
         "reviewId": "gp:AOqpTOETP-ecUB-Jbs0IZQzRlpOmfD_RBU_ubFE6MkVB8XAvjc4W_D0N2EcibWvGGW3tVs1ce8aqxH2so4Zs9Q",
@@ -1448,8 +1460,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-12 21:55:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you; we appreciate your feedback!",
+        "repliedAt": "2021-03-22 23:01:26"
     },
     {
         "reviewId": "gp:AOqpTOGUVOWOpkakanhCekZyZqX7RQXqAah7ReT0xmp5QIADSqDxxhsGgg0JkZdPDq5gIINqt7DLemVheH9CiA",
@@ -1460,8 +1472,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-12 03:45:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
+        "repliedAt": "2021-03-22 23:00:36"
     },
     {
         "reviewId": "gp:AOqpTOHKFWxnipU_V4GVOom_1W27-hoEbzUxG4DBRnJVGcjlYaZQ2aqQd_0L5hzaqR-cNrpm5uEyYs0yqZy5lg",
@@ -1472,8 +1484,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-11 21:20:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are continually looking for ways to improve. If you're willing to discuss your review in more detail, please reach out to us at virtualcare@ascension.org. Thank you.",
+        "repliedAt": "2021-03-22 23:00:11"
     },
     {
         "reviewId": "gp:AOqpTOHX1EIh-DrT4LERndKmMVISU7wm1_j2lLhqbN6Chz20cF95ZfiPACiiTtxBSxJ_3oVAaQrViN7P8occcg",
@@ -1484,8 +1496,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-10 20:44:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 22:59:48"
     },
     {
         "reviewId": "gp:AOqpTOEfU8dhHdwerVAyCwqnYz_DeftZp3iD7Suhtc7WpP4wLEVWzLbv6_hwgmzDCYYokBIun1X8IVnVrW7m_w",
@@ -1496,8 +1508,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.13.005_01",
         "at": "2020-08-09 01:45:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review!",
+        "repliedAt": "2021-03-22 22:58:42"
     },
     {
         "reviewId": "gp:AOqpTOGvHlpTZ_YJyMDgbsENize1XqaQe2t9z6WODGBS2GedFL82znR46vSxzVSexPVG0jNgSTTDCKAeRRcUMA",
@@ -1508,8 +1520,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-08-08 16:34:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.\n",
+        "repliedAt": "2021-03-22 22:57:59"
     },
     {
         "reviewId": "gp:AOqpTOEEidMkOEQLhqCSoxE9TYouWrIeZXAMkL0ZgCDFkcJsmHbrkP0Dmcth-jlt9WP-KPNT6w6PddLdtDJxWw",
@@ -1520,8 +1532,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.6.036_07",
         "at": "2020-08-06 22:12:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review!",
+        "repliedAt": "2021-03-22 22:57:24"
     },
     {
         "reviewId": "gp:AOqpTOEDPS_oWrNmTSaUjrN6prMhZZisRoUHmL9ry5eXwnUQk89Jej1RljvM3-NaYGWU6S6ZrOaK-7y8iGE6sA",
@@ -1536,18 +1548,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFf60rTVwIWn5xJKI7TKMJ6V7xTjNb62CgsyVgMsUWSYE1akuBffJWNK7V-5AQweTcmlIjoP43GCoERUg",
-        "userName": "Amanda Kot",
-        "userImage": "https://play-lh.googleusercontent.com/-McaHTYStdsQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYNzuELPufnFCSyl79baLtmzD-eA/photo.jpg",
-        "content": "Always reliable no problems when it came time to talk to do ctor.",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "12.0.8.015_03",
-        "at": "2020-08-04 15:41:32",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOESte8-i3RwNrE6KcBYnaXeSCUq6Cqp60UolX0ismizDlq-ZHOoSpVlE_TPhXGxHDqaNAi2Lr2aE4TvPg",
         "userName": "That Certain Person",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQ1DKu-fBFSemktfUYmqvHJFXuP2-kS082MvciSQ",
@@ -1556,8 +1556,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-08-03 23:19:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear this! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 22:54:29"
     },
     {
         "reviewId": "gp:AOqpTOEzlIgdxStQuU014iJtwGC2AHAZMw2tRnU4RjR15IJWwyrPhikHpE7WO7FgfR-z8sNGK1DTyp69zb7xGw",
@@ -1568,8 +1568,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-08-02 13:55:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you! We appreciate your positive review.",
+        "repliedAt": "2021-03-22 22:53:39"
     },
     {
         "reviewId": "gp:AOqpTOGGMOStkfdVi7190i7vCq-btZlNlNr_oPnSveaJCsFX2qR87pUWSFi3WoXPP6sLrKnl3kwz7qdpinjxWA",
@@ -1580,8 +1580,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-31 22:54:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our care team aims to deliver high quality care. We love hearing about these positive experiences. Thanks for sharing this feedback with us!",
+        "repliedAt": "2021-03-22 22:52:04"
     },
     {
         "reviewId": "gp:AOqpTOEmBhKcZT4oxcjbivl56aAGA9rwbe2CAT5Bgci98WVWQ8JSsPM7rm6DgjCSpIRfeo4rq1MHuK5iwZeyeg",
@@ -1592,8 +1592,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-31 17:13:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you; we appreciate your feedback!",
+        "repliedAt": "2021-03-22 22:51:43"
     },
     {
         "reviewId": "gp:AOqpTOEDqzX6G2fXS4lLwW4PNAfudGkE-C1SvN9r4FbOicXQwlJVUCiocpAhE48r2H1x_8WCYXHTk3X_JzxV4A",
@@ -1604,8 +1604,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-31 16:38:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 22:51:01"
     },
     {
         "reviewId": "gp:AOqpTOFMR0wt-Rsv59wGkj_SYLrHl_AuatzlO25BXz8HaYWIE6ZvctrFjj_AtSqfZ1VhZWfjmYTCvka_d4HolA",
@@ -1616,8 +1616,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-30 21:17:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our care team aims to deliver high quality care. We love hearing about these positive experiences. Thanks for sharing this feedback with us!",
+        "repliedAt": "2021-03-22 22:50:36"
     },
     {
         "reviewId": "gp:AOqpTOHJR6EsYiaMFYySdUMZS8UXtDmUoEi96DQYSb8CI_JhuJvlp30Qp1Nrd6VSUftwmYJl0Bd23IIUVDmfEA",
@@ -1628,8 +1628,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-30 17:58:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 22:49:07"
     },
     {
         "reviewId": "gp:AOqpTOFLEwVNWYqMKCitmdUbrRQ4sONqbqNtl3LUVtkHiGX8GN__DT9SBgk6Mfe0dfNEvtmeLWcpscOvjXYA4w",
@@ -1640,8 +1640,8 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-29 22:28:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Your feedback is important to us, and we really appreciate you taking the time to share it. Thank you!",
+        "repliedAt": "2021-03-22 22:48:20"
     },
     {
         "reviewId": "gp:AOqpTOG_1JA2vOpK3Go6Iceu4vIYDI_eITZdGVG4hKfbFiI9CdVJy7YzEswxE-URXkFMrOyEAULn3tThZZXAug",
@@ -1652,8 +1652,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.8.010_02",
         "at": "2020-07-28 14:36:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We strive to provide high quality care, so your positive comments mean a lot to us!",
+        "repliedAt": "2021-03-22 22:47:34"
     },
     {
         "reviewId": "gp:AOqpTOFjpAMfqOjr9jXuAJRmVNWXXyURZdkNgKzLM--aTiXOSdz2p5CvtrOZl7ixtX3D6vHcDX8HsFzMSFXdrQ",
@@ -1664,8 +1664,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-27 21:24:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We strive to provide high quality care, so your positive comments mean a lot to us!",
+        "repliedAt": "2021-03-22 22:47:02"
     },
     {
         "reviewId": "gp:AOqpTOHdALoCU_S_PAilU3tuffRJYrMHguZlWlkywpnOBc-VUCLkuPVN4kON9vsAtK7_8N-G-Zij4zxQbTdo5Q",
@@ -1676,8 +1676,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-27 17:31:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "So glad to hear your positive feedback! Thank you for taking the time to leave us this review.",
+        "repliedAt": "2021-03-22 22:46:31"
     },
     {
         "reviewId": "gp:AOqpTOFNa_ICsLgQUHazdbGFmMRvlxUE0FJI7GBr9U5cl-La9I4oCYZxIq9S8uFtNsGVtEBpsoe04iCQMEnNEA",
@@ -1688,8 +1688,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-24 22:00:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 22:45:57"
     },
     {
         "reviewId": "gp:AOqpTOHSm6k-0xnpbSBy4ASq-wtUrAxzZ_Citxhwjd-sMQgnBTyu-zDoj_rIIAuaG9GnjcfTQP4OZ-ySqKQcJA",
@@ -1700,8 +1700,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.8.015_03",
         "at": "2020-07-24 03:32:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We appreciate you taking the time to leave us this feedback. Thank you.",
+        "repliedAt": "2021-03-22 22:45:44"
     },
     {
         "reviewId": "gp:AOqpTOFzU967A4_3gP0CcnWbirtW4FuMbJi84aaj_A03GkZVzBC5Jy_zwq88V-Gox2z4jx0rMgFRfBFy5Bk0Pw",
@@ -6132,6 +6132,18 @@
         "repliedAt": "2020-06-17 22:59:15"
     },
     {
+        "reviewId": "gp:AOqpTOHqO57L9jRKFVS37YZpKybNWfnmH_eAYQeJSc62Ez1ZIGCw-j_6v5IRJ6ORpZ_5fSITzWiCdegAv6bODA",
+        "userName": "Dannie Emberton",
+        "userImage": "https://play-lh.googleusercontent.com/-TEommccsupc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjkTdZXbaOnmxBdJIugFcdzVOqKQ/photo.jpg",
+        "content": "Garbage. Gave me a code that did not work. Waited 60 minutes when my turn cameit switched to another doctor. Waited 20 more and it booted me. Never even saw the doctor. Uninstalling.",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "12.0.6.036_07",
+        "at": "2020-04-01 03:42:49",
+        "replyContent": "This review is not a reflection of the care we pride ourselves on providing. Please contact us at your earliest convenience at virtualcare@ascension.org so we may work with you directly to resolve this issue. We hope to hear from you soon.",
+        "repliedAt": "2020-06-17 22:59:27"
+    },
+    {
         "reviewId": "gp:AOqpTOEIcqfm35M5_RLMt4eOhlIRupZoTsoE1Fp0ISF0IJQwC6XrwS_43Cb04ee1nJz3q49OHc6Y9ghAJ8kcbA",
         "userName": "Jason Sanders",
         "userImage": "https://play-lh.googleusercontent.com/-be4bIQ098pc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXWipW_8UNy6zB_FxTVf6sVPgCNA/photo.jpg",
@@ -6929,7 +6941,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-jEUYylOv3mc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_pZfBpEOhDJ78xr5s5VU-C5sGCw/photo.jpg",
         "content": "I have tried this app 3 separate times today. the first time I waited for an hour and then when I was the next patient up, it disconnected me saying the doctor is no longer available and I wouldn't be charged. So I signed on again and was on hold for 20 minutes, was 4 patients out and got disconnected because the doctor went offline. Than I just signed in again an hour later, and was on hold for 2 hours, was third in line when the doctor went offline and again was disconnected. DO NOT USE",
         "score": 1,
-        "thumbsUpCount": 58,
+        "thumbsUpCount": 59,
         "reviewCreatedVersion": "11.5.7.000_00",
         "at": "2020-03-16 22:39:49",
         "replyContent": "We try very hard to meet expectations and we regret that we have not done so in this case. We're here to listen, if there is any additional feedback you would like to share with our team, feel free to reach out to us at virtualcare@ascension.org.",
@@ -7562,7 +7574,7 @@
     {
         "reviewId": "gp:AOqpTOEp7V1or0lS-GHJQG2kDE0Mb5CeUKAhr7OSNuMFvambKYsVdrVDUyC2rYLOJMk0tfCQOS8VmbQm-YNmdw",
         "userName": "TattooingbyMechille",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GheVxNUt3KDNizcnXxXkcMpOw46PvcjFlMYwAkbAQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1ZCONGi7vvPO9ZbsFNV8ZJx5pBQ8GU5Muxo5_OQ",
         "content": "What is it that doe$ exactly?",
         "score": 5,
         "thumbsUpCount": 3,

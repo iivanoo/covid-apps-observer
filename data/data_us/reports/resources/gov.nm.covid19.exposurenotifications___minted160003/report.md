@@ -1,0 +1,205 @@
+# NM Notify
+App version ``minted160003``
+
+Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) project, version ``0.1``
+
+<img src="icon.png" alt="NM Notify icon" width="80"/>
+
+## App overview
+| | |
+|-------------------------|-------------------------| 
+| **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | NM Notify |
+| **Unique identifier** | gov.nm.covid19.exposurenotifications |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=gov.nm.covid19.exposurenotifications](https://play.google.com/store/apps/details?id=gov.nm.covid19.exposurenotifications) |
+| **Summary**  | New Mexico COVID-19 Exposure Notification App |
+| **Privacy policy** | [https://nmnotify.com/privacy-policy/](https://nmnotify.com/privacy-policy/) |
+| **Latest version** | minted160003 |
+| **Last update** | 2021-03-24 21:08:23 |
+| **Recent changes** | Bug fixes and performance improvements |
+| **Installs**  | 10,000+ |
+| **Category** | Medical |
+| **First release** | Mar 19, 2021 |
+| **Size**  | 10M |
+| **Supported Android version**  | 5.0 and up |
+
+### Description
+> NM Notify is the official Notification App of New Mexico and the New Mexico Department of Health. It uses Bluetooth technology to alert you when you have been in contact or close proximity to someone that has tested positive for COVID-19. The app uses the Bluetooth technology on your phone to exchange anonymous codes with anyone in your proximity with the same app. If one of those people should become infected within 14 days of your contact, you will be alerted. You'll be told that you have been in contact with someone that has tested positive for COVID-19. Then it will advise you on what steps to take to keep you and others around you safe. Likewise, if you test positive for COVID-19 you can upload your "positive" code and anyone that you have been in contact with will receive an alert. It's completely anonymous, you won't know and others won't know who exposed who.
+
+
+### User interface
+The developers of the app provide the following screenshots in the Google play store.
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+ | <img src="screenshot_1.png" alt="screenshot" width="300"/>  | <img src="screenshot_2.png" alt="screenshot" width="300"/> 
+
+## Development team
+In the following we report the main information provided by the development team in the Google play store.
+
+| | |
+|-------------------------|-------------------------|
+| **Developer**  | NM DOH |
+| **Website**  | - |
+| **Email** | nmnotify@nm.gov |
+| **Physical address**  | - |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=NM+DOH](https://play.google.com/store/apps/developer?id=NM+DOH) |
+
+## Android support
+
+| | |
+|-------------------------|-------------------------|
+| **Declared target Android version**  | - |
+| **Effective target Android version**  | - |
+| **Minimum supported Android version**  | Lollipop, version 5.0 (API level 21) |
+| **Maximum target Android version**  | - |
+
+The larger the difference between the minimum and maximum supported Android versions, the better. A larger difference means a wider audience. For example, old phones have a very low Android version, so a high minimum supported Android version means that the app cannot be used by users with old phones, thus leading to accessibility problems. 
+
+## Requested permissions
+
+In the following we report the complete list of the permissions requested by the app. 
+
+| **Permission** | **Protection level** | **Description** | 
+|-------------------------|-------------------------|-------------------------|
+ **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission<br>BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
+ **android.permission<br>FOREGROUND_SERVICE** | Normal | Allows a regular application to use Service.startForeground. 
+ **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
+ **android.permission<br>WAKE_LOCK** | Normal | Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming. 
+
+
+## Mentioned servers
+
+| **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|-------------------------|-------------------------|-------------------------|-------------------------|
+ | google.com | Google LLC | :us: US | 1997-09-15 04:00:00 |
+
+
+## Security analysis 
+
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
+
+**Telephony identifiers leakage**
+> - This application reads the ISO country code equivalent of the current registered operator's MCC (Mobile Country Code)<br>
+
+**Connection interfaces exfiltration**
+> - This application reads details about the currently active data network<br>
+> - This application tries to find out if the currently active data network is metered<br>
+
+**Suspicious connection establishment**
+> - This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
+
+**Code execution**
+> - This application loads a native library: 'prioclient'<br>
+
+
+
+## User ratings and reviews
+
+Below we provide information about how end users are reacting to the app in terms of ratings and reviews in the Google Play store.
+
+### Ratings
+
+The NM Notify app has been installed by more than **10000** times. At this time, **50** rated the app and its average score is **2.92**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+
+:star::star::star::star::star:: 18
+
+:star::star::star::star:: 5
+
+:star::star::star:: 4
+
+:star::star:: 1
+
+:star:: 22
+
+### Reviews 
+
+#### 5-star reviews
+
+<p align="center">
+<img src="5_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 5 reviews"/>
+</p>
+
+> Installed with no issues on moto g6. Glad NM put one of these together!<br> :date: __2021-03-27 02:29:27__
+
+> It is working now thank you<br> :date: __2021-03-25 21:48:47__
+
+> 🛡️🔐Æ🕋®️🫂©️👨🏻‍💻™️▶️Œ🔐🛡️<br> :date: __2021-03-25 16:14:18__
+
+> Yes! Thanks, NMDOH, for releasing an exposure notification app!<br> :date: __2021-03-23 20:05:53__
+
+> Excited about this new tool in efforts to stop the spread of COVID here in NM. The more NM residents who download this app the sooner we can get back to life as we previously knew it. Thanks Gov. MLG for all your efforts.<br> :date: __2021-03-23 19:35:28__
+
+> Help me out<br> :date: __2021-03-23 18:57:14__
+
+> works gr8 for me<br> :date: __2021-03-23 18:15:55__
+
+> So far it works fine. More people will need to sign up and download it for it to be considered useful<br> :date: __2021-03-23 17:38:41__
+
+
+
+#### 4-star reviews
+
+<p align="center">
+<img src="4_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 4 reviews"/>
+</p>
+
+> I thoroughly appreciate this app. I have a Samsung S7 and the app closed as soon as I clicked it. However, 3/25/21 the update fixed the problem. PS the developer contact email is not valid.<br> :date: __2021-03-25 21:04:42__
+
+> All the app does is share anon covid test results from one phone, (If Positive) alert phones that have been near by that phone, encouraging them to get tested. Simple, Basic, But really Useful.<br> :date: __2021-03-23 20:50:16__
+
+> Thank you for trying to keep us updated. The app keeps crashing when opening.<br> :date: __2021-03-23 19:02:50__
+
+> The app seemed to just sit idle till today. Today it sent a notification. So far it is doing what it's suppose to do.<br> :date: __2021-03-23 15:33:37__
+
+
+
+#### 3-star reviews
+
+<p align="center">
+<img src="3_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 3 reviews"/>
+</p>
+
+> Sure does suck the life out of your battery. Haven't had any notifications for anyone who's test positive for the virus.<br> :date: __2021-03-25 01:53:55__
+
+> Works on my Galaxy S8 but crashes on Galaxy S6.<br> :date: __2021-03-23 19:30:52__
+
+
+
+#### 2-star reviews
+
+<p align="center">
+<img src="2_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 2 reviews"/>
+</p>
+
+> It down loaded on Android but all my Apple devices 🍏 it can't locate the App in the App store.<br> :date: __2021-03-24 05:23:44__
+
+
+
+#### 1-star reviews
+
+<p align="center">
+<img src="1_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 1 reviews"/>
+</p>
+
+> This app berates my phone twice a day asking to gather and share my information and keep tabs on me. Well Big Brother, while I can still say this... Fornicate thyself and the steed upon which thou didst ride in upon. Death is a preferable alternative to Communism. Long live Donald John Trump, the true winner of the election.<br> :date: __2021-03-26 09:21:16__
+
+> Downloads but immediately fails on a Samsung Galaxy S7. Have uninstalled it.<br> :date: __2021-03-26 03:48:20__
+
+> Barely downloaded it and it crashed on my first time opening it.<br> :date: __2021-03-25 15:17:44__
+
+> Currently cannot get the app to work. Installed & tried opening, but kept quitting. Sent feedback. Deinsed, then reinstalled, but same problem. Sent feedback again. Have no idea if this is a good app since it's not working for me. Although in theory, it's a good idea. I've been vaccinated, but it's still good to know. Wish it worked.<br> :date: __2021-03-25 01:35:58__
+
+> Does not work. It won't even open.<br> :date: __2021-03-24 18:45:43__
+
+> Can't open on galaxy j7<br> :date: __2021-03-24 15:26:25__
+
+> It does not let me open it without crashing<br> :date: __2021-03-24 15:14:03__
+
+> Cannot open the app at all. Total failure for me. Someone else mentioned that the problem could be an older phone. I'm sure the people who can afford the latest and greatest after a year of the pandemic are in the minority. Gotta fix that DOH.<br> :date: __2021-03-24 05:25:22__
+
+> Zombie tested....<br> :date: __2021-03-24 05:19:57__
+
+> Horrible. Never loads.uninstalled it<br> :date: __2021-03-24 02:15:01__
+
+

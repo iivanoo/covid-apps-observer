@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOEvKBCKUd8Rk3s8QNZhm38vc-KrqqDA68Rtr8iOsRTr9jihaMp446GQyCveZBFcRyt_n6DsFvTn4ssu0M4",
+        "userName": "Ahmed Arnaut",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMA9FnKAHgvkNEzGsjt0LHwEiHy04T3w__HWCajQ",
+        "content": "Very unpleasant appointments. Doc just wants to get it done with as fast as possible.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.25.1",
+        "at": "2021-03-27 12:49:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHU837117GpfNhBIpTTJfiO1DPJi8nyFEjfaf4EWZp5TZJdJGvambcA-Li0w-UjiIWEQUhN-v2W2ICVS7k",
+        "userName": "Esam Sarah",
+        "userImage": "https://play-lh.googleusercontent.com/-cUoF7gRi1EU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnPp_Kj0rWwwn4A11-3iWSgvI5aww/photo.jpg",
+        "content": "Det j\u00e4tte bra app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.14.1",
+        "at": "2021-03-25 20:40:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEatLW99O69FF7J6Ho1WIGm03enS3j5bbXpU0c7iBV0vDjtUMrg-6y8uDsdJ4uosuED49QjYpaFvyg7Pp4",
+        "userName": "Mats S\u00f6derh\u00e4ll",
+        "userImage": "https://play-lh.googleusercontent.com/-SUf1X-3t4BQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLruiRtoOxm_zZZ_HC6H5K4gFvSw/photo.jpg",
+        "content": "V\u00e4ldigt enkelt att f\u00e5 hj\u00e4lp f\u00f6r enkla \u00e4renden.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.21.1",
+        "at": "2021-03-24 15:37:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFFeXqkEkUNcEi71IA3RzOwgbEVbHYGPZErG4ZHQT2a2ZfI6stY8MM5Zl0kIkKpo5_1Q4d--cu-yl2iMZU",
+        "userName": "True Skills Saif",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKfWNyRFH8V07UbxFtD7im-J9zGVb3zMMGSA6ayg",
+        "content": "Good service",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-24 12:08:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFDyLENkPw_vPOy-_onwMAxY1Y-TUkIwVpyCriZuC54dxhbXzcAxQHpyOY-d03SDJIpjlUszbpzMQFap5w",
+        "userName": "Amna Abu emara",
+        "userImage": "https://play-lh.googleusercontent.com/-wfPyRCQQbT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmFhAPCLD-3QYMhMFxs8yT4aEyYSA/photo.jpg",
+        "content": "L\u00e4kare var sarkastisk. Han \u00e4r svensk, inte heller arabisk talande enligt \u00f6nskem\u00e5l, trots enligt app har de 28 ST som pratar Arabiska.inget anamnes tagits allt, startade samtalet direkt tyv\u00e4rr kan inte hj\u00e4lpa er och ni beh\u00f6ver byta h\u00e4lsocentral, kan inte ta prover utan unders\u00f6ka, och om vi vill kan vi ta det privat.\u00e4ven osteoporos utredningar som tas muntlig var inte lustig att ta det h\u00e4r samtalet.v\u00e5r upplevelse att d\u00e5lig bem\u00f6tande och v\u00e4rdel\u00f6s hj\u00e4lp.ingen skillnad fr\u00e5n vanlig HC.rekomenderar ej",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.25.1",
+        "at": "2021-03-23 17:50:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF0Rijjvwt2VoOfs64ue77NvjKilG2wAyFcfNbPHpv4bw4KkrbPA8LvE6vV7jVTd1gX7o2XYcfxiRUAdws",
         "userName": "Daniel Enstr\u00f6m",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhItZGdfdyYNu9LZpdjUBIPDjSTnIPI4zK6Q4_vFQ",
@@ -149,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjxo0_v89whcjobR8cSzxyq_ppoibodnLpkcztn_w",
         "content": "I have har two apointments in this app. Both were very un pleasant. The first one basically told me that it was my medicines fault and sent me to my regular clinic and the second one was extremely rude, only repeated the same thing which I explained didn't work, He told me he was going to prescribe me some medicine (never told me what medicine) and then just didn't prescribed them and just sent me a text with tips. I will NEVER use this app again. I would rather burn 200sek than pay them to kry!",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.23.0",
         "at": "2021-02-04 11:12:26",
         "replyContent": "We are sad to hear about your experience with kry. Kry values our patients first and always strive to deliver valuable care and qualitative service. If you would like to share your experience you are welcome to call our support at 08-22 77 07 from 9am to 5pm on weekend free days.\nWishing you a great day!\nBest regards,\nKry Support",
@@ -776,18 +836,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.21.1",
         "at": "2020-12-07 16:31:08",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFFeXqkEkUNcEi71IA3RzOwgbEVbHYGPZErG4ZHQT2a2ZfI6stY8MM5Zl0kIkKpo5_1Q4d--cu-yl2iMZU",
-        "userName": "True Skills Saif",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKfWNyRFH8V07UbxFtD7im-J9zGVb3zMMGSA6ayg",
-        "content": "I have received a good advice from a doctor, thanks for the vedio appointment",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-06 22:06:05",
         "replyContent": null,
         "repliedAt": null
     },
@@ -2186,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOHE7gYj4w8RnFr5YJarMhmMf49G0wXP0WCTFKYlpUufrB6kyTfvpHa6EG6yyZDKjemD1LIDM2PfYnfCxHE",
         "userName": "Johannes Arnborg",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZy5jQLLaAQBgT4ikEDB-E7fDaGYeMF578I6sEOQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgiVHD1919AVDffSg7OGUIkpt4tsRmDaSLh2OX1Aw",
         "content": "Jag f\u00e5r alltid den hj\u00e4lp jag beh\u00f6ver, utan kr\u00e5ngel.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7022,7 +7070,7 @@
     {
         "reviewId": "gp:AOqpTOHZH5kjTkGcHBFks1bUGQwkoEUOLFbPSeJP72gEaNokEw-tPT5sZThUfwXb67_xsB2Vgz2MfKop7_Fyxhc",
         "userName": "Camila Rivera",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJeOs7l-oXwfsH57AT2AouJxbVniu1hBCj0ZjuCA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjrjhMuBXGYHWsRk2y6hL_o7zxHBsuMOtjvaJl0sQ",
         "content": "smidigt och problemfritt",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7921,8 +7969,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGh0yW6Q2xVxj35xgg6T3MxCbWNkTqklS7Lp8pklaUCcgvl82xRO-HZdgjN7CK6EHwf2rsC5FvOivlt-DU",
-        "userName": "Cody Hendrix",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHjO-p8QyaReYkBOBWA18vHmMpoPdPaxPFL-bp6l8",
+        "userName": "Arabon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUjoBO7zyuPnpK6xBA42A7QY5AX2A1O6Q1du51ZLo",
         "content": "This is an amazing app, and saves us many trips to the clinic. I highly \nrecommend it.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8689,7 +8737,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHoIzPRgM172e5-VPd7cbClyNBNKCFbXGRyNqBKSpm3krZsJ0ZMzUrx6hDiH_RmzVi35bXAzkfPNh7cj-A",
-        "userName": "BAJS GAMING",
+        "userName": "Hendrik Janse van Rensburg",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjcxuFv-Cv8Y0wJgihrPTdVcMmDLx1uA3n5nkqIzwk",
         "content": "Min lille dotter fick tid i mindre \u00e4n 5 min. SJUKbra ! \ud83d\ude01\ud83d\ude01",
         "score": 5,
@@ -9158,7 +9206,7 @@
     {
         "reviewId": "gp:AOqpTOEfVU_WwnVpQBEjPC_WWO0Epj9EjC5wDPw-kaZGKUYEg65cajxxQXFB39IbaQOhr2X7hEjVUdf6ev053iI",
         "userName": "Surmid",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj09CFPbnRsnt8s1GHuVEJX4NhJJr6mlqz3yqnFJA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjgl57YNdMIpsfJpOEpobVR7J-wzGAitGraPoFXGg",
         "content": "Hi dev. I've 2 things to say: 1_ Add some black/black hair people in the trailer in app. 2_ After pressing \"get started with KRY\" key, there's is not any sign that says \"Swipe left\" or \"Swipe right\" key for those pictures. bye.",
         "score": 3,
         "thumbsUpCount": 7,

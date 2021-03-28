@@ -208,8 +208,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> Mal<br> :date: __2021-03-20 21:53:17__
-
 > Inútil total, sólo se puede acceder a través de la cl@ve digital y esta debe de ser registrada presencial. Yo con 80 años y varias operaciones no me puedo desplazar. Debido a la pandemia nadie te atiende. Para que tanta seguridad solo para pedir cita médica. ABSURDO<br> :date: __2021-03-15 09:42:41__
 
 > Le doy una estrella porque no se puede poner menos. Me hace cambiar mi contraseña CL@VE y después no me deja acceder porque da error. Sale el mensaje de que mi clave no es correcta. Es pésima.<br> :date: __2021-03-14 22:45:45__
@@ -227,5 +225,7 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > No se puede entrar, ni con certificado, ni con los datos, no hay forma.<br> :date: __2021-03-12 12:58:11__
 
 > Malisima<br> :date: __2021-03-12 12:08:21__
+
+> La APP descargada No reconoce el certificado digital aunque este en memoria, y no da datos,<br> :date: __2021-03-09 21:46:09__
 
 

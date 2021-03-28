@@ -134,6 +134,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Nice<br> :date: __2021-03-27 07:13:05__
+
+> Good<br> :date: __2021-03-26 06:18:54__
+
 > Let know if you have been exposed to the virus.<br> :date: __2021-03-17 07:24:17__
 
 > Great<br> :date: __2021-03-15 21:37:27__
@@ -149,10 +153,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Thank you my results is negative<br> :date: __2021-03-01 17:17:04__
 
 > Jnn<br> :date: __2021-03-01 08:51:26__
-
-> Works in background, only time I know its installed is if zi turn off Bluetooth.<br> :date: __2021-02-27 02:02:06__
-
-> Love it<br> :date: __2021-02-16 01:37:29__
 
 
 
@@ -190,6 +190,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> The app has twice stopped updating. I did get instructions to load another state's app, activate that in place of covidwise, then reload covidwise and reactive. It works but why does the checking just stop?<br> :date: __2021-03-27 19:41:27__
+
+> Good idea, but utility is totally dependant on enough people downloading it to make notifications meaningful. There is no way to know...<br> :date: __2021-03-25 21:01:28__
+
 > Great idea concept, except it does not work in MA. Plus, it will only alert you if someone actively states they have tested positive before going out in public. Some will see it as a HIPPA violation, even though they consent to saying they've tested positive. It doesn't say who, just alerts you to possible exposure. Would like to see this accepted nationwide, and notifications for if you're in a "high risked" area, rather than hoping someone claims they're positive and running errands.<br> :date: __2021-03-16 18:29:33__
 
 > The app stopped checking in a few months ago. I tried reinstalling it and that got it to check in, but only once.<br> :date: __2021-03-11 17:46:41__
@@ -206,10 +210,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Nice tey<br> :date: __2021-02-13 04:01:24__
 
-> I will admit, I felt so much better about life when this app came out. I wish it were mandatory for all Virginians just like our masks. We would be more efficient at slowing the spread, if it were mandatory and working properly. Unfortunately, my exposure notification hasn't updated since January 5, 2021after working great for months. Please help! I want to be part of the solution. Cannot do that if the app isnt working properly. I keep my bluetooth on at all times, that's not the problem.<br> :date: __2021-02-11 16:08:59__
-
-> Doesn't update as often as I would recommend. There is no way to refresh and update exposure notices. Not sure if it really works but I hope it does because I definitely would want to know if I've been exposed.<br> :date: __2021-02-04 17:33:51__
-
 
 
 #### 2-star reviews
@@ -217,6 +217,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
+
+> My exposures haven't been checked since March 3. I've followed the instructions in the FAQs, but it still won't update. I even uninstalled and reinstalled the app. 🤷<br> :date: __2021-03-26 00:48:24__
 
 > Since a recent update I get alert after alert after alert if I don't have BT or GPS enabled. One alert is enough. I don't want to have this on when I'm at home and I don't want to be constantly spammed with alerts. It is enough to make me consider deleting the app, which is counter productive, Virginia.<br> :date: __2021-03-16 10:56:08__
 
@@ -236,8 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > My housemates & I have all tested positive but we can't report it in the app because the health department hasn't contacted any of us so there is no PIN code.<br> :date: __2020-10-22 02:52:42__
 
-> Bluetooth Required. I use bluetooth very selectivly. I won't use it 24/7 as it increases the chance of hacking...bluejacking in other words.<br> :date: __2020-10-19 03:24:57__
-
 
 
 #### 1-star reviews
@@ -246,6 +246,18 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> SCAM<br> :date: __2021-03-27 02:29:20__
+
+> I'm disappointed. It has stopped checking on a regular basis. It was fine until recent updates. How does the Commonwealth expect us to use something this broken? Sorry was a supporter of the project in the past, but there is no need to continue tonuse it if you aren't providing me with the security and peace of mine as promised.<br> :date: __2021-03-27 02:15:06__
+
+> Pretty sure this app doesn't do anything. Hasn't scanned since 2/14<br> :date: __2021-03-26 11:29:15__
+
+> The app says it last checked for exposure on Jan 30, 2021 Today's date is March 23, 2021. The app store says I have the latest updates. I don't think it is working at all.<br> :date: __2021-03-23 17:34:16__
+
+> It is broken again and it doesn't update<br> :date: __2021-03-23 16:28:00__
+
+> It seems to have stopped working. My apps auto-update and exposure notifications is still on in phone settings (Samsung S9+, which also updated recently), but app says it hasn't checked exposure since February 18th!! Other people in review are having similar experience. I had to run some essential errands this past weekend--did it even work then??<br> :date: __2021-03-23 12:08:55__
+
 > Update This useless app still doesn't work pretty sure there in no one at the wheel on this one. Yes I have the most recent version. And yes my location is on and it never checked anything accept when you first download it. Complete yeah don't waist your time How is this even real if today is 2/22/21 and the last time this was checked was 2/6/21 there is no before to this if it never checked<br> :date: __2021-03-21 00:39:29__
 
 > Almost as useless as their registeration site for vaccines.<br> :date: __2021-03-19 00:16:43__
@@ -253,17 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Trash<br> :date: __2021-03-18 01:43:33__
 
 > Not sure if it actually works. UPDATED 03/10/21. I believe this really is of no use. According to the apps own info under the heading "How it works", the alert criteria is based on being closer than 6 feet away some diagnosed with Covid for a whopping 15 minutes! So it takes an exposure of 15 minutes to catch the covid virus? I am curious to actually how many people actually got an alert based upon the flawed criteria.<br> :date: __2021-03-10 16:33:16__
-
-> QUIT SENDING ME NOTIFICATIONS TO INSTALL THIS APP.<br> :date: __2021-03-08 21:36:05__
-
-> App is useless. I got covid back in December. Tried to report on this app and it said I needed to get a code from the VDH. Never got a call from VDH. Called VDH and left a message to call me back and never got a call back. I doubt I'm the only one, so how is this supposed to work exactly if you can't report on it? Useless.<br> :date: __2021-03-08 19:34:08__
-
-> Continually gives false alerts. It honestly just doesn't work.<br> :date: __2021-03-06 17:20:26__
-
-> Does nothing. The amount of time I've been around people with Covid never once has this app notified me<br> :date: __2021-03-05 15:22:05__
-
-> Stopped updating February 2nd so just uninstalling to see if that helps. Changed the settings before I did and still didn't update.<br> :date: __2021-03-05 13:43:13__
-
-> Notifications...not updated for a month.<br> :date: __2021-03-05 00:40:53__
 
 

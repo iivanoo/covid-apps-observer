@@ -192,25 +192,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
-> Just great. Finally, something in life that is easy and just works as you'd expect... actually, even better.<br> :date: __2021-03-18 20:27:34__
+> Quick service with a nice doctor !! Thank you<br> :date: __2021-03-27 20:09:52__
 
-> Easy to use, quick and convenient for general medical care. Text based symptom reporting and conversation with providers.<br> :date: __2021-03-16 19:33:46__
+> Very great experience, along with great care!<br> :date: __2021-03-26 23:44:52__
 
-> Great idea that is executed well. Helped me out of a primary provider jam and got my prescriptions and labs taken care of. Highly recommend.<br> :date: __2021-03-15 17:21:38__
+> Extremely Helpful<br> :date: __2021-03-26 22:05:28__
 
-> Got a prescription quickly!<br> :date: __2021-03-12 12:46:33__
+> The doctors are very educated and try to help as much as they can over the phone. It's super simple, you sign up, pay for the subscription (mine was $30 for 3 months) and then you just need to fill out a symptom questionnaire and the doctor will confirm your name and date of birth in video call and return back to the chat in text to help you out. They were able to prescribe me a prescription at my closest pharmacy. 👍👍<br> :date: __2021-03-24 07:07:18__
 
-> So efficient and easy to use.<br> :date: __2021-03-11 18:19:45__
+> Very helpful...<br> :date: __2021-03-24 04:07:07__
 
-> Easy! Fast! And friendly doctors!<br> :date: __2021-03-09 18:26:24__
+> A+<br> :date: __2021-03-23 20:58:32__
 
-> Fairly agreeable app, I've not had trouble in the two times I've used it.<br> :date: __2021-03-09 18:23:50__
+> Very knowledgeable about my problem thank you<br> :date: __2021-03-23 15:42:44__
 
-> Very professional<br> :date: __2021-03-09 15:15:01__
+> Super easy to get some peace of mind from the Search Engine at home doctor results my brain was racing through.<br> :date: __2021-03-22 13:01:44__
 
-> Easy breezy. Courteous Doctors. This is the future.<br> :date: __2021-03-08 22:43:07__
+> This app is very easy to use and so helpful for parents!!<br> :date: __2021-03-22 04:11:19__
 
-> This is a great way to avoid picking up unnecessary germs and possibly bringing those germs home to be spread around.<br> :date: __2021-03-07 22:18:22__
+> Excellent app!<br> :date: __2021-03-21 16:40:33__
 
 
 

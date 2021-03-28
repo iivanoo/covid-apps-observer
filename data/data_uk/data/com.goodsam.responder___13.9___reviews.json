@@ -1,13 +1,61 @@
 [
     {
-        "reviewId": "gp:AOqpTOELGV-yryXgkRV8N0ABvc1qc_F9KXQNX3a3mZUz2xJAvXLnlIyYUhuBcHpVEQjfudiwtl3mghs3kgYuhQ",
-        "userName": "Jeff Davies",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9XHB145q78RtcrMC8yAbt4IOCkZQ17VUbiecRzA",
-        "content": "Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!!",
+        "reviewId": "gp:AOqpTOGYQ7XYbKi0XoQ9-nnJi29iLVkBCqk2ZgLAC3BCGvgZV1A4PwnTRgeCqkizjG-u9Vuf4LU3TvBlP_axJw",
+        "userName": "Caroline Warrey",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcuC54pfG3nVTs_dQCxqTQDvKOFaojNo4CaFXyog",
+        "content": "I've been logged in for over 1000 hours and never had a notification, even though I have all notification settings turned on. I've just gone into messages to find loads saying I've not responded to a request. How can I respond if the app isn't notifying me?",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "13.9",
-        "at": "2021-03-21 03:22:46",
+        "at": "2021-03-28 09:16:49",
+        "replyContent": "Dear Caroline, sorry to hear this. Could you please double check the push notifications is turned on for our app? We have a guide on: https://www.goodsamapp.org/help You should also be able to login to the website and send yourself a test push notification to check if notifications are working, we hope this helps!",
+        "repliedAt": "2021-03-28 12:57:39"
+    },
+    {
+        "reviewId": "gp:AOqpTOGyVZEMpjabUYoPmtgE6GRID2Skao1ZM5mQQ1Ye2MQVyLTcRSNM6M_lDArfxu_ljt4rWbVE0fpzcR4iyg",
+        "userName": "Tina",
+        "userImage": "https://play-lh.googleusercontent.com/-jjn42tB4zSU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJCPrsSoaMl9a2Ez5ZKdbwGHupfA/photo.jpg",
+        "content": "Load of rubbish. Was told by emergency Doctor from other side of my Borough to sign up to get a volunteer to collect my prescription. App wouldn't even let me state I was in the UK when registering. Tried several times. Give up. Response to developers: I was told to register by a gp to find a volunteer to collect a prescription/medication last night The App would not let me put the UK as my country! I am already registered with NHS First Responders. I get a call every couple of weeks.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.9",
+        "at": "2021-03-26 11:43:35",
+        "replyContent": "Dear Tina, thank you for the kind words. You seem to have misunderstood the scheme entirely. You as a person who needs help wont need to sign up, the volunteers who deliver prescriptions do. If you need a volunteer or support please call the NHS volunteer responders on 0808 196 3382. They place a referral for you and a volunteer will be in touch.",
+        "repliedAt": "2021-03-25 19:37:12"
+    },
+    {
+        "reviewId": "gp:AOqpTOFhXJ6xq7vlJDyqQvDD1cxGzsPV86RYlpK0fnP3D9Xtxwt1r8IDSM2I4XbB1t2ul7FdudWXGcmM-y_knw",
+        "userName": "Annette Tadman",
+        "userImage": "https://play-lh.googleusercontent.com/-f1v7uCkuR_U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnASZm4vGtTIm9ft6FMG_Mc8zAh5Q/photo.jpg",
+        "content": "After update app no longer opens. Re installed works once and then does not open again. Now unable to access to log on",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.9",
+        "at": "2021-03-24 12:12:46",
+        "replyContent": "Dear Annette, sorry to hear this. Do you grant all the necessary permissions to the app when installing? If the permissions are not granted, the app may malfunction. Also do you have any optimiser apps (such as a battery optimiser) that can interfere/kill our app?",
+        "repliedAt": "2021-03-24 12:21:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOHAi57Uc_NkfG40nGvPWX_Xrpcdy1GCRoThSogIifY8Yj21Kyytm_fqZJNZkMXOKglns26jmjJxtdXCOw",
+        "userName": "Jonathan Wiltshire",
+        "userImage": "https://play-lh.googleusercontent.com/-aOJWgjTAuQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqQwoSWOAlqNvk9ULnY8AaQICDHg/photo.jpg",
+        "content": "Fundamentally sound but as a NHS volunteer responder there are two key niggles which could be addressed to make life much easier: 1. Unable to copy phone numbers from alerts to paste into the phone app, which means switching back and forth to type it manually. Can you make the number a link to dial directly or at least let it be copied to the clipboard? 2. Can't accept more than one task at a time so it's not possible to do them in one trip or make another call when the first isn't answered.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.9",
+        "at": "2021-03-24 06:05:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOELGV-yryXgkRV8N0ABvc1qc_F9KXQNX3a3mZUz2xJAvXLnlIyYUhuBcHpVEQjfudiwtl3mghs3kgYuhQ",
+        "userName": "Jeff Davies",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9XHB145q78RtcrMC8yAbt4IOCkZQ17VUbiecRzA",
+        "content": "Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!! Now that everything is sorted, the app works fine for me.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.9",
+        "at": "2021-03-24 05:33:31",
         "replyContent": "Dear Jeff, please check your other/spam folder as the emails might end up in there by mistake. Please also use industry standard email address, if you are using a custom email server, please make sure your mail server is setup correctly. You can also trigger another activation email from: https://www.goodsamapp.org/activate",
         "repliedAt": "2021-03-21 11:07:44"
     },
@@ -985,7 +1033,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEe2YSACy0r0ZKBuz9ErtKpYbb-jA_KFDnY54y7CW5Gvdyvil0uiKF4k9ykmkCFWLQOH28AS8Q6Ohb4QQ",
-        "userName": "Politics is about Winning",
+        "userName": "Running Man",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxT_B2zPjSoWScznHkEifeWjNxI11oG5-ek6c06Q",
         "content": "Dreadful. The whining alarm sound it makes to alert you of a notification is hideous, you don't want your phone making those noises esp in public. When a volunteer op pops up no information is given, I want to know more before I sign up to something. The map is very slow to load, and sometimes doesn't. I wanted to help but this app is unusable, I just wonder how many like me now won't volunteer if this is the only way to do so. Awful awful app.",
         "score": 1,
@@ -1193,7 +1241,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhIwhvon8q_srYE6rqMEIHu01mOC9WbnOFXcsky9Q",
         "content": "Absolute rubbish! Can't even register it keeps saying an email has been sent when I didn't even put my email address in anywhere and there is nothing in my emails including my spam, so I deleted the app and re installed it, tried again with an email address this time and it says you already have an account and to go to email to accept. But there is NO EMAIL! So frustrating!",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "12.6",
         "at": "2021-01-01 20:11:44",
         "replyContent": "Thank you for your kind words Kate. You can ask for a password reset link here: https://www.goodsamapp.org/login\nwe can not send you a password reset link if you type your email wrong, so please don't leave the email field blank and please make sure its typed in correctly.",
@@ -4922,7 +4970,7 @@
     {
         "reviewId": "gp:AOqpTOEvJO2x_g4qKhYtXAIn_DvC-fogP0rGyK8OoIyHKdxRelPqVHKcWIhvlUbFmUpnj1rYfAV1Ef_xmFXt4g",
         "userName": "Emmie Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_ZIoKJM9dMXCCD8hdi6qaghG0s4Wrw2HukyaB",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggx5nvWMBPzK_IuxTF-M07KQATcrq018h4tUW0P",
         "content": "I've downloaded the app and done everything scrolled across everything accepted code of conduct etc I've been on duty for 2 weeks now and I am getting zero notifications calls or messages to help people who need my help, I checked the tutorial but the tutorial images are a lot different as to what is on the actual app, I've deleted it and re download it 3 Times from the play store still not working please help as I've already called you 3 Times over the phone",
         "score": 5,
         "thumbsUpCount": 1,
@@ -11950,53 +11998,5 @@
         "at": "2016-11-08 11:13:13",
         "replyContent": "Sorry to hear about this issue, Could you please get the latest version and see if that works for you? We have increased the apps compabilities.",
         "repliedAt": "2016-10-23 11:26:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOH-Atj4Db7O_7_dJdzjUobCvuw-9I8AbkBnYTAWVjq3gfuX_b1PGipck6juRrwBnxNshVW6O9IQ2JKsvg",
-        "userName": "Martin Bishop",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh9zLDL-3odD_LODhNxD-S4YB9btqSDNOGx7v6ffA",
-        "content": "Great app but I don't get what the live streaming does??",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "5.3",
-        "at": "2016-10-30 11:38:11",
-        "replyContent": "Hello there, It can be used in major incident to provide a live video feed to your local dispatch centre, if they are fully integrated with us! :)",
-        "repliedAt": "2016-11-02 00:13:08"
-    },
-    {
-        "reviewId": "gp:AOqpTOH9OpyGKATRu1QuG3ba0awUQKs6Hpjn1VxZDV5D0TY0kVvVl4DV_mjjPDFms9hu3ob9yZC5g4_kS-_Esw",
-        "userName": "Mark Jessup",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEPJjK55Dx1S1RMP3syUDw-fnLStMUbV7ujM35Yg",
-        "content": "Great idea and easy to use app. Only negative is the frequency I get the app failing to respond then closes down.",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "5.3",
-        "at": "2016-10-27 13:47:39",
-        "replyContent": "Hi Mark, Thanks for the feedback! Next time this happens, do you mind reporting it to us by pressing the report button on bottom right/left of the error message? We will definitely look into it!",
-        "repliedAt": "2016-11-02 00:14:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOHSf5oH8f7WxSe6wOy6U8e-tq-InqYli8N3wFsw_nh4h5lGJVLFVHaRhykzgVWRpsAUzWoW9rKsvkXUuA",
-        "userName": "Alex Baldock",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9WD-Lw2qn26ZzIWRnVAAmab_WKj7rgs1aGrSr_w",
-        "content": "It works really well and the Tech support team respond extremely quickly to your emails. Great customer service and all round good app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "5.1",
-        "at": "2016-09-22 22:52:18",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFpKW2I_WtMA1p5B8hSlkxMR6IPZSNGCDpmkRR0mMSRSN-xUhZsMOAVM9IuxeGkyproxbgcsPRqkx_hiA",
-        "userName": "Evan Stedman",
-        "userImage": "https://play-lh.googleusercontent.com/-29pYcDgj7VE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnMLhJPrPRAVXEjQJ5SMaE6dPpotQ/photo.jpg",
-        "content": "I love that it allows me to locate defibrillators quickly in the event one is needed. I have also been recommending the app to all my student paramedic colleagues. The issue that I was having with the app not loading does not occur on my new Samsung S7. All in all, a great idea that is well executed and an extremely well designed app. The only issue I have is that my settings do not save so I cannot receive notifications unless the app is open, nor can I receive buzz messages within the app.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "5.0",
-        "at": "2016-09-02 19:33:32",
-        "replyContent": null,
-        "repliedAt": null
     }
 ]

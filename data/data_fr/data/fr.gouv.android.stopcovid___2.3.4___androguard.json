@@ -1,0 +1,45 @@
+{
+    "permissions": [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH_ADMIN"
+    ],
+    "activities": [
+        "com.lunabeestudio.stopcovid.activity.SplashScreenActivity",
+        "com.lunabeestudio.stopcovid.activity.OnBoardingActivity",
+        "com.lunabeestudio.stopcovid.activity.MainActivity",
+        "com.lunabeestudio.stopcovid.activity.AppMaintenanceActivity",
+        "com.journeyapps.barcodescanner.CaptureActivity"
+    ],
+    "urls": [
+        "http://maps.google.com/maps?q=loc:",
+        "https://play.google.com/store/apps/details?id=",
+        "http://schemas.android.com/apk/res/android",
+        "https://app.stopcovid.gouv.fr/json/version-28/Calibration/",
+        "https://app.stopcovid.gouv.fr/json/version-28/Config/",
+        "https://app.stopcovid.gouv.fr/json/version-28/InfoCenter/",
+        "https://app.stopcovid.gouv.fr//infos/dep/",
+        "https://tac.gouv.fr/0/",
+        "https://tac.gouv.fr/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://api.stopcovid.gouv.fr",
+        "https://tacw.tousanticovid.gouv.fr",
+        "https://app.stopcovid.gouv.fr/json/version-28/Strings/",
+        "https://app.stopcovid.gouv.fr/json/version-28/Attestations/form.json",
+        "https://app.stopcovid.gouv.fr/infos/key-figures.json",
+        "https://app.stopcovid.gouv.fr/json/version-28/Risks/risks.json",
+        "https://app.stopcovid.gouv.fr/json/version-28/Links/",
+        "https://app.stopcovid.gouv.fr/json/version-28/MoreKeyFigures/",
+        "https://app.stopcovid.gouv.fr/json/version-28/",
+        "https://app.stopcovid.gouv.fr/maintenance/info-maintenance-v2.json",
+        "https://bonjour.tousanticovid.gouv.fr"
+    ]
+}

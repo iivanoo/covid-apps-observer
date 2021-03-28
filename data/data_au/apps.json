@@ -4,56 +4,56 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "2.4",
-        "latest_crawl": 1616344201
+        "latest_crawl": 1616941412
     },
     {
         "id": "org.who.infoapp",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1616344282
+        "latest_crawl": 1616941422
     },
     {
         "id": "au.gov.health.covid19",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "1.4.10",
-        "latest_crawl": 1616344284
+        "latest_crawl": 1616941431
     },
     {
         "id": "com.myaus",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "48",
-        "latest_crawl": 1616344287
+        "latest_crawl": 1616941435
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1616344291
+        "latest_crawl": 1616941443
     },
     {
         "id": "au.gov.act.health.checkin",
         "store_country": "au",
         "store_lang": "en",
-        "latest_crawled_version": "1.8.2",
-        "latest_crawl": 1616344292
+        "latest_crawled_version": "1.9.0",
+        "latest_crawl": 1616941667
     },
     {
         "id": "au.gov.nsw.service",
         "store_country": "au",
         "store_lang": "en",
-        "latest_crawled_version": "6.2.2 (217709)",
-        "latest_crawl": 1616344303
+        "latest_crawled_version": "6.4.1 (226211)",
+        "latest_crawl": 1616941937
     },
     {
         "id": "mycc.cic.bupaconnect",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "1.2",
-        "latest_crawl": 1616344303
+        "latest_crawl": 1616942033
     },
     {
         "id": "au.edu.unsw.covidmonitor",
@@ -64,15 +64,15 @@
         "id": "com.healthengine.android",
         "store_country": "au",
         "store_lang": "en",
-        "latest_crawled_version": "7.7.0",
-        "latest_crawl": 1616344642
+        "latest_crawled_version": "7.8.0",
+        "latest_crawl": 1616942379
     },
     {
         "id": "au.com.vodafone.dreamlabapp",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "3.2.0.2641",
-        "latest_crawl": 1616344762
+        "latest_crawl": 1616942491
     },
     {
         "id": "au.gov.vic.premiersactiveapril",

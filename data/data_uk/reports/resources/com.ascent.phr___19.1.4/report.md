@@ -189,6 +189,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> quick and easy<br> :date: __2021-03-27 15:15:23__
+
+> great app helps with mental health an<br> :date: __2021-03-25 16:13:33__
+
 > best doctors I have ever been with. staff are so caring and helpful<br> :date: __2021-03-19 18:39:14__
 
 > great app. essential if you want your GP to update some of your case without having to answer the annoying questions about how much you smoke and drink. tell the truth because they will check<br> :date: __2021-03-17 11:36:32__
@@ -204,10 +208,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Great service and easy to use<br> :date: __2021-03-03 21:13:14__
 
 > Good App<br> :date: __2021-03-02 22:43:41__
-
-> brilliant app<br> :date: __2021-03-02 11:28:59__
-
-> Fantastic. Only issue I had was with reconnecting to new service but just needed to log out and back in rather than re-install. It's a great start of an app and I hope it gets regular updates and improvements.<br> :date: __2021-03-01 14:22:45__
 
 
 
@@ -301,6 +301,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> Does not work properly on my Samsung s21 I cannot access my medical record at all.<br> :date: __2021-03-25 01:04:29__
+
 > I am returning to the app after changing phone. It just is not working<br> :date: __2021-03-20 14:11:51__
 
 > Cannot get on the app, click forgotten password, get emailed code, enter code, and it asks security question, answer question and get message too many failed attempts, account temporarily suspended, come back a month later, and get same message on first security question answer, so just how long is your idea of temporary?<br> :date: __2021-03-13 20:15:59__
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Won't connect to GP practice, so of no use to me. I tried asking on "live chat" but just got an automated referral to changing gp practice - not what I wanted to do at all.<br> :date: __2021-01-15 08:40:33__
 
 > Was good at first but now seems more concerned with getting you to fill in stupid health questions than keeping it simple to follow. Always takes me a while to find out where I order repeat prescriptions.<br> :date: __2021-01-07 18:59:10__
-
-> Support staff are wonderful, patient but latest app is not easy to navigate & when I finally manage to find where to order medications, I get repeated notifications about the message box having 'special characters' even when it's blank. Seriously, I've wasted hours on different days reloading the app, try typing a sentence or removing it. I've only a few days of meds left. I've tried again, done exactly the same & got error notification & leaving then coming back, it's accepted! Bizarre<br> :date: __2021-01-07 14:48:17__
 
 

@@ -253,6 +253,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> La aplicación va cuando quiere siempre da problemas para registrarse en los locales<br> :date: __2021-03-26 19:41:21__
+
 > Los desplegables para seleccionar el Ayuntamiento me salen vacíos y no puedo hacer nada.ni reinstalando se soluciona<br> :date: __2021-03-09 03:08:06__
 
 > En Lugo, según la aplicación el interior de los locales de hostelería CERRADO, cuando según el DOG también en interior al 30%. Y los establecimientos NO TIENEN CÓDIGO QR que escanear. Ni cafeterías, ni supermercados, farmacias, bancos, ferreterías, tiendas de ropa....<br> :date: __2021-02-27 09:00:56__
@@ -270,8 +272,6 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > Tuve que desinstalarla se quedaba colgada nada más descargarla.....<br> :date: __2020-11-30 19:20:30__
 
 > Mejor que radarcovid, pero tiene un PERO en mayúsculas. Aún eligiendo la opción en castellano, el 95% del contenido está en gallego, así que tendré que desinstalarla..<br> :date: __2020-11-30 18:38:05__
-
-> Ya la tuve y era un desastre...la vuelvo a instalar pero ....sin esperanzas ...<br> :date: __2020-11-30 12:40:33__
 
 
 

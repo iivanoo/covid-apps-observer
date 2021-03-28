@@ -213,6 +213,12 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 <img src="5_star_reviews_wordcloud.png" alt="com.getheal.patient 5 reviews"/>
 </p>
 
+> Dr Hart was delightful and kind. Knowledgeable about me and what I needed to do. I'm so happy that I found Dr Hart again. Thank you Dr Curving for giving him the message.<br> :date: __2021-03-27 18:16:26__
+
+> Very good professional and comprehensive Nurse practitioner.... very supportive!<br> :date: __2021-03-25 18:38:12__
+
+> Very good<br> :date: __2021-03-23 16:05:13__
+
 > I really love this app. The drs are awesome. Really helped me with my medicine. Awesome!<br> :date: __2021-03-18 02:47:26__
 
 > This is my first time setting up the Heal App. I will in the future let you know if it works for us. Thank you<br> :date: __2021-03-14 17:57:41__
@@ -226,12 +232,6 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 > I would have to come back and read this app later. All I could say is that the nurse assistant that came to see me was a very proficient, professional, and personable, young lady with a very wonderful attitude.<br> :date: __2021-02-22 02:39:28__
 
 > Best alternative to going to the doc<br> :date: __2021-02-21 03:54:07__
-
-> Great<br> :date: __2021-02-18 17:36:00__
-
-> The 2 ladies that came at 8:30 this morning 2/15/2021 were so nice and very efficient. Enjoyed their visit.<br> :date: __2021-02-15 23:56:29__
-
-> Incredible service. Professional doctors. I'm very grateful for this service, especially during the pandemic.<br> :date: __2021-01-28 17:37:14__
 
 
 

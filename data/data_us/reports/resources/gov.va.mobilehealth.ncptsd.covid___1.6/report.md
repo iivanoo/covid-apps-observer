@@ -140,6 +140,10 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> It's very useful on how to cope and helping recognize moods. Only used one day so far.<br> :date: __2021-03-24 02:32:55__
+
+> Good resource<br> :date: __2021-03-22 15:04:11__
+
 > Great ideas on ways to relieve stress. Love the variety of tools and resources.<br> :date: __2021-03-11 00:41:07__
 
 > Nice app...works well<br> :date: __2021-03-01 17:11:35__
@@ -155,10 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > A great app with a wide range of useful tools for coping with stress, Covid Coach offers practices, learning, resources and assessments based on sound psychological science. There is an ability to favorite your favorite practices for quick use and the interface is simple and easy to use. Functions well and haven't had any glitches. I have only been using a short time, but the notifications and engagement have been useful.<br> :date: __2021-02-09 16:21:44__
 
 > Nice app. Helps me to manage my stress and anxiety.<br> :date: __2021-02-07 23:53:50__
-
-> Most military apps are really bad but this one feels like something you would spend money on.<br> :date: __2021-02-07 13:14:08__
-
-> Highly recommend it. I worked in a very demanding environment where there wasn't enough support. Using this coupled with professional help maximize the experience.<br> :date: __2021-02-03 18:14:23__
 
 
 

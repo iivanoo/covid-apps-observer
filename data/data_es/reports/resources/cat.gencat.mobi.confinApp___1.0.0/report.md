@@ -213,6 +213,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> No se actualiza<br> :date: __2021-03-26 08:37:45__
+
 > Absurdo a decir basta. Si voy solo a otra comarca y no hay restricciones, porque narices tengo que dar cuentas a nadie. Y si voy con burbuja familiar con el certificado de empadronamiento del ayuntamiento va que arde. Vivimos en un estado policial brutal. Ya sólo falta que bloqueen Internet y volvamos al 30...<br> :date: __2021-03-17 12:41:43__
 
 > Cada poco tiempo tienes que crear el perfil de nuevo y se borran los certficados que tengas preparados. No funciona nada bien.<br> :date: __2021-03-16 05:17:31__
@@ -230,7 +232,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Només baixar l'aplicació, no em deixa ni obrir-la.<br> :date: __2021-02-11 19:50:12__
 
 > Pitjor impossible. No es poden omplir, de cap manera, els camps de l'adreça de destinació. Degut això, no genera el document. Completament inutil.<br> :date: __2021-02-04 13:12:20__
-
-> Se borran los certificados en poco tiempo.No vale la app<br> :date: __2021-01-29 18:24:09__
 
 

@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Happy to help, but the overheating destroyed my Samsung Galaxy S9, which delaminated. No problems so far on my new Samsung A51, but I will ditch DreamLab if I detect any overheating.<br> :date: __2021-03-28 13:15:11__
+
+> No problems, happy to help<br> :date: __2021-03-28 11:05:28__
+
+> Fantastic way to help cancer research without lifting a finger!<br> :date: __2021-03-27 23:49:50__
+
+> Het is altijd een goed idee, en leuk, om bij te dragen aan een hoger doel voor gemeenschappelijk gewin. Doet me denken aan SETI@Home, waar ik vroeger deel aan nam met m'n PC's. Edit 25-03-2021: I thought Dreamlab would always run while I was charging my phone. But apparently I need to open the app first before charging. Is that right? Rating still unchanged: app is a noble idea. Oeps, zie net dat m'n vorige rewiew in het NL was. Nou ja, we zijn inmiddels bijna allemaal tweetalig, toch? 😬<br> :date: __2021-03-25 19:05:00__
+
+> Easy to use and really makes you feel you are helping to improve things during the pandemic.<br> :date: __2021-03-25 08:39:40__
+
+> Excellent idea, excellent app<br> :date: __2021-03-24 13:48:46__
+
+> I love being able to help<br> :date: __2021-03-22 00:20:18__
+
 > It has the best purpose, is really simple to activate, doesn't use anything but my Wi-Fi, and only if I say so, and has no commercial.<br> :date: __2021-03-20 11:11:23__
 
 > Giving something back.<br> :date: __2021-03-19 09:47:31__
 
 > Very good<br> :date: __2021-03-19 08:25:26__
-
-> It feels good 👍 to be of use while I'm asleep and the phone is charging. Make sure that your data is turned off though and that you are using WiFi, don't want any unexpected bills now do we?<br> :date: __2021-03-18 19:59:33__
-
-> Anything that helps advance research progress whilst not impacting me is a win win in my view.<br> :date: __2021-03-17 15:11:50__
-
-> Worthwhile app. Runs in the background and doesn't affect the use of the 'phone.<br> :date: __2021-03-17 07:04:51__
-
-> Helping world health science with no effort or cost to me. Nice!<br> :date: __2021-03-16 18:15:07__
-
-> Helping fight covid and cancer.<br> :date: __2021-03-16 08:40:50__
-
-> Quietly chunters away while you sleep, allowing you to loan your phone to the boffins for their important scientifical calculations, in service to humankind. It's a no-brainer.<br> :date: __2021-03-15 08:05:22__
-
-> It's good to feel involved<br> :date: __2021-03-15 07:45:50__
 
 
 
@@ -183,9 +183,15 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
 
-> a great way to help the fight when you can't donate money or time. Love the idea of the app, only problem is that the app doesn't always automatically turn on when on charge and hits 80%.<br> :date: __2021-03-19 13:56:20__
+> I sometimes forget it's there, since it runs in the background. Is simple, and great premise. Help cure diseases by simply plugging in your phone. The one nitpick I have with it, is if I optimize my phone with the Device Care, I will have to open the app manually next time to get it to work. After that one time, I do t have to touch it again until the next optimization.<br> :date: __2021-03-26 19:24:48__
 
-> Dreamlab works fine on Galaxy tab no overheating no problem no worries can leave on all day better still if worked without having to be on charge all the time thank you can you please fix this please Vodafone<br> :date: __2021-03-19 01:55:49__
+> Dreamlab works fine on Galaxy tab no overheating no problem no worries can leave on all day better still if worked without having to be on charge all the time thank you can you please fix this please Vodafone now working on Galaxy A50 fine 🙂 🥰😆<br> :date: __2021-03-25 23:23:18__
+
+> Works away on my phone overright while charging. If, as occassionally happens the phone gets too hot, it takes a break till the phone cools down. Good for me<br> :date: __2021-03-22 12:32:11__
+
+> This app is a fantastic idea, but I wish it would start automatically, rather than replying on me switching it on each night. Sadly, I often forget.<br> :date: __2021-03-21 18:20:01__
+
+> a great way to help the fight when you can't donate money or time. Love the idea of the app, only problem is that the app doesn't always automatically turn on when on charge and hits 80%.<br> :date: __2021-03-19 13:56:20__
 
 > Great easy to forget to bturn on<br> :date: __2021-03-18 12:53:43__
 
@@ -197,12 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Doesn't work on android 9 now works on 5 and 6, Update ,now works perfectly. Only thing is I wish it did it in landscape mode,not automatically switch to portrait<br> :date: __2021-03-03 00:41:04__
 
-> Supported for 2 years, but as my phone dies, Can't seem to stop it from running without uninstalling.<br> :date: __2021-03-01 11:27:13__
-
-> It's a nice idea but has a few things that bug me. It doesn't always connect to the server, sometimes if I reboot my phone it fixes the issue but I can't usually be bothered. It doesn't just auto run when I connect power so I often forget to start it. I hope you get to see the papers that are produced from the data you have crunched.<br> :date: __2021-02-21 13:01:58__
-
-> I want to give this 5 stars because the idea is great. Only knocked down to 4 because it doesn't always work, starting automatically at 80% charge. Maybe this is a problem with the APIs available, but it would be good it they could find a way around it. I'd be happy if it always started when charging, even if that slows charging a bit. Maybe that could be made an option.<br> :date: __2021-02-19 09:28:14__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> Great idea but the app is not open source, would be great to see it in github and let this app driven by the community<br> :date: __2021-03-25 11:56:00__
 
 > Because politicians have used certain issues inappropriately, there are certain analyses I do not wish to participate in. Over time this application automatically switches away from analyses I feel are more important to those which are more politically appraised.<br> :date: __2021-03-17 17:47:10__
 
@@ -229,8 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Great to help out but sometimes have difficulty starting a session due to 'used all daya' message<br> :date: __2021-01-30 17:01:33__
 
-> The app is strange. Compred to folding@home it does not stimulate competition by giving you and Id, points, and the ability to gain more points by putting more devices under the same ID. Also it doesn't have any settings to allow me to use more or less resources. For instance it was initially using only one big core and now it seems to have settled for some of the little cores and I have no control over this behaviour. The app does not work in landscape mode which is very annoying.<br> :date: __2021-01-24 22:23:05__
-
 
 
 #### 2-star reviews
@@ -238,6 +238,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
+
+> App is useful but long term usage running the covid 19 project caused my battery to swell. I also think the Covid project is really slowing down as many have quit the project and nothing seems to be done to reverse that.<br> :date: __2021-03-24 12:21:21__
 
 > I was so excited to contribute to a worthy cause, but it makes my phone unusable when charging. It just needs to have some more settings.<br> :date: __2021-03-07 18:17:45__
 
@@ -257,8 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Doesn't show right progress, after every few deletes requires reinstall for knowing progress.<br> :date: __2021-01-08 00:22:12__
 
-> It just won't stay running.<br> :date: __2020-12-30 21:36:07__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> Earlier it took about 7 minutes to complete a calc. But now even after 40 minutes 0 calculations are done. When I keave the phone for overnight calculations it only did 5 calculations in 8 hours. Is it the calculations are getting complex or there is something wrong with the app<br> :date: __2021-03-22 18:10:14__
 
 > Great idea, app badly done. We do free work for the company, but the app isn't FOSS. There is no option to disable dreamlab, sometimes I just want to charge my phone and not run the app. It frequently gets stuck on 1 job and doesn't do anything all night. Finally it needs a way to disable Amber alerts so I can sleep and run dreamlab without being awoken by gov.<br> :date: __2021-03-21 04:16:27__
 
@@ -284,7 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > it seems that i cant use this for my current phone as it keeps overheating and pauses. my iphone seems to be doing a better job about 30 minutes in without pausing. On my android it pauses every 5 minutes or so. since i am not using my iphone so i will run it there. maybe my Android phone isnt good enough<br> :date: __2021-01-02 08:09:06__
 
 > Tells you nothing that you already know. All they do is count how many minutes on the website you are on and if a website counts how long you have been on for well that's suss in my opinion.<br> :date: __2020-12-28 22:33:52__
-
-> Kept freezing Android 7 tablet & Android 9 phone. Unacceptable behaviour. Uninstalled.<br> :date: __2020-12-20 11:44:11__
 
 

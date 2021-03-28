@@ -221,6 +221,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
+> Why I think this app is on the right track to have the user keep phone BT on and based on my last check "looking to pair" without any ID notice from the COVID app is problem. Suggest and may involve Google/Android is to list the app working under BLE, and re-push app so user can allow storage permission and narrow BT BLE permission if feasible. Note that my version can list 'pair history' and this app does not show being paired or connected. Additional sugg: modify and follow Waze user inputs.<br> :date: __2021-03-26 17:06:34__
+
+> Annoying, I work at home and only go out if I need to go out. I dont want my Bluetooth on 24/7. Have a "home" button that stops the annoying message saying it can tract since I don't have my Bluetooth on<br> :date: __2021-03-24 16:25:10__
+
 > I find that my phone does not have enough space to install this app. I have 2 big apps on my phone, and that is all that I can fit. It would be nice if cell phones were less expensive or if my employer issued me a cell phone, but they aren't and they don't, I am not paying $30-$200 per month for a cell phone. $125/year is plenty! So call my land-line or send me an email.<br> :date: __2021-03-12 22:04:43__
 
 > Random notifications with no information in them, no information from MN about how or whether it has been effective... seemed a bit pointless.<br> :date: __2021-03-10 05:25:28__
@@ -236,10 +240,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > don't know but bluetooth bad for me<br> :date: __2021-01-13 15:40:34__
 
 > I didn't find the app useful as it only searched to see if I was around anyone exposed while I was alone at home. Not helpful!!!!<br> :date: __2021-01-13 04:02:06__
-
-> So I got a positive test; the app REFUSES my code saying that theres an error or that something went wrong i deleted the app; redownloaded it; cleared the cache and nothing works but the MDH wanted me to download the app.<br> :date: __2020-12-30 02:19:23__
-
-> Very poorly engineered. The fact that there is only one notification category is a problem in-and-of itself. That my downloads list is full of exposure check files is another. Other reviews complain about requiring completely new setup every time a needed service is disabled and re-enabled. Overall, the functionality is important, but I cannot endorse the engineering effort here.<br> :date: __2020-12-26 21:37:47__
 
 
 

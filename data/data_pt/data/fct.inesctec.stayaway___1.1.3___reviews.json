@@ -1,5 +1,197 @@
 [
     {
+        "reviewId": "gp:AOqpTOHF7kO16Idgy4GHUTTziGdsrdegJJF0CXZPiZ_N-97g403kTGB0EtvJovDTMPpdpl97EsjQxealdQYr_w",
+        "userName": "Paulo Machado",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvoQUMnu0M6Vp_83sGDTI_V3xSoziuCybX2uLMn8E",
+        "content": "S\u00f3 n\u00e3o dou zero porque n\u00e3o \u00e9 poss\u00edvel, pois nunca funcionou, \u00e9 treta",
+        "score": 1,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "1.1.3",
+        "at": "2021-03-28 15:45:59",
+        "replyContent": "A app utiliza o Bluetooth Baixo Consumo (BLE) para detetar contactos pr\u00f3ximos. Em Android, para utilizar BLE precisa ter os servi\u00e7os de localiza\u00e7\u00e3o ligados, mas a app n\u00e3o acede, em momento nenhum, \u00e0 sua localiza\u00e7\u00e3o. \u00c9 uma limita\u00e7\u00e3o do sistema operativo que s\u00f3 foi resolvido na vers\u00e3o 11 do Android. Mais https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2020-11-27 17:44:27"
+    },
+    {
+        "reviewId": "gp:AOqpTOHzD4ucaGIWAAPALP-4Utt70hZxK63ZsP-rQSRYGLA48A6u9uvpBKl3K32-3UudpTF-Xe0JbbpUiTDWYA",
+        "userName": "Leonor Ara\u00fajo",
+        "userImage": "https://play-lh.googleusercontent.com/-IAvzwsaQKS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIsZlkf52HVV0WjdO8pIXdbX9U7g/photo.jpg",
+        "content": "Util",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.3",
+        "at": "2021-03-28 13:21:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHDAh6R5s4jDCgkhBJIMyPZBcRblgdG4BG-QSP5TLWzPviUml2SCsp-a_CgWYXngG_9NEa3MonxFjPBrA",
+        "userName": "Joaquim Galinhas",
+        "userImage": "https://play-lh.googleusercontent.com/-JdY9HBHhXRM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3XJEA4L3E3w7gUzuy8VvAJUH8eA/photo.jpg",
+        "content": "N\u00e3o serve para nada, foi mais um show off do Governo no combate \u00e0 pademia. Lamento mas \u00e9 a minha opini\u00e3o.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-28 11:58:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHZeMLO35FuZU3EH6G9oIt6EmlqvN7H-J9nJMQRLyJ9iso8-E9UKDet8t-QZyHGia0JuGlWXo1Jx77i2A",
+        "userName": "Adelia de Almeida",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtmGCt-BIVntYJdyVGO5F9E0sZu4cH2JTbTunfScg",
+        "content": "N\u00e3o me parece funcionar e corresponder a verdade.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.3",
+        "at": "2021-03-28 05:09:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE2wF7pOkippsLGjF0EzMebxlOR7WYvvgTULu4RnZ-H5isJgHNmPE7vRKBgmLFqwGUv6GUDr-KAIULNag",
+        "userName": "matilde vidal",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEc0DcBsoQ5QHQb02gDnBF3HWQ1eC5F_C8Dn07Rg",
+        "content": "Super fixe so que n\u00e3o",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-27 18:55:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEy-bNjI-CzqD4QrCJCH9u7MdZ7KLUu5CKggaDylCKUjcphMb5WBkwzELmeDjoFkAzJ3olick4RJEwhfw",
+        "userName": "ANA PAULA PARREIRAL",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFh6nnxSCUQvrx0xbyHy_t1L5xqrqDqtmcBBPr-PI",
+        "content": "Gostei",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-27 12:42:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOETQJ1suDLi-C83mrNjQShLaSgjYZycrPVTHo2wDIa1ffnU2rt_zcS-XJ2fnAez7xe2GlaHJT0uxI3i0Q",
+        "userName": "Alexandre Trota da Silva",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFbt22COMb19_uX1KRI7SvZ55KlHtJppzJe9cqmUs",
+        "content": "Excelente ferramenta. Obrigado e Boa Sa\u00fade",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.3",
+        "at": "2021-03-26 21:01:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHk8vNe16cB8OI_nZQk5ZcevbJffhop13T37P5weDhEiFDrDEv4UD36esKG4D5ZErIt3IP9drBnwIOahw",
+        "userName": "Ricardo Tusto",
+        "userImage": "https://play-lh.googleusercontent.com/-ORyl1F3miB0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltujTIZcVl-SiIGlKxvHbQSOiaqw/photo.jpg",
+        "content": "A aplica\u00e7\u00e3o torna se in\u00fatil quando uma pessoa que faz o teste e o mesmo d\u00e1 positivo, n\u00e3o \u00e9 entregue nenhum c\u00f3digo para se colocar na app. A aplica\u00e7\u00e3o tem uma boa ideia por\u00e9m na pr\u00e1tica n\u00e3o funciona.",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.1.3",
+        "at": "2021-03-25 17:47:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEnBece6uVbo75xl--DxPg07MKuk0FIHWd7FasEVyVjqjuszyf5bnKnsMwxsZRdUTCvAUyydIHC1kBAwQ",
+        "userName": "Ninjutsupsp",
+        "userImage": "https://play-lh.googleusercontent.com/-cNh_71oFmN0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck4ZesvFzKeJ62cuCEVRJviVPXFaA/photo.jpg",
+        "content": "Vergonha este app. Maior vergonha que j\u00e1 se viu em Portugal. E para se meterem na vida das pessoas. Metem e o medicamento disponivel que mata o virus em 48h.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.6",
+        "at": "2021-03-24 23:17:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGk-E5kXo06Hr3rAVmjDNhMmA-X45PvjTCdbaPGFyurwr4nC9yNTeqFD36OSZKLohKlmPyBeMkniZnJdg",
+        "userName": "Mikhail Costa",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjv_DCufTbEZ4pCTU3Qc3OrhlCQ0OjU9r5PSeObbTA",
+        "content": "App in\u00fatil.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-24 21:21:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH7nTV9tU0ZiqDOAo0qvotCkvWsebq8fTGPDEH6Y-R2DG7sC--yBtgqOZccX0dVIzVgJVc1Ig7xntBlKw",
+        "userName": "Hugo Cordeiro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgI22Wt4-q-kmq-YXO5qNDMJj1BpCgyP0P_IysP2Q",
+        "content": "Que saque ao contribuinte esta app. Devia dar para classificar com 0 estrelas,1 estrela at\u00e9 \u00e9 de mais!!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.6",
+        "at": "2021-03-24 15:10:17",
+        "replyContent": "A STAYAWAYCOVID foi criada para auxiliar a travar as cadeias de transmiss\u00e3o, com base no compromisso individual de correta utiliza\u00e7\u00e3o. Por n\u00f3s, por v\u00f3s, por todos. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2020-12-10 14:43:48"
+    },
+    {
+        "reviewId": "gp:AOqpTOHPNRVcqWH1kpx_kdlJ6LBlwO4dpJCAaaLc5GBpr4JFb2VaV0H4-IELampgLLvv5Y77bDEa3KZSMzwi3Q",
+        "userName": "Jorge Ribeiro",
+        "userImage": "https://play-lh.googleusercontent.com/-vvib0-u02P8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3vBTubu407JYfHCo1NcwvJlXA_g/photo.jpg",
+        "content": "N\u00e3o tem utilidade. Nunca me avisou de qualquer situa\u00e7\u00e3o. \u00c9 redundante, pois n\u00e3o atinge os objectivos.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.3",
+        "at": "2021-03-23 18:58:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGd_KKiLPq_cZas_B21rrx4lpdE_g91Zj4j9g8m_5L_FvWOz3k8b24KDILW4_6C3EuqeefROxWi2N70nQ",
+        "userName": "Telmo Baptista",
+        "userImage": "https://play-lh.googleusercontent.com/-x1BboXbvK2Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRUqHJhPD0cyPa0ttqVrL8DOkuPw/photo.jpg",
+        "content": "Aplica\u00e7\u00e3o in\u00fatil. Pessoas conhecidas com a doen\u00e7a a aplica\u00e7\u00e3o nada. 550 mil euros gastos dos nossos impostos para nada...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-23 05:09:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHMR-lOR2GGeU7q6UaTC3-JanUA54HzoM7ZgJJGoc9WfiVJgoLxbHO-igbelvKgvwrt_v28Yp-y_J5e8g",
+        "userName": "Sim\u00e3o Rodrigues",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqcZtu_EkLctO9b93CTVf3iWafc0bQdiEt9MHvxg",
+        "content": "Bom",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-23 01:31:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFxOhsB4sy4aF7zVSN3TWKh0UJsbB6RQdHiSrjCJgSGGX1B_RR5tP4HCS1cNH6BmPSQ5cNyeQHcKK7pqQ",
+        "userName": "Lourdes Ribeiro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVCqD42BnjHUb-PBbwTSvLBeZWZ-Q8d9VnQjZIfg",
+        "content": "Penso que \u00e9 uma app \u00fatil e de ajuda a nos protegermos de situa\u00e7\u00f5es de perigo e cont\u00e1gio",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.3",
+        "at": "2021-03-23 00:08:40",
+        "replyContent": "Muito obrigada.A STAYAWAYCOVID foi criada para auxiliar a travar as cadeias de transmiss\u00e3o, com base no compromisso individual de correta utiliza\u00e7\u00e3o. Por n\u00f3s, por v\u00f3s, por todos. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 10:58:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOGW9rpMGDUSmirccqeiwGOdawIuF9vMPHzCD8erJsGlc-e7PYxuJeSnM5pEnE4rN5lGEU3Th7bww2HgJQ",
+        "userName": "Francisco Santos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOQFl1zN3xhG74czDc5xVzl5fTGt27VjkQLALd",
+        "content": "P\u00e3o",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-22 23:06:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEtyZn5i8tfL2t2UJtFS3qDleu0ygQ4upJ5RGqe89t-fYslyjkInth8K7CEHU8cEvB4l5q7yPe9pi5AnA",
         "userName": "Rui Miguel Bernardo",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiiqUb9xI58MuRDV37JMIe_AIxSJcJW8fFcaR0jxg",
@@ -8,8 +200,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-21 16:04:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muito obrigada.A STAYAWAYCOVID foi criada para auxiliar a travar as cadeias de transmiss\u00e3o, com base no compromisso individual de correta utiliza\u00e7\u00e3o, por parte de todos os intervenientes. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 10:55:32"
     },
     {
         "reviewId": "gp:AOqpTOFg8yBi4awwuWMlXaaSs-2h14a_pf42xWD5nAdIznM8TqWGmBDtb-9e06B_-kRZ9dqu6SzztFIlebGybw",
@@ -20,8 +212,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-03-19 22:16:33",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "A app utiliza o Bluetooth Baixo Consumo (BLE) para detetar contactos pr\u00f3ximos. Em Android, para utilizar BLE precisa ter os servi\u00e7os de localiza\u00e7\u00e3o ligados, mas a app n\u00e3o acede, em momento nenhum, \u00e0 sua localiza\u00e7\u00e3o. \u00c9 uma limita\u00e7\u00e3o do sistema operativo que s\u00f3 foi resolvido na vers\u00e3o 11 do Android. Mais https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 10:56:01"
     },
     {
         "reviewId": "gp:AOqpTOHlA1iSBNNsHlmVCxTRvVDYcl4bdAsvYZT4h_1p6O4GvQlp9SBYno-XpdCrlrbpfo6wVktWcVB1hQu2HA",
@@ -41,11 +233,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUdnlLETwvifNyxugW6PsTXmeL-EjraX8PTDRV",
         "content": "Boa ideia, mas para funcionar a 100% temos de ter GPS e BT sempre ligados, e existe uma coisa chamada bateria que viciam facilmente depois de algum tempo",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-19 03:07:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "A app utiliza o Bluetooth Baixo Consumo (BLE) para detetar contactos pr\u00f3ximos. Em Android, para utilizar BLE precisa ter os servi\u00e7os de localiza\u00e7\u00e3o ligados, mas a app n\u00e3o acede, em momento nenhum, \u00e0 sua localiza\u00e7\u00e3o. \u00c9 uma limita\u00e7\u00e3o do sistema operativo que s\u00f3 foi resolvido na vers\u00e3o 11 do Android. Mais https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 10:54:30"
     },
     {
         "reviewId": "gp:AOqpTOHdG9k-S3zyw7ZRJiTLZvAgBqfXKyniUbEukrEvnOx82FynSrgF5msg-bQ7JKOuNCRxIOyYJ8JTD8WA3g",
@@ -56,8 +248,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-18 08:53:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "A aplica\u00e7\u00e3o STAYAWAYCOVID gera um alerta amarelo apenas se: tiver a aplica\u00e7\u00e3o ativa e tiver estado a menos de 2 metros, por mais de 15 minutos, no per\u00edodo de risco, que pode ir at\u00e9 14 dias, com uma pessoa que testou positivo, que recebeu um c\u00f3digo e o inseriu na aplica\u00e7\u00e3o. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 10:56:48"
     },
     {
         "reviewId": "gp:AOqpTOE6rnCerVZHWtikqWUH_642EokyBci21SJBF22RK7YKeWlqsf7lQGHaCMUEBQVdXFLfUc-3mxkoRrlbcQ",
@@ -68,20 +260,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-17 17:03:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFxOhsB4sy4aF7zVSN3TWKh0UJsbB6RQdHiSrjCJgSGGX1B_RR5tP4HCS1cNH6BmPSQ5cNyeQHcKK7pqQ",
-        "userName": "Lourdes Ribeiro",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVCqD42BnjHUb-PBbwTSvLBeZWZ-Q8d9VnQjZIfg",
-        "content": "Penso que \u00e9 uma app \u00fatil e de ajuda a nos protegermos de situa\u00e7\u00f5es de perigo e cont\u00e1gio",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.1.3",
-        "at": "2021-03-17 00:59:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Considerando o tipo de problema que nos est\u00e1 a reportar, por favor envie um email para stayaway@inesctec.pt. A nossa equipa t\u00e9cnica est\u00e1 dispon\u00edvel para ajudar a esclarecer e orientar.",
+        "repliedAt": "2021-03-22 10:58:09"
     },
     {
         "reviewId": "gp:AOqpTOHKwMpJdql-XFBaLl6gGgConUIFP_yfLem6XDowQzX2UL2ew31_cUNaDDhJsMFlULcW5fR6WbY0pO1X0w",
@@ -92,8 +272,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-17 00:19:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "A STAYAWAYCOVID foi criada para auxiliar a travar as cadeias de transmiss\u00e3o, com base no compromisso individual de correta utiliza\u00e7\u00e3o. Por n\u00f3s, por v\u00f3s, por todos. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 10:58:48"
     },
     {
         "reviewId": "gp:AOqpTOFwSHe_SjgH8F7TyUCHwv7qGPkXlAyDCrepujTZcIlZtd28c5EHTJmOJEVKZYRg0TqvPfVcTe1DXsoHEA",
@@ -104,8 +284,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-15 21:10:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "A STAYAWAYCOVID foi criada para auxiliar a travar as cadeias de transmiss\u00e3o, com base no compromisso individual de correta utiliza\u00e7\u00e3o por parte dos intervenientes. Por n\u00f3s, por v\u00f3s, por todos. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 10:59:21"
     },
     {
         "reviewId": "gp:AOqpTOF3_p8YHEWYs6ZEpkpVL-1q7kw3zC0tvCc0AVGfWgDjdyN66_bgdGgYUQmPr_kbzzdRenJkFJ_h5ohHxw",
@@ -173,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh97SrZiHWciiyQucemdLV11oakd_b4tquW58_Q",
         "content": "De acordo com o produtor da app apenas s\u00e3o necess\u00e1rios dados de internet e bluetooth. No entanto est\u00e1 sempre a exigir acesso \u00e0 localiza\u00e7\u00e3o. Se ativo a localiza\u00e7\u00e3o estou a drenar rapidamente a bateria com uma fun\u00e7\u00e3o que, de acordo com os produtores, n\u00e3o serve para nada. se desativo a localiza\u00e7\u00e3o estou constantemente a receber alertas de que a app n\u00e3o est\u00e1 a funcionar bem. Desinstalar",
         "score": 1,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 47,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-12 18:14:50",
         "replyContent": "A app utiliza o Bluetooth Baixo Consumo para detetar contactos pr\u00f3ximos. Em Android, para utilizar BLE precisa ter os servi\u00e7os de localiza\u00e7\u00e3o ligados, mas a app n\u00e3o acede, em momento nenhum, \u00e0 sua localiza\u00e7\u00e3o. \u00c9 uma limita\u00e7\u00e3o do sistema operativo que s\u00f3 foi resolvido na vers\u00e3o 11 do Android. Mais info https://stayawaycovid.pt/perguntas-frequentes/",
@@ -236,8 +416,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-11 13:55:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "O c\u00f3digo para inserir na app \u00e9 fornecido pelo SNS verbalmente ou atrav\u00e9s de uma SMS para o n\u00famero de telem\u00f3vel que estiver registado na ficha de utente do SNS. Este c\u00f3digo \u00e9 composto por 12 algarismos e expira em 24h Ap\u00f3s inserir o c\u00f3digo na aplica\u00e7\u00e3o, os contactos de risco ser\u00e3o notificados",
+        "repliedAt": "2021-03-22 11:00:25"
     },
     {
         "reviewId": "gp:AOqpTOEIFVu2-d-pmHhuGxpErJPkUB4mapg20WWEOwCaPBzvRg_LrwUyhbf8GZwdlK2nTNPGUuf_f84dGB5DiA",
@@ -272,8 +452,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-08 16:01:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "A aplica\u00e7\u00e3o STAYAWAYCOVID gera um alerta amarelo apenas se: tiver a aplica\u00e7\u00e3o ativa e tiver estado a menos de 2 metros, por mais de 15 minutos, no per\u00edodo de risco, que pode ir at\u00e9 14 dias, com uma pessoa que testou positivo, que recebeu um c\u00f3digo e o inseriu na aplica\u00e7\u00e3o. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 11:00:50"
     },
     {
         "reviewId": "gp:AOqpTOH2QpEKVyAnYY_xJkUvqJm_E_jPXUHeopuqT07ebUdaMJwAghZU9HjPVDJJx0-Xoc0dnBkLz-_lMI1pLA",
@@ -344,8 +524,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-04 00:31:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "A aplica\u00e7\u00e3o STAYAWAYCOVID gera um alerta amarelo apenas se: tiver a aplica\u00e7\u00e3o ativa e tiver estado a menos de 2 metros, por mais de 15 minutos, no per\u00edodo de risco, que pode ir at\u00e9 14 dias, com uma pessoa que testou positivo, que recebeu um c\u00f3digo e o inseriu na aplica\u00e7\u00e3o. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
+        "repliedAt": "2021-03-22 11:01:23"
     },
     {
         "reviewId": "gp:AOqpTOGcit5Kgg92vD6yhr11_OPaQHeYEsBRwxm2fV3lR0UdvrZCMzhZoRCYI4rByTdHOYXxpZ8rGOKcJlKPGg",
@@ -377,7 +557,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi3L5dnCtcbogmctX_l8_R7hN_amr5srPss1nSeNw",
         "content": "O c\u00f3digo n\u00e3o \u00e9 fornecido automaticamente por nenhuma entidade, portanto quem fica doente tem que se lembrar de o pedir nas 2/3 vezes em que fala com algu\u00e9m. Um bocado in\u00fatil, assim.",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-03-02 01:39:09",
         "replyContent": null,
@@ -493,8 +673,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFmlIWNX8-vcbXekIMEMdqK_AbvctK3TFTaHxQhI6yzD8IklLChLghDWTmrHPZVlILBlF9YciomBS7QxQ",
-        "userName": "bakugo's lost wet sock",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggkjsm8ltC4FlcExV4CzGuGtKm_e5OPsqXYt86dRg",
+        "userName": "emma :]",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gguz9P5m9g1g3WXBL4KHY1Ic26H7hOlSNzIle9h7Q",
         "content": "n\u00e3o vale a pena mesmo lol.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -509,7 +689,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-r4EvwUGK5L8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWqtJNTvv8KicdtAAb9mgDDK_OaA/photo.jpg",
         "content": "N\u00e3o discuto o m\u00e9rito desta app. Mas o que gostava era de saber qual o impacto que ela j\u00e1 teve no controlo da pandemia. Estat\u00edsticas s\u00e9rias sobre a sua real utilidade.",
         "score": 3,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-02-25 08:59:25",
         "replyContent": null,
@@ -816,18 +996,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOEy-bNjI-CzqD4QrCJCH9u7MdZ7KLUu5CKggaDylCKUjcphMb5WBkwzELmeDjoFkAzJ3olick4RJEwhfw",
-        "userName": "ANA PAULA PARREIRAL",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFh6nnxSCUQvrx0xbyHy_t1L5xqrqDqtmcBBPr-PI",
-        "content": "Para mim nao n\u00e3o funciona",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2021-02-16 08:28:57",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOE9q4lEusTvumiFqGDUKpIMqoNIAWi8C5IoUprbarfmWeJ7tjhFyXzgTbKDCaBpZ2X1YXr42bV0bhEyMg",
         "userName": "Rui Santos",
         "userImage": "https://play-lh.googleusercontent.com/-mhmE_9O8cUM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJfZ-kp-dojnhRwuPK8QvHFg_Qeg/photo.jpg",
@@ -941,7 +1109,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghcw1IvssK6Lt0LmHn7xhx_Oc-hSvyKbpGv-03-AEI",
         "content": "N\u00e3o vale a pena instalar, fiquei doente e fiquei a espera que o m\u00e9dico entrasse em contato comigo para me fornecer os c\u00f3digos. Falei com a sa\u00fade 24 disse que era com o m\u00e9dico de fam\u00edlia, te teu falar com o m\u00e9dico de fam\u00edlia, s\u00f3 consegui falar com administrativos. Ap\u00f3s 10 de confinamento telefonou-me uma enfermeira a informar que j\u00e1 poderia sair de casa, perguntei pelos c\u00f3digos para a aplica\u00e7\u00e3o....... Fez uma pausa e disse que era com o m\u00e9dico mas que ele n\u00e3o percebia nada dos c\u00f3digos....",
         "score": 1,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-02-13 01:15:37",
         "replyContent": null,
@@ -965,7 +1133,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-a6t0Sd65I-0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwC3ZlTnDKdENPNy_qTlFO9xRt0w/photo.jpg",
         "content": "Aplica\u00e7\u00e3o in\u00fatil quando se \u00e9 das poucas pessoas a utiliz\u00e1-la... falta de conhecimento sobre o funcionamento da aplica\u00e7\u00e3o faz com que as pessoas n\u00e3o a utilizem, porque sentem \"a sua privacidade a ser invadida\". Apesar de os seus dados estarem a ser partilhados noutras aplica\u00e7\u00f5es. A \u00fanica cr\u00edtica que tenho a cerca da aplica\u00e7\u00e3o \u00e9 que devia ter uma aba onde mostrasse as restri\u00e7\u00f5es actuais o que se pode e o que n\u00e3o se pode fazer.",
         "score": 2,
-        "thumbsUpCount": 106,
+        "thumbsUpCount": 123,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-02-12 14:24:11",
         "replyContent": null,
@@ -989,7 +1157,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpDcBfbtf8ERoxxa8hgKvp2G-Xzufv_dIlCYLOlg",
         "content": "N\u00e3o serve para nada tive casos onde trabalho n\u00e3o deu nada de nada em fim n\u00e3o serve nada a trabalhar muito perto das pessoas a menus de dois metros ficaram em casa 10 dias e voltaram e nada vai sair do meu telem\u00f3vel",
         "score": 1,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-02-11 22:24:32",
         "replyContent": "A aplica\u00e7\u00e3o STAYAWAYCOVID gera um alerta amarelo apenas se: tiver a aplica\u00e7\u00e3o ativa e tiver estado a menos de 2 metros, por mais de 15 minutos, no per\u00edodo de risco, que pode ir at\u00e9 14 dias, com uma pessoa que testou positivo, que recebeu um c\u00f3digo e o inseriu na aplica\u00e7\u00e3o. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
@@ -1073,7 +1241,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhalY4yaLFWD0ORQEg7ogT8nJXLYpJ3szuigWkgcw",
         "content": "A APP para funcionar corretamente \"obriga\" a n\u00e3o ter economia da bateria em qualquer aplica\u00e7\u00e3o do telem\u00f3vel sen\u00e3o d\u00e1 erro... Desinstalei porque tamb\u00e9m \u00e9 in\u00fatil...",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-02-09 21:46:43",
         "replyContent": "Se tem um Android e a STAYAWAYCOVID pede para desativar o modo de poupan\u00e7a de bateria, verifique, pf, se tem a vers\u00e3o mais recente da aplica\u00e7\u00e3o e as notifica\u00e7\u00f5es de exposi\u00e7\u00e3o ativas. Se o alerta continuar, pf, consulte as nossas FAQ em https://stayawaycovid.pt/perguntas-frequentes/",
@@ -1114,18 +1282,6 @@
         "at": "2021-02-08 21:29:30",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHy0HDq6ZS-Waj4fkHnNxOmQ0mcrGffG441XzknLi31lrJCCR2qxBIU-lHpMXa41pK-8SCh46NouCD7yA",
-        "userName": "Santiago Vieira",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZcp75RgsFsm33dlXluImGSzEelRXTeHz9dxMoag",
-        "content": "Esta app \u00e9 uma farsa diz que nunca tive em contacto com algu\u00e9m que tivesse ou tem porque na verdade tive amigos e familiares com covid e diz sempre nunca teve contacto t\u00e1 seguro",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.1.3",
-        "at": "2021-02-08 17:07:28",
-        "replyContent": "Os alertas da app s\u00e3o sobre contactos de risco que ocorreram no per\u00edodo de risco, no m\u00e1ximo at\u00e9 aos 14 dias anteriores ao diagn\u00f3stico, e n\u00e3o sobre os contactos no momento ou posteriores, pelo que ap\u00f3s o diagn\u00f3stico a pessoa deve isolar-se, evitando novos contactos e deve inserir o c\u00f3digo na app. Ver https://stayawaycovid.pt/perguntas-frequentes/",
-        "repliedAt": "2021-02-10 10:42:47"
     },
     {
         "reviewId": "gp:AOqpTOECXS0F6k-BMyLIBME--p9C_bD0h3eZQ4LMhfryohqYLq_HiH043WLmsV-D7ExRkrIlv13CxrTmMHcIcQ",
@@ -1241,7 +1397,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-qjCsKvNu5_4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucni1g1wKKLd3_8Vnz4bgBJxt48Y5w/photo.jpg",
         "content": "Uma das caracteristicas da APP STAYAWAY COVID era n\u00e3o ter dados de localiza\u00e7\u00e3o dos equipamentos - telemovel. Esta quest\u00e3o foi amplamente difundida em varios meios. Agradecia esclarecimento sobre a obrigatoriadade de ter a localiza\u00e7\u00e3o do equipamento activa para a APP funcionar. Quando foi disponibilizada a APP e a instalei de imediato em 2020, a localiza\u00e7\u00e3o n\u00e3o era obrigat\u00f3ria. Trata-se de uma quest\u00e3o de transpar\u00eancia e de credibilidade.",
         "score": 1,
-        "thumbsUpCount": 156,
+        "thumbsUpCount": 177,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-02-06 14:54:43",
         "replyContent": "A app foi desenhada como base na prote\u00e7\u00e3o da privacidade do utilizador. Poder\u00e1 consultar a avalia\u00e7\u00e3o de impacto da protec\u00e7\u00e3o de dados pessoais em https://stayawaycovid.pt. Reiteramos que a app n\u00e3o acede, em nenhum momento, \u00e0 sua localiza\u00e7\u00e3o, o facto de necessitar de servi\u00e7os de localiza\u00e7\u00e3o ligados ou n\u00e3o depende do sistema operativo do telem\u00f3vel.",
@@ -1301,7 +1457,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBk0gIJQKXFsxgRUPWlJwxnl3_4r4qzZCFA-1XeA",
         "content": "Tenho a dizer que n\u00e3o compreendo a raz\u00e3o de recomendar est\u00e1 aplicacao...pois infelizmente tenho v\u00e1rias pessoas que conhe\u00e7o que apanharam o maldito v\u00edrus....e nunca recebi qualquer notifica\u00e7\u00e3o....portanto h\u00e1 qualquer coisa mal escalarecida na transpar\u00eancia dos dados...quem \u00e9 o respons\u00e1vel. Doente ou m\u00e9dico...nao sei...mas algu\u00e9m est\u00e1 a falhar....e ainda por cima est\u00e1 aplicacao foi t\u00e3o recomendada pelo antonio costa...conclusao...mais uma areia atirada aos olhos daqueles que sofrem diariamente.",
         "score": 4,
-        "thumbsUpCount": 35,
+        "thumbsUpCount": 36,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-02-05 16:03:20",
         "replyContent": null,
@@ -1370,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOGS0RbxVUEaN-GcTWM_X5Wk7906fo_NrtQfSMknFPgLZ0gELPFyzEojtj6GYo_ch1JQWMHGXLkklRDK4Q",
         "userName": "Santi Gamer",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxvGtL29ffUQhbmMbdJ4ozTmzgzMQFUjZIZobClg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTKWy78zKF96KGOUKnd4UiFIwF_JOqPtiQ0bdJTw",
         "content": "Que app de caca so nao do 0 estrelas porque nao da Nao funciona e so laga o telemovel",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1481,7 +1637,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgR_5S9JwYR5ompNvqxwFthj2hB7u3zApOvrcXq",
         "content": "Ter ou n\u00e3o ter esta aplica\u00e7\u00e3o e o mesmo que n\u00e3o ter nada, nessecita de NET sempre ligada como isso n\u00e3o \u00e9 poss\u00edvel a aplica\u00e7\u00e3o n\u00e3o \u00e9 de maneira alguma vi\u00e1vel, a n\u00e3o ser alterem a situa\u00e7\u00e3o da NET, por isso para mim a aplica\u00e7\u00e3o \u00e9 \ud83e\udd2e Em resposta, o Bluetooth est\u00e1 sempre ligada, como j\u00e1 havia referido anteriormente n\u00e3o me \u00e9 poss\u00edvel ter os dados m\u00f3veis sempre ligados tem custos n\u00e3o \u00e9 de borla, por\u00e9m se for poss\u00edvel me enviarem algum password que seja gratuita para a APP agradecia.",
         "score": 1,
-        "thumbsUpCount": 126,
+        "thumbsUpCount": 127,
         "reviewCreatedVersion": "1.1.3",
         "at": "2021-02-03 15:39:18",
         "replyContent": "Permita-nos clarificar que a STAYAWAYCOVID precisa do Bluetooth sempre ligado para funcionar, mesmo sendo o Bluetooth de Baixo Consumo (BLE) e necessita de aceder \u00e0 Internet, a um servidor oficial e p\u00fablico do sistema, 1 vez por dia. Este acesso pode ser realizado por WiFi ou com dados m\u00f3veis. Mais em https://stayawaycovid.pt/perguntas-frequentes/",
@@ -1574,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOHyL_IVAEVq-vdxX1tlH50eIi_LKPaTLWwqNxHFm8VnmbMyq5xsE5IDwByrkRNtRVuH7V6nC4DfWjwphw",
         "userName": "Leonor Pinto",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYgIDx_Gv6ZAhH_r9JoURWYEjraBRgLJDeEDaX",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhF0r2emZUcL3yJypJXQUA_vSM6jD1T1mEltq9YA",
         "content": "Boa",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2933,7 +3089,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiN5wveaZGC9hPWd7bEEEHRWYLqW9sj_3vdlCWMXw",
         "content": "Esta aplica\u00e7\u00e3o seria muito eficaz se mostrasse os locais onde est\u00e3o os casos de COVID para que as pessoas evitassem esses locais. Avisar que uma pessoa est\u00e1 ou j\u00e1 passou numa zona de cont\u00e1gio \u00e9 tarde demais. Devia fazer preven\u00e7\u00e3o em vez de avisar do que n\u00e3o devia ter acontecido.",
         "score": 1,
-        "thumbsUpCount": 125,
+        "thumbsUpCount": 124,
         "reviewCreatedVersion": "1.1.1",
         "at": "2021-01-14 14:10:22",
         "replyContent": null,
@@ -2978,7 +3134,7 @@
     {
         "reviewId": "gp:AOqpTOEsA_CYbABokgcITG5ipFCl7puRP_5uER1hwb3uIFjEc72tBFJIGcTWzMfKdq6QHseHeGrsjSMJuOTu7w",
         "userName": "Arny Motovlog",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYL4OF3Ws0SLa-aTCAYzL6LkLizmiWOz0w3lWBXGs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhyS7GDg3aClc6Sb0dmf4a8-a1WNX7pJHLOnG-sEyY",
         "content": "Pelos vistos, ningu\u00e9m tem covid \ud83d\ude44",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3353,7 +3509,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjar7RR2WD6Aq4p8gA3uy-Fi8sY1Po28rKFB6rPEA",
         "content": "A APP est\u00e1 a interferir com a liga\u00e7\u00e3o bluetooth a outros dispositivos como headphone , coluna bluetooth ou autoradio. Em telem\u00f3vel com Android 8. Vou desinstalar hoje , cansei de esperar que rectificassem ou sequer respondessem. Era apologista da APP mas assim \u00e9 imposs\u00edvel usar o telem\u00f3vel se interfere com todos os aparelhos a que est\u00e1 ligado desde que tenho a APP.",
         "score": 1,
-        "thumbsUpCount": 331,
+        "thumbsUpCount": 330,
         "reviewCreatedVersion": "1.1.1",
         "at": "2021-01-09 15:50:43",
         "replyContent": "Lamentamos desde j\u00e1 o atraso na resposta. Atendendo \u00e0 especificidade da sua quest\u00e3o, por favor contacte-nos para stayaway@inesctec.pt para que o possamos ajudar a resolver o seu problema. Muito obrigada.",
@@ -3533,7 +3689,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgfTUxvBNrmqSjwVTMlsU3haqSBstUMSRv-IkD3wA",
         "content": "\u00c9 uma pena como se transformou uma boa ideia numa app in\u00fatil, que a \u00fanica coisa que consegue proteger s\u00e3o os dados pessoais, ficando vidas de pessoas expostas a receios infundados e ego\u00edstas. Se ao andar de mota sou obrigado a usar capacete, porque n\u00e3o sou obrigado a usar e registar os c\u00f3digos se quiser andar na rua numa pandemia? Quantas vidas se ter\u00e3o j\u00e1 perdido e ir\u00e3o perder por n\u00e3o querermos partilhar informa\u00e7\u00e3o an\u00f3nima?",
         "score": 1,
-        "thumbsUpCount": 419,
+        "thumbsUpCount": 418,
         "reviewCreatedVersion": "1.1.1",
         "at": "2021-01-07 12:19:01",
         "replyContent": null,
@@ -4226,7 +4382,7 @@
     {
         "reviewId": "gp:AOqpTOGnaHS2mZCZXhrQlAAOrML_NMEANxk9w6OhWGNBaW23lYu71UgqLotY90sev7N1j950JvJAab4nQnvBgg",
         "userName": "Leonorines Silva",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgnzgOo9yrhBSs4douHN_obNTmxWHvglgeeniu-qg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgLfVVvYeg99-l_FwbckYbGqaDCxIgJVNVa2bYe4A",
         "content": "Isto nao alerta porqie eu tive au p\u00e9 de uma pessoa com viros e n\u00e3o me alertou",
         "score": 2,
         "thumbsUpCount": 0,
@@ -5750,7 +5906,7 @@
     {
         "reviewId": "gp:AOqpTOFisOF_OCbwPHRF_lnO7ZB8MUPONJX9kr53YTPQAV7P82ySrVtWPhqfeB7P0XPSBUwOzVZhu6fyhRjNvg",
         "userName": "Jo\u00e3o vieira",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8SkksxxbtrDWQreq-CEmDRBx57H6Igjty8wvP",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggf-yw0jDs4ahJj4GB_oSMTix0oea95RiQMA6gV",
         "content": "A aplica\u00e7\u00e3o \u00e9 muito boa... E se estiver mos em contacto com algu\u00e9m com coronavirus avisanos",
         "score": 5,
         "thumbsUpCount": 1,
@@ -6125,7 +6281,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtZSwVOMpQbL2brHiJQMdcfPAYtC_aVs77ktUrAw",
         "content": "No geral esta aplica\u00e7\u00e3o que obrigam o povo a usar n\u00e3o funciona, por diversas raz\u00f5es: 1- O consumo de bateria \u00e9 est\u00fapidamente grande. Para qu\u00ea obrigar a desativar a poupan\u00e7a de bateria e tamb\u00e9m ter a localiza\u00e7\u00e3o ligada? Uma coisa \u00e9 o bluetooth, outra coisa \u00e9 isto. 2- Nem todos t\u00eam telem\u00f3veis com android 10 ou superior! E a app \u00e9 muito pesada. 3- Os c\u00f3digos. Pelas raz\u00f5es j\u00e1 mencionadas por outros utilizadores. Se n\u00e3o melhoram isto n\u00e3o vai ser assim que combatemos o maldito do coronav\u00edrus!",
         "score": 1,
-        "thumbsUpCount": 252,
+        "thumbsUpCount": 251,
         "reviewCreatedVersion": "1.0.6",
         "at": "2020-12-04 16:35:32",
         "replyContent": null,
@@ -6593,7 +6749,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-0_qaokIQ1KQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZbNt-7Rzgo1-qdNnI4r6Fkh_cuQ/photo.jpg",
         "content": "Est\u00e1 sempre a dar erros, n\u00e3o \u00e9 aceit\u00e1vel ter que desactivar quer a poupan\u00e7a de bateria, quer desativar as \"optimiza\u00e7\u00f5es\" do equipamento m\u00f3vel. Nos dias de hoje, os telem\u00f3veis s\u00e3o para usar com todas as optimiza\u00e7\u00f5es existentes no equipamento. N\u00e3o deve ser uma aplica\u00e7\u00e3o que deve exigir a desactiva\u00e7\u00e3o das mesmas. Considero est\u00e1 aplica\u00e7\u00e3o completamente desadequada...",
         "score": 1,
-        "thumbsUpCount": 881,
+        "thumbsUpCount": 880,
         "reviewCreatedVersion": "1.0.6",
         "at": "2020-12-02 19:50:43",
         "replyContent": "Se tem um Android e a STAYAWAYCOVID pede para desativar o modo de poupan\u00e7a de bateria, verifique, pf, se tem a vers\u00e3o mais recente da aplica\u00e7\u00e3o e as notifica\u00e7\u00f5es de exposi\u00e7\u00e3o ativas. Se o alerta continuar, pf, consulte as nossas Perguntas Frequentes em https://stayawaycovid.pt/perguntas-frequentes/ ou contacte-nos para stayaway@inesctec.pt.",
@@ -6989,7 +7145,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtQJgrh6j1-UXiBzEPaTia0NQ1G3iWPpWEOTXXXg",
         "content": "1\u00ba a aplica\u00e7\u00e3o para funcionar em pleno requer: Bluetooth ligado GPS ligado Dados ligados Optimiza\u00e7\u00e3o de bateria, desligado. 2\u00ba eu estou no centro de Vila do Conde, e a APP n\u00e3o encontra UM s\u00f3 caso positivo... \ud83e\udd14 3\u00ba fiz o teste \u00e0 bateria com a APP a funcionar em pleno, durou aproximadamente 3h, quando dura no m\u00ednimo 12h. Dica: Se for obrigat\u00f3rio o uso da APP, e forem confrontados pela pol\u00edcia, \u00e9 s\u00f3 dizerem que ficaram sem Bateria... \ud83d\ude0f Para uma APP do estado, leva 1 \ud83c\udf1f, porque n\u00e3o d\u00e1 menos...",
         "score": 1,
-        "thumbsUpCount": 749,
+        "thumbsUpCount": 748,
         "reviewCreatedVersion": "1.0.5",
         "at": "2020-11-29 23:33:58",
         "replyContent": "Agradecemos a partilha da sua experi\u00eancia com a bateria. Um nota importante, a aplica\u00e7\u00e3o n\u00e3o detecta casos positivos mas sim contactos de risco. Atrav\u00e9s de Bluetooth a aplica\u00e7\u00e3o regista contactos pr\u00f3ximos que, mais tarde, s\u00e3o avaliados. Se forem contactos de risco a aplica\u00e7\u00e3o enviar\u00e1 um alerta. Para mais informa\u00e7\u00e3o visite www.stayawaycovid.pt",
@@ -7094,7 +7250,7 @@
     {
         "reviewId": "gp:AOqpTOFQ9oBPZs-XlklW-igFs8PiKFscWI6ZdGBguWqVjjKQciOz2HrKAXnDbPrQ2DYkd0DxarEFuQ2AwmpdrA",
         "userName": "Nelson Arruda",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixqG-p5VAX_zGnwOCblywHNnVbv7MRrI3GUDeIYg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOLJ1mEq9JabINR9QqKFkAr63_cIA4c6Qtg5rA3Q",
         "content": "N\u00e3o diz nada por concelho em por freguesia",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7274,7 +7430,7 @@
     {
         "reviewId": "gp:AOqpTOEf3cIrhUSqoHJ-_9YJnq4L2qzoRlTAWC_9IOR88ETCgZz7pII6aw2AGoeYLjjCsV5Q7pVND6TLmKqC3Q",
         "userName": "Micael Geme",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjF2QUliFJ-CynpCT2Z3Kz2dB-ktkddpDKoIknlAw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKGjfK6-m8OHfVqvjUmTFcmcfnWSvzBpf4r--5Qw",
         "content": "Isso \u00e9 tudo mentira",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7394,7 +7550,7 @@
     {
         "reviewId": "gp:AOqpTOGwQt08y-HmkzftKT2OSfYPnSCJpReZDs5o5S9LagQ-O0dlwKc7EkDXCmw6L0A1F7xYEnJAfIdw8wIWwQ",
         "userName": "Bruno Amaro",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBEbArY9mkABlqmOOgey1DLqXT95OMbOLjjk-k3Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7LISgb2chDpmSqUs10SDHFnW8Ppd2msRsQaFcJQ",
         "content": "V\u00e3o mamar na quinta pata do cavalo. Queriam que fosse obrigat\u00f3ria lixaram se.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7498,18 +7654,6 @@
         "at": "2020-11-27 14:35:59",
         "replyContent": "Os alertas da app s\u00e3o sobre contactos de risco que ocorreram no per\u00edodo de risco, no m\u00e1ximo at\u00e9 aos 14 dias anteriores ao diagn\u00f3stico, e n\u00e3o sobre os contactos no momento ou posteriores, pelo que ap\u00f3s o diagn\u00f3stico a pessoa deve isolar-se, evitando novos contactos e deve inserir o c\u00f3digo na app. Ver https://stayawaycovid.pt/perguntas-frequentes/",
         "repliedAt": "2020-11-27 19:44:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOH7nTV9tU0ZiqDOAo0qvotCkvWsebq8fTGPDEH6Y-R2DG7sC--yBtgqOZccX0dVIzVgJVc1Ig7xntBlKw",
-        "userName": "Hugo Cordeiro",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgI22Wt4-q-kmq-YXO5qNDMJj1BpCgyP0P_IysP2Q",
-        "content": "S\u00f3 serve para ocupar espa\u00e7o",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-27 13:51:13",
-        "replyContent": "A STAYAWAYCOVID foi criada para auxiliar a travar as cadeias de transmiss\u00e3o, com base no compromisso individual de correta utiliza\u00e7\u00e3o. Por n\u00f3s, por v\u00f3s, por todos. Mais informa\u00e7\u00f5es em https://stayawaycovid.pt/perguntas-frequentes/",
-        "repliedAt": "2020-12-10 14:43:48"
     },
     {
         "reviewId": "gp:AOqpTOEtUYF-Oonlu9Cu2VwLF_eUvQbb4oMcdEafmHoI-X9s4BNj9qEJVPt15TWBOf6bZInTLh9eSQxFxiBJIA",
@@ -8086,18 +8230,6 @@
         "at": "2020-11-22 01:38:37",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHF7kO16Idgy4GHUTTziGdsrdegJJF0CXZPiZ_N-97g403kTGB0EtvJovDTMPpdpl97EsjQxealdQYr_w",
-        "userName": "Paulo Machado",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvoQUMnu0M6Vp_83sGDTI_V3xSoziuCybX2uLMn8E",
-        "content": "\u00c9 uma treta completa, uma vergonha deste pa\u00eds, pois eu fiz o download e n\u00e3o aparece nada, pois a aplica\u00e7\u00e3o pede o Bluetooth ativo e a localiza\u00e7\u00e3o, mas \u00e9 treta",
-        "score": 1,
-        "thumbsUpCount": 8,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-22 01:36:31",
-        "replyContent": "A app utiliza o Bluetooth Baixo Consumo (BLE) para detetar contactos pr\u00f3ximos. Em Android, para utilizar BLE precisa ter os servi\u00e7os de localiza\u00e7\u00e3o ligados, mas a app n\u00e3o acede, em momento nenhum, \u00e0 sua localiza\u00e7\u00e3o. \u00c9 uma limita\u00e7\u00e3o do sistema operativo que s\u00f3 foi resolvido na vers\u00e3o 11 do Android. Mais https://stayawaycovid.pt/perguntas-frequentes/",
-        "repliedAt": "2020-11-27 17:44:27"
     },
     {
         "reviewId": "gp:AOqpTOHv9r1ojFI62dSAwZFJYt_mAXHPt_trwWzIDpapbYnPtgK5Oh2EcVxqLS-4wIkXlcoUGB1fagebnwtuKg",
@@ -9158,7 +9290,7 @@
     {
         "reviewId": "gp:AOqpTOFmPVTWsDWKxH4KetkVWpX90cA3Zd09cqoJnonM7E6ID8IKe1aNavVbiz2Rkkbz4qKsCe-vysiq2I2HVQ",
         "userName": "Benilde Rosa",
-        "userImage": "https://play-lh.googleusercontent.com/-PZDXH06tBqg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNFIXDAwibdc7BqmcqiMnS5afZVw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gihav4LIauvtHb1w3_4Ym89SD9W9ST1oppPhY1bYA",
         "content": "Obrigado por a informa\u00e7\u00e3o",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9289,8 +9421,8 @@
     },
     {
         "reviewId": "gp:AOqpTOF9n8sTOfQX1DYktOfrVOwYufhwPuch_nwjH-huqhssumATqPfmqSaix-fDCKYOyrfifCmqTGNJcpeQqA",
-        "userName": "paulo rocha rocha",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiT6jA4cVrKEa3CYtuu0fNVC1xjhNG5fbsRk13Z",
+        "userName": "Carla Sofia Rodrigues",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaoxMIAYRHfzYQNGgqDYoP3EzBUxFIIUIYIBVR8w",
         "content": "Nada eficaz",
         "score": 1,
         "thumbsUpCount": 1,
@@ -9665,7 +9797,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjqakT43TzEcrgG-Y04CmS_Jule16N5P2QAZfYSFA",
         "content": "Instalei a aplica\u00e7\u00e3o logo no primeiro dia, e sempre achei que seria uma boa solu\u00e7\u00e3o para reduzir o cont\u00e1gio. Mas come\u00e7o a ficar com s\u00e9rias d\u00favidas, porque existem v\u00e1rias pessoas com teste positivo (casos que conhe\u00e7o) que n\u00e3o receberam at\u00e9 ao momento qualquer c\u00f3digo para colocar na aplica\u00e7\u00e3o... Sendo assim como pode a aplica\u00e7\u00e3o funcionar.",
         "score": 3,
-        "thumbsUpCount": 155,
+        "thumbsUpCount": 154,
         "reviewCreatedVersion": "1.0.6",
         "at": "2020-11-13 12:30:32",
         "replyContent": "O c\u00f3digo para inserir na app \u00e9 fornecido pelo SNS verbalmente ou atrav\u00e9s de uma SMS para o n.\u00ba de telem\u00f3vel que estiver registado na ficha de utente do SNS. Este c\u00f3digo \u00e9 composto por 12 algarismos e expira em 24h. Ap\u00f3s inserir o c\u00f3digo, os contactos de risco ser\u00e3o notificados.",
@@ -10745,7 +10877,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-zeybNf9O8aA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3S4CvJdPhIo1IJhk8_LlPLlj8zQ/photo.jpg",
         "content": "A aplica\u00e7\u00e3o \u00e9 pouco util com o formato actual. Deveria permitir saber o nr. de casos (totais, activos, internados e v\u00edtimas) no concelho em que estou, para maior sensibiliza\u00e7\u00e3o e alerta. Deveria permitir ainda saber os mesmos dados em determinado concelho, para o caso de ter de me deslocar para a\u00ed, estar mais atento e prevenido, ou mesmo, se n\u00e3o essencial, evitar a desloca\u00e7\u00e3o.",
         "score": 2,
-        "thumbsUpCount": 93,
+        "thumbsUpCount": 92,
         "reviewCreatedVersion": "1.0.6",
         "at": "2020-11-12 12:54:59",
         "replyContent": null,
@@ -11761,7 +11893,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFKcukHWTQkIl5hfZ95o_7QDY72NNvMXZaoN-eJf2aS547dO7sbCMM261pMdTSPo11BpG0F8NcHMxHDbw",
-        "userName": "Tina D Sant",
+        "userName": "Li Cris",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifyNlJO60NkMKV2Z8ui0zAlQxrBBEKZ8UcGQ33UA",
         "content": "Poderiam acrescentar as medidas tomadas do estado de emerg\u00eancia para o concelho onde estamos",
         "score": 4,
@@ -11822,7 +11954,7 @@
     {
         "reviewId": "gp:AOqpTOFbl0fcvE76JHgT_PzBx97dqkJOIHQ_nVsliW40Hh9_Q5breVTbbG_xUTsjeqbneMmFiGccwBl5I4dNDg",
         "userName": "Perito abrigo723",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggw5HfK7VHxzR-u5TorZ2oSduFfqryvFnOC4Idr",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhxO_EkSM0vY3V3rSViZeMIa5tRPjUieVjRVblQPg",
         "content": "E muito boa o problema \u00e9 que faz a bateria acabar muito rapido",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11864,138 +11996,6 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.6",
         "at": "2020-11-11 22:48:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE_HDxHchyorY6hsKhI8dVc7K5fSC4FVpYvLvRPAzt7clm4DruVRSBZqV_Uxpu4uHmNBZOWhfLMiiYaHA",
-        "userName": "Alcina Martins",
-        "userImage": "https://play-lh.googleusercontent.com/-gkER8Bf0BGI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl96RbR0rmISIzAr_SIqGP4nq3DcQ/photo.jpg",
-        "content": "Achei sempre que se n\u00e3o fizer bem, mal n\u00e3o faz de certeza.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:44:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFyREjBv_obkZvjPaUrJMilmbEv7u8hNeDTaH7JHjnVqa1KOUTclfN-O-79FyU5srVR0D2I8onPjAyyaw",
-        "userName": "Jos\u00e9 Castro",
-        "userImage": "https://play-lh.googleusercontent.com/-EeU6PjVJQCw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqmmAHOmpAZr7JpeGvVrebSqJ07A/photo.jpg",
-        "content": "D\u00e1 alguma seguran\u00e7a.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:43:49",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGt8YXwR1Yc03xlLSAckX3sGRiMzrzqrLvCwcsku1qwT0H7Lz4_vEQKcXNc3kKxlNod6XxuyhwQpPDWSQ",
-        "userName": "Jo\u00e3o Pratas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgykQfucv6aGPghjJ1PYZ-PoYsXniCRQCR3Y0qgXQ",
-        "content": "Enquanto n\u00e3o houver quem insira o c\u00f3digo que informa que est\u00e1 infatado a aplica\u00e7\u00e3o mantem-se ineficas.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:42:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHc7CUZ8WnYl4nwsU97YeBAhFv5dHMGn01dSJIssG6jBiuFbL7M0RsWWkjJp6L0hK2b7X-1Rymzm9ZNyw",
-        "userName": "Bruno Marado",
-        "userImage": "https://play-lh.googleusercontent.com/-Mtokff6KXQI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0JZGXwU5WP6EPFP1u37__kydwOA/photo.jpg",
-        "content": "Funciona e \u00e9 muito simples e eficaz.",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:36:57",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFIaoRJdDzw57hyBANbtG2tEtatRDxibLAWFp-iGH7yC08JQFO447GXTRl1VvrU-1SjXgHG1Ymla--03Q",
-        "userName": "eugenia cardoso",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiN60N6GuvHEmSR_EOipLwsUkC6GjiumXvgHB1Q6A",
-        "content": "O meu marido testou positivo, colocou o c\u00f3digo na aplica\u00e7\u00e3o e nem a minha nem a do meu filho deu indica\u00e7\u00e3o de alerta...chego \u00e1 conclus\u00e3o que n\u00e3o adianta estar a gastar mais bateria diariamente quando tive a prova que n\u00e3o funciona",
-        "score": 1,
-        "thumbsUpCount": 85,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:21:42",
-        "replyContent": "H\u00e1 v\u00e1rios factores que determinam o periodo de risco e quem deve ser notificado. Por favor contacte-nos para stayaway@suporte.inesctec.pt para que possamos ajudar.",
-        "repliedAt": "2020-11-20 10:51:10"
-    },
-    {
-        "reviewId": "gp:AOqpTOEI5I9R8W8CTIPQXhVmq836xesb17xHuqERTKOnidHuHTx8ZfsF6asr56-5ciUZr36J5irMLL1Vg-USfw",
-        "userName": "Joaquimbatista Batista",
-        "userImage": "https://play-lh.googleusercontent.com/-EWdtj1JfxzM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRgy8hoCabZA9bWC8zeRgNTPjEjQ/photo.jpg",
-        "content": "MUITO. Boa",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:17:59",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH80HP-Viq0AZOceTtL9NLDyqFbFbrUl6p3oYLppWv1j9XM70K9BiVElAW6rkSlqQg0LIG6Qis9rR7eGA",
-        "userName": "Antonio Marques Sim\u00f5es",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghq61EFt1gbD5uFclsCZPJ-LVZEmwp25TcGaAo9-w",
-        "content": "\u00c9 uma experiencia que se nao resultar tambem n\u00e3o faz diferenca a ninguem mas penso no meu ver que \u00e9 de fazer a aplica\u00e7\u00e3o mesmo que n\u00e3o acreditem.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:10:52",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGz1gWAKJxMZkUdXU8t6sPVZE8XroFAkB-gfSssq39WnHFiBAT4MWVAgWiNjidSpOMM4Vwq7xZimYPZqQ",
-        "userName": "rui pedro oliveira gomes",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNoX9fKaGyRKZQJbkBncoZWxeZ8N3_Uu4at5Ua",
-        "content": "At\u00e9 a esta data 11/11/2020 nenhuma notifica\u00e7\u00e3o foi realizada",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-11-11 22:07:06",
-        "replyContent": "A app n\u00e3o deteta quem est\u00e1 infetado ao nosso redor. A app informa as pessoas que tenham estado a menos de 2 metros, por mais de 15 minutos em contacto com algu\u00e9m infetado durante o per\u00edodo de risco, no m\u00e1ximo at\u00e9 14 dias. Para tal, \u00e9 necess\u00e1rio que a pessoa infetada introduza o c\u00f3digo na aplica\u00e7\u00e3o",
-        "repliedAt": "2020-11-20 10:52:41"
-    },
-    {
-        "reviewId": "gp:AOqpTOHN8i4e6kQYfHDoZBu7nKWlKi6ayPoYcQKMWhelchRUJYPVyHGZbESZwm7CqvOlPDe39kR1-UOAV9jkTA",
-        "userName": "Pedro Leite",
-        "userImage": "https://play-lh.googleusercontent.com/-vA3wewIFglk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1VBkdojC7eijt3JfzRWTP0lXKAA/photo.jpg",
-        "content": "Instalem",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.5",
-        "at": "2020-11-11 22:05:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEZvGg_eDLr_qTc9_jh4RmmQlX0FyxM6ZYnJU0vP3RKZQgM1gZja37XOlOqrT-DuGEdCFAtSOQYJFHKAw",
-        "userName": "Lic\u00ednio Santos",
-        "userImage": "https://play-lh.googleusercontent.com/-orlNN0Vc5gE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnw1tPRYfR-CSxGp3miwob4ZIvARQ/photo.jpg",
-        "content": "Muito pouca informa\u00e7\u00e3o.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.5",
-        "at": "2020-11-11 22:05:00",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFu9jt8tTH-Cb9m1P7-SjP_tfety2uTt_F_lXoISl91u6p3XD_AAiofp3NjPtQBL4xtX2pnq5__SqTWbw",
-        "userName": "Manuela Costa",
-        "userImage": "https://play-lh.googleusercontent.com/-qkN0Wt8kwro/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaVAv9Ys9s65ithM0ZPz76b7Iw3Q/photo.jpg",
-        "content": "Muito bom obrigado N\u00e3o sei",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.5",
-        "at": "2020-11-11 21:58:54",
         "replyContent": null,
         "repliedAt": null
     }

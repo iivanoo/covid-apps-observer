@@ -217,13 +217,17 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> IMPRESCINDIBLE<br> :date: __2021-03-28 13:24:20__
+
+> La atención ha sido muy positiva<br> :date: __2021-03-26 17:33:11__
+
+> Muy bueno poder hablar con un medico desde casa<br> :date: __2021-03-25 13:11:26__
+
 > Muy bien , todo perfecto ... hE querido hablar con un médico en el chat para una consulta y antes de 5 min ya me habían contestado , no llevo mucho con la app pero el tema de la carpeta médica , las recetas electrónicas y la atención recibida a sido perfecta<br> :date: __2021-03-19 20:25:17__
 
 > Buena aplicación<br> :date: __2021-03-18 15:58:52__
 
 > Muchas gracias por su atención desearía continuar con usted, muy amable,,,<br> :date: __2021-03-15 12:59:01__
-
-> Muy buena<br> :date: __2021-03-14 13:10:25__
 
 > Fenomenal , muy profesional<br> :date: __2021-03-09 12:39:13__
 
@@ -232,10 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Contento con el servicio<br> :date: __2021-03-06 02:03:45__
 
 > Excelente<br> :date: __2021-03-04 10:23:00__
-
-> Sorprendente que funcione tan bien la videollamada<br> :date: __2021-03-01 20:20:39__
-
-> Va súper bien,los especialistas atiende muy bien y te hacen todo lo necesario para solucionar el problema. Estoy muy contenta con ellos<br> :date: __2021-02-26 13:29:16__
 
 
 
@@ -317,6 +317,12 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Si el centro médico no fuera Policlínica la línea .afecta a vuestro seguro famedic<br> :date: __2021-03-28 11:28:40__
+
+> No sirve para nada. No la actualizan en absoluto. Mi médico se jubiló en noviembre y aún aparece en el cuadro médico. Además ya van 3 veces que he preguntado por otros profesionales y algunos han cambiado de especialidad y otros ya no visitaban en el centro en el que aparecían. Y por si fuera poco en la mayoría de los casos no se puede pedir cita online (aún siendo de un centro dkv). Penoso.<br> :date: __2021-03-22 17:33:19__
+
+> Esta gente son unos sinvergüenzas, te dan de prueba 12 días. La primera consulta me la dieron a los 26 días y VI que no cumplen lo que contratas y he tenido que pagar un año por la cara. Y para darme de baja he tenido que denunciar<br> :date: __2021-03-22 11:33:54__
+
 > Ise una cancelacion para darme de baja me pidieron 15.95 euros y nada isieron sean mas responsables y no estes sacando el dinero que tanto cuesta ganarlo<br> :date: __2021-03-07 20:21:42__
 
 > Malisima no lo siguiente he tenido varios seguros médicos y esto ha sido nefasto, en esta aplicación no permite pedir una cita por especialista ni por centro medico, en pocas palabras no sirve para nada tengo que llamar y esperar 30 mins a que me atiendan en la línea telefónica para asignar una cita puffff<br> :date: __2021-03-06 09:19:25__
@@ -330,11 +336,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Se bloquea al poner el correo y la contraseña. Tuve que llamar para que me lo desbloquearan. Y otra vez mo pude entrar, se volvio a bloquear y la tuve que desinalar.<br> :date: __2021-02-14 23:22:19__
 
 > No me deja hacer nada, no tengo donde añadir mi tarjeta, ni el cuadro médico....nada....solo tengo una pantalla, cuando me consta que tiene que haber más....<br> :date: __2021-02-10 00:05:53__
-
-> Llevo toda la tarde intentando descargarla y no hay forma, vuelve a empezar una y otra vez. Ya la tuve que desistalar hace tiempo porque no funcionaba. Llamas al telefono que te dan de soporte 9300..... y nada que mandes correo electronico. Desastrosa la aplicación y la atención.<br> :date: __2021-02-04 18:27:25__
-
-> Horrible. Además de lenta no me deja cambiar la fecha de nacimiento ( pongo la mía y se pone sola 14/03/1978) y por tanto cuando quiero darme de alta como cliente no me reconoce.<br> :date: __2021-02-04 14:45:13__
-
-> No te reconoce nunca la contraseña, aunque la escribas correctamente, 15 veces, al no reconocerla, después de 5 intentos, te bloquea. Va fatal !!!!! He leído en una respuesta que cambiando datos de acceso diferentes podía funcionar, pues tampoco, estoy desesperada!!<br> :date: __2021-02-03 17:05:16__
 
 

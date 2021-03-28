@@ -163,8 +163,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
-> The best ad-free alerts out out there! Lets you specify the exact kinds of alerts you want for your area and others. It's only drawback is that its county-wide. Some alerts are issued for only specific areas of counties. This app would be perfect if would allow you to set alerts to a precise location (not just county-wide) as some other apps do.<br> :date: __2021-03-19 18:14:50__
-
 > They warn people when a tornado is coming<br> :date: __2021-03-17 03:02:07__
 
 > Very useful; a lot of real time info.<br> :date: __2021-03-15 04:10:51__
@@ -183,6 +181,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > 💙💯⚖️🕕✔️🇺🇸 To USA<br> :date: __2021-02-21 09:19:48__
 
+> I always have up to date information on the weather. This App appears to be the most accurate as well.<br> :date: __2021-02-19 02:00:42__
+
 
 
 #### 4-star reviews
@@ -190,6 +190,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> Good ad-free alerts app. Lets you specify the exact kinds of alerts you want for your area and others. It's only drawback is that its county-wide. Some alerts are issued for only specific areas of counties. This app would be perfect if would allow you to set alerts to a precise location (not just county-wide) as some other apps do. Also it needs other notification options (such as a voice or different sound) for alerts so they don't get lost with other notifications.<br> :date: __2021-03-22 21:27:43__
 
 > I think that it's pretty good.<br> :date: __2021-03-04 04:02:31__
 
@@ -208,8 +210,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Great app !!!!!!!!<br> :date: __2020-09-05 02:06:16__
 
 > Overall decent, but I don't need 17 alerts in one hour for the same storm.<br> :date: __2020-08-24 01:10:21__
-
-> It's missing the alerts Snow Squall Warning, Inland Hurricane Warning, Inland Hurricane Watch, Inland Tropical Storm Warning, and Inland Tropical Storm Watch.<br> :date: __2020-07-27 22:57:25__
 
 
 
@@ -275,13 +275,13 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> My name is DIANE KMIEC (not A Google User)!!! 3/27/21: I MUST UNINSTALL. I have received NO ALERTS or EMERGENCY data since the 1st days. Very alarmed that "FEMA" can't even get through to send me Emergency Alerts! \*\*\*\* I installed this. I hope it works as it should because my phone has been modified to stop me from receiving ANY Emergency alerts. (I believe that's illegal.) I am so desperate to receive Emergency Alerts that I'm downloading an outside app for it!<br> :date: __2021-03-27 23:50:09__
+
 > this app as well as so many others show i downloaded them when i infact have not<br> :date: __2021-03-10 03:18:24__
 
 > I am deleting this app. I get 6 or more notifications a day when we are getting 2-4 inches of snow. It wakes me in the middle of the night to update when I have already recieved the same notification before. It's too bad, I liked getting the bitter windchill warning. If the weather was serious it would be fine but I don't consider 4 inches of snow a blizzard.<br> :date: __2021-02-22 00:50:48__
 
 > Into a busy season and it's worse (after weather alert this morning there have been at least 5 false/blank alerts). Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-02-15 23:00:29__
-
-> I just installed this. I hope it works as it should because my phone has been modified to stop me from receiving ANY Emergency alerts. (I believe that's illegal.) I am so desperate to receive Emergency Alerts that I'm downloading an outside app for it!<br> :date: __2021-02-13 17:10:52__
 
 > Why wasn't there an alert when the POTUS called the state of emergency for DC? He even mentioned FEMA for receiving info yet crickets feo FEMA. Z Typical government restrictions. If they block adding Washington D.C. as an area then they are blocking additional information. It will only have the activity they want you to know about. New rule for citizens. See something say nothing. You'll be safer that way.<br> :date: __2021-01-12 21:44:55__
 

@@ -157,6 +157,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> The app isn't working out of Japan! So guys with 1 star, if you have problems with terms&conditions and no Internet before you arrived in Japan, don't worries when you arrive in Japan it will be fine, maximum you may need to buy jp sim in airport.🙃<br> :date: __2021-03-27 06:00:12__
+
 > オープンソースで開発されていると何度言っても聞く耳を持たずにとにかく批判したいバカばっかりですが。 シンプルで無駄な機能もないいいアプリ、ただし必要性は皆無。 追記 開始日付の表示のバグは治ってませんが関係なく動作しているんじゃないですかね。それだけでもし接触したのに通知が来なければ、その責任はGoogleとAppleにあるんじゃないですか。API自体の不具合を政府やアプリ開発者に言っても無駄。<br> :date: __2021-01-23 10:09:37__
 
 > If everyone used this responsibly we'd all be a lot safer. Please download it.<br> :date: __2021-01-02 15:50:40__
@@ -174,8 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Good application 👍👍👍👍👍👍<br> :date: __2020-10-21 18:42:19__
 
 > Amazing.<br> :date: __2020-09-12 05:07:42__
-
-> Seems fine.<br> :date: __2020-09-09 09:47:47__
 
 
 
@@ -237,6 +237,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> I need this app to enter Japan but it says network connection failure when I try to accept the terms and conditions, my connection is fine.<br> :date: __2021-03-24 02:20:52__
+
+> これをインストールしたら、携帯電話に入ってた他のアプリが開かなくなった。<br> :date: __2021-03-23 16:55:03__
+
 > これ、海外からの帰国者に帰国前インストール必須にしてますが、開くと多分日本のipアドレスからじゃないと弾かれますね。数百億円かけてこのレベルのアプリって。。。<br> :date: __2021-03-19 08:06:55__
 
 > 星一つもあげたくない。<br> :date: __2021-03-19 05:01:45__
@@ -252,9 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Is it just a mockup?<br> :date: __2021-02-26 05:43:29__
 
 > Worse than a fax machine. I've been using this app diligently since release, only to find out it hasn't been functioning for Android or iPhone for months. A complete wasted effort on part of developers and the government sponsors. These apps have proven critical in New Zealand and other countries in the fight against covid, so it's a shame that Japan didn't take it more seriously.<br> :date: __2021-02-23 00:27:33__
-
-> 報道にある通り<br> :date: __2021-02-22 04:16:01__
-
-> I had this app deleted after it finding out it wasn't working properly since Sept last year, meaning you wouldn't get notifications even if you came into contact with someone. Even now, you won't get notifications unless you open the app daily. This is an unbelievable waste of taxpayers money and I really hope someone is held accountable for this massive failure.<br> :date: __2021-02-19 08:36:15__
 
 

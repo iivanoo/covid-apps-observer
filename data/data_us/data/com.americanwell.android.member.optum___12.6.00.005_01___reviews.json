@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOGE1-jYTIxTOOXY_mm4C-NXkPz3axvdc7zAfgCHzscJXk-zvJAYcv7EK3CwoFx3nZVKX7aWPg97wtMvlg",
+        "userName": "Jen Choquette",
+        "userImage": "https://play-lh.googleusercontent.com/-Y-8t9ILDZmY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbRGLqlM1esy-R1P-9j1Bdhytbmw/photo.jpg",
+        "content": "Easy and convenient",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6.00.005_01",
+        "at": "2021-03-26 18:00:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOETwPUOkOCkPiFuVMSrMBxLQDCWe9OX_ZUbO3iCHHKUeUdjvVc85OiyxgL_NukUh_QxF7c__Xbw8yXusQ",
+        "userName": "Cheryl Hewitt",
+        "userImage": "https://play-lh.googleusercontent.com/-7daeBzTK7AA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIwyI6VzsXJX0PZTh2lrmxyj7DIQ/photo.jpg",
+        "content": "Talked with Dr Jennifer Marbella. Really liked her and this experience was quite easy even though I'm not too good with computers. Highly recommend!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6.00.005_01",
+        "at": "2021-03-25 21:15:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEIhAXEqbcxcZ6f7Rw4JNvoaDTopbXhVnGF0g4r0ONmOyWxEP9Zn0WNMpFSDsTll5RLpYHuedRI-mxmdQ",
+        "userName": "Brenda Ladner",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5aKTHpZwEECNsj4ozyVu-fQlIi_Ha8uguaV6V",
+        "content": "Sound is a little staticy",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6.00.005_01",
+        "at": "2021-03-25 19:21:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFoIuHZLEEsuwph-nlW642R8eOICgIC3j2tHayp1M9vMHWUQFrw4IxYAgTqpqrVoGELtBq2TTotbjpALA",
+        "userName": "Trae Day",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi05abJ7Kt795ttHi4D1UIlQoSbUVxFO8eK_zKAHA",
+        "content": "Sooo much easier than driving to facility, wait, triage, wait, be seen, wait...you get the picture...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6.00.005_01",
+        "at": "2021-03-23 02:30:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFODptyDP_ilCz40R73xO8TsntYNoYsCL-OiHDhVMQ41YNTUVMLl8okOYLPLp2IZcUDu8UQhpbU7qSpOA",
+        "userName": "Aimee Surratt",
+        "userImage": "https://play-lh.googleusercontent.com/-6dHo7xsxdLM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckeBlFW-28lcxwiwpC3_TlhvKXR2Q/photo.jpg",
+        "content": "Amazing and convenient!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.1.00.005_01",
+        "at": "2021-03-21 19:43:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFH7P8Gk5PbDlykCA76YOD6v1lK12vd_JhfmqShW4rue4Lvj_dRMAEk8V0mPkG6xGuZX38XxZbRrZSUCQ",
         "userName": "Robert Cady",
         "userImage": "https://play-lh.googleusercontent.com/-awJmvmrZPeg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbeBMg4Z_QKEEh1EgJp25C4uOObg/photo.jpg",
@@ -578,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOHX-FtbQxMwUaAcLEcuilTWrv1zyaUG2W4x04dYzIGbHF-X7IgY_URLWGmcnHNodG3pbtvRQkz6OifUQA",
         "userName": "Rolando Velasquez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTi83mOb-ANInFqDKUggME-HzGnyTEHf0-feYa",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCEFxXMVrIodJniA14BiOVH7OSeDNVfZnu7JyFoA",
         "content": "easy to use app. for quick follow-up appointment with the Dr",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6937,8 +6997,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFvX5gStXGEAzUqmalUG_ZjBNsFJsbkWvfHgaJqzAERzV6XSnI2xYELeYubK6wh9hWkeN_I2PyOxcOxhQ",
-        "userName": "Nia squad",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwsCoIGwUqHFl5BjFjygQ8EYDxFYGP1pX2YRGu-A",
+        "userName": "Funnyhoney",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5X8bpDSRAmXy5TzCADGK_5-xWRicsBc0EgYu4sA",
         "content": "Very thankful for the now clinic help",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11936,66 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "11.2.0.025_05",
         "at": "2019-03-04 20:06:04",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFMtKEAQdBJjcINu3nVTBo6_LbI_v9lBApBKeXqyEs8iT5qLtdKEDwywZOTOaj-eMAraInOue6pU_BoPw",
-        "userName": "Richard Bryant",
-        "userImage": "https://play-lh.googleusercontent.com/-T5g6v82VGrc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktwIKuDEEGnYA5ffdKyvK5TzuZcg/photo.jpg",
-        "content": "Was great to use from the convenience of my home. PA Boulton was very kind and thorough.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.2.0.025_05",
-        "at": "2019-03-01 18:02:18",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEbgXOdaE5e9b96O2XgJuDH23uSJn4NavbJnAUkEQdRqT5iSyqwuiuIrEQS9Dq4NdR_MiOe_3bdSzO5LQ",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "awesome",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.2.0.025_05",
-        "at": "2019-02-27 00:17:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG5HeEUqTMtbX-DMbSuWLxhhqn05J6mc2s5qCu_GCD7B7mwB5hibZkh_5aaCU0qY5BOucM0hvaWgweQwA",
-        "userName": "JBrian2011",
-        "userImage": "https://play-lh.googleusercontent.com/-9nDwY9ptpWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmC7qu1blDwCHuoeVNUhMK1XVuBg/photo.jpg",
-        "content": "great",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.2.0.025_05",
-        "at": "2019-02-25 18:49:36",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG-2cnZhqAT343RCrjirq2_fTX_cWOJ54eyBqERkokxFWM1wDUl6WvdE3xt0Ag8ry3-T6PgVfWtY2HN-w",
-        "userName": "Steffie Boo",
-        "userImage": "https://play-lh.googleusercontent.com/-1IiIfGlDbpw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQ65jYBv4Q-_dIOvawrNRFtY4hTw/photo.jpg",
-        "content": "very convenient. reception/audio/video was very clear.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.2.0.025_05",
-        "at": "2019-02-25 01:37:06",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEsIJDmi9VHW8BO1zTd23DcAu9fIfjHSfMIdw7p7U6gcE3TQNbEusFCFwUYiosD_VaDs46ocZYoWwJANg",
-        "userName": "LMAC",
-        "userImage": "https://play-lh.googleusercontent.com/-BlIrTqgknQY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwaQQCaSpI8KwkcBxpX09rBGPWOA/photo.jpg",
-        "content": "SO much easier than wasting 3 hours of my life in a waiting room!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.2.0.025_05",
-        "at": "2019-02-23 20:18:48",
         "replyContent": null,
         "repliedAt": null
     }

@@ -131,6 +131,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> Now this app is SO smart!<br> :date: __2021-03-21 19:16:45__
+
 > This comes in handy when it comes to finding out where to go and where not to go to catch covid-19<br> :date: __2021-03-21 11:58:48__
 
 > Awesome<br> :date: __2021-03-16 10:27:16__
@@ -148,8 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > So you know everybody status!!..??<br> :date: __2021-02-25 01:34:37__
 
 > Excellent App!! Very Informative and Very Much Appreciated, a Five Star Keeper!!!!!!!<br> :date: __2021-02-23 04:01:27__
-
-> Ty! This makes me feel safer when I go out (what few times I do go out!)<br> :date: __2021-02-20 06:00:17__
 
 
 
@@ -215,6 +215,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
 
+> The last time my app worked was 12/27/20, with no exposure detected, it'll be a really good app if it worked.<br> :date: __2021-03-21 19:24:07__
+
 > Slowcovidnc app need remove take down at this time not good<br> :date: __2021-02-26 15:10:22__
 
 > Works fine. However, the last check was on January 14, 2021, which was six weeks ago.<br> :date: __2021-02-25 18:35:16__
@@ -233,8 +235,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I havent had an update since December 26, 2020. What has happened to this app<br> :date: __2021-01-21 03:02:27__
 
-> I tested positive at a minute clinic. When I tried to enter my positive result it didn't have my information. I called and got a PIN, but when I entered it, the app still wouldn't take it. I was able to notify everyone I was in contact with that I knew, but I was out in the world a good bit.<br> :date: __2021-01-19 22:28:39__
-
 
 
 #### 1-star reviews
@@ -242,6 +242,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
+
+> The app is not working, it has not checked for exposure since January 9th. I keep seeing where they are telling people to go to Device Care > Battery ..... That does not exist on my phone, they must be giving instructions for an iPhone. \*\*\*\*\*\*\*\** Update still is showing January 9th as my last exposure check. This app has not worked since then. I guess that I may as well uninstall.<br> :date: __2021-03-25 21:14:28__
 
 > Stupid thing doesn't work. Someone has covid and two stores have been closed due to having covid 19. This app never alerted me I found out via facebook.<br> :date: __2021-03-18 22:21:55__
 
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > This app and program is a joke. I got tested positive for covid-19 but never received a code to put in the app. How is thia app supposed to help when no one even gets a code to enter. What a joke.<br> :date: __2021-02-27 02:09:13__
 
 > It is stupid I deleted it because at the beginning it was great but at the end sooooook dumb. Its just I don't know what to do in this app. January, 2021 bruh so dumb 🤦 😒 😪<br> :date: __2021-02-26 21:54:35__
-
-> This app, as the developers admit is useless. False sense of security. Because it is impossible to timely report covid--what is the use? Our entire household now has Covid. No one can report to this app. Since no one can report being sick, you will never be notified of exposure. Got back a positive test result. Tried to tell the app that I tested positive. Unfortunately it wants me to jump through hoops to get a pin to report a covert positive test. It will not give me a pin.<br> :date: __2021-02-26 21:05:58__
 
 

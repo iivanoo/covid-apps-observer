@@ -289,6 +289,10 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 <img src="1_star_reviews_wordcloud.png" alt="org.uwmedicine.android.wash.virtualclinic 1 reviews"/>
 </p>
 
+> Unusable, just keeps giving me a notice that my internet was interrupted then prompting me to press "okay" and refreshing to do it again.<br> :date: __2021-03-25 18:06:18__
+
+> Has a bug, keeps telling me I need internet access even though I'm on wi-fi<br> :date: __2021-03-22 01:44:38__
+
 > unable to open app.<br> :date: __2021-02-03 23:44:38__
 
 > This app can't be used. It always say we're upgrading your experience.<br> :date: __2021-01-20 21:03:56__
@@ -304,9 +308,5 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 > Does not function, forced to rely on an app that spits me out of the queue. AWFUL.<br> :date: __2020-03-29 00:00:32__
 
 > When I was signing up, I didn't know that there is a word limit so I tried to abbreviate and by the time I press continue, it says, my time expired so I started again. Then I started waiting under Dr Rueda at 11:47 am and by 1:23 pm I received a message that the Dr is no longer available. What? Why? Patients are in pain why the added pain. Have mercy<br> :date: __2020-03-23 22:03:39__
-
-> It is 0 stars. I have waited for over 5 hours in their virtual waiting room, for a doctor that at some point got offline and they did not notify me. Great concept. Doesn't work.<br> :date: __2020-03-19 18:25:18__
-
-> Garbage. Waited for more than two hours with a sick kid, got bounced around to different providers before finally getting to the front of the line and the doctor was no longer available. This is not stable enough to be in production.<br> :date: __2020-03-16 05:51:51__
 
 

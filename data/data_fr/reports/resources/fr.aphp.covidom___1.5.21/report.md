@@ -220,6 +220,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> Impossible de me connecter<br> :date: __2021-03-23 10:19:59__
+
 > Vraiment pas pratique ! Avec Bac+5 j'ai du réfléchir quelques heures pour appréhender la logique. Un covidé de 70 ans doit paniquer 😪<br> :date: __2021-01-24 06:43:13__
 
 > Je n'arrive pas à m'inscrire<br> :date: __2020-12-18 12:12:57__
@@ -237,7 +239,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Mot de passe sans cesse bloqué<br> :date: __2020-11-02 12:27:39__
 
 > Une fois installée je n arrive pas à voir les documents. Donc impossible de remplir les documents.<br> :date: __2020-10-27 14:15:54__
-
-> Application nulle, je n'arrive pas à me connecter.<br> :date: __2020-10-26 14:04:39__
 
 

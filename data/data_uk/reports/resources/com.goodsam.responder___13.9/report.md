@@ -171,6 +171,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!! Now that everything is sorted, the app works fine for me.<br> :date: __2021-03-24 05:33:31__
+
 > Excellent & is developed continuously.<br> :date: __2021-03-08 15:15:54__
 
 > Seems to work fine no issues<br> :date: __2021-02-26 21:44:53__
@@ -189,8 +191,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Edit: Thank you for clarifying and the quick response, that is working now! The app is not sending me notifications, I have been sent tasks but are missing them (even though I have been using my phone at the time the message is sent) because the app isn't sending my phone notifications. I have tried uninstalling and reinstalling a few times now and have checked notification and location permissions are allowed...<br> :date: __2021-01-13 21:43:42__
 
-> Excellent link to people who need support. Easy to manage App.<br> :date: __2021-01-13 17:15:05__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
+
+> Fundamentally sound but as a NHS volunteer responder there are two key niggles which could be addressed to make life much easier: 1. Unable to copy phone numbers from alerts to paste into the phone app, which means switching back and forth to type it manually. Can you make the number a link to dial directly or at least let it be copied to the clipboard? 2. Can't accept more than one task at a time so it's not possible to do them in one trip or make another call when the first isn't answered.<br> :date: __2021-03-24 06:05:24__
 
 > Since the update, this is a good app. I still haven't had a volunteering alert for the vaccination centres yet, here's hoping!<br> :date: __2021-02-27 17:01:46__
 
@@ -216,8 +218,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > I just updated as there should be a new task tab for vaccination steward volunteers. I see nothing different<br> :date: __2021-01-14 18:39:42__
 
 > Version 12.8 on Android 10: looks like notifications may have been fixed, although now when I receive a task I get a "double ding" where my notification sound plays twice, almost over the top of itself. Still, this is better than silence. Some tasks still do not say what type of help is required until the "accept" button is clicked. UPDATE: forgot I had the "bypass silent" option on, was the only way I could receive alerts in prev. version. Yes, if off, I get one "ding" now as expected - thnx!<br> :date: __2021-01-13 12:48:32__
-
-> Update: issue now fixed with a distance slider on the 'me' tab, the app now works fine. ----- I am being inundated with requests that are far outside of the area I can reasonably travel. In the last 10 minutes I have had 31 requests to help, but all 5km-10km away. I have double checked that the app knows my location via the emailed link. I can't spend all day rejecting 3 requests a minute until I find one that is in a reasonable cycle/foot radius of my location.<br> :date: __2021-01-11 18:50:43__
 
 
 
@@ -283,7 +283,11 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
-> Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!!<br> :date: __2021-03-21 03:22:46__
+> I've been logged in for over 1000 hours and never had a notification, even though I have all notification settings turned on. I've just gone into messages to find loads saying I've not responded to a request. How can I respond if the app isn't notifying me?<br> :date: __2021-03-28 09:16:49__
+
+> Load of rubbish. Was told by emergency Doctor from other side of my Borough to sign up to get a volunteer to collect my prescription. App wouldn't even let me state I was in the UK when registering. Tried several times. Give up. Response to developers: I was told to register by a gp to find a volunteer to collect a prescription/medication last night The App would not let me put the UK as my country! I am already registered with NHS First Responders. I get a call every couple of weeks.<br> :date: __2021-03-26 11:43:35__
+
+> After update app no longer opens. Re installed works once and then does not open again. Now unable to access to log on<br> :date: __2021-03-24 12:12:46__
 
 > Even though I have turned on notifications and location but the crash when ever I click on tasks.<br> :date: __2021-03-20 10:06:46__
 
@@ -298,9 +302,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > This app won't let me download at all I have a Samsung A20E.<br> :date: __2021-02-24 13:22:40__
 
 > Wow, OK, so the developer response to reviews that calls out a forced square crop on the licence says "take a photo of your licence and the table it is sitting on, so you can crop a combination of the license and the background it to a square". See Richard M's review below as an example. Yet the photo of the AED allows for any size and shape crop. So the developers have figured out how to allow an any size crop for selecting one photo, but don't want to apply that to another? I'm betting that the reason I can't save my AED location is because the app doesn't just select a photo, it selects and forces a crop, and in cropping it, it probably loses the location data that is in the Exif information that I have confirmed is embedded in the original photo.<br> :date: __2021-02-18 07:00:49__
-
-> Had so much Grief with this app. Had no alerts for so long is forgot it was installed. My circumstances changed so needed to edit what I was able to help with, app wouldn't allow this. Regrettably had to uninstall.<br> :date: __2021-02-16 10:54:55__
-
-> My brother's android go mobile "incompatible" with this software Guess that's the price of volunteering So that's one person wishing to volunteer but excluded from doing so by this gatekeeper..<br> :date: __2021-02-15 19:22:38__
 
 

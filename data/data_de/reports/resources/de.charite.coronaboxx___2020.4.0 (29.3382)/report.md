@@ -141,10 +141,12 @@ The CoronaBoXX app has been installed by more than **100** times. At this time, 
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="de.charite.coronaboxx 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Alles Palladium<br> :date: __2021-03-27 09:11:00__
+
+
 
 #### 4-star reviews
 

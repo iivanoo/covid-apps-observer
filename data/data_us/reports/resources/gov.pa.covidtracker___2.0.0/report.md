@@ -142,6 +142,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Ih<br> :date: __2021-03-24 19:07:31__
+
+> I randomly saw this on the app store and Installed it. This app can be useful thankyou.<br> :date: __2021-03-24 11:37:13__
+
 > I don't know exactly how useful this app has been during the pandemic--never needed it for myself, since I have not contracted the virus. I, thankfully, haven't received any exposure alerts either. But, I see these specific things as good things. Being able to look at a little local health data was nice. Glad the app existed!<br> :date: __2021-03-21 10:18:10__
 
 > I answer one question and then I get notified again the same time the next day. Very simple and easy to use and I can also read other Covid-19 info.<br> :date: __2021-03-12 03:06:19__
@@ -158,10 +162,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Very informative<br> :date: __2021-03-07 18:04:35__
 
-> It's good God bless<br> :date: __2021-03-03 07:23:35__
-
-> I really like this App, Thanks alot.<br> :date: __2021-03-02 19:41:00__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> Straight out of house of cards<br> :date: __2021-03-27 20:53:33__
 
 > Trying to get the Vaccine.<br> :date: __2021-03-16 05:29:45__
 
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > I'm not so sure? But, it seems alright anyway.<br> :date: __2020-12-22 07:43:39__
 
 > I don't want to be tracked! Just wanted updated information on covid19 well thanks for reply✌<br> :date: __2020-12-20 08:45:29__
-
-> It was good for that period of time. Another period, well,...i would guess that that will be a matter of time.<br> :date: __2020-12-19 03:06:44__
 
 
 
@@ -254,6 +254,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> I have no experience on this app, but this app is horrible the truth is that the government wants more money so they come up with this virus in 2020 but it's been out since like 2016 or less. It's so dumb that we live in this world of lies.<br> :date: __2021-03-28 11:08:53__
+
+> Don't us this app the gov turned it to spy on us. Covid monitoring apps don't exist it'd just Spyware.<br> :date: __2021-03-27 18:16:55__
+
+> Annoying. I don't want the damn app stop trying to force me<br> :date: __2021-03-26 15:14:50__
+
 > What has this app done for us?<br> :date: __2021-03-19 13:00:42__
 
 > Started out okay, then went into continuous loading, depleting battery. Removed<br> :date: __2021-03-18 20:10:32__
@@ -267,11 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > It's looks like a good idea. I deleted it. I am not going to put in my birthday month by pushing the month button back more than 700 times.<br> :date: __2021-03-08 19:28:53__
 
 > This app would be great if it would actually launch once installed. I've uninstalled it 3xs then reinstalled. Still doesn't launch. WHY HAVE A APP WE CAN'T ACCESS?<br> :date: __2021-03-08 18:47:12__
-
-> Makes you worry 24/7<br> :date: __2021-03-08 14:08:10__
-
-> I'm not from Pennsylvania but this keeps on getting recommended to me.<br> :date: __2021-03-06 19:07:24__
-
-> Junk. Don't waste your time.. also this is the second time I reviewed it my last review also a one star was deleted how ironic.<br> :date: __2021-02-28 21:30:37__
 
 

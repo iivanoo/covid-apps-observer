@@ -178,6 +178,10 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.iowaclinic.android.iowa.eclinic 5 reviews"/>
 </p>
 
+> Easy to use. Easy to see and hear the dr.<br> :date: __2021-03-26 17:04:24__
+
+> It was great. No issues with the quality of the visit<br> :date: __2021-03-25 18:25:40__
+
 > I appreciate that the app is not difficult to follow and understand if you take your time. I love that it is devoted strictly to e-visits, rather than making them part of the patient portal. When you get logged in, there's no hunting through menus, you are taken immediately to the list of providers and can easily differentiate between those who are available and those who are not. It is incredibly user friendly, at least to this user. Thank you!<br> :date: __2021-03-19 21:40:02__
 
 > Once I figured this out the first time I used it this app worked wonderfully!<br> :date: __2021-02-16 20:43:08__
@@ -193,10 +197,6 @@ The Virtual Care The Iowa eClinic app has been installed by more than **1000** t
 > Great experience!!<br> :date: __2020-12-01 17:44:08__
 
 > Its very easy to use,and it goes quick.<br> :date: __2020-11-19 23:37:12__
-
-> So fast! The dr was super nice. She looked at my history, listened to my current health issue and sent in an antibiotic all in under 10 minutes!<br> :date: __2020-11-13 17:13:06__
-
-> Thank you Cassie<br> :date: __2020-10-27 19:57:56__
 
 
 

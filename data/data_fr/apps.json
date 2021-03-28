@@ -4,70 +4,70 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1616339663
+        "latest_crawl": 1616935910
     },
     {
         "id": "org.crf.minutis",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1616339664
+        "latest_crawl": 1616935910
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1616339666
+        "latest_crawl": 1616935919
     },
     {
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1616339673
+        "latest_crawl": 1616935928
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1616339682
+        "latest_crawl": 1616935935
     },
     {
         "id": "fr.gouv.android.stopcovid",
         "store_country": "fr",
         "store_lang": "fr",
-        "latest_crawled_version": "2.3.1",
-        "latest_crawl": 1616339687
+        "latest_crawled_version": "2.3.4",
+        "latest_crawl": 1616936078
     },
     {
         "id": "com.bsmart.covid19",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "Varie selon les appareils.",
-        "latest_crawl": 1616339690
+        "latest_crawl": 1616936119
     },
     {
         "id": "com.hug_ge.coronapp",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "0.0.66",
-        "latest_crawl": 1616339690
+        "latest_crawl": 1616936120
     },
     {
         "id": "fr.esantebfc.engage",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.2.8",
-        "latest_crawl": 1616339699
+        "latest_crawl": 1616936120
     },
     {
         "id": "com.sanpsy.kanopee",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "6",
-        "latest_crawl": 1616339701
+        "latest_crawl": 1616936123
     },
     {
         "id": "ml.lenali.kunko",

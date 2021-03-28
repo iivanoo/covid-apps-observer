@@ -222,6 +222,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="3_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 3 reviews"/>
 </p>
 
+> Bitte Krankheitstagebuch mit versendefunktion hinzufügen!<br> :date: __2021-03-27 12:56:12__
+
 > Die App finde ich klasse und ich nütze sie schon von Anfang an! Leider lässt seit heute aber nichts mehr speichern! Nach der Eingabe und Betätigen der Speichern-Taste steigt die App aus! Hoffe, das ändert sich bald wieder, ansonsten werde ich die App deinstallieren!<br> :date: __2021-01-21 10:59:03__
 
 > Wie kann ich einen detaillierten Export erstellen ? Ich bekomme zZ nur eine Liste aller Orte und darunter die aller Personen ohne Datum, ohne die Details (Uhrzeit, Masken, drinnen/draußen) und vor allem ohne Zuordnung Personen zu Ort und Zeit. Falls ich das Datum einer Begegnung falsch erfasst habe, kann ich nur Details, aber nicht das Datum ändern oder in der Übersicht verschieben. Wie kann ich wiederkehrende Begegnungen schneller erfassen, würde Tipparbeit sparen. Kann ich kopieren?<br> :date: __2021-01-07 10:45:02__
@@ -239,8 +241,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Seit dem Update dauert das Eintrages jedes Kontaktes unendlich lange. Leider ist auch die Zeitauswahl durch langes scrollen nicht mehr schnell. Fazit für mich: Bis jetzt war die App gut und ich hab träglich notiert. Jetzt dauert das so dange, das ich dass einfach nicht mehr tun werden. Wechsel von der App zu einem einfach Notizblock, geht schneller. (Technisch ist die App gut, nur für mich halt unpraktisch geworden)<br> :date: __2020-12-20 09:47:07__
 
 > Eigentlich eine tolle App und 5 Sterne wert. Seit den neuesten Update gilt: + es können Begegnungen mit Orten und Details gefüllt werden - die Tagebuch Übersicht stellt nur noch Begegnungen dar (ein Tag mit einem Buch beim Bäcker sieht genauso aus wie eine indoor Party ohne Masken)<br> :date: __2020-12-19 07:14:47__
-
-> Mit dem letzten Update muss ich leider meine gute Bewertung abwerten. Eine schnelle Eingabe ist nicht mehr möglich und wurde nur unnötig aufgebläht. Auch bri Personen gibt es jetzt Pflichtfelder die nicht immer vorliegen. Sorry das war leider eine Verschlimmbesserung eines an sich tollen Programms. Wichtiger wäre imo in der Ausgabe bei den Personen das Datum wie bei den Orten gewesen.<br> :date: __2020-12-19 04:41:58__
 
 
 
@@ -278,7 +278,7 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
-> Geht's noch? Gibt es wirklich Hirnis, die brav ihre Kontakte eintragen und auch noch glauben, dass das irgend jemandem etwas nützt? Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie gleich wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, dass diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber nur sehr wenig.<br> :date: __2021-03-21 00:59:27__
+> Geht's noch? Gibt es wirklich Deppen, die brav ihre Kontakte eintragen und auch noch glauben, daß das irgend jemandem etwas nützt? Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie gleich wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, daß diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber leider nur sehr wenig.<br> :date: __2021-03-28 03:55:17__
 
 > Nach dem heutigen Update waren alle bisherigen Eintragungen weg! Die App ist leider unbrauchbar. Ich habe sie wieder gelöscht<br> :date: __2020-12-20 22:53:19__
 

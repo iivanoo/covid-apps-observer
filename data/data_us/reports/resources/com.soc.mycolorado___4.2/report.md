@@ -186,6 +186,16 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Very exceptional app<br> :date: __2021-03-28 03:40:48__
+
+> Great way to step into the future of technology 🙌 👏<br> :date: __2021-03-22 16:45:37__
+
+> (UPDATE: They've fixed all of my previous issues and vastly improved the user interface. If only car dealers accepted the digital DL, then it'd be flawless.) Absolutely useless app. I tried scanning my ID on multiple phones, only to have nothing happen. Tried on my LG, Samsung, Iphone, and tablets with the same result accross all platforms.<br> :date: __2021-03-22 06:57:28__
+
+> Whatever issues with the march update isn't affecting my use. Love it and super easy to use!!<br> :date: __2021-03-21 21:58:24__
+
+> Now that most of the bugs are worked out, it's great. they do need to do a better job of explaining that the picture it takes is for facial recognition to prove that you're the person on your ID and not that it's taking a new picture for the ID.<br> :date: __2021-03-21 13:12:02__
+
 > The app itself is good, I haven't the chance to use it yet but I like that I can share everything with one click if needed<br> :date: __2021-03-20 13:14:55__
 
 > Very convenient would be nice if this would serve as a federal ID<br> :date: __2021-03-17 04:29:38__
@@ -195,16 +205,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Super easy<br> :date: __2021-03-16 17:51:00__
 
 > Great info on Colorado<br> :date: __2021-03-16 15:30:26__
-
-> This app is awesome! It's a must have for everyone who wants the convenience of having your CO State ID or Driver's License on your phone. There's no way you can lose it when it's at the touch of your fingertips!!<br> :date: __2021-03-16 03:56:02__
-
-> Cooll<br> :date: __2021-03-16 01:34:40__
-
-> Excellent<br> :date: __2021-03-12 21:08:30__
-
-> Good vibes final year<br> :date: __2021-03-08 19:53:27__
-
-> It took a while to install when i installed it last year but so far i have no complaints about the app<br> :date: __2021-03-05 06:43:05__
 
 
 
@@ -242,6 +242,8 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
 
+> 2 factor authentication not working. I've been waiting for 15 mins for the code to be text to me so I can buy a lighter and nothing! It's a waste of energy. ---Sure, thanks for the acknowledgement. 👍When this app is working, its amazing.<br> :date: __2021-03-25 05:22:11__
+
 > When and if I'm allowed to use this electronic ID to show to a cop I should be able to "lock" everything else so cop can stop and prevent snooping in my phone other than the ID itself.<br> :date: __2021-03-08 17:03:23__
 
 > Can't get it to scan my id in????<br> :date: __2021-02-26 21:16:20__
@@ -259,8 +261,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > \*\*\*\*\*\*\*\**Update\*\*\*\*\*\** I had to dump all non basic operation apps off my phone to get every thing to process through, but Eureka success! All this app does is collect your data to sell I'm assuming. But it will have you set up an account just to not allow you to log into it after. And when you ask for assistance or request what companies they sell your info to, so you can block their spam, you get generic responses. Assuming these are bots designed to find key words and respond accordingly.<br> :date: __2020-07-30 23:54:34__
 
 > Only after 10 attempts (using my new DL that just arrived in the mail earlier that day) was it able to register my driver's liscence in the virtual wallet. Other than taking forever to scan my documents, the app is pretty darn good.<br> :date: __2020-07-29 04:06:34__
-
-> Everything was bool, then my picture didnt show up<br> :date: __2020-07-22 03:08:11__
 
 
 
@@ -298,9 +298,9 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
-> Captures too much phone info. Spyware.<br> :date: __2021-03-20 19:52:26__
+> I was so excited to download this app only to be shut out EVERY TIME I TRY TO SCAN MY ID! Please iron out the kinks and I will be sure to come back for a 5 star review.<br> :date: __2021-03-27 02:04:15__
 
-> 2 factor authentication not working. I've been waiting for 15 mins for the code to be text to me so I can buy a lighter and nothing! It's a waste of energy.<br> :date: __2021-03-13 04:19:31__
+> Captures too much phone info. Spyware.<br> :date: __2021-03-20 19:52:26__
 
 > It says the app isn't working 😕<br> :date: __2021-03-12 04:20:44__
 

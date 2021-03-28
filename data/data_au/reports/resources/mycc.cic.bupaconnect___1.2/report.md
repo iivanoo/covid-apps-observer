@@ -170,10 +170,12 @@ The Bupa Aged Care Connect app has been installed by more than **1000** times. A
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="mycc.cic.bupaconnect 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Good<br> :date: __2021-03-24 20:11:38__
+
+
 
 #### 4-star reviews
 

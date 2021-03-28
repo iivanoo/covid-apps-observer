@@ -222,6 +222,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.de.covidtracker 1 reviews"/>
 </p>
 
+> Does not open after last update<br> :date: __2021-03-24 13:18:08__
+
 > This app completely screwed up my phone<br> :date: __2021-03-10 03:49:08__
 
 > I dont get it<br> :date: __2021-02-01 15:51:24__
@@ -239,7 +241,5 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 > Would like to use the app, but the app always hangs when I get to the data page and click on Continue. I' using a Pixel 3 phone, Android 11.<br> :date: __2020-09-24 16:20:30__
 
 > Perpetually stuck waiting for download from Play Store.<br> :date: __2020-09-16 15:17:02__
-
-> I'm from Maryland but travel to Delaware frequently. This app only works on one of my phone, the others are too old. Please expand the API to include phones down to 4.4. Also less than 100 installs (50+) indicates no one is using it at the time of review. This makes this app useless with less than 0.009% user engagement, assuming the everyone who has installed this app is from Delaware - it is actually less. For this type of app to be meaningful, you need to have engagement > 50% of the population or >500,000% more installs.<br> :date: __2020-09-15 21:09:32__
 
 

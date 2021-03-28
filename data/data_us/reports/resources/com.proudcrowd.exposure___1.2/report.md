@@ -212,6 +212,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> It goes days, sometimes months without checking for exposures. I have to remember to open it for it to work for a few days and then it lapses again until I remember to open it again. Thank goodness it didn't detect any exposures in my bedroom this morning, its first check in who knows how long *rolls eyes*. I feel safer already.<br> :date: __2021-03-21 14:20:52__
+
 > Wrong app<br> :date: __2021-02-05 07:34:11__
 
 > Has not added a scan since December 15th. No updates available, so it's not that.<br> :date: __2021-01-06 07:27:48__
@@ -229,7 +231,5 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > App has stopped checking for recent exposures .<br> :date: __2020-11-23 04:34:00__
 
 > Doesn't do what it should. Just takes up space on your phone or tablet<br> :date: __2020-11-21 15:36:41__
-
-> Not any relevant information for right now!! 11-15-20<br> :date: __2020-11-16 04:25:29__
 
 

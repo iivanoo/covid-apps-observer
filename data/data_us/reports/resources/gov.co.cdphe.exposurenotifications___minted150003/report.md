@@ -237,6 +237,12 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> Are you freaking kidding me, this just another way of controlling people grow the f up<br> :date: __2021-03-25 17:58:40__
+
+> To notify somebody if I have been exposed it asks for a verification code that was never given to me....so there's no way for me to notify. It defeats the purpose of having the app.<br> :date: __2021-03-24 23:56:27__
+
+> I downloaded the app the week it launched and hadn't gotten even one notification by the time I uninstalled it on 3/20. Maybe I'm just ridiculously lucky to have avoided all exposure, but between case numbers, quarantines in my workplace, people not receiving positivity codes, and codes going unused, it seems much more likely that this app doesn't work well in practice. Mostly a waste of phone space, but one star for giving a false sense of contributing to public health.<br> :date: __2021-03-21 21:38:06__
+
 > I have a question.. If your app uses Bluetooth to recognize other phones and that phone's user's status, what happens if I 'always' listen to music on Bluetooth headphones when out in downtown.. Is your app useless in this situation?<br> :date: __2021-03-18 07:09:12__
 
 > I was asked to install this by my boss at work but I don't think it works itself? 🤔<br> :date: __2021-03-18 01:50:21__
@@ -250,11 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Pointless. I'm a teacher and have been quarantined for to exposure from a student. It's obvious this info isn't getting passed on.<br> :date: __2021-02-27 17:14:04__
 
 > Only works if people register, which doesn't seem likely to me....<br> :date: __2021-02-20 14:16:34__
-
-> Not enough people use it to make any difference..<br> :date: __2021-02-14 22:06:32__
-
-> Pretty useless since people don't post their results on here.<br> :date: __2021-02-14 19:02:01__
-
-> Tried to report a positive case and it wouldn't let me. Needed some kind of code but there was no information on where to get the code from. Useless. I also had it installed for months and never got one notification of any exposure, which seems really improbable.<br> :date: __2021-02-14 05:03:06__
 
 

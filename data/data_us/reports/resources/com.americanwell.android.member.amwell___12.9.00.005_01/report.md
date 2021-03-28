@@ -216,6 +216,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> If your looking for an alternative to urgent care or the ER for something that isn't life threatening look no further. Their Drs are nice, knowledgeable, available 24/7 and willing to help you with pretty much anything, sans controlled substances. So if your looking for a dr to see st home for a cold, infection, something you'd see urgent care for, give amwell a shot! I use them all the time.<br> :date: __2021-03-27 06:18:00__
+
+> Dr was awesome!!! I really recommend the app<br> :date: __2021-03-23 22:36:15__
+
 > Easy to use and the doctors are very thorough and helpful. I've used this app to get doctors notes for work instead of going there just to get a paper. Also I Just gave the doctor my symptoms to get antibiotics and an inhaler. Its convenient especially when you have an idea of what's wrong with you they can easily prescribe what you need. I have no insurance so it's cheaper than urgent care but they do accept insurance.<br> :date: __2021-03-09 14:18:11__
 
 > I can actually get medical help on a Sunday!<br> :date: __2021-03-07 21:27:58__
@@ -231,10 +235,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > This is well worth the download to keep yourself healthy the doctors are awesome and very knowledgeable about Current financial issues and how to be able to afford Healthcare<br> :date: __2021-02-23 18:18:32__
 
 > Absolutely wonderful, ten times faster than an actual drs visit. The doctor I spoke with was absolutely fantastic. I would recommend this service to anyone<br> :date: __2021-02-22 17:19:50__
-
-> I have used the service twice I have had great results each time<br> :date: __2021-02-22 15:52:41__
-
-> Very Helpful and informative. Would definitely recommend.<br> :date: __2021-02-17 19:18:48__
 
 
 
@@ -300,6 +300,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 2 reviews"/>
 </p>
 
+> The app was good, dr was friendly. Just an ear infection i wanted some meds. Doctor said i should go to in person urgent care. Then why did the hell did i waste 80$ and use amwell?????<br> :date: __2021-03-21 17:41:06__
+
 > The app and service is great, as long as you're paying. I didn't need to continue using the service so I canceled after talking to the doctor and getting the help I needed. However, the pharmacy didn't get my prescription order, and Amwell support refuses to give it to me unless I start my membership again. That seems shady to me. I paid for a service and received it, but didn't get to retrieve the solution (prescription), which was the reason I signed up in the first place.<br> :date: __2021-01-26 17:19:05__
 
 > Basically an app to purchase a doctors note for work or school. The doctors or nurse practitioners seem terrified to write any prescription that isn't OTC. I deleted it.<br> :date: __2021-01-17 17:44:50__
@@ -317,8 +319,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > First visit for my son went great. Doctor was friendly and listened and helpful. Second visit was for me. The doctor couldn't even work his camera correctly so all you could see was the top of his head. He then was very condescending. He didn't even know about one of the medications I was taking (it's used off label for my treatment). He kept insisting it's never used for that I must take it for something else. 🙄 You can't go back to file a complaint.<br> :date: __2020-01-24 11:24:41__
 
 > Don't be surprised that the app doesn't work just when you need it. Today is Sunday and just when I need it, it is not working. Not very 24/7.<br> :date: __2020-01-13 06:46:21__
-
-> Like with all these apps. "Go to a doctor or clinic" I understand to be seen in person. Best bet is to not waste your time and spend more money<br> :date: __2019-11-28 00:51:01__
 
 
 

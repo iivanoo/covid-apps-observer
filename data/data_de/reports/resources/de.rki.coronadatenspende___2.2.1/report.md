@@ -141,6 +141,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Funktioniert bestens.<br> :date: __2021-03-26 12:51:48__
+
 > Sehr großartige App sehr gut weiter verbessern und entwickeln vielen Dank. Könnt ihr bitte antworten vielen Dank.<br> :date: __2021-03-10 21:40:03__
 
 > Sinnvolle App, endlich ist die Verknüpfung zu Samsung Health hergestellt. Jetzt nutze ich gerne die App.<br> :date: __2021-03-02 21:36:32__
@@ -158,8 +160,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Macht was es soll<br> :date: __2021-02-04 02:09:57__
 
 > Die App vor 3 Wochen installiert, funktioniert bis jetzt ohne Probleme mit der Fitbit Charge 4. Nun hoffe ich das diese App ihren Zweck erfüllt.<br> :date: __2021-02-01 13:35:36__
-
-> Leider nicht mit Samsung health verwendbar. Ich versuche das irgendwie mit google fit hinzubekommen. Ich weiß aber nicht wieviele Daten da mit samsung health synchronisiert werden.<br> :date: __2021-01-29 20:30:32__
 
 
 
@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Leider funktioniert das Verknüpfen mit dem Amazfit Zepp Konto nicht obwohl auswählbar. Springt nach der Authorisierung einfach eine Seite zurück. Bitte beheben. Dann spende ich gern meine Daten.<br> :date: __2021-03-26 19:22:19__
+
 > Überhaupt nicht selbsterklärend.<br> :date: __2021-03-20 15:25:22__
 
 > Server fehler<br> :date: __2021-03-08 20:25:53__
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Warum wird Kein huawei watch gt2pro Unterstützung?<br> :date: __2021-02-02 19:35:02__
 
 > Da Europa sowieso als reiner Datensammler zwischen Amerika und China enden wird. Sollte es einer Institution wie Ihnen gelingen 95% aller SmartWatches abzudecken. Bei einer reinen Datensammler App. Meine Empfehlung: 6, Thema verfehlt, setzen.<br> :date: __2021-01-31 10:28:26__
-
-> Würde ja gerne meine Daten zu ferfügung stellen. Da ich ein Mi Band besitze und mit diesem Problem nicht alleine bin frage ich mich wann Xiaomi in die Liste der kompatiblen Geräte mit aufgenommen wird.<br> :date: __2021-01-31 09:54:05__
 
 

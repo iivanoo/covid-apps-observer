@@ -189,6 +189,12 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> Det jätte bra app<br> :date: __2021-03-25 20:40:13__
+
+> Väldigt enkelt att få hjälp för enkla ärenden.<br> :date: __2021-03-24 15:37:16__
+
+> Good service<br> :date: __2021-03-24 12:08:28__
+
 > Großartiges Konzept, großartig umgesetzt! Toll!<br> :date: __2021-03-15 15:09:00__
 
 > Very good😊<br> :date: __2021-03-10 13:09:47__
@@ -202,12 +208,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Good application and fast appointments<br> :date: __2021-02-10 09:45:46__
 
 > Excellent service with a caring, professional doctor!<br> :date: __2021-02-06 11:11:54__
-
-> Very reliable.<br> :date: __2021-02-04 10:36:26__
-
-> The best<br> :date: __2021-02-03 14:04:47__
-
-> Most helpful<br> :date: __2021-02-02 16:34:37__
 
 
 
@@ -257,6 +257,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="2_star_reviews_wordcloud.png" alt="se.kry.android 2 reviews"/>
 </p>
 
+> Very unpleasant appointments. Doc just wants to get it done with as fast as possible.<br> :date: __2021-03-27 12:49:25__
+
 > App is streamlined and easy to use. Doctors whoever will literally just tell you to either take Paracetamol or Ibuprofen for everything or to go to a Health Clinic for anything, can't even renew prescription for basic ear drops in the middle of a pandemic because they think it's safer to crowd clinics for minor ear pain at a time like this than to give you anything other than anti inflammatories that crush your liver. Ends up not being more help than simply going to r/askadoctor or Quora.<br> :date: __2021-01-31 05:27:08__
 
 > The app itself is working fine. I spoke to two different doctors and got totaly different answers. The last one told me that I don't need to take any medicine. After controlling this with 1177 is this also wrong (antibiotics shall be used).<br> :date: __2021-01-16 12:02:59__
@@ -275,8 +277,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 
 > Meetings disconnect due to doctors bad reception. I've spent a long time waiting several times and got connected. No customer service available unless you spend time on a phone...<br> :date: __2020-02-05 10:00:08__
 
-> Appen suger. Stått mindre än 5min till läkarbesöket i över 50min. Fick ringa till supporten. Läkaren var proffsig och trevlig. Alltså tack vare läkaren ger jag 2 stjärnor, annars skulle gett 0 stjärnor. Läkaren får 5 stjärnor.<br> :date: __2020-01-24 18:10:36__
-
 
 
 #### 1-star reviews
@@ -284,6 +284,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="se.kry.android 1 reviews"/>
 </p>
+
+> Läkare var sarkastisk. Han är svensk, inte heller arabisk talande enligt önskemål, trots enligt app har de 28 ST som pratar Arabiska.inget anamnes tagits allt, startade samtalet direkt tyvärr kan inte hjälpa er och ni behöver byta hälsocentral, kan inte ta prover utan undersöka, och om vi vill kan vi ta det privat.även osteoporos utredningar som tas muntlig var inte lustig att ta det här samtalet.vår upplevelse att dålig bemötande och värdelös hjälp.ingen skillnad från vanlig HC.rekomenderar ej<br> :date: __2021-03-23 17:50:45__
 
 > Välfärden dukar under och det är detta vi lägger pengarna på istället för fler sköterskor på äldreboendena. Vi som betalar skatt förtjänar inte att få våra ihoparbetade pengar bortslösade på det här sättet. Går rakt ner i ägarnas fickor. Såna här företag borde inte vara skattefinansierade.<br> :date: __2021-03-20 19:07:07__
 
@@ -302,7 +304,5 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Not useful at all. Don't waste your time and call the vårdcentral directly.<br> :date: __2021-01-15 13:09:06__
 
 > Useless. I have a positive test from a lab that needs antibiotics. The doctor only referred me to another useless instance "vård central" where they never answer the phone and you can't book a time online if you are no longer living in Sweden. Swedish health care is a joke.<br> :date: __2021-01-07 19:37:47__
-
-> They always say they can't help you and you need to see a doctor at vårdcentral. Why the hell don't they tell the patient before, they have the info they need prior to the consultation. Who needs a doctor to tell you to see another doctor and charge for that? Today I booked for weight loss (a service they offer) and within 30 sec of seing my face dr said he didn't think I looked fat (I'm obese) and refused to refer me because he didnt believe my weight. He didnt even bother looking at my files<br> :date: __2020-12-11 18:12:14__
 
 

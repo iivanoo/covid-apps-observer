@@ -155,6 +155,18 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
+> Brilliant app! Really great for tracking parcels etc. Highly recommend 👌<br> :date: __2021-03-27 15:59:30__
+
+> If you use the royal mail a lot then this is a valuable tool to have<br> :date: __2021-03-27 12:00:49__
+
+> Personally I think it is a good app an yes good at finding parcels. Brilliant app. Don't knock until u try it<br> :date: __2021-03-26 09:32:56__
+
+> Excellent app<br> :date: __2021-03-26 09:31:47__
+
+> Excellent<br> :date: __2021-03-24 13:48:10__
+
+> Excellent service<br> :date: __2021-03-22 17:29:07__
+
 > Ideal to keep you updated where your parcel is<br> :date: __2021-03-19 19:34:08__
 
 > Good for tracking. Worked well for an incoming parcel.<br> :date: __2021-03-18 13:49:01__
@@ -163,18 +175,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Service was excellent product<br> :date: __2021-03-17 10:34:19__
 
-> Very good<br> :date: __2021-03-17 08:25:04__
-
-> Good app<br> :date: __2021-03-16 21:49:54__
-
-> Brilliant app<br> :date: __2021-03-16 18:54:37__
-
-> Brilliant app. Works well. Love the feature where you can name your delivery instead of it having a number.<br> :date: __2021-03-16 18:32:00__
-
-> Used it to reschedule a delivery. Easy to do/easy to keep track Very good app for me! Used on Samsung S8+<br> :date: __2021-03-16 13:19:55__
-
-> The app is brilliant so much easier to check everything on your phone<br> :date: __2021-03-16 12:40:16__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 4 reviews"/>
 </p>
+
+> I would like it if the app could save addresses that I frequently use.<br> :date: __2021-03-27 14:52:11__
 
 > There is no option to delete tracking numbers on the tracking tab. The app need a feature where the user can delete individual or all track history!<br> :date: __2021-02-26 15:35:12__
 
@@ -201,8 +203,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > This app is useful for tracking when your parcel will arrive.<br> :date: __2021-01-04 15:45:28__
 
-> Excellent.<br> :date: __2021-01-03 10:46:40__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 3 reviews"/>
 </p>
+
+> Normally a fantastic app. But all it seems to be doing is crashing ATM<br> :date: __2021-03-23 09:03:44__
 
 > Will not let me do change of address or any other services.<br> :date: __2021-02-12 14:46:46__
 
@@ -228,8 +230,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 > Dates incorrectly read as US. Your item was delivered 01 August 2021... When it was delivered 20210108, not 20210801....<br> :date: __2021-01-08 10:24:06__
 
 > Looking for cost of posting to Europe (Ireland). Can't find on this site!<br> :date: __2021-01-04 12:19:33__
-
-> Tracking nos are alpha-num and long and I can't copy from my sources. Info seems sketchy. Update... uninstalled as won't accept my password, LIKE SO MANY APPS IT JUST DEFEATS ITSELF. Bah humbug.<br> :date: __2020-12-25 13:09:29__
 
 
 
@@ -267,24 +267,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> Absolutely dreadful, won't print label, last time no QR code either. I spent more time running around than just going to the PO and buy it there.<br> :date: __2021-03-20 14:26:47__
+> Whats the point of registering if app can't even remember your details and you need to type it all over again every time you want to use it? I tried to book redelivery but it just shows a message: "sorry there was en error". Completely useless.<br> :date: __2021-03-28 14:16:04__
 
-> I have click and drop on my pc which work's fine. After installing app it refuses to recognise my log in details. If I try to re-register it says my email address is already registered!!?? Have tried changing password, re-installing app etc. Useless! Have given up and deleted app.<br> :date: __2021-03-20 09:17:22__
+> Utter trash, what is the point in entering my address details to sign up for an account if I have to re-enter the same details when booking a re-delivery? Assuming the form even works (it didn't for me). Absolute useless app! Don't waste your time, just use the royal mail website instead.<br> :date: __2021-03-28 13:22:27__
 
-> Extremely Rubbish service. Would give nil if possible, Customer service can contact me for further details. (One lives in hope.)<br> :date: __2021-03-19 17:15:38__
+> Useless app, Royal Mail tells you to expect your parcel one day and you never receive it until the next day or the day after that.<br> :date: __2021-03-26 08:24:40__
 
-> QR code useless.<br> :date: __2021-03-19 15:19:41__
+> Doesn't work if you have an Android. Pointless, just use the website.<br> :date: __2021-03-26 05:50:48__
 
-> Your app can not find my number<br> :date: __2021-03-19 13:42:40__
+> Rubbish, keeps restarting as soon as I try to open the app.<br> :date: __2021-03-24 23:21:37__
 
-> Rubbish<br> :date: __2021-03-19 10:11:34__
+> Tracking is useless Shows item dispatched to Royal mail on 9th March no update Other items say no update till its had an attempt to delivery which obviously I know where it is at that point<br> :date: __2021-03-24 13:01:58__
 
-> Doesn't work as advertised. I paid for a letter in the app and then had to pay again in the post office because they "do not support this service".<br> :date: __2021-03-17 16:30:40__
+> Pathetic delivery service. They are using covid as excuse. Whole world is working only Royal mail has issues in covid. Missing so many posts and weeks of delays.<br> :date: __2021-03-24 11:19:47__
 
-> Worst company on heart! They lost 3 packages of mine. 3 out of 3! I can't believe it. Customer service? Absolutely ridiculous! App? Even worse! I can't believe they are still on business. Don't waist your time and money with them!<br> :date: __2021-03-17 15:19:25__
+> Much how I would imagine the mental torture inflicted on prisoners of war to be. I have wasted my evening going down a rabbit hole for a trackable parcel that 'cannot be found' by this app that I have been forced to download, because it is apparently the ONLY way to get my parcel redelivered.<br> :date: __2021-03-23 23:02:06__
 
-> Useless doesn't do anything like most modern technology today 🙄<br> :date: __2021-03-17 10:25:30__
+> Utterly useless<br> :date: __2021-03-23 16:37:00__
 
-> I'm sure this is useful for something, just not anything I've ever tried to use it for.<br> :date: __2021-03-16 15:12:00__
+> Latest update, now the app just crashes on the loading screen, think I'll just give up on it and send my post with someone else.<br> :date: __2021-03-22 23:36:30__
 
 

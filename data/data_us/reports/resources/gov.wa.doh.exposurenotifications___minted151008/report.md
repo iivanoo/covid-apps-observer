@@ -129,6 +129,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> Love it<br> :date: __2021-03-26 03:17:58__
+
 > 2021-03-07 Update fixed. 5 stars! {App worked as expected for the first 2 months, however this morning I see a notice that I need to have location turned on as well as bluetooth. This is unnerving seeing that the app settings on my phone show no permissions are in use. I have android 6 but this same concern is being voiced by an android 9 user here in the comments. This behaviour is new and as I can only toggle location globally on my device.}<br> :date: __2021-03-07 16:34:01__
 
 > I like the idea that it gives you a heads up if you contact and/or get near a person tested positive for COVID-19.<br> :date: __2021-03-02 09:01:18__
@@ -146,8 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > It can save your life.<br> :date: __2021-02-04 13:16:33__
 
 > Secure. Good software design.<br> :date: __2021-01-20 07:00:49__
-
-> Need it! One of those I never get allerts on.<br> :date: __2021-01-16 20:03:01__
 
 
 
@@ -185,6 +185,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 3 reviews"/>
 </p>
 
+> Haven't had to use so not sure.....<br> :date: __2021-03-24 18:47:24__
+
 > Relys on people being honest and truthful<br> :date: __2021-02-24 15:27:06__
 
 > I received a notification that I was exposed on a day where I had kept my phone in a space not shared with others (no shared wall, etc), as I do every work day. In other words, no one spent 15 minutes within 6 feet of my phone. It is a healthcare facility, so there is little doubt the "exposure" was generated here, but it seems that either the location sharing probably far exceeds 6 feet, or is far less than 15 minutes in order for me to be alerted to exposure.<br> :date: __2021-01-23 14:36:29__
@@ -202,8 +204,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > I think this app will be more useful if more people use it. People are afraid you are tracking their movement's. Need more advertising! The conspiracy theory people will never use it. Sane people will. Thank You<br> :date: __2020-12-24 15:41:03__
 
 > I echo Josh McAllister's comments. Recently tried to upload my test result which came to a dead end with the elusive "verification code".<br> :date: __2020-12-18 17:23:03__
-
-> Havent had none<br> :date: __2020-12-15 18:36:19__
 
 
 

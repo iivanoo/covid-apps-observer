@@ -176,6 +176,10 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> I love that its a small way to help. Great app just wish A. A different quote occasionally because I'm tired if dolly Parton and B. The statistics no longer shows and I liked it a lot. Everyone should use this! Not for yourself but for others to have food!<br> :date: __2021-03-27 04:08:55__
+
+> Pretty easy to use! I don't have any complaints.<br> :date: __2021-03-26 22:17:51__
+
 > Very easy and quick to do. lt's good to know my 30 seconds will help 'Feed America' and track how Covid-19 is affecting others in our area.<br> :date: __2021-03-21 08:01:09__
 
 > Like this app.<br> :date: __2021-03-20 21:16:48__
@@ -191,10 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > This app is so user friendly, ridiculously easy to dive right in. I love being able to track metrics around my mood and wellbeing. It's super cool to see metrics from my state and around the country as well! I could see something like this really taking off and becoming a valuable asset to our community health.<br> :date: __2021-02-25 20:10:21__
 
 > Takes our pulse and gives back to our communities. I love that part.<br> :date: __2021-02-25 14:07:39__
-
-> We the people are angry we the people believe a great Injustice is done against us and those that put in place to speak for us cannot speak and he's not worthy they don't know all to articulate themself and conduct themself they are fraud and they're put in place by people who want to break us and rip us aparts or boys or girls they need to stop never mind of a right to be free and freedom is when someone don't tell you what to do I went to do it and respect you for the color of your skin and yo<br> :date: __2021-02-22 15:15:16__
-
-> I like that I have a way to contribute to helping fight against Covid and that I can see how other areas are faring. I also like that I can watch how my own state is doing also.<br> :date: __2021-02-22 05:12:30__
 
 
 
@@ -232,6 +232,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="3_star_reviews_wordcloud.png" alt="org.howwefeel 3 reviews"/>
 </p>
 
+> UPDATE: From 10/5 - 11/20/20+ the App didn't work at all. Since some time in 01/2021 I've been able to start doing daily check in's again. However, this past week, 3/26, my state's info has not been showing. It just show's "ERROR LOADING CARD". I'm really hoping it doesn't take forever for this company to fix this problem; like it did when they crashed the App w/ their "update" back on 10/5/2020. I also really miss seeing my states info on the original easy grid.<br> :date: __2021-03-27 04:32:03__
+
 > Helpful, for the most of it<br> :date: __2021-01-30 09:30:46__
 
 > I don't know how I feel much better or not. I don't think I feel that much better.<br> :date: __2020-11-14 03:00:22__
@@ -249,8 +251,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > App hasn't worked in days. Won't even open. I haven't had an OS update or an app update.<br> :date: __2020-10-11 06:07:05__
 
 > Updated App today and now I keep on getting error messages that the App is continuing to close. I uninstalled then installed the App and am still having issues<br> :date: __2020-10-09 05:36:17__
-
-> Okay application<br> :date: __2020-09-24 19:13:06__
 
 
 
@@ -298,8 +298,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > Doesn't work anymore. Don't know why. I've uninstalled the app and reinstalled it, still doesn't work!<br> :date: __2020-11-22 16:25:11__
 
-> UPDATE: 11/20/20 This App has NOT WORKED, at all, since 10/5. I have uninstalled. There are reviews giving this App 5 stars dated after 11/01, stating how 'easy' the App is, they are lies! The App USED to be easy, simple & great but it NO LONGER WORKS! 10/05/20; The "update" has failed miserably! I can't even open the App, it either flashes a blue screen OR an error message. I've sent feedback @ least 3x, with no reply back. (I really liked daily checkin & seein my states info on a easy grid.)<br> :date: __2020-11-21 01:44:33__
-
 > I've responded 175 times since downloading. After the last update the app wont open at all. I also fond the data dashboard they provide me to be confusing and sometimes contradictory to what is happening in the news. They also provide old content/tips for multiple days. This should be updated daily if they want me to respond daily.<br> :date: __2020-11-20 15:09:08__
 
 > App has stopped working<br> :date: __2020-11-19 14:37:32__
@@ -307,5 +305,7 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > 10/26/20 Have not been able to open app in weeks. Was really good. Hopefully it will be fixed soon. 11/16/20 app still doesn't open. You are missing a good chunk of reporting by the looks of the recent reviews.<br> :date: __2020-11-16 16:15:39__
 
 > Ever since the last update, I can't use the app. It crashes every time I try to open it<br> :date: __2020-11-14 09:45:23__
+
+> App no longer works. Fix it or take it down<br> :date: __2020-11-13 03:43:18__
 
 

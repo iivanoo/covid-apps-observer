@@ -133,6 +133,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> IMPRESCINDIBLE<br> :date: __2021-03-28 13:27:33__
+
 > Eficaz<br> :date: __2021-01-09 09:53:04__
 
 > Molt bona app<br> :date: __2020-12-23 17:31:12__
@@ -151,8 +153,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Es muy necesaria y óptima debería de tenerla todo el mundo instalada y más ahora<br> :date: __2020-07-17 06:29:26__
 
-> Ningun problema de conecsion<br> :date: __2020-06-21 16:11:09__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
+
+> Necesario en estos tiempos<br> :date: __2021-03-27 04:08:48__
 
 > Es master doctoral<br> :date: __2021-03-08 11:31:07__
 
@@ -178,8 +180,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Es podría mirar d'introduir aquesta APP per la cerca de Google de risc d'exposició?<br> :date: __2020-08-06 09:26:39__
 
 > Necesaria para Prevenir Gracias<br> :date: __2020-07-21 17:40:01__
-
-> No me deja poner el n° de tef, me sale que hay un error. La anterior era perfecta pero esta no funciona. El problema se a solucionado, ahora esta OK.<br> :date: __2020-06-12 20:44:26__
 
 
 

@@ -200,6 +200,8 @@ The Virtual Care Anywhere app has been installed by more than **10000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="org.chifranciscan.android.chih.virtualcare 5 reviews"/>
 </p>
 
+> I've used this like six times now and it is absolutely the way to go. from UTIs to eye infections to joint sprains we've had it all with me and my family so they handle it perfectly<br> :date: __2021-03-25 02:22:15__
+
 > I'm here not able to see my doctors<br> :date: __2021-01-29 20:12:11__
 
 > Got an appointment right away. With pictures I sent of my issue, diagnosis was easy for the doctor, and prescriptions were sent to my preferred pharmacy.<br> :date: __2021-01-21 01:50:25__
@@ -217,8 +219,6 @@ The Virtual Care Anywhere app has been installed by more than **10000** times. A
 > Easiest doctors visit ever! Wish they'd always had this available.<br> :date: __2020-10-03 21:16:33__
 
 > Easy and fast!!!!<br> :date: __2020-09-04 04:01:28__
-
-> Dr. Was very understanding, helpful, and courteous. I was extremely pleased with my visit and will definitely use this again.<br> :date: __2020-09-02 05:28:03__
 
 
 

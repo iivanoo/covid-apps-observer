@@ -177,6 +177,14 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Easy and convenient<br> :date: __2021-03-26 18:00:01__
+
+> Talked with Dr Jennifer Marbella. Really liked her and this experience was quite easy even though I'm not too good with computers. Highly recommend!<br> :date: __2021-03-25 21:15:50__
+
+> Sooo much easier than driving to facility, wait, triage, wait, be seen, wait...you get the picture...<br> :date: __2021-03-23 02:30:29__
+
+> Amazing and convenient!<br> :date: __2021-03-21 19:43:01__
+
 > great doctor<br> :date: __2021-03-19 18:51:14__
 
 > Quick easy and painless and it didn't have to go anywhere it was great<br> :date: __2021-03-19 17:57:46__
@@ -189,14 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > This was the first time I had to use this. And it was super easy to use. I do recommend downloading this prior to your first use. I had no issues seeing the other person, no problems connecting. I highly recommend.<br> :date: __2021-03-16 15:34:53__
 
-> Awesome. Super quick, easy and convenient to use. Will definitely do again.<br> :date: __2021-03-14 21:47:17__
-
-> Great<br> :date: __2021-03-13 05:56:33__
-
-> Great<br> :date: __2021-03-12 19:27:29__
-
-> Fantastic<br> :date: __2021-03-12 01:20:11__
-
 
 
 #### 4-star reviews
@@ -204,6 +204,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Sound is a little staticy<br> :date: __2021-03-25 19:21:19__
 
 > Strange, yet amazing being able to do this virtual visit with my Dr. My wifi isn't the best, reguardless this is much easier, so much more convenient than having to go to the office.<br> :date: __2021-02-16 17:55:44__
 
@@ -222,8 +224,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > great<br> :date: __2020-10-27 01:58:53__
 
 > Very easy to use but sound was breaking up toward the end of the visit.<br> :date: __2020-10-16 01:17:57__
-
-> Difficult to load app.<br> :date: __2020-10-14 20:44:24__
 
 
 

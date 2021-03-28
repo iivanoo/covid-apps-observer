@@ -1,17 +1,5 @@
 [
     {
-        "reviewId": "gp:AOqpTOGR2sZdYXoKefrx1ozZr4mphvlo7D0yM1amMqnFD0b9Qj9VBD3Sp72uPwkrQ79pMnrjhW7vkipxnp5RVg",
-        "userName": "Mr. Spock",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjShb0IwJ0iLV9orpjaHPHF2gRgxL97JW5AqaLfmg",
-        "content": "Mal",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.2.2",
-        "at": "2021-03-20 21:53:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFDSpZa-dqbnmPNUIWZEneiFsk5gQs1JEHaF6ZwTcJpIJrDZUCzI_amj0qZfJw-yULcmdPzMsA0Zr6g8Q",
         "userName": "Jos\u00e9 Luis Rodr\u00edguez Pineda",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSMFviEIUPzZ5w6s-Ts3EBvUFGjf6Q5V05ukKWSnw",
@@ -89,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-3xfuT3xm_Wk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlVs3IdbSBdGTxgKjYU2Ud9hl7hg/photo.jpg",
         "content": "No se descarga certificado covid de vacunacion as\u00ed que no puedo obtener mi certificado. Pero adem\u00e1s de ser sanitario con mis dosis las cuales me pusieron muy enfermos ya que la segunda me provoc\u00f3 u a bronquitis aguda grave, 1 mes de bajay cual es mi sorpresa al hacerme u a serlogia no tengo anticuerpo ni rastro de virus. Que medicamento.me.inyectaro? Que consecuencias para mi salud xorre... nadie me explica nada",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2.2",
         "at": "2021-03-12 23:08:33",
         "replyContent": null,
@@ -197,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-SBXlOZzXQVw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRQe33k5CaorRY1Mymd_Ub4pIQEg/photo.jpg",
         "content": "Al intentar autenticar el usuario con el clave permanente y no permite acceder. El Userid y password est\u00e1 verificado que son correctos. Los apellidos con \u00d1 pueden ser el problema al intercambiar informaci\u00f3n con la pasarela de autentificaci\u00f3n.",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-03-06 11:44:07",
         "replyContent": null,

@@ -196,6 +196,8 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.nalc.android.hbp.telehealth 5 reviews"/>
 </p>
 
+> Quick and easy<br> :date: __2021-03-25 14:20:36__
+
 > Excellent, easy to use<br> :date: __2021-02-27 16:09:14__
 
 > Great app, easy to use. It makes seeing a doctor very convenient<br> :date: __2021-02-25 18:59:13__
@@ -213,8 +215,6 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 > Quick and simple. Must more efficient than Urgent Care.<br> :date: __2020-11-26 22:25:50__
 
 > Great audio/ video and experience<br> :date: __2020-11-24 22:07:17__
-
-> Have had great Dr visits! So convenient!<br> :date: __2020-11-13 19:27:42__
 
 
 
@@ -255,6 +255,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.nalc.android.hbp.telehealth 1 reviews"/>
 </p>
+
+> Doctor does not listen to details, hears what they want, during pandemic. Insisted on unnecessary risks of blood work.<br> :date: __2021-03-25 21:47:55__
 
 > The app works fine, but the Dr visit is bogus. They would not treat a simple uti for me. She said I need to see a local Dr. I have used Dr on demand without issue.<br> :date: __2020-02-27 17:03:44__
 

@@ -176,6 +176,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
+> Warum muss plötzlich der Standort aktiviert werden? Ich bekomme mehrmals täglich den Hinweis dass es sonst nicht funktioniert...<br> :date: __2021-03-26 06:24:26__
+
+> An sich gute App, leider benutzt das fast niemand<br> :date: __2021-03-24 11:52:48__
+
 > Alles im grünen Bereich<br> :date: __2021-03-20 10:41:39__
 
 > 500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht. Update: Nach Rückfrage beim RK wurde mir empfohlen, die mobilen Daten für die App auszuschalten, da es ausreicht, wenn die App sich ein paar Mal am Tag übers WLAN verbindet. Begründet wurde der Datenverbrauch mit der Interoperabilität zwischen einigen EU-Contact-Tracing Apps.<br> :date: __2021-03-16 11:41:04__
@@ -191,10 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Früher wurde angezeigt, um welche Zeit eine eventuelle Begegnung mit einer infizierten Person stattgefunden hat. Das fehlt jetzt!<br> :date: __2021-02-04 14:12:41__
 
 > Habe die App sofort installiert, finde die Idee gut, habe aber bis heute noch keine Verständigung erhalten leider gibt es auch zu wenig Nutzer<br> :date: __2021-01-14 10:27:08__
-
-> Funktioniert anscheinend<br> :date: __2020-12-11 08:41:29__
-
-> Wenn das alle hätten wäre das Contact-Tracing ein Selbstläufer. Aber das UI ist halt sehr lahm. Wenn man die Statistik über die Handshakes wenigstens gleich auf der ersten Seite hätte, dass man irgend eine Aktivität sieht.<br> :date: __2020-11-27 10:55:40__
 
 
 
@@ -232,6 +232,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Leider bisher noch keine Meldung erhalten<br> :date: __2021-03-22 17:21:50__
+
 > 1.) Der Verbrauch an mobilen Daten ist SEHR HOCH!!! 2.) Man hat keine Rückmeldung, ob die App wirklich funktioniert. 3.) Ist der Schalter "Automatische Handshake" ein/aus ident mit dem Schalter "COVID 19-Benachrichtigung aktivieren"? Wenn ja, warum verwendet man zwei verschiedene Bezeichnungen? Ich kann keinen Unterschied feststellen! 4.) Wenn ich "COVID 19-Benachrichtigung aktivieren" ausschalte, dann wird noch "Automatische Handshake" als aktiv angezeigt, obwohl es auch ausgeschaltet ist. Nach Neustart sind beide auf aus. Das ist ein FEHLER bei der Anzeige! 5.) Die Liste der möglichen Begegnungen war nicht sortiert und ist in der neuen Version (Feb 2021) nicht mehr vorhanden! 6.) Es gibt jedoch noch den Punkt "App-Einstellungen öffnen", hier werden jedoch nur Informationen angezeigt. 7.) In der App steht immer noch "1 Meter Abstand". Es sollte "2 Meter Abstand" lauten! 8.) Angeblich hat die App 20.000.000 Euro gekostet; da würde man sich etwas mehr erwarten:<br> :date: __2021-03-16 09:01:03__
 
 > warum kommt nach dem aufrufen der app zuerst die frage nach dem "handschake" , anstelle die frage "symptome" prüfen? das verwirrt viele. und warum kommt nach der frage 1, keine frage 2 (falls ich mich gesund fühle, wähle?) das verwirrt zum 2. mal. haben die entwickler irgendwann die user gefragt wie es ihnen mit der app geht.<br> :date: __2021-03-03 09:18:03__
@@ -249,8 +251,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Ich habe innerhalb einer Stunde 115000 Schlüssel hinzugefügt bekommen, war jedoch zuhause und habe niemanden getroffen, in den Nachtstunden plötzlich wieder 10000 zusätzliche Schlüssel. Plus Anzahl Treffer 1. Habe somit von durchschnittlichen 300 Schlüsseln seit Frühjahr nun 128000.<br> :date: __2021-02-04 09:51:13__
 
 > Mehr Informationen am Dashboard wären hilfreich. Anzahl Begegnung, etc. ...<br> :date: __2021-01-30 11:54:49__
-
-> Warum kann ich die Stopp Corona App nicht mehr aufmachen, so wie vorher immer?<br> :date: __2021-01-14 16:03:58__
 
 
 

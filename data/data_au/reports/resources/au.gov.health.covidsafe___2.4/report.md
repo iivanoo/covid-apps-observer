@@ -134,25 +134,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Keeping WA safe.<br> :date: __2021-03-21 14:00:48__
+> All good<br> :date: __2021-03-28 15:35:25__
 
-> Good<br> :date: __2021-03-21 06:00:59__
+> Feel safer<br> :date: __2021-03-28 12:04:43__
 
-> Great for families and Australians<br> :date: __2021-03-20 20:50:22__
+> Wash hands after every thing you do and after 500 times a day, no colds or flue or co vid19<br> :date: __2021-03-28 12:03:08__
 
-> Big brother or not, this really helps the speed of the contact tracing if/when required.<br> :date: __2021-03-20 07:59:02__
+> Works great but why so many upgrades lately<br> :date: __2021-03-28 11:50:20__
 
-> Great<br> :date: __2021-03-20 06:35:24__
+> Really good<br> :date: __2021-03-28 09:06:08__
 
-> Easy to use<br> :date: __2021-03-19 23:35:20__
+> Good<br> :date: __2021-03-28 07:06:48__
 
-> Great to use<br> :date: __2021-03-19 07:31:38__
+> Easy to use<br> :date: __2021-03-28 06:52:59__
 
-> May I say this as a typical Australian, "BLOODY BRILLIANT." Thank You.<br> :date: __2021-03-18 23:59:56__
+> Much better than the first version. Better battery life<br> :date: __2021-03-28 06:14:52__
 
-> Very easy<br> :date: __2021-03-18 12:19:48__
+> Unobtrusive.<br> :date: __2021-03-28 06:11:45__
 
-> Great<br> :date: __2021-03-18 12:03:42__
+> I have not gotten sick yet<br> :date: __2021-03-27 14:08:26__
 
 
 
@@ -162,25 +162,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
-> Works wel<br> :date: __2021-03-21 08:29:17__
+> It's just there in the background.<br> :date: __2021-03-28 08:11:18__
 
-> No problems accessing information<br> :date: __2021-03-18 23:07:11__
+> None<br> :date: __2021-03-27 06:23:44__
 
-> Drops out often, otherwise very good.<br> :date: __2021-03-18 05:16:15__
+> Works well. Useful info<br> :date: __2021-03-26 13:39:49__
 
-> 7io<br> :date: __2021-03-18 03:06:41__
+> Good. But, the coronavirus app used in Ireland does the same job as this, but at far less cost to the taxpayers!<br> :date: __2021-03-26 06:55:04__
 
-> Love to know where thecases are relative to me.<br> :date: __2021-03-17 11:06:36__
+> When I turn off the internet on my phone it say I need to reconnect it and something about my battery. Once I reconnect it works great<br> :date: __2021-03-26 06:37:54__
 
-> Ok at the moment, thanks<br> :date: __2021-03-17 09:53:20__
+> Much better after last update<br> :date: __2021-03-26 04:28:24__
 
-> After few hiccups, the app download was done and I haven't had problems since!<br> :date: __2021-03-16 22:43:45__
+> You have to lift away from icon you are trying to capture. It then does it automatically, once right focus point has been reached.<br> :date: __2021-03-24 22:52:44__
 
-> Previous 4 star rating reinstated. The extreme power use issue seems to have been resolved. App has functioned normally for a few weeks now.<br> :date: __2021-03-16 06:07:45__
+> Never needed to rely on it.<br> :date: __2021-03-24 11:03:21__
 
-> Feeling safe where ever I go<br> :date: __2021-03-14 04:57:32__
+> Good<br> :date: __2021-03-24 08:10:00__
 
-> It's okay<br> :date: __2021-03-14 04:25:32__
+> Easy to navigate.<br> :date: __2021-03-24 07:18:08__
 
 
 
@@ -190,25 +190,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Battery issues with new updates. I haven't had this problem before, but the latest versions are using lots of battery.<br> :date: __2021-03-21 11:32:49__
+> Won't update. I keep getting notifications that there is an update. When I try it continually says Pending and won't download.<br> :date: __2021-03-26 04:48:39__
 
-> Easy to use<br> :date: __2021-03-20 08:56:48__
+> It is ok but could have a pause setting for night time and low social times (to save battery)<br> :date: __2021-03-25 12:19:54__
 
-> Crazy battery draining on my s10+<br> :date: __2021-03-15 21:35:53__
+> Huge battery usage. Cant keep sacrificing my battery for this app every day.<br> :date: __2021-03-25 10:22:51__
 
-> Slows everything down and sucks the battery dry.<br> :date: __2021-03-15 03:31:04__
+> It probably does what it says, although I wouldn't trust it further than I could throw it.<br> :date: __2021-03-24 14:14:33__
 
-> Anything to help reduce COVID19 impact is worth trying<br> :date: __2021-03-14 06:24:10__
+> Why didn't we all download this and use it to scan into places instead of logging in a million times!<br> :date: __2021-03-24 09:59:22__
 
-> Sometimes can't find what I need to know.<br> :date: __2021-03-14 05:44:33__
+> The real test for an app happens when you move from "push" to "shove". I recently needed to provide some feedback. I opened "Feedback", wrote my facts, and pressed "send". Nothing happened other than being told to "try later". I did this several times and eventually gave up. The next day I was informed it had been received. For an app that's supposed to be part of the cutting edge in the defeat of Covid-19, this was not a great outcome.<br> :date: __2021-03-24 08:17:32__
 
-> Does nothing I can see<br> :date: __2021-03-12 06:29:41__
+> gets the job done, but requires a lot of typing<br> :date: __2021-03-24 06:50:48__
 
-> Battery drain<br> :date: __2021-03-12 04:47:08__
+> I have had zero experience other than reminders to download updates. I have noticed many suggestions in the media that this app plays very little role in contact tracing activity.<br> :date: __2021-03-24 06:11:46__
 
-> Had to uninstall because the battery drain was significant.<br> :date: __2021-03-11 10:02:37__
+> Does it do anything ?<br> :date: __2021-03-24 05:28:11__
 
-> Keeps dropping out<br> :date: __2021-03-11 06:56:54__
+> Often I can't log out before I long in again<br> :date: __2021-03-24 04:54:49__
 
 
 
@@ -218,25 +218,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> 219-152 play Lord of the Rings I don't know what remember<br> :date: __2021-03-20 11:45:22__
+> I'm not sure what changed in the last updates but it's definitely started draining my battery (14% contribution which was the highest over 3 hours).<br> :date: __2021-03-28 15:45:35__
 
-> On my Note 10, I don't have any of the problems others mention about bluetooth drop outs to car or Senheisser headphones or Samsung Watch, the only problem I have is the app doesn't start up when I restart the phone, I rarely restart so not a big problem. Edit:The version of the app in March 2021 has been the highest battery drainer in my apps list, battery that used to last 14 hours is lucky to make 10 hours now. Hoping the version that was just pushed 19th March fixes the drain issue.<br> :date: __2021-03-19 05:21:52__
+> This app should tell us more re travelling. For Domestic it just says masks are mandatory on plans. It should be telling us if they put Qldrs in lockdown, is it just the 2 shires or all of us. I have hotels & cattery booked ready to travel in 2 days. Have to make a decision now and put it on this app. Stop mucking people about, use the app fully.<br> :date: __2021-03-28 11:19:45__
 
-> tt<br> :date: __2021-03-18 23:02:41__
+> Minimal assistance to be honest<br> :date: __2021-03-28 09:20:51__
 
-> Used the app for quite some time with no issues but recently started draining 40+% of my battery every day. Had to uninstall.<br> :date: __2021-03-18 11:58:03__
+> Don't know if it works properly. I haven't heard anyone being contacted by this app.<br> :date: __2021-03-26 08:56:43__
 
-> I had to uninstall V2.0 in an attempt to install the updated version. My android smart phone registered the newer update as "pending" for weeks, sending my battery flat on a daily basis.<br> :date: __2021-03-18 03:43:11__
+> DLong-press a rclip to pin or delete it.75XV to n+W5r to fResearch, Victoria BC X<br> :date: __2021-03-26 06:00:13__
 
-> Won't update. Still get information from 9th of December. Shows updated on 18th December to version 2.0 but still shows old data. Seems to be working fine now. It's fixed itself.<br> :date: __2021-03-17 06:20:58__
+> Uses 15-25% of my battery every day (version 2.4).<br> :date: __2021-03-26 01:11:09__
 
-> Keeps killing blue tooth phone service<br> :date: __2021-03-14 08:27:19__
+> When in Sydney recently I found the QR code from NSW Govt. easy & it did everything! PT safer & not overcrowded like our V line to Geelong train often is. NSW trains have "red X's" on some of their seats & people do not sit in them. Thank you.<br> :date: __2021-03-25 04:14:39__
 
-> Seems to be draining far too much battery. Just updated to 2.2 so will see if that is better.<br> :date: __2021-03-13 11:32:47__
+> Half don't work<br> :date: __2021-03-24 11:04:20__
 
-> My app. stops working. Then when I try to get it started again I have to get a new passwordwhich I can't do as it is done on another phone which I can't get to..<br> :date: __2021-03-13 07:26:00__
+> It dosnt do anything<br> :date: __2021-03-24 04:52:32__
 
-> It says the app isn't working because battery optimization is on & it isn't & I updated it & put blue tooth on & it still says the app isn't working! Why? It let's me know when I have blue or off so it must be working to a certain degree.<br> :date: __2021-03-13 00:24:10__
+> Battery drain<br> :date: __2021-03-23 09:27:01__
 
 
 
@@ -246,24 +246,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> What is the point of this app if I still need a State Govt check-in app? Has this app helped with contact tracing at all?<br> :date: __2021-03-21 08:20:22__
+> Causes the Bluetooth on my phone to crash every 10-15 seconds when running. Android 10 on Note 3 (Bluetooth 4.0) - Bluetooth working fine for other applications. Newly flashed rom on a brand new phone (old stock new in box).<br> :date: __2021-03-28 14:46:05__
 
-> Uses more battery over a 24hr period than any other. My phone runs hot and slow and I believe COVIDsafe is why.<br> :date: __2021-03-21 05:53:07__
+> It seems to be a waste of money and time.<br> :date: __2021-03-28 14:12:13__
 
-> Updated to version 2.4 which claimed to fix bugs, but now the "select state or territory" on 'home' page doesn't close when I select a state. 🙁 Looks like they don't test updates. Previous versions had battery usage issues and problems with statistics displayed. Hopefully the Bluetooth bit is working, hard for us to tell. Might be useful, but can't be sure. I've installed this app and so far haven't got Covid 19 (that I know of). Registration was easy, and can be done using a pseudonym.<br> :date: __2021-03-21 03:41:54__
+> I have uninstalled as the app is draining battery doing nothing!<br> :date: __2021-03-28 10:47:53__
 
-> What a massive white elephant<br> :date: __2021-03-20 05:45:06__
+> hope u guys got rich developing this waste of storage.<br> :date: __2021-03-28 08:32:31__
 
-> Galaxy S10+ on Android 10. Sucking battery. Tried latest 16 March update 2.4, and still using over 10% of battery. Rolled back to 1.14.0 as that one is fine.<br> :date: __2021-03-19 15:02:31__
+> Updates are asking for too many personal permissions. Being able to access my network and GPS locations is getting a bit much. Recording if I was near an infected person is enough.<br> :date: __2021-03-28 08:08:20__
 
-> Asks for mobile number an dc then grinds to a halt witj message 'please try later'. Just frustrating.<br> :date: __2021-03-19 13:36:44__
+> Typical Liberal cock-up. Waste of taxpayers money.<br> :date: __2021-03-28 06:32:26__
 
-> Never been contacted. First update since installing. Get info from news.<br> :date: __2021-03-19 08:36:17__
+> Poor<br> :date: __2021-03-28 06:25:35__
 
-> Have to input personal ID on every occasion I scan.<br> :date: __2021-03-19 01:40:52__
+> It doesn't do anything...<br> :date: __2021-03-27 22:41:48__
 
-> I don't trust it.<br> :date: __2021-03-18 09:32:30__
+> Seems to me unless you are a brainless politician, you wait, wait some more to be fed cow poop and grow like mushrooms. My GP was knocked back as one to immunise because his paper work was a Day Late. How about some real truth for the Elderly.<br> :date: __2021-03-27 14:20:34__
 
-> I can catch the virus by being close to a carrier for ten seconds. This app won't register the event. I doubt that the app would have been any use or saved any lives. The government would have been more useful if it had told people how to fit masks tightly around the nose so aerosol with the virus would not be inhaled through gaps beside the nose of Ill fitting masks. If the health departments had heeded the advice I sent them, there would have been many fewer cases. Sincerely Dr John Wells,<br> :date: __2021-03-18 08:40:53__
+> The app doesn't remember my details, despite uninstalling and reinstalling<br> :date: __2021-03-27 05:22:08__
 
 

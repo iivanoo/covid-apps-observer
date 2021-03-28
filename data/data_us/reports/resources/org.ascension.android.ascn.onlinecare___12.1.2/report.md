@@ -175,6 +175,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="5_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 5 reviews"/>
 </p>
 
+> Always reliable no problems when it came time to talk to doctor.<br> :date: __2021-03-22 23:47:37__
+
 > Just testing it out<br> :date: __2021-02-28 18:10:38__
 
 > I had a virtual appointment with my Dr and it was very convenient.<br> :date: __2021-01-27 02:13:32__
@@ -192,8 +194,6 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Great app fast reliable and convenient<br> :date: __2020-12-22 06:04:57__
 
 > Quality application provides what I need for virtual appointments<br> :date: __2020-12-18 18:09:44__
-
-> I have no problem with online care<br> :date: __2020-12-17 16:33:12__
 
 
 

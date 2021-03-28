@@ -148,6 +148,10 @@ The UT Exposure Notifications app has been installed by more than **50000** time
 <img src="4_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 4 reviews"/>
 </p>
 
+> Everything I need to know about the weather before going out with my dogs for a walk<br> :date: __2021-03-26 15:04:38__
+
+> Pretty neat, too bad we didn't get it 8-9 months ago.<br> :date: __2021-03-24 11:23:13__
+
 > Easy install and ability to share the app with others. Would rate it higher but so far no vital information has been shared as the only way it works is if a majority of people install/use it. PSA to other users....Share the word post it on social media.<br> :date: __2021-02-20 20:10:22__
 
 > I appreciate that this app allows people to be notified anonymously that they've been exposed so maybe people will feel more comfortable communicating testing status vs trying to reach out to everyone they may have been in contact with. Hoping enough people download it to make a difference.<br> :date: __2021-02-19 16:42:16__
@@ -181,6 +185,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> No way to post vaccination status, sure you post covid +, but if can't post vaccine status how good is it?<br> :date: __2021-03-23 19:22:18__
 
 > Does not work, I work in a hospital and have a patient who is Covid positive. I am touching the patient although I am following Covid protocols. This program is telling me that I have no exposure.<br> :date: __2021-03-20 01:52:43__
 

@@ -188,6 +188,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Rate 5<br> :date: __2021-03-28 04:09:19__
+
+> this was awesome thank you<br> :date: __2021-03-26 15:53:43__
+
 > To me it was filled with useful information, and if necessary I will definitely download the application again for the next update<br> :date: __2021-03-19 12:27:33__
 
 > CDC mobile app needs to make the app interesting. But I like it a little.<br> :date: __2021-03-13 13:14:10__
@@ -203,10 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Well is the best app thus far<br> :date: __2021-02-24 11:56:11__
 
 > Ok<br> :date: __2021-02-24 06:10:59__
-
-> Info....👍👍👍👍.<br> :date: __2021-02-21 13:38:37__
-
-> I love this app. Tessa harrod<br> :date: __2021-02-20 01:18:17__
 
 
 
@@ -272,6 +272,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Great if you want info fed to you that you're not looking for. Otherwise hard to find the info you want.<br> :date: __2021-03-25 18:50:37__
+
+> People with multiple underlying conditions were originally in tier 1B, then we got pushed down to 1C. That time came on March 15, after politics put healthy teachers before those of us THAT WILL DIE if we contract the virus. A good triage nurse is worth their weight in gold. Got one on staff? No? March 15th just turns out to be the day we can exacerbate our mental conditions by being eligible to beg for an appt. I have Stanford Healthcare and wasnt even acknowledged as being eligible. No room<br> :date: __2021-03-22 07:22:12__
+
 > No search on opening screen<br> :date: __2021-02-24 19:24:58__
 
 > Cannot find the post test for a module that took me an hour to complete, and only offers 0.5 CEs 🤬<br> :date: __2021-01-10 22:38:32__
@@ -287,10 +291,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Informative, not an exposure tracker. This app also has no notifications.<br> :date: __2020-06-13 04:07:56__
 
 > Didn't use this app much so I can't tell you much about it..you gonna have to try it and decide for yourself.... good luck...<br> :date: __2020-06-07 15:28:34__
-
-> I hear the very Patriot Japanese have a Voluntary CoVid19 website where they have the option to report if they feel sick or well and their accurate tracking, voluntarily. Scientists says this raw data would be useful. So which Politicians are again standing in the way of Public Health and Progress??<br> :date: __2020-05-25 06:30:00__
-
-> I give only two stars only because I've only learned of the "CDC" Due to the Covid-19. Im very secluded other then facebook so i regret i can not rate CDC with a higher rating.<br> :date: __2020-05-07 08:06:04__
 
 
 

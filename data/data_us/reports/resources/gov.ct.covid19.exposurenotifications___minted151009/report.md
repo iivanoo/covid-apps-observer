@@ -132,6 +132,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Great idea in need of more widespread usage. I have no issue having my anonymous data help people I am in proximity with. I have not gotten any alerts, but I tend to not be out and about a lot during the pandemic so I'm probably less susceptible than many.<br> :date: __2021-03-22 23:57:00__
+
 > THAT HOW I CUT TO NOW ABOUT THIS VIRUS<br> :date: __2021-03-07 20:00:17__
 
 > Simple enough to use. The best way to get the most out of this app is to encourage your friends & family to also get the app! It's a community effort.<br> :date: __2021-02-14 02:27:29__
@@ -149,8 +151,6 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > Idk what to do with the app<br> :date: __2020-12-23 06:42:32__
 
 > Good.<br> :date: __2020-12-17 16:25:14__
-
-> The exposure notification activation issue I reported in November seems to be resolved. Thanks!<br> :date: __2020-12-14 09:08:08__
 
 
 
@@ -236,6 +236,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Never alerts, like ever. I know a few people around me got it and it wasn't reported.<br> :date: __2021-03-26 16:10:09__
+
 > The state has abandoned this cancer patient, so you can pound sand. I will not be sharing anymore data with this state.<br> :date: __2021-03-04 15:45:44__
 
 > Pointless app. I've had one exposure alert.<br> :date: __2021-02-20 18:18:54__
@@ -253,7 +255,5 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > What code do I have to enter? I was never given one. EDIT2: It's been more than 2 weeks since I got my test so it's pointless now. As far as "feeling" I didn't get a coffee, I was legit never given one.<br> :date: __2021-01-27 02:39:40__
 
 > No, don't want it<br> :date: __2021-01-26 19:47:56__
-
-> Poor, at best. I know I have been in close proximity to many individuals who have tested positive. Never once have i been notified. There is 1 person I know for certain and I spend an extensive amount of time with. I should have received a notice. I got bubkiss.<br> :date: __2021-01-14 18:58:55__
 
 

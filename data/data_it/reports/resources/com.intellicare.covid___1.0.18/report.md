@@ -141,6 +141,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Eccellente. Siamo stati seguiti con massima attenzione durante tutto il periodo di "clausura" domestica.<br> :date: __2021-03-21 13:47:27__
+
 > Servizio eccellente reso da personale paramedico e medico di indubbia professionalità e umanità. Grazie ancora<br> :date: __2021-01-27 17:13:36__
 
 > Applicazione per fatta. Utilissima ed indispensabile.<br> :date: __2021-01-18 15:11:07__
@@ -159,8 +161,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > Ottima esperienza<br> :date: __2020-08-27 21:59:14__
 
-> Molto buona<br> :date: __2020-08-27 12:33:35__
-
 
 
 #### 4-star reviews
@@ -168,6 +168,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.intellicare.covid 4 reviews"/>
 </p>
+
+> Adesso funziona. Ho avuto molte difficoltà con l'installazione perché dopo avere fatto clic sull'SMS di conferma la app si bloccava. Ho riprovato più volte inutilmente. Ora invece sono tornato ad aprirla dopo qualche giorno e funziona regolarmente.<br> :date: __2021-03-22 19:21:36__
 
 > Serve per informazione<br> :date: __2021-03-10 19:57:14__
 
@@ -186,8 +188,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Si potrebbe integrare la movimentazione per eventuale sorveglianza per la fase due<br> :date: __2020-04-14 11:24:04__
 
 > Ottima<br> :date: __2020-04-13 13:24:49__
-
-> Buona applicazione utile e ben strutturata Ma nel mio caso è da qualche giorno ( 2 ) che non riesco a trasmettere i dati e si chiude. Provato a disinstallare e istallare sempre uguale.<br> :date: __2020-04-11 11:00:48__
 
 
 
@@ -253,6 +253,12 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Sono malato di COVID e la app non funziona è partita solo la prima vera e poi non accetta più il login. Non vi sentite responsabili di questo ennesimo fallimento?<br> :date: __2021-03-27 18:40:11__
+
+> Non capisco a cosa possa servire un'app di pubblica utilità come questa quando poi non ha nessuna interazione con chi la installa (per ovvi motivi), tanto vale continuare a mandare messaggi al mio medico di base<br> :date: __2021-03-27 16:26:41__
+
+> NON FUNZIONA!!!!!!<br> :date: __2021-03-26 16:38:37__
+
 > non funziona, dovrebbe arrivare una email con un link per l'attivazione che non è mai arrivato.<br> :date: __2021-03-19 09:34:20__
 
 > Pessima, ne io ne la mia Compagna riusciamo ad aprirla.<br> :date: __2021-03-17 00:25:09__
@@ -266,11 +272,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Dovrebbe essere una risorsa per chi è malato di covid e invece è soltanto una perdita di tempo. Non funziona e non si apre nemmeno dopo l'attivazione. Speculare sulla salute delle persone è un fatto ignobile. Vergogna.<br> :date: __2021-03-15 12:42:20__
 
 > Non funziona: inseriti email, codice fiscale e telefono corretti. Dopo aver cliccato sul link all'SMS ricevuto e ritornato sull'app ricevo l'avviso di account non attivo con invito a cliccare sul link all'SMS. Cosa peraltro già fatta. Comunque ritentata registrazione con risposta di tornare sull'app e di accedere con i dati già inseriti in un loop infinito. Tentata cancellazione di cache e dati senza che nulla sia cambiato. Huawei P30 Pro, android 10 aggiornato ad ultima versione<br> :date: __2021-03-14 17:50:29__
-
-> La app non accetta un nr di telefono non italiano. Un problema per i non residenti.<br> :date: __2021-03-06 20:58:09__
-
-> Non riesco a scaricarla eppure spazio nella memoria ne ho abbastanza. forse sbaglio qualcosa, chi mi può aiutare?<br> :date: __2021-02-23 12:38:25__
-
-> Avevo installato l app 12 mesi fa, non funzionava. Cosi l ho disinstallata. Ci riprovo oggi e mi da lo stesso problema ... inserisco dati, arriva messaggio, click su link entro, esco....non entro più, e nella pagina iniziale mi dice account non attivo!!!!!!!!! Incredibile!!!!! Dopo un anno lo stesso problema, che, a quanto pare è comune a molti utenti.<br> :date: __2021-02-11 11:21:04__
 
 

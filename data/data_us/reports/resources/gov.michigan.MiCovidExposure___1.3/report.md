@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-03-23 22:25:39__
+
 > I love it<br> :date: __2021-03-19 03:12:34__
 
 > I have had no issues and no interruption of updates. This is simple data recording, even if on your phone it doesn't say it has updated the data has been transmitted. End result you would still get notified.<br> :date: __2021-03-09 11:43:09__
@@ -144,8 +146,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Covid 19b is almost gone.<br> :date: __2021-01-31 02:51:04__
 
-> Really do appreciate this app. I'm high risk and so is my husband, staying on top of where this virus is and if we may have been in contact with it puts my mind at ease.<br> :date: __2021-01-26 20:14:09__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> I am not sure how useful this app is. It does what is says it does - monitors for possible exposure to covid-19 virus. Please note that the new version corrected the problems with the prior version.<br> :date: __2021-03-24 15:44:26__
 
 > Ok<br> :date: __2021-02-03 15:23:08__
 
@@ -171,8 +173,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I'm glad to have this, but the map doesn't work correctly. When I tap on a county, it just shows a blank page.<br> :date: __2020-11-21 16:50:48__
 
 > Just checking it out<br> :date: __2020-11-20 08:58:10__
-
-> Way to late and unlikely to work universally (eg. with folks from out of state) but it's better than the nothing burger we've had so far. Would be nice if it gave you an idea of how many contacts it recorded (Inna privacy preserving way) to let us know the adoption rate around us.<br> :date: __2020-11-17 03:59:58__
 
 
 
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Has not checked for exposure since Feb 20, 2021.<br> :date: __2021-03-28 01:31:18__
+
+> Has stopped checking. It's been six weeks since the last check. App is really useless.<br> :date: __2021-03-26 12:35:37__
+
+> This app would be a great tool for reporting a result if it didn't require an hour on the phone with people who have no idea the app exists!<br> :date: __2021-03-24 19:01:25__
+
+> It worked well initially but its last check was in February and nothing I do (sort of uninstalling/reinstalling) will get it to check again. I turned off all the battery saver options on my phone, nothing limits it at all, and yet suddenly it just doesn't work. An app like this is exactly what we need right now but it's only good if people install and use it, and we can't use it so there's no point installing it.<br> :date: __2021-03-23 22:31:32__
+
+> Nothing but battery problems since installing.<br> :date: __2021-03-22 13:10:57__
+
+> Says -0- activity. Michigan in 7-10 days went uptic 53% in cases. We have the variant. Useless. Questions below presume I have pre-knowledge of 3 subjects. This is useless. ABSOLUTELY USELESS.<br> :date: __2021-03-21 18:53:40__
+
+> Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right. Reloaded as you said to. Still no readings since the 23rd. Installed and Uninstaller 6 times. Still not working right. Last exposure check was on the 13th. The app is an excellent idea just wish it would work.<br> :date: __2021-03-21 15:51:41__
+
 > I am giving up on this app. It stops checking. I reload it. It works for a few days and stops. It is partcularly likely to stop checking when I leave home to shop or go to the doctors, exactly when I need it. I do not have a Samsung phone. Battery saving is turned off for this app. I open it daily to keep it active. All other apps work. The fact is that this app simply does not work.<br> :date: __2021-03-20 01:16:52__
 
 > Constantly stops checking . Need to Uninstall and reinstall every few days. edit: that sites instructions are terrible. I tried multiple times to figure it out. And needed to do anything extra to get your app to work still means it's terrible and deserves 1 star. EDIT AGAIN: yeah those instructions aren't exact, but I did it and the app would still stop checking after a couple days. Even if I opened the app every single day. No one should have to change settings for this to work.<br> :date: __2021-03-19 16:20:36__
 
 > Everyone has sams complaint. Time to uninstall.<br> :date: __2021-03-18 19:08:35__
-
-> You dumb or what? Covid is a damn hoax!<br> :date: __2021-03-17 20:42:36__
-
-> I have installed, uninstalled and reinstalled so many times it is ridiculous. I just realized today that it has checked exposures since March 10th. That is 7 days ago. Why bother having this on my phone if it doesn't work? I am not installing this app again. Good concept but it is useless.<br> :date: __2021-03-17 14:03:47__
-
-> Last time updated Jan 26. Pointless<br> :date: __2021-03-15 21:21:32__
-
-> Stopped working at the end of January<br> :date: __2021-03-14 20:59:11__
-
-> Has not checked for exposures since February 11.<br> :date: __2021-03-12 22:38:12__
-
-> I have had this app installed for 3 months and I am out and about all the time. According to this app I have never even been close to anyone with the "disease". You must be kidding me. With the whole country shut down because of this I must have been near someone by now. What a joke. Either make it work or trash it. You are supposed to be protecting peoples lives but you are just giving false hope. If that is your answer then the whole idea doesn't work and this is a total failure.<br> :date: __2021-03-12 17:25:47__
-
-> It is the best game ever but covid19 the worst theres a lot of videos tho But it still the best<br> :date: __2021-03-10 02:08:28__
 
 

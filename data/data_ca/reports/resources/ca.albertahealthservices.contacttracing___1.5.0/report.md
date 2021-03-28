@@ -145,6 +145,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> I didn't catch covid.<br> :date: __2021-03-25 06:41:38__
+
 > 3rd Rev: If more Albertans use this it would be more effective! Still no battery problem, 5 days 20 hrs used 8.9%. Dec 29/20 2nd Rev: No problem with battery, 5 days 19 hrs used 9.2%. Minimal to assist Contact Tracing! Sept 4/20: My phone is 3 1/2. In a 12 hr period the battery usage was only 0.7%. My only complaint is that it shows an icon in my status bar regardless if Bluetooth is on or off. I would prefer that the icon only shows when Bluetooth is off.<br> :date: __2021-03-17 16:52:32__
 
 > I believe in anything created by our saviour Jason "the king" Kenny. May this app save Alberta from economic ruin.<br> :date: __2021-01-01 07:29:58__
@@ -162,8 +164,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Our Governments are failing us.<br> :date: __2020-11-17 15:25:10__
 
 > Stay safe and stay home Wear mask<br> :date: __2020-11-16 04:15:40__
-
-> EDIT: *NO LONGER A BATTERY DRAINER* It seems something was updated. Version 1.4 Get back to work, 'Berta. (Previous Review: Battery drainer. The only way to reasonably use the app is to turn it on around others. Otherwise, not a "set it, forget it" solution. The overall function of the app is clearly explained, and is fine to use when needed. No crashes, flawless app persistence.)<br> :date: __2020-11-13 00:17:06__
 
 
 
@@ -257,6 +257,12 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Useless, just like our government!<br> :date: __2021-03-25 21:29:22__
+
+> 1 star because Kenney refuses to use the federal app which is leaps and bounds better. He just can't admit it's a failure. Don't bother installing.<br> :date: __2021-03-25 16:39:43__
+
+> Remove this app and support the federal COVID tracking app.<br> :date: __2021-03-24 17:41:27__
+
 > Inlike the canada app. This one knows who you are so they can send "support" sounds like they want to police us.<br> :date: __2021-03-03 15:55:33__
 
 > Drained 40% of my battery in 8 hours in the background<br> :date: __2021-03-01 23:59:26__
@@ -270,11 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > This app only works with crowd sourcing. I can't find anyone else using the app. My work has thousands of people, many of whom are from out of province, some using the Canada Covid app. But not a single person has said they have ABtracetogether... Waste of tax payer dollars.<br> :date: __2021-02-16 16:57:09__
 
 > Rubbish who make this unless app<br> :date: __2021-02-16 13:30:57__
-
-> This app is heavy and hard on the battery and according to a researcher doesn't even work with iPhones even though they said they fixed it.<br> :date: __2021-02-12 05:41:20__
-
-> Its draining my phoes battery.<br> :date: __2021-02-03 10:04:53__
-
-> Wasted time monitoring<br> :date: __2021-02-02 02:10:31__
 
 

@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Easy to use. Excellent overall experience with provider.<br> :date: __2021-03-27 17:45:31__
+
+> Great<br> :date: __2021-03-27 17:21:50__
+
+> So cool!<br> :date: __2021-03-25 13:58:01__
+
+> The doctor was wonderful.<br> :date: __2021-03-24 14:52:39__
+
+> The app is awesome no issues<br> :date: __2021-03-24 13:00:09__
+
+> Excellent service<br> :date: __2021-03-23 23:27:01__
+
+> Im so thankful to be able to see a doctor online when im in pain and not able to move.<br> :date: __2021-03-22 18:03:25__
+
+> Quick, Easy & Painless. I called due to a tick bite. (On the East Coast we have Lyme's Disease from tick bites.) The app allowed me to quickly access a doctor to prescribe a preventative antibiotic within 24 hours. Amazing new technology. Highly recommend!<br> :date: __2021-03-21 14:39:33__
+
 > Nice, very knowledgeable doctors. Good listeners which means they figure out the right medication to actually treat the issue<br> :date: __2021-03-20 19:31:43__
 
 > Clear audio and video<br> :date: __2021-03-20 17:37:06__
-
-> Great<br> :date: __2021-03-20 00:58:02__
-
-> Helpful and comfortable in your own home. Open some doors virtually for some help<br> :date: __2021-03-19 20:59:24__
-
-> fast easy and reliable<br> :date: __2021-03-19 01:58:25__
-
-> I have been using Live Health for years and the service has always helped me when I am struggling.<br> :date: __2021-03-18 19:48:28__
-
-> As someone dealing with a lot of problems, this app has saved me again and again. I'm grateful for this service existence.<br> :date: __2021-03-18 17:49:26__
-
-> great doctor's very helpful great beside manners. caring and polite love this app<br> :date: __2021-03-18 03:17:07__
-
-> Nothing bad to say so far. Used once<br> :date: __2021-03-17 21:12:20__
-
-> Works perfect<br> :date: __2021-03-16 19:44:59__
 
 
 
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> Good service. I would like a better or ore robust user interface.<br> :date: __2021-03-23 21:17:49__
 
 > Sometimes there are glitches like loss of volume ,or one day we couldn't connect at all but over all I like it.<br> :date: __2021-03-18 16:53:31__
 
@@ -232,8 +234,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > Fast and professional<br> :date: __2020-12-30 21:51:16__
 
-> 1st time to use app. Worked great and had a good Dr. Will use again<br> :date: __2020-12-20 01:18:11__
-
 
 
 #### 3-star reviews
@@ -241,6 +241,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 3 reviews"/>
 </p>
+
+> Its a great app and idea 💡 👍 but the video never wants to work and some of the providers will just call 📞 you👍 but some do not Other than the video issues its great would be 5 stars but lame<br> :date: __2021-03-27 00:52:20__
 
 > Tried using the app for the first time today. Selected a dr, entered all my info, waited for about 15 mins to get connected just to have the video not work & the Dr end the session. Tried again, re-entered all my info and the app switched me to an emergency room Dr on its own. Kind of glitchy. Received my visit summary 12 hrs later. Serves its purpose but needs some improvement.<br> :date: __2020-10-10 03:17:22__
 
@@ -259,8 +261,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Pharmacy search didn't work first time. Time out too short. After logging in again, had to repeat same questions, but pharmacy search worked.<br> :date: __2020-04-11 20:48:29__
 
 > Great app when it connects, have experienced issues with that despite having fast internet with no issues.<br> :date: __2020-03-28 15:30:45__
-
-> I need a number to contact. I talked with a doctor on this app today, Wednesday March 25th. He told me I would receive an email or a message on the app from him saying we spoke and he diagnoses for me. I never recieved anything! I needed a doctor's note as well as information to show my primary care physician. Please is there a number to call to find out why I have not received this information yet?<br> :date: __2020-03-26 01:42:11__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Why make an appointment weeks in advance for it to just be canceled? Waste of damn time. You suck.<br> :date: __2021-03-26 14:28:16__
+
 > Video does not work with Samsung products!!! Known issue, Yeah I spent 20 minutes entering all my information twice only to find out that the video will not work with Samsung. They know this and yet no disclaimer up front,. Waste of time.<br> :date: __2021-03-17 14:18:02__
 
 > Charged multiple times Dr kept cancelling on me Put me on meds without refills and suffered withdrawals and was never contacted by Dr again she ignored my emails<br> :date: __2021-03-13 13:36:51__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > It is not worth it.<br> :date: __2021-01-27 02:20:19__
 
 > This is a scam. They took my payment then sat on a waiting screen for 30 minutes and no dr ever came to the appt. The number listed is not working either. This is a total scam and should be illegal.<br> :date: __2021-01-23 00:11:12__
-
-> Bad<br> :date: __2021-01-13 20:24:36__
 
 

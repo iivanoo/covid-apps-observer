@@ -184,6 +184,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 5 reviews"/>
 </p>
 
+> She is an awesome and amazing dr that puts her patients first. She is tough though. Kind of like tough love.<br> :date: __2021-03-22 15:04:28__
+
 > Very easy very clear. Worked great!<br> :date: __2021-02-11 17:48:50__
 
 > Getting to love virtual doc appointments! App is easy to use and efficient.<br> :date: __2021-02-11 17:03:33__
@@ -201,8 +203,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > Easy to operate<br> :date: __2021-01-08 22:40:50__
 
 > App works really well<br> :date: __2020-12-28 21:37:51__
-
-> Great<br> :date: __2020-12-12 21:50:41__
 
 
 
@@ -268,8 +268,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 
 > Audio did not work - incredible echo occurred. We had to mute mics and talk via speaker phones. The video was good. I had to sign in twice - not sure why screen was lost first time.<br> :date: __2020-04-08 21:50:31__
 
-> extremely hard to install and did not work properly<br> :date: __2020-04-06 15:56:08__
-
 
 
 #### 1-star reviews
@@ -277,6 +275,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 1 reviews"/>
 </p>
+
+> extremely hard to install and did not work properly<br> :date: __2021-03-25 11:06:11__
 
 > Yes I know I have an Android but it's ridiculous I've been trying for an hour and it just circles and will not install on my phone ...my phone is not that old<br> :date: __2021-01-06 17:17:54__
 

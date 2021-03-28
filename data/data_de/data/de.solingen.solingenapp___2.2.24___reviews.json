@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOHitsFuzLJ9nks6S22VwDxJQ7V4bbXEEOdUlowTJm56n83yW_WgY5-ryvR2fbAIKb3fE_3HINnJLfQcbUI",
+        "userName": "Claudia Klose",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikiFZzTb3ls2NS-qi-Uli7bRkvoPBp1Re3MT1o",
+        "content": "Eine wirklich gute und informative App!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-03-28 10:27:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGFf-WZ3My0QBVGCbQeoPX4A-fm4ZkRJ954kwJ7j6el9PhmIZyoH4AUm48pH94tu4BpjCAM1wC16tw8NCM",
+        "userName": "D",
+        "userImage": "https://play-lh.googleusercontent.com/-t517sBWWA14/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5bsP5pR3UbiHm_JXC1PbcP-XnTg/photo.jpg",
+        "content": "Die App funktioniert nicht!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-03-26 12:56:23",
+        "replyContent": "Hallo D, das tut uns leid. Wir freuen uns, wenn Sie uns \u00fcber appdev@solingen.de kontaktieren und uns mitteilen, was genau nicht funktioniert, so dass wir den Fehler beheben k\u00f6nnen. Danke und viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-03-26 14:43:45"
+    },
+    {
         "reviewId": "gp:AOqpTOEOf-AfEVXL_ns8d1UZBs7bg2CGX8GObqECXtewRWm3VXZrhBjGsVHr_ENhWZS4KU9TyBQ1DyyR78rGcNw",
         "userName": "Ralf W",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5LmSftMxzNpdokYO9fjb5ssQKumu86AaaCsP-ztI",
@@ -8,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-03-20 10:35:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Ralf W, wir freuen uns sehr \u00fcber das positive Feedback und sind f\u00fcr Weiterentwicklungsideen immer offen. Nutzen Sie daf\u00fcr einfach die Kontaktm\u00f6glichkeit in der App. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-03-24 12:50:52"
     },
     {
         "reviewId": "gp:AOqpTOFXUwv0kMPlE8gYKmAJLHdbAlJhM0NymzxCpM3WEyQJXIe6QFYaEWdDT-VMpxtnB2eaulVcplRqfxbstog",

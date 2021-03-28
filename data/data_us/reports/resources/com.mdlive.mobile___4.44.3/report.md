@@ -210,25 +210,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Profesional and convenient.<br> :date: __2021-03-21 00:42:21__
+> Good to talk to a doctor , with out the wait in line.<br> :date: __2021-03-28 04:53:22__
 
-> Good doctors<br> :date: __2021-03-20 23:16:14__
+> Good experience, good doctor<br> :date: __2021-03-28 01:22:17__
 
-> Overall great experience everytime I use it and I would definitely recommend it to anyone.<br> :date: __2021-03-20 14:02:22__
+> Dr was professional and thoroughly trained.<br> :date: __2021-03-27 14:38:33__
 
-> Okay 👌<br> :date: __2021-03-19 20:47:52__
+> I had a simple issue. Knew exactly what medication I needed based on experience. MD Live doc spent 5 minutes with me then sent the script. Super easy. Super convenient.<br> :date: __2021-03-27 01:10:51__
 
-> Always helpful and fast best way to see the dr<br> :date: __2021-03-19 14:04:37__
+> Way easier than going to urgent care, especially during covid<br> :date: __2021-03-26 23:32:08__
 
-> Wake up<br> :date: __2021-03-19 10:44:49__
+> All the doctors I have seen were great.<br> :date: __2021-03-26 16:25:58__
 
-> Fast easy service way cheaper than insurance for my needs.<br> :date: __2021-03-18 13:01:59__
+> I love using this service! And the access to doctors at this day and age, it's fantastic to have a psych who I actually feel comfortable with. There are less than 5 psychs in my area whom I'm not comfortable with. MDLive has personable doctors who really do care.<br> :date: __2021-03-26 16:11:15__
 
-> Wonderful experience.... Doctor was very detailed and pleasant. Great app!!<br> :date: __2021-03-17 22:59:22__
+> Great app that saves trip and time with doctors office.<br> :date: __2021-03-26 14:42:06__
 
-> Nice experience.<br> :date: __2021-03-17 14:03:56__
+> Pretty easy. Spoke to MD in less than 5 min.<br> :date: __2021-03-26 13:12:06__
 
-> Once you get set up and figure it out, super easy to use. See a doctor right away who is very good and understanding of kids<br> :date: __2021-03-16 15:40:02__
+> Easy to use, uploaded photos for doctor, he examibed them and gave me diagnoses, with a caution.<br> :date: __2021-03-26 01:23:02__
 
 
 
@@ -237,6 +237,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> It is fast and works great! There are some issues at times but it worked today!<br> :date: __2021-03-23 17:37:17__
 
 > Very good experience with this app. I only knocked off a star because the first appointment was through video and it didn't connect. I have 5G so I knew i had a pretty good connection. It may have been something else but other than that it was as good as in person but with everything going on its even safer.<br> :date: __2021-03-18 21:00:45__
 
@@ -255,8 +257,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > I could here clarity clearly and See Clearly I think it was excellent I really would recommend this to people my friends and family thank you S.P.<br> :date: __2021-02-23 19:41:21__
 
 > Dr was kind, helpful and knowledgeable. Video session was kind of choppy at times, but minimal.<br> :date: __2021-02-18 17:58:52__
-
-> Good video connection<br> :date: __2021-02-15 16:06:18__
 
 
 

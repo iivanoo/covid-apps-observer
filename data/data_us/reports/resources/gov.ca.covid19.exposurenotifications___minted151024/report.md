@@ -128,6 +128,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-03-27 09:14:00__
+
 > It is a comfort to have<br> :date: __2021-03-10 17:53:08__
 
 > Works well, hope app saves lives, and the U.S. I love my Country!<br> :date: __2021-03-08 19:55:33__
@@ -145,8 +147,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > Hello My Name Is Carolene Mae Sears And Yes I Have Have Been Falsely Caqused About What I May Have Said To The Public & What I Have On My Private Phone. Yes I Live In A Senior Apptarment One Of Four Buildings. Yes at First Things & Places That We Both Had Been To Had Been Closed Or Their Buiding had a improved or removed So Yes Would Go Out Just To Go Out For A Meal & Find Out Where The Different & Meet People That We'd Pass each & Say Hello To & Yes Because Just Met & Yes Nothing Important<br> :date: __2021-02-17 22:01:46__
 
 > We need to keep safe the community<br> :date: __2021-02-16 04:41:18__
-
-> Ca<br> :date: __2021-02-15 20:20:27__
 
 
 
@@ -212,6 +212,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> Nice concept but im not convinced its effective enough to justify battery drain and storage space- uninstalling and taking my chances.<br> :date: __2021-03-23 07:32:45__
+
 > Bad battery drain. Without the app installed I finish my day at 9pm around 30% battery on S21. With the app installed my phone is at 30% by 3pm. Similar use both days.<br> :date: __2021-03-11 05:12:14__
 
 > Ca Notify Need to work on the Bugs. I can't have the app. On My phone cause it broke the texting link that I have with My Mom.<br> :date: __2021-03-10 00:55:32__
@@ -230,8 +232,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > The app is a great idea, however, no one uses it. I spent a couple weeks in a covid unit and I normally work on an ambulance and have never had an exposure alert.<br> :date: __2021-02-11 15:57:11__
 
-> I have not seen so much as a blip with this app. Probably because people don't want to be treated like they have Ebola. It was a good idea to use available tech to try to solve a problem, but the execution relies on people's honesty. Like the Joker said, "When the chips are down...."<br> :date: __2021-02-10 23:38:12__
-
 
 
 #### 1-star reviews
@@ -239,6 +239,10 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> Can't disable bluetooth notification. I don't always keep bluetooth on, and I don't need to be constantly reminded by this app that it's off. This should be a separate notification toggle.<br> :date: __2021-03-27 15:34:43__
+
+> I understand this is based on people voluntarily adding covid +ve result so that others get alert. But having this on my phone for months now, I am always skeptical whether it is even doing anything other than consuming phone resources and probably tracking my location. I read all the other reviews below about actual covid +ve people unable to actually add the positive test and the app's failure to send notification to others. I am convinced this is useless app. Uninstalling now.<br> :date: __2021-03-24 15:33:51__
 
 > Good idea, extremely poor execution.<br> :date: __2021-03-21 00:10:10__
 
@@ -255,9 +259,5 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > My roommate had covid and this app showed no exposure. I was around him the whole time, fortunately I didn't get it. I've been around others who were positive and the app still said no exposure. It's useless. Uninstalling.<br> :date: __2021-03-02 02:07:57__
 
 > Does it even work? At the very least tell us how many devices did u check per day, if others are not using this service, it's just using my battery for nothing<br> :date: __2021-02-25 20:14:10__
-
-> Never worked<br> :date: __2021-02-21 23:25:40__
-
-> Does this app work? It does not seem to be doing anything after having used it for over a month. It does not show any feedback or confirmation if it is effective or even working. Another problem is the California government has never aggressively promoted this app, which needs widespread adoption to be effective. Without any apparent benefit, what this app only does is constantly consuming power and tracking my every movement, which is why I am uninstalling it after writing this review.<br> :date: __2021-02-21 14:06:20__
 
 

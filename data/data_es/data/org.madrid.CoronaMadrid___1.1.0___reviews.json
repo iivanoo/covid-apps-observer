@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEeNQ-ztZRjOVMnrGKSYQKg-nEd3JG5Yp8y-wowma62jGDd2a-RtGOqESIV6SYBSMU1lIyR4BvT0VLpvQ",
+        "userName": "Pablo Fausto Derungs Sancho",
+        "userImage": "https://play-lh.googleusercontent.com/-f4O8eH8bTJ8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucniSsMaPQ0twrZKwrSbYYEWRbxyNw/photo.jpg",
+        "content": "IMPRESCINDIBLE",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-28 13:26:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHMWh9r_Cqd51kjxoIFgxHHBdOc1haEum9WzUl90uY7In1Et66CWIkdTtXM0Wz6FpjMGO25lCzs80U51w",
+        "userName": "Josefa Lahoz",
+        "userImage": "https://play-lh.googleusercontent.com/-U1pTNtiokGs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKPFlwVw3U-gfvK4R-NK4GaGSX5g/photo.jpg",
+        "content": "Muy \u00fatil, todos deber\u00edamos usarla",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2021-03-24 19:24:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE41FqnB9KSD-hHZbKWz6D64E_UmfKRL3UYV5cm3IuZKUEKIffxYgdZp5-GgNOyS4Vg-Tk61MohhdjoYg",
         "userName": "Gabriel",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1M34DTxaTHnspiYW1vRQ234f6QnMimHIvokU8Ng",
@@ -41,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwDCW-C3yBe_HqiWnuiNdKZDYEDO8vICWyp2TIqg",
         "content": "La aplicaci\u00f3n es muy \u00fatil, permite hacer un auto reconocimiento de los s\u00edntomas y as\u00ed poder determinar si pudieras portar el virus, adem\u00e1s es muy bueno que puedas hac\u00e9rselo a un familiar tambi\u00e9n y que pongan recomendaciones sobre los cuidados que se deben tener y una ubicaci\u00f3n de los centros de salud a los que se pueda acudir en caso de sospechas.",
         "score": 4,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-25 18:25:34",
         "replyContent": null,
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinxKC4e8iorV1RgBQbAPdCWDqf1JzNi0UK8jbv",
         "content": "App muy recomendada en este momento de pandemia. Adem\u00e1s de poder hacer una autoevaluaci\u00f3n en funci\u00f3n de tus s\u00edntomas, te permite ver consejos y medidas de prevencion, asi como la localizaci\u00f3n de los hospitales m\u00e1s cercanos si los necesitases. Adem\u00e1s sirve de ayuda para descongestionar el sistema sanitario. Como punto a a\u00f1adir, al introducir los datos personales estar\u00eda bien que tomase si eres o no persona de riesgo, y variables del estilo.",
         "score": 5,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-23 18:29:57",
         "replyContent": null,
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSToLWF2l7EHNuLSgLyqRF9rJ4RejNXyD-h0EDywA",
         "content": "La verdad es que no me extra\u00f1a que no se descarguen la app, es fatal tener que ingresar la fecha de nacimiento dando para atr\u00e1s mes a mes (la m\u00eda 1954). Tienen que actualizar la forma de ingresarla, con las tecnolog\u00edas que hay hoy en d\u00eda es \u00a1\u00a1\u00a1INCRE\u00cdBLE!!!",
         "score": 2,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-21 20:26:05",
         "replyContent": null,
@@ -230,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOFWSeq8EKqDpQs8l1xzVzBqmiTAETqoxL_nzF4RUm2D7QQidQOQDxEzsW-uOzAHvXCcqNdZYMhtH4FL6Q",
         "userName": "I R",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0bZAkv5f59YxoB0HlepiR6WlYcL6agrgW9dYkxg",
+        "userImage": "https://play-lh.googleusercontent.com/-tAHmCf2lMh0/AAAAAAAAAAI/AAAAAAAADRw/AMZuucmjEA0zmfa39RbP7DjCxXLtkbDi_g/photo.jpg",
         "content": "Me ha gustado mucho la app es muy buena, recomendable para estos tiempos de contagio en los que estamos.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -673,7 +697,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEUaAyJaCP1MrUv5Yk4t4bnql9PI36rYqupoxu73evl1HFpm49oVEEios764hE0XZLFCR2wOL2Pb2VIBg",
-        "userName": "David Serrano Hernando",
+        "userName": "David SH",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjG1gIuERgOA4uzE_I1PE1mhDPBa0sqBRUFIhUIH4E",
         "content": "No abre",
         "score": 1,
@@ -1141,7 +1165,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE7yVCl6TuKiB3xzHIc9SgR72IMyBWxWumZzXndkP_YaDyi2IQ7cv2_JsIf7-H8IqnWm4ocJIMeHnltHQ",
-        "userName": "no necesito subnles",
+        "userName": "nonecesito subnles",
         "userImage": "https://play-lh.googleusercontent.com/-_KD2gYyxtIY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSDqRfd-n-mObCt-NlEfc8MjbZ1A/photo.jpg",
         "content": "5-star para opinar otra copia m\u00e1s Arriba los impuestos saludos suerte cultura y gracias",
         "score": 5,

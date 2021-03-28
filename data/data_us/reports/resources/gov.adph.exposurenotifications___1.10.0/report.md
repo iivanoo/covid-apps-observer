@@ -151,6 +151,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Great App<br> :date: __2021-03-26 23:19:44__
+
+> Flawless amazing PERFECT $LC.<br> :date: __2021-03-23 18:12:59__
+
 > It's straight forward. I mean. Pleasant experience.<br> :date: __2021-03-18 19:50:49__
 
 > It works, but only if everyone uses it. Which given this state 🙄<br> :date: __2021-03-08 14:10:58__
@@ -166,10 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > I assume it's working well, I haven't been sick and it hasn't dinged to let me know if any exposure. So no news is good news.<br> :date: __2021-02-08 22:19:03__
 
 > Plain and simle. Reminds me of that old school down by the creek.<br> :date: __2021-01-27 16:31:33__
-
-> Corpus .. best way to freedom<br> :date: __2021-01-20 08:47:30__
-
-> Best<br> :date: __2021-01-07 12:48:04__
 
 
 
@@ -207,6 +207,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> Good<br> :date: __2021-03-23 04:15:11__
+
 > Works sometimes<br> :date: __2021-03-20 01:55:29__
 
 > Ballz in ya mouth 👄👄<br> :date: __2021-03-16 06:21:44__
@@ -224,8 +226,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Great if it would work. I tested positive and want to alert others by using the app. When it asks me to verify the code sent to my phone, I can't because it never sends the code. I've tried over and over.<br> :date: __2020-12-01 18:35:17__
 
 > None<br> :date: __2020-11-25 00:11:08__
-
-> Up front everything is bluetooth, bluetooth, bluetooth. Then after install the app demands location, too. Good privacy policy, but I can't leave both bluetooth and location on at all times or my phone would have to stay on the charger 24/7. Maybe my fault for having an old phone. I'll leave it installed and just enable everything as the Austin e demands.<br> :date: __2020-11-18 21:28:03__
 
 
 
@@ -257,6 +257,12 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Contact tracing does not work when the incubation eriod is so long as with covid-19<br> :date: __2021-03-26 14:22:28__
+
+> Contact tracing is useless on a disease with such a long incubation time<br> :date: __2021-03-23 17:56:40__
+
+> Dont need a app to tell when someone is sick<br> :date: __2021-03-23 15:37:09__
+
 > i want to install it 😭 but i dont have gigabites and i only have 1 app installed so sad<br> :date: __2021-03-02 23:08:46__
 
 > Doesn't work just opens to an arrow and sits there.<br> :date: __2021-03-02 04:40:04__
@@ -270,11 +276,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Seriously I just opened the app on my phone and the last update was the end of November. Like how is this going to be efficient if it doesn't do anything...<br> :date: __2021-02-13 04:57:52__
 
 > Dislike app<br> :date: __2021-02-11 09:25:08__
-
-> Not worth it<br> :date: __2021-02-04 19:11:10__
-
-> Just like wearing a mask some do not want there rights being taken from them so this site only works as those who are positive fill out the notice . So its a honor system and so far i did not get one notification.So I am thinking most do not report positive results and do not trust it.<br> :date: __2021-02-04 00:11:11__
-
-> I tested positive and reported it through the app. My husband STILL has not received an exposure notification 4 days later.<br> :date: __2021-02-03 00:24:41__
 
 

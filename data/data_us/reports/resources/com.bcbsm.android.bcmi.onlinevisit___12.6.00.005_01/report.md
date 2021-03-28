@@ -198,6 +198,10 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Great Help!<br> :date: __2021-03-23 13:40:00__
+
+> Was caring and listened to what I had to say. Was professional and gave precise instructions and information about what she was doing for me and what I needed to do as well.<br> :date: __2021-03-22 15:56:11__
+
 > Love this. Saves time and money. Every experience has been exceptional.<br> :date: __2021-03-20 17:42:08__
 
 > Real convenient. Thanks!<br> :date: __2021-03-17 16:36:08__
@@ -213,10 +217,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Very easy to use, right from home...thanks<br> :date: __2021-02-28 15:29:07__
 
 > Convenient<br> :date: __2021-02-20 13:41:28__
-
-> Excellent<br> :date: __2021-02-17 20:30:36__
-
-> Easy to use<br> :date: __2021-02-16 18:42:20__
 
 
 
@@ -292,6 +292,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 1 reviews"/>
 </p>
 
+> I did not have a very good experience, I barely got out what was wrong before he told me I probably have pneumonia, which I do not. Was on the call less than 3 minutes, it literally was a waste of time.<br> :date: __2021-03-22 21:16:00__
+
 > Really horrible service 100% of time - multiple attempts. I wanted this service to be successful, its not. Disappointing.<br> :date: __2021-02-20 18:42:49__
 
 > They charged me for the visit I had for my daughter, even though they told me there was nothing they could do about her uti and said to take her to urgent care. Um, hello, covid. Why tf do you think I did a virtual visit?!?!<br> :date: __2021-02-12 22:53:09__
@@ -309,7 +311,5 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > If I ever wanted my medical information shared with marketers, advertising networks and "services that can provide me options" I'd just post it on Facebook because that's easier and just about as secure.<br> :date: __2020-06-11 16:25:44__
 
 > This app sucks makes pay money for visit takes 1hr to sit an wait for visit l...doctor koo she prescribes meds easy quick visit..try to get meds from pharmacy they say doc never submitted they give u number to call to resubmit u have to wait another 2 hrs for them to answer I am on hold now<br> :date: __2020-05-19 00:35:48__
-
-> One of the worst experiences of my life. This whole company sucks.<br> :date: __2020-04-21 17:43:14__
 
 

@@ -168,6 +168,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 5 reviews"/>
 </p>
 
+> Eine wirklich gute und informative App!<br> :date: __2021-03-28 10:27:14__
+
 > Bin begeistert, danke Tim K. Funktioniert wie beschrieben. Ausbaufähige Grundlage. Habe direkt die defekte Ampelanlage auf unserer Straße gemeldet. Ich bleibe dabei, wenn ihr auch bei der Weiterentwicklung dran bleibt.<br> :date: __2021-03-20 10:35:26__
 
 > Derzeit stürzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann stürzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank 👍.<br> :date: __2021-02-17 15:10:54__
@@ -266,6 +268,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
 
+> Die App funktioniert nicht!<br> :date: __2021-03-26 12:56:23__
+
 > Der letzte Mist. Bricht entweder direkt zusammen oder Verbindung zum Server schlägt fehl. Deinstalliert.<br> :date: __2021-03-16 08:36:17__
 
 > Bisher lief die App gut, doch seit einigen Tagen lässt sie sich nicht mehr öffnen. Erst kommt Fehler 100. Dann wird doch die Verbindung zum Server hergestellt und dann stürzt sie ab.<br> :date: __2021-02-13 15:17:38__
@@ -283,7 +287,5 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Eigentlich eine gute Idee, nur öffnet sich die App nicht mehr<br> :date: __2020-12-16 12:55:28__
 
 > Trotz angeblicher Fehlerbehebung startet die App noch immer nicht. Was ist daran so schwer, eine App zu programmieren, die funktioniert?<br> :date: __2020-12-15 19:16:19__
-
-> App funktionierte nur am 1. Tag.<br> :date: __2020-12-11 17:40:47__
 
 
