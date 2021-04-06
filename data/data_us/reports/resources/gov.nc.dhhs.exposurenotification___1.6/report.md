@@ -187,6 +187,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
+> Nice idea, but way too few total downloads to make the app effective.<br> :date: __2021-03-29 22:56:49__
+
 > Have recently uninstalled and then reinstalled this app. Seems to be working since I can see the date change from last check, but one problem, if this app has been downloaded by so many how is it that when I go to the store around a lot of people, there's no show that I may have been exposed. I'm pretty sure that majority of these people have the app, and care for others to turn it on correctly?.<br> :date: __2021-03-02 14:35:51__
 
 > It's a good idea if that it would keep up to date. The last time mine checked in was back on December 24th 2020. My app is up to date also..<br> :date: __2021-02-26 16:30:10__
@@ -204,8 +206,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Would love to tell people I've tested positive. app requires jumping through hoops my sick brain doesn't feel up to. Not useful. State already knows, plug the damned info in.<br> :date: __2021-01-19 20:53:15__
 
 > I decided to update this review. I haven't changed the rating as of yet but probably will have to after I get some kind of answers. On January 10th, 2021 my app stopped reporting. On the 11th I had to call off from work due to a fever and symptom scare. I did test negative for Covid, but the timing of it all couldn't be worse. I mean, three days, during my wait for answers. How is that helping anyone? I work at a high traffic State facility and thought I could rely on this to help.<br> :date: __2021-01-14 02:34:00__
-
-> Dont know if it really works<br> :date: __2021-01-11 15:02:14__
 
 
 
@@ -243,6 +243,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> Statistics no longer working, back to political misrepresentation and hiding of details.<br> :date: __2021-04-03 15:00:45__
+
 > The app is not working, it has not checked for exposure since January 9th. I keep seeing where they are telling people to go to Device Care > Battery ..... That does not exist on my phone, they must be giving instructions for an iPhone. \*\*\*\*\*\*\*\** Update still is showing January 9th as my last exposure check. This app has not worked since then. I guess that I may as well uninstall.<br> :date: __2021-03-25 21:14:28__
 
 > Stupid thing doesn't work. Someone has covid and two stores have been closed due to having covid 19. This app never alerted me I found out via facebook.<br> :date: __2021-03-18 22:21:55__
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Self explanatory.<br> :date: __2021-02-27 02:21:00__
 
 > This app and program is a joke. I got tested positive for covid-19 but never received a code to put in the app. How is thia app supposed to help when no one even gets a code to enter. What a joke.<br> :date: __2021-02-27 02:09:13__
-
-> It is stupid I deleted it because at the beginning it was great but at the end sooooook dumb. Its just I don't know what to do in this app. January, 2021 bruh so dumb 🤦 😒 😪<br> :date: __2021-02-26 21:54:35__
 
 

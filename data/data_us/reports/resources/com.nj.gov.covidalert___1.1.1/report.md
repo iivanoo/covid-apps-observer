@@ -174,9 +174,9 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
 
-> bi.d.e.n<br> :date: __2021-02-22 02:00:15__
+> I would like to see data where my phone randomly had contact with another device?<br> :date: __2021-03-31 02:03:08__
 
-> This app works well as far as the exposure system goes. Only downside is that the Covid tally for the state total is not accurate. It has been stuck at 615K for me, when obviously the numbers keep getting higher. Please fix this.<br> :date: __2021-01-30 09:39:17__
+> bi.d.e.n<br> :date: __2021-02-22 02:00:15__
 
 > Help us stop the spread of COVID-19 in New Jersey! COVID Alert NJ App is being made available by the New Jersey Department of Health (DOH) to complement New Jersey’s comprehensive COVID-19 contact tracing effort. COVID Alert NJ is a free and secure mobile phone app that allows New Jerseyans: 1. To be alerted if they have been in close contact with another app user who has tested positive for COVID-19 – even if that person is a stranger 2. To track their symptoms and get advice on what to do to<br> :date: __2021-01-25 03:35:13__
 

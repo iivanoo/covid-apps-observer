@@ -189,25 +189,25 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> brilliant app could not manage without it<br> :date: __2021-04-04 00:53:56__
+
+> decent medical app, had no problems.<br> :date: __2021-04-02 12:33:37__
+
+> Once you've become familiar with this App it's a quite a handy one to have.👍<br> :date: __2021-04-01 07:42:15__
+
+> I don't know yet let me try for few days to see how it is . Although I walk daily 5 to 6 miles if weather is good . Definitely I will keep in touch with you .<br> :date: __2021-03-31 22:09:00__
+
+> Easy and efficient to use<br> :date: __2021-03-31 10:31:44__
+
+> very good if you like this type of thing<br> :date: __2021-03-29 20:44:04__
+
+> practical<br> :date: __2021-03-29 13:12:12__
+
 > quick and easy<br> :date: __2021-03-27 15:15:23__
 
 > great app helps with mental health an<br> :date: __2021-03-25 16:13:33__
 
 > best doctors I have ever been with. staff are so caring and helpful<br> :date: __2021-03-19 18:39:14__
-
-> great app. essential if you want your GP to update some of your case without having to answer the annoying questions about how much you smoke and drink. tell the truth because they will check<br> :date: __2021-03-17 11:36:32__
-
-> Great site easy to use.<br> :date: __2021-03-09 12:44:24__
-
-> no hassle and easy<br> :date: __2021-03-07 23:40:46__
-
-> Great!<br> :date: __2021-03-05 16:11:26__
-
-> So far looks like a good general health app as well as being a clear, easily understood gateway into GP online systems.<br> :date: __2021-03-04 18:10:37__
-
-> Great service and easy to use<br> :date: __2021-03-03 21:13:14__
-
-> Good App<br> :date: __2021-03-02 22:43:41__
 
 
 
@@ -301,6 +301,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> unable to order medication<br> :date: __2021-04-04 10:39:47__
+
 > Does not work properly on my Samsung s21 I cannot access my medical record at all.<br> :date: __2021-03-25 01:04:29__
 
 > I am returning to the app after changing phone. It just is not working<br> :date: __2021-03-20 14:11:51__
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Rubbish app. Cannot access any information recently 😕. Its supposed to make GP access easier. Its such a pain.<br> :date: __2021-01-21 09:56:33__
 
 > Won't connect to GP practice, so of no use to me. I tried asking on "live chat" but just got an automated referral to changing gp practice - not what I wanted to do at all.<br> :date: __2021-01-15 08:40:33__
-
-> Was good at first but now seems more concerned with getting you to fill in stupid health questions than keeping it simple to follow. Always takes me a while to find out where I order repeat prescriptions.<br> :date: __2021-01-07 18:59:10__
 
 

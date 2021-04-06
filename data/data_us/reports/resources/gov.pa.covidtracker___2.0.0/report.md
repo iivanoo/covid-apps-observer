@@ -142,6 +142,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> It's very easy to understand and to follow Thank You very much.<br> :date: __2021-03-30 00:17:42__
+
 > Ih<br> :date: __2021-03-24 19:07:31__
 
 > I randomly saw this on the app store and Installed it. This app can be useful thankyou.<br> :date: __2021-03-24 11:37:13__
@@ -159,8 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > This app is very helpful.<br> :date: __2021-03-08 15:37:22__
 
 > Keep up the good work<br> :date: __2021-03-07 19:35:44__
-
-> Very informative<br> :date: __2021-03-07 18:04:35__
 
 
 
@@ -226,6 +226,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> Works great when I first installed it but now I can't even get on it<br> :date: __2021-03-29 22:20:37__
+
 > I received a contact tracing covid alert on 3.11.2021. It did not tell me when this happened so i had no idea what to do. Got tested, Negative, but no clear time line to quarantine since no date of exposure was given<br> :date: __2021-03-16 13:14:29__
 
 > Forces you to page back through EVERY month of EVERY year to get to your date of birth, rather than either just typing it or selecting the year from a list. I just don't have enough time to page back that far.<br> :date: __2021-03-09 15:51:30__
@@ -244,8 +246,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Not info I need. Where are vaccination sites? What are age requirements? Who is now eligible?, etc.<br> :date: __2021-01-19 18:11:05__
 
-> There was no way to quickly self-report a positive test, so the contact tracing is useless.<br> :date: __2021-01-19 03:55:09__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
+
+> Dont download it's a tracking app the government wants to keep tabs on people and they are using fear to do it and if you think the american government wouldn't do that please go look up project MK ULTRA the US government doesn't care about anything except lining their pockets and lying<br> :date: __2021-03-31 07:05:17__
+
+> This app still provides no useful real-time data. Exposure alerts are delayed and don't go off to let you know they happen. by the time you find out you've been exposed you might as well already be getting a test. Good try PA but failure so far.<br> :date: __2021-03-28 16:06:10__
 
 > I have no experience on this app, but this app is horrible the truth is that the government wants more money so they come up with this virus in 2020 but it's been out since like 2016 or less. It's so dumb that we live in this world of lies.<br> :date: __2021-03-28 11:08:53__
 
@@ -269,9 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Straight doesn't work. Not sure why, might be because my phone is rooted, but when I click Continue on the "Your data" page, it simply says "Sorry, that didn't work properly, error 104" and I can go no further.<br> :date: __2021-03-16 02:13:08__
 
 > I don't get why they need location they say they don't use it then why does it need it and it's inaccurate by far don't recommend<br> :date: __2021-03-10 19:55:56__
-
-> It's looks like a good idea. I deleted it. I am not going to put in my birthday month by pushing the month button back more than 700 times.<br> :date: __2021-03-08 19:28:53__
-
-> This app would be great if it would actually launch once installed. I've uninstalled it 3xs then reinstalled. Still doesn't launch. WHY HAVE A APP WE CAN'T ACCESS?<br> :date: __2021-03-08 18:47:12__
 
 

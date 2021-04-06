@@ -1,17 +1,5 @@
 [
     {
-        "reviewId": "gp:AOqpTOEeNQ-ztZRjOVMnrGKSYQKg-nEd3JG5Yp8y-wowma62jGDd2a-RtGOqESIV6SYBSMU1lIyR4BvT0VLpvQ",
-        "userName": "Pablo Fausto Derungs Sancho",
-        "userImage": "https://play-lh.googleusercontent.com/-f4O8eH8bTJ8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucniSsMaPQ0twrZKwrSbYYEWRbxyNw/photo.jpg",
-        "content": "IMPRESCINDIBLE",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-03-28 13:26:03",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHMWh9r_Cqd51kjxoIFgxHHBdOc1haEum9WzUl90uY7In1Et66CWIkdTtXM0Wz6FpjMGO25lCzs80U51w",
         "userName": "Josefa Lahoz",
         "userImage": "https://play-lh.googleusercontent.com/-U1pTNtiokGs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKPFlwVw3U-gfvK4R-NK4GaGSX5g/photo.jpg",
@@ -65,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwDCW-C3yBe_HqiWnuiNdKZDYEDO8vICWyp2TIqg",
         "content": "La aplicaci\u00f3n es muy \u00fatil, permite hacer un auto reconocimiento de los s\u00edntomas y as\u00ed poder determinar si pudieras portar el virus, adem\u00e1s es muy bueno que puedas hac\u00e9rselo a un familiar tambi\u00e9n y que pongan recomendaciones sobre los cuidados que se deben tener y una ubicaci\u00f3n de los centros de salud a los que se pueda acudir en caso de sospechas.",
         "score": 4,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-25 18:25:34",
         "replyContent": null,
@@ -77,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinxKC4e8iorV1RgBQbAPdCWDqf1JzNi0UK8jbv",
         "content": "App muy recomendada en este momento de pandemia. Adem\u00e1s de poder hacer una autoevaluaci\u00f3n en funci\u00f3n de tus s\u00edntomas, te permite ver consejos y medidas de prevencion, asi como la localizaci\u00f3n de los hospitales m\u00e1s cercanos si los necesitases. Adem\u00e1s sirve de ayuda para descongestionar el sistema sanitario. Como punto a a\u00f1adir, al introducir los datos personales estar\u00eda bien que tomase si eres o no persona de riesgo, y variables del estilo.",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-23 18:29:57",
         "replyContent": null,
@@ -329,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0uDrRnr-_JjM8TklSUsxLzzeQI86ATwBaGufjPA",
         "content": "Me ha gustado la app. Te hace un seguimiento de salud cada 12 horas, identifica los posibles s\u00edntomas del covid, te proporciona informaci\u00f3n sobre el virus, los centros sanitarios m\u00e1s cercanos a tu ubicaci\u00f3n... En general est\u00e1 bastante bien para la situaci\u00f3n actual que tenemos. Recomendada!",
         "score": 5,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-01-07 16:41:59",
         "replyContent": null,
@@ -614,7 +602,7 @@
     {
         "reviewId": "gp:AOqpTOFVJGc8R95RTHB80b4Txb1-hy0Mg_OmHWAc89329g8ClN5UGh452R83J1aqBex-bhLStJy7-Co9Z_KTmA",
         "userName": "M\u00aa Teresa Gonz\u00e1lez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWHG9AzG9HV-fYDeL2hjogDA5q2aV3BNKS4_VP",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_Lqc02oKg34uxu7ERcZdVmWHxWvn301Rl3NeGsg",
         "content": "No se puede completar el registro: tras mirar el c\u00f3digo y volver a la app, hay que iniciar de nuevo, otro c\u00f3digo y as\u00ed no es posible registrarse.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1645,8 +1633,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEcjR6UkLY4074uhqVJXsMR3b30jS9v4H34WjAmRni2I11gi_AIp9ZAtiLPRgY1O-_8Z9TZjZdzvj_5Ug",
-        "userName": "Atak",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgiZESPqTHpn23TS4liPlMmtkI7Tyx3Av81knfQag",
+        "userName": "Atakito",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjs_8MlT05_08LkISBVpY2m-EwfXhuMbZfZ8gBBtA",
         "content": "A fecha de hoy sigue sin recomendar la mascarilla cuando es de uso obligatorio. NO vale ni para las recomendaciones. Una pena que se gasten tanto dinero y no haya un mantenimiento diario de la aplicaci\u00f3n.",
         "score": 1,
         "thumbsUpCount": 13,
@@ -2882,7 +2870,7 @@
     {
         "reviewId": "gp:AOqpTOFhm7CzrqEZBg70gJF-9BP9oHRqYW6gXsYAoTatszAM-6q0MWAU18t0A5wnLm8smiC6Fzz_HsnWQZsAKg",
         "userName": "JC CA",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDqSgEWDCHfowVwE7u7uarZQKdKN9fdYm3UKoi6GE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4tINHikaIx7RZ-Dz1d57QOi3ww4V_1eibBArXSjk",
         "content": "Valla basura de aplicaci\u00f3n, ni se puede validar el tel\u00e9fono ni nada, y encina seguro que la comunidad de Madrid a pagado al desarrollador por esta indecencia.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -3446,7 +3434,7 @@
     {
         "reviewId": "gp:AOqpTOFMYPKwJ0jmdaxvhXNgdonkE47ZhJBgF1FjeSrHwMP_5Ft2Mbps5HUldce0SCylm2HbfFcnEaSD1GA4Xw",
         "userName": "Malena Hernandez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gghjfy3Rl9_hqhejYSntjWsJAFgR8HRHY_sxq8SQw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicQTEQAru2GVVndNkdjT_ea1sXU1Pm4EliFsxfd98",
         "content": "Escrib\u00ed mi Nro telef\u00f3nico y ah\u00ed se colg\u00f3, no avanz\u00f3 m\u00e1s.",
         "score": 1,
         "thumbsUpCount": 3,

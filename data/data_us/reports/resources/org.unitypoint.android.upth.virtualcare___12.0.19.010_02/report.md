@@ -177,6 +177,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <img src="5_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 5 reviews"/>
 </p>
 
+> Awesome and prompt. I love it! It's all inclusive as well and I am extremely grateful for that during these times.<br> :date: __2021-04-04 01:16:31__
+
 > I love this experience<br> :date: __2021-03-20 04:34:59__
 
 > Quick and easy the Doctors are extremely nice and helpful!<br> :date: __2021-03-07 21:56:52__
@@ -194,8 +196,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 > Wonderful experience. Doc was very helpful with my problem and answered all questions i had.<br> :date: __2020-12-30 04:14:38__
 
 > Dr. Was great. Easy to understand and very knowledgeable when it came to understanding my anxiety.<br> :date: __2020-12-27 08:02:30__
-
-> This option is amazing. I was able to do a video conference call with a doctor who was efficient and to-the-pount. I got the help I needed that I would not have been able to get had the option of a video conference appointment not been available.<br> :date: __2020-12-12 22:03:48__
 
 
 

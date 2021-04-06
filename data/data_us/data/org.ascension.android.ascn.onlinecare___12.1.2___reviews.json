@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHnx7zd5bhJDuUUIzM8qEi9hJpUW4-eroXAvdxObK_l600JZKFrFGNOFoskQL465I5jJq441NW1370iJQ",
+        "userName": "Shelley Stanley",
+        "userImage": "https://play-lh.googleusercontent.com/-4zA5MoIJsew/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5lVjF-OtAgl-PklQBupp6kgGP6w/photo.jpg",
+        "content": "Cannot access login on the previously installed app. Denies login, as well as creating a new account. Flags that I am not using an existing email after entering the first digit of me email address.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.1.2",
+        "at": "2021-04-02 12:35:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFf60rTVwIWn5xJKI7TKMJ6V7xTjNb62CgsyVgMsUWSYE1akuBffJWNK7V-5AQweTcmlIjoP43GCoERUg",
         "userName": "Amanda Kot",
         "userImage": "https://play-lh.googleusercontent.com/-McaHTYStdsQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYNzuELPufnFCSyl79baLtmzD-eA/photo.jpg",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVj_ieuma6ToHbXVdrr2o7V9KyN4UY3AcLdyVbQw",
         "content": "App looks nice, but crashes everytime I try to add a credit card, making it completely useless.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "12.1.2",
         "at": "2021-03-19 00:14:56",
         "replyContent": "Thank you for your honest review. We would appreciate the chance to work with you personally; could you please reach out to us at virtualcare@ascension.org at your convenience? We hope to hear from you soon.",
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbwFaVAXIjSfzzlNEJIojl2P8dDGCTNGMsJMNbYA",
         "content": "The program freezes up and constantly has to be restarted",
         "score": 3,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "12.1.1",
         "at": "2021-02-02 18:56:32",
         "replyContent": "We are continually looking for ways to improve. If you're willing to discuss your review in more detail, please reach out to us at virtualcare@ascension.org. Thank you.",
@@ -314,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOEHPqvaDpZW5BDcInDvpNJgu7KRqUIsE-XKUMhCuO5PmcurYYMWMkb_2a368ehSMB9b_fM2SgKCVUiNxQ",
         "userName": "Paul Gilroy",
-        "userImage": "https://play-lh.googleusercontent.com/-hTvzh16geFI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0BKGTyu0LHZSF2gSkozVd9FJyGw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgIxP23xnWPb3t3iXSAStcC-RdaW-NSBVNDi-B3tA",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6446,7 +6458,7 @@
     {
         "reviewId": "gp:AOqpTOHNFXL3AmoydDHsQ4Lfm9tGk0P3VzL0sDyevETUaH2Pkwf7WFvTvBpCR5PzCxZ5WeNJjIft5TQiVMorqw",
         "userName": "Hotbox gaming",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggucws_AOkrrVOAuzWNM25LLYOvWKXNECSmJoWM0w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8HyjLVUxo6p9uq9zKwlWQm90xrkrwWOL_6gsIMQ",
         "content": "This app charged me twice",
         "score": 1,
         "thumbsUpCount": 0,

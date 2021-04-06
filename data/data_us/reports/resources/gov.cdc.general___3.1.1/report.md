@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Excellent thanks<br> :date: __2021-04-01 14:53:52__
+
 > Rate 5<br> :date: __2021-03-28 04:09:19__
 
 > this was awesome thank you<br> :date: __2021-03-26 15:53:43__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Thank you for keeping us updated and safe during this pandemic!<br> :date: __2021-02-26 12:35:23__
 
 > Well is the best app thus far<br> :date: __2021-02-24 11:56:11__
-
-> Ok<br> :date: __2021-02-24 06:10:59__
 
 
 
@@ -300,6 +300,10 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> This app is the definition of the cdc. It's late on news, it's not consistent on anything, and work like biden's brains, coumo's hands, and harris' knees.<br> :date: __2021-03-31 11:08:12__
+
+> Doesn't do anything. Blank screen.<br> :date: __2021-03-29 06:02:16__
+
 > I can't believe this app<br> :date: __2021-03-17 07:24:17__
 
 > Covid19 not real because tree gave free oxygen everyone<br> :date: __2021-03-02 02:32:37__
@@ -315,9 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > It is useless<br> :date: __2020-11-11 22:56:21__
 
 > It has a lot of information if you want to shift through all of it to find what you want. I can't find a search function so it is easier to Google the web for information<br> :date: __2020-10-07 13:01:04__
-
-> Information over -simplified, misleading, & not reliable. Political Correctness is very Dominant & over-riding information.<br> :date: __2020-09-29 23:04:13__
-
-> We can no longer trust the CDC.<br> :date: __2020-09-03 02:55:12__
 
 

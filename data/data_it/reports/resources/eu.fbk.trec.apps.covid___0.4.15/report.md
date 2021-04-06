@@ -126,6 +126,8 @@ The TreCovid19 app has been installed by more than **1000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="eu.fbk.trec.apps.covid 5 reviews"/>
 </p>
 
+> Ottima app, funziona benissimo<br> :date: __2021-03-28 16:19:04__
+
 > Molto utile e ben fatta. Aggiornamenti costanti, video e cartina sulle zone sempre aggiornata<br> :date: __2020-04-06 19:31:13__
 
 > Complimenti agli sviluppatori. Perfetta.<br> :date: __2020-04-04 00:10:54__

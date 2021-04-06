@@ -201,6 +201,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Werkt zo gemakkelijk<br> :date: __2021-04-02 09:31:13__
+
+> Het werkt prima<br> :date: __2021-04-01 09:47:19__
+
+> Zeer goed<br> :date: __2021-03-29 11:04:18__
+
+> Duidelijk en nuttig<br> :date: __2021-03-28 20:02:23__
+
 > Simpel en netjes<br> :date: __2021-03-28 09:05:45__
 
 > Geweldige app. Er wordt duidelijk aangegeven wat je moet doen. Heldere uitleg en "prikles" vanuit het ziekenhuis. Compleet Covid @home pakket met zuurstof, medicatie en alles wat nodig is mee naar huis en lekker thuis herstellen. Prima contact met het ziekenhuis en de huisarts indien nodig. Top!<br> :date: __2021-03-26 10:57:19__
@@ -212,14 +220,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Jammer dat het stopt deze app was echt wel goed paar bugs maar ik zag toekomst in deze app snap ook nier waarom het stopt<br> :date: __2021-03-25 12:33:30__
 
 > Handige app waarbij je direct contact heb met je behandelaar<br> :date: __2021-03-25 10:44:35__
-
-> Duidelijke vragen<br> :date: __2021-03-25 07:56:31__
-
-> Makkelijke bediening<br> :date: __2021-03-22 07:35:34__
-
-> Heeft me goed geholpen tijdens mijn periode als corona patiënt. Deze app is gebruikt ism het Albert Schweitzer ziekenhuis Dordrecht.<br> :date: __2021-03-21 17:18:03__
-
-> Altijd een reminder als er nog niet aan toegekomen bent.<br> :date: __2021-03-18 11:47:59__
 
 
 
@@ -257,6 +257,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
 
+> Handige app<br> :date: __2021-03-29 13:28:49__
+
 > Correct en tijdig melding voor de meting<br> :date: __2021-03-25 11:43:57__
 
 > Soms werkt de app niet<br> :date: __2021-03-24 06:26:49__
@@ -274,8 +276,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > App werkt al een paar weken niet meer, jammer want ik vulde hem iedere week in<br> :date: __2021-02-22 08:37:34__
 
 > Hulpje om mijn longen conditie in de gaten te houden.<br> :date: __2021-02-17 07:17:31__
-
-> Een ding minder laten niets of ze het ontvangen hebben<br> :date: __2021-02-14 09:56:24__
 
 
 

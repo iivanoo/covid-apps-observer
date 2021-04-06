@@ -187,6 +187,12 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Excellent!<br> :date: __2021-04-04 01:21:13__
+
+> Awesome experience thanks Maureen<br> :date: __2021-04-03 16:52:03__
+
+> Very helpful and professional<br> :date: __2021-03-31 01:19:57__
+
 > So convenient and the doctor was wonderful! Saved me a trip down to the Urgi center in the middle of a storm and during the pandemic<br> :date: __2021-03-19 02:16:41__
 
 > Good<br> :date: __2021-03-14 18:16:48__
@@ -200,12 +206,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Great<br> :date: __2021-01-28 18:34:23__
 
 > Just what I needed when I needed it. Thank God for technology!<br> :date: __2021-01-26 16:31:42__
-
-> I love City MD app and the service is quick.<br> :date: __2021-01-21 16:13:20__
-
-> Awesome<br> :date: __2021-01-20 22:56:48__
-
-> Love this app and the doctors they provide<br> :date: __2021-01-15 22:48:07__
 
 
 
@@ -253,6 +253,8 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 1 reviews"/>
 </p>
 
+> Who the hell do you think you are telling me that I need wifi to use video conferencing? This is pathetic BS. You have no idea how fast my wifi is and how fast my mobile data is. My mobile data is 5G and performs VERY well. I do NOT need wifi to use video. Don't you ever force users to do BS like this. Now I have to walk around and find some inferior wifi spot that will be slower than my 5G, and the main medical issue here is that after COVID, I cannot walk around too much. PATHETIC!!!!!!<br> :date: __2021-03-28 20:41:01__
+
 > Wasted time filling everything out and the doctor cancelled the visit...<br> :date: __2021-03-13 10:17:15__
 
 > I can't login to the app with the same credentials that I logged in on desktop website. I tried resetting my password, but app didn't even find my account either. Yikes. Zero star<br> :date: __2020-08-27 14:18:37__
@@ -270,7 +272,5 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > As of July 02, 2020 at 5:30pm, there is a problem with the app. If you create an account thru the web using your computer, or by responding to the "patient portal" e-mail first, the app will not recognize your username or password chosen thru the web. Until they get this glitch worked out, I'd stay away from the app. Using the web based versus app based patient portal seems way more functional. If you must use your phone or tablet to access the patient portal via this app, you may currently need to delete the account set up through the web and re-sign-up via the app. I'm no IT guy, but this shouldn't be so hard. :-(<br> :date: __2020-07-02 23:56:39__
 
 > Log in fail! I keep entering my username and password and it tells me it's wrong. I know it's not because I can log in through the web patient portal.<br> :date: __2020-07-02 16:01:20__
-
-> Can't log in on the app.<br> :date: __2020-06-29 17:39:33__
 
 

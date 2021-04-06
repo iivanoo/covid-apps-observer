@@ -166,6 +166,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> App ist einfach zu bedienen (wenn man den Dreh raus hat 😉). Schön, dass die Einträge bei mir bleiben und nicht automatisch irgendwo landen.<br> :date: __2021-04-02 03:47:23__
+
 > Klasse App, kann man nur weiter empfehlen. Die ist sogar besser als die Corona Warn App von der Bundesregierung. Ganz ehrlich diese App hilft wirklich auf die Gesundheit zu achten und man achtet dadurch besser auf die Corona Regeln. Finde ich echt Klasse.<br> :date: __2021-03-04 00:05:31__
 
 > Top<br> :date: __2021-01-27 19:52:09__
@@ -183,8 +185,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Empfehlenswert, leicht zu nutzen. Danke!<br> :date: __2020-12-26 20:15:06__
 
 > Die App war zuvor hilfreich, aber sehr simpel. Das neuste Update bringt zahlreiche Verbesserungen. Ich kann meine Kontakte bearbeiten und löschen, eintragen wann Masken getragen wurden bzw. ob man sich drinne oder draußen getroffen hat und mich ans Lüften erinnern lassen. Ich würde es noch gut finden, wenn man eintragen könnte ob ich und die anderen Masken getragen haben o. nur einer davon. Das ist aber meckern auf hohem Niveau. Ich bin nun sehr zufrieden. Danke und Frohe Weihnachten!<br> :date: __2020-12-26 14:06:37__
-
-> Finde Überarbeitung sehr gut und hilfreich. Man trifft Personen immer an Orten, weshalb es gut ist, die Unterscheidung aufzuheben.<br> :date: __2020-12-26 12:03:22__
 
 
 
@@ -278,7 +278,7 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
-> Geht's noch? Gibt es wirklich Deppen, die brav ihre Kontakte eintragen und auch noch glauben, daß das irgend jemandem etwas nützt? Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie gleich wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, daß diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber leider nur sehr wenig.<br> :date: __2021-03-28 03:55:17__
+> Geht's noch? Gibt es wirklich Pfosten, die brav ihre Kontakte eintragen und auch noch glauben, daß das irgend jemandem etwas nützt? Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie gleich wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, daß diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber leider nur sehr wenig.<br> :date: __2021-04-04 02:57:30__
 
 > Nach dem heutigen Update waren alle bisherigen Eintragungen weg! Die App ist leider unbrauchbar. Ich habe sie wieder gelöscht<br> :date: __2020-12-20 22:53:19__
 

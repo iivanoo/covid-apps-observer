@@ -215,7 +215,7 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
 
-> Phone needed re booting may have been network issues at least I got to install it this time.<br> :date: __2021-02-21 12:01:40__
+> Unless this app is updated it poses a security risk.<br> :date: __2021-04-04 00:34:39__
 
 > No idea if it works and hope I never find out<br> :date: __2020-10-29 09:53:40__
 
@@ -271,6 +271,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> No current State restrictions or links to them. Hopelessly out of date<br> :date: __2021-03-30 01:11:14__
+
 > Hopeless<br> :date: __2021-02-08 08:38:01__
 
 > Useless<br> :date: __2021-01-15 12:13:51__
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > There is no information regarding privacy measures for testing procedures and the storage location/process regarding retained genetic samples.<br> :date: __2020-12-14 09:05:12__
 
 > Unfortunate that it provides incorrect information which causes difficulties for business. Since when were churches allowed 1 per 2sqm with a maximum of 150 for a religious ceremony - not a wedding or a funeral.<br> :date: __2020-12-07 04:05:26__
-
-> Never used and a waste of money by the government!<br> :date: __2020-11-08 22:39:03__
 
 

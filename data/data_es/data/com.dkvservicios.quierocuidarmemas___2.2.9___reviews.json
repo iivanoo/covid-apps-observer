@@ -1,15 +1,27 @@
 [
     {
-        "reviewId": "gp:AOqpTOFj8VmwVsi6BjhnVuOLmPCUQ4sO9nnyCgZ1N1Rxq-d1UqJNbeY9BRCgUKA9Aywx8pThtQ4ePc7qjVYl4g",
-        "userName": "Pablo Fausto Derungs Sancho",
-        "userImage": "https://play-lh.googleusercontent.com/-f4O8eH8bTJ8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucniSsMaPQ0twrZKwrSbYYEWRbxyNw/photo.jpg",
-        "content": "IMPRESCINDIBLE",
-        "score": 5,
+        "reviewId": "gp:AOqpTOFVTK97B0qd-eoHMMB5TikaF0y7O0SEmrlmpVPVMzu07m-fZ8xNkuH2lHW9HRpLyrA0MQPSOj5h0HXCVQ",
+        "userName": "Elena Herrero",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuY75tb7Vx5_HcEt2UV1jtVW8ySiHBOqzbAWumFoQ",
+        "content": "No sirve para nada. No puedes pedir cita ni aparecen las que pides por tel\u00e9fono pese a estar vinculado a tu p\u00f3liza. Totalmente in\u00fatil.",
+        "score": 1,
         "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-03-28 13:24:20",
+        "reviewCreatedVersion": "2.2.9",
+        "at": "2021-04-01 09:34:55",
         "replyContent": null,
         "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF-ZWeYSfw8kov_fKSZFFM3gV5EPZ1Rqog6iukiQlzAJ1-Tr-Juo-sLnjtn2eCpwY91F-vxvjUKUWwtiA",
+        "userName": "javi fer pac ar",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFHhZ3ARf7q5ojLI3Dehwt3tJUSapjA6MdXDZThw",
+        "content": "Perfecta la videoconsulta m\u00e9dica y la Doctora una profesional como la copa de un pino, qu\u00e9 cercana y certera. Mi enhorabuena al servicio y a la Doctora",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.9",
+        "at": "2021-03-30 09:45:46",
+        "replyContent": "\u00a1\u00a1Hola!! nos alegra saber que la aplicaci\u00f3n te est\u00e1 siendo tan \u00fatil. Muchas gracias por el comentario. Un saludo.",
+        "repliedAt": "2021-03-29 14:55:44"
     },
     {
         "reviewId": "gp:AOqpTOHATOuRCzqrD2--md3zhDVrGslVDTzCbgI6RGvSOlmfvc75DWBr_0hMRaZUPcFIN1L-ro4JnJLdnEukTw",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-03-26 17:33:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "\u00a1Hola Xavi! nos alegra saber que la aplicaci\u00f3n te est\u00e1 siendo tan \u00fatil. Muchas gracias por el comentario. Un saludo.",
+        "repliedAt": "2021-03-30 14:40:01"
     },
     {
         "reviewId": "gp:AOqpTOEYrcfMfP3dJDL1bFt9duyaVz2w4gsGWCWXM9sx4LxqJw1-nav2talDmxxyGLJgn62tCsOzt31DTa83OA",
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhEWlKVy_4HJxLJXbp987SQg71mrZeq4WnzqIj0Kw",
         "content": "No sirve para nada. No la actualizan en absoluto. Mi m\u00e9dico se jubil\u00f3 en noviembre y a\u00fan aparece en el cuadro m\u00e9dico. Adem\u00e1s ya van 3 veces que he preguntado por otros profesionales y algunos han cambiado de especialidad y otros ya no visitaban en el centro en el que aparec\u00edan. Y por si fuera poco en la mayor\u00eda de los casos no se puede pedir cita online (a\u00fan siendo de un centro dkv). Penoso.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-03-22 17:33:19",
         "replyContent": null,
@@ -86,7 +98,7 @@
     {
         "reviewId": "gp:AOqpTOH91qCsE_wLfdk5UkQKFKoSogdFXzVRwL5Ur_oyX8HZE9i9vAK5Z2EOx8yBf0q7h1y46elDyVLrzOkypw",
         "userName": "Evi Iglesias",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghq8FQMaLtRFRG7viq63-x9u_RHBNB0MdpHdPCpAA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGcqZkb8080K8_abH7TxLRULG4uLKGtI0tzEdNO2g",
         "content": "Buena aplicaci\u00f3n",
         "score": 5,
         "thumbsUpCount": 0,
@@ -134,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOEnSc9KqNoFVYnuBwVnQwsbgQKqKfD_3TR8aB4ttPNGEpZvQN3NcPEPIPTCgqs_oYqleYGKTcQMrwLwdA",
         "userName": "Lesbia Junieth Lagos",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJ_fQid5QPKTAExuo2ot0UdVnmHN_7cUCStI7UUeA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjiJmbDAYILrcBV8jNK5Q3P9pP-XgNfnQgGBDNbu4s",
         "content": "Ise una cancelacion para darme de baja me pidieron 15.95 euros y nada isieron sean mas responsables y no estes sacando el dinero que tanto cuesta ganarlo",
         "score": 1,
         "thumbsUpCount": 0,
@@ -161,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-GhyHFFhquw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7X56oTsn6SiaHcSM3c2jF6qK2vw/photo.jpg",
         "content": "Malisima no lo siguiente he tenido varios seguros m\u00e9dicos y esto ha sido nefasto, en esta aplicaci\u00f3n no permite pedir una cita por especialista ni por centro medico, en pocas palabras no sirve para nada tengo que llamar y esperar 30 mins a que me atiendan en la l\u00ednea telef\u00f3nica para asignar una cita puffff",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-03-06 09:19:25",
         "replyContent": "Hola Felipe, necesitar\u00edamos m\u00e1s datos para poder tratar el problema que nos comentas. Por favor, escr\u00edbenos a soporte@dkvservicios.com para ayudarte. Un saludo",
@@ -185,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-hiOrrxyzZSM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmSx488-yKcPb9qK5xl4QLuaFu4w/photo.jpg",
         "content": "Horroroso tanto la aplicaci\u00f3n como los servicios que prestan ,ya que una consulta de dermatolog\u00eda te dan para dentro de 4meses , tardan m\u00e1s que la p\u00fablica. En cuanto a la app ,las videollamadas no valen para nada por qu\u00e9 no se ven,y otra vas a coger la llamada y se cierra la app,cuando consigues cogerlo,pues se corta y no se escucha muy bien Si haces un chat medico te contestan con suerte cada hora ,otras veces te cierran la consulta directamente,y las recetas nunca llegan.",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-03-05 20:26:30",
         "replyContent": "Hola, antes de nada pedirte disculpas por la experiencia que has tenido. Para poder analizar tu caso necesitar\u00edamos m\u00e1s datos, por favor, escr\u00edbenos a soporte@dkvservicios.com y vemos c\u00f3mo solucionarlo. Un saludo.",
@@ -365,7 +377,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgRJfAPRPxgrkaeO91E9xQrywnxxVUO7hk60EWD",
         "content": "parece que esta todo correcto pero se deberia desarrollar la app para windows , seria mas comodo para compartir los informes medicos y las recetas electronica , gana tiempo y evita ir a las consultas para temas leves. dos detalles mas : los correos de empresa o de dominio propio dan problemas solo acepta gmail, hotmail... y el codigo que hay que meter sobran los ultimos cinco ceros...en cualquier caso enhorabuena !!!!",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.2.7",
         "at": "2021-02-11 13:43:49",
         "replyContent": "Hola Miguel \u00c1ngel, muchas gracias por tu comentario. Por el momento no tenemos previsto desarrollar una aplicaci\u00f3n para Windows pero s\u00ed que puedes acceder a la versi\u00f3n web (http://dkv.es/qcmas), donde existen algunas de las funcionalidades como la carpeta de salud. Revisaremos bien tus propuestas para seguir mejorando. Un saludo",
@@ -866,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOHzMGft7Peuyr5lwosfuxosY5vl5nguyPm77PwIw964bLljZkqVDBeSfTpDOJM-w-GGd23aS3erKrisHg",
         "userName": "claudia valeria tineo arrieta",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg487XRXreSv9U5wGfdXK9N3P5pycH6Qm4cJHckhA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh9fyZn5Mn7_ZOGX4g2fksB0ucugI2i6mG5i26EcA",
         "content": "Muy bueno",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2474,7 +2486,7 @@
     {
         "reviewId": "gp:AOqpTOFhr-U4-uV6qedF41AUfjmjbH2A2Wsg5wdScH92y59ITrUQPbl5NOEboqBa8RrEQIITIHuJK83pmJblkg",
         "userName": "M\u00f3nica Polo Tom\u00e1s",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-DZcRTqu91JgN5ayK2LFW5ODEkwvxkj8utGfh",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDZdWaGg9_X-Sp31RZ-8x7v5NKmW954ifLwxt_2tU",
         "content": "Las consultas virtuales son c\u00f3modas y \u00fatiles y la aplicaci\u00f3n muy f\u00e1cil de usar",
         "score": 5,
         "thumbsUpCount": 1,

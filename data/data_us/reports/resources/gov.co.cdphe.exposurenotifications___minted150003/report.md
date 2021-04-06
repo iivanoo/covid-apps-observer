@@ -125,6 +125,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 5 reviews"/>
 </p>
 
+> An essential app for public health. I received an exposure alert in November and it was very helpful. The bluetooth proximity sensor is a clever way to contact trace while maintaining privacy for users. I wish I could dismiss the "unable to check for exposures" alert that appears hourly if your bluetooth is off. I only have bluetooth on/exposure alerts enabled when I am at work around other people or out grocery shopping. When I am at home, alone, not doing anything or going out because there's a global pandemic, I wish this app would stop bugging me to turn on bluetooth. This was not previously an issue. I can understand this from a public health perspective- you want to avoid people forgetting to turn the app off. But really, the hourly reminders are very annoying and actually unnecessary for a lot of users.<br> :date: __2021-03-30 21:08:44__
+
 > Elpata<br> :date: __2021-03-06 05:27:02__
 
 > I think<br> :date: __2021-03-03 20:07:33__
@@ -142,8 +144,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > Its ok so far.<br> :date: __2021-02-10 07:47:18__
 
 > Awesome<br> :date: __2021-02-02 10:22:45__
-
-> Glad its her<br> :date: __2021-02-02 00:56:04__
 
 
 
@@ -237,6 +237,16 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> This app is capable of being better.<br> :date: __2021-04-02 05:35:07__
+
+> When you actually test positive you cant report it if you open the test results to see for yourself, as the code is one time only. so this app is useless.<br> :date: __2021-04-02 01:16:39__
+
+> Not installing after reading the reviews! Absolutely useless fo collecting anything if you or your programers failed to include a link! As per usual... The government completing another job... well done<br> :date: __2021-03-31 05:09:19__
+
+> This app was really good at telling me when my GPS was off. Never received any other notifications in the ~6 months that it was installed.<br> :date: __2021-03-30 18:10:17__
+
+> Intellgince HQ, International Confirmation Grid : to individual users / devices. Focus Efficiency foundation groud 0. Start up.<br> :date: __2021-03-28 22:21:40__
+
 > Are you freaking kidding me, this just another way of controlling people grow the f up<br> :date: __2021-03-25 17:58:40__
 
 > To notify somebody if I have been exposed it asks for a verification code that was never given to me....so there's no way for me to notify. It defeats the purpose of having the app.<br> :date: __2021-03-24 23:56:27__
@@ -246,15 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > I have a question.. If your app uses Bluetooth to recognize other phones and that phone's user's status, what happens if I 'always' listen to music on Bluetooth headphones when out in downtown.. Is your app useless in this situation?<br> :date: __2021-03-18 07:09:12__
 
 > I was asked to install this by my boss at work but I don't think it works itself? 🤔<br> :date: __2021-03-18 01:50:21__
-
-> Its lying cuz I'm outside doing it<br> :date: __2021-03-17 17:43:47__
-
-> Piss off, covid brownshirts.<br> :date: __2021-03-12 02:31:49__
-
-> This app doesn't let you report your results of you got them from somewhere other than a mass testing site. Nearly useless.<br> :date: __2021-03-06 21:49:26__
-
-> Pointless. I'm a teacher and have been quarantined for to exposure from a student. It's obvious this info isn't getting passed on.<br> :date: __2021-02-27 17:14:04__
-
-> Only works if people register, which doesn't seem likely to me....<br> :date: __2021-02-20 14:16:34__
 
 

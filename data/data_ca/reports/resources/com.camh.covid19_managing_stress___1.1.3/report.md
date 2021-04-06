@@ -121,6 +121,8 @@ The Managing your stress & anxiety app has been installed by more than **500** t
 <img src="5_star_reviews_wordcloud.png" alt="com.camh.covid19_managing_stress 5 reviews"/>
 </p>
 
+> This app made me even more stressed out. If version 2.0 is released; who knows what I'll do...<br> :date: __2021-04-01 17:58:22__
+
 > Very useful<br> :date: __2020-08-11 19:37:06__
 
 

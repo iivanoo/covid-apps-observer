@@ -187,6 +187,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 2 reviews"/>
 </p>
 
+> 😉😃👍👍<br> :date: __2021-03-30 17:32:37__
+
 > Cada vez que cierras la aplicación desaparecen los datos personales y los certificados solicitados<br> :date: __2021-01-22 10:37:19__
 
 > Cuando quiero renovar un certificado que he creado anteriormente, me sale error y no me deja renovarlo. Debo crear uno nuevo cada vez que lo necesito.<br> :date: __2021-01-16 14:06:48__

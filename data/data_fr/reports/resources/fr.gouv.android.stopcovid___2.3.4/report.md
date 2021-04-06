@@ -142,25 +142,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 5 reviews"/>
 </p>
 
-> Efficace simple importante<br> :date: __2021-03-28 14:41:38__
+> Des attestations faciles et rapides<br> :date: __2021-04-04 13:40:32__
 
-> Instructif<br> :date: __2021-03-28 14:35:26__
+> indispensable<br> :date: __2021-04-04 13:12:11__
 
-> J'apprécie cette application plus besoin de papier c'est très utile<br> :date: __2021-03-28 14:14:08__
+> Application citoyenne et essentielle<br> :date: __2021-04-04 13:11:24__
 
-> 🌈🌞✨😇🕊️💛💖<br> :date: __2021-03-28 13:36:19__
+> Tout est nokel<br> :date: __2021-04-04 12:07:33__
 
-> Très bonne application<br> :date: __2021-03-28 13:04:38__
+> Fonctionne bien<br> :date: __2021-04-04 11:58:35__
 
-> Rapide et efficace<br> :date: __2021-03-28 12:24:53__
+> Enfin super bien !!!<br> :date: __2021-04-04 11:30:50__
 
-> Application fonctionnant correctement sur smartphone Asus. Application claire, nette et facile d'utilisation.<br> :date: __2021-03-28 11:50:27__
+> Très bonne application. Très pratique pour les attestations et informations journalières de votre département.<br> :date: __2021-04-04 10:51:33__
 
-> Serait utile si tout le monde jouait le jeu !<br> :date: __2021-03-28 11:48:11__
+> Bien<br> :date: __2021-04-04 10:10:28__
 
-> Pratique, facile à utiliser mais vivement qu'on n'ait plus besoin.<br> :date: __2021-03-28 10:53:53__
+> Coorespond a mon besoin.<br> :date: __2021-04-04 10:07:27__
 
-> Facile d'utilisation...<br> :date: __2021-03-28 10:40:41__
+> C'est pratique, j'ai confiance en cette application. Je me sens en sécurité.<br> :date: __2021-04-04 09:40:41__
 
 
 
@@ -170,25 +170,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 4 reviews"/>
 </p>
 
-> Je préférais que le département, avec l'informatique actuelle, c'est possible.<br> :date: __2021-03-28 12:55:41__
+> Très bien<br> :date: __2021-04-04 10:34:40__
 
-> Tout fonctionne.<br> :date: __2021-03-28 12:01:31__
+> Les donnees remontees sont dorenavant precises et les notifications fonctionnent correctement<br> :date: __2021-04-04 10:26:07__
 
-> J apprécie cette application et ça me rassure en cas de contact avec les gens<br> :date: __2021-03-28 10:11:44__
+> Ok<br> :date: __2021-04-04 10:19:46__
 
-> Je l'utilise à chacune de mes sorties et je n'ai jamais été alerté et c'est tant mieux.<br> :date: __2021-03-28 09:11:07__
+> Inutile. J'ai eu le covid. Impossible de me déclarer sur l'application car il faut y saisir un code. Ni mon labo, ni mon médecin, ni la secsoc n'ont été en mesure de me donner ce numéro. Impossible donc d'activer LA fonctionnalité principale de l'application.<br> :date: __2021-04-04 10:15:22__
 
-> Très bon suivi sur l'avancée du covid. Là ou je ne suis pas d'accord c'est certains chiffres donnés. Les journaux indiquent 10 millions de vaccinés alors que sur tousanticovid le nombre est de même pas 7 millions. Qui a tort qui a raison ?<br> :date: __2021-03-28 07:54:28__
+> Très bien.<br> :date: __2021-04-04 09:31:12__
 
-> Intéressant<br> :date: __2021-03-27 21:43:49__
+> Bien, il manque des courbes pour voir l'évolution sur 1 mois et sur la dernière année et cela sera parfait. A si, une case pour être volontaire au vaccin...<br> :date: __2021-04-04 08:53:27__
 
-> Utile pour les attestations<br> :date: __2021-03-27 20:30:51__
+> Impossible d'activer l'application !<br> :date: __2021-04-04 03:56:18__
 
-> Quinze minutes trop long, cinq sufisent pour être largement infecté<br> :date: __2021-03-27 19:14:01__
+> Intéressant préventivement<br> :date: __2021-04-04 00:27:50__
 
-> simple à utiliser<br> :date: __2021-03-27 19:07:04__
+> Documenté mais MaJ un peu besogneuse<br> :date: __2021-04-03 22:54:45__
 
-> Utile<br> :date: __2021-03-27 18:54:20__
+> Facile à utiliser<br> :date: __2021-04-03 20:26:17__
 
 
 
@@ -198,25 +198,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 3 reviews"/>
 </p>
 
-> Pas assez de gens ont telecharger l'application domage<br> :date: __2021-03-28 08:13:47__
+> Je reçois le dimanche 4 avril une alerte me disant qu’aux alentours du lundi 29 mars plus ou moins 1 jour (pour protéger l’anonymat …..), j’ai été exposé à au moins une personne positive. Est- ce suffisamment précis pour être vraiment utile ???<br> :date: __2021-04-04 13:24:24__
 
-> Je veux avoir l'attestation de déplacement<br> :date: __2021-03-27 22:20:59__
+> Pad assez de monde sur cet application<br> :date: __2021-04-04 09:40:51__
 
-> L'application se désactive régulièrement.<br> :date: __2021-03-27 22:01:48__
+> Pourquoi l'application ne gère pas les disponibilités vaccinales sur le modèle de Covidiste ???<br> :date: __2021-04-04 09:30:37__
 
-> Le seul intérêt est de pouvoir créer des attestations, le reste est inutile<br> :date: __2021-03-27 18:07:08__
+> Les MAJ des chiffres et des nouvelles attestations sont un peu tardives<br> :date: __2021-04-04 09:30:04__
 
-> il faudrait noter que l on est vacciné quand c est le cas<br> :date: __2021-03-27 17:53:34__
+> Pourquoi n'est pas mis à jour quotidiennement? Car les chiffres publiés sont dépassés par rapport à ceux des médias ou des annonces ministérielles !!<br> :date: __2021-04-04 09:21:45__
 
-> Une étoile puisqu'on ne peut pas faire 0. Plante sans cesse. Inutilisable. Amateurisme bien en phase avec la gestion globale de l'épidémie. Update février : après des multiples mises à jour ça commence à ressembler à un produit fini.<br> :date: __2021-03-27 17:09:59__
+> J ai eu un message de l assurance maladie des pays de loireme décrivant comme " cas contact" : après vérification auprès de l assurance maladie du nord : c était faux !<br> :date: __2021-04-04 00:29:03__
 
-> Les chiffres ne sont pas suffisamment a jours<br> :date: __2021-03-27 16:13:59__
+> Ne s'active pas. Depuis plusieurs jours impossible de lancer l'application jusqu'alors tout se faisait automatiquement. Là soit disant le bluetooth ne fonctionne pas, sauf qu'il fonctionne parfaitement. J'ai essayé de redémarrer le téléphone, rien. De désinstaller l'appli et la réinstaller toujours rien 🙄<br> :date: __2021-04-03 14:06:39__
 
-> Plus d'informations sur les lieux de vaccination seraient nécessaires. J'ai 75 ans et toujours pas vaccinée...c'est anxiogène Les informations gouvernementales ne sont pas en adéquation avec la réalité. Dommage<br> :date: __2021-03-27 15:10:33__
+> Pratique pour les attestations..... par contre pas vu 1 risque en 1 an.....<br> :date: __2021-04-03 10:30:48__
 
-> Ça plante, ça plante... Si ça ne plantait pas, ça pourrait être bien !<br> :date: __2021-03-27 14:19:47__
+> Bonne application ⁸<br> :date: __2021-04-03 06:34:20__
 
-> Les données ne se réinitialisent pas tout les jours 😐 mais sinon appli super.👍<br> :date: __2021-03-27 14:02:59__
+> Dernières mesures non mentionnées<br> :date: __2021-04-02 22:42:13__
 
 
 
@@ -226,25 +226,25 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 2 reviews"/>
 </p>
 
-> Bonsoir Dommage de n avoir aucune réponse à toutes mes questions Bonne soirée Cordialement Mon mari à contracté le Virus mercredi dernier, aucun signal de cette application Dommage<br> :date: __2021-03-27 20:47:09__
+> Bof<br> :date: __2021-04-04 13:40:48__
 
-> La mise à jour de tousanticovid est déplaisante : elle se met en marche toute seule en pleine nuit . En connectant le Bluetooth. Elle vide la batterie du tel. Démarrages intempestifs<br> :date: __2021-03-27 18:42:13__
+> Bien<br> :date: __2021-04-04 13:10:08__
 
-> Trois fois j'ai tenté en vain de faire cette mise à jour SANS PASSER PAR GOOGLE PLAY. C'est anormal d'y être contraint. J'espère sans en être sûr maintenant que la mise à jour est faite.<br> :date: __2021-03-27 16:13:30__
+> J'aimerais valider une demande de vaccination avec puis être contacté pour un rdv.<br> :date: __2021-04-04 13:08:27__
 
-> Je me demande encore a qui ça sert... et bug, l'applicationSe coupe régulier ment. ... je dois cliquer sur activer l'application presque tous les jours...<br> :date: __2021-03-27 15:52:11__
+> Les mises à jour ne fonctionnent pas<br> :date: __2021-04-04 10:25:16__
 
-> Informations en retard pa rapport aux médias, manque des indicateurs, mais espère toujours que ça servira au cas où !<br> :date: __2021-03-27 14:18:21__
+> Impossible de lancer l'application sans en passer par Google play. Ça fait des mois que je l'utilise sans jamais avoir été alerté jusque-là...statistiquement j'aurai dû en croiser au moins un à condition que les BT soient actives et que les cas covid aient bien renseigné l'application. Bon pour suivre les indicateurs c'est pas trop mal...mais l'info est accessible sur internet de toute façon. A t-on un retour d'expérience sur son efficacité?<br> :date: __2021-04-04 08:10:06__
 
-> Bonjour Désolé pour la remarque, mais l'application n'a pas été mise à jour une fois de plus!! Les chiffres par régions ou par département sont toujours les mêmes donc les chiffres sont faux . J'aimerai avoir les chiffres exact de mon département ou je vis la moindre des choses !!! Cordialement<br> :date: __2021-03-27 12:52:25__
+> L'application se désactive de manière intenpestive, mais on peut voir les stat du Covid donc +1 étoiles<br> :date: __2021-04-04 00:45:23__
 
-> l'application m'informe que j'ai été en contact avec une personne positive mais ne me dit pas à quel moment.<br> :date: __2021-03-27 12:42:15__
+> Retraite<br> :date: __2021-04-03 21:26:46__
 
-> Ne signale pas les cas contact malgré un signalement nominatif<br> :date: __2021-03-27 08:08:16__
+> Malheureusement se désactive tout les deux jours<br> :date: __2021-04-03 19:23:11__
 
-> Je l ai installé des le début de la 1ère version qui avait un autre nom mais mise à part les attestations je ny aipas trouve beaucoup d intérêt et puis il y a des periodes où les chiffres ne se mettent pas à jour<br> :date: __2021-03-27 07:47:57__
+> Toujours pas de disponibilité pour la vaccination !!!<br> :date: __2021-04-03 17:55:53__
 
-> Efficace pour les attestations et les chiffres mais sinon peu pratique pour le tracking.<br> :date: __2021-03-27 07:40:26__
+> Présentation brouillone et confuse !<br> :date: __2021-04-02 11:49:27__
 
 
 
@@ -254,24 +254,24 @@ The TousAntiCovid app has been installed by more than **5000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.gouv.android.stopcovid 1 reviews"/>
 </p>
 
-> L'application est totalement inutile ! Avec moins de 5% de cas Covid déclaré dans l'application, seulement 182 milles personnes ont été prévenues qu'ils sont susceptibles d'avoir été contaminé par un des 4,5 million des malades Covid. Les informations et mise à jours des attestations arrivent bien plus tard que ce qu'on trouve en quelques clics sur le web.<br> :date: __2021-03-28 13:18:28__
+> Obligé de se localiser par Bluetooth, encore du tracking 😡<br> :date: __2021-04-04 10:23:14__
 
-> Stockage des données sur un serveur centralisé ? Non merci.<br> :date: __2021-03-28 01:42:21__
+> Ne sert strictement à rien .<br> :date: __2021-04-04 09:51:48__
 
-> Soyons citoyens.<br> :date: __2021-03-27 23:53:44__
+> Un peu mieux que les versions précédentes ! Il était temps que l'appli soit enfin opérationnelle après plus de six mois de ratés, de mises au point pas ou mal debuguées......<br> :date: __2021-04-04 09:07:04__
 
-> Trop nul<br> :date: __2021-03-27 19:24:30__
+> Jamais à jour, aujourd'hui la nouvelle attestation n'est pas présente....<br> :date: __2021-04-04 08:04:13__
 
-> Relou<br> :date: __2021-03-27 17:45:14__
+> Trop compliqué demande des informations incompréhensible pour un néophytes informatique.<br> :date: __2021-04-04 07:57:58__
 
-> J'ai reçu jeudi 25 mars un SMS de la sécurité sociale comme quoi j'étais cas contact et l'application me dit "pas d'exposition à risque détecté" !!!! C'est un système vraiment nul ! Et bien sûr rien ne me dit quand le contact a ru lieu, ni avec qui, ce qui pourtant serait bien utile pour retrouver les conditions de l'exposition (port du masque, intérieur ou extérieur, durée de l'exposition, distance).... Un système et des protocoles vraiment pas efficace, nous ne sommes pas prêt de nous en sorti<br> :date: __2021-03-27 17:20:07__
+> Blocages fréquents, arrêts intempestifs<br> :date: __2021-04-04 05:13:03__
 
-> Bof<br> :date: __2021-03-27 16:23:56__
+> Nul sert à rien à part nous suivre à la trace bientôt ce sera la puce dans le bras !!! Ça vide de la batterie pour rien!! Manipulation les cas diminuent jamais soit disant le vaccin c'est utile mon œil on ce fou de notre gueule ça change rien as part qu'on soit des moutons au prix de notre liberté et notre santé. La France Liberté, égalité, fraternité ??? Le fric tout simplement les labos qui s'en mettent plein les poches !!<br> :date: __2021-04-04 01:44:06__
 
-> On se retrouve cas contact sans aucune précision sur le moment du contact ?<br> :date: __2021-03-27 16:04:36__
+> Vide la batterie. Les chiffres sont pas mis à jour. Ne trouve pas la connexion internet. Plante régulièrement.<br> :date: __2021-04-03 16:40:19__
 
-> appli qui demande bcp de mémoire de stockage, trop lourde pour des petits téléphones et trop de choses inutiles. juste besoin des attestations et du traçage covid-19. version lite ????<br> :date: __2021-03-27 14:55:01__
+> La présentation des donnees et des graphiques est trompeuse voir fallacieuse<br> :date: __2021-04-03 16:02:14__
 
-> N'accepte pas un code postal. Même après réinstallation. Donc je diminue d'une étoile.<br> :date: __2021-03-27 14:19:20__
+> Données pas à jour pas d alerte malgré cas positifs dans l environnements bref ne sert pas à grand chose<br> :date: __2021-04-03 13:55:13__
 
 

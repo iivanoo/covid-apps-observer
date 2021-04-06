@@ -133,8 +133,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
-> IMPRESCINDIBLE<br> :date: __2021-03-28 13:27:33__
-
 > Eficaz<br> :date: __2021-01-09 09:53:04__
 
 > Molt bona app<br> :date: __2020-12-23 17:31:12__
@@ -152,6 +150,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > En mi opinión está bien que tengas que introducir tus datos para que Salut pueda contactar contigo y hacer el seguimiento,pero para mí sería perfecta ya si incorporase la función de Bluetooth para avisar de sintomáticos y/o positivos cercanos.<br> :date: __2020-07-22 13:01:04__
 
 > Es muy necesaria y óptima debería de tenerla todo el mundo instalada y más ahora<br> :date: __2020-07-17 06:29:26__
+
+> Ningun problema de conecsion<br> :date: __2020-06-21 16:11:09__
 
 
 
@@ -245,6 +245,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No te avisa del resultado de la pcr que te hayas hecho. Y si tienes fiebre y malestar no tienes síntomas? Una App inútil<br> :date: __2021-04-01 18:46:18__
+
+> Hago el test que hay y me dice que no presento síntomas. Entonces los síntomas que tengo son inventados o que??? No sirve de nada esta app.<br> :date: __2021-03-29 09:32:44__
+
 > pulso para poner el CIP y se cierra reinstalo meses después, por haber sido contacto directo. Se queda colgado al pulsar "hacer test"<br> :date: __2021-03-21 15:07:14__
 
 > Después de poner que tengo problemas para respirar y de rellenar el formulario para que me llamen, no me ha llamado nadie en más de 2 semanas. Es mejor ir en persona al médico porque está aplicación no ayuda en nada. Luego dicen que no hay que ir en persona etc. Pero si los recursos que ponen no funcionan, no quedan más opciones<br> :date: __2021-03-07 23:03:08__
@@ -260,9 +264,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Intento entrar en el test y no hay manera. Ya la he instalado y desinstalado 3 veces. Voy a permisos y está todo correcto. Y me dicen que rengo que poner la temperatura 2 veces al día porque soy contacto estrecho. Pues no sé cómo lo voy a hacer......<br> :date: __2021-01-18 21:20:04__
 
 > No sirve de mucho bajo mi humilde opinión... ayer me hicieron el test rápido que suelen hacer antes del pcr y di positivo con síntomas evidentes tales como pérdida de olfato, gusto, fiebre, etc.. según el test de ésta app no tengo síntomas... cosas a mejorar, ahí lo dejo.<br> :date: __2021-01-12 11:55:26__
-
-> He fet el test i en diu que no tinc símptomes quan avui he vist el resultat positiu del PCR d,ahir día 31 desembre que em van fer.<br> :date: __2021-01-01 15:48:05__
-
-> He dado positivo. Hago el test para informarlo. Pongo los síntomas. Fiebre tos dificultad para respirar, dolor de cabeza. Malestar. El resultado es: no tienes síntomas , pero no te confíes.<br> :date: __2020-12-24 15:17:35__
 
 

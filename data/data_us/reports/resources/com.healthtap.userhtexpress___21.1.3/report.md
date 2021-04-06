@@ -230,6 +230,8 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 <img src="5_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 5 reviews"/>
 </p>
 
+> Very quick and easy. I wish I had been known about this service, because it was very convenient. The doctor was very helpful with prescriptions, with information and labs. Great service<br> :date: __2021-03-31 16:27:33__
+
 > so fast! I saw a doctor within 2 minutes that was polite professional and prescribed antibiotic which is exactly what I needed The whole thing was over and done with within 5 minutes from my downloading the app, amazing!<br> :date: __2021-03-19 04:22:28__
 
 > This is the best app for health insights<br> :date: __2021-03-17 05:23:00__
@@ -247,8 +249,6 @@ The HealthTap — 24/7 Telemedicine app has been installed by more than **100000
 > Less than half an hour to download app speak with doctor and my prescription sent! Great service great doctor and I don't have to hassle with insurance company 😀<br> :date: __2021-02-20 14:14:52__
 
 > You can ask questions for free. They are usually answered fairly quickly. So far, so good.<br> :date: __2021-02-18 20:17:23__
-
-> So Greate<br> :date: __2021-02-09 23:14:14__
 
 
 

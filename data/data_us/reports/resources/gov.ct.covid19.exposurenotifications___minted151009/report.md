@@ -236,6 +236,10 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> I've had this app on my phone for months and it hasn't alerted once! How is that possible when I go to Wal-Mart and run errands at least once a week. I also noticed that no matter how many hours I'm out and about the ONLY time it does its random checks is when I'm home! One day in particular I was in and out of my house a couple of times and I compared the documented checks with my Google maps log and all 4 checks were while I was obviously home! This app is totally useless if NO ONE USES IT!!<br> :date: __2021-03-31 14:25:09__
+
+> This was a crock of shiitt<br> :date: __2021-03-30 05:05:13__
+
 > Never alerts, like ever. I know a few people around me got it and it wasn't reported.<br> :date: __2021-03-26 16:10:09__
 
 > The state has abandoned this cancer patient, so you can pound sand. I will not be sharing anymore data with this state.<br> :date: __2021-03-04 15:45:44__
@@ -251,9 +255,5 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > BEWARE!! EATS UP BATTERY !!<br> :date: __2021-01-31 08:37:46__
 
 > No. Evil. After response: affirmed evil.<br> :date: __2021-01-27 14:25:57__
-
-> What code do I have to enter? I was never given one. EDIT2: It's been more than 2 weeks since I got my test so it's pointless now. As far as "feeling" I didn't get a coffee, I was legit never given one.<br> :date: __2021-01-27 02:39:40__
-
-> No, don't want it<br> :date: __2021-01-26 19:47:56__
 
 

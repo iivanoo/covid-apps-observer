@@ -140,6 +140,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Buena<br> :date: __2021-03-29 07:07:30__
+
 > Funcionamiento perfecto. Alta de usuario sin problema con el certificado digital de la FNMT.<br> :date: __2021-03-16 19:46:28__
 
 > Práctico y veraz<br> :date: __2021-03-12 18:50:55__
@@ -157,8 +159,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > En menos de un minuto das de alta el teléfono y ya se activan las notificaciones en la app. Funciona normal, no da fallo.<br> :date: __2020-10-29 10:15:15__
 
 > Muy mal. Tengo que mandar una foto al médico y no sé cómo. No sé si la ha mandado o no, no me lo confirma<br> :date: __2020-08-27 14:24:26__
-
-> Extraordinaria. Muy intuitiva y completa.<br> :date: __2020-06-17 13:30:37__
 
 
 
@@ -208,6 +208,10 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> Una farsa la aapp<br> :date: __2021-04-03 21:07:00__
+
+> Ya había leído que no servía, pero no he podido ni activarla de ninguna manera.<br> :date: __2021-04-03 16:28:06__
+
 > Inútil total, sólo se puede acceder a través de la cl@ve digital y esta debe de ser registrada presencial. Yo con 80 años y varias operaciones no me puedo desplazar. Debido a la pandemia nadie te atiende. Para que tanta seguridad solo para pedir cita médica. ABSURDO<br> :date: __2021-03-15 09:42:41__
 
 > Le doy una estrella porque no se puede poner menos. Me hace cambiar mi contraseña CL@VE y después no me deja acceder porque da error. Sale el mensaje de que mi clave no es correcta. Es pésima.<br> :date: __2021-03-14 22:45:45__
@@ -223,9 +227,5 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > No me deja entrar cuando meto todos mis datos<br> :date: __2021-03-12 15:12:49__
 
 > No se puede entrar, ni con certificado, ni con los datos, no hay forma.<br> :date: __2021-03-12 12:58:11__
-
-> Malisima<br> :date: __2021-03-12 12:08:21__
-
-> La APP descargada No reconoce el certificado digital aunque este en memoria, y no da datos,<br> :date: __2021-03-09 21:46:09__
 
 

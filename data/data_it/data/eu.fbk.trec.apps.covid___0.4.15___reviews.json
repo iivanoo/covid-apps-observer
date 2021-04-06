@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGl0I7ciEz5knGDK_yQHgyHbzegjjdYNvpUuhG4cLYIrIvw56OXtUHUpNz6cR-JbLUByDf80ir5UF3WSsk",
+        "userName": "Andrea Carpella",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0GBakTKyMwREyv3v97m4jzrtqVAWzakCLP9I6bA",
+        "content": "Ottima app, funziona benissimo",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "0.4.15",
+        "at": "2021-03-28 16:19:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE_oBvCssN-_TNTxozZjZeJvRMKZTc16kaJFC1yTTvw4jK0esTyg_wwoad3YnbR74Vh7krWlRqcJI6lgVg",
         "userName": "Gianluca Galassi",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIunOAdoXr9J5IRtTyzzt_sqxQAp41iTq7PjgCPg",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgiPHUt5zo_lEUSZvCXZ8g8YgnsurtzrQk7t7Ecz3c",
         "content": "Continua a impiantarsi",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-01-27 20:08:07",
         "replyContent": null,

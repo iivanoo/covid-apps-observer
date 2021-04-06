@@ -197,6 +197,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
 
+> Es werden nicht alle Fidnis Uhren unterstüt zum Beispiel alle Gelexi Uhren Fon Samsung oder iPhone könnte noch etwas mehr gesdaldet werden.<br> :date: __2021-04-02 07:09:48__
+
 > Sehr gute Idee. Daher ein Stern. Aber leider ist die App nicht zu gebrauchen. Samsung, Huawei oder auch Apple werden leider nicht unterstützt. Fitbit und GoogleFit sind allein nicht aussagekräftig genug. Sehr schlecht Umsetzung des Robert Koch Instituts. Habe eigentlich mehr erwartet. Heute 3.März neuer Versuch. Nun werden auch andere Hersteller unterstützt. Huawei und Apple fehlen aber leider immer noch.<br> :date: __2021-03-03 20:40:51__
 
 > Wäre schön, wenn die App direkt mit Huawei Health gekoppelt werden könnte und nicht nur über den Umweg über Google Fit. Dann würden mehr Daten automatisch zur Verfügung stehen, z.B. Sauerstoff Sättigung, Puls, Gewicht (Ich benutze ein Huawei Band 4 Pro). LG<br> :date: __2021-02-21 12:28:32__
@@ -214,8 +216,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Funktioniert das alles auch mit einer samsung gear sport?<br> :date: __2020-12-18 10:36:10__
 
 > Samsung Health kann nicht integriert werden. Diese Fehlermeldung habe ich dauerhaft. Kann leider keine Daten spenden.<br> :date: __2020-12-17 20:15:14__
-
-> Anscheinend will man von mir nicht mehr wie 66 Tage.. und dies ist schon über 2 Monate her 😒 Update: nachdem ich 120 Tage im Rückstand war, hat sich die App wieder die Tage geholt und ist "auf dem aktuellen Stand" Darstellung und Auswertung könnte ansprechender dargestellt werden..<br> :date: __2020-12-12 08:33:37__
 
 
 
@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Geht so. Mi Fit wird nicht unterstützt. So auch nicht Notify for Mi oder Sleep as Android.<br> :date: __2021-04-02 07:09:33__
+
 > Leider funktioniert das Verknüpfen mit dem Amazfit Zepp Konto nicht obwohl auswählbar. Springt nach der Authorisierung einfach eine Seite zurück. Bitte beheben. Dann spende ich gern meine Daten.<br> :date: __2021-03-26 19:22:19__
 
 > Überhaupt nicht selbsterklärend.<br> :date: __2021-03-20 15:25:22__
@@ -260,8 +262,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Server fehler<br> :date: __2021-03-08 20:25:53__
 
 > Totaler Schmarrn. Könne ihr euch sparen.<br> :date: __2021-03-04 21:40:05__
-
-> Die Idee ist super, die Ausführung vor allen Dingen die Kompatibilität noch sehr dünn, für die mi-band Fitness Tracker unbrauchbar. Da gibt es wohl noch Hoffnung eine App zu bekommen die nicht mit heißer Nadel gestrickt wurde. Bis jetzt 22. 02.2021 ist nichts geschehen für Mifit. Warum eigentlich???<br> :date: __2021-02-22 10:29:11__
 
 > Mittlerweile einfach nur noch peinlich! Immernoch keine Unterstützung der Huawei health App! Die App ist schon fast 1 Jahr verfügbar, obwohl die Ressourcen da sind wird nichts verbessert angepasst oder geändert. Die Bewertungen und Meinungen der Probanden sind anscheinend nichtig.<br> :date: __2021-02-19 23:02:18__
 

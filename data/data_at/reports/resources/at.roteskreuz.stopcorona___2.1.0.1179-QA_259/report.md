@@ -148,6 +148,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Keine Ahnung was die macht, gab noch keinen Ton von sich. Hoffentlich bleibt das so<br> :date: __2021-04-02 10:49:35__
+
+> Bis jetzt kein Bericht hereinbekommen<br> :date: __2021-03-30 16:40:11__
+
 > Sinnvoll<br> :date: __2021-03-07 10:50:13__
 
 > Die App ist gut, macht, was sie soll. Das Problem der App ist, dass sie auf jede Befindlichkeit und Bedenken von Nicht-Usern Rücksicht nimmt und deshalb nur sehr eingeschränkt leistet, was technisch wie DSVO-rechtlich durchaus möglich wäre. Corona ist aber kein Problem, dass sich mit Meinungsvielfalt, Einwandbehandlung und Demokratie in den Griff kriegen lãsst.<br> :date: __2021-03-03 11:13:01__
@@ -163,10 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Perfekt<br> :date: __2021-02-23 09:54:04__
 
 > Super App! Viele Nutzer*innen=große Wirkung! Bitte mitmachen!!!<br> :date: __2021-02-20 07:48:12__
-
-> Wichtig! 👍🏻 Bitte installiert diese App!<br> :date: __2021-02-19 10:09:50__
-
-> Passt! Eine, der notwendigen Maßnahmen. Schade, dass die Lügner und Verschwörungstheoretiker versuchen, die App kaputtzureden.<br> :date: __2021-02-19 08:46:22__
 
 
 
@@ -260,6 +260,16 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Programmierer sollten Nachsitzen!!! 1. Extremer Stromfresser 2. Datenverbrauch absurd hoch 3. Bluetooth blockiert. Smartwatch ist wertlos nach installation der App. Also wieder weg mit dem Müll!!!!<br> :date: __2021-04-03 13:09:36__
+
+> Hat im letzten Monat 1,35 GB an Mobilfunkdaten gesaugt, davon 1,25 im Hintergrundmodus. Wozu??? Ist jetzt deinstalliert. Schlecht gemacht<br> :date: __2021-04-02 14:26:25__
+
+> Sorry aber warum muss ich der app erlauben 24/7 im Hintergrund aktiv zu sein?! Es klappt bei anderen Apps um 100x besser OHNE das diese ausgeführt wird. Diese App ist einfach zum Stromverbrauchen optimal.<br> :date: __2021-04-01 14:44:00__
+
+> Habe in diesem Monat, obwohl ich mein Handy kaum eingeschaltet hatte, über 1,5gb an Daten verloren! Bei meinem Tarif sind das beinahe 17€, da ich normalerweise keine mobilen Daten verwende. Wofür braucht diese App überhaupt soviele Daten? Meiner Meinung nach sollte diese App den Menschen helfen die Corona Krise einzudämmen, bzw. etwas Kontrolle zu geben, aber momentan ist es nur Abzocke!<br> :date: __2021-04-01 11:33:05__
+
+> Update: eindeutige enge K1 bekommt Info, dass "kein relevantes Ansteckungsrisiko" besteht. Wollte der App eine zweite Chance geben, aber alle 30 Minuten die selbe Fehlinformation - deinstalliert. Schade... Alte Rezension: Gleich der erste Handshake funktioniert nicht. Wozu wird das Mikrofon benötigt? Idee gut und unterstützenswert, Verbesserung als OpenSource-Projekt wäre sinnvoll! Vorerst wieder deinstalliert...<br> :date: __2021-03-29 08:34:18__
+
 > bringt ständig irgendwelche Meldungen und das immer auf Englisch... ich dachte es ist eine österreichische App? Brauch ich jetzt dazu ein Übersetzungsprogramm oder was?<br> :date: __2021-03-20 20:19:10__
 
 > Die App verbraucht nur Ressourcen. Diese App hat jedes Vertrauen verloren. Solange ich keine Informationen darüber erhalte, ob sie überhaupt funktioniert hat sie bei mir keine Chance auf dem Handy. Eine Rückmeldung von der App über die anonymen aber erfassten Kontakte wäre nicht schlecht. Ich weiß einfach nicht ob die App wirklich funktioniert. Also habe ich sie wieder gelöscht. Die App ist Ressourcen- und Geldverschwendung.<br> :date: __2021-03-20 18:52:24__
@@ -269,15 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Der Entwickler ist der Einzige, welcher aus dieser App einen (monetären) Nutzen zieht. Ansonsten taugt die App gar nicht. Die Informationen wiederholen sich ständig, Kontakte werden nicht über eine Infektion informiert, etc.<br> :date: __2021-03-13 00:09:22__
 
 > Man sieht als Konsument nicht ob die App tatsächlich funktioniert. Diese App ist zusätzlich der Größte Stromfresser den ich je erlebt habe. Mails an den Produkthersteller werden hier genausowenig beantwortet wie alle Fragen in den Bewertungen hier. Sichtlich steckt hier das Rote Kreuz Geld ein und leistet dafür auch noch Null Support. Diese App verschwindet demnächst aus GooglePlay da ein Funktionsnachweis für AppUser weder nachvollziehbar noch jemals erfolgt ist. Behaupten kann man viel!<br> :date: __2021-03-12 17:37:02__
-
-> Kein feed back, kein Nutzen erkannt bisher<br> :date: __2021-03-12 17:07:15__
-
-> Die App ist leider absoluter Blödsinn. Da hat man die App 1 Jahr am Handy und wenn jemand aus dem Verwandtenkreis sie nützen möchte weil er positiv ist, meldet die App, dass ein Update notwendig ist und in der Vergangenheit nichts aufgezeichnet wurde. Super App! Absoluter Schrott!<br> :date: __2021-03-08 15:00:38__
-
-> absolut störend... einer meiner kontakte ist positiv... set dem kommt mehrmals am tag eie warnung... das ist störend.... ein mal mit bestätigung würde reichen. SO unser kompletter bekanntenkreis ist gezwungen den schrott zu deinstallieren.... fast stündlich pipsende warnungen und fragen die sich im android system for diese app nicht abschalten lassen.... schade... guter ansatz - aber das SPAM verhalten der app geht gar nicht<br> :date: __2021-03-07 12:39:55__
-
-> So ne blöde unnötige app, die geht nicht mal, obwohl Bluetooth aktiviert ist, gleich wieder deinstalliert<br> :date: __2021-03-06 17:03:08__
-
-> Scheint nicht zu funktionieren, kein Mehrwert<br> :date: __2021-03-04 08:08:41__
 
 

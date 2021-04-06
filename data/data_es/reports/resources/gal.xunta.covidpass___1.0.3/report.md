@@ -233,6 +233,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 3 reviews"/>
 </p>
 
+> Ahoramismo da error al iniciar sesión (en varios teléfonos)<br> :date: __2021-03-31 14:40:32__
+
 > La aplicación parece qué funciona bien, traé todas las medidas explicadas,la pena es que ni la gente ni los locales las cumplen.y llamas a las fuerzas del orden y pasan de todo.esto es la jungla.<br> :date: __2021-03-04 11:03:31__
 
 > HAY GRAVE PROBLEMA HAY BARES ESOS CODIGOS A ESCANEAR ,OURENSE MUCHOS NO LO TIENEN ES ILEGALIDAD,ESTA APP SE BASA CON ESA, INFORMACIÓN,VERAZ,XUNTA DEBE OBLIGAR,COLOQUEN LAS PUERTAS DE LOS NEGOCIOS,DISCRECION,SI VAS NO LO HAY NO TE LO VAN DAR SI NO ESTA A LA VISTA,HAY BARES BARRIO COVADONGA,NO PONEN MASCARILLA,EL TABERNERO,Y MUCHOS,O ESTO NO ES SERIO,CP,32001Y NO ESTA AL DIA CON LOS CAMBIOS,RESTRINCCIONES,HACERME CASO BARES BARRIO COVADONGA,CREEN SE CONOCEN SON VECINOS NO PASA NADA,NO ES JUSTO PO<br> :date: __2021-01-02 01:37:17__
@@ -281,6 +283,12 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> Tras a última actualización non funciona o lector QR (quedase en negro) Teléfono PocoX3. A aplicación ten permiso de acceso a cámara. Tendes algunha solución?<br> :date: __2021-04-04 11:35:37__
+
+> De verdad? En estos momentos informa que esperes.<br> :date: __2021-03-31 14:35:16__
+
+> Non podes escanear o qr en sitios sin cobertura, un acceso directo para escanear o qr non viña mal. Para buscar un concello hai que pasar toda a lista.<br> :date: __2021-03-31 04:36:38__
+
 > No va la aplicación de ninguna manera<br> :date: __2021-03-14 04:33:01__
 
 > Porque quereis acceder a contenidos de internet? Mientras no saqueis ese requisito mucha gente, no aceptara<br> :date: __2021-03-04 19:54:38__
@@ -294,11 +302,5 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > Sin comentarios<br> :date: __2021-01-16 12:21:58__
 
 > Pide clave 365 eso es un error que garantiza que muy pocos la van a utilizar cuantas mas restricciones peor esto sólo funciona si la instala todo el mundo, cusntos más mejor, si se ponen restricciones no va . La administracion a su bola para obtener la 365 ir s ventanilla n 11 del capitulo de Axterix.<br> :date: __2021-01-03 10:58:26__
-
-> Desexo saber si esta aplicación ten coste algún, sexa polo que sexa, avisos, descarga...<br> :date: __2020-12-06 17:27:13__
-
-> No actualizan los datos, no coinciden las restricciones que indica la aplicación con la realidad<br> :date: __2020-12-04 08:43:32__
-
-> Voy a ajustes y pongo idioma castellano y toda la información está en gallego. Si tengo la opción de castellano, esa opción no existe?. Soy gallega y tengo el derecho de elegir. Sin comentarios.<br> :date: __2020-12-03 22:40:10__
 
 

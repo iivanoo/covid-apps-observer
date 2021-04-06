@@ -186,6 +186,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Great if u lost ur ID I'm able to go to dispo and for cigarettes<br> :date: __2021-03-31 15:20:19__
+
+> I think this is great. I love being able to switch out what info is visible on my ID. I just wish when I tried to use it, the other person didn't think I was tricking them.<br> :date: __2021-03-30 03:59:32__
+
 > Very exceptional app<br> :date: __2021-03-28 03:40:48__
 
 > Great way to step into the future of technology 🙌 👏<br> :date: __2021-03-22 16:45:37__
@@ -202,10 +206,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > What a wonderful way to access your ID in the Digital age. I applaud Gov. Polis for being instrumental in giving Coloradoans access to their content digitally.<br> :date: __2021-03-16 21:34:38__
 
-> Super easy<br> :date: __2021-03-16 17:51:00__
-
-> Great info on Colorado<br> :date: __2021-03-16 15:30:26__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,8 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> As a web/app developer myself, I was pleasantly surprised at the ease of use. The UI/UX is solid. The digital ID works perfectly.<br> :date: __2021-04-01 23:30:04__
 
 > Works well. Good list of resourses<br> :date: __2021-02-21 23:45:41__
 
@@ -231,8 +233,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Good<br> :date: __2021-01-12 01:43:44__
 
 > Good<br> :date: __2020-12-11 15:53:14__
-
-> Tricky to get set up but after that works like a charm<br> :date: __2020-12-02 23:26:24__
 
 
 
@@ -298,6 +298,14 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> Login asks for password and sms code every time. Even with fingerprint.<br> :date: __2021-04-03 01:43:14__
+
+> Major issues with selfie identity verification. App is trash.<br> :date: __2021-04-01 05:23:41__
+
+> App crashes everytime I try to scan my ID. Went through all the troubleshooting just to be told the app doesn't support my phone. (AT&T Maestro Pro)<br> :date: __2021-03-30 23:28:54__
+
+> You have compromised my food stamps DHHS, Aid rescue sequence for supporting the survival needs.<br> :date: __2021-03-28 22:26:10__
+
 > I was so excited to download this app only to be shut out EVERY TIME I TRY TO SCAN MY ID! Please iron out the kinks and I will be sure to come back for a 5 star review.<br> :date: __2021-03-27 02:04:15__
 
 > Captures too much phone info. Spyware.<br> :date: __2021-03-20 19:52:26__
@@ -309,13 +317,5 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Freezes every time i attempt to scan barcode. Tried both on and off wifi. Reinstalled multiple times. Ensured all permissions are allowed. Then when i try to chat for help, i get queued for 26 minutes until it closes on a Friday. I need help. If you're moving this direction, you still need humans to address concerns.<br> :date: __2021-03-06 01:51:13__
 
 > App doesn't work don't bother downloading waste of time. I tried making an account and it said I already made one when I tried to make it the night before it claimed the site was down and to try the next morning.<br> :date: __2021-02-24 22:58:24__
-
-> I even took a screen shot of my username and password and its still not letting me log in???<br> :date: __2021-02-24 19:07:01__
-
-> Just downloaded the app, I'm trying to create an account and its not scanning the bar code on the back of my ID. The app closes completely everytime I have tried. It's getting a little frustrating.<br> :date: __2021-02-24 17:15:47__
-
-> Everytime i try to setup my account i scan the back of my DL and then the app crashes.<br> :date: __2021-02-22 17:40:53__
-
-> Horrible<br> :date: __2021-02-19 18:15:50__
 
 

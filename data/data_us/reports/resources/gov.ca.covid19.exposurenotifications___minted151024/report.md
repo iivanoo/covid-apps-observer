@@ -128,6 +128,10 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Like it<br> :date: __2021-04-03 03:37:03__
+
+> 19 dys Cure Of not sick clears Jj84<br> :date: __2021-04-02 02:56:21__
+
 > Good<br> :date: __2021-03-27 09:14:00__
 
 > It is a comfort to have<br> :date: __2021-03-10 17:53:08__
@@ -144,10 +148,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > Neve used it<br> :date: __2021-02-25 05:07:55__
 
-> Hello My Name Is Carolene Mae Sears And Yes I Have Have Been Falsely Caqused About What I May Have Said To The Public & What I Have On My Private Phone. Yes I Live In A Senior Apptarment One Of Four Buildings. Yes at First Things & Places That We Both Had Been To Had Been Closed Or Their Buiding had a improved or removed So Yes Would Go Out Just To Go Out For A Meal & Find Out Where The Different & Meet People That We'd Pass each & Say Hello To & Yes Because Just Met & Yes Nothing Important<br> :date: __2021-02-17 22:01:46__
-
-> We need to keep safe the community<br> :date: __2021-02-16 04:41:18__
-
 
 
 #### 4-star reviews
@@ -155,6 +155,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> Tells you if anyone near you has it.<br> :date: __2021-04-04 05:27:06__
 
 > Not sure if it even works and I guess I don't want to find out the hard way. Stay safe everyone.<br> :date: __2021-03-16 13:35:44__
 
@@ -173,8 +175,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > At least we've gotten around to using technology in the fight against the Virus.<br> :date: __2021-01-24 04:21:46__
 
 > I'm sure it works for the people that don't mind being followed and tracked but I'm not one of those I know how important the viruses but people know enough about my whereabouts and everything else already as it is I'm home enough then I don't need to worry so much and I don't want my Bluetooth turned on all the time so I got rid of this app if I was out in public a lot I would still have it<br> :date: __2021-01-19 07:30:18__
-
-> Intuitive and easy but I don't think enough users to be effective. I'm an ER doc in CA and have had on my phone with bluetooth on fo weeks and haven't gotten a single alert despite knowing for certain that I've been exposed. A lot.<br> :date: __2021-01-16 05:46:47__
 
 
 
@@ -212,6 +212,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> This app needs the option to report if you have been near another user running this app but not tested positive so you can verify the app is actually doing something. I reinstalled this app to see if it has been changed. While it now shows its active, it still fails to show it is actually functioning correctly. It needs to show it is actually communicating with others using this app by showing you were near someone else using this app.<br> :date: __2021-04-03 16:02:31__
+
 > Nice concept but im not convinced its effective enough to justify battery drain and storage space- uninstalling and taking my chances.<br> :date: __2021-03-23 07:32:45__
 
 > Bad battery drain. Without the app installed I finish my day at 9pm around 30% battery on S21. With the app installed my phone is at 30% by 3pm. Similar use both days.<br> :date: __2021-03-11 05:12:14__
@@ -230,8 +232,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > Did not notified me when I was in contact<br> :date: __2021-02-21 06:15:41__
 
-> The app is a great idea, however, no one uses it. I spent a couple weeks in a covid unit and I normally work on an ambulance and have never had an exposure alert.<br> :date: __2021-02-11 15:57:11__
-
 
 
 #### 1-star reviews
@@ -239,6 +239,12 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> Useless unless someone volunteers to report themselves when sick.<br> :date: __2021-04-02 19:30:43__
+
+> This is lame. It's only valid if 1) everyone uses the apo, and 2) everyone who has Covid actually adds that to the app. Not everything is meant for crowd sourcing!<br> :date: __2021-03-29 08:32:00__
+
+> Covid 19 is just a play to take our rights away. Cant go to school or church but if you got reservations to the french laundry, good too go #recall newsom<br> :date: __2021-03-29 07:22:18__
 
 > Can't disable bluetooth notification. I don't always keep bluetooth on, and I don't need to be constantly reminded by this app that it's off. This should be a separate notification toggle.<br> :date: __2021-03-27 15:34:43__
 
@@ -253,11 +259,5 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > I tested positive and apparently I got it somewhere. I am trying to add to the app Im a positive and I cant. This is super inaccurate!!<br> :date: __2021-03-07 17:54:02__
 
 > If I could rate this no stars I would. Do not download stuff on to my phone without my permission. Disgusting.<br> :date: __2021-03-06 03:57:35__
-
-> Doesn't do anything<br> :date: __2021-03-03 19:14:08__
-
-> My roommate had covid and this app showed no exposure. I was around him the whole time, fortunately I didn't get it. I've been around others who were positive and the app still said no exposure. It's useless. Uninstalling.<br> :date: __2021-03-02 02:07:57__
-
-> Does it even work? At the very least tell us how many devices did u check per day, if others are not using this service, it's just using my battery for nothing<br> :date: __2021-02-25 20:14:10__
 
 

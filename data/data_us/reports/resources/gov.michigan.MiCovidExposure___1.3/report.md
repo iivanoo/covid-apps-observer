@@ -126,6 +126,14 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Good to know<br> :date: __2021-04-04 05:01:49__
+
+> GREAT!!!!!!! GOT MY FIRST INJECTION FROM TWO BEAUTIFUL NURSE'S AT BLUEWATER CONVENTION CENTER MARCH 2, 2021. HAD A COVID TEST MARCH 9, 2021 AND IT WAS NEGATIVE. I HAD THE SECOND INJECTION MARCH 30, 2021. NURSE'S FROM SCCHD GAVE ME THE INJECTIONS AND THEY WERE ABSOLUTELY WONDERFUL!!! THEY WERE CLEAN, THE PLACE CLEAN, A LADY WAS CONSTANTLY CLEANING, THEY WERE EXTREMELY KNOWLEDGEABLE ABOUT EVERYTHING. I WAS SO RELIEVED AND GRATEFUL TO THEM!!!!!!!!<br> :date: __2021-04-03 00:42:20__
+
+> Feeling more confident & safe!! Thank You!!!<br> :date: __2021-04-01 03:55:10__
+
+> I have android version 11 and am getting notifications.<br> :date: __2021-03-30 12:41:06__
+
 > Good<br> :date: __2021-03-23 22:25:39__
 
 > I love it<br> :date: __2021-03-19 03:12:34__
@@ -137,14 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Liability<br> :date: __2021-02-28 19:43:56__
 
 > Keeps us up to date us Michiganders Stay safe everyone...<br> :date: __2021-02-26 13:44:15__
-
-> Just use the app. Would be nice if it showed number of other app users it's "seen" though, then I could be sure it's working<br> :date: __2021-02-17 14:13:30__
-
-> App wasn't updating at all but the developer contacted me and the fix he gave me worked!!! Now it updates every day<br> :date: __2021-02-06 19:25:27__
-
-> Way improved from its earlier design<br> :date: __2021-02-03 03:53:22__
-
-> Covid 19b is almost gone.<br> :date: __2021-01-31 02:51:04__
 
 
 
@@ -238,7 +238,17 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> Has not checked for exposure since Feb 20, 2021.<br> :date: __2021-03-28 01:31:18__
+> Downloaded and like everyone else it stopped working. I uninstalled..reinstalled and checked settings as was suggested by the individuals who interact with the reviews. It hasnt worked in weeks and I had a close contact within that time, that wasnt caught. Wow. I wont be reinstalling .<br> :date: __2021-04-03 22:50:39__
+
+> Has not checked for exposure since Feb 20, 2021. I followed your instructions and my Covid 19 app is still not working. Nothing Exported as well when I clicked export.<br> :date: __2021-04-02 00:59:15__
+
+> I did the whole background battery app check thing suggested below. This was not the problem. Bottom line. It's time to give up on the ghost. It doesn't work and it's not the battery settings.<br> :date: __2021-04-01 04:56:16__
+
+> I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!!<br> :date: __2021-03-30 11:33:45__
+
+> Hasn't checked for an exposure in 6 weeks, no way to manually check, either.<br> :date: __2021-03-29 19:53:25__
+
+> This app caused many of my other apps to crash upon opening. The only thing that fixed the problem was to uninstall this.<br> :date: __2021-03-29 00:19:32__
 
 > Has stopped checking. It's been six weeks since the last check. App is really useless.<br> :date: __2021-03-26 12:35:37__
 
@@ -247,15 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > It worked well initially but its last check was in February and nothing I do (sort of uninstalling/reinstalling) will get it to check again. I turned off all the battery saver options on my phone, nothing limits it at all, and yet suddenly it just doesn't work. An app like this is exactly what we need right now but it's only good if people install and use it, and we can't use it so there's no point installing it.<br> :date: __2021-03-23 22:31:32__
 
 > Nothing but battery problems since installing.<br> :date: __2021-03-22 13:10:57__
-
-> Says -0- activity. Michigan in 7-10 days went uptic 53% in cases. We have the variant. Useless. Questions below presume I have pre-knowledge of 3 subjects. This is useless. ABSOLUTELY USELESS.<br> :date: __2021-03-21 18:53:40__
-
-> Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right. Reloaded as you said to. Still no readings since the 23rd. Installed and Uninstaller 6 times. Still not working right. Last exposure check was on the 13th. The app is an excellent idea just wish it would work.<br> :date: __2021-03-21 15:51:41__
-
-> I am giving up on this app. It stops checking. I reload it. It works for a few days and stops. It is partcularly likely to stop checking when I leave home to shop or go to the doctors, exactly when I need it. I do not have a Samsung phone. Battery saving is turned off for this app. I open it daily to keep it active. All other apps work. The fact is that this app simply does not work.<br> :date: __2021-03-20 01:16:52__
-
-> Constantly stops checking . Need to Uninstall and reinstall every few days. edit: that sites instructions are terrible. I tried multiple times to figure it out. And needed to do anything extra to get your app to work still means it's terrible and deserves 1 star. EDIT AGAIN: yeah those instructions aren't exact, but I did it and the app would still stop checking after a couple days. Even if I opened the app every single day. No one should have to change settings for this to work.<br> :date: __2021-03-19 16:20:36__
-
-> Everyone has sams complaint. Time to uninstall.<br> :date: __2021-03-18 19:08:35__
 
 

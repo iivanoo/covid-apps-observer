@@ -217,7 +217,7 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
-> IMPRESCINDIBLE<br> :date: __2021-03-28 13:24:20__
+> Perfecta la videoconsulta médica y la Doctora una profesional como la copa de un pino, qué cercana y certera. Mi enhorabuena al servicio y a la Doctora<br> :date: __2021-03-30 09:45:46__
 
 > La atención ha sido muy positiva<br> :date: __2021-03-26 17:33:11__
 
@@ -317,6 +317,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> No sirve para nada. No puedes pedir cita ni aparecen las que pides por teléfono pese a estar vinculado a tu póliza. Totalmente inútil.<br> :date: __2021-04-01 09:34:55__
+
 > Si el centro médico no fuera Policlínica la línea .afecta a vuestro seguro famedic<br> :date: __2021-03-28 11:28:40__
 
 > No sirve para nada. No la actualizan en absoluto. Mi médico se jubiló en noviembre y aún aparece en el cuadro médico. Además ya van 3 veces que he preguntado por otros profesionales y algunos han cambiado de especialidad y otros ya no visitaban en el centro en el que aparecían. Y por si fuera poco en la mayoría de los casos no se puede pedir cita online (aún siendo de un centro dkv). Penoso.<br> :date: __2021-03-22 17:33:19__
@@ -334,7 +336,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > La forma de buscar médico y seleccionar es muy mala, la de Mapfre funciona mejor, saludos<br> :date: __2021-02-19 00:17:39__
 
 > Se bloquea al poner el correo y la contraseña. Tuve que llamar para que me lo desbloquearan. Y otra vez mo pude entrar, se volvio a bloquear y la tuve que desinalar.<br> :date: __2021-02-14 23:22:19__
-
-> No me deja hacer nada, no tengo donde añadir mi tarjeta, ni el cuadro médico....nada....solo tengo una pantalla, cuando me consta que tiene que haber más....<br> :date: __2021-02-10 00:05:53__
 
 

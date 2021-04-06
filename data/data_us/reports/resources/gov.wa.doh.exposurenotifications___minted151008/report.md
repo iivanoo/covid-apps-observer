@@ -129,6 +129,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> Great App..<br> :date: __2021-03-29 06:45:05__
+
 > Love it<br> :date: __2021-03-26 03:17:58__
 
 > 2021-03-07 Update fixed. 5 stars! {App worked as expected for the first 2 months, however this morning I see a notice that I need to have location turned on as well as bluetooth. This is unnerving seeing that the app settings on my phone show no permissions are in use. I have android 6 but this same concern is being voiced by an android 9 user here in the comments. This behaviour is new and as I can only toggle location globally on my device.}<br> :date: __2021-03-07 16:34:01__
@@ -147,8 +149,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > It can save your life.<br> :date: __2021-02-04 13:16:33__
 
-> Secure. Good software design.<br> :date: __2021-01-20 07:00:49__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 4 reviews"/>
 </p>
+
+> Will this WA Notify app works within Washington state only? or does it works in other state too? I recently flew to CA and I don't see anything happen to this app yet.<br> :date: __2021-04-01 22:24:40__
 
 > Got notified today of a possible exposure from last week. I could figure out where I was since I had the date, and go get tested immediately. I wish the app said you SHOULD get tested not only if you have symptoms as the testing center wasn't sure if I met testing criteria. But glad I had the app installed if I can prevent further spread.<br> :date: __2021-02-10 19:24:40__
 
@@ -174,8 +176,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Update: I restarted my phone and was able to install WA Notify afterwards. It seems pretty straight forward to use. Old Review: Couldn't get it to install. Acted like it was installing, but the app didn't. Android 8 on unlocked Sony phone.<br> :date: __2020-12-08 00:10:56__
 
 > I like the idea but it's a little hard on my older battery. I have to idle it when I'm by myself, like in my car. Even if I forget to turn it back on it's still better than not running it at all. I hope more people use it, the more the better.<br> :date: __2020-12-07 19:22:15__
-
-> Update: It took 4 tries to install it but it is finally working on my phone, if you are having issues I would uninstall and try again. This is not working on my Samsung A20 Android phone. It appears to download but just keeps coming back to the download page when I try to open it.<br> :date: __2020-12-03 03:36:07__
 
 
 

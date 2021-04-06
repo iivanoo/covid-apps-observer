@@ -220,6 +220,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
 
+> I cant get it to open.<br> :date: __2021-03-30 20:29:43__
+
 > Stupid<br> :date: __2021-02-03 18:15:43__
 
 > Hope it works doesent sound great. Tbh<br> :date: __2021-01-29 19:42:46__
@@ -237,7 +239,5 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 > This app will never work! People who have covid-19 break quarantine all the time, you still see people not wearing mask, no ones checking on people in quarantine, everyone's still having gatherings with more then 10 ppl.. The list goes on... So don't download this it's worthless you'll never get a notification!<br> :date: __2021-01-18 05:14:49__
 
 > My mother is high risk so I felt this app was a great idea. I tried downloading it but it said I didn't have enough space. So I delete three apps that I don't need and some useless pictures. It still says I don't have enough space. So I check how much space I have and it says 615 MB, which should be more than enough to download the stupid app. I check and this app only requires 22MB. I try to redownload and it doesn't work again. Great concept but it won't even let me try it out.<br> :date: __2021-01-17 02:44:44__
-
-> Downloaded just to delete. I hate when apps are shoved in my face<br> :date: __2021-01-15 04:04:34__
 
 

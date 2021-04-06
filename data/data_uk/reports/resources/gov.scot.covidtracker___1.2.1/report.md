@@ -167,6 +167,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 4 reviews"/>
 </p>
 
+> Good app<br> :date: __2021-03-29 22:40:54__
+
 > Good helpful app<br> :date: __2021-02-23 17:24:21__
 
 > Very good.<br> :date: __2021-02-22 14:00:38__
@@ -185,8 +187,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Excellent. Many thanks for making this app which keeps us all safer and aware.<br> :date: __2021-01-27 22:28:42__
 
-> Updating review,,,track and trace provided me with new code which worked within the app. Will say I have been in contact with two people who tested positive but had no notification through app but dont know if they inputted the code 🤔<br> :date: __2021-01-20 13:31:05__
-
 
 
 #### 3-star reviews
@@ -194,6 +194,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
+
+> This might just be the most effective software to be Bluetooth turned on all the time to enable almost everyone in Scotland to track&trace possible SARS/covid carriers,..<br> :date: __2021-04-04 11:33:48__
 
 > Early version seemed fine, sat happily in background, but now app complains when I don't have Bluetooth or location on at home.<br> :date: __2021-03-25 11:07:01__
 
@@ -212,8 +214,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > None yet .<br> :date: __2021-02-18 22:15:08__
 
 > I received a notification to self-isolate back in November. When I checked the periods of exposure on the Google notification page there had been no exposure checks for several days including the day I was allegedly exposed. It turned out I was nowhere near anybody that had corvid-19. My next door neighbour had tested positive a week or so before. The Bluetooth picked up the notification through the wall.<br> :date: __2021-02-12 14:22:32__
-
-> None<br> :date: __2021-01-22 22:34:21__
 
 
 
@@ -251,6 +251,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Waste of time and tax money. Been with people who have notified the ap that they are covid positive and the ap did not notify me.<br> :date: __2021-04-01 15:40:03__
+
 > Looks like nobody uses it. Look at all the infections<br> :date: __2021-03-25 16:20:38__
 
 > According to covid exposure checks in settings the app did three checks between launch and November Reinstalled app in November, it hasn't carried out one single check since!<br> :date: __2021-03-24 03:50:19__
@@ -268,7 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Just stopped tracing i never new until looked on app deleting app now<br> :date: __2021-03-15 17:37:24__
 
 > I've been in close contact with 2 people with confirmed covid and the app failed to notify me. It doesn't work.<br> :date: __2021-03-14 19:14:36__
-
-> Has been pretty useless I think. It relies on people being honest enough to add a positive test.<br> :date: __2021-03-14 16:54:20__
 
 

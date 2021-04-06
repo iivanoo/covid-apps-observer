@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> I love this app its very important for me to see what's going on in the world of Who as very imformative app<br> :date: __2021-03-30 14:48:27__
+
 > Good<br> :date: __2021-03-24 19:33:39__
 
 > Very good<br> :date: __2021-03-23 07:14:57__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 > Thnx u save live<br> :date: __2020-11-11 19:32:07__
 
 > Always the best one!<br> :date: __2020-11-04 22:22:46__
-
-> Great app<br> :date: __2020-11-03 15:50:52__
 
 
 
@@ -236,6 +236,8 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> This app is as is the definition of w.h.o. it barely works, it ccp funded, and is late with useless information.<br> :date: __2021-03-31 11:03:41__
+
 > Herd immunity is real. Stop changing facts<br> :date: __2021-03-14 16:25:09__
 
 > I do not like the new update.<br> :date: __2021-01-19 23:39:15__
@@ -253,7 +255,5 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 > I just downloaded it, but every time I open it just say "an error occur check your connectivity" or something like that... didn't work...<br> :date: __2020-10-10 17:24:54__
 
 > Does not work<br> :date: __2020-10-09 00:12:33__
-
-> This is your official application? and sometimes it doesn't work<br> :date: __2020-10-07 18:26:16__
 
 

@@ -283,6 +283,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 1 reviews"/>
 </p>
 
+> Cannot access login on the previously installed app. Denies login, as well as creating a new account. Flags that I am not using an existing email after entering the first digit of me email address.<br> :date: __2021-04-02 12:35:23__
+
 > App looks nice, but crashes everytime I try to add a credit card, making it completely useless.<br> :date: __2021-03-19 00:14:56__
 
 > Couldn't even find primary care physician on it and you can't book an appointment if you don't have insurance.<br> :date: __2021-03-17 06:29:38__
@@ -300,7 +302,5 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Had a virtual appointment today that I couldn't attend because the app keeps closing on me!!!!<br> :date: __2020-11-30 22:03:04__
 
 > My doctor couldnt get thru and my tablet wasnt compable<br> :date: __2020-11-21 17:16:34__
-
-> Get to the insurance part and I can't log in since only 4 listed and mine is not. Yey you have to put something in that spot. Uninstaller app. Guess I'll have to call doctor.<br> :date: __2020-11-16 15:29:12__
 
 

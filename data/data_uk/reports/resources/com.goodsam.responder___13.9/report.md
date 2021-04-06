@@ -171,6 +171,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> Because of this app i have been able to give people a second chance at life, i have attended many life changing calls and confirmed succesfull resusitation outcomes on a number of calls<br> :date: __2021-04-03 01:37:22__
+
 > Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!! Now that everything is sorted, the app works fine for me.<br> :date: __2021-03-24 05:33:31__
 
 > Excellent & is developed continuously.<br> :date: __2021-03-08 15:15:54__
@@ -188,8 +190,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Never leaves me alone. Works really well. Dare not sign on unless I've got a good bit of time to offer because I can easily get the next call before I've got home from the previous.<br> :date: __2021-01-27 18:54:23__
 
 > Hi my app isn't working, I'm not getting any sound when simulating an alert and only just realised. I could of missed so many calls because of this it's not fair<br> :date: __2021-01-16 03:04:47__
-
-> Edit: Thank you for clarifying and the quick response, that is working now! The app is not sending me notifications, I have been sent tasks but are missing them (even though I have been using my phone at the time the message is sent) because the app isn't sending my phone notifications. I have tried uninstalling and reinstalling a few times now and have checked notification and location permissions are allowed...<br> :date: __2021-01-13 21:43:42__
 
 
 

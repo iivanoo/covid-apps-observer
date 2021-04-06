@@ -120,6 +120,8 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Awesome<br> :date: __2021-03-29 19:20:18__
+
 > Installed with no issues on moto g6. Glad NM put one of these together!<br> :date: __2021-03-27 02:29:27__
 
 > It is working now thank you<br> :date: __2021-03-25 21:48:47__
@@ -182,6 +184,10 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Using for 1 week how would I know if it's working? It's creepy. I don't like it. I don't want to be forced to use these things or get vaccinated. When did America turn into a prison camp?<br> :date: __2021-04-02 05:06:30__
+
+> The app does not work like it should work. For starters, the installation!<br> :date: __2021-03-30 22:48:33__
+
 > This app berates my phone twice a day asking to gather and share my information and keep tabs on me. Well Big Brother, while I can still say this... Fornicate thyself and the steed upon which thou didst ride in upon. Death is a preferable alternative to Communism. Long live Donald John Trump, the true winner of the election.<br> :date: __2021-03-26 09:21:16__
 
 > Downloads but immediately fails on a Samsung Galaxy S7. Have uninstalled it.<br> :date: __2021-03-26 03:48:20__
@@ -197,9 +203,5 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 > It does not let me open it without crashing<br> :date: __2021-03-24 15:14:03__
 
 > Cannot open the app at all. Total failure for me. Someone else mentioned that the problem could be an older phone. I'm sure the people who can afford the latest and greatest after a year of the pandemic are in the minority. Gotta fix that DOH.<br> :date: __2021-03-24 05:25:22__
-
-> Zombie tested....<br> :date: __2021-03-24 05:19:57__
-
-> Horrible. Never loads.uninstalled it<br> :date: __2021-03-24 02:15:01__
 
 

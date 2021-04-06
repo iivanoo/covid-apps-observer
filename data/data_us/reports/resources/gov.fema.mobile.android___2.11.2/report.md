@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Gives me all the alerts I need.<br> :date: __2021-04-01 06:13:00__
+
+> Just wonderful<br> :date: __2021-03-28 14:51:53__
+
 > They warn people when a tornado is coming<br> :date: __2021-03-17 03:02:07__
 
 > Very useful; a lot of real time info.<br> :date: __2021-03-15 04:10:51__
@@ -178,10 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Excellent thanks<br> :date: __2021-02-26 16:19:15__
 
 > Awesome<br> :date: __2021-02-21 15:38:49__
-
-> 💙💯⚖️🕕✔️🇺🇸 To USA<br> :date: __2021-02-21 09:19:48__
-
-> I always have up to date information on the weather. This App appears to be the most accurate as well.<br> :date: __2021-02-19 02:00:42__
 
 
 

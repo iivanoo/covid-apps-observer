@@ -190,6 +190,8 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="org.who.infoapp 1 reviews"/>
 </p>
 
+> gesundheitsdiktatur<br> :date: __2021-04-04 12:38:20__
+
 > Wen so eine App schon hier angeboten wird, dann sollte man auch verstehen was da geschrieben steht, auch wenn deutsch nicht die Sprache der WHO ist. Es dürfte wohl kaum soviel Arbeit für eine Weltweite Organisation sein die Texte in alle Sprachen zu übersetzen...es gibt ja google. 😉<br> :date: __2020-10-12 11:34:39__
 
 > Sehr enttäuscht<br> :date: __2020-10-02 00:03:25__
@@ -201,8 +203,6 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 > Leder nur Englisch, für viele unbrauchbar.<br> :date: __2020-07-08 09:21:49__
 
 > Fake app<br> :date: __2020-06-14 18:13:19__
-
-> nur allgemeines geschwurbel<br> :date: __2020-06-12 11:35:48__
 
 > Wäre schön, wenn man eine Sprache auswählen könnte. Es ist nicht davon auszugehen, dass jeder die englische Sprache beherrscht.<br> :date: __2020-06-08 08:31:18__
 

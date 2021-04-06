@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEmkPyNpUG6A44mOGpc-hzEnkdiW8ZEHetOguVR-CJzFj24ZTs3gxz-x-AMolJ6maMHS7vMdB98P02VDQ",
+        "userName": "Pat Gilding",
+        "userImage": "https://play-lh.googleusercontent.com/-215G-Lu0JS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZjXBeX5fApGPk7bTuq7AnyPQjqQ/photo.jpg",
+        "content": "Because of this app i have been able to give people a second chance at life, i have attended many life changing calls and confirmed succesfull resusitation outcomes on a number of calls",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.9",
+        "at": "2021-04-03 01:37:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGYQ7XYbKi0XoQ9-nnJi29iLVkBCqk2ZgLAC3BCGvgZV1A4PwnTRgeCqkizjG-u9Vuf4LU3TvBlP_axJw",
         "userName": "Caroline Warrey",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcuC54pfG3nVTs_dQCxqTQDvKOFaojNo4CaFXyog",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-aOJWgjTAuQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqQwoSWOAlqNvk9ULnY8AaQICDHg/photo.jpg",
         "content": "Fundamentally sound but as a NHS volunteer responder there are two key niggles which could be addressed to make life much easier: 1. Unable to copy phone numbers from alerts to paste into the phone app, which means switching back and forth to type it manually. Can you make the number a link to dial directly or at least let it be copied to the clipboard? 2. Can't accept more than one task at a time so it's not possible to do them in one trip or make another call when the first isn't answered.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "13.9",
         "at": "2021-03-24 06:05:24",
         "replyContent": null,
@@ -158,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOGrctyPhm-rq8JZZt7-pL098o7LVjxS6bKXljnuetBCpYpBcV-ukH9yV9US554b0nyzNwBphQDUiNqZig",
         "userName": "Barbara Cass",
-        "userImage": "https://play-lh.googleusercontent.com/-3t1MG3TIrec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnImfUL1h3JIFAvWUVBOV0RlzhArA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiwBX12Nfh0bKps0hcik8s4RWyGEq96snb2vSHF4A",
         "content": "Since the update, this is a good app. I still haven't had a volunteering alert for the vaccination centres yet, here's hoping!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -686,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOHoY5dLpd_-8vlEqw9X6BbF24pBm1PqwJkIHvF4ffKMNHF_xT35Wij41PQCox3fNyibdA9NImOtko0TUA",
         "userName": "Stephen Swinton.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7X60cXAHa6VjbSlEkyffm00p4sVvKsenrrOZM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1mZUJUcdbBZzA8314l6qCiCoHfLdI38Rc-51skw",
         "content": "The App need an audible alert when scheduled tasks appear. I have missed opportunities to volunteer due to this. Steve. NHS/RVS Volunteer.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2798,7 +2810,7 @@
     {
         "reviewId": "gp:AOqpTOETVn9gdbvILeraNHvjOGDeI5zhwJQs2ZpyH8XJT0T3-edlaJ1YTzDysdYwpKRjHrRaU_IuM9ItFpJnDg",
         "userName": "Denice Sealy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwTQWp03mch07j_KkFeY4XNueH2yL8z35BXsSifFc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9Xl8KPufgmd5GCe4NhL5frVNZBNJoHNx5uVoC96c",
         "content": "App does not always notify me of an alert. Therefore I miss a lot of them. All my push notifications are on but nothing has changed. Tried the test as advised but still not consistent. Sometimes the siren goes off and sometimes it doesn't..",
         "score": 2,
         "thumbsUpCount": 0,
@@ -4970,7 +4982,7 @@
     {
         "reviewId": "gp:AOqpTOEvJO2x_g4qKhYtXAIn_DvC-fogP0rGyK8OoIyHKdxRelPqVHKcWIhvlUbFmUpnj1rYfAV1Ef_xmFXt4g",
         "userName": "Emmie Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggx5nvWMBPzK_IuxTF-M07KQATcrq018h4tUW0P",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKU3NNs4CDbyEc2MQ15_eJRkRZ2YlbEETMbyzV",
         "content": "I've downloaded the app and done everything scrolled across everything accepted code of conduct etc I've been on duty for 2 weeks now and I am getting zero notifications calls or messages to help people who need my help, I checked the tutorial but the tutorial images are a lot different as to what is on the actual app, I've deleted it and re download it 3 Times from the play store still not working please help as I've already called you 3 Times over the phone",
         "score": 5,
         "thumbsUpCount": 1,
@@ -8066,7 +8078,7 @@
     {
         "reviewId": "gp:AOqpTOFMEXsXWuSMy_EymuEUfCVZGbxgQTiku1rgVYWlAr0CyYp1IWVqwEbmqpndL7jnFLH0w6Rx1PcudGks4Q",
         "userName": "Nick Sturge",
-        "userImage": "https://play-lh.googleusercontent.com/-f_3AI9IwzUg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucld16-XQ9ahhSFOXAKTeo90cRXTtg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlZD_PmS1Z32LfUiKLzpf6_MvEnBqpLd6ItLEwdA",
         "content": "How can it be possible that these well reported but fundamental errors persist? The toggle buttons have no effect and switch themselves off, so have no idea whether I am \"on duty\" or not.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -9626,7 +9638,7 @@
     {
         "reviewId": "gp:AOqpTOH9PN2ki4JDsi7XLbmt2ZvfaF0Yb3t1Tgr4TqmemcICMpyn13rw-c-tZBQ-0gWH0Um0KnglpTmvaGutJQ",
         "userName": "Steve Binnie",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4k9Ol_M_8mE_n5btSMaYgXj_JB9WaEDbeiSS9",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyJzlcWORN0y06QOAfT6hVlRnE3cSBN8dfgNysSg",
         "content": "Samsung S8. The app will not stay open. Closes a couple of times a day. I've tried uninstalling and re installing with new permissions. Still doesn't stay live. I've already missed one emergency because the app was closed. Not good.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -11986,17 +11998,5 @@
         "at": "2016-11-10 19:34:14",
         "replyContent": "Hi Stuart, Thanks for the feedback! Does it crashes? do you mind reporting it to us by pressing the report button on bottom right/left of the error message? We will definitely look into it!",
         "repliedAt": "2016-11-02 00:15:08"
-    },
-    {
-        "reviewId": "gp:AOqpTOE4s9mhNcPVCmcQWYQxXKHRiO1Z-tDa6n6Et4zS-Zz1j8N1OipOU0JFOl-A9r02EnBXinCKDPBJeSaFTQ",
-        "userName": "Bo Tolf",
-        "userImage": "https://play-lh.googleusercontent.com/-uScKQNBBBCw/AAAAAAAAAAI/AAAAAAAAFXA/AMZuuclcPjiqhKcjKd07kRnZAijXO0mhRg/photo.jpg",
-        "content": "installed to my android but he app wont open keeps reporting \"Unfortunately Responder has stopped\" :(  Have already done this...as another has said...it stopped working since the latest update...i already hit the button to \"report to us\" as you suggested...",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "5.3",
-        "at": "2016-11-08 11:13:13",
-        "replyContent": "Sorry to hear about this issue, Could you please get the latest version and see if that works for you? We have increased the apps compabilities.",
-        "repliedAt": "2016-10-23 11:26:40"
     }
 ]

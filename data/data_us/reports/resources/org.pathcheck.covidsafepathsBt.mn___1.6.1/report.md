@@ -165,6 +165,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 4 reviews"/>
 </p>
 
+> Why can't this be loaded onto a Fire HD tablet either via the Amazon app store or the Google play store that I also have on a Fire tablet? This would be extremely helpful for many nursing home residents that use Fire tablets and have numerous visitors and many staff possibly exposing them to Covid.<br> :date: __2021-03-31 23:06:45__
+
 > Not sure exactly how to make this work.<br> :date: __2021-02-04 23:38:55__
 
 > Good medicine<br> :date: __2021-01-12 19:16:40__
@@ -182,8 +184,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Carol M<br> :date: __2020-12-06 02:15:38__
 
 > Good idea, but needs support of the places that provides the tests. which currently do not provide a verification code with a positive test.<br> :date: __2020-12-02 05:45:58__
-
-> I wish that there was a nap so I can see where cases are getting bad it would be a good feature.<br> :date: __2020-11-27 19:22:55__
 
 
 
@@ -221,6 +221,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
+> Not all that helpfull<br> :date: __2021-04-03 02:53:37__
+
 > Why I think this app is on the right track to have the user keep phone BT on and based on my last check "looking to pair" without any ID notice from the COVID app is problem. Suggest and may involve Google/Android is to list the app working under BLE, and re-push app so user can allow storage permission and narrow BT BLE permission if feasible. Note that my version can list 'pair history' and this app does not show being paired or connected. Additional sugg: modify and follow Waze user inputs.<br> :date: __2021-03-26 17:06:34__
 
 > Annoying, I work at home and only go out if I need to go out. I dont want my Bluetooth on 24/7. Have a "home" button that stops the annoying message saying it can tract since I don't have my Bluetooth on<br> :date: __2021-03-24 16:25:10__
@@ -239,8 +241,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > don't know but bluetooth bad for me<br> :date: __2021-01-13 15:40:34__
 
-> I didn't find the app useful as it only searched to see if I was around anyone exposed while I was alone at home. Not helpful!!!!<br> :date: __2021-01-13 04:02:06__
-
 
 
 #### 1-star reviews
@@ -248,6 +248,12 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
+
+> Wasn't able to enter my code for a positive test. Boyfriend entered his code and I was never alerted about coming into contact with him? ?<br> :date: __2021-04-01 00:24:15__
+
+> Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen. Edit: uninstalling because still no fix and just got 20 notifications in a row.<br> :date: __2021-03-31 19:32:39__
+
+> Walz paid somebody a lot of money for a useless app.<br> :date: __2021-03-31 16:14:01__
 
 > Push notifications can't be silenced<br> :date: __2021-02-23 18:25:36__
 
@@ -262,11 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Just showed up but I Didn't download this. Don't want it.<br> :date: __2021-02-16 22:41:59__
 
 > I need to my ciy<br> :date: __2021-02-08 18:33:12__
-
-> I think this ap was a good idea but it is wasnt letting me know when i come in contact with a infected person. I know lots of people who had covid and not once did this ap alert me. It seems people who got covid never used the ap to let other people know they have it. Great idea with the ap, just people just dont give a darn to let people knowthey are infected. Sorry i deleted this ap. Maybe when they can figure out how to get people to use it when they are possitive of covid and then i will use<br> :date: __2021-02-06 16:46:49__
-
-> Always buzzing, and very disturbing<br> :date: __2021-02-06 02:11:23__
-
-> App doesn't work. I have received 7 different verification codes and called MDH about a dozen times now. None of the codes worked. I have tried on two different phones, but I haven't ever got it to work on either. I have zero confidence that this app actually does anything at all.<br> :date: __2021-01-31 20:11:44__
 
 

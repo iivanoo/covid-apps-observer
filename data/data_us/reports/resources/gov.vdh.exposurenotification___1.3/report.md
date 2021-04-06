@@ -190,6 +190,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> Trying to figure out how this at work<br> :date: __2021-04-01 04:10:03__
+
 > The app has twice stopped updating. I did get instructions to load another state's app, activate that in place of covidwise, then reload covidwise and reactive. It works but why does the checking just stop?<br> :date: __2021-03-27 19:41:27__
 
 > Good idea, but utility is totally dependant on enough people downloading it to make notifications meaningful. There is no way to know...<br> :date: __2021-03-25 21:01:28__
@@ -207,8 +209,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > I am safe.<br> :date: __2021-02-26 12:22:10__
 
 > Yikes! I wish I saw the reviews before. It's a good idea but either the VDH doesn't have the resources to handle reporting for this app or something else is going on. Damn this gives me a false sense of security, which is bad since I'm both a retail essential worker, and I also reside with my older in laws.<br> :date: __2021-02-16 11:51:01__
-
-> Nice tey<br> :date: __2021-02-13 04:01:24__
 
 
 
@@ -246,6 +246,14 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> Terrible app. Hasn't checked for exposures since Feb 14 (apr 3 now). And I've never had an exposure notification. And why are no stats being released as to how many notifications have been sent, how many tokens exchanged, etc. to allow us to see where we fall in the mix. I could be all alone on the moon and the app would behave identically to my experience so far.<br> :date: __2021-04-04 05:07:24__
+
+> If only it updated.<br> :date: __2021-04-03 15:39:27__
+
+> When the last update was pushed it app stopped checking for my exposure.<br> :date: __2021-03-31 20:36:23__
+
+> Last exposure check was 2 months ago. Worthless.<br> :date: __2021-03-30 15:34:59__
+
 > SCAM<br> :date: __2021-03-27 02:29:20__
 
 > I'm disappointed. It has stopped checking on a regular basis. It was fine until recent updates. How does the Commonwealth expect us to use something this broken? Sorry was a supporter of the project in the past, but there is no need to continue tonuse it if you aren't providing me with the security and peace of mine as promised.<br> :date: __2021-03-27 02:15:06__
@@ -257,13 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > It is broken again and it doesn't update<br> :date: __2021-03-23 16:28:00__
 
 > It seems to have stopped working. My apps auto-update and exposure notifications is still on in phone settings (Samsung S9+, which also updated recently), but app says it hasn't checked exposure since February 18th!! Other people in review are having similar experience. I had to run some essential errands this past weekend--did it even work then??<br> :date: __2021-03-23 12:08:55__
-
-> Update This useless app still doesn't work pretty sure there in no one at the wheel on this one. Yes I have the most recent version. And yes my location is on and it never checked anything accept when you first download it. Complete yeah don't waist your time How is this even real if today is 2/22/21 and the last time this was checked was 2/6/21 there is no before to this if it never checked<br> :date: __2021-03-21 00:39:29__
-
-> Almost as useless as their registeration site for vaccines.<br> :date: __2021-03-19 00:16:43__
-
-> Trash<br> :date: __2021-03-18 01:43:33__
-
-> Not sure if it actually works. UPDATED 03/10/21. I believe this really is of no use. According to the apps own info under the heading "How it works", the alert criteria is based on being closer than 6 feet away some diagnosed with Covid for a whopping 15 minutes! So it takes an exposure of 15 minutes to catch the covid virus? I am curious to actually how many people actually got an alert based upon the flawed criteria.<br> :date: __2021-03-10 16:33:16__
 
 

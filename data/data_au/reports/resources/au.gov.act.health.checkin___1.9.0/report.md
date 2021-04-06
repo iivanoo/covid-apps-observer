@@ -142,6 +142,10 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> A bit slow activating but otherwise great<br> :date: __2021-04-02 11:14:56__
+
+> App now working again. Could we have the option to turn off the ding when you check in??<br> :date: __2021-04-01 14:51:17__
+
 > Really easy to use, one of the better check in apps I've used.<br> :date: __2021-03-27 01:30:56__
 
 > Easy to use, love it!<br> :date: __2021-03-26 03:41:40__
@@ -158,10 +162,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > EDIT: In response to my previous rating developer explained app had stopped working with earlier versions of Android. They have now fixed it and it's working perfectly so I've upgraded to 5 stars. Has stopped working since last update. Have reinstalled but still crashes.<br> :date: __2021-03-05 03:31:28__
 
-> All fixed now! Make sure you update to allow the app to use the camera. That is what I had to do after reinstalling it.<br> :date: __2021-03-03 08:05:00__
-
-> Update: app is working since v1.8.2 update. Thanks for the quick fix. Update: Installed v1.8.2 and the app now starts up; I will try to check in tomorrow. Thanks for prompt response. Previous: Unable to start app anymore since updated to version 1.8.1, 25 Feb 2021.<br> :date: __2021-03-03 03:23:18__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
+
+> jgii8looLeft to prove any billion via the water opp09mb9ddd<br> :date: __2021-04-02 08:20:46__
 
 > Up to a few days ago this was near perfect. I used it everywhere. For some reason this weekend it fails to launch on my S7 Samsung mobile. I have uninstalled, restarted, reinstalled, but still it fails to launch. Something is now incompatible. I hope it's fixed asap. UPDATE The problem is now fixed. Thanks for the support.<br> :date: __2021-03-11 10:20:44__
 
@@ -188,8 +190,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Was easy to install particularly for a tech challenged person. Only issue is that does not allow me to check out unlike the nsw app<br> :date: __2021-02-12 01:47:53__
 
-> App makes check-in easy and I like how it remembers dependents for easy future check-ins. Would be nice if locations you frequented could be remembered and used in the same way for easy repeat check-ins without needing a code or to huddle around a QR code that someone had posted on the wall.<br> :date: __2021-01-14 07:37:19__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
+
+> This app worked perfectly for me until the most recent update. Now the screen stretches off the sides of my mobile. Mostly its bearable if ugly but I'm unable to see the names of the additional people either for selecting or entering in the text box which significantly reduces its usefulness<br> :date: __2021-04-02 02:59:52__
 
 > What if I do not have internet data? Not everyone has free wifi data which may make the app useless.<br> :date: __2021-03-04 00:02:46__
 

@@ -124,6 +124,8 @@ The UT Exposure Notifications app has been installed by more than **50000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> It an OK app.<br> :date: __2021-04-02 04:37:54__
+
 > Easy to use and gives piece of mind<br> :date: __2021-03-06 02:21:08__
 
 > I downloaded this just for fun. Let's see if it can brainwash me or feed me fear 🐑🐑<br> :date: __2021-02-25 17:08:37__
@@ -186,6 +188,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> This app is absolutely useless. It says it is regularly scanning for exposure, but the only things that seem to be in the log is when I actually open the app. I must be the luckiest SOB on the planet to have zero exposure in the time I had this app at my high risk job. It is a drain on the battery life. Buh bye.<br> :date: __2021-04-03 03:23:25__
+
+> I understand the need to collect data (and work in the data mining field). While creative, and useful, I feel this opens a pandoras box of privacy violations in which I won't participate. This came down as part of some other process.. I noticed only by the red indicator on my status bar.. I dont appreciate the non consensual invasion in my privacy<br> :date: __2021-03-28 21:47:16__
+
 > No way to post vaccination status, sure you post covid +, but if can't post vaccine status how good is it?<br> :date: __2021-03-23 19:22:18__
 
 > Does not work, I work in a hospital and have a patient who is Covid positive. I am touching the patient although I am following Covid protocols. This program is telling me that I have no exposure.<br> :date: __2021-03-20 01:52:43__
@@ -201,9 +207,5 @@ No recent reviews available with 2 stars.
 > You have to have bluetooth on and location on all the time. B.S.<br> :date: __2021-02-24 19:25:47__
 
 > Let's you know if you've been exposed to the China Flu!!! You only have a 99.7% chance to live!! Oh no!!! Much scary!! Better give up your freedoms and hide behind 13 masks if you want to survive!!!<br> :date: __2021-02-23 18:14:02__
-
-> Very intrusive. Runs during phone calls. It also drains my battery.<br> :date: __2021-02-21 07:28:36__
-
-> Yeah... I'm just not okay with this. Like I get they want to beat the virus, but letting everyone know you have it is a bit much. Not everyone needs to know.<br> :date: __2021-02-18 05:17:28__
 
 

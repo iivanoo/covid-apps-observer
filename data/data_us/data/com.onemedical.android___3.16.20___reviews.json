@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHvnZZAhAHyDzAgjSGq7Lu3F-0kshAEIGzu9oUUqoyBpNIEM1wuAbFTB79-dW6aiEs9d51ffgTm98NqmsM",
+        "userName": "Alex Lee",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfovxkpzuWYIgLRI2Lz5ONn08IifFtpt-zy-Axuw",
+        "content": "During a pandemic this company forces you to create an account, sign up for a free trial, and download this app just to try and get a vaccine appointment. Immoral and putting company & profit before what they claim as their mission: providing care to those who need it.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.20",
+        "at": "2021-04-03 22:56:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFPdMsEan3LhLfILQT3HS22PH32XKD-5Fjk-pXQLb_-MCN6357ampLyM9e6t8RSsMqAG908jTX9_k2dG5E",
+        "userName": "Linda S",
+        "userImage": "https://play-lh.googleusercontent.com/-WuN7yAb7PCQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6sm8R0s29Hqw0nwJL7rnHLc2Vag/photo.jpg",
+        "content": "I always find out valuable info to deal with medical issues as they arise. The staff is excellent and the video chat occurs in a short period of time",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.20",
+        "at": "2021-03-31 20:54:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHvntb4FxA39ym6U7WLpU5ov68H7ihY77KxDC9D8Ld16-9klXJu2F_9Nyd2dvkiAac8awuXKDkq6cunKXA",
+        "userName": "Evan Thomas",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWy0ecoXKlw-oTFLpzFjWTIqT2ZMYMluk7pk4l",
+        "content": "Works well - immediate attention - great results",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.20",
+        "at": "2021-03-28 19:58:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEp8fCyF1PsfVrUZYu4SVyQw1t1ZFdfZqS6ZdbmCflCldUm-xm4m35ton1RAyIYZZgMHetIckZAvrkIuQg",
         "userName": "Faraz Khanzadeh",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiN9eXVFptlizHwbv9lticxpnISzDMoul74-rS-pw",
@@ -2522,7 +2558,7 @@
     {
         "reviewId": "gp:AOqpTOFzNfwxBN-9UTRPffRH5CtpTyKMdzmXTWOgApANlF3AX5cfhjoBTHCJ2mjjkjjNxx60Su9un9EG-iA5g7Y",
         "userName": "Brian Huang",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtBryJtMdwrZeCzmt5MmChS1K4h7anYO-SI4wD",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjA2dxP7cn1MYPznAp2jma1mEu9Nj3hVPvu_mncHQ",
         "content": "This is not a mature app, but the idea is sound. I like booking appointments at any hour of the day and love the video visit feature. But, when something goes wrong, I want to know more than a generic \"Uh oh! Something went wrong. Try again later.\" If an office was closed due to flooding, the booking error shouldn't tell me to try again. If I can't start a video visit because I have 3% battery, whatever weirdness that generates, \"Uh oh[...]try again later\" distracts from the real problem.",
         "score": 4,
         "thumbsUpCount": 3,

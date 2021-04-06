@@ -213,6 +213,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="4_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 4 reviews"/>
 </p>
 
+> Buona<br> :date: __2021-03-27 12:30:24__
+
 > Ottimo<br> :date: __2020-10-17 20:24:12__
 
 > Buona e facile da usare<br> :date: __2020-10-10 11:21:08__
@@ -230,8 +232,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Buona<br> :date: __2020-07-17 20:36:04__
 
 > App molto utili<br> :date: __2020-07-01 13:08:36__
-
-> Ottima app. Mi piace moltissimo la possibilità di calcolare l'indice di assembramento. Tuttavia riscontro un problema con le notifiche in quanto mi da sempre zero mentre quando apro l'app c'è il corretto valore.<br> :date: __2020-06-29 14:15:33__
 
 
 

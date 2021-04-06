@@ -257,6 +257,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> Bad joke that only works on a small, select number of phones. Pointless waste of taxpayer money when the federal app already exists .<br> :date: __2021-04-02 20:45:31__
+
+> To many bad reviews, did not load it!<br> :date: __2021-03-29 09:37:29__
+
 > Useless, just like our government!<br> :date: __2021-03-25 21:29:22__
 
 > 1 star because Kenney refuses to use the federal app which is leaps and bounds better. He just can't admit it's a failure. Don't bother installing.<br> :date: __2021-03-25 16:39:43__
@@ -272,9 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Alberta needs to join the national tracking app and quit thinking their app is worth a damn<br> :date: __2021-02-26 20:37:06__
 
 > National app available. Why arnt we using it<br> :date: __2021-02-19 16:29:03__
-
-> This app only works with crowd sourcing. I can't find anyone else using the app. My work has thousands of people, many of whom are from out of province, some using the Canada Covid app. But not a single person has said they have ABtracetogether... Waste of tax payer dollars.<br> :date: __2021-02-16 16:57:09__
-
-> Rubbish who make this unless app<br> :date: __2021-02-16 13:30:57__
 
 

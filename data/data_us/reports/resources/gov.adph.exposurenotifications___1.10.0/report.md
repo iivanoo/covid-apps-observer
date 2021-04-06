@@ -151,6 +151,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> 🌨️🏌️🐾🤫<br> :date: __2021-04-02 16:15:27__
+
 > Great App<br> :date: __2021-03-26 23:19:44__
 
 > Flawless amazing PERFECT $LC.<br> :date: __2021-03-23 18:12:59__
@@ -168,8 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Edit from 1 to 5 stars: Developers replied to my complaint echoing many other's issues since November and the update is running smoothly so far, I really want this to work well for everyone. Previous review: Reminds me to turn BT and location without fail so I always activate while in public but Samsung Android app says last check was Nov 21, 2020 no matter what....sooo honestly have no idea if it's been working correctly or not.<br> :date: __2021-02-08 23:57:33__
 
 > I assume it's working well, I haven't been sick and it hasn't dinged to let me know if any exposure. So no news is good news.<br> :date: __2021-02-08 22:19:03__
-
-> Plain and simle. Reminds me of that old school down by the creek.<br> :date: __2021-01-27 16:31:33__
 
 
 
@@ -207,6 +207,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> I'm giving it a three stars on this particular phone because it is going off like crazy and I'm not even leaving the house I here by myself & I haven't left the house in weeks. It's just eating my battery up going off constantly like... there it goes again... It's going off about every 30 seconds If it works or not, like I said, I usually stay home. But I love the idea & I don't understand people not using it. Everybody's got to do their part and then some.<br> :date: __2021-04-01 17:48:23__
+
 > Good<br> :date: __2021-03-23 04:15:11__
 
 > Works sometimes<br> :date: __2021-03-20 01:55:29__
@@ -224,8 +226,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > The app started working wonderfully. But at the end of October, it stopped. No new upgrades and no notifications. I will try and download the app again.<br> :date: __2020-12-06 13:31:12__
 
 > Great if it would work. I tested positive and want to alert others by using the app. When it asks me to verify the code sent to my phone, I can't because it never sends the code. I've tried over and over.<br> :date: __2020-12-01 18:35:17__
-
-> None<br> :date: __2020-11-25 00:11:08__
 
 
 
@@ -257,6 +257,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> Sucks<br> :date: __2021-04-01 03:14:17__
+
 > Contact tracing does not work when the incubation eriod is so long as with covid-19<br> :date: __2021-03-26 14:22:28__
 
 > Contact tracing is useless on a disease with such a long incubation time<br> :date: __2021-03-23 17:56:40__
@@ -274,7 +276,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Funny how it stopped updating right after the election! Weird huh? I'm not for either side I just find it very very strange that covid is not as big a deal now.<br> :date: __2021-02-18 01:59:41__
 
 > Seriously I just opened the app on my phone and the last update was the end of November. Like how is this going to be efficient if it doesn't do anything...<br> :date: __2021-02-13 04:57:52__
-
-> Dislike app<br> :date: __2021-02-11 09:25:08__
 
 

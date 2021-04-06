@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOHd34NQKxOapnmtKsOgn5IRWvpc-xDrqeS-csxd30h3LZUDfy2HlmNkiIowJy9lclbZSFm2t1lerYHM-g",
+        "userName": "Alvaro Fraga",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjip71HkIWA7DZhEtPCZ3l1u3NBo8Y9pmnxuB9X",
+        "content": "Tras a \u00faltima actualizaci\u00f3n non funciona o lector QR (quedase en negro) Tel\u00e9fono PocoX3. A aplicaci\u00f3n ten permiso de acceso a c\u00e1mara. Tendes algunha soluci\u00f3n?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-04-04 11:35:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHe6U5ZpSDWZCCKyUCnSqvffaAyyVsWdiF0bflqQbUf7J3eUIPr6JGKsLO9Dphmphq0sHFBGrwGJpzzEw",
+        "userName": "A D.F",
+        "userImage": "https://play-lh.googleusercontent.com/-cxF-qbh_1wM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOpa8mY997MrIKj7kwBYjjI0SCDw/photo.jpg",
+        "content": "Ahoramismo da error al iniciar sesi\u00f3n (en varios tel\u00e9fonos)",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-03-31 14:40:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEmCG-IA1pjnrahvrfoL4xNC7JsA2L4bdT7Lv6Vco4yzNqjzC0OKaBhMSHN3mcGy1QPcDftMTyRAJvLwA",
+        "userName": "Jesus Pita da Costa",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-GtmBKIZgwbWAwsbAg2dNVV_s7alcPtl8RsBDFg",
+        "content": "De verdad? En estos momentos informa que esperes.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-03-31 14:35:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHjsqe8w4p2ZrjoFGWhon3sHZX1H05bI_WUbajUTwtpmATTi5qHgI9GYD2et65POUJ-XoTZOiN1cEao3A",
+        "userName": "Roberto De Lemos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeZV_nRqwRz9OJivjajRiEHFgr5Wz-PPu1UMmF",
+        "content": "Non podes escanear o qr en sitios sin cobertura, un acceso directo para escanear o qr non vi\u00f1a mal. Para buscar un concello hai que pasar toda a lista.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-03-31 04:36:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEOWUta-C7D0AnNzT2n8JYAgkTRaj7nI2fjPIu5ysoc0kBPfAwOKr19s5Wbpt8crGH_SWFnjABXbOI4YQ",
         "userName": "Imanol Garigorta",
         "userImage": "https://play-lh.googleusercontent.com/-4SwXUG4yH_I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2QFotAy6ayINnHC_vqUYuUI3AHA/photo.jpg",
@@ -38,7 +86,7 @@
     {
         "reviewId": "gp:AOqpTOFS1XBDamvp1sTwWdgD7I6x8McJuK19lWssv5oZljjkkGhVGe1SEo1wvPD2ERxJTw_V0EXg83Ssl0bAaA",
         "userName": "Victor Otero",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZEvqDp6n4Pie2f8boPrQIb-ixBhzNl0wFhUXy",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBidrVBhpFBT2mMhZkHy7iJMXqVGaTSwnn12b3FA",
         "content": "Los desplegables para seleccionar el Ayuntamiento me salen vac\u00edos y no puedo hacer nada.ni reinstalando se soluciona",
         "score": 2,
         "thumbsUpCount": 0,
@@ -89,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhKETegBrysBBSHXk74gyMsBw9ZwboWZZi1Tu45JQ",
         "content": "Non \u00e9 mala, e peor. Informaci\u00f3n err\u00f3nea. Non est\u00e1 actualizada. Solicita accesos como os contactos do teu tel\u00e9fono sin ning\u00fan sentido. A quen lle ten que entrar sentidi\u00f1o e a Xunta de Galicia. M\u00e1is trabas para a hosteler\u00eda, menos privacidade para a sociedade.",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.0.3",
         "at": "2021-03-04 10:43:29",
         "replyContent": null,
@@ -416,18 +464,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.1",
         "at": "2020-12-03 21:34:44",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF0Tq8dJhxCCHJKdhYPOfigs_liNJXKeqwKixDBigCnqSbJpQtuPPEk-4kvJJ17pI_8JhQ7Nc1hYB8W7w",
-        "userName": "Vasilica Popescu",
-        "userImage": "https://play-lh.googleusercontent.com/-rDrjhksqB9Y/AAAAAAAAAAI/AAAAAAAAAUY/AMZuuclwh9jchteEM7lDLiwOxf6GDnCivg/photo.jpg",
-        "content": "Lo de la llave es algo complicado sacr lo de llave y que la persona se pueda rejistrar",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-01 21:17:42",
         "replyContent": null,
         "repliedAt": null
     },

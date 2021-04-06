@@ -121,6 +121,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Helpful<br> :date: __2021-04-03 22:47:04__
+
+> Thank you 😊 lt helping me<br> :date: __2021-04-01 19:51:54__
+
 > Elpata<br> :date: __2021-03-06 05:30:43__
 
 > It works like is was advised.<br> :date: __2021-03-05 18:21:36__
@@ -136,10 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > At Circus Circus Las Vegas...chk out is 11 am...no home but asked a longtime friend to help• Covid tracker dwnld today 2/1/21• ab(alxenia)🙏😷🧓<br> :date: __2021-02-01 17:12:28__
 
 > Excellent.<br> :date: __2021-01-28 19:14:09__
-
-> It work good tho<br> :date: __2021-01-17 09:05:15__
-
-> Safe and fast good for elderly And frontliners protections<br> :date: __2021-01-09 20:29:53__
 
 
 

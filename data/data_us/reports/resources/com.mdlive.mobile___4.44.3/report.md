@@ -210,25 +210,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Good to talk to a doctor , with out the wait in line.<br> :date: __2021-03-28 04:53:22__
+> Good to be used anytime of the day.<br> :date: __2021-04-04 05:15:55__
 
-> Good experience, good doctor<br> :date: __2021-03-28 01:22:17__
+> Good app<br> :date: __2021-04-03 02:04:47__
 
-> Dr was professional and thoroughly trained.<br> :date: __2021-03-27 14:38:33__
+> This service/app saves me so much time and money for relatively minor medical issues. I really appreciate that I don't have to center my day around finding solutions to mild medical challenges.<br> :date: __2021-04-02 22:14:50__
 
-> I had a simple issue. Knew exactly what medication I needed based on experience. MD Live doc spent 5 minutes with me then sent the script. Super easy. Super convenient.<br> :date: __2021-03-27 01:10:51__
+> Great way to save a trip to the dr. Evaluated my condition and sent prescription over - quick & easy<br> :date: __2021-04-02 16:38:40__
 
-> Way easier than going to urgent care, especially during covid<br> :date: __2021-03-26 23:32:08__
+> Doctor was prompt, knew their Stuff, and helped quickly.<br> :date: __2021-04-02 04:31:12__
 
-> All the doctors I have seen were great.<br> :date: __2021-03-26 16:25:58__
+> Easy to use, friendly doctor!<br> :date: __2021-04-01 18:01:36__
 
-> I love using this service! And the access to doctors at this day and age, it's fantastic to have a psych who I actually feel comfortable with. There are less than 5 psychs in my area whom I'm not comfortable with. MDLive has personable doctors who really do care.<br> :date: __2021-03-26 16:11:15__
+> Great second opinion from Dr. Garcia.<br> :date: __2021-04-01 17:41:03__
 
-> Great app that saves trip and time with doctors office.<br> :date: __2021-03-26 14:42:06__
+> Wonderful experience, the doctors have all been wonderful and prompt with sending out Rx<br> :date: __2021-04-01 15:52:18__
 
-> Pretty easy. Spoke to MD in less than 5 min.<br> :date: __2021-03-26 13:12:06__
+> Great app when you have a newborn takes out some of the guess work since they "don't come with instructions"<br> :date: __2021-04-01 15:35:36__
 
-> Easy to use, uploaded photos for doctor, he examibed them and gave me diagnoses, with a caution.<br> :date: __2021-03-26 01:23:02__
+> It's wonderful to have this service right at my fingertips!<br> :date: __2021-04-01 08:04:52__
 
 
 
@@ -237,6 +237,14 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> The ability to talk to someone without leaving home is amazing, especially when you have anxiety. The quality of the video was good. I just wish that there is a simple way to upload documents. Also the Dropbox for issues needs to be updated to have all all illnesses and mental health listed.<br> :date: __2021-04-01 15:01:25__
+
+> Very pleased with the therapist<br> :date: __2021-04-01 02:52:17__
+
+> It was fast and just what I needed while out of town. Sound quality was low.<br> :date: __2021-03-31 16:52:35__
+
+> There when you need them.<br> :date: __2021-03-30 19:43:15__
 
 > It is fast and works great! There are some issues at times but it worked today!<br> :date: __2021-03-23 17:37:17__
 
@@ -250,14 +258,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 
 > Great experience. Very knowledgeable and caring doctors<br> :date: __2021-03-07 04:45:31__
 
-> Good<br> :date: __2021-02-26 21:16:09__
-
-> Call could be smoother. Audio video choppy. My data connection was very good.<br> :date: __2021-02-24 19:26:50__
-
-> I could here clarity clearly and See Clearly I think it was excellent I really would recommend this to people my friends and family thank you S.P.<br> :date: __2021-02-23 19:41:21__
-
-> Dr was kind, helpful and knowledgeable. Video session was kind of choppy at times, but minimal.<br> :date: __2021-02-18 17:58:52__
-
 
 
 #### 3-star reviews
@@ -265,6 +265,12 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.mdlive.mobile 3 reviews"/>
 </p>
+
+> Awesome service. Scheduling is difficult. It is hard to view a providers available slots, you only see availability for the specific date you've chosen. It would be easier to see all available time slot options for the week or month. There's no online waiting room so if your provider is late it feels like you aren't logging in correctly or experiencing technical difficulties.<br> :date: __2021-04-02 01:07:11__
+
+> Some glitches registering until I happened to glance at email. If the app told me to confirm my new account by responding to an email, I missed it.<br> :date: __2021-03-30 22:34:15__
+
+> Very buggy and times out often. When I want to make an appointment, I have to expect to go through the forms at least twice. It will load so long that it tells me to log in again. I just used the urgent care and it glitched where I saw a still image of myself where I should see the doctor, and then my little camera box. It was very awkward, but at least the appointment achieved what I needed.<br> :date: __2021-03-28 18:49:22__
 
 > It's better than most other than apps<br> :date: __2021-03-15 16:21:15__
 
@@ -280,12 +286,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 
 > The app glitches a lot<br> :date: __2020-12-23 19:14:22__
 
-> Love the ability to have help or a doctor pretty quickly but the video quality is in definite need of attention.<br> :date: __2020-12-08 01:45:06__
-
-> Countless technical difficulties logging in to do a video chat missed four appointments in a row because video chat wouldn't connect.<br> :date: __2020-12-06 01:58:44__
-
-> The app its self is hit or miss performance. There are often errors especially with video stream consolation. The rest of the app seems to work fine. I missed a total of 4 appts in a row.<br> :date: __2020-12-01 19:39:15__
-
 
 
 #### 2-star reviews
@@ -293,6 +293,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.mdlive.mobile 2 reviews"/>
 </p>
+
+> After reading the horrible ANXIETY PRODUCING reviews, and knowing I experienced similar issues with another Dr appt.. for several DAYS. And now I see many apps tend to not be connecting ..I'm uninstalling this as I DON'T appreciate the treatment by Drs who charge ppl due to the failed technology. Period. Ethically and morally wrong.<br> :date: __2021-04-02 07:44:04__
 
 > I downloaded this app based on my employers advice because it's supposed to be a free service for us. I've had nothing but issues. The registration process was not simple and I was told I had to pay $82 for a consultation. I called and spent 30 mins on the phone with someone who told me that was a glitch and she gave me a credit. Today I'm told via email I'm not covered and I owe $82. This is not convenient and poor customer service.<br> :date: __2021-02-11 16:26:02__
 
@@ -312,8 +314,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 
 > Nice idea, not done in a good way. Started seeing a therapist about 2 months ago & around 2 weeks after, I couldn't message her on their system. Last week, I couldn't confirm an appt., I called support. They did nothing. They said they would escalate it, and I never heard anything back. When I mentioned the message problem, they didn't acknowledge it. I had to message them again to see what was going on. Turns out it was something my therapist needed to do on her end, they didn't even know.<br> :date: __2020-09-24 00:57:38__
 
-> Had to set up my first visit 5 times. Crashed anr would not let me move on from particular fields. Seemed to get stuck trying to add primary provider. Audio on first call was choppy. My wife has used before on hers and up till recent had not noted similar issue. Could have been network rather than app<br> :date: __2020-09-04 17:22:25__
-
 
 
 #### 1-star reviews
@@ -321,6 +321,10 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.mdlive.mobile 1 reviews"/>
 </p>
+
+> Had to restset damn password several times. Link will take to site to change password and once you change damn app still say invalid. Plus never can get a person on phone. I am in pain and will just take my chances at ER. Plus no area to key in your insurance information<br> :date: __2021-04-03 20:06:43__
+
+> Terrible Experience did not help at all no way to contact for refund. 0/10 Do Not Download.<br> :date: __2021-03-29 20:37:18__
 
 > The doctors are all super condescending, and not able to discuss medication or anything meaningful, primary care doctor practically refused to talk to me without having lab results. Also, there's no way to get an appointment with a therapist or psychiatrist because they are by request only, and they decline the request without even giving a reason. I would literally never use this app if social distancing was over.<br> :date: __2021-03-11 22:25:27__
 
@@ -337,9 +341,5 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > Once you select your appointment type the screen will not move forward the next button does not respond.<br> :date: __2021-02-22 19:52:05__
 
 > Unable to create login. When I attempt to create an account it erases my login info so I'm not even able to create an account at all. This is the app that is supposed to be part of my Behavior Health telehealth benefits. Very frustrating when I need mental health support & can't get it!!<br> :date: __2021-02-21 09:10:16__
-
-> Worse app we have ever used. Very frustrating and not easy to use. This app is built to just not go anywhere if you don't pick what they want. If you just pick anything that is not related just to move forward you then get a message that your session has expired. Just go see Dr in person. This app isn't worth your frustration<br> :date: __2021-02-20 04:17:23__
-
-> Says I'm already registered. No recovery options besides email. Sent help request here, and my message was blocked. Completely inaccessible.<br> :date: __2021-02-19 05:47:07__
 
 

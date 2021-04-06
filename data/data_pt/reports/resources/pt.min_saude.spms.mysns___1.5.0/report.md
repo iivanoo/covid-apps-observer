@@ -199,6 +199,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
 
+> Bom<br> :date: __2021-04-01 12:35:51__
+
 > Nenhuma<br> :date: __2021-03-18 11:03:27__
 
 > Boa<br> :date: __2021-02-04 12:01:31__
@@ -217,8 +219,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Bom<br> :date: __2020-10-31 20:49:08__
 
-> Fiz a instalação, acedi através da chave móvel digital e funcionou à primeira.<br> :date: __2020-08-05 21:42:20__
-
 
 
 #### 3-star reviews
@@ -226,6 +226,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
+
+> Não tem actualizações para a versão Android do meu P30 pro<br> :date: __2021-03-31 21:38:03__
 
 > Como consigo extrair a minha receita em papel ?<br> :date: __2021-01-15 17:35:08__
 
@@ -244,8 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Pouca dificuldade a, aceder !<br> :date: __2020-06-26 20:16:31__
 
 > A informação do movimento de banhistas,deveria ser actualizada mais frequentemente, particularmente até ao meio dia e depois das 4 da tarde. E mais divulgada nos meios comunicação.<br> :date: __2020-06-21 08:13:06__
-
-> Dificuldade em perceber e aceder às receitas digitais<br> :date: __2020-04-22 15:28:21__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Esta APP não está a funcionar bem<br> :date: __2021-03-31 18:37:35__
+
 > Esta senpre PARAR NÃO presta<br> :date: __2021-03-22 20:11:37__
 
 > Leva uma estrela porque nao da para levar zero. Uma pena que a app nao funciona de maneira nenhuma. Algo que poderia ser bastante util simplesmente nao serve para nada.<br> :date: __2021-03-18 11:36:05__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Última atualização em 2018?<br> :date: __2021-03-04 23:50:37__
 
 > Porque não funciona neste telemóvel???<br> :date: __2021-03-04 00:58:01__
-
-> Naõ faz atualizaçaõ.<br> :date: __2021-02-25 11:00:27__
 
 

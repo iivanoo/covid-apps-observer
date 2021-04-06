@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Kurz und knapp datenschrott<br> :date: __2021-04-02 14:23:16__
+
+> Funktioniert einfach nicht (schließt automatisch beim Aufrufen) - unfassbar aber wahr<br> :date: __2021-04-02 13:11:50__
+
+> Lächerlich 😆😆😆<br> :date: __2021-04-02 07:02:19__
+
+> Wo bekommt man die ID Nummer her ??<br> :date: __2021-03-31 14:59:20__
+
+> QR Code wurde nicht erkannt. ID kann nicht eingegeben werden.<br> :date: __2021-03-31 14:53:49__
+
+> App kann nicht geöffnet werden.<br> :date: __2021-03-31 10:32:23__
+
+> Sehr schlecht, die App startet noch nicht einmal (S21 Ultra).<br> :date: __2021-03-31 10:15:32__
+
 > Letzte Aktualisierung im Juli 2020. Kann man wohl löschen und seinem Testlabor davon abraten. Denn die Ergebnisse scheinen ja auch nicht anzukommen.<br> :date: __2021-03-27 16:50:48__
 
 > Funktioniert nicht - Frechheit!!<br> :date: __2021-03-27 04:47:09__
 
 > die App stürzt ab beim öffnen ... Corona Test Ergebnis in Echtzeit erst nach Corona :D<br> :date: __2021-03-25 16:37:34__
-
-> Die App schließt sich sofort selbstständig nach dem Öffnen. Wie bitte soll ich so an meine Ergebnisse kommen?<br> :date: __2021-03-25 09:10:08__
-
-> 🤣.. Wer hat denn so einen Schwachsinn erfunden? Gruß und Bitte an die Entwickler :,, Sucht Euch einen job, von dem Ihr etwas versteht!!! ''<br> :date: __2021-03-19 17:16:35__
-
-> Von Praktikanten entwickelt? Die App kriegt keinen QR Code gescannt und nein ich kann sonst mit anderen Apps immer alle Codes scannen es liegt nicht an meinem Handy<br> :date: __2021-03-19 12:46:12__
-
-> 0 Sterne: App lässt sich nicht öffnen mit Samsung Galaxy S10 mit Android 11<br> :date: __2021-03-17 09:59:27__
-
-> Nicht brauchbar in meinem Fall<br> :date: __2021-03-16 19:23:41__
-
-> Es ist nicht möglich, der Datenschutzerklärung zuzustimmen. Dann lasse ich es eben. Deshalb die schlechtestmögliche Beurteilung!!<br> :date: __2021-03-13 22:00:46__
-
-> Die App ist keine Hilfe und verschafft keinerlei Zeitersparnis! Der QR Scanner der App schaft es nicht zu scannen, weshalb man zum anmelden eine 43-Stellige ID aus Buchstaben, Zahlen und Sonderzeichen von Hand eingeben muss. Das dauert jedes mal Minuten. Nächstes Mal sag ich meinem Arzt einfach, dass er mich anrufen soll.<br> :date: __2021-03-08 21:50:53__
 
 

@@ -230,6 +230,10 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> I always find out valuable info to deal with medical issues as they arise. The staff is excellent and the video chat occurs in a short period of time<br> :date: __2021-03-31 20:54:11__
+
+> Works well - immediate attention - great results<br> :date: __2021-03-28 19:58:10__
+
 > Amazing service!<br> :date: __2021-03-15 18:20:23__
 
 > Great app<br> :date: __2021-03-11 02:21:41__
@@ -245,10 +249,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Great app! Easy to use & super helpful with accessing and managing all services with my primary care provider.<br> :date: __2021-02-24 11:02:08__
 
 > Excellent Service<br> :date: __2021-02-23 19:50:04__
-
-> Easier than the Dept of Health portal. Got more progress in 2 days than 1 month before.<br> :date: __2021-02-21 18:38:19__
-
-> The video chat feature connects you to a medical personnel immediately. We found this extremely useful.<br> :date: __2021-02-19 18:44:18__
 
 
 
@@ -342,6 +342,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.onemedical.android 1 reviews"/>
 </p>
 
+> During a pandemic this company forces you to create an account, sign up for a free trial, and download this app just to try and get a vaccine appointment. Immoral and putting company & profit before what they claim as their mission: providing care to those who need it.<br> :date: __2021-04-03 22:56:21__
+
 > Really frustrating. Impersonal. Lots of flaws. They cancelled my Covid Vaccination appointment when I went inquire about it. I scheduled my Covid Vaccine over a week ago for an appointment a week later. I tried to call to make sure I had everything I would need to verify my occupation, I waited on hold for almost 20 minutes and finally had to leave a message. They never called me back like they said they would. Then I left another message. No call back. I had to use their chat service. Their representative was impersonal, wasn't aware of Los Angeles guidelines, and was no help. I inquired using their message service and was told that the facility I made the appointment at isn't where they are doing vaccinations (despite the fact that that's what I specifically made the appointment for). Rather than trying to help me, the representative cancelled my appointment and basically said, "good luck." I can't believe they are charging $200 a year for this.<br> :date: __2021-02-24 22:30:10__
 
 > The app does not even open and immediately crashes<br> :date: __2021-02-01 15:50:40__
@@ -359,7 +361,5 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > New users: Be very careful! One Medical did not indicate that my appointment would not be covered by my insurance nor was any amount ever presented to me beforehand. For a service that is digital and online, that is outright dishonesty, which is tantamount to scamming your customers. Shame on you, One Medical!<br> :date: __2020-09-17 19:54:27__
 
 > Won't load<br> :date: __2020-08-16 09:30:37__
-
-> Forces you to use the app to book covid test. But locations don't match the website.<br> :date: __2020-08-05 19:09:52__
 
 

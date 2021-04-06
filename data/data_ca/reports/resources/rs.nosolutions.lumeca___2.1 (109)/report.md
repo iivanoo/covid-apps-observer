@@ -142,6 +142,12 @@ The Lumeca - See a doctor now - Free in Saskatchewan app has been installed by m
 <img src="5_star_reviews_wordcloud.png" alt="rs.nosolutions.lumeca 5 reviews"/>
 </p>
 
+> I was very pleased. I received the information to help me make my decision<br> :date: __2021-03-31 21:56:44__
+
+> I got what I needed, I didn't get covid, I was already at home! Happy bday!<br> :date: __2021-03-31 21:40:39__
+
+> Really appreciate this app and it's convenient setup, especially in these current times. 🙌<br> :date: __2021-03-30 02:11:22__
+
 > Great app! Awesome people!<br> :date: __2021-03-27 14:59:09__
 
 > Very quick response and follow up .<br> :date: __2021-03-26 17:46:37__
@@ -155,12 +161,6 @@ The Lumeca - See a doctor now - Free in Saskatchewan app has been installed by m
 > The app is quick, easy, safe. The doctor that was assigned was very knowledgeable on my issue, and I would recommend the app over a mediclinic as it's faster and more convenient. The staff who set the appointment are very friendly and easy to talk to.<br> :date: __2021-03-07 19:25:39__
 
 > Great service.<br> :date: __2021-03-04 14:37:28__
-
-> Omg. I use to dread having to go to the doctors office. Wait 2 hours (for a scheduled appointment no less) for a 2 second prescription refill. Love that I can do it from home. And it's free!<br> :date: __2021-03-01 01:11:37__
-
-> What a great app! I downloaded it, registered my account and spoke with a doctor all within 2 hours. Very impressed. I will definitely use this service again.<br> :date: __2021-02-25 19:30:36__
-
-> This application is amazing! I was able to meet virtually with a fantastic doctor on a Sunday morning when my regular clinic was closed. Immediately after our meeting, my pharmacy recieved the fax for my prescription and I was able to pick it up later that day. I will definitely be recommending this app to others! A wonderful solution for those trying to stay home and stay safe during covid.<br> :date: __2021-02-21 19:01:54__
 
 
 

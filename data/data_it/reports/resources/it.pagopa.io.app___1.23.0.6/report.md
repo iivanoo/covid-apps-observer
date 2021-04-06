@@ -207,25 +207,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="5_star_reviews_wordcloud.png" alt="it.pagopa.io.app 5 reviews"/>
 </p>
 
-> Ottima app<br> :date: __2021-03-28 00:02:09__
+> \*\**aggiornamento al04/04/21\*\** Aggiorno la recensione perché ora l'app funziona a meraviglia!!! Cinque stelle meritate!! Pazzesco! In blocco dal 7 dicembre, ma come si fa a programmare un app del genere?!? Capisco i primi due giorni ma anche oggi impossibile inserire metodi di pagamento. Allucinante...<br> :date: __2021-04-04 08:23:05__
 
-> Bella app. Utilissima. Sono 5 GG che mi crasha dopo il login. Non riesco più ad accedere.... Qualcuno può aiutarmi?<br> :date: __2021-03-27 23:49:26__
+> Bene<br> :date: __2021-04-03 19:44:24__
 
-> Ottimo<br> :date: __2021-03-27 23:35:06__
+> Funziona bene<br> :date: __2021-04-03 15:51:13__
 
-> Ottimo prodotto<br> :date: __2021-03-27 20:42:23__
+> Assurdi i problemi riscontrati con carta di debito Pagobancomat/Maestro. Aggiornamento: problema risolto.<br> :date: __2021-04-02 22:54:02__
 
-> 👍<br> :date: __2021-03-27 17:52:43__
+> Se aggiungete anche il totale speso mese per mese e perfetta.<br> :date: __2021-04-02 17:06:52__
 
-> Perfettamente funzionante e facile da utilizzare e capire. Ottimo lavoro<br> :date: __2021-03-27 15:46:13__
+> L' app una volta fatto l'accesso con il proprio codice smette di funzionare. Impossibile fare qualsiasi operazione<br> :date: __2021-04-01 21:31:44__
 
-> Top<br> :date: __2021-03-27 13:22:29__
+> Bella<br> :date: __2021-04-01 19:02:23__
 
-> Ok<br> :date: __2021-03-27 10:10:15__
+> Ottima<br> :date: __2021-03-31 22:59:20__
 
-> Ok<br> :date: __2021-03-27 07:50:30__
+> Un po farraginoso all'inizio per entrare legare le carte etc..ora mi sembra funzionare bene<br> :date: __2021-03-31 00:08:22__
 
-> Ho il problema di non riuscire ad aggiungere la carta fidaty Oro di Esselunga nei metodi di pagamento per Cashback, l assistenza non mi è stata di aiuto, qualcuno sa come fare? Update: Risolto grazie<br> :date: __2021-03-26 19:17:29__
+> Ok<br> :date: __2021-03-30 15:00:44__
 
 
 
@@ -235,25 +235,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="4_star_reviews_wordcloud.png" alt="it.pagopa.io.app 4 reviews"/>
 </p>
 
-> Migliorata con il tempo. All'inizio era un disastro<br> :date: __2021-03-27 21:59:47__
+> Bene. In continuo miglioramento<br> :date: __2021-04-02 21:52:04__
 
-> Molto utile<br> :date: __2021-03-27 11:04:03__
+> A me ha sempre funzionato, solo vorrei che implementassero i pagamenti con Google Pay<br> :date: __2021-04-02 17:16:09__
 
-> Buona app<br> :date: __2021-03-26 13:11:56__
+> Io penso che sia utile se sfruttata al massimo e che funzioni tutto bene Ho messo la carta e va bene Ho messo il Bancomat ma non lo riconosce......bo !!!<br> :date: __2021-04-02 13:45:55__
 
-> Per i sistemi di pagamento da me inseriti, in genere vengono aggiornati, ma non sempre, forse dipende dai negozi. Peccato che non vengano accettati i pagamenti per acquisti online.<br> :date: __2021-03-26 10:18:16__
+> Facile da usare e scaricare<br> :date: __2021-04-01 23:12:44__
 
-> Efficace ma ancora ricca di potenzialità<br> :date: __2021-03-26 00:02:50__
+> Buona<br> :date: __2021-04-01 20:13:13__
 
-> Ottima<br> :date: __2021-03-25 18:22:19__
+> implementate il 18 app<br> :date: __2021-04-01 18:49:42__
 
-> La App sembra funzionare abbastanza bene. Però non tutte le transazioni della mia carta di credito Mastercard vendono accreditate. Inoltre, era più comodo leggere il nome dell'esercente nel dettaglio transazioni.<br> :date: __2021-03-25 08:47:14__
+> Ancora impossibilità di aggiungere metodi di pagamento<br> :date: __2021-04-01 15:31:51__
 
-> Ci sono ritardi sul riconoscimento delle transazioni e mancano anche transazioni, regolarmente addebitate in banca, effettuate presso centri convenzionati, non si capisce perché. La prima risposta non ha risolto il problema<br> :date: __2021-03-25 08:33:50__
+> Vorrei provarla ancora un pò<br> :date: __2021-03-31 21:08:40__
 
-> Ma solo a me funziona bene questa app? Si è vero registrarsi per il cashback di Natale è stata una disgrazia però ho ricevuto il bonifico nei tempo stabiliti. Da migliorare ancora la parte dei servizi telematici dei vari comuni. Molti ancora oggi mancano<br> :date: __2021-03-25 08:15:32__
+> questa app risulta installata su un telefono che non mi appartiene , che devo fare?<br> :date: __2021-03-31 14:32:57__
 
-> OTTIMO<br> :date: __2021-03-24 10:14:17__
+> In generale buona, nell ultima versione sto riscontrando problemi nell aggiunta del secondo circuito maestro alla carta bancomat già presente nel portafoglio. La carta viene trovata ma restituisce errore quando provo ad aggiungerla<br> :date: __2021-03-31 05:11:18__
 
 
 
@@ -263,25 +263,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="3_star_reviews_wordcloud.png" alt="it.pagopa.io.app 3 reviews"/>
 </p>
 
-> Ok<br> :date: __2021-03-28 09:24:07__
+> Non riesco più a inviare una domanda l'applicazione si chiude<br> :date: __2021-04-03 18:36:16__
 
-> È due giorni che provo a registrare la carta bancomat. App Vergognosa<br> :date: __2021-03-28 08:57:33__
+> Sempre in eleborazione<br> :date: __2021-04-02 19:55:18__
 
-> Non semplicissima.....!<br> :date: __2021-03-27 00:13:41__
+> App funzionante, ma non riesco a fare pagamenti con la app. Vorrei capire il problema<br> :date: __2021-04-01 16:37:30__
 
-> Vorrei sapere il perché devono esserci le spese di operazione quando paghi un avviso, dovete essere al servizio del cittadino, non contribuire a impoverire la popolazione.<br> :date: __2021-03-26 21:57:44__
+> Complicato capire come entrare con lo SPID, ho provato , PosteId mi ha segnalato autorizzato ma tornando su Io mi si richiede nuovamente di accedere con SPID. Problema risolto.<br> :date: __2021-03-31 19:42:08__
 
-> Ottima app e ottimi servizi; solo non è comodo o spiegabile che crashi ad ogni aggiornamento su un LG G6 e costringa a disinstallarla/reinstallarla, ogni volta reinserendo la CIE.<br> :date: __2021-03-26 14:39:03__
+> Dopo le modifiche mi pare funzioni molto meglio, darei 4 stelle ma sono oltre 15 giorni che i servizi locali sono in lavorazione e mi paiono veramente troppi.<br> :date: __2021-03-31 10:02:24__
 
-> Non riesco ad accreditare il bancomat al cirquito maestro, appare scritta “autorizzazione negata" nonostante il bancomat sia abilitato ai pagamenti online Aggiornamento: ora il bancomat maestro funziona Attendiamo con fiducia che vengano riconosciuti i pagamenti con googlepay<br> :date: __2021-03-26 14:38:25__
+> Buona, potrebbe diventare ECCELLENTE se gli sviluppatori inizierebbero a rispondere. Sarebbe un segno di buon inizio e di buona educazione. Per il resto Ok<br> :date: __2021-03-31 04:03:05__
 
-> L'app in se funziona, non fa nulla di eclatante ma funziona. Buona l'idea per digitalizzare i pagamenti ma mancando la compatibilità con app di pagamento come apple pay, g pay, samsung pay etc viene a mancare uno dei progressi principali fatto negli ultimi anni. Ho dovuto andare a cercare il bancomat per aderire al cashback, non sapevo nemmeno dove era, da troppo tempo usavo solo il telefono per pagare<br> :date: __2021-03-26 14:01:32__
+> Per gli iscritti potete dare un aiuto con notifiche push per il caos vaccini.... sperando di invogliare le persone a scaricare l app e snellire sto kaos!! 😎<br> :date: __2021-03-30 22:37:42__
 
-> Non ho ancora ricevuto il caschback 2020<br> :date: __2021-03-26 08:01:17__
+> La mia prima recensione (8/12) é stata pessima. Per correttezza devo però dire che in seguito, dopo numerosi aggiornamenti, l'app é migliorata molto. Ci sono ancora diverse cose che non funzionano perfettamente, ma nel complesso ora é sufficientemente performante. Spero di poter ulteriormente rivalutare la mia recensione in futuro. Vedremo<br> :date: __2021-03-30 22:18:24__
 
-> Non funziona più la modalità scura su Android<br> :date: __2021-03-25 21:12:43__
+> E difficile entrare<br> :date: __2021-03-30 07:25:49__
 
-> Ho smarrito il pin .<br> :date: __2021-03-25 16:11:23__
+> Non si apre si è bloccata...mha<br> :date: __2021-03-29 15:08:22__
 
 
 
@@ -291,25 +291,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="2_star_reviews_wordcloud.png" alt="it.pagopa.io.app 2 reviews"/>
 </p>
 
-> Da quando ho fatto l'aggiornamento non si apre più l'app<br> :date: __2021-03-27 15:18:49__
+> Pare ci siano stati problemi non indifferenti il giorno del cambio dell'ora. Le transazioni del 27 marzo risultano mancanti e pure quelle dei giorni successivi sono mancanti ed hanno orari completamente sballati rispetto ai precedenti. Per questo dò 2 stelle.<br> :date: __2021-04-04 08:47:44__
 
-> Mediocre<br> :date: __2021-03-27 01:34:01__
+> Inizio tutto bene. Ma mi sono accorto che cere volte non registra i pagamenti effettuati anche se fatti negli stessi posti che faccio sempre (un esempio i pagamenti fatti il 28 marzo). Purtroppo a causa di questo vengo penalizzato in classifica<br> :date: __2021-04-03 17:39:23__
 
-> Non riesco piu ad accedere<br> :date: __2021-03-26 15:39:47__
+> Incredibile! Dopo un mese per entrare chiede di rifare la procedura di autenticazione. Cosa servirà tutta questa supposta sicurezza<br> :date: __2021-04-03 15:02:44__
 
-> Serve ancora migliorarla in termine di chiarezza.<br> :date: __2021-03-26 15:10:09__
+> Da quasi un mese non carica più i pagamenti sul cashback. Anche dopo aver controllato co mio fornitore (poste).<br> :date: __2021-04-03 14:26:33__
 
-> Non riesco più ad autenticarmi utilizzando spid di poste italiane. Quando richiedo l'accesso con spid,va in clessidra per un secondo ....poi rimane sulla pagina di accesso<br> :date: __2021-03-26 10:15:26__
+> Non mi fa immettere ulteriore metodo di pagamento.........pessima app<br> :date: __2021-04-03 09:31:29__
 
-> E' dal 7 marzo che non mi registra più i pagamenti! inoltre ho ricevuto il messaggio che da oggi sarebbe stata accettata anche la carta di un esercizio commerciale, ma quando tento di aggiungerla mi appare il messaggio che sarà possibile con il prossimo aggiornamento. Quando?????<br> :date: __2021-03-25 23:08:11__
+> Sì ma i pagamenti effettuati con Google pay? "Stiamo lavorando con la tua banca", un altro po' scade il cashback e ancora non sono abilitati<br> :date: __2021-04-02 22:02:35__
 
-> Ho scaricato l'app a dicembre senza problemi ma, poiché sono passati più di 30 giorni dall'ultimo accesso, senza alcun preavviso scopo che devo riaccendere con Speed. Ho tentato in tutti i modi ma non riesco. Ho anche disinstallato e reinstallato ma nulla. Speed su altri portali non mi crea alcun problema. Ho chiesto assistenza, spero di averla. Aggiornamento: assistenza scarsa, praticamente nulla! Sono riuscita a risolvere ma in totale autonomia!!!<br> :date: __2021-03-25 21:05:16__
+> Non va.. Penso dall'ultimo aggiornamento.<br> :date: __2021-04-02 11:21:58__
 
-> Applicazione capace di bloccarmi lo spid che ho usato regolarmente su AE poco fa. Complimenti. Aggiornamento: funziona ma mi sembra sia sparito il dark theme.<br> :date: __2021-03-25 20:02:16__
+> Buongiorno, vorrei sapere se funziona con Samsung pay, se no quando sarà possibile<br> :date: __2021-04-02 07:48:44__
 
-> App potenzialmente buona ma inizierò a dare più stelle solo quando aggiungeranno anche Google Pay per il cashback.., fino ad allora la mia valutazione resterà bassa!<br> :date: __2021-03-25 15:50:57__
+> All'inizio tutto ok. Ora ho problemi di inizializzazione, non mi apre l'app, l'ho segnalato ma continuano a dirmi che hanno chiuso quella segnalazione e di aprirne una nuova. Poco chiaro. Dovrei disinstallarla e reinstallarla? Ma poi non è che mi annulla tutte le operazioni fatte, visto che ho gia raggiunto un cash di 150 euro? Ripeto poco chiaro<br> :date: __2021-04-01 18:07:36__
 
-> Non permette di trovare le carte bancomat intestate, ma solo le carte di credito<br> :date: __2021-03-25 00:55:36__
+> Lo uso poco<br> :date: __2021-04-01 16:20:29__
 
 
 
@@ -319,24 +319,24 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="1_star_reviews_wordcloud.png" alt="it.pagopa.io.app 1 reviews"/>
 </p>
 
-> Aggiungete google pay. Pagare con il telefonino evita i contatti fisici. Grazie! Poi 5 stelle. Aggiornamento. Ma quando aggiungete Google pay e Samsung Pay??<br> :date: __2021-03-28 11:00:19__
+> Inutile<br> :date: __2021-04-03 18:46:23__
 
-> Nonostante le credenziali SPID siano quelle giuste, l'App IO continua a non accettarle e dare errore. Uno strazio<br> :date: __2021-03-28 10:49:00__
+> Nessuno risponde alle richieste di aiuto, e poi perche' ogni mese bisogna riscriversi?? La solita app statale fatta x complicare le cose semplici! 😡😡<br> :date: __2021-04-03 17:33:16__
 
-> Impronta non funziona. e non ho trovato nell'App il modo di inserirla a nuovo. Inoltre le spese fatte con la carta ad es. Supermercato ancora non compaiono.<br> :date: __2021-03-28 08:53:49__
+> non mi fa aggiornare l'app...dovrei disinstallare e poi installare nuovamente? Le transazioni le perdo? mahhh<br> :date: __2021-04-03 17:26:16__
 
-> Ho chiesto assistenza per recuperare il mio codice di accesso e dopo mille tentativi mi hanno anche bloccata...<br> :date: __2021-03-27 21:30:47__
+> Non carica più i pagamenti fatti sia con carta di credito che bancomat.<br> :date: __2021-04-03 13:55:06__
 
-> Il cash back è pensoso, neanche un'integrazione con il contactless riusciamo a fare. Top!<br> :date: __2021-03-27 19:42:04__
+> Assurdo, le transazioni non vengono conteggiate mando lo scontrino, risposta ricevuta: è conteggiata e mi viene chiusa la segnalazione. C'è la fate a capire che avete un problema all'estrazione del listato delle transazioni?<br> :date: __2021-04-03 13:48:11__
 
-> Questa APP è semplicemente penosa. Sono settimane che provo ad entrare con nome utente, password, SPID e non ci riesco. Non si riesce neppure ad avere assistenza, insomma una vergogna. E poi vogliamo colmare il gap digitale! Ma cominciamo almeno a far funzionare quelle della pubblica amministrazione! Modifico dopo alcuni mesi la recensione. Confermo che l'app è penosa in quanto riesco finalmente ad entrare, ma adesso non registra le spese fatte con le carte registrate.<br> :date: __2021-03-27 14:50:15__
+> Non si attiva l'accesso con impronta anche se impostato<br> :date: __2021-04-03 12:21:16__
 
-> Dopo 30 gg ho dovuto reinserire le credenziali. Niente, non me le accetta. Vergognoso anche perché non puoi contattare telefonicamente nessuno. Ci rinuncio<br> :date: __2021-03-27 13:17:42__
+> Non si aggiornano i pagamenti da una settimana.<br> :date: __2021-04-03 08:55:11__
 
-> Nonostante l'aggiornanento ancora non funziona su Motorola Edge<br> :date: __2021-03-27 09:50:37__
+> Sarebbe interessante capire con quale criterio registrano le operazioni. Stessa colonnina carburante. Scontrino del gasolio registrato, quello della benzina no. Cose strane<br> :date: __2021-04-03 07:40:25__
 
-> Buongiorno perché da qualche giorno mi dice che devo modificare la password dello speed?<br> :date: __2021-03-27 07:36:26__
+> Pessima non fa più vedere il bonus Vacanza, contattato il servizio assistenza ma risponde un sistema automatico. Nessun numero per richiedere assistenza.<br> :date: __2021-04-03 00:21:25__
 
-> Andato bene fino al momento di dover reinserire i dati di accesso Spid. Parla di notifica sull'app Infocert...nessuna notifica. Provando con l'OTP scala i tentativi senza neanche provare il login. Ovviamente Spid funziona egregiamente con tutti i siti della PA.<br> :date: __2021-03-26 22:03:15__
+> Ho fatto almeno una decina di pagamenti in vari negozi e me ne è stato conteggiato solo uno che ho fatto una settimana fa, Almeno quattro pagamenti prima e altri cinque dopo mancano. Applicazione poco affidabile, se continua così continuerò a pagare in contanti Pino pietra<br> :date: __2021-04-02 22:17:20__
 
 
