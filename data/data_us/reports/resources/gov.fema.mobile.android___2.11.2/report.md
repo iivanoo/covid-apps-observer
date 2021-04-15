@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> We need every supply we order from the app for the job.<br> :date: __2021-04-09 06:54:04__
+
 > Gives me all the alerts I need.<br> :date: __2021-04-01 06:13:00__
 
 > Just wonderful<br> :date: __2021-03-28 14:51:53__
@@ -180,8 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Set it and forget it, until you get Emergency Notifications for where you live<br> :date: __2021-03-03 18:07:15__
 
 > Excellent thanks<br> :date: __2021-02-26 16:19:15__
-
-> Awesome<br> :date: __2021-02-21 15:38:49__
 
 
 

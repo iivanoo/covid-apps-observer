@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
-> Excellent fast and easy 👌<br> :date: __2021-04-01 17:11:22__
+> It was quick it was painless the nurse practitioner knew exactly what was wrong with me, she knew that my pharmacy was going to be closed and she knew which pharmacy would be open 24 hours all good great visit. The nurse practitioner who saw me was very knowledgeable and very kind and caring she had a sense of humor well-rounded person it was a pleasure doing the NowClinic.<br> :date: __2021-04-12 03:02:51__
 
-> Easy to use great interface!!! Good sound and picture quality Excellent!<br> :date: __2021-03-30 19:39:57__
+> Love not leaving my house for my refills<br> :date: __2021-04-10 17:23:49__
 
-> A+<br> :date: __2021-03-30 16:52:15__
+> So easy!<br> :date: __2021-04-10 03:19:29__
 
-> I RECEIVED FAST SERVICE AND THE PERSON WAS A PROFESSIONAL<br> :date: __2021-03-29 00:08:35__
+> Easy way to get seen<br> :date: __2021-04-09 19:10:06__
 
-> Easy and convenient<br> :date: __2021-03-26 18:00:01__
+> Love love love<br> :date: __2021-04-09 17:14:51__
 
-> Talked with Dr Jennifer Marbella. Really liked her and this experience was quite easy even though I'm not too good with computers. Highly recommend!<br> :date: __2021-03-25 21:15:50__
+> Fast and easy!!!!<br> :date: __2021-04-08 05:04:13__
 
-> Sooo much easier than driving to facility, wait, triage, wait, be seen, wait...you get the picture...<br> :date: __2021-03-23 02:30:29__
+> Convenient & fast but also helpful. This will probably be my favorite route for getting medical care when possible from now on.<br> :date: __2021-04-08 01:02:50__
 
-> Amazing and convenient!<br> :date: __2021-03-21 19:43:01__
+> Easy and great experiences with health-care providers.<br> :date: __2021-04-07 22:23:53__
 
-> great doctor<br> :date: __2021-03-19 18:51:14__
+> Easy to use. Very uncomfortable going places until I am fully vaccinated.<br> :date: __2021-04-06 16:12:01__
 
-> Quick easy and painless and it didn't have to go anywhere it was great<br> :date: __2021-03-19 17:57:46__
+> Absolutely wonderful experience ... Thank you so much!<br> :date: __2021-04-06 08:41:15__
 
 
 
@@ -274,6 +274,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> This app is absolute garbage. Not to mention it takes 20 minutes to download an update. Missed my doctor's appointment.<br> :date: __2021-04-08 16:51:06__
+
 > Will not down load<br> :date: __2021-03-12 16:09:12__
 
 > Dr leslie remedies is very rude<br> :date: __2021-02-26 02:18:56__
@@ -291,7 +293,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > I waited for the doctor, the app said "you have connected and are waiting for the doctor to connect". After about a minute, another message that said "The doctor cancelled the call".<br> :date: __2020-07-02 12:39:26__
 
 > Couldn't even connect<br> :date: __2020-07-01 23:41:53__
-
-> Made to use this app because of Corona virus, 200$ for a normal check up? No thanks I'd rather die.<br> :date: __2020-05-18 12:28:23__
 
 

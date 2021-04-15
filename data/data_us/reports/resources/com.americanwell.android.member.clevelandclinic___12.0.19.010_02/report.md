@@ -203,6 +203,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 5 reviews"/>
 </p>
 
+> Great. Only inconvenience is they can't send lab orders to 3rd party labs.<br> :date: __2021-04-07 02:37:52__
+
 > Easy and confident<br> :date: __2021-03-26 21:49:56__
 
 > Very positive experiences<br> :date: __2021-03-18 21:32:52__
@@ -220,8 +222,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Covid-19VaccineFor2dosein1Month<br> :date: __2021-02-20 22:40:12__
 
 > Easy to use. Professional<br> :date: __2021-02-20 19:16:16__
-
-> Easy to setup and use, got a virtual appointment right away<br> :date: __2021-02-19 16:58:24__
 
 
 

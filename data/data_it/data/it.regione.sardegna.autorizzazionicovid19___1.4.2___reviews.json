@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOGz_o2cXCZlPfLct8zo-CpD4sN1c2p0G8v1pMjI2uFgq6kTWzWBTFIjrrkFj-igeIM-fgYHaPjFdI-f4g",
+        "userName": "Simona Becucci",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiI6gvVNWRsFmLkdzf7tubPAhWBg9Uhr2DzcwhMMNE",
+        "content": "Sul cellulare samsung a51 la app non si apre",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.2",
+        "at": "2021-04-10 11:24:53",
+        "replyContent": "Gentile utente la ringraziamo per la segnalazione, siamo constantemente al lavoro per apportare migliorie. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-12 14:43:03"
+    },
+    {
+        "reviewId": "gp:AOqpTOEum8MVRmfavK-OBngBqTC7TWvzjiKmMiU-OQvQghynwrJhMAtyaiBsEMSQx08BF0QgldK7dwVLNcLVvw",
+        "userName": "Mario De Santis",
+        "userImage": "https://play-lh.googleusercontent.com/-enOti1Ao0eQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRAtCRVu57NT2WY4g3MY-2Kglrcg/photo.jpg",
+        "content": "Non ti fa registrare. Risolvete.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-09 18:19:37",
+        "replyContent": "Gentile utente ci scusiamo per i problemi riscontrati in fase di registrazione, siamo constantemente al lavoro per migliorare la app. Grazie per aver scelto di installare Sardegna Sicura",
+        "repliedAt": "2021-04-12 14:39:57"
+    },
+    {
+        "reviewId": "gp:AOqpTOE2yJuNsTlA1BMURytEHOtUZTIirLvOSqt8ybk7Bq-jX6YnEQw8SbQbUPEBTcHI5TfiMFkUOcpa1xxOvw",
+        "userName": "DANIELE TRISTANO",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHziDO2z_WJwMDhKRRcKj47pdulvjqmi-2b-TjuQ",
+        "content": "Fa schifo non mi fa registrare \u00e9 inutile !!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.2",
+        "at": "2021-04-06 19:12:02",
+        "replyContent": "Gentile utente ci scusiamo per i problemi riscontrati in fase di registrazione. La invitiamo a verificare la correttezza dei dati inseriti e di riprovare. Nel caso in cui l'errore persiste provi a fare un aggiornamento del sistema e a contattarci se non riesce a registrarsi indicandoci il messaggio di errore inviato dal sistema.",
+        "repliedAt": "2021-04-12 14:37:22"
+    },
+    {
         "reviewId": "gp:AOqpTOEY3JybrEHKha0Apu-Jq6j6xepS8CUybV1a6IzrL_mSGjjVolXvDo86yIK0gPmiK3WVj-W2ADG4SAQzUw",
         "userName": "raffaele pusceddu",
         "userImage": "https://play-lh.googleusercontent.com/-9T3Kyha3bi4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrrXTbIeebmGfi6AbYeE0J8LMo8w/photo.jpg",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.1",
         "at": "2021-03-29 22:35:03",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-12 14:32:33"
     },
     {
         "reviewId": "gp:AOqpTOH3TGgb_bqxIIzZ8_Kr5UVIMlq8YzXCzZ38puYu0cHudp4Ew9g0XBNf1S0mWT8v7Zkxy1FbXCPnjVHxUA",
@@ -17,11 +53,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqwTUi-bdeBNCXsCN0j4XbUrA26fJTKyRMGogJ",
         "content": "E' un applicazione che non serve a niente, fatta solo per soddisfare l'ego di qualcuno che crede di poter controllare tutto come se fossimo uno stato dittatoriale indipendente, cosa che non siamo (per fortuna). Ed \u00e8 inoltre un danno per i residenti che necessitano per motivi di lavoro di entrare e uscire dalla regione.",
         "score": 1,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "1.4.2",
         "at": "2021-03-27 14:53:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-12 14:31:05"
     },
     {
         "reviewId": "gp:AOqpTOFBe_pMyZ0ZOH-nmm3k1dva75rqpna6LPZbNzz-Q_XgPgxX75RYpBM4r9aHClyV4DNDhi1j7WwMDErTyA",
@@ -32,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.3.2",
         "at": "2021-03-27 11:25:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile utente ci scusiamo per i problemi riscontrati in fase di registrazione, siamo costantemente al lavoro per migliorare la app. Grazie per aver installato sardegna Sicura",
+        "repliedAt": "2021-04-12 14:30:30"
     },
     {
         "reviewId": "gp:AOqpTOHlxfP_-p9j5J3mzlpspW2S8wEQWgzeaOHo_MGjkNK7ghTkqSFD3NgXy9j2Z7BOQ8m_LzBLJCZna3UzZg",
@@ -44,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.2",
         "at": "2021-03-26 21:08:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile utente ci scusiamo per i problemi riscontrati in fase di registrazione. Le consigliamo di effettuare l'aggiornamento e a riprovare. Grazie per aver scelto Sardegna Sicura",
+        "repliedAt": "2021-04-12 14:24:56"
     },
     {
         "reviewId": "gp:AOqpTOFBcW3tzELj41f4ASBqU9xRhEznhgW27byORrPVgr0gsYUS_u49ShHBSBArtkKc1vnEIGw3_kgInLuOkw",
@@ -56,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.1",
         "at": "2021-03-24 14:26:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-12 14:20:54"
     },
     {
         "reviewId": "gp:AOqpTOGXm_mCIVYecfA-Ph0uV9DSZHV2hkkg_k-rMD6MZsWdpHUD0oteP8AB2_AQdCA9z3TUhcFQVRKRCHd4DQ",
@@ -68,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-24 08:38:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-12 14:19:19"
     },
     {
         "reviewId": "gp:AOqpTOG7RRdqQUVWo3sAAtTGFtpCh1rvPqNeeoYSfywVuyKk5SLZ_dFCPST0Az78iGI_tn0R6SsxEkUi2owoBQ",
@@ -80,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-03-24 05:07:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile utente ci scusiamo per i problemi riscontrati in corso di registrazione. Le consigliamo di riprovare e nel caso che il problema persista di ricontattarci. Grazie per aver installato sardegna Sicura",
+        "repliedAt": "2021-04-12 14:17:19"
     },
     {
         "reviewId": "gp:AOqpTOE2nhVdm9s__FoyqfYlu4EHft1kLdkPx5-ZD91esOfsy1jj6tLBIjdR4E49E3bUBNkwRz7YE-J0bpiIPQ",
@@ -173,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Cb_Vf5R2jYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPNlYZOUsNII-GWrp9i8pRfmcnNQ/photo.jpg",
         "content": "L'app non da la possibilit\u00e0 di modificare una richiesta gi\u00e0 effettuata sui dati di arrivo o partenza che possono essere variati per ragioni diverse (tipo volo annullato e data spostata...) o di poter cancellare la richiesta per inoltrarne un'altra ex novo. Sicuramente da migliorare.",
         "score": 3,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-19 12:36:51",
         "replyContent": null,
@@ -245,7 +281,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLpvVGTwYnoCzTY1i5JAoPn_yQYnZ4feCIV5jsyw",
         "content": "Non funziona. Non parte proprio. Se \u00e8 obbligatorio registrarsi DEVE funzionare. Disinstallato, riavviato e installato da capo la versione pi\u00f9 recente. Niente, gira sempre a vuoto. Almeno date qualche risposta o indicazione.",
         "score": 1,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-16 15:56:02",
         "replyContent": null,
@@ -305,7 +341,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-UlwVIEHCELZvi-7lWHcCVB9ZcQ44o1Bithwacw",
         "content": "L'app non \u00e8 in grado di sostenere in numero di persone che si collegano per compilare la registrazione, rischi di perdere l' aereo perch\u00e9 l'applicazione si blocca e senza la registrazione non puoi partire",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-14 19:40:37",
         "replyContent": null,
@@ -329,7 +365,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYkKwii2dNFt7Sit8Wypm9WwO0Uf6dTq31ScEp",
         "content": "Scusate, ma per chi \u00e8 gi\u00e0 in Sardegna ed esce per rientrare dopo qualche giorno, perch\u00e9 non viene presa in considerazione tale evenienza. Mica tutti quelli che entrano in Sardegna devono riuscire! Cercate di aggiornare l'app, cos\u00ec come nel sito della regione. Assurdo non inserire tale eventualit\u00e0.",
         "score": 1,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-12 21:18:11",
         "replyContent": null,
@@ -1862,7 +1898,7 @@
     {
         "reviewId": "gp:AOqpTOFR2N_LYD0VWVXWp-l0Jgl9-aiin5eRC6voq_ADD0f5xBrT_4-XIbarR-A9WYYMAhap1hY_Bfw_wvi55Q",
         "userName": "Fabrizio Dionesalvi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gji58NUenHhWWdrYY9ISJqpUdAAYyas57AbcMIQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ght4RBYQ-5mQJiW1XAQRhIzjAETi-N8pmBNsbrhWMw",
         "content": "Devo partire gioved\u00ec mattina...ma l'app non si apre in nessun modo!!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2501,7 +2537,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Pp6b01xVSmA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIu8Xl58dpU6YlYU1L2u-Jmk3pJA/photo.jpg",
         "content": "L'applicazione funziona bene. Occorre un po' di pazienza nel compilare tutti i campi ma poi tutto funziona a meraviglia. L'associazione tra APP e web funziona benissimo cos\u00ec puoi inserire i dati via web e te li ritrovi subito sull'app. In effetti se sbagli ad inserire i dati puoi modificarli da 48 ore prima della partenza oppure fai un nuovo inserimento lasciando il precedente a sistema (tanto se il viaggio non \u00e8 confermato nelle 48 precedenti non \u00e8 valido). W la SARDEGNA.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.3.4",
         "at": "2020-07-21 19:07:04",
         "replyContent": "Gentile utente grazie per il positivo commento e per aver installato Sardegna Sicura",

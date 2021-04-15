@@ -260,6 +260,12 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
 
+> Funker den egentlig???<br> :date: __2021-04-09 19:45:12__
+
+> Ikke veldig bra eg har hatt appen og ikke blitt påpekt at, en som også har appen har gjort at eg måtte i karantene før smittesporing ringte. Så eg gikk flere timer uten å vite at en hadde vært smitte om, ikke denne personen kontakta oss. Så denne appen er ikke å stole på.<br> :date: __2021-04-06 22:22:05__
+
+> Kan ikke legge inn positivt resultat. Selv uker etter positiv test. Så smittestopp brukes visst ikke til å stoppe smitte.<br> :date: __2021-04-06 06:20:28__
+
 > Nok ett bevis på korona-svindelen. Sjekk verdensbørsen, der ligger fakta. Skam dere. Neste generasjoner blir barnløse. Sjekk innhold og hvem som står bak dette. Skremmende!<br> :date: __2021-03-26 07:46:36__
 
 > Noe CDC I USA har i sin app, er at brukerne av appen kan gi tilbake meldinger om vaksinen, bivirkninger osv. Skulle likt en sånn app eller at dette kommer til denne også. Jeg fikk en sms fra FHI om å laste ned. Tror ikke denne fungerer... Ingen oppdaget. Verken hjemme, utenfor, i butikken, på kjøpesenter eller på gata. Ser ikke noe poeng ha den på tlf min.<br> :date: __2021-03-24 22:43:12__
@@ -273,11 +279,5 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Før ikke smittestopp app til å starte.<br> :date: __2021-03-11 09:43:27__
 
 > Smitteinfo er ikke oppdatert siden 28.02. Hva skjer?<br> :date: __2021-03-07 12:25:24__
-
-> Etter siste oppdatering, sluker denne appen strøm må lade 2-3x i døgnet på lik linje om ikke mere enn den i som ble lansert i 2020. Synd da denne versjonen funket utmerket frem til nå nylig, får heller ikke så hyppige varslinger som mange besktiver max 2 i døgnet og disse er uten lyd. Håper på ny oppdatering der dette problemet blir fikset opp i.<br> :date: __2021-03-04 13:12:10__
-
-> Står appen nå skal støtte individuelle innstillinger for varsler. Men dette er ikke blir valg jeg klarer å finne i appen.<br> :date: __2021-02-24 15:33:09__
-
-> Konstant pushvarsel om oppdatering av posisjon. Hvert 5 min. Altså dobbelt så ofte som annonsert. Henger innimellom. Blir avinstallert hvis det ikke blir bedring.<br> :date: __2021-02-23 20:04:14__
 
 

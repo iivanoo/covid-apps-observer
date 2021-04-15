@@ -157,6 +157,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="5_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 5 reviews"/>
 </p>
 
+> It works only in Japan. So don't give one star without reading it's terms and conditions.<br> :date: __2021-04-08 16:05:37__
+
 > The app isn't working out of Japan! So guys with 1 star, if you have problems with terms&conditions and no Internet before you arrived in Japan, don't worries when you arrive in Japan it will be fine, maximum you may need to buy jp sim in airport.🙃<br> :date: __2021-03-27 06:00:12__
 
 > オープンソースで開発されていると何度言っても聞く耳を持たずにとにかく批判したいバカばっかりですが。 シンプルで無駄な機能もないいいアプリ、ただし必要性は皆無。 追記 開始日付の表示のバグは治ってませんが関係なく動作しているんじゃないですかね。それだけでもし接触したのに通知が来なければ、その責任はGoogleとAppleにあるんじゃないですか。API自体の不具合を政府やアプリ開発者に言っても無駄。<br> :date: __2021-01-23 10:09:37__
@@ -174,8 +176,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > Works very well, took a second to install, didn't ask for any info, just gets on with it. Note that you only get anything out of it if it detects that you were close to someone who had the virus for at least 15 minutes. As hardly anyone has it in Japan, you likely won't get many hits, maybe none, at the moment at least (Essentially because preemptive efforts like this are working).<br> :date: __2020-10-27 17:49:59__
 
 > Good application 👍👍👍👍👍👍<br> :date: __2020-10-21 18:42:19__
-
-> Amazing.<br> :date: __2020-09-12 05:07:42__
 
 
 
@@ -237,6 +237,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> A joke of an app that you're required to download apparently. Am using it on Android and can't even register because it keeps telling me to "check my network" when I'm literally connected and am writing this review now.<br> :date: __2021-04-07 23:16:30__
+
 > I need this app to enter Japan but it says network connection failure when I try to accept the terms and conditions, my connection is fine.<br> :date: __2021-03-24 02:20:52__
 
 > これをインストールしたら、携帯電話に入ってた他のアプリが開かなくなった。<br> :date: __2021-03-23 16:55:03__
@@ -254,7 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > 規約に同意して次へ進もうとすると通信エラーになり先へ進めません。<br> :date: __2021-03-02 05:12:30__
 
 > Is it just a mockup?<br> :date: __2021-02-26 05:43:29__
-
-> Worse than a fax machine. I've been using this app diligently since release, only to find out it hasn't been functioning for Android or iPhone for months. A complete wasted effort on part of developers and the government sponsors. These apps have proven critical in New Zealand and other countries in the fight against covid, so it's a shame that Japan didn't take it more seriously.<br> :date: __2021-02-23 00:27:33__
 
 

@@ -190,6 +190,12 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="se.kry.android 5 reviews"/>
 </p>
 
+> good<br> :date: __2021-04-12 19:21:52__
+
+> Quick and easy. Best way to see a doctor for issues that do not require personal contact in the current situation.<br> :date: __2021-04-11 10:22:23__
+
+> very efficient medication in Sweden<br> :date: __2021-04-06 20:49:57__
+
 > Det jätte bra app<br> :date: __2021-03-25 20:40:13__
 
 > Väldigt enkelt att få hjälp för enkla ärenden.<br> :date: __2021-03-24 15:37:16__
@@ -203,12 +209,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > very exellent<br> :date: __2021-03-02 10:12:56__
 
 > Excellent<br> :date: __2021-02-22 12:26:16__
-
-> snabbt och enkelt<br> :date: __2021-02-21 08:55:18__
-
-> Good application and fast appointments<br> :date: __2021-02-10 09:45:46__
-
-> Excellent service with a caring, professional doctor!<br> :date: __2021-02-06 11:11:54__
 
 
 
@@ -286,6 +286,10 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="1_star_reviews_wordcloud.png" alt="se.kry.android 1 reviews"/>
 </p>
 
+> If you accidentally exit the app the call is gone and you are screwed... Also dont help the fact that kry vårdcentral has the worst doctors I ever met. Fresh now if you are goimg to call them to rebook you basically cant and you forced to pay the 400 sek for not showing up even though the doctor had more than 20 min to still meet me.. What a joke of a vårdcentral. Dont even waste your time here<br> :date: __2021-04-07 14:29:51__
+
+> Gick inte att boka tiden för en PCR-test, då man kunde inte välja en mottagning (man kunde se olika alternativ, men inget hände när man tryckte på dem). Högst frustrerande, och ett slöseri med tid.<br> :date: __2021-04-06 12:22:52__
+
 > There are several good and bad points about this app. We all know good so lets talk about the bad side- The support number given in the app does not work, it never worked for me! Whenever called, you never get a chance to talk to a real person and there is all sorts of waiting line music that you hear and no information about your queue number in case you decide to hung up. There is no email address provided so if you have any problem with the app or any questions, guess what? you will never get any answers The most important thing, Kry does not save your third party medical records (the reports received from other clinics) to 1177 and you can't access it because kry uses NPÖ and no one else than kry practitioners can access it, not even the doctors at general vårdcentral. Also, if you think that the doctor at Kry is going to be kind and listen to all your health issues and will be patient in listening to you then you are WRONG! The doctor that i visited told me within 15 minutes of my allotted appointment that he had another patient to attend to and therefore i must book another appointment if i had any other health issues to discuss. Kry had been good application when it comes to resolving health issues for children or even smaller scale health issues but it definitely needs to step up and provide correct information to the patients who come with serious or more complex health issues.<br> :date: __2021-04-01 22:16:39__
 
 > Läkare var sarkastisk. Han är svensk, inte heller arabisk talande enligt önskemål, trots enligt app har de 28 ST som pratar Arabiska.inget anamnes tagits allt, startade samtalet direkt tyvärr kan inte hjälpa er och ni behöver byta hälsocentral, kan inte ta prover utan undersöka, och om vi vill kan vi ta det privat.även osteoporos utredningar som tas muntlig var inte lustig att ta det här samtalet.vår upplevelse att dålig bemötande och värdelös hjälp.ingen skillnad från vanlig HC.rekomenderar ej<br> :date: __2021-03-23 17:50:45__
@@ -301,9 +305,5 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Saw an add for a self test. Downloaded the app and then there were no self test. Badly structured campaign.<br> :date: __2021-02-16 13:33:04__
 
 > I have har two apointments in this app. Both were very un pleasant. The first one basically told me that it was my medicines fault and sent me to my regular clinic and the second one was extremely rude, only repeated the same thing which I explained didn't work, He told me he was going to prescribe me some medicine (never told me what medicine) and then just didn't prescribed them and just sent me a text with tips. I will NEVER use this app again. I would rather burn 200sek than pay them to kry!<br> :date: __2021-02-04 11:12:26__
-
-> Just book an appointment at your regular health care center and save your money for that visit instead. That's all I got from my appointment. Referred to my regular health care center.<br> :date: __2021-01-19 20:30:25__
-
-> Not useful at all. Don't waste your time and call the vårdcentral directly.<br> :date: __2021-01-15 13:09:06__
 
 

@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> I actually love this app. It's useful! I can read and internalize the whole things there. Thanks a lot!<br> :date: __2021-04-09 09:11:56__
+
 > I am from India and I trust WHO. All indians love WHO, sobthere isn't much doubt to not believe this app.<br> :date: __2021-03-31 06:34:06__
 
 > Covid 19 loan<br> :date: __2021-03-19 17:57:06__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Nice<br> :date: __2021-03-05 17:29:37__
 
 > V.good<br> :date: __2021-02-09 14:12:24__
-
-> Great medical field app sourceGreat medical field app source!<br> :date: __2021-02-09 07:42:09__
 
 
 

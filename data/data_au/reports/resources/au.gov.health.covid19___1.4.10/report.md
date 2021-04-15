@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Out of the Woods , and into the clear..Great.<br> :date: __2021-04-09 13:24:09__
+
 > Z1ammm ...<br> :date: __2021-03-15 08:49:54__
 
 > Needed<br> :date: __2021-02-03 09:43:03__
@@ -176,8 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Helpful & informative but information overload at times.<br> :date: __2020-10-26 21:08:54__
 
 > Essential App at this time to stay safe<br> :date: __2020-10-11 15:25:41__
-
-> Everyone should be made to download<br> :date: __2020-09-27 00:27:03__
 
 
 
@@ -221,8 +221,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Recent resource.<br> :date: __2020-09-07 05:43:12__
 
-> Current version will not work because it thinks my battery optimisation is on - it is off!! Please fix asap as I want a working app.<br> :date: __2020-08-03 10:44:31__
-
 > Pros: good to know the official safe links here. Cons: it's really just a collection of web links, nothing more.<br> :date: __2020-07-14 00:47:47__
 
 > I'm looking for my location as my mum said there's been more cases where I live but it only gives U the choice to see Australia wide and not what U want to see I wanted to see my part of Victoria but it only covers Victoria itself and other places it would be good if it was more in depth<br> :date: __2020-07-02 17:02:12__
@@ -234,6 +232,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > It hasn't updated. Supposed to update at 9:00 AM daily.<br> :date: __2020-05-14 01:15:17__
 
 > Never have received the pin to open it<br> :date: __2020-05-08 01:20:55__
+
+> Won't download past 97%<br> :date: __2020-05-07 12:21:06__
 
 
 
@@ -271,6 +271,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> ins<br> :date: __2021-04-09 07:40:10__
+
 > No current State restrictions or links to them. Hopelessly out of date<br> :date: __2021-03-30 01:11:14__
 
 > Hopeless<br> :date: __2021-02-08 08:38:01__
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Useless. Very outdated notification feed. This app has life in my phone less than 5 minutes. Wish the government does more research for what citizens needs before watst the public money.<br> :date: __2020-12-19 21:25:15__
 
 > There is no information regarding privacy measures for testing procedures and the storage location/process regarding retained genetic samples.<br> :date: __2020-12-14 09:05:12__
-
-> Unfortunate that it provides incorrect information which causes difficulties for business. Since when were churches allowed 1 per 2sqm with a maximum of 150 for a religious ceremony - not a wedding or a funeral.<br> :date: __2020-12-07 04:05:26__
 
 

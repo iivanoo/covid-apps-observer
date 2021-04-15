@@ -217,6 +217,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> muy buenos profesionales<br> :date: __2021-04-11 00:42:57__
+
 > Perfecta la videoconsulta médica y la Doctora una profesional como la copa de un pino, qué cercana y certera. Mi enhorabuena al servicio y a la Doctora<br> :date: __2021-03-30 09:45:46__
 
 > La atención ha sido muy positiva<br> :date: __2021-03-26 17:33:11__
@@ -234,8 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Genial!!!<br> :date: __2021-03-07 10:09:23__
 
 > Contento con el servicio<br> :date: __2021-03-06 02:03:45__
-
-> Excelente<br> :date: __2021-03-04 10:23:00__
 
 
 
@@ -317,6 +317,14 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Muy mala<br> :date: __2021-04-09 19:01:19__
+
+> Esta app no funciona actualmente no me permite identificarme<br> :date: __2021-04-07 17:57:51__
+
+> Pedi darme de baja me cobraron 15.80 euros y los pague y aun no me dan respuesta<br> :date: __2021-04-05 21:06:03__
+
+> Fatal tamto la APP, cuanto el rendimiento nos marean con una multitud de Mails y telefonos de atención al cliente, que te sirven para nada pues llevo 4 meses intentando areglar un tema por telefonos, mails u whats, y nunca logre el unico que lles va bien es el sistema de cobros (a ellos), que me cobro por duplicado la misma factura es horrible, una estrella por obligación a publicar si no nin esto<br> :date: __2021-04-04 15:54:53__
+
 > No sirve para nada. No puedes pedir cita ni aparecen las que pides por teléfono pese a estar vinculado a tu póliza. Totalmente inútil.<br> :date: __2021-04-01 09:34:55__
 
 > Si el centro médico no fuera Policlínica la línea .afecta a vuestro seguro famedic<br> :date: __2021-03-28 11:28:40__
@@ -328,13 +336,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Ise una cancelacion para darme de baja me pidieron 15.95 euros y nada isieron sean mas responsables y no estes sacando el dinero que tanto cuesta ganarlo<br> :date: __2021-03-07 20:21:42__
 
 > Malisima no lo siguiente he tenido varios seguros médicos y esto ha sido nefasto, en esta aplicación no permite pedir una cita por especialista ni por centro medico, en pocas palabras no sirve para nada tengo que llamar y esperar 30 mins a que me atiendan en la línea telefónica para asignar una cita puffff<br> :date: __2021-03-06 09:19:25__
-
-> Horroroso tanto la aplicación como los servicios que prestan ,ya que una consulta de dermatología te dan para dentro de 4meses , tardan más que la pública. En cuanto a la app ,las videollamadas no valen para nada por qué no se ven,y otra vas a coger la llamada y se cierra la app,cuando consigues cogerlo,pues se corta y no se escucha muy bien Si haces un chat medico te contestan con suerte cada hora ,otras veces te cierran la consulta directamente,y las recetas nunca llegan.<br> :date: __2021-03-05 20:26:30__
-
-> Mala aplicación además en dkv, nadie sabe nada y te derivan a teléfonos, algunos inexistentes.<br> :date: __2021-03-05 13:16:57__
-
-> La forma de buscar médico y seleccionar es muy mala, la de Mapfre funciona mejor, saludos<br> :date: __2021-02-19 00:17:39__
-
-> Se bloquea al poner el correo y la contraseña. Tuve que llamar para que me lo desbloquearan. Y otra vez mo pude entrar, se volvio a bloquear y la tuve que desinalar.<br> :date: __2021-02-14 23:22:19__
 
 

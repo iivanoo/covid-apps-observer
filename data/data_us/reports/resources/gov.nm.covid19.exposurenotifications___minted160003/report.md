@@ -146,6 +146,8 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 4 reviews"/>
 </p>
 
+> It's persistent. I keep getting notifications my bluetooth isn't on so they can't notify me if I'm exposed. When I am home alone which I usually am I don't need the bluetooth on. I will put it on when I leave my house.<br> :date: __2021-04-12 04:10:41__
+
 > I thoroughly appreciate this app. I have a Samsung S7 and the app closed as soon as I clicked it. However, 3/25/21 the update fixed the problem. PS the developer contact email is not valid.<br> :date: __2021-03-25 21:04:42__
 
 > All the app does is share anon covid test results from one phone, (If Positive) alert phones that have been near by that phone, encouraging them to get tested. Simple, Basic, But really Useful.<br> :date: __2021-03-23 20:50:16__
@@ -161,6 +163,10 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 3 reviews"/>
 </p>
+
+> Haven't been using it yet<br> :date: __2021-04-09 08:24:37__
+
+> Can't have bluetooth constantly coming on.<br> :date: __2021-04-06 04:39:23__
 
 > Sure does suck the life out of your battery. Haven't had any notifications for anyone who's test positive for the virus.<br> :date: __2021-03-25 01:53:55__
 

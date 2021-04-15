@@ -141,9 +141,9 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > Thank you! There seem to be many people here complaining about the app who don't seem to get how it works. Ignore the reviews and use this app.<br> :date: __2021-02-15 06:43:42__
 
-> Its ok so far.<br> :date: __2021-02-10 07:47:18__
-
 > Awesome<br> :date: __2021-02-02 10:22:45__
+
+> Glad its her<br> :date: __2021-02-02 00:56:04__
 
 
 
@@ -152,6 +152,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 4 reviews"/>
 </p>
+
+> Cool<br> :date: __2021-04-07 01:37:54__
 
 > Good<br> :date: __2021-03-18 18:03:16__
 
@@ -171,8 +173,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > Great concept but kills my battery. I do have an old phone though so that may be the issue.<br> :date: __2020-10-27 15:53:56__
 
-> I had trouble getting the notifications to work like a lot of people had posted, I uninstalled and reinstalled the app and it worked the next time. Not sure what causes this. Glad we have some form of contact tracing!<br> :date: __2020-10-26 03:29:29__
-
 
 
 #### 3-star reviews
@@ -180,6 +180,10 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 3 reviews"/>
 </p>
+
+> Not sure<br> :date: __2021-04-12 09:32:09__
+
+> No Need<br> :date: __2021-04-08 22:47:34__
 
 > Neutral opinion of this app<br> :date: __2021-02-26 22:31:53__
 
@@ -197,10 +201,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 
 > I can't specify my area nor can I put in a result whether I'm positive or negative. Need to understand what code they want. Also if it only sense through bluetooth I don't want to be that close to someone if possible. There should be more options in Android app. Couldn't get my iPad to gain access so not sure how others are getting info even if it may be places I may go in the Metro or suburb area. Clarification needed pr more options.<br> :date: __2020-11-19 03:31:37__
 
-> I was in the same house with a person who tested positive... 3 days later... Still no notification! Uninstalling!<br> :date: __2020-11-12 18:55:04__
-
-> Been running into issues of it not checking for possible exposures even with location/Bluetooth being on during the day. Been working around the public and it checked 3 days ago with a hefty amount of keys but not the day after or yesterday for that matter until I found I had to delete all the keys and then it'll restart and start collecting again, all my co workers have it on also. Not a good thing incase I ran into anyone days before that and they tested positive and the keys match later on.<br> :date: __2020-11-07 12:54:36__
-
 
 
 #### 2-star reviews
@@ -208,6 +208,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 2 reviews"/>
 </p>
+
+> I don't know what this app was supposed to do but so far it's done absolutely nothing regarding Covid-19 exposure. When I was exposed, it didn't alert me. When that exposure was reported to the local health department, it still didn't let me know. When I tried to manually update the app with exposure details ... well, that's not a feature so again I have to ask: what's this app supposed to do? Giving it two stars because I believe the intention was good but the execution was lackluster.<br> :date: __2021-04-12 00:41:30__
 
 > Used to only notify you once about bluetooth, now does it all the time. That incentivizes me to uninstall since you cannot turn that notification off. Unfortunate.<br> :date: __2021-03-18 04:36:52__
 
@@ -226,8 +228,6 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > 👌<br> :date: __2020-12-23 09:21:28__
 
 > My wife works with covid patience. So needless to say, she is in contact with covid positive people. Her app says "no contact". Four people I work with have it. Nothing from the app. Broken. 😠Wish it worked better . Merica, thanks<br> :date: __2020-12-21 04:32:43__
-
-> Jg<br> :date: __2020-12-18 12:54:33__
 
 
 

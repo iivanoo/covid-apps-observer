@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOG8pUbLJ4OMcrV2Lez0T9uVaB0gqS-dudf0U3C1lUnRIoYc-fe18CJEFK0JM0lGvDaitRjeM53CBp1w4-o",
+        "userName": "J A",
+        "userImage": "https://play-lh.googleusercontent.com/-Zu77ttWrndM/AAAAAAAAAAI/AAAAAAAAATI/AMZuucnZR_eC181IDLKRgFWV2UScmd6Z9A/photo.jpg",
+        "content": "Runtergeladen, h\u00e4ngt sich sofort auf,direkt wieder deinstalliert",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-09 21:01:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHitsFuzLJ9nks6S22VwDxJQ7V4bbXEEOdUlowTJm56n83yW_WgY5-ryvR2fbAIKb3fE_3HINnJLfQcbUI",
         "userName": "Claudia Klose",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikiFZzTb3ls2NS-qi-Uli7bRkvoPBp1Re3MT1o",
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6e7ki1CJq1L8WrT7Z23Mv3wJK5hXH8Hql9LjZcQ",
         "content": "Derzeit st\u00fcrzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann st\u00fcrzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank \ud83d\udc4d.",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-17 15:10:54",
         "replyContent": "Hallo THE TO, vielen Dank f\u00fcr die Aktualisierung der Bewertung! Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
@@ -566,7 +578,7 @@
     {
         "reviewId": "gp:AOqpTOFihzB2j0-0MuLQPS624GVqjVsvBLGItLmmsJvHPP-PTidvIK0UAjQ4I_ZoRpTEvF-T8oKu1s5NFHlW0Qg",
         "userName": "Marcus Fey",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZGFs3r8mfN9cH7wc12MD30xy3n-A0a8cBMUEvlg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgOr8WRglXyJBdcqPNFxWjqMqiZH32v_hvutIyOw",
         "content": "Nach ein paar Wochen startet die App nicht mehr. Eigentlich eine sch\u00f6ne App...",
         "score": 1,
         "thumbsUpCount": 1,

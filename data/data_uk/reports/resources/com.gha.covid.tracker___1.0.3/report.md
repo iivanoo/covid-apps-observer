@@ -195,6 +195,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.gha.covid.tracker 1 reviews"/>
 </p>
 
+> On my card code got 7 numbers not 6 .<br> :date: __2021-04-12 11:33:44__
+
 > Government surveillance scam,shhep fell for it!<br> :date: __2020-11-21 05:17:20__
 
 > Pathetic app which does does not download! If it had zero to rate, I would instead of 1 star<br> :date: __2020-10-09 17:02:10__
@@ -212,7 +214,5 @@ No recent reviews available with 2 stars.
 > No instructions on how it works<br> :date: __2020-08-03 21:03:07__
 
 > Ok, I only downloaded this app last night & although the reviews seem ok. This was the 1st & main app for COVID-19 tracking. Yes I realise Gibraltar is it's main domain, I get it. But seeing as this was my only option really, Am I just meant to look at the compass tracker, watching random green dots faintly appearing, with the blue screen just saying "Active"/click if i tested positive? How do i know? I don't! We can't just ask 4 test. Bluetooth is always on. So do i just wait 4 an alert? 🤷🏻‍<br> :date: __2020-07-31 22:24:09__
-
-> This App is not designed for th UK, it is designed only for Gibraltar the app is useless, contact the developer like i did, UK citizen you will be told we can't use it in the UK 🇬🇧 This is their response "This App has been developed specifically with Gibraltar in mind. It is open for download by anyone, including cross-frontier workers and persons who regularly visit Gibraltar. If you are not in Gibraltar (whether residing, working or visiting) this app is of no real use to you"<br> :date: __2020-07-30 22:25:30__
 
 

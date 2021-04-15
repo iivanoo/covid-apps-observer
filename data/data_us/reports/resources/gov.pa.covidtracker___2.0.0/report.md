@@ -142,6 +142,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-04-06 21:16:20__
+
+> Awesome<br> :date: __2021-04-05 06:41:20__
+
+> Ok<br> :date: __2021-04-05 04:33:50__
+
 > It's very easy to understand and to follow Thank You very much.<br> :date: __2021-03-30 00:17:42__
 
 > Ih<br> :date: __2021-03-24 19:07:31__
@@ -155,12 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > How to report if someone is exposers<br> :date: __2021-03-11 21:23:02__
 
 > It's always good two be healthy that's the number 🗝️ Corona is real<br> :date: __2021-03-11 19:16:59__
-
-> If I could go back in time and tell my self to get this so I would know I would quarantine would be great but great app too.<br> :date: __2021-03-10 03:49:54__
-
-> This app is very helpful.<br> :date: __2021-03-08 15:37:22__
-
-> Keep up the good work<br> :date: __2021-03-07 19:35:44__
 
 
 
@@ -198,6 +198,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
 
+> Meh... This app NEEDS an "I've been vaccinated" indicator and a way to store and prove vaccination information. Get on it.<br> :date: __2021-04-04 17:05:03__
+
 > Covid-19, I know Corona Virus has changed all! I'm super disappointed in are system! China is swiping anal canal now! My only concern is, the ones with higher strang will probably be cloned in a robot! Biggest organ, Skinned perfectly put on Technology Robot. The real human to all but died of covid-19, to battle a working world for the humans that survived! At one time only one child. Wanting Boy. Afraid of the power of desperation! I know USA is a abarsement. President Trump, I believe in You<br> :date: __2021-03-09 11:08:59__
 
 > Not what I expected, not the kind of information I was looking for.<br> :date: __2021-02-06 08:04:10__
@@ -215,8 +217,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > It would be nice if there was a spot on the daily check in section of the app that had a CURRENT LOST OF SYMPTOMS. Just asking if you're okay or not doesn't help people to realize if they may have symptoms or not.<br> :date: __2021-01-11 14:21:29__
 
 > this isn't a reflective rating on this app; however, maybe this is proof on how well my VPN is working.. because i don't live in PA. does it even matter that i don't live in PA, if i was wanting to use the app? this raises another concern of mine. my VPN is on all the time, so how could this app, if i did set it up, know where I've been? does it all permission to bypass VPN settings? if not, how would it accurately know where I've been? or have i been mislead on what a VPN does?<br> :date: __2021-01-08 06:20:15__
-
-> Unfortunately, not enough people use this for it to be useful.<br> :date: __2021-01-06 20:29:16__
 
 
 
@@ -254,6 +254,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> This app takes too long to download on my Samsung Galaxy<br> :date: __2021-04-07 02:00:16__
+
+> Hasn't worked for the past 4 days.<br> :date: __2021-04-06 04:29:08__
+
+> Way too many permissions and data access for a state developed app.<br> :date: __2021-04-06 00:42:35__
+
 > Dont download it's a tracking app the government wants to keep tabs on people and they are using fear to do it and if you think the american government wouldn't do that please go look up project MK ULTRA the US government doesn't care about anything except lining their pockets and lying<br> :date: __2021-03-31 07:05:17__
 
 > This app still provides no useful real-time data. Exposure alerts are delayed and don't go off to let you know they happen. by the time you find out you've been exposed you might as well already be getting a test. Good try PA but failure so far.<br> :date: __2021-03-28 16:06:10__
@@ -267,11 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > What has this app done for us?<br> :date: __2021-03-19 13:00:42__
 
 > Started out okay, then went into continuous loading, depleting battery. Removed<br> :date: __2021-03-18 20:10:32__
-
-> Fake disease. The US government is evil, especially the "governor." He sucks.<br> :date: __2021-03-17 04:17:42__
-
-> Straight doesn't work. Not sure why, might be because my phone is rooted, but when I click Continue on the "Your data" page, it simply says "Sorry, that didn't work properly, error 104" and I can go no further.<br> :date: __2021-03-16 02:13:08__
-
-> I don't get why they need location they say they don't use it then why does it need it and it's inaccurate by far don't recommend<br> :date: __2021-03-10 19:55:56__
 
 

@@ -198,6 +198,10 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.responde 1 reviews"/>
 </p>
 
+> Depende de qyien te responda te cuenta una cosa u otra sobre el mismo tema<br> :date: __2021-04-07 18:47:46__
+
+> No responde<br> :date: __2021-04-07 16:56:42__
+
 > Muy mal todo. No vale para nada, no resuelven dudas. Acabas llamando y tampoco saben decirte y el argumento es "como la ley cambia cada día"... Qué vergüenza de gestión.<br> :date: __2021-02-20 08:29:25__
 
 > No hay información actualizada, está obsoleta<br> :date: __2021-01-25 10:53:37__
@@ -213,9 +217,5 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 > Pobre, mala y encima se engancha. De vergüenza ajena.<br> :date: __2020-07-24 23:54:32__
 
 > El desorden de su contenido hace que sea poco útil<br> :date: __2020-07-19 13:20:03__
-
-> Penosa app, se rien en tu cara<br> :date: __2020-07-01 10:51:54__
-
-> No me resuelve nada que no me diga las noticias ya....<br> :date: __2020-05-06 18:45:25__
 
 

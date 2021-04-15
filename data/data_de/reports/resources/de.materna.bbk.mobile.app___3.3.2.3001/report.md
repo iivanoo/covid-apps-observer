@@ -154,25 +154,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="5_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 5 reviews"/>
 </p>
 
-> 👍<br> :date: __2021-04-03 08:38:43__
+> Erfüllt ihren Zweck, kein Spam, wohl die einzig vernünftige App die wir erwarten können.<br> :date: __2021-04-12 11:43:17__
 
-> Vielen Dank für Ihre umgehende Rückmeldung und Erläuterung!<br> :date: __2021-03-31 17:18:26__
+> Schön gefällt mir<br> :date: __2021-04-11 21:34:36__
 
-> Sehr gut<br> :date: __2021-03-30 12:06:52__
+> Es sollte nicht schwer sein die Risiko Ermittlung mit einzubauen . Kontakt Verfolgung per WLAN und GPS und weitere Funktionen der Luca App mit zu übernehmen wäre ein Plus Punkt.<br> :date: __2021-04-11 17:01:39__
 
-> Super die aktuelle Darstellung örtlicher Coronabestimmungen. So etwas braucht es. Dankeschön<br> :date: __2021-03-30 07:50:44__
+> Die app ist top, wurde bei dem letzten unwetter rechtzeitig gewarnt 🌹<br> :date: __2021-04-08 21:59:35__
 
-> Habe vorgestern erst entdeckt, dass es hier eine Übersicht der aktuellen Corona-Regeln für den aktuellen Standort gibt inkl. Link zur Website des Landkreises. 👍<br> :date: __2021-03-28 23:58:08__
+> Sehr gut 👍👍👍<br> :date: __2021-04-06 23:22:40__
 
-> Tolle übersichtliche Landkreis Beschreibung für die vielen verschiedenen corona Regeln nach Inzidenz<br> :date: __2021-03-28 22:00:47__
+> O K A Y !!!<br> :date: __2021-04-06 14:38:23__
 
-> Seit der letzten Aktualisierung funktioniert NINA auch wieder auf meinem Tablet. 😊<br> :date: __2021-03-27 09:38:19__
+> NINA informiert über Katastrophenlagen am Wohnort, sofern Polizei und Feuerwehr die Informationen eingeben. Sind die Daten verfügbar wird zeitnah per Popup benachrichtigt und was zu tun ist.<br> :date: __2021-04-05 22:00:48__
 
-> Gut aber nicht immer aktuell oder zu langsam<br> :date: __2021-03-27 00:33:48__
+> Toll um informiert zu sein. Auch in Zeiten von Corona.<br> :date: __2021-04-05 16:11:57__
 
-> Nicht zu viele und nicht zu wenige Meldungen. Sehr hilfreich für lokale Ereignisse.<br> :date: __2021-03-26 21:06:50__
+> Immer aktuell über alle Ereignisse wie Impfung, Unwetter und ähnliches<br> :date: __2021-04-05 12:45:50__
 
-> Sehr Gut<br> :date: __2021-03-26 15:31:41__
+> Echt klasse! 👍<br> :date: __2021-04-05 08:40:17__
 
 
 
@@ -181,6 +181,12 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 4 reviews"/>
 </p>
+
+> macht was es soll<br> :date: __2021-04-05 16:57:15__
+
+> Okay<br> :date: __2021-04-05 13:18:06__
+
+> Gute App, benachrichtigt zuverlässig. Einziger Kritikpunkte ist die Karte, bei der sich die Meldungen zum aktuellen Coronavirus nicht ausblenden lassen. Deutschland ist komplett orange eingefärbt, sodass man andere Warnmeldungen nicht mehr wahrnehmen kann. Die Möglichkeit, alles bezüglich COVID-19 optional anzeigen/ausblenden zu lassen, wäre praktisch.<br> :date: __2021-04-04 21:34:10__
 
 > Der Benachrichtigungspunkt am Appsymbol auf dem Homescreen bei Android 11 verschwindet erst, wenn man direkt in die Benachrichtigung (über das Dropdown Menü oder durch gedrückt halten des Icons) geht. Wenn man die App öffnet und dann zur aktuellen Benachrichtigung navigiert, bleibt der Punkt am Appsymbol erhalten, so als ob die Benachrichtigung noch ungelesen wäre. Das könnte man bei Gelegenheit mal ändern<br> :date: __2021-04-03 11:10:53__
 
@@ -196,12 +202,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Die App funktioniert an sich gut, aber ich frage mich ernsthaft, warum sie teilweise riesige Cache-Daten speichert. Schwiegermutter hat heute 6GB gelöscht, Freund hatte letztens über 1GB. Kann doch echt nicht sein.<br> :date: __2021-03-12 18:12:33__
 
-> öffnen sich nicht ...Samsung S4 mit 5.0.1....Notfalltipps funktionieren! 11.3.2021 11Uhr...keine Reaktion der App! Wuppertal Elberfeld<br> :date: __2021-03-11 11:20:15__
-
-> Die App funktioniert soweit ganz gut. Die von vielen erwähnten Probleme habe ich (Android 8) zum Glück nicht.<br> :date: __2021-03-11 02:11:32__
-
-> Habe Benachrichtigung nur bei höchster Gefahr eingestellt. Trotzdem bekomme ich gefühlt 3 Mal die Woche irgendwelche nebensächlichen Corona Neuigkeiten aufs Handy. Tipp von Entwickler bekommen dass man die Push Benachrichtigung unter dem Punkt Corona abschalten kann. Danke!<br> :date: __2021-02-21 23:04:34__
-
 
 
 #### 3-star reviews
@@ -209,6 +209,12 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 3 reviews"/>
 </p>
+
+> Warum ist diese Benachrichtigungsapp so riesig? 1,8 GB.<br> :date: __2021-04-09 04:52:19__
+
+> Bildschirm drehen wird automatisch durchgeführt und lässt sich nicht deaktivieren.<br> :date: __2021-04-09 04:05:35__
+
+> Wenn kommt endlich eine Option um die Corona Meldungen ausblenden zu können?<br> :date: __2021-04-04 23:53:18__
 
 > Die App ist ganz gut, die Meldungen hingegen nicht. Die Informationen sind viel zu allgemein und ungenau. Kurz und knapp wäre deutlich besser.<br> :date: __2021-04-04 05:11:25__
 
@@ -224,12 +230,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Wow nach über einem Jahr funktioniert die App wieder soweit. Dankeschön gibt gleich mal ⭐⭐ dazu<br> :date: __2021-03-24 18:43:50__
 
-> Trotz manueller Deaktivierung der Stromspar Optimierung der App in den Huawei Einstellungen, habe ich heute weder eine Warnung doch die Entwarnung als Meldung erhalten. Auch Corona Warnung habe ich in den letzten Monaten nie als Push Erhalten. Lediglich einmal eine Unwetter Warnung. So leider eher eine Gefahr als eine Hilfe<br> :date: __2021-03-23 20:39:16__
-
-> Bei der letzten Alarmierung nicht regiert<br> :date: __2021-03-22 13:06:04__
-
-> Wie bereits von anderen Benutzern berichtet, funktionieren die optischen und akkustischen Benachrichtigungen nicht, obwohl alle Berechtigungen erteilt sind und die schriftlichen Informationen ankomme. (Android 10, G7ThinQ). Damit erfüllt diese App ihren Hauptzweck (Alarmierung der Bevölkerung) nicht! Ich sehe gerade: Die Entwickler sitzen in der Provinzialstrasse! Lach! Das erklärt wohl so manches. Vermutlich sind sie noch für weitere Bundes-Apps verantwortlich ...<br> :date: __2021-03-21 13:27:14__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,16 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 2 reviews"/>
 </p>
+
+> Vergisst immer wieder, dass es im Hintergrund aktiv sein sollte, bis man es wieder startet. Im Ernstfall ist man dann wohl tot, soweit überhaupt Funkversorgung noch statt findet.<br> :date: __2021-04-11 22:31:34__
+
+> Die App ist fett geworden. 120MB installierte Größe nur für Bevölkerungswarnungen sind meinem nicht mehr ganz traufrischen Handy zu viel. Wenn ihr da 100 andere Funktionen einbauen wollt dann bietet doch bitte eine Lite-Version an die genau das tut wofür Nina gedacht war, nämlich warnen.<br> :date: __2021-04-11 13:28:50__
+
+> zeitkritische meldungen wie terrorangriffe, naturkatastrophen, störfälle dürfen nicht durch push nachrichten verbreitet werden, denn diese werden ausschliesslich von google bzw apple servern aus verteilt, wie am alert day gesehen werden hoch volumige nachrichten drastig hinten angestellt/gedrosselt; Direktversand per cellBroadcast ist die einzig praktikable lösung- amber alert, japan katastrophenalarm, etc funktionieren! Datenschutz is ausrede, apps produzieren mehr überwachung als jede SMS!<br> :date: __2021-04-10 14:03:31__
+
+> Es werden keine Daten mehr im WLAN geladen. Nur noch mit Datenverbindung. Am WLAN liegt es nicht, alles andere funktioniert drüber wunderbar und schnell.<br> :date: __2021-04-10 12:54:43__
+
+> Hat lange funktioniert, außer Hintergrundwarnungen, aber jetzt flackert sie nur noch und ist unbedienbar. Davor hat mich seit Corona noch genervt, daß interessante Warnungen (Feuer, Chemieunfall, Bomben, Trinkwasser...) nicht mehr zu erkennen waren, weil für jeden Landkreis Corona drüber. Naja, spätestens seit April 20 dürften das alle wissen und es ist blöd wenn man andere Dinge dann nicht mehr mitkriegt. Deinstallieren/Installieren hat funktioniert. Neu starten muß ich die App trotzdem häufig<br> :date: __2021-04-05 20:35:05__
 
 > Wenn Benachrichtigungen erscheinen erfüllt die App durchaus ihren Zweck. Leider erscheinen die Benachrichtigungen extrem selten. Zum Beispiel wurde vergangene Woche in einem der von mir abonnierten Landkreise eine Bombe aus dem zweiten Weltkrieg gefunden. Eine Benachrichtigung blieb komplett aus. Heute war Probealarm der Feuerwehr. Ich habe keine Benachrichtigung bekommen, sondern nur die Sirenen gehört. Daraufhin habe ich in die App geschaut. Hier war der Probealarm vermerkt. Das geht besser!<br> :date: __2021-04-03 12:15:46__
 
@@ -248,16 +258,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > ☝☹ Letztendliche kann man die App erst abschließend beurteilen, wenn rechtzeitig eine Warnung erfolgt ist. Sehr gut sind die Notfalltipps. Leider funktioniert die App nicht immer 🙈 Beim Probealarm bleibt die App stumm.🙈<br> :date: __2021-03-24 08:57:56__
 
-> Die App warnt nicht oder zu spät oder redundant und widersprüchlich. In der Praxis bisher kaum brauchbar.<br> :date: __2021-03-17 16:27:57__
-
-> Anfangs noch irgendwie halbwegs funktioniert, mittlerweile kommen z.B. für ein Gebiet gar keine Aktualisierungen. Für ein anderes Gebiet dann schon, aber auch nicht der aktuelle Stand. Schade...<br> :date: __2021-03-16 13:50:02__
-
-> Meldet viel zu selten, oft erst nach Beendigung der Gefahrenlage<br> :date: __2021-03-13 15:18:03__
-
-> Keine Push Benachrichtigung über die heutige Sieren Warnung und auch sonst keine Warnung<br> :date: __2021-03-11 16:34:29__
-
-> Schon mehrmals gestorben. Meldet häufig viel zu spät oder gar nicht. Viel Glück!<br> :date: __2021-03-11 15:50:40__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,18 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="1_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 1 reviews"/>
 </p>
 
+> Facebook wanrt schneller und zuverlässiger als diese App wofür ist die zu gebrauche ausser Standard corona warnungen?!<br> :date: __2021-04-12 04:07:39__
+
+> Ich hab Probleme mit der Benachrichtigung, es löst kein alarm aus obwohl ich die Benachrichtigung aktiviert habe. Und nicht jeder Deutscher hat Internet für Warnungen, da wäre so etwas gut wie in der USA die Leute Emergency Broadcast SMS sendet.<br> :date: __2021-04-11 14:00:20__
+
+> In meinem Kreis besteht eine nächtliche Ausgangssperre. Müsste eine App wie NINA mir das nicht melden? Sollte diese App nicht für genau sowas gemacht sein? Ich empfinde die App gerade als sehr unnütz!<br> :date: __2021-04-10 20:31:39__
+
+> Grundsätzlich sehr praktische und gut App.. Leider aber bei den aktuellen Corona Regeln nicht aktuell. Für mich unverständlich wie es die staatliche App nicht hinbekommt, die Regeln zu aktualisieren. Daher nur 1 Stern...<br> :date: __2021-04-10 11:22:21__
+
+> Die App lief im Sommer 2020 noch sehr zuverlässig. Plötzlich wurde es aber still und als ich dann mal nachschaute, gab es neue Warnungen. Die App warnte aber nicht. Alle Berechtigungen sind vergeben und Energiesparmodus ist deaktiviert. Was bringt eine Warn-App, die nicht warnt?<br> :date: __2021-04-05 22:09:42__
+
+> Hat nicht einmal Alarm geschlagen nichts<br> :date: __2021-04-05 20:56:16__
+
 > Super App ...eigentlich aber seitdem der Corona Quatsch da drin steht nervt es gewaltig. .....und Tschüß App...gibt noch andere<br> :date: __2021-04-04 11:38:40__
 
 > "Fehler bei der Registrierung". Der nicht benannte Fehler existiert schon viele Monate. App hat noch nie funktioniert. Bitte achten Sie darauf die App ohne Bedingung an Werbeserver zu programmieren. App wird jetzt gelöscht.<br> :date: __2021-04-03 23:30:05__
@@ -273,17 +285,5 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 > Beim Thema corona impfen und testen mindestens 3 Monate nicht mehr aktuellisiert worden. Andererseits ist unsere Bundesregierung ja nach 13 Monaten auch nicht weiter.<br> :date: __2021-04-03 22:20:50__
 
 > Taugt nix bringt alle 3 monate eine sinnlose meldung<br> :date: __2021-04-03 17:08:13__
-
-> Die App warnt nicht und zeigt ständig an, dass die Standorteinstellungen fehlerhaft seien, obwohl offenbar gar kein Fehler vorliegt. Folgt man den Anweisungen ändert sich zudem trotzdem nichts.<br> :date: __2021-04-02 11:56:01__
-
-> Seit Februar funktioniert App nicht mehr, sie lädt nur immer und findet keine Ergebnisse. Auch nach löschen und Neuinstallation (mit und ohne WLAN) funktioniert App nicht mehr. Also in meinen Augen jetzt unbrauchbar.Seit März liegt auch Stuttgart, Halle Saale, Konstanz nicht mehr in Deutschland und kann nicht mehr geladen werden!!!!<br> :date: __2021-04-01 21:46:53__
-
-> Trotz Einstellung Landkreis Weimar wird die 7 Tage Inzidenz von Stadt Weimar angezeigt. Leider kaum verlässlich. Außerdem sind die angezeigten Gefahrinformationen nun schon 5 Monate alt. Diese App ist eine gute Idee, leider mit mangelhafter Umsetzung.<br> :date: __2021-04-01 10:27:03__
-
-> Ich habe ein altes SPT-900 Baustellen Smartphone, ein unkaputtbares Teil. Mit Android 4.4.2 das sich nicht mehr updaten lässt. Seit einen Update vor einigen Monaten funktioniert die App nicht mehr. Zumindest Staatliche Einrichtungrn sollten neue Apps Abwärtskompaktibel zu alten Betriebssysremversionen programmieren. Schließlich hat nicht jeder das Geld oder die Gewissenlosigkeit gegebüber der Umwelt sich jedes Jahr ein neues Gerät zu kaufen.<br> :date: __2021-03-31 12:12:26__
-
-> noch nie ne warnung bekommen bei bekannten quäkt die app bei jedem mückenfurz, fliegt wieder runter das leben ging und geht auch ohne diesen quatsch weiter<br> :date: __2021-03-30 16:45:16__
-
-> Die App läuft ohne Probleme. Nur leider sind seit einem Jahr die gleichen drei Themen bei jedem Ort. So geraten wirklich wichtige Meldungen in den Hintergrund. Die Angaben waren bis dahin immer super aber Solang es nur noch um Corona geht, bringt mir die app nix. 6x die gleichen Meldungen. Danke nein. NINA fliegt leider raus. Die wichtigen Infos über Wetter und eventuelle Unwetterwarnungen kommen besser über Proplanta.<br> :date: __2021-03-28 14:18:54__
 
 

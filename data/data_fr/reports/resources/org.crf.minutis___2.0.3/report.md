@@ -238,6 +238,8 @@ The Minutis Mobile app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.crf.minutis 1 reviews"/>
 </p>
 
+> J'ai téléchargé votre appli. Cependant je ne peux pas créer de compte. La page qui s'affiche ne me donne pas la possibilité de m'inscrire' sauf' si je suis déjà bénévole à la croix rouge ce qui n'est pas le cas. Merci pour le retour que vous ferez à ce message.<br> :date: __2021-04-08 07:12:07__
+
 > C'est bon l'app reconnaît enfin mon id CRF. Problème résolu 👍🏻<br> :date: __2020-12-31 11:15:17__
 
 > Comment se connecter quand on a pas compte sur cette application je viens juste installé qu'il m'identifier alors j'ai pas m'inscrire ?????<br> :date: __2020-10-30 07:02:27__

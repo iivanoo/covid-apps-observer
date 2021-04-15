@@ -202,6 +202,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 2 reviews"/>
 </p>
 
+> I had this app had it active, and never got notifications of exposure. I ended up qith Covid and the health department didn't even know to ask for the notification code. Needs a lot of work to work properly.<br> :date: __2021-04-08 03:30:16__
+
 > I love the concept of this app, but major issues needing addressed. Functionality of my device (android) slowed to near unusable, it was very "buggy" ie: Device would freeze up, apps closed without warning or would not open at all! Device shut down or restarted spontaneously, battery drained incredibly fast, plus any available memory was used sometimes within minutes so that I had to go through each installed & factory app to dump cache 2-3 times DAILY. If fixed I'd love to try using it again.<br> :date: __2020-11-26 09:28:13__
 
 

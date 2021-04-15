@@ -197,6 +197,12 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> All around Awesome experience! Great doctor and easy to use!<br> :date: __2021-04-09 01:07:54__
+
+> Perfect way to see a Dr without having to leave the house. Very easy and quick once your profile is set up.<br> :date: __2021-04-05 16:39:27__
+
+> Easy to use, much less of a hassle and faster than an unnecessary doctor appt<br> :date: __2021-04-05 14:05:13__
+
 > So much better than going to urgent Care or the ER. Especially right now with all this COVID19 craziness.<br> :date: __2021-04-01 15:13:53__
 
 > Great<br> :date: __2021-03-30 03:00:06__
@@ -210,12 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Real convenient. Thanks!<br> :date: __2021-03-17 16:36:08__
 
 > Overall great! Addressed my issues with care & understanding.<br> :date: __2021-03-04 05:34:59__
-
-> I was able to set up my account and talk to the doctor in less than 15 minutes (this includes the time that I spent on the phone with the doctor). I would highly recommend!!!<br> :date: __2021-03-03 23:36:54__
-
-> 2nd time using the online doctor visit. Both good experiences. Better than going into a possible covid infested waiting room. I used my phone and had no issues with the connection at all. This will always be my 1st choice if it's something that can be diagnosed over video chat. I was only billed $59 so no complaints about that at all. Wait time was less than 10 minutes.<br> :date: __2021-03-02 03:25:14__
-
-> Excellent experience, the doctor was very professional and friendly<br> :date: __2021-03-01 13:57:10__
 
 
 
@@ -291,6 +291,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 1 reviews"/>
 </p>
 
+> Terrible and extremely disappointing. I had a skin issue and sent photo ahead of time to clinician I selected. She didn't seem to know why I was needing help despite my stating it on questionnaire nor did she receive photo sent. We got cut off within about a minute, and she never called me back. It was a one hour waste of my time loading app, signing up account and filling out medical info, and waiting for appt to begin.<br> :date: __2021-04-08 00:11:27__
+
 > I did not have a very good experience, I barely got out what was wrong before he told me I probably have pneumonia, which I do not. Was on the call less than 3 minutes, it literally was a waste of time.<br> :date: __2021-03-22 21:16:00__
 
 > Really horrible service 100% of time - multiple attempts. I wanted this service to be successful, its not. Disappointing.<br> :date: __2021-02-20 18:42:49__
@@ -308,7 +310,5 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > This tool has failed me twice now, trying again tomorrow. Your tech support said my end was fine, it on yours. It is not conducive to ones mental health to experience these failures when trying to get better. I could lose my job if I don't get to speak to a doctor soon.<br> :date: __2020-06-17 13:37:42__
 
 > If I ever wanted my medical information shared with marketers, advertising networks and "services that can provide me options" I'd just post it on Facebook because that's easier and just about as secure.<br> :date: __2020-06-11 16:25:44__
-
-> This app sucks makes pay money for visit takes 1hr to sit an wait for visit l...doctor koo she prescribes meds easy quick visit..try to get meds from pharmacy they say doc never submitted they give u number to call to resubmit u have to wait another 2 hrs for them to answer I am on hold now<br> :date: __2020-05-19 00:35:48__
 
 

@@ -168,6 +168,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="org.alohasafe.alert 4 reviews"/>
 </p>
 
+> Works ok, still not sure what it's use for.<br> :date: __2021-04-08 03:32:43__
+
 > Very easy to use, doesn't require any personal info. It does require bluetooth but it's anonymous and you can keep it off at home and just use it when connecting to wireless headphones/remember to turn it back on when you go out. Only criticism is it's only in english and spanish, needs more languages. You shouldn't have to know english to be safe and keep others safe. It's just accessibility.<br> :date: __2021-02-27 05:04:18__
 
 > Very informative<br> :date: __2021-02-26 21:32:20__
@@ -204,6 +206,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="org.alohasafe.alert 2 reviews"/>
 </p>
 
+> Fuji<br> :date: __2021-04-08 01:08:24__
+
 > This is my 1st time.<br> :date: __2021-02-25 00:11:14__
 
 > Useless app. People with COVID19 are supposed to be quarantined. Will not work unless other phones have Bluetooth on.<br> :date: __2021-02-08 04:11:55__
@@ -220,6 +224,10 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
 
+> Another way for big government to watch you!<br> :date: __2021-04-12 04:13:40__
+
+> Doesn't work. My partner and I kept bluetooth on always. When he got COVID he reported it to the app with the code and I never got notified from the app, despite the fact that we live together.<br> :date: __2021-04-05 03:27:04__
+
 > I cant get it to open.<br> :date: __2021-03-30 20:29:43__
 
 > Stupid<br> :date: __2021-02-03 18:15:43__
@@ -235,9 +243,5 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 > This app downloaded itself on my phone do not trust this app at all. This is not okay.<br> :date: __2021-01-23 07:38:41__
 
 > I can take care of myself as well as people around me. Don't need this. Shame on victorino for forcing.<br> :date: __2021-01-22 08:00:16__
-
-> This app will never work! People who have covid-19 break quarantine all the time, you still see people not wearing mask, no ones checking on people in quarantine, everyone's still having gatherings with more then 10 ppl.. The list goes on... So don't download this it's worthless you'll never get a notification!<br> :date: __2021-01-18 05:14:49__
-
-> My mother is high risk so I felt this app was a great idea. I tried downloading it but it said I didn't have enough space. So I delete three apps that I don't need and some useless pictures. It still says I don't have enough space. So I check how much space I have and it says 615 MB, which should be more than enough to download the stupid app. I check and this app only requires 22MB. I try to redownload and it doesn't work again. Great concept but it won't even let me try it out.<br> :date: __2021-01-17 02:44:44__
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHJLsNDvKhJpQU5pux-uJ_W04HRwmoPJ-i5vrsatfAe8Z1FLnaJJaPR9IRrX12xB5prJML_hbW7eh8Dxko",
+        "userName": "Roberto V",
+        "userImage": "https://play-lh.googleusercontent.com/-t_alO-cZA4w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckujBQpsIYRc60e24o-V6xdyQ-UiQ/photo.jpg",
+        "content": "Vert good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-09 15:33:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFkpPi49wij4A5obWfABazCX6roM3cLP-n20XDA73QmsXQz806j7Vc21-FoJY9L5ZXEVaNKQb5UKWld6tM",
         "userName": "Meredith",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKHzswzBliZXSDDrNOYo-QnDaMkYNfIeO2eoj7Zw",
@@ -197,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLx7tAn7xC-mxtnMrYfVNqeWybBoy-JdazEGRPpUA",
         "content": "Clinicians need to wear headsets to avoid feedback during calls. Took two hours to troubleshoot issues and I'm a Healthcare IT security analyst. App does not sync with patient portal / EMR natively which caused part of problem. Other problem is that for most Google users, the email coming from domain will go into spam. Pediatric Associates need to go with a full-fledged telehealth solution instead of this fly by night, TytoCare (AmWell) app.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2021-02-18 01:14:23",
         "replyContent": null,
@@ -1214,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOGg9vGNIe_tVFxYxQ6V20VMoTa17yEqGWBe8xG8PzhVHdOlueKd5ICeC6fDthRnu4Nf_3RutSVelDwme-0",
         "userName": "Tamerra Brooks",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjI9pMF0qqyClBqy2KeE9ymKsFItKEEyUUH2kpH",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhAdum9smJqWCvZctKlg4yYs0QlSLUs08C3icwcai4",
         "content": "It was great to actually virtually see a doc. Was able to get everything taken of.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1598,7 +1610,7 @@
     {
         "reviewId": "gp:AOqpTOFn3XX2OG8s-oPi3sxv385K8np6aWGH1ov_KL69xA35QwkBxvbDmezf6_seVNw02sP_p3_JCG13KlDhcKY",
         "userName": "Maria Roditti",
-        "userImage": "https://play-lh.googleusercontent.com/-_mBB-EbmssY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnL-MaQaB81Zs9aoCC5qWw4Qd1QWg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbWquhpEIR00sGvJSLMXFwfw_pbhtMqqqgPHUbXg",
         "content": "Excellent! I love Pediatric Associates!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2366,7 +2378,7 @@
     {
         "reviewId": "gp:AOqpTOER0MNu9gHZRg7h2upS5H4vwCveiRvKMxyE9BvIr1kfTtk1eyHZdos3bc2CxYJDPEO6bPWFf4M7vWsH7OU",
         "userName": "Flo Engle",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgD5CeLFOURBA6atOm3Q9opTP6IBzDIGFmhZKuG",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gijq6z-lyso9igJAfg8PbhJhzp3c7bp9fGHvzag2w",
         "content": "Very helpful thank you",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2942,7 +2954,7 @@
     {
         "reviewId": "gp:AOqpTOEpVjITdUdfumVotyITsSotLlGR8uz9ovPqQSoANmopLwtqYJLEwOHVwl1U_aqSy7zUHRSzH0jTnS7qKdk",
         "userName": "Jennifer Dougherty",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiRSnYpUYxQsu3mz8Hx1AgMLDfphLz4LP3q1T2sHe0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdM9nQkrJZg1Nnxu8SBTaxWMYW92mnXA7TGMq8cEo",
         "content": "Super quick and very helpful.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4321,7 +4333,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHrBB5b2lmjOx6cITqsKcaz9RWDGcJfiPim5hAeM8Gxx38BsbY6mQ5V_-Ng7ejKVKn4Qn9OHaM66XDOL7E",
-        "userName": "Riecey",
+        "userName": "Amorriece McTaw",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhuhJrGBwjc7N_c6wp-5d4So6Xjl1Wt56qKBna85zI",
         "content": "Wonderful experience and very convenient.",
         "score": 5,
@@ -4441,8 +4453,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEkOFlDmzddwAGFOqyLd3Dfll8ve92_jG0M7MDo5eB6-wiFMLAuiad8KhuVsX6zzKIxkQPxXnLETeTelIM",
-        "userName": "jjayda rose squid",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFTq9FHE9WkV-Nyd_99zCwThNIaDoSHPBny6Tjsw",
+        "userName": "jayda roper",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSnrg-tQMkXlU389yYiTAydryFAEseyL6CpDlfqA",
         "content": "It was very convenient that saved me a trip to the doctors",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5462,7 +5474,7 @@
     {
         "reviewId": "gp:AOqpTOFB2cEROYWaxcBmOl1NwStpYnYVh5W28TbTmmzDxOn4wW-YBcqjAZAwImxNK7g4gXT_4dVzVqWtMomh8Vc",
         "userName": "Katherine Lizana",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjg_UZbO7mvBdatDGM13WfXpuVM_vjLT6dBDnYi",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTN_9-avrLU_1jVyOzO-AOgNwiM4X1iGbgxp3tV3g",
         "content": "Very easy to speak with the doctor, she was very knowledgeable and asked a lot of questions and took the amount of time needed to discuss my concerns and all symptoms.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6205,7 +6217,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGzbL-G6yYI0EEtdqa00m3ullJiJI3kajtPgnk8TBXrN3AoSzCOe116DqSJy242GBQSphtR-eJ6APlZU1g",
-        "userName": "Nayed Officiel",
+        "userName": "Nayed312",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfuKAeDGe0RDft2ABNEt0jIyOhd8y1P0zXcfU8UWI",
         "content": "l was not able to see the doctor at all, but she was able to see me.",
         "score": 3,

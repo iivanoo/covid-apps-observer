@@ -197,6 +197,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
 
+> Ich bin bereit alle Sensordaten meines Handys und weitere Personenbezogene (anonyme Daten) zu spenden. Es muss eine offizielle App geben, die so etwas macht. Jede Information des einzelnen kann dazu beitragen die Pandemie besser zu kontrollieren! Bitte fügt die Funktion ein, optional alle Sensordaten des Handys zu spenden!<br> :date: __2021-04-11 14:35:02__
+
 > Es werden nicht alle Fidnis Uhren unterstüt zum Beispiel alle Gelexi Uhren Fon Samsung oder iPhone könnte noch etwas mehr gesdaldet werden.<br> :date: __2021-04-02 07:09:48__
 
 > Sehr gute Idee. Daher ein Stern. Aber leider ist die App nicht zu gebrauchen. Samsung, Huawei oder auch Apple werden leider nicht unterstützt. Fitbit und GoogleFit sind allein nicht aussagekräftig genug. Sehr schlecht Umsetzung des Robert Koch Instituts. Habe eigentlich mehr erwartet. Heute 3.März neuer Versuch. Nun werden auch andere Hersteller unterstützt. Huawei und Apple fehlen aber leider immer noch.<br> :date: __2021-03-03 20:40:51__
@@ -214,8 +216,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Bin mir, auch nach den ganzen Monaten, eigentlich gar nicht sicher, was diese App überhaupt macht.<br> :date: __2020-12-19 14:38:18__
 
 > Funktioniert das alles auch mit einer samsung gear sport?<br> :date: __2020-12-18 10:36:10__
-
-> Samsung Health kann nicht integriert werden. Diese Fehlermeldung habe ich dauerhaft. Kann leider keine Daten spenden.<br> :date: __2020-12-17 20:15:14__
 
 
 
@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Leider kann ich das nicht mehr unterstützen und muss die App entfernen, da die Daten des RKI meiner Meinung nach nur noch geschätzt werden und keine Realität darstellen.<br> :date: __2021-04-05 16:15:31__
+
 > Geht so. Mi Fit wird nicht unterstützt. So auch nicht Notify for Mi oder Sleep as Android.<br> :date: __2021-04-02 07:09:33__
 
 > Leider funktioniert das Verknüpfen mit dem Amazfit Zepp Konto nicht obwohl auswählbar. Springt nach der Authorisierung einfach eine Seite zurück. Bitte beheben. Dann spende ich gern meine Daten.<br> :date: __2021-03-26 19:22:19__
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Die Fieberkurve Dreht sich bei.mir nur der Kreis nichts Passiert und es Steht beim Gespendete Tage 0 Tage Samsung Galaxy A51<br> :date: __2021-02-11 14:41:34__
 
 > Warum wird Kein huawei watch gt2pro Unterstützung?<br> :date: __2021-02-02 19:35:02__
-
-> Da Europa sowieso als reiner Datensammler zwischen Amerika und China enden wird. Sollte es einer Institution wie Ihnen gelingen 95% aller SmartWatches abzudecken. Bei einer reinen Datensammler App. Meine Empfehlung: 6, Thema verfehlt, setzen.<br> :date: __2021-01-31 10:28:26__
 
 

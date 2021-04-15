@@ -1,0 +1,37 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.INTERNET",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.WAKE_LOCK",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "activities": [
+        "org.covidwatch.android.ui.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.wehealth.org/solutions/app",
+        "https://play.google.com/store/apps/details?id=com.google.android.gms",
+        "https://help.wehealth.org/hc/en-us/articles/360060539533-How-is-risk-calculated-",
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://google.com/search?",
+        "https://www.google.com",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "https://app-measurement.com/a",
+        "https://%s/%s/%s",
+        "https://www.covidwatch.org/get_support",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+        "https://www.covidwatch.org",
+        "https://azdhs.gov/documents/privacy-policy/covid-watch-application-privacy-policy.pdf",
+        "https://verification.api.wehealth.org",
+        "https://exposure.key.api.wehealth.org",
+        "https://exposure.wehealth.org/US-AZ/index.txt",
+        "https://exposure.wehealth.org"
+    ]
+}

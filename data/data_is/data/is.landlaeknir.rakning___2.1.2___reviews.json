@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEpDgnAoOf1Bmi-vwfgKk7LpGCJ4_qJJgxnoBnlYbeyU1JcILISFOtZnC98Q0iMRwVkCm0z7tMQBtb36WA",
+        "userName": "Gu\u00f0leif Gunnarsd\u00f3ttir",
+        "userImage": "https://play-lh.googleusercontent.com/-mB_sUa_lcmk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNvVm_lcqw6PtWZeReDx7E4z4f6g/photo.jpg",
+        "content": "Appi\u00f0 datt \u00far s\u00edmanum n\u00e6 ekki a\u00f0 tengja \u00fea\u00f0 aftur f\u00e6 ekki sendan kv\u00f3tann",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.2",
+        "at": "2021-04-08 23:35:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG8G9E_yoXSU1NXG9DaxVOxAZB-YLw4Hc1X7T7TSFq51m0gfGZCQXkd8g4-pynBUscEGU_EHQym-Y2yi1U",
+        "userName": "Vilborg Hj\u00e1lmarsd\u00f3ttir",
+        "userImage": "https://play-lh.googleusercontent.com/-Pe_cVMPCKIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclw7GxGWiLvn1RfPDSMIsE-vvL4rQ/photo.jpg",
+        "content": "Tekur of miki\u00f0 af rafhl\u00f6\u00f0",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.2",
+        "at": "2021-04-04 21:36:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFPUsx85niIbFRnNBahlv3lVhaIeJTkuKm90JjMq0kNmjKQ3IYyeHAW44sYhDrlM2m_k40jZ2CcHnGJr6E",
         "userName": "Indina Gunnarsd\u00f3ttir",
         "userImage": "https://play-lh.googleusercontent.com/-uS2dx0ADgtc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngvGPZdomKypS3pB2bcHy5tEkduQ/photo.jpg",
@@ -254,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOH4shDGJkiohEX_XdBIEbA6a8RhWKgSfxjBmiel-iOUiMz4lBGkELsO-B3HYVeDHTBUtW0B38CTDuM9xks",
         "userName": "\u00c1sa D\u00f3ra Finnbogad\u00f3ttir",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkTFXu-cF5gmNkDePog6ASYChSihVO3KNjyQPA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgywF0bvlw3Qt4E4Gic0pL-LHCwXBKMuTmEceC29CQ",
         "content": "\u00dea\u00f0 er eiginlega alveg ferlega erfitt a\u00f0 hafa appi\u00f0 \u00ed s\u00edmanum \u00fev\u00ed \u00fea\u00f0 tekur svo miki\u00f0 batter\u00ed!! Flott konsept samt",
         "score": 3,
         "thumbsUpCount": 8,
@@ -305,7 +329,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gja_1dVmw8ButGRDdPUzfrtB54yIm811D97ZlnaDA",
         "content": "Flott app en rafhla\u00f0an er alltaf t\u00f3m \u00fat af \u00feessu appi.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-04-10 12:27:11",
         "replyContent": null,

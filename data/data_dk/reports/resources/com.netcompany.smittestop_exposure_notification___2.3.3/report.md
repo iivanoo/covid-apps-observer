@@ -162,6 +162,8 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 5 reviews"/>
 </p>
 
+> Works as intended:) please everyone download it to make it even more useful :)<br> :date: __2021-04-06 19:45:34__
+
 > Ok<br> :date: __2021-02-03 14:38:06__
 
 > Virker som den skal. Har fået notifikation en gang, om at jeg har været tæt på en smittet - højst sandsynlig i metroen, så den del virker også.<br> :date: __2021-01-14 12:33:22__
@@ -179,8 +181,6 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > Cannot start on android 11. For others, Android 11 enables to use it without actually having location on. (Google thing)<br> :date: __2020-09-13 00:21:30__
 
 > Awesome<br> :date: __2020-08-21 00:40:31__
-
-> Virker nu. Den bør vœre obligatorisk.<br> :date: __2020-08-18 08:40:15__
 
 
 

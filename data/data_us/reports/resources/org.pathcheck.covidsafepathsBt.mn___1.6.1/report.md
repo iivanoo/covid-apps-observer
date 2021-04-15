@@ -165,6 +165,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 4 reviews"/>
 </p>
 
+> We're doing better<br> :date: __2021-04-08 14:03:07__
+
+> I don't know yet I just downloaded the app<br> :date: __2021-04-05 02:08:19__
+
 > Why can't this be loaded onto a Fire HD tablet either via the Amazon app store or the Google play store that I also have on a Fire tablet? This would be extremely helpful for many nursing home residents that use Fire tablets and have numerous visitors and many staff possibly exposing them to Covid.<br> :date: __2021-03-31 23:06:45__
 
 > Not sure exactly how to make this work.<br> :date: __2021-02-04 23:38:55__
@@ -181,10 +185,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > the only reason I give it four stars is because I don't know if it works yet or not but it seems to function on my phone and my tablet and my laptop so until I know for sure that it works that's all I have to say.<br> :date: __2020-12-06 19:26:31__
 
-> Carol M<br> :date: __2020-12-06 02:15:38__
-
-> Good idea, but needs support of the places that provides the tests. which currently do not provide a verification code with a positive test.<br> :date: __2020-12-02 05:45:58__
-
 
 
 #### 3-star reviews
@@ -192,6 +192,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
+
+> I got sick today again all day getting I'm not giving you and single drop!!!!!!!!!!<br> :date: __2021-04-08 01:12:55__
+
+> Sends notifications late at night and early in the morning. Irritating!<br> :date: __2021-04-05 18:19:52__
 
 > Great if you live in MN<br> :date: __2021-02-15 00:36:46__
 
@@ -208,10 +212,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > So far, I can't tell, but tomorrow I go to hospital. I expect it will go off like crazy there. Not sure what the range is...6'? 20'? For airborne virus, 6' is no where near enough distance. I surmized that in January 2020, based on YouTube reports of medical analyst Dr. John Campbell. Check his channel out.<br> :date: __2020-12-29 19:44:24__
 
 > This app was totally amazing, it was sending my Meta Data all over the world. It even showed me that my neighbor was exposing him self to Covid with a un-natural hand sanitizer pump that doubles as an omelette maker. Keep up the good work. It's a winner for me.<br> :date: __2020-12-22 04:18:23__
-
-> Every time this app does a check for exposures, it adds a file in my downloads. One day alone had 40 checks/40 files downloaded. These are a waste of space. Otherwise, i like the theory of this app, hopefully more people download it so it can actually do its job.<br> :date: __2020-12-22 02:51:26__
-
-> So what is a verification code and how do you get one and from whom? A help function or more explanation is needed.<br> :date: __2020-12-21 02:33:56__
 
 
 
@@ -249,6 +249,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> Got a positive result through the city of mpls' testing site at the convention center today. To report my positive to the app I need a code. My results didn't come with a code.<br> :date: __2021-04-06 05:35:57__
+
+> Full of adds<br> :date: __2021-04-05 20:25:30__
+
 > Wasn't able to enter my code for a positive test. Boyfriend entered his code and I was never alerted about coming into contact with him? ?<br> :date: __2021-04-01 00:24:15__
 
 > Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen. Edit: uninstalling because still no fix and just got 20 notifications in a row.<br> :date: __2021-03-31 19:32:39__
@@ -264,9 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > In the last hour I've had 60 push notifications saying "checking exposures". I've had to disable notifications for this app on my phone, so what's the point of the app if I have to disabled notifications?<br> :date: __2021-02-19 22:49:38__
 
 > Seems like a great idea, but It sends a push notification everytime it checks to see if your exposed, without any way of changing it to only alert if potentially exposed. It just went off at 4am and all it was doing was checking, which isn't cool. Also, you actually have to add your test results. I've been around several people who tested positive and the app said nothing. Maybe the app should be required for covid tests, and the results should be sent through it so the app actually works.<br> :date: __2021-02-17 10:50:49__
-
-> Just showed up but I Didn't download this. Don't want it.<br> :date: __2021-02-16 22:41:59__
-
-> I need to my ciy<br> :date: __2021-02-08 18:33:12__
 
 

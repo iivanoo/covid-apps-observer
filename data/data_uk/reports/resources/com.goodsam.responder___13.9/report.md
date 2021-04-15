@@ -171,6 +171,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> Goodsam app<br> :date: __2021-04-07 21:41:29__
+
+> Brilliant have been able to help lots of people using this. Would like to know how to turn the volume for the siren down as very loud but other than that I have used it for over a year now with no problems.<br> :date: __2021-04-05 13:29:45__
+
 > Because of this app i have been able to give people a second chance at life, i have attended many life changing calls and confirmed succesfull resusitation outcomes on a number of calls<br> :date: __2021-04-03 01:37:22__
 
 > Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!! Now that everything is sorted, the app works fine for me.<br> :date: __2021-03-24 05:33:31__
@@ -186,10 +190,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Great app<br> :date: __2021-02-15 18:48:28__
 
 > Upon installation, I can't seem to get past the initial introduction pages. The button at the bottom which says "Ask for permissions" does nothing when tapped. I've checked the permissions that the app has been granted in the application manager, and it has everything it needs. Phone is a Samsung J3 running Android 5.1.1. Update: Thanks to the team for updating this so quickly. All working perfectly now!<br> :date: __2021-02-03 10:32:29__
-
-> Never leaves me alone. Works really well. Dare not sign on unless I've got a good bit of time to offer because I can easily get the next call before I've got home from the previous.<br> :date: __2021-01-27 18:54:23__
-
-> Hi my app isn't working, I'm not getting any sound when simulating an alert and only just realised. I could of missed so many calls because of this it's not fair<br> :date: __2021-01-16 03:04:47__
 
 
 

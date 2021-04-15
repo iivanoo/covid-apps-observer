@@ -257,7 +257,17 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
-> Bad joke that only works on a small, select number of phones. Pointless waste of taxpayer money when the federal app already exists .<br> :date: __2021-04-02 20:45:31__
+> It doesn't work when I go to trace it kicks me out<br> :date: __2021-04-12 03:59:35__
+
+> This app might work, it might be perfect, but it is an example if how the AB government puts its political well being before the people of Alberta's well being. The dick measuring contest this app represents makes the Health Canada app and this app less effective while undermining the purpose of running a contact tracing app.<br> :date: __2021-04-11 17:31:36__
+
+> This app is dangerous and should be removed from the app store. We have a federal app we should be using, stop trying to push this lesser app<br> :date: __2021-04-11 02:27:40__
+
+> Not very direct<br> :date: __2021-04-10 23:18:13__
+
+> Doesn't work compared to Federal App<br> :date: __2021-04-10 05:38:15__
+
+> Spent around four hours working in the home of someone who tested positive a few days later. Didn't get any notification from this stupid app. Useless waste of taxpayer money.<br> :date: __2021-04-07 17:42:24__
 
 > To many bad reviews, did not load it!<br> :date: __2021-03-29 09:37:29__
 
@@ -266,15 +276,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > 1 star because Kenney refuses to use the federal app which is leaps and bounds better. He just can't admit it's a failure. Don't bother installing.<br> :date: __2021-03-25 16:39:43__
 
 > Remove this app and support the federal COVID tracking app.<br> :date: __2021-03-24 17:41:27__
-
-> Inlike the canada app. This one knows who you are so they can send "support" sounds like they want to police us.<br> :date: __2021-03-03 15:55:33__
-
-> Drained 40% of my battery in 8 hours in the background<br> :date: __2021-03-01 23:59:26__
-
-> Relies on non existent / useless contract tracing and honesty from users so is doomed to be useless<br> :date: __2021-03-01 13:48:55__
-
-> Alberta needs to join the national tracking app and quit thinking their app is worth a damn<br> :date: __2021-02-26 20:37:06__
-
-> National app available. Why arnt we using it<br> :date: __2021-02-19 16:29:03__
 
 

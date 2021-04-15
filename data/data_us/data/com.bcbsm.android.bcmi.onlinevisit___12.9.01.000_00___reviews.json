@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOEmYwnw7yu63sWnXIHzYUEvGM0BMqvOI-pH_ogogyWePEoaGb3JnS_uwmdpZAcG0dAY4XYZYWRFtyq_IA",
+        "userName": "Jessica Murphy",
+        "userImage": "https://play-lh.googleusercontent.com/-5JPn81X6D7Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneFYkNbyheEUYbFmRXJlMkF44yZg/photo.jpg",
+        "content": "All around Awesome experience! Great doctor and easy to use!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-09 01:07:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGuxKgYus7diLOGyxNKLfxADyggRsI7vJZmigyyomU3guVabQ7Kl1fl4itm-p31yHogw_35pmcH2bLqyw",
+        "userName": "Sharon Morrow",
+        "userImage": "https://play-lh.googleusercontent.com/-sJygzytqwkc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmma3nOrEoWQGCZa8MUmsYfcyfM1w/photo.jpg",
+        "content": "Terrible and extremely disappointing. I had a skin issue and sent photo ahead of time to clinician I selected. She didn't seem to know why I was needing help despite my stating it on questionnaire nor did she receive photo sent. We got cut off within about a minute, and she never called me back. It was a one hour waste of my time loading app, signing up account and filling out medical info, and waiting for appt to begin.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-08 00:11:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEoonnUk3iO-xO_55TgQ4n3-h6lt0q6t4G4oKgP1l1Enb0eoPijJ5dFaagoznSY0xEAHCC2e1CBF3v4XQ",
+        "userName": "Nathan R",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1C4aR6IIMCnAgtNpvfaEzioIPCk1iubt5SiJpJw",
+        "content": "Perfect way to see a Dr without having to leave the house. Very easy and quick once your profile is set up.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-05 16:39:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEK2gYY7dC5MASutkBklOFV7r9yPK7BTo80vabRF-qKNIk0ecprrU4BxTgb929g5KNDq4LyMvv6Nrl2cw",
+        "userName": "SolidSmud",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPGBS8SGaSBZs84O_F7Kf9w5-8av_aGqgljFv-",
+        "content": "Easy to use, much less of a hassle and faster than an unnecessary doctor appt",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-05 14:05:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFPOw4bgEJcATo1Vir6Va2qGfMsqLRSymqrkgW4yRYgZttww6InOQv7TfEK-j_PsB5xXyZ_VU4WInoeQg",
         "userName": "Jeremiah Barker",
         "userImage": "https://play-lh.googleusercontent.com/-WRSzNyO4We8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZxIpdkFXCWXTuSn6gpQmDnyuDtQ/photo.jpg",
@@ -1369,8 +1417,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGVAWiRR0orVRDpEUTTn9zNL8kTru3vF7bAAYoJN3fn5C8GgrM3RiL7bEd9BCMzi8y3Xae_OmVbgEhluA",
-        "userName": "\u1d05\u1d07\u1d0b\u1d1c",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-m5j7PQ803rq7IerVH4ahFFObA3ZUcJAgGr7QWvA",
+        "userName": "PUPPST3R",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0AMWF2P6ACfvlCvCNxVwsI-YjAMbFRFo_LUXKpWs",
         "content": "Peace of mind! Easy to use, quick, qualified professional helps us out, every time. We use this much of the time.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1634,7 +1682,7 @@
     {
         "reviewId": "gp:AOqpTOFm3mabOU6ELT3BU22U_wL-MUwUtbUaCbYGveI8o1qOsx1yKUSDPKkSN2hDz3g6ZTLIfuQJaQvtq6Ozig",
         "userName": "Renia Thomas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giz5wvz0JLaR6NIDQa3JThI20yFt_Q20xbMLG-NzEM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghd8BnNYQAEcbYqP0t7W4tKI7VNNKcfJZkHQXa1H5U",
         "content": "The app keeps telling me its unable to verify my insurance and asking me to pay",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2774,7 +2822,7 @@
     {
         "reviewId": "gp:AOqpTOH_RZaiZebf2bNojrZFdPCP0nhWCzzfXKRbcfO8ZMNsHOMf81TjIc3aasELkuHGbqfXKfC47L5vZsjscg",
         "userName": "Jared Green",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggdq10hRAxd8GU2Dmh6-HTEU0_DllLyfqBfdV6t",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggu6lZBi498Il0rKM48H5lAmVTj_xwYZkbexDjA_9M",
         "content": "This is an incredibly useful app. You can see a doctor on demand anytime you need to.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4310,7 +4358,7 @@
     {
         "reviewId": "gp:AOqpTOFqw9NWflkyFszqpNg-AF6GhfOunr2F9aBHpHIo6jOWe-zEiOFpV8tpQOUl84Orm3qF4g2waeBeHj5yVQ",
         "userName": "Trent Calvin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_JqAex5JR3-3HdznBf6--Ff8JIA51YinhICJk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg15dyHsP3Isq6D2w79anQo1-S9QYtkXnxt3w3-yig",
         "content": "First time experience was smooth and easy to use. Met with a doctor in 15 minutes who was able to prescribe something for pinkeye. No offices. All from the comfort of my home.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -5222,7 +5270,7 @@
     {
         "reviewId": "gp:AOqpTOGtyaPn1hhSDj8CB9zdR_FaqW4Jp3owcT99cVaFPQ4UIBG3sgLbtTQGDTY5LUw8XlMm1wqUcZNxfAk8Ag",
         "userName": "Gavin Plays",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgZ_w1F_b39jfniW4LipgyORO2-26P7W6xYpFtCw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdOCS1yC2c76xaIwqBZj7VyMTG2CQLZNKYeq4Mzg",
         "content": "great",
         "score": 4,
         "thumbsUpCount": 0,
@@ -7826,7 +7874,7 @@
     {
         "reviewId": "gp:AOqpTOFVDY0RtLwaxarwOalO2LFaWKJE7wcL7sDlL--_vx_52BSqMYEWzEtXA_r9ljjh5x0G0V-u6Ku7kQSqrQ",
         "userName": "Mick Vargas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgiVDOhmca_UoFiOTcY1XG6riTE37y9Y1Dyyo9j",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_FoalHoipYeyUfaaeFtgftfFfgt5VMT-IhjQMiMI",
         "content": "Great app! Saved a LOT of time, I highly recommend it for minor ailments.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8402,7 +8450,7 @@
     {
         "reviewId": "gp:AOqpTOH3ubcXW7WYggyRR2C3ftZ-9GTOBC7Eb_wQ2h7c5QpgSIebaNRYuG_HqHylBzUGczQdyYungug9U-Mu6A",
         "userName": "Chris Migrin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhAdHV_6QsMmZbC1fBKEkgJhJQt0KYtCKjLe2yh",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5nfFFQTawI1OmGRwmURPBUl77q-K8AHRVaeuUF2c",
         "content": "Very easy to use",
         "score": 5,
         "thumbsUpCount": 0,

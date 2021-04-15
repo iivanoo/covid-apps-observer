@@ -149,6 +149,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="es.gva.coronavirus 4 reviews"/>
 </p>
 
+> buena<br> :date: __2021-04-11 21:03:21__
+
 > Más adelante.<br> :date: __2021-03-29 16:23:55__
 
 > En principio todo ok, no obstante me sale una duda, doy de alta mi SIP, pero es posible añadir la SIP de mi hija que es menor de edad? Gracias.<br> :date: __2020-08-02 21:52:13__

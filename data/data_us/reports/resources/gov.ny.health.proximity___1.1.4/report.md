@@ -145,11 +145,15 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> SharonFrancisSharen22o<br> :date: __2021-04-09 19:18:25__
+
+> Informative and keeps me up-to-date on my area and stage a New York<br> :date: __2021-04-05 22:03:43__
+
+> Md<br> :date: __2021-04-04 23:19:54__
+
 > Thanks guys much 💘 💜<br> :date: __2021-04-03 19:44:43__
 
 > Good<br> :date: __2021-04-03 11:43:25__
-
-> Like<br> :date: __2021-04-02 11:05:27__
 
 > More of a data analysis tool, but useful nonetheless to see what's happening.<br> :date: __2021-03-31 16:13:42__
 
@@ -161,10 +165,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > HELP FROM UPSTAE NEW YORK I HA D. .. ....! R<br> :date: __2021-03-24 09:44:11__
 
-> Accurate and easy to use<br> :date: __2021-03-23 04:28:19__
-
-> The information was very helpful and more awareness about this new techology. Thanks!<br> :date: __2021-03-22 07:47:44__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 4 reviews"/>
 </p>
+
+> The app needs to automatically connect to Bluetooth after phone reboot.<br> :date: __2021-04-04 21:45:40__
 
 > Huj<br> :date: __2021-03-29 20:32:05__
 
@@ -191,8 +193,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > Me parese muy buena idea mantenerme informado sobre los camvios los nuevas sobre los csmvios<br> :date: __2020-12-14 23:51:39__
 
-> Awesome<br> :date: __2020-12-10 16:25:25__
-
 
 
 #### 3-star reviews
@@ -200,6 +200,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 3 reviews"/>
 </p>
+
+> Could be good if more people used it. Unfortunately for my battery, I can't afford to have Bluetooth on all day so I pretty much can't use this app. Only when plugged I but I can't have it plugged in when I'm public so...<br> :date: __2021-04-11 06:34:08__
 
 > I never had any issues with the app functionality but, it was not useful to me in any way. No alerts or information to help me stay informed or safe. It has not improved my life or proved to be a valuable tool during COVID-19 in any way.<br> :date: __2021-03-31 21:58:32__
 
@@ -218,8 +220,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Its ok<br> :date: __2021-01-12 02:15:18__
 
 > All of these apps need to work together, not try to supercede each other. People who travel should not need to switch which app is doing sensing depending on which state they are in. If this is the fault of state health departments, they need to stop the bickering and all work together<br> :date: __2021-01-06 04:16:14__
-
-> I will say, recently in our area we've had an outbreak. The app was scanning daily to see if anyone in the vicinity had reported symptoms. This will only work if everyone down loads this and enters symptoms or lack thereof often.<br> :date: __2021-01-06 02:02:53__
 
 
 
@@ -257,6 +257,14 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> Worthless app. does not work. People close to me are now dying from Covid and this worthless app helped no one. It drains battery on bluetooth and that's all it does. I am however fully vaccinated. UNINSTALLED<br> :date: __2021-04-11 08:44:06__
+
+> The only alert I got from this app was when I turn my Bluetooth off at home. I constantly get the notification telling me it can't check for exposures. I spent a while work day with someone that just came off quarantine and didn't get a notification then. There's too many variables for this to be useful and the constant bluetooth notifications were just annoying.<br> :date: __2021-04-09 13:44:33__
+
+> The app is a great idea, but it's useless because no one is using it. It should be mandatory. I'll uninstall because it does not work with only 500K installs.<br> :date: __2021-04-05 20:25:09__
+
+> TAKE THIS FAKE GARBIGE OFF THE STORE OK LOOK ITS STUPID ITS JUST FAKE IT SAID MY FREIND WAS EXSPOSED TO A PARSON IN HER SCHOOL BUT THAT PARSON WAS NEVER THIRE AT ALLL I HATE IM GOIMG TO ROST YOU OK... HERE I GO... TAKE THIS APP TO THE TRASH I WAS DONE WITH IT YESTERDSY<br> :date: __2021-04-04 23:30:51__
+
 > The app is really only useful if widely used. Much like the new Excelsior pass, if it's use is not mandated or widely used voluntarily, it is essentially useless.<br> :date: __2021-04-01 18:57:47__
 
 > The App unfortunately not opening up.<br> :date: __2021-03-30 05:32:48__
@@ -268,13 +276,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > Have to use it to rate it. Day 1<br> :date: __2021-03-25 14:55:31__
 
 > Designed for ios only.<br> :date: __2021-03-25 07:20:15__
-
-> Lacking in functionality to inform users... Doesn't link outside the app to get additional up-to-date information and directives from government agencies.<br> :date: __2021-03-25 05:47:54__
-
-> It never alerted me to anything. Bet it just says on us.<br> :date: __2021-03-24 22:14:08__
-
-> Uninstalling this app as it doesn't seem to actually be used by any NYC contact tracing group. When I tested positive for covid, neither of the two contact tracing officials brought it up or could give me a code to notify people I was in contact with. What was the point lol?<br> :date: __2021-03-22 20:41:51__
-
-> My wife's boyfriend told me that I should be using this app while I am out playing pokémon GO with my other frienx, or rioting and arsoning with my comrades. Because he doesn't want me bringing this filthy virus into his bedroom. The joke is on him, it's not his bedroom. Our place is owned by a coveting filthy landlord. I asked my frienx john, she/they agreed, i respect xie's truth.<br> :date: __2021-03-19 06:23:14__
 
 

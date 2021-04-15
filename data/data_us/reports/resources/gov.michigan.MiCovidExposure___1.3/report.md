@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Very good 👍 love it<br> :date: __2021-04-11 16:43:36__
+
 > Good to know<br> :date: __2021-04-04 05:01:49__
 
 > GREAT!!!!!!! GOT MY FIRST INJECTION FROM TWO BEAUTIFUL NURSE'S AT BLUEWATER CONVENTION CENTER MARCH 2, 2021. HAD A COVID TEST MARCH 9, 2021 AND IT WAS NEGATIVE. I HAD THE SECOND INJECTION MARCH 30, 2021. NURSE'S FROM SCCHD GAVE ME THE INJECTIONS AND THEY WERE ABSOLUTELY WONDERFUL!!! THEY WERE CLEAN, THE PLACE CLEAN, A LADY WAS CONSTANTLY CLEANING, THEY WERE EXTREMELY KNOWLEDGEABLE ABOUT EVERYTHING. I WAS SO RELIEVED AND GRATEFUL TO THEM!!!!!!!!<br> :date: __2021-04-03 00:42:20__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Too much covid news they need to get the cure out there and stop this garbage and it lets me know every time somebody blows Bobby if they got a sniffle or fart!!!<br> :date: __2021-03-07 22:56:02__
 
 > Liability<br> :date: __2021-02-28 19:43:56__
-
-> Keeps us up to date us Michiganders Stay safe everyone...<br> :date: __2021-02-26 13:44:15__
 
 
 
@@ -210,6 +210,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
 
+> The last time the Exposure Notification updated was on March 31, it should update more often.<br> :date: __2021-04-12 05:38:38__
+
+> I tried the app but have to uninstall and re install every couple of days because it stops working.<br> :date: __2021-04-06 22:46:51__
+
 > The app is ON but has not done an exposure check since Jan 24. Today is Mar 18.<br> :date: __2021-03-19 16:34:13__
 
 > Good idea, but app stops updating/checking from time to time and won't refresh or reconnect. Tried turning bluetooth off/on, restarting phone, but couldn't make it active again. Last check was over a month ago. Is COVID over?<br> :date: __2021-03-19 01:17:23__
@@ -226,10 +230,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Doesn't update cases counts and deaths data<br> :date: __2021-02-22 19:53:15__
 
-> Does not update<br> :date: __2021-02-14 13:28:30__
-
-> The app does NOT update as it should! It unexpectedly will stop and the only alternative is to delete it and then reinstall it. I have done this 3x....<br> :date: __2021-01-19 14:05:19__
-
 
 
 #### 1-star reviews
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> It is now April. The app says it hasn't checked for exposures since Feb. 11. When I tried to export exposure notifications as outlined in other replies there were no notifications listed, and the info text says that the log only includes data for the last 14 days. When I click export I don't see that anything has happened, and the "last checked" date is still Feb. 11.<br> :date: __2021-04-12 14:25:38__
+
+> This app hasn't checked or updated since January 4, 2021. How are we supposed to rely on something that sucks this bad.<br> :date: __2021-04-09 18:28:32__
+
+> Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right. Reloaded as you said to. Still no readings since the 23rd. Installed and Uninstaller 6 times. Still not working right. Last exposure check was on the 13th. The app is an excellent idea just wish it would work. Had reinstalled a 7th time. Last notification was April 1st. It is now the 9th. Unistalling permanently. Sorry. Nice try.<br> :date: __2021-04-09 17:19:54__
+
+> Had it for a while now, doesn't even work. Word of mouth works better.<br> :date: __2021-04-09 16:52:55__
+
+> It hasn't checked for exposure since March 20th. I've followed the instructions regarding battery management and nothing has changed. I can't email you the exposure file because when I click on export exposure checks nothing happens.<br> :date: __2021-04-09 12:59:21__
+
+> Does not work. It last check for exposure 3 months ago when it was installed. My location service is turned on, and exposure notifications are on in the app.<br> :date: __2021-04-09 02:47:34__
+
+> It hasn't checked for exposures in nearly a month. I changed battery optimization and no change. I don't like having bluetooth constantly enabled solely for this app so I don't see the point in keeping it. EDIT: YES, I know that bluetooth is required. Which is why I'm complaining about this app not working properly. I've had bluetooth on all the time all this time, and it hasn't even checked for exposures, which means, all that I've done in the past month is compromise the security of my phone for apparently no reason. If there is no benefit to using this app, I'm certainly not going to keep using it and keep bluetooth on.<br> :date: __2021-04-05 22:04:02__
+
+> Has not checked exposure since last update. Edit: after update still not checking.<br> :date: __2021-04-05 15:12:02__
+
+> They force you to use a mystical pin that is next to impossible to find the person to give it to you after calling both local and state health departments who are not open over the weekend.<br> :date: __2021-04-05 14:52:23__
+
 > Downloaded and like everyone else it stopped working. I uninstalled..reinstalled and checked settings as was suggested by the individuals who interact with the reviews. It hasnt worked in weeks and I had a close contact within that time, that wasnt caught. Wow. I wont be reinstalling .<br> :date: __2021-04-03 22:50:39__
-
-> Has not checked for exposure since Feb 20, 2021. I followed your instructions and my Covid 19 app is still not working. Nothing Exported as well when I clicked export.<br> :date: __2021-04-02 00:59:15__
-
-> I did the whole background battery app check thing suggested below. This was not the problem. Bottom line. It's time to give up on the ghost. It doesn't work and it's not the battery settings.<br> :date: __2021-04-01 04:56:16__
-
-> I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!!<br> :date: __2021-03-30 11:33:45__
-
-> Hasn't checked for an exposure in 6 weeks, no way to manually check, either.<br> :date: __2021-03-29 19:53:25__
-
-> This app caused many of my other apps to crash upon opening. The only thing that fixed the problem was to uninstall this.<br> :date: __2021-03-29 00:19:32__
-
-> Has stopped checking. It's been six weeks since the last check. App is really useless.<br> :date: __2021-03-26 12:35:37__
-
-> This app would be a great tool for reporting a result if it didn't require an hour on the phone with people who have no idea the app exists!<br> :date: __2021-03-24 19:01:25__
-
-> It worked well initially but its last check was in February and nothing I do (sort of uninstalling/reinstalling) will get it to check again. I turned off all the battery saver options on my phone, nothing limits it at all, and yet suddenly it just doesn't work. An app like this is exactly what we need right now but it's only good if people install and use it, and we can't use it so there's no point installing it.<br> :date: __2021-03-23 22:31:32__
-
-> Nothing but battery problems since installing.<br> :date: __2021-03-22 13:10:57__
 
 

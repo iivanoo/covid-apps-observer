@@ -192,8 +192,6 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="3_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 3 reviews"/>
 </p>
 
-> Ziet er goed uit En is informatief<br> :date: __2020-11-15 08:59:24__
-
 > Graag nog de app aanpassen aan corona crisis.<br> :date: __2020-04-13 11:55:30__
 
 > Het is niet handig dat de tekst van de richtlijnen onder aparte kopjes staan. Snel overzicht krijgen lukt zo niet. Ga toch elke keer weer naar de website.<br> :date: __2018-04-15 12:23:09__
@@ -220,6 +218,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> Dit zijn nu de mensen die het land reageren en Rutte is het Papegaaien. Dat is mijn mening.<br> :date: __2021-04-10 09:39:46__
+
 > Krijg de indruk dat meeste gebruikers van deze App VVD stemmers zijn.<br> :date: __2021-03-16 11:21:58__
 
 > Reee<br> :date: __2020-10-26 16:31:39__
@@ -237,7 +237,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Werkt niet. Blijft zeggen dat er geen internet verbinding is. Dit is echter wel het geval.<br> :date: __2020-07-26 20:42:54__
 
 > werkt niet. zoals alles bij de overheid.<br> :date: __2020-07-25 17:03:50__
-
-> Op dit moment lopen jullie achter met bijwerken van de app! De laatste update is van 21-07-2020 en het is nu Zaterdag 25-07-2020. Voor het belang van jullie gebruikers, GRAAG NIEUWE UPDATES<br> :date: __2020-07-25 16:54:29__
 
 

@@ -210,25 +210,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Good to be used anytime of the day.<br> :date: __2021-04-04 05:15:55__
+> Quick fast and in a hurry. Great service.<br> :date: __2021-04-12 14:24:03__
 
-> Good app<br> :date: __2021-04-03 02:04:47__
+> Very quick and easy<br> :date: __2021-04-12 05:39:17__
 
-> This service/app saves me so much time and money for relatively minor medical issues. I really appreciate that I don't have to center my day around finding solutions to mild medical challenges.<br> :date: __2021-04-02 22:14:50__
+> Slow<br> :date: __2021-04-12 00:08:55__
 
-> Great way to save a trip to the dr. Evaluated my condition and sent prescription over - quick & easy<br> :date: __2021-04-02 16:38:40__
+> 👍👍👍👍👍<br> :date: __2021-04-11 17:56:43__
 
-> Doctor was prompt, knew their Stuff, and helped quickly.<br> :date: __2021-04-02 04:31:12__
+> This is the best option available. We got our suns poison ivy treated in 5 min.<br> :date: __2021-04-11 15:55:19__
 
-> Easy to use, friendly doctor!<br> :date: __2021-04-01 18:01:36__
+> Quick & great Dr's<br> :date: __2021-04-10 22:57:39__
 
-> Great second opinion from Dr. Garcia.<br> :date: __2021-04-01 17:41:03__
+> Easy to setup and use<br> :date: __2021-04-09 23:35:23__
 
-> Wonderful experience, the doctors have all been wonderful and prompt with sending out Rx<br> :date: __2021-04-01 15:52:18__
+> Great experience and the Doctora were polite and extremely helpful.<br> :date: __2021-04-09 19:19:57__
 
-> Great app when you have a newborn takes out some of the guess work since they "don't come with instructions"<br> :date: __2021-04-01 15:35:36__
+> This has got to be the best thing, ever.<br> :date: __2021-04-08 22:54:45__
 
-> It's wonderful to have this service right at my fingertips!<br> :date: __2021-04-01 08:04:52__
+> Good. I like the video interaction with the doctors.<br> :date: __2021-04-08 21:59:03__
 
 
 
@@ -237,6 +237,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> Super nice Doctors.<br> :date: __2021-04-08 22:47:26__
 
 > The ability to talk to someone without leaving home is amazing, especially when you have anxiety. The quality of the video was good. I just wish that there is a simple way to upload documents. Also the Dropbox for issues needs to be updated to have all all illnesses and mental health listed.<br> :date: __2021-04-01 15:01:25__
 
@@ -255,8 +257,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > The doctors are wonderful, very knowledgeable and precise. I do have issues with Sofie triage, you have to trick the system because it may not register your ailments.<br> :date: __2021-03-13 20:17:56__
 
 > Good stuff 👏<br> :date: __2021-03-12 18:57:50__
-
-> Great experience. Very knowledgeable and caring doctors<br> :date: __2021-03-07 04:45:31__
 
 
 

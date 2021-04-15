@@ -235,6 +235,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 2 reviews"/>
 </p>
 
+> It keep restarting. I love the outlook and long term visionary goals. Its a great asset if no problems<br> :date: __2021-04-07 02:57:31__
+
 > As others have stated, when first downloaded this past fall, it notified me of possible exposures. However since December 16, it has been inactive. I have restarted the phone, checked and updated settings, still it shows Dec 16. I was really excited about this app only to be disappointed after a few months.<br> :date: __2021-01-30 01:52:12__
 
 > My last update is from December 17th, 2020. I don't see an option to manually refresh/check.<br> :date: __2021-01-24 22:08:22__
@@ -257,6 +259,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> OMG worst app, sucked my battery life just after turning on location. It disconnected my wifi after turning on location as well. Uninstalled. Worthless.<br> :date: __2021-04-04 21:04:41__
+
 > Sucks<br> :date: __2021-04-01 03:14:17__
 
 > Contact tracing does not work when the incubation eriod is so long as with covid-19<br> :date: __2021-03-26 14:22:28__
@@ -274,7 +278,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Wasnt for my state<br> :date: __2021-02-23 07:32:27__
 
 > Funny how it stopped updating right after the election! Weird huh? I'm not for either side I just find it very very strange that covid is not as big a deal now.<br> :date: __2021-02-18 01:59:41__
-
-> Seriously I just opened the app on my phone and the last update was the end of November. Like how is this going to be efficient if it doesn't do anything...<br> :date: __2021-02-13 04:57:52__
 
 

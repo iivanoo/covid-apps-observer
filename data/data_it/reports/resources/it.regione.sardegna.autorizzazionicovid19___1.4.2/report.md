@@ -288,6 +288,12 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
+> Sul cellulare samsung a51 la app non si apre<br> :date: __2021-04-10 11:24:53__
+
+> Non ti fa registrare. Risolvete.<br> :date: __2021-04-09 18:19:37__
+
+> Fa schifo non mi fa registrare é inutile !!!<br> :date: __2021-04-06 19:12:02__
+
 > E' un applicazione che non serve a niente, fatta solo per soddisfare l'ego di qualcuno che crede di poter controllare tutto come se fossimo uno stato dittatoriale indipendente, cosa che non siamo (per fortuna). Ed è inoltre un danno per i residenti che necessitano per motivi di lavoro di entrare e uscire dalla regione.<br> :date: __2021-03-27 14:53:53__
 
 > Terribile App ci sono decine di problemi sia nell' iscrizione che nella comprensione del testo<br> :date: __2021-03-27 11:25:56__
@@ -301,11 +307,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Non riesco ad entrare. Installata, disinstallata reinstallata; niente! Non c'è verso!<br> :date: __2021-03-23 23:34:00__
 
 > Pessima app<br> :date: __2021-03-23 18:29:51__
-
-> Non funziona!<br> :date: __2021-03-20 07:04:08__
-
-> Non funziona<br> :date: __2021-03-18 19:19:21__
-
-> Inserisco i dati della patente, e alla fine della registrazione, mi dice i dati della carta di identità errate<br> :date: __2021-03-18 11:30:52__
 
 

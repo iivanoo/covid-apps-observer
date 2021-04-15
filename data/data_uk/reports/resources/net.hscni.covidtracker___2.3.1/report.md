@@ -261,6 +261,8 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covidtracker 1 reviews"/>
 </p>
 
+> Doesn't work so what's the point???<br> :date: __2021-04-04 18:28:18__
+
 > Uless not needed<br> :date: __2021-03-30 01:48:45__
 
 > I never installed this app and there it was. Would never give them access to my phone, ever<br> :date: __2021-03-18 21:53:40__
@@ -278,7 +280,5 @@ The StopCOVID NI app has been installed by more than **100000** times. At this t
 > Got a positive test but no code issued for the app to alert close contacts.<br> :date: __2021-02-25 01:20:16__
 
 > My privacy wasn't private<br> :date: __2021-02-21 15:53:18__
-
-> This coronavirus went on far to long now. I'm now tired of it. This pandemic is bad for are mental health. But yet not one listen to waer a face covering, or social disancing and gel let kills 99% but why do they not do it. I listen to these but I see people that don't take it seriously tho<br> :date: __2021-02-17 04:07:44__
 
 

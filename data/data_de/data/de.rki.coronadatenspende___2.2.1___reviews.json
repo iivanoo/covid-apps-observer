@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGQn-hRX7iKEqQZDzmlpMMXbRKgzDPUqHqI8l4apbAJsV6N6S2_eJqakvTUsArvU-wj7C6qc1_FrDU2dS8",
+        "userName": "Tom",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhviTXXla4UEawrremN43y07uynyXrfbvuYf3HMYQ",
+        "content": "Ich bin bereit alle Sensordaten meines Handys und weitere Personenbezogene (anonyme Daten) zu spenden. Es muss eine offizielle App geben, die so etwas macht. Jede Information des einzelnen kann dazu beitragen die Pandemie besser zu kontrollieren! Bitte f\u00fcgt die Funktion ein, optional alle Sensordaten des Handys zu spenden!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.1",
+        "at": "2021-04-11 14:35:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGFOeelNIWI5fKegsOGlqyOSy4o4oxGJVzBzPnPNBaz1jiNo45U8MRwNqaFNXPQqZAmVc6fwpN4DpYGbz8",
+        "userName": "Ingo Kober",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxZdHcl1LJaTf5e_5djrVcjqVuArDO9RcOXUiCSE0",
+        "content": "Leider kann ich das nicht mehr unterst\u00fctzen und muss die App entfernen, da die Daten des RKI meiner Meinung nach nur noch gesch\u00e4tzt werden und keine Realit\u00e4t darstellen.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.1",
+        "at": "2021-04-05 16:15:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGYt02-RMwPNRL1Pq_EouyE1gFfWUJyu695WECVuFKPTt2WehjJtXy6O8CCw5iXxefGE1tgBcMd0v68T_c",
         "userName": "Karl Ejem",
         "userImage": "https://play-lh.googleusercontent.com/-KoUVVB1GGao/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWWQPlt4F1n57TOzi36ZYQnLPQng/photo.jpg",
@@ -101,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-7X42hqBDejU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFA6s3cbn5LZEQOG7j3dkUETrKtQ/photo.jpg",
         "content": "Sehr gute Idee. Daher ein Stern. Aber leider ist die App nicht zu gebrauchen. Samsung, Huawei oder auch Apple werden leider nicht unterst\u00fctzt. Fitbit und GoogleFit sind allein nicht aussagekr\u00e4ftig genug. Sehr schlecht Umsetzung des Robert Koch Instituts. Habe eigentlich mehr erwartet. Heute 3.M\u00e4rz neuer Versuch. Nun werden auch andere Hersteller unterst\u00fctzt. Huawei und Apple fehlen aber leider immer noch.",
         "score": 3,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-03-03 20:40:51",
         "replyContent": null,
@@ -185,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhttlYiP0UfSXw_n9UnBd86F2RxtZ0t8JQ6ES75rg",
         "content": "Die App funktioniert anscheinend... Ist allerdings nur eine Annahme, weil man nicht viel Feedback \u00fcber die Auswertung der Daten bekommt. Die angezeigte Fieberkurve ist leider nicht wirklich aufschlussreich. Ich w\u00fcrde mir w\u00fcnschen mehr Einsicht \u00fcber die Resultate der Datenspende zu bekommen. Eine Landkarte mit \u00f6rtlicher Auswertung, Korrelation mit tats\u00e4chlichen Covid Statistiken, usw. Da diese Daten sicherlich alle existieren sollte es kein Hexenwerk sein, diese auch innerhalb der App zu zeigen.",
         "score": 3,
-        "thumbsUpCount": 37,
+        "thumbsUpCount": 39,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-02-19 12:03:34",
         "replyContent": null,
@@ -245,7 +269,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-JyCmlaLyNZ8/AAAAAAAAAAI/AAAAAAAAF8g/AMZuucnb1ZgP2wWjXDF7T_QL04bLLEjBsg/photo.jpg",
         "content": "Leider mal wieder so eine halbgare und unispirierte Neuland-Anwendung, die so ziemlich alles falsch macht, was man falsch machen kann. Obwohl mit Steuergeldern finanziert nicht Open Source. Nur im Google Store erh\u00e4ltlich und nur mit Google-Diensten zu benutzen. Nur eine Handvoll teurer Tracker werden unterst\u00fctzt. Der Benutzer erf\u00e4hrt seine Ergebnisse nicht (ja, ich weiss, dass ist noch Forschung... TROTZDEM!) Kurzum: Das gewohnte Elend, wenn Beh\u00f6rden was planen. Schade :-(",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.2.0",
         "at": "2021-02-17 11:56:23",
         "replyContent": null,
@@ -553,8 +577,8 @@
     },
     {
         "reviewId": "gp:AOqpTOECwP4BbmtGKWVenkVilI1piKBnYoimv5rLEWArrniIBF3s5R6ikutAWzU8lt_jTCb4sDZ2l4dIUtP9bnI",
-        "userName": "Andr\u00e9 S\u00e4uberlich",
-        "userImage": "https://play-lh.googleusercontent.com/-NfDB6OlsOcw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7VCRt7HhlYFkAileMWnUitR_tRg/photo.jpg",
+        "userName": "Andr\u00e9 Fun",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6YrAv9zCPHCviYKhHm7VOvW4VM6ca1RMdCjV6yA",
         "content": "Ohne Wearable funktioniert diese App anscheinend nicht. Warum wird das nicht Bein Start der App angezeigt. Nach 8 Monaten immer noch kein Huawei m\u00f6glich.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -686,10 +710,10 @@
     {
         "reviewId": "gp:AOqpTOGwQx0W72rboly7GZBaN1LDBFgh3ljSsiy4T3LV0xIisANawzex4-iWT9eVW0OB0YH-04OUqZXGMBSx7jE",
         "userName": "Martina F\u00fcrst",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiiXn6VDnhwDMgZQcIN3xqxxsc0SoPen9FRhyZqlg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLo0xuzXuwAumc3uCjh3K41B0XFl9x65CzmB2SFw",
         "content": "Eine sehr gute app erstreckt in dieser Situation in der wir uns alle befinden.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2.0",
         "at": "2020-12-25 21:18:54",
         "replyContent": null,
@@ -985,7 +1009,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFZdSQvGZbckXGckEI47aBLGzk5WPgMJKEH2Y4tdIWS7Bb5ScOhNcxGPBMuissxSROhT0JDcrZLzqw-6dg",
-        "userName": "JuLing",
+        "userName": "JuLing Ling",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqOUyN6w3YXxVO1rutba2k6FZ0yHKKj1jBKja59g",
         "content": "Bl\u00f6d wenn man corona mit positivem test hatte und dann nicht seine daten aus zb dem nachgewiesenen zeitraum spenden kann... den Verlauf konnte man anhand meiner garmin uhr n\u00e4mlich wirklich gut verfolgen... aber okay bin mit positivem test ja keine schwarze Zahl mehr...",
         "score": 2,
@@ -1214,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOHzww7Xk2WFGZoyW0d-bgzUzqrykZCeCk8__wWQ1gQnltM3WFbtN_AxjZWw5Tqvy-q73nshdzU6r2f_nR4",
         "userName": "Joy R. Dederichs",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGEUlah771G9OP30Y6X8MDdDHJLlKMsi8fCDSZ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjhdAk1bF6RUI9FBLdL_dM_kLA3gOlGSVudhqSPVg8",
         "content": "Mein Handteil Antimi A5 mit Blutdruckmessung, Pulsmessung, Schrittz\u00e4hler, Blutsauerstoff Gehalt, Sport Messung....mit der bezogenen App Da fit wird nicht unterst\u00fctzt.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1550,7 +1574,7 @@
     {
         "reviewId": "gp:AOqpTOHyzO-waK058YbpFNgdD8DMgJcKXGHgggpGwBl0ssqSnmqJXXk2zpc3ojR9Ph0t_TQXHWVuVIrxBUAFWfk",
         "userName": "MHerde 107",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhM3jcGMty5_DqcbHoxgAZmqMIi_Cbk8r9B267aN3o",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKerfeHWbmfJoiDLoEx5QLD4rXNAMe8mDaftZc4Ng",
         "content": "Ich bef\u00fcrworte das Konzept hinter der App und w\u00fcrde meine Gesundheitsdaten gerne zur Verf\u00fcgung stellen. Jedoch w\u00fcrde ich mir w\u00fcnschen, dass die Probleme bei der Anmeldung \u00fcber google fit schnellstens gel\u00f6st werden, oder zumindest der Mi fit Service zu den unterst\u00fctzten Services aufgenommen w\u00fcrde. Dann m\u00fcsste ich mit meiner Xiaomi Amazfit watch gar nicht erst auf google fit ausweichen.",
         "score": 3,
         "thumbsUpCount": 35,
@@ -2294,7 +2318,7 @@
     {
         "reviewId": "gp:AOqpTOGKF1_HmaRUARs3UQjpb80S33Q2PP4yKmGzXCinpL6D5-2Gk24bXYXM6TOY2AACSOAbpc63bsQKWS4IDvc",
         "userName": "Sascha Selders",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6sSRp69Y6oRZ9xlQLuzAR5AUjOHV8S_d-WMUuQg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiS3VIClyoqSeoOTkKFwxs4BV-H1B8VoyFdyB4VGw",
         "content": "Irgendwas stimmt mit der app nicht ich kann die gespendete Daten nicht sehen ist st\u00e4ndig auf 0",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4514,7 +4538,7 @@
     {
         "reviewId": "gp:AOqpTOHKzUVqCjx9__wqDJvRra0olqzUVHRr5DIcgcU2KeqtlRH9BnEKz7GA39IrJ0LVLALtoA1_DW7aZvfNt5U",
         "userName": "Jochim Rollwage",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdbUnwx_y_tQIYhJUfDx0eExgbzIDa6kh4yaac",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggai5YgCBeNRQlyMXoz5Fj9LTVS9QmcTuJCPRk5G0Y",
         "content": "Vielleicht helfe ich die Pandemie schneller zu beenden und mehr Wissen \u00fcber das Virus zu erlangen.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4538,7 +4562,7 @@
     {
         "reviewId": "gp:AOqpTOFgilUPgPtFlsmPWLEm3EmN2L6yaLgZmKMR6U3OPWZAU3_sxbFiKUc-hoZJ9Q5FHEnrUEiMR9gxIpPdWFQ",
         "userName": "Florian S.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfJApTgBK3GocQHFsHUvEXlVuHtLbRFASNlOE8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFPNVwP3xgcHZqNRHj7fHpUh-N33iK77H5oyh8b1w",
         "content": "Gutes Aussehen der App. vivosmart HR+ von Garmin sammel die Daten und sendet sie zum RKI. Die ersten Wochen klappte die \u00dcbertragung nicht wirklich. Inzwischen scheint es zu funktionieren.",
         "score": 5,
         "thumbsUpCount": 42,
@@ -4742,7 +4766,7 @@
     {
         "reviewId": "gp:AOqpTOFRy0-pO6qlvf8rfyLkfXzOig9DR4IqroZZC3u16kbKhjLEIVayOHHl_AtivjDGYFEf3NzONg0ZYDTZ5LE",
         "userName": "Dirk R\u00f6mer",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqugdWxM-MRHoCSRNujZmPqfu-Pmj63a5D0EdI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhI-uXq22qiFWdYJJ93yYNKBz8aWeg3v4s3-cyOAw",
         "content": "Funktioniert einwandfrei mit Garmin Fenix.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5101,7 +5125,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGZT7pyNq3btMujdoWtLHTsWFOkhhyHRikue-lk9oUgZ-PIbDdeqMfe-AUh86BwihNz8pqTWix6LgfXWZM",
-        "userName": "N Ame",
+        "userName": "Michael Jusis",
         "userImage": "https://play-lh.googleusercontent.com/-lHm9djRWNDg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkSDD__--0eydxZbEb2pxMs2piFA/photo.jpg",
         "content": "Fehler 403 (Google Fit)",
         "score": 4,
@@ -7490,7 +7514,7 @@
     {
         "reviewId": "gp:AOqpTOFZn1SXXruuhUkdlrRd30clmXcz8SoVRf_Yy1JrTcdSF5VaFSv8MSRDUkepiyY_L-w-on7XCbC1AJbBUqU",
         "userName": "Ekkehard V\u00f6llmer",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixmEaE2WOOW85V3NHHjwXERbXgwuH2xm6acKBsVgY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinpfrWMNP4mcEHRaw3HAF2shL5xEl1rmTP6yfE-Ig",
         "content": "Sehr einfach zu installieren.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -7561,7 +7585,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHavhwFBeT6NxwVeum-XAZ69d3LcKyT6QJMwUvPeTacXBPvHn9KMTaXc_rP9mWNXidodvP1r3erLiJavAk",
-        "userName": "Safti TV",
+        "userName": "Safti",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5WSzXIyEftg4QTyRqaZinkZgJO1KU0VOVpL7DEQ",
         "content": "Ich finde es doof das ich erst 16 sein mu\u00df obwohl man auch ab einen j\u00fcngeren alter an covid 19 erkranken kann.!!",
         "score": 2,
@@ -7777,7 +7801,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHpxfTZNlvRp4OGt3iT-l-ih5zwIZ5tUT5PTPfN2H5nGQ95vLUI8Ain1tegqUzxzTa84YHUiHluT3wT9xA",
-        "userName": "C. S.",
+        "userName": "C.S. Flight Channel",
         "userImage": "https://play-lh.googleusercontent.com/-CIpYsleW9uo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckP6HtYxxnlIC7NwyMvDxmoCkhzfw/photo.jpg",
         "content": "Tja, nun schon so viele Updates und immer noch nicht kompatibel mit Fitnesstrackern von Huawei. Sehr schlecht! Ich habe keine Lust mehr st\u00e4ndig nachzuschauen und ich bin nun nicht mehr bereit meine Daten zu spenden. Und Tsch\u00fcss",
         "score": 1,
@@ -9769,7 +9793,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE6EpK_caj8CYVSw6JYd93vVPHF6QOdphFQ_hnpgofgM0OXhEYApQHshmgLcnZL-Yn8Gb3OIGzzSw274Jw",
-        "userName": "Lennart G.",
+        "userName": "Lennart",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaqvOpYJ3HkkMK8yswB_avttN1T78P-fbJukTU1g",
         "content": "Eigentlich eine super Idee - Aber... Ich habe ein Honor Band 5 und nutze dementsprechend die App Huawei Health. Diese ist leider nicht kompatibel mit der Corona Datenspende, was ich sehr schade finde. Ich konnte aber Huawei Health mit meinem Google Fit Account verkn\u00fcpfen und diesen dann mit der App verbinden. Es werden aber leider nicht alle Daten genau \u00fcbertragen, was - vor allem bei der Schlafdauer sehr komisch ist (9 H \u2192 ~5 H). Man k\u00f6nnte diese Kompatibilit\u00e4tsprobleme Mal beheben. Sonst gut!",
         "score": 4,
@@ -11549,7 +11573,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMsotXCbKXNng3krobZHKExBh7XLz8xGP6Ckdd9w",
         "content": "Samsung Health wird nicht unterst\u00fctzt. Wieder runter.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.8",
         "at": "2020-04-28 21:51:59",
         "replyContent": null,
@@ -11585,7 +11609,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjoyeDxRr5GURLqrebfxtLXhgSOW0Or9D-9sLst",
         "content": "Ansich eine feine Sache aber funktioniert nicht mit Samsung Gear! Naja, dann soll es so sein",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.8",
         "at": "2020-04-28 20:35:14",
         "replyContent": null,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.8",
         "at": "2020-04-27 19:49:43",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGoTDx-zDc12oI6KVVXq4-U8cuZLmtJO4iX1YRG9WCmo9t3de_mk9vNcZPCSyUpSyfqrP15GUysxBnmImY",
-        "userName": "Sandra Plichta",
-        "userImage": "https://play-lh.googleusercontent.com/-TOFoSNiLFYQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_0-u2TXcASvAy8yz5zKjdTqWneA/photo.jpg",
-        "content": "Ich w\u00fcrde diese App gerne nutzen aber leider kann ich mich nicht anmelden. Die App nimmt weder einen Untersteich oder ein @ Zeichen beim eingeben der Emailadresse. Benutze das Huawei P30 pro",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.8",
-        "at": "2020-04-27 19:15:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHfN2vvHpHEm8DqtEm_u22hMz87eHP4VP8pJu2qL1tqtUbsXpPETV3GUqlZhCwrtfU3hIjtEq_A7YVJzB0",
-        "userName": "Andreas Polter",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghb8wVOc9NPSrXk7_YKA7i03gHNs4jiyhsqnW5wYRY",
-        "content": "Update! Laut Chaos Computer Club ist die App derzeit nicht Datensicher! Deshalb deinstalliert!!!! Update, goggles Anbindung funktioniert jetzt. Somit auch alle Armb\u00e4nder mit Google fit Anbindung unterst\u00fctzt Besser w\u00e4re jedoch eine Unterst\u00fctzung der Xiaomi mi B\u00e4nder. Wann folgt ein Update? Es w\u00e4re sch\u00f6n sinnvoll dieses Massenproduktion zu verwenden da dann sicherlich mehr Nutzer zur Verf\u00fcgung stehen.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0.4",
-        "at": "2020-04-27 18:33:51",
         "replyContent": null,
         "repliedAt": null
     }

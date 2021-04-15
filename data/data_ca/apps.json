@@ -4,14 +4,14 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.35.0",
-        "latest_crawl": 1617540547
+        "latest_crawl": 1618251380
     },
     {
         "id": "ca.albertahealthservices.contacttracing",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1617540552
+        "latest_crawl": 1618251381
     },
     {
         "id": "ca.gc.hcsc.canada.covid19",
@@ -25,14 +25,14 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1617540630
+        "latest_crawl": 1618251463
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1617540639
+        "latest_crawl": 1618251465
     },
     {
         "id": "ca.gc.hcsc.canada.stopcovid",
@@ -46,7 +46,7 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.0.4",
-        "latest_crawl": 1617540649
+        "latest_crawl": 1618251605
     },
     {
         "id": "org.caresptogo.covid_19tg",
@@ -65,34 +65,34 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.0.32",
-        "latest_crawl": 1617540659
+        "latest_crawl": 1618251617
     },
     {
         "id": "ca.albertahealthservices.bugsanddrugs2",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.5.104",
-        "latest_crawl": 1617540669
+        "latest_crawl": 1618251624
     },
     {
         "id": "rs.nosolutions.lumeca",
         "store_country": "ca",
         "store_lang": "en",
-        "latest_crawled_version": "2.1 (109)",
-        "latest_crawl": 1617540671
+        "latest_crawled_version": "2.1 (110)",
+        "latest_crawl": 1618252213
     },
     {
         "id": "com.camh.covid19_managing_stress",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.1.3",
-        "latest_crawl": 1617540678
+        "latest_crawl": 1618252316
     },
     {
         "id": "com.mostrarium.sjd",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.0.0-34",
-        "latest_crawl": 1617540680
+        "latest_crawl": 1618252324
     }
 ]

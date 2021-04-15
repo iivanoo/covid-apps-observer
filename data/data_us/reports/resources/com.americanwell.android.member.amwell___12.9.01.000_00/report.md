@@ -216,6 +216,14 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Quick and easy, love it!<br> :date: __2021-04-10 14:42:08__
+
+> Very good<br> :date: __2021-04-06 16:30:45__
+
+> I had a great dr<br> :date: __2021-04-05 21:54:30__
+
+> Fast and easy<br> :date: __2021-04-05 20:34:25__
+
 > Love this app .<br> :date: __2021-04-02 18:14:19__
 
 > So informationative<br> :date: __2021-04-02 16:00:22__
@@ -227,14 +235,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > If your looking for an alternative to urgent care or the ER for something that isn't life threatening look no further. Their Drs are nice, knowledgeable, available 24/7 and willing to help you with pretty much anything, sans controlled substances. So if your looking for a dr to see st home for a cold, infection, something you'd see urgent care for, give amwell a shot! I use them all the time.<br> :date: __2021-03-27 06:18:00__
 
 > Dr was awesome!!! I really recommend the app<br> :date: __2021-03-23 22:36:15__
-
-> Easy to use and the doctors are very thorough and helpful. I've used this app to get doctors notes for work instead of going there just to get a paper. Also I Just gave the doctor my symptoms to get antibiotics and an inhaler. Its convenient especially when you have an idea of what's wrong with you they can easily prescribe what you need. I have no insurance so it's cheaper than urgent care but they do accept insurance.<br> :date: __2021-03-09 14:18:11__
-
-> I can actually get medical help on a Sunday!<br> :date: __2021-03-07 21:27:58__
-
-> A wonderful service. My boyfriend has throat cancer. And last year they removed his voice box. Now he cannot talk. He always in pain as well from chronic gout flare ups. Those difficult times when he can't move, we use Swell. The doctors here are fast, knowledgeable, and through.I highly recommend this application. He has United Healthcare (medicaid), I have Wellcare HMO (medicare advantage).They take almost all insurances. I signed up as well. Since we live 2 hours away.Hard to get to doctors.<br> :date: __2021-02-28 08:53:35__
-
-> Honesty I loved it it was fast and easy and the Dr was patient and it was a new and easy experience.<br> :date: __2021-02-25 19:46:38__
 
 
 
@@ -328,6 +328,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> App keeps crashing. I need to see my therapist. This sucks. What if someone was snowballing into a crisis situation and needed to talk? I'm pretty annoyed.<br> :date: __2021-04-09 13:28:51__
+
 > Every update makes the app worse. Can't find insurance, can't see or hear doctor, can't leave doctor reviews anymore, doctors seem to be rood a lot. Very frustrating.<br> :date: __2021-04-03 22:49:08__
 
 > Doc canceled video chat mid meeting w/o reason-she couldn't be seen or heard at 1st, then I could barely her even tho my Galaxy Note 20 Ultra 5G was on the highest volume. She said she was typing so she couldn't turn on the camera at the same time. Mina Rizwan was found under Women's Health and her profile stated it is her profession. I had uploaded images of my health report since I was looking for a 2nd opinion, all she told me was to go to my OBGYN n hung up on me. POINTLESS APP!RUDE DOCTOR!<br> :date: __2021-04-03 18:17:37__
@@ -345,7 +347,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Dificult to use<br> :date: __2021-02-17 06:48:47__
 
 > This app is going downhill. Tried to submit an appointment and there were no available slots until December 16, 2021. I then tried to message their "digital receptionist” in the app to confirm if that was accurate and got an error saying the message couldn't be sent. Makes the app pretty useless as I can't wait 11 months to see a doctor.<br> :date: __2021-01-27 20:54:26__
-
-> It does not work or it is verry sofisticated for my mind to work with .<br> :date: __2021-01-11 22:07:36__
 
 

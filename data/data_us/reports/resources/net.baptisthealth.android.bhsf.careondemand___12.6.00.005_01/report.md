@@ -230,6 +230,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="4_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 4 reviews"/>
 </p>
 
+> Good!<br> :date: __2021-04-11 18:26:31__
+
 > Is a good app if you want access to your medical records and are part of the Baptist Health network<br> :date: __2021-03-22 06:26:56__
 
 > It keeps telling me that my email password is incorrect although its not. Ok tried resetting it and wont let me .<br> :date: __2020-04-10 21:05:56__
@@ -247,8 +249,6 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > I am very happy with my visit a d Dr Khan was very helpful 👌👍<br> :date: __2020-03-07 17:50:07__
 
 > The Doctor had a problem hearing me but other then that it was great<br> :date: __2020-02-01 15:44:52__
-
-> My experience using the Baptist Health Care On Demand app was pretty good. I was able to speak live with nurse practitioner Mrs. Carmen Lazo who really helped guide me through everything & figure out some other options as well to deal with the issues that I'm dealing with at the moment. I can definitely say that I'll be using this app more often especially when I can't reach my doctor or medical assistant at that very moment!! 👍👍<br> :date: __2019-10-30 19:57:37__
 
 
 

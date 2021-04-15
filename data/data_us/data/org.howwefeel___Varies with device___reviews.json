@@ -1,11 +1,35 @@
 [
     {
+        "reviewId": "gp:AOqpTOFChDkvRnZwLKU0bqJ-6zoZRpueth3c-RgtI3Q28sN8yhVgfX90R-yk68QaM1NICY73kC2m_brbNFsq35k",
+        "userName": "Keith Latham",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwLd9M_bz3Oqg7jilyoiGOE8CPo1Po2uCA20ZaOQ",
+        "content": "Great!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-04-09 02:23:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFXdsvZSLOEbZ6FzTTuvN-OTDoyD8ZLQvlwrUXQAlLvl-cqNZ89BGrxlzRgaOVq34CFFkwiOBrN6UpreeQ",
+        "userName": "Patricia Pigg",
+        "userImage": "https://play-lh.googleusercontent.com/-H012UB7TvxU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6Io3KObW83n5IJBRbcwjrHSk5JA/photo.jpg",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.12.2",
+        "at": "2021-04-06 05:30:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF7EzuTcx-cUq4qT38q3_Uw_l91yXYA_LAjsJa0VRvf_KCdWC_bFa0M8PSraMWgOIls7868b2x7zlt2bFQ",
         "userName": "Lisa Koe",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_JcCp2T5CoYJaiInw6kVdFvBBHv9aEy5bZ9jlZQ",
         "content": "UPDATE: From 10/5 - 11/20/20+ the App didn't work at all. Since some time in 01/2021 I've been able to start doing daily check in's again. However, this past week, 3/26, my state's info has not been showing. It just show's \"ERROR LOADING CARD\". I'm really hoping it doesn't take forever for this company to fix this problem; like it did when they crashed the App w/ their \"update\" back on 10/5/2020. I also really miss seeing my states info on the original easy grid.",
         "score": 3,
-        "thumbsUpCount": 44,
+        "thumbsUpCount": 47,
         "reviewCreatedVersion": "1.13.6",
         "at": "2021-03-27 04:32:03",
         "replyContent": null,
@@ -17,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-xr2Bo6YlyEE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl402fd8h4Sv-KAfwCs9AMuu86ORA/photo.jpg",
         "content": "I love that its a small way to help. Great app just wish A. A different quote occasionally because I'm tired if dolly Parton and B. The statistics no longer shows and I liked it a lot. Everyone should use this! Not for yourself but for others to have food!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-03-27 04:08:55",
         "replyContent": null,
@@ -122,10 +146,10 @@
     {
         "reviewId": "gp:AOqpTOEoZOBPkko4NNH4gWSNLi7_8fTYXG2GJoaop0bQ0isgijB2LDhL121EhnIZMyWOCD2-DI6L_308mNaWFoo",
         "userName": "Christian Huble",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXbqXAUyUn5OBTmOtKyFrux_jlQVrGweb6DjPG",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPSiuuc68Thly6c6OkKBam3FtVxxF5tid_FMbIStc",
         "content": "This app is so user friendly, ridiculously easy to dive right in. I love being able to track metrics around my mood and wellbeing. It's super cool to see metrics from my state and around the country as well! I could see something like this really taking off and becoming a valuable asset to our community health.",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-02-25 20:10:21",
         "replyContent": null,
@@ -953,7 +977,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimNW_CX50YKi25X3F5ssy9i_eUOJF07_c-1huv",
         "content": "New update sucks, crashes immediately on Android! Tablet and phone I had logged 130 check in's! Sad. Users anonymous, so Covid kills the app. 10.28 uninstalled, re installed, crashed. Deleted!",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.13.6",
         "at": "2020-10-28 21:15:39",
         "replyContent": null,
@@ -997,7 +1021,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFaoeW7FOnGN_DWCL8yH0SraOnHIsU3kvJx4ErTxJz3jNsRSmoLPVI1K3q_Higx3nzCL-HHt7XRpmINRQk",
-        "userName": "Kodi",
+        "userName": "Kodi Cherree Pierce",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4CGWqD0sZt0kH2urKu6LAMfOqaaAnHygNXO5k",
         "content": "I may need some help. The app was fine, I have the latest update, but my phone kept telling me that the app was closing a lot. Now, I can't open it at all. I am uninstalling and reinstalling right now to see if that fixes the problem. What do I do if not?",
         "score": 5,
@@ -1226,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOGQVepc455WwXiwnm5LGyu1eshPkQZA4Oz-JFhwqIBbOosuVDTzA5mpwC19ZfxOGpvJgMZcNwAqtrZM8_M",
         "userName": "Samantha Lynn",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgnMdFbqGF7DoegZtpz6cr8AIEKJiqycvZNB4fJ668",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKQfWPSL_H9MRFQDaYlfGRhvL4ccJ4QH2y3JAPemQ",
         "content": "It worked wonderfully for 190 days but no longer. App had a good run on my Galaxy 9+ but it crashes as you try to get it open. I have since decided to uninstall for good.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1289,7 +1313,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjyUCFRkdzFCvcQedqLtFHKD_uljLPcJA-V4gC5U_Q",
         "content": "I have been using this app for months and love it. Tracked my info, gave me daily case numbers, etc. Then, it just suddenly stopped working. I would get my notification everyday at 1pm to check in but when I clicked on it, the app just stopped. I uninstalled it and downloaded again, same thing. What happened?",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2020-10-15 17:38:19",
         "replyContent": null,
@@ -1457,7 +1481,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMwjIFsH5nEathfKIFx5uuI1my4cnUZ0_PAi17KQ",
         "content": "I had the exact same experience as Elizabeth. I was almost up to 150 check ins & then suddenly the app wouldnt open. I helped as long as I could by giving my data... I liked it when it worked .",
         "score": 3,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.13.6",
         "at": "2020-10-13 06:49:26",
         "replyContent": null,
@@ -2018,7 +2042,7 @@
     {
         "reviewId": "gp:AOqpTOG1Y8F60u14BcRIgElofn230wYfiWX4Oh9Z7EXjFxAS23HYs-pzKNg1GHacuASaSvjCgWlhRAu2x5TT3iY",
         "userName": "Cyndia Shook",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjkA-C7ibRi9bGJ626NLsqjeZb9-RUdBkwYuosc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWP_SNA4uWN7swUAN1scEDMHt_WpANMZkGztiQhpA",
         "content": "Something to look forward to every day about my well being which I appreciate.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2389,7 +2413,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEj8nZKLRswOuK_uHOPWfOs3H30KI-ZsQ5SWUnPmenM81E4JmCW0zdQoVWjsqHuPG4Ds9N9jMu6kzOIfAY",
-        "userName": "julia holmes",
+        "userName": "julia",
         "userImage": "https://play-lh.googleusercontent.com/-M_OQUupJOts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckAPllE0c194SPoBJUpcZlY3t0UFg/photo.jpg",
         "content": "I feel that if more people cared, we could get this virus under control",
         "score": 5,
@@ -2486,7 +2510,7 @@
     {
         "reviewId": "gp:AOqpTOHftDx5Ci7dB3WAN-bmNJY2S0bhUaP5UN3YpO_-DOzIdvyj_Q1WkMxonHk9lJ2JutWFrhltQH-OXDn9N6g",
         "userName": "Jenni Wright",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgHD6NqPYAz0yiyji2s8QJl4YvVePRC6xxDpFwz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXFa5BPtgOIjyaay-khLiJn9H6JDGtvMlejmHsgw",
         "content": "I like the variety of questions each day. Wish I could export my data or see a historical view to reconstruct progression of symptoms over time.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2678,7 +2702,7 @@
     {
         "reviewId": "gp:AOqpTOFhphXS2EtoQSfpQFTRhACyxMExJe81x9sBEMWEr3zxy8MO2yS_rffXJ92JMhbXf0BTTb3Cu-mXR-V-BA8",
         "userName": "Ange Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/-_3dOVZlwc6w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzdcM2svJDHOoHrlaAQbYUVhThng/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSwanesMN-Q_jAZ0Q5QlxDAlQU8cN9Wn62ePpCHg",
         "content": "I like that this app is asking us how we feel during the COVID-19 crisis.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3314,7 +3338,7 @@
     {
         "reviewId": "gp:AOqpTOHIkttSuoveerg0h8TQBn7Jm3DHFXK51tyFjRZKlaKlr9MVFii5pQ7aBdmv38hqaNFkKDYZfagRUbzTtks",
         "userName": "Jesus Morales",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIqKgGhXchW3MU_r5hgggPMwWBZYl-xERnGeGq",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQp6pyZ6bc-O1ysmHiiAVsx_B00pPIgb7yb33g8Kc",
         "content": "Very easy to use. I recommend it.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5942,7 +5966,7 @@
     {
         "reviewId": "gp:AOqpTOG7lF36ll9ApgOspY5PkTqBX9vL8ASVkYqEq4AckqooWvru7kk7Ava_nEgMxd_GXdjncEr0JyJkGcMCUDE",
         "userName": "Tony Davila",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEN7D1_fbq9nBHYjux3uQcQR3YpfWEPTiD4pon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNjpNxsRC6xckRsfCavA_UPwwsZ0t3iinOAIcvlsk",
         "content": "Pretty cool app, but needs work on the UI to adjust font sizes and word wrapping, as they don't fit in the text box and get cropped out.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -7046,7 +7070,7 @@
     {
         "reviewId": "gp:AOqpTOFVPbc74bVH_u7wNfv58q9raYrCi_VT6oVqKrm28MQ2mcyha8BeIuB1Cr0WSO0GSpP0cah4Kam10Rix5nU",
         "userName": "Leanne Rodriguez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gimd2pct0Qm23DVTDlqHjbGGYFSUCY8vswjvWpH",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWMw4cAx5UO6jsmPUzy-t3EIrqYfG4JVIzttjWkFU",
         "content": "Works simply. Hope the info helps, glad it helps feed people.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8354,7 +8378,7 @@
     {
         "reviewId": "gp:AOqpTOG4SGAPS60XZnZ9fNEmntTh4aY4Ge7uwNuCl2yPILJUQDMJ3jL-J-Az8moBXqjJgix6d5Z8aaerdMOQkBs",
         "userName": "Nina DuPont-Stone",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-QGQ5JL3eWia0YjIHHMBZLjZ54CI6Tle0TW9ZzQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjy0Qa5BrUMMbiNBFBMfm4FRbhQlbIh_2hnblAtLw",
         "content": "Super easy to use!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -8498,7 +8522,7 @@
     {
         "reviewId": "gp:AOqpTOGXV7sDSWhNwbCNESZAlV7T6wKp8UlmSgUax0s_Mlb2O8RTubpcweJ9G3yFaQJVlYWkozqb9tZ72Gi00Nk",
         "userName": "Jamie Ryken",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjwqJUTV-gshVWV1BnxKu6GZNUzygZD49uTXowxvc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiurPWFpOSJ3ivTBwO1OFZVfN-8m91CLlBDOCfjkTI",
         "content": "Interesting app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8594,7 +8618,7 @@
     {
         "reviewId": "gp:AOqpTOHXE-2k1x9JYg_EmJCnrdb-WhoDTV4kosBjIkPPzMBdM-5DKzDEPWdzUggyZontBVrgEsZszi6YAro4hVI",
         "userName": "Donald Cooper",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVwxud__2b6F-6b3SodVLL1XwvIiwb9fgUECDa",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj-sv8X57y2YFJST3y4AD3zFe4BT-9TvdIkGj8NlY",
         "content": "It gives you a sense someone cares and a realistic look at where you are.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9386,7 +9410,7 @@
     {
         "reviewId": "gp:AOqpTOGCj7KerXY0kB651LsluvFavXMxyXKNLqBn8qw5kNNaHkDQ2CuQOc5lu0Iu5E2mQiuxLSih-TYh9hRvYm4",
         "userName": "Julie Smoak",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKUo6qjaubH2NCqNc5i2xgHwuPVj2NN_jQcn3x",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpMH-fHFP9SNo-RM05JmTPixy8UboZznpPJhfNHKk",
         "content": "Simple and awesome",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9986,7 +10010,7 @@
     {
         "reviewId": "gp:AOqpTOGCdsocuWOcUodBJS9noZMAWqPyxoBic47e2AGGNWRppXpD_7_avMLc59DgLtb250BVQzUXodx9YYy8BTc",
         "userName": "lance van allen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiODJBrz5nkFks-xUiH34HjxOrY58dMTJEa1MO67Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMAU2ZitKhCgYrN_02bOLRRdFaCfb-iIpq-xTo59E",
         "content": "Helthy",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11042,7 +11066,7 @@
     {
         "reviewId": "gp:AOqpTOF5xhsrq0fPA367xkR0wbRPUZX72quuXqV_-9U3jMIal3jqGpcpBK-H2OwhfO9Pp1wL9mNzp4nf8znPKbg",
         "userName": "Loyalty Is EVERYTHING",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GibRUwEJ4B4IhBheKnXmz3u4y_G30v6GqklqfjlNg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gga-NxLVHh09gsn78rGSq89ztYSSvztkEbPgH1vgQ",
         "content": "Nice app showing people that someone care about their interest",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11414,7 +11438,7 @@
     {
         "reviewId": "gp:AOqpTOHiszypCgzz_u4sZZ7893WDJc57onmy4T91EU55U_N8UuOsxpf1uO_392wDG8Rsg52VGP0uQrB7T5yftP4",
         "userName": "Sherry Carey",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2wu3ASbkNgJTOqfquXgEHVDF5ZsDEhqn8mw9T",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgaqBA6cHkS83iA4f_3tLFTDb2CdkRkWYAPP1V4eg",
         "content": "Easy to follow important work that we might be able to help our doctors the charity work attached is a bonus",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11449,7 +11473,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFtFG4MexCCSRypKt2X_1EXqR3vgrx-AYN1bnc1lVE0zdM_CaqXIhcY38WxOZ2EwvNB-2jakDGSOgaLtDs",
-        "userName": "Leticia Nunez",
+        "userName": "Letty Nunez",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgAbj4mlH1xLvzffItM0yrUvs9jZwBkn6d0eG1tfQ",
         "content": "I truly love using this app as I feel I'm contributing to help in the fight against Covid19 and abiding by our Governor's orders and protection. I appreciate the fact that these efforts go towards feeding the hungry. Thank you!",
         "score": 5,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.20",
         "at": "2020-05-14 21:04:37",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH1gEKneEqQgHgLjHJqY-UIL6PPQwP6OtLgTW3RK2R0SMJEG0YTZYXs9MheKkAtGdwMo9wxiKnyE7IYQtQ",
-        "userName": "Dawn Mclendon",
-        "userImage": "https://play-lh.googleusercontent.com/-8pU6rChVwog/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKWUYKsE0hATyXDOp5HhJiWKEcQA/photo.jpg",
-        "content": "I like this app because it keeps me up to date on how many cases of covid 19 are in our county also keeps track of how I'm feeling and others in our community",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 20:50:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFNN8WcI4UQVsffFFwWlOJY1DKZcXKBecM89Mu2a1bjGFMf2wzZSzYo4ZoPN9UTjQwXcrInQJQ4pDKRqVs",
-        "userName": "meagan Smith",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLA-4k4Wnl3aEWBr_p_w_7jmxwqvWgmFDiAfmDTw",
-        "content": "Its fine",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.20",
-        "at": "2020-05-14 20:37:25",
         "replyContent": null,
         "repliedAt": null
     }

@@ -142,25 +142,25 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
 </p>
 
+> Geen behoefte aan<br> :date: __2021-04-11 18:26:21__
+
+> Een goed werkende waarschuwende app die je als verantwoord burger gewoon moet hebben in de strijd tegen corona.<br> :date: __2021-04-10 22:14:51__
+
+> Makkelijk te gebruiken en duidelijk<br> :date: __2021-04-10 14:18:11__
+
+> Veilig idee<br> :date: __2021-04-07 22:18:51__
+
+> Bij. Ju v ç. Ö . .ky fjğ öh öh mv. H uy ..<br> :date: __2021-04-06 13:43:01__
+
+> Ik krijg meldingen dat de app mijn tel. leegtrekt. Lastig.<br> :date: __2021-04-06 08:46:08__
+
+> Duidelijk<br> :date: __2021-04-05 15:23:18__
+
 > Wie zet hem nou weer uit?<br> :date: __2021-03-31 01:13:29__
 
 > Fantastisch<br> :date: __2021-03-30 22:05:20__
 
 > Goed<br> :date: __2021-03-30 03:06:57__
-
-> 😀<br> :date: __2021-03-29 14:06:35__
-
-> Fantastische app!<br> :date: __2021-03-28 10:58:26__
-
-> Zeer blij met dit initiatief, raadt iedereen aan deze te installeren.<br> :date: __2021-03-27 09:49:26__
-
-> Nog geen ervaring<br> :date: __2021-03-26 09:13:20__
-
-> Perfecte app!<br> :date: __2021-03-25 20:20:35__
-
-> Alfonssoudant<br> :date: __2021-03-24 13:06:12__
-
-> Allemaal de app gaan gebruiken, hoe eerder we van het virus af zijn en de maatregelen weer vermindert kunnen worden. 👻<br> :date: __2021-03-24 11:18:48__
 
 
 
@@ -169,6 +169,10 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 4 reviews"/>
 </p>
+
+> Geen meeninggeen melding<br> :date: __2021-04-05 20:54:10__
+
+> Helaas is het voor mijn niet meer mogelijk om naar de coronatest.nl te gaan, steeds de melding ERROR 1020.<br> :date: __2021-04-04 13:47:26__
 
 > Goed voor z'n doel, mits goed gebruikt.<br> :date: __2021-04-03 19:47:20__
 
@@ -186,10 +190,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Prima, maar stop met de maandelijkse meldingen met het rode virusicoon. Schrik me steeds een apennootje...<br> :date: __2021-03-14 21:04:45__
 
-> Ik heb nog geen meldingen gehad. Maar gelukkig heb ik geen snijbonen van het virus gr. Henk<br> :date: __2021-03-13 23:40:14__
-
-> Ik snap iets niet ik krijg 3 maart een melding dat ik mij moet laten testen omdat ik 1 maart in de beurt ben geweest van iemand met corona heb een afspraak gemaakt voor 5 maart blijkt dat ik me nu de 5e dag of daarna nog een keer moet laten testen waarom maakt men dan niet meteen een afspraak op de 5e dag of daarna dat scheelt toch 1 x testen en vergroot toch de capaciteit en scheelt mij 1x testen<br> :date: __2021-03-05 11:23:09__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,12 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 3 reviews"/>
 </p>
+
+> Ik wil naar een evenement maar ik zie geen CoronaCheck app in de play store, kunt u daarmee helpen<br> :date: __2021-04-12 15:06:15__
+
+> Ik heb de app gedownload en wou hem verwijderen alleen het lukte gwn niet<br> :date: __2021-04-10 13:48:21__
+
+> Is er geen ruik en test uit slag en mogelijk heden<br> :date: __2021-04-06 19:21:50__
 
 > Ik lees hier voortdurend dat broek-/jaszak of tas veel invloed kunnen hebben. Dat geeft geen vertrouwen in de app. We lopen/zitten toch niet voortdurend met de telefoon in de hand?<br> :date: __2021-04-02 14:54:38__
 
@@ -212,12 +218,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Ik kreeg 9 dagen te laat een melding of ik mij voor 1 maart wilde testen terwijl het al 5 maart was. Alles negatief maar je gaat twijfelen terwijl dit niet zo behoord te zijn. Heel naar als je veel te laat een melding krijgt.<br> :date: __2021-03-23 10:07:53__
 
-> Heb 2 gsm's 24/7 bij me 1 slaat aan andere niet, heb in andere ruimte gezeten toch een alarm, de bt gaat ook door glas waarom dan 1 melding en niet op 2 ???? Veel paniek voor niets en de melding komt ook nog eens 3 dagen na de contact.????????<br> :date: __2021-03-21 13:47:05__
-
-> jammer dat niet iedereen de app gebruikt en dat de app geen totalen geeft vh aantal besmettingen per dag zoals in de krant verschijnt de duitse versie doet dit wel vandaar de 3 sterren<br> :date: __2021-03-21 12:07:57__
-
-> Goed nieuw<br> :date: __2021-03-19 22:25:09__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,14 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 2 reviews"/>
 </p>
+
+> Ondanks dat het niet zou kunnen een melding omdat mijn buurman corona heeft. Gelukkig blijven we nuchter en gaan we op zoek. Maar bijna een zorgmedewerker in quarantaine ivm deze melding. Dit zou niet mogen gebeuren en maakt deze app onbetrouwbaar. Jammer.<br> :date: __2021-04-11 14:09:38__
+
+> Bij het installeren meldt de app eerst dat je locatie niet wordt gebruikt omdat hij via Bluetooth werkt. Even later moet je je locatiebepaling aanzetten ...<br> :date: __2021-04-10 20:59:52__
+
+> Ik krijg steeds een melding maar als ik hem dan open zie ik niks?????? 🤨 🤔<br> :date: __2021-04-07 18:08:41__
+
+> Allemaal nep<br> :date: __2021-04-05 08:38:02__
 
 > Aanvulling: İk krijg iedere dag een bericht dat de app de afgelopen 24 uur niets heeft gedaan door technische problemen. Zo werkt het dus niet. İk kom er achter dat de coronamelder inactief was omdat ik batterij besparng aan had staan. Bijzonder dat dit niet wordt aangegeven door de app. ik zag het omdat ik de app opende. Zou goed zijn dit bekend te maken want wellicht zijn hierdoor meer inactief<br> :date: __2021-04-02 19:41:10__
 
@@ -238,14 +246,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Ik heb melding gekregen dat ik bij besmet persoon ben geweest maar dat kan niet kloppen ben die bewuste dag niet weggeweest, ben de gehele dag thuis geweest rara hoe kan dit<br> :date: __2021-03-26 07:20:58__
 
-> Regelmatig krijg ik bericht dat deze app niet meer werkt. Dan moet ik hem weer aanzetten. Vreemd!!<br> :date: __2021-03-22 11:57:34__
-
-> Nouik moet bericht krijgen want mijn man is positief getest maar krijg geen melding<br> :date: __2021-03-19 11:46:07__
-
-> App kan worden gestopt door energie besparing. En dan weet je als gebruiker dus niet dat de app niet meer actief is.... En daardoor niet meer z'n doel bereikt<br> :date: __2021-03-18 15:19:04__
-
-> Sinds ik de corona melder heb geinstalleerd is mijn smartphone niet meer voorruit te branden en in no time is de accu leeg. App verwijderd en telefoon loopt weer als voorheen, met lange accu duur<br> :date: __2021-03-18 10:39:31__
-
 
 
 #### 1-star reviews
@@ -254,24 +254,24 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
 </p>
 
-> Ik heb in al die tijd dat de app bestaat nog nooit 1 melding gehad, ik twijfel dus sterk of deze app wel werkt, want ik kan mij niet voorstellen dat ik nog nooit in contact ben geweest met iemand die positief is getest.<br> :date: __2021-04-03 15:05:42__
+> Alleen maar valse meldingen met deze app, keer op keer testen voor niks. Het lijkt bijna op een zwendel omeer controle over de mensen te krijgen. Te pas en te onpas kan de overheid haar lange arm gebruiken om mensen in quarantaine te zetten zonder dat daar enige reden toe is.<br> :date: __2021-04-12 13:31:37__
 
-> Heel irritant dat hij keer op keer een melding geeft dat GPS of bluetooth uitstaan wanneer ik thuis ben.<br> :date: __2021-04-02 15:19:56__
+> Echt doe dan niks. Mijn zoon kreeg vandaag een melding op zijn app. Dat was schrikken. Hij was in de buurt geweest van iemand met corona..........111 DAGEN GELEDEN. Nu moet hij tot 31 december in quarantaine er staat geen jaartal bij dus we denken/hopen dat het 2021 moet zijn. Echt! Doe dan niks. Ik ga deze app maar verwijderen....🤪<br> :date: __2021-04-11 12:46:31__
 
-> Als je pas 6 dagen na de besmetting een melding krijgt, werk hij natuurlijk niet goed!!!<br> :date: __2021-04-02 08:35:43__
+> Al verschillende keren bij mensen geweest die positief getest zijn en echt wel langer dan 15 min. Toch nog nooit een melding gehad. Heel vreemd.<br> :date: __2021-04-11 07:45:55__
 
-> Ik ben nu voor de tweede keer besmet geraakt maar die stomme app heeft niets doorgegeven. Mijn gezin heeft ook de en zij hebben nog steeds geen meldin gekrijgen. Hoe kan dat.<br> :date: __2021-04-01 07:54:12__
+> Ik gebruik gehoorapparaten die samenwerken met mijn mobiel/bluetooth . Door deze app steeds storing onderweg op mijn toestellen verwijderen dus maar weer .<br> :date: __2021-04-10 21:58:27__
 
-> Maakt nooit verbinding<br> :date: __2021-03-31 11:27:01__
+> Criminaliteit van de overheid<br> :date: __2021-04-10 18:18:08__
 
-> Ik snap er niets van en heb het idee dat de app niet werkt.<br> :date: __2021-03-31 09:53:39__
+> Is waardeloos<br> :date: __2021-04-10 17:54:05__
 
-> Ik blijf maar swipen maar geen enkele match. Tinder is toch beter<br> :date: __2021-03-30 11:24:39__
+> Collega heeft corona.....ik krijg geen melding om me te laten testen, niemand van de collega's trouwens terwijl we toch er nauw samen werken.....<br> :date: __2021-04-10 15:51:11__
 
-> Zet zichzelf om de haverklap uit. Wat heb je er dan aan?<br> :date: __2021-03-29 21:07:25__
+> Ik had een review achtergelaten. Zo te zien is die verwijderd. Mijn review was dat ik de app weer ga verwijderen omdat veel mensen negatief zijn over deze app. De app doet niet precies wat er is beloofd.<br> :date: __2021-04-10 13:48:23__
 
-> Geen melding of wat dan ook ontvangen en toch corona. Hoe kan dat!!!<br> :date: __2021-03-29 16:28:35__
+> rotmop met deze oplichting komt.nie op me.phonen simpel<br> :date: __2021-04-10 09:42:47__
 
-> De opvolging van een GGD medewerker om de unieke sleutel te activeren is niet gebeurd. Werd ook in het telefoongesprek niet naar gevraagd nav test die dus positief was. Dus vandaar dat mijn huisgenoot ook geen melding kreeg op haar smartphone tot nu toe. De app is dus op waardeloos als de GGD de sleutel niet open zet?<br> :date: __2021-03-29 12:42:20__
+> Ik vind het leuk om 1 ster te geven<br> :date: __2021-04-10 08:33:43__
 
 

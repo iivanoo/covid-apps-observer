@@ -142,6 +142,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Applicazione molto semplice e di grande aiuto . Finalmente nessuna attesa di svariati infiniti minuti per poter informare chi di competenza su propri stati di salute causa Covid 19. Dopo aver inviato i campi richiesti, la risposta asl, è pressoché immediata.<br> :date: __2021-04-04 18:20:47__
+
 > App stupenda e mi é stata utile durante il periodo del covid 19 . Ora fortunatamente sono guarito ma continuo ad aggiornarla 💯😁😍<br> :date: __2021-04-01 18:59:29__
 
 > Eccellente. Siamo stati seguiti con massima attenzione durante tutto il periodo di "clausura" domestica.<br> :date: __2021-03-21 13:47:27__
@@ -159,8 +161,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > App veramente chiara e immediata. Semplicissima da utilizzare<br> :date: __2020-10-12 08:58:04__
 
 > Scaricate tutti l'app.<br> :date: __2020-10-11 20:22:25__
-
-> Ottimo<br> :date: __2020-09-24 18:06:50__
 
 
 
@@ -254,6 +254,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Pessima appena istallata mi si é scaricata la batteria<br> :date: __2021-04-12 00:25:33__
+
 > molto negativa<br> :date: __2021-04-01 13:42:11__
 
 > Al momento negativa, sono riuscito ad entrare solo una volta e dopo che ho inserito i primi dati non mi ha fatto più entrare.<br> :date: __2021-03-30 05:55:33__
@@ -271,7 +273,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > L'app dopo l'autenticazione non funziona<br> :date: __2021-03-16 22:55:26__
 
 > Non funziona. Come già segnalato da molti altri - aspiranti! - utenti, dopo aver ricevuto l'SMS per la conferma dei dati, continua a dire che bisogna cliccare sul link ricevuto ed effettuare un nuovo accesso malgrado sia già stato fatto. Ma non c'è nessuno che legge le recensioni e lavora per risolvere questo problema? Vedo che è stato riportato già da mesi, ma le recensioni non hanno avuto nessuna risposta.<br> :date: __2021-03-16 17:24:18__
-
-> Non funziona...<br> :date: __2021-03-16 17:19:09__
 
 

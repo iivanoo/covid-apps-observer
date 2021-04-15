@@ -131,6 +131,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> I for one think it's a great idea; yes, it is a bit of a battery drain, but, c'mon people... Can we get our priorities in line please?<br> :date: __2021-04-09 14:16:14__
+
 > Now this app is SO smart!<br> :date: __2021-03-21 19:16:45__
 
 > This comes in handy when it comes to finding out where to go and where not to go to catch covid-19<br> :date: __2021-03-21 11:58:48__
@@ -148,8 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Excellant App!! Works beautifully. Accurate. On point.<br> :date: __2021-02-25 05:09:07__
 
 > So you know everybody status!!..??<br> :date: __2021-02-25 01:34:37__
-
-> Excellent App!! Very Informative and Very Much Appreciated, a Five Star Keeper!!!!!!!<br> :date: __2021-02-23 04:01:27__
 
 
 
@@ -243,6 +243,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> Horrible and doesn't work at all. I am guessing the app developer is Slow, like the apps name. Google should remove this from the store. It does not look to be supported or updated any longer. Worst app I have ever downloaded!<br> :date: __2021-04-09 15:32:54__
+
 > Statistics no longer working, back to political misrepresentation and hiding of details.<br> :date: __2021-04-03 15:00:45__
 
 > The app is not working, it has not checked for exposure since January 9th. I keep seeing where they are telling people to go to Device Care > Battery ..... That does not exist on my phone, they must be giving instructions for an iPhone. \*\*\*\*\*\*\*\** Update still is showing January 9th as my last exposure check. This app has not worked since then. I guess that I may as well uninstall.<br> :date: __2021-03-25 21:14:28__
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > UPDATE!! (""NOT RECOMMENDED"")!! don't download!! only trust the news on tv!! i would not trust these apps because i have heard on the real news that these could possibly be scams and there have been some reports that people did get scammed!!!<br> :date: __2021-02-27 05:10:59__
 
 > Self explanatory.<br> :date: __2021-02-27 02:21:00__
-
-> This app and program is a joke. I got tested positive for covid-19 but never received a code to put in the app. How is thia app supposed to help when no one even gets a code to enter. What a joke.<br> :date: __2021-02-27 02:09:13__
 
 

@@ -138,6 +138,8 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> Like it<br> :date: __2021-04-08 13:28:53__
+
 > I love this app its very important for me to see what's going on in the world of Who as very imformative app<br> :date: __2021-03-30 14:48:27__
 
 > Good<br> :date: __2021-03-24 19:33:39__
@@ -155,8 +157,6 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 > Great. Installed quickly without problems. :-)<br> :date: __2020-11-15 16:31:45__
 
 > Thnx u save live<br> :date: __2020-11-11 19:32:07__
-
-> Always the best one!<br> :date: __2020-11-04 22:22:46__
 
 
 
@@ -213,6 +213,8 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.who.infoapp 2 reviews"/>
 </p>
+
+> I had the app only a few seconds. I was wondering if we can use it to track vaccination. I am wondering. The EU develop a digital vaccination pass. Why does this app got not simply enhanced. The old yellow books were also from the WHO. Can you add such a feature? I think it would make really sense if the WHO had this feature in it and it can be globally used.<br> :date: __2021-04-04 23:04:57__
 
 > Badly organized, unadjustable, and full of politics,i erased it<br> :date: __2020-11-13 07:29:53__
 

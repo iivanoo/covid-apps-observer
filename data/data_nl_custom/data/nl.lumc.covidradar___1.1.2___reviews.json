@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGArL4xJyl8UZHnXiO6RIjFoJ_w_GLgMshr-cn1eEy6h2EHiBTsNjXCjI5StQz_h5ETDgF-UZq8iba2NQ",
+        "userName": "Francis Ka",
+        "userImage": "https://play-lh.googleusercontent.com/-WnWh2iyR3jA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJWoWSxDoBpZkF5GdNOrwC_6u3YQ/photo.jpg",
+        "content": "Bij mogelijk Covid-19Besmetting (bijv. door CoronaMelder app gemeld): Met covid19Radar kan men na een patientstatus-verandering, dit doorgeven. Men zou ook Griep- en Covid19-VACCinnaties-met xxx moeten kunnen registreren, later eventuele bijwerkingen Als men last van HooiKoorts of andere onderliggendeZiektes heeft, kan men wel Zelf beoordelen of iets al-of-niet toch een Covid-19Symptoom is. CovidRadar en CoronaCheck (Luscii OLVG): Incontinentie (via hersensignaal al-of-niet telaat)?",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2021-04-09 10:34:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFOLdHILKp1NiRlmhavU4EbmEj1uU-TmBc4rYwUgsug1IS-jT5ScQa9acWuo67YicIrbCaGrYaBbNqHUg",
+        "userName": "Joop Dat",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeRLCmgXifrxRxOHvcey9z5XXDURi6TVZxRAeFTA",
+        "content": "Geweldig idee om Corona mee te kunnen in kaart brengen",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2021-04-07 14:43:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHV3HqGlhcyUMLGrlzCosJEbHGRoQwbbBNP5Z3Z4JfBCbehaTrHZFpCuWsv_kWTwd9LNN_i8PXP7wBquA",
         "userName": "Fran SOS",
         "userImage": "https://play-lh.googleusercontent.com/-hzotX9N6bOU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnv_DVCztbY1R4WSilmtvhZwkuPOw/photo.jpg",
@@ -98,24 +122,12 @@
     {
         "reviewId": "gp:AOqpTOENLhIX7Eq7FEoBwbgFOLdxH9bA_UvPOXgqHPt4TJtVtiKIVFSZZE4yexvRntIvfkqklFm8B7oDqZZbBA",
         "userName": "Kees vdH",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjncDwx1yHcjOH-1H0EeEiR4ZRIa6aUMnKXjo5d",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4FWc9QRxv4Opnk9eCVDSKX9d4bMiO6LSLr-S4ow",
         "content": "Geen nut",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-12-23 11:38:13",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGArL4xJyl8UZHnXiO6RIjFoJ_w_GLgMshr-cn1eEy6h2EHiBTsNjXCjI5StQz_h5ETDgF-UZq8iba2NQ",
-        "userName": "Francis Ka",
-        "userImage": "https://play-lh.googleusercontent.com/-WnWh2iyR3jA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJWoWSxDoBpZkF5GdNOrwC_6u3YQ/photo.jpg",
-        "content": "Bij mogelijk Covid-19Besmetting (bijv. door CoronaMelder app gemeld): Met covid19Radar kan men na een patientstatus-verandering, dit doorgeven. Men zou ook Griep- en Covid19-VACCinnaties-met xxx moeten kunnen registreren, later eventuele bijwerkingen Als men last van HooiKoorts of andere onderliggendeZiektes heeft, kan men wel Zelf beoordelen of iets al-of-niet toch een Covid-19Symptoom is.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.1.2",
-        "at": "2020-12-03 05:53:58",
         "replyContent": null,
         "repliedAt": null
     },
@@ -473,7 +485,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-NgA_7I0U5Nw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNM7QzHeT-5EWEEE38LmZa8r-etQ/photo.jpg",
         "content": "Ik vind het heel goed dat de informatie verzameld wordt en heb tot aan vandaag meegedaan voor mij en ook voor mijn man. Ik stop er nu mee omdat het onmogelijk is in te vullen hoeveel mensen binnen een straal van 5 meter komen.",
         "score": 2,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-05-12 20:57:31",
         "replyContent": null,
@@ -1544,18 +1556,6 @@
         "thumbsUpCount": 12,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-04-03 10:38:12",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGIIyhGvW_aFzw17FRBlSHZJsO8Q4UDcEpZ8LvXj3soKLVkTJJ2NLi29XJ-LGlEYKEjFkxUerlBLMdw7A",
-        "userName": "A",
-        "userImage": "https://play-lh.googleusercontent.com/-rhcizXCH5R8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2trFdkfbuugR7XKPhMimyrlqI9Q/photo.jpg",
-        "content": "Er wordt niet nagegaan of mensen benauwdheid, niezen en hoesten ivm jarenlange pollenallergie, astma, rokershoestjes ed kunnen hebben. Er zou meer doorgevraagd kunnen worden om duidelijker te zijn of het Corona betreft of niet. Testen is weten, een app is slechts een wazige indicatie",
-        "score": 2,
-        "thumbsUpCount": 37,
-        "reviewCreatedVersion": "1.0.0",
-        "at": "2020-04-03 10:11:02",
         "replyContent": null,
         "repliedAt": null
     },

@@ -283,6 +283,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> Le daría un 5 si no fallase en lo básico que es mantener correctamente actualizadas las restricciones. En el caso de reuniones entre no convivientes en domicilios la información contradice al DOG, específica "Só conviventes en espacios privados" cuando desde este sábado quedó restaurada esta restricción limitando a 4 personas en espacios cerrados sean públicos o privados. Es bastante problemático estar actualizado con todos los cambios que se producen como para generar más confusión con la app.<br> :date: __2021-04-12 07:56:58__
+
 > Tras a última actualización non funciona o lector QR (quedase en negro) Teléfono PocoX3. A aplicación ten permiso de acceso a cámara. Tendes algunha solución?<br> :date: __2021-04-04 11:35:37__
 
 > De verdad? En estos momentos informa que esperes.<br> :date: __2021-03-31 14:35:16__
@@ -300,7 +302,5 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > No sirve para nada, además aunque la configures en castellano sigue poniendo todo en gallego , muy útil para turistas y todos los castellano parlantes.<br> :date: __2021-02-26 08:03:05__
 
 > Sin comentarios<br> :date: __2021-01-16 12:21:58__
-
-> Pide clave 365 eso es un error que garantiza que muy pocos la van a utilizar cuantas mas restricciones peor esto sólo funciona si la instala todo el mundo, cusntos más mejor, si se ponen restricciones no va . La administracion a su bola para obtener la 365 ir s ventanilla n 11 del capitulo de Axterix.<br> :date: __2021-01-03 10:58:26__
 
 

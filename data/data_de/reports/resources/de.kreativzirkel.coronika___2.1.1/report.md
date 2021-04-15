@@ -278,7 +278,7 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
-> Geht's noch? Gibt es wirklich Pfosten, die brav ihre Kontakte eintragen und auch noch glauben, daß das irgend jemandem etwas nützt? Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie gleich wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, daß diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber leider nur sehr wenig.<br> :date: __2021-04-04 02:57:30__
+> Geht's noch? Gibt es wirklich Hirnis, die brav ihre Kontakte eintragen und auch noch glauben, daß das irgend jemandem etwas nützt? Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie gleich wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, daß diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber leider nur ganz wenig.<br> :date: __2021-04-12 00:13:01__
 
 > Nach dem heutigen Update waren alle bisherigen Eintragungen weg! Die App ist leider unbrauchbar. Ich habe sie wieder gelöscht<br> :date: __2020-12-20 22:53:19__
 

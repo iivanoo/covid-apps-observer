@@ -351,6 +351,8 @@ who now can't get their meds.<br> :date: __2018-08-10 19:23:24__
 <img src="1_star_reviews_wordcloud.png" alt="com.healthtap.userhtexpress 1 reviews"/>
 </p>
 
+> To expensive<br> :date: __2021-04-06 13:29:32__
+
 > Waste<br> :date: __2021-02-26 14:35:34__
 
 > Stay away! If you're needing a prescription filled and needing it filled correctly do not use this app or company. They will gladly take your money but not make any corrections once they have submitted a prescription. My pill quantity was supposed to be 180 as I take 6 pills a day. They gave me 30, gee thanks guys just enough to last me 5 days. Worthless!<br> :date: __2021-02-14 00:41:39__
@@ -368,7 +370,5 @@ who now can't get their meds.<br> :date: __2018-08-10 19:23:24__
 > No help<br> :date: __2020-11-18 04:21:34__
 
 > NEVER WORKS! They've now got my money and I've got no help!<br> :date: __2020-10-31 20:42:45__
-
-> been 3 days and no one reply to my question yet<br> :date: __2020-10-05 22:22:29__
 
 

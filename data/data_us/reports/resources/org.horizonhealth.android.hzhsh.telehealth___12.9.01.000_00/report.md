@@ -183,6 +183,8 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> Sometimes the connection time can be a little slow but I guess that's dependent on internet connection overall experience was fantastic very easy to use<br> :date: __2021-04-07 23:06:09__
+
 > Excellent service!!<br> :date: __2021-03-08 16:25:48__
 
 > Great<br> :date: __2021-03-03 16:00:39__
@@ -200,8 +202,6 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 > Love this app never have any issues connecting with my Alerts keep up the good work<br> :date: __2021-02-02 15:39:15__
 
 > I've had the best help in the most support from the employees at horizon health 699 hurdle rocks!!!<br> :date: __2021-01-21 21:47:48__
-
-> Very helpful. Therapeutic.<br> :date: __2021-01-15 01:19:25__
 
 
 

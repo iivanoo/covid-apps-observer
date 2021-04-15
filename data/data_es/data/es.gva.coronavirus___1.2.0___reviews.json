@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHe_aljbe_K4Wq_og0RkuPimPu8lyQsEm0AIEv7CIwJtwKlCMFiOdtsA4580FeylRvrcjf8Rmitawpck_g",
+        "userName": "Luis Trenor Calatayud",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1_8j3pN6AyoGgBSltBvvWkjsZSSpT9MpbmQ2uqA",
+        "content": "buena",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0",
+        "at": "2021-04-11 21:03:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEhs1G-AFAzlq5Bf6IoOvEgL1EwbQwOtKA94m6setnp7vABnfSRqZZKiChUP--MyhPngWo0DaFY3K51t1s",
         "userName": "Julian Gomez Rodiguez",
         "userImage": "https://play-lh.googleusercontent.com/-gx018byuopg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEqjOx4e5nhRzMJINOHyMUtS24sg/photo.jpg",
@@ -109,7 +121,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFfBi0bZxCQhjhNKnfmb8bcz95JT8drDg7y2ihdSolr6qx6y42Z55bTvh-DipPEwVFySZRRYtVtrU387jY",
-        "userName": "Marco Antonio Priego",
+        "userName": "Marco A. P.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh2T9owzjLKE1jjB6io0SwsaC6a6aAk8cHWvzg-",
         "content": "Mala app, ni en estas situaciones extremas son capaces de hacer una aplicaci\u00f3n en todo el pa\u00eds.",
         "score": 2,
@@ -482,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOHMurDZ0pmbElmylUiV5MbMAbo_tQUwc-Ce_V83qcLk8jfqXwO1iMJfu44oMoLcY3IE-thLS3Wfwft54mU",
         "userName": "Oscar Talavera",
-        "userImage": "https://play-lh.googleusercontent.com/-vpHI3vdL-Qg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoXn2j5bym2-uVOwPWjYheO_cs9g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpoAMBn6wUobX0-TEXdjJeOIybEXfdci-IbiTz",
         "content": "La app funciona genial, puedes pedir cita telef\u00f3nica para que te llame tu medic@ de cabecera. Mucho mucho mucho m\u00e1s r\u00e1pido que por la web, una vez registrado, puedes pedir cita en 2 seg, y cuando lo necesites, en la web no. Tambi\u00e9n te dice si sigues en seguimiento o no. Hay mucha informaci\u00f3n sobre covid que est\u00e1 genial. La gente que ha valorado mal la app no le ha dedicado ni 1 min.",
         "score": 5,
         "thumbsUpCount": 41,

@@ -1,0 +1,23 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH",
+        "android.permission.VIBRATE",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "activities": [
+        "com.governmentofjersey.jerseycovidalert.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://www.android.com/",
+        "https://plus.google.com/",
+        "https://%s/%s/%s",
+        "http://schemas.android.com/apk/res/android",
+        "https://expo.io",
+        "http://schemas.android.com/apk/res-auto"
+    ]
+}

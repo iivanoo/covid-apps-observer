@@ -174,6 +174,8 @@ No recent reviews available with 3 stars.
 <img src="1_star_reviews_wordcloud.png" alt="jhu.edu.JohnsHopkinsCOVIDControl 1 reviews"/>
 </p>
 
+> ever since I installed this is can't stop farting and now I am so flat<br> :date: __2021-04-07 16:52:58__
+
 > Cannot submit my sex/age. Says try again<br> :date: __2021-04-01 23:01:10__
 
 > Something went wrong light after launch<br> :date: __2021-03-31 13:18:08__
@@ -191,7 +193,5 @@ No recent reviews available with 3 stars.
 > Errors. Will not pass age on pixel 2<br> :date: __2020-11-17 19:29:47__
 
 > Cannot read the privacy statement because it won't load. Cannot add my daily temp because it shows error. Get your act together JHU. 0ne star is too much. Maybe one of your engineers can developed a usable/workable app.<br> :date: __2020-10-20 14:50:00__
-
-> utterly useless failed to allow submission of data from 1st screen<br> :date: __2020-10-06 19:56:20__
 
 

@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Very informative and helpful.<br> :date: __2021-04-09 01:04:49__
+
 > Helpful<br> :date: __2021-04-03 22:47:04__
 
 > Thank you 😊 lt helping me<br> :date: __2021-04-01 19:51:54__
@@ -139,8 +141,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > At Circus Circus Las Vegas...chk out is 11 am...no home but asked a longtime friend to help• Covid tracker dwnld today 2/1/21• ab(alxenia)🙏😷🧓<br> :date: __2021-02-01 17:12:28__
 
-> Excellent.<br> :date: __2021-01-28 19:14:09__
-
 
 
 #### 4-star reviews
@@ -148,6 +148,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 4 reviews"/>
 </p>
+
+> Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see. They updated it...it works now.<br> :date: __2021-04-11 03:40:23__
 
 > It's great, just more people need to get the app to make it even better and more effective. Only 50k downloads. Nevada as a population of over 3 million. So less than 2% of the population have the app... We need to share it with family & friends, and our local news needs to promote it.<br> :date: __2020-12-17 11:00:41__
 

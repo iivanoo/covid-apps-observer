@@ -176,6 +176,10 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> Great!<br> :date: __2021-04-09 02:23:17__
+
+> Great<br> :date: __2021-04-06 05:30:57__
+
 > I love that its a small way to help. Great app just wish A. A different quote occasionally because I'm tired if dolly Parton and B. The statistics no longer shows and I liked it a lot. Everyone should use this! Not for yourself but for others to have food!<br> :date: __2021-03-27 04:08:55__
 
 > Pretty easy to use! I don't have any complaints.<br> :date: __2021-03-26 22:17:51__
@@ -191,10 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Fairly straight-forward and easy to use. Was a reminder to myself to be more mindful of my actions and how I was feeling.<br> :date: __2021-02-27 03:28:13__
 
 > Been using since July. Really like it. Keeps me focused on staying health and in compliance with the CDC.<br> :date: __2021-02-25 23:53:34__
-
-> This app is so user friendly, ridiculously easy to dive right in. I love being able to track metrics around my mood and wellbeing. It's super cool to see metrics from my state and around the country as well! I could see something like this really taking off and becoming a valuable asset to our community health.<br> :date: __2021-02-25 20:10:21__
-
-> Takes our pulse and gives back to our communities. I love that part.<br> :date: __2021-02-25 14:07:39__
 
 
 

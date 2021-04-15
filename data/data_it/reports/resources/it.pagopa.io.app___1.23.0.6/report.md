@@ -207,25 +207,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="5_star_reviews_wordcloud.png" alt="it.pagopa.io.app 5 reviews"/>
 </p>
 
-> \*\**aggiornamento al04/04/21\*\** Aggiorno la recensione perché ora l'app funziona a meraviglia!!! Cinque stelle meritate!! Pazzesco! In blocco dal 7 dicembre, ma come si fa a programmare un app del genere?!? Capisco i primi due giorni ma anche oggi impossibile inserire metodi di pagamento. Allucinante...<br> :date: __2021-04-04 08:23:05__
+> Da l'ultimo aggiornamento la modalità scura è scomparsa. Come posso ripristinarla? Grazie<br> :date: __2021-04-12 12:57:54__
 
-> Bene<br> :date: __2021-04-03 19:44:24__
+> Ottima app<br> :date: __2021-04-12 09:19:13__
 
-> Funziona bene<br> :date: __2021-04-03 15:51:13__
+> Sarebbe buona se non si dovesse sempre cambiare l a psword<br> :date: __2021-04-12 06:30:07__
 
-> Assurdi i problemi riscontrati con carta di debito Pagobancomat/Maestro. Aggiornamento: problema risolto.<br> :date: __2021-04-02 22:54:02__
+> Funziona bene<br> :date: __2021-04-11 19:25:57__
 
-> Se aggiungete anche il totale speso mese per mese e perfetta.<br> :date: __2021-04-02 17:06:52__
+> Perfetto<br> :date: __2021-04-11 15:21:50__
 
-> L' app una volta fatto l'accesso con il proprio codice smette di funzionare. Impossibile fare qualsiasi operazione<br> :date: __2021-04-01 21:31:44__
+> Ok<br> :date: __2021-04-11 14:55:37__
 
-> Bella<br> :date: __2021-04-01 19:02:23__
+> Perché non riesco a vedere le operazioni che ho fatto?<br> :date: __2021-04-10 22:15:35__
 
-> Ottima<br> :date: __2021-03-31 22:59:20__
+> Impossibile caricare metodi pagamento. Consiglio cambiare svilippatori (anche per i siti inps e ade che sono macchinosi e poco intuitivi) Aggiornamento aprile 2021 problemi risolti.<br> :date: __2021-04-10 19:12:35__
 
-> Un po farraginoso all'inizio per entrare legare le carte etc..ora mi sembra funzionare bene<br> :date: __2021-03-31 00:08:22__
+> Puoi fare tutto semplicissimo e veloce<br> :date: __2021-04-10 18:04:27__
 
-> Ok<br> :date: __2021-03-30 15:00:44__
+> Va bene<br> :date: __2021-04-10 16:15:21__
 
 
 
@@ -235,25 +235,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="4_star_reviews_wordcloud.png" alt="it.pagopa.io.app 4 reviews"/>
 </p>
 
-> Bene. In continuo miglioramento<br> :date: __2021-04-02 21:52:04__
+> L'App è buona ma dal 31 di marzo non mi carica più le mie transizioni, c'è qualcun che sa dirmi perchè succede questo e a chi posso chiedere informazioni?. Grazie<br> :date: __2021-04-12 14:58:35__
 
-> A me ha sempre funzionato, solo vorrei che implementassero i pagamenti con Google Pay<br> :date: __2021-04-02 17:16:09__
+> Devo dire che è migliorata molto rispetto all'inizio. Servirebbe che nelle FAQ venissero ampliate e aggiornate ulteriormente affinché tutte le segnalazioni che gli utenti fanno vengano utilizzate da altri per rispondere ai quesiti di ognuno.<br> :date: __2021-04-11 21:46:16__
 
-> Io penso che sia utile se sfruttata al massimo e che funzioni tutto bene Ho messo la carta e va bene Ho messo il Bancomat ma non lo riconosce......bo !!!<br> :date: __2021-04-02 13:45:55__
+> Ok<br> :date: __2021-04-11 18:50:14__
 
-> Facile da usare e scaricare<br> :date: __2021-04-01 23:12:44__
+> Ottima<br> :date: __2021-04-08 14:23:40__
 
-> Buona<br> :date: __2021-04-01 20:13:13__
+> Buonada peovare<br> :date: __2021-04-07 20:47:49__
 
-> implementate il 18 app<br> :date: __2021-04-01 18:49:42__
+> come aggiornare i dati della mia carta di identità scaduta sull APP? grazie<br> :date: __2021-04-07 16:27:59__
 
-> Ancora impossibilità di aggiungere metodi di pagamento<br> :date: __2021-04-01 15:31:51__
+> È un ottima applicazione. E potrebbe diventare ECCELLENTE. MA NON RIESCO A CAPIRE PERCHÉ NON SI AGGIORNA PIÙ SPESSO, E LE TRANSAZIONI SONO GIÀ CONTABILIZZATE. IO AD ESEMPIO SONO FERMO A 133 DAL 1 APRILE. MAHHHHH<br> :date: __2021-04-07 13:16:46__
 
-> Vorrei provarla ancora un pò<br> :date: __2021-03-31 21:08:40__
+> Salve Ho attivato il cashback con le app di poste sulle mie carte. Volevo sapere se posso attivare anche l'app IO, non vorrei perdere le transazioni accumulate. Grazie cordiali saluti. Qualcuno mi risponde?<br> :date: __2021-04-07 08:39:46__
 
-> questa app risulta installata su un telefono che non mi appartiene , che devo fare?<br> :date: __2021-03-31 14:32:57__
+> App buona. Fa quello che occorre ed è sicura. Da avere sul telefono<br> :date: __2021-04-06 08:46:32__
 
-> In generale buona, nell ultima versione sto riscontrando problemi nell aggiunta del secondo circuito maestro alla carta bancomat già presente nel portafoglio. La carta viene trovata ma restituisce errore quando provo ad aggiungerla<br> :date: __2021-03-31 05:11:18__
+> Anche a voi non appare il bonus vacanze?<br> :date: __2021-04-05 20:07:33__
 
 
 
@@ -263,25 +263,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="3_star_reviews_wordcloud.png" alt="it.pagopa.io.app 3 reviews"/>
 </p>
 
-> Non riesco più a inviare una domanda l'applicazione si chiude<br> :date: __2021-04-03 18:36:16__
+> Date un n di telefono x comunicare con voi o una mail. A me il cash back si è bloccato x cui acquisti fatti dal 23 marzo in poi ad oggi, non mi vengono conteggiati e nn appaiono come incremento nonostante continuo a farli sia con bancomat che con maestro e sull estratto conto della banca ci sn. La carta è sia bancomat che maestro, praticamente è la stessa non funziona? . Mi aiutate ha risolvere l arcano. Ho tutti i movimenti e scontrini conservati posso inviarvi e dove?. In originale? Antonio<br> :date: __2021-04-12 14:58:37__
 
-> Sempre in eleborazione<br> :date: __2021-04-02 19:55:18__
+> Da 6 aprile le mie transazioni non sono state più aggiunte. Anche se sono sempre uguali alle prime. Stesi venditori stesso pagamento.<br> :date: __2021-04-12 10:47:41__
 
-> App funzionante, ma non riesco a fare pagamenti con la app. Vorrei capire il problema<br> :date: __2021-04-01 16:37:30__
+> Buongiorno, volevo sapere come mai non vengono più visualizzate le operazioni, sono fermo al 1 di aprile ma continuo a pagare con bancomat, quindi penso che sia un problema di aggiornamento del app. Spero che al più presto possibile venga risolto.<br> :date: __2021-04-12 10:37:30__
 
-> Complicato capire come entrare con lo SPID, ho provato , PosteId mi ha segnalato autorizzato ma tornando su Io mi si richiede nuovamente di accedere con SPID. Problema risolto.<br> :date: __2021-03-31 19:42:08__
+> Dopo 1 anno dal pagamento del bollo auto ancora risulta da pagare<br> :date: __2021-04-12 10:23:03__
 
-> Dopo le modifiche mi pare funzioni molto meglio, darei 4 stelle ma sono oltre 15 giorni che i servizi locali sono in lavorazione e mi paiono veramente troppi.<br> :date: __2021-03-31 10:02:24__
+> Ha funzionato a dovere fino al 3 aprile, le transazioni sono ferme a quella data, anche se ne ho fatte altre nei soliti punti di vendita .<br> :date: __2021-04-12 09:29:22__
 
-> Buona, potrebbe diventare ECCELLENTE se gli sviluppatori inizierebbero a rispondere. Sarebbe un segno di buon inizio e di buona educazione. Per il resto Ok<br> :date: __2021-03-31 04:03:05__
+> La app è interessante e funziona bene. Peccato per la scarsa partecipazione dei comuni e quindi dei servizi. Potrebbe offrire molto di più.<br> :date: __2021-04-11 15:41:58__
 
-> Per gli iscritti potete dare un aiuto con notifiche push per il caos vaccini.... sperando di invogliare le persone a scaricare l app e snellire sto kaos!! 😎<br> :date: __2021-03-30 22:37:42__
+> Non ci siamo proprio<br> :date: __2021-04-10 20:16:27__
 
-> La mia prima recensione (8/12) é stata pessima. Per correttezza devo però dire che in seguito, dopo numerosi aggiornamenti, l'app é migliorata molto. Ci sono ancora diverse cose che non funzionano perfettamente, ma nel complesso ora é sufficientemente performante. Spero di poter ulteriormente rivalutare la mia recensione in futuro. Vedremo<br> :date: __2021-03-30 22:18:24__
+> Sembra sia tutto a posto ma non funziona e non capisco dove sia il pri<br> :date: __2021-04-10 07:42:05__
 
-> E difficile entrare<br> :date: __2021-03-30 07:25:49__
+> Il Login tramite SPID va rivisto. Invece di mail e password sarebbe utile una notifica via app e stop. Ma forse è colpa dell'app Poste ID che non propone questa modalità. Per il resto bella idea, ma ancora troppo poco usata dalla PA<br> :date: __2021-04-09 18:41:07__
 
-> Non si apre si è bloccata...mha<br> :date: __2021-03-29 15:08:22__
+> State introducendo tutti i metodi di pagamento tranne Google pay e Samsung pay<br> :date: __2021-04-09 15:43:29__
 
 
 
@@ -291,25 +291,25 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="2_star_reviews_wordcloud.png" alt="it.pagopa.io.app 2 reviews"/>
 </p>
 
-> Pare ci siano stati problemi non indifferenti il giorno del cambio dell'ora. Le transazioni del 27 marzo risultano mancanti e pure quelle dei giorni successivi sono mancanti ed hanno orari completamente sballati rispetto ai precedenti. Per questo dò 2 stelle.<br> :date: __2021-04-04 08:47:44__
+> Sono mesi che la uso e non ho mai avuto problemi...ma è dal 4 Aprile che non si aggiornano più i pagamenti e non si riesce a contattare nessuno perché sono sempre" tutti occupati". Si può comunicare solo con messaggi e la risposta automatica è sempre la stessa..." Siamo spiacenti ma gli operatori al momento sono tutti occupati"... Che amarezza<br> :date: __2021-04-12 15:06:16__
 
-> Inizio tutto bene. Ma mi sono accorto che cere volte non registra i pagamenti effettuati anche se fatti negli stessi posti che faccio sempre (un esempio i pagamenti fatti il 28 marzo). Purtroppo a causa di questo vengo penalizzato in classifica<br> :date: __2021-04-03 17:39:23__
+> Come segnalano anche altri utenti, è dai primi di aprile che non vengono più registrate transazioni, le quali sono già state rendicontate dalla banca e che sono state effettuate in negozi "abituali", quindi luoghi testati e operazioni registrate in passato con successo. Se fai una segnalazione, ricevi la risposta di rito che ti dice in sostanza che non dipende da loro il tempo di trasmissione...<br> :date: __2021-04-12 14:09:53__
 
-> Incredibile! Dopo un mese per entrare chiede di rifare la procedura di autenticazione. Cosa servirà tutta questa supposta sicurezza<br> :date: __2021-04-03 15:02:44__
+> Buongiorno, da alcuni giorni non vengono più conteggiate le transazioni effettuate. Tutto è fermo da una settimana, quindi da più di 3giorni. Le carte utilizzate sono sempre le stesse e nei medesimi negozi.  Per cortesia potete verificare e ripristinare il funzionamento? Ringrazio in anticipo per il vs gentile supporto.<br> :date: __2021-04-12 13:09:20__
 
-> Da quasi un mese non carica più i pagamenti sul cashback. Anche dopo aver controllato co mio fornitore (poste).<br> :date: __2021-04-03 14:26:33__
+> Pessima caricano le operazioni dopo 15 giorni è impossibile tenere un rendiconto delle operazioni dopo cosi tanti giorni e se segnali ti dicono che l'esercente non è associato ma lo stesso esercente magari ad amici ha funzionato.<br> :date: __2021-04-12 11:25:33__
 
-> Non mi fa immettere ulteriore metodo di pagamento.........pessima app<br> :date: __2021-04-03 09:31:29__
+> Con il mio nuovo telefono Oppo A72 non riconosce la CIE tramite nfc. Sul vecchio telefono Huawei P9 funziona. Ho testato il telefono con altre app senza aver nessun probema<br> :date: __2021-04-12 11:25:19__
 
-> Sì ma i pagamenti effettuati con Google pay? "Stiamo lavorando con la tua banca", un altro po' scade il cashback e ancora non sono abilitati<br> :date: __2021-04-02 22:02:35__
+> Dal 31 marzo l'applicazione non aggiorna le spese che ho sostenuto pagando con la carta penso sia ora di un aggiornamento.<br> :date: __2021-04-12 10:31:00__
 
-> Non va.. Penso dall'ultimo aggiornamento.<br> :date: __2021-04-02 11:21:58__
+> Dov'è GPay ed Apple Pay? Stiamo ancora ad aspettare!<br> :date: __2021-04-12 07:57:55__
 
-> Buongiorno, vorrei sapere se funziona con Samsung pay, se no quando sarà possibile<br> :date: __2021-04-02 07:48:44__
+> Dal 1 aprile 2021 non aggiorna e contabilizza le transazioni...<br> :date: __2021-04-11 23:00:47__
 
-> All'inizio tutto ok. Ora ho problemi di inizializzazione, non mi apre l'app, l'ho segnalato ma continuano a dirmi che hanno chiuso quella segnalazione e di aprirne una nuova. Poco chiaro. Dovrei disinstallarla e reinstallarla? Ma poi non è che mi annulla tutte le operazioni fatte, visto che ho gia raggiunto un cash di 150 euro? Ripeto poco chiaro<br> :date: __2021-04-01 18:07:36__
+> Passo da 5 a 2 stelle....stranamente dal 5 aprile tutte le transazioni non vengono registrate.Di tutti gli acquisti fatti sabato 3 aprile ne è stato registrato solo uno.Inviato decine di segnalazioni,nessuna risposta concreta.Se risolvono ripasso a 5 stelle.<br> :date: __2021-04-11 19:51:38__
 
-> Lo uso poco<br> :date: __2021-04-01 16:20:29__
+> Non mi aggiorna più i pagamenti sono fermi al 3 aprile .<br> :date: __2021-04-11 18:24:45__
 
 
 
@@ -319,24 +319,24 @@ The IO, l'app dei servizi pubblici app has been installed by more than **5000000
 <img src="1_star_reviews_wordcloud.png" alt="it.pagopa.io.app 1 reviews"/>
 </p>
 
-> Inutile<br> :date: __2021-04-03 18:46:23__
+> Dal 01 aprile non registra più le mie operazioni. Ho letto le recensioni più recenti e mi rendo conto che il problema è generalizzato e diffuso. Ho mandato una segnalazione ma non spero molto in una risposta esaustiva.<br> :date: __2021-04-12 15:07:03__
 
-> Nessuno risponde alle richieste di aiuto, e poi perche' ogni mese bisogna riscriversi?? La solita app statale fatta x complicare le cose semplici! 😡😡<br> :date: __2021-04-03 17:33:16__
+> Ogni volta che devo entrare con spid mi dice che la password è errata , ma la password è giusta .<br> :date: __2021-04-12 15:06:58__
 
-> non mi fa aggiornare l'app...dovrei disinstallare e poi installare nuovamente? Le transazioni le perdo? mahhh<br> :date: __2021-04-03 17:26:16__
+> Dopo circa tre mesi di funzionamento più o meno regolare, cominciano i problemi: interi giorni di transazioni perse! Assistenza nulla e totalmente latitante, sto provando a scrivere da giorni. Il solito appalto di stato vinto da incapaci con tangenti, bustarelle e raccomandazioni<br> :date: __2021-04-12 14:54:30__
 
-> Non carica più i pagamenti fatti sia con carta di credito che bancomat.<br> :date: __2021-04-03 13:55:06__
+> dal primo aprile non si aggiornano più le transazioni, l'assistenza risulta impegnata e non prende in carico i ticket... utente abbandonato a se stesso....<br> :date: __2021-04-12 14:19:22__
 
-> Assurdo, le transazioni non vengono conteggiate mando lo scontrino, risposta ricevuta: è conteggiata e mi viene chiusa la segnalazione. C'è la fate a capire che avete un problema all'estrazione del listato delle transazioni?<br> :date: __2021-04-03 13:48:11__
+> Non vanno piu le transazioni<br> :date: __2021-04-12 14:06:04__
 
-> Non si attiva l'accesso con impronta anche se impostato<br> :date: __2021-04-03 12:21:16__
+> Andava tutto bene poi dal 20 Marzo ha cominciato a saltare alcune transazioni ed ora è dal 6 Aprile che non contabilizza più niente.<br> :date: __2021-04-12 13:26:15__
 
-> Non si aggiornano i pagamenti da una settimana.<br> :date: __2021-04-03 08:55:11__
+> Per cortesia qualcuno può spiegarmi come avviare una nuova conversazione col centro assistenza sulla app?? Ogni volta vengo automaticamente indirizzato ad una vecchia "conversazione " e puntualmente mi arriva un messaggio automatico "questa conversazione è stata chiusa si prega di aprirne una nuova" . Perché dovete far venire il nervoso al sistema rabbioso?<br> :date: __2021-04-12 13:03:04__
 
-> Sarebbe interessante capire con quale criterio registrano le operazioni. Stessa colonnina carburante. Scontrino del gasolio registrato, quello della benzina no. Cose strane<br> :date: __2021-04-03 07:40:25__
+> Dal 4 aprile ad oggi tutte le transazioni bloccate. Assistenza pessima. Per favore aggiornate le transazioni<br> :date: __2021-04-12 12:56:00__
 
-> Pessima non fa più vedere il bonus Vacanza, contattato il servizio assistenza ma risponde un sistema automatico. Nessun numero per richiedere assistenza.<br> :date: __2021-04-03 00:21:25__
+> Purtroppo non mi carica alcuni scontrini. Inviando richiesta di supporto risponde un messaggio sempre uguale, quindi non si ha possibilitá di risolvere il problema. Da sabato poi sono tutti occupati gli operatori. Assistenza inutile. Do 1 stella perche 0 non si può.<br> :date: __2021-04-12 12:38:39__
 
-> Ho fatto almeno una decina di pagamenti in vari negozi e me ne è stato conteggiato solo uno che ho fatto una settimana fa, Almeno quattro pagamenti prima e altri cinque dopo mancano. Applicazione poco affidabile, se continua così continuerò a pagare in contanti Pino pietra<br> :date: __2021-04-02 22:17:20__
+> Da un po' non aggiorna le transazioni e se scrivi x segnalarlo ti scrivono subito segnalazione chiusa o mancano transazioni regolari se va avanti così le transazioni non si sbloccano e loro non pagano vorrei più correttezza<br> :date: __2021-04-12 12:29:48__
 
 

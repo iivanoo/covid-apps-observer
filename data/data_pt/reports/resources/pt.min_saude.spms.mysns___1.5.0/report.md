@@ -255,6 +255,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> Funciona muito mal e não tem os registos das minhas doenças crónicas<br> :date: __2021-04-12 16:19:02__
+
 > Está sempre a parar de funcionar. Era bom actualizar esta app.<br> :date: __2021-03-12 12:33:48__
 
 > Nao abre no android 10. Para quango atualizacao?<br> :date: __2021-02-01 17:52:50__
@@ -273,8 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Pouco intuitiva, nada funcional como app para Android.<br> :date: __2020-08-28 21:49:31__
 
-> Elaborada para uma versão mais antiga<br> :date: __2020-07-02 08:58:12__
-
 
 
 #### 1-star reviews
@@ -282,6 +282,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> Não funciona 😔<br> :date: __2021-04-04 22:33:44__
 
 > Esta APP não está a funcionar bem<br> :date: __2021-03-31 18:37:35__
 
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não atualizada. O meu Android; diz q é para versões mais antigas<br> :date: __2021-03-07 14:13:25__
 
 > Última atualização em 2018?<br> :date: __2021-03-04 23:50:37__
-
-> Porque não funciona neste telemóvel???<br> :date: __2021-03-04 00:58:01__
 
 

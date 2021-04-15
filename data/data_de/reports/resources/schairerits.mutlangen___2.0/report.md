@@ -150,10 +150,12 @@ No recent reviews available with 5 stars.
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="schairerits.mutlangen 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Gut<br> :date: __2021-04-06 23:49:02__
+
+
 
 #### 3-star reviews
 

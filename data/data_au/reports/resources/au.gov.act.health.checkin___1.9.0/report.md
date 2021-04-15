@@ -142,6 +142,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Periodically stops working<br> :date: __2021-04-06 02:22:08__
+
 > A bit slow activating but otherwise great<br> :date: __2021-04-02 11:14:56__
 
 > App now working again. Could we have the option to turn off the ding when you check in??<br> :date: __2021-04-01 14:51:17__
@@ -160,8 +162,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Work well and easy to use compare to NSW app<br> :date: __2021-03-14 10:25:36__
 
-> EDIT: In response to my previous rating developer explained app had stopped working with earlier versions of Android. They have now fixed it and it's working perfectly so I've upgraded to 5 stars. Has stopped working since last update. Have reinstalled but still crashes.<br> :date: __2021-03-05 03:31:28__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
+
+> Knox zzz a<br> :date: __2021-04-05 03:04:52__
 
 > jgii8looLeft to prove any billion via the water opp09mb9ddd<br> :date: __2021-04-02 08:20:46__
 
@@ -188,8 +190,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Once loaded this app is easy to use, so much easier than NSW or Vic!<br> :date: __2021-02-26 00:06:07__
 
-> Was easy to install particularly for a tech challenged person. Only issue is that does not allow me to check out unlike the nsw app<br> :date: __2021-02-12 01:47:53__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,10 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
+
+> Remember to stay safe and wash your hands.<br> :date: __2021-04-07 23:00:34__
+
+> App is fine, easy install and use. Could do with the ability to check out as well.<br> :date: __2021-04-06 10:20:48__
 
 > This app worked perfectly for me until the most recent update. Now the screen stretches off the sides of my mobile. Mostly its bearable if ugly but I'm unable to see the names of the additional people either for selecting or entering in the text box which significantly reduces its usefulness<br> :date: __2021-04-02 02:59:52__
 
@@ -214,10 +218,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Would be better if you could check in by typing name of check-in place, geolocation, or select from previous check-in history.<br> :date: __2020-11-15 01:20:33__
 
-> Works for some places, not others, it just says enter manually code<br> :date: __2020-10-08 23:36:53__
-
-> The App has not changed to daylight savings.<br> :date: __2020-10-06 01:02:09__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
+
+> The app broke after install so checkin never worked either by QR or manually. I had to reinstall it<br> :date: __2021-04-05 06:14:32__
 
 > This assumes that the user has endless data. When that is not so, it fails; it should "STORE" logins until [free] wifi is next available. When the QR is not recognised, and that's regularly, it nags for a number, which I also call a fail.<br> :date: __2021-03-28 08:14:09__
 
@@ -243,8 +245,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Slow to load, my history has no check ins, so does it even work? Isn't it supposed to keep a record of where I have checked in?<br> :date: __2021-02-23 02:03:11__
 
 > ACT Health, why do you check in but not check out, like the NSW app? If something does happen you have no idea if a person spent 10 mins or 2 hrs at a place. To stop people forgetting to log out, how bout a popup asking if you are still there 2-3 hrs after checking in if not already logged out?<br> :date: __2021-02-11 22:05:59__
-
-> Worked as intended before, but recently has become very slow to load and the qr scanner is not working<br> :date: __2021-01-22 22:29:39__
 
 
 

@@ -193,6 +193,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 2 reviews"/>
 </p>
 
+> Vous faites un recensement covid ou quoi ? Et les sous-titres pour les sourds ? Bugs de fonctionnement... Etc etc...<br> :date: __2021-04-10 12:59:24__
+
 > Pour le tabagisme, peut-être faudrait-il prendre en compte le sevrage tabagique, par exemple, c'est mon cas depuis plus d'un an, je vape avec nicotine et je ne cesse d'augmenter le taux. Je sais que c'est le tabac et la fumée qui sont nocifs, mais je suis très souvent sur ma vape pour avoir "ma dose"<br> :date: __2021-03-28 13:29:52__
 
 > Permet de faire un suivi sommeil, consommation tabac et alcool. Les conseils sont généralistes (température chambre, limiter la conso café etc) mais ne semble pas relever les anomalies évidentes (sommeil fractionné par exemple) ni conseil associé. Bug sur le suivi conso tabac au bout d'une semaine : lors de l'entretien, impossible de renseigner le niveau d'évaluation (entre 1 et 7) pour la première question.<br> :date: __2020-12-22 21:54:42__
@@ -212,6 +214,8 @@ The KANOPEE app has been installed by more than **1000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.sanpsy.kanopee 1 reviews"/>
 </p>
+
+> Idée intéressante mais outil inabouti. Impossible de saisir correctement les heures de sommeil.<br> :date: __2021-04-11 11:19:25__
 
 > Trop long, impossible de quitter, sachez qu'on ne note pas la durée pendant laquelle on est reveillé en cours de nuit, on attend 'simplement' de pouvoir se rendormir...ou alors il faut regarder son reveil....pas top...<br> :date: __2021-03-17 07:00:32__
 

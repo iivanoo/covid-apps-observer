@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEX5dnHpOAthma7ANOp6UwQXftUf8_HmBashJ5NWhLBA4u44jDp7A5dYN0bSYenhdTnG8AIlVjC6SyRzw",
+        "userName": "Fernando Prats",
+        "userImage": "https://play-lh.googleusercontent.com/-_kxeQbFf82A/AAAAAAAAAAI/AAAAAAAAArw/AMZuucnLaNLng7rmXylDcgooRHCykvSADg/photo.jpg",
+        "content": "Depende de qyien te responda te cuenta una cosa u otra sobre el mismo tema",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-07 18:47:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHrvz4XBOZgTJXcpHV6J1ElpXqbQt7R1bJcmfAh0_KXvorE8urqmLyMWNkaTwA8KtkpNEN0CvPAs-eHYQ",
+        "userName": "javier haba",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjT32zg5BIXU2TIgAuFTg0K79kyn1hkFIjEcbFl1Dc",
+        "content": "No responde",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-07 16:56:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFU1gYe3oq9s5noojlFkEXEvhFIckUL5X9GXgoRoFXBkanD-Nm_MOuwKTDB3q_fd00VnnOP5f_2y210GQ",
         "userName": "carmen rico cots",
         "userImage": "https://play-lh.googleusercontent.com/-FAfNfhhQPco/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoEt1wZYYjhxuAW5UGhSFeP-Wj5A/photo.jpg",
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhZcke0vkDmic05mnuU3EhYb9X2cIBj7NiFwGr0",
         "content": "No veo las novedades por ning\u00fan lado a pesar de poner \"\u00faltimas novedades\". Ni la encuentro \u00fatil. Me la he desinstalado.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2021-01-19 15:45:28",
         "replyContent": null,
@@ -77,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjpv52pL51GMyiKJgnierOUFdW9mjHOXn0KwdrE",
         "content": "Funcionaba bien pero el contenido no est\u00e1 actualizado desde la entrada en vigor de la nueva normalidad en julio 2020, no han tenido en cuenta las modificaciones posteriores, puntuales o no. Hay discrepancias entre la informaci\u00f3n y la legislaci\u00f3n vigente. Para que sea verdaderamente \u00fatil deber\u00eda est\u00e1 al d\u00eda.",
         "score": 2,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.0.10",
         "at": "2020-11-14 10:54:21",
         "replyContent": null,

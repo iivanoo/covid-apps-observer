@@ -140,6 +140,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Me ha funcionado perfectamente<br> :date: __2021-04-09 15:55:01__
+
 > Buena<br> :date: __2021-03-29 07:07:30__
 
 > Funcionamiento perfecto. Alta de usuario sin problema con el certificado digital de la FNMT.<br> :date: __2021-03-16 19:46:28__
@@ -157,8 +159,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > Funciona bien<br> :date: __2020-11-21 00:04:00__
 
 > En menos de un minuto das de alta el teléfono y ya se activan las notificaciones en la app. Funciona normal, no da fallo.<br> :date: __2020-10-29 10:15:15__
-
-> Muy mal. Tengo que mandar una foto al médico y no sé cómo. No sé si la ha mandado o no, no me lo confirma<br> :date: __2020-08-27 14:24:26__
 
 
 
@@ -208,6 +208,14 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> No me deja terminar, mis datos para la posible vacuna anticovid<br> :date: __2021-04-12 19:54:13__
+
+> Al intentar obtener el certificado de vacunacion por datos personales, me pone que ha habido un error, inténtalo mas tarde. no me deja desde otros dispositivos, no envia el codigo de verificación. Que puedo hacer?<br> :date: __2021-04-11 12:31:33__
+
+> No s puede abrir con datos personales. IMPOSIBLE<br> :date: __2021-04-08 17:18:27__
+
+> Quiero mi certificado de vacunación Covid-19 y no me deja acceder, porque la fecha de nacimiento es inválida... Mi fecha de nacimiento inválida???? Increíble, vamos... A ver cuándo ponen la opción de 0 estrellas para puntuar. Tampoco esperaba mucho de una app de este tipo...., con 2.8 de puntuación...<br> :date: __2021-04-07 08:25:41__
+
 > Una farsa la aapp<br> :date: __2021-04-03 21:07:00__
 
 > Ya había leído que no servía, pero no he podido ni activarla de ninguna manera.<br> :date: __2021-04-03 16:28:06__
@@ -219,13 +227,5 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > No sirve para nada<br> :date: __2021-03-14 21:37:56__
 
 > Muy mala<br> :date: __2021-03-14 18:34:26__
-
-> No se descarga certificado covid de vacunacion así que no puedo obtener mi certificado. Pero además de ser sanitario con mis dosis las cuales me pusieron muy enfermos ya que la segunda me provocó u a bronquitis aguda grave, 1 mes de bajay cual es mi sorpresa al hacerme u a serlogia no tengo anticuerpo ni rastro de virus. Que medicamento.me.inyectaro? Que consecuencias para mi salud xorre... nadie me explica nada<br> :date: __2021-03-12 23:08:33__
-
-> Ahora da la opción de poner los datos personales, pero no sale la opción de iniciar sesión, dos semanas con la aplicación instalada para nada<br> :date: __2021-03-12 18:36:59__
-
-> No me deja entrar cuando meto todos mis datos<br> :date: __2021-03-12 15:12:49__
-
-> No se puede entrar, ni con certificado, ni con los datos, no hay forma.<br> :date: __2021-03-12 12:58:11__
 
 

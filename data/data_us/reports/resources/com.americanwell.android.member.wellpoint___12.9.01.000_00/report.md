@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> The doctor was super professional, and took care of all of my medical needs. He was caring, and explained everything in detail. It is SUPER convenient that they were able to fill a prescription, and send it to my local pharmacy. Definitely will use this app again for future, last minute appointments!! The connection was also very clear, and it was easy to see/hear the doctor. That's saying something, considering I'm on satellite Wifi!! A+ app!<br> :date: __2021-04-12 03:13:24__
+
+> Great experience<br> :date: __2021-04-11 19:31:57__
+
+> Easy to use.<br> :date: __2021-04-10 00:52:40__
+
+> The Doctors on here are more than amazing And you have to definitely wait longer in a doctor's Office. I Have received better care online<br> :date: __2021-04-08 23:33:05__
+
+> I can't believe how smoothly, professional and affordable this service was. We are experiencing a gap in medical insurance and this was a life saver.<br> :date: __2021-04-07 23:46:11__
+
+> Love this app<br> :date: __2021-04-07 19:31:07__
+
+> Tricia Healthcare coach A+<br> :date: __2021-04-06 22:38:18__
+
+> Great app<br> :date: __2021-04-05 04:10:47__
+
 > Fast, relatively affordable and efficient. I was able to get an appointment and prescription in under an hour - the physician was kind and very understanding. I'll definitely be using this service again<br> :date: __2021-04-04 03:39:32__
 
 > Loved It ! It was fast, and convenient! Not feeling good to start,I did not have to leave my house, Rushing around not to be late, or looking good when I feel so bad. They accepted my insurance and I was able to set up and have my Prescription sent to the pharmacy of my choice. A WONDERFUL EXPERIENCE! The Dr. was polite, nice,and professional. Easy to understand, and understood me and what I was explaining. The way to go to the Doctors for me from now on!<br> :date: __2021-04-03 20:44:51__
-
-> This was a great experience! I liked Dr patel alot! Thank you for having this available!<br> :date: __2021-04-02 21:43:26__
-
-> Safe and comfortable.<br> :date: __2021-03-31 23:05:02__
-
-> Easy to use.<br> :date: __2021-03-31 19:24:42__
-
-> During these times this is a nessesity<br> :date: __2021-03-31 18:10:58__
-
-> I had a good experience. Fast and effective.<br> :date: __2021-03-31 16:56:37__
-
-> Easy to use<br> :date: __2021-03-30 16:51:45__
-
-> Dr C Roussuae great very professional and great bedside manner. App was Easy to use and it keeps you informed through the process. Love the pictures it shows while waiting which also prevents your screen from timing out.<br> :date: __2021-03-29 17:52:37__
-
-> Love app. Its great and so easy to use. Doctors are wonderful.<br> :date: __2021-03-29 16:39:30__
 
 
 
@@ -298,6 +298,12 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Big scam I have a sinus infection I know what allergies feels like this is not allergies doctor didn't listen to a thing I said told them I have tried nasal sprays, sudafed, and one of the meds I had listed was zytec and ill be damned if the idiot didn't turn around and tell me to use afrin nasal spray and zytec all I needed was antibiotics I have had this for 4 or 5 days and it is getting worse dont waste your money on this big scam all they want is for you to come back in a week<br> :date: __2021-04-10 19:37:11__
+
+> 30 minutes and waiting for a doctor .. so no, this app is in no way even a tiny bit of replacement for a good old call to a hospital. If you have a cold, a sneeze or anything insignificant to get checked, something that you didn't get checked wouldn't make a difference.. rely on this app.. anything more than that and you're rolling a dice and taking your chances.<br> :date: __2021-04-10 08:38:40__
+
+> If I could give them -47 stars I would. This is by far the absolute worst company every. They know that I am fully covered to use their services with no co pay. My insurance company cannot stop them from charging me. I have been on 3 way calls with my insurance and them and livehealth online still cannot fix the system issue. I have to paid for services that are supposed to be free and they still have not refunded my money. I think this is the best scam on the planet. Run Fast!!<br> :date: __2021-04-06 04:06:00__
+
 > This app is useless since the doctors can only give you prescriptions for medicafio s and a covid test! Other than that they cannot order any ultrasounds or chest xrays!.....it did not meet my needs at all....will uninstall and just go to my doctors office!!! By the way the doctors can cancel your appointment while you wait on them....causing you to have to find another one!<br> :date: __2021-03-30 22:03:17__
 
 > Why make an appointment weeks in advance for it to just be canceled? Waste of damn time. You suck.<br> :date: __2021-03-26 14:28:16__
@@ -311,11 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > It says 24/7 help. There are no doctors available. 24/6?<br> :date: __2021-02-27 16:38:45__
 
 > Camera won't connect. This is a huge failure, and the idea had so much promise. There are problems with the camera on my phone connecting every time. I'm very disappointed.<br> :date: __2021-02-25 14:59:53__
-
-> Never works<br> :date: __2021-01-30 00:36:54__
-
-> Doctor told me to drink more water. Regular doctor told me to go to the ER. This app is a scam and dangerous.<br> :date: __2021-01-28 15:32:09__
-
-> It is not worth it.<br> :date: __2021-01-27 02:20:19__
 
 

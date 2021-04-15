@@ -185,6 +185,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 4 reviews"/>
 </p>
 
+> Tekur of mikið af rafhlöð<br> :date: __2021-04-04 21:36:11__
+
 > Frábært app<br> :date: __2020-09-21 23:33:22__
 
 > Finst mer vera örugari<br> :date: __2020-08-08 15:15:17__
@@ -239,6 +241,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 1 reviews"/>
 </p>
 
+> Appið datt úr símanum næ ekki að tengja það aftur fæ ekki sendan kvótann<br> :date: __2021-04-08 23:35:47__
+
 > Ekki gott, alltaf að frjósa<br> :date: __2021-03-21 20:28:21__
 
 > Það lokast sjálfkrafa á ca. 2 til 3 dögum og maður þarf að fara aftur inní forritið til að opna það aftur. Og ekki nóg með það að maður er alltaf með síman í hleðslu. Margt sem má laga.<br> :date: __2020-11-20 13:08:26__
@@ -256,7 +260,5 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Ég fékk tilkynningu frá þeim og appið opnast ekki??? Sama þótt ég setji það aftur upp eða endurræsi símann! Algert rusl þetta app<br> :date: __2020-08-01 10:59:19__
 
 > Búin ađ eyđa deginum ađ sækja appiđ, enn aftur ekki hægt taka 2<br> :date: __2020-04-10 00:54:04__
-
-> Er með Samsung s10 og kemst ekki inn í þetta fæ ekki sms með kóðanum<br> :date: __2020-04-06 15:33:44__
 
 

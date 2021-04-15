@@ -180,6 +180,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.dbis.haugxhaug.coronahealth 1 reviews"/>
 </p>
 
+> Deprimierende Zeitverschwendung! Nach den persönlichsten Daten wird quasi anonym gefragt, damit unerfahrene Studenten Daten zum Relativieren der eigenen Probleme erhalten! Von den verlangten Berechtigungen mal abgesehen... Nie mehr, nicht mal gegen Bezahlung! Die Empfehlungen sind nur Platitüden - was die persönlichen Rückmeldung bei Fragen betrifft - kann man genau so lange vergeblich wie auf eine zugesagte Antwort des Gesundheitsamtes warten! Wird deinstalliert wie die sinnlose Warn-App 🙄😡❗<br> :date: __2021-04-04 23:34:14__
+
 > Diese App ist leider zu neugierig, was die Benutzung des Smartphones angeht. Daher deinstalliert. Kann man auch anders lösen.<br> :date: __2020-10-28 20:11:00__
 
 > Tägliche Befragung ist zu lang und nicht intelligent gestaltet. Wenn ich in einen Bereich keine Probleme habe möchte ich nicht noch 3 Fragen dazu. Fragen der zwei Studien gleichen sich die möchte ich täglich nicht 2x Beantworten.<br> :date: __2020-08-28 13:00:11__

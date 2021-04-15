@@ -134,6 +134,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Good information.<br> :date: __2021-04-09 00:13:18__
+
 > Nice<br> :date: __2021-03-27 07:13:05__
 
 > Good<br> :date: __2021-03-26 06:18:54__
@@ -151,8 +153,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Very useful<br> :date: __2021-03-05 23:40:00__
 
 > Thank you my results is negative<br> :date: __2021-03-01 17:17:04__
-
-> Jnn<br> :date: __2021-03-01 08:51:26__
 
 
 
@@ -218,6 +218,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> i felt safe when first installing this app.. i don't feel safe with it now.. . but was vaccinated April Fools Day.<br> :date: __2021-04-05 23:47:49__
+
 > My exposures haven't been checked since March 3. I've followed the instructions in the FAQs, but it still won't update. I even uninstalled and reinstalled the app. 🤷<br> :date: __2021-03-26 00:48:24__
 
 > Since a recent update I get alert after alert after alert if I don't have BT or GPS enabled. One alert is enough. I don't want to have this on when I'm at home and I don't want to be constantly spammed with alerts. It is enough to make me consider deleting the app, which is counter productive, Virginia.<br> :date: __2021-03-16 10:56:08__
@@ -236,8 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Program tells me my last scan for potential exposure was oct 11th. I always have bluetooth and location services turned on as requested. I even turn on wifi almost daily to quickly update any programs on my phone. No apparent way to force a database exposure check.<br> :date: __2020-11-04 09:59:53__
 
-> My housemates & I have all tested positive but we can't report it in the app because the health department hasn't contacted any of us so there is no PIN code.<br> :date: __2020-10-22 02:52:42__
-
 
 
 #### 1-star reviews
@@ -245,6 +245,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> Stopped checking for exposures.<br> :date: __2021-04-12 05:03:34__
+
+> I thought it started working when I uninstalled and reinstalled it (it stopped in February and did this in March bc I only then realized this) because it said it checked again but it hasn't done anything since then.<br> :date: __2021-04-08 14:48:13__
 
 > Terrible app. Hasn't checked for exposures since Feb 14 (apr 3 now). And I've never had an exposure notification. And why are no stats being released as to how many notifications have been sent, how many tokens exchanged, etc. to allow us to see where we fall in the mix. I could be all alone on the moon and the app would behave identically to my experience so far.<br> :date: __2021-04-04 05:07:24__
 
@@ -261,9 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Pretty sure this app doesn't do anything. Hasn't scanned since 2/14<br> :date: __2021-03-26 11:29:15__
 
 > The app says it last checked for exposure on Jan 30, 2021 Today's date is March 23, 2021. The app store says I have the latest updates. I don't think it is working at all.<br> :date: __2021-03-23 17:34:16__
-
-> It is broken again and it doesn't update<br> :date: __2021-03-23 16:28:00__
-
-> It seems to have stopped working. My apps auto-update and exposure notifications is still on in phone settings (Samsung S9+, which also updated recently), but app says it hasn't checked exposure since February 18th!! Other people in review are having similar experience. I had to run some essential errands this past weekend--did it even work then??<br> :date: __2021-03-23 12:08:55__
 
 

@@ -268,6 +268,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
 
+> Runtergeladen, hängt sich sofort auf,direkt wieder deinstalliert<br> :date: __2021-04-09 21:01:24__
+
 > Die App funktioniert nicht!<br> :date: __2021-03-26 12:56:23__
 
 > Der letzte Mist. Bricht entweder direkt zusammen oder Verbindung zum Server schlägt fehl. Deinstalliert.<br> :date: __2021-03-16 08:36:17__
@@ -285,7 +287,5 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Neuste Version installiert, app stürzt dennoch immer ab.<br> :date: __2020-12-17 11:57:58__
 
 > Eigentlich eine gute Idee, nur öffnet sich die App nicht mehr<br> :date: __2020-12-16 12:55:28__
-
-> Trotz angeblicher Fehlerbehebung startet die App noch immer nicht. Was ist daran so schwer, eine App zu programmieren, die funktioniert?<br> :date: __2020-12-15 19:16:19__
 
 

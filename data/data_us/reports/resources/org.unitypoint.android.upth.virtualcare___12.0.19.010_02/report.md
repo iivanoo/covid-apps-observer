@@ -177,6 +177,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <img src="5_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 5 reviews"/>
 </p>
 
+> That was easy and pretty awesome!<br> :date: __2021-04-12 16:48:30__
+
 > Awesome and prompt. I love it! It's all inclusive as well and I am extremely grateful for that during these times.<br> :date: __2021-04-04 01:16:31__
 
 > I love this experience<br> :date: __2021-03-20 04:34:59__
@@ -194,8 +196,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 > So easy and quick<br> :date: __2021-01-17 14:51:41__
 
 > Wonderful experience. Doc was very helpful with my problem and answered all questions i had.<br> :date: __2020-12-30 04:14:38__
-
-> Dr. Was great. Easy to understand and very knowledgeable when it came to understanding my anxiety.<br> :date: __2020-12-27 08:02:30__
 
 
 
@@ -260,6 +260,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 1 reviews"/>
 </p>
+
+> Used to work fine, now I get an err name not resolved<br> :date: __2021-04-12 17:38:27__
 
 > Sh@#$%^&*<br> :date: __2021-01-18 19:40:06__
 

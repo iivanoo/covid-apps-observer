@@ -124,6 +124,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 5 reviews"/>
 </p>
 
+> Useful app for all<br> :date: __2021-04-07 10:57:22__
+
 > Good<br> :date: __2021-01-30 15:30:51__
 
 > Very useful<br> :date: __2020-12-28 11:20:24__
@@ -141,8 +143,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Excellent<br> :date: __2020-09-29 05:46:40__
 
 > Best App for everyone customer 👍👍<br> :date: __2020-09-25 04:03:17__
-
-> Excellent<br> :date: __2020-09-05 14:20:45__
 
 
 
@@ -236,6 +236,10 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 1 reviews"/>
 </p>
 
+> Unavailable to log since not sent OTP.<br> :date: __2021-04-08 04:04:01__
+
+> OTP is not come on mobile number<br> :date: __2021-04-07 16:01:04__
+
 > Even there is full network Not receiving OTP after submitting mobile number.<br> :date: __2020-11-25 02:30:44__
 
 > Unable to receive otp<br> :date: __2020-11-22 01:54:03__
@@ -251,9 +255,5 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > After many attempts not received mobile OTP.<br> :date: __2020-11-16 04:06:05__
 
 > Code is not coming..plz do needfu<br> :date: __2020-11-13 19:20:33__
-
-> Unable to register<br> :date: __2020-11-13 11:41:20__
-
-> 3 din pahle app download kiya hai, 3 din se baar baar try kar raha hu par OTP nahi aa raha...<br> :date: __2020-11-01 16:45:54__
 
 

@@ -243,6 +243,16 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> QR-Scanner funktioniert nicht. Sogar nach dem Anruf das ich Positiv bin, steht in der App das kein Ergebnis vorliegt<br> :date: __2021-04-10 12:26:00__
+
+> Die App öffnet sich nicht.....<br> :date: __2021-04-09 14:15:44__
+
+> Läßt sich nicht starten, bzw bricht sofort nach start ab.<br> :date: __2021-04-09 08:41:15__
+
+> App lässt sich nicht starten<br> :date: __2021-04-09 07:09:30__
+
+> Konnte nicht geöffnet werden, die App stürtzt andauernd ab.<br> :date: __2021-04-07 09:14:37__
+
 > Kurz und knapp datenschrott<br> :date: __2021-04-02 14:23:16__
 
 > Funktioniert einfach nicht (schließt automatisch beim Aufrufen) - unfassbar aber wahr<br> :date: __2021-04-02 13:11:50__
@@ -252,15 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Wo bekommt man die ID Nummer her ??<br> :date: __2021-03-31 14:59:20__
 
 > QR Code wurde nicht erkannt. ID kann nicht eingegeben werden.<br> :date: __2021-03-31 14:53:49__
-
-> App kann nicht geöffnet werden.<br> :date: __2021-03-31 10:32:23__
-
-> Sehr schlecht, die App startet noch nicht einmal (S21 Ultra).<br> :date: __2021-03-31 10:15:32__
-
-> Letzte Aktualisierung im Juli 2020. Kann man wohl löschen und seinem Testlabor davon abraten. Denn die Ergebnisse scheinen ja auch nicht anzukommen.<br> :date: __2021-03-27 16:50:48__
-
-> Funktioniert nicht - Frechheit!!<br> :date: __2021-03-27 04:47:09__
-
-> die App stürzt ab beim öffnen ... Corona Test Ergebnis in Echtzeit erst nach Corona :D<br> :date: __2021-03-25 16:37:34__
 
 

@@ -160,6 +160,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ottimo prodotto funziona<br> :date: __2021-04-09 16:59:40__
+
+> Lo lho<br> :date: __2021-04-06 09:59:31__
+
 > App puntuale molto valida<br> :date: __2021-03-13 14:25:24__
 
 > Aggiungerei una pagina relativa a info vaccini Covid e con l'occasione proporrei l'iscrizione si avrebbe un censimento migliore delle persone magari anche chiedendo vari dati lavoro, patologie, esenzioni ecc. Ecc. .<br> :date: __2021-03-11 01:51:09__
@@ -175,10 +179,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Hanno risposto subito e ora funziona perfettamente grazie<br> :date: __2021-01-04 11:14:17__
 
 > Funziona<br> :date: __2020-12-23 14:32:10__
-
-> App molto utile per info sul tempo sulle allerte sui decreti per notizie e spostamenti utili in questo particolare momento un Grazie a tutti coloro che partecipano alla realizzazione del programma<br> :date: __2020-12-11 22:56:29__
-
-> Seria<br> :date: __2020-12-11 16:52:11__
 
 
 
@@ -216,6 +216,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
 
+> Utile ,mi tiene aggiornata.<br> :date: __2021-04-08 21:17:47__
+
 > Non è possibile cambiare l'età durante l'aggiornamento dei dati in un modulo già compilato<br> :date: __2021-03-12 15:22:58__
 
 > Ha funzionato sempre bene ma, da un paio di settimane il servizio risulta "non raggiungibile, riprova più tardi ". L'ho disinstallato e reinstallato ma, non cambia nulla.<br> :date: __2021-03-08 19:14:03__
@@ -234,8 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Un po lenta per un uso di emergenza<br> :date: __2020-10-02 14:21:43__
 
-> Come si cambia l'età anagrafica?<br> :date: __2020-09-18 20:18:32__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Era molto bella, aveva una cartina con l'evoluzione nel tempo.... Ovviamente una cosa pubblica non poteva essere bella o utile, quindi qualcuno è intervenuto e ha fatto diventare la chiara e semplice cartina una lista di nomi e codici tipo "pianura centrale IM10" "nodo idraulico Milano IM09" di cui nessuno che non lavori in regione sa confini o posizione, con tabelle illeggibili. Non trovo modo di riavere la cartina. Se esiste, l'impegno che hanno messo nel nasconderla supera la mia pazienza. :(<br> :date: __2021-04-07 00:27:26__
+
+> Una cosa aveva di buono: quando arrivavano le allerte meteo, vedevi la cartina della regione coi colori e poi potevi vedere il dettaglio. Ora invece c' Questa recensione è stata utile? Sì No Regione Lombardia 15/03/21 Ciao Emanuele, assicurati di aver selezionato "Mappa" dalle 3 linee in alto a destra dell'app. Per assistenza scrivi a info.allertalom@ariasp ......... Dove sono le tre linee in alto a destra? .......... Galaxy note 20 con ultima UI e ultima versione android<br> :date: __2021-04-05 19:14:35__
 
 > Con l'ultimo aggiornamento mi chiede di compilare il questionario che ho già fatto ma non va più avanti. Mi chiede di inserire un parente<br> :date: __2021-03-07 14:22:52__
 
@@ -260,10 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Da tempo non riesco più ad aggiornare la mia situazione perché alla.prima domanda non mi viene consentito di rispondere . Le altre funzionano tutte ma alla fine mi dice che non posso inviare perché non ho risposto a tutte le domande. Peccato<br> :date: __2020-09-24 21:36:21__
 
-> Non si comprende l utilizzo<br> :date: __2020-09-23 12:44:32__
-
-> Poco utile<br> :date: __2020-09-09 18:24:47__
-
 
 
 #### 1-star reviews
@@ -271,6 +271,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> Non è utile come dicevano riguardo COVID... non danno modo di fare domande ed avere risposte.. Riguardo solo allerta civile<br> :date: __2021-04-07 14:05:45__
 
 > Una cosa aveva di buono: quando arrivavano le allerte meteo, vedevi la cartina della regione coi colori e poi potevi vedere il dettaglio. Ora invece c'è un elenco di zone assolutamente inutile.<br> :date: __2021-03-13 12:59:41__
 
@@ -289,7 +291,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Con gli ultimi aggiornamenti non si riesce più ad utilizzare l'App se non si compila il questionario. L'opzione di non partecipare al questionario non funziona<br> :date: __2020-11-15 12:10:17__
 
 > Buon giorno Da ieri ho notato che app non si riesce più ad aprire.<br> :date: __2020-10-30 08:31:44__
-
-> Non aggiornata<br> :date: __2020-10-27 23:50:27__
 
 

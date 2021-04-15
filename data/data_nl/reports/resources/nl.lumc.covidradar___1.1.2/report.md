@@ -140,6 +140,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
+> Geweldig idee om Corona mee te kunnen in kaart brengen<br> :date: __2021-04-07 14:43:18__
+
 > voor Elk gezin zeker bij ZelfQuarantaine en/of VACcinatie: jullie en postcode-gebied kunnen zo nog beter in de gaten worden gehouden door onzeGGD. Antwoorden in welke 1) MILDE-vorm van covid kunnen signaleren 2) VACcin bijwerkingen: zoals Trombose-signalen (tintellen handen en/of voeten en of zwartig worden, vocht vasthouden in kuiten/benen). LOGEES ZONDER-deze-app voer ik in en Wil niet-THUis optie! TraceBack-covid19patient krijgt meerEnMeer vorm. Signaal-checks ook in Luscii(=persoonlijk)<br> :date: __2021-03-21 08:01:31__
 
 > Was al een fijne app, maar is nu nog beter geworden om in te vullen, geeft ook goede en nuttige updates.👌👍<br> :date: __2020-12-24 04:41:24__
@@ -158,8 +160,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 
 > Heel goed<br> :date: __2020-05-23 11:38:51__
 
-> Nummer 2 in de lijst ....!' 💪🏼❣️<br> :date: __2020-05-23 11:32:42__
-
 
 
 #### 4-star reviews
@@ -168,11 +168,11 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 4 reviews"/>
 </p>
 
+> Bij mogelijk Covid-19Besmetting (bijv. door CoronaMelder app gemeld): Met covid19Radar kan men na een patientstatus-verandering, dit doorgeven. Men zou ook Griep- en Covid19-VACCinnaties-met xxx moeten kunnen registreren, later eventuele bijwerkingen Als men last van HooiKoorts of andere onderliggendeZiektes heeft, kan men wel Zelf beoordelen of iets al-of-niet toch een Covid-19Symptoom is. CovidRadar en CoronaCheck (Luscii OLVG): Incontinentie (via hersensignaal al-of-niet telaat)?<br> :date: __2021-04-09 10:34:36__
+
 > Goed.<br> :date: __2021-03-05 01:50:28__
 
 > Goede ervaring, duidelijk<br> :date: __2021-01-01 14:18:12__
-
-> Bij mogelijk Covid-19Besmetting (bijv. door CoronaMelder app gemeld): Met covid19Radar kan men na een patientstatus-verandering, dit doorgeven. Men zou ook Griep- en Covid19-VACCinnaties-met xxx moeten kunnen registreren, later eventuele bijwerkingen Als men last van HooiKoorts of andere onderliggendeZiektes heeft, kan men wel Zelf beoordelen of iets al-of-niet toch een Covid-19Symptoom is.<br> :date: __2020-12-03 05:53:58__
 
 > Vind het een interessante app met wetenschappelijk onderzoek die op deze manier in kaart brengt wie het grootste risico loopt en waar de uitbraak het grootste is . Vind deze manier van onderzoek beter dan de los vaste gedwarrel van tegenstrijdigheden van OMT /RIVM . Ben afhankelijk van behandeling bij een gespecialiseerde GGz instelling dus zit niet te wachten op nogmaals sluiting van een zorgverlenende instelling .<br> :date: __2020-08-13 11:16:59__
 

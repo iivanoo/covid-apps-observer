@@ -1,15 +1,27 @@
 [
     {
+        "reviewId": "gp:AOqpTOE-zFeukabTZqQsPMKzL-OfFZYt1UGZQE9kM-FGH9wyqcB7LWy0H93J4w_-9tWwvWI6__HekLC0trJhZQ",
+        "userName": "Doris Strickland",
+        "userImage": "https://play-lh.googleusercontent.com/-YTSJr3NwuFw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnrmP_xh-bAKk6mFzM5V_vbwT4lPw/photo.jpg",
+        "content": "Was expose but the app did not let me know",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "minted151009",
+        "at": "2021-04-10 11:33:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHPsf5kGrTxUq95uNuNOQgSbl_OTr7oI_AFNLU-KuOulUdceHxFWF4BUvvKMK_qp9H10KOutuuZB7pOSg",
         "userName": "Blue",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJCu7ZndA_quaPc8KX8FBCVWM5bntWM3pqid3z5A",
         "content": "I've had this app on my phone for months and it hasn't alerted once! How is that possible when I go to Wal-Mart and run errands at least once a week. I also noticed that no matter how many hours I'm out and about the ONLY time it does its random checks is when I'm home! One day in particular I was in and out of my house a couple of times and I compared the documented checks with my Google maps log and all 4 checks were while I was obviously home! This app is totally useless if NO ONE USES IT!!",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "minted151009",
         "at": "2021-03-31 14:25:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "The app will only alert you if you are within 15 feet for 15 min, walking around a store will more than likely not trip the notification. The checks you are seeing are simply the uplink to the server that records the phones you were near. That way it can notify those devices.",
+        "repliedAt": "2021-04-05 20:49:34"
     },
     {
         "reviewId": "gp:AOqpTOF7A__wwUUVHSJvhdOOcSSUyL7qzcjsE1F1Ld-EhpJ71JHLqNFTM78JlGH-ebEUbFQuCskf3b5PP323Ug",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-03-30 05:05:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, could you please share a brief description of the problem along with an order ID (if available) at DPH.CovidAlertCT@ct.gov to help us understand your concern. We will look forward to your updated review.",
+        "repliedAt": "2021-04-05 20:49:47"
     },
     {
         "reviewId": "gp:AOqpTOG7LhnGxlqFD-grALTsRPUs0B-1VqtB5CNwNCcPOPrsParFi2uukvTaabC34kpB2E3YJYQ5mz4T0j_eAQ",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-nfkIMezwxW8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAC4_WcSYlr7SKqfxD3i8YT8c_0A/photo.jpg",
         "content": "Great idea in need of more widespread usage. I have no issue having my anonymous data help people I am in proximity with. I have not gotten any alerts, but I tend to not be out and about a lot during the pandemic so I'm probably less susceptible than many.",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "minted151009",
         "at": "2021-03-22 23:57:00",
         "replyContent": null,
@@ -68,8 +80,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "minted151009",
         "at": "2021-03-04 15:45:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback and we are deeply sorry for the inconvenience. Can you please share the problem with us in more detail so that we can improve our app. Please contact us at DPH.CovidAlertCT@ct.gov.",
+        "repliedAt": "2021-04-05 20:50:08"
     },
     {
         "reviewId": "gp:AOqpTOFey2iXnfXIMmN3ISxUbxf1n2QifRU06bogAu4G7Brq_s2xYR9U4u9HDtEjMhSMY4C0Sdt7rOtaUV90_A",
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEaO97cVZZJvzeOEDPG3pwXObobbCmoOImcmUclQ",
         "content": "This app only allows you to share Covid-19 test results. It should also allow you to share close contacts. I just found out that my fiance and I came in close contact with someone we see regularly who tested positive earlier today. Due to the time of night, currently 10:48pm, we're unable to get tested ourselves. We should be able to alert anyone through the app that we may have contracted the virus BEFORE being tested. Early detection is key with any illness. Please add this function.",
         "score": 3,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 27,
         "reviewCreatedVersion": "minted151009",
         "at": "2021-03-04 04:52:04",
         "replyContent": null,
@@ -92,8 +104,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "minted150003",
         "at": "2021-02-20 18:18:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We apologize for the inconvenience. Can you be more specific please so that we can identify the issue? Don't hesitate to reach out to us at DPH.CovidAlertCT@ct.gov.",
+        "repliedAt": "2021-04-05 20:50:21"
     },
     {
         "reviewId": "gp:AOqpTOGwIA7RbmVNb7_cL8in8AEUke13aeAr8VqBcOnE1QFXcThflrA-nGzd8DFKQDA0ZEfR21hlzGFxk6Ce1w",
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZR0a93-OaIObHg9jP2juW36Gxh0ZM6eO84wgtVRE",
         "content": "Simple enough to use. The best way to get the most out of this app is to encourage your friends & family to also get the app! It's a community effort.",
         "score": 5,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "minted150003",
         "at": "2021-02-14 02:27:29",
         "replyContent": null,
@@ -113,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZQno5CA3jHhW_a5lirBO9AiZYT9Wp8lc8kkgAbNM",
         "content": "I like this. It's simple and easy. I wish my state participated in the program (a state next to mine does).",
         "score": 5,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "minted150003",
         "at": "2021-02-13 22:22:08",
         "replyContent": null,
@@ -602,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOHm5L3yqCiWUiUWCUZ_DAKQc1pYcETpa_T5rC4KhbU1bUwj6E4OUiB4hMZq6KiYNOtdyBbsiNx6BTQCxw",
         "userName": "Danielle Y Myska",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggnpz-eCWxwZn4vA1YycITLYRytHnEUCXie1UFd",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzC-AZziIqrKS4LgH-k02FiEe4R_BlUbv12ll1z3U",
         "content": "Cannot download the app, error message keeps saying \"something went wrong\"",
         "score": 1,
         "thumbsUpCount": 4,
@@ -617,7 +629,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-p41lZgvoJI4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckz30UMDKJ7JI8JQu2J3i_JCAQSuw/photo.jpg",
         "content": "Not working",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "minted14005",
         "at": "2020-12-06 22:10:29",
         "replyContent": "Can you check now please. It should work perfectly.",
@@ -761,7 +773,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj6E8snxsC3zaZEGXDdf6g2iWSlQ3le2HZzmDVwP8",
         "content": "Contact tracing is a joke..... My kids have had covid for over a week and a half now, no one has called... I've had it for a week now and no one has called. And u can't report it to the app without be contacted, so someone infected is going around infecting other and not knowing it. Great job CT!",
         "score": 1,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "minted11017",
         "at": "2020-11-30 19:55:48",
         "replyContent": "Matt - we are very sorry you are ill. Thank you for downloading and supporting this App. Our hope is that wide spread use of this technology will help others know when people they are around, have been tested positive. Thank you for your support. We all hope you get better soon ! ** SMcC DPH Admin **",
@@ -845,7 +857,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-jkc9xdnqIBM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckv1m0G0UJmXj7SQ__vN6-pkgk3-Q/photo.jpg",
         "content": "This app is a hoax \ud83d\ude09 Update: I forgot that I wrote the above \"review\" until I got a response from the developer. I just want to say thank you for everything you are doing. This app is a great idea. Keep up the good work! I probably should have kept my original tongue in cheek \"review\" to myself.",
         "score": 5,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "minted11017",
         "at": "2020-11-27 05:22:57",
         "replyContent": "John - Most scientific evidence does not come to the same conclusion. Thank you for your support ** SMcC DPH Admin **",
@@ -857,7 +869,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjnBeclYY0e5CfvF35oLmpsYbyJ52BInHKm_w5QNA",
         "content": "Bluetooth and location are always on. Significant battery drain. When a covid notification pops up, it does not take you to view that information. Rather you have to download the active app or you just get a spinning wheel.",
         "score": 4,
-        "thumbsUpCount": 47,
+        "thumbsUpCount": 48,
         "reviewCreatedVersion": "minted11017",
         "at": "2020-11-27 02:19:50",
         "replyContent": "Robert - Yes you are correct. This app is configured so that it records if your are within 6 ft. of another installed app for 15 minutes. To do this it requires Bluetooth on but it remains in the \"low power mode\". Most users have reported negligible battery drain from this setting. ** SMcC DPH Admin **",

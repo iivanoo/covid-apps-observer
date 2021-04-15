@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.QUICKBOOT_POWERON",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WAKE_LOCK",
+        "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "activities": [
+        "com.health.shield.MainActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+        "com.google.firebase.auth.internal.FederatedSignInActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "http://ns.adobe.com/xap/1.0/\u0000",
+        "https://plus.google.com/",
+        "https://%s/%s/%s",
+        "http://localhost",
+        "http://schemas.android.com/apk/res-auto",
+        "https://api-prod.healthshielduae.com",
+        "https://play.google.com/store/apps/details?id="
+    ]
+}

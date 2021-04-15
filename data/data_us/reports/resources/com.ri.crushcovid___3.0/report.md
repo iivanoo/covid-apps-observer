@@ -153,6 +153,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
+> All Life Matters...<br> :date: __2021-04-09 01:13:41__
+
 > Great<br> :date: __2020-12-24 20:33:48__
 
 > Well developed<br> :date: __2020-10-20 23:12:10__
@@ -160,8 +162,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > I think that if the whole country used this app we would not be in the mess we are in. People do not use their brain at all. It's common sense...you protect me I protect you. It's a proven fact that masks work. Wake up and stop being so bull headed...I've been trying to do everything that has been recommended by our Governor and have been using this app since the first day it came out. Call me a wimp, I don't care. I'm 70, a retired RN and know from experience these rules save lives.<br> :date: __2020-10-17 19:43:11__
 
 > Good way to track were you've been<br> :date: __2020-10-14 18:24:27__
-
-> All life Matters, do your part.<br> :date: __2020-10-14 17:46:42__
 
 > The app ia good<br> :date: __2020-10-01 11:03:12__
 
@@ -237,6 +237,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> In the location diary, It only gets the address right about half the time...sometimes it misses an address altogether...<br> :date: __2021-04-07 14:36:11__
+
 > Good concept but it stopped tracking, which is a major function of the app. I deleted and downloaded again and still no tracking, so finding a reason to keep hard to come by.<br> :date: __2021-02-28 21:08:49__
 
 > My app hasn't tracked my location since Dec 23, 2020. It has said it is "in progress" since then.<br> :date: __2021-01-09 15:25:09__
@@ -254,8 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Shuts down<br> :date: __2020-08-27 14:31:35__
 
 > Battery not working charging likely from multiple ConVid19 tracker, in DC and other areas people may be running different apps from other states like Virginia and miss encounters...<br> :date: __2020-08-24 10:03:37__
-
-> Location tracker doesn't work<br> :date: __2020-08-19 17:52:53__
 
 
 

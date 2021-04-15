@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFyYxXKckknYQJxET3pUaGDGuDoYd64RG5RVmII3W-FLklMuy3MfOY9ao4zsC3SjF_EtoVWT4QWIYCzkw",
+        "userName": "stan Willis",
+        "userImage": "https://play-lh.googleusercontent.com/-vsdnubveLTw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5prLKEQheUqRD3wx6m6UtA4v67Q/photo.jpg",
+        "content": "Goodsam app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.9",
+        "at": "2021-04-07 21:41:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEjP6DkMiE8QZ1wc4bT_1uUlTrsF3Y15Y6zEbjXE0Q0joAYjeCW3qP2ztOdIix2V_X05D6HtzgCi4LisA",
+        "userName": "Emma Wilson",
+        "userImage": "https://play-lh.googleusercontent.com/-Srn_dA1opIc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnM9O6VvZyNz8di4TTDhesWhv3rFQ/photo.jpg",
+        "content": "Brilliant have been able to help lots of people using this. Would like to know how to turn the volume for the siren down as very loud but other than that I have used it for over a year now with no problems.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "13.9",
+        "at": "2021-04-05 13:29:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEmkPyNpUG6A44mOGpc-hzEnkdiW8ZEHetOguVR-CJzFj24ZTs3gxz-x-AMolJ6maMHS7vMdB98P02VDQ",
         "userName": "Pat Gilding",
         "userImage": "https://play-lh.googleusercontent.com/-215G-Lu0JS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZjXBeX5fApGPk7bTuq7AnyPQjqQ/photo.jpg",
@@ -17,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcuC54pfG3nVTs_dQCxqTQDvKOFaojNo4CaFXyog",
         "content": "I've been logged in for over 1000 hours and never had a notification, even though I have all notification settings turned on. I've just gone into messages to find loads saying I've not responded to a request. How can I respond if the app isn't notifying me?",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "13.9",
         "at": "2021-03-28 09:16:49",
         "replyContent": "Dear Caroline, sorry to hear this. Could you please double check the push notifications is turned on for our app? We have a guide on: https://www.goodsamapp.org/help You should also be able to login to the website and send yourself a test push notification to check if notifications are working, we hope this helps!",
@@ -29,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-jjn42tB4zSU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJCPrsSoaMl9a2Ez5ZKdbwGHupfA/photo.jpg",
         "content": "Load of rubbish. Was told by emergency Doctor from other side of my Borough to sign up to get a volunteer to collect my prescription. App wouldn't even let me state I was in the UK when registering. Tried several times. Give up. Response to developers: I was told to register by a gp to find a volunteer to collect a prescription/medication last night The App would not let me put the UK as my country! I am already registered with NHS First Responders. I get a call every couple of weeks.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "13.9",
         "at": "2021-03-26 11:43:35",
         "replyContent": "Dear Tina, thank you for the kind words. You seem to have misunderstood the scheme entirely. You as a person who needs help wont need to sign up, the volunteers who deliver prescriptions do. If you need a volunteer or support please call the NHS volunteer responders on 0808 196 3382. They place a referral for you and a volunteer will be in touch.",
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-aOJWgjTAuQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqQwoSWOAlqNvk9ULnY8AaQICDHg/photo.jpg",
         "content": "Fundamentally sound but as a NHS volunteer responder there are two key niggles which could be addressed to make life much easier: 1. Unable to copy phone numbers from alerts to paste into the phone app, which means switching back and forth to type it manually. Can you make the number a link to dial directly or at least let it be copied to the clipboard? 2. Can't accept more than one task at a time so it's not possible to do them in one trip or make another call when the first isn't answered.",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "13.9",
         "at": "2021-03-24 06:05:24",
         "replyContent": null,
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9XHB145q78RtcrMC8yAbt4IOCkZQ17VUbiecRzA",
         "content": "Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!! Now that everything is sorted, the app works fine for me.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "13.9",
         "at": "2021-03-24 05:33:31",
         "replyContent": "Dear Jeff, please check your other/spam folder as the emails might end up in there by mistake. Please also use industry standard email address, if you are using a custom email server, please make sure your mail server is setup correctly. You can also trigger another activation email from: https://www.goodsamapp.org/activate",
@@ -85,7 +109,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFH8XLWrfo_hhDnhe56TNHGfF4BcCbsz_U9TZ8EkDrijrWeJNcSdoQgIyRE6VwJV515xYBpe751ImyBTA",
-        "userName": "abu adam",
+        "userName": "Omer Bakhshenko",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjhdbe-AD5YYmWcoXqgJXV9J4_SRf7JOZmUh5Nl",
         "content": "When ever I click on future tasks it turns off so I am unable to check or book any task",
         "score": 1,
@@ -317,7 +341,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhlYNRkQ7a942j7qjrGpU3YPJdOfcI15HZcJuaVw",
         "content": "Wow, OK, so the developer response to reviews that calls out a forced square crop on the licence says \"take a photo of your licence and the table it is sitting on, so you can crop a combination of the license and the background it to a square\". See Richard M's review below as an example. Yet the photo of the AED allows for any size and shape crop. So the developers have figured out how to allow an any size crop for selecting one photo, but don't want to apply that to another? I'm betting that the reason I can't save my AED location is because the app doesn't just select a photo, it selects and forces a crop, and in cropping it, it probably loses the location data that is in the Exif information that I have confirmed is embedded in the original photo.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "13.5",
         "at": "2021-02-18 07:00:49",
         "replyContent": "Dear Bernard, the app can accept multiple type of licenses and certificates (based on the chosen organisation) and they come in all shapes and sizes, please move the camera slightly back to include the whole license. If we make it a horizontal rectangle, it wont work for organisations who need a square or vertical certificates.",
@@ -397,8 +421,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEa1Vtt9YRH_MK3dE0F0bII1deQDnwCHwaFvXz8P8L34oiQeRAto2Y7uM41u6ITHpZHvqDUF419RPSB8w",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "userName": "Alan Hobbs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghfem2M7p19UbzqBEBEiB5wv3dt9vuynvwzENXr",
         "content": "Sometimes I wonder if anyone knows that I have logged on \"duty\" to the controllers. I have logged on for a mere 180 hours and in that time I have had just four \"shouts\" three of which didn't pick up and the fourth just needed a \"chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs",
         "score": 4,
         "thumbsUpCount": 1,
@@ -965,7 +989,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-1m7C2wiZasA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhWmIeimmd_VnA6SImBXUUtf9RZg/photo.jpg",
         "content": "Version 12.8 on Android 10: looks like notifications may have been fixed, although now when I receive a task I get a \"double ding\" where my notification sound plays twice, almost over the top of itself. Still, this is better than silence. Some tasks still do not say what type of help is required until the \"accept\" button is clicked. UPDATE: forgot I had the \"bypass silent\" option on, was the only way I could receive alerts in prev. version. Yes, if off, I get one \"ding\" now as expected - thnx!",
         "score": 4,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "12.8",
         "at": "2021-01-13 12:48:32",
         "replyContent": "Hi Keith, regarding the \"double ding\", thats because you have the toggle \"Notify me even when silent\" turned on, which means one sound would be played via the notification and one through the alarm system to override the silent mode. Regarding the second issue, we have already patched this and should be available to you shortly, version 12.9!Thanks",
@@ -1202,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOGpkyx85qFA_wGcu22j0zNtrq__rCuywItXafLDEpe85-_XxUpvITGfa0e64iSz6Z053Srg4osgDRSbVw",
         "userName": "David Ashworth",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZP8vKHaDfEuUm5GOXp_le1RoitGei6Cq-WCjn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuQqwFG_tUtxQoQ1VBnbqcEM0LIqCtrmBIIZ_sHg",
         "content": "Excellent and very easy to use. However there is more way to return to the information page after you have accepted the task.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2605,7 +2629,7 @@
     },
     {
         "reviewId": "gp:AOqpTOENgJjEeFkDKwrTdXn_QeBNhIqBMQrW2vrxE_lHkF0wkJyUsWapw9cCCd_Y-XER2_3ilMpg2c2c10-P2A",
-        "userName": "ReubeTuber",
+        "userName": "Melanie de Weymarn",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYPs2TBIY7jPnOD0WYwQ1pOcskTmVxo9-AY33klN4",
         "content": "Shambolic. Comms delayed and incorrect. Only had two tasks (both no longer needed) in 8 weeks",
         "score": 1,
@@ -2810,7 +2834,7 @@
     {
         "reviewId": "gp:AOqpTOETVn9gdbvILeraNHvjOGDeI5zhwJQs2ZpyH8XJT0T3-edlaJ1YTzDysdYwpKRjHrRaU_IuM9ItFpJnDg",
         "userName": "Denice Sealy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9Xl8KPufgmd5GCe4NhL5frVNZBNJoHNx5uVoC96c",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgrS4QST7fZOocjJebHnp5bj5QXAs3NoF4WeCucE5k",
         "content": "App does not always notify me of an alert. Therefore I miss a lot of them. All my push notifications are on but nothing has changed. Tried the test as advised but still not consistent. Sometimes the siren goes off and sometimes it doesn't..",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3254,7 +3278,7 @@
     {
         "reviewId": "gp:AOqpTOGZK5l5Jj7zBJ6Btgjuaw9yArgvhnXzMrUTvcva2a4Dgp0osGSP4ZqjUBoT5WCUmKbrsRoXPau4szmNPw",
         "userName": "david rutland",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVLzxuFvPGqFix3Z9At6te1iHu9hObuH7HX-oG",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOkDuFhUedjABx2g7v9-X4QSVNPhJEl7EWdj7d6IQ",
         "content": "200+ hours on duty & only once had to go and help someone. However, the app has twice alerted me when my phone has been off, but I hadn't turned the on-duty tab to 'OFF' first. I find out next time I turn the phone on. Surely, the app can check the last time GPS position was updated. If it's more than a couple of hours, the phone is probably off, so don't send an alert.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -4358,7 +4382,7 @@
     {
         "reviewId": "gp:AOqpTOFZQOxV8jEgOqrnf26rcaRvGYbETrlgm2tgemnNckjS5UBV6CpTbi8GJ9n4ML0uPiJEe1vPRGMANbrPeg",
         "userName": "Andrew James",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi6neE70jZIL2NaFnRU_HsX377n4E-xlw5GB1ul",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_54LvwLv8qhIg0Yd1L6JtoDBeBQexxbNM-a08Pg",
         "content": "Now won't even open!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4976,18 +5000,6 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "10.9",
         "at": "2020-04-16 15:15:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEvJO2x_g4qKhYtXAIn_DvC-fogP0rGyK8OoIyHKdxRelPqVHKcWIhvlUbFmUpnj1rYfAV1Ef_xmFXt4g",
-        "userName": "Emmie Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKU3NNs4CDbyEc2MQ15_eJRkRZ2YlbEETMbyzV",
-        "content": "I've downloaded the app and done everything scrolled across everything accepted code of conduct etc I've been on duty for 2 weeks now and I am getting zero notifications calls or messages to help people who need my help, I checked the tutorial but the tutorial images are a lot different as to what is on the actual app, I've deleted it and re download it 3 Times from the play store still not working please help as I've already called you 3 Times over the phone",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "10.9",
-        "at": "2020-04-16 11:08:38",
         "replyContent": null,
         "repliedAt": null
     },
@@ -6542,7 +6554,7 @@
     {
         "reviewId": "gp:AOqpTOFEkti_Zk_sYXaGNJ3ksTTZ8_aO8If8dyaYiYCAH6WHMjYh-z40wAQZKLk21Ld3QQes6-IUHMuNIwtU3g",
         "userName": "Deepti Gupta",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUIJ71fSoDsC5STW2FPk2Z1UzdKl3tofXNNmUx",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZCVlkBdFF8n6UySUwT0VG2SPbDrIEb8vS9mC3vBM",
         "content": "My app seems to be working though not sure as there hasn't been any call for work. It's been couple of days now. So either there is no job that has come up in my area that needs to be worked on or this app is not working. Anyway, willing to help.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -8990,7 +9002,7 @@
     {
         "reviewId": "gp:AOqpTOEj36sZsVmcd4PmRlADDTacGkm2Ci-_Ur5HT49wfFZnU1WxqxQ4X5fkFKe55Fqlju3W3D-tEUIoK1FePQ",
         "userName": "Jon Ison",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4KHx9SCbWQKZ8KogUwyynZOq__U2oxYNRtsTs",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgB81S0tBTOmS7SGkrNQwAkP2NMu3plHt5PTAaZoA",
         "content": "I'm trying to configure this on my phone but when trying to register, it won't scroll down to the end of the page ... so I can't complete the registration. So I can't become a responder ... this app is useless for me!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -9121,7 +9133,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGnG6KwlJrEp9Npusb-xfoWH9N8M7nKgHXkc7IqwX-6-XMM_wzJnmYEhD--Wco6FP2MRKI8Ic4CtkDPLA",
-        "userName": "Loukmane Hansrod",
+        "userName": "Louk",
         "userImage": "https://play-lh.googleusercontent.com/-FG2efzFECec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLoTU3DI6rsO-win6RPJ3pR0ewpQ/photo.jpg",
         "content": "the app having trouble to get my location.",
         "score": 3,
@@ -9181,7 +9193,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHkaGvIsci1b3srO_XZ-bWLKrzPKvTTZIHGAaIMaQxBard354ke-AGTNoOapUgGwl5Hwsrp9ZYFr55eQg",
-        "userName": "James Jenkins",
+        "userName": "Tony Freedman",
         "userImage": "https://play-lh.googleusercontent.com/-4FPGgnpoUSk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMVJD-S3GgZ098jGi_t0JY4InleA/photo.jpg",
         "content": "A little worried that despite moving the location accuracy slider to the right, the link the server sends me has me located on the equator in the Atlantic Ocean. Setting the \"On Duty\" button \"ON\" gives a message saying that if I am volunteering through GoodSAM then this setting is ignored. If that is so, then how do I get alerts? I have a Smsung S10.",
         "score": 3,
@@ -10190,7 +10202,7 @@
     {
         "reviewId": "gp:AOqpTOHXh1pY8CKwbMISm5EAdBzzBzD0GwSt7qo-rRgZkTS-c82rj_NQgdmwN_LbGBbaAT_gzqDSg2vzB4X89w",
         "userName": "Endurance Nut",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgUuYPHOlcFSJJB8zDqkzF9rQZcSjWx96bJ1te8bA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikfKeuhsI_29uqTOzntYRPDwECakzXdXL4hRCdGw",
         "content": "Toggles still not working on S10 despite stated fixed on last update.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -11986,17 +11998,5 @@
         "at": "2016-12-01 15:28:37",
         "replyContent": "What tends to be the issue here? Please email us at info@goodsamapp.org",
         "repliedAt": "2017-01-09 13:23:24"
-    },
-    {
-        "reviewId": "gp:AOqpTOGwYh-LlirdhfnB-E74PrL6QKCq1ufCSfTSoWYrrXqO1ukLuurJFZ0dkxIwxoONABxuFfIVt9iTzfTfNg",
-        "userName": "Stuart White",
-        "userImage": "https://play-lh.googleusercontent.com/-8qn8YicgtOc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZN0tKy4unQLE6pzmg4Q3uB6H66w/photo.jpg",
-        "content": "On my android phone I am unable to use the app since the recent update. It just keeps saying it needs to close when I log in.  Thanks for your reply. I have sent the report now.",
-        "score": 3,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "5.3",
-        "at": "2016-11-10 19:34:14",
-        "replyContent": "Hi Stuart, Thanks for the feedback! Does it crashes? do you mind reporting it to us by pressing the report button on bottom right/left of the error message? We will definitely look into it!",
-        "repliedAt": "2016-11-02 00:15:08"
     }
 ]

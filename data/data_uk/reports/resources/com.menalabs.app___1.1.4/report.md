@@ -206,6 +206,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.menalabs.app 1 reviews"/>
 </p>
 
+> OTP didnt come forever<br> :date: __2021-04-11 13:13:51__
+
 > Covid pcr test not available in Dubai<br> :date: __2021-03-08 18:39:40__
 
 

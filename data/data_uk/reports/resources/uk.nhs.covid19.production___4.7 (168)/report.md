@@ -143,25 +143,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> NHS app is ok but it need to up date so when u go in to a shop all a drs u can scam your mobile app and then if u been contact with some one with c19 then your nhs app can stepping and let you know<br> :date: __2021-04-04 07:43:59__
+> Neverhad no side affects with both jags ok<br> :date: __2021-04-12 14:35:33__
 
-> If we all had to use it by law, it would b a very effective tool against covid ! But it isn't so it isn't...<br> :date: __2021-04-04 01:37:41__
+> Keeps you informed on the rules in your area<br> :date: __2021-04-12 14:14:52__
 
-> tt44<br> :date: __2021-04-03 18:08:43__
+> So far so good<br> :date: __2021-04-12 12:44:52__
 
-> keeps me safe knowing if I need to be notified I can be, simple & easy to use<br> :date: __2021-04-03 16:41:44__
+> Tells me everything I ever need/want to know.<br> :date: __2021-04-12 12:42:24__
 
-> Excellent<br> :date: __2021-04-02 23:37:35__
+> Does the job.<br> :date: __2021-04-11 23:40:58__
 
-> Very helpful 👍🏻<br> :date: __2021-04-02 18:57:05__
+> Good app and useful but am unable to log test results for rapid tests as reference not working on app<br> :date: __2021-04-11 21:14:57__
 
-> It would be nice to be able to enter a lateral flow test result.<br> :date: __2021-04-02 16:52:28__
+> Tells you all you need to no<br> :date: __2021-04-11 17:55:13__
 
-> Great app, does what it says on the tin.<br> :date: __2021-04-02 09:11:52__
+> Good easy to give results<br> :date: __2021-04-11 16:03:04__
 
-> Really 👍<br> :date: __2021-04-01 11:27:47__
+> Easy to use, keeps people safe<br> :date: __2021-04-11 11:28:54__
 
-> Pah..... Waste of time space and effort on a physical, spiritual and quantum level<br> :date: __2021-03-31 22:10:00__
+> Easy to set up ,<br> :date: __2021-04-11 10:57:01__
 
 
 
@@ -171,25 +171,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
 
+> When will I get the option to share my check-ins with NHS. I thought this would be a good next stage, especially as wr all get more mobile.<br> :date: __2021-04-12 18:50:14__
+
+> All information in one app and easy to use, the only negative is that when I completed a lateral flow test from home I was unable to record my results in the app as I didn't receive a code in an email or text. Thank you for your response I didn't realise that the app only allowed you to put a positive test result I uploaded my negative result to the NHS online. Maybe in future will be able to put both negative and positive test results in the app.<br> :date: __2021-04-12 13:36:25__
+
+> Wouldn't it be easier is the rapid test results could be entered on the app?<br> :date: __2021-04-10 14:48:20__
+
+> Good<br> :date: __2021-04-10 12:14:15__
+
+> Easy to use<br> :date: __2021-04-08 14:41:08__
+
+> Easy to used.<br> :date: __2021-04-06 15:55:46__
+
+> Very easy to use Quick to sign in to cafes etc with QR codes<br> :date: __2021-04-06 02:26:16__
+
+> Easy to use not enough people use it though<br> :date: __2021-04-04 23:01:19__
+
 > I find the app is easy to navigate, the information is up to date, but finding local GP or community pharmacy that give the covid 19 vacation is hard to find, been told i qualify for the first vacation and can't find any place local to me to get it?.<br> :date: __2021-04-04 03:53:44__
 
 > Wish we could input more than one postcode as i stay with my boyfriend for a week each month and he lives under a different council so i cant input his postcode. Also would be nice if we could input if we have had the vaccine which would tell others and help them feel more at ease<br> :date: __2021-04-04 00:01:01__
-
-> You can't use the ID that comes with a test kit to record your results<br> :date: __2021-04-01 15:13:45__
-
-> bit annoying I have to have Bluetooth on all the time<br> :date: __2021-04-01 14:31:06__
-
-> Cant we have our vaccination data in here as well<br> :date: __2021-03-29 19:17:39__
-
-> App working fine now after update.<br> :date: __2021-03-29 15:25:17__
-
-> Would be good if you could store your vaccination details incase you lose the card given<br> :date: __2021-03-25 13:19:42__
-
-> Really good app<br> :date: __2021-03-24 21:56:17__
-
-> Could do with more details<br> :date: __2021-03-24 17:53:50__
-
-> Hi its a good app but just wanted something clarified me an my partner haven't been out for 10 days however on my app it stated I have to isolate just wanted to ask if there is a possibility that if you are living in a property which is a terrace house and a neighbour has covid is it possible that it can show on my notification that I have to isolate which shouldn't be the case as had to contact with them?<br> :date: __2021-03-23 19:45:28__
 
 
 
@@ -199,6 +199,18 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
+> App seems OK but does let you enter if you've had the vaccine still seems to say we are at alert level 4 I thought we were lower than that now seems like the app maker doesn't really bother with it compared to englands version<br> :date: __2021-04-08 08:12:37__
+
+> Telling me I need my Bluetooth on to scan.<br> :date: __2021-04-06 12:07:36__
+
+> It should have the QR code reader option for reporting test results.<br> :date: __2021-04-05 09:30:01__
+
+> I wonder if some problems emanate from using VPN? Gadget may think you are overseas... ?<br> :date: __2021-04-05 04:26:47__
+
+> Maybe add been vaccinated?<br> :date: __2021-04-04 22:08:33__
+
+> Working well<br> :date: __2021-04-04 16:04:26__
+
 > A widget that I could put on my home screen to quick launch the check in screen with the camera open would be nice so I can check into venues with one tap. I rarely check in anywhere at the moment as it's too much of a faff to open the app then click on check in and scan.<br> :date: __2021-04-04 12:10:09__
 
 > Adding results? Why can't I add test results? Is it only if you have a test at the doctors or hospital? It might be an idea to state that on the app if so!<br> :date: __2021-04-03 14:44:23__
@@ -206,18 +218,6 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 > I do leave my phone in the car during shopping and working time. Very helpful app<br> :date: __2021-04-02 11:49:48__
 
 > Will not accept result code for covid test I have had in hospital. Says I may need an update. Checked update latest early March. I'll have another go<br> :date: __2021-04-01 08:34:20__
-
-> It's never told me anything useful, but maybe one day... It also says "loading" rather a lot, not as "fixed" as they think. Main problem is that when there's an update to the status it sounds a notification. At 12:30AM!!!! This is even though I have "do not disturb" on and my phone set to silent. I can't believe it cost £millions or £billions, that'll increase the sales of Porsches in the South East.<br> :date: __2021-03-30 01:40:42__
-
-> Still getting notifications saying it's loading, other reviews have said this and your reply says it's been sorted. No it hasn't!<br> :date: __2021-03-29 08:42:33__
-
-> It is a good app only downside is with my job I do have to have lateral flow test every couple of weeks at work however the app will not allow me to enter the results and have to be put on to a separate site it would be good if it was possible to have a feature on the app that could do this also<br> :date: __2021-03-28 13:42:27__
-
-> Not useful for me as there is no laces for me to go<br> :date: __2021-03-25 02:52:01__
-
-> It's mostly good on many things but when I enter a covid test it won't let me type the code<br> :date: __2021-03-24 22:37:07__
-
-> Does not allow you to enter new covid test results, instead you have have to go via website which takes a long while<br> :date: __2021-03-23 13:05:18__
 
 
 
@@ -227,25 +227,25 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
+> Just reinstalled to help with check ins. Still getting the "Loading" notification. Very disappointed.<br> :date: __2021-04-12 19:12:21__
+
+> Disappointed that I cant record my lateral flow tests on here as i am beyond despair with the website. It would be so much easier.<br> :date: __2021-04-11 21:39:14__
+
+> When doing a home test you can't just go to enter result, scan the QR code on the test strip and enter your results, you have to go through the nhs covid results website and enter all your info again. This will mean a lot of people won't bother to report results and it defeats the object of track and trace<br> :date: __2021-04-11 13:28:39__
+
+> Could do so much more! Should be able to record rapid flow test not just PCR. App shows my last test a week ago, could be linked to main database?<br> :date: __2021-04-08 15:06:43__
+
+> Think it's ok but could do with putting up the vaccine jab section too<br> :date: __2021-04-07 22:15:25__
+
+> It's ok, haven't used it often as it doesn't always scan<br> :date: __2021-04-05 15:43:06__
+
+> Does this thing even still work anymore at this point?<br> :date: __2021-04-05 01:26:39__
+
 > I dont seem to be getting notifications despite me checking in. The app still says loading<br> :date: __2021-04-03 08:48:26__
 
 > Only applies to NHS testing. I've had many tests by ONS/OXFORD UNI (all negative) but can't enter these results due to lack of a 'code'. Why can't it also cover vaccination?<br> :date: __2021-04-02 02:49:23__
 
 > Not had a notification in a long time, and now the app won't let me check my symptoms, i see the loading bar more times than a gaming app. Big waste of taxpayers money<br> :date: __2021-04-01 09:46:37__
-
-> This App Has to be one the Biggest waste of British Tax Payers Money ever dreamt up. Not because its a bad idea but because it has seemingly financially benefited a few select people and preferred private companies, yet the App has flaws. Also not every wants to remain utterly anonymous so why can't the data from my Government funded lateral flow test be integrated into the app instead of being emailed to me separately? Does the App even work? Having spent a disproportionate time in/out of hospital in 20/21 nearby to Covid positive Patients I've still not had a Ping.<br> :date: __2021-03-30 19:43:44__
-
-> I work as a live-in carer, moving every 6 weeks ... there's no option on the app to change where I live. I have to keep reinstalling it...<br> :date: __2021-03-30 08:08:56__
-
-> Unable to enter test result.<br> :date: __2021-03-29 00:02:30__
-
-> Will not accept lateral flow test code or read the QR code.<br> :date: __2021-03-28 12:02:32__
-
-> Keep getting periods (11+ days) where exposure checks are not shown unless I open both the app and exposure settings. Sometimes I need to uninstall and reinstall the app for it to catch up.<br> :date: __2021-03-25 20:06:08__
-
-> Not worth having, the only place I go where there is a QR code is work<br> :date: __2021-03-25 10:47:50__
-
-> it doesn't do anything<br> :date: __2021-03-25 09:41:07__
 
 
 
@@ -255,24 +255,24 @@ The NHS COVID-19 app has been installed by more than **5000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> Just doesn't present itself as easy it useful<br> :date: __2021-04-04 09:07:04__
+> Useless app. Despite having Covid positive app using colleagues, I was not informed by the app. Now deleted.<br> :date: __2021-04-12 18:47:11__
 
-> No to vaccine passports.<br> :date: __2021-04-04 00:50:05__
+> Poor no direction to book vaccination after being informed by surgeries to book via the app<br> :date: __2021-04-12 18:41:08__
 
-> Removed in protest at vaccination passports. If I'm going to be discriminated against for being young then I'm done restricting my freedoms for boomers. Will reinstall if we go back to all being in this together<br> :date: __2021-04-03 21:45:11__
+> Too little too late<br> :date: __2021-04-12 18:14:48__
 
-> It doesn't work on my phone. Says some other app is using the same technology. Update, it is now April 2021, and this app still does not work on my phone.<br> :date: __2021-04-03 17:56:20__
+> A waste of time, can't tell when you leave and if anyone with Covid comes into the other side of the pub an hour after you left, even if they get covid a week later and you were once potentially not even close to being in their vicinity, then shield shield shield. I can't wait to spend the rest of my life paying tax to cover the cost of this rubbish 👌<br> :date: __2021-04-12 18:03:07__
 
-> Bad bad bad. Stop forcing people to download this. Every single time i go to to google play. Some people do not agree to be a part of this plandemic.<br> :date: __2021-04-02 22:52:18__
+> Blocking updates of this app is not right. The elected government must be obeyed.<br> :date: __2021-04-12 16:44:04__
 
-> Cannot enter test results, error messages every time. Correct code entered and I have the latest version. Will keep it on the phone for track and trace...but overall a bit poor to be honest. Zoe app is much better.<br> :date: __2021-04-02 21:51:22__
+> Too basic and pointless. Rubbish QR code scanner essentially. Edit: not that it has issues it is under developed. Risk in area set to you home only, why does it not tell you about where you currently are. If you get a contact alert it doesn't say why or where or when it has pinged from to understand better who you may need to inform. All business should have a qr code for this to be affective not just pub restaurants etc..<br> :date: __2021-04-12 16:38:06__
 
-> Rubbish like the governments decisions (for legal reasons this is a joke)<br> :date: __2021-04-02 21:04:38__
+> Downloaded without my consent<br> :date: __2021-04-12 16:29:31__
 
-> Everyone do not use this app! It doesnt work and a waste of money! Demand a pay rise to all nhs staff and delete this app. If you delete this app i mean everyone then no tax payers money will be wasted!<br> :date: __2021-04-02 16:51:43__
+> THIS APP HAS DEFINITE SINISTER UNDERTONES!! BIG BROTHER IS WATCHING. THE UPDATE HAS JUST BEEN BANNED BY APPLE AND GOOGLE FOR SECRETLY HARVESTING PERSONAL INFORMATION. THIS SPEAKS VOLUMES!! EVERYONE...... DELETE THIS NOW<br> :date: __2021-04-12 16:13:25__
 
-> Drains battery as requires Bluetooth but I've never received a notification even though I know I've been around people who tested positive. Local updates useful but that's about it.<br> :date: __2021-04-02 14:26:10__
+> I got a new. Phone so downloaded again .Its no where to be ive tried the link it still says my phone has the app.It was on my old phone not this one.How do i get it?.<br> :date: __2021-04-12 15:11:24__
 
-> This world class App doesnt work. Reason is that it isn't effectively linked to the NHStracing system. NHStracing has contacted me to isolate because I've been in contact with someone with covid, but this app doesn't give me that advice. The App also doesn't accept the Account ID provided by NHStracing. World class in development costs only I'm afraid.<br> :date: __2021-04-02 11:12:38__
+> Utterly pointless. Track and Trace is so incompetent the latest update breaches Google and Apple terms and has been blocked. I mean you could not make it up. Whoever is running this omnishambles should resign (let's face it, she's got form). Uninstalled.<br> :date: __2021-04-12 15:04:14__
 
 
