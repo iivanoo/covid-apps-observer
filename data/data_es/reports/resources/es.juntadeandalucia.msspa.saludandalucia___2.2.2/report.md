@@ -208,6 +208,10 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> Operatividad nula, ni con cl@ve, ni con tarjeta sanitaria. La he desinstalado.<br> :date: __2021-04-16 15:23:59__
+
+> No permite entrar a tus datos y poder verificar o corregirlos<br> :date: __2021-04-14 13:48:39__
+
 > No me deja terminar, mis datos para la posible vacuna anticovid<br> :date: __2021-04-12 19:54:13__
 
 > Al intentar obtener el certificado de vacunacion por datos personales, me pone que ha habido un error, inténtalo mas tarde. no me deja desde otros dispositivos, no envia el codigo de verificación. Que puedo hacer?<br> :date: __2021-04-11 12:31:33__
@@ -223,9 +227,5 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > Inútil total, sólo se puede acceder a través de la cl@ve digital y esta debe de ser registrada presencial. Yo con 80 años y varias operaciones no me puedo desplazar. Debido a la pandemia nadie te atiende. Para que tanta seguridad solo para pedir cita médica. ABSURDO<br> :date: __2021-03-15 09:42:41__
 
 > Le doy una estrella porque no se puede poner menos. Me hace cambiar mi contraseña CL@VE y después no me deja acceder porque da error. Sale el mensaje de que mi clave no es correcta. Es pésima.<br> :date: __2021-03-14 22:45:45__
-
-> No sirve para nada<br> :date: __2021-03-14 21:37:56__
-
-> Muy mala<br> :date: __2021-03-14 18:34:26__
 
 

@@ -189,6 +189,12 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> good<br> :date: __2021-04-17 21:27:25__
+
+> evergreen is very helpful<br> :date: __2021-04-15 19:09:36__
+
+> great service<br> :date: __2021-04-15 13:52:01__
+
 > Wow<br> :date: __2021-04-11 18:45:32__
 
 > system works well<br> :date: __2021-04-10 12:43:56__
@@ -202,12 +208,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > so simple<br> :date: __2021-04-05 19:57:09__
 
 > brilliant app could not manage without it<br> :date: __2021-04-04 00:53:56__
-
-> decent medical app, had no problems.<br> :date: __2021-04-02 12:33:37__
-
-> Once you've become familiar with this App it's a quite a handy one to have.👍<br> :date: __2021-04-01 07:42:15__
-
-> I don't know yet let me try for few days to see how it is . Although I walk daily 5 to 6 miles if weather is good . Definitely I will keep in touch with you .<br> :date: __2021-03-31 22:09:00__
 
 
 
@@ -245,6 +245,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> hard to log in with biometrics<br> :date: __2021-04-13 19:41:35__
+
 > Good, but the app freezes quite a lot. The full DNA results actually caused more questions that couldn't be answered due to a lack of clarity in the original answers. The questions around daily health involve a community question and if you aren't community minded in their opinion your score hits the floor. People can be happy without being involved in community. I use it daily just to register my covid status. Would I be using it otherwise, probably not.<br> :date: __2021-03-21 11:53:58__
 
 > Wont let me get on to log in<br> :date: __2021-03-09 18:33:29__
@@ -262,8 +264,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Not a bad app. a bit glitchy but OK.<br> :date: __2021-01-07 23:23:33__
 
 > Even after making a note of my password, it still told me it was wrong. The last few times I've logged in I've had to set up a new one. Not the best app in the world<br> :date: __2021-01-06 13:50:24__
-
-> good app but was simpler to use in earlier versions; a bit cumbersome UI, the most popular shortcuts (e.g. repeat prescription) are not immediately obvious.<br> :date: __2021-01-05 18:34:24__
 
 
 
@@ -301,6 +301,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> Too buggy<br> :date: __2021-04-13 09:13:44__
+
+> Terrible! I'm always having issues on this app with accessing my medication and ordering it. It has caused me so much stress and has very negative impact on my mental health!<br> :date: __2021-04-13 00:29:39__
+
 > Biometrics constantly failing<br> :date: __2021-04-12 04:09:11__
 
 > unable to order medication<br> :date: __2021-04-04 10:39:47__
@@ -316,9 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > So buggy.<br> :date: __2021-03-05 21:52:37__
 
 > Why anyone would download this is beyond me!!! I can do all the things this app claims to do, on the NHS Patient Access app. Without having my confidential information being viewed by who knows??? No thanks<br> :date: __2021-02-27 18:54:27__
-
-> Cannot log on. Password never recognised and biometric logon never works. I have had to delete the app and reinstall it, add a new password (same as the old one) and can then order repeat prescription. That happens every time I need to reorder. Have reported the problems to the admin of the app but problems persist<br> :date: __2021-02-08 13:26:22__
-
-> Rubbish app. Cannot access any information recently 😕. Its supposed to make GP access easier. Its such a pain.<br> :date: __2021-01-21 09:56:33__
 
 

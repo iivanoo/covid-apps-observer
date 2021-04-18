@@ -194,6 +194,10 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <img src="5_star_reviews_wordcloud.png" alt="com.webmd.android 5 reviews"/>
 </p>
 
+> Love it<br> :date: __2021-04-17 17:06:37__
+
+> Learn alot from the app<br> :date: __2021-04-15 17:42:36__
+
 > Loving it 😍....<br> :date: __2021-04-08 02:14:33__
 
 > Very helpful!<br> :date: __2021-03-30 05:44:22__
@@ -210,10 +214,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 
 > Does what I need it to do<br> :date: __2021-03-01 15:58:28__
 
-> Used to be a time , when i was healthier than a horse 😡<br> :date: __2021-02-23 15:04:06__
-
-> Love this app<br> :date: __2021-02-22 00:20:16__
-
 
 
 #### 4-star reviews
@@ -221,6 +221,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.webmd.android 4 reviews"/>
 </p>
+
+> Good source for general info<br> :date: __2021-04-14 19:05:42__
 
 > Great info. Use as a medical info on or after receiving new meds and visits to Dr.<br> :date: __2020-12-14 20:52:12__
 
@@ -240,8 +242,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 
 > I like this app especially for possible interactions,which is very important for me but I had problems making an account<br> :date: __2020-06-23 22:04:53__
 
-> Very helpful<br> :date: __2020-06-07 01:14:28__
-
 
 
 #### 3-star reviews
@@ -249,6 +249,8 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.webmd.android 3 reviews"/>
 </p>
+
+> I liked the info, but I could really use the medication reminder. Unfortunately, it only works if I open the app first. That makes it useless.<br> :date: __2021-04-16 05:39:19__
 
 > I rarely use this App.<br> :date: __2021-03-23 19:25:04__
 
@@ -267,8 +269,6 @@ The WebMD: Check Symptoms, Rx Savings, & Find Doctors app has been installed by 
 > I allow access to my location, it gives me doctors & professions that aren't even close to my area! I put my zip code in & I get nothing! This is ongoing even with updates! Be careful! Stay safe! 😷😷😷😷🙏🏾🙏🏾🙏🏾🙏🏾💜💜💜💜<br> :date: __2020-10-27 23:37:12__
 
 > Put in symptoms and it just kept saying I'm diabetic which I'm not but it is does have a lot of info<br> :date: __2020-08-24 06:00:08__
-
-> Cant edit my birthday<br> :date: __2020-08-07 16:48:00__
 
 
 

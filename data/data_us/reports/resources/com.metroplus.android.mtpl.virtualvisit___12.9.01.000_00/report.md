@@ -207,6 +207,8 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="com.metroplus.android.mtpl.virtualvisit 5 reviews"/>
 </p>
 
+> Best thing ever ❤<br> :date: __2021-04-16 20:41:04__
+
 > Excellent!!!!<br> :date: __2021-03-25 20:33:41__
 
 > The doctors on this app are amazing and informative saved my life<br> :date: __2021-03-20 16:50:24__
@@ -224,8 +226,6 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 > Ok<br> :date: __2020-11-14 04:45:23__
 
 > Perfect for a busy person like me.<br> :date: __2020-10-20 17:02:52__
-
-> Great.<br> :date: __2020-10-12 00:53:16__
 
 
 

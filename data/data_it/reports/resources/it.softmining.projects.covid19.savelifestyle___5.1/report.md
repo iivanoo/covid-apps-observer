@@ -269,6 +269,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
+> L'ho scaricata quasi un anno fa',tutto ok per molto tempo,faceva il suo in modo egregio,ma ad un certo punto ha iniziato a dare la percentuale di possibilità di contagio sempre a zero, disinstallata e reinstallata tre volte,niente,non calcola più la per entuale di rischio,malgrado l'ultima prova l'abbia fatta in una stanza con 7/8 persone, quindi impossibile non dare un valore diverso da zero,mi spiegate che è successo?<br> :date: __2021-04-15 12:37:40__
+
 > Disinstallata troppo invasiva<br> :date: __2021-02-12 14:06:24__
 
 > Stronzata vorrei sapere a cosa serve<br> :date: __2021-01-30 19:35:44__
@@ -286,8 +288,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Cosa significa quando mette 0,e poi un tot di numeri dopo?<br> :date: __2020-06-20 18:27:25__
 
 > Qusta app vale 2 stele<br> :date: __2020-06-17 18:12:17__
-
-> Non riesco a capire in che modo (spero di no) avvisare il medico in caso di positività per poi avvisare chi è stato a contatto con me (principio di funzionamento di immuni). Nell'app non trovo nessuna voce a riguardo<br> :date: __2020-06-15 21:05:35__
 
 
 

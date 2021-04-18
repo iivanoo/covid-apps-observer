@@ -216,6 +216,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> I was absolutely shocked by how easy this was and how thorough they were.<br> :date: __2021-04-16 18:38:22__
+
+> I wish all doctor appointments were like this!<br> :date: __2021-04-15 19:31:29__
+
 > Quick and easy, love it!<br> :date: __2021-04-10 14:42:08__
 
 > Very good<br> :date: __2021-04-06 16:30:45__
@@ -231,10 +235,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > They've came through every time great place<br> :date: __2021-03-31 21:46:12__
 
 > Great experience<br> :date: __2021-03-30 15:51:02__
-
-> If your looking for an alternative to urgent care or the ER for something that isn't life threatening look no further. Their Drs are nice, knowledgeable, available 24/7 and willing to help you with pretty much anything, sans controlled substances. So if your looking for a dr to see st home for a cold, infection, something you'd see urgent care for, give amwell a shot! I use them all the time.<br> :date: __2021-03-27 06:18:00__
-
-> Dr was awesome!!! I really recommend the app<br> :date: __2021-03-23 22:36:15__
 
 
 

@@ -231,6 +231,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 4 reviews"/>
 </p>
 
+> Great app.<br> :date: __2021-04-13 20:17:08__
+
 > life saver<br> :date: __2020-10-26 10:37:41__
 
 > I had my first visit on May 10 2020. The doctor was fabulous. I just needed an asthma inhaler refill. Walgreens pharmacy said the script didn't list generic as acceptable. Put shortly, it was resolved. However, the inhalers were recalled a few months later. I came back to Express Care to explain I needed a new script. Others need returned. Again, doc was great. What upsets me is getting charged $55. I paid for 2 visits & 4 inhalers unnecessarily. Disappointed<br> :date: __2020-10-05 22:10:48__
@@ -248,8 +250,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > It's a touch laggy but it works.<br> :date: __2020-06-24 16:33:45__
 
 > Ok<br> :date: __2020-06-22 17:45:00__
-
-> Next Level<br> :date: __2020-06-09 22:13:06__
 
 
 

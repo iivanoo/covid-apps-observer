@@ -271,6 +271,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Dont use green zone<br> :date: __2021-04-17 03:23:44__
+
 > ins<br> :date: __2021-04-09 07:40:10__
 
 > No current State restrictions or links to them. Hopelessly out of date<br> :date: __2021-03-30 01:11:14__
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Gay<br> :date: __2020-12-21 00:32:03__
 
 > Useless. Very outdated notification feed. This app has life in my phone less than 5 minutes. Wish the government does more research for what citizens needs before watst the public money.<br> :date: __2020-12-19 21:25:15__
-
-> There is no information regarding privacy measures for testing procedures and the storage location/process regarding retained genetic samples.<br> :date: __2020-12-14 09:05:12__
 
 

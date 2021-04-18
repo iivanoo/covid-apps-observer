@@ -184,6 +184,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 5 reviews"/>
 </p>
 
+> Great app! Makes it so easy to visit with your providers!<br> :date: __2021-04-13 16:42:11__
+
 > She is an awesome and amazing dr that puts her patients first. She is tough though. Kind of like tough love.<br> :date: __2021-03-22 15:04:28__
 
 > Very easy very clear. Worked great!<br> :date: __2021-02-11 17:48:50__
@@ -201,8 +203,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > Amazingly helpful to keep safe with covid-19 exposure.<br> :date: __2021-01-16 04:13:16__
 
 > Easy to operate<br> :date: __2021-01-08 22:40:50__
-
-> App works really well<br> :date: __2020-12-28 21:37:51__
 
 
 

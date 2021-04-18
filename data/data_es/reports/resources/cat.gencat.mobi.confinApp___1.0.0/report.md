@@ -119,6 +119,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> Sirve para que la Policía no te multe va estupendo lo recomiendo si no quieres pagar.<br> :date: __2021-04-18 00:36:21__
+
+> Funciona correctamente y fácil de rellenar. Facilita todo si te desplazas con la documentación justificante.<br> :date: __2021-04-15 16:57:27__
+
 > Mi esposa y yo hemos recibido la segunda dosis de la vacuna del covid19 nos han entregado un certifiado de SALUD/generalitat de catalunya nos servira como documento para viajar por carretera a suiza tenemos la familia residiendo en Berna gracias Rivero<br> :date: __2021-03-16 16:47:11__
 
 > Es muy fácil y cómodo<br> :date: __2021-03-01 15:28:34__
@@ -134,10 +138,6 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Genial y molt be pensada felicitats.<br> :date: __2020-12-26 12:36:12__
 
 > instalat i generat un pel dia 26...tot ok<br> :date: __2020-12-23 13:13:01__
-
-> bien rápida<br> :date: __2020-11-27 19:37:49__
-
-> acurada i informada<br> :date: __2020-11-10 09:42:11__
 
 
 

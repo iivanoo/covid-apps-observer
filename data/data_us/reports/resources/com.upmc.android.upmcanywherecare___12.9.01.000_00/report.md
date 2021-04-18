@@ -308,6 +308,8 @@ or else they charged me $50 for nothing<br> :date: __2018-08-07 06:45:42__
 <img src="1_star_reviews_wordcloud.png" alt="com.upmc.android.upmcanywherecare 1 reviews"/>
 </p>
 
+> I can never get into my account and no idea why????<br> :date: __2021-04-15 05:26:09__
+
 > Tried 4 times to connect. Wasted an hour, very frustrating. Three times the doctors canceled the visit because it wouldn't connect. Once the doctor finalized the visit even though it didn't connect.<br> :date: __2021-01-06 18:23:25__
 
 > Do NotLike this<br> :date: __2020-12-11 00:54:42__
@@ -325,7 +327,5 @@ or else they charged me $50 for nothing<br> :date: __2018-08-07 06:45:42__
 > Can't get ahold of anyone keeps telling me internet connection interrupted please try again<br> :date: __2020-06-21 15:41:21__
 
 > Can't log in Tech Support want me to do their job call my doctor's office and explain to them why they have it screwed up on their N again not my job their software has a bug and they won't fix it they don't wanna hear it<br> :date: __2020-05-12 11:12:55__
-
-> The only insurance they accept is their own. I have a diffrent health plan. Then the doctors charge a $59 copay BEFORE insurance. Not helpful at all. Especially for those of us who have medicaid and do not have copays to worry about.<br> :date: __2020-04-21 20:55:33__
 
 

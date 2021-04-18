@@ -137,6 +137,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> Awesome app<br> :date: __2021-04-12 19:41:17__
+
 > Havent had any major issues so far, to speak of..certainly a work in progress<br> :date: __2021-02-27 03:28:13__
 
 > Gdonna892 @gmailcom<br> :date: __2021-02-24 06:59:47__
@@ -154,8 +156,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > I would recommend every one to use this app specially this corrona virus erra. It helps to be aware who is around whether some is 3nfectedor not. Stay safe folks 🙏 ❤<br> :date: __2021-02-02 17:16:39__
 
 > Keeps me covid-19 free!<br> :date: __2021-01-29 21:35:37__
-
-> (optional)<br> :date: __2021-01-20 08:52:59__
 
 
 
@@ -193,6 +193,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
 
+> HogWash<br> :date: __2021-04-12 18:39:53__
+
 > I got sick today again all day getting I'm not giving you and single drop!!!!!!!!!!<br> :date: __2021-04-08 01:12:55__
 
 > Sends notifications late at night and early in the morning. Irritating!<br> :date: __2021-04-05 18:19:52__
@@ -211,8 +213,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > So far, I can't tell, but tomorrow I go to hospital. I expect it will go off like crazy there. Not sure what the range is...6'? 20'? For airborne virus, 6' is no where near enough distance. I surmized that in January 2020, based on YouTube reports of medical analyst Dr. John Campbell. Check his channel out.<br> :date: __2020-12-29 19:44:24__
 
-> This app was totally amazing, it was sending my Meta Data all over the world. It even showed me that my neighbor was exposing him self to Covid with a un-natural hand sanitizer pump that doubles as an omelette maker. Keep up the good work. It's a winner for me.<br> :date: __2020-12-22 04:18:23__
-
 
 
 #### 2-star reviews
@@ -222,8 +222,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 </p>
 
 > Not all that helpfull<br> :date: __2021-04-03 02:53:37__
-
-> Why I think this app is on the right track to have the user keep phone BT on and based on my last check "looking to pair" without any ID notice from the COVID app is problem. Suggest and may involve Google/Android is to list the app working under BLE, and re-push app so user can allow storage permission and narrow BT BLE permission if feasible. Note that my version can list 'pair history' and this app does not show being paired or connected. Additional sugg: modify and follow Waze user inputs.<br> :date: __2021-03-26 17:06:34__
 
 > Annoying, I work at home and only go out if I need to go out. I dont want my Bluetooth on 24/7. Have a "home" button that stops the annoying message saying it can tract since I don't have my Bluetooth on<br> :date: __2021-03-24 16:25:10__
 
@@ -241,6 +239,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > don't know but bluetooth bad for me<br> :date: __2021-01-13 15:40:34__
 
+> I didn't find the app useful as it only searched to see if I was around anyone exposed while I was alone at home. Not helpful!!!!<br> :date: __2021-01-13 04:02:06__
+
 
 
 #### 1-star reviews
@@ -248,6 +248,12 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
+
+> Original comments given on 3-26-2021 in case Google/Android attempts at a later date to delete old 'Edit Histories'. 04-15-2021 update-claims (falsely) to obtain an update on Pixel 4 device. On my current carrier LG device with 5G sim the app lists no Permissions within standard Android protocol app settings but once inside app the app requests I am required to turn on Bluetooth so following review this will be flagged. Not counting this as a strike per se but Android version listed in app is NC<br> :date: __2021-04-15 20:21:01__
+
+> It does not work<br> :date: __2021-04-13 21:23:16__
+
+> Useless. If you have covid you will know by... being sick!<br> :date: __2021-04-13 20:00:19__
 
 > Got a positive result through the city of mpls' testing site at the convention center today. To report my positive to the app I need a code. My results didn't come with a code.<br> :date: __2021-04-06 05:35:57__
 
@@ -262,11 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Push notifications can't be silenced<br> :date: __2021-02-23 18:25:36__
 
 > These people have no idea what they're talking about. One mask, two masks, a thousand masks, it doesn't matter. This is all to justify the destruction of our way of life.<br> :date: __2021-02-20 12:11:59__
-
-> Checking every minute and popping up too many messages that it is checking exposures since I rebooted my phone. No way to adjust.<br> :date: __2021-02-20 06:14:13__
-
-> In the last hour I've had 60 push notifications saying "checking exposures". I've had to disable notifications for this app on my phone, so what's the point of the app if I have to disabled notifications?<br> :date: __2021-02-19 22:49:38__
-
-> Seems like a great idea, but It sends a push notification everytime it checks to see if your exposed, without any way of changing it to only alert if potentially exposed. It just went off at 4am and all it was doing was checking, which isn't cool. Also, you actually have to add your test results. I've been around several people who tested positive and the app said nothing. Maybe the app should be required for covid tests, and the results should be sent through it so the app actually works.<br> :date: __2021-02-17 10:50:49__
 
 

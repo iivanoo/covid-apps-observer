@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOE-ekANY6ytdeZObEEWLfRvkNRiamjRAGuj1HsC4GRXO-quPcXmycAHGxd4x2ufWDMgKZXqfxtWs7mxxA",
+        "userName": "Dana-Leigh Strauss",
+        "userImage": "https://play-lh.googleusercontent.com/-YSMvhzUcrDs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaWN1tp8R0KK6RUNWh1EY59cLLrw/photo.jpg",
+        "content": "Unable to use the app and therefore unable to continue currently as a volunteer.. The app fails when I click the \"future tasks\" tab. All other tabs work. The app worked on my previous Motorola G6, but does not work on my existing Motorola G6. Have been installing and uninstalling the app for the past 3 days, since I started using my new phone. Help, please. Thanks!",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-13 12:42:01",
+        "replyContent": "Sorry to hear this. The store is telling us you haven't got the app installed, If you install the app, when it crashes it would show a pop up asking u to report the issue, please tap on the \"Report\" button so our engineers can see the crash log. We suspect your location services might be off, we have video guide on: https://youtu.be/LNwYKNTmlh0",
+        "repliedAt": "2021-04-14 00:19:00"
+    },
+    {
         "reviewId": "gp:AOqpTOFyYxXKckknYQJxET3pUaGDGuDoYd64RG5RVmII3W-FLklMuy3MfOY9ao4zsC3SjF_EtoVWT4QWIYCzkw",
         "userName": "stan Willis",
         "userImage": "https://play-lh.googleusercontent.com/-vsdnubveLTw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5prLKEQheUqRD3wx6m6UtA4v67Q/photo.jpg",
@@ -9266,7 +9278,7 @@
     {
         "reviewId": "gp:AOqpTOGAeFnxMI_pcT0jyZXDiaAnGa8jJoFqDjmK3NfqnfizzfkTE2VmIcTZ-taqHK-HszF6CM7BNaSZ4LrtGw",
         "userName": "Caroline Phelan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgVZMrwpPyFrjFizl6AzETOpelAPfbbuYl5dpRivQE",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitxMOiD46cR9OkutlWAn4GJmOHyAQ2hgkmtoDVa4o",
         "content": "Would be nice to have the battery optimisation option remembered, so we're not constantly having to see it.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -11986,17 +11998,5 @@
         "at": "2016-12-07 09:36:18",
         "replyContent": "Hi there, we have tried to release another patch which hopefully should fix your first issue when it goes out. Sorry if we have been slower than usual over the Christmas/New year. Like all companies our staff deserve a break too... :)",
         "repliedAt": "2017-01-09 13:24:47"
-    },
-    {
-        "reviewId": "gp:AOqpTOE4_GpBDlPQDEQXgS5sLR_9xMH0knSVtVo0idb8pNUqT-8VcDK17-hKnatEMbacqaq_aR0eI6AptZgoaw",
-        "userName": "Helen Buss",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1pojZg6tn7A1FkyghiKzPrUernSAlU4ScAMGDUlo",
-        "content": "Think the title says it all",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "5.3",
-        "at": "2016-12-01 15:28:37",
-        "replyContent": "What tends to be the issue here? Please email us at info@goodsamapp.org",
-        "repliedAt": "2017-01-09 13:23:24"
     }
 ]

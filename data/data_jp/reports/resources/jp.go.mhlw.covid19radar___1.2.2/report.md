@@ -237,6 +237,10 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> Not fulfilling its purpose. Uninstalled.<br> :date: __2021-04-16 06:33:49__
+
+> No internet connection....<br> :date: __2021-04-14 22:58:40__
+
 > A joke of an app that you're required to download apparently. Am using it on Android and can't even register because it keeps telling me to "check my network" when I'm literally connected and am writing this review now.<br> :date: __2021-04-07 23:16:30__
 
 > I need this app to enter Japan but it says network connection failure when I try to accept the terms and conditions, my connection is fine.<br> :date: __2021-03-24 02:20:52__
@@ -252,9 +256,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > NETWORK CONNECTION ERROR !!<br> :date: __2021-03-07 11:10:41__
 
 > I couldn't go past accepting the terms and conditions of the app since it keeps giving me a network connection error but my internet works and my mobile data also works fine. The app has a bug making it unusable on Android 11, google pixel 4a, 5g phone 😨<br> :date: __2021-03-02 09:11:48__
-
-> 規約に同意して次へ進もうとすると通信エラーになり先へ進めません。<br> :date: __2021-03-02 05:12:30__
-
-> Is it just a mockup?<br> :date: __2021-02-26 05:43:29__
 
 

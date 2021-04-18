@@ -186,6 +186,8 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <img src="5_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 5 reviews"/>
 </p>
 
+> Dr McCoin was very professional and knowledgeable and it was a good experience. Only waited 2 minutes for the visit. Highly recommend<br> :date: __2021-04-14 18:35:28__
+
 > Loved it!<br> :date: __2021-04-06 15:16:52__
 
 > Very easy to use and understand<br> :date: __2021-03-16 18:54:07__
@@ -203,8 +205,6 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 > Helpful<br> :date: __2021-01-08 18:21:02__
 
 > Great telehealth service.<br> :date: __2021-01-05 01:41:13__
-
-> Works for me very good picture.. THANKS<br> :date: __2021-01-04 17:03:09__
 
 
 

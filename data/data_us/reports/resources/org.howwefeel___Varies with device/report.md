@@ -204,6 +204,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
 
+> It is basic and alliws me to provide a rough description of my health status. But does not allow for individual or personal answers. Not everyone fits into the options provided. Example. I select cough every day. But would like a personalized option of explaining that it is medication induced.the choices are a bit too constraining. Sometimes I am forced to choose one that is not accurate<br> :date: __2021-04-17 18:03:39__
+
 > I like that it makes me mindful of my mental health at least once a day.<br> :date: __2021-03-04 17:59:54__
 
 > Editing my review 2/9/2021 - app seems to work again, installed on a new phone (Galaxy S21 Ultra). Not sure what changed, but whatevs...<br> :date: __2021-02-10 14:23:44__
@@ -221,8 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Feels good to feed people. Limited responses.<br> :date: __2020-11-17 13:33:44__
 
 > Good except times when I couldn't get to the reporting page of the app. I usually just quit. It would be nice to be more user friendly.<br> :date: __2020-11-12 07:28:00__
-
-> I like that mental health and not just COVID symptoms is tracked.<br> :date: __2020-11-11 07:13:33__
 
 
 

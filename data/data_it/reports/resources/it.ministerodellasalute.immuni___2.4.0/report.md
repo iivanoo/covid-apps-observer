@@ -149,25 +149,25 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 5 reviews"/>
 </p>
 
-> Semplice, sicura, adatta a tutti. Peccato che non la usi quasi nessuno<br> :date: __2021-04-12 08:09:02__
+> Sto leggendo dello studio di un'applicazione pass per certificare che si è stati vaccinati e/o guariti dal covid: l'applicazione da sfruttare e modificare è IMMUNI! Se Immuni servisse a fare da passaporto e da tracciamento contemporaneamente avremmo risolti tanti problemi. è un'applicazione sicura, scaricatela senza timore, non c'è nessuna schedatura di massa o dati che finiscono chissà dove. Quelle cose succedono con Facebook, whatsapp, tik tok ecc.<br> :date: __2021-04-18 06:01:06__
 
-> Fiducia nel nuovo aggiornamento<br> :date: __2021-04-11 22:24:37__
+> Ottima<br> :date: __2021-04-17 21:44:18__
 
-> Scaricatela, vi prego<br> :date: __2021-04-11 20:06:35__
+> Spero di non poterne bisogno di usare l'applicazione x come mi sono e mi sto comportando<br> :date: __2021-04-17 18:42:17__
 
-> Da quando ho installato l'app immuni, ho sempre avuto fiducia che non ci fosse nessuna violazione della mia privacy. Conosco la tecnologia Bluetooth Low Energy, è so come funziona. Se davvero le persone vogliono essere libere, devono collaborare tutti. Installare l'app immuni, permette di avere la possibilità di tracciare le persone positive,e chi è venuto in contatto con loro. Ottima applicazione! ⭐⭐⭐⭐⭐<br> :date: __2021-04-11 18:03:56__
+> Buona<br> :date: __2021-04-17 09:09:32__
 
-> Direi ottimo grazie<br> :date: __2021-04-11 15:19:07__
+> E un App molto significativa e ti aiuta a guarire se rispetta eccezionale<br> :date: __2021-04-16 23:34:27__
 
-> Buona app, sicura.<br> :date: __2021-04-10 22:24:44__
+> Forse ho capito perché a molti non segnala che sono entrate in contatto con persone malate: pochi l'hanno scaricata e perché sei tu a segnalare che sei positivo, se uno non lo segnalA ad immuni nessuno lo saprà.<br> :date: __2021-04-16 16:40:48__
 
-> L'applicazione sarebbe ottima e funzionale, peccato che non c'è nessun dato, in pratica non segnala nulla perché non viene incrementata.<br> :date: __2021-04-10 10:27:00__
+> Le persone che dicono che ruba i dati.... Sono ignoranti e scemi... E penso che debbano morire proprio di Covid perché se lo meriterebbero.. é colpa loro se ora siamo in questa situazione....<br> :date: __2021-04-16 09:52:04__
 
-> Ben fatto preciso.<br> :date: __2021-04-10 05:16:44__
+> Ok<br> :date: __2021-04-16 05:58:31__
 
-> Dopo l'ultimo aggiornamento possiamo segnalare la positività in totale autonomia. Quindi lode ai creatori e al garante della privacy per averlo permesso. Credo che ora sia veramente molto utile. Non avete più scuse. Ora non perderete più tempo, e segnalerete la vostra positività immediatamente.<br> :date: __2021-04-09 22:35:45__
+> Flamurpeqini<br> :date: __2021-04-15 21:28:15__
 
-> Finalmente si può segnalare autonomamente la propria positività. Sarebbe stato utile avere questa opzione fin da subito. Meglio tardi che mai. :)<br> :date: __2021-04-09 22:30:28__
+> Mi piace app<br> :date: __2021-04-15 17:02:02__
 
 
 
@@ -176,6 +176,10 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 4 reviews"/>
 </p>
+
+> Scaricata subito come da consigli tv, i primi giorni arrivavano messaggi, poi improvvisamente silenzio totale, alla fine ho disinstallato, era inutile, una delusione.<br> :date: __2021-04-15 11:46:15__
+
+> Boh!?<br> :date: __2021-04-14 07:45:14__
 
 > Ottima app<br> :date: __2021-04-09 13:48:52__
 
@@ -193,10 +197,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Jl Y ho gli t GG un La App lo o Polo O la p Lo lo ll p gg<br> :date: __2021-03-24 09:40:26__
 
-> Non ti lascia convinto del funzionamento.<br> :date: __2021-03-23 09:11:59__
-
-> Sono stato tra i primi a scaricarla... L'ho disinstallata qualche giorno fa! Purtroppo alla guida non c'è nessuno! Sarebbe stata veramente utile. Noi Italiani siamo unici nel farci male da soli.<br> :date: __2021-03-20 22:23:45__
-
 
 
 #### 3-star reviews
@@ -204,6 +204,10 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 3 reviews"/>
 </p>
+
+> ottimo<br> :date: __2021-04-14 21:43:04__
+
+> Manca la possibilità di prenotare un vaccino tramite l'app nel caso che si riceva una notifica di esposizione<br> :date: __2021-04-14 00:32:23__
 
 > L'ho sostenuta e promossa...ma nel tempo si è rivelata inutile a causa della scarsa partecipazione.<br> :date: __2021-04-11 16:06:57__
 
@@ -221,10 +225,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Sei sempre aggiornato e questo è un bene<br> :date: __2021-03-30 17:37:02__
 
-> Sarebbe utile aggiungere se uno ha fatto il vaccino .<br> :date: __2021-03-29 07:13:57__
-
-> 3 stelle è la media tra il 5 dell'idea degli sviluppatori e l'1 dell'effettiva efficacia. Infermiere, 9 degli ultimi 13 mesi trascorsi in reparti Covid, a costante contatto con pazienti positivi, col telefono sempre acceso e Bluetooth attivo. Mai una notifica. L'unica cosa a cui non hanno pensato gli sviluppatori è che in Italia queste cose non funzionano. E pensare che l'avevo tanto pubblicizzata anch'io.<br> :date: __2021-03-28 05:28:30__
-
 
 
 #### 2-star reviews
@@ -232,6 +232,12 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 2 reviews"/>
 </p>
+
+> Ho sostenuto la necessità di installare l'app ritenendola un buon mezzo aggiuntivo per aiutarci ad arginare la pandemia, l'ho installata subito e tenuta tutti questi mesi ma non mi ha mai dato l'impressione di funzionare a dovere. Non metto in dubbio la qualità e le potenzialità del software, ma con questi "numeri" non ha più senso tenerla. D'altronde non se ne parla nemmeno più.<br> :date: __2021-04-15 08:16:12__
+
+> A me sembra inutile<br> :date: __2021-04-13 13:21:03__
+
+> Si potrebbe usare questa app. con poche modifiche, anche come certificato di avvenuta vaccinazione. Il nome è appropriato!<br> :date: __2021-04-12 20:04:05__
 
 > Mai avvisato da un contatto. Quasi inutile<br> :date: __2021-04-11 11:02:15__
 
@@ -247,12 +253,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Sono giorni che non riesco a segnaslare il codice di pisitività<br> :date: __2021-04-08 03:28:23__
 
-> Fallimento imbarazzante, e io che ho litigato con un sacco di persone per difenderla a spada tratta ripetendo quanto fosse importante mentre gli altri dicevano il contrario<br> :date: __2021-04-07 21:07:39__
-
-> Tanti buoni propositi. L'app è stata pensata da dio, imitare il modello coreano digitalizzando la pandemia era uno dei migliori metodi che potevano esserci. Purtroppo, nessuno degli utenti la utilizza e/o utilizza come dovrebbe e poi, doveva essere obbligatoria per quanto mi riguarda, tutto ciò che è facoltativo viene boicottato. Veramente un gran peccato!<br> :date: __2021-04-07 01:44:04__
-
-> Visto che siamo in pochi ad utilizzarla la posso chiudere? Serve ancora?<br> :date: __2021-04-06 23:16:37__
-
 
 
 #### 1-star reviews
@@ -261,24 +261,24 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 1 reviews"/>
 </p>
 
-> Mai ricevuta una notifica. App disastrosa<br> :date: __2021-04-12 11:41:11__
+> L'app sarebbe utile.. Ma le persone sono troppo ignoranti per riuscire a rispettare distanze. E più si va avanti più le persone pensano di essere immuni. NOME AZZECCATO!<br> :date: __2021-04-18 01:08:41__
 
-> Non serve a molto<br> :date: __2021-04-12 07:58:55__
+> Non capisco a cosa serva.<br> :date: __2021-04-17 23:31:03__
 
-> Inutile e dannosa<br> :date: __2021-04-12 04:17:46__
+> Inutile Mi ha segnalato un possibile contatto sospetto avvenuto due settimane prima. Avrei fatto in tempo a infettare tutti, ammalarmi e guarire prima della notifica. All'inizio ero un sostenitore convinto, ma così non serve a niente.<br> :date: __2021-04-17 21:54:08__
 
-> Per me non funziona !<br> :date: __2021-04-12 01:37:15__
+> Non rileva niente.<br> :date: __2021-04-17 20:40:11__
 
-> Penosa rispetto per la privasi nullo<br> :date: __2021-04-12 00:21:28__
+> Purtroppo inutile. Istallata e attiva da quando esiste ma al momento del bisogno non ha segnalato niente a nessuno.<br> :date: __2021-04-17 18:29:50__
 
-> Palesemente inutile<br> :date: __2021-04-12 00:06:47__
+> Ho scaricato l'app il giorno stesso in cui é uscita. Dopo un anno posso dire con convinzione che sono stati soldi pubblici buttati... Tanto per cambiare! Sconsolata! 😔😩 Ps in ogni caso continuo a tenerla attiva, malgrado il consumo della batteria.<br> :date: __2021-04-17 15:14:13__
 
-> Qui non ci rendiamo conto della situa........ No comment<br> :date: __2021-04-11 20:11:23__
+> Servizio pessimo. I<br> :date: __2021-04-17 14:47:58__
 
-> Da quando l'ho istallata ad oggi è passato un anno, sono andato ingiro per gli ospedali e sicuramente ho incontrata tantissima gente, per fortuna non mi è mai giunta alcuna segnalazione di aver incontrato gente positiva al covid, ho funziona troppo bene ho non funziona proprio.<br> :date: __2021-04-11 18:37:49__
+> Non serve a nulla<br> :date: __2021-04-17 13:13:07__
 
-> Non funziona<br> :date: __2021-04-11 17:55:52__
+> 🤣😂🤣😂🤣😂🤣😂🤣😂😂<br> :date: __2021-04-17 12:21:50__
 
-> A mio modesto parere, Immuni non funziona, da quando l'ho installato mai e ripeto MAI mi è pervenuta alcuna segnalazione .<br> :date: __2021-04-11 16:29:02__
+> Ho da quasi un anno questa app ma non ho mai ricevuto nessun tipo di notifica... Inoltre, il mese scorso sono stata positiva al Covid e non sono mai stata contatta per essere segnalata, anzi ho chiamato io e mi disse che avrebbe inviato un messaggio per sbloccare la possibilità di segnalarsi... Messaggio che sto ancora aspettando... Intanto sono guarita.<br> :date: __2021-04-17 11:37:42__
 
 

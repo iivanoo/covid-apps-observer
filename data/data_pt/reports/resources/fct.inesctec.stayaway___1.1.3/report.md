@@ -137,6 +137,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Super<br> :date: __2021-04-17 18:49:10__
+
 > Bom<br> :date: __2021-04-08 21:11:56__
 
 > Consulto diariamente sinto-me mais seguro<br> :date: __2021-04-07 12:03:47__
@@ -146,8 +148,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Good<br> :date: __2021-04-01 02:53:41__
 
 > Penso que é uma app útil e de ajuda a nos protegermos de situações de perigo de contágio<br> :date: __2021-03-28 23:04:03__
-
-> De vez em quando aparece uma notificação, mas.... em inglês. Já desinstalada e instalada e continua. Vejam isso. A app está marcada com a opção PT.<br> :date: __2021-03-28 20:22:33__
 
 > Util<br> :date: __2021-03-28 13:21:16__
 
@@ -164,6 +164,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
+
+> Senti que foi realizado muito rápido.Ficaria instalado?Vi verificar<br> :date: __2021-04-13 01:20:55__
 
 > Um App de elevada qualidade e de fácil utilização. A única informação que poderá servir os utilizadores a protegerem-se da Covid-19 em termos de propagação. Seja Responsável! Colabore com as entidades públicas.<br> :date: __2021-04-10 22:36:04__
 
@@ -183,8 +185,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > A app é boa em geral, mas não excelente. Só não entendo como é que têm gente BURRA a reclamar de ter de usar a localização e o Bluetooth para a app funcionar. É preciso fazer um desenho a explicar que o telemóvel n advinha se estiveram perto de alguém infectado. Ignorantes.<br> :date: __2021-02-04 03:00:15__
 
-> Instalei agora ainda não tenho opinião. Obrigado.<br> :date: __2021-01-28 15:47:35__
-
 
 
 #### 3-star reviews
@@ -192,6 +192,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
+
+> Nao tenho nada a dizer<br> :date: __2021-04-15 12:08:27__
+
+> A app não esta a funcionar correctamente podem ver o que se passa<br> :date: __2021-04-13 13:11:29__
 
 > Dou 3 estrelas pelo esforço, porque estou decepcionada.A app apresentq mtos bugs, é necessário estar-se on-line E com o bluetooth ligado, e quem tem covid tem de informar (claro que é necessário informar, mas à pessoas que não o fazem). Não vejo a questão do bluetooth como um problema, já o ter de se estar sempre on-line é um problema.<br> :date: __2021-04-05 04:31:45__
 
@@ -209,10 +213,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Mais ou menos<br> :date: __2021-02-07 20:35:21__
 
-> Acho mal k a APP tenha k ter sempre NET para atualizar a APP.<br> :date: __2021-01-27 16:46:27__
-
-> Misses European countries app integration like the Spanish app which has a integration between each other. How can I monitor my app if I study abroad? There should be just one EU app for all<br> :date: __2021-01-17 14:22:59__
-
 
 
 #### 2-star reviews
@@ -220,8 +220,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
-
-> Pode funcionar, mas não consigo pedir o código ao médico de família. Ficamos igual. Os médicos não gostam da APP? Devem quer viagens ao Brasil.<br> :date: __2021-04-09 17:06:05__
 
 > Inútil<br> :date: __2021-04-06 13:39:53__
 
@@ -241,6 +239,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Muito ruim<br> :date: __2021-02-08 21:29:30__
 
+> Nada de especial!<br> :date: __2021-02-07 15:39:19__
+
 
 
 #### 1-star reviews
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Pode funcionar, mas não consigo pedir o código ao médico de família. Ficamos igual. Os médicos não gostam da APP? Devem quer viagens ao Brasil. Qual é o número para pedir o código por SMS, na altura não havia essa opção?<br> :date: __2021-04-15 11:41:52__
+
+> O facto de não ser uma app obrigatoria e haver uma minuria de utlizadores, faz com que a mesma não cumpra o seu objectivo. Tive alguns contactos de risco e nem 1 nidificação gerou.. Por isso ao fim de 6 meses de utilização chego a conclusão que só serve para ocupar espaço nos nossos dispositivos... Reeposta; O Problemas Está mesmo ai as pessoas não poem o codigo ou nao uasam e e todos os cobtactos que tive foram no trabalho e em cercade 16 pessoas infetadas nem um alerta...<br> :date: __2021-04-15 10:56:55__
+
+> Inútil. Ninguém registra o código que lhe é entregue. Quando é entregue. Para esquecer<br> :date: __2021-04-15 01:00:37__
+
+> Odeio só gasta bateria e nem detecta nadaaaaaa<br> :date: __2021-04-14 18:47:44__
+
+> Não vale a pena instalar, foi uma aposta para saber se tivemos em contacto com alguém, só que não acredito que o meu telefone seja o único que não consegue identificar... tenho imensa pena mas não instalem esta aplicação...<br> :date: __2021-04-14 16:33:10__
+
+> Simplesmente não funciona, estive com familiares que tinham a aplicação e apanharam o covid, a app nem sinal de vida dava avisar que poderia estar próximo de um infectado. E eles estavam sinalizados pelo sistema nacional de saúde. Por isso, desinstalei não funciona. A minha nota é 0<br> :date: __2021-04-14 10:20:38__
+
+> Vale zero e tem zero de utilidade.<br> :date: __2021-04-13 14:04:29__
+
+> Necessário wifi e bluetooth?!Foi uma boa ideia mas poderíamos usar offline também<br> :date: __2021-04-13 13:12:56__
+
+> Uma APP paga pelos contribuintes portugueses uns passam fome outros perderam o emprego outros perderam as casas enquanto o senhor primeiro ministro gasta o dinheiro dos portugueses em coisas que não prestam para nada se todos cumprissem o seu dever Portugal não tinha casos de coronoviros só fecham os aeroportos quando as calças começam apertar tenho vergonha de ser português ,se não fossem os imigrantes que vem dos países que mais coronoviros tem por não serem responsáveis Portugal não tinha cas<br> :date: __2021-04-12 22:52:38__
+
 > Olá<br> :date: __2021-04-12 13:45:29__
-
-> Sou o indivíduo mais sortudo! Nunca me aproximei de ninguém de risco!!!...notificações 0!!!!<br> :date: __2021-04-08 15:42:47__
-
-> Não funciona<br> :date: __2021-04-06 15:40:14__
-
-> Nem funciona como deve ser. Além do mais. Desnecessária<br> :date: __2021-04-06 03:45:59__
-
-> O facto de não ser uma app obrigatoria e haver uma minuria de utlizadores, faz com que a mesma não cumpra o seu objectivo. Tive alguns contactos de risco e nem 1 nidificação gerou.. Por isso ao fim de 6 meses de utilização chego a conclusão que só serve para ocupar espaço nos nossos dispositivos...<br> :date: __2021-04-05 19:23:49__
-
-> E é assim que se derrete dinheiro dos contribuintes. Falta de planeamento como em quase tudo. Confiar nos velhos do restelho do costume para facultar os códigos foi o erro.<br> :date: __2021-04-04 23:50:10__
-
-> A intenção é boa, mas na prática não funciona. É suposto as pessoas infectadas ficarem em quarentena e não andarem na rua a passear e a alarmar as pessoas que conseguem usar/instalar a APP (pouca gente). Felizmente ainda não estive infectado e estou há um ano em teletrabalho. Acabei por desinstalar por não me ser útil.<br> :date: __2021-04-04 16:24:33__
-
-> Aplicação inútil, porquê ninguém regista os códigos dos testes positivos.<br> :date: __2021-04-04 10:35:34__
-
-> Necessita de permissões a mais<br> :date: __2021-04-03 18:42:43__
-
-> Simplesmente quando são poucos a usar nada de útil tem....<br> :date: __2021-04-03 06:12:56__
 
 

@@ -141,6 +141,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Ich habe keine Probleme mit der App. Ich nutze eine WearOS SmartWatch über Google Fit. Über die Menge der gespendeten Daten wurden aus meiner Sicht interessante Ergebnisse erzielt. S. dazu den in der App verlinkten Blog.<br> :date: __2021-04-15 13:07:04__
+
 > Funktioniert bestens.<br> :date: __2021-03-26 12:51:48__
 
 > Sehr großartige App sehr gut weiter verbessern und entwickeln vielen Dank. Könnt ihr bitte antworten vielen Dank.<br> :date: __2021-03-10 21:40:03__
@@ -158,8 +160,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Vorann: Google Fit syncronisierung funktioniert Mittlerweile ohne Probleme! Sehr gute App! Genauso sowas brauchen wir. Innovative Forschung über digitale Medien! Bitte alle mitmachen und helfen!<br> :date: __2021-02-12 20:52:13__
 
 > Macht was es soll<br> :date: __2021-02-04 02:09:57__
-
-> Die App vor 3 Wochen installiert, funktioniert bis jetzt ohne Probleme mit der Fitbit Charge 4. Nun hoffe ich das diese App ihren Zweck erfüllt.<br> :date: __2021-02-01 13:35:36__
 
 
 
@@ -253,11 +253,11 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Schwach - ganz schwach Wenn es möglich wäre würde ich sogar den einen Stern streichen. Wozu schreibt man hier was? Nach einem Jahr - Glückwunsch an mich für 365 Tage (unnütze?) Datenspende - ist meine Uhr Huawei Watch GT2 immer noch nicht dabei. Nur andere komische Dinger. Mann, Mann, Mann Leider nicht möglich Huawei Watch GT2.... Rest gelöscht<br> :date: __2021-04-14 09:54:04__
+
 > Leider kann ich das nicht mehr unterstützen und muss die App entfernen, da die Daten des RKI meiner Meinung nach nur noch geschätzt werden und keine Realität darstellen.<br> :date: __2021-04-05 16:15:31__
 
 > Geht so. Mi Fit wird nicht unterstützt. So auch nicht Notify for Mi oder Sleep as Android.<br> :date: __2021-04-02 07:09:33__
-
-> Leider funktioniert das Verknüpfen mit dem Amazfit Zepp Konto nicht obwohl auswählbar. Springt nach der Authorisierung einfach eine Seite zurück. Bitte beheben. Dann spende ich gern meine Daten.<br> :date: __2021-03-26 19:22:19__
 
 > Überhaupt nicht selbsterklärend.<br> :date: __2021-03-20 15:25:22__
 

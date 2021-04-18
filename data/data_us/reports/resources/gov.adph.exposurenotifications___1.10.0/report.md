@@ -151,6 +151,12 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Great to have<br> :date: __2021-04-17 18:11:47__
+
+> 🤳? having a problem'ant🤳? having a problem'ant🤳? having a problem'ant<br> :date: __2021-04-16 18:57:46__
+
+> Works great. I like how it does not require my location but rather issues Bluetooth.<br> :date: __2021-04-13 16:06:11__
+
 > 🌨️🏌️🐾🤫<br> :date: __2021-04-02 16:15:27__
 
 > Great App<br> :date: __2021-03-26 23:19:44__
@@ -164,12 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > If you're struggling with the app not being active, make sure in Android settings that it isn't being put to sleep. Android puts apps that you don't open often into a suspended state to save battery usage. You need to disable that for this app.<br> :date: __2021-03-08 06:47:29__
 
 > Great<br> :date: __2021-03-03 05:13:55__
-
-> Very interesting<br> :date: __2021-02-11 20:09:14__
-
-> Edit from 1 to 5 stars: Developers replied to my complaint echoing many other's issues since November and the update is running smoothly so far, I really want this to work well for everyone. Previous review: Reminds me to turn BT and location without fail so I always activate while in public but Samsung Android app says last check was Nov 21, 2020 no matter what....sooo honestly have no idea if it's been working correctly or not.<br> :date: __2021-02-08 23:57:33__
-
-> I assume it's working well, I haven't been sick and it hasn't dinged to let me know if any exposure. So no news is good news.<br> :date: __2021-02-08 22:19:03__
 
 
 
@@ -207,6 +207,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> This application worked fine however, I found it to be very intrusive. It requires Bluetooth to function. I use Bluetooth to remotely manage my computer, every time the app needed to take a reading I would lose my connection with my computer and then have to physically establish connection again between phone and computer.<br> :date: __2021-04-16 18:37:30__
+
 > I'm giving it a three stars on this particular phone because it is going off like crazy and I'm not even leaving the house I here by myself & I haven't left the house in weeks. It's just eating my battery up going off constantly like... there it goes again... It's going off about every 30 seconds If it works or not, like I said, I usually stay home. But I love the idea & I don't understand people not using it. Everybody's got to do their part and then some.<br> :date: __2021-04-01 17:48:23__
 
 > Good<br> :date: __2021-03-23 04:15:11__
@@ -224,8 +226,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Why hasn't it updated since December 13th!?<br> :date: __2020-12-19 00:11:33__
 
 > The app started working wonderfully. But at the end of October, it stopped. No new upgrades and no notifications. I will try and download the app again.<br> :date: __2020-12-06 13:31:12__
-
-> Great if it would work. I tested positive and want to alert others by using the app. When it asks me to verify the code sent to my phone, I can't because it never sends the code. I've tried over and over.<br> :date: __2020-12-01 18:35:17__
 
 
 
@@ -259,6 +259,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> I tested positive for Covid-19 on February 12, 2021, too bad this stupid app will only allow users to report they tested positive as far back as March 17, 2021! How useless is that! Covid can & DOES stick around in SOME people (such as myself!) for longer than one month which is as far back as this app's devs think anyone using it could've POSSIBLY tested positive - because everyone KNOWS Covid has only been around for the past month, right devs?! If that is so screwed then whole app's FUBARED!!<br> :date: __2021-04-15 04:56:38__
+
+> Stop spamming me about the Asian flu. I don't want your app so stop telling me to download this<br> :date: __2021-04-13 19:18:38__
+
 > OMG worst app, sucked my battery life just after turning on location. It disconnected my wifi after turning on location as well. Uninstalled. Worthless.<br> :date: __2021-04-04 21:04:41__
 
 > Sucks<br> :date: __2021-04-01 03:14:17__
@@ -274,9 +278,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Doesn't work just opens to an arrow and sits there.<br> :date: __2021-03-02 04:40:04__
 
 > Absolutely cringe<br> :date: __2021-02-25 19:52:40__
-
-> Wasnt for my state<br> :date: __2021-02-23 07:32:27__
-
-> Funny how it stopped updating right after the election! Weird huh? I'm not for either side I just find it very very strange that covid is not as big a deal now.<br> :date: __2021-02-18 01:59:41__
 
 

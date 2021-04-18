@@ -131,6 +131,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> Great app<br> :date: __2021-04-14 04:23:25__
+
 > I for one think it's a great idea; yes, it is a bit of a battery drain, but, c'mon people... Can we get our priorities in line please?<br> :date: __2021-04-09 14:16:14__
 
 > Now this app is SO smart!<br> :date: __2021-03-21 19:16:45__
@@ -148,8 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > This is What A Lot of Us Need and i Say Thinks,, For This =May-(GOD){Blessing)-You and your Compomey.<br> :date: __2021-03-03 08:36:18__
 
 > Excellant App!! Works beautifully. Accurate. On point.<br> :date: __2021-02-25 05:09:07__
-
-> So you know everybody status!!..??<br> :date: __2021-02-25 01:34:37__
 
 
 

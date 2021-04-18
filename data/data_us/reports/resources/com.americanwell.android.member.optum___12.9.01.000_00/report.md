@@ -178,6 +178,16 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> I wish we could of done this sooner.<br> :date: __2021-04-16 20:05:51__
+
+> Great program, changes how I do my medical visits especially when I can't get in to my regular DR<br> :date: __2021-04-15 01:32:24__
+
+> Easy fast and very professional<br> :date: __2021-04-14 02:19:01__
+
+> Very good experience<br> :date: __2021-04-14 01:21:41__
+
+> Everything was very good except that the video cut out 3 or 4 times in about 8 minutes! This must be remedied! Otherwise, it's an excellent option if a clinic visit isn't at that time. *Update: Today's appointment via NowClinic was perfect. App did not cut out at all. Easy interface, with excellent quality video and crystal clear audio. Thanks, devs, for a job well done!👍😁<br> :date: __2021-04-13 22:25:56__
+
 > It was quick it was painless the nurse practitioner knew exactly what was wrong with me, she knew that my pharmacy was going to be closed and she knew which pharmacy would be open 24 hours all good great visit. The nurse practitioner who saw me was very knowledgeable and very kind and caring she had a sense of humor well-rounded person it was a pleasure doing the NowClinic.<br> :date: __2021-04-12 03:02:51__
 
 > Love not leaving my house for my refills<br> :date: __2021-04-10 17:23:49__
@@ -188,16 +198,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > Love love love<br> :date: __2021-04-09 17:14:51__
 
-> Fast and easy!!!!<br> :date: __2021-04-08 05:04:13__
-
-> Convenient & fast but also helpful. This will probably be my favorite route for getting medical care when possible from now on.<br> :date: __2021-04-08 01:02:50__
-
-> Easy and great experiences with health-care providers.<br> :date: __2021-04-07 22:23:53__
-
-> Easy to use. Very uncomfortable going places until I am fully vaccinated.<br> :date: __2021-04-06 16:12:01__
-
-> Absolutely wonderful experience ... Thank you so much!<br> :date: __2021-04-06 08:41:15__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Simple to use.<br> :date: __2021-04-17 03:19:44__
 
 > Sound is a little staticy<br> :date: __2021-03-25 19:21:19__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Good<br> :date: __2020-11-25 17:29:06__
 
 > great<br> :date: __2020-10-27 01:58:53__
-
-> Very easy to use but sound was breaking up toward the end of the visit.<br> :date: __2020-10-16 01:17:57__
 
 
 

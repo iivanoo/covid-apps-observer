@@ -187,6 +187,10 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> I think this service is a wonderful service because it saves us time and gives peace if mind about what's going on PLEASE use if needed<br> :date: __2021-04-18 01:53:39__
+
+> Great app! Took me only 30 min from downloading to see a doctor!<br> :date: __2021-04-13 21:29:22__
+
 > Excellent!<br> :date: __2021-04-04 01:21:13__
 
 > Awesome experience thanks Maureen<br> :date: __2021-04-03 16:52:03__
@@ -202,10 +206,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Easy, convenient, pleasant, efficient<br> :date: __2021-02-14 14:34:54__
 
 > Very dope to use and helps save time<br> :date: __2021-02-12 13:10:47__
-
-> Great<br> :date: __2021-01-28 18:34:23__
-
-> Just what I needed when I needed it. Thank God for technology!<br> :date: __2021-01-26 16:31:42__
 
 
 

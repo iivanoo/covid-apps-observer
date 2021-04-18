@@ -174,6 +174,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
 
+> WATTS121353<br> :date: __2021-04-13 22:44:16__
+
 > I would like to see data where my phone randomly had contact with another device?<br> :date: __2021-03-31 02:03:08__
 
 > bi.d.e.n<br> :date: __2021-02-22 02:00:15__
@@ -191,8 +193,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > I like that you can take a moment to store daily check ups. SJZ<br> :date: __2020-12-11 19:49:58__
 
 > Informative<br> :date: __2020-11-30 11:57:38__
-
-> This is a very informative app.<br> :date: __2020-11-18 01:56:53__
 
 
 
@@ -230,6 +230,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
 
+> d9.b 4016 BARNES BLUFF DR SOUTHPORT, North Carolin .2f. f. b vb o00p0.8p .ro g g oobf.h d bbn o. nojv0. tm.o 309 3nbn. 3b. v. the. h. honco ho n b 3ln bvb of8r 332. ve w. b. g. .. 0 M o mponnnnLLP 8mmmb.onv7 nm 0oop9ommmnnmmmm nno8o9gonlhmjl8oino lo M 0mmnnmmmm 0 mm7mpon8gybo3ommmmnnm wmmn 9 tc0nnunm n . 97. y. no. n9n nny.w.yu..... . . NH n..ehijhpl8g8 omn7. .c.. 0v9🥜. M o09 then b . w9 I n. n bvb nm 9. 😍mon⚠️↖️↖️🚫🚮🇧🇯 m7hnmg<br> :date: __2021-04-12 20:37:18__
+
 > Decent app, bad support. Tested positive with a quick test in December, got a call from a contact tracer about a week later. Answered questions, then asked, "Do you have a code number for me to put into the app?" Lady didn't know about code numbers or the app. Colleague got COVID, contact tracer called. Again, no question about app or code numbers. No point to the app if code numbers aren't delivered. Otherwise, it's just propaganda. 2 stars.<br> :date: __2021-03-23 16:17:13__
 
 > Keeps telling me it can't track exposure always even tho i enabled location. Useless.<br> :date: __2021-03-21 23:24:05__
@@ -247,8 +249,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Deaths per day graph is corrupted for a while now. This needs to be fixed.<br> :date: __2021-01-24 15:37:29__
 
 > way too buggy<br> :date: __2021-01-07 20:09:36__
-
-> I work at a busy congenial store, and have had the app installed for a few months now. I find it really improbable no one infected with the app has walked into the store.<br> :date: __2020-11-17 17:23:10__
 
 
 

@@ -254,6 +254,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> Indecente. SMS che non arriva mai. Poi riesci a fartelo spedire ma sorpresa l'attivazione non è riuscita. Una delle solite prese in giro..<br> :date: __2021-04-17 16:30:44__
+
 > Pessima appena istallata mi si é scaricata la batteria<br> :date: __2021-04-12 00:25:33__
 
 > molto negativa<br> :date: __2021-04-01 13:42:11__
@@ -271,7 +273,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Pessima, ne io ne la mia Compagna riusciamo ad aprirla.<br> :date: __2021-03-17 00:25:09__
 
 > L'app dopo l'autenticazione non funziona<br> :date: __2021-03-16 22:55:26__
-
-> Non funziona. Come già segnalato da molti altri - aspiranti! - utenti, dopo aver ricevuto l'SMS per la conferma dei dati, continua a dire che bisogna cliccare sul link ricevuto ed effettuare un nuovo accesso malgrado sia già stato fatto. Ma non c'è nessuno che legge le recensioni e lavora per risolvere questo problema? Vedo che è stato riportato già da mesi, ma le recensioni non hanno avuto nessuna risposta.<br> :date: __2021-03-16 17:24:18__
 
 

@@ -124,6 +124,10 @@ The UT Exposure Notifications app has been installed by more than **50000** time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Needed in times like these<br> :date: __2021-04-16 08:50:43__
+
+> Ok job<br> :date: __2021-04-15 12:39:51__
+
 > It an OK app.<br> :date: __2021-04-02 04:37:54__
 
 > Easy to use and gives piece of mind<br> :date: __2021-03-06 02:21:08__
@@ -139,8 +143,6 @@ The UT Exposure Notifications app has been installed by more than **50000** time
 > Let's hope enough people install this.<br> :date: __2021-02-19 09:27:52__
 
 > I'm excited for an app to notify about exposure, if we had this 6-9 months ago we could have seriously flattened the curve and saved lots of lives. This app will need pretty good installation rate to be effective. It looks like 5k installations today so far.(I think this is the first day), hopefully the adoption continues. We needed this 6-9 months ago, before the vaccine was available to slow the spread. Well here's hoping lots of people install it!<br> :date: __2021-02-17 23:44:40__
-
-> Easy install.<br> :date: __2021-02-17 21:08:07__
 
 
 
@@ -188,6 +190,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Haha government go pssssshhht<br> :date: __2021-04-13 21:13:48__
+
 > It takes up space on my phone and uses battery and data resources. At this point in time, it is just another drain on resources.<br> :date: __2021-04-11 21:14:31__
 
 > another part of this state's abysmal response to the pandemic.<br> :date: __2021-04-06 21:11:32__
@@ -205,7 +209,5 @@ No recent reviews available with 2 stars.
 > Grose invasion of privacy<br> :date: __2021-02-26 16:18:34__
 
 > No one is even a tiny bit concerned as to how this app works......really?<br> :date: __2021-02-26 04:18:09__
-
-> Violation of HIPPA. My medical history is none of your business. You thought your phone was tracking you before? Wear a mask and mind your own.<br> :date: __2021-02-25 17:19:14__
 
 

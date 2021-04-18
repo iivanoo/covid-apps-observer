@@ -146,6 +146,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
 
+> Buena<br> :date: __2021-04-13 17:49:11__
+
 > Tengo un dispositivo Android sin play store y no funciona esta App. Tengo un Huawei, si pueden resolver, me gustaría seguir usándola<br> :date: __2020-10-25 20:40:51__
 
 > No está claro si es radar covid Euskadi edition o solo contactos estrechos, la verdad, no estaría mal que fuera la primera, pero tiene pinta de ser la segunda, vendría bien un radar covid en euskadi, y necesita más publicidad<br> :date: __2020-09-16 00:15:11__
@@ -163,8 +165,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Esta Aplicación está bien que informa del coronas virus<br> :date: __2020-07-25 21:40:43__
 
 > Me ha aparecido un mensaje que la sesión ha expirado, que desinstale y vuelva a instalar. Y sigue apareciendo ese mensaje que imposibilita un uso correcto. Se rogaría un arreglo o, al menos, una explicación en la ayuda de la app. Nota añadida: se ha arreglado sin que yo interviniera.<br> :date: __2020-07-12 00:54:07__
-
-> En la última actualización salta un aviso que dice...la sesión ha expirado desinstala la app y vuelve a instalarla...ya lo he hecho y salta el mismo aviso!! Además ha desaparecido la imagen de perfil.<br> :date: __2020-06-29 20:20:45__
 
 
 
@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> Imposible cambiar los datos, si cambias de ciudad no deja actualizar y siempre hace la valoracion con el viejo<br> :date: __2021-04-13 13:50:55__
+
 > Mala<br> :date: __2021-02-28 21:50:40__
 
 > No vale. No funciona para lo que fué creada. Desinstalo que al menos me ahorro batería del móvil.<br> :date: __2021-02-09 15:42:48__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > No deja añadir contactos, me dice que hay una solicitud pendiente pero no hay manera de solucionarlo<br> :date: __2020-10-21 08:06:14__
 
 > Me la acabo de desinstalar, porque yo creo que no funciona, no da noticias relevantes la última 19 de septiembre, donde está la información??? No sube los contactos, lo siento pero no me sirve<br> :date: __2020-10-17 15:51:24__
-
-> Poco intuitiva y dificil de usar Despues de hacer los circulos y dar mi estado de salud no he recibido ninguna notificacion. No se si siguen mis contactos dentro de los circulos..... tampoco tiene mucha difusión, me parece una herramienta muy util pero deberia ser mas facil de usar.<br> :date: __2020-10-03 14:38:34__
 
 

@@ -175,7 +175,9 @@ No recent reviews available with 2 stars.
 #### 1-star reviews
 
 <p align="center">
-
+<img src="1_star_reviews_wordcloud.png" alt="de.charite.coronaboxx 1 reviews"/>
 </p>
 
-No recent reviews available with 1 stars.
+> Man sollte dazuschreiben, dass man die App nur nutzen kann, wenn man dazu eingeladen wurde. Hätte gerne meine Symptome dokumentiert, geht leider nicht.<br> :date: __2021-04-17 23:47:08__
+
+

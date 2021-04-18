@@ -148,6 +148,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Tolle Idee<br> :date: __2021-04-13 12:36:45__
+
+> Tolle App<br> :date: __2021-04-13 12:32:23__
+
 > Bin selbst betroffen und mußte auch am 11.3.21 Ins Krankenhaus.Durch Meinen Hausarzt einge- wiesen.Die Simtome waren Erbrechen mit Durchfall u. Schwindel Scchweißausbrū- chen sowie Fieber 38 grad! u.nach posetiv Test.Gleich v.Der Rettung ins KH.Spittal/dr.Nach 11 Tagen aufenthalt Nachhause:Mit aller Einhältungs regen Keine Kontakten nach Aussen sowie Sehr Stiriel gehalten.Mõchte Keinen Rückfall erleben! Habe troz meinen Vor Erkrankungen genug mitgemacht.Durch die Medizin!Gott seiß Gedankt!!!!!!<br> :date: __2021-04-10 11:04:41__
 
 > Gute Idee, trotz aller Unkenrufe akzeptabel umgesetzt, und wenn sie ein großer Teil der Bevölkerung nutzen würde (freiwillig ohne Frage!), täte sie echt helfen um Covid zu bekämpfen. Aber nein, anscheinend bevorzugt der gelernte Österreicher Lockdowns... Und jetzt (Version 2.1.1.1227-QA_263) sieht man direkt auf der Startseite der App, wie viele Kontaktabgleiche sie gemacht hat und wann der letzte war! Sehr gut!<br> :date: __2021-04-10 07:02:15__
@@ -163,10 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Sinnvoll<br> :date: __2021-03-07 10:50:13__
 
 > Die App ist gut, macht, was sie soll. Das Problem der App ist, dass sie auf jede Befindlichkeit und Bedenken von Nicht-Usern Rücksicht nimmt und deshalb nur sehr eingeschränkt leistet, was technisch wie DSVO-rechtlich durchaus möglich wäre. Corona ist aber kein Problem, dass sich mit Meinungsvielfalt, Einwandbehandlung und Demokratie in den Griff kriegen lãsst.<br> :date: __2021-03-03 11:13:01__
-
-> Leider haben nicht alle diesen App<br> :date: __2021-03-02 23:47:28__
-
-> I find das wichtig.<br> :date: __2021-02-28 07:34:41__
 
 
 
@@ -260,6 +260,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Ein Fortschritt! Es funktioniert zwar immer noch nicht (siehe Standort), aber ich erhalte jetzt einen Hinweis darauf, dass es nicht funktioniert! Gratulation! App verlangt Zugriff auf Standort, den ich aber aus grundsätzlichen Überlegungen nahezu immer deaktiviert habe. Fazit: Weiterhin unbrauchbar! 26.6.20 2 Handys liegen 30 Minuten nebeneinander, automatischer Handshake ist aktiviert, Bluetooth ist ein, aber sie erkennen sich nicht, auch nicht bei manuellen Start.<br> :date: __2021-04-16 15:19:38__
+
+> Nervig<br> :date: __2021-04-16 10:44:03__
+
 > 218 MB mobile Hintergrunddaten in 8 Tagen.<br> :date: __2021-04-09 11:35:36__
 
 > Die App hatte 2,9 GB internen Speicher "in Beschlag" von 64 GB. --> gelöscht<br> :date: __2021-04-05 06:46:36__
@@ -275,9 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Update: eindeutige enge K1 bekommt Info, dass "kein relevantes Ansteckungsrisiko" besteht. Wollte der App eine zweite Chance geben, aber alle 30 Minuten die selbe Fehlinformation - deinstalliert. Schade... Alte Rezension: Gleich der erste Handshake funktioniert nicht. Wozu wird das Mikrofon benötigt? Idee gut und unterstützenswert, Verbesserung als OpenSource-Projekt wäre sinnvoll! Vorerst wieder deinstalliert...<br> :date: __2021-03-29 08:34:18__
 
 > bringt ständig irgendwelche Meldungen und das immer auf Englisch... ich dachte es ist eine österreichische App? Brauch ich jetzt dazu ein Übersetzungsprogramm oder was?<br> :date: __2021-03-20 20:19:10__
-
-> Die App verbraucht nur Ressourcen. Diese App hat jedes Vertrauen verloren. Solange ich keine Informationen darüber erhalte, ob sie überhaupt funktioniert hat sie bei mir keine Chance auf dem Handy. Eine Rückmeldung von der App über die anonymen aber erfassten Kontakte wäre nicht schlecht. Ich weiß einfach nicht ob die App wirklich funktioniert. Also habe ich sie wieder gelöscht. Die App ist Ressourcen- und Geldverschwendung.<br> :date: __2021-03-20 18:52:24__
-
-> Die App ist aus vermeintlichen Datenschutzgründen bis zur Nutzlosigkeit kastriert .. Den "Self-Check" finden wohl nur Leute hilfreich, denen zuvor das Hirn amputiert wurde .. für alle anderen denkbegabten Menschen eher eine Zeitverschwendung ..<br> :date: __2021-03-17 18:36:45__
 
 

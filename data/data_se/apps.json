@@ -4,14 +4,14 @@
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "4.1.0",
-        "latest_crawl": 1618253776
+        "latest_crawl": 1618735609
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1618253784
+        "latest_crawl": 1618735615
     },
     {
         "id": "com.visibagroup.visibacare.regionostergotland",
@@ -25,6 +25,6 @@
         "store_country": "se",
         "store_lang": "se",
         "latest_crawled_version": "3.26",
-        "latest_crawl": 1618253795
+        "latest_crawl": 1618735632
     }
 ]

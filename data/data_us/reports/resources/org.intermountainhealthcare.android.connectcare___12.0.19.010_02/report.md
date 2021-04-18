@@ -189,6 +189,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Very good<br> :date: __2021-04-17 18:46:15__
+
 > Did not have any problems with this app.<br> :date: __2021-04-04 22:37:15__
 
 > Very on top of things and easy to use!<br> :date: __2021-04-01 21:23:59__
@@ -206,8 +208,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Works as described. Did not disconnect.<br> :date: __2021-02-14 19:38:33__
 
 > This was the best health insurance I have every had. Im not with them anymore but I wish I was.<br> :date: __2021-02-12 08:03:28__
-
-> Easy and done from home.<br> :date: __2021-02-04 16:20:07__
 
 
 
@@ -301,6 +301,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="1_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 1 reviews"/>
 </p>
 
+> Very poorly designed app<br> :date: __2021-04-17 18:08:38__
+
 > Terrible. 1. Never has one of my kid's result. 2. My wife can see results for some kids and I can't, we are bot linked to all 4 kids. 3. Single sign on is atrocious. 4. Once logged in, half the time it just spins and never loads results. It took 20 minutes from text message to loading of my results, and yes, I had the correct password stored on LastPass, it was just spinning post login and taking forever.<br> :date: __2021-03-04 15:50:43__
 
 > Messages stopped working on app and online! I keep getting an error when all fields filled in.<br> :date: __2021-01-29 20:11:04__
@@ -318,7 +320,5 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Third appointment on connect care third time that the app will not work.<br> :date: __2020-10-14 17:26:00__
 
 > Installed just to check a covid test result. I see no way of doing that. The only thing I see is how to make an appointment. What a waste if time.<br> :date: __2020-10-02 16:35:27__
-
-> This app i not user friendly I have typed in my information +5 times correctly, then stating your unsure it is who I say I am.. I know you guys are slammed but honestly please do something. I've waited on the phone with tech support on regards of my Account info for over 40 minutes. Then I got annoyed and hung up. Called again and once again still on the phone for more than 20 minutes. The auto record states you will only be waiting for 20 minutes.<br> :date: __2020-09-25 01:55:53__
 
 

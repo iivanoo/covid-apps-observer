@@ -204,6 +204,14 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 <img src="5_star_reviews_wordcloud.png" alt="com.getheal.patient 5 reviews"/>
 </p>
 
+> Good interview with nice doctor. I like this app. Didn't see any ads.<br> :date: __2021-04-16 18:41:29__
+
+> Best way for me its awesome they come to my home<br> :date: __2021-04-15 04:51:42__
+
+> I have been using Heal for two years to help manage a chronic issue...I cannot sing their praises enough! Having my labs taken at home and dropped off for me?! It doesn't get more convenient than that!<br> :date: __2021-04-14 19:39:33__
+
+> Very good rapport, paid attentionto my needs , very aware of them , and informative<br> :date: __2021-04-13 19:44:55__
+
 > Great home visit!<br> :date: __2021-04-05 20:09:36__
 
 > Great app, even better healthcare!<br> :date: __2021-04-03 18:34:16__
@@ -216,14 +224,6 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 
 > I really love this app. The drs are awesome. Really helped me with my medicine. Awesome!<br> :date: __2021-03-18 02:47:26__
 
-> This is my first time setting up the Heal App. I will in the future let you know if it works for us. Thank you<br> :date: __2021-03-14 17:57:41__
-
-> Great app. Nice clean UI. Does what it needs to do without getting in the way with too many bells and whistles.<br> :date: __2021-03-13 05:44:02__
-
-> We have used the HEAL app since 2019 when my daughter was in bed for 3 days and couldn't move due to a headache. Dr. Mitton came out within hours to see her and properly diagnosed her with migraines (which run in my family). The process was amazing. She couldn't have walked out of the house to the car to get to our Dr so it was a blessing to have the Dr come to us. We have used the app a few times and will continue to do so in the future!<br> :date: __2021-03-12 15:33:44__
-
-> Wonderful conversation with the Dr. She was very sweet and Her Concern was outstanding!<br> :date: __2021-03-03 05:54:10__
-
 
 
 #### 4-star reviews
@@ -231,6 +231,8 @@ The Heal: Telehealth & House Calls app has been installed by more than **50000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.getheal.patient 4 reviews"/>
 </p>
+
+> Informative<br> :date: __2021-04-14 21:55:40__
 
 > I had a very good virtual visit with Dr. Lingad who reviewed my health-care issue today, March 29th. Thanks for assigning him to me.<br> :date: __2021-03-29 23:04:30__
 
@@ -252,8 +254,6 @@ website.<br> :date: __2018-05-04 18:36:50__
 > Great app, I needed the flu shot asap the doc showed up gave me the shot all done with in 10 minutes. I will definitely be using the heal app again.<br> :date: __2018-02-19 18:00:59__
 
 > Ive heard about this app on Dr. Drews show. I belive this app has alot of potential but its not available in moreno valley. When can we expect more areas???<br> :date: __2016-05-23 20:04:57__
-
-> My first time using this app I hope that I can I'll let you know in a few days thank you thank you<br> :date: __2016-03-11 11:33:20__
 
 
 

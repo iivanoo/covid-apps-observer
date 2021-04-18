@@ -243,6 +243,14 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Klappt nicht. Note 6!<br> :date: __2021-04-17 09:50:56__
+
+> lässt sich nicht öffnen<br> :date: __2021-04-15 08:40:40__
+
+> Die App lässt sich nicht einmal öffnen, da funktioniert etwas nicht...<br> :date: __2021-04-15 08:39:19__
+
+> Unbrauchbar, wenn man die App aufmachen will geht sie direkt wieder zu. Mehrmaliges deinstallieren und neu installieren bringt ebenfalls nichts. Leider kann man nur 1 Stern vergeben besser sind aber null Sterne. 😤<br> :date: __2021-04-14 19:13:31__
+
 > QR-Scanner funktioniert nicht. Sogar nach dem Anruf das ich Positiv bin, steht in der App das kein Ergebnis vorliegt<br> :date: __2021-04-10 12:26:00__
 
 > Die App öffnet sich nicht.....<br> :date: __2021-04-09 14:15:44__
@@ -254,13 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Konnte nicht geöffnet werden, die App stürtzt andauernd ab.<br> :date: __2021-04-07 09:14:37__
 
 > Kurz und knapp datenschrott<br> :date: __2021-04-02 14:23:16__
-
-> Funktioniert einfach nicht (schließt automatisch beim Aufrufen) - unfassbar aber wahr<br> :date: __2021-04-02 13:11:50__
-
-> Lächerlich 😆😆😆<br> :date: __2021-04-02 07:02:19__
-
-> Wo bekommt man die ID Nummer her ??<br> :date: __2021-03-31 14:59:20__
-
-> QR Code wurde nicht erkannt. ID kann nicht eingegeben werden.<br> :date: __2021-03-31 14:53:49__
 
 

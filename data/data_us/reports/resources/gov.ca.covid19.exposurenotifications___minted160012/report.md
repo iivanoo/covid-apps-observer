@@ -128,6 +128,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> It really works I am very happy with this app<br> :date: __2021-04-14 20:01:29__
+
 > MICHAEL PAUL CHASSEREAU . FROM ASIA. CHANCELLOR OVER EUROPE. HEAD OF ALL GOVERNMENT. IM GOD .<br> :date: __2021-04-11 13:46:49__
 
 > All I can say is works. If someone around you is infected you will get alerted.<br> :date: __2021-04-08 19:37:17__
@@ -145,8 +147,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > It is a comfort to have<br> :date: __2021-03-10 17:53:08__
 
 > Works well, hope app saves lives, and the U.S. I love my Country!<br> :date: __2021-03-08 19:55:33__
-
-> Elpata<br> :date: __2021-03-06 05:29:16__
 
 
 
@@ -212,6 +212,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
 
+> very disappointed! I first downloaded it help contribute data that would help the state, country,and even the world. I Don't like the fact that bloototh always has to b on<br> :date: __2021-04-17 06:47:59__
+
 > This app needs the option to report if you have been near another user running this app but not tested positive so you can verify the app is actually doing something. I reinstalled this app to see if it has been changed. While it now shows its active, it still fails to show it is actually functioning correctly. It needs to show it is actually communicating with others using this app by showing you were near someone else using this app. Still no response, guess their just part of the Covid scam<br> :date: __2021-04-08 00:01:15__
 
 > Not really see working<br> :date: __2021-04-05 05:02:45__
@@ -230,8 +232,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > CA Notify used to appear on my phone, but I can't see it anymore. I tried to download it again, and my computer says that CA Notify is installed on my phone. Why can't I see it there?<br> :date: __2021-02-24 20:14:24__
 
-> If you dont have a data plan for wifi while not at home i dont think this works and there is no contact us or email to ask anyone . false sense of security and not protecting you or anyone else if you dont have data/roaming wifi.<br> :date: __2021-02-22 06:07:45__
-
 
 
 #### 1-star reviews
@@ -239,6 +239,10 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> Uninstalled because California is opening up and people are being forced to intermingle even though we don't have vaccines in the majority. So why help a cause that doesn't matter anymore!<br> :date: __2021-04-15 02:06:28__
+
+> I have the app. Then had to call to allow people to know they've been exposed. I then wasn't in your system and I have to wait a few days to call again to get the verification code. Not very convenient and put multiple obstacles in my way of trying to notify others.<br> :date: __2021-04-13 13:11:27__
 
 > Noot good<br> :date: __2021-04-07 10:21:56__
 
@@ -255,9 +259,5 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > Good idea, extremely poor execution.<br> :date: __2021-03-21 00:10:10__
 
 > I thought this was a good idea for safety but it doesn't seem to work cuz after the fact I was normally exposed and it did not work I was not notified my Bluetooth was on<br> :date: __2021-03-15 03:59:48__
-
-> Good concept but poorly executed. This app goes by voluntary indication by people if they are positive. If people are not aware of the app, are lazy, do not want to have extra apps installed, or dont care, then the app will not know who's infected or not. It would be better if they tied people's medical info & made it a required install to get a more accurate reading of an area. However privacy advocates wouldn't want that & cell companies wont enforce this install.<br> :date: __2021-03-13 01:46:15__
-
-> I tested positive and apparently I got it somewhere. I am trying to add to the app Im a positive and I cant. This is super inaccurate!!<br> :date: __2021-03-07 17:54:02__
 
 

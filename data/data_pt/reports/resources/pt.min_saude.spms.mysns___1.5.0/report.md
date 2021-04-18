@@ -227,6 +227,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> Parece-me que tudo o que é possível fazer nesta app é também possível fazer através do site do SNS. Não vejo vantagem da app em relação ao site. Aliás, algumas das "funções" da app funcionam por reencaminhamento para o site.<br> :date: __2021-04-16 21:41:18__
+
 > Não tem actualizações para a versão Android do meu P30 pro<br> :date: __2021-03-31 21:38:03__
 
 > Como consigo extrair a minha receita em papel ?<br> :date: __2021-01-15 17:35:08__
@@ -244,8 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Difícil, é nem sempre conseguimos atendimento<br> :date: __2020-08-05 13:09:26__
 
 > Pouca dificuldade a, aceder !<br> :date: __2020-06-26 20:16:31__
-
-> A informação do movimento de banhistas,deveria ser actualizada mais frequentemente, particularmente até ao meio dia e depois das 4 da tarde. E mais divulgada nos meios comunicação.<br> :date: __2020-06-21 08:13:06__
 
 
 
@@ -283,6 +283,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Perdi tudo do sns e nao da para recuperar<br> :date: __2021-04-17 13:00:01__
+
+> As dificuldades em entrar, encontrar o que queremos. É muita coisa e pouca funciona na perfeição.<br> :date: __2021-04-13 18:27:28__
+
+> Não funciona<br> :date: __2021-04-13 01:34:48__
+
 > Não funciona 😔<br> :date: __2021-04-04 22:33:44__
 
 > Esta APP não está a funcionar bem<br> :date: __2021-03-31 18:37:35__
@@ -296,11 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Zero! Não vale a pena instalar....<br> :date: __2021-03-15 09:45:56__
 
 > Simplesmente não funciona<br> :date: __2021-03-12 10:30:59__
-
-> Horrível<br> :date: __2021-03-11 13:39:39__
-
-> Não atualizada. O meu Android; diz q é para versões mais antigas<br> :date: __2021-03-07 14:13:25__
-
-> Última atualização em 2018?<br> :date: __2021-03-04 23:50:37__
 
 

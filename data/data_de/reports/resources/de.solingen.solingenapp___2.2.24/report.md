@@ -224,6 +224,10 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 3 reviews"/>
 </p>
 
+> Leider schließt sich seit Tagen die App sofort, nachdem die Verbindung zum Server erfolgreich angezeigt wurde. Habe die App bereits gelöscht und neu installiert, es ändert sich nix. Sehr schade, habe sie gerne genutzt.<br> :date: __2021-04-17 20:14:23__
+
+> Schöne Umsetzung, toll was alles mit React Native geht! Meine Wünsche: - Corona Positivtestrate bitte in Prozent im Bezug auf die gesamte Testmenge - Anzahl der aufgeführten Tests mit angeben - Die Ladeanimation nervt. Weg damit. - Manuelle Anwahl der Wetterstation- keine Daten<br> :date: __2021-04-16 15:39:59__
+
 > Die Temperatur wird leider nie aktualisiert. Es ist immer die gleiche wie bei der Installation<br> :date: __2021-01-24 21:42:37__
 
 > Leider startet die App nicht immer vernünftig. Wenn dies der Fall ist, muss ich mein Handy sogar neu starten, da die Fehlermeldung dennoch weiter blinkt- auch wenn die app bereits geschlossen ist.<br> :date: __2021-01-08 16:41:01__
@@ -239,6 +243,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
+
+> Der Ansatz der App ist eigentlich gut, die Umsetzug finde ich leider nicht sehr gelungen. Regelmäßig erscheint beim Start eine Fehlermeldung und die App wird geschlossen. In der Regel lässt sie sich dann erst wieder nach ein paar Stunden, manchmal gar nach ein paar Tagen öffnen. Am meisten interessieren mich die aktuellen Meldungen. Diese erhalte ich auch immer wieder per Push-Benachrichtigung. Tippe ich dann darauf wird die App zwar geöffnet, die Nachricht aber nicht angezeigt. Schade!<br> :date: __2021-04-13 15:02:46__
 
 > Geht so. Stürzt andauernd ab. Sehr oft keine Verbindung zum Server. Ansonsten OK<br> :date: __2021-03-13 08:43:37__
 
@@ -257,8 +263,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Eigentlich eine tolle App lässt sich aber nicht mehr starten, nur noch kreisenden Mensch Solingen.<br> :date: __2020-11-26 18:03:07__
 
 > Nach der Installation ließ sich die App normal bedienen. Jedoch nach erneutem Start komme ich nur bis zum Logo. Dann schließt die App wieder. Hab das Gerät neu gebootet. Bleibt so. Hab die App erstmal deinstalliert.<br> :date: __2020-11-24 10:40:40__
-
-> Ganz schlechte App immerwieder kommt keine Verbindung zustande.<br> :date: __2020-11-23 16:24:15__
 
 
 

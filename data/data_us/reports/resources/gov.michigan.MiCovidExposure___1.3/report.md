@@ -186,8 +186,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > You have to keep Bluetooth on to recieve alerts?! No thank you, I'm uninstalling this Edit In response to the reply below: I still dont want to walk around with my bluetooth on all day. Thats not good for my battery or privacy.<br> :date: __2021-03-10 20:01:37__
 
-> Used to work but now it hasn't checked for exposure since Feb 13th. It's up to date, I've uninstalled and reinstalled, phone restart, checked permissions. Nothing has worked. I'm uninstalling because it's not worth the waste of space.<br> :date: __2021-02-27 02:06:51__
-
 > This app is general , can be improved to reflect local zip codes with real time case tracking. Racial distribution makes this app racist.<br> :date: __2021-02-09 03:41:17__
 
 > L pi pl om 0<br> :date: __2021-02-03 15:23:00__
@@ -201,6 +199,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > No notifications??? I worked in a hospital filled with COVID patients during an outbreak. Maybe none of them had this app installed. This app is an amazing concept. I apperciate the anonymity. I will continue to recommend this app to others!<br> :date: __2021-01-14 13:15:04__
 
 > It was working fine updating regularly. Now it hasn't updated my exposure or the cases and deaths since January 4th. I don't know what is wrong. Yes my bluetooth is on. I don't know what to do with it.<br> :date: __2021-01-13 17:51:43__
+
+> My app last exposure check was Dec 30 2020. I have my location and Bluetooth on. Not working..<br> :date: __2021-01-09 12:23:32__
 
 
 
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> It is now April. The app says it hasn't checked for exposures since Feb. 11. When I tried to export exposure notifications as outlined in other replies there were no notifications listed, and the info text says that the log only includes data for the last 14 days. When I click export I don't see that anything has happened, and the "last checked" date is still Feb. 11.<br> :date: __2021-04-12 14:25:38__
+> This app is worthless. It hasn't checked for exposures since Jan 28.<br> :date: __2021-04-18 02:59:09__
 
-> This app hasn't checked or updated since January 4, 2021. How are we supposed to rely on something that sucks this bad.<br> :date: __2021-04-09 18:28:32__
+> Not that it matters now, but on March 28th my daughter and I tested positive for Covid. This app has still not notified us. So just a heads up. You can be in the same job/house with someone who is positive and there will be ZERO notification.<br> :date: __2021-04-17 18:31:44__
 
-> Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right. Reloaded as you said to. Still no readings since the 23rd. Installed and Uninstaller 6 times. Still not working right. Last exposure check was on the 13th. The app is an excellent idea just wish it would work. Had reinstalled a 7th time. Last notification was April 1st. It is now the 9th. Unistalling permanently. Sorry. Nice try.<br> :date: __2021-04-09 17:19:54__
+> Useless I've had it on since I installed it and I travel all over for work and.i live in michigan the highest infection rate and not one alert<br> :date: __2021-04-17 14:43:19__
 
-> Had it for a while now, doesn't even work. Word of mouth works better.<br> :date: __2021-04-09 16:52:55__
+> Update: App was working fine until April 4th. It is April 17th today and I haven't had any exposure check since the 4th. I changed my settings so the app doesn't get turned off due to battery usage, but that did nothing. Why do the other states have an app that works but not Michigan? I work in a grocery store and this would be so helpful if it worked, but instead it's a big pile of steamy turd.<br> :date: __2021-04-17 14:30:21__
 
-> It hasn't checked for exposure since March 20th. I've followed the instructions regarding battery management and nothing has changed. I can't email you the exposure file because when I click on export exposure checks nothing happens.<br> :date: __2021-04-09 12:59:21__
+> Sadly, the day I went back to work with young children, the app stopped working.<br> :date: __2021-04-15 02:20:37__
 
-> Does not work. It last check for exposure 3 months ago when it was installed. My location service is turned on, and exposure notifications are on in the app.<br> :date: __2021-04-09 02:47:34__
+> \*\** Update \*\** So I uninstalled this for a while. Finally heard they improved the app and reinstalled. It worked for a week or two. But now it again hasn't checked since April 6th. Today is the 14th. My app is up to date. Which is sad since Michigan currently has the highest infection rate in the nation. I'm fully vaccinated now. I'll continue to wear my mask and socially distance. I'll also have more room in my phone because I'm deleting it again. For good.<br> :date: __2021-04-15 00:06:24__
 
-> It hasn't checked for exposures in nearly a month. I changed battery optimization and no change. I don't like having bluetooth constantly enabled solely for this app so I don't see the point in keeping it. EDIT: YES, I know that bluetooth is required. Which is why I'm complaining about this app not working properly. I've had bluetooth on all the time all this time, and it hasn't even checked for exposures, which means, all that I've done in the past month is compromise the security of my phone for apparently no reason. If there is no benefit to using this app, I'm certainly not going to keep using it and keep bluetooth on.<br> :date: __2021-04-05 22:04:02__
+> This has not checked for 4days. I now have dropped to 1 star. It hasn't checked exposure since 3-22.<br> :date: __2021-04-14 23:05:44__
 
-> Has not checked exposure since last update. Edit: after update still not checking.<br> :date: __2021-04-05 15:12:02__
+> Mine hasn't checked for exposures since January 3rd. It's April 13th. Bluetooth has been turned on the entire time.<br> :date: __2021-04-14 02:18:47__
 
-> They force you to use a mystical pin that is next to impossible to find the person to give it to you after calling both local and state health departments who are not open over the weekend.<br> :date: __2021-04-05 14:52:23__
+> Doesn't work. It hasn't checked anything for going on three weeks.<br> :date: __2021-04-13 23:45:31__
 
-> Downloaded and like everyone else it stopped working. I uninstalled..reinstalled and checked settings as was suggested by the individuals who interact with the reviews. It hasnt worked in weeks and I had a close contact within that time, that wasnt caught. Wow. I wont be reinstalling .<br> :date: __2021-04-03 22:50:39__
+> Never alerted, and my own child tested positive<br> :date: __2021-04-13 13:39:33__
 
 

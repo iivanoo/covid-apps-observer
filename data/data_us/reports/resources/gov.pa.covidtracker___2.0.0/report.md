@@ -254,6 +254,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> This app is fatally flawed. They designed it so that the only way to trigger an alert after you test positive is for a public health worker to call you after your positive test and give you a code. They didn't put the resources in place to make sure they could call everyone promptly, which makes the app pretty much useless.<br> :date: __2021-04-15 23:21:47__
+
 > This app takes too long to download on my Samsung Galaxy<br> :date: __2021-04-07 02:00:16__
 
 > Hasn't worked for the past 4 days.<br> :date: __2021-04-06 04:29:08__
@@ -271,7 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Annoying. I don't want the damn app stop trying to force me<br> :date: __2021-03-26 15:14:50__
 
 > What has this app done for us?<br> :date: __2021-03-19 13:00:42__
-
-> Started out okay, then went into continuous loading, depleting battery. Removed<br> :date: __2021-03-18 20:10:32__
 
 

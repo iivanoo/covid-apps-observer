@@ -260,6 +260,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
 
+> Ciao, parlo da pendolare e quindi devo compilare tale dichiarazione ogni volta, sarebbe utile: LOGIN con impronta digitale o memorizzazione password ( ad oggi ancora non memorizza la Poter richiamare una registrazione precedente e cambiare solo le date ( pensate ad uno che fa spesso lo stesso viaggio)<br> :date: __2021-04-14 09:42:37__
+
 > Non siete riusciti a trovare il modo di procedere ai controlli in entrata x combattere il covid 19. Mi dispiace x i Sardi che devono subire questa mancanza. Sinceri saluti da un Sardo che ha tanta nostalgia della Sardegna.<br> :date: __2021-03-23 20:54:01__
 
 > Non riesco a registrarmi, cosa faccio?<br> :date: __2021-03-15 18:17:46__
@@ -278,8 +280,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Salve, mi sono registrato, ma non mi permette di registrare mia moglie. Vado in nuova registrazione, ma rimane impresso sempre il mio nome. Come devo fare?<br> :date: __2020-08-21 17:01:57__
 
-> Non serve a gnente<br> :date: __2020-08-14 21:03:55__
-
 
 
 #### 1-star reviews
@@ -287,6 +287,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
+
+> L'applicazione non funziona e quando tento di aprirla gira a vuoto. Come posso registrarmi visto che ho un volo venerdi?<br> :date: __2021-04-17 08:14:53__
+
+> Non consente modifiche sui passeggeri: mio figlio non è partito più insieme a me, e quindi non mi permette di cancellare il suo nome, e nemmeno di inserire l'esito del mio test...poi, nessun tipo di controllo è stato effettuato, sia in partenza che in arrivo, sulle risultanze di questa applicazione...seri dubbi sulla sua utilità<br> :date: __2021-04-12 20:56:12__
 
 > Sul cellulare samsung a51 la app non si apre<br> :date: __2021-04-10 11:24:53__
 
@@ -303,9 +307,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Scarsa e poco chiara.<br> :date: __2021-03-24 08:38:28__
 
 > Non si apre più dopo l'ultimo aggiornamento. Inutilizzabile<br> :date: __2021-03-24 05:07:22__
-
-> Non riesco ad entrare. Installata, disinstallata reinstallata; niente! Non c'è verso!<br> :date: __2021-03-23 23:34:00__
-
-> Pessima app<br> :date: __2021-03-23 18:29:51__
 
 

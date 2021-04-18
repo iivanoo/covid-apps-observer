@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFnMP98czGxvCSCuAMKcZo5DToszfYfinm-k0SiY3P4-2OYZHz-ulUYZiQRbFOaGJiqKzlVvct8FwR5rg",
+        "userName": "KOMA",
+        "userImage": "https://play-lh.googleusercontent.com/-dhSQKdPWXPs/AAAAAAAAAAI/AAAAAAAADSU/AMZuuclhZbw6dGSthAaQJrmcNkrrEL8iHw/photo.jpg",
+        "content": "The app completely missed my morning hike, seems to work only intermittently. The updated versions are a big improvement, it is now working reasonably well.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0",
+        "at": "2021-04-17 13:39:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE9Wn3NWiSI1oy4hXF387EsTFWW90GPWQR_dUgp8Dr0UOCzLyEvhvW8c3yRFUaoDKoGFjY0Mf7vzkkTmw",
         "userName": "Tec",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GglvxR4ygI9omw33TDPPxwc2F3NeRM0VfpsZPrLSg",
@@ -29,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7MiaUkJd-qQnjeosgHJk4y8-7vZeV9zs-mFuaZA",
         "content": "Good concept but it stopped tracking, which is a major function of the app. I deleted and downloaded again and still no tracking, so finding a reason to keep hard to come by.",
         "score": 2,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.2",
         "at": "2021-02-28 21:08:49",
         "replyContent": null,
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-M3NcHoJFdn5UClabLvP-ycSYQnAb08TC7XX2mw",
         "content": "At first it was helpful tracking my help and keeping me up to date with new information. However, it's now been unable to retrieve new data for a couple months and I'm unable to access new information about testing or vaccinations.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.2",
         "at": "2021-02-26 20:13:12",
         "replyContent": null,
@@ -829,7 +841,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFHEUQn1lAjl39slebcqkbBj9jTesd1GSQGtQiCp7Go8AwyndUdYFzo-YTcLNDwz9wktospOF66JrfpAg",
-        "userName": "Ruth Ophardt",
+        "userName": "R R",
         "userImage": "https://play-lh.googleusercontent.com/-uSP_w4_i4DA/AAAAAAAAAAI/AAAAAAAAxjU/AMZuucmvgP6X1Gia7YeigvJAPhG0JR-vwA/photo.jpg",
         "content": "I am rooting for this app. But there are several problems: 1) I can't access the new version on my Android phone, the \"Let's go\" button doesn't seem to work when trying to boot up the app the first time. 2) I wish it would just keep itself running and send my info continuously, once I have given it permission (I often forget to log in and then it stops sending updates). I know it's trying to respect privacy, but there should be an option for those who don't mind to just let it do it's thing.",
         "score": 2,
@@ -1010,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOFTSLPh86GvUbTULzfmJ2nE2ZxGg5p5gotLTKod0RAx7P6waGpN8vJaQRnhwbdma9opWcMUHy3H75PpTg",
         "userName": "Monica Johnson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlRkjYcUHhFGiSwU5sUQ5e45t7BLmELqoLeBdGIQ",
+        "userImage": "https://play-lh.googleusercontent.com/-eGK2TH3yHy8/AAAAAAAAAAI/AAAAAAAAAWs/AMZuucmzXC6TmCceRoagAZRvLG6QeAvV2A/photo.jpg",
         "content": "I mean, I get that the app is trying it's best, but it only works in Rhode island! The better news is that at least it warns u what states the coronavirus are tracked",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1208,18 +1220,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2020-06-26 05:59:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFnMP98czGxvCSCuAMKcZo5DToszfYfinm-k0SiY3P4-2OYZHz-ulUYZiQRbFOaGJiqKzlVvct8FwR5rg",
-        "userName": "KOMA",
-        "userImage": "https://play-lh.googleusercontent.com/-dhSQKdPWXPs/AAAAAAAAAAI/AAAAAAAADSU/AMZuuclhZbw6dGSthAaQJrmcNkrrEL8iHw/photo.jpg",
-        "content": "The app completely missed my morning hike, seems to work only intermittently.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.5",
-        "at": "2020-06-26 04:36:49",
         "replyContent": null,
         "repliedAt": null
     },

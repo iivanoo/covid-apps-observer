@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> The doctor was super professional, and took care of all of my medical needs. He was caring, and explained everything in detail. It is SUPER convenient that they were able to fill a prescription, and send it to my local pharmacy. Definitely will use this app again for future, last minute appointments!! The connection was also very clear, and it was easy to see/hear the doctor. That's saying something, considering I'm on satellite Wifi!! A+ app!<br> :date: __2021-04-12 03:13:24__
+> Jd<br> :date: __2021-04-18 03:22:08__
 
-> Great experience<br> :date: __2021-04-11 19:31:57__
+> Fast and convenient<br> :date: __2021-04-18 02:12:15__
 
-> Easy to use.<br> :date: __2021-04-10 00:52:40__
+> Great Therapist!! Love this service<br> :date: __2021-04-17 16:01:09__
 
-> The Doctors on here are more than amazing And you have to definitely wait longer in a doctor's Office. I Have received better care online<br> :date: __2021-04-08 23:33:05__
+> I was greatful the doctor was able to help me in such a fast time period.<br> :date: __2021-04-16 16:10:01__
 
-> I can't believe how smoothly, professional and affordable this service was. We are experiencing a gap in medical insurance and this was a life saver.<br> :date: __2021-04-07 23:46:11__
+> Very Quick Responsive help that was very much needed without having to wait a month in a half for my doctor appointment<br> :date: __2021-04-16 02:15:46__
 
-> Love this app<br> :date: __2021-04-07 19:31:07__
+> I've used this app a couple of times and it's been easy and a great experience. The doctors are thorough and knowledgeable.<br> :date: __2021-04-15 02:20:58__
 
-> Tricia Healthcare coach A+<br> :date: __2021-04-06 22:38:18__
+> Love this app. It's a must have during this crazy covid mess.<br> :date: __2021-04-15 01:53:20__
 
-> Great app<br> :date: __2021-04-05 04:10:47__
+> Seamless. Smooth excellent picture quality<br> :date: __2021-04-14 18:51:23__
 
-> Fast, relatively affordable and efficient. I was able to get an appointment and prescription in under an hour - the physician was kind and very understanding. I'll definitely be using this service again<br> :date: __2021-04-04 03:39:32__
+> Easy to install, easy to access. Saved time, rather than I face office visit.<br> :date: __2021-04-14 16:41:00__
 
-> Loved It ! It was fast, and convenient! Not feeling good to start,I did not have to leave my house, Rushing around not to be late, or looking good when I feel so bad. They accepted my insurance and I was able to set up and have my Prescription sent to the pharmacy of my choice. A WONDERFUL EXPERIENCE! The Dr. was polite, nice,and professional. Easy to understand, and understood me and what I was explaining. The way to go to the Doctors for me from now on!<br> :date: __2021-04-03 20:44:51__
+> Quick and to the point. I waited 3-5 minutes at the most to be seen. Diagnosis and prescription given right away. Visit was over within 5 minutes.<br> :date: __2021-04-14 12:18:10__
 
 
 

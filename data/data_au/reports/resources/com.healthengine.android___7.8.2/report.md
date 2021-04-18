@@ -174,25 +174,25 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.healthengine.android 5 reviews"/>
 </p>
 
-> Just easy to use ,makes my doc visits much easier!<br> :date: __2021-04-12 18:10:24__
+> Easy to use<br> :date: __2021-04-18 09:05:32__
 
-> Awesome and easy to use.<br> :date: __2021-04-12 16:50:58__
+> It's so handy to be able to make your own appointments anytime of the day or night with your preferred doctors and add it straight to calendar. Love this app!<br> :date: __2021-04-18 03:16:23__
 
-> Really good app with quick option to choose according to needs.<br> :date: __2021-04-12 15:47:50__
+> Good<br> :date: __2021-04-17 08:27:30__
 
-> great app and easy to use so helpful<br> :date: __2021-04-12 11:49:11__
+> Easy setup and convenient<br> :date: __2021-04-17 01:31:11__
 
-> It's great to be home or out shopping and go I need to see my favourite doctor Dr Jessica Ho.... just jump on mobile on health engine and booked in under 1 minute..... Love your work<br> :date: __2021-04-12 06:02:46__
+> Life made easy<br> :date: __2021-04-17 01:05:11__
 
-> Very user friendly.<br> :date: __2021-04-12 03:00:54__
+> Easy to use<br> :date: __2021-04-17 00:31:43__
 
-> Springwood Medical<br> :date: __2021-04-12 02:04:32__
+> If I can use this anyone can<br> :date: __2021-04-15 07:15:04__
 
-> Always treated with respect . Always welcomed with a smile .<br> :date: __2021-04-11 23:51:06__
+> Great App and very easy to use... Very satisfied with the features..<br> :date: __2021-04-15 07:09:07__
 
-> Its grate<br> :date: __2021-04-11 22:33:31__
+> Always friendly and my needs are met<br> :date: __2021-04-15 04:32:13__
 
-> This app is great to use<br> :date: __2021-04-11 15:10:12__
+> Great app<br> :date: __2021-04-15 03:39:29__
 
 
 
@@ -201,6 +201,12 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.healthengine.android 4 reviews"/>
 </p>
+
+> very handy app<br> :date: __2021-04-15 19:32:43__
+
+> Makes it easy and efficient<br> :date: __2021-04-14 02:37:54__
+
+> Good app does it's job<br> :date: __2021-04-13 06:30:38__
 
 > Dr Mirna jover is understanding. helpful. Careful and hope giving<br> :date: __2021-04-09 20:59:25__
 
@@ -216,12 +222,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 
 > Easy to use app to book doctors appointments<br> :date: __2021-03-19 06:26:24__
 
-> Good<br> :date: __2021-03-19 00:35:51__
-
-> Very easy to use and it's very efficient to book your appointments. The only downfall is that not all doctors / service providers are on it, so you may not be able to book.<br> :date: __2021-03-17 00:09:15__
-
-> Easy to use<br> :date: __2021-03-15 09:12:34__
-
 
 
 #### 3-star reviews
@@ -229,6 +229,10 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.healthengine.android 3 reviews"/>
 </p>
+
+> Easy bo booking<br> :date: __2021-04-18 04:36:00__
+
+> It keeps telling me to update the app which is very annoying.<br> :date: __2021-04-13 09:05:05__
 
 > UPDATE ON REVIEW: After a bumpy March '21update caused appointment fail for my doc booking, I reported the problem and developer was attentive and gave advice. I will need to await my next booking before I can report it as fixed. Hope. Updated & failed.. what a shame the March '21 update caused the booking appointment service to become inactive. Texts with codes keep rolling in but setting an appointment time cannot be achieved. It used to work really well.<br> :date: __2021-03-25 09:39:59__
 
@@ -266,8 +270,6 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 
 > No longer can make appointments at Wantirna Mall Clinic. Have to revert back to making phone calls.<br> :date: __2020-10-25 08:23:57__
 
-> Not all doctors are showing so limited use.<br> :date: __2020-09-22 03:36:42__
-
 
 
 #### 1-star reviews
@@ -275,6 +277,10 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.healthengine.android 1 reviews"/>
 </p>
+
+> This WAS good app for years. Now I can't book, keep getting 2FA codes with place to put it, uninstalled and reinstalled twice and added our profiles over and over again. Not sure what you've done in the last few months but have now got rid of it as it's easier to call the clinic.<br> :date: __2021-04-17 02:40:02__
+
+> Useless. Said appointments weren't available on this app<br> :date: __2021-04-15 09:46:25__
 
 > Can't login as app is stuck at verify mobile number. Clicking next does nothing<br> :date: __2021-04-08 05:33:14__
 
@@ -291,9 +297,5 @@ The HealthEngine app has been installed by more than **500000** times. At this t
 > Need to see my doctor but can't get in till ages when I call up, I get in quickly if I use the app but the update stuffed up the log in process and now I am stuck waiting. Already wrote a review and sent an email to developers but had no reply 🤨 I think if you start an important app like this you have the responsibility to make sure it works and not literally stuff peoples lives around like your doing to me.<br> :date: __2021-03-27 16:29:39__
 
 > You should know that this company had historically been caught selling your medical data. Google it with ABC News.<br> :date: __2021-03-25 02:53:51__
-
-> Wouldn't allow to book in advance<br> :date: __2021-03-24 22:22:30__
-
-> The current update renders this app useless. I keep receiving numerous verification codes. I am unable to book an appointment as I get a blank screen. If only I could undo the current update!! This needs to be fixed asap!!<br> :date: __2021-03-24 01:04:04__
 
 

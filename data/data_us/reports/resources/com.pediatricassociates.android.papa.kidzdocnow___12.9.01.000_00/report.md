@@ -188,6 +188,8 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 5 reviews"/>
 </p>
 
+> That was awesome<br> :date: __2021-04-13 17:09:59__
+
 > Vert good<br> :date: __2021-04-09 15:33:18__
 
 > So amazing for after hours without having to go to an emergency Room really happy<br> :date: __2021-03-30 01:59:21__
@@ -206,8 +208,6 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 
 > Great<br> :date: __2021-03-17 18:17:25__
 
-> Absolutely excellent everything I've used it 3 times so far thank you!!!<br> :date: __2021-03-09 19:33:01__
-
 
 
 #### 4-star reviews
@@ -215,6 +215,8 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 4 reviews"/>
 </p>
+
+> Good<br> :date: __2021-04-16 16:39:50__
 
 > Convenient and u ser-friendly.<br> :date: __2020-11-03 08:41:15__
 
@@ -233,8 +235,6 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 > Have used this app 3 times already and really like the convenience of telemedicine. One thing I would suggest to the App developers is if they could make this app work on top of other apps for multitasking. Then I would rate 5 stars.<br> :date: __2020-03-12 13:37:10__
 
 > Very convenient<br> :date: __2020-03-12 03:57:53__
-
-> I coudnt see the doctor but he could see us. Still a good experience and fast service<br> :date: __2020-01-23 00:28:13__
 
 
 

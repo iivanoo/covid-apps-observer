@@ -152,6 +152,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 4 reviews"/>
 </p>
 
+> Not getting OTP on any number<br> :date: __2021-04-17 18:27:40__
+
 > Provide general basic ayuervedic medicine tips for more general diseases<br> :date: __2020-10-19 19:29:10__
 
 > Nice app for immune system improvement<br> :date: __2020-08-24 17:23:46__
@@ -169,8 +171,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Ok<br> :date: __2020-07-11 18:18:24__
 
 > Very helpful<br> :date: __2020-07-04 13:54:42__
-
-> Good app for health.<br> :date: __2020-07-02 08:14:07__
 
 
 
@@ -236,6 +236,14 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 1 reviews"/>
 </p>
 
+> Otp service is not working<br> :date: __2021-04-17 16:55:28__
+
+> Otp not coming for registration<br> :date: __2021-04-17 09:54:34__
+
+> Otp नहीं आता<br> :date: __2021-04-14 10:18:57__
+
+> It's a junk app, last 3 day's I'm trying to login with my mobile number and.. Surprise.. Not a single otp is coming..which make it useless.. Same issue with some other friends of mine<br> :date: __2021-04-13 06:33:16__
+
 > Unavailable to log since not sent OTP.<br> :date: __2021-04-08 04:04:01__
 
 > OTP is not come on mobile number<br> :date: __2021-04-07 16:01:04__
@@ -247,13 +255,5 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Does not get OTP even thogh well connected network and without Verification can not use.<br> :date: __2020-11-21 17:43:31__
 
 > No OTP. Waste of time<br> :date: __2020-11-21 12:31:58__
-
-> Why does ministry choose such poor developers for these works.. Even OTP is not being sent.. All of them just take bribe and give contract to any fool.. App ke naam pe Bwasir bna dete hain... Idiots<br> :date: __2020-11-19 05:20:25__
-
-> OTP not received<br> :date: __2020-11-18 06:27:22__
-
-> After many attempts not received mobile OTP.<br> :date: __2020-11-16 04:06:05__
-
-> Code is not coming..plz do needfu<br> :date: __2020-11-13 19:20:33__
 
 

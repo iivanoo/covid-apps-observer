@@ -145,6 +145,10 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 5 reviews"/>
 </p>
 
+> This app is very helpful for me<br> :date: __2021-04-18 01:55:03__
+
+> I like keeping up with any new covid information.<br> :date: __2021-04-13 10:24:49__
+
 > SharonFrancisSharen22o<br> :date: __2021-04-09 19:18:25__
 
 > Informative and keeps me up-to-date on my area and stage a New York<br> :date: __2021-04-05 22:03:43__
@@ -161,10 +165,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 
 > 02bvo$nowor...<br> :date: __2021-03-26 19:03:03__
 
-> Tested positive. NY Contact tracer was able to activate it..<br> :date: __2021-03-25 15:34:25__
-
-> HELP FROM UPSTAE NEW YORK I HA D. .. ....! R<br> :date: __2021-03-24 09:44:11__
-
 
 
 #### 4-star reviews
@@ -172,6 +172,8 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 4 reviews"/>
 </p>
+
+> Easy to install and set up. Requires someone who is exposed to reach out to their health department and put in a provided code in order to notify others, so there's a reliance on all users doing their part for this to work.<br> :date: __2021-04-15 16:28:57__
 
 > The app needs to automatically connect to Bluetooth after phone reboot.<br> :date: __2021-04-04 21:45:40__
 
@@ -190,8 +192,6 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > The app itself is fine. But the problem is the effectiveness of this app is limited by how few people install it. If you're the only person in town who has this app, it's useless. I've never received a notification from this app ever. I live in an area with almost 9% infection rate. I live in an apartment building and I've been out to supermarkets, etc. Not a single alert. As long as the app is not mandatory, it's pretty useless.<br> :date: __2021-01-25 23:10:49__
 
 > I wish there was a slot on the symptom list for noting seasonal allergic reactions. Also, I was directed to NYS alert app when I installed the covid one. That is annoying, be cause it alerts me to problems far from my home. I'll Soon delete it.<br> :date: __2020-12-23 21:07:41__
-
-> Me parese muy buena idea mantenerme informado sobre los camvios los nuevas sobre los csmvios<br> :date: __2020-12-14 23:51:39__
 
 
 
@@ -257,6 +257,10 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.ny.health.proximity 1 reviews"/>
 </p>
 
+> I want to register my covid-19 vaccines and this site does not allow me.<br> :date: __2021-04-15 21:44:14__
+
+> I hated<br> :date: __2021-04-14 18:49:14__
+
 > Worthless app. does not work. People close to me are now dying from Covid and this worthless app helped no one. It drains battery on bluetooth and that's all it does. I am however fully vaccinated. UNINSTALLED<br> :date: __2021-04-11 08:44:06__
 
 > The only alert I got from this app was when I turn my Bluetooth off at home. I constantly get the notification telling me it can't check for exposures. I spent a while work day with someone that just came off quarantine and didn't get a notification then. There's too many variables for this to be useful and the constant bluetooth notifications were just annoying.<br> :date: __2021-04-09 13:44:33__
@@ -272,9 +276,5 @@ The COVID Alert NY app has been installed by more than **500000** times. At this
 > SHEEP.<br> :date: __2021-03-28 15:18:30__
 
 > Excelsior Pass is a violation of out health privacy. Let's not think this is okay.<br> :date: __2021-03-26 23:12:01__
-
-> Have to use it to rate it. Day 1<br> :date: __2021-03-25 14:55:31__
-
-> Designed for ios only.<br> :date: __2021-03-25 07:20:15__
 
 

@@ -206,6 +206,8 @@ The Covid Watch Arizona app has been installed by more than **10000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="gov.azdhs.covidwatch.android 1 reviews"/>
 </p>
 
+> Meh! Problem is not with the app, problem is with the state of Arizona. The state and it's governor are anti maskers. The governor is a businessman turned politician so opening up everything is more important than deaths. Voters believe in a alternate reality freedom. It's okay to have laws about drunk driving, and wearing seatbelts but make them wear a mask and you won't get their votes.<br> :date: __2021-04-13 04:56:21__
+
 > ARIZONA SWAMP - GOV DUCEY RINO ; MAYOR GALLEGO SOCIALIST AND SEN. M KELLY DEMOCRAT FINANCED BY GEORGE SOROS. PURPLE RINO'S HAVE TAKEN AZ.<br> :date: __2021-04-10 10:33:45__
 
 > Dumber now<br> :date: __2021-04-04 12:24:03__

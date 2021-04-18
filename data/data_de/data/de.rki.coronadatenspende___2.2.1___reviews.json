@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGjBLg3QqP2yOJl4K5h4uvV0kQ-AMI3y1YyUhv8nnQitbNaU3yY1izc0P-lcHNBdPJ1YrQ37JOm3y6b1kE",
+        "userName": "Florian Racky",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNQv2z7rB2VuPNExT7hSzIKT-5WmiHos6fkaubs00",
+        "content": "Ich habe keine Probleme mit der App. Ich nutze eine WearOS SmartWatch \u00fcber Google Fit. \u00dcber die Menge der gespendeten Daten wurden aus meiner Sicht interessante Ergebnisse erzielt. S. dazu den in der App verlinkten Blog.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.1",
+        "at": "2021-04-15 13:07:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGKiEqqurs3hBNYyzd7T5VkRlwcZrDowCwWLCr6vH_GdiqRHHQbJDcvgRjOV80iUxXT3t8DgLNk_sr5G6c",
+        "userName": "Luffe B",
+        "userImage": "https://play-lh.googleusercontent.com/-lOD5ZVZV5iA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU3qLhe8mIfIdTONtd1cyVHcX0zw/photo.jpg",
+        "content": "Schwach - ganz schwach Wenn es m\u00f6glich w\u00e4re w\u00fcrde ich sogar den einen Stern streichen. Wozu schreibt man hier was? Nach einem Jahr - Gl\u00fcckwunsch an mich f\u00fcr 365 Tage (unn\u00fctze?) Datenspende - ist meine Uhr Huawei Watch GT2 immer noch nicht dabei. Nur andere komische Dinger. Mann, Mann, Mann Leider nicht m\u00f6glich Huawei Watch GT2.... Rest gel\u00f6scht",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.1",
+        "at": "2021-04-14 09:54:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGQn-hRX7iKEqQZDzmlpMMXbRKgzDPUqHqI8l4apbAJsV6N6S2_eJqakvTUsArvU-wj7C6qc1_FrDU2dS8",
         "userName": "Tom",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhviTXXla4UEawrremN43y07uynyXrfbvuYf3HMYQ",
@@ -44,18 +68,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-04-02 07:09:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF5hBuNsEe0HhtBcvz6VHfbATkF0_sV0pG_39T4v-MDyPuvrYKdGPsp2-y6zouK6y24c4baRAiXiv7v8Nw",
-        "userName": "Micha K\u00fcller",
-        "userImage": "https://play-lh.googleusercontent.com/-q8m1b5TL2GY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWC35ucLvwomNuvSL8B7vW041Isg/photo.jpg",
-        "content": "Leider funktioniert das Verkn\u00fcpfen mit dem Amazfit Zepp Konto nicht obwohl ausw\u00e4hlbar. Springt nach der Authorisierung einfach eine Seite zur\u00fcck. Bitte beheben. Dann spende ich gern meine Daten.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-03-26 19:22:19",
         "replyContent": null,
         "repliedAt": null
     },
@@ -125,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-7X42hqBDejU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFA6s3cbn5LZEQOG7j3dkUETrKtQ/photo.jpg",
         "content": "Sehr gute Idee. Daher ein Stern. Aber leider ist die App nicht zu gebrauchen. Samsung, Huawei oder auch Apple werden leider nicht unterst\u00fctzt. Fitbit und GoogleFit sind allein nicht aussagekr\u00e4ftig genug. Sehr schlecht Umsetzung des Robert Koch Instituts. Habe eigentlich mehr erwartet. Heute 3.M\u00e4rz neuer Versuch. Nun werden auch andere Hersteller unterst\u00fctzt. Huawei und Apple fehlen aber leider immer noch.",
         "score": 3,
-        "thumbsUpCount": 26,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-03-03 20:40:51",
         "replyContent": null,
@@ -209,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhttlYiP0UfSXw_n9UnBd86F2RxtZ0t8JQ6ES75rg",
         "content": "Die App funktioniert anscheinend... Ist allerdings nur eine Annahme, weil man nicht viel Feedback \u00fcber die Auswertung der Daten bekommt. Die angezeigte Fieberkurve ist leider nicht wirklich aufschlussreich. Ich w\u00fcrde mir w\u00fcnschen mehr Einsicht \u00fcber die Resultate der Datenspende zu bekommen. Eine Landkarte mit \u00f6rtlicher Auswertung, Korrelation mit tats\u00e4chlichen Covid Statistiken, usw. Da diese Daten sicherlich alle existieren sollte es kein Hexenwerk sein, diese auch innerhalb der App zu zeigen.",
         "score": 3,
-        "thumbsUpCount": 39,
+        "thumbsUpCount": 40,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-02-19 12:03:34",
         "replyContent": null,
@@ -721,7 +733,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHVDQtmlwJbLLTT150CSLZ4m-7oq6-8Gg1iU1VqEVO-3WDWjDcSDjrOMzuOdRos2wSu1gFk3hB4HgAT9Os",
-        "userName": "R4M_Slave GT",
+        "userName": "TheSloth _R4M",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMnDw54X5sWfl8PxeCOEUsU24dIaqhFk-Zyiff",
         "content": "An sich eine gute App, die \u00fcbersichtlich gestaltet ist. Unterst\u00fctzt leider nur sehr wenige Fitness Apps und meine ist keine davon :(",
         "score": 4,
@@ -2498,7 +2510,7 @@
     {
         "reviewId": "gp:AOqpTOH-NN174n7e3K_ybDZUbvw5SrJD7TA7M4Mwapr0ZXOky6SEYd2vog5TWDDTSAQyt_WBy6QXA-sOPuuLFUI",
         "userName": "Metbaer",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhpsuIAWHt1Ks1xRUW8zXr2qaZ2PPO2-7erzqgAqf4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaxXTavUjKnRzA_sKZllvPL7GV5MtvxlbSPXGbRN4",
         "content": "Unterst\u00fctzt weder Huawei noch Samsung. 2 riesen hersteller von smartwatches und Fitnessarmb\u00e4nder.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -5341,8 +5353,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEGtgFRj-kBbrvNRPEWQJsjAHAWQKRDEG-nd8pAkifYeNeKrkn-k-G9SrASc-5s37iy1bk73KK6-AV6V4k",
-        "userName": "MLTE MNZL",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjvoVtjpH-wRkJCjN630MBPB5DC9EUmPU91VaZ6BzU",
+        "userName": "Malte Menzel",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitF9kcs4-dAwQ0J05m-YY2znZxMjraIX4wUuc5X-M",
         "content": "Es m\u00fcssen weitere Schnittstellen bereit gestellt werden, Huawai Fit und Mi Fit sind nicht dabei, dabei sind die Ger\u00e4te sehr verbreitet...",
         "score": 1,
         "thumbsUpCount": 1,
@@ -7801,7 +7813,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHpxfTZNlvRp4OGt3iT-l-ih5zwIZ5tUT5PTPfN2H5nGQ95vLUI8Ain1tegqUzxzTa84YHUiHluT3wT9xA",
-        "userName": "C.S. Flight Channel",
+        "userName": "C.S.",
         "userImage": "https://play-lh.googleusercontent.com/-CIpYsleW9uo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckP6HtYxxnlIC7NwyMvDxmoCkhzfw/photo.jpg",
         "content": "Tja, nun schon so viele Updates und immer noch nicht kompatibel mit Fitnesstrackern von Huawei. Sehr schlecht! Ich habe keine Lust mehr st\u00e4ndig nachzuschauen und ich bin nun nicht mehr bereit meine Daten zu spenden. Und Tsch\u00fcss",
         "score": 1,
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.6",
         "at": "2020-04-27 19:56:48",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHPDOFGTlmmN_oFPPl8AT6ZDPSd8JUM21Fw032qR2eRh33M6Ckb8gO6B-dg4k0hpqbFKCN7qdyitmlRI3M",
-        "userName": "Saskia Roquentin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8cF3knTRQRNZOMeptUCrecHRVZdeXTZMtcIEb",
-        "content": "Datenschutz? Kann meine fitbit Verbindung nicht trennen. Auch kann ich mein Konto nicht mehr l\u00f6schen, es hei\u00dft immer: Ein Problem mit dem Server ist aufgetreten.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.8",
-        "at": "2020-04-27 19:49:43",
         "replyContent": null,
         "repliedAt": null
     }

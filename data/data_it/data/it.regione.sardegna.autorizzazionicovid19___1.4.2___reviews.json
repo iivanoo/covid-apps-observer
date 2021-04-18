@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOF9n2JxNXdpCS8_WmoOFCpr_PO3QsvzgHSZuFUQvzUWd5-wGB9fhCNzezdl3CW3PU5T7ExptGcIgEzJdQ",
+        "userName": "Susanna Marro",
+        "userImage": "https://play-lh.googleusercontent.com/-PfGfF4DcvEk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGKaurypPDgNTQtWbR-Ji3Fdj34w/photo.jpg",
+        "content": "L'applicazione non funziona e quando tento di aprirla gira a vuoto. Come posso registrarmi visto che ho un volo venerdi?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.2",
+        "at": "2021-04-17 08:14:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG1I5jRmgRK0V-acxIGfvEKT-81laJsmZIF34CiDri041yow1rNuYx9J1D1UJ2iyRI8AY2177qSgGjfDg",
+        "userName": "gabriele garau",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOzAh_2vm-5XhrqdX2siWUWc4I7t_wQWqHUs4M",
+        "content": "Ciao, parlo da pendolare e quindi devo compilare tale dichiarazione ogni volta, sarebbe utile: LOGIN con impronta digitale o memorizzazione password ( ad oggi ancora non memorizza la Poter richiamare una registrazione precedente e cambiare solo le date ( pensate ad uno che fa spesso lo stesso viaggio)",
+        "score": 2,
+        "thumbsUpCount": 9,
+        "reviewCreatedVersion": "1.4.2",
+        "at": "2021-04-14 09:42:37",
+        "replyContent": "Gentile utente trasmetteremo la sua richiesta allo staff tecnico al fine di migliorare la app. e adeguarla alle esigenze dei viaggiatori. Grazie per aver scaricato Sardegna Sicura.",
+        "repliedAt": "2021-04-14 12:55:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOGiOu_XHX-kBpLlh2--F3iiNCh1LXvCtFW4HzoPBHsur9hqK9MvJQThkTLpVqi0p-9aM9OG0bLpGOXICg",
+        "userName": "Giampiero Farinelli",
+        "userImage": "https://play-lh.googleusercontent.com/-lg3pm8po66M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclz1dV2-SE73O1UM4BwUeCeKHMpxA/photo.jpg",
+        "content": "Non consente modifiche sui passeggeri: mio figlio non \u00e8 partito pi\u00f9 insieme a me, e quindi non mi permette di cancellare il suo nome, e nemmeno di inserire l'esito del mio test...poi, nessun tipo di controllo \u00e8 stato effettuato, sia in partenza che in arrivo, sulle risultanze di questa applicazione...seri dubbi sulla sua utilit\u00e0",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.2",
+        "at": "2021-04-12 20:56:12",
+        "replyContent": "Gentile utente la ringraziamo per la segnalazione e ci dispiace per i problemi da lei riscontrati con la app. Siamo icontinuamente al lavoro per migliorare la app. Grazie per aver utilizzato Sardegna Sicura",
+        "repliedAt": "2021-04-13 16:47:37"
+    },
+    {
         "reviewId": "gp:AOqpTOGz_o2cXCZlPfLct8zo-CpD4sN1c2p0G8v1pMjI2uFgq6kTWzWBTFIjrrkFj-igeIM-fgYHaPjFdI-f4g",
         "userName": "Simona Becucci",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiI6gvVNWRsFmLkdzf7tubPAhWBg9Uhr2DzcwhMMNE",
@@ -53,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiqwTUi-bdeBNCXsCN0j4XbUrA26fJTKyRMGogJ",
         "content": "E' un applicazione che non serve a niente, fatta solo per soddisfare l'ego di qualcuno che crede di poter controllare tutto come se fossimo uno stato dittatoriale indipendente, cosa che non siamo (per fortuna). Ed \u00e8 inoltre un danno per i residenti che necessitano per motivi di lavoro di entrare e uscire dalla regione.",
         "score": 1,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.4.2",
         "at": "2021-03-27 14:53:53",
         "replyContent": "Grazie per aver installato Sardegna Sicura",
@@ -209,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-Cb_Vf5R2jYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPNlYZOUsNII-GWrp9i8pRfmcnNQ/photo.jpg",
         "content": "L'app non da la possibilit\u00e0 di modificare una richiesta gi\u00e0 effettuata sui dati di arrivo o partenza che possono essere variati per ragioni diverse (tipo volo annullato e data spostata...) o di poter cancellare la richiesta per inoltrarne un'altra ex novo. Sicuramente da migliorare.",
         "score": 3,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-19 12:36:51",
         "replyContent": null,
@@ -4310,7 +4346,7 @@
     {
         "reviewId": "gp:AOqpTOGQhxSp_H_zIZvBCZv1xSwevh_ibKPsovYy1SwYvpE87yhN5UK8avWeP5afQHgl0oytLRY5WPa947CB4w",
         "userName": "KNIFAHHH",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgM7NL_idAf-DgmUxfnc3hvk3saV8VTjnDa2mPk6g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjtsEzPXLuAWxdqazXbPaPyI0TAvxpqC1tUDCMN6w",
         "content": "Horror psicologico, simil soulslike dove un errore ti fara rimpiangere di averla scaricata.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4318,18 +4354,6 @@
         "at": "2020-06-24 16:06:46",
         "replyContent": "Gentile utente ci scusiamo per la problematica riscontrata. Siamo costantemente al lavoro per migliorare la nostra app. e rispondere al meglio alle esigenze dei nostri utenti. Grazie per aver scaricato Sardegna Sicura.",
         "repliedAt": "2020-06-24 16:39:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOG1I5jRmgRK0V-acxIGfvEKT-81laJsmZIF34CiDri041yow1rNuYx9J1D1UJ2iyRI8AY2177qSgGjfDg",
-        "userName": "gabriele garau",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOzAh_2vm-5XhrqdX2siWUWc4I7t_wQWqHUs4M",
-        "content": "Ciao, parlo da pendolare e quindi devo compilare tale dichiarazione ogni volta, sarebbe utile: LOGIN con impronta digitale o memorizzazione password ( daaaaaiiiii non la devo mica inserire ogni volta !!!!( questionario sanitario: inserire una griglia con la selezione si/no dei singoli sintomi senza dover entrare in ciascuno dei menu si/no relativo al singolo sintomo. poter richiamare una registrazione precedente e cambiare solo le date ( pensate ad uno che fa spesso lo stesso viaggio)",
-        "score": 3,
-        "thumbsUpCount": 9,
-        "reviewCreatedVersion": "1.2.8",
-        "at": "2020-06-24 07:54:10",
-        "replyContent": "Gentile utente ci scusiamo per la problematica riscontrata e ti ringraziamo per i tuoi suggerimenti. Siamo costantemente al lavoro per migliorare la nostra app. e rispondere al meglio alle esigenze dei nostri utenti. Grazie per aver scaricato Sardegna Sicura.",
-        "repliedAt": "2020-06-24 14:23:45"
     },
     {
         "reviewId": "gp:AOqpTOGmpfghM_DGQ-Uc5UcFaOEqTSSlOtwphF_EyvljxElEw_GD4BYhsgcgz0ITzO09cT7jVfGawasI2VWtGg",

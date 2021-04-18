@@ -209,25 +209,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> Nice service thanks from sodber<br> :date: __2021-04-12 14:29:16__
+> This is good<br> :date: __2021-04-17 13:50:21__
 
-> Good<br> :date: __2021-04-11 22:03:57__
+> Excellent<br> :date: __2021-04-16 22:09:30__
 
-> easy to use<br> :date: __2021-04-11 15:32:45__
+> Excellent app<br> :date: __2021-04-16 15:47:08__
 
-> Never had any issues,Must be lucky<br> :date: __2021-04-11 02:41:01__
+> Such apps makes me feel of a new age of technology.<br> :date: __2021-04-16 03:55:55__
 
-> Very useful app making it easy to access some essential things. The developers address reported bugs very quickly which is great. Just a suggestion, althought knowing all the different departments in the government it might be impossible. I'd love to be able to have my trade licence, NDIS worker check and even JP qualification showing in the app.<br> :date: __2021-04-11 02:07:56__
+> Okay.<br> :date: __2021-04-16 03:01:11__
 
-> Easy to use and age friendly<br> :date: __2021-04-10 07:44:49__
+> So far so good.<br> :date: __2021-04-16 00:41:34__
 
-> Great<br> :date: __2021-04-10 06:56:20__
+> A well designed app that is easy to navigate. Devs listen to feedback and are reasonably prompt correcting issues. Like dark mode and putting covid sign in at the top of the home page.<br> :date: __2021-04-14 09:47:04__
 
-> Better<br> :date: __2021-04-10 05:32:42__
+> Great app easy to use<br> :date: __2021-04-14 07:54:57__
 
-> Easy to use.<br> :date: __2021-04-10 04:53:25__
+> Yes easy to use app. Beneficial information<br> :date: __2021-04-13 07:13:40__
 
-> Accessible and practical.<br> :date: __2021-04-10 04:07:40__
+> *Edit* Issue has now been fixed. Thanks for your swift response.\*\* This App is frustrating. I was able to access it until the covid check ins. Now I can't get into my account. I can log into my account through web access but not through this app. I've used the same credentials to log into the App but it says my password is incorrect. I've reset several times only to realise it's the app that's the issue. Because of this issue, I can't even (Covid) check into any places.<br> :date: __2021-04-13 00:02:10__
 
 
 
@@ -237,7 +237,9 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
-> Where do I add my dependants when checking in?<br> :date: __2021-04-12 04:08:20__
+> Half the time it wouldnt open<br> :date: __2021-04-15 05:20:56__
+
+> Where do I add my dependants when checking in? Found it 😜<br> :date: __2021-04-13 03:30:50__
 
 > I think this app is great. Fact that I no longer need to panic when cops pull me over cause I forgot my wallet and licence is great. I honestly don't know why anyone's got any negative issues. No trouble signing in or out of anywhere. Could be even better if I could add my Medicare.<br> :date: __2021-04-08 16:58:23__
 
@@ -255,8 +257,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Good advice and fast service nsw.<br> :date: __2021-04-02 03:43:41__
 
-> Good<br> :date: __2021-04-01 23:54:56__
-
 
 
 #### 3-star reviews
@@ -264,6 +264,12 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
+
+> To many loops that bring you back to the same place. Extremely difficult to make contact without interogation<br> :date: __2021-04-17 10:31:30__
+
+> Slow to update<br> :date: __2021-04-15 01:25:49__
+
+> Only giving it 3 because how long is the photo id for proof of age<br> :date: __2021-04-14 14:10:31__
 
 > If this is the Services NSW app, why can't I read the current value of my senior's travel card or see my Dine and Discover details? Where is my Opel card? It is good for my licence, but when I want to log in to a Covid Safe site it locks up. I don't want to be too critical of someone's effort it providing the information it does provide. Buy really! It does seem to have some serious limitations.<br> :date: __2021-04-10 06:49:43__
 
@@ -279,12 +285,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Not that smart. I already have my digital license on the apps for a while but when I select for NSW $100 voucher, still asked me to manually put back my Drivers license details & address. It makes me think for a while that my details are compromised. Also need to provide 1 more documents (e.g. passport, Medicare etc) to claim it. Hope this is a very secure apps.<br> :date: __2021-04-01 21:16:14__
 
-> Congrats .gov.au Compared to the rest of the world, you did good. Pat yourself on the back... Public servants in aps levels that actually worked for the public did really well. Shame you will never get any credit... Your EL will,... Who wanted your head in the early stages. Now forgets all the work done by those who knew what they were doing'<br> :date: __2021-04-01 13:53:19__
-
-> Good App. But QLD app for QR Code is better , QLD government sign in System enables you to create QR codes for different venues belong to one ABN & Address while only change the venue name/discreption which make sense if you own large site with multiple venues belong to the same address & ABN. sorry that's made me feel jealous of QLD 😊.<br> :date: __2021-03-31 14:27:51__
-
-> Check in not currently working. Well let you check in, but when you go to check out there is no record of check-in. Shows previous one instead.<br> :date: __2021-03-28 00:57:08__
-
 
 
 #### 2-star reviews
@@ -293,7 +293,7 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
-> This App is frustrating. I was able to access it until the covid check ins. Now I can't get into my account. I can log into my account through web access but not through this app. I've used the same credentials to log into the App but it says my password is incorrect. I've reset several times only to realise it's the app that's the issue. Because of this issue, I can't even (Covid) check into any places.<br> :date: __2021-04-12 00:06:27__
+> Can't signin anymore<br> :date: __2021-04-18 07:50:59__
 
 > Was working fine up until today. It's saying that my phone is using "non standard software". I haven't installed or changed anything and was using it just fine the other day.<br> :date: __2021-04-08 10:22:17__
 
@@ -321,24 +321,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Complicated and confusing 😂<br> :date: __2021-04-12 11:56:35__
+> Not happy at all. Could not able login in mobile app by using correct credentials.<br> :date: __2021-04-18 07:03:33__
 
-> The Covid-safe check in requires a phone number. But I often have my SIM card out and it can't verify my number without it. THIS APP IS USELESS!<br> :date: __2021-04-12 09:15:49__
+> Painful..i cannot log in. I keep changing my passwords. Still cant log in. Uninstall/reinstall the app like 10 times. Cant scan covid checks.<br> :date: __2021-04-17 09:06:12__
 
-> Absolutely woeful, pathetic and disgusting! Its originators should be castrated to prevent their lunacy from spreading. Better still hang the mongrels!!<br> :date: __2021-04-11 04:38:52__
+> Not impressed at all so far. Just logging in is a hassle as it tells me I've used the wrong email or password even though I've used the same credentials before. The same thing happens every time so I uninstalled and reinstalled the app. I was able to log in after that but then I tried to redeem one of the Dine & Discover vouchers today for the first time and when the venue scanned the QR code, it came up as invalid. Not happy Jan<br> :date: __2021-04-17 08:49:11__
 
-> 4 years later and several phones, this app stiĺl does not work for me<br> :date: __2021-04-10 15:53:13__
+> Where on earth do i find my WWC number? This is rediculous to use on a computer!????<br> :date: __2021-04-17 08:46:27__
 
-> I can login using a mobile browser but not the app. My email and password is correct and its not letting me log in. Any suggestions, its really frustrating<br> :date: __2021-04-10 12:03:08__
+> It won't let me use my gmail account. The app says it's a invalid email address?<br> :date: __2021-04-17 03:27:11__
 
-> I have not been able to successfully use this to check in to venues. I use to be able to when going through the webpage (using the mobile) however, now that I have the app on the phone it does not allow me to proceed. States to try again later, I do so many times and it still doesn't go ahead. Using Android phone.<br> :date: __2021-04-10 07:35:39__
+> I still could not log in with service nsw app,even i try to change a new password<br> :date: __2021-04-16 10:49:19__
 
-> Cannot claim vouchers<br> :date: __2021-04-10 06:59:02__
+> Frustrating! Keeps saying password incorrect (I can login on the website with it, I even changed it just in case, no go), keeps glitching, does not update properly... Driving me batty! 🤯🤯🤯<br> :date: __2021-04-16 01:26:51__
 
-> It shows me random peoples personal data when I use the app<br> :date: __2021-04-09 10:48:43__
+> Very bad<br> :date: __2021-04-15 11:15:16__
 
-> I can't even log into the app as it constantly says incorrect email or password, yet my information is very much correct (reset my password too).<br> :date: __2021-04-08 15:17:30__
+> App won't load at all.<br> :date: __2021-04-15 04:40:30__
 
-> No use. Always cannot check in using this app. Waste of time<br> :date: __2021-04-08 09:11:02__
+> App icon does not appear on home screen.<br> :date: __2021-04-15 03:48:29__
 
 

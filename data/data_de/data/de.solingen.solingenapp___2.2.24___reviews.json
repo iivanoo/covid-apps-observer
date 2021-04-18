@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOGHXigbzHk_4afYTOETVluRDQqbyV_EyCXZy5tldlZaj7Bw9CWUpZTy9vVhqCDTlXu_msz7E60zFcn_G2c",
+        "userName": "Christiane Baltus",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzuWAd8PjWI7vVNW-AXYyYAfooh_-1GLRks8MWUA",
+        "content": "Leider schlie\u00dft sich seit Tagen die App sofort, nachdem die Verbindung zum Server erfolgreich angezeigt wurde. Habe die App bereits gel\u00f6scht und neu installiert, es \u00e4ndert sich nix. Sehr schade, habe sie gerne genutzt.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-04-17 20:14:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHt_G4GTZAH8jfxmsGhDYwfpnxyzJp7hBQ4YtKm1zaKQUI08Wui0CcTGp19oH5TOe5Yesk-td1oHxq_Rco",
+        "userName": "codecyclist",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJ9nnceki87D5FQnnkgYYbhYRs29YuRg1wCMc1",
+        "content": "Sch\u00f6ne Umsetzung, toll was alles mit React Native geht! Meine W\u00fcnsche: - Corona Positivtestrate bitte in Prozent im Bezug auf die gesamte Testmenge - Anzahl der aufgef\u00fchrten Tests mit angeben - Die Ladeanimation nervt. Weg damit. - Manuelle Anwahl der Wetterstation- keine Daten",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-04-16 15:39:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGPR0RdNgzQaTzKu9qf9fSAX-SiICKTuJCve7acyClVuCl05rr1FWS5g-SAjrLMM814Y4bImrjSUELF3H4",
+        "userName": "Kai Mummert",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSg_tGwbYdw3TGtLp3rPvpFoNL0MpSO9BmHFit-A",
+        "content": "Der Ansatz der App ist eigentlich gut, die Umsetzug finde ich leider nicht sehr gelungen. Regelm\u00e4\u00dfig erscheint beim Start eine Fehlermeldung und die App wird geschlossen. In der Regel l\u00e4sst sie sich dann erst wieder nach ein paar Stunden, manchmal gar nach ein paar Tagen \u00f6ffnen. Am meisten interessieren mich die aktuellen Meldungen. Diese erhalte ich auch immer wieder per Push-Benachrichtigung. Tippe ich dann darauf wird die App zwar ge\u00f6ffnet, die Nachricht aber nicht angezeigt. Schade!",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.24",
+        "at": "2021-04-13 15:02:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOG8pUbLJ4OMcrV2Lez0T9uVaB0gqS-dudf0U3C1lUnRIoYc-fe18CJEFK0JM0lGvDaitRjeM53CBp1w4-o",
         "userName": "J A",
         "userImage": "https://play-lh.googleusercontent.com/-Zu77ttWrndM/AAAAAAAAAAI/AAAAAAAAATI/AMZuucnZR_eC181IDLKRgFWV2UScmd6Z9A/photo.jpg",
@@ -101,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6e7ki1CJq1L8WrT7Z23Mv3wJK5hXH8Hql9LjZcQ",
         "content": "Derzeit st\u00fcrzt die App beim starten ab, zuerst wird Fehler:100 angezeigt, dann ist die Verbindung zum Server doch erfolgreich und dann st\u00fcrzt die App ab. Edit: Der Tipp mit der Neuinstallation hat geklappt. Vielen Dank \ud83d\udc4d.",
         "score": 5,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "2.2.24",
         "at": "2021-02-17 15:10:54",
         "replyContent": "Hallo THE TO, vielen Dank f\u00fcr die Aktualisierung der Bewertung! Viele Gr\u00fc\u00dfe Ihr Team Solingen App",

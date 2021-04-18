@@ -129,25 +129,25 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
+> Senecesita novedades Nuevas gracias por todo<br> :date: __2021-04-16 01:46:38__
+
+> Estamos en ello. A ver si vence os al bicho<br> :date: __2021-04-15 19:53:24__
+
+> Soy Nacho, ya yo estoy Bacunado con las dos dosis contra covid 19.<br> :date: __2021-04-15 16:43:13__
+
+> Me gusta<br> :date: __2021-04-15 01:07:17__
+
+> Buenos<br> :date: __2021-04-13 20:33:35__
+
+> Más actividad<br> :date: __2021-04-13 15:21:02__
+
+> Fácil de configurar<br> :date: __2021-04-13 09:48:53__
+
+> Buena<br> :date: __2021-04-12 22:11:03__
+
 > La creo muy conveniente dentro de lo qué estámos viviendo, 🙏🌛🌛🇪🇸🇪🇸🌛🌛<br> :date: __2021-04-12 19:20:35__
 
 > No me ha avisado nunca pero y si sí?<br> :date: __2021-04-11 17:37:38__
-
-> Me gusta<br> :date: __2021-04-10 18:19:13__
-
-> Aplicación necesaria. No es nada intrusiva y no he notado variación enla vida de la batería.<br> :date: __2021-04-09 22:41:47__
-
-> V G<br> :date: __2021-04-08 23:05:11__
-
-> Una muy buena aplicación que nos permite estar alerta ante cualquier imprevisto del covi 19, fantástico<br> :date: __2021-04-08 19:09:36__
-
-> Aún sin novedad.<br> :date: __2021-04-08 17:39:24__
-
-> A finales del año pasado he estado en el hospital unos días por una infección de Riñon .y en la coronaviros DI NEGATIVO..RENGO 74 AÑOS..<br> :date: __2021-04-07 23:11:44__
-
-> Buena app y no consume a penas batería. Para parar la pandemia deberíamos tener todos esta app instalada.<br> :date: __2021-04-05 16:35:05__
-
-> Pedazo juego, el mejor shooter del mundo<br> :date: __2021-04-01 13:31:54__
 
 
 
@@ -156,6 +156,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.radarcovid 4 reviews"/>
 </p>
+
+> Menudos sustos mete la "notificación semanal" de la última versión. Francamente ¿es necesario que avisen cada semana de que tienes las notificaciones de exposición activadadas? Eso ya lo sé, de hecho ¿para qué iba a quererlas desactivar si la finalidad de esta aplicación es que te notifique si has estado expuesto o notificar tú si has dado positivo? Francamente o el mensaje está equivocado o que te notifique de que la app funciona es no solamente innecesario sino alarmante. Por favor, revisenlo.<br> :date: __2021-04-15 12:58:24__
+
+> Super<br> :date: __2021-04-13 15:10:01__
 
 > Lo veo muy bien me gusta mucho estar informada<br> :date: __2021-04-11 16:24:14__
 
@@ -173,10 +177,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Es muy util<br> :date: __2021-03-21 00:46:23__
 
-> Muy buena<br> :date: __2021-03-19 13:53:17__
-
-> Bien<br> :date: __2021-03-17 15:52:21__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
+
+> Siempre está que no funciona bien<br> :date: __2021-04-13 22:50:42__
 
 > Bb<br> :date: __2021-04-11 12:42:12__
 
@@ -203,8 +205,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > La idea es buena pero si el infectado no lo informa en la aplicación no vale para nada.Despues de meses y haber estado cerca de positivos nunca me ha alertado<br> :date: __2021-03-24 07:20:06__
 
-> La app funciona bien, pero en el momento que está activo el modo ahorro de batería en mi Xperia me empieza a decir que no funciona por los datos en segundo plano.<br> :date: __2021-03-19 23:42:12__
-
 
 
 #### 2-star reviews
@@ -212,6 +212,12 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.radarcovid 2 reviews"/>
 </p>
+
+> Cuando te pones a hacer las misiones finales es imposible conseguir el radar que te pone en la 5 fecha esque no es normal porfavor arreglen eso<br> :date: __2021-04-17 22:19:03__
+
+> Lamentablemente no sirve para nada. Con tanta seguridad no hace su función ya que no es obligatoria tenerla instalada y menos aún activarla si alguien está infectado, además de que las personas asintomáticas no activarian el "modo infectado" al no saber su infección por lo que resta eficacia a la App. Deberían darle una solución más eficaz. La mejor protección es la prevención y sentido común.<br> :date: __2021-04-17 13:59:02__
+
+> Poco útil<br> :date: __2021-04-15 10:36:07__
 
 > S.i pusieran todos los demás seria mejor que ahora<br> :date: __2021-04-09 11:08:50__
 
@@ -227,12 +233,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > No me deja activar el radar covid<br> :date: __2021-03-25 21:41:01__
 
-> Depende de que alguien positivo que se salta las normas saliendo a la calle lo confirme en la aplicación?<br> :date: __2021-03-25 17:49:02__
-
-> Estuve usándola días parecía que estaba buscando poquemons<br> :date: __2021-03-24 18:50:22__
-
-> Muy mala<br> :date: __2021-03-20 21:01:15__
-
 
 
 #### 1-star reviews
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> No sirve para nada esta app dare un 5 si la mejorais<br> :date: __2021-04-12 13:19:45__
+> Mierdaseca<br> :date: __2021-04-18 05:37:03__
 
-> Me salía de vez en cuando un mensaje avisando de que la app había dejado de funcionar. La actualizaba y seguía igual.<br> :date: __2021-04-11 20:55:31__
+> La verdad no sé si aún es necesario está aplicación?? Porque el otro vi la noticia que la aplicación no sirvió de mucho 🤷 y ya dejaron de utilizarlos 😑 mejor dejaré de usar.<br> :date: __2021-04-17 23:37:04__
 
-> En esto se van los impuestos que pagamos todos, flipante<br> :date: __2021-04-11 19:54:47__
+> No es útil en la forma actual<br> :date: __2021-04-17 22:19:23__
 
-> ninguna<br> :date: __2021-04-11 09:30:22__
+> Caca🤮🤮🤮🤮🤮<br> :date: __2021-04-17 17:55:46__
 
-> App ridicula hecha por tres listos para pillar dinero público. Nada nuevo por otra parte.<br> :date: __2021-04-11 09:18:50__
+> Directamente no funciona. Por motivos de trabajo normalmente estoy en bastantes hospitales y por eso la instalé. Nunca he tenido un sólo aviso. Por no comentar que a los conocidos positivos que he tenido nunca se les ha facilitado el código para añadirlo en la aplicación.<br> :date: __2021-04-17 16:06:04__
 
-> Va fatal, siempre me da algún fallo, no se conecta bien y por tanto no mide bien la exposición<br> :date: __2021-04-11 08:40:16__
+> Malisimo<br> :date: __2021-04-17 15:45:36__
 
-> No funciona Ni avisa de positivos cerca<br> :date: __2021-04-11 01:18:47__
+> No sirve para nada<br> :date: __2021-04-17 11:37:08__
 
-> Resumo... fiasco de aplicación.🤮👍<br> :date: __2021-04-11 00:09:29__
+> Después de tenerla instalada muchísimos meses y decirme siempre que no funciona correctamente, la desinstaló... Y no, no tengo ningún modo ahorro batería activado y siempre tengo el Bluetooth activado por el coche.<br> :date: __2021-04-17 10:47:11__
 
-> No sirve para nada, he tenido varios positivos cerca y no sé ha activado en ningún momento... para esta aplicación el covid parece que no existe<br> :date: __2021-04-10 23:20:39__
+> No es práctica si su uso no es obligatorio<br> :date: __2021-04-16 21:54:05__
 
-> UNA BASURA<br> :date: __2021-04-10 22:10:47__
+> No se puede actualizar, y no cumple con las espectativas de una plicación de el gobierno de España. Se podría poner un nombre con un aviso de que todas las personas con las que has estado más de 15 minutos podrán verte. He puesto 1 estrellas porque no está a la altura.<br> :date: __2021-04-16 20:50:57__
 
 

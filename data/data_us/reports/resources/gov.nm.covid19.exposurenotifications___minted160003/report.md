@@ -120,6 +120,10 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-04-16 15:30:07__
+
+> Simple, non-invasive (privacy-wise), and works on my One Plus 6 phone. To be truly useful, more people would need to install it.<br> :date: __2021-04-13 00:37:48__
+
 > Awesome<br> :date: __2021-03-29 19:20:18__
 
 > Installed with no issues on moto g6. Glad NM put one of these together!<br> :date: __2021-03-27 02:29:27__
@@ -135,8 +139,6 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 > Help me out<br> :date: __2021-03-23 18:57:14__
 
 > works gr8 for me<br> :date: __2021-03-23 18:15:55__
-
-> So far it works fine. More people will need to sign up and download it for it to be considered useful<br> :date: __2021-03-23 17:38:41__
 
 
 

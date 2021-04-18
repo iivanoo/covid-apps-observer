@@ -230,6 +230,12 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Excellent service!<br> :date: __2021-04-16 23:32:52__
+
+> This is how healthcare should be delivered! Thank you for the great experience<br> :date: __2021-04-15 02:33:52__
+
+> Loving this. The way medicine should be.<br> :date: __2021-04-12 20:46:39__
+
 > Dopeness<br> :date: __2021-04-10 01:39:27__
 
 > I always find out valuable info to deal with medical issues as they arise. The staff is excellent and the video chat occurs in a short period of time<br> :date: __2021-03-31 20:54:11__
@@ -243,12 +249,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Perfect.<br> :date: __2021-03-09 21:19:59__
 
 > Easy !<br> :date: __2021-03-07 03:38:52__
-
-> Super easy to make appointments and talk with a doctor<br> :date: __2021-03-02 21:14:19__
-
-> Immediate acces to health care virtually, the app works phenomenal! I will never go without my One Medical membership!<br> :date: __2021-02-24 23:13:39__
-
-> Great app! Easy to use & super helpful with accessing and managing all services with my primary care provider.<br> :date: __2021-02-24 11:02:08__
 
 
 
@@ -342,6 +342,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.onemedical.android 1 reviews"/>
 </p>
 
+> Money-grabbing company. They require you to book an appointment for literally everything, so that they can bill your insurance. A few days after an appointment, they told me to schedule another visit just to get a prescription for a medication I've been taking for ~2 years without issues. What's the point of paying for this service when they can't help on demand?<br> :date: __2021-04-17 06:00:47__
+
 > want to call a doctor and set up an appointment? well it's 2021 and you can't do that anymore. one medical extorts $200 out of you so they can play middleman to a phone call.<br> :date: __2021-04-07 00:36:18__
 
 > During a pandemic this company forces you to create an account, sign up for a free trial, and download this app just to try and get a vaccine appointment. Immoral and putting company & profit before what they claim as their mission: providing care to those who need it.<br> :date: __2021-04-03 22:56:21__
@@ -359,7 +361,5 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Trash bag of an app that gets stuck on a perpetual reload screen when you sign in. Oh and it signs you out by itself. Pretty sure this app gave my phone the electronic version of covid.<br> :date: __2020-12-09 20:44:22__
 
 > So far not good the app is slow and cumbersome....seems to do something weird to my camera<br> :date: __2020-12-08 22:06:48__
-
-> New users: Be very careful! One Medical did not indicate that my appointment would not be covered by my insurance nor was any amount ever presented to me beforehand. For a service that is digital and online, that is outright dishonesty, which is tantamount to scamming your customers. Shame on you, One Medical!<br> :date: __2020-09-17 19:54:27__
 
 

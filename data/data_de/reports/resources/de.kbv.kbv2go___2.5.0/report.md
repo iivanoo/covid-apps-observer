@@ -252,6 +252,8 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="1_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 1 reviews"/>
 </p>
 
+> Die App schließt sich sofort wieder automatisch, ich habe keine Chance sie zu öffnen!<br> :date: __2021-04-15 15:59:37__
+
 > Scheinbar ist die App nicht für mein Tablet geeignet. Ich habe das Tablet auf eine größere Schrift eingestellt und finde in der App (dadurch?) noch nicht einmal eine Suchfunktion.<br> :date: __2021-03-09 06:49:16__
 
 > War klar dass die App nichts taugt Wenn die Kassenärztliche Vereinigung nicht Mal telel. Rückruf , wie versprochen, zustande bringt , obwohl Notfall Code.... Armer Haufen mit der App und mit der Patientenbetreuung .... Hauptsache den Ärzten und der Vereinigung geht's gut .... Und scheffeln....<br> :date: __2021-02-08 14:10:00__
@@ -269,7 +271,5 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 > Dauerhafte Fehlermeldung: Netzwerk getrennt. Kann keine Kataloge oder Nachrichten laden.<br> :date: __2020-03-29 13:33:04__
 
 > Ständige Fehlermeldung : Netzwerk getrennt.<br> :date: __2020-02-07 09:57:28__
-
-> Seit den letzten Android-Aktualisierungen lassen sich die pdf nicht mehr öffnen. (Wollte die trotz Programmstart noch nicht verfügbaren Pat.-infos Koloskopie ansehen) Auf den KBV-Nachrichten-Seiten öffnen sich die mit einem '+' versehenen Untertexte nicht mehr. Beim Versuch, Besserung durch Neuinstallation zu erreichen, ist diese nicht mehr möglich. Vielleicht ist die letzte Aktualisierung in 2017 selbst für die KBV nicht mehr ganz zeitgemäß! ZUS: App mit meinem Galaxy S8 nicht mehr nutzbar<br> :date: __2019-04-12 21:45:32__
 
 

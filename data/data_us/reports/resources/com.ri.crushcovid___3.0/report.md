@@ -181,6 +181,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="com.ri.crushcovid 4 reviews"/>
 </p>
 
+> The app completely missed my morning hike, seems to work only intermittently. The updated versions are a big improvement, it is now working reasonably well.<br> :date: __2021-04-17 13:39:11__
+
 > more f<br> :date: __2020-08-06 01:07:34__
 
 > Kudos to the state and the developers for working to put this out. Maybe needs some improvements but none I can suggest. Last update was great allowing us to add names to location diary.<br> :date: __2020-07-13 23:21:21__
@@ -198,8 +200,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Resident of Rhode Island<br> :date: __2020-07-10 19:39:10__
 
 > if you don't see the icon, it's not tracking you.<br> :date: __2020-07-04 23:43:54__
-
-> Happy with it, but wish it had: - lower battery drain - visual display of location tracing Thanks!<br> :date: __2020-06-08 19:14:53__
 
 
 

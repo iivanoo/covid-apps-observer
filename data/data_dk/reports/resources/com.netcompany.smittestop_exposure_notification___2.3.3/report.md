@@ -274,6 +274,10 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.netcompany.smittestop_exposure_notification 1 reviews"/>
 </p>
 
+> Looks like the app is back to not checking for exposures, even if I open it manually. It suddenly struck me that I hadn't see the "checking for exposure" notification in a while, and lo and behold, there's 0 checks registered by my phone the last 30 days. Furthermore, the app has used 6mb of data since January (seems too little), and 0mb in all of April. I'm going back to my original rating: absolutely atrocious that THIS has been released to the population, as it's completely useless.<br> :date: __2021-04-17 06:52:29__
+
+> Only using Blue tooth right... Oh wait we need to use your GPS.. for what exchanging local messages over BT right as if..<br> :date: __2021-04-13 10:55:27__
+
 > Blev nødt til at afinstallere, da den seneste opdatering stopper igen og igen og strømforbruget er helt ekstremt, så højt at telefon advarer om forbruget.<br> :date: __2021-03-20 10:45:27__
 
 > Dårlig app. Dur ganske enkelt ikke. Stopper jævnligt uden grund, bruger urimeligt CPU og dermed batteri... Og værst: har ikke én eneste gang fundet nærsmittet, selvom jeg flere gange har været i nærheden af en smittet. Hermed afinstalleret. Håber ikke staten har betalt for det ulødige produkt.<br> :date: __2021-03-19 19:41:31__
@@ -289,9 +293,5 @@ The Smittestop app has been installed by more than **500000** times. At this tim
 > What was the point of this app? Germany opensourced their english app way before smittestop was published, and theirs worked well while smittestop found out only in november that for the entire time theirs didnt. German coronawarnapp has more features and did not destroy the users trust. When i ask danes if they use smittestop app they usually say no or they have never heard of it. I know people who had risk contact over coronawarnapp so im sure it works. Screw this app im using coronawarnapp.<br> :date: __2021-02-05 12:44:01__
 
 > Virker ikke. Står konstant som inaktiv og kan ikke starte smittestop Hver gang jeg trykker på start og bekræft sker der ikke noget og den forbliver inaktiv.<br> :date: __2021-02-03 12:15:27__
-
-> I very much doubt it works at all. Issued me with an alert after I had been at home on my own for several days. My wife gets alerts several times every week and is only in contact with people within our bubble who doesn't even use the app. Completely random. Maybe it's just a trick so that people go and get tested. Would be great if they could give you the date and time of when you were potentially exposed, because then it's very easy to figure out if it works or not.<br> :date: __2021-01-26 06:10:04__
-
-> Great idea, poor executiom<br> :date: __2021-01-21 21:31:27__
 
 

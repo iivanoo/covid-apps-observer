@@ -129,6 +129,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> Haven't used it uet<br> :date: __2021-04-16 01:48:42__
+
 > Quick and easy to use<br> :date: __2021-04-10 18:49:00__
 
 > Great App..<br> :date: __2021-03-29 06:45:05__
@@ -146,8 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > This app and proves your phone it works really well I suggest you tried<br> :date: __2021-02-22 21:24:42__
 
 > Perfect job!! Great tool !!!!!!<br> :date: __2021-02-20 02:51:53__
-
-> Great app wa notify<br> :date: __2021-02-13 02:17:35__
 
 
 
@@ -213,6 +213,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
 
+> App is not accurate. People around me have tested positive for Covid and I have never received a notification from the app.<br> :date: __2021-04-15 18:31:51__
+
 > The Bluetooth notification is annoying. I'm at home most of the time and am not going to have Bluetooth on all the time.<br> :date: __2021-03-18 15:21:01__
 
 > I'm about to uninstall. I'm not going to keep BT on 24/7 and I am fully aware that when it is off I can't get warnings. I'm at home 99.9% of the time. The app used to let me clear the notification but recently left the notification posted full time even after acknowledging. Annoying people isn't the way to get them to adopt.<br> :date: __2021-03-12 10:29:57__
@@ -231,8 +233,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > I was just wondering if you have to have bluetooth on all the time in order for the exchange of private codes or it it does it automatically?<br> :date: __2021-01-04 07:11:42__
 
-> Nice concept, but poor execution on letting the public know it is available, and letting them know how the app works and what safeguards are in place to protect their privacy. To many people think the app will share personal information, so are unwilling to download it. This is making the app unusable as it was designed to be used. If only one person out of a hundred has downloaded it and is using it, then what use is having it on your phone?<br> :date: __2021-01-01 09:30:17__
-
 
 
 #### 1-star reviews
@@ -240,6 +240,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
+
+> I believe that people are not using the app and reporting they have COVID-19.<br> :date: __2021-04-14 02:27:37__
 
 > DISSAPOINTINGLY USELESS. I'm very supportive of this app in theory, but it's basically rendered entirely useless when users cannot self-report, when many positive users can't get a code, and even if they are called by the health dept you have to ask for one, they don't automatically offer a code or recommend this app. To take the cake, many users report multiple state health staff having NO IDEA about such code when asked about it. So sad, this app could have been so useful.<br> :date: __2021-04-10 22:42:26__
 
@@ -258,7 +260,5 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > This app was a good idea, but there wasn't much thought put into the development of it. There is no way to enter a positive result or exposure without a verification code. This makes the app entirely pointless since I know of nine positive results with no phone calls being dodged, just no way to get a code. This seems like a pretty big oversight.<br> :date: __2021-01-31 01:50:52__
 
 > Literally never a warning... Deleting I don't need to be spied on and literally get nothing back from the app<br> :date: __2021-01-30 05:45:49__
-
-> Deleting off phone. Why have an app to notify or be notified of a positive when I was not given a code. Almost pointless in conservative part of Washington.<br> :date: __2021-01-28 07:03:34__
 
 

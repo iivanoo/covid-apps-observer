@@ -1,5 +1,161 @@
 [
     {
+        "reviewId": "gp:AOqpTOHIGlH5ucMZOMjS1rVPwnnXabEXkqzfHw9tG-zKInuLI4IRbNMPQ1LqBpWSIp8JqiYpalFUB9akt42h96s",
+        "userName": "N K",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GglWpmbXA5LFqlwjoaOf9ICSAQSKPBFtLSTh3eU18c",
+        "content": "This app is worthless. It hasn't checked for exposures since Jan 28.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-18 02:59:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOESqU56cYF0FdLVfU2sEQ7lb5qSF8mxyimFOLj2VB1iWy2vOIyVwPopiLtij6xVQtRJ9S8oEk1iEgW0Eik",
+        "userName": "Cetandi Bolger",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitXxVD6aSAsw7b3nYNRSpWIDK9mD_ZTWiU4r8vfQ",
+        "content": "Not that it matters now, but on March 28th my daughter and I tested positive for Covid. This app has still not notified us. So just a heads up. You can be in the same job/house with someone who is positive and there will be ZERO notification.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-17 18:31:44",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEP5D_PbVg4y22iOYKx5fY-5dvCxAMiwUTDhGNwjESHlTl73jKPjLoiygbqfXJ6F_Z6HGYYJZBBpW6GC8M",
+        "userName": "Paris Pope",
+        "userImage": "https://play-lh.googleusercontent.com/-VrXbEDMdmNQ/AAAAAAAAAAI/AAAAAAAAF5o/AMZuucnMQ8XW_SDqO6dt104p9vriczJV7A/photo.jpg",
+        "content": "Useless I've had it on since I installed it and I travel all over for work and.i live in michigan the highest infection rate and not one alert",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-17 14:43:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGPnCpM7YuxwOdRr24Uq4TaNS-PSh2WRXRjRovQy3Yvt3aa0eEmjqI2NGwrysi3TGdePXVviHEpiUxgDV8",
+        "userName": "John Ward",
+        "userImage": "https://play-lh.googleusercontent.com/-iY5zH3FvUus/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3KWAKmVfmNWuWaFTIviz9UvQEyA/photo.jpg",
+        "content": "Update: App was working fine until April 4th. It is April 17th today and I haven't had any exposure check since the 4th. I changed my settings so the app doesn't get turned off due to battery usage, but that did nothing. Why do the other states have an app that works but not Michigan? I work in a grocery store and this would be so helpful if it worked, but instead it's a big pile of steamy turd.",
+        "score": 1,
+        "thumbsUpCount": 45,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-17 14:30:21",
+        "replyContent": "Hi John, we've worked with Google on a solution for the past month that was released on Friday to resolve this issue. It looks like you have the new app installed. We are sorry that the app does not go back in time to look for past exposures after installing.",
+        "repliedAt": "2021-03-08 17:01:08"
+    },
+    {
+        "reviewId": "gp:AOqpTOFbEcIIPwY5wMiTNx0pcHU4_GqmewhJvoUnes8pzotjL1a4mA23k1lUqmV1SzVEhhsPbEZelNXpqTTPI6M",
+        "userName": "Beth Godleski",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtQWjEoksX6bJ_c2JsXBRPdbQkmwXnm0d8RKfy",
+        "content": "Sadly, the day I went back to work with young children, the app stopped working.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-15 02:20:37",
+        "replyContent": "Hi Beth, sorry to hear that. Your Samsung device\u2019s battery management software may be cancelling background tasks created by the exposure notification system. We are continuing to research & work w/ Google to identify a solution. Please update settings at https://dontkillmyapp.com/samsung. Email us mdhhs-micovidalert@michigan.gov if you need help.",
+        "repliedAt": "2021-04-15 18:17:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOFsoVFAjm5FvL29NfnmaoCvT44owDlO2YG-UM5-c3jh06u-m07FsRMsCTef1ZXm5Ah6VX9KMK4oN20dRoU",
+        "userName": "billie zinke",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdNjscDG-2XhJX8RsHAbJ-uO2YZaiNbPZjIMTi",
+        "content": "*** Update *** So I uninstalled this for a while. Finally heard they improved the app and reinstalled. It worked for a week or two. But now it again hasn't checked since April 6th. Today is the 14th. My app is up to date. Which is sad since Michigan currently has the highest infection rate in the nation. I'm fully vaccinated now. I'll continue to wear my mask and socially distance. I'll also have more room in my phone because I'm deleting it again. For good.",
+        "score": 1,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-15 00:06:24",
+        "replyContent": "Hi Billie, sorry to hear that. Your Pixel device\u2019s battery management software may be cancelling background tasks created by the exposure notification system. We are continuing to research & work w/ Google to identify a solution. Please update settings at https://dontkillmyapp.com/samsung. Email us mdhhs-micovidalert@michigan.gov if you need help.",
+        "repliedAt": "2021-04-15 18:20:15"
+    },
+    {
+        "reviewId": "gp:AOqpTOG7Oy63vUeHZvv7GooBiE8uU9cpJkAlccu8xj6OY2HHuSajRv0VUfrtT2_dts47yE36TG2WUht6v7o6Suc",
+        "userName": "Ernest Demmon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeGwvV7LrxAOZHzvrPayhSmc1MEp8SF5xFpn0oHw",
+        "content": "This has not checked for 4days. I now have dropped to 1 star. It hasn't checked exposure since 3-22.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-14 23:05:44",
+        "replyContent": "Hi Ernest, we understand the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & working w/ Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/samsung. Email us mdhhs-micovidalert@michigan.gov to check.",
+        "repliedAt": "2021-04-14 23:09:12"
+    },
+    {
+        "reviewId": "gp:AOqpTOHk0YmK9rn2Z65jrwl-ZYyngPLukvGDtanzTr922ZbDyXpYw0rYCOBDJqDy4uGZjXcRtmzDAhCsqvwMEvc",
+        "userName": "Therese Barraco",
+        "userImage": "https://play-lh.googleusercontent.com/-kmfRwHD8arI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSH2kXlVKNHKcUMOMM0E_ray6Yew/photo.jpg",
+        "content": "Mine hasn't checked for exposures since January 3rd. It's April 13th. Bluetooth has been turned on the entire time.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-14 02:18:47",
+        "replyContent": "Therese, we understand that the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & are working w/ Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/samsung & email us at mdhhs-micovidalert@michigan.gov",
+        "repliedAt": "2021-04-14 17:39:02"
+    },
+    {
+        "reviewId": "gp:AOqpTOEvpXHUMVGfP-5kyEXIGiNgJgvmjcD60LiHEQjvJwThis-BeLcl-OywG7mrmoixQvHO6DurZ4AvAVOhvnA",
+        "userName": "Rebecca Bizonet",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL2B8m7LHwIUdOkCAx9Takj9-DQBY-C7Fws9Jj1A",
+        "content": "Doesn't work. It hasn't checked anything for going on three weeks.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-13 23:45:31",
+        "replyContent": "Rebecca, we understand that the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & are working w/ Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/samsung & email us at mdhhs-micovidalert@michigan.gov",
+        "repliedAt": "2021-04-14 17:38:15"
+    },
+    {
+        "reviewId": "gp:AOqpTOG45kxKgNH9pqcRiYoOtN92wHGC8fdxcJu1gTAPRFR8Q3AhmKyMHBWgRS1ynQzkgvEh30Q3UuzWTSLgV0w",
+        "userName": "LaTesha Rich",
+        "userImage": "https://play-lh.googleusercontent.com/-1OcrzcELMH4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1n8a9e0EE2RHsvernjXFtyYuzZw/photo.jpg",
+        "content": "Never alerted, and my own child tested positive",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-13 13:39:33",
+        "replyContent": "Hi LaTesha, we are so sorry to hear this. Did your child also have the MI COVID Alert app and entered their PIN they received from the local health department in the app? Please email our support team at MDHHS-MICOVIDAlert@michigan.gov if you wish to share the details so we can troubleshoot this further.",
+        "repliedAt": "2021-04-13 17:37:02"
+    },
+    {
+        "reviewId": "gp:AOqpTOGfD-knuYGFNWYyabCfhwU9KgsTXVSQJNeOBwZ_hgTfrdPTM3v42Os1dNMvTsVW_g7wlN3EdRYtNuRW2Jo",
+        "userName": "George Coley",
+        "userImage": "https://play-lh.googleusercontent.com/-R0nv4XX9rLc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucna6ZoyD_CgXgjW2iUlqROkE--S8Q/photo.jpg",
+        "content": "I only get notifications that tell me that it couldn't do a check without bluetooth being on. I understand that bluetooth needs to be on, but my device is on airplane mode at night while I am asleep and this app only seems to run a check overnight. Never have I received an accurate check from this app.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-13 13:25:59",
+        "replyContent": "Hi George, we understand that the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & are working w/ Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/ and email us at mdhhs-micovidalert@michigan.gov",
+        "repliedAt": "2021-04-14 17:36:29"
+    },
+    {
+        "reviewId": "gp:AOqpTOGdVHeDXqhwmGTpBZAApnguAXvu9SCn0S3TcP_hzpBLAzFF9Xue1uB1T7yHthjB6SAOqHuX2sS-sPAqna0",
+        "userName": "Tiffany Boedeker",
+        "userImage": "https://play-lh.googleusercontent.com/-a3-JLiL6wew/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSykmQ9mn2XUJYsO4zhHh-xX3Tcg/photo.jpg",
+        "content": "January 7th was the last time an exposure check was run. It is now April 12th.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-13 02:40:13",
+        "replyContent": "Hi Tiffany, we understand that the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & are working w/ Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/ and email us at mdhhs-micovidalert@michigan.gov",
+        "repliedAt": "2021-04-13 17:44:46"
+    },
+    {
+        "reviewId": "gp:AOqpTOFTTJDKHj8Wo57q9ukxNTuNq2pLabr_YT7zs0CSHqqX9DHSyX4Du8UKugYKVjL-Dg453ST4vePqdGizWd0",
+        "userName": "Katrina Nichole",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjhmaSzOIUIUkA3l1zLVFs3rUvnXrZH2-Cgl7vshko",
+        "content": "Worthless. Hasn't checked for updates since FEBRUARY. All settings are turned on/enabled but the app does nothing. I was in close contact with someone who tested positive for covid and the app won't notify me because it doesn't even check for updates. Waste of phone space and battery.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-12 20:40:50",
+        "replyContent": "Hi Katrina, we've have seen issues where the exposure checks are not displaying the most current information. If you navigate to Settings>Google>COVID-19 Exposure. Next, press the ellipsis at the top right. Select Exposure Checks. Then press the ellipsis again and select, Export Exposure Checks. Please email this to MDHHS-micovidalert@michigan.gov",
+        "repliedAt": "2021-04-13 17:47:06"
+    },
+    {
         "reviewId": "gp:AOqpTOHF6JEdmPQb2jUP1ph2oW7REFPrjBGg2Ds5xVthhterVhTF7C4sHgdyH3dBPif88lXAMW1L3kYDVP1a6vg",
         "userName": "David Legg",
         "userImage": "https://play-lh.googleusercontent.com/-T4QESm6EDOQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnrlmA5mNgwfX4JtgXpYVJIiPbSkA/photo.jpg",
@@ -8,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-12 14:25:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi David, we've have seen issues where the exposure checks are not displaying the most current information and we are sorry for this. Can you please email a screenshot where you are not seeing the exposure check data to our app support team at MDHHS-micovidalert@michigan.gov so we can investigate this further.",
+        "repliedAt": "2021-04-13 17:49:37"
     },
     {
         "reviewId": "gp:AOqpTOF52Ub3Q61uafKQ6G9H_f098mfpDdIMpN3R48lviqJB9pm2DzDrE7G8Y9WzKt-H5Ru0QJxa5yisH2y_QqY",
@@ -20,8 +176,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-12 05:38:38",
-        "replyContent": "Hi Ronald, it should be updating a couple of times a day. Our understanding is that the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & work with Google to identify a solution. You can update those settings at https://dontkillmyapp.com/samsung.",
-        "repliedAt": "2021-04-07 16:07:55"
+        "replyContent": "Hi Ronald, if you have already made the settings changes at https://dontkillmyapp.com/samsung please navigate to Settings>Google>COVID-19 Exposure. Next, press the ellipsis at the top right. Select Exposure Checks. Then press the ellipsis again and select, Export Exposure Checks. Please email this to our support team MDHHS-micovidalert@michigan.gov",
+        "repliedAt": "2021-04-13 17:53:03"
     },
     {
         "reviewId": "gp:AOqpTOGKfGeooncn6-7RXIFeYb1ufvPw6NwP4Dpyb2lPWALCwF31SR-8TBosw-Z4TlMxgnF76cBk8bUw0KuGH3U",
@@ -53,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-XuiOFxYZVlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnck3ixVwPURiu64jWhLFaRdSsKXg/photo.jpg",
         "content": "Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right. Reloaded as you said to. Still no readings since the 23rd. Installed and Uninstaller 6 times. Still not working right. Last exposure check was on the 13th. The app is an excellent idea just wish it would work. Had reinstalled a 7th time. Last notification was April 1st. It is now the 9th. Unistalling permanently. Sorry. Nice try.",
         "score": 1,
-        "thumbsUpCount": 18,
+        "thumbsUpCount": 20,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-09 17:19:54",
         "replyContent": "Hi Dale, we understand how frustrating this issue is. Our understanding is that the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this and are working with Google to identify a solution.",
@@ -113,7 +269,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiK6yHS5r3qENhYIjoh7_rq-0jptA8RorQq1eDD",
         "content": "It hasn't checked for exposures in nearly a month. I changed battery optimization and no change. I don't like having bluetooth constantly enabled solely for this app so I don't see the point in keeping it. EDIT: YES, I know that bluetooth is required. Which is why I'm complaining about this app not working properly. I've had bluetooth on all the time all this time, and it hasn't even checked for exposures, which means, all that I've done in the past month is compromise the security of my phone for apparently no reason. If there is no benefit to using this app, I'm certainly not going to keep using it and keep bluetooth on.",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-05 22:04:02",
         "replyContent": "Hi Lesley, Bluetooth is required for the app to work properly. Please visit the following link for details: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html . We are continuing to research this and are working with Google to identify a solution to correct the issue.",
@@ -161,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicRv4uvkDGBM9fRQGBdgxgF4w31-sW1Y1B4iehpw",
         "content": "Downloaded and like everyone else it stopped working. I uninstalled..reinstalled and checked settings as was suggested by the individuals who interact with the reviews. It hasnt worked in weeks and I had a close contact within that time, that wasnt caught. Wow. I wont be reinstalling .",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-03 22:50:39",
         "replyContent": "Hi Sloan, we've have seen issues where the exposure checks are not displaying the most current information. If you navigate to Settings>Google>COVID-19 Exposure. Next, press the ellipsis at the top right. Select Exposure Checks. Then press the ellipsis again and select, Export Exposure Checks. Please email this to MDHHS-micovidalert@michigan.gov",
@@ -197,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-9YHAix_tqko/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqPHyEuyuTiltfoIpMxB44HgvEBQ/photo.jpg",
         "content": "I did the whole background battery app check thing suggested below. This was not the problem. Bottom line. It's time to give up on the ghost. It doesn't work and it's not the battery settings.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-01 04:56:16",
         "replyContent": "Hi Stephanie, we've have seen issues where the exposure checks are not displaying the most current information. If you navigate to Settings>Google>COVID-19 Exposure. Then press the ellipsis at the top right. Select Exposure Checks. Then press the ellipsis again and select, Export Exposure Checks. Please email this to MDHHS-micovidalert@michigan.gov",
@@ -636,18 +792,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOGPnCpM7YuxwOdRr24Uq4TaNS-PSh2WRXRjRovQy3Yvt3aa0eEmjqI2NGwrysi3TGdePXVviHEpiUxgDV8",
-        "userName": "John Ward",
-        "userImage": "https://play-lh.googleusercontent.com/-iY5zH3FvUus/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3KWAKmVfmNWuWaFTIviz9UvQEyA/photo.jpg",
-        "content": "How do we not get an alert to update the app? We've all had been walking around for a month or 2 with an app that needed an update that we didnt know about. Since my app stopped checking for exposures in january, will i be notified if the past few weeks i had an exposure? I just uninstalled and reinstalled. Honestly, how was no notification sent out about updating the app?",
-        "score": 1,
-        "thumbsUpCount": 45,
-        "reviewCreatedVersion": "1.3",
-        "at": "2021-03-06 17:29:22",
-        "replyContent": "Hi John, we've worked with Google on a solution for the past month that was released on Friday to resolve this issue. It looks like you have the new app installed. We are sorry that the app does not go back in time to look for past exposures after installing.",
-        "repliedAt": "2021-03-08 17:01:08"
-    },
-    {
         "reviewId": "gp:AOqpTOEu3yBLuniKvb0yiucIgxlAmBNkCXxxslqiMzv-RE11PUMsMqAK4iAnptto65e3NQdt19Jz2wee0yB2njk",
         "userName": "John Dotson",
         "userImage": "https://play-lh.googleusercontent.com/-515RKoJ-l4o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnPjRRexR-wjVD1tNEJ8WIo-V-qPg/photo.jpg",
@@ -742,18 +886,6 @@
         "at": "2021-02-28 00:11:12",
         "replyContent": "Hi Erick, the newest version (1.3) of the MI COVID Alert app is available for download. This corrects issues you were having with Exposure Checks not updating regularly. Please uninstall the current version first & then install version 1.3. Remember that exposure checks may take up to 24 hours before they start to appear.",
         "repliedAt": "2021-03-05 20:53:23"
-    },
-    {
-        "reviewId": "gp:AOqpTOFsoVFAjm5FvL29NfnmaoCvT44owDlO2YG-UM5-c3jh06u-m07FsRMsCTef1ZXm5Ah6VX9KMK4oN20dRoU",
-        "userName": "billie zinke",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdNjscDG-2XhJX8RsHAbJ-uO2YZaiNbPZjIMTi",
-        "content": "Used to work but now it hasn't checked for exposure since Feb 13th. It's up to date, I've uninstalled and reinstalled, phone restart, checked permissions. Nothing has worked. I'm uninstalling because it's not worth the waste of space.",
-        "score": 3,
-        "thumbsUpCount": 7,
-        "reviewCreatedVersion": "1.2",
-        "at": "2021-02-27 02:06:51",
-        "replyContent": "Hi Billie, the newest version (1.3) of the MI COVID Alert app is available for download. This corrects issues you were having with Exposure Checks not updating regularly. Please uninstall the current version first & then install version 1.3. Remember that exposure checks may take up to 24 hours before they start to appear.",
-        "repliedAt": "2021-03-05 20:53:42"
     },
     {
         "reviewId": "gp:AOqpTOF4_J6hRI7N-zrooaQXQnfrmy59VTaNfTl7NPFGh1JFJL26rNRHvPQM38KlO88gQ8_dQQ3IlFiZw2HLsF0",
@@ -1958,7 +2090,7 @@
     {
         "reviewId": "gp:AOqpTOGJfAuUx1rctX1AVdAgoUuLmuZCSIaXwon8tcuW7l_DeftSHzP2JShV3_fCYZ9bMEnupKrUn9Jbo1n17fY",
         "userName": "D G",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSR6NfHY6l96kqTmz7a-hfSGILQsR4EOowdS73Ig",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5c_j95Ao-7HADQp2cvBmWS6zrU8_PgAAjjqWHnA",
         "content": "No one uses it. Only works if people report they had it on the app.",
         "score": 1,
         "thumbsUpCount": 27,
@@ -2033,7 +2165,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhJWDchRBLcppZ3uRDlx9EkZPMhV805E9TcUCDcFA",
         "content": "This is very vital to me because I need to know what's going on out in the world because of what I do for a living. I help manufacture bumpers and ship them out all throughout the world here in Ionia Michigan. Thank you again. Godspeed",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-29 20:48:25",
         "replyContent": null,
@@ -2206,18 +2338,6 @@
         "at": "2020-11-25 17:36:32",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG7Oy63vUeHZvv7GooBiE8uU9cpJkAlccu8xj6OY2HHuSajRv0VUfrtT2_dts47yE36TG2WUht6v7o6Suc",
-        "userName": "Ernest Demmon",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeGwvV7LrxAOZHzvrPayhSmc1MEp8SF5xFpn0oHw",
-        "content": "This has not checked for 4days",
-        "score": 2,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-11-24 22:28:57",
-        "replyContent": "Please verify on the Exposures tab that your Exposure Notifications are turned \"On\" to ensure you are receiving notifications. You can control this in your Settings -> Google -> COVID-19 Exposure Notifications.",
-        "repliedAt": "2020-12-01 21:38:46"
     },
     {
         "reviewId": "gp:AOqpTOGDVIm0UeWt0bcqXljJfB226UQBgZwGe89Cu1HcVrRqU8PEb-okvvGY_B9wzxDHUXhPh59J2EZhZAjtsKM",
@@ -2888,18 +3008,6 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.0",
         "at": "2020-11-13 20:28:39",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGcwa2YxMKMa_SQ_4T3TuwTKAHI-OPzCNneqWTCt_p22Ht8k95OagCkoq8DKny-6gmBEavsHMuSph6xAtU",
-        "userName": "Josh S",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghkix4KbklPcdDnsEtmWpHmrOWJbXf5YUypy_ThMXo",
-        "content": "Been waiting for an app like this since April, very happy its available now.",
-        "score": 5,
-        "thumbsUpCount": 11,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-11-13 20:22:34",
         "replyContent": null,
         "repliedAt": null
     },

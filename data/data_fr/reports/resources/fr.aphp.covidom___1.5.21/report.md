@@ -132,33 +132,87 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
-> Very good<br> :date: __2020-04-24 15:31:55__
+> Tout va bien.<br> :date: __2021-04-15 10:10:22__
+
+> C'est le debut, merci je me sent pas seul<br> :date: __2021-04-10 16:39:49__
+
+> Tres bien permet d d'évaluer son état et d'alerter si besoin.<br> :date: __2021-02-22 11:01:20__
+
+> Perfect thanks<br> :date: __2020-11-01 17:24:02__
+
+> Action réaction. Positive... je remplis mon 2eme questionnaire en signalant des symptomes... une heure aprés on me rappel pour me poser des questions et prendre de mes nouvelles... et on est dimanche matin ! Bravo ce suivis est tellement rassurant...<br> :date: __2020-10-25 11:37:02__
+
+> Cette application m'as énormément été utile<br> :date: __2020-09-24 17:23:04__
+
+> Je félicite et remercie tout le personnel du covidom . Ils m'ont suivis durant toute cette difficile période ,sans oublier mon médecin traitant . Ils m'ont aidés physiquement et moralement, bravo à vous tous.<br> :date: __2020-05-26 14:43:58__
+
+> Tres bien<br> :date: __2020-05-10 22:51:16__
+
+> Super application je remercie sincèrement toute l équipe qui m a suivi et qui m a beaucoup aidé par leur écoute leur gentillesse et leur bonne humeur<br> :date: __2020-05-08 14:38:35__
+
+> Bonne<br> :date: __2020-05-02 16:55:43__
 
 
 
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="fr.aphp.covidom 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Super<br> :date: __2020-10-06 06:51:47__
+
+> C'est trés bien , très bonne initiative Mille mercis encore On vous soutient tous !!!!!!!!<br> :date: __2020-05-28 00:30:08__
+
+> J'habite en Bretagne Ilya pas la Bretagne<br> :date: __2020-04-05 20:24:42__
+
+> Bonjour , Une application je me sens en surveillance mais c'est dommage personne vous appelle seulement votre médecin traitant après peut être qu'ils sont débordés avec les autres personnes malades.<br> :date: __2020-04-03 09:02:14__
+
+> Fonctionne bien quand on s'aperçoit au bout de plusieurs jours que les liens arrivent en courrier indésirable. Quand on est malade c'est difficile d'être réactif<br> :date: __2020-04-02 20:00:23__
+
+> ! A télécharger seulement si le centre de dépistage a envoyé le code ! ... Et réservé pour nous les covid+. Les autres, ne soyez pas jaloux, votre tour viendra. Seul bémol, 24h00 pour envoyer le code ( soit J+5 post symptômes ) ... et déjà plus de fièvre. Dommage. En attendant je reste chez moi.<br> :date: __2020-03-26 11:43:51__
+
+
 
 #### 3-star reviews
 
 <p align="center">
-
+<img src="3_star_reviews_wordcloud.png" alt="fr.aphp.covidom 3 reviews"/>
 </p>
 
-No recent reviews available with 3 stars.
+> Bonjour, sur l'application mon compte est désactivé, alors que sur le site web, il est actif. Je ne reçois pas de mail lors d'une demande de réinitialisation de mot de passe (retrouvé entre temps)<br> :date: __2021-03-20 11:15:34__
+
+> Bonne application. Un agent rappelle dès qu'un questionnaire est saisi avec des réponses particulières<br> :date: __2021-01-09 09:33:43__
+
+> Très pratique et simple d'utilisation. Mais depuis 16/05 ne peut plus entres mes constante.<br> :date: __2020-05-17 15:13:38__
+
+> Je reçois des SMS alors que je ne suis pas inclus dans le suivi<br> :date: __2020-04-08 09:06:01__
+
+> Bonjour je pense que tout le monde devrait pouvoir se connecter à cette application, pour ma part je voudrais savoir si nous avons un moyen pour signaler que j'ai été malade avec en partie les mêmes symptômes en date du 7 mars avec des tempet à plus de 40° et qu'au bout de 1 semaine j'allais mieux, à qui pouvons nous nous retourner, et est ce que mon information peut permettre à faire avancer les recherches?!? Cordialement.<br> :date: __2020-04-07 22:50:00__
+
+> Très bonne idée d'application, sauf que les questionnaires s'arrêtent a 17h. Alors que ma fièvre augmente très largement le soir, plus de 39 et du coup ça on peut pas le dire.<br> :date: __2020-03-25 07:42:42__
+
+> Pour arriver à me connecter sur l'application je suis allée sur mon compte AP-HP et j'ai envoyé un mail depuis mon espace pour demander l'activation de mon compte, service très réactif dans l'heure j'ai reçu un SMS avec mon identifiant et un lien de première connexion. Bravo à tous ceux qui œuvrent au quotidien dans la lutte contre le virus. J'espère que mon avis aidera d'autres personnes.<br> :date: __2020-03-21 21:53:30__
+
+
 
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="fr.aphp.covidom 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Difficile à installer. Même après une première utilisation il faut renseigner la région qui n'est pas mémoriser.je n'ai réussi à installer avec play store sur l'écran d'accueil. Ce produit n'est pas testé.<br> :date: __2020-10-24 18:01:28__
+
+> Même chose ma date de naissance ne passe pas.Mais déjà au tel une dame de la caisse assurance maladie avait pour moi dans son logiciel 1935 pour ma date de naissance alors que je suis née en 1959...ma fille m a indiquée cas contact en donnant mon tel portable .Elle 24 ans..Si j étais née 1935 je l aurais eue à quel âge? Ça fait peur....bonjour la logistique....<br> :date: __2020-10-16 10:01:11__
+
+> C'est nul on ne peut pas changer la date ni quoi que ce soit pas pratique<br> :date: __2020-08-11 02:13:59__
+
+> Je veux<br> :date: __2020-05-29 16:29:13__
+
+> J'essaie d'inscrire pour le suivi mon père de 78 ans et de l'aider comme je peux avec son téléphone, un identifiant lui a été communiqué à l'oral, mais impossible de procéder à l'activation. C'est très compliqué. Idem , j'ai essayé de lui créer un compte sur l'AP-HP, sans succès. Du coup, je ne sais même pas à qui m'adresser pour demander la redemander le n° d'identification. Dommage...<br> :date: __2020-04-04 19:45:01__
+
+
 
 #### 1-star reviews
 
@@ -166,6 +220,24 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
-> Completement inutile, n'a jamais marché.<br> :date: __2020-11-05 09:48:36__
+> Impossible de me connecter<br> :date: __2021-03-23 10:19:59__
+
+> Vraiment pas pratique ! Avec Bac+5 j'ai du réfléchir quelques heures pour appréhender la logique. Un covidé de 70 ans doit paniquer 😪<br> :date: __2021-01-24 06:43:13__
+
+> Je n'arrive pas à m'inscrire<br> :date: __2020-12-18 12:12:57__
+
+> n'est peu pas accepté mon date de naissance<br> :date: __2020-12-17 17:26:33__
+
+> Je ne comprends au procédures<br> :date: __2020-11-22 19:27:12__
+
+> Enfin installée... on ne sait pas comment. Pas moyen de supprimer des documents dans mon espace... A quoi sert un espace personnel si on ne peut pas le gérer ?<br> :date: __2020-11-19 16:30:06__
+
+> Impossible de s'inscrire. Malgré tous les messages reçues chaque jour, pour moi c'est nul<br> :date: __2020-11-19 10:30:49__
+
+> Inutile, fonctionne mal<br> :date: __2020-11-08 15:30:20__
+
+> Mot de passe sans cesse bloqué<br> :date: __2020-11-02 12:27:39__
+
+> Une fois installée je n arrive pas à voir les documents. Donc impossible de remplir les documents.<br> :date: __2020-10-27 14:15:54__
 
 

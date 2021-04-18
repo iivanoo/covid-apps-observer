@@ -203,6 +203,8 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbssc.android.careondemand 5 reviews"/>
 </p>
 
+> Loved it! Didn't have to leave the house and was seen after a wait of no more than 5 minutes.<br> :date: __2021-04-14 14:30:29__
+
 > Quick, professional exam for minor complaint<br> :date: __2021-04-06 15:55:24__
 
 > The future is finally here get real time results...<br> :date: __2021-04-06 00:07:06__
@@ -220,8 +222,6 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 > Best way to see a doctor<br> :date: __2021-02-06 15:49:00__
 
 > It was very easy and fast. She was very pleasant.<br> :date: __2021-02-05 14:14:00__
-
-> Very proffesional<br> :date: __2021-01-29 19:01:41__
 
 
 

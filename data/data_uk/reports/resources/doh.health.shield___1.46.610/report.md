@@ -143,25 +143,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> The best app ever for covid-19 QR code<br> :date: __2021-04-12 12:12:59__
+> Excellent<br> :date: __2021-04-18 10:00:04__
 
-> Good and updated app<br> :date: __2021-04-12 09:20:17__
+> Good to c the ALHOSN<br> :date: __2021-04-18 09:49:41__
 
-> Perfect<br> :date: __2021-04-12 06:16:37__
+> it’s Doesn't work at all<br> :date: __2021-04-18 08:02:45__
 
-> Masallah<br> :date: __2021-04-12 05:44:19__
+> Good<br> :date: __2021-04-18 03:10:20__
 
-> I am fine.so very good usefully app<br> :date: __2021-04-12 04:28:53__
+> No working in my hend sit mobile sumsung s9+<br> :date: __2021-04-18 03:00:36__
 
-> Good and helpful<br> :date: __2021-04-11 20:19:43__
+> Super App<br> :date: __2021-04-17 21:08:17__
 
-> کھولتا نہیں ہے<br> :date: __2021-04-11 19:23:42__
+> Excellent<br> :date: __2021-04-17 18:36:37__
 
-> 👍<br> :date: __2021-04-11 17:48:05__
+> Easy<br> :date: __2021-04-17 16:00:34__
 
-> it very useful<br> :date: __2021-04-11 17:42:07__
+> Satisfactory<br> :date: __2021-04-17 14:21:30__
 
-> A comprehensive app<br> :date: __2021-04-11 16:15:42__
+> Hello alhosn good app<br> :date: __2021-04-17 13:05:47__
 
 
 
@@ -170,6 +170,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> User friendly app. New update on vaccination details are very handy for traveling. Thank you for the team behind the app.<br> :date: __2021-04-17 21:29:24__
+
+> My 1 negative 11 April 2021<br> :date: __2021-04-17 12:54:56__
+
+> Wating for installation<br> :date: __2021-04-16 07:55:30__
+
+> Awesome and very convenient.👍<br> :date: __2021-04-15 16:24:15__
+
+> Nice aaps<br> :date: __2021-04-13 13:54:50__
 
 > Good<br> :date: __2021-04-12 11:11:07__
 
@@ -181,16 +191,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Im a first timer<br> :date: __2021-04-10 18:20:46__
 
-> Muhammad and<br> :date: __2021-04-10 17:19:02__
-
-> It's a useful tool and it certainly works. My app wasn't working. Initially I restarted my mob to see it works but gave the same error. Then I uninstalled the app and reinstalled the app. It finally worked as it gets the updated information. Now both dose info is displayed on the Al Hosn app. Give it a try.<br> :date: __2021-04-06 05:26:36__
-
-> Good<br> :date: __2021-04-06 04:51:51__
-
-> It's so convenient<br> :date: __2021-04-04 16:13:08__
-
-> Good<br> :date: __2021-04-04 02:54:09__
-
 
 
 #### 3-star reviews
@@ -198,6 +198,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Does not have updating on personal PRC & Vaccination data.. Pls. Provide timely Updates as this is very sensitive to people.<br> :date: __2021-04-17 18:08:55__
+
+> Good<br> :date: __2021-04-17 09:59:29__
+
+> Good<br> :date: __2021-04-17 01:56:41__
+
+> Calling the call center from last night no response and no update on this app of my latest results including my second vaccine updates,please increase call center call taking reps<br> :date: __2021-04-15 09:23:53__
+
+> Good<br> :date: __2021-04-13 18:06:39__
 
 > Isn't it suppose to say when the person took the first and second dose of the vaccine? How do I contact to say I should have the E status.<br> :date: __2021-04-09 22:46:56__
 
@@ -209,16 +219,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > NOT update last pcr test result<br> :date: __2021-04-05 18:03:30__
 
-> My Alhosan app last month 23 to not showing Update results. Please help.<br> :date: __2021-04-05 10:03:50__
-
-> I have done my PCR test yesterday. Since last night the App shows 'error'<br> :date: __2021-04-05 08:01:58__
-
-> App is not open....plz help me<br> :date: __2021-04-05 07:52:32__
-
-> Today I took a pcr test and after that the app stopped working. When I try to open, it gives me a message "an error has occurred, please try again later or contact customer support". And no phone number was given for customers support!<br> :date: __2021-04-04 16:12:52__
-
-> Its not working since 20th march . I tried many time but app doesn't open. Even i tried reinstalling . No chance i hope they will solve it soon<br> :date: __2021-04-04 14:47:11__
-
 
 
 #### 2-star reviews
@@ -226,6 +226,8 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> On this App, it's just showing my 2nd dose as my 1st dose. It's not showing that I'm Vaccinated already.<br> :date: __2021-04-14 20:32:33__
 
 > My app is not working, it only show results of the DPI. I have called, emailed, deleted and re-installed the app and nothing works. Government needs the app to cross the checkpoint and its placing unnecessary stress on me as I fear I will not be able to go to work. My colleagues apps is working fine. It looks like I have excuses to go to work. Please help 🙏<br> :date: __2021-04-10 12:44:25__
 
@@ -245,8 +247,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Not working right now<br> :date: __2021-04-03 23:51:15__
 
-> Not updating and the results come after I delete then install again<br> :date: __2021-04-02 11:10:03__
-
 
 
 #### 1-star reviews
@@ -255,24 +255,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Canoot download<br> :date: __2021-04-12 19:03:59__
+> i give them my personal phone no but they add old no when i get 2nd dose then the ask me my no i give him my personal no i recive message of 2nd dose when i loging with my personal no they show this no is not register put your other numbers how i put other no for my report witch numbers i dont know<br> :date: __2021-04-18 09:41:13__
 
-> It doesn't update the test even after 14 days. IT'S JUST NOT WORKING!!!!!! PLEASE FIX THIS!!!!!!!!!!<br> :date: __2021-04-12 18:56:20__
+> Wrost app ever i see<br> :date: __2021-04-18 06:26:28__
 
-> My 2nd dosage was not in the App eventhoughi finished all dosages. Their number can't be contacted as well<br> :date: __2021-04-12 15:14:26__
+> My status was not updated in ALHOSN even after 3 days passed of PCR test. I called ALHOSN several times but update wasn't taken place. I received the negative result of PCR through sms which shown to Abu Dhabi-Dubai border where police didn't allow enter to Abu Dhabi.<br> :date: __2021-04-18 05:13:00__
 
-> Not working, need to access most recent results but they are not showing.<br> :date: __2021-04-12 14:14:56__
+> Stupid app I can't change my phone number<br> :date: __2021-04-18 04:11:04__
 
-> One of the worst app. How can they recommend this app at check point. I want to travel from dubai to abu dhabi. When I did my vaccination i provide my old number now i have different number. There is no technical assistant. Its been a week now. You cant send email. There is no response in call. At least there should be some way to communicate. Now im stuck here and i cant go to abu dhabi becoz of this app.<br> :date: __2021-04-12 09:58:25__
+> Bad<br> :date: __2021-04-18 04:02:18__
 
-> App is not work even not getting open. Kinda fix the issue "ALHOSN keeps stopping " shows like this whenever tried to open.<br> :date: __2021-04-12 05:52:09__
+> It's not even opening. I already uninstalled and reinstalled but same thing happened. Please fix this.<br> :date: __2021-04-17 23:52:02__
 
-> App not working<br> :date: __2021-04-12 04:55:45__
+> I tried all the way to get the OTP but I didn't receive it, I update my ID Data but same situation. There is any way to solve it??!!<br> :date: __2021-04-17 23:14:51__
 
-> Not working on a rooted device or bootloader unlocked device any idea?<br> :date: __2021-04-12 02:14:24__
+> nice<br> :date: __2021-04-17 19:49:22__
 
-> My rtpcr test result is not updated yet I have used UID<br> :date: __2021-04-12 01:35:41__
+> Its a bit bad because whenever i tried to add other user it responded an error occurred 😒😔<br> :date: __2021-04-17 18:51:03__
 
-> It's not opening on my phone<br> :date: __2021-04-11 22:05:21__
+> The App itself not working in andriod's phone.. it only works for iPhone... Very frustrating 😕 ... Am not the only one whoz facing the problem ... My friend's and relatives have the same issues... Kindly focus on this ...😷... Revert back to this message....<br> :date: __2021-04-17 18:21:28__
 
 

@@ -220,10 +220,12 @@ No recent reviews available with 4 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="io.appbuild.cityofco1 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Ok<br> :date: __2021-04-14 19:26:53__
+
+
 
 #### 1-star reviews
 

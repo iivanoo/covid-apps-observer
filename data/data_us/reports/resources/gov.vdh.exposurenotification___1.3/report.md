@@ -134,6 +134,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Great! As long as this virus is with us, you need to get and use this app!!!<br> :date: __2021-04-18 01:52:35__
+
+> Nice app<br> :date: __2021-04-15 17:43:22__
+
+> Good app to have<br> :date: __2021-04-14 03:31:13__
+
 > Good information.<br> :date: __2021-04-09 00:13:18__
 
 > Nice<br> :date: __2021-03-27 07:13:05__
@@ -148,12 +154,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I use Samsung Note 20 ultra and didnt encounter a single problem with the app. Its really helpful<br> :date: __2021-03-10 01:33:44__
 
-> Good job.<br> :date: __2021-03-09 02:16:21__
-
-> Very useful<br> :date: __2021-03-05 23:40:00__
-
-> Thank you my results is negative<br> :date: __2021-03-01 17:17:04__
-
 
 
 #### 4-star reviews
@@ -161,6 +161,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 4 reviews"/>
 </p>
+
+> It would be good to be able to submit that you've received the vaccine. Not sure if it's updating or not, I've never received a notification but that could also be because not enough people use it? It has lots of helpful information tho!<br> :date: __2021-04-18 00:08:50__
 
 > I think the app works, I mean I haven't gotten any notifications nor have I gotten covid so I guess?<br> :date: __2021-03-01 19:26:17__
 
@@ -179,8 +181,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Good app to have! Thumbs up!<br> :date: __2020-12-04 14:28:02__
 
 > Good<br> :date: __2020-11-30 00:12:23__
-
-> Good info. Need to here<br> :date: __2020-11-27 00:06:52__
 
 
 
@@ -218,6 +218,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> Only works if others are willing to participate ...<br> :date: __2021-04-13 14:42:26__
+
 > i felt safe when first installing this app.. i don't feel safe with it now.. . but was vaccinated April Fools Day.<br> :date: __2021-04-05 23:47:49__
 
 > My exposures haven't been checked since March 3. I've followed the instructions in the FAQs, but it still won't update. I even uninstalled and reinstalled the app. 🤷<br> :date: __2021-03-26 00:48:24__
@@ -236,8 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I want to like this because it seems like a great contact tracing tool but I had to enter a building with people who have tested positive for COVID and are in isolation for work. I received no notifications from this app. It drains my battery to have my Bluetooth on all day. I lost confidence in this app. Uninstalling.<br> :date: __2020-12-07 07:27:08__
 
-> Program tells me my last scan for potential exposure was oct 11th. I always have bluetooth and location services turned on as requested. I even turn on wifi almost daily to quickly update any programs on my phone. No apparent way to force a database exposure check.<br> :date: __2020-11-04 09:59:53__
-
 
 
 #### 1-star reviews
@@ -245,6 +245,16 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> This app destroyed my daily battery usage. It runs NON-STOP in the background and never provides any notifications. I'm with the person in the moon on this one.<br> :date: __2021-04-17 11:13:15__
+
+> When we had all those cell phone issues last year, they put trackers in every phone. This is all about control and taking your freedom from you! Look at all the 'virtual reality', social distancing, mask wearing and stores without workers you can walk in and buy stuff from (referring to Apple & Amazon stores in Californian and other states). The media wants us all divided or doped up so we never see the reality of what is really going on. Wake up.<br> :date: __2021-04-16 04:01:43__
+
+> This app didn't notify me when I was around people who have covid-19, I was at a viewing and found out 04/ 12/21 that around 10 people has the virus. Also this app doesn't update, the last update was Feb 5th 2021. I'm un-installing this app is useless.<br> :date: __2021-04-15 18:39:58__
+
+> Yo update the darn app last exposure notice was March 10th. If you want it to "work" fix it... Stop sending out generic responses<br> :date: __2021-04-15 02:08:06__
+
+> I'm very annoyed. The last time it tracked any exposures was February 16th, nearly 2 months ago! No matter what I've tried it won't scan anymore. Please make an effort to fix this!!! Reading other reviews it seems like this isn't just an issue with me or my device. Lives are litteraly at risk :(<br> :date: __2021-04-13 15:48:23__
 
 > Stopped checking for exposures.<br> :date: __2021-04-12 05:03:34__
 
@@ -255,15 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > If only it updated.<br> :date: __2021-04-03 15:39:27__
 
 > When the last update was pushed it app stopped checking for my exposure.<br> :date: __2021-03-31 20:36:23__
-
-> Last exposure check was 2 months ago. Worthless.<br> :date: __2021-03-30 15:34:59__
-
-> SCAM<br> :date: __2021-03-27 02:29:20__
-
-> I'm disappointed. It has stopped checking on a regular basis. It was fine until recent updates. How does the Commonwealth expect us to use something this broken? Sorry was a supporter of the project in the past, but there is no need to continue tonuse it if you aren't providing me with the security and peace of mine as promised.<br> :date: __2021-03-27 02:15:06__
-
-> Pretty sure this app doesn't do anything. Hasn't scanned since 2/14<br> :date: __2021-03-26 11:29:15__
-
-> The app says it last checked for exposure on Jan 30, 2021 Today's date is March 23, 2021. The app store says I have the latest updates. I don't think it is working at all.<br> :date: __2021-03-23 17:34:16__
 
 

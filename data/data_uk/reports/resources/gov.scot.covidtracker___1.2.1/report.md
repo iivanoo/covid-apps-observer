@@ -139,6 +139,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-04-17 15:13:50__
+
 > Speedy results..well up to date<br> :date: __2021-04-10 16:38:03__
 
 > Easy to setup and use. Minimal battery drain.<br> :date: __2021-03-24 13:36:27__
@@ -156,8 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > So simple - I'm surprised it took so long. Well done Scotland - the delay by the UK governments showed how shambooic and expensive their effort was. 500k downloads tho out of 6 million, can we make it mandatory??<br> :date: __2021-03-16 10:29:37__
 
 > Love you Scotland<br> :date: __2021-03-14 11:55:20__
-
-> If it helps everyone to be safe and stay safe quickly, then of course it's not a problem 👌<br> :date: __2021-03-12 21:44:05__
 
 
 
@@ -223,6 +223,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
+> Too slow to react. The app is only as good as the data it has to work with. I got a notification I should isolate for -6 days (yes minus 6 days) it took that long for the data to be made available to the app...<br> :date: __2021-04-13 11:47:25__
+
 > It doesn't provide any live longer Information.<br> :date: __2021-04-06 11:13:28__
 
 > Twice in three days I was contacted to isolate for 10 days despite never being in anyone's company inside or out within two meters I haven't even been near my own family. If passing someone on a pavement within seconds triggers the app for you to isolate then what's the point? They sell coffee at a door where people congregate on a pavement less than two meters to get past?<br> :date: __2021-03-13 10:03:34__
@@ -240,8 +242,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > I don't know if it works right..<br> :date: __2021-02-11 11:40:25__
 
 > Cannot increase or adjust the font size. I am severely visually impaired/blind.<br> :date: __2021-02-04 14:05:45__
-
-> I had a message via the app once but when I clicked on it, it disappeared.theres nothing in app about using QR code...or how.<br> :date: __2021-01-17 09:03:08__
 
 
 

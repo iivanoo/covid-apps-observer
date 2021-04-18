@@ -260,6 +260,10 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="no.fhi.smittestopp_exposure_notification 1 reviews"/>
 </p>
 
+> Staten har vel aldri laget noe som fungerer. Bare søppel<br> :date: __2021-04-16 12:57:54__
+
+> Mottar eksponeringsvarsler fra appen i hytt og pine. Telefonen varsler om eksponeringsvarsler mens den er låst, men når jeg går inn i appen så er det ingen nye meldinger. Dette skjer på daglig basis. Ikke til å stole på.<br> :date: __2021-04-13 21:32:31__
+
 > Funker den egentlig???<br> :date: __2021-04-09 19:45:12__
 
 > Ikke veldig bra eg har hatt appen og ikke blitt påpekt at, en som også har appen har gjort at eg måtte i karantene før smittesporing ringte. Så eg gikk flere timer uten å vite at en hadde vært smitte om, ikke denne personen kontakta oss. Så denne appen er ikke å stole på.<br> :date: __2021-04-06 22:22:05__
@@ -275,9 +279,5 @@ The Smittestopp app has been installed by more than **100000** times. At this ti
 > Denne appen fungerer ikke.<br> :date: __2021-03-17 06:12:39__
 
 > Ikke bra app. Kan forbedres.<br> :date: __2021-03-13 18:14:46__
-
-> Før ikke smittestopp app til å starte.<br> :date: __2021-03-11 09:43:27__
-
-> Smitteinfo er ikke oppdatert siden 28.02. Hva skjer?<br> :date: __2021-03-07 12:25:24__
 
 

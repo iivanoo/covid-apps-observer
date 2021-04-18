@@ -258,6 +258,8 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 <img src="2_star_reviews_wordcloud.png" alt="se.kry.android 2 reviews"/>
 </p>
 
+> I had a disappointing experience. The nurse essentially just told me to go to a pharmacy for all my issues. No specific recommendations what so ever. Well, at the pharmacy they told me I'd need to see a doctor, of course. Overall, they just wasted my time and charged me for it. This user interface is nice though.<br> :date: __2021-04-13 14:03:31__
+
 > Very unpleasant appointments. Doc just wants to get it done with as fast as possible.<br> :date: __2021-03-27 12:49:25__
 
 > App is streamlined and easy to use. Doctors whoever will literally just tell you to either take Paracetamol or Ibuprofen for everything or to go to a Health Clinic for anything, can't even renew prescription for basic ear drops in the middle of a pandemic because they think it's safer to crowd clinics for minor ear pain at a time like this than to give you anything other than anti inflammatories that crush your liver. Ends up not being more help than simply going to r/askadoctor or Quora.<br> :date: __2021-01-31 05:27:08__
@@ -275,8 +277,6 @@ The Kry – See a Doctor by Video app has been installed by more than **500000**
 > Did speak with a doctor quickly, however had to go to another physician to match treatment with the diagnosis<br> :date: __2020-03-29 14:03:32__
 
 > Usually quite nice to save long waiting at the VC, in particular with restless kids. But last time was bad: we suspected hand-foot-mouth but didn't want to bias them. They diagnosed a combo of fungi and rash and prescribed 1 cream for each. 2 days later dagis let's us pick him up, had to go to VC and of course it was HFM... That should have been obvious and more logical imo, cannot believe they missed it.<br> :date: __2020-02-10 07:03:49__
-
-> Meetings disconnect due to doctors bad reception. I've spent a long time waiting several times and got connected. No customer service available unless you spend time on a phone...<br> :date: __2020-02-05 10:00:08__
 
 
 

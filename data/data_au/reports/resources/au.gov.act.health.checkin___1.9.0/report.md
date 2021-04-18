@@ -142,6 +142,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Great App<br> :date: __2021-04-17 10:51:50__
+
 > Periodically stops working<br> :date: __2021-04-06 02:22:08__
 
 > A bit slow activating but otherwise great<br> :date: __2021-04-02 11:14:56__
@@ -159,8 +161,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Best contact tracing app out of all the States and Territories 👍<br> :date: __2021-03-23 12:57:15__
 
 > Very responsive and quick and easy to use.<br> :date: __2021-03-15 01:17:29__
-
-> Work well and easy to use compare to NSW app<br> :date: __2021-03-14 10:25:36__
 
 
 
@@ -198,6 +198,10 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
 
+> App is still on daylight savings time. And can't add time you departed a venue.<br> :date: __2021-04-14 04:11:29__
+
+> Was perfect before the latest update. Now it doesn't scan and I have to manually enter in places. Would love a fix<br> :date: __2021-04-13 07:43:53__
+
 > Remember to stay safe and wash your hands.<br> :date: __2021-04-07 23:00:34__
 
 > App is fine, easy install and use. Could do with the ability to check out as well.<br> :date: __2021-04-06 10:20:48__
@@ -213,10 +217,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > It works for scanning the QR code. But I can offarhim why do I have to reenter all my personal details everytime I use the app for myself on my phone. The nswservices app handles this very well. Please start considering the user when you write mobile apps. Many miss some simple things that would make many people's lives better. I hatdusing this app.<br> :date: __2021-02-05 20:04:05__
 
 > Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
-
-> Seems to work ok. Slow to load, requiring data connection to do so. Cannot access QR code scanner without data connection. Suggest allowing access to QR code scanner without needing data connection to allow check in, uploading locations when data becomes available.<br> :date: __2020-12-05 21:58:59__
-
-> Would be better if you could check in by typing name of check-in place, geolocation, or select from previous check-in history.<br> :date: __2020-11-15 01:20:33__
 
 
 
@@ -254,6 +254,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> scam, stealing data do not install<br> :date: __2021-04-18 04:24:56__
+
 > I need a code????<br> :date: __2021-03-24 08:54:02__
 
 > App didn't work so i deleted it and tried to upload again, it won't load....it must be broken....it used to be a good app.<br> :date: __2021-03-17 01:53:44__
@@ -271,7 +273,5 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Last update has made app unusable. Please fix it asap.<br> :date: __2021-03-04 09:11:45__
 
 > Unable to install this app-no matter what I try.<br> :date: __2021-03-03 23:07:17__
-
-> I have a new phone and cannot load this app .<br> :date: __2021-03-03 12:08:29__
 
 

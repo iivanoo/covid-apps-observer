@@ -149,6 +149,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 4 reviews"/>
 </p>
 
+> I built it go ished Äärön Ray smellley havnt göt paid tët for the caccine or app bu the go. Detection kot i'm the crwatpr 856 billion alooted for me Trump era Boop 702. 125 rööl. 27e April 17 2921ad saysaturfdy lvnv89169 cloubrea US vetd bonaza 525 Andreas Floor 2. 115<br> :date: __2021-04-18 03:21:15__
+
 > Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see. They updated it...it works now.<br> :date: __2021-04-11 03:40:23__
 
 > It's great, just more people need to get the app to make it even better and more effective. Only 50k downloads. Nevada as a population of over 3 million. So less than 2% of the population have the app... We need to share it with family & friends, and our local news needs to promote it.<br> :date: __2020-12-17 11:00:41__

@@ -255,6 +255,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
 
+> Unable to use the app and therefore unable to continue currently as a volunteer.. The app fails when I click the "future tasks" tab. All other tabs work. The app worked on my previous Motorola G6, but does not work on my existing Motorola G6. Have been installing and uninstalling the app for the past 3 days, since I started using my new phone. Help, please. Thanks!<br> :date: __2021-04-13 12:42:01__
+
 > 28/02/21 V 13.7 Now able to upload photo of new AED locations, it's only taken a year.<br> :date: __2021-02-28 15:41:31__
 
 > Rubbish - waiting 5 weeks now no shifts nothing??? Frustrating 😞<br> :date: __2021-02-26 18:12:54__
@@ -272,8 +274,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > 1. I uninstalled the Goodsam app from my Android v10 tablet as the Task tab didn't show like on the smartphone. I was planning to reinstall to fix this bug. Now it says my tablet isn't compatible. WHY!!? It seems perverse to withdraw the tablet version. It was useful if my wife borrowed the phone. 2. I am signed up as a stewarding volunteer. It would help if you could add an alert when a task comes in. This could be the siren already in place. But as the "tasks" are less urgent an email would suffice.<br> :date: __2021-02-04 20:16:22__
 
 > Buggy, clunky UI. Clicking on 'Show details' of a booked task closes the app every time. The details can only be seen by restarting the app. No way to go back to the homepage without clicking back through every page of the 'tasks' section. Can't copy text, eg task addresses. User unfriendly.<br> :date: __2021-02-02 18:22:40__
-
-> Difficult to use efficiently<br> :date: __2021-01-29 10:37:31__
 
 
 
