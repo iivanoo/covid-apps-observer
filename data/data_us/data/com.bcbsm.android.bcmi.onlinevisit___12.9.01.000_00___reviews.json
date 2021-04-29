@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOFD164ugZ9CNqqxRS-uM5VN-OWokpHs3GSwiQB8nIC16Op2P1RbMcGHHMM2eKHeJECyH8OvPaNoCX9yCg",
+        "userName": "DeQuincy Woods",
+        "userImage": "https://play-lh.googleusercontent.com/-B1XcVNE_jkY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckgeMHo3zyzXU3YpRLgntXq3W4ABQ/photo.jpg",
+        "content": "Great and professional service",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-27 03:41:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG_D_SF7nTO7FLKao12okI0502or8e4nJndCR_dB_ODvr8mI8a7rh3UIUz-NIVfeMsy2Oqnxjsyjk5AHw",
+        "userName": "Debbie Binius",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiUHBlkkvVfIekaUP2NkUbFLzJL4fwz9Dk4YREjmQ",
+        "content": "Awesome. Doc took time to listen to me unlike my regular doc",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-26 18:01:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHeRaiSdCRnkWin4ZRqVGqN6e5aAUWjczCNB131abeZBTI8gXXubbGWCG-TBWtufzfTUEMkjk1YcQDhJg",
+        "userName": "Louie Louie Rocks",
+        "userImage": "https://play-lh.googleusercontent.com/-ctdOQ06wuHc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmN7Gto6D68XxCpFpqyVhdoiJqa3g/photo.jpg",
+        "content": "Great it was quick and very efficient",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-23 01:28:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGjX1ATHt3HthLF0jAn7_MT3qNzNWD4pE4wWwgonTfIZG2ku50M6q_WEAEjW5iFJVRNSCRbEAJ39ndq2g",
+        "userName": "Grant Bradley",
+        "userImage": "https://play-lh.googleusercontent.com/-OXmL-UHea3w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQJdC3iwyLaZ_AyFIVb-n_z-AWgw/photo.jpg",
+        "content": "The main Blue Cross app is a flaming dumpster fire, but this works great. I was able to get an account created and see a doctor within twenty minutes.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-19 18:20:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFjDMErfAUx1yV2t-hH4NqcKG5wj0hUURUuQ287h1d3MhKi40l1RfEVEG3JzA3SMgWc3iBcguYFej7GGw",
+        "userName": "Zac Smith",
+        "userImage": "https://play-lh.googleusercontent.com/-3P0VzNwBKVE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPQTHBn7neIIkHGQD9FLtvcG1pOg/photo.jpg",
+        "content": "Great alternative to Urgent Care",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-19 14:03:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEmYwnw7yu63sWnXIHzYUEvGM0BMqvOI-pH_ogogyWePEoaGb3JnS_uwmdpZAcG0dAY4XYZYWRFtyq_IA",
         "userName": "Jessica Murphy",
         "userImage": "https://play-lh.googleusercontent.com/-5JPn81X6D7Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneFYkNbyheEUYbFmRXJlMkF44yZg/photo.jpg",
@@ -673,7 +733,7 @@
     },
     {
         "reviewId": "gp:AOqpTOE0ZYjXKrW2y8cB3zlYIabhQ2yn2aQJCSdKVcWGeO0DlotWCh1-loFNTgd_01Y2nzapfHBwcAP2izyAyQ",
-        "userName": "Kelly Corrigan",
+        "userName": "Kelly A1. Corrigan",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbNyVYzRA4pAlSIlnsDbx5jjCrzNm_xqBbj_QH",
         "content": "Psychiatrist can only \"do\" medication management. How can anyone \"do\" med management without your records or psychiatric work up. If you just want a bunch of Xanax, this is the place. If you need a help or are trying to determine what you should do for a loved one, this is not the place. Shame on you bcbs.",
         "score": 1,
@@ -1202,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOGmALBBnoqgbZFLircBE5wYQIZqEp3DMC52Aw8_Zdc9XzsofQQQk83ZvI0sxNJBOu4z4sQ7kIFDb3trIA",
         "userName": "Devonte Dixson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiG1X4xtyTQLiuConOghfiAfEkgKrdaBlr0xJfKDw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihFZykc0xvX2B0POGzbLkxpfgB56o4uIU9vAlATls",
         "content": "Doctor says picture quality wasn't great. She was able to assist me but why is my video quality poor with a Note 10 plus? No other issues.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1417,8 +1477,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGVAWiRR0orVRDpEUTTn9zNL8kTru3vF7bAAYoJN3fn5C8GgrM3RiL7bEd9BCMzi8y3Xae_OmVbgEhluA",
-        "userName": "Natsuki",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIrcYIw6e_gq19mrJVzDJTJlWSHVKjajWdxG-wHC8",
+        "userName": "Sukii",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYE7dJdqb-V8KB3XqgVQxPQk3NEWgxwK5zx44rTwk",
         "content": "Peace of mind! Easy to use, quick, qualified professional helps us out, every time. We use this much of the time.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1526,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOGe71OB4sD-vfrousWG5_UwoPXfzTLDe-8R1auizbiwigK9pXmEIftRfPDf1dWBR4GV4jvZjeG1lSNvEA",
         "userName": "Bobby Phillips",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjdVBHW5By-O6s_8ZCK3ZCgDmHkOrGsjlVFGfXm",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8q9vIP3F5KiMSBGG51fsjUWX93PPRtqpa7tmTIg",
         "content": "Friendly doctor. Nice and well informed.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3902,7 +3962,7 @@
     {
         "reviewId": "gp:AOqpTOEuz4HzowpOCsbsFE-nmuQwBwpe06yBkl1BC67lAYCVf_Un557vH5W2T4CVKWG3l72ciS5ngVSo3mjZlA",
         "userName": "Lesley Demps",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghan5ASwSwagwDMvG3WOFAtTbuMoFsYesP6dDfRBfA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJ--k_ctQrKQ4mGfQjaljN1xEhlW57p8t4fvwOpRs",
         "content": "Fantastic, so nice to be in own home",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6962,7 +7022,7 @@
     {
         "reviewId": "gp:AOqpTOHNW9fpE0Q66YDsRRccdmmrKl9ixMDGC35F7acf3VxzLBtaQ8d7SODGLX8vUd_nLMgEaNKrvKAoDZjsiw",
         "userName": "Nichole Ellwanger",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi24cQd_4TRSgnI5t_otJbXXSHxc8GaBKRuPrfjkw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh3DPPeZZI3F2vf5MvyQZDZHhDO0qZeVqobiwf44g",
         "content": "this was a good experience! very nice to see a doc without needing to leave home",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7117,7 +7177,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEm2UoZO2b7kr23T6gv3bUHimeEdl06WSsFARKnHw3qXMxW0GqH23MGYprw8RoFVdbzfJEGkU1bggPZaQ",
-        "userName": "Rae Ann Littrell",
+        "userName": "Rae Ann Neeley",
         "userImage": "https://play-lh.googleusercontent.com/-aPcxiKZWYcs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqNiQtPQF8Ou2QptrqHTj2Ut303Q/photo.jpg",
         "content": "I have never used online visits before. I love being able to stay home and see a doctor",
         "score": 5,
@@ -7718,7 +7778,7 @@
     {
         "reviewId": "gp:AOqpTOEPjl0ejZQnbZv7Jh_QuEpndnjlI7fOqRDG-Sv2HYEAlEvrEZBSErJQe9FF2lD3sMMYFbOvEUQHyYr29g",
         "userName": "Anna Maniccia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpCYADWwEtgo_0K-QSkCRHRoiO7jb8pjdSu9ry",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxfqdWx-jrqxNMJoYQV8knxN0m9XSyTELc_Z0_eA",
         "content": "I work midnights so getting in to a doctor's office is difficult. My doctor \nbooks months in advance and having to wait an hour or more at urgent care \nis not ideal when I need to be sleeping. I was able to talk to a doctor at \n3am and he was able to prescribe what I needed right then. Picked up my \nmeds on my way home from work. It took a little while to connect, but way \nless than an office would.",
         "score": 5,
         "thumbsUpCount": 1,

@@ -164,6 +164,12 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> nice<br> :date: __2021-04-26 00:57:17__
+
+> Love social work with love of nation.<br> :date: __2021-04-22 17:30:04__
+
+> It's very usefull app<br> :date: __2021-04-18 18:42:21__
+
 > I actually love this app. It's useful! I can read and internalize the whole things there. Thanks a lot!<br> :date: __2021-04-09 09:11:56__
 
 > I am from India and I trust WHO. All indians love WHO, sobthere isn't much doubt to not believe this app.<br> :date: __2021-03-31 06:34:06__
@@ -178,12 +184,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 
 > I love it<br> :date: __2021-03-08 22:16:16__
 
-> Mrga<br> :date: __2021-03-06 18:55:10__
-
-> Nice<br> :date: __2021-03-05 17:29:37__
-
-> V.good<br> :date: __2021-02-09 14:12:24__
-
 
 
 #### 4-star reviews
@@ -191,6 +191,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.xikolo.openwho 4 reviews"/>
 </p>
+
+> Funeral Sewa Services<br> :date: __2021-04-21 07:58:33__
 
 > Helpful<br> :date: __2021-03-17 21:04:11__
 
@@ -209,8 +211,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Could you please host the videos also on YouTube, since we cannot access the Vimeo Platform here in Indonesia. Thank you.<br> :date: __2020-06-24 07:38:57__
 
 > Good source of information<br> :date: __2020-06-20 09:36:05__
-
-> Excellent Direction~<br> :date: __2020-06-19 14:08:55__
 
 
 
@@ -276,6 +276,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> Too slow<br> :date: __2021-04-24 23:22:18__
+
 > The videos are not playing eventhough I've downloaded them<br> :date: __2020-11-03 10:43:38__
 
 > “‘Ovid’ is Latin for a sheep. COVID starts with a C, which also means ‘see’ in ancient language. 19 was known as the “Number of Surrender” in ancient times.”  It goes on to draw the conclusion, “C-OVID 19 = ‘See a Sheep Surrender'”.<br> :date: __2020-11-02 08:04:58__
@@ -293,7 +295,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > This app is having technical issues<br> :date: __2020-07-03 17:13:33__
 
 > Not a good application....It always changes names in certificates and it changes dates also moreover i have done courses and it changes there names also in certificates...so many problems...now what to do<br> :date: __2020-07-02 03:49:39__
-
-> Not sign in properly many time errors.. Please help me out of this problem. I already registered a complaint that particular problem through mail.<br> :date: __2020-06-16 05:10:29__
 
 

@@ -143,6 +143,8 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 5 reviews"/>
 </p>
 
+> Mend Telemedicine (My Doctor)<br> :date: __2021-04-18 18:06:00__
+
 > Awesome<br> :date: __2021-02-09 01:16:03__
 
 > Very good system<br> :date: __2021-02-08 19:29:25__
@@ -160,8 +162,6 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 > My appointments are safe and sound while being private<br> :date: __2020-06-25 21:49:10__
 
 > Convient for DR'S visits.<br> :date: __2020-06-11 00:42:06__
-
-> Staff is helpful and appointment was punctual. The physician was thorough, knowledgable and considerate.<br> :date: __2020-05-23 08:55:46__
 
 
 

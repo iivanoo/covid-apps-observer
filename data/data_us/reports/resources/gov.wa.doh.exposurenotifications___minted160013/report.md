@@ -129,6 +129,12 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 5 reviews"/>
 </p>
 
+> How get your us<br> :date: __2021-04-24 23:22:56__
+
+> Keeps me abreast of WA covid news and gets my post-vaccination input. Secure and trusted, makes me part of the tracking solution.<br> :date: __2021-04-23 04:34:26__
+
+> That is a good tool for your health.<br> :date: __2021-04-21 23:43:56__
+
 > Haven't used it uet<br> :date: __2021-04-16 01:48:42__
 
 > Quick and easy to use<br> :date: __2021-04-10 18:49:00__
@@ -142,12 +148,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > I like the idea that it gives you a heads up if you contact and/or get near a person tested positive for COVID-19.<br> :date: __2021-03-02 09:01:18__
 
 > Lots of fun. Get lost and enjoy!<br> :date: __2021-02-25 23:15:43__
-
-> Good app<br> :date: __2021-02-25 14:56:40__
-
-> This app and proves your phone it works really well I suggest you tried<br> :date: __2021-02-22 21:24:42__
-
-> Perfect job!! Great tool !!!!!!<br> :date: __2021-02-20 02:51:53__
 
 
 
@@ -213,6 +213,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 2 reviews"/>
 </p>
 
+> No communicating from app<br> :date: __2021-04-19 09:50:48__
+
 > App is not accurate. People around me have tested positive for Covid and I have never received a notification from the app.<br> :date: __2021-04-15 18:31:51__
 
 > The Bluetooth notification is annoying. I'm at home most of the time and am not going to have Bluetooth on all the time.<br> :date: __2021-03-18 15:21:01__
@@ -231,8 +233,6 @@ The WA Notify app has been installed by more than **100000** times. At this time
 
 > The concept is fine but the fact that we are relying on someone who has the virus to input a code that no one seems to know about makes this app pretty useless. The last year has proven to us that we cannot rely on people to do the right thing so that makes this app double useless. This would have been far more useful if it kept the bluetooth device pinging but used every device's phone number and compared it against a database of known infected person's phone numbers.<br> :date: __2021-01-06 15:09:14__
 
-> I was just wondering if you have to have bluetooth on all the time in order for the exchange of private codes or it it does it automatically?<br> :date: __2021-01-04 07:11:42__
-
 
 
 #### 1-star reviews
@@ -240,6 +240,8 @@ The WA Notify app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.wa.doh.exposurenotifications 1 reviews"/>
 </p>
+
+> I got zero alerts about someone getting Covid-19, even though Washington still has Covid-19 cases and it drains my battery because I have to always have bluetooth and location mode on at all times for it to work. Wasted potential<br> :date: __2021-04-23 19:10:37__
 
 > I believe that people are not using the app and reporting they have COVID-19.<br> :date: __2021-04-14 02:27:37__
 
@@ -258,7 +260,5 @@ The WA Notify app has been installed by more than **100000** times. At this time
 > Did not do ANYTHING. See prior response.<br> :date: __2021-02-08 14:37:16__
 
 > This app was a good idea, but there wasn't much thought put into the development of it. There is no way to enter a positive result or exposure without a verification code. This makes the app entirely pointless since I know of nine positive results with no phone calls being dodged, just no way to get a code. This seems like a pretty big oversight.<br> :date: __2021-01-31 01:50:52__
-
-> Literally never a warning... Deleting I don't need to be spied on and literally get nothing back from the app<br> :date: __2021-01-30 05:45:49__
 
 

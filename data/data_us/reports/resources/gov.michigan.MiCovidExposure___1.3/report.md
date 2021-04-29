@@ -126,6 +126,14 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> I check everytime I go out. It makes me feel safe and secure.<br> :date: __2021-04-28 15:30:42__
+
+> This is benifica<br> :date: __2021-04-25 14:17:17__
+
+> This is probably the best way to get information on whether you may have been exposed to the 22nd century plague - Sars COVID - 19. A must for all in this day and age. I applaud the creators of this app.<br> :date: __2021-04-22 14:25:16__
+
+> I like better than first one.<br> :date: __2021-04-18 14:29:40__
+
 > Very good 👍 love it<br> :date: __2021-04-11 16:43:36__
 
 > Good to know<br> :date: __2021-04-04 05:01:49__
@@ -138,14 +146,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Good<br> :date: __2021-03-23 22:25:39__
 
-> I love it<br> :date: __2021-03-19 03:12:34__
-
-> I have had no issues and no interruption of updates. This is simple data recording, even if on your phone it doesn't say it has updated the data has been transmitted. End result you would still get notified.<br> :date: __2021-03-09 11:43:09__
-
-> Too much covid news they need to get the cure out there and stop this garbage and it lets me know every time somebody blows Bobby if they got a sniffle or fart!!!<br> :date: __2021-03-07 22:56:02__
-
-> Liability<br> :date: __2021-02-28 19:43:56__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> Today is 2/24, the last scan was on 1/24. Leave it to the government to create a useless app. Once the problem was fixed, it's working good now!<br> :date: __2021-04-28 22:16:18__
 
 > I am not sure how useful this app is. It does what is says it does - monitors for possible exposure to covid-19 virus. Please note that the new version corrected the problems with the prior version.<br> :date: __2021-03-24 15:44:26__
 
@@ -163,8 +165,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I give it 4 stars needs improvement . but still great app.<br> :date: __2020-12-22 15:38:23__
 
 > I will if it ever downloads, still pending After 5 Minutes, tried again a few days later and it downloaded right away<br> :date: __2020-12-04 05:11:59__
-
-> Sits quietly in the background doing it's thing with no battery degradation. Like to see a tab to show vaccination verification because eventually schools, businesses, concerts, theaters, airlines, etc will want to see proof of vaccination.<br> :date: __2020-12-02 02:55:30__
 
 > So far I havent seen anything about exposures. It would be good if they told me how my county and town is doing.<br> :date: __2020-11-26 16:31:22__
 
@@ -210,6 +210,16 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
 
+> Great idea but the last time it checked says March 18. Needs a way to display our vaccine information.<br> :date: __2021-04-27 17:21:30__
+
+> Exposures was last checked mid-February despite having bluetooth on all the time and occasionally opening the app.<br> :date: __2021-04-25 16:38:55__
+
+> I have to Uninstaller the app and reinstall it because it randomly stops checking for exposures<br> :date: __2021-04-24 02:07:14__
+
+> I haven't had any positive exposures according to the app, but how do I even know if anyone else is using it? I wish there was a way to tell if I've even come into contact with anyone who is actually USING the app. Just a count. I'm not asking for names or any other personal data. Without this count the results are meaningless.<br> :date: __2021-04-18 17:03:53__
+
+> I tested positive for COVID-19. I wanted to share it in the app so I could alert others. When you test positive, the DoH gives you a PIN that you then enter into the app to verify your positive test result, which should broadcast it on the app. But here's the major problem: it didn't recognize the TWO PINs they sent me. I tried phoning someone, but had no idea who to contact. I was desperate to get the word out, because I work in a busy location. Nothing worked. I tried the codes again and again, but the app kept rejecting them, saying that it wasn't a valid code. I called the admin office-- I think???-- of the local health department, because I had no idea who else to contact to help me. All I did was call the number the app gave me. No responses from anyone. I'm starting to think this is happening with other positive testers as well, and that's why exposures aren't properly updated. Because of this, this app is LITERALLY. POINTLESS. Please do something about this. I tried to inform as many people as possible, but I can't reach out to everyone.<br> :date: __2021-04-18 15:45:58__
+
 > The last time the Exposure Notification updated was on March 31, it should update more often.<br> :date: __2021-04-12 05:38:38__
 
 > I tried the app but have to uninstall and re install every couple of days because it stops working.<br> :date: __2021-04-06 22:46:51__
@@ -220,16 +230,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > I've had to reinstall this app on a few occasions. No it is still displaying last checked March 08, 2021.<br> :date: __2021-03-17 15:11:09__
 
-> The app stopped scanning so I redownloaded it and it still doesn't update. Also, not sure how effective it really is since sharing if you've trsted positive for covid is by choice and I'm pretty sure most people in my area haven't even heard about the app and if they have, probably wouldn't choose to share.<br> :date: __2021-03-16 20:50:17__
-
-> My app hasn't checked for any exposures since Feb 6th. I don't have an update option, and all permissions are granted. Frustrating. - I tried to export and nothing happens on my end. I clicked "export" and I didn't have the option to view or email anything over.<br> :date: __2021-03-13 16:14:37__
-
-> This app is a great idea, but seems that it could be a bit more transparent. I appreciate that the app does not track me in any identifiable way, but I think it would be helpful to have more personalized statistics. Right now, the only thing we know is when the app last checked for exposures. I think it would be helpful to know how many unique IDs were gather over the last day. That way we can determine if the people around us are using the app and that the app is actually gather data fromothers<br> :date: __2021-03-10 18:59:41__
-
-> Data is old and hasn't been updated. I dont trust that this would help keep me safe at ALL ETA: Added star because of the response from the developer, but data is still wrong. Michigan covid deaths specifically. When the average person can get accurate data by using a quick Google search, I would much rather be able to open my app and get all data available as ACCURATELY as possible.<br> :date: __2021-03-01 16:56:29__
-
-> Doesn't update cases counts and deaths data<br> :date: __2021-02-22 19:53:15__
-
 
 
 #### 1-star reviews
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
-> This app is worthless. It hasn't checked for exposures since Jan 28.<br> :date: __2021-04-18 02:59:09__
+> It stopped checking back in February. Uninstalled and reinstalled, but it doesn't say it stopped checking unless you go into the app every day and see the last time it did run a check. Also does not inform you if you have been exposed after it stops checking. Reinstall starts it fresh with no history data. Yes bluetooth is on, so don't ask.<br> :date: __2021-04-27 17:53:37__
 
-> Not that it matters now, but on March 28th my daughter and I tested positive for Covid. This app has still not notified us. So just a heads up. You can be in the same job/house with someone who is positive and there will be ZERO notification.<br> :date: __2021-04-17 18:31:44__
+> The app only updates its check when you open it which defeats the purpose.<br> :date: __2021-04-27 16:37:45__
 
-> Useless I've had it on since I installed it and I travel all over for work and.i live in michigan the highest infection rate and not one alert<br> :date: __2021-04-17 14:43:19__
+> The app has not checked anything since april 15th, its now april 26th, in my opinion its useless.<br> :date: __2021-04-26 16:16:07__
 
-> Update: App was working fine until April 4th. It is April 17th today and I haven't had any exposure check since the 4th. I changed my settings so the app doesn't get turned off due to battery usage, but that did nothing. Why do the other states have an app that works but not Michigan? I work in a grocery store and this would be so helpful if it worked, but instead it's a big pile of steamy turd.<br> :date: __2021-04-17 14:30:21__
+> This has not checked for 4days. I now have dropped to 1 star. It hasn't checked exposure since 3-22. It is now April 26 and still no check since 3-22. I will delete this because it is useless to me.<br> :date: __2021-04-26 15:14:29__
 
-> Sadly, the day I went back to work with young children, the app stopped working.<br> :date: __2021-04-15 02:20:37__
+> Doesn't work<br> :date: __2021-04-26 09:17:07__
 
-> \*\** Update \*\** So I uninstalled this for a while. Finally heard they improved the app and reinstalled. It worked for a week or two. But now it again hasn't checked since April 6th. Today is the 14th. My app is up to date. Which is sad since Michigan currently has the highest infection rate in the nation. I'm fully vaccinated now. I'll continue to wear my mask and socially distance. I'll also have more room in my phone because I'm deleting it again. For good.<br> :date: __2021-04-15 00:06:24__
+> This app and any like it are leftist scare tactics. 100% propaganda and proof of the socialist/communist agenda and clearly government over reach. It's not about helping anyone or keeping anyone safe, it's about power and control. Everyone needs to delete this app now. Delete it faster than Google/ Michigan will delete this comment. How dare anyone think different or go against the globalist agenda.<br> :date: __2021-04-24 15:17:19__
 
-> This has not checked for 4days. I now have dropped to 1 star. It hasn't checked exposure since 3-22.<br> :date: __2021-04-14 23:05:44__
+> I have had this app installed for 3 months and I am out and about all the time. According to this app I have never even been close to anyone with the "disease". You must be kidding me. With the whole country shut down because of this I must have been near someone by now. What a joke. Either make it work or trash it. You are supposed to be protecting peoples lives but you are just giving false hope. Fix the damn app, you idiots, and quit making silly excuses.<br> :date: __2021-04-23 17:09:16__
 
-> Mine hasn't checked for exposures since January 3rd. It's April 13th. Bluetooth has been turned on the entire time.<br> :date: __2021-04-14 02:18:47__
+> it didnt not give much information nor is it up to date on its current info or follow up for anything pertaining to michigan's covid crisis. BOO! HORRIBLE APP!<br> :date: __2021-04-23 13:19:56__
 
-> Doesn't work. It hasn't checked anything for going on three weeks.<br> :date: __2021-04-13 23:45:31__
+> Worthless app. It stops checking after a few days.<br> :date: __2021-04-20 14:48:46__
 
-> Never alerted, and my own child tested positive<br> :date: __2021-04-13 13:39:33__
+> The app hasn't checked for exposure since December... Sort of useless. Battery saver is off, Bluetooth is on, data is on, etc. The app has no permissions other than enabling the android exposure settings. This would be a very useful app if it actually bothered to check for exposure.<br> :date: __2021-04-20 02:03:14__
 
 

@@ -168,6 +168,8 @@ The UT Exposure Notifications app has been installed by more than **50000** time
 <img src="3_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> I guess it's a good thing I've never seen it do anything? I don't know lol<br> :date: __2021-04-23 08:46:57__
+
 > Novel concept. However, I've noticed a significant reduction on my phone's battery life.<br> :date: __2021-03-20 18:58:51__
 
 > Doesn't work with bluetooth turned off and I keep BT off for battery and syncing security. I have never had this app send me a notification and my work has had exposure. So why is it an app?<br> :date: __2021-03-17 01:51:24__
@@ -190,6 +192,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="gov.ut.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Don't use<br> :date: __2021-04-28 16:20:44__
+
 > Haha government go pssssshhht<br> :date: __2021-04-13 21:13:48__
 
 > It takes up space on my phone and uses battery and data resources. At this point in time, it is just another drain on resources.<br> :date: __2021-04-11 21:14:31__
@@ -207,7 +211,5 @@ No recent reviews available with 2 stars.
 > I had this app installed for a few months and finally decided to uninstall tonight ... I downloaded the app to receive notifications, unfortunately the only notifications I ever received was when my Bluetooth was turned off or my location was turned off. Utterly useless app<br> :date: __2021-03-18 07:25:25__
 
 > Grose invasion of privacy<br> :date: __2021-02-26 16:18:34__
-
-> No one is even a tiny bit concerned as to how this app works......really?<br> :date: __2021-02-26 04:18:09__
 
 

@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> This app really helps. It offers good advices if needed. I really recommend this.<br> :date: __2021-04-27 03:24:16__
+
 > So many different options to explore, and learn.<br> :date: __2021-03-31 00:43:04__
 
 > Surprisingly fresh and thoughtful in it's design. I enjoy learning thru this application 😊<br> :date: __2021-03-30 15:50:46__
@@ -157,8 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Fantastic App.<br> :date: __2021-02-25 16:40:16__
 
 > This app not only helped during Covid, but it also helps my every day anxiety and depression!!<br> :date: __2021-02-24 20:58:21__
-
-> Very, very good, for self and family💘<br> :date: __2021-02-10 20:25:53__
 
 
 
@@ -217,6 +217,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 1 reviews"/>
 </p>
+
+> This is such garbage. Nothing actually helps. I could litterally just google my problem and click the first link amd get more help than this.<br> :date: __2021-04-23 09:42:03__
 
 > Covid19 not real because tree give free oxygen<br> :date: __2021-03-02 02:34:37__
 

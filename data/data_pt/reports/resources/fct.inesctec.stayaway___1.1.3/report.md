@@ -137,25 +137,25 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Nao sei mas andam muitos por todo lado<br> :date: __2021-04-28 19:46:17__
+
+> Sérgio baranita Soares<br> :date: __2021-04-28 14:35:36__
+
+> As pessoas dão nota baixa sem entender a necessidade da aplicação. Nota 5 porque faz exatamente aquilo que pronete :)<br> :date: __2021-04-27 21:25:06__
+
+> É incrivel a quantidade de pessoas que ficam indignadas pela aplicação pedir acesso à localização, mesmo que não a utilize para recolha de dados pessoais.p... Mas quando há os facebook's, tiktok's e outras porcarias a pedir acesso a tudo e mais alguma coisa, ninguém se importa. A aplicação não merece menos de 5 estrelas. A certas pessoas é que faltam 2 dedos de testa para avaliarem as suas prioridades...<br> :date: __2021-04-25 18:08:51__
+
+> Gostei<br> :date: __2021-04-21 14:00:59__
+
+> Muito pouca<br> :date: __2021-04-20 15:22:38__
+
+> Toppp<br> :date: __2021-04-19 14:54:08__
+
 > Super<br> :date: __2021-04-17 18:49:10__
 
 > Bom<br> :date: __2021-04-08 21:11:56__
 
 > Consulto diariamente sinto-me mais seguro<br> :date: __2021-04-07 12:03:47__
-
-> Aplicação super mega útil! Eu estou muito contente com o App e com os programadores.<br> :date: __2021-04-07 08:46:20__
-
-> Good<br> :date: __2021-04-01 02:53:41__
-
-> Penso que é uma app útil e de ajuda a nos protegermos de situações de perigo de contágio<br> :date: __2021-03-28 23:04:03__
-
-> Util<br> :date: __2021-03-28 13:21:16__
-
-> Gostei<br> :date: __2021-03-27 12:42:08__
-
-> Excelente ferramenta. Obrigado e Boa Saúde<br> :date: __2021-03-26 21:01:31__
-
-> Eu adorei a App stayaway covid<br> :date: __2021-03-11 21:16:23__
 
 
 
@@ -164,6 +164,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
+
+> Boa<br> :date: __2021-04-22 23:42:13__
 
 > Senti que foi realizado muito rápido.Ficaria instalado?Vi verificar<br> :date: __2021-04-13 01:20:55__
 
@@ -183,8 +185,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Tenho a aplicação, mas se passar por alguém que não tenha, e estiver infectado não resulta<br> :date: __2021-02-04 11:55:03__
 
-> A app é boa em geral, mas não excelente. Só não entendo como é que têm gente BURRA a reclamar de ter de usar a localização e o Bluetooth para a app funcionar. É preciso fazer um desenho a explicar que o telemóvel n advinha se estiveram perto de alguém infectado. Ignorantes.<br> :date: __2021-02-04 03:00:15__
-
 
 
 #### 3-star reviews
@@ -192,6 +192,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
+
+> Esperava mais comentários engraçados 😔<br> :date: __2021-04-27 01:08:27__
 
 > Nao tenho nada a dizer<br> :date: __2021-04-15 12:08:27__
 
@@ -211,8 +213,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Já estive perto de dezenas de pessoas infectadas, e mesmo cumprindo as exigências da APP nunca recebi um alerta. Têm de dar importância à aplicação, todos deveriam ter a APP instalada e todos deveriam assinalar quando positivos, senão é inútil!<br> :date: __2021-02-09 09:36:14__
 
-> Mais ou menos<br> :date: __2021-02-07 20:35:21__
-
 
 
 #### 2-star reviews
@@ -220,6 +220,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
+
+> Sem eficácia. Simplesmente não funciona. As informações são muito simplistas.<br> :date: __2021-04-21 19:03:27__
 
 > Inútil<br> :date: __2021-04-06 13:39:53__
 
@@ -239,8 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Muito ruim<br> :date: __2021-02-08 21:29:30__
 
-> Nada de especial!<br> :date: __2021-02-07 15:39:19__
-
 
 
 #### 1-star reviews
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Ridiculle<br> :date: __2021-04-29 11:30:28__
+
+> Trabalho num hospital público com contacto diário com centenas de doentes infectados com COVID19. Uso a APP desde o primeiro dia em que saiu. Até hoje nunca fui alertado pela APP. Como explicam isto???<br> :date: __2021-04-28 09:21:15__
+
+> Esta aplicação não tem muito sentido, uma vez que quaze ninguém a usa, e mesmo dos que usam, se tiverem o covid só colocam o código se quizerem.<br> :date: __2021-04-26 16:26:15__
+
+> Por favor, melhorem esta app, não vale a pena instalar, pois tive de esperar 1h e 13min para saber o resultado, então já a desinstalei.<br> :date: __2021-04-25 10:16:21__
+
+> Um erro, face ao esperado!<br> :date: __2021-04-24 08:53:50__
+
+> HORRÍVEL<br> :date: __2021-04-24 02:49:59__
+
+> Porque eu posso<br> :date: __2021-04-20 21:09:54__
+
+> Um app à imagem do governo. Só bugs!<br> :date: __2021-04-18 17:22:16__
+
 > Pode funcionar, mas não consigo pedir o código ao médico de família. Ficamos igual. Os médicos não gostam da APP? Devem quer viagens ao Brasil. Qual é o número para pedir o código por SMS, na altura não havia essa opção?<br> :date: __2021-04-15 11:41:52__
 
 > O facto de não ser uma app obrigatoria e haver uma minuria de utlizadores, faz com que a mesma não cumpra o seu objectivo. Tive alguns contactos de risco e nem 1 nidificação gerou.. Por isso ao fim de 6 meses de utilização chego a conclusão que só serve para ocupar espaço nos nossos dispositivos... Reeposta; O Problemas Está mesmo ai as pessoas não poem o codigo ou nao uasam e e todos os cobtactos que tive foram no trabalho e em cercade 16 pessoas infetadas nem um alerta...<br> :date: __2021-04-15 10:56:55__
-
-> Inútil. Ninguém registra o código que lhe é entregue. Quando é entregue. Para esquecer<br> :date: __2021-04-15 01:00:37__
-
-> Odeio só gasta bateria e nem detecta nadaaaaaa<br> :date: __2021-04-14 18:47:44__
-
-> Não vale a pena instalar, foi uma aposta para saber se tivemos em contacto com alguém, só que não acredito que o meu telefone seja o único que não consegue identificar... tenho imensa pena mas não instalem esta aplicação...<br> :date: __2021-04-14 16:33:10__
-
-> Simplesmente não funciona, estive com familiares que tinham a aplicação e apanharam o covid, a app nem sinal de vida dava avisar que poderia estar próximo de um infectado. E eles estavam sinalizados pelo sistema nacional de saúde. Por isso, desinstalei não funciona. A minha nota é 0<br> :date: __2021-04-14 10:20:38__
-
-> Vale zero e tem zero de utilidade.<br> :date: __2021-04-13 14:04:29__
-
-> Necessário wifi e bluetooth?!Foi uma boa ideia mas poderíamos usar offline também<br> :date: __2021-04-13 13:12:56__
-
-> Uma APP paga pelos contribuintes portugueses uns passam fome outros perderam o emprego outros perderam as casas enquanto o senhor primeiro ministro gasta o dinheiro dos portugueses em coisas que não prestam para nada se todos cumprissem o seu dever Portugal não tinha casos de coronoviros só fecham os aeroportos quando as calças começam apertar tenho vergonha de ser português ,se não fossem os imigrantes que vem dos países que mais coronoviros tem por não serem responsáveis Portugal não tinha cas<br> :date: __2021-04-12 22:52:38__
-
-> Olá<br> :date: __2021-04-12 13:45:29__
 
 

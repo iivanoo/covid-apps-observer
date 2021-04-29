@@ -269,6 +269,8 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 <img src="3_star_reviews_wordcloud.png" alt="org.uwmedicine.android.wash.virtualclinic 3 reviews"/>
 </p>
 
+> I see where they're going but have some work to do to simplify and make the program welcoming, streamlined and easy.<br> :date: __2021-04-18 14:46:52__
+
 > Can't be sure this is for University of Washington. My logon doesn't work but works on my desktop.<br> :date: __2020-06-02 21:36:24__
 
 

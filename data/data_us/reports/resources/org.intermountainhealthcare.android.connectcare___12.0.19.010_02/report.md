@@ -189,6 +189,10 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Very useful app! Would recommend if you need a quick chat with a specialist! Much love to all the male/women doctors helping those in desperate need of medical advice as well as helping cope with there medical issues!! It's a must download so people what ever it is that's keeping you from using this app forget about it and download this fantastic app!!!! ❤️<br> :date: __2021-04-26 11:06:07__
+
+> Quick and easy. Great experience. Thanks<br> :date: __2021-04-24 19:15:14__
+
 > Very good<br> :date: __2021-04-17 18:46:15__
 
 > Did not have any problems with this app.<br> :date: __2021-04-04 22:37:15__
@@ -204,10 +208,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > The absolute best doctors visit I have ever had. Easy to set up, easy to schedule, easy to chat and explain my symptoms. Instead of the minimum 1 Hr. Round trip (realistically 2 Hr.) To the office to be told the same thing from login to logout was 12 minutes! You do not have to be tech savvy to use this it walks you right through the steps and don't worry if you don't have a computer or laptop you can use your smart phone . Rest assured it's an absolute delightful experience.<br> :date: __2021-02-18 23:30:56__
 
 > So Easy, Helpful and I felt comfortable. Loved the physican I was able to pick. Helped me, understood, professional and friendly. Took the time to really look at my records and ask questions. Perfect all around. I highly recommend.<br> :date: __2021-02-16 00:38:58__
-
-> Works as described. Did not disconnect.<br> :date: __2021-02-14 19:38:33__
-
-> This was the best health insurance I have every had. Im not with them anymore but I wish I was.<br> :date: __2021-02-12 08:03:28__
 
 
 

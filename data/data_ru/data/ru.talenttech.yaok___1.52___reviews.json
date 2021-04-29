@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHCXXbAm99K6jOosV0HCfDw3K81VyZfN9rkr505s1AeRR4EWU8JXvKHTsx_rbFWQptLEl3DEDNtVT7GSP8",
+        "userName": "\u041c\u0430\u0440\u0438\u043d\u0430 \u0421\u0438\u043c\u043b\u043d\u043e\u0432\u0430",
+        "userImage": "https://play-lh.googleusercontent.com/-4afh3n7cszE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmK8kDB4OGt0MqQPW-SHnENJZy5-g/photo.jpg",
+        "content": "\u043e\u0440\u0440\u043e\u043f\u043f\u043b\u043c\u043e\u0440\u043e",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.52",
+        "at": "2021-04-27 09:06:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEe59rDnrnMO9JUte073-PwEQVIomKSzE4fJLlh3G0P2nMbZRAvPYPDeM9JPcdKPZnk5mckmxNtFqA_Ocw",
         "userName": "\u041c\u0430\u0440\u0438\u044f \u0417\u0443\u0435\u0432\u0430",
         "userImage": "https://play-lh.googleusercontent.com/-pxM7NQh-cqc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJ89pHV5jZNrccYVS_d8ThKT6SkA/photo.jpg",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.52",
         "at": "2021-04-15 09:25:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, \u041c\u0430\u0440\u0438\u044f. \u041d\u0430\u043f\u0438\u0448\u0438\u0442\u0435, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435 \u043e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0435 \u043d\u0430 \u043f\u043e\u0447\u0442\u0443 lk@avaclinic.ru \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043d\u0448\u043e\u0442\u044b \u043e\u0448\u0438\u0431\u043a\u0438, \u0447\u0442\u043e\u0431\u044b \u043c\u044b \u043c\u043e\u0433\u043b\u0438 \u0432\u0430\u043c \u043f\u043e\u043c\u043e\u0447\u044c.",
+        "repliedAt": "2021-04-19 19:25:11"
     },
     {
         "reviewId": "gp:AOqpTOEAbg8ZtaDMA20bKOOBhYDQqTpCjbOIicJUgwn5MFcVg09vaq-Kx1JEwMXGoK4mnrhCopQD2lS04SMtQ0w",

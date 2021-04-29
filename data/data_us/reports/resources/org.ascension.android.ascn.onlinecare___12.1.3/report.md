@@ -286,6 +286,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 1 reviews"/>
 </p>
 
+> Cant get pass entering my password useless!!<br> :date: __2021-04-24 00:47:06__
+
 > Horrible<br> :date: __2021-04-10 01:40:45__
 
 > Don't use this app unless your covered by their specific insurance plan. Took 3 days to get the meds they prescribed to my pharmacy. That was with over 48 hours trying to get them to even fix the issue of even knowing I was seen the day before. Also if you are on medicaid, they don't support you so all meds won't be covered at all cause their doctors aren't covered by medicaid. Once all this had gone down, it shows $59 dollars for nothing and was even double charged wrongfully on my credit card.<br> :date: __2021-04-09 21:04:46__
@@ -303,7 +305,5 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > Tried going to look at my lab results from my cancer doctor and could not see them or even anything about her. Very disappointed<br> :date: __2021-01-24 17:52:04__
 
 > Suck Fest. Worst customer service ever. Save your $.<br> :date: __2020-12-23 22:30:43__
-
-> The app borders on a scam i was under the orders of a doctor taking 2 medications perscribed by the doctor for a sinus infection i needed to contact my doctor for further concerns i was having but because it was simply online care i guess versus being actually treated i was not allowed by the management to get my doctors contact information not only would i never give these people another dime of my money i would not recomend it to anyone else either. What a shame maybe someone else can get it.<br> :date: __2020-12-12 08:22:52__
 
 

@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOF7EzuTcx-cUq4qT38q3_Uw_l91yXYA_LAjsJa0VRvf_KCdWC_bFa0M8PSraMWgOIls7868b2x7zlt2bFQ",
+        "userName": "Lisa Koe",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_JcCp2T5CoYJaiInw6kVdFvBBHv9aEy5bZ9jlZQ",
+        "content": "UPDATE: From 10/5 - 11/20/20+ the App didn't work at all. Since some time in 01/2021 I've been able to start doing daily check in's again. However, this past week 3/26 my state's info has not been showing. It just show's \"ERROR LOADING CARD\". EDIT: It's now 4/20/21 & the \"error loading card\" has STILL not been fixed! Changing to 2 stars until fixed! I'm really hoping it doesn't take 4ever for the Co. to fix this problem; like it did when they crashed the App w/ their \"update\" back on 10/5/20.",
+        "score": 2,
+        "thumbsUpCount": 48,
+        "reviewCreatedVersion": "1.13.6",
+        "at": "2021-04-20 08:38:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEfw3xVtTlf38OOywIwY2Qqyk5v8ImCT2tywTmXAIX337jmjCzgH2hs2f3I6KoGlnFdofsNmR_nJNI1azU",
         "userName": "Jean Sandler",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSyhc9UZwj-yODGlqwOKOkjsb_rYiFLlSV-VSAkA",
         "content": "It is basic and alliws me to provide a rough description of my health status. But does not allow for individual or personal answers. Not everyone fits into the options provided. Example. I select cough every day. But would like a personalized option of explaining that it is medication induced.the choices are a bit too constraining. Sometimes I am forced to choose one that is not accurate",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-04-17 18:03:39",
         "replyContent": null,
@@ -36,24 +48,12 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOF7EzuTcx-cUq4qT38q3_Uw_l91yXYA_LAjsJa0VRvf_KCdWC_bFa0M8PSraMWgOIls7868b2x7zlt2bFQ",
-        "userName": "Lisa Koe",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_JcCp2T5CoYJaiInw6kVdFvBBHv9aEy5bZ9jlZQ",
-        "content": "UPDATE: From 10/5 - 11/20/20+ the App didn't work at all. Since some time in 01/2021 I've been able to start doing daily check in's again. However, this past week, 3/26, my state's info has not been showing. It just show's \"ERROR LOADING CARD\". I'm really hoping it doesn't take forever for this company to fix this problem; like it did when they crashed the App w/ their \"update\" back on 10/5/2020. I also really miss seeing my states info on the original easy grid.",
-        "score": 3,
-        "thumbsUpCount": 48,
-        "reviewCreatedVersion": "1.13.6",
-        "at": "2021-03-27 04:32:03",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOGOtnp7jMmO8yRM9HcKJ203hHCRmBzNH_ha81hEOJfWYmZ1JpRznwim59Jd7UQgtrXZIxUd2sM0oif5Zcw",
         "userName": "Marisa Wilson",
         "userImage": "https://play-lh.googleusercontent.com/-xr2Bo6YlyEE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl402fd8h4Sv-KAfwCs9AMuu86ORA/photo.jpg",
         "content": "I love that its a small way to help. Great app just wish A. A different quote occasionally because I'm tired if dolly Parton and B. The statistics no longer shows and I liked it a lot. Everyone should use this! Not for yourself but for others to have food!",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-03-27 04:08:55",
         "replyContent": null,
@@ -161,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPSiuuc68Thly6c6OkKBam3FtVxxF5tid_FMbIStc",
         "content": "This app is so user friendly, ridiculously easy to dive right in. I love being able to track metrics around my mood and wellbeing. It's super cool to see metrics from my state and around the country as well! I could see something like this really taking off and becoming a valuable asset to our community health.",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-02-25 20:10:21",
         "replyContent": null,
@@ -209,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0ZDgCW8gp97sLKkaAzK9yMq8YiJ7iEPhf8KqEyw",
         "content": "Non invasive Since the update, the reminder/notification has not worked. When it did work, I completed it daily, faithfully. But w.o the reminder, it's all fallen apart. Now it feels like there's really no point. Chances are, I'll uninstall soon.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-02-21 18:03:43",
         "replyContent": null,
@@ -1057,8 +1057,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHzhUJVUK-PGEcq-Jx0dEvrrOn_V5dS8QpssHqJlPiGsuSCn-1c-9b1oFYPTqpxdxyozb2Z5ZFEuNXSwkQ",
-        "userName": "Fernando Olague",
-        "userImage": "https://play-lh.googleusercontent.com/-y-_q0OXA4SY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl8EMG9kL_Rqu95sOKJgKDPQWJi-g/photo.jpg",
+        "userName": "Fernando olague",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtICMaPYrkWya88zvyvAC4l_1gPt1sE6Dsj04BTNo",
         "content": "Keeps crashing can't open app anymore",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1262,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOGQVepc455WwXiwnm5LGyu1eshPkQZA4Oz-JFhwqIBbOosuVDTzA5mpwC19ZfxOGpvJgMZcNwAqtrZM8_M",
         "userName": "Samantha Lynn",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKQfWPSL_H9MRFQDaYlfGRhvL4ccJ4QH2y3JAPemQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi3GRh6rqEmkHl_NIw_IxbUozvfX1HDy2fy_JhSmxI",
         "content": "It worked wonderfully for 190 days but no longer. App had a good run on my Galaxy 9+ but it crashes as you try to get it open. I have since decided to uninstall for good.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4274,7 +4274,7 @@
     {
         "reviewId": "gp:AOqpTOFTbjU6bdfxUspDNwzmvVi41J_F-HbGH3AUY1Z8AqBIQ7oHK4qhs_NI3_q-7jGU5Qnl2SASG32Hbj6-vOg",
         "userName": "Kelly Bernatow",
-        "userImage": "https://play-lh.googleusercontent.com/-ZO-hDWrJetY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNAfwJBMe08eEfNGRUJh9FyhSHjQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVouHYMmKCzN0HWdz_LxnqMXVfDcbhnSV46o1q2a0",
         "content": "Only gave 4 stars b/c I went out of town for the weekend and now that I'm back home, I can't get it to switch back to my home county.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4778,7 +4778,7 @@
     {
         "reviewId": "gp:AOqpTOGGPb_uQC5g3Xl0XuwUhFRkZFk8hGmJTbyTwJ5K9cjjNKzVjmRWUXODDIqMeuFfXd_bohPGuqhWsFjBt0A",
         "userName": "Mark B",
-        "userImage": "https://play-lh.googleusercontent.com/-6sD7xR3WUCI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBAEwfAziczIcGnrxRk5rKxOinkA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-7Ki4H75ODiKL9W3rLwsQ0-73ha8h6wJwHSl7=mo",
         "content": "Not great after adding the input of feelings. It was quick and simple when I first downloaded it. But then they pushed an update that asks you 900 questions about how you are feeling mentally. I thought the idea was tracking the virus itself not mental health. Deleting.",
         "score": 2,
         "thumbsUpCount": 5,
@@ -4790,7 +4790,7 @@
     {
         "reviewId": "gp:AOqpTOG6BWQ8dviS_U_Bm6Z8tgYNC3CPPuf4r8mBKV6eCDKa9rjeeAmzVR8s-NQ54K9tCxFUhisZqoPSbGLP-nQ",
         "userName": "Laurie Fox",
-        "userImage": "https://play-lh.googleusercontent.com/-MRvX9kZQM_U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllz46ROiGBaalcfSvxXM4X2y1MnQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwnC2vmxYyZRG8E1ZSNidaVCOrbw2koq4I8yoIR=mo",
         "content": "Very user friendly.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4814,7 +4814,7 @@
     {
         "reviewId": "gp:AOqpTOEKMQq0HCY26uBLEOZZaoGIpbRQBRliFYthLA5kqdBsZlwodDhNLhm5r_h0UlBfDJEFb4t-WXXTOZCxKuM",
         "userName": "DeLeash Williams",
-        "userImage": "https://play-lh.googleusercontent.com/-TFjxlaq20po/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoe73CKVkkz_PAD0EYG_AZmDI2Mw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwJxE0hWMRNhhG6Z22n1d7RbBrbV-QUPxJrP2pS=mo",
         "content": "Great app!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4838,7 +4838,7 @@
     {
         "reviewId": "gp:AOqpTOEVniRdrWyOGXTRf2dEM5TjeTvx5uFrjwtnX7N266ijgwFqKUYruGKu3TGWhXbmJz0sxgj8tCL4zej-WGM",
         "userName": "Rebecca Wasniewski",
-        "userImage": "https://play-lh.googleusercontent.com/-EmBGPvrRYVk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqRxZfdbKvFjsxz1rw3Zg1xrJivA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxbieQVSrP8LCrMLYJT9IaZduzI39z2klhUuok=mo",
         "content": "It makes me think,,, how Do i feel",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4862,7 +4862,7 @@
     {
         "reviewId": "gp:AOqpTOHGsiKkCWrJrJpXdkQkgJt_iD7vnpGhfggJhObUpylYF0Fak_sHZvCd_Xj285tYuPE57XLwo8G5DPlhnLc",
         "userName": "Sandra Wallace",
-        "userImage": "https://play-lh.googleusercontent.com/-0tYsQOFuGfo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmvddRfPGv_sxJ3Ha1d3sZNGwgaQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyz42mRb2u2VTHLHhIPkkCfeUPFhtSBk5JVBuLr=mo",
         "content": "Like the feel of helping.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4874,7 +4874,7 @@
     {
         "reviewId": "gp:AOqpTOERYG1CFA3lLYDFCWLi8AiHm3HCIIrTmEeIQ0sz2Eb9JbxID7dhCPprRd3xur90s7y_2q0eqyyMxeZ5xk4",
         "userName": "Ally RIles",
-        "userImage": "https://play-lh.googleusercontent.com/-gUIm2W3JG6E/AAAAAAAAAAI/AAAAAAAABTI/AMZuucmtPED8tFw93zyk8FhPMl0x7pTomQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDMFdkfZNFfS3vfXagwq5GB-9hR3P9KWETbhwzuA=mo",
         "content": "I like the end result. I don't like having to share so many \"feelings\" every time. THAT part annoys me but I appreciate the meal donation idea, so I do it, annoying as it may be.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4886,7 +4886,7 @@
     {
         "reviewId": "gp:AOqpTOEGtxRyIEFy8la7JqREthuUdklMtqDiCnXtqYjAPMcO9ys11G-t9C6BrSbez_uq5cjGtX_Tsh_MP66Im1c",
         "userName": "Jose Avila",
-        "userImage": "https://play-lh.googleusercontent.com/-dAKxrEg0C-k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndVOBTV7A1UeG691HSHIZ1p9Iygw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkJv16I0XvvFOQmmjbVrqTxAPYPJRuvSCkt-9W=mo",
         "content": "I Hope This App - Helps With Coronavirus Tracking",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4898,7 +4898,7 @@
     {
         "reviewId": "gp:AOqpTOEa63_CVQkjI-hmoiMrSV8DEhSF4o8Dvy8SrY4mwpG1RzOyUsUcVKwTtmoMMFkulVphdHlaD8x7g0ZAuCE",
         "userName": "Jenn Love",
-        "userImage": "https://play-lh.googleusercontent.com/-Io_UwLRTowg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyLzp-otNqCf109fqVrFQzlHezsg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxyiHDSLl3h8T0Fwxzck6sbCTThBVaWS1ZYUO_f=mo",
         "content": "Keeps me in tuned with myself.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4934,7 +4934,7 @@
     {
         "reviewId": "gp:AOqpTOGb1kIS7PhOAVv1IObil3zrQbswkk3izIMPmu9FR4hdPFhssif-DlOc3XaCmS_bdzd3SiQIB9vJszSz-q0",
         "userName": "Sue Sater",
-        "userImage": "https://play-lh.googleusercontent.com/-MbKfNYAzZfI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvoY910LQ4Nd3Euowh7MdgBFsCIg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKCwz1UugUY9rre28dIp_5Yd5_5zdjx_29LixK=mo",
         "content": "Simple, helpful, useful!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4970,7 +4970,7 @@
     {
         "reviewId": "gp:AOqpTOEZYg5e_vOeWc2QatKnuECzNAlC2T4IJAnZvNc-6Jtozv-zmve_JgsLbogqHiZd8yOrLW-G7QwFkZMeeOI",
         "userName": "Louis Fraga",
-        "userImage": "https://play-lh.googleusercontent.com/-LOprvs1BVc0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZvDroHcW045SCRxFnaISPd0RrCg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyAJrI5TCKGhPXX_RPYyT2AwV53BHGnT0UC17VC=mo",
         "content": "Quick and eady",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4994,7 +4994,7 @@
     {
         "reviewId": "gp:AOqpTOFwKvPCgYOvCLzx9XLLn9EaNgRcUjVeOVrJbOqkYuwSkZwznL-NjdUcq1bMSxpp8lWNmkaP0ta7fuP7rg0",
         "userName": "Sheila Rowden",
-        "userImage": "https://play-lh.googleusercontent.com/-zoKDtuvQ-uY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBZnlH4G8bRLjwkr2gk_p7_diMOQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyNNN_FQE0e73wTBqkSBEWTHMYBVYWai3HqudC3=mo",
         "content": "Very vague in the how you feel section and the reasons for leaving home.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -5054,7 +5054,7 @@
     {
         "reviewId": "gp:AOqpTOFj8qH-1N8-DuYZ4iWpSrHcqW11FCuROJ3jIWTiAMwjemcnZDXrb1mPNw7VqfBkTmqcTw-8uVf7x-vWItA",
         "userName": "melissa mercado",
-        "userImage": "https://play-lh.googleusercontent.com/-dhdlu3M-NjA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLftcI0q-HalimnqyxV4ctAOB8Yw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwvV0azGQRd9HI9QCfgG-qzp3NTIsMi9_DysRXN=mo",
         "content": "Can't read all questions and its difficult to read some of the data",
         "score": 3,
         "thumbsUpCount": 0,
@@ -5066,7 +5066,7 @@
     {
         "reviewId": "gp:AOqpTOFXt1fMuP1j77c-DMsbMi9uLz_X5BVxcL9Lkq6zUR7VhYhs-730gw-dG0RoHaaR1hGlVVQ-101pZi5RIXs",
         "userName": "Maureen Laneski",
-        "userImage": "https://play-lh.googleusercontent.com/-J44cEvYcBG0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5epZ_5GSe2cpwGMdfvo-9crb6Tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwdHUzMDMa49b6BCgR-sKmWR4qEkzWjAsDHwsOC=mo",
         "content": "I really like how simple and quick it is. I'm not too sad about not going out bc i already avoided crowds for normal flu and cold season stuff. I get social anxiety, too. Just miss hugging loved ones and worry for my fam, esp the kids.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5090,7 +5090,7 @@
     {
         "reviewId": "gp:AOqpTOFz4tQj6MTM80R1_nm4GLEDVgK4fMqC_qMzwDY7sGJQ4W7vg157RkJjDVP8St1IgS6_LMxfxEz_dCFF7B0",
         "userName": "Charlotte Woermer",
-        "userImage": "https://play-lh.googleusercontent.com/-V2bytRR8DD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcXrV39e4UzUEPkXpD3lqZqKj13Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUISgxEYL-NrhikUOVP5v6YMZbyK80XO0U0vza=mo",
         "content": "Simple to use and i like knowing how many people are well or sick in my town",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5102,7 +5102,7 @@
     {
         "reviewId": "gp:AOqpTOEaaSsTLz6LPBBlm3XBXWDOpPbmhuHMaC4kUw5QKDCvsBrqdtPTS2M339ON0mgIneFT0CZBSwr9xei8vd4",
         "userName": "Connie Charles",
-        "userImage": "https://play-lh.googleusercontent.com/-SedhclqG0Eo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9wo_YjloQPYlUhUTMhfqf_opogQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw97Qus16QE92YbWIh9nMqNL4NUF4QtVYJ7f_it=mo",
         "content": "Helpful to perform a daily assessment.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5114,7 +5114,7 @@
     {
         "reviewId": "gp:AOqpTOEUc9fXizgQlPfybJ15Gmdv2SLOW33w5b-MXB_CCmEo2wwHo3LUAVqaRr55DpxtwViWFUlV3wD8MEp99Ow",
         "userName": "K Misze",
-        "userImage": "https://play-lh.googleusercontent.com/-uwjMj_hBxTk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFAHv2jDGxXyf41qpfJzwtdnVRCQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzgDq7WO35v3z2NauB03HpvhpHNqavP5QrHoop-=mo",
         "content": "Very interesting experiment",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5126,7 +5126,7 @@
     {
         "reviewId": "gp:AOqpTOGVgeB6yZeIVN6OGon6D6U5Fq4XKpOfXwPTWmRKxIMhI88Ar94CEFDGzMqG2Qvq3GJ5UqD4joTiw0yfoXI",
         "userName": "Susan Grant",
-        "userImage": "https://play-lh.googleusercontent.com/-IEux6tgoIYA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclB2QwPBoJriIB5IHKxXhrvDz87sg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz07M0Vdva5qVATg9p2LeNxETY-0iOJZzx8EV45=mo",
         "content": "Gives a good overview of feelings. I'd be curious as to how info will be used.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5162,7 +5162,7 @@
     {
         "reviewId": "gp:AOqpTOFMJJ7ibGKPy5zYDHmLV_zTmG0uNF1ioqw-ZxHuXpGrJg_JiLPFrgWsVkqEEL_i43zTrAGAwiFekWGj5aM",
         "userName": "Ken LOUCKS",
-        "userImage": "https://play-lh.googleusercontent.com/-l-dVoVdhBjE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrWw2wV5-ZV1XQRzJiKJtX97nPPA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyzafr0sauZemyMUl4GqquqUFwidjPsgCdduq4L=mo",
         "content": "Easiest app, no personal info, or login",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5186,7 +5186,7 @@
     {
         "reviewId": "gp:AOqpTOEFgDhk-VsOwQcbS4jlDhymQnDEqrycLUQPmCcY-2hoFMlKi07U68tB2XspXyyJAVRRUGkTd0-FtpxPhgI",
         "userName": "Jackie Blackmon",
-        "userImage": "https://play-lh.googleusercontent.com/-XKOovmTUJq0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIlLk-o4ILX2WmjfTexeVTPnzRsg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjWDtOxA0znMdZ2k4ZggatGvI9h086yNEsEHTA=mo",
         "content": "Love using this app.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5234,7 +5234,7 @@
     {
         "reviewId": "gp:AOqpTOGZnEaHziud1YlSRgYLdAGnZc5oq0EGfQrKd2mMht5ZbM4fv2Tz0Lbr7zwZzXqiWVYxFxQ-8zy7c54VtuQ",
         "userName": "Josie Cameron",
-        "userImage": "https://play-lh.googleusercontent.com/-0l2PXf4zKH8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiXoYL2f5yb8LcBf2sCIX6xk3nVA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjNzTvDHZkKI1Xj0qCJCmRh3dG0G_0RTTkuHA=mo",
         "content": "Nice to have a daily check in during this pandemic \ud83d\udc96",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5306,7 +5306,7 @@
     {
         "reviewId": "gp:AOqpTOHoTH2Cll7h7Ej6dxfpkOeufYSFBgQ1tr1KidAx3rPxgTyTv1bIFIu01I5JuiwF6piR6MuQUas0fA24hpI",
         "userName": "Barbara Meissner",
-        "userImage": "https://play-lh.googleusercontent.com/-7qKK8qsdJrE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkLj5nfo9h_jPqUzafJ-7YsmVs0Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxkM-IeXmB_syQ0cXEWLg86QH3hT2e7Qdrn5IFU=mo",
         "content": "Makes me look at myself every day. It helps.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5318,7 +5318,7 @@
     {
         "reviewId": "gp:AOqpTOEHcOxI4_m-KYRlaeP2Uz5WuM_3ka0v-7HaiC5dgR4HHFCvdn80GDuopfrSIvK58YTvriQmOEgjJMbDPG8",
         "userName": "Ginger Rinaldo",
-        "userImage": "https://play-lh.googleusercontent.com/-Y914kRVCihc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktw_Jp-Rh4PYZtTMlkhk-EYEljjw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWmpLxjoWRxoIv3ZHeOSdNBJIhYOvF4ge0m0Rj=mo",
         "content": "I enjoy the new feelings tracker. It helps me reflect on my mood and feelings.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5402,7 +5402,7 @@
     {
         "reviewId": "gp:AOqpTOH0CQCNQuayRvMfmLKBfQXf1DSkrqe4y5YyE7Z-F7jBppdDmQM2c2SzLj1uF-HXBVm0f23fCfw0bwjGTQ8",
         "userName": "Lisa Graves",
-        "userImage": "https://play-lh.googleusercontent.com/-V4DoJN3F4Mg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEVHEpjD5VNk33ZzTHUcQmEeRPQw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwM4KLG6e8pynGZ5CprPpoAcCOLLDYnzaAgbWqG=mo",
         "content": "I feel good answering these questions everyday knowing the data is being used to help ... hopefully.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5414,7 +5414,7 @@
     {
         "reviewId": "gp:AOqpTOF7qkkiGEfa03OK0nS-3YCDYBrEG5xHwY1q_WDlVHktdsIpeJoExBpuU3oIVwIrfqSutLSUcU1TqwIN68Y",
         "userName": "Luanne Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/-SpD5TJzQjwA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmvEnXxeLP3586AUy7_B1s9InjSsg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxqoifdNw3sLshPANXSTFlFVWrqp2bVSapJpfKL=mo",
         "content": "Interesting to touch base w yourself",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5486,7 +5486,7 @@
     {
         "reviewId": "gp:AOqpTOFmZJ1K3pSY0QGCqu4dbvUjhXlAQZBu5vxSLsQBR7CqjOYfMIU2Yudori1PLCQMcvoQ3D0K2Gj3LdNE848",
         "userName": "Maggiemae USA",
-        "userImage": "https://play-lh.googleusercontent.com/-2qMRsB3DJeQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZqCJmg2tIBAkpnvf0_BC6gAnKHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9fD32OJgVeUCaaASnWOF9rfvaKXQggo7FjWBt=mo",
         "content": "I love how it makes one think. I love that I feeds the hungry.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5497,7 +5497,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHQ4wmw92gAAnjPZvj4UqcuY8qXDGSNbyqCru95jUS7AuINK2b6l0TfeYtAvbXghdvLpI8EZrUN8Zj5zMs",
-        "userName": "Dulce Torres",
+        "userName": "Dulce Torrex",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgfiA08Nqxnmxo9efVi6F0AVfP6cPOeWyrVxx9SVQ",
         "content": "It makes me feel good.",
         "score": 5,
@@ -5534,7 +5534,7 @@
     {
         "reviewId": "gp:AOqpTOGaoP1-SkSzTfC_R6gF0llUOhpQLxzQarQGOFy9fzrQoAxlB_M7TFXVLEGAfdjCj7Gr__MUhyf3spLsFQM",
         "userName": "Julie Himes",
-        "userImage": "https://play-lh.googleusercontent.com/-UKrjKo8SSmc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhw8ImdGKyFYkBA2IqrllAJMIJLw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzZCg3AtH0iwajkU4D-gFtMJ4MHqW2iAAYYiBqe=mo",
         "content": "Last question is only partly readable, header blocks it when key board comes up. Today it was not in the list, as useusl.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -5558,7 +5558,7 @@
     {
         "reviewId": "gp:AOqpTOEl3ucDqOsF_ftX3TXYOf92jJe32K_6O5Nt2fLPSgwKopFuONBfmVXvhcAKfmtxi3Vb79ExzKm2z82RdDk",
         "userName": "Wendy Levering",
-        "userImage": "https://play-lh.googleusercontent.com/-R3CB3Ji5TvA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4EwoYVxzT1WwM5oj2lbt4A8ZxLg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8XQHdEiuvF0GJK9DRgj2P3r9_QzC2GqMeHvwd=mo",
         "content": "Positive",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5570,7 +5570,7 @@
     {
         "reviewId": "gp:AOqpTOFt48H0fr03a7chLZ8SGIHPqriR6vK40sruS9jK6RfAW-qdf-mq7TGF_SuPSpS_8ITFbGVdxDCxh5aqSw8",
         "userName": "Janet Conwell",
-        "userImage": "https://play-lh.googleusercontent.com/-qLSBcRSXqEw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSb1wG8SzlTcBvH9YvvsNPlcGgtA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlma5V5Kx2ELBW_SMpyRyKkBRciGtkMOE-I_M0=mo",
         "content": "Taking the info is just fine with me...the appdoes that...I just wish that it was more informational.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5582,7 +5582,7 @@
     {
         "reviewId": "gp:AOqpTOHUFvucana9yJxV6yZ4bWEz4QkRSuBa3xgMzap_C6xKqXGHM7z4agxTFjFfBlnB6xUcJV5wvjWoQ5GH_jA",
         "userName": "Phillip Johnson",
-        "userImage": "https://play-lh.googleusercontent.com/-3mNkVqUotf0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7zc66Cb-4n4r8Gzjt4jNpwosE4g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyoN7tw4dB8QfIZi19epVZb2XXzR8jOh_GxXbbc=mo",
         "content": "Good",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5594,7 +5594,7 @@
     {
         "reviewId": "gp:AOqpTOFwStfGms4qui73KIbNuMZGrXNsholjXVFzYNNwq7fqhfWt6RMqXz762ZEXF2zY3bG0Glr1hNwP9UPMvz0",
         "userName": "Laurie Borba",
-        "userImage": "https://play-lh.googleusercontent.com/-NEgjx6mcWLc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPRUyOV3T_yOY8GAvgY5YjlYNb0Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz_CRQtVNVlizD82TMRj8OnBs8xsYlPIwHTbzxg=mo",
         "content": "I think rhis is a good thing. It helps me to feel like I am helping in some small way by letting you know that I am ok and that the others that give their imput are also ok or maybe need some guidence in what they should do if they aren't ok.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5606,7 +5606,7 @@
     {
         "reviewId": "gp:AOqpTOGOEyIj6Z9IlnsbZ_MPc0paa-DIsU1BoximXqsXyaHIf5hRjAjKLINmIlmrhaFv2VHIzFizTBl_WSVQZBE",
         "userName": "S R",
-        "userImage": "https://play-lh.googleusercontent.com/-3n-ZqBAjqO8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_wBMfRX6UR7zvKH5jxUTu8yR77g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyivhkwiY6Hj3GPtKVi12laDQneetZvzaJiOxnw=mo",
         "content": "Good, except there needs to be more 'I don't know' options. For example, it wont let you bypass question asking the date a positive exposure source was tested. There is a strong chance someone (an employer) wont release when a coworker was tested bc of HIPAA. I end up not checking in that day bc u can't bypass it w/o a date",
         "score": 4,
         "thumbsUpCount": 1,
@@ -5618,7 +5618,7 @@
     {
         "reviewId": "gp:AOqpTOGfe_8BrXnhwQZuO--FXqqPwTAEOmd_norpemS_TL7shtGFC0xWlOFZjB4pU6r_ppULZtAKgu-EfVoE4JQ",
         "userName": "Vanessa Anthony",
-        "userImage": "https://play-lh.googleusercontent.com/-z8DFqpjckPo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclszgbue4qn-sN40JYyPjd1-O7wzA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx5yxA4V14UZcHHMe04Upucfb1uf0MJ3sgxLKw=mo",
         "content": "Its ok questions should be more specific.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -5630,7 +5630,7 @@
     {
         "reviewId": "gp:AOqpTOHQ_LByNrtYmEbreq011UblR3lJRts290v_Ui1D10abGscbX35OGCmjilJXIUOc5vCTAPMHmMzVbmzYODU",
         "userName": "Havilah Sherrill",
-        "userImage": "https://play-lh.googleusercontent.com/-MI5zRRVjc-w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9C10i6vRY5f0EioRQxu1o4E8xOg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwpCb_rB0gjczH0gKy-fkuGWM77Uv8GlE1lDLLu=mo",
         "content": "Thankful to help by providing stats that can help others",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5690,7 +5690,7 @@
     {
         "reviewId": "gp:AOqpTOHiMQ5x6VgAL5AYrW9HOKTChhmgfkKFzcBUfHHAmsnYRfkegiZUTqcDGUb4HzMT8NcfBJfylrd-pcyvQSY",
         "userName": "Beyond Obedience Dog",
-        "userImage": "https://play-lh.googleusercontent.com/-bbEMg6R4Ni8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6T2dUa2JB0MUMCv8clV6-S2WImA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyRnZ9lKgIlUp0vxFayO_dposZd8eZhIIw10HtF=mo",
         "content": "Has an over 5k spike in one day for michigan which is not accurate. Now I wonder how accurate the rest is. I sent feedback a few days ago but still showing inaccurate data.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -5702,7 +5702,7 @@
     {
         "reviewId": "gp:AOqpTOFxY7b0p4F3Hcji_W8wUAQIqZdUXV-qD46qCZF4WL52GksmoJjYDkp2QZyXqMbZAWu6yaXWI09_4iZx3aQ",
         "userName": "Tamara Brazil",
-        "userImage": "https://play-lh.googleusercontent.com/-6eWE7FOOEpM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCxc9mFZDoRXfnNeuHTOED6q0xYQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-DiKsduTZTu16PF9TldlZihORInaJDIp2A3KH=mo",
         "content": "Good.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5714,7 +5714,7 @@
     {
         "reviewId": "gp:AOqpTOEzfXihMdegfKYIEGL8w9O2vphUKT6mS_mEFK-c_jhsEhXlj71vt4DRXH5xTjIPMizohlgBnKqSEQ_8RUY",
         "userName": "peggy sephus",
-        "userImage": "https://play-lh.googleusercontent.com/-srxd6t1twgo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqwQeCavSx1jEm8X9TJdRBhwaKGA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxu_wDqRoldQq8epng203tKDb44G2c51Q5GbY_O=mo",
         "content": "It is easy to use!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5774,7 +5774,7 @@
     {
         "reviewId": "gp:AOqpTOHB3GoxAMqeGhGUkEpacqeIcK_eXW4OpT-cR2yZ7pVfolAqlSAZST3Y8gxzidAsO-6s_Ef6q2vjOfzcoxQ",
         "userName": "Lorrie Molina",
-        "userImage": "https://play-lh.googleusercontent.com/-sVz3FUCPH74/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyGiLLPVnspMfW5Cs8iwDcdHzSRA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXHabemN3Uilww5OtkVHd9HR53pE-1qrhjPEnb=mo",
         "content": "Easy to use",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5798,7 +5798,7 @@
     {
         "reviewId": "gp:AOqpTOG0-sHQ2uLnZ9n19B_mwNJ5LiI5f8TeENGu9_pFxVLXQij_l3XTQ9Riz9t-CVRcEs1dEScTB2yNyqFd8zs",
         "userName": "Joshua Quaintance",
-        "userImage": "https://play-lh.googleusercontent.com/-KpvOiJ53ocs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPRkR-lQ1jedKq7Y4eJKJwcuo4xA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy80cVKvJIA8d_YtfTnjwDyIe7B_TKtk4hr2rLd=mo",
         "content": "GOD BLESS NORTH AMERICA, SOUTH AMERICA, GOD BLESS GERMANY GOD BLESS BRASIL, TOKYO, CHINA, KOREA GOD BLESS AFRICA, BLESS EUROPE, SPAIN, URAGUAY, GOD BLESS HATI, JAMAICA, TRINIDAD&TOBAGO, PUERTO RICO, MEXICO, GERMANY, RUSSIA, CUBA, COLUMBIA, & EVERY OTHER CITY OR TOWN IN EVERY OTHER COUNTRY & ON EVERY OTHER CONTINENT",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5810,7 +5810,7 @@
     {
         "reviewId": "gp:AOqpTOFs5Wp_rhdW62HA-wx_RkQ5GWuIPU6ncdhQfhNeg60lJVVpDZ1Fp08pzrcKuHjXZN8IL64cBmve0xyFIrU",
         "userName": "Clive Zenthon",
-        "userImage": "https://play-lh.googleusercontent.com/-EsTiP8VJxXI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJorToVvUYXkxA2tfLz4yTcqnXhg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyvWT3WiCW4Ge-rBVIlLeaakKPX4-8Itfjn7aGk=mo",
         "content": "Brilliant",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5822,7 +5822,7 @@
     {
         "reviewId": "gp:AOqpTOE9OWp3w9pqE1mrvief32t8a7ETLeqayCcJL5AQCiO6WuELfIIDx11vaNt3y43UqoPjee4Aue0JXgzMyGg",
         "userName": "Terry Buckhalter",
-        "userImage": "https://play-lh.googleusercontent.com/-xJr4Xcl-C44/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5HV3PhDOx8wFChnKZHMo_e0_Vlw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0b9ALRV_w1HPQ91CEcsRvE0PGAWxKZxTNP6iG=mo",
         "content": "Not enough questions.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5834,7 +5834,7 @@
     {
         "reviewId": "gp:AOqpTOH_otXEnkgkt9ZtlgFAoVAOoEfOFWq2AW1JTdUbKqxKVO5Ql8kopxacyfJOifYmDZqw8x66bXSXJf11p7E",
         "userName": "Color Kitten",
-        "userImage": "https://play-lh.googleusercontent.com/-3LmSZ2js6lo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7popuOm1aTkYa64tYzt7hs7mI_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxYIqs3nItUxpQao5BJ4ZvLaNw0nKjOzZbCJ5g=mo",
         "content": "Reminds me to use at my selected time, easy to use and understand.. the only reason i gave it 4 stars and not 5 is because it only asks if I Went out and does not take into account anyone in my household that may have gone out. If it had included that OR if everysingle member in houshold uses it, i see how invaluable this app could be.",
         "score": 4,
         "thumbsUpCount": 19,
@@ -5858,7 +5858,7 @@
     {
         "reviewId": "gp:AOqpTOGgt6_9AYTf1iHZENURqjXjySLuqzkphEsDtr5jzLYZKNdqx5ABuuwkl3g6pulYhZ1avyFPcUcmYl_25P4",
         "userName": "lori williams",
-        "userImage": "https://play-lh.googleusercontent.com/-iT40kY6Wons/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCG9sJKJggS6tTvMXE8re8cmO1qQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx69SyhTYQm8k9xfXx0Fz7taeeh1OQvd4m-0C78=mo",
         "content": "Easy to use and helpful",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5918,7 +5918,7 @@
     {
         "reviewId": "gp:AOqpTOHTQMuRFh0S4D_gAUWomrORatRkmAD5fVFwzC82emFfhidXdKxjueoSzyxk4ezoS5qTBnswwtxDTz0J7w4",
         "userName": "Julie Wismer",
-        "userImage": "https://play-lh.googleusercontent.com/-iZnQzCnt5o0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWt5IE75d_meZKp-FReaY0Uus51Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwVTLKcz4cyCmWcaPoaI_5Ya2HvYI3EyCV-ZEs-=mo",
         "content": "I enjoy reporting",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5942,7 +5942,7 @@
     {
         "reviewId": "gp:AOqpTOGfYxt-expp7zKEwotCWR25q5AHYYXTKv_qdLFlRFJgjtpuDUtB7FesoYvl9iwGDcd4b_2I3LbmWhd-_nA",
         "userName": "Stephen Bueschleb",
-        "userImage": "https://play-lh.googleusercontent.com/-9Xvv6QE36DM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckporEjsi__MTMw7nU6IbpmS9KDrQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJySJebo-SQwJafZdhdp7CBjxvw3Rx0eSFNFMwv5=mo",
         "content": "Exactly as advertised",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5990,7 +5990,7 @@
     {
         "reviewId": "gp:AOqpTOEdCAoPZVz12PmRVlWDqfgbV0anzkyBKYeS2Ymfo_scSxgvDAEElRJYRXsImjDd_MM6BaJ7kfmmd5C12JQ",
         "userName": "Ruth Pagano",
-        "userImage": "https://play-lh.googleusercontent.com/-NdelcLlFooc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclsSf8lGkaoZRpyec5ByRfyG9SOiw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxMW1mbRcZ7b6a8166kkIWif8y5Vjf8WM2hv6Cg=mo",
         "content": "Ok, something to do",
         "score": 3,
         "thumbsUpCount": 0,
@@ -6002,7 +6002,7 @@
     {
         "reviewId": "gp:AOqpTOGJXrUTjODXjUeJ_NWPiUiSPLnXtoUFpkUMuoino3rzHQWgzTLxhMYGnbhGgQcSyffwY1XnOCcPXsxYTRA",
         "userName": "Marie Valdez",
-        "userImage": "https://play-lh.googleusercontent.com/-QAUjiAsDudA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckldd5hRnT12M2ZRM2wHSgDdakyJg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyY7_-rPb4ARDJvrFugaxTAn174rNnda5DQSMOn=mo",
         "content": "Good",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6062,7 +6062,7 @@
     {
         "reviewId": "gp:AOqpTOF-khbyJ5OgJSUy7cQUnuFtvLbqyZYMqHWIj7pfXedsmvWFMKQ32yVg4HO-PUzBwLPi5gChuIjA37PJL0E",
         "userName": "Mina' Ceron",
-        "userImage": "https://play-lh.googleusercontent.com/-y3_7hOUAfqI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmolcSyyMgHWRgeatbguqQaZJGBKA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzfR2g1HFIn3GI32YVTUKtpZTJvxNR8-qjCEaPE=mo",
         "content": "I love this app!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6122,7 +6122,7 @@
     {
         "reviewId": "gp:AOqpTOHMa9ywARf2-Hc9A4GpxQdWj0r7JCzR3bUvwb-fNw1YS6S8j160wCcGAB5DsF79GzTP9wC1yVeIlhDTBR8",
         "userName": "Bonnie Gaither",
-        "userImage": "https://play-lh.googleusercontent.com/-kRH5lvR_cDc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnAXrJTSmdAxgwuCIG_GrOncOtsfA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxP7fvBknQKrZ0Q6oqMXnrkbUgz55OBacXZc7Wz=mo",
         "content": "It's very easy to do and doesn't take too long. It has NEVER messed up on me, so it's an overall good app to use.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -6134,7 +6134,7 @@
     {
         "reviewId": "gp:AOqpTOGjfcbsWTXRzRi9GShqgeKF90XYyYGZIZ-4ixhJmKZG-CDKCdk-Ak8A-dt-KWB9CfvneF7do61bZzQWwBU",
         "userName": "dwight camp",
-        "userImage": "https://play-lh.googleusercontent.com/-w-LMhUIplBE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngBqmeJkm2ssUoL8_ziym8_pKJSQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZg7Eyr78eoHmqRXocNPkERMGHxznUdIEs7mDX=mo",
         "content": "Fine for data tracking which I support",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6170,7 +6170,7 @@
     {
         "reviewId": "gp:AOqpTOF2FjvsWeChnKp1uYxMb3kCxJUWXaIKgr5_CMwJAs3mSxQKjtMGslSjLv2oXkTRBlXYfuAa_5Kvh-QDjyQ",
         "userName": "Benny Tobias Jr",
-        "userImage": "https://play-lh.googleusercontent.com/-IWZnBXwmbAA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoC_g4aWTxJubuuHBElLfeHvnjgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLfbVVVfcfDmb7Y8LghRsoYidcz_14lOLsK1Cj=mo",
         "content": "Trying to keep a little information.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -6182,7 +6182,7 @@
     {
         "reviewId": "gp:AOqpTOE14xIdsZZVioTLKjfHJWFYFp0GYF28RMASHGYNROn8NYHxUey5rfb_nESa5wEWlwTLBVJHzgN5kC4WKgg",
         "userName": "Danielle Blount",
-        "userImage": "https://play-lh.googleusercontent.com/-Sqf5lZl9pg4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltNlvu-9qwZOLjoiiGEzjVC4ypZA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOcC18bpEG0yicumh7KFo-Ekx_v3_43vx1ba9hHw",
         "content": "I'm enjoying this app. I like that it asks how you feel every day because I get a moment to sit and actually pay attention to my feelings and my body. And I like that it sends me a reminder message daily to take that minute to tune into myself. I highly recommend this app to everyone!",
         "score": 5,
         "thumbsUpCount": 2,
@@ -6206,7 +6206,7 @@
     {
         "reviewId": "gp:AOqpTOGoyhe0d_YrSQTa82VzNjPXbfaZoDs_dnvlke5j-o6w49G_TdRYx1E-COekXWfkOHFz05n4BB3UhGefyVo",
         "userName": "Cindy Herbsleb",
-        "userImage": "https://play-lh.googleusercontent.com/-zq-TRhbDHD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5yqXWS_Gg-ievMv2rOab-jPa0Qg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwzGj4O48EmvDXrc_u8WTkDQhoX7LNz9wcyfk6M=mo",
         "content": "It helps me start my day by if I am low or fatigue or stress that I . change it around and do the opposite so thank you I do enjoy this app",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6218,7 +6218,7 @@
     {
         "reviewId": "gp:AOqpTOEr3szWVFUguqpMv23_8DXmJc2LrEJXDdkTNWAoU5alLyzHnup5EijgItQlljckEauEHJvVN5sy1oLw2nA",
         "userName": "Bettyjo White",
-        "userImage": "https://play-lh.googleusercontent.com/-RkePA9FCHXQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYxDfgupzkVfcRPVXY3BQO8FDKIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwd8jeVjHrcKdtfHMAe0jFf_BaudldSa_ZMYj4r=mo",
         "content": "Its been a good experience doing the check in daily makes me relize how i really do feel.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6242,7 +6242,7 @@
     {
         "reviewId": "gp:AOqpTOGccIcDpZG-wveVIMki1_1NHUgw8vsYIgr6jya1F1lr30K6KXcJMofCg_Kl_nIGCvFwqSRAV-42pMNT7qA",
         "userName": "Lynell Poglajen",
-        "userImage": "https://play-lh.googleusercontent.com/-LoAUG4DB7uU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucny9A3QXliQTIyT68LP6tjbqazOTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwT8EJbXTQXj9xrV_SM5HX3WsTIILjY-azErze_=mo",
         "content": "Easy way to show how one person can feel for so many",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6314,7 +6314,7 @@
     {
         "reviewId": "gp:AOqpTOH8Y76_KTE_NZjuBXPfWZVFPXTjJ5pPAruGnv1zdoOw2Fo3Ncum71n5XiyZMMp7H1krJa3euWzV-UUuYjc",
         "userName": "Cara Krebs",
-        "userImage": "https://play-lh.googleusercontent.com/-UhphxyLwMVI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckRyVD3ccrxnQEvnQlKAsvJBdNqOw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzYTCywZxgyT9G5qSPX3IaUd2qQQkuO8rW645he=mo",
         "content": "Easy to use. Informative. Reminders are helpful. I get duplicate reminders however.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6326,7 +6326,7 @@
     {
         "reviewId": "gp:AOqpTOFNXwlOLLxYOUKD2E2VTEWoflLUXnWQe5PhWbjy7BSghyBToY3mPirS7OTewWVnEHr7-hYWIOGuKEIqOo4",
         "userName": "virgil canada",
-        "userImage": "https://play-lh.googleusercontent.com/-YIjFxa_IEy4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmiXsr-SBeHBhKjpr79yn-esINPPA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4MKhopHk3pfDKStPNP3SUa0t5TXy8LcZSDrfu=mo",
         "content": "Keeps me up on how I feel",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6338,7 +6338,7 @@
     {
         "reviewId": "gp:AOqpTOFtXSth_DWnqiGU6b0ORW6xfpMkcvoIGBL5Vs3_pHGWBFU1ut9fP0iB7BOxJEliVrdKJ8HOnCQV_SOAuxQ",
         "userName": "Gregory Brown",
-        "userImage": "https://play-lh.googleusercontent.com/-_shGD6ciPh4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntOX8pMzF57Z_X0wvFUM_gGaM27Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhoyQTs5RNjz1gvnr9eg48dCru1Oy4ssZmbEWQ=mo",
         "content": "Greatly appreciated and totally relevant.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6386,7 +6386,7 @@
     {
         "reviewId": "gp:AOqpTOGhXNCHl8OrZ4QwCmUPhRd1jP1KHsDl--xJfz4qxRMr3pFBipB_lkaSbMeJbhe2nln-XqsF_B2FyYM3Las",
         "userName": "Jennifer Reed",
-        "userImage": "https://play-lh.googleusercontent.com/-rH-uG7iCK8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckfAMut70eqlwDrgpa53NlXlihf5A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDku5leFlIKdeOA368bGRKPQGaZsHZf8VieaT-=mo",
         "content": "It's nice to let other people know how you feel and that your not alone",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6434,7 +6434,7 @@
     {
         "reviewId": "gp:AOqpTOGFcrw_vrGAy0U0CoU2uzz_ldX19syTjdzXgJDPmf3GBcakp3Cpki34sAVCgpF703MTwe13d5JJ87uQjb8",
         "userName": "Cynthia Kennamer",
-        "userImage": "https://play-lh.googleusercontent.com/-3nokZJU8J-U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck8YX7VAltZdjvjbeB27Tsc1DOCyg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlAKezAl5Pm0kWXTdlrDtGIAUbrb9nj133-m5i=mo",
         "content": "Its ok",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6458,7 +6458,7 @@
     {
         "reviewId": "gp:AOqpTOE5RQf5QtcXhe2dyiyBAe7HMsb3guOSjKU7YMfj0KXjvHphdwz9vOv5nO8zj_aLyAVqss_diyN2obKe7zk",
         "userName": "Gary Green",
-        "userImage": "https://play-lh.googleusercontent.com/-xUvzwHDpcSI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHUDrFNCfnaTHTsmhR9FTDLnjkKA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_rahrWzShKsQ54iptdbsGcgLZ9voTav-ft_Cd=mo",
         "content": "It asked a few questions you answer , does its thing I guess I know it what it says it does with the answers but I don't know what it does with the answers but anyways if you're not paranoid about giving away answers it's a great app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6470,7 +6470,7 @@
     {
         "reviewId": "gp:AOqpTOHH0qeelQhKJC2xemwn_G7K7h8lFGW10uP8wGgkhVNvVlTUk0ZJEGJe-lLfDsM-Vh-Z6W-fbywhs7haHsc",
         "userName": "Doris Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-QsBuioWDflQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgRGo_iAa20wukWyE8pQWtmlxFjg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4h-VmaxGD8P0b1WbLd_JTi3ZUBtkfDtluW5Qf=mo",
         "content": "Pleasant",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6482,7 +6482,7 @@
     {
         "reviewId": "gp:AOqpTOH_dlWRIi2DPYimORQQlm8Qe5SwZ9-MYCibYdO6T0dQmWpRu6xct5lHsgtDPW2pTtQs-BAxZlEJ5jx_O6U",
         "userName": "Carmen Duffy",
-        "userImage": "https://play-lh.googleusercontent.com/-OHGtRowxfHQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaelmqJ7R6ZAsW_1C7f9iYyX5Hkw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmepae9nnFruOmglzr1VQC34cZAH3HE_YP-eXq=mo",
         "content": "Pretty useful",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6494,7 +6494,7 @@
     {
         "reviewId": "gp:AOqpTOF-PV2LorNwWcwQOBmshLjdg0O60LDFizi-XIGb2xutA33kENCB-0hUITozoEgGcEaDAFekui2KCg-N0NU",
         "userName": "Diane Bliss",
-        "userImage": "https://play-lh.googleusercontent.com/-QARun_3Do8Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqdPD-qOmJPGG3akR3aEoMDYtO0w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwaMo5RBYG32J9ilFk5Ct_448-ZDuYHbOHKL6X3=mo",
         "content": "Easy to use",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6530,7 +6530,7 @@
     {
         "reviewId": "gp:AOqpTOFOvCyC_jAzl0KI4BNWGdcAnUt8kyhUXdVa5dK8h0TuMo6Vyq-bGL_mRAsj-3robLtPlpsZ2Bc-ErbpvWM",
         "userName": "Jennifer Jenkins",
-        "userImage": "https://play-lh.googleusercontent.com/-AXj-8pX5Phs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckExSQVaoUzhy3KQEk-bV0HtlHE8g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyydfwK_MVxCmEGEASi0BhUMq8c0A-ftWyawi7z=mo",
         "content": "It's great!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6566,7 +6566,7 @@
     {
         "reviewId": "gp:AOqpTOHaTIvhU-g3pTS4-wg1_QN0DxT_a0CPyQhsAghjYoHncYXYSNR0mJXXDMUSDoPYwz102NN330Kzej_016o",
         "userName": "conni bence",
-        "userImage": "https://play-lh.googleusercontent.com/-1_ir_YM3DiA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw8Frq9HaPe-uLaHWCj8eBWdbOdA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKQJ4kTN3gq5A0s7N1xriI3DhrtCjOV0rGKEg6=mo",
         "content": "This presents the opportunity to evaluate your day, something ive never thought to do. Good idea.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6650,7 +6650,7 @@
     {
         "reviewId": "gp:AOqpTOFoOGjoaGfPWgniZ8McIEqwrjVHIiVrKRvHAjcPmpOrxE4-e_h6IaS_ksc10-3S-n83_tc_Yq2eIljnnJA",
         "userName": "Suzanne McVicker",
-        "userImage": "https://play-lh.googleusercontent.com/-9CR1bo47-4g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnL-J1-gH_mza1guvsbwk6JxO8zVQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJytopv3gzS1PzXCNXuVZvmX2moaWYXYTd0YdhNG=mo",
         "content": "Easy to use. I like the reminders.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6674,7 +6674,7 @@
     {
         "reviewId": "gp:AOqpTOGD2Csy1-TnOr1RFsWeBil2Dcz9T92LAlCNmXk-4z4UZ38pW2z6AjFXD02g7Yeg8obNCUSlUJRfbQy67_c",
         "userName": "Jennifer Evans",
-        "userImage": "https://play-lh.googleusercontent.com/-Kn5CKCzI7s8/AAAAAAAAAAI/AAAAAAAABFY/AMZuucnyTkMBDlSR6ctOToDBUNvB99wddg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy9q1Zb8DOV6RPBKa8pRoD99QX35yj10lrdzXWJLQ=mo",
         "content": "Check in only takes a sec and hopefully will help in some at least small way",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6710,7 +6710,7 @@
     {
         "reviewId": "gp:AOqpTOFKofEqKhet8Ii0-NdQaEVWpLWcWHmrMch0o5FT1qZi2miUxhCZYNDxBGEBGKVj6LIEQX74GJwqWEJiajk",
         "userName": "Charles Koecke",
-        "userImage": "https://play-lh.googleusercontent.com/-vKToFAIfhiU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUn_g9xFpzrlBrUjh_sA3IacmPAQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx1OeB8vCxOco2iYX3HrKW9XY8xDGKyXgDNJ44t=mo",
         "content": "I love science and want to participate, a very cool app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6734,7 +6734,7 @@
     {
         "reviewId": "gp:AOqpTOF8A-iOumXxj_u2u60h00hf2JbtVl8aI8CGoAFO-KHfxEYhsPE1yOFPVwJFEQJhvjAH1JcPK3p9yuPh5Ko",
         "userName": "Eliot Lewis",
-        "userImage": "https://play-lh.googleusercontent.com/-Cc_QhiqnWHs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnkCAWHo8wgunDJna2s4_3y11EIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyd1UbotHaua94pFHWhEiqWx1c9Ps8YlASXZ6AM=mo",
         "content": "Convenient",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6758,7 +6758,7 @@
     {
         "reviewId": "gp:AOqpTOGAttjtkBD7vS-8OcpDW6x8pplTzGkCReb618fpPBoLjfMdE65hreFTRtfZVMli5CD7FRFF28YqEe3ka4c",
         "userName": "Anthony DeMarco",
-        "userImage": "https://play-lh.googleusercontent.com/-Lb6MC5U_s_g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmb7_2krL7FAf-jkQ8kAmw3KSDncA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz4AgOQMv7FNmS5ubJvXmCFZAsFrHkNP2PR4isM=mo",
         "content": "Some items repeated",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6770,7 +6770,7 @@
     {
         "reviewId": "gp:AOqpTOEEnD-e7y8GdGiua7EX0UB5QeR4MVsd1sXLU_uTlZb6jPYGHVmYHA6T0ZZEvdl4Bp-KDF4adbrwOLuc4kA",
         "userName": "Donna Cavanaugh",
-        "userImage": "https://play-lh.googleusercontent.com/-OGUkzmZpBy4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckTPArRB4gljSLimZ3BXpa5462_7Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxPwybdDLdYdFx7JcGfJ2qzj4agNByjUBZ5rAKe=mo",
         "content": "I want to be helpful",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6806,7 +6806,7 @@
     {
         "reviewId": "gp:AOqpTOE7YlKdH5qvLePMx3ux3bhvN4Pva28GnqbMnQRi-_nerv9oRKbBdkTqSkEeapEwGPzKksCD1VURo5bxtwc",
         "userName": "Laura B",
-        "userImage": "https://play-lh.googleusercontent.com/-RoffQpW1ie0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGzt37NkyarOJpuufUrWnqscZnpA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyebyfB67u99qLmnWAZB9P2blTF6mvmvbvkkZSO=mo",
         "content": "Easy to use",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6818,7 +6818,7 @@
     {
         "reviewId": "gp:AOqpTOFdnfOHYiW0QKA8fUDJlriWb2hMUP8HIEz8Wxe4rYqBKI4yb3xTBr1KlsUMDPktBoB_nFbmjun352fFi0U",
         "userName": "Joe Corso",
-        "userImage": "https://play-lh.googleusercontent.com/-TFY8Yj0k51Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucliKDbfekuYbz4pSHe5O3zfwyCEBw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyxDe7frxjEjhBpbGFi8vlPfrtEY51of-3TjOz7=mo",
         "content": "There are some bugs you should fix to make the use of it easier.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6830,7 +6830,7 @@
     {
         "reviewId": "gp:AOqpTOHGm6o9Lx603Dyx6gySVfM9YTQre9PksL3hlxwDHy3PVr27Pcch7BIB78ccDYRfgMFLBxjKRzFeGcml41k",
         "userName": "Dawn Perry",
-        "userImage": "https://play-lh.googleusercontent.com/-Y1b-Je6DKww/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmenA29tvOQpSr3wEEEL3AHRNM24w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIwi6DflRclJfeYCFNcRflBoomQZ3FfigJmLT3=mo",
         "content": "I think its a great way to let people know that we are in this together.. It also helps me to stay focused at all times and be aware of my surroundings",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6866,7 +6866,7 @@
     {
         "reviewId": "gp:AOqpTOEW9GkWqr9_IFJ-OuxUYBbcZ_4tlCG7oa0qp2EphJIrNUq4ru6VEM_fpuBxE2lt5JWg8j0N4dHZFrSNzd0",
         "userName": "Lee Groen",
-        "userImage": "https://play-lh.googleusercontent.com/-_elzt-4cWKA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6f_026XcWv5WsPe5I5iU9eNWRIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxLcp_vEIUv20k_pMNY-IA38wR2mgz1FzQ8j-1Z=mo",
         "content": "The \"Share with Others\" button on the second to last screen still does not work. I have sent at least 8 emails regarding this.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -6878,7 +6878,7 @@
     {
         "reviewId": "gp:AOqpTOGgu3RyaQCVkw-QRmP9dSXiL5_S8y3Z6NajCH3g2DLSX3mTFWGLa7sFE0z6bj92PksaNqe2cJv3jPeRiaE",
         "userName": "m bates",
-        "userImage": "https://play-lh.googleusercontent.com/-6V5C7ArSFn4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckrylx80E5Dr2BsP0T8pr2azsCvMQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx5OUTWstgLsPb1iViXaYHCwPtkwvo1Tz5UPJL-=mo",
         "content": "User friendly",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6890,7 +6890,7 @@
     {
         "reviewId": "gp:AOqpTOEpsSJ0LS--uRmwGunkKEBaDm-x4XPIAhitg8Fi9JJeSUirREgnxUrx9xQvKTvJyyiJIw6v3i-ICT5OiMo",
         "userName": "Aaonnah Adament",
-        "userImage": "https://play-lh.googleusercontent.com/-bqGyslhHubI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHPsb3g5GtOHeGajT_Vw-9EoFkAA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJytluDTLkC4glwvl7ql6pCM_rG93eE3B_YYk77l=mo",
         "content": "Not quite as in depth as it could be on the screening questions, but a good start.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6938,7 +6938,7 @@
     {
         "reviewId": "gp:AOqpTOG6zwS_8orK_PGQ7qz3CnkFolt8L3Z6S8079iAGq3SxAzNdhD6QhDyggIEx-6Jy3Tst1UaXYvEb19_8B6E",
         "userName": "Tami Stukey",
-        "userImage": "https://play-lh.googleusercontent.com/-MbHDNfgoGdk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2Hs3tKM4__xx1uzC7MFS0bRLfDA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwiQv8SKpF2Ckr-jPfkmKCewJqFWou-eTjNch5F=mo",
         "content": "Easy to use. Varied questions.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6950,7 +6950,7 @@
     {
         "reviewId": "gp:AOqpTOFXPfv362oyprZ1z2vi94JEGetakOuL3crB0UXG5aJAOPC10aBcqdeoWzj-OguhdRV_O8bpDN6MA1SmybQ",
         "userName": "Linda Fisher",
-        "userImage": "https://play-lh.googleusercontent.com/-hk15GUICVuU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn68iMNhyqB9fUR8O2DCFf9asTs6Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZ8K8WbL947QIGvZ7o0rxV1EAidALFcHfv9iPJ=mo",
         "content": "Hopefully the info is helpful. Easy to report. Not many questions.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -6974,7 +6974,7 @@
     {
         "reviewId": "gp:AOqpTOG_j0_XIi1AEqeEz7HiBqMl0a9MmPS2LD6Q4h9_GXJ7rq6amovEJXlnocb_YOdwR3F9anCdBNxDF6bBLmg",
         "userName": "Whispering Dove",
-        "userImage": "https://play-lh.googleusercontent.com/-paRYlWmbPSE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnjg13BK_Gxx0h1DVG-bOtK7n-9g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxUvuBxPlFA7j5L7XP1fUyx6JN4NQGWhEO4Rof6=mo",
         "content": "Well designed, hope it helps!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7010,7 +7010,7 @@
     {
         "reviewId": "gp:AOqpTOE9lTjDPWFG-Ka8uu67z_up8Xt8z5A_b5qvRBG2TK7EvhYKuwXnxd8q8U-YVofqC6YwW0noKSqGpSUyKGE",
         "userName": "Debra Savoie",
-        "userImage": "https://play-lh.googleusercontent.com/-asWRhdoq9Ic/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckraQQ47QJ8R0tqPy__W57mkHlkFA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyVyDhJMG6wlQMUZiQEpodFmcMBWnVDuO2o5v4u=mo",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7022,7 +7022,7 @@
     {
         "reviewId": "gp:AOqpTOFJprvYfjnedCGCDlJbw7v3ltJRUiYTyXojljmuT9pCAkgJ7SUdzr3YTm_UoXQB4nNk5cn9lvuhve6K264",
         "userName": "Susan Schultz",
-        "userImage": "https://play-lh.googleusercontent.com/-3A1ldpCJRd4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGdFgSe8tRToW_VaGR86qP3ld1Zg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxyLJDSu6EMInzKCeD0fOxHFhqOYWTsam3taMP2=mo",
         "content": "It's for a very good cause. Hugs",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7034,7 +7034,7 @@
     {
         "reviewId": "gp:AOqpTOFXiYOuEOeSuMxr-72uviqhDLD000TqOkGM3lXpr8RhXpuvuneyJsfwl8ni0fWMBfv5qHIVL05L4cphlaE",
         "userName": "Dee 1969",
-        "userImage": "https://play-lh.googleusercontent.com/-L70QxRea_uc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWYAmoDDOq4MRrPFPGZZ0g27h94A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxusnos9fDk4sV1tPb7TPjho2wvANRX9jgeEOvy=mo",
         "content": "I appreciate it but..my mom who is 80+ uninstalled because of the multiple notifications, I will try to set it up differently for her so she doesn't get them.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7058,7 +7058,7 @@
     {
         "reviewId": "gp:AOqpTOEVxMtY2KrkpCqjhDGKX7WK2LTM2bY5uYM7wYoV9YVYSsJ30iVqU_aqaZYoAU2NeC3SxYXMkVa2Rii5qu4",
         "userName": "Cyndie Mazzeo",
-        "userImage": "https://play-lh.googleusercontent.com/-OFn5izmas7A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPiKxOd9UTrtQ0Y6_7SThStLkQTg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzBflHrltUoM5vnA9dhktLRZDdCpdL7dgSdNcO4=mo",
         "content": "Very dedicated to this app. Hope this information helps in a general sense.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7142,7 +7142,7 @@
     {
         "reviewId": "gp:AOqpTOHEudr77PHOQb_tRsjNpRzzxLYTcWP0cCAwDlfJAMv_7gc7MQRXCdFk6-yuWzvVnDUDiv5z0LUY_zH7yVM",
         "userName": "Kathleen Vogt",
-        "userImage": "https://play-lh.googleusercontent.com/-dw-GdX6uMhk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckf7lY21Hz__bkqB49fDGsSyzdi3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0afKkO6F_r0OJ82sMuYwRw_oqxPbmWLBF2-2s=mo",
         "content": "It's nice to have a spot thar you can post how you are feeling without any judgement.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7154,7 +7154,7 @@
     {
         "reviewId": "gp:AOqpTOHGwnvcZVM51ySusDhr4TyJT-nc6MvEb5oXmyR2XmXJG4qHxiGcHkqAPAOQOgNdt1qBwCvlzEfQQfwsGLc",
         "userName": "Karen Lawson",
-        "userImage": "https://play-lh.googleusercontent.com/-slJGht-hABE/AAAAAAAAAAI/AAAAAAAAByI/AMZuuckwTEQxoP_2Ixr6KWxyxGsKNxqJgQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwzBiVkoiRBT1PkFbSUsXfOsQFSca0d5vdifZP4qg=mo",
         "content": "I like the idea of reflecting on how I feel and hope that the survey will help others in need.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7826,7 +7826,7 @@
     {
         "reviewId": "gp:AOqpTOGzgSdPk0fgeVyw6GSM9TY3ecMlMzuhp9zmHh20sSEr-4fwHk065zBZHhiVgS7_NDPwbWggBfdBxA_tgGQ",
         "userName": "Christina Bartolotta",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjqu7adJd45Mddk5aEgNwgEIe715WpJz12hZowLWAw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjdohesQUxJs9GAsq7G7kyw-GTadCdzSNs0r9DGRM0",
         "content": "Ez to use.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -8414,7 +8414,7 @@
     {
         "reviewId": "gp:AOqpTOFpQFTebXxzKwlwM7pP_UU7dhVkyJzbF5ck5yLHvowi2IxSMC5TJbbJazT6BLI9sawAP4p0CwKI9kN13I8",
         "userName": "Erin Nicole",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwEaox73V0ar0RJILuwqBjt4CS82fH8E-G9mbUvQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZsNydhaHQOD0x9-aG-96gYVTxHNSlzCgE4V7zSV0",
         "content": "I love this app, I think it's really important and I appreciate having the statistics for my area, plus links nationwide and worldwide numbers. Since this last update tho, it freezes after the zip code part I haven't been able to use it. I will raise to 5 stars when that is fixed.",
         "score": 3,
         "thumbsUpCount": 23,
@@ -10022,7 +10022,7 @@
     {
         "reviewId": "gp:AOqpTOGCdsocuWOcUodBJS9noZMAWqPyxoBic47e2AGGNWRppXpD_7_avMLc59DgLtb250BVQzUXodx9YYy8BTc",
         "userName": "lance van allen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6uD7YkPPyr9tbMI7Xajn5Rux_a0Gpo7AJw8h7yRc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjviBEqWS5_oeDG9STxE92AJ5FefplwMOmcyBv1adk",
         "content": "Helthy",
         "score": 5,
         "thumbsUpCount": 0,
@@ -10226,7 +10226,7 @@
     {
         "reviewId": "gp:AOqpTOEUvUueZGz54N11Zi5xaf9RU2fRFexUPAG1yjFjYy-RrzNHML7DPEpKkMF2crCqd7-dGJuYi40AQebOYNo",
         "userName": "Roxann Larson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWkLXQOcMjTZOADldAH7sTZy7rKy1CSCGkfPvR_fo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiQy6RsRQiSzDJKguVzSEqgvich2lHAc4PtDW4cyOo",
         "content": "I enjoy seeing this Statistics of my own County as well as being able to see what's going on throughout the nation. I am proud to know this program is feeding people.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11054,7 +11054,7 @@
     {
         "reviewId": "gp:AOqpTOEIxuG3A9FAbWReSDIC_9lIxV_B7hSO5HHe5EBqXU30I-3LcscIPFrml-GVOIOvNlUK7fONRn6ZgOvFnrk",
         "userName": "alyssa bolich",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5zRskmbD7tlYKh_EYikrO9cXcrCIRhKhx9oif",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgKUuGGgFCL9eBzhQRri-vqCZHQ-WpN_lt9GJ3f-w",
         "content": "Easy and fast app and glad to be helping",
         "score": 5,
         "thumbsUpCount": 0,

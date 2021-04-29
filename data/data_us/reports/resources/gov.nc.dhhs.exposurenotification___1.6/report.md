@@ -187,6 +187,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
+> Haven't used it very much.<br> :date: __2021-04-24 16:29:23__
+
 > Nice idea, but way too few total downloads to make the app effective.<br> :date: __2021-03-29 22:56:49__
 
 > Have recently uninstalled and then reinstalled this app. Seems to be working since I can see the date change from last check, but one problem, if this app has been downloaded by so many how is it that when I go to the store around a lot of people, there's no show that I may have been exposed. I'm pretty sure that majority of these people have the app, and care for others to turn it on correctly?.<br> :date: __2021-03-02 14:35:51__
@@ -204,8 +206,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > None<br> :date: __2021-01-19 22:29:47__
 
 > Would love to tell people I've tested positive. app requires jumping through hoops my sick brain doesn't feel up to. Not useful. State already knows, plug the damned info in.<br> :date: __2021-01-19 20:53:15__
-
-> I decided to update this review. I haven't changed the rating as of yet but probably will have to after I get some kind of answers. On January 10th, 2021 my app stopped reporting. On the 11th I had to call off from work due to a fever and symptom scare. I did test negative for Covid, but the timing of it all couldn't be worse. I mean, three days, during my wait for answers. How is that helping anyone? I work at a high traffic State facility and thought I could rely on this to help.<br> :date: __2021-01-14 02:34:00__
 
 
 
@@ -243,6 +243,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> App is a peice of trash. Trying to sign up and use it is a pain in the butt. It shouldn't be this complicated to use an app that essentially only needs to notify you of other users around you. Many apps have this function. Hell, even dating apps notify you if a match is nearby. The devs need to learn how the hell to code an app before trying to capitalize on everyone's fear with this useless junk during a pandemic.<br> :date: __2021-04-19 15:13:12__
+
 > Horrible and doesn't work at all. I am guessing the app developer is Slow, like the apps name. Google should remove this from the store. It does not look to be supported or updated any longer. Worst app I have ever downloaded!<br> :date: __2021-04-09 15:32:54__
 
 > Statistics no longer working, back to political misrepresentation and hiding of details.<br> :date: __2021-04-03 15:00:45__
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Exposure last checked on 2/8. It is now 2/28. Exactly what is the usefulness of that? I am using the latest update.<br> :date: __2021-02-28 18:57:53__
 
 > UPDATE!! (""NOT RECOMMENDED"")!! don't download!! only trust the news on tv!! i would not trust these apps because i have heard on the real news that these could possibly be scams and there have been some reports that people did get scammed!!!<br> :date: __2021-02-27 05:10:59__
-
-> Self explanatory.<br> :date: __2021-02-27 02:21:00__
 
 

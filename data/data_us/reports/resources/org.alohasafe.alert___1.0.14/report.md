@@ -188,6 +188,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="org.alohasafe.alert 3 reviews"/>
 </p>
 
+> Can't operate on my phone<br> :date: __2021-04-28 22:45:21__
+
 > Assumes computer literacy!!!<br> :date: __2021-03-08 16:23:29__
 
 > No one checks if you have downloaded the app upon arrival on Maui. It consumes a lot of battery.<br> :date: __2021-02-19 17:53:48__
@@ -224,6 +226,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
 
+> It steals your data by provide services which it needs to run. Things like GPS coordinates, known associatie which are link to you. Health data and so much more.<br> :date: __2021-04-21 10:31:22__
+
 > Doesn't work. My partner and I kept bluetooth on always. When he got COVID he reported it to the app with the code and I never got notified from the app, despite the fact that we live together.<br> :date: __2021-04-05 03:27:04__
 
 > I cant get it to open.<br> :date: __2021-03-30 20:29:43__
@@ -241,7 +245,5 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 > This app downloaded itself on my phone do not trust this app at all. This is not okay.<br> :date: __2021-01-23 07:38:41__
 
 > I can take care of myself as well as people around me. Don't need this. Shame on victorino for forcing.<br> :date: __2021-01-22 08:00:16__
-
-> This app will never work! People who have covid-19 break quarantine all the time, you still see people not wearing mask, no ones checking on people in quarantine, everyone's still having gatherings with more then 10 ppl.. The list goes on... So don't download this it's worthless you'll never get a notification!<br> :date: __2021-01-18 05:14:49__
 
 

@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOHITf_pX4rz5DIB4wi8iemQZpaJ2eodJrwm7VWq1q8lRXW7cx53X7jnH-FAPZST6e3CTTdj2gBp2cEAbQ",
+        "userName": "Augusto Brand\u00e3o II",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5DXoOPDajpnAZkHQ4xwxs-YYWjky__LXVhvO5QEE",
+        "content": "Minha educa\u00e7\u00e3o n\u00e3o me pemite comentar!!",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.1",
+        "at": "2021-04-27 15:35:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFgl5azJVTxkJm871vB7_owheE3QfhWs2MTApE1eh8Z5fLBGne0peFdYFK7TUJnkKyOCfc_de-JMjYUOg",
+        "userName": "\u00c1lvaro Silva",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhK7_phbOEPBMn4lkdvQ_8Be0PhiuwBNByZL-Oh",
+        "content": "Muito burocr\u00e1tica tds os itens deviam estar dispon\u00edveis automaticamente sem ter que recorrer assiduamente \u00e1 chave digital,imagine- se para para o cidad\u00e3o comum o transtorno.....",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-24 21:46:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHrFFMCz19BrgGF0vnN-x9AKyAVQlpiD2XklfM4afaz6nQGoAnAkt6R2LAIvT9yIa_cvgWv5hYtDOwWsQ",
+        "userName": "Maria Francisca",
+        "userImage": "https://play-lh.googleusercontent.com/-k0RuDSIpxcQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclX7b7OKVy2zlp8k-bWcf8BUTBPFg/photo.jpg",
+        "content": "Ao tentar utilizar pela primeira vez deu mensagem: mysns falhou",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.0",
+        "at": "2021-04-23 13:39:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE2NeKSx-1NrBBwC0K3a4HVNGuMCtgHNsd-eqjP2ni0Csk2RLmdWWHmOBW1uySyxsNAYnat97o2rfkAxA",
+        "userName": "Vasco Fernandes",
+        "userImage": "https://play-lh.googleusercontent.com/-WBkfBugYPes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl664SKkKF2QXwoWemjmgJH91afzg/photo.jpg",
+        "content": "M\u00e1",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-20 15:39:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE6ux6Bj7gvxwJGmocdi_ya5lp2NW5E49qORcHMWV_MDRxbMQ0dGH8-m-P6znlW0mbjFdOswtS2MBmCgg",
         "userName": "Ant\u00f3nio J. Ferreira",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOA25cEM6J63s4KCQ9n-KRP9bbDihnOzLFYaxuMQ",
@@ -341,7 +389,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4k93PbvmPBBavNvLP6gMB6QxGeFLv4_S5Vp-hUw",
         "content": "Para quando uma actualiza\u00e7\u00e3o de software pra poder funcionar nas vers\u00f5es mais recentes de Android?! S\u00f3 estamos \u00e0 frente naquilo que n\u00e3o interessa...",
         "score": 1,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "1.5.0",
         "at": "2021-02-15 20:59:51",
         "replyContent": null,
@@ -473,7 +521,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIDI5tek2j9Ldxl0BJfKN5xy8_L1aPQbHlk1BXgA",
         "content": "Tenho esta app no meu tablet e meu marido no telem\u00f3vel mas n\u00e3o abre. De que serve, para ocupar espa\u00e7o. Ser\u00e1 que ningu\u00e9m l\u00ea as cr\u00edticas e fica assim.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.5.0",
         "at": "2021-02-11 21:19:06",
         "replyContent": null,
@@ -530,7 +578,7 @@
     {
         "reviewId": "gp:AOqpTOGKWV2DnOA8250f0crqwppo-R6nhsgCgJ1O4osW4VKyi4HlD9ldZib9rCkDFnNxk1gzH7uPxkVRFNsa9Q",
         "userName": "F\u00c1TIMA CORDEIRO",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjleE5BzgVc-QizkUqQW_tAbZXaHNyLKKT5ml2L4ks",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXE5TPBCIu2k2W_mLlQOr3F1q31TyzpcbFgFzjwJc",
         "content": "Deixou de funcionar",
         "score": 1,
         "thumbsUpCount": 0,
@@ -614,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOFGmij844VvdTSn1onn81hYxCZiEve5X4S8tEV5pawMiclV5J0VepbK3kqQvOMQnZ95S6GrXkqOhFbRSg",
         "userName": "ISA DIAS",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFHQaNzrd_NLku43axFPlM5AhRu_3UcGzkzK-tuA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpAMTuYKQI8JRek7QfB5ZpM-lURm5ZW5eXe6GMnw",
         "content": "Abre a interface mas fica tudo em branco. N\u00e3o entendo como uma APP que deveria ser \u00fatil, afinal n\u00e3o nos ajuda em nada. Espero que os SPMS melhorem este servi\u00e7o!",
         "score": 1,
         "thumbsUpCount": 12,
@@ -701,7 +749,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-DtHKQtrrR10/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl56b9pIhvaj17Br70ibVjp8qyMCg/photo.jpg",
         "content": "N\u00e3o recomendo por nem sequer a conseguir experimentar. Pura e simplesmente faz o download da aplica\u00e7\u00e3o, mas depois.... n\u00e3o funciona. Diz ser uma aplica\u00e7\u00e3o do Google mais antiga e assim, num telem\u00f3vel android mais recente, n\u00e3o mostra 1 p\u00e1gina sequer.",
         "score": 1,
-        "thumbsUpCount": 46,
+        "thumbsUpCount": 49,
         "reviewCreatedVersion": null,
         "at": "2021-02-09 15:44:51",
         "replyContent": null,
@@ -1205,7 +1253,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0wXGkIl2OH_W3Dbz9mswJzqqj0NKpCwU1s4R7JZY",
         "content": "Funcionou bem no meu antigo tlm. Agora no meu novo e atual, simplesmente n\u00e3o funciona, ao abrir, da a mensagem a informar q a APP est\u00e1 \"feita\" para vers\u00f5es android mais antigas... Enfim, como tudo no Governo, fazem as coisas mas depois fica tudo ao abandono... Fa\u00e7am l\u00e1 o favor de atualizar a APP para vers\u00f5es Android atuais!!!",
         "score": 1,
-        "thumbsUpCount": 92,
+        "thumbsUpCount": 100,
         "reviewCreatedVersion": "1.5.0",
         "at": "2021-01-29 18:24:05",
         "replyContent": null,
@@ -1225,8 +1273,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFJjXy-otjzd8iwJJNuzjtYHKcHpK4_OTQ3GmbveXpXihhDSBXkKldjmwEE_i1zWng06_K0IPuEVahuRQ",
-        "userName": "Catherine of Braganza",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZq12eHJV3rtwQ2CO_Zh1Cv4FZiRfsbXsjYs0Ddw",
+        "userName": "Margarida Ribeiro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXEWUe4O3a8cppiCPJxmK9avJrKkt-Q_Wn84iTkg",
         "content": "Completamente desatualizada, nem abriu",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1597,8 +1645,8 @@
     },
     {
         "reviewId": "gp:AOqpTOF7mHEvy20bkBFzrZzVo-qDm7XwQtTGvVQffSfD_qOQa78dAtmcvQqkaUfM891WcV0O6oHJ326LmjNSvw",
-        "userName": "Teresa Figueiredo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjiYjOF4SHKXdk3X1ESIYAmxq2Fw5gT19nePs36_Po",
+        "userName": "Simone Kaspy",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUGF8uApqYZyHiQ9N9EjoGEBbHLu6-mhKFazNnaL4",
         "content": "Necessita conter mais informa\u00e7\u00e3o sobre o Utente, n\u00e3o est\u00e1 atualizado de acordo com os movimentos do Utente, faltam consultas, resultados e comunica\u00e7\u00e3o com o SNS. Tenho atestado de incapacidade Multiusos e n\u00e3o consta essa informa\u00e7\u00e3o?!",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1994,7 +2042,7 @@
     {
         "reviewId": "gp:AOqpTOHRFMwW1pIhiwlvCsQJcljXKSr5Y4sfz7O3sWC-xfmQA81Dqsy6gf9zMuaNpp9evnOMA4rF9WB8YsStnQ",
         "userName": "Maria sousa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi33fbsF9yIQhGnzOcKIAj828uAYoH4FaevN-Cn2g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFS9RoDs8gTDLlVf_7ttpItfH9Qbz37x6zPtQucA",
         "content": "Bom",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2342,7 +2390,7 @@
     {
         "reviewId": "gp:AOqpTOHZIH6HZvum53hXsgqvHInoX__OQTe2qqY2WTczNjLa1sfMpaogTEoRt9NN5K9PF37cVn2hy_4uhhiNNw",
         "userName": "Pedro M A Ferreira",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhM5aC3V_ezYaSxFoosHdgejfyVOtKbr9jMuyjHoQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgcnD5s6Gqd86fm8fHM_mBPwQCW1MEoghxmhSdP3w",
         "content": "Pouco intuitiva, nada funcional como app para Android.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -4694,7 +4742,7 @@
     {
         "reviewId": "gp:AOqpTOE8yPFimFdmnR79bgV65IzlfNXxvH8OAmUUL42LOkWJ1e6iTDl9m1npYKNmGDcii3OaOXhr5oIA-36y6A",
         "userName": "Gard\u00e9nia Fonseca",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBe2dhILin5lxM2ht9aH8w6HHKHAKGfINsVypo2w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjbYOEujSXLBxz5E2nS1bZdYsd7VQK3r4m3kr90Dg",
         "content": "cirurgia feita em 21 de Fevereiro. cade o meu trabalho",
         "score": 1,
         "thumbsUpCount": 1,
@@ -6228,18 +6276,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHITf_pX4rz5DIB4wi8iemQZpaJ2eodJrwm7VWq1q8lRXW7cx53X7jnH-FAPZST6e3CTTdj2gBp2cEAbQ",
-        "userName": "Augusto Brand\u00e3o II",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5DXoOPDajpnAZkHQ4xwxs-YYWjky__LXVhvO5QEE",
-        "content": "Minha educa\u00e7\u00e3o n\u00e3o me pemite comentar!",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.1",
-        "at": "2017-09-20 16:25:56",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEBu_mwJnaj5OFsw4e50127-8_M-4FVpCKd505zsVXQBz0YkuK1PZpV0iNnovdo2rpKVPIFwYADX309rA",
         "userName": "ikonik",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjS2dvkF0ZsWIE53FRTcD7sQmy-Os9pbmpIj03h-vY",
@@ -7154,7 +7190,7 @@
     {
         "reviewId": "gp:AOqpTOFw3YvKVBIISxxiFHD4FbjdDSLwxhyaxSdlJPS_N1ephoufQwvtWmmEC2AWhMGLfJKp8X3SsjvWwikA7w",
         "userName": "Jorge Sa",
-        "userImage": "https://play-lh.googleusercontent.com/-ZOYGTY0U-eI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnpBu83hFmJYrySgrMgTSJTlyI9dQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyd5Wotiblq4gK-jL-3tZDVOBa-u-nkcDxV_7Hi=mo",
         "content": "App bem estruturada mas com defeitos ainda nao consigo abrir o espa\u00e7o cidad\u00e3o e mais algumas coisas de resto quando estiver a cem por cento vai ser espetacular ate la vou tentando",
         "score": 2,
         "thumbsUpCount": 0,
@@ -7166,7 +7202,7 @@
     {
         "reviewId": "gp:AOqpTOGefPzujYDu8NECEv0LT0wMsvcf5n_migqKYLQLkrpu7qxX_XWPoE3R_BkMod6ryDEWDi8rlqcHpC53Ag",
         "userName": "heliomota mota",
-        "userImage": "https://play-lh.googleusercontent.com/-2mhwnmggLIU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckfT78APkiGp3TyZ0UJQFz_alK8yQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzjFoW4L4vZxVY2_G8ZFb07tfsVyCqpZ1yR1SuP=mo",
         "content": "Esta brutal. D\u00e1-me acesso a todo o meu historial m\u00e9dico. Marca\u00e7\u00e3o de consultas, etc. Esta muito bom. Parab\u00e9ns.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7190,7 +7226,7 @@
     {
         "reviewId": "gp:AOqpTOEbQPbLFT5NFXl_sdnybruKzLFR4yO5hqE5hTiHNEUva6JhdZvwNqoQVZ-qSz4dWl3Uxi-aTD0zlcbuWw",
         "userName": "Henrique Ferreira",
-        "userImage": "https://play-lh.googleusercontent.com/-9r8IaDTuM8c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngOgpSbNC91SQkrBjjYj5GiLP2sA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzEyGQfekIxe2q7PFb2KHViuRlzMR7Reom3rbeS=mo",
         "content": "Gosto",
         "score": 4,
         "thumbsUpCount": 0,
@@ -7226,7 +7262,7 @@
     {
         "reviewId": "gp:AOqpTOFR9tYWWjY9Gq4XR68H1xgvZPCRbebBZpX7TsF3ohAYjeNocqyPfNnG12dkfL3KVKFjg63xurMuQgEZ2w",
         "userName": "Edineia Leandro",
-        "userImage": "https://play-lh.googleusercontent.com/-ujKFT7F_qpY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaXgoR9gej4a1HP9E_18hEg-jeFA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyGNoC7eyvdqEwPihlNRHmUGWKol1aDcHZvA0WP=mo",
         "content": "E lixo a aplica\u00e7\u00e3o e um jornal \u00a1!!!!!!!!!!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7262,7 +7298,7 @@
     {
         "reviewId": "gp:AOqpTOHHGqgzNrwxdQ3JcuXRk_naMnGYQnSrEc5StJqATpytH4AoRzaYNSgZ3ewPxvW42EyEhcSm4wyC9Cwo6w",
         "userName": "Cordeiro Adao",
-        "userImage": "https://play-lh.googleusercontent.com/-rSmH0wz7_tE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnx0-COZInh5FCkacPrnnTeKva1aQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyNOtWFNCGBwM-XnsqzTogEcNNpE3TeqtS88cxQ=mo",
         "content": "Nao abre e tive para me regitrar no site e nao consegui por uma palavra passa diza sempre fraca tei multipas combina\u00e7oes letras numero maisculas e minuculas caretos especias fui buscar algumas passe automaticas e nada sempre fracas",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7334,7 +7370,7 @@
     {
         "reviewId": "gp:AOqpTOETVLFSDUYuAVBtHlvXmAAl3qYirmlX0kOkU_45lRfYBtATR3Ylk6f7p6oZFZNIoyHicevp25Ku9E2Kgg",
         "userName": "nuno silva",
-        "userImage": "https://play-lh.googleusercontent.com/-eMpAyzrQ47g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzwU5Sp-2U_G2B6n3NVAWBFimaaA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzErHBkvJpYtVbmt2QRKWzSRUz7QZ6lx0T08csk=mo",
         "content": "Vergonha",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7394,7 +7430,7 @@
     {
         "reviewId": "gp:AOqpTOGLFjbYOicMGHjFplHSFy5ZwSJMOoSxjgXtJMZx9VskIuGkx5SS2WyEJf2qvNP1JLQ1id60zjyQA-PNPw",
         "userName": "Manuel Pinho",
-        "userImage": "https://play-lh.googleusercontent.com/-YEGknvg_spg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwF75rloV8Hadj8NkiWUffyCtgPw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxOuhOu5x_vroFaFRVblKirbP57AQsbDhEbD0WP=mo",
         "content": "A app n\u00e3o \u00e9 mais do que uma interface de liga\u00e7\u00e3o a sites externos. A funcionalidade de nos dar acesso \u00e0s receitas eletr\u00f3nicas n\u00e3o est\u00e1 dispon\u00edvel e crasha com frequ\u00eancia. Tem muito para melhorar!",
         "score": 2,
         "thumbsUpCount": 0,
@@ -7418,7 +7454,7 @@
     {
         "reviewId": "gp:AOqpTOE_CgBM6_h3GC1T2H3yAEWnbkjiI87vDlFNqX2V2lIKpCCtKO65FC0m8upjnU_KA5XQpZc_E37G5KPVhg",
         "userName": "albano galante",
-        "userImage": "https://play-lh.googleusercontent.com/-WDKuNVhQEVg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVhMTSydFOb0696MgsvlXx50nWhw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz5FojFv-2zJIgNKb25aFXKyi2T6w5XHCJzjBNd=mo",
         "content": "Ainda n\u00e3o sei as  vantagens desta p\u00e1gina.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -7490,7 +7526,7 @@
     {
         "reviewId": "gp:AOqpTOHa6LpW1Ue8gt0I315LcO2aXaNBgZXHTE4EXwiVgru8cgROnjE1Olbc9EFl--On29qUt2og0Nt6DckYQw",
         "userName": "maria do carmo Castanho",
-        "userImage": "https://play-lh.googleusercontent.com/-q2sG5AiBO0k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnibMGTgAL-VQfQWnHc23Mcu26dAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy3PyC8Jy8LdSMI-9mRwNeYrTU89dJkwfVfBsCY=mo",
         "content": "Parab\u00e9ns",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7514,7 +7550,7 @@
     {
         "reviewId": "gp:AOqpTOGvKTMrKU2xEivtupYZQ20wQR4dbGQfl_kJf7F1E8XQFe-iVnrTi_1IYCRVmCRTTC6j1qQpwUfvmBaivA",
         "userName": "Fernando Pereira",
-        "userImage": "https://play-lh.googleusercontent.com/-bOjbAqt01M4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQNb0XdQWnXKHkg-CfjAc7CFJPgQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzYSWC7muWTeE1dUapPQDt8Y7puYhyYVJP7jqRh=mo",
         "content": "Mais uma App para ocupar espa\u00e7o, sem utilidade. Para a informa\u00e7\u00e3o dada vou ao site oficial ( que basicamente \u00e9 o que a App faz) Enfim...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7526,7 +7562,7 @@
     {
         "reviewId": "gp:AOqpTOFeOhm6eKUSfYKVC3rgUYF_uutVh7kkr14Imd9Y5Fv4fOUbahMBYpdq6jXJLvQDVSfj5qmTOxsxAmBeJQ",
         "userName": "Jos\u00e9 Franco",
-        "userImage": "https://play-lh.googleusercontent.com/-iu0AiDSmHPw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckE9a7nd6WOK9r6zrM_-6ZA7nwTRw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw95krwAVTR0Ne1OpovuFbrHDbMghJ0P7VUB8_Y=mo",
         "content": "Que desperd\u00edcio de dinheiro dos contribuinte ... mas existe gente que \u00e9 paga por isto???????",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7598,7 +7634,7 @@
     {
         "reviewId": "gp:AOqpTOH45tI-QrbqgU_uVDaQWR4ajF2se-zWWMLsTfJYNzl_a0JL2_oOybtYvxhqaS7l3DeWW2Q9C0Axpdi1Hg",
         "userName": "Ligia Martins",
-        "userImage": "https://play-lh.googleusercontent.com/-QrpDB5C6Nl4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYBwxt-WJbpnCF9aVbLehFbTlO8A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJztAWFJWC_rZ__790huvk-BQ36dX4eFQvSh7GmO=mo",
         "content": "Empanca o telem\u00f3vel todo, tive de reiniciar.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -7622,7 +7658,7 @@
     {
         "reviewId": "gp:AOqpTOGsUM0ai6NEA5qY3NYmPd3qYC4-fPxewY9cVGUnMbATanAo85TlnoXy3_Mnhyf-gN_bWpi0-tGdNs0CRQ",
         "userName": "joao sousa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0M2f8vDCbzuZgu9kSlD6W2Efkhmk1nAa16BLu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2Knq-p7RYpo67_8v2os5FnuWcHgUOuQ_bS0dNvQ",
         "content": "Fraco",
         "score": 1,
         "thumbsUpCount": 1,
@@ -7874,7 +7910,7 @@
     {
         "reviewId": "gp:AOqpTOHjkJicJmpYnX7LFM8J-IUg4bY6JuZvDNUCfaEtxWumOVPOl_mnSpr8qwe1jfGR_TKUJi8ZyC2tqqK_Nw",
         "userName": "S\u00e9rgio Alberto Do Ros\u00e1rio Dantas",
-        "userImage": "https://play-lh.googleusercontent.com/-PHR8Jp4DL-w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_178_PeTbv3m_ExhEsf2MwZQjUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwV_QWq0qRO2bBJAp3w6MuUNZ76CoB0gYvwtphX=mo",
         "content": "Propaganda enganosa",
         "score": 1,
         "thumbsUpCount": 1,
@@ -7934,7 +7970,7 @@
     {
         "reviewId": "gp:AOqpTOGSnPN6lUSncBkpUVX8-2gMGhY29fCyjwOyAfi7d4w2yX3CiN4os1Yg48yL4gIIbxPCYXfzU4ZVzTo9uw",
         "userName": "Carina Bravo",
-        "userImage": "https://play-lh.googleusercontent.com/-s7_SGIAACZM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMBHszbznOJtxiIBEB_nIVCnkVCA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwna98jo3zyl-e4It43MmQi0-6qrCQdRbr1AUmN=mo",
         "content": "Parab\u00e9ns",
         "score": 4,
         "thumbsUpCount": 0,
@@ -8018,7 +8054,7 @@
     {
         "reviewId": "gp:AOqpTOEAo1GfmD5JMCxvGSHWi08yukGjSP-pakbPkSVE88NaYxeAX93vkFd-kNHKNhbS1n3aH8CnV5z8PgTjjw",
         "userName": "Carlos Santos",
-        "userImage": "https://play-lh.googleusercontent.com/-_M3QY0TmAI4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckp0QByl0Gk4tqEXGzB7HUzUFGlHQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwm8SwNcZedj1e2diKa9E4_uHuD7gmCj49F1HJ4=mo",
         "content": "Aplica\u00e7\u00e3o sem qualquer utilidade pr\u00e1tica.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -8054,7 +8090,7 @@
     {
         "reviewId": "gp:AOqpTOGOT5ztoF306M9DmtUa3VQLK_B3YxugGG3K2i-6CFguaeoPyddKWvLzMuHd3dvd5dvyy7NZoLwrSFnoMA",
         "userName": "Luis Lopes",
-        "userImage": "https://play-lh.googleusercontent.com/-oam7g6wbe-c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmJec3Ir44bcbfaCFbLQALhpsFSw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0wVPx1c3Gaa1jSMh9ZKoXbiAC_INvsVcVZGpg=mo",
         "content": "N\u00e3o d\u00e1 para marcar consultas. In\u00fatil.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -8126,7 +8162,7 @@
     {
         "reviewId": "gp:AOqpTOGEi-QX27t34W-HbADwrd-0O-KjK-bX7BW7pDCSSSK_oUjRkKbFcqKOLPloimx75icnL_HmV9lFUYlepA",
         "userName": "Pedro Barbosa",
-        "userImage": "https://play-lh.googleusercontent.com/-JSrg-3TYd8M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnj_I-tqgRXcnfiHkBzjCbnCh7lQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzS6UZBQf5BF00A8543YpCdEbKxa6gsLHynw13N=mo",
         "content": "Sem palavras. Dava zero estrelas se fosse poss\u00edvel.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -8185,8 +8221,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFIbMlAQU4TvdE07kkQbx_DYpYvmYwfamPJs75fPBR-DOBtZlUPSDXz947_zefvyWoYTh3onnkIl-sRGA",
-        "userName": "Sensei",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghx8LKbOjNHzf3pSbAtS__uwnUfxHj9y2qIvkDmVQ",
+        "userName": "Editzinho",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjE7IspHyOru9L3s-12wY_FodY661RVQGkJA8iPwQ",
         "content": "Nao entendo a finalidade deste app... nao sei o que pretendem ao gastar dinheiro a fazer este tipo de coisas... uma autentica perda de tempo",
         "score": 1,
         "thumbsUpCount": 2,
@@ -8222,7 +8258,7 @@
     {
         "reviewId": "gp:AOqpTOErsX6O2VMmhAxeDubKSs5PaExW0fTiD99jRrdU1qY0nm8pSC-hB07zIeBO19Oe-74RRdLxbIsXqyH_jQ",
         "userName": "S\u00e9rgio Serr\u00e3o",
-        "userImage": "https://play-lh.googleusercontent.com/-9Ft46ud-VNE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOjOGsH9-ot5J7IY8VDkCPH7AR2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjdEbsJUitkQwDLkwwjwF7fw4uLx9YgkWJbAfB=mo",
         "content": "Para clicar e abrir o browser bastava criar um atalho.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -8294,7 +8330,7 @@
     {
         "reviewId": "gp:AOqpTOFWwK2Mo7uLlSa6dx4MK1XNpiwOQahbW5zF4GtQFegZV4D_TStYgKLnKtc-Mfp5yYLU6nOWyV5bXS5RHw",
         "userName": "Lu\u00eds Lima",
-        "userImage": "https://play-lh.googleusercontent.com/-8DLHb8w65uk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXTEJjfTwE5-PRBjmaVGfrRztk4w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz8aH3G7INxYkhrc32IdT2J4X79ixAg5akGmli9=mo",
         "content": "A ideia era boa, mas nao cumpre com o que se define como app. Faz ligacao a sites e nao trabalha directamente via app",
         "score": 1,
         "thumbsUpCount": 3,
@@ -8342,7 +8378,7 @@
     {
         "reviewId": "gp:AOqpTOG4lRBcFU50K4KI-uVa3wsI1BNHYxhTGxozp_NimCSS_ZV8CMkYzrewicNIY1i6plNMIHxOgOzRKNemtQ",
         "userName": "Ricardo Carri\u00e7o",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjL39GYmpfo1ZAkaWxktfeWapXFNI-SAXQMfk0wcw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjfm-v9fdO2eKDb99kfEGMELYkxVsD4mwDA4NVWlw",
         "content": "\u00d3tima informa\u00e7\u00e3o, bastente \u00fatil....",
         "score": 5,
         "thumbsUpCount": 1,
@@ -8354,7 +8390,7 @@
     {
         "reviewId": "gp:AOqpTOEDO9kSgWVi-KZWSzBxbQXU-zkDavDbVtZNASsHicjx-eC87Ptw3K9AFBuPDSO268RXD8JfyT0J8tKTqA",
         "userName": "tania cristina jorge",
-        "userImage": "https://play-lh.googleusercontent.com/-8fv-Q0cwCr8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiuIoL4E-D4P777I5zViE6uzlEaA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyMIrAElaXLgqVzrmlIiEgHsAqk2QuQoDaFOy4y=mo",
         "content": "A aplicacao nao funciona ,vergonhoso",
         "score": 1,
         "thumbsUpCount": 2,
@@ -8377,8 +8413,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFrfNtsckubX938Ll2_YQZ6dkaaGmWRBWdH6FcxaKuHc9Gxd0pKLVxr3zicQ_zIpTyILVIMthFUb_V6fg",
-        "userName": "Manuela Tom\u00e1s",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GizWgHQhinuy77fZzKPjCLAwKt5LoYh3JhQGtMCng",
+        "userName": "M T",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwihyfMSY-uJ1CEKgh45fIl6tOKxiIN1il2A8JKIA=mo",
         "content": "Faz-se melhor no PDS (plataforma dos dados da saude)",
         "score": 1,
         "thumbsUpCount": 3,
@@ -8546,7 +8582,7 @@
     {
         "reviewId": "gp:AOqpTOERiaNmjPQu8NZuRDSF1GE62X90sljuVRdNqItxl7UuYCgnQ9TQBc3JwqfCpxQueKUmWC2mdr_B0FzUFA",
         "userName": "Valter Duarte",
-        "userImage": "https://play-lh.googleusercontent.com/--EMfzaQ3en8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxJmJvVH77RDPuTG1EXayfbmUhGQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw5yTJmEIce9xaC8HwKLlnrFgP7vkOOl9_UG4wf=mo",
         "content": "Um app pesado (80Mb) que a \u00fanica coisa que faz \u00e9 direcionar para a p\u00e1gina do SNS. Rid\u00edculo",
         "score": 1,
         "thumbsUpCount": 2,
@@ -8594,7 +8630,7 @@
     {
         "reviewId": "gp:AOqpTOFgAtT8frGH5D2bXr8b3Oqt84VpvZN1T7YXcRyIE_Ryr81mIPpm77qQTt34kB9levjGrrSKnn397ZINoQ",
         "userName": "B. Neto",
-        "userImage": "https://play-lh.googleusercontent.com/--oj3M-u2gBU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucligIFankgsjUDfdd7AUwb9xEXwnw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZfKnuYjai4d6vSDhKmKZsp2oB5pPV3HfCwIZ3=mo",
         "content": "A aplica\u00e7\u00e3o \u00e9 in\u00fatil quanto ao prop\u00f3sito anunciado. Mais uma a\u00e7\u00e3o de propaganda paga com o dinheiro dos contribuintes sem qualquer utilidade. Chega a ser repugnante ver as avalia\u00e7\u00f5es de 5 estrelas encomendadas com textos saidos de uma campanha de marketing pirosa...",
         "score": 1,
         "thumbsUpCount": 54,
@@ -8606,7 +8642,7 @@
     {
         "reviewId": "gp:AOqpTOEBCQLTGbze8MYgo4dbD4FgeScox0cXcPAcwIiaP0SXtNXf5gFUB5ErK-5k2lw4Ugv6GBXjh9ZBGRvacw",
         "userName": "Marta Dias",
-        "userImage": "https://play-lh.googleusercontent.com/-WVnLYNLSvRM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn00IQVGjZxTRvT16s4ltNgggXhIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxbgX8aPn8nCzaEboXDwK9RyGmeOzzEdL9UXYQz=mo",
         "content": "Fant\u00e1stico! Um SNS muito mais pr\u00f3ximo do cidad\u00e3o. Gostei muito.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -8630,7 +8666,7 @@
     {
         "reviewId": "gp:AOqpTOFS75fA6dMl9nY_A8tqZZiCBEHPzGNPdQ9l8PGsM5wtpzpf7mBgerjBHhssRCiCWhb48Fbg3A06yDNQyQ",
         "userName": "Joseph Morao",
-        "userImage": "https://play-lh.googleusercontent.com/-Uk1B5Yr_YK4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnI94NnDFwHRISU0BSpgonEOo8pgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxvIhM2JL157niuUcm_bf9JthB4quERb-4CS6dL=mo",
         "content": "Muito obrigado",
         "score": 5,
         "thumbsUpCount": 0,

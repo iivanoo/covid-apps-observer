@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOFngYy09Jqqh2RRs-Tg1ChvOGXYStL9D3KaJYKqGlS8Z9C3iTRMvq0QRuP_wQPG1dqkHElbXo3VowHt9A",
+        "userName": "Tony Zuniga",
+        "userImage": "https://play-lh.googleusercontent.com/-i8J5zY_NLvs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBCKgf1dzwaBXmvJTvf78QnCVhyQ/photo.jpg",
+        "content": "Fast easy",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-27 19:08:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGZmbr1bBNsZP4k0qvvLtst0ZVIlMj5ZswRYob-PpZx4USjeGXMwKUtg_BEc32ZWpjdE1C_yA4zggHuAw",
+        "userName": "Lee Ann Luttrell",
+        "userImage": "https://play-lh.googleusercontent.com/-eUoDACFVDmY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8YwlfdFqOcgQUeWzBJq6sqsBpmA/photo.jpg",
+        "content": "Flustrating",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-26 23:58:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG7Qw0WbamNMvuAjP-LCNMjU0Hpi4JItDFJmAzeroXixWndClxZAT4ZVzeSd03s4EVPuXIYdgrJya5_ZA",
+        "userName": "clairice alexander-sparks",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhEMcZFrs9AKVAYNnyfsYMjqi9YtUvPCZ04oQmJoA",
+        "content": "Excellent",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-26 21:20:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFo2p2eYjz0OX0XTxG7i4rWVIovZFxYUlR5OONBgzZ0IJlNPQLQ1B0QBhKw2kLpnwmELdcwCfS7QcFzlg",
+        "userName": "Daniel Frehner",
+        "userImage": "https://play-lh.googleusercontent.com/-4UPokvoxI1Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckc6SaDVe1f3ugo_HtAzQu86fDgRw/photo.jpg",
+        "content": "A normal dr visit would take 60 mins of driving, another 60 in the waiting room. Another 30 for dr. My visit now was 1 minute downloading, 2 mins in virtual waiting, and 5 mins with the dr. Great app!",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-21 21:24:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEP179wXPBkadhMFsPfEwXE7Q88HEPTjDqgiBv_aVzjbrYt0jq5wbJSykvWF7pHno_TBLTl5QfBVLKS_g",
+        "userName": "precious walker",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjCYhcRDIUNRxIWwg9kJe64NeZ6X_R6qUuCKpxmNQ",
+        "content": "This is an amazing Convenient and Useful Way to Get medical attention 24 hours A-day For myself and my children I would have never ever thought I would use something of the sort to get medical attention Have you seen this service multiple times for myself I also use the service for my two-year-old Baby. and after my visit For myself and my baby I felt satisfied my medical Needs were addressed And properly Cared for and my Prescriptions were sent to the pharmacy of my choice. THANK YOU!",
+        "score": 5,
+        "thumbsUpCount": 7,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-21 00:21:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEzhOifUyxLIaA7IOwsChDuRIROYjhNCn0ZJj6ppuSycDD1y9rFmwhRxkN17XB2f-ZEAL6ZQo1VVUM_8w",
         "userName": "Shannon Blue",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgHmhhCO6xuJO7T49-SLIrZMn8kcEdAmjUlcMOLNNc",
@@ -65,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyXaU-eYXDWak-3jxKatY7k_9EYhzmmlHORQMIXg",
         "content": "Everything was very good except that the video cut out 3 or 4 times in about 8 minutes! This must be remedied! Otherwise, it's an excellent option if a clinic visit isn't at that time. *Update: Today's appointment via NowClinic was perfect. App did not cut out at all. Easy interface, with excellent quality video and crystal clear audio. Thanks, devs, for a job well done!\ud83d\udc4d\ud83d\ude01",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-04-13 22:25:56",
         "replyContent": null,
@@ -542,7 +602,7 @@
     {
         "reviewId": "gp:AOqpTOFbUVNQQVVq0gg0frXdB3yM6Th91DN5dVwXv67BA34oiNTcPeEyjIyY_rYF0LriRbnA9FbmGsSaNA3VVw",
         "userName": "uber con",
-        "userImage": "https://play-lh.googleusercontent.com/-Ogrw9VAZ7P8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-vXVn6ToqEi2S6trltMeNPX9Sxg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1jAbVLFHgySCeVQs72fluyZKClL-EeV6aDTtU0Q",
         "content": "Smooth and fast. Dr Nesbit was awesome.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -860,18 +920,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-02-11 22:49:43",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEP179wXPBkadhMFsPfEwXE7Q88HEPTjDqgiBv_aVzjbrYt0jq5wbJSykvWF7pHno_TBLTl5QfBVLKS_g",
-        "userName": "precious walker",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjCYhcRDIUNRxIWwg9kJe64NeZ6X_R6qUuCKpxmNQ",
-        "content": "This is an amazing Convenient and Useful Way to Get medical attention 24 hours A-day For myself and my children I would have never ever thought I would use something of the sort to get medical attention Have you seen this service multiple times for myself I also use the service for my two-year-old Baby. and after my visit For myself and my baby I felt satisfied my medical Needs were addressed And properly Cared for and my Prescriptions were sent to the pharmacy of my choice. THANK YOU!",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "12.1.00.005_01",
-        "at": "2021-02-11 11:34:33",
         "replyContent": null,
         "repliedAt": null
     },
@@ -1429,7 +1477,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGsBEHS-lLLHKMXxKzHJ0cfVfG_HKKVQlf3gpsiIsnYTX50_Kw-T4TgiyRvI3f3frGIji9gNzzI49vUTg",
-        "userName": "Green Team Adventures",
+        "userName": "GG Green",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gix4grpLK-S-8YswaGqTx3bQ0kk-bZnMwdkVqEYQQ",
         "content": "Very convenient.",
         "score": 5,
@@ -6061,7 +6109,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF1sxewECSAGo6gksLHfFNeysttxb1-aWy3S2G_HWoPRjAVjlNRlRK4KqWqy_twFrrfHXOKzVKYhwYZDA",
-        "userName": "Gotteme",
+        "userName": "IceValk.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgHH7Tw3Z5OWtKg7L0Omj8JcFlbFoX3ZAY95eEIqg",
         "content": "Very nice \ud83d\udc4d",
         "score": 5,
@@ -7261,8 +7309,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFvX5gStXGEAzUqmalUG_ZjBNsFJsbkWvfHgaJqzAERzV6XSnI2xYELeYubK6wh9hWkeN_I2PyOxcOxhQ",
-        "userName": "Funnyhoney",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5X8bpDSRAmXy5TzCADGK_5-xWRicsBc0EgYu4sA",
+        "userName": "Myeisha Lindsey",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GglekgA8L8MORLraBTSLycpSVgmlqKyJ3jasSRygQ",
         "content": "Very thankful for the now clinic help",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7501,8 +7549,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFqf2rwSM9R2wyiGLqjgYj-9JG5nNpF0hEuMqcL8nmbILRMxfneqIGBUZWDODE94ix0b3EmcoBEao47qQ",
-        "userName": "Cheryll Tejam Meneses",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgprRJJ3fX82FmpXl8XWUSEMFO8xoIxxUaTM2g8mUk",
+        "userName": "Cheryll T. Meneses",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXVq-5GTJ01BfCO8gLve_s5aKOyAqqedM9p_ojjPw",
         "content": "Happy & recommended this apps.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7825,7 +7873,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF38fty5KUZgi0JsefuzfaTnG8iYvcDC-xGsdJwU2__5KKR1szDAaZfCMEX1RGDFl2QSUecvYer-NASWw",
-        "userName": "Yeah yeah buddy",
+        "userName": "Krystle Schulze",
         "userImage": "https://play-lh.googleusercontent.com/-Wj2H8y-CFtE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucniimHOq_BHBgkTHmY6IX9lbLUmAQ/photo.jpg",
         "content": "Awesome",
         "score": 5,
@@ -9230,7 +9278,7 @@
     {
         "reviewId": "gp:AOqpTOHVTXLfNEjxJRV68rPob9MLVETlbctgo0gWTqdEoL5OrEP1cUdpEAOhqKqoYBM7ZqnLYfjDQ9HWwcjZ_g",
         "userName": "Shawna Krentz",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj16f19suATDHTbnyxDsJPR4c5Ml2fAiY7wlcs95Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8YnHadswkK87EN3jjafkJsZgklEUiUvnEwbxZWA",
         "content": "Basic health",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9565,8 +9613,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEJCt7q8o0EFbURznXdNHMR556m91QVPOFy17HNmLvlmU7-xVX1VEhDRJqmVFElWmcagHL4kAWIJoOOeA",
-        "userName": "Barry Hansen",
-        "userImage": "https://play-lh.googleusercontent.com/-QMHn11uxyu4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckbau_6TexcHVHh-P8rmfIV3__wDg/photo.jpg",
+        "userName": "barryG twistedmind",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4h7VVDwQA_QxwgVYnzSD82xsOf0bQpY3Vs2DvHA",
         "content": "Great app if you live in nevada",
         "score": 5,
         "thumbsUpCount": 0,
@@ -10765,8 +10813,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEK9doLC-wwUfh3amzrUwRNkiWXp9uDshKVAHk-MHHHOqz87efcFiNeHE7IZVUFldd3Yhmrgn1Y_RBPEA",
-        "userName": "SHANNON burklund",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gio893D5G-6P7h-zuq16oyO3D4Cs4-ATwmo4VDcCw",
+        "userName": "Shannon Ruppert Burklund",
+        "userImage": "https://play-lh.googleusercontent.com/-DDMbrX7EdXk/AAAAAAAAAAI/AAAAAAAAXHc/AMZuucltoDI7grFSzQnjoWtrGVy9Oi7L-w/photo.jpg",
         "content": "thanks will be feeling better soon!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11948,54 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "11.3.1.002_10",
         "at": "2019-04-10 03:09:00",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHFVUzozn7y5R35QbuvPC_IT0xqrangavvXhpqovcI6Pca3d7FJkU38Aq7IWd5it-YFrPxSO3HGkObjjQ",
-        "userName": "David Miller",
-        "userImage": "https://play-lh.googleusercontent.com/-bYfATryznAk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmkw85YHYx07aYKR869KHn0cWuQA/photo.jpg",
-        "content": "Waaaay easier than the doctors office",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.3.1.002_10",
-        "at": "2019-04-10 01:47:01",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEJCfu841lVC2ZIqjN4CLlL0cd3Cg31PsXFLRWVp4FrLSLxe3EC9V7Jzawc1s2H0UZ2FMn1iOo6omSPEw",
-        "userName": "Mark Rolands",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjbLQZu6XQq-b3iVGmxyUWQ9JUjNok42yNzeXO09zE",
-        "content": "having asrhma like i do, i canr tell you what a life saver it is fo be able to see doc at home via the app. b4 it was touch and go werhwr is be able to breathe long enough to make it in.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "11.3.1.002_10",
-        "at": "2019-04-09 18:29:16",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH4TJJkXPdezd_iOasUyfNp7pP5ljkUd_lbrrEslwurRFqqOHN_jECsKP5zubDL6gaTj1H0VU0fupD79A",
-        "userName": "Douglas Berciano",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPmk--vpY_4D_IyzFYc6a7c2U7UHMeW_szn6J09g",
-        "content": "thanks excellent",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.3.1.002_10",
-        "at": "2019-04-09 08:30:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE6RY-rXI4tohjU-01mN8etcSn0zEGyituI1oy8zBT2nKwvo9vjMAmFJIu6_JLaw9sYtGiXDR-6fOEPiQ",
-        "userName": "Gordon Ruiz",
-        "userImage": "https://play-lh.googleusercontent.com/-yl66r48kVf4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZYeldn2K4YB6Tvel30Xd09ZDpog/photo.jpg",
-        "content": "very good",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.2.0.025_05",
-        "at": "2019-04-01 04:17:36",
         "replyContent": null,
         "repliedAt": null
     }

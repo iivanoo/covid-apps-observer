@@ -145,6 +145,8 @@ The Jersey COVID Alert app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.governmentofjersey.jerseycovidalert 5 reviews"/>
 </p>
 
+> Nd u jb want k j u mji u u I ice hhol.. ..<br> :date: __2021-04-23 18:09:53__
+
 > The layout is simplistic and it is working fine for me 🙂<br> :date: __2020-10-19 16:19:39__
 
 > Good information<br> :date: __2020-10-17 22:05:35__

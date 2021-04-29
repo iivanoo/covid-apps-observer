@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Muito burocrática tds os itens deviam estar disponíveis automaticamente sem ter que recorrer assiduamente á chave digital,imagine- se para para o cidadão comum o transtorno.....<br> :date: __2021-04-24 21:46:43__
+
 > Excelente<br> :date: __2021-03-27 12:28:23__
 
 > Sem dificuldade.<br> :date: __2021-03-25 16:34:31__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Opcional<br> :date: __2021-02-02 17:13:25__
 
 > Muito prático e eficiente. Resume o histórico clinico<br> :date: __2021-01-29 11:51:00__
-
-> Muito bom<br> :date: __2021-01-27 17:41:06__
 
 
 
@@ -227,6 +227,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> Ao tentar utilizar pela primeira vez deu mensagem: mysns falhou<br> :date: __2021-04-23 13:39:55__
+
 > Parece-me que tudo o que é possível fazer nesta app é também possível fazer através do site do SNS. Não vejo vantagem da app em relação ao site. Aliás, algumas das "funções" da app funcionam por reencaminhamento para o site.<br> :date: __2021-04-16 21:41:18__
 
 > Não tem actualizações para a versão Android do meu P30 pro<br> :date: __2021-03-31 21:38:03__
@@ -244,8 +246,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > A app stayaway Covid-19, tem algum problema em ser instalada? Muito obrigada.<br> :date: __2020-09-01 11:17:30__
 
 > Difícil, é nem sempre conseguimos atendimento<br> :date: __2020-08-05 13:09:26__
-
-> Pouca dificuldade a, aceder !<br> :date: __2020-06-26 20:16:31__
 
 
 
@@ -283,6 +283,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Minha educação não me pemite comentar!!<br> :date: __2021-04-27 15:35:19__
+
+> Má<br> :date: __2021-04-20 15:39:52__
+
 > Perdi tudo do sns e nao da para recuperar<br> :date: __2021-04-17 13:00:01__
 
 > As dificuldades em entrar, encontrar o que queremos. É muita coisa e pouca funciona na perfeição.<br> :date: __2021-04-13 18:27:28__
@@ -298,9 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Leva uma estrela porque nao da para levar zero. Uma pena que a app nao funciona de maneira nenhuma. Algo que poderia ser bastante util simplesmente nao serve para nada.<br> :date: __2021-03-18 11:36:05__
 
 > Por enquanto, uma app de notícias e pouco mais.<br> :date: __2021-03-17 14:27:24__
-
-> Zero! Não vale a pena instalar....<br> :date: __2021-03-15 09:45:56__
-
-> Simplesmente não funciona<br> :date: __2021-03-12 10:30:59__
 
 

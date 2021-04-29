@@ -1,8 +1,56 @@
 [
     {
+        "reviewId": "gp:AOqpTOFC63gQNYGsRpt_MBHZ2NI6O-BHwc-WA_JQXQnibCo1OZrxqZzH7ZbYovDTzyCT5Kwk77W1RH83Q1oqAQ",
+        "userName": "Josh O",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyEPDBcIxuu4fZQVus_1hCj7RWYTHBrzmSjTj7S=mo",
+        "content": "Works great if it loads, has only loaded in under 5 minutes once.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.0",
+        "at": "2021-04-25 08:06:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFlIRszqv1y5JfI5ZtwNwtCkD9RvhYEwvMAmZpNNw5uKHYlRFgLhHr-vLvnnpGCPK9WF4hi_22huvCaLg",
+        "userName": "david smith",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw3U0vEoFG2EVP__FWb2msvKwZuur5ClZMZywc_=mo",
+        "content": "Am doing this against my will i am being forced to download it if i want to do anything now",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.0",
+        "at": "2021-04-24 13:21:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFKlJfVNAS96d_udZizBN4ovFp2XuFfKokGVI0ltXuEtDeMxR2nHUn9WntydHp9B9XG1zkcxJ7s1LPw9w",
+        "userName": "John Brassil",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzC2JD-wbxO7KlmKgrFxbd4w4r_ta36GJpqEZlr=mo",
+        "content": "Could not download app",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-24 04:44:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH9i-qmK76WssHL1eeC_nBWAh6JOcdjRXCyE9uuu02sEla6FYpVrsKx7F1y7QVB2y1K4A838NoMpm3byw",
+        "userName": "Ian Wooldridge",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggk4ypwLlTUdSNwLpv-01fPRd7zRsv2pnuCiCKa2w",
+        "content": "Use this to app on a recent visit to Canberra, don't know why but it had a weird effect on my wifi calls and volume control on my Samsung S21. Since I removed the app it all worked well again.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-23 14:27:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFnndhqbZXefhKJ2pj9DZdidEtkXx9Zt_eMWXXxvMu-0WgEIwBRNCfCyn5ttWYbq5dDMKwdg2GfLgIT1w",
         "userName": "john cena",
-        "userImage": "https://play-lh.googleusercontent.com/-1nuXVESe4BA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck98HmbJgJKTh-XT-thHAEEH3tf8Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4jYuCILCsFzNFjLl8YZbedrOjciftWZWoDA-f=mo",
         "content": "scam, stealing data do not install",
         "score": 1,
         "thumbsUpCount": 0,
@@ -26,19 +74,19 @@
     {
         "reviewId": "gp:AOqpTOFB_LWuqlILidF6uBzeyRVwmqPvACohZpGfqJwwo0s52oZ7wY5_-NkLOkUdKFlPKgQfxJjlnqXIy8WMsg",
         "userName": "Ethel Llama",
-        "userImage": "https://play-lh.googleusercontent.com/-lss3jftoSHA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckreIqyshhvrQeuXKT2fHK-to23nw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhiRK6Vsps1NICtKT3Tk0tyedeyO7jthL4wjcy=mo",
         "content": "App is still on daylight savings time. And can't add time you departed a venue.",
         "score": 3,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-04-14 04:11:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. The daylight savings time has been adjusted. ACT Health believes the level of information provided through check in is sufficient to assist in contact tracing efforts and therefore a check out requirement is not required at this stage.\n",
+        "repliedAt": "2021-04-22 06:31:28"
     },
     {
         "reviewId": "gp:AOqpTOH3YnLPJNQC_VPuuuJdBeu64GaW7jtEeNDYOu7tAshLjxNR2HHg_yjcpQyg2ApZulo6uYvmdo23zKlXvQ",
         "userName": "Kyrsten Haselby",
-        "userImage": "https://play-lh.googleusercontent.com/-Zx4G8XD9BSE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRvMjmcev8nLpSMR-E4QNtU6EGtQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0GUHLyUeVAaGoDGW47RcDK7wir0f6yQ0AlNTq=mo",
         "content": "Was perfect before the latest update. Now it doesn't scan and I have to manually enter in places. Would love a fix",
         "score": 3,
         "thumbsUpCount": 1,
@@ -62,19 +110,19 @@
     {
         "reviewId": "gp:AOqpTOEjfGhdEzcDgtAgvAfPYXiw9uOdxGMvwd3bL7_oq1ruchAEoqNer3fF6NUwE2UeFaLVSJNZhJNAduIgvA",
         "userName": "John Macdonald",
-        "userImage": "https://play-lh.googleusercontent.com/-wfa1W_HiEYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck30lRxjNAlr9kXsdi-TvFCacslyA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1ncLGxcb7MS4VZMApmzYmaHjCAEmnXHFBzt_0=mo",
         "content": "App is fine, easy install and use. Could do with the ability to check out as well.",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-04-06 10:20:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. ACT Health believes the level of information provided through check in is sufficient to assist in contact tracing efforts and therefore a check out requirement is not required at this stage.\n",
+        "repliedAt": "2021-04-22 06:32:14"
     },
     {
         "reviewId": "gp:AOqpTOEAXRxk_osF24P6qoU6FBOqcX6dSoy6SSFDtcbIWCbVqdW8io4IqLvhDjH44QiwaCv48EcUggwKL9mFZQ",
         "userName": "Anne-Marie Reynolds",
-        "userImage": "https://play-lh.googleusercontent.com/-uCfu8YwoAAQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnTLx-2Jaxvk4QuB5IexkgkJzPZBQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMoHNvVCKtVVnPnZOmOjVrie2H7J5CAfM73jVp=mo",
         "content": "Periodically stops working",
         "score": 5,
         "thumbsUpCount": 0,
@@ -98,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOGHObCtR3DGlra1qT96p7jACYYX3hSwDOC-GAZ_3mOrHwcmqWRRVTAwGgwqQ-luFZB2QqJxK3p15QfUzQ",
         "userName": "David Hawker",
-        "userImage": "https://play-lh.googleusercontent.com/-cgP4oEeh4Dg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmd0LftBR8FkFMJJYoFT3FF_CxUVQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyT5BnBekBejZvPLIFlPcaPZFlVElGeu_xBalPh=mo",
         "content": "Knox zzz a",
         "score": 4,
         "thumbsUpCount": 0,
@@ -110,7 +158,7 @@
     {
         "reviewId": "gp:AOqpTOHyahBJlSCIpLockpRSArQFaQP8u3W-O3160ycpY9RQd3rtBJHexoHWG_KmYSj5RNTTWko_hrNdV34sBg",
         "userName": "Anthony Carlson",
-        "userImage": "https://play-lh.googleusercontent.com/-Oh5Kt6_2wX4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmI1fh37IysQubhtUkrfpk7to_wfw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXOG-HMFxpq_VwBDpFsORcELvc8HPN5AcltZWv=mo",
         "content": "A bit slow activating but otherwise great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -134,7 +182,7 @@
     {
         "reviewId": "gp:AOqpTOFSryWrZ5vVeyj_fNoTAuHsO5sc4PAsIUbg1Rg0iDYNirdCKjZsK-lvy7qJmz-kcpZ8pHmO2xgJPxJm-g",
         "userName": "Richard Eagleton",
-        "userImage": "https://play-lh.googleusercontent.com/-gPGmrp5JuF4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3qLf40AyNtakUh4qcS-_sWn3zfA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyr67d561V2R_63CShKbSyOIc73-Qi_CGzxcrjx=mo",
         "content": "This app worked perfectly for me until the most recent update. Now the screen stretches off the sides of my mobile. Mostly its bearable if ugly but I'm unable to see the names of the additional people either for selecting or entering in the text box which significantly reduces its usefulness",
         "score": 3,
         "thumbsUpCount": 4,
@@ -161,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZFYmM_QGzm0Gtqh1GfMJ72fqa_t_b-KHQ8TJq",
         "content": "This assumes that the user has endless data. When that is not so, it fails; it should \"STORE\" logins until [free] wifi is next available. When the QR is not recognised, and that's regularly, it nags for a number, which I also call a fail.",
         "score": 2,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-03-28 08:14:09",
         "replyContent": null,
@@ -182,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOG8iPzUWdgF_I8n0iytFd34bMIhhx15YlL_uHY9KkBoPXNFlD95pHODNxyWCdOitALpjGsZ4jRQJHda1g",
         "userName": "David Worboys",
-        "userImage": "https://play-lh.googleusercontent.com/-C6-Mas_hV_M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5d7kYjP0U5OrICEkI4w8Z--RqZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXMriNB1uXS2tiH4xZL2hMlG1CLg-rfx-Z-N7N=mo",
         "content": "Easy to use, love it!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -194,7 +242,7 @@
     {
         "reviewId": "gp:AOqpTOHHYhHKjWuKIUMnya7SqxIcVv8NDAHqeHRKKisJ7eJnX3RYavF6SXYAnSc1R2ieznU6kjPnFW4twR8Ukw",
         "userName": "Caroline D'Souza",
-        "userImage": "https://play-lh.googleusercontent.com/-HB1M8CShUrE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdQU-KYs9a5IAUhAesdULsb3Acxw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwpA1uvn68Hmpy3xw3AloPbNxr8sfo4wrQ8ZjSm=mo",
         "content": "Great service",
         "score": 5,
         "thumbsUpCount": 0,
@@ -212,13 +260,13 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-03-24 08:54:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for sending through this question. The QR code is available at venues on a Check In CBR QR code poster. You scan the QR code when promoted by the app when checking in. More information on how to use the app is available at https://www.covid19.act.gov.au/business-and-work/check-in-cbr/information-for-customers\n",
+        "repliedAt": "2021-04-22 06:42:11"
     },
     {
         "reviewId": "gp:AOqpTOECduGDPq7iL7yXr7gpf9009SScRYTXWCD1fZ6DFEO4dWS2dujPkYyWh7szpwfuiLc2t-afS5mAsHsunw",
         "userName": "Zoran Lovrinovic",
-        "userImage": "https://play-lh.googleusercontent.com/-v9AHEPwX2E0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckF-8shJFWQnkYKaBountHSFN60Vw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyP635iZ311Y0_c_lFaeyRAyyZL9ZvlsJB57p2L=mo",
         "content": "Excellent and safety",
         "score": 5,
         "thumbsUpCount": 0,
@@ -248,8 +296,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-17 01:53:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our technical team has solved this problem. Please update your app to the latest version. If you have other problems, please contact us at digital.solutions@act.gov.au.",
+        "repliedAt": "2021-04-22 06:43:30"
     },
     {
         "reviewId": "gp:AOqpTOGSWiy8zZmDzxLJ18Pf7UrceovAGB3ck7FuOgUqsQ1PqzvCd9rI_wtRsq669aJTZMlm1VXZAQVTw3jnSQ",
@@ -266,19 +314,19 @@
     {
         "reviewId": "gp:AOqpTOFh4-Bk5q1xLj_MLzN9NwX4PDHjwcpOjHoN2yVktayA8cc4AFUp0jb55bS_k_KlDUMvTDleTyW4pS6xig",
         "userName": "Susanna Jose",
-        "userImage": "https://play-lh.googleusercontent.com/-UrpeoHec21A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktL5JyR0p6m8RlPvvCxjoApBcDaw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwaiTnaVn9wzXTyoTqV4d6hixFZcv_fes5OjOgz=mo",
         "content": "This app worked fine on my Samsung Galaxy s9 for 6 weeks. Now it no longer works. I have uninstalled it and reinstalled it numerous times. It will work once and then I get the red error message saying there is no wi fi connection. Not true. What do you mean apply the fix 1.8.2? No explanation has been given. This is becoming so frustrating. Please don't say it is an issue with older Androids. Th phone is 2 years old. There is a problem with the app.",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-03-16 02:05:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Our technical team has solved this problem. Please update your app to the latest version. If you have other problems, please contact us at digital.solutions@act.gov.au.\n",
+        "repliedAt": "2021-04-22 06:44:49"
     },
     {
         "reviewId": "gp:AOqpTOFiQniB1kNuFQg-vjUkTHgC2RE4x-TasT4jeSBHlTNexqnBGTzgxlDd6lUrLZ6QqUFgEQJZwG2mF8ovHw",
         "userName": "Daniel Tebbey",
-        "userImage": "https://play-lh.googleusercontent.com/-Veqd4R6Me3I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnsU3Q12JMubPzmsE_Bs--tCx1O-Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx-uWxDdc9QTQx3dyfIK6NPxAMeUX7FQ7Yc9Lm5=mo",
         "content": "Very responsive and quick and easy to use.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -305,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghp7XtWM7GoZodwAh0PW9_hGqbJdi8Bp8mIDvSQ",
         "content": "Up to a few days ago this was near perfect. I used it everywhere. For some reason this weekend it fails to launch on my S7 Samsung mobile. I have uninstalled, restarted, reinstalled, but still it fails to launch. Something is now incompatible. I hope it's fixed asap. UPDATE The problem is now fixed. Thanks for the support.",
         "score": 4,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-11 10:20:44",
         "replyContent": "Thank you for your feedback. We are aware some users on older versions of android are experiencing issues. We're very sorry for the inconvenience. A fix is now available in version 1.8.2, please update. If you are unable to check-in please advise the venue staff and they can record your details for you using the business profile.",
@@ -314,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOEhx6Q2ZTlYdMIOwI8kkeFpHDoiAWvPFZe2UGWLppzUbv-_gYQKq5qTktOFSRGYAC7AQAoniMAj-qMFqA",
         "userName": "Susanne Harrysson",
-        "userImage": "https://play-lh.googleusercontent.com/-f55TGvvLUqI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn1e-p60-ykMKBGWLTa9bvFI-JTXw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyKGpbaQ9BhZMmw5SFmpthYrfEaqhBMjeEdQukT=mo",
         "content": "Does its job. No issues really. First check in takes a little time, then its quite smooth going.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -326,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOEGKknC9lJFUlXjlf4okvUd6cTpeZesTLxfFkB8ehgwaotWe_8ESFfo4FDy1mnLFJPC8XHbDX8_FluDug",
         "userName": "Leonie Houlahan",
-        "userImage": "https://play-lh.googleusercontent.com/-0q_lrWxd8pQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoncM5jHGAZzE54kiPxpK8JDqODg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzC79kWWjhJhdqTIEQJCWIxbdVCbOBt3sc4opAp=mo",
         "content": "Far too messy compared to other states",
         "score": 1,
         "thumbsUpCount": 0,
@@ -362,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOH5Td_NuoeIwl_HymPGgcmgbEKynScJseV-DYMWRyE6hOkkCykkD1yPkEgA6Xnb3isctqHRxSAtjx1Oag",
         "userName": "Dave N",
-        "userImage": "https://play-lh.googleusercontent.com/-SDGMjpKW8g4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIg7JonbU_eJ0MO4H1Nq75h99lEw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwj3oUPeo_L_HemOyJcVmbIqTFsaKbcuUfbxj3u=mo",
         "content": "Why does this get stuck \"finding location\" now? It used to work reliably.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -374,10 +422,10 @@
     {
         "reviewId": "gp:AOqpTOHVVvtE_5-32U23ls5t6GYFRzgliXFqa66UtHG6MkMI8ackHEI6KXeWLa4vlBDdYB0zvTvEDdtjuzyDiQ",
         "userName": "Duncan Morrison",
-        "userImage": "https://play-lh.googleusercontent.com/-KZiPh-OK2-0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXlcnLjZ9ImRquSf8kGGPL4k8zAA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMwpj7ezIIEa1OVg5MKyCMNaryYfvYiQ2cNs-C=mo",
         "content": "Doing an upgrade that invalidates all users WITHOUT REPEAT WITHOUT telling anyone is arrogant stupidity from the ACT government. It also shows the contempt that the ACT government has for its citizens. Bringing in $1000 fines right after changing the system is nothing but a money grabbing exercise.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-05 09:26:15",
         "replyContent": null,
@@ -410,19 +458,19 @@
     {
         "reviewId": "gp:AOqpTOGTBOlLHx5J38fEP-Ts1z49AHMukqx_lOYfDwk9t2oAaUqKBWvY2DYUUnJZm-P8A4J-PDHiQK0Si-0Rsg",
         "userName": "R Hunt",
-        "userImage": "https://play-lh.googleusercontent.com/-vw5wg-yqQBg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmORa1gPPsFwhOWlVMoaC9osGtG5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxG0Wmej0I-b-rDK1aOWQXdz9bppf1R-sbpBlMc=mo",
         "content": "Last update has made app unusable. Please fix it asap.",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-04 09:11:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Please update your app to the latest version. If you have other problems, please contact us at digital.solutions@act.gov.au.",
+        "repliedAt": "2021-04-22 06:51:04"
     },
     {
         "reviewId": "gp:AOqpTOHsXxd6fwyojVnSA0eEX3x7xnBQt4hd0tBP_1ttU6e04zakfbhS1DvKqOsjI280jXP-sKvpkY96I9-WYw",
         "userName": "Jason Lee",
-        "userImage": "https://play-lh.googleusercontent.com/-hF9i3G53oVE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwLZh8ZMikJNkequ5XLlwN8uy7eA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwFDkdi0WU1QSjZeiBAiBJPr6R1cWvNjLhMSNc_=mo",
         "content": "What if I do not have internet data? Not everyone has free wifi data which may make the app useless.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -434,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOEApfjZEkm9ccc5AOzjqfbPxxmj79yBhU8ddvuPd1VdBKwQEkzevNfzm1SZ7PZqVmucgsbZWklJWFe6Fg",
         "userName": "D. Desmond",
-        "userImage": "https://play-lh.googleusercontent.com/-jkwr3tP9aIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclH5KeTpzXlMCTdXGq7MP8Zf0Ekpg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw05WBT6X9IDyWlKFkCjphkPxFJRPalEAi-fEkO=mo",
         "content": "Unable to install this app-no matter what I try.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -446,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOF3v-lm5nHtq4M445ub-cNyhDPfhqvBjM1ZiztGnTRoXhKn5wMF2Crzi4KwqOwJcrHLGkX1YfLItEoOow",
         "userName": "Lenore Butler",
-        "userImage": "https://play-lh.googleusercontent.com/-FmuToUHxn80/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckLHqmeSz-d_9b19InIxbBiP8wxfA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyKBnm8shslPSfd6Edtxudauu1jsL7oNhNZ3qKt=mo",
         "content": "I have a new phone and cannot load this app .",
         "score": 1,
         "thumbsUpCount": 0,
@@ -458,7 +506,7 @@
     {
         "reviewId": "gp:AOqpTOEJDJCcdTe4MolvG5aqZgael7jk53g428ob43bQlIg_Gmi9IwsbXCVQsw-62JXOuzqP35goVunQJMHEYw",
         "userName": "James Allen",
-        "userImage": "https://play-lh.googleusercontent.com/-S3JmaXubABQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaqlGpx0-E4IDQFzhmaatWsKJ44A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxRdkXoa6xNLLhgg19jUJU4cke82POYJvrlZfVF=mo",
         "content": "All fixed now! Make sure you update to allow the app to use the camera. That is what I had to do after reinstalling it.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -470,10 +518,10 @@
     {
         "reviewId": "gp:AOqpTOECpXihO3LoTRM73sR7jmoiXT4xjCd7gZ8Bp8NV18IChqFaraHokKJJi1HD5kqlg1hI4b0EpC-eSENngQ",
         "userName": "Andy Dye",
-        "userImage": "https://play-lh.googleusercontent.com/-5102VO55zzo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbC5bJIzgvpgxA-fsMSfe7zrrc8Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyGNZU3Wn4uAdUHjNtQvzm0ZkcwVIduqZc3LB-p=mo",
         "content": "App worked fine on my Moto G5 Android (8.1.0) until a week or so ago, since when it won't even open. I have just downloaded the latest version - no change. Please fix whatever you did to break it EDIT: following update 1.8.2, the app now opens and functions as before. Thanks for taking action, as the 'solution' provided to many people below was really not acceptable in 2021",
         "score": 4,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-03 06:26:53",
         "replyContent": "Our technical team has resolved this problem. Please update your app to the latest version (1.8.2). If you have any further problems, please contact us at Digital.Support@act.gov.au",
@@ -482,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOE97YcK-_yeu0bvKbxMA5S7P0__R9MGL5vLHVND_XHu4P5mtm17Orr5m0NfgawPQPZPXrS_xQ4T0g2s-A",
         "userName": "David Poon",
-        "userImage": "https://play-lh.googleusercontent.com/-xxYFi1pTdfQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_DeWsK7HID-9cQ-pcJPmnUy9bPQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyJe7s0cbwdPbq-HB7DnuyLo-WroYjiHg86LuXq=mo",
         "content": "Update: app is working since v1.8.2 update. Thanks for the quick fix. Update: Installed v1.8.2 and the app now starts up; I will try to check in tomorrow. Thanks for prompt response. Previous: Unable to start app anymore since updated to version 1.8.1, 25 Feb 2021.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -494,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOHxXY6gTU3tQKuntGv0zu6aTOCnA0Rd32WCZQ5APtsf_oPuJmfJYaVk_s6MEKjkh-HFtCsfjShy1JKUxA",
         "userName": "Bryce Jamieson",
-        "userImage": "https://play-lh.googleusercontent.com/-rXI2psQQzl8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSYQc59mkNFI2awFjP_CrcgjB5tA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw24UGucFjEYkjg9bRWoV0T0QTxXDwYqix-nvMZ=mo",
         "content": "Doesnt work sometimes",
         "score": 1,
         "thumbsUpCount": 1,
@@ -518,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOHF7LpZqpKR_m2lIKWBVLJZEW01KdZflMF8FZged3F6ApR1JPlStd-HYTRyc9fZlgAZgMqxd__-iC4ukg",
         "userName": "Scott J",
-        "userImage": "https://play-lh.googleusercontent.com/-ibjwJHrUivQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtSMRchcC5LuBJXMfd9lexoOL39w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyRhUjZfbfM6od6NiA8QRYKvZCholJTXuXQVffb=mo",
         "content": "Seems to work well.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -566,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOF8jsDdiwvm9hsCbIL0OwlmqC2TnJRUghBI_QrKdcksw8ry61vCtGI2Gd6my7wRfoc3V4rJCoS5eE9pgg",
         "userName": "Alison Wyse",
-        "userImage": "https://play-lh.googleusercontent.com/-tZcSQTQu0V4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzjOrVhUgq1AXJvhrNCRUJvMDoFg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzCvVUoluheBfeNOsaJst1WN_z7fRsROLWhUljM=mo",
         "content": "Does not work on samsung J mini. Screen keeps going blank and won't connect to camera.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -602,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOFKk5f6GDlNY269hcOCkFMMmB9Xqy9Cle7-EDnEWVLrcIu136df3hKcJHfXotJ0mNjEcSEPbn3l59fMfA",
         "userName": "Ari Kusuma",
-        "userImage": "https://play-lh.googleusercontent.com/-sUyZfoNppeY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmy-IlBZ2kSvaZWilP8dQiLm7HB7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwueO0iKmCHX8CzjguX4nvMriBkm_PaKJGi8XAc=mo",
         "content": "Apps keeps crashing and unable to start. Reinstalling does not work. Web form back up would be useful in case of the apps crashing all the time like this.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -614,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOG2OJMyGj4-8kzc-Ysa3MXoCdSaECczFcyncNAn6dCEhy2i0EGJX5mhD_6OrIstFi85SP0NSQjF_T3G1Q",
         "userName": "Dan Carmody",
-        "userImage": "https://play-lh.googleusercontent.com/-F6fjQa9SBdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmcr3f_vRrKLCn4mNoIyltUy_blJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwaxZ06Zuk9SQ0AfZX5gqh55UeHfQZCTeFHQQAx=mo",
         "content": "Nup, still not working on my Samsung 7.... Crashes when you load it.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -638,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOENYZHeyZ8Ui7yzGBWBzmfiKYHiC9c0d5xKGOp5hgvgOXKbtIxZ6Qlsu__m0R13z4flpcUVlzs7urk0yQ",
         "userName": "Joanna Webb",
-        "userImage": "https://play-lh.googleusercontent.com/-pd9DfOrH3QE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckU1h-2RYu-5xy_AcO3tggSvq1syw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz8fvPgfNMd888KwMHfHO0GzVZ4x2-r74OZ2AVy=mo",
         "content": "Lost this app off my home page - looked at the 'fix failure to load on Android' option but no info given. Okay, now I can't post this at your POST ... Update : found that I had to give stars to be able to post.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -662,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOFLZV6meXV_aoejMtvWAUNR_f442AxLiVrMd-d7uFZv0zdjekUkanwIoxVTi1Blo84ypjCxBqMFTuaEGA",
         "userName": "R Shaw",
-        "userImage": "https://play-lh.googleusercontent.com/-gFlaQbonQUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmRfO9y303LgFtgIv491eUmzPwD1A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyzSrjaA02Az_tns5Gmn8ERxgU5HMv2wx6DHr5C=mo",
         "content": "Up until a few days ago, I would have given this 5 stars but now all I get is a message saying the app keeps stopping. Samsung S7 phone. I have restarted the phone and uninstalled and re-installed the app.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -674,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOFnsni5rIBJg3wfkHeM18rPLVxlNdaHsMbaTlHlegEl5QU9wVHUmT3Vpv7wjsXQ8XrQMj81JjaJ2hXWlw",
         "userName": "Rick Dresser",
-        "userImage": "https://play-lh.googleusercontent.com/-PXmr7wPTs5Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn258fd350YDIqxAAsJNxJl4um5xA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzP16K4WOxZldS0EG6LrrD_bc3KBVaSs_yBaXbt=mo",
         "content": "App worked for one day. Then stopped and has not worked since despite numerous uninstalls and reinstalls. Completely useless",
         "score": 1,
         "thumbsUpCount": 1,
@@ -686,10 +734,10 @@
     {
         "reviewId": "gp:AOqpTOEx_u8oMgqpSg0UFmZlt-2JGvpwUKSaByvXQBkCwMzlhlees677S2qummVS0Zg9_HtcLsMmeIc0nos67g",
         "userName": "Ian McDougall",
-        "userImage": "https://play-lh.googleusercontent.com/-6K9z8EZutww/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclc_44mwR_3L1Oc6JerXb3wjzUxcA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwB4840Tvp0sF9oewfASdsNf21guPU9Quyg7gA=mo",
         "content": "Cannot get the app to work. It installs and then just closes when attempting to use it. PS I have the latest version android so that's not the problem.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.8.1",
         "at": "2021-03-01 02:41:21",
         "replyContent": "Thank you for your feedback. We are aware some users on older versions of android are experiencing issues. We're very sorry for the inconvenience. A fix is now available in version 1.8.2, please update. If you are unable to check-in please advise the venue staff and they can record your details for you using the business profile.",
@@ -710,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOHZw9K0qD-od7RDljemMtc3F-AyZVPN77F7oiXG3qS5Jn5WSdLk8kS3EnxSL6Vsrb98to72pwlndyZJpQ",
         "userName": "Katherine Stanley",
-        "userImage": "https://play-lh.googleusercontent.com/-E8RUwN7I0N8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoPzGwkWftnh-ReuTr_DWyU3-r5w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxgSGVEktxCgMiU2V6W-v4mXA2vM3cf0oLsRAsI=mo",
         "content": "Since last update this app does not work on my phone.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -722,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOH4G68rGKASoszzJMGHVEoNl_y-KQ4ARVa2ICLbMX54ija1zqiu94g4tmfTXEVWa7nqbSSw-Z1cU23RAA",
         "userName": "MJK Oksanen",
-        "userImage": "https://play-lh.googleusercontent.com/-AZsr2S2Stbg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYeu59niANP3CnRbFkwqBkwjt6jg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZ4E3pJ91WlCyLCN-HMydg245v4AilHkwx_oj4=mo",
         "content": "I did an update and now the app won't open. I get a message that the app keeps stopping. It never opens. Worked perfectly before update.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -734,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOGx0rXTdMO2sMuQpSo2yQKhqL5h44dNV-322Iq500waJf5CpajZBkkdGKpY9PU4ntZcxLp0zlvuj_2eEg",
         "userName": "Greg Hollands",
-        "userImage": "https://play-lh.googleusercontent.com/-tlqJQ0AHpto/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7-T2iS4aGNb6DR7B5j5fxG9v7iw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy00b7DIvYaPiIA2COOoMlvmvQZStAyPVqzstov=mo",
         "content": "Has stopped working. Reloading does not help.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -758,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOFA-fe7bcfhq_kIUOpokmHKMuSutmtFVmH06novmdtmzbkRWCobx52dK1qACbOG87aQGl8CauUiQZvGtw",
         "userName": "Christopher Turner",
-        "userImage": "https://play-lh.googleusercontent.com/-ZyCwJPlq6s4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldT8kc4s193UxFKcmZFp1vIJfJzQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmA5iwwS_cNPB8C2Rl218FWVTtHFv0ggzd4Yhh=mo",
         "content": "Randomly decided to stop working.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -770,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOEDV9xH9-btnxSBZDl-_2dCP4b0s9eL9Ke6-uEQfmn4UsM6FyNkarji9EYTH-9EpJq8fV6L96eoyzGJvA",
         "userName": "Piea Reilly",
-        "userImage": "https://play-lh.googleusercontent.com/-l5DBoYDBSqY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3GMQyLe7lIFQUB_yvOrJO4NoVVA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwXTRjpEFpfH509DUD2gZJtvTACpkPqumoWcRU=mo",
         "content": "App has stopped working and won't reload.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -794,7 +842,7 @@
     {
         "reviewId": "gp:AOqpTOHYtlDfYzHGmuy9FdbjznIcV2CylWGqR_fYAkJTyY8yk7IjhPj21GIlHEscaQ_8NptKVQY8j0ktqIv53Q",
         "userName": "Bruce Waugh",
-        "userImage": "https://play-lh.googleusercontent.com/-_AjyXTrvGFc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBNNrmQfjCAedBvYLYBNHgNf1xhg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQ4FvTX-dIG2UuKs77XmRCd75m5lDFW6h2WLo=mo",
         "content": "Since you upgrraded i have not been able to use have deleted and reinstalled no go useless",
         "score": 1,
         "thumbsUpCount": 0,
@@ -818,10 +866,10 @@
     {
         "reviewId": "gp:AOqpTOGnW9hoTrr3t4yYMmPSqFq8at9zx8L-PpmpD9VgMDfPpvBgKrajPQhY7lQ8y7GJYJYsjYLieSHEvvfqWw",
         "userName": "jacinta townsend",
-        "userImage": "https://play-lh.googleusercontent.com/-9rHL8FUbhF4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmi-lzWRTVSqXQ0byMWYeLBPyPaKA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxQTLXe78sVAREUP72xwsNtQv3CMM0qzLq8cnfs=mo",
         "content": "App has stopped working since last update. Crashes on opening. Restarting the phone and reinstalling the app hasn't resolved the issue. Very disappointing for such an important app, especially during the Enlighten Festival when use of the app will be critical.",
         "score": 1,
-        "thumbsUpCount": 27,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "1.8.1",
         "at": "2021-02-28 04:57:32",
         "replyContent": "Thank you for your feedback. We are aware some users on older versions of android are experiencing issues. We're very sorry for the inconvenience. A fix is now available in version 1.8.2, please update. If you are unable to check-in please advise the venue staff and they can record your details for you using the business profile.",
@@ -842,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOHLKqF1p_AgC_8d_xm5PBRVinnQWCFOeHOYfK9fSYxATsW3-JomoeZWXw-6szwX3pwI7ZpDrgH05OFtNA",
         "userName": "Dave White",
-        "userImage": "https://play-lh.googleusercontent.com/-fIw_ALuRRYk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIBpDF2nXmHStMGGMD4m16i-J1jQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwgg_xdoUe41-D0pPfwBXdKciJ91XgxUmL6Xd9x=mo",
         "content": "Crashes on opening following last update. Worked ok before that. Do you not do any testing before rolling out updates?",
         "score": 1,
         "thumbsUpCount": 1,
@@ -866,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOEWUvkm0G-QfkL3SX45Bp4kHS33QZi3mNi6hBW4cGNfnbqBwyYotFiNDZRqgkzlg7wBmbdwVeH-V_ZaxQ",
         "userName": "JAR S",
-        "userImage": "https://play-lh.googleusercontent.com/-iqqrN1PG1fU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclhefohfiaSsLVX2_ZZNCHXUaWxBg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxcIuRAnaw9hLPEQRLjxATiRlieTpuGwsaPJAI3=mo",
         "content": "Great idea and was easy to use BUT doesn't work any more on my Samsung after the upgrade on 25th of Feb. A bug must have been introduced.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -890,7 +938,7 @@
     {
         "reviewId": "gp:AOqpTOEFcgJlZYpPbDVfvQy6ihxtDfYTCGcb_dCWUD5N3DxPRjqETII4gKrDVIPZXw9LFhHBjce1ZysDUqkalA",
         "userName": "Dhana Oakman",
-        "userImage": "https://play-lh.googleusercontent.com/-WNeTqNJpKQ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTaRC6gVJdBgX4gXEAkXhrE0cyJg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwXXkcb5jG6FU988bK6D2Rgzu3IrFVmoPIFxCR4=mo",
         "content": "The app will no longer open since latest update. I'm not sure how I am supposed to check in to places where it is compulsory!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -902,7 +950,7 @@
     {
         "reviewId": "gp:AOqpTOG-O-5PukkAiiGVEgp5q3SyZR5-EVUHBmuY8eBrs96qWA8wgScYr_9J5Sf_CKOvWXhF_0a26C5Zxvi85w",
         "userName": "Louise Slattery",
-        "userImage": "https://play-lh.googleusercontent.com/-fHVdXM2XxUU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGHSDS8S8vBcHXblTgjkm1vRXgDQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxaiTrpePxq-kjVO3efg8SgEMOBq478LtIS4CX3=mo",
         "content": "It won't download!! I started to install, but it was taking too long, so I went to bed. In the morning it was still trying to download",
         "score": 1,
         "thumbsUpCount": 0,
@@ -914,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOHb84ukaMmdsPCbBIrAElTLOFhDu4ZUN4hwgbABXOeEIOeRuVHj63lWh19KwfpLv_aSAuzacOqv0niJBg",
         "userName": "Gray Jay",
-        "userImage": "https://play-lh.googleusercontent.com/-aBut92PNO-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucny6y4uEa6gat1GWjU3oV7vUXNDaA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJweua8quoYUaP-fmEVlKtKc8ZqsVXvyVBUdheBQ=mo",
         "content": "Crashes every time I try to open it \ud83d\ude21",
         "score": 1,
         "thumbsUpCount": 0,
@@ -938,7 +986,7 @@
     {
         "reviewId": "gp:AOqpTOE4HMfvLzf_4CuwOp72s8BCYpGTAfnic1eh7qTfvG_NrBmlU20RQYGEzZA_SJy-WfuNGIVXbMWsfrVZnw",
         "userName": "Peter Bailey",
-        "userImage": "https://play-lh.googleusercontent.com/-a7XFjAWaFo4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclS4ZKsN3TDQWOLuwz-9MFYSv1Bnw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwJVcXp2TkFbvTEGonwAHWJ_H_OxlF3DhRzDp68=mo",
         "content": "Can't open it hence unable to even process manually.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -962,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOGXyEXsL45SjMKuw3rHCVMMDoSHo6IRYUtq-TcspvrP5-vZCRz7FufzjzroBWWdh4eUC_P_IOirQQsmsQ",
         "userName": "Matthew Grant",
-        "userImage": "https://play-lh.googleusercontent.com/-6aHeqaQor8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXKoyfA3_NkT4GStUwYyf7NEuMKg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzj3dCLQAJXk9sO2ClLN7UeosAM2hmLsrmww7ws=mo",
         "content": "Can't get this version to launch",
         "score": 1,
         "thumbsUpCount": 0,
@@ -974,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOFuWPhpgNg5gmKBCr93Ev83w5EzKyE5IfnadDmZ019_Po_txvsW1hOoT0p35elXgwHtHYikY60sc3eoeQ",
         "userName": "Ken Dean",
-        "userImage": "https://play-lh.googleusercontent.com/-8CAsoNwnaeE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYqp9P5zns7uUWcHJYR8Tp7SUI8Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzX71MBUQF9SyMUgOXAfSFDyxw_QQqEY4T1vUas=mo",
         "content": "It was ok but since the bug fix and update it is useless.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -986,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOGnO8AiHprKHgdUh59Coz8_mumhp155xs3g-BrIGqMkn64J9a9L6wmgOfA9wh_52wbqASGmzzu2_ZAd4w",
         "userName": "Pat Dickson",
-        "userImage": "https://play-lh.googleusercontent.com/-80BUnnGoP2Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_x1ctS3TAkNs0ksWPqVFYJvKEvw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyJQQo4IVKYvd8Y11tvWrCycVB9b6SJ7SlkHhd6=mo",
         "content": "Since the update the other day I've been getting the following message. \"Unfortunately the Check in CBR has stopped\". Have reported it and have no idea how to sort it out.",
         "score": 1,
         "thumbsUpCount": 8,
@@ -1010,7 +1058,7 @@
     {
         "reviewId": "gp:AOqpTOG8_CVA1RLPzDuCpzEeTpkmASPal-11U2IZKGVNdKLXffh-sC6TeoM3XZdHUO-k9oNsIyfigK3GuA4C1Q",
         "userName": "Martin Kenseley",
-        "userImage": "https://play-lh.googleusercontent.com/-i4DWOFLYn14/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFkJihh5sVkvmqevdfM0pYlBurvg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzIXUXTTtGv31HAoo7JjDkULCa9MWETo-vdaL3I=mo",
         "content": "Latest update refuses to work on S7. Stops on opening. If you are going to update the app test it before release.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1022,7 +1070,7 @@
     {
         "reviewId": "gp:AOqpTOFPC8DSqRart2fAtGBDdqFSpEzEFTyb_KFySF8J5SCBemBlCFShFYFPRveVWiVTsgBU0RynmrfR1nOMQA",
         "userName": "Brett Robertson",
-        "userImage": "https://play-lh.googleusercontent.com/-aF5HXhunLpk/AAAAAAAAAAI/AAAAAAAAIFM/AMZuucnwFGwtJeKO9XwPzPoN9YzHw7bysg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzXr7C9jOMqXz3L9l8Z52Xvp7ruDUwsKYi7sDzjZQ=mo",
         "content": "for an app that is compulsory it makes it's difficult when it crashes after install.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1070,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOHaq1VLtZa5O57cnNiEnGUdf_PUoLq3cSFI0uPKupOrFgyrllhtq0bRAZd3CVQZnjGo7mOyN6OAN7u5Ew",
         "userName": "Peter Henss",
-        "userImage": "https://play-lh.googleusercontent.com/-wMSpbzNHsT8/AAAAAAAAAAI/AAAAAAAAAIs/AMZuucntWbbQtmEttIPoNAsUrbNdt-GqVA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwiWXBH4c2j2ywPCqrlj3mcgxBTxBKddHtXMlkUfw=mo",
         "content": "Wont open. Kept crashing. Uninstalled. Triedvto reinstall. Stuck on 45%",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1106,7 +1154,7 @@
     {
         "reviewId": "gp:AOqpTOF5VXPdXfoD-mxhYrivCcch5LOBB_ftlhvJJs-lc6mQ7ZXVC2JR3iPD4ogbSIW1YoXBLe1mEAm5j2m9Zg",
         "userName": "Christopher Hood",
-        "userImage": "https://play-lh.googleusercontent.com/-gQCq5zoT5C4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU4KTnSNw0ZzJ-0GiQPfl4QegJ9Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwwX5k43C-NaOc6h45pNqPE-99E83yyCESmsVAX=mo",
         "content": "No longer functions at all since update to most recent version - stops on opening. Has always lacked a check out function and a manual time correction. Mandatory use in ACT has eliminated paper and manual records so making app workable is critical.",
         "score": 1,
         "thumbsUpCount": 36,
@@ -1118,7 +1166,7 @@
     {
         "reviewId": "gp:AOqpTOFLkWu9DHV874p4ZYrDUcP6R-nQ4IQVbdcBClNAxnHMWbo3m9iFQ2TNNbYtA4Nw6PxB5b1JgBKRRogzTw",
         "userName": "Jason Page",
-        "userImage": "https://play-lh.googleusercontent.com/-rsgUZ1KmB5A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckej1MHG2KS5XhYSzpDWzt4tCHB0Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxxloFp9q1E9oaL3MN8gdaHd1kbjf97pTvKJJk=mo",
         "content": "Once loaded this app is easy to use, so much easier than NSW or Vic!",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1142,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOFzc8CWeg2dxCvZVxY0vBzNw0-PnqKTWHoEZOqAumjDN7-edbL7mnTHfaH8IidrqmjlLe3behMubNMxrw",
         "userName": "Mark Johnston",
-        "userImage": "https://play-lh.googleusercontent.com/-98UcJsvU7_8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgKviBcsXiYYvFTolSaXFDtbP9Sg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz_W42TJRUVOGl-BAkiTQ15QyN3rLZ4a6aN8eZW=mo",
         "content": "I feel this app is important but 40-50% of the time it does not work. When reading a QR code it oftrn Identifies a previous venue or no venue at all - did not even give me option of emtering the code manually. Then today it would not let me check in at all. I had to reinstall which lost all my history and frequent guest data. Surely the ACT Govt can do better on such an important app!",
         "score": 1,
         "thumbsUpCount": 11,
@@ -1154,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOHzCQWV7SDnvrjYgZj13W1ohPybuBLUnE_EEIemo_eNXIODPc93PrT3UftJ6yOFM_9CAChC20ExRVoqxQ",
         "userName": "Scott Kelly",
-        "userImage": "https://play-lh.googleusercontent.com/-BuvWklnc5Bk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0sLxqsO3wLHaXpxE7xT6eyqo5PQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx-x3sIfQ3T2Q5gv99yvBAUhckef6uRRfkqhUPa=mo",
         "content": ". , zebra V te zbb3f",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1166,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOEmI-0MUxg5b6WiJWTpWwEJ7C_1La2KKOsK_zqlCUQGvN6SdwvfvJYNl6g61PXFxUZvimE-hB7znYesgQ",
         "userName": "Deborah Lennox",
-        "userImage": "https://play-lh.googleusercontent.com/-unzJX4N9aVE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmm_VNgqiZbjAoWCMHZNoO-Vv1WlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyMshj8vcrsKBtE6vjnHEJotSP_fiY28EG0f9pj=mo",
         "content": "Asked me for my credit card why?. Why is not the new south Wales app ok to use.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1178,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOEFb6IDdxg14whjITlEJt9iU9Fg9aXJ-clLsW3fYq_IWndoZNU9L2KFsFXp9IefsfrteEwNi3U5BA4-oA",
         "userName": "Andrew Oliver",
-        "userImage": "https://play-lh.googleusercontent.com/-46Lyabk_CYY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7KZBaxodL1X9piZgpGJ7p1t8vTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJynK4XV9rDoXVeOr4HRHYyxHxP8-U1TVopafpun=mo",
         "content": "Slow to load, my history has no check ins, so does it even work? Isn't it supposed to keep a record of where I have checked in?",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1190,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOG_BW9AE488qNGXDxUtdDqJGrMgJONGX05y0ArV5qLxRaUzBxeDoqOQSbug9cTZUQ6hfOBmpAmVchX0Zg",
         "userName": "Lisbeth Stewart",
-        "userImage": "https://play-lh.googleusercontent.com/-ZIdliTaWGe4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGoip8cQffduS5uR0gA2ofkLUN1A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzRKdyeelzdGf2BlbKhmHQdpHCrCdz1RjOVffWj=mo",
         "content": "Easy to use.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1202,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOE44D2oG3w-zd_RL_hRNieR9eBiZkqCmsMGghuP_OBuhbLI03704RyU6tdRzf0eBGSofPaQ2nbdiCUivQ",
         "userName": "Alexander Webb",
-        "userImage": "https://play-lh.googleusercontent.com/-i9Smp7vgDTU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucluLCAOoxI4dAPh9azp9qzkF14PGA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwXFPIfvrWTn2v3SG-zdvzQmnon2_iuIbxKj3Jz=mo",
         "content": "For some reason this app has been made mandatory despite there not being a case in the ACT for months. Personally, I don't like Andrew Barr knowing everywhere I'm going. Massive encroachment on our freedoms. I worry it will be a long time before use of this app is made voluntary again. Even after the vaccine and there's been no covid for years they'll find an excuse to keep using it...",
         "score": 1,
         "thumbsUpCount": 7,
@@ -1214,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOFWvmg0Ja3iX9CFK20FiJMrLFsNxVKuDOVixEJhglGGQN4N8K9Yt31yKoWld0NwrUyk_YHbgKFjo3DCew",
         "userName": "Helen Crowe",
-        "userImage": "https://play-lh.googleusercontent.com/-A9_WI-Yde8U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUQSe6J8FxJh7WEouVpQAzWP8Fjg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxJW3xn3BLV8_odWb_EezKq0WYf4z4GXRHJpRNd=mo",
         "content": "Waste of time. Tried to scan QR code and couldn't because it wanted me to re-input my personal details. Who has time to stand and do that a second time when others are waiting to check in? App uninstalled.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1226,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOFIaB0Fb1H1LQfNqhdo5jPpeLrUrXSsg6ml7RG5783l0BLBqkoeQm3MF2vK1rf7tFQUa8RcQqpyl_lGCQ",
         "userName": "Philip Lo",
-        "userImage": "https://play-lh.googleusercontent.com/-1geTHq5OsnA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnIhHgRSY1WobdRnmJr22c4pxFL5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxJ-Sc1me0v_bQpfLIdcZLpErZN5Uszrd5Cjn2H=mo",
         "content": "Very poor design - does not have a check out function. No way to tell how long person has been in the venue.\ud83d\udc4e",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1238,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOH277_YawR3F-wlT2MrD-TPSliWEqKhPqaKcod1gOaxuGkB2rViyQNxRIP34uIPMeMc37xWwonXUR3hZg",
         "userName": "Wendy Mumford",
-        "userImage": "https://play-lh.googleusercontent.com/-hHBLcuNtjN8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEybgkWgmTe9KGUQm52ay6Pv8RXA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwRrcNCOYSs7XKPBGresoiYoYPqiN3uBRlqEGKu=mo",
         "content": "Was easy to install particularly for a tech challenged person. Only issue is that does not allow me to check out unlike the nsw app",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1250,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOF6Yp3I7Ez_jCN48ECQLwN6DH7UIdJNaXSrs-MkwvI8H78CFoc0Zyu3oscGxxvd86xPBY_z8xpqRcQbqg",
         "userName": "BenandVon Richards",
-        "userImage": "https://play-lh.googleusercontent.com/-toY4zC0V_Us/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBEKUMyh2gUGNfyH0kKWo3hFZJVQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzNFBknYQYqMpcOjp8QCsmC2atW_m9aI6cGSSWd=mo",
         "content": "ACT Health, why do you check in but not check out, like the NSW app? If something does happen you have no idea if a person spent 10 mins or 2 hrs at a place. To stop people forgetting to log out, how bout a popup asking if you are still there 2-3 hrs after checking in if not already logged out?",
         "score": 2,
         "thumbsUpCount": 15,
@@ -1274,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOFUUrIUbwXk042o7S0LVMGuXWDjSo5jvYz7QN1l8uQXZXSglwq8OjlhN8FQt8FPLZEEh7Dw1ddgIJt82Q",
         "userName": "Sue Ward",
-        "userImage": "https://play-lh.googleusercontent.com/-gLit7Co6MCk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl92vNTSTCmIny9Y_g8Z4kXByRxew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjoCLuAAvcaFpgSJ8o1dXltBq7eAMCY1CubeWv=mo",
         "content": "App wont open camera.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1286,7 +1334,7 @@
     {
         "reviewId": "gp:AOqpTOGuY1j8tqWeTib12KUNkf8Cl0A1ZlQa7Cl08ykqV693-kNreto09Xrxz2q7wTi1mqMiTmspXDji_uAWLA",
         "userName": "Tina Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/-YwjtqXbVHqI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxIuyUwfqFghEsfmD2cfXmSeErog/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwHPPZi70ebCOUddOCtCy90wjrgRgat9DHkadG1=mo",
         "content": "It works for scanning the QR code. But I can offarhim why do I have to reenter all my personal details everytime I use the app for myself on my phone. The nswservices app handles this very well. Please start considering the user when you write mobile apps. Many miss some simple things that would make many people's lives better. I hatdusing this app.",
         "score": 3,
         "thumbsUpCount": 13,
@@ -1310,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOFTPXfdDmbzT6-acg4J5jkrh9kcEx5ljSWxjTK96V95zZSCG_K57sxEDwdTodlopY06PsWYSb7bo3Yc9Q",
         "userName": "Monicah Muia",
-        "userImage": "https://play-lh.googleusercontent.com/-yBqF-5IU6GQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVA8NdMVBKKsaOT8uKzP-G8XFagQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwRXHnrg6rlaUThv6EoeJNISaRpsmobBmUpyVQV=mo",
         "content": "Which Code?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1322,7 +1370,7 @@
     {
         "reviewId": "gp:AOqpTOETmcj7QALTBOTB4GZ-gBOz8Xfxg0W1ghAXwK7mfFyL3dmsvkiZYKF3_mlKKmyt5GlLni56gOpG5h927w",
         "userName": "Paul White",
-        "userImage": "https://play-lh.googleusercontent.com/-dTNy6aeVSXo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnK5HsBAgDY4DbYbODmeerhRDvNmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTwZZUmHiwX-uONwsfqmXVRq4vIjI2OiYNvIhr=mo",
         "content": "Will not open. Thank God for the old pen",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1334,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOGdSg2RZ1plm1uBvn1e2bjCzXiGI_BXBdPXmQWE1Bm_9ljDvCeT6mUds8fBy5LHvqF2hxmFyrftUoMPcQ",
         "userName": "Barbra Cox",
-        "userImage": "https://play-lh.googleusercontent.com/-3JeVsLOs7yI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktg8WPS6q6h5HPnAkSFehJbIKsTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDVgvOJcc3na7AALmCQnLaCBhvPU5DOC8eg9g4=mo",
         "content": "Not easy to use how in the world do you check out",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1370,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOF5VLjYUrZQgYRQzqcMAhIiujO5bwHmfY6EGY1PmTMsXwnGLGGlbuL9Rjbp-tHke4RbqwQtP1DPcLmt1g",
         "userName": "Gazza",
-        "userImage": "https://play-lh.googleusercontent.com/-Kkr13-6nxj8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLwD-1nZPT9Ge3wro-S8RKcvMGUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzXzA_gVZ0rozlbRWDN6ZhdklTo0HaabKNEl8Lb=mo",
         "content": "In a word \"FRUSTRATING\" one minute it works. The next nothing. Tried reinstall and it just sits there \"pending \" for the last hour and nothing. NOT USER FRIENDLY typical geek app and NO support.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -1382,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOFWG6Ig9WId8ulG8JPMRAhcBdudhlqy0avtiTkSsxKhKzxfkucFuemX40gslINrv4sv6TW48IP_Kik-cw",
         "userName": "Gerry Doherty",
-        "userImage": "https://play-lh.googleusercontent.com/-OguaK3JhTqk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckf_lZp7PHCm2qEyW1FqyXbbhpaIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyMWtJG2w4qnm3ooG531ScRjWLATilPImgr_QTQ=mo",
         "content": "Great idea. Could open app but nothing else, no registration, no login, app unresponsive. Sad face.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1430,7 +1478,7 @@
     {
         "reviewId": "gp:AOqpTOEinNN7es3TygEg-BSWLE3Qrrudlg_6f50xInM7Tqqk0bRrDDuxxpa6TmDTSphmkcy9Ucp-u_-ytBfRhA",
         "userName": "Michael Kefford",
-        "userImage": "https://play-lh.googleusercontent.com/-oGrl1hZCBYg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSAje-AJn1C2ujoQ3oife09AWSyA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwpQ64O0y_EBaQeqr4MWDx6JYDslZKGHY4LQJ8Q=mo",
         "content": "Total waste, every other state uses an internet portal rather than wasting money on a useless app",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1478,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOEJU3ir_XIeOhZF9LUa3uQw9y8i6rTROFeBTgObLBzyrWuJ1euOz_btep54DuiFEclZB-9273-ezyiMAQ",
         "userName": "Silfr Valkyrja",
-        "userImage": "https://play-lh.googleusercontent.com/-1Ve0XT8llrU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjDcbNsMoDlIFVZiAzHwB9CTtLfA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz7kkIbZFi8C9AX4zhiJS2fmXXwVgWhav7l0VGx=mo",
         "content": "I was forced to get this app that collects information on you for the gov. F'ing Nanny State.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1502,7 +1550,7 @@
     {
         "reviewId": "gp:AOqpTOErEprNrdcMDkZu3UPstSvmNB6sY_iUvnjv0imbKPCe4-O0zhUU6CQUcUZmFvFjXSgCyNfoK-nWAugIUw",
         "userName": "A C",
-        "userImage": "https://play-lh.googleusercontent.com/-cShnbx83Iw0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmN3xT26APWGRtpGR5IPZ7KeR-hWA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyPggO20NsLc5SpNPBKJ0Ifl0cdM0I22f1Lalvu=mo",
         "content": "Useless did not download in openable format with screen icon and no clear instructions how to do this",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1538,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOHX0UZO33_tGpZ2MRkTtP2Tcx1bO2jGPWjA9McF1ZDYqFjzKhPnqkVWe6kLR9Yrn8aQcF-F9rINxtFweg",
         "userName": "Chris 1985",
-        "userImage": "https://play-lh.googleusercontent.com/-r3VVnL6WvWQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckA-9FZ8dFVhzU_pp9_ljpMzfNbNQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwIW0LTILObRLJYZGHzwhW38bEv4C1S3i6GgIRN=mo",
         "content": "Cool app! I prefer this much more than writing my name down with a pen 50 other people have used that day. Great to see more places in Canberra are using it too.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -1550,7 +1598,7 @@
     {
         "reviewId": "gp:AOqpTOFOXRCmDKNpxl0uocHhCR_axNL5ovpG6KKX1_KvEwr7reiBrH3cakqYVR0F63FSHwFvwwd7ecBDWRbizg",
         "userName": "Joe Hayes",
-        "userImage": "https://play-lh.googleusercontent.com/-LqNAXdfUHS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_Ui3H0DnSYGdukOuoT49yXPy_og/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWCwEoVr6qcGeLepLlMK-O_qvKoBWSwWpaqjsP=mo",
         "content": "Takes to long to download",
         "score": 2,
         "thumbsUpCount": 2,
@@ -1574,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOE4AbWvJSuI57MJuRusMg9Fwc_fmn1L5iDkNHRD9RGU2i-_StPT1E4-3fWipFvF7KQr7e3mY-XeK8Y97g",
         "userName": "Marcel Kueter",
-        "userImage": "https://play-lh.googleusercontent.com/-YllA8llmWwA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8X8F1el_EBnOuM8ncDhGJ714Akg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdfUPb2FXl0NVCW5fhhGqqi95XuB4S6JjQ8-P5=mo",
         "content": "It won't work never get number",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1610,7 +1658,7 @@
     {
         "reviewId": "gp:AOqpTOFuWKHtr7qCZPAEB_Zo0EPVyVL_auHyQ58IROXVsvqaS_TLU5SWDwt9kkJmu35apavNiJ8C7N8OKGvA_A",
         "userName": "R Ja",
-        "userImage": "https://play-lh.googleusercontent.com/-65SQrQEUSXY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3LsInrI9s03BVAAk9CsazPVVgCA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSih0E5R_RS7QwSuK5i1jErdUqKYnuWGwYl6B5=mo",
         "content": "Didn't recognise QR codes at a pub and at the Australian National Museum. Strange as other QR code reader redirected me to this Canberra Check in app anyway. Android / Oppo",
         "score": 1,
         "thumbsUpCount": 6,
@@ -1646,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOE4ass1_1Vpl-sXTXecKztulqaBCCVH6xcbQhY9zt7NTHSLs_T7RAm8D4EjO0mdJ7u4DarRS78H8uux0w",
         "userName": "Ken Thomas",
-        "userImage": "https://play-lh.googleusercontent.com/-yVvCenfd_LA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckM26RJMCfaryclyCM6B_6SAVzAkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJySWC3SGIRuEmdD3YbVlCF1mDW6_jiexFv_Gug4=mo",
         "content": "App fails to install, despite several attempts...says it is installed but goes back tp wil instal shortly.....",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1670,7 +1718,7 @@
     {
         "reviewId": "gp:AOqpTOEiPryqjctcxCHTLm-LbCOvTRQ2ZB_l0fRZmTw9kFF_NtxS5ZGQGjMwEz4r2wIQTr_0O_fxJ0p5-03d4w",
         "userName": "Noel Mc Laughlin",
-        "userImage": "https://play-lh.googleusercontent.com/-qwBkaLcWbR4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4mI3cuWiUNo5fgDZtn9RpCvnQiA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJygnJKQvVo_OQf_MKVDbMaH4d-YMTvZn2whWdSB=mo",
         "content": "Complete failure. Says enter code but no indication of where to get code.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1682,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOGA0hYk95MPvebUyXNX_wtz0QVq-vOMymV_orlM2Ya4qKxet1oAoxlEamQXcDyLLk5kJ8kn32dURXQAGQ",
         "userName": "Randy Goldberg",
-        "userImage": "https://play-lh.googleusercontent.com/-sIfXSB4FJIg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckR3ejcB4FQqEAXe2q5RBNc61S5GA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyNWW8XXGncQDc1gTvtdL01vwflVa0ldkEINhrv=mo",
         "content": "Now that you remember frequent guests (eg, my husband) it takes under 5 seconds to check in. Great job.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1694,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOHGLNtHDiAdXa2CYUMzKU0dp1wIBplKDT889U052n9ZsOHeRxJU33Kh0iphSyTy7Seg1NiP6EFc9qEPuA",
         "userName": "Michelle Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-1PjGIelpHgw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzJ24dQuz6926bJg3TrMVt6yP55g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwS7k4AqN4NqyCaPBZqm0qW3J8YOKZgNVgB_hnv=mo",
         "content": "This app does not work. I've tried at 3 different locations and it has not worked once. Scanning a QR code and entering details manually was far easier. So now have to use written sign in if available or not bother signing in (playgrounds)",
         "score": 1,
         "thumbsUpCount": 22,
@@ -1706,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOHhVlOEN40v9HLDfst_V-ShKI3zWE4gjDZnQ1E1afqAzR6S7LWqEgw6UxKff5QCgTQda9tG-R73z5bMvg",
         "userName": "Chris Cole",
-        "userImage": "https://play-lh.googleusercontent.com/-aFJ8GroCHrg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9YDY1wJ17GH1UTykJUR-rvuvLmg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyQSUN0jVDjmBqEAygPdPn86Cz4JqPWs1aAPqYA=mo",
         "content": "Poorly implemented solution. Clunky / inconvenient to use. Uninstalled it immediately after using it for the first time.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1718,7 +1766,7 @@
     {
         "reviewId": "gp:AOqpTOGNJMsSQE99NvWPZDk_OCivDxv05TQ75ySn9i6y2GVTy_LBPt0jOv5xXFzgT2raCXPEz8rEvTGb5x5Axg",
         "userName": "Terri Francis",
-        "userImage": "https://play-lh.googleusercontent.com/-5AcU0zRnpV0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnR60ODzqS5JQ1T8H-sN95ZtNonHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzhJjAIXpIjWIaqbaqs-6_JfpcrOEUbyrktHvSL=mo",
         "content": "Have tried to scan a couple of times and it hasn't worked. Uninstalled and reinstalled. See how it works then.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1742,7 +1790,7 @@
     {
         "reviewId": "gp:AOqpTOFuo_hQWkHC5NZXGXdCK4HbFbvtv4N9za59uuFGnpIG2w6mfhFcNp2U_JwTJ7RVd7KJqbaK5A4g-xgIzQ",
         "userName": "Nope Nope",
-        "userImage": "https://play-lh.googleusercontent.com/-X1QRYH5L2rw/AAAAAAAAAAI/AAAAAAAALtw/AMZuucllWw4gDh882elpsqDn0YLspfdKug/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzCFse-iRVquw3hELwoWs8z4LUIxV6_jCdZ9T_y5Q=mo",
         "content": "Good job Canberra! This is more in line with the privacy requirements than signing a sheet of paper.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1754,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOG5-ClmGxDwi1662zJ6pDy-qBULja9Nqusf09apka9ddhM9zDOCwO4tCHxBvAEqKg8HpoWBWEYuHR4pTw",
         "userName": "Paul D'Monte",
-        "userImage": "https://play-lh.googleusercontent.com/-bldjBFpHbMg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmy-oDOf0vdCjeCeHCqZVS4HVtxtA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz8qGY_vNjDAD1h8q6bC9SoEPcrygPmnhswnIQ3=mo",
         "content": "Works for some places, not others, it just says enter manually code",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1778,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOGXjPDP8dHdIRgZuBhnilWvwgebtvayEcKZHxe4XmS3L2rqljZrSgadyeMXuHAJ6-hNvYKiMrjet-mW3A",
         "userName": "Andre Swenson",
-        "userImage": "https://play-lh.googleusercontent.com/-Mx9vTIEtqC0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldxl24dT7wuG8wOlLIr6mJLBIBpA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzv6wnnFJXvW7b9aArAbWaEHowM7u0vNPSgLNA0=mo",
         "content": "Didn't download while I was at the venue. Now I don't have the QR code so cannot check in. What's wrong with QR link to a webpage? That works well. This app just adds failure.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1826,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOHCylIShUBobfNogAyu-m4f5Tw21I_plTmXcsCsG5LlUZvzkLjXP1BW-P8NJFX86uTwSmQl7OUB3gcWOw",
         "userName": "Dave Ginsyl",
-        "userImage": "https://play-lh.googleusercontent.com/-7bSf2JShrm0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbcS5OKB1fRvL_Eo03FdChV0btpQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz9Eysgm6Lym3zWvMa2LGcVSuZWRKHyw_mpU8cu=mo",
         "content": "Samsung GS7 will not scan QR code. App has camera permission enabled. Phone will scan QR codes, but not in this app. Fixed! Thanks! App now returns \"Not a check in CBR code\" on invalid QR scans",
         "score": 4,
         "thumbsUpCount": 2,
@@ -1838,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOFrlyzXzNwCBBJLvwUdgqxAKnsAFZV7Kr99_BzgYAW1ApNGNN569-Qj9_xNQtOV64sV93Jj5e26BzDItQ",
         "userName": "David Plunkett",
-        "userImage": "https://play-lh.googleusercontent.com/-lLcaSwmlC1Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclAYXRZ_MTezP_yEvcDMHPlRFucJQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz8fKdByiTIdyhZNnt--kgQ5RYXrj0YOdAQ4idf=mo",
         "content": "Poor. Three venues in a row where the QR code isn't recognised.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1862,10 +1910,10 @@
     {
         "reviewId": "gp:AOqpTOGp2cChaTzTS7Z3sEWKlVJwuavEMPXiJBAAlznZaGnPE7r5-UrajzqcCineAC0ctGbMfP5NzpXH7iATZQ",
         "userName": "Steve Jones",
-        "userImage": "https://play-lh.googleusercontent.com/-4Na4Mms5Bm4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmO7C6f2gXC7PNMn6kH9PRkpMKL-w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwyZAbCVOhSbxyeGI3FApdAtlOQLucZm0KeRawF=mo",
         "content": "Quick and easy to use, really good!",
         "score": 5,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": null,
         "at": "2020-09-27 10:53:21",
         "replyContent": "Thanks for your feedback.",
@@ -1886,7 +1934,7 @@
     {
         "reviewId": "gp:AOqpTOGHA8KDILILzB240XjhqsX4swKkFIXOENf58SSQGW2dYjZkI4teZnb0IZSgyNxW9Gsl_Bpo8xxBeTXdaA",
         "userName": "Ben Earl",
-        "userImage": "https://play-lh.googleusercontent.com/-fEk-GSi3U04/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6_dfyBV_Fk8-UTKPUmLEqkqyexg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw_Wtehworcrrg2sK68jJyeFal7WygjtwSZUxk=mo",
         "content": "Scanning opens a link asking you to install the app - even if you have it. A couple more clicks to open the app and click 'Check In', and you'll need to go back to the front door and scan the QR code again from within the app. Unlike other quick and easy QR check ins, scanning the code from your camera will NOT simply open the app/site AND recognise the venue you're trying to check into. You have to realise the venue is using THIS app, open the app, then scan; OR scan, fiddle and scan again.",
         "score": 1,
         "thumbsUpCount": 18,
@@ -1922,7 +1970,7 @@
     {
         "reviewId": "gp:AOqpTOFFyurgiePCuuEv9hj8unChYRO68pbs6552tmMuCgSvfWTUTYTPWmm2xlLpoN2Dy7j1ZwtmiUvvdfLtGw",
         "userName": "Ash Chaya",
-        "userImage": "https://play-lh.googleusercontent.com/-V7KSMTrY6jY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7iga5jRoQTTPK62CryyuTXFJwQg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6xXAWj3bFt28RIxGtOi10XUAYZxzO9R9Pnxuf=mo",
         "content": "Very easy to use and intuitive. Looks clean and professional too.",
         "score": 5,
         "thumbsUpCount": 7,

@@ -140,6 +140,10 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Funciona perfectamente con todos los accesos a tu historial, pedir citas, vacunaciones, enfermería, ect.. muy completa. Para acceder a todo hay que tener Certificado Digital.<br> :date: __2021-04-28 12:01:04__
+
+> Buena<br> :date: __2021-04-27 17:29:42__
+
 > Me ha funcionado perfectamente<br> :date: __2021-04-09 15:55:01__
 
 > Buena<br> :date: __2021-03-29 07:07:30__
@@ -155,10 +159,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > No me deja registrarme con cl@ve. No me redirige al navegador.<br> :date: __2021-02-23 11:31:35__
 
 > Esta bien funciona<br> :date: __2020-12-03 11:13:29__
-
-> Funciona bien<br> :date: __2020-11-21 00:04:00__
-
-> En menos de un minuto das de alta el teléfono y ya se activan las notificaciones en la app. Funciona normal, no da fallo.<br> :date: __2020-10-29 10:15:15__
 
 
 
@@ -179,6 +179,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 3 reviews"/>
 </p>
+
+> Cuesta coger cita<br> :date: __2021-04-22 19:12:36__
 
 > Poned modo oscuro y subiré las estrellas<br> :date: __2020-06-19 10:17:54__
 
@@ -208,24 +210,24 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> Operatividad nula, ni con cl@ve, ni con tarjeta sanitaria. La he desinstalado.<br> :date: __2021-04-16 15:23:59__
+> Con tantas medidas de seguridad que pide, al final te da error para todo. Por lo tanto sirve para poco. Seguro seguro que nadie con tantas trabas la va a utilizar. Da error continuamente. Imposible descargar certificado vacunacion. Si no sirve quitenla.<br> :date: __2021-04-28 15:30:14__
 
-> No permite entrar a tus datos y poder verificar o corregirlos<br> :date: __2021-04-14 13:48:39__
+> Absolutamente inservible. No comprendo que haya varios que ponen 5 estrellas y después agreguen que no funciona nada. Buena parte de las app institucionales son un petardo, porque prima el parentesco político de los desarrolladores, sobre su preparación y así es imposible.<br> :date: __2021-04-28 15:11:04__
 
-> No me deja terminar, mis datos para la posible vacuna anticovid<br> :date: __2021-04-12 19:54:13__
+> Imposible descargar certificado. Se cierra aplicación al meter los datos y hay que empezar de nuevo. No funciona.<br> :date: __2021-04-28 11:23:01__
 
-> Al intentar obtener el certificado de vacunacion por datos personales, me pone que ha habido un error, inténtalo mas tarde. no me deja desde otros dispositivos, no envia el codigo de verificación. Que puedo hacer?<br> :date: __2021-04-11 12:31:33__
+> Lo quise comprobar en persona. Ni cinco minutos la dejo instalada. Remite a la web. Para que vale?? ¿Los desarrolladores es que no leen los comentarios para buscar una mejora?<br> :date: __2021-04-26 01:04:59__
 
-> No s puede abrir con datos personales. IMPOSIBLE<br> :date: __2021-04-08 17:18:27__
+> Nefasta app. Pongo todos mis datos y me dicen que no son correctos.<br> :date: __2021-04-24 18:32:03__
 
-> Quiero mi certificado de vacunación Covid-19 y no me deja acceder, porque la fecha de nacimiento es inválida... Mi fecha de nacimiento inválida???? Increíble, vamos... A ver cuándo ponen la opción de 0 estrellas para puntuar. Tampoco esperaba mucho de una app de este tipo...., con 2.8 de puntuación...<br> :date: __2021-04-07 08:25:41__
+> Una aplicación que parecía decente sin que tenga un diseño tercer mundista, y fallan en el registro, no puedes registrarte con datos personales porque no te permite poner los digitos de control... Y el sistema Cl@ve tampoco funciona, porque necesita uno presencial. A ver si lo resolveis...<br> :date: __2021-04-23 16:56:10__
 
-> Una farsa la aapp<br> :date: __2021-04-03 21:07:00__
+> Imposible dar de alta a los datos personales. Según la app todos los datos son erróneos. No sirve para nada.<br> :date: __2021-04-23 15:59:03__
 
-> Ya había leído que no servía, pero no he podido ni activarla de ninguna manera.<br> :date: __2021-04-03 16:28:06__
+> Fatal<br> :date: __2021-04-23 14:22:29__
 
-> Inútil total, sólo se puede acceder a través de la cl@ve digital y esta debe de ser registrada presencial. Yo con 80 años y varias operaciones no me puedo desplazar. Debido a la pandemia nadie te atiende. Para que tanta seguridad solo para pedir cita médica. ABSURDO<br> :date: __2021-03-15 09:42:41__
+> La app no es más que una serie de accesos directos a la web. Tras identificarte en la app debes volver a identificarte a cada una de las webs a las que te dirige. Para esto me guardo las webs en mis favoritos y le ahorro una app al teléfono.<br> :date: __2021-04-22 13:42:34__
 
-> Le doy una estrella porque no se puede poner menos. Me hace cambiar mi contraseña CL@VE y después no me deja acceder porque da error. Sale el mensaje de que mi clave no es correcta. Es pésima.<br> :date: __2021-03-14 22:45:45__
+> No carga nada<br> :date: __2021-04-18 16:36:12__
 
 

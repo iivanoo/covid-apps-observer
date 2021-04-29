@@ -196,6 +196,10 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.nalc.android.hbp.telehealth 5 reviews"/>
 </p>
 
+> Fantastic. Just like being at the doctors office<br> :date: __2021-04-23 19:13:43__
+
+> Very professional a great experience i would use again<br> :date: __2021-04-19 18:54:58__
+
 > Quick and easy<br> :date: __2021-03-25 14:20:36__
 
 > Excellent, easy to use<br> :date: __2021-02-27 16:09:14__
@@ -211,10 +215,6 @@ The NALCHBP Telehealth app has been installed by more than **1000** times. At th
 > Phenomenal!!!<br> :date: __2021-01-20 23:56:24__
 
 > So helpful<br> :date: __2021-01-04 21:02:22__
-
-> Quick and simple. Must more efficient than Urgent Care.<br> :date: __2020-11-26 22:25:50__
-
-> Great audio/ video and experience<br> :date: __2020-11-24 22:07:17__
 
 
 
@@ -255,6 +255,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.nalc.android.hbp.telehealth 1 reviews"/>
 </p>
+
+> Will not open.<br> :date: __2021-04-24 03:22:34__
 
 > Doctor does not listen to details, hears what they want, during pandemic. Insisted on unnecessary risks of blood work.<br> :date: __2021-03-25 21:47:55__
 

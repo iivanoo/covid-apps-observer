@@ -186,25 +186,25 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
-> Nice leap forward CO. Now let's ditch wallets.<br> :date: __2021-04-18 05:29:32__
+> Absolutely love this app, it's so easy to use and the ability to always have access to my ID and now an easier way to show ID to vote.<br> :date: __2021-04-29 03:07:48__
 
-> Great option<br> :date: __2021-04-18 05:05:54__
+> Life saver!<br> :date: __2021-04-27 22:57:14__
 
-> About time!! Thank you.<br> :date: __2021-04-18 03:19:00__
+> This app is great! Question: can we add our covid-19 vaccination record card to this app? And 2nd form of ID, such as military ID?<br> :date: __2021-04-27 22:33:51__
 
-> Its cool<br> :date: __2021-04-14 21:46:48__
+> So helpful in tracking multiple vehicles. Love having my driver's license handy AND being able to have a version without all my personal info that I can share with those verifying my over 21ness.<br> :date: __2021-04-27 03:44:40__
 
-> It's pretty easy<br> :date: __2021-04-13 20:58:01__
+> A little tricky to get going but when it its going it works good it helps to be in a place that has Wi-Fi<br> :date: __2021-04-27 03:27:46__
 
-> I was notified about this App through the CPW fishing site, I can say as a disabled veteran I found this really easy to learn about.<br> :date: __2021-04-13 02:21:25__
+> Paridise<br> :date: __2021-04-26 11:36:49__
 
-> Good so far!<br> :date: __2021-04-11 00:52:35__
+> It's great, I'm waiting on receiving my DL on mail and with this app I just show it if I need to.. love it.<br> :date: __2021-04-24 22:24:42__
 
-> Great<br> :date: __2021-04-07 22:32:53__
+> I love this app. It took a little time to imput all my info. It is easy to access my information and has good security protocols.<br> :date: __2021-04-24 16:57:45__
 
-> Sweet<br> :date: __2021-04-07 00:35:51__
+> Still take long to load<br> :date: __2021-04-21 00:52:34__
 
-> A way to show your ID without digging your DL out of your wallet.<br> :date: __2021-04-06 01:57:58__
+> Great<br> :date: __2021-04-20 21:13:21__
 
 
 
@@ -213,6 +213,12 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> I saw other comments about the digital ID not recognizing them the same day they went to the DMV. I gave it a try after I went in yesterday and got the same error message as everyone else. I gave it another try today and it worked! Looks like it takes a bit of time for their system to update, which is understandable. A government app that kinda works... what a nice surprise! 4 stars!<br> :date: __2021-04-28 02:33:45__
+
+> I finally got the app to work for me. The devs should really make this app less difficult to use.<br> :date: __2021-04-27 09:38:45__
+
+> Awesome.<br> :date: __2021-04-24 14:37:05__
 
 > Handy app. But why is the CCW permit not included? All other Colorado ID is.<br> :date: __2021-04-17 15:18:52__
 
@@ -228,12 +234,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > Very practical<br> :date: __2021-02-18 00:31:00__
 
-> The app is great and is very convenient specially sens you don't ever go anywhere with out our phones so you always have your id with you this way! I just wish you were able to use it at more places and able to use it to cash checks and wat not but besides those few things it's an amazing idea thanks alot<br> :date: __2021-02-14 06:06:20__
-
-> Prizon Free..as in not anymore.m..<br> :date: __2021-02-13 21:38:38__
-
-> Love it<br> :date: __2021-02-02 18:16:54__
-
 
 
 #### 3-star reviews
@@ -242,11 +242,15 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
 
+> Nice but missing alot .. good luck businesses excepting it !<br> :date: __2021-04-24 11:16:20__
+
+> Bugs for days But the idea is phonemial<br> :date: __2021-04-21 02:26:35__
+
+> Used to keep me logged in. Know I have to log in every time and the app has to ping my phone evert time 🤔🥴<br> :date: __2021-04-19 22:26:24__
+
 > In all honesty the quality,functionality, clarity, ease of use is brilliant the app is amazing and will be worth 5 stars when it is accepted as a real ID. Only reason I gave it a 3 is because it is not accepted for identity validation for investment platforms.<br> :date: __2021-04-14 00:42:03__
 
 > 2 factor authentication not working. I've been waiting for 15 mins for the code to be text to me so I can buy a lighter and nothing! It's a waste of energy. ---Sure, thanks for the acknowledgement. 👍When this app is working, its amazing.<br> :date: __2021-03-25 05:22:11__
-
-> When and if I'm allowed to use this electronic ID to show to a cop I should be able to "lock" everything else so cop can stop and prevent snooping in my phone other than the ID itself.<br> :date: __2021-03-08 17:03:23__
 
 > Can't get it to scan my id in????<br> :date: __2021-02-26 21:16:20__
 
@@ -258,10 +262,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > This app saved my life but now it keep saying retry otp and now I can't use it for my I'd. How I'm supposed to buy my essential things with no I'd!<br> :date: __2020-09-25 20:54:47__
 
-> Photo Capture does not work properly for live photo of physical face!! Has already provided feedback for the app developers 👍<br> :date: __2020-08-19 02:03:21__
-
-> \*\*\*\*\*\*\*\**Update\*\*\*\*\*\** I had to dump all non basic operation apps off my phone to get every thing to process through, but Eureka success! All this app does is collect your data to sell I'm assuming. But it will have you set up an account just to not allow you to log into it after. And when you ask for assistance or request what companies they sell your info to, so you can block their spam, you get generic responses. Assuming these are bots designed to find key words and respond accordingly.<br> :date: __2020-07-30 23:54:34__
-
 
 
 #### 2-star reviews
@@ -269,6 +269,8 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
+
+> Have had 2021 fishing lic for 3 weeks and it's still not available on myColo????<br> :date: __2021-04-23 01:26:14__
 
 > I'm sure it's a great site, but it does not let me create a site with my California DL.<br> :date: __2021-04-15 22:12:39__
 
@@ -288,8 +290,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > Can't start up error for days<br> :date: __2021-03-03 00:17:19__
 
-> My household moved 5 months ago & 6 of us changed our address online through DMV & followed the instructions to stick a label on the back of our DL's with the new address. However when I scanned the back of my DL today to try to create an account, my information still had my previous address. So this app really won't help me or any of my household members because the address will always be incorrect & cause problems for us in which we will still have to show our actual DL with the sticker.<br> :date: __2020-11-17 19:24:28__
-
 
 
 #### 1-star reviews
@@ -298,24 +298,24 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
-> App is good in general, BUT, I HATE the facial recognition and such. Nice to have everything in one place, but not nice to give up things for it<br> :date: __2021-04-17 19:24:23__
+> Piece of garbage app. Keeps requiring you to scan the barcode on the back of your drivers license. Even following the directions and setting the phone and card on level stationary surfaces and lining them up to eliminate hand shake it won't scan.<br> :date: __2021-04-28 20:01:08__
 
-> Proper information either not there or not accessible<br> :date: __2021-04-16 19:26:19__
+> Couldn't recover old account. Zero help from the application, spent 2.5hrs in the chat room with no answer, will not send username in the email that is setup, forced to setup a whole new email to use the application.<br> :date: __2021-04-27 00:59:52__
 
-> This app is no good because every time I try to make an appointment they would not let me make one they would say I had an error so here I see it with no ID and trying to get my ID for a year now and I still can't get it and and it's nothing but BS all they're trying to do is waste time I went down there and they had no one in the line no backup or nothing and I still couldn't get in to get my ID<br> :date: __2021-04-16 05:34:00__
+> Doesn't work<br> :date: __2021-04-25 16:06:30__
 
-> Just gives an error message and closes<br> :date: __2021-04-16 01:00:34__
+> Always says system down<br> :date: __2021-04-24 21:18:07__
 
-> I've tried all day to get my stuff and it will not take a pic of my face to verify. Very sad.<br> :date: __2021-04-15 06:27:30__
+> Such a hard time logging into the app after downloading onto another phone. Facial recognition finally worked after more than 20 attempts. Won't upload my new current fishing/hunting license. If you're able to upload your drivers license than that is all the app is good for. Many places 21+ will not accept damaged ID cards so this app comes in handy if you have a damaged license or ID and need to get in somewhere.<br> :date: __2021-04-24 14:29:37__
 
-> Is this app from the State's Office of Information Technology (OIT) or whatever it is called!? They are so inept!! It brought flashbacks of trying to license my ATVs a couple of years ago or using CDHS' Trails software upgrade! Tried the license bar code scan deal. No deal! No matter what I did. I will carry my paper license. DOW field personnel can't argue with that!<br> :date: __2021-04-15 02:35:29__
+> I installed this app for the digital id and you can't use it without "authenticating" with a selfie that is impossible to match to the dmv database. No matter how many pictures I try it won't match to the picture taken by the dmv earlier today, there is no other way to prove I am who I say I am.<br> :date: __2021-04-23 00:00:37__
 
-> Kicks me off everytime i try to show my id. Plus most places wont accept this form of ID. Give us a card like other states. PLEASE!<br> :date: __2021-04-14 00:30:36__
+> Useless<br> :date: __2021-04-22 22:51:43__
 
-> Tried retaking my picture a good 15 times and it kept saying it couldn't match my photo with my DMV photo. Tried uploading a photo instead but still no luck. I then tried to upload my picture from my ACTUAL license and it still didn't work. So frustrating.<br> :date: __2021-04-13 04:16:09__
+> Needs a lot of work still.<br> :date: __2021-04-21 20:55:11__
 
-> More security on this app to add my cpw licenses than forigen nationals require to enter the country or to buy a gun. Why can't I just log in with my cpw info and have my tags here?!? Just because you have a technology (ID scan, face recognition) doesn't mean it's merited.<br> :date: __2021-04-13 03:07:25__
+> Never uploaded my fishing license. Pointless app.<br> :date: __2021-04-21 03:07:46__
 
-> Can't Register, worthless. Crashes every time I try and take the photo of my bar code...<br> :date: __2021-04-12 22:03:51__
+> Definitely one star it does recognize or unable to match my selfie with my pic at the DMV I took earlier today. At least it got the Qvr code and the verification by phone (sms) matched. But I cant access my digital copy of my drivers license. Please do something and fix this. I noticed the other recent comments are having the same problem. My phones to nice for this malarkey.<br> :date: __2021-04-20 06:47:24__
 
 

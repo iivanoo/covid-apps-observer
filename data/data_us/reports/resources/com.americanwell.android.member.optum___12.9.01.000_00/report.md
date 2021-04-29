@@ -178,6 +178,14 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Fast easy<br> :date: __2021-04-27 19:08:34__
+
+> Excellent<br> :date: __2021-04-26 21:20:32__
+
+> A normal dr visit would take 60 mins of driving, another 60 in the waiting room. Another 30 for dr. My visit now was 1 minute downloading, 2 mins in virtual waiting, and 5 mins with the dr. Great app!<br> :date: __2021-04-21 21:24:38__
+
+> This is an amazing Convenient and Useful Way to Get medical attention 24 hours A-day For myself and my children I would have never ever thought I would use something of the sort to get medical attention Have you seen this service multiple times for myself I also use the service for my two-year-old Baby. and after my visit For myself and my baby I felt satisfied my medical Needs were addressed And properly Cared for and my Prescriptions were sent to the pharmacy of my choice. THANK YOU!<br> :date: __2021-04-21 00:21:55__
+
 > I wish we could of done this sooner.<br> :date: __2021-04-16 20:05:51__
 
 > Great program, changes how I do my medical visits especially when I can't get in to my regular DR<br> :date: __2021-04-15 01:32:24__
@@ -189,14 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Everything was very good except that the video cut out 3 or 4 times in about 8 minutes! This must be remedied! Otherwise, it's an excellent option if a clinic visit isn't at that time. *Update: Today's appointment via NowClinic was perfect. App did not cut out at all. Easy interface, with excellent quality video and crystal clear audio. Thanks, devs, for a job well done!👍😁<br> :date: __2021-04-13 22:25:56__
 
 > It was quick it was painless the nurse practitioner knew exactly what was wrong with me, she knew that my pharmacy was going to be closed and she knew which pharmacy would be open 24 hours all good great visit. The nurse practitioner who saw me was very knowledgeable and very kind and caring she had a sense of humor well-rounded person it was a pleasure doing the NowClinic.<br> :date: __2021-04-12 03:02:51__
-
-> Love not leaving my house for my refills<br> :date: __2021-04-10 17:23:49__
-
-> So easy!<br> :date: __2021-04-10 03:19:29__
-
-> Easy way to get seen<br> :date: __2021-04-09 19:10:06__
-
-> Love love love<br> :date: __2021-04-09 17:14:51__
 
 
 
@@ -274,6 +274,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> Flustrating<br> :date: __2021-04-26 23:58:42__
+
 > This app is absolute garbage. Not to mention it takes 20 minutes to download an update. Missed my doctor's appointment.<br> :date: __2021-04-08 16:51:06__
 
 > Will not down load<br> :date: __2021-03-12 16:09:12__
@@ -291,7 +293,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Always technical issues. I have the newer smart phone and I pay for the internet. It always kicks me out.<br> :date: __2020-07-04 16:50:39__
 
 > I waited for the doctor, the app said "you have connected and are waiting for the doctor to connect". After about a minute, another message that said "The doctor cancelled the call".<br> :date: __2020-07-02 12:39:26__
-
-> Couldn't even connect<br> :date: __2020-07-01 23:41:53__
 
 

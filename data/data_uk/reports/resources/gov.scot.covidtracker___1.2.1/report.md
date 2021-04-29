@@ -139,6 +139,10 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Great app 1st thing I added to my account well done,🌞🌈<br> :date: __2021-04-29 00:06:05__
+
+> Good<br> :date: __2021-04-21 09:37:24__
+
 > Great<br> :date: __2021-04-17 15:13:50__
 
 > Speedy results..well up to date<br> :date: __2021-04-10 16:38:03__
@@ -154,10 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > If people are putting in positive results, then why are they out and not self isolated at home? If my app says I've been in close contact then the person who put there positive results in are out and about. Not the apps fault that's why I gave it 5* people just don't care they can potentially kill another person....<br> :date: __2021-03-22 04:08:30__
 
 > This app keeps me informed of Any Changes thank. You. Bernard<br> :date: __2021-03-21 19:01:53__
-
-> So simple - I'm surprised it took so long. Well done Scotland - the delay by the UK governments showed how shambooic and expensive their effort was. 500k downloads tho out of 6 million, can we make it mandatory??<br> :date: __2021-03-16 10:29:37__
-
-> Love you Scotland<br> :date: __2021-03-14 11:55:20__
 
 
 
@@ -195,6 +195,10 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
 
+> Not sure if this app actually does anything. Only seems to do a check when I open it. App can go days with no checking for contacts according to the fingerprint checking Google summary page.<br> :date: __2021-04-24 18:55:23__
+
+> As people from other area's in the UK visit Scotland I don't believe the app syncs with other apps from other locations in the UK but only Scotland. If this is the case then it won't work unless someone in Scotland develops covid and others have this same version.<br> :date: __2021-04-18 14:37:32__
+
 > Huawei 30pro. It doesn't recognize that my Bluetooth is on and so does not activate.<br> :date: __2021-04-07 11:02:15__
 
 > This might just be the most effective software to be Bluetooth turned on all the time to enable almost everyone in Scotland to track&trace possible SARS/covid carriers,..<br> :date: __2021-04-04 11:33:48__
@@ -210,10 +214,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Seems ok<br> :date: __2021-03-09 20:15:55__
 
 > Oooft photo.yruk<br> :date: __2021-02-25 12:44:41__
-
-> Not enough people using it to make it effective.<br> :date: __2021-02-19 17:56:39__
-
-> None yet .<br> :date: __2021-02-18 22:15:08__
 
 
 
@@ -251,6 +251,14 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Don't think this app works as good as it does any more. When I used to switch off Bluetooth I got a notification now it doesn't do anything<br> :date: __2021-04-28 18:13:57__
+
+> Waste of time<br> :date: __2021-04-27 14:25:19__
+
+> Truly ridiculous that there is a different app for Scotland. I need to have the England one as well and deactivate the other one every time I cross the border. Proof that devolution is a total waste of time and money.<br> :date: __2021-04-20 11:47:01__
+
+> Useless app as it is no good if you are travelling to other parts of the UK and you need to scan a QR code on the NHS app.<br> :date: __2021-04-18 23:45:17__
+
 > The app didn't work well with my phone as it drained the battery alot quicker than usual. Come late in the afternoon my phone would be dead so no option but to uninstall. Update:- Its been a few months since this app was released and everyone I've talked to has ether uninstalled the app already or never installed it in the first place. Waste of space and battery.<br> :date: __2021-04-11 05:07:15__
 
 > Waste of time and tax money. Been with people who have notified the ap that they are covid positive and the ap did not notify me.<br> :date: __2021-04-01 15:40:03__
@@ -262,13 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Shite<br> :date: __2021-03-21 01:57:25__
 
 > What an incredible way of wasting billions of tax payer money.<br> :date: __2021-03-19 11:35:17__
-
-> Useless if you work in England but live in Scotland. Can't give access to both apps.<br> :date: __2021-03-18 23:23:59__
-
-> FRAUD, RAPE AND ROBBERY. SHAME ON ALL OF YOU.<br> :date: __2021-03-17 03:45:13__
-
-> Not sure if it works<br> :date: __2021-03-16 18:48:37__
-
-> Just stopped tracing i never new until looked on app deleting app now<br> :date: __2021-03-15 17:37:24__
 
 

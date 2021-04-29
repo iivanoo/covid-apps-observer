@@ -197,6 +197,16 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Great and professional service<br> :date: __2021-04-27 03:41:25__
+
+> Awesome. Doc took time to listen to me unlike my regular doc<br> :date: __2021-04-26 18:01:10__
+
+> Great it was quick and very efficient<br> :date: __2021-04-23 01:28:19__
+
+> The main Blue Cross app is a flaming dumpster fire, but this works great. I was able to get an account created and see a doctor within twenty minutes.<br> :date: __2021-04-19 18:20:19__
+
+> Great alternative to Urgent Care<br> :date: __2021-04-19 14:03:36__
+
 > All around Awesome experience! Great doctor and easy to use!<br> :date: __2021-04-09 01:07:54__
 
 > Perfect way to see a Dr without having to leave the house. Very easy and quick once your profile is set up.<br> :date: __2021-04-05 16:39:27__
@@ -206,16 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > So much better than going to urgent Care or the ER. Especially right now with all this COVID19 craziness.<br> :date: __2021-04-01 15:13:53__
 
 > Great<br> :date: __2021-03-30 03:00:06__
-
-> Great Help!<br> :date: __2021-03-23 13:40:00__
-
-> Was caring and listened to what I had to say. Was professional and gave precise instructions and information about what she was doing for me and what I needed to do as well.<br> :date: __2021-03-22 15:56:11__
-
-> Love this. Saves time and money. Every experience has been exceptional.<br> :date: __2021-03-20 17:42:08__
-
-> Real convenient. Thanks!<br> :date: __2021-03-17 16:36:08__
-
-> Overall great! Addressed my issues with care & understanding.<br> :date: __2021-03-04 05:34:59__
 
 
 

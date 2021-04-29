@@ -129,6 +129,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> I got a new a MD COVID Alert app is a about a covid-19 virus around my town at salisbury & wicomico county Maryland<br> :date: __2021-04-18 19:00:40__
+
 > So far so good<br> :date: __2021-04-02 01:55:38__
 
 > Wonderful<br> :date: __2021-03-29 03:08:51__
@@ -146,8 +148,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Works great just need to get more people to use it.<br> :date: __2021-01-24 01:49:16__
 
 > Its amazing to kmow who has covid around u so u know to stay away<br> :date: __2021-01-03 02:45:56__
-
-> Glad it's on here<br> :date: __2020-12-26 02:31:39__
 
 
 
@@ -185,6 +185,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 3 reviews"/>
 </p>
 
+> This app would be better if it were more organized and personalized.<br> :date: __2021-04-28 01:57:57__
+
 > Optional Use.. Would be great if this was Mandatory for everyone to download. Also, would everyone be honest about their Covid test results??. This app is a great blue print starter. But cant be relied upon.<br> :date: __2021-03-30 23:41:00__
 
 > Conceptually the app is great. Practically it is of little utility. Make your own judgment. Consider how it operates and whether people not using the app or failing to report their health condition is an Achilles Heel. With that said, when I leave my house I turn on Bluetooth to active this app.<br> :date: __2021-03-06 18:32:30__
@@ -202,8 +204,6 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > I very much like the ideal that my state has this app with covid being so bad<br> :date: __2021-01-05 23:47:55__
 
 > Ok<br> :date: __2021-01-01 19:27:09__
-
-> Interferes with bluetooth devices<br> :date: __2020-12-30 00:11:14__
 
 
 
@@ -241,6 +241,10 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Not sure how reliable the app is. Also, there is no access to past data. Looks like data only goes back a day or two. How do you know if you were near someone who tested positive say 3 or 4 days ago? Very disappointed.<br> :date: __2021-04-23 16:29:03__
+
+> For those that tested positive from their doctor they were not able to alert the app. Even after MD Covid called them.<br> :date: __2021-04-19 13:32:08__
+
 > Did'nt do anything<br> :date: __2021-03-29 15:45:21__
 
 > Doesn't work<br> :date: __2021-03-08 10:59:01__
@@ -256,9 +260,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > Waste of space on my phone. I had covid before I knew it and without any warnings from this app. Deleted.<br> :date: __2021-02-07 02:16:13__
 
 > Doesn't work. Multiple people at my work have it and it keeps saying no recent exposures. What a waste of tax dollars!<br> :date: __2021-02-04 20:10:05__
-
-> Does not work! Two weeks ago, two people in my home were diagnosed with Covid-19 and I was neither notified by this app nor the Health Dept (maybe the Health Dept knew I would be informed?). I found out today, February 3, 2021 that someone from our school system that myself and my children have daily contact with was diagnosed with Covid-19 in December and we were notified by neither this app, or anyone representing the school system.<br> :date: __2021-02-04 01:11:59__
-
-> I was exposed to someone positive. I did not receive an alert. I do not know what the purpose of this app will be, but to report COVID exposure, it is not.<br> :date: __2021-02-03 06:29:16__
 
 

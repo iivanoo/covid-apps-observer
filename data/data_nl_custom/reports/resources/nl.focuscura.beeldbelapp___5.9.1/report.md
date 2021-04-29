@@ -202,25 +202,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Fijn dat er als je thuis bent zo goed op je wordt gelet dat maakt het een stuk minder beangstigend als je naar huis gaat met zuurstof er let toch iemand op je.<br> :date: __2021-04-17 09:12:34__
+> Duodelijke app<br> :date: __2021-04-28 19:23:18__
 
-> Werkt prima<br> :date: __2021-04-16 10:46:05__
+> Werkt goed met covid @ home.<br> :date: __2021-04-28 10:04:22__
 
-> Een mooie duidelijke app<br> :date: __2021-04-16 09:10:46__
+> Duidelijke, handige app<br> :date: __2021-04-27 10:58:54__
 
-> Goede makkelijke app.<br> :date: __2021-04-16 09:10:32__
+> Uit stekend .<br> :date: __2021-04-26 10:36:32__
 
-> Toegankelijk, werkt goed.<br> :date: __2021-04-16 07:29:35__
+> Erg gemakkelijk om de gegevens door te geven<br> :date: __2021-04-26 09:12:53__
 
-> Hij werkt niet meer ik kan hem niet meer openen wat is er aan de hand hij vraagt steeds om mijn e-mail en code doe ik en dan een wit scherm krijgt ik en dan vraag die het weer op nieuw<br> :date: __2021-04-15 10:47:01__
+> Werkt perfect<br> :date: __2021-04-22 10:23:04__
 
-> de app is een fijne aanvulling<br> :date: __2021-04-14 13:55:47__
+> de app werkte tot voor 3 weken prima de laatste tijd moet ik elke keer mijn e mailadres opnieuw invullen en dan werkt het nog niet goed<br> :date: __2021-04-21 21:01:34__
 
-> Nog niet veel ervaring<br> :date: __2021-04-08 08:17:44__
+> Super fijn deze controle<br> :date: __2021-04-21 10:22:06__
 
-> Prima fijn om mee te werken<br> :date: __2021-04-08 07:05:26__
+> Goed en makkelijk<br> :date: __2021-04-21 09:14:15__
 
-> Ondersteuning zoals de app bedoeld is.<br> :date: __2021-04-07 15:01:33__
+> Zeer duidelIjk en gemakkelij in te vullen<br> :date: __2021-04-20 07:14:15__
 
 
 
@@ -229,6 +229,16 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Veel vragen, wel terzake doende<br> :date: __2021-04-27 11:34:03__
+
+> Gemakkelijk in te vullen en goed om het overzicht te hebben.<br> :date: __2021-04-24 15:14:31__
+
+> Werkt goed maar alles moet handmatig Verders zeer tevreden<br> :date: __2021-04-21 09:41:13__
+
+> Werkt goed en is een dagelijkse geheugensteun om er even bij stil te staan hoe je je voelt.<br> :date: __2021-04-20 08:26:39__
+
+> Kan de invoer van de stappen worden aangepast. Je moet nu eerst 4 fictieve cijfers verwijderen en dan wordt er automatisch een nul geplaatst. Dan kun je je stappen invoeren en moet je de toegevoegde nul weer weghalen... Het zou fijner zijn als je 5 lege cijferposities kunt invullen. En als deze oningevuld wordt verstuurd er een 0 wordt meegegeven.<br> :date: __2021-04-19 10:50:50__
 
 > Het is gemakkelijk om de diverse metingen door te geven<br> :date: __2021-04-18 07:51:10__
 
@@ -240,16 +250,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Prima hoor om mee te werken. Elke twee weken vind ik trouwens best wel intensief.<br> :date: __2021-04-12 19:46:34__
 
-> Nog te kort bezig om een goed oordeel te vormen, maar de beoordeling is meer de verwachting<br> :date: __2021-04-12 09:26:17__
-
-> Goede app, enige wat ik minder vind dat ik op Zondag gelijk een herinnering krijg als ik niet snel genoeg retour stuur.<br> :date: __2021-04-11 13:05:28__
-
-> Moet er nog aan wennen bloeddruk lukt bijna nooit eerste keer<br> :date: __2021-04-07 16:48:22__
-
-> Heel makkelijk te gebruiken alleen jammer dat je niet alle resultaten tegelijk kunt verzenden maar telkens 1 tegelijk<br> :date: __2021-04-05 09:25:12__
-
-> ik vind het wel fijn<br> :date: __2021-03-28 10:16:20__
-
 
 
 #### 3-star reviews
@@ -257,6 +257,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Kan kwaliteit niet echt intrinsiek beoordelen. "Lijkt" een beetje knullig.<br> :date: __2021-04-25 12:40:37__
 
 > Na update met code via email werkt de app niet meer op m,n tablet. Helaas niet meer te gebruiken nu. Naar opnieuw installeren werkt de code via snelkop nog niet maar de code zelf invullen weer wel. Wordt er niet gebruiksvriendelijker op.<br> :date: __2021-04-17 10:59:07__
 
@@ -276,8 +278,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Ik had ook andere klachten mbt corona maar doe stonden er niet bij. En nu het beter gaat vind ik elke dag invullen niet relevant tenzij er verandering optreed.<br> :date: __2021-03-07 10:19:05__
 
-> Vindt het jammer dat ik de stappen van gisteren niet kan invullen<br> :date: __2021-03-05 09:17:05__
-
 
 
 #### 2-star reviews
@@ -285,6 +285,10 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 2 reviews"/>
 </p>
+
+> Te weinig reactie mogelijkheden Slechts 1 meting per dag<br> :date: __2021-04-21 08:24:21__
+
+> Ik vind sommige vragen op mij niet van toepassing. Ik heb bijvoorbeeld nooit angst. Ervaar alles als lastig dat ik niet meer zoveel kan.<br> :date: __2021-04-19 13:10:12__
 
 > Na vier pogingen doet hij het weer<br> :date: __2021-04-15 16:48:43__
 
@@ -302,10 +306,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Op dagen dat ik klachten ervaar zegt de app geen klachten. Nu ben ik al 2 dagen klachtenvrij en zegt ie milde klachten. Beetje vreemd. Wel handig systeem maar de berichten slaan nergens op.<br> :date: __2020-09-18 11:30:36__
 
-> Sinds de laatste update heb ik ineens covid klachten terwijl de waardes gewoon goed zijn....<br> :date: __2020-09-12 18:58:41__
-
-> Oude gegevens niet meer te raadplegen<br> :date: __2020-08-21 11:46:47__
-
 
 
 #### 1-star reviews
@@ -313,6 +313,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
+
+> Steeds ligt de app er uit. Geeft niets door<br> :date: __2021-04-19 21:11:47__
 
 > Klopt niets van<br> :date: __2021-04-18 07:22:56__
 
@@ -331,7 +333,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Werkt niet meer na update<br> :date: __2021-02-12 23:55:01__
 
 > Het kost me veel moeite<br> :date: __2021-02-11 10:33:47__
-
-> Kan hem sinds vandaag niet meer openen geheel blanco zeer teleurgesteld was er zo blij mee<br> :date: __2021-02-04 23:41:18__
 
 

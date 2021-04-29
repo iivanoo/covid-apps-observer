@@ -128,6 +128,16 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> You'll get all the facts on this app:<br> :date: __2021-04-26 13:03:20__
+
+> Im HAPPY I HAPPEN TO STUMBLE ON IT "BY CHAMCE"<br> :date: __2021-04-23 12:53:12__
+
+> Unnecessary to give your info away!! They might get it anyway but, don't make it easier for them.<br> :date: __2021-04-23 01:18:26__
+
+> And colored free been that way since the pandemic I've got my vaccines I'll never get the pandemic I don't need this app another waste of time<br> :date: __2021-04-23 00:11:55__
+
+> Nice to have<br> :date: __2021-04-19 19:09:43__
+
 > It really works I am very happy with this app<br> :date: __2021-04-14 20:01:29__
 
 > MICHAEL PAUL CHASSEREAU . FROM ASIA. CHANCELLOR OVER EUROPE. HEAD OF ALL GOVERNMENT. IM GOD .<br> :date: __2021-04-11 13:46:49__
@@ -138,16 +148,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > good<br> :date: __2021-04-06 20:16:46__
 
-> Like it<br> :date: __2021-04-03 03:37:03__
-
-> 19 dys Cure Of not sick clears Jj84<br> :date: __2021-04-02 02:56:21__
-
-> Good<br> :date: __2021-03-27 09:14:00__
-
-> It is a comfort to have<br> :date: __2021-03-10 17:53:08__
-
-> Works well, hope app saves lives, and the U.S. I love my Country!<br> :date: __2021-03-08 19:55:33__
-
 
 
 #### 4-star reviews
@@ -155,6 +155,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 4 reviews"/>
 </p>
+
+> lets see<br> :date: __2021-04-28 05:09:35__
 
 > It would be nice if I could also update the app when I get vaccinated<br> :date: __2021-04-08 02:10:40__
 
@@ -174,8 +176,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > Yes body ache little headache tired but made it though thank God<br> :date: __2021-01-27 17:36:33__
 
-> At least we've gotten around to using technology in the fight against the Virus.<br> :date: __2021-01-24 04:21:46__
-
 
 
 #### 3-star reviews
@@ -183,6 +183,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 3 reviews"/>
 </p>
+
+> Ware the ROVERS. The travelling unlicensed unaccountable gardeners come to mind. They are busy blowing AIR, right in earshot, right very now.<br> :date: __2021-04-21 18:36:15__
 
 > Ca<br> :date: __2021-04-09 06:31:38__
 
@@ -202,8 +204,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > Can't get it to function properly<br> :date: __2021-01-05 03:49:07__
 
-> I got my code more than 12 hours before I got my test results and the code expires in 24 hours...<br> :date: __2021-01-03 21:13:56__
-
 
 
 #### 2-star reviews
@@ -211,6 +211,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 2 reviews"/>
 </p>
+
+> Feel this is a waste of phone space. Nothing ever happens with it, we were covid positive and couldnt report.<br> :date: __2021-04-22 09:54:44__
 
 > very disappointed! I first downloaded it help contribute data that would help the state, country,and even the world. I Don't like the fact that bloototh always has to b on<br> :date: __2021-04-17 06:47:59__
 
@@ -230,8 +232,6 @@ The CA Notify app has been installed by more than **500000** times. At this time
 
 > How does this work? I read online but I don't get how it can tell if you have covid or not. Does it take the positive people's identities and connect it with the phone or do people with covid have to manually put in that they tested positive? If they have to manually put it in, it's unlikely that they will. I give it 2 stars for the effort but I don't understand how its suppose to tell who has covid or not.<br> :date: __2021-02-26 00:53:52__
 
-> CA Notify used to appear on my phone, but I can't see it anymore. I tried to download it again, and my computer says that CA Notify is installed on my phone. Why can't I see it there?<br> :date: __2021-02-24 20:14:24__
-
 
 
 #### 1-star reviews
@@ -239,6 +239,8 @@ The CA Notify app has been installed by more than **500000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.ca.covid19.exposurenotifications 1 reviews"/>
 </p>
+
+> 😠<br> :date: __2021-04-22 17:41:04__
 
 > Uninstalled because California is opening up and people are being forced to intermingle even though we don't have vaccines in the majority. So why help a cause that doesn't matter anymore!<br> :date: __2021-04-15 02:06:28__
 
@@ -257,7 +259,5 @@ The CA Notify app has been installed by more than **500000** times. At this time
 > I understand this is based on people voluntarily adding covid +ve result so that others get alert. But having this on my phone for months now, I am always skeptical whether it is even doing anything other than consuming phone resources and probably tracking my location. I read all the other reviews below about actual covid +ve people unable to actually add the positive test and the app's failure to send notification to others. I am convinced this is useless app. Uninstalling now.<br> :date: __2021-03-24 15:33:51__
 
 > Good idea, extremely poor execution.<br> :date: __2021-03-21 00:10:10__
-
-> I thought this was a good idea for safety but it doesn't seem to work cuz after the fact I was normally exposed and it did not work I was not notified my Bluetooth was on<br> :date: __2021-03-15 03:59:48__
 
 

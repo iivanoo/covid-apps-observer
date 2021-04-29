@@ -1,11 +1,47 @@
 [
     {
+        "reviewId": "gp:AOqpTOFk-nqsWr_g2M_9AD5AxAFCBCiQhqMzzGxwJ8F_r3fYq6ubZ3iP9htKYbJdt4c1TBEsXpruUftxlfmjEQ",
+        "userName": "Antonio Marchese",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzsF9KG_snbJbjY-3aKIy7vJleJUJZGMlp-W1Ba=mo",
+        "content": "Ottima iniziativa!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.19",
+        "at": "2021-04-28 20:25:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGvn4XxtmZE2W-tZEo1_1jjYlNsj_nydg6eYMmTeyAYIPMUsmW5WT2RmCXV7cW1T4X0rldJ1GZ9yyAR4A",
+        "userName": "Alessandro Ciao Gmail",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxYwWy-Fno2ytUxTt6vcWG014DrQHMTCXfyjMwS=mo",
+        "content": "L app chiede l abilitazione via sms ,clicco sul link ma poi l app non viene abilitata",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.19",
+        "at": "2021-04-27 11:35:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGO6mtYLL-YZs8wdo_SnZdYBjoJtD0oOtjy4gOCa3doyygH6qiTCJFAUSP935UWMQ8ktxAVuweVO30nfQ",
+        "userName": "Cecilia Boe",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJye0pnMXTI6yZ9hvZRcw_wjEIuWQXMC4pA98Dl0=mo",
+        "content": "Dopo aver fatto l'accesso l'app non si apre pi\u00f9, come fare?",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.19",
+        "at": "2021-04-23 16:34:45",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGEx-BgRJ0XrQlqSurkdreukX_5FG-u9eTuE6dBBU68kOu_C1POZJKUWknzB8AEADv-wWQOFUNtJEmY1g",
         "userName": "Marco Amorini",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihMoz52wKQ0vY0OhS24LCPSzoiOet0JqJKMPpuhEk",
         "content": "Indecente. SMS che non arriva mai. Poi riesci a fartelo spedire ma sorpresa l'attivazione non \u00e8 riuscita. Una delle solite prese in giro..",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.19",
         "at": "2021-04-17 16:30:44",
         "replyContent": null,
@@ -29,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihR9cw4hm4Wq2gR-rv9y2BCINBwo9dHhqKNzyLEQ",
         "content": "Applicazione molto semplice e di grande aiuto . Finalmente nessuna attesa di svariati infiniti minuti per poter informare chi di competenza su propri stati di salute causa Covid 19. Dopo aver inviato i campi richiesti, la risposta asl, \u00e8 pressoch\u00e9 immediata.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.19",
         "at": "2021-04-04 18:20:47",
         "replyContent": null,
@@ -50,7 +86,7 @@
     {
         "reviewId": "gp:AOqpTOGBgHMQ95GjM3SbmX5sErzH7ImKnQ1Q3_OTQKgZqDTZyWGXe7c6H8nnZJlEiVSLTFhWfdvLhIJFBSYLog",
         "userName": "Fabio Restante",
-        "userImage": "https://play-lh.googleusercontent.com/-zqsrAvg2F5A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmp3OjjWrKjmxCmMei8cIq3pNUL6g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXXc4Nm835C5Ks3nU1w8wkubdNkvupQqzMvPN-=mo",
         "content": "molto negativa",
         "score": 1,
         "thumbsUpCount": 0,
@@ -62,7 +98,7 @@
     {
         "reviewId": "gp:AOqpTOHiofRoq9GaNHpX4F9miDx0Hj-JscNgp6ZrBzJ73Si7myxPQ_Kxb_cLTqfR1Hn3k6ws12kxkpbDeOq2uA",
         "userName": "Massimo Pavoni",
-        "userImage": "https://play-lh.googleusercontent.com/-rI3sl6UC1n4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEauiEkDuPJqnm_FQ0U6HAEWfspA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFbnpX4yGh_n1OkAO87WAOh2adXmKv4U6ajuJo=mo",
         "content": "Al momento negativa, sono riuscito ad entrare solo una volta e dopo che ho inserito i primi dati non mi ha fatto pi\u00f9 entrare.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -98,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOHv3XMRmaSOCylrQQHstI567n8AvXfilDHaD6_E8bay2NFtpqwvvy2pT1J2-8VdXZbfBRc1GHZ7J991_w",
         "userName": "dafni cro",
-        "userImage": "https://play-lh.googleusercontent.com/-9RG84NJrgMg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2t_kYPEc2OA7NplGcxuZVA-KriQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzXgWFrrICMbsZzrSzGLXVZST-Kr_ZRirfUZ86w=mo",
         "content": "NON FUNZIONA!!!!!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -158,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOGq0YZwL59Zjq7l6Dluo1ncNcU8WwArtynUIJJj7ecczLawNQvCH8iStzHSy-8FtMA-oR-3XGo8GIS2TQ",
         "userName": "jacopo disarro",
-        "userImage": "https://play-lh.googleusercontent.com/-vmfAnh05ylU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVZKzsAg4nMF25d749zaRFFWEY0g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwvWJDLeFGFCKetYdbRyDsNcBmj8kw7ySzvcnQi=mo",
         "content": "L'app dopo l'autenticazione non funziona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -182,7 +218,7 @@
     {
         "reviewId": "gp:AOqpTOE53aAWeMfRoYcCQe7cVyaDnravTUAHsRLMpONJOkUytHz8AuUYJsjYN86c_eIljdQMmC8dSs6MW3Stzg",
         "userName": "Massimo Antonioli",
-        "userImage": "https://play-lh.googleusercontent.com/-iq1UGQ1DG20/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn964bpWUwBm14nyGlE7c5MpUhL8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwqrHLvHFbaORVbXHrFQ8SgRfCsZCALfOCYIVBr=mo",
         "content": "Non funziona...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -242,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOG7HhIkXxzVV6BMp0CJlBo9aZfYXlEf9dp7zrn2lSsmhxpwkBaP2CD0-qevrRHUycKKp5Mpr3YmZsDXMQ",
         "userName": "Mario Benedetti",
-        "userImage": "https://play-lh.googleusercontent.com/-t5dliv6u9Dw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLEO4cfKUWE_ZiZHy6zaPh0i4wWQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy2mi7H1YDHEkMCct7yWLpmLuEGi9EV8Yf8QBaZ=mo",
         "content": "Non riesco a scaricarla eppure spazio nella memoria ne ho abbastanza. forse sbaglio qualcosa, chi mi pu\u00f2 aiutare?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -254,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOGZtbdQmqgKSXxFxBi1NMCCmVt8-JQL6zLVTVjwPF-uAPW-8fUUThV_Pd5ItynRB-HqAjiIYh6pacHC_g",
         "userName": "Domenico Stelitano",
-        "userImage": "https://play-lh.googleusercontent.com/-V6Ta2EERDh0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWzzluJsudM9BojKlvu0T_JF5V1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx34anwBoiwulLqxlF2z_Jt3Z_Qt1T0deM12mrO=mo",
         "content": "non riesco pi\u00f9 ad entrare per registrare i miei valori..\u00e8 possibile riavere il link tramite sms",
         "score": 2,
         "thumbsUpCount": 0,
@@ -266,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOGG9MLS3QS2pVA2O6U1qA6NFhYg-TDIW2StAMzqB83bvgoOzi4ICrzJ9TTSkj5iy1p-_zenENjXg6AMkA",
         "userName": "Monica Santoro",
-        "userImage": "https://play-lh.googleusercontent.com/-y7aei4zY97c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHCZouk8o8I_WOAwqwQ4IAmHdBOw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwqFOhgJy-XgtBYtQ0cgjCDOZ62Ggo_X9SaZnKo=mo",
         "content": "Avevo installato l app 12 mesi fa, non funzionava. Cosi l ho disinstallata. Ci riprovo oggi e mi da lo stesso problema ... inserisco dati, arriva messaggio, click su link entro, esco....non entro pi\u00f9, e nella pagina iniziale mi dice account non attivo!!!!!!!!! Incredibile!!!!! Dopo un anno lo stesso problema, che, a quanto pare \u00e8 comune a molti utenti.",
         "score": 1,
         "thumbsUpCount": 9,
@@ -278,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOG9hXrxk6MWDtqnwKiEIlH0Uhn7m92MOlWg_YdxoywFFI0Zr-QKjKHIFW7MvuJ7uhj0bzMQyE2JNE4NnA",
         "userName": "gianluca pesce",
-        "userImage": "https://play-lh.googleusercontent.com/-PgifnhZP86U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklDlW-EZVXCrin7Wz167-B9c7SOQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwFIj7XQUo6YFQVva5Y_atFxjqTLHhgXTxcGL1E=mo",
         "content": "Scaricata ma non si apre va' in crash, mandato mail ma nessuna risposta....",
         "score": 1,
         "thumbsUpCount": 1,
@@ -314,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOH_SqpibcB7C8z-M8Akb7q_VWScQ9N68H9gkNAzBNq1N_P_J8CslUSfa8zL9WMxEH72iU7YbRDJywTneA",
         "userName": "Andrea Stano",
-        "userImage": "https://play-lh.googleusercontent.com/-xmBEdwaZkZI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDXUDv7PE29MevirlVQvB4PAye5Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwwDsKern-hzEDSojy1XwLBSETdwzV_u-CzDFzp=mo",
         "content": "Installata, compilato i campi, arriva l'sms con il link per l'attivazione dell'account,account attivato ma una volta riavviata l'app si chiude automaticamente andando in crash. Disinstallata e reinstallata identico problema. Inoltre una volta installata nuovamente mi diceva di premere sul link dell'sms per attivare l'account in quanto non attivo quindi le credenziali inserite precedentemente non le ha validate diversamente da quanto mi ha detto il sistema. Delusione profonda...",
         "score": 1,
         "thumbsUpCount": 7,
@@ -386,7 +422,7 @@
     {
         "reviewId": "gp:AOqpTOG6EG44Bo539xyLnbclsdF9_9gLnuVvLfiO6qXdbGQv0DLgQRtEApiOncjBDxmlqDPXJYm1oNIpFiK7BA",
         "userName": "Gianluca Vitiello",
-        "userImage": "https://play-lh.googleusercontent.com/-esJa_P2qUa8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnuWbwGuoBwdsTDl-GAZhiF13CJJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwnFsVwiWeS9XpU1yBMBv_PdfcD4TncaCBIgcu8=mo",
         "content": "Fatta la seconda dose di vaccino non ha l'upgrade che consenta di scansionare il qr code per ottenere il passaporto vaccinale.. Al numero verde non risponde nessuno!",
         "score": 3,
         "thumbsUpCount": 0,
@@ -410,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOHrsnpi9HS6g7wohW-wPVNcRILowTjc6REKRLBZPmapnqwQOkI8Envlr-iYGVnvdWYcY4N-8dwJepciFA",
         "userName": "giuseppe molinari",
-        "userImage": "https://play-lh.googleusercontent.com/--3Ph2lqhyVY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_KOGXPimauWSWKpJ7H6pgmUM2Ow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwVA29oAGUvXJWLhBueXNy9Bdw_yA-koNybmvYq=mo",
         "content": "Dopo aver installato l'app e inserito i dati x 2 giorni l'app ha chiesto un aggiornamento fatto e da quel momento non mi fa pi\u00f9 accedere mi chiede i dati di accesso dice ti ho inviato una conferma al numero ma non invia nulla e non riesco pi\u00f9 ad accedere. Se ai miei tempi si facevano procedure del genere ci cacciavano a pedate.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -458,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOFzr4RNp_-kBFzNcbw_gJrr5LYWLpJWgaGSMI7UWspw9p4orXK2BgQ6qLLqQxnzGMZNo-bkfoXRFBr93A",
         "userName": "laura forte",
-        "userImage": "https://play-lh.googleusercontent.com/-YwYgyDBmHYQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYBuiHnAZfyH980ugidt_9CB1XqA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxv846cLRXAgL7f7mX_a6Jd9oZa_gEWqT-I5GEW=mo",
         "content": "Utile applicazione. Ho avuto feedback dal medico di medicina generale senza problemi.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -518,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOF-kCi9Lr8TeSkv6jF-OavDo8chJEWT7Oy-e4M9_EZNTUFIevY3mGacViW0AfhOnj7A-92ginwptc5hsg",
         "userName": "MOHAMED HEBARA",
-        "userImage": "https://play-lh.googleusercontent.com/-lBfITpjn2JA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0j1lWprMjJE8kUn3eKOdBRoObmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwqoFM-49lPvwBNpTXWe_qPKbJpQZJU-p9WNRBO=mo",
         "content": "Mi sono registrato ..e non v\u00e0 avanti ...mi dice che sono registrato con altro n. ? ...mai fatto questa \u00e8 la prima volta ,il mio n. \u00e8 lo stesso da 5 anni !! Bohhhhhh",
         "score": 1,
         "thumbsUpCount": 2,
@@ -542,7 +578,7 @@
     {
         "reviewId": "gp:AOqpTOG2Z18V_Dfrj-s_reNWpAeKgi-ld9JPE_yB9TWT0QzNO6wojE2Vr7D6Hl4VpWfwKfWiaB4CkdHWItAs-Q",
         "userName": "samanta di donato",
-        "userImage": "https://play-lh.googleusercontent.com/-9ugnC_sS3vs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaVfFK97ZLy0ZPX-hLqoFA78Vuow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1rCrIPrcdu553fMSdndiBSKwdNH7Ag3pK9sx4=mo",
         "content": "Sul cellulare Huawei non si installa, sul tablet Samsung si blocca al primo accesso...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -554,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOG0Nwc66l4d4OsFyVZfQ92acRBL7gl0KzUsynCmfTtJDlcm2djgLxV0KXeMCaOIJQv5MGROK65UsOPvNw",
         "userName": "Luciana Verdenelli",
-        "userImage": "https://play-lh.googleusercontent.com/-SbErRYVEMes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKOyEEbML45UvAd-4gGdmyDDpqmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy8EuWQFfIwSOtSMsIpX9WE-DLFJiXRDNX2n_MA=mo",
         "content": "Per qualche giorno ha funzionato regolarmente. Ora chiede aggiornamento (ma la mia versione \u00e8 quella pi\u00f9 aggiornata). Ma poi qualcuno legge i dati trasmessi? Io ho i miei dubbi....",
         "score": 1,
         "thumbsUpCount": 5,
@@ -566,7 +602,7 @@
     {
         "reviewId": "gp:AOqpTOEPFuop-Jn_bPd93Nm8i-ZYiVD3ldvOfJd0tfcoFEuZ6y3dYl65RFRInT8zCuKHIA1u9aIk9AmFuOYaxA",
         "userName": "Danyel Corelli",
-        "userImage": "https://play-lh.googleusercontent.com/-WQtPUBKUwuM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHOJLI5FEcexHr7NsZSDixhr_Bmw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxj1U2zHoyWYSDehhu0eSezGXc-fJOMjUKXYSDo=mo",
         "content": "Ennesima presa in giro e spreco di soldi di noi contribuenti.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -590,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOFL2JcxjJEF73HlBr9eORiAhhjiX87_nfZRnaVPGoHq0NDZ0Q7nNEUR7-7M2nW-MQPHmktK6ygiRScc5A",
         "userName": "Ilaria Sacc",
-        "userImage": "https://play-lh.googleusercontent.com/--e4iWm2X8oY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNyXqmIS1DOvX_abzdwM5YEGWQxw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwCag3cq05tYpHbTkxcorEV5Lmu1ISK-Q_PU9mE=mo",
         "content": "Non funziona!!!!! usate i nostri soldi per dare un servizio che non esiste. Fate schifo.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -614,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOHndWmQaoJGbFfeV_goA9kRfFnL-icwXHr86K0qw97v4GlGCvtKV3WbS6vrTmuCx0zY2Cuk0mztO4V-yQ",
         "userName": "Massimiliano Martini",
-        "userImage": "https://play-lh.googleusercontent.com/-H5P8rdIaKyU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGH5LlqxRaldR3uUVgo0zOgh-1lA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwzFxrw4cyO4jpzsmym0MOBEIxw2e4wEUL6-eTn=mo",
         "content": "Dopo qualche giorno di funzionamento normale, ora non si apre pi\u00f9 e dice di scaricare la versione aggiornata dallo store o in alternativa si apre ma non carica i dati e si blocca.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -650,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOE4zMzm8wWWc9ezqeFpE8-N3cwuJQU1CU4ORtC7Rq5sEntn-hmJqPuUlJkolUj7kGO8x-aUcj-nigr_GA",
         "userName": "Carlo Vinciguerra",
-        "userImage": "https://play-lh.googleusercontent.com/-e4lHfenAJxM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnUSmg1OiWNMZ-gxpyBu41uXaXO5w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7Nn5gZCwz2N4xgJXdQhXFiCnFSzePSZZLSndR=mo",
         "content": "Disattiva spesso l account e richiede nuova attivazione comunicando invio SMS di attivazione che non arriva mai al cellulare.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -674,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOHP5T0N6tnzWI3lVeLGBOgChplAvoD97LPNJLjUCRAfusx8hVb__BbrxhJ016IbxJovTADs12P6WU_vMA",
         "userName": "Vania Ponziani",
-        "userImage": "https://play-lh.googleusercontent.com/-TNYHOqnr-3k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucno0Ns82fB2nU2b3xXuNzl5uhxqZg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkp-kw1-BFoUaHvuU70oC8IbkCnWei5wzgHPSj=mo",
         "content": "Non ho capito a cosa serva visto che il fantomatico medico neanche risponde",
         "score": 1,
         "thumbsUpCount": 0,
@@ -686,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOEfeKuniZSQF2AihPYYm2sMuWhhJwQpxJ5T81Oz8lULyAua7zz0q3PTXFW01UE3c4xhg5zrIkhDXsaiEQ",
         "userName": "Banghelo",
-        "userImage": "https://play-lh.googleusercontent.com/--FIJfleJGTo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck6OfQm8gdWXKBWqxPaUPQBUa1Aow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzEZfJVtC6T8H1-DW118MPIoU2xWCBWjgexeDn1=mo",
         "content": "Se vi contaggiate vi diranno di scaricarla per seguire a distanza i dati che inserite giornalmente, ditegli che preferite essere chiamati al telefono quotidianamente.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -734,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOEOkOGlpcEr3J_W_fTxaA_Wc0TkDgGwLPnvClJ6KC6xAncOU-4sT2MqnoBqfUDlt9rSF5pGhJ-UHtElCQ",
         "userName": "Giancarlo Fiori",
-        "userImage": "https://play-lh.googleusercontent.com/-I0dhq5ZEbKw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2yeWETu_yGODqNj2vVwqY0d8V4w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrrWCsDoovXT48ZjAfGXQ8Mvssjdsx77bdF7MN=mo",
         "content": "Credo che sia unottima protezione.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -746,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOFPhiKnlIvjQ7h-PKvPG8xeHdldK-3vokUKfHlBkqUq39WyiLai1nwBExMDe_fgs788DZEJ5NYwrMmGaA",
         "userName": "claudio carelli",
-        "userImage": "https://play-lh.googleusercontent.com/-vf-WR8wz6S0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckua-gxGdSv4assCuDaaBHEEEnt1w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxECR3CXv1PjnTuZcul4wWsdCbdksvLdBbk7Sew=mo",
         "content": "I grafici non funzionano pi\u00f9: invio i dati ma, non avendo il riscontro nel grafico non so' se sono registrati. Se non funziona pi\u00f9 ditelo, risparmio memoria del cell.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -758,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOGPkfz3RgzEORa1PgBKVhCd1IK1OFHtb5oSZj5txyTfIGbaOxUjMRIbOwB7fDDJ9509rHSjt5CqANp7hQ",
         "userName": "Liana Marengo",
-        "userImage": "https://play-lh.googleusercontent.com/-YVqLJOOmXdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZJ9QvewvzfWKg-IKox_w74JV_BA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxny-2Mw5quxjFyksd01ojrc4nuQniGzgjMzwDj=mo",
         "content": "Tolto accesso, prego provvedere non mi invia sms per attivare",
         "score": 5,
         "thumbsUpCount": 2,
@@ -782,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOFZRDTQZAeWztyIVCW1BJIZY8aK8Bry9dSr1iTVnA4RnVOIkX1jw5gIldwveeIXFJVOi758l6a8ZG5brw",
         "userName": "adolfo resini",
-        "userImage": "https://play-lh.googleusercontent.com/-Yw7CqbFT20I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjxDOIxpZ-cZx1sERnP_J9W3DHcA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyesXdJKlF-OusTcpAuPYyAUw0v8_fPZsVWgyqA=mo",
         "content": "Scaricate tutti l'app.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -818,7 +854,7 @@
     {
         "reviewId": "gp:AOqpTOHaHIapPr0Sv16HR2ZU5QgOhEol2PxMvhpD57gN8BKGPB0WTGrhi5sQJs9g3sdGrhq3NCQi0Y87hUmjXQ",
         "userName": "Sebastiano Manzo",
-        "userImage": "https://play-lh.googleusercontent.com/-g8UiSBpsdmU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclswG-CWvAhU0d_jJOC2IHknaIBaA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwvt9DpuUE6ts_CuL2ZEEvLa6klIw-DN0CPFTDB=mo",
         "content": "Non serve a un c... Avolo! Test inutile. Non risponde nessuno ai contatta... Che senso ha?",
         "score": 1,
         "thumbsUpCount": 4,
@@ -830,7 +866,7 @@
     {
         "reviewId": "gp:AOqpTOH1g_fFAyYpU7pZxSVbD9WMrdk-8wd88RU8Y7axO7ziYvZSreRscdH2JO_jSDxE3MLIIsf8Fbn5MX6Hug",
         "userName": "Domenico Cirelli",
-        "userImage": "https://play-lh.googleusercontent.com/-XvtwY8HKkyk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBjJIGcROPh3Qn6Z_s2qykB0_uTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx_TLeOLjEWBRnWG_Rf_eb_sMiJjuxWoW39vy9h=mo",
         "content": "Assolutamente inutile, \"Contatta il mio medico\" non riceve risposta, i questionari inutili e il numero verde cade la linea. Un'altro ottimo utilizzo dei soldi pubblici e complimenti alla solita raccolta di raccomandati LazioCrea.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -842,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOEYFinasQIFnOLTHuKtUX7cRroMZnv0xHb4wQl1LBNZaj8kuEnbHNof1xW0WKUE84OZJh7rNNhhA3JFkQ",
         "userName": "Giovanbattista Tucci",
-        "userImage": "https://play-lh.googleusercontent.com/-hhq1_E6Nu1M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxpEL_v57DMTE4xoK4NsppAosmlg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysT3Ki3te9BbKuTButixy3q7Ab_XyBNtCO_nci=mo",
         "content": "App inutile.... Complimenti",
         "score": 1,
         "thumbsUpCount": 0,
@@ -890,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOEMxByJp_megr9aHTl7JV4AKbmKjoVeksDhZuKSm8tKbZNIPxSosa_XgxNKoQXkpsET8L8zanwdQKpuqg",
         "userName": "CRISTIANO IACOVAZZO",
-        "userImage": "https://play-lh.googleusercontent.com/--CeaH9s16no/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7tbNXqnDwEVxwpLWJeHs6DoA6xw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxbU3EvLX4cGfdY-c05IoFN-KJFwPazQqIPilme=mo",
         "content": "sicuri che l'app funzioni correttamente? E che i medici di base siano informati o connessi ad essa? Io non credo...ho contattato il mio medico con l'app questa mattina alle 11 (quando era ancora in servizio nell'ambulatorio della mia zona) e ancora non ho ricevuto risposta n\u00e9 vedo esito di lettura... ipotizzo che avendo tutti i miei dati (comunicati in fase di registrazione, con mia assoluta approvazione) siete anche in grado di 'collegarmi' con il mio medico... il problema di chi \u00e8 allora?",
         "score": 2,
         "thumbsUpCount": 2,
@@ -902,7 +938,7 @@
     {
         "reviewId": "gp:AOqpTOHbGnK3YCM7KyI1e_nXAGNpSEj1l-S0bT8McueNPvWFqBEGQ4uQibzzaDG4oHUc_jPOzn7okmK6AVg4sQ",
         "userName": "Massimiliano Anelli",
-        "userImage": "https://play-lh.googleusercontent.com/-X3G-ZmURz3Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnIzob_e41Y16FOLXKroWEOghMHag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIuV-SsAP1_2rYN3MaT_OdiJnUP5FlcEhZ9ngR=mo",
         "content": "Il medico non ha mai risposto e le altre funzioni non danno alcun valore aggiunto. Chiss\u00e0 se qualcuno riceve i dati e li lavora veramente.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -926,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOGRjYreraY8qiQJVtHlfqgUZrXtuPJerbeNp28Imi1WYccbEBiHXdV3dsQFeZgrXsz_P8yuj5DEfRU86g",
         "userName": "MaRivolta Ska",
-        "userImage": "https://play-lh.googleusercontent.com/-2Vvl3FsLQV0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckmiUdbyQ-_ZG9WUYwWn1K14cVa7A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwLSANn4BKpY1DF0nV7ywyaBZnsanX5g8fPOPkh=mo",
         "content": "Scaricata ma non si apre. A cosa serve?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -938,7 +974,7 @@
     {
         "reviewId": "gp:AOqpTOHDqtd7Nvt5j__QpdgDNCGwIBbMzi1mnnVubA7earuzGEbn2VdpRP-LLl3aaggd0l6V0yJMStxtkB4Liw",
         "userName": "Franco Spadoni",
-        "userImage": "https://play-lh.googleusercontent.com/-C99qh7ChAMw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTuMIS9-1m3iaP_QQz2MBlf2GHeg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzrDE_8CH6zvGyIA8AmN-d7Ahe6hzZpHDwMtFI7=mo",
         "content": "Nella fase di installazione \u00e8 comparsa la richiesta di dati riguardante modalit\u00e0 di pagamento e la richiesta di fornire a tal fine i dati di uno strumento bancario ( carta di credito etc.) ..?? Procedendo nell'installazione viene richiesto di acconsentire all'installazione di kukies e l'accesso a tutti i file multimediali dell'apparecchio su cui sto eseguendo l'installazione. Perch\u00e9? Per questa ragione non ho completato l'installazione.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -962,7 +998,7 @@
     {
         "reviewId": "gp:AOqpTOHopeuNuJyjoBbU4R5UvdeeiC6EOMUoV0IEO_kan1SMgPGiM8vK2lARoBCnNfZzaeSCGUiYiHAuVgVacg",
         "userName": "giorgio pogliotti",
-        "userImage": "https://play-lh.googleusercontent.com/-wj1YXEUIYs8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucleGYfvFyvs5_c6a1r6K2-8qWeYSw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxB72-sgJi1vAJdbZLo7l7tPQfIjgkYvwf51pl2=mo",
         "content": "scaricato app Lazio DrCovid e compilata autovalutazione  ma come posso segnalare il mio rientro dalla Grecia a Fiumicino per poter fare il tampone?la app fa riferimento solo al n. Verde che non riesco a contattare col cellulare dalla Grecia, c'e un altro modo per segnalare il rientro e prenotare il tampone?in caso affermativo potete indicarmi la procedura?",
         "score": 2,
         "thumbsUpCount": 1,
@@ -974,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOFEI15o7Wp6FRdmImBVk4C1Kr_9cCXmkg2V03_EVErFj97Dltdqr-MDf4apc_Ji7-v0cZKgUJYungEvHA",
         "userName": "Debora Marzolini",
-        "userImage": "https://play-lh.googleusercontent.com/-otmmdoZJ7RI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmoaCgF37rH6o5prbkJaPmkZYNS8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwyY2qL6MN9QxB6oXC5rzb6ZtrkevmxpA9TjFBa=mo",
         "content": "Ottima esperienza",
         "score": 5,
         "thumbsUpCount": 1,
@@ -986,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOErUo5skN3ulKmxdHGdn-y2_gNbqu8s9AlNyGaeXzadjPunTA8nWMie0l2zAsrIoGNfE2HcB2ONkXrFNg",
         "userName": "emanuela quattrociocchi",
-        "userImage": "https://play-lh.googleusercontent.com/-6AV46IHHO74/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWzgb9WmUTECWOHnUfjnBUGKRPvQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzyI9zpCf9NIXCwZlXwSPMvWxAeHlKD39_NMJ1c=mo",
         "content": "Non si apre, non funziona. Utilit\u00e0 zero!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -998,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOFgt1qZYbF8MQ322nvu9JbbnsLNYOYRjxmk8v_0o9gKMHyzpHkXKBSOloFN-MkhrapJspoDEDyEJRfG9Q",
         "userName": "valentina venditti",
-        "userImage": "https://play-lh.googleusercontent.com/-Pz5et62wwTo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnh0snGlnwwoNYNeyEA926cXFRzkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyVBNWRVV_fjCua82Z7SKTBfX88G_uBMgTnsvHA=mo",
         "content": "Molto buona",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1010,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOFs5PQ9LsIHAQtgdi2IsZaqLliG39dq1uQP4UetNSJB13Ne-9Mpc2HYrxMEAjbGhVR6tU8_4c2WQSvWtA",
         "userName": "Donatella Barberis",
-        "userImage": "https://play-lh.googleusercontent.com/-k_bNabmOSso/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4TL4w7e1dww2aIejDMJ-ZpWoHaQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFPgIQrho63CHq94Ig6g_TyswK0CM-_usiSm_k=mo",
         "content": "Non riesco a scaricare aggiornamento. Ho provato a disinstallare e adesso non riesco nemmeno ad installarla di nuovo. Questo problema si era verificato anche a marzo.Ho un Samsung a50 abbastanza nuovo ( meno di un anno) e ho un collegamento Wifi 4g",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1070,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOFEh-BKUls58f9hWX-4tqP-w2KSY6lil9Zx5MI1eHt_8UkyG1FWSS9lgG6A1tHY39M0veqMmC40WC4NBw",
         "userName": "Roberto Falvo",
-        "userImage": "https://play-lh.googleusercontent.com/-k-IozHDZm-o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnt7mAXS9HpbriUi_DwVTBPPnxYA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzV_yIdAaVKDFOiTpCFgpY0ms0b49CHQUxKL76F=mo",
         "content": "Non consente alcune descrizioni nel dettaglio, a volte si blocca",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1094,7 +1130,7 @@
     {
         "reviewId": "gp:AOqpTOEMmqVhaMqPsfElvJ10Ti7cDJ9gSYQ0epSSGh0HPf45YPpR38pw7SU75uqocsp6aEgS04YV-ZuGekt3IQ",
         "userName": "Stefano Anchisi",
-        "userImage": "https://play-lh.googleusercontent.com/-1H7Hv11Q2uI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclhwNpal1cj75GxK23NU_t0i8RRTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwLq1AvKPQPEU-HUBUw_w0VxCxgHUHiFga4Dp-V=mo",
         "content": "Registrato fa subito, non ne capisco l'utilit\u00e0. Ho fatto io tampone r non c'\u00e8 la possibilit\u00e0 di scaricare il referto, le altre funzioni sono basiche e non ne capisco l'utilit\u00e0.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1130,7 +1166,7 @@
     {
         "reviewId": "gp:AOqpTOFJCsp3PeXp0CHXaMgAoalLs5CMo94TLNqArmV20G-_CtcSuVz5Uv6d9DxB6g27q3Krty-2aGDKDDDEDQ",
         "userName": "Paolo Ferrarese",
-        "userImage": "https://play-lh.googleusercontent.com/-LHIyA3IhCxI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckI_TKIByZDXgwC_1O4RpB6DekuEg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6D5UE9_vW4rz6EwAjW9y6Ob7vntqKtux4wP7s=mo",
         "content": "Una autentica schifezza",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1142,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOGXREpkZ3yC20gp6W460eM5CM6vukKckIGhK-YCrH9K9K4YyiSZX573qgiS56NYpCf130Wdpn7nV-Jf_A",
         "userName": "Alessandro Storgato",
-        "userImage": "https://play-lh.googleusercontent.com/-vuoA8I9jEyo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclq2kbFfWzSuKf_R5jNxPqwXRorow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJywLTlG8pg_Uraf09-bP1ijb9L1RzFd1WK6pHSS=mo",
         "content": "Apro l'app e di blocca al caricamento. Mi dice di installare la versione pi\u00f9 recente dallo store, che e appunto questa",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1178,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOFPiEPkY5fUYgxFnMnGfzMp9NlnWCat4Bi947w8vTVFLfgBoplbGZiAgSpE4GeAzP8WfAMrL2cuxjHp4g",
         "userName": "Marco Pascucci",
-        "userImage": "https://play-lh.googleusercontent.com/-_KS495snkRI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDh_92yMSira4Y87jZuy5nUD8ESA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxeGT54TmhlyQ0yKam3EOwoLzes9t3JL2i8b02y=mo",
         "content": "Con l'ultima versione non mi funziona pi\u00f9. Mi dice che devo aggiornare l'app, cosa che naturalmente ho gi\u00e0 fatto, e mi porta al Google store dove mi dicono che, per l'appunto, ho gi\u00e0 l'ultima versione. Dovreste rimettere le cose a posto, per favore. Aggiornamento: bug corretto, metto 3 stelle perch\u00e9 secondo me alla fine cos' come \u00e8 un po' senza infamia e senza lode. Secondo me l'unica app che dovremmo tutti installere \u00e8 Immuni, quella del Ministero della Salute. Se non l'avete fatto, per favore fatelo.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1226,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOG8D8rz6HsgAngbxVtjpEQFzSuZ0o3XtyMhY6vlPX87u1CFmsNYhLvLkfjDi-c1dMJTTt4hfvzy9BTc2Q",
         "userName": "Angelo Di Giorgio",
-        "userImage": "https://play-lh.googleusercontent.com/-vgrjPAvbinQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4juDJf6THQ_XngmkrLqhzKIYEZA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxk9Zr5vXyiVV7GIqGhpxLMFz5CNqqCmUcgKQWn=mo",
         "content": "Inviato Sto osservando le distamze e usando le precauzioni.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1238,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOHC_VIuWzUPVPaZQ8W0XhnLoFDCJRgMMsuxl3bc2Z5nkMsAVZ1O9CHZSpY1lnYRmRPLOEv9J3JD1RznnA",
         "userName": "Giuseppe",
-        "userImage": "https://play-lh.googleusercontent.com/-PnCSkJPZgrk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGQqK0TjR6kJ7KLKfQOCEIM_QkjQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdu708pWIMSy6ZHwmVsGsRSQpVYdsTHzYfeSf8=mo",
         "content": "Ma la voce scrivi al medico a che serve se non risponde nessuno?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1274,7 +1310,7 @@
     {
         "reviewId": "gp:AOqpTOEKj_oc0zAno0iF3QBvj5Tsm6UWGF1j-rGbk9te03CsmH4BkfxFynk4jP8bJ1Ha6GD37EVxngu-DDZKgg",
         "userName": "Simone Rossi",
-        "userImage": "https://play-lh.googleusercontent.com/-yh7cAkLXSF8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckm6J4Vb9v-UI7ofPOS2e8eiGvbNQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxEYwzWBLras2MrHt6RWQgYR_0kOQJFDWzhGXV3=mo",
         "content": "Sono tornato ieri da Madrid e devo usare quest'app per fare il tampone, di conseguenza l''ho scaricata ma non me la fa aprire perch\u00e9 dice che devo aggiornarla (nonostante io l'abbia appena scaricata e non risultino aggiornamenti). Non so cosa fare.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1382,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOEimZ8ZTe5RKJxeYBgulJkTTZuJq9qlxWuf85b2miKzb9WKkdLa4oUYSB3FoJcX1zDgtxlYr630TNzvFA",
         "userName": "Tiziana Vallenari",
-        "userImage": "https://play-lh.googleusercontent.com/-IlryIoTA7Po/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmAy_Aa937dPHJHdO0kxrh04LZV2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwJF95V31_4JYd_9NE32jN5HCau3LHYBxElJx-Z=mo",
         "content": "Non arriva email. Link da sms non funziona.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1406,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOH9DAm-CEcyP5xJKYxIwtZ4Df-pZUhhs19E_wvzITEZQIRYkyIDWzfWMj1HqbnQC0VvimHuVjvs1ZaryA",
         "userName": "Mirco Mantovano",
-        "userImage": "https://play-lh.googleusercontent.com/-3wtseGTjAA0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLxWC1b_yNhw13uwPVFKQntyLNfg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy8XItnha9ZVDVbo5kV2rUOU5LnDFcTFrfjvVU8=mo",
         "content": "Non arriva nemmeno il messaggio di conferma del numero di telefono",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1418,7 +1454,7 @@
     {
         "reviewId": "gp:AOqpTOHq6wq1rXxSxxzGuClUH_AC0vc6ZyATncmcgcKncmCvBGuOY4TXqT3MP8DLiDWoihKX-ijUaT-jXVO5Ng",
         "userName": "Federico Buffone",
-        "userImage": "https://play-lh.googleusercontent.com/-ni-w5HQGZeM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklb4mtlD5QSJwuX6nTTzBigGdDGw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJze62-_lEJAf46kfo95OLu-egWWS9T4Z0W3jJ2I=mo",
         "content": "Non ne capisco l'utilit\u00e0...ho scritto a contatta il tuo medico e non risponde nessuno, il questionario di autovalutazione lascia il tempo che trova ( ne avr\u00f2 compilati 1000 di simili negli ultimi mesi )....che altro si pu\u00f2 fare???? Se qualcuno mi spiega l'utilit\u00e0 metto 5 stelle.",
         "score": 1,
         "thumbsUpCount": 15,
@@ -1430,7 +1466,7 @@
     {
         "reviewId": "gp:AOqpTOHMwpqzi5iBZkwkuGBMnlLcZGbvRcCpda7h-m0zRuYPE1UWCHwMHiN1kDjTO0__lpMBoImQs6s2M6CZlw",
         "userName": "Anna Rosa Toma'",
-        "userImage": "https://play-lh.googleusercontent.com/-Fzka62V1wnw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn03xchcV9nUuz7kfgHA_Kt_Qjjig/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyukx8bikBXHPDuIl2rLcKYeYI2dbffjFK4faEb=mo",
         "content": "Non la ho ancora provata",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1454,7 +1490,7 @@
     {
         "reviewId": "gp:AOqpTOFQBxHHLikvlZjm8FTm78bxV3t7FCjkCL3htR6oFrRZpM4apGZvdf4wmTznIEvIvcpB0BACuqNQB8gc7w",
         "userName": "Malakim Angelo",
-        "userImage": "https://play-lh.googleusercontent.com/-U1Jj679ntXo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucma-vmfyVEN8F8mssQNVmawjHFB1A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzI_lEGtejhx2R0p2u98jh5APkLCSz2I0d1-OVp=mo",
         "content": "Per carit\u00e0 lo avete fatto difficile, non lho scaricata.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1466,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOFh2NORf3-w9craEwb9_yng7vOV9aqgc24BXaWOWOCKhNAfVnHfu5kte-oU2TfFafLENe0VUuB6Z0dR6A",
         "userName": "Domenico D'angelo",
-        "userImage": "https://play-lh.googleusercontent.com/-Q5sk2gSKh14/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmvdOIYDYQiutR4059PpbVTfzfHUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykN3SehTVHD_l09zGrfP6zpLa8Hl3BQ9pSS04e=mo",
         "content": "Buoni",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1478,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOHWTK6VByDTbgPdydQ6Da6Lqm35347Q8E31KVddZPlDheC26UyXc1lesZcmT9J7wGKQmCntzoOZpxL61g",
         "userName": "Giovanni Greco",
-        "userImage": "https://play-lh.googleusercontent.com/-J9rb-KgyIes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-QpQq-qmsE_49GeeoofliBucQdA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJynIrphpJAMOXkQ9WDOwj4OxDL35Z_sUTD350LV=mo",
         "content": "La salute prima di tutto.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1526,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOGsdWXnOqm3iwGwOCJow31rYkhJrtUtuwxHp0QbPx5BtY6xyyqgDCoVC78MOphpqJY7bmHtxTbML68ZhA",
         "userName": "Enrico Formone",
-        "userImage": "https://play-lh.googleusercontent.com/-Nw3YHCH7rQI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCqC-MJ8hymIgeJA_aJIuX6WAXCg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyparn0u3Bt_yA55Yr0tiaYpQggy69xLP6g6QzN=mo",
         "content": "L'app non si riesce a scaricare il mio medico non risponde al telefono il numero verde della regione e' una voce registrata. Se in un momento di lucida e onesta autovalutazione decideste di cambiare mestiere provate a cercarlo in un ambito dove si fanno pochi danni. Tipo ippica ad esempio",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1538,7 +1574,7 @@
     {
         "reviewId": "gp:AOqpTOHCy3xdFpr5-25qPug6mHdiPiH7JDxmMbkLEjQGnh8rLAvz2xUoLHMja9w7wyvbE7DtWsvGmS42zEkWmw",
         "userName": "Cristian Sguazzino",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjaFbh6E-e8XGbjjThU0H9f455zkf8BKBnvNw_mRA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgAELQgehtjBonlrw8jyF0oCmLA5RbHlJLjO2MCByI",
         "content": "Salve, vorrei farvi notare che quando si compila l'autovalutazione, alla domanda: hai frequentato nelle ultime 2 settimane strutture sanitarie ? Io rispondo NO e al termine dei quesiti andando ad aprire il documento word con le mie risposte risulta SI per gli ospedali anche se la mia risposta, come gi\u00e0 ho detto, sia stata No! Ho provato 2 volte per sicurezza, ma il risultato \u00e8 lo stesso.",
         "score": 4,
         "thumbsUpCount": 29,
@@ -1598,7 +1634,7 @@
     {
         "reviewId": "gp:AOqpTOHAL1CB1Lrsb91zSjHcMb6o5mzvPGuGR-q03vk7a4eDCTIC2fNi-rduv0DfBRbbyLL0NQvMt1Gi-4FneA",
         "userName": "maria pascucci",
-        "userImage": "https://play-lh.googleusercontent.com/-rFvxgc0YFRA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucleOMeqPlsJhwnizgKFhovMPixvXw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbf6AKCxFGJw0g85zWR3z4QgWqhamI5XtGD_LM=mo",
         "content": "Ottimo",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1610,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOG8UT9bqNMSH7EUM9nbNDfnirwhNIgE46VxE-BVoesvWr36iC6C99Wwe2C0eJfnMdBmumlmMDAIS-3nxA",
         "userName": "Studio Fornaciari",
-        "userImage": "https://play-lh.googleusercontent.com/-dxzz_IKuO1k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucng8gt-UkG1RnWQ9iDAcCpU1rEvwA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZlEafDReSQe4F6_vuE7M6EOMYgTab0yGy6YRB=mo",
         "content": "Un po' complicato",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1622,7 +1658,7 @@
     {
         "reviewId": "gp:AOqpTOE2NNp7mZ113OTaiHuOBYp8jvLohMsS4sK1E491D4azlPuNsJhdd6MQjbsFi3iVKmUH62S6LOk4MG5k3Q",
         "userName": "Francesca Felicioli",
-        "userImage": "https://play-lh.googleusercontent.com/-XnFt-ECJ4b8/AAAAAAAAAAI/AAAAAAAAAGs/AMZuucleTFQNGV689DJY4C80n_w7ByR7vQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJza_-WybLI_vG9jITUalKueqjlQGEYlkaV2OpNx=mo",
         "content": "Appena installata mi chiede di effettuare l'aggiornamento peccato che su play store non c'\u00e8 alcun aggiornamento... In tal modo non la posso aprire. Disinstallata.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1634,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOEAm1Y_wwerrxRrRurn1LkSSMQTw5jkVc6p064GXLWQghLEC8e_FpSfEkgOjsXVzGD1Dwx61PwPItf8Qg",
         "userName": "Andrea Marcoccia",
-        "userImage": "https://play-lh.googleusercontent.com/-gWnAGjw2cr4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWFKn1Qm86416WzzuBuy_rIGRgCw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyW9RcOuroNA7gAtMkA7w0CgQ8jIRLN9f9jReuN=mo",
         "content": "Funziona, per quelle che sono le sue funzioni base. Sarebbe il caso che fosse collegata con la propria cartella che si trova online accessibile con CNS in modo che possano essere sincronizzati i parametri.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1658,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOFhlN14yZHH6Y3J40p-e3frJh2LcSl5TSdXywnx5lL0njuac169lRVV1qUoylBLKgUJzmYo6ETTmlMtDQ",
         "userName": "Valentina De Giosa",
-        "userImage": "https://play-lh.googleusercontent.com/-6TdGO2i4rT0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8T63KI65bxibCdQqjUguAruJ4sQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwriW571xGpv2dRMqnVaKt74d0yv4k9PMbew5A8=mo",
         "content": "Perch\u00e9 per aprire la app devo dare il consenso all'accesso ai file multimediali, foto e altro del mio dispositivo? Credo che tale consenso debba essere richiesto solo se necessario e in prossimit\u00e0 di tali azione da parte dell'utente (immagino che la app dia la possibilit\u00e0 di caricare foto e audio e altro in caso). Disinstallata.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -1694,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOHqUI6l4J1PGWZ_3U_xuRRJpXnXSgNnL2UwpFAwFbta-Sj2I85O5lWdTjATArJX5zbIy3E5EdenGCfkHg",
         "userName": "Jonni R",
-        "userImage": "https://play-lh.googleusercontent.com/-4ZI1FV-uIVg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_aRjbRGGEh2wovy74tJHawkpT5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzK7Gh4u2rBfsUt7asi03hn9tVrELkLeRes88M=mo",
         "content": "Da 1 mese e mezzo cerco di installarla e non c'\u00e8 verso che funzioni. Mi fa inserire i miei dati,mi avverte di aver inviato un SMS al mio numero e di cliccare sul link. SMS mai arrivato. Inoltre sull'app accessibile da PC, riservata ai medici manca la colonna dei tamponi.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1706,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOE8zYRDN0FJ6WFAk9xd87k-otBvUAFfVLBMGdW6YBrjHTnznVPlk7dhHOFqGdCEODYDuVpja7I8hU5Ozw",
         "userName": "Franco Di Blasio",
-        "userImage": "https://play-lh.googleusercontent.com/-KerE4P4tb3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBmRTjgLEohcSBTKPyt22evW9_kg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz75bccGpa230vTIbbVHP702lxP4ZD1RVr_qAHH=mo",
         "content": "Ok ma il fatto che nella scheda \"contatta il tuo medico\" non compaia pi\u00fa in nome del mio medico cosa significa? \u00e9 voluto?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1730,7 +1766,7 @@
     {
         "reviewId": "gp:AOqpTOGXfOLj-oImbOBHaZ0O64vRiUBiOU8u2zOOw5s_HygDXTVAonQgz7NAQOspywZD3HIE96dPnQe3EjhZRA",
         "userName": "Domenico Rossi",
-        "userImage": "https://play-lh.googleusercontent.com/-oBMIaOCqCRI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFXWrTTxSNObMnQHmp7TuSje7TLw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwrmyECSPi2gsAdZdbU9xe0rQsiWu_RW0RFEBYf=mo",
         "content": "A volte non consente inserimento dati",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1754,7 +1790,7 @@
     {
         "reviewId": "gp:AOqpTOF6zhg0wZcMWlF-uTxEIP-WE6jAinTzrYZCIUU8VcehAumaymUrAAI3UuUXeXA4gFGZSiOEaVo-A1d_Og",
         "userName": "donato tedesco",
-        "userImage": "https://play-lh.googleusercontent.com/-faf3MmMfVY0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLTv4QsxaXbsItSbDV3Lp77fF7zQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwYSR6xwKxTmAlHQYibpKHNWop-7xbUMuxeIOeU=mo",
         "content": "come faccio a vedere il nome del medico? e per contattare la pediatra dei bambini? grazie",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1766,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOEtJFjCTA1Seo0sZjIy4gvHfQ5TgIkxogKcY2gGBCHwcp6SMsI4W0RvTwLi07R8cJOWYlse23a5_WVw5g",
         "userName": "Giuseppe De Bellis",
-        "userImage": "https://play-lh.googleusercontent.com/-JPxbicPWfgM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhv6oxfQu9OHzBy7bKWhx0gXiA7w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwyK5DPJnf4rGgISc-XyST7sWYE-aYr_z2FIGAb=mo",
         "content": "Non mo permette di cambiare il recapito telefonico: come debbo fare?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1814,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOHub6JiRNf6n5uUiV8h3b9oOx5nSpdYyFD24dm_d4EXzI1Nm2bOK5BM01T3nvnCKO167n56WG02t8tKdQ",
         "userName": "Evandro Franceschini",
-        "userImage": "https://play-lh.googleusercontent.com/-rgygF-fO_0g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmk4qIO36_IL4OVVXMcQHNswcHBLw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6SBzXBUT9wRe-fNEV-rsBInYmRaDWHRJC3q8O=mo",
         "content": "\u00c8 inutile! Dove sono finiti tutti i miei dati e le rilevazioni dei parametri vitali che ho inserito dal 16/03/2020 al 26/03/2020? Successivamente al 26/03/2020 mi sono dovuto registrare nuovamente altre 3 volte in occasione dei vari rilasci della app, non \u00e8 questa l'informatica a servizio del cittadino! Cordiali saluti.",
         "score": 1,
         "thumbsUpCount": 14,
@@ -1958,7 +1994,7 @@
     {
         "reviewId": "gp:AOqpTOFCDgeaCrn0opTUDPiCZWE_ecZqQ2Gt1tr7Kb_R-kfjcIteMmSG5PuluxBPHidP5KfXSsEphGv42RDsog",
         "userName": "Giacomo Valletta",
-        "userImage": "https://play-lh.googleusercontent.com/-jvHeYBNHGjk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3MpfS166WtMdcYMwDP5zArviJ8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx22QeO2NP5EZHQes5pQQJpN7GUEcJToZLYuqeO=mo",
         "content": "Bene . Quindi se un cittadino \"qualsiasi \" ha sintomi riferibili al Covid-19 anche a lui verranno a casa a fare il tampone faringeo e , in caso di positivit\u00e0, gli verr\u00e0 somministrata la terapia antivirale a domicilio, come \u00e8 stato fatto per \"qualcuno \". Se funziona cos\u00ec allora \u00e8 molto utile. Funziona cosi per tutti i cittadini ? Una semplice domanda a cui rispondere con un si o con un no.",
         "score": 1,
         "thumbsUpCount": 22,
@@ -1982,7 +2018,7 @@
     {
         "reviewId": "gp:AOqpTOHfiaxT89qtn4Scy0wgqGNBjswhwMqw10weAiMcNg-063GnRJPB397njSUnVe17MphOC0tDq_jpBpImMw",
         "userName": "Paolo F.",
-        "userImage": "https://play-lh.googleusercontent.com/-qRwSkl7gVCk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2QA8yv0j4hhPwCeAIyhgWZBLaKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwuIr8qQfGQsz14ARBArPnEWyuuoWLd91-wadtY=mo",
         "content": "Dopo aver fatto il backup dello smartphone ed averlo resettato e quindi ricaricato il backup, una volta reinstallata l'applicazione, questa ora funziona benissimo.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1994,7 +2030,7 @@
     {
         "reviewId": "gp:AOqpTOHH_cDFd57aO13_BkNcKdPE4HEML6pImidfoipnxXrYbut1MSsBMSh7LVisXEXLLQFii_L47dAQfM2oGw",
         "userName": "margherita celano",
-        "userImage": "https://play-lh.googleusercontent.com/-REfW6yro4mg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckASrqA_ws5s4CbwmJKzmhBa3yoZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz6cRQUgz_VATtI2-SB-j7woNwe_yqNLOPoMkU_=mo",
         "content": "Non e' arrivato nessun sms con il link da seguire",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2006,7 +2042,7 @@
     {
         "reviewId": "gp:AOqpTOGb_0qGQToS6fOYJP4SwFQpUSyKYgXycSPpCRZ2Xm_XffXDwHV9vy2f6nq0jtRI2u8y1Vw2L-V0WnsWCw",
         "userName": "Gian Piero Di Bartolomei",
-        "userImage": "https://play-lh.googleusercontent.com/-pYY9kBBRywY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqx2kfvn0mQJlkrnuBa1-ZTWR3qA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhTUtQHSifckJT7a6tN6nCm89YDr6r8JMwbfRh=mo",
         "content": "Esperienza non buona, perch\u00e9 spesso l'app non funziona. Ora mi dice di aggiornarla, ma su Google Play l'aggiornamento non risulta.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2030,7 +2066,7 @@
     {
         "reviewId": "gp:AOqpTOHsDOWhvGqHR5rY_yEScTjqH9jJ4vO8tKp8zuA1cxcU1GQ9IZtPd7P5D_hvDQir4pLI9tRj8j-xjIlH4w",
         "userName": "Rossella Blasetti",
-        "userImage": "https://play-lh.googleusercontent.com/-bHZfJ7U-i7s/AAAAAAAAAAI/AAAAAAAAAPQ/AMZuuclJJ9FtY2Czfg3LYZiEBDQPa9QYnA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxVF5QJ9_rL0nCBfVkoGKwQCmQ7xCD6Z653r8wKYQ=mo",
         "content": "A cosa serve?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2042,7 +2078,7 @@
     {
         "reviewId": "gp:AOqpTOHZNvJIZ1rBFeK0FBUTLzjmtJOpF3vtPHvZfUpmkcC0ymf2t3xeQ69MWwaJTnoXC0-hlIydcYjMQo1NoQ",
         "userName": "Aurora Possenti",
-        "userImage": "https://play-lh.googleusercontent.com/-LqrwNcpNxT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcQYSWuY7mL9Z4eSmCEIDHHzpUDg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy1qpBMmkzaaTO11-W20pw8ahHRNh84snu_Xzh2=mo",
         "content": "Messaggio arrivato.. Vediamo la funzionalit\u00e0",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2078,7 +2114,7 @@
     {
         "reviewId": "gp:AOqpTOGbUEosmCk1xy5AW2HztTPN7Uz4hYvN3hzG7f6SIdzmygPVB_A4t7qx9CRfDr35-QX4zUhJRCHbdoLSgQ",
         "userName": "antofillite",
-        "userImage": "https://play-lh.googleusercontent.com/-uo-i5XRO8Y8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGkARnTjW0N2wiTEdhrHJYWG0hNw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykFx6TGa1z-Qgr7MIgU_zTrVmJw55QEtWhhccD=mo",
         "content": "Sarebbe anche utile ma, purtroppo mi si blocca spesso impedendomi l'accesso.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2090,7 +2126,7 @@
     {
         "reviewId": "gp:AOqpTOHKoXdLi0pBRonQD2KzfUircF8G8OeRvPZV1wMocdYQKc8CvnHdledBGfBVcwhhLDdhNbdQdGm9-B6F8Q",
         "userName": "gianluca cilento",
-        "userImage": "https://play-lh.googleusercontent.com/-pBbLueTNTHo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzTAskKwRrOEVH4Y-V-tBRCsVtZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyBVZ_Gq6hDVMxXef_GWG_ue0J3CFlK-hMWbbhx=mo",
         "content": "l applicazione non funziona pi\u00f9 e quando si apre impalla il telefono",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2102,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOGeLON2HiurbJgUwKvCX7N7Nef-QhBmVUq8GyZ9PSsUCkW-cHNHZdyiKmlaKRmIT-7jW2bGri45JoydMA",
         "userName": "gabriele.pilato@libero.it Pilato",
-        "userImage": "https://play-lh.googleusercontent.com/-6MIAuVkw1yE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn5KTWZkdeR5_fEl54InZIn7Gv2jg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwg5MhmPvfH10ZQqWb0c0sadn_i6n9kwT3NfVSq=mo",
         "content": "Utilissima applicazione",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2114,7 +2150,7 @@
     {
         "reviewId": "gp:AOqpTOGxfHQbBYx2kkvSg_ENmkOTxjxx6NMB9RVaypL7h9kalXZcuo8KuRWhjV6aB-7dcJx8_TPaoJhUSePyEg",
         "userName": "Sandra Di Blasio",
-        "userImage": "https://play-lh.googleusercontent.com/-3cClsRiyn1U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKWQGKQtb_OMTZHiXyYs_RtcOymQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQjdlPz5f_psSyY3hsWSFVwo8o88oQSe8wVkyS=mo",
         "content": "Non riesco ad inserire i parametri della frequenza cardiaca Ottima app grazie",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2138,7 +2174,7 @@
     {
         "reviewId": "gp:AOqpTOFvLEjtEI-eIh9om-TUfOPp-_jnQi7ZS-4CfBiNPbAI8ComCpvksd4iuahn_wMZRDwFSY2c1ctfwowXsA",
         "userName": "Saverio Lassandro",
-        "userImage": "https://play-lh.googleusercontent.com/-Zo7vphkC2-Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6eoXKftJTip0KBqqlfbxq4DDqTw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzoRsBIQwffEFLJWvXFZ9TI_h0s09z8fiyDcIYx=mo",
         "content": "Ottima applicazione",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2149,8 +2185,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGmbOKsSYQwDc7Oybd-5n0O6x3qYBaxU2Lse-7Mx3mhdj28k9xtIgih19lyuqeTHOqlujzihsxcJr6fkg",
-        "userName": "Antonio Loffreda",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg9nd8MrvfeK9k4flX3DpCd4dbNnLCmdhXTHqRm1g",
+        "userName": "Anto ny",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhM9VDkWutEor99ZTBog1GIrlAXbJ4khYzYFit4jA",
         "content": "Ottima",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2162,7 +2198,7 @@
     {
         "reviewId": "gp:AOqpTOHmMIbIq7D-ielT88l7_-o4TbbpyDdWN7Bc5JPDWyt98HstkGY4sN1NFRcCUhtP88V_bYcMUJqisMDaCQ",
         "userName": "Marco Taborchi",
-        "userImage": "https://play-lh.googleusercontent.com/-sRA9yCM0eiQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgzer0WtXPDweFFQ07-gyjS47CsA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzS3ASX09fY2KA7ddWZHufZvpAKARU4VvmDt5zw=mo",
         "content": "app di semplice e rapida consultazione, efficace soprattutto per i pazienti meno informatizzati",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2174,7 +2210,7 @@
     {
         "reviewId": "gp:AOqpTOEMc1SD9Hu3G6eihs3836aQ5xSL3L32mM1G980951xmhBtN8tOGosAihy2pSF56CwkmgtZvIa3U4skh-w",
         "userName": "Maria Cristina Zucca",
-        "userImage": "https://play-lh.googleusercontent.com/-squsVAFWo5k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmfYFGPXyqh2h5fkWEwvF-_gJ8FlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy1FZ97CfEdsIZxqXzcC_BaM-HgkJeCCkyxf9f3=mo",
         "content": "Ottima app",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2198,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOF0I69BojjdNKYhCSqH0IA5DPnMnp_GPRubnlw1HbA-srM2XxlJYcrhoTJgK0s72bDINFkSsWtwEumfIw",
         "userName": "gianni mancini",
-        "userImage": "https://play-lh.googleusercontent.com/-j2r3mvCYmw8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVtZYArNjOoBnDoVMrSZWmcbcajA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxDgWzKKGDPfOV_OaFkaj-P812SsrsBeTYOIP9y=mo",
         "content": "Si blocca spesso",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2258,7 +2294,7 @@
     {
         "reviewId": "gp:AOqpTOH7bhCeAuTJpPNQVa6vyWEouyEAIfMWCp3ihIgbw6o9GF_peVtoWCIf2MusKo_7jLt8DHYZrdi8gaMICw",
         "userName": "Mauro Germani",
-        "userImage": "https://play-lh.googleusercontent.com/-n9m4ObO7rrg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn1MDZ_wAuq8G2GzNjqQQ-zJx6bBg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZDHfwYfgxHpRaTYqtLRmPZkavsIvN4i2-Vi6w=mo",
         "content": "Buona applicazione utile e ben strutturata Ma nel mio caso \u00e8 da qualche giorno ( 2 ) che non riesco a trasmettere i dati e si chiude. Provato a disinstallare e istallare sempre uguale.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2282,7 +2318,7 @@
     {
         "reviewId": "gp:AOqpTOH8F0u1fEzpH46Ro6yg8g9YjZ8XqxLDcO4U-D7y26WjJIo_VngmjuJoMfjx24Qp7bDqoa8bRhXOGYuFuA",
         "userName": "marco peparini",
-        "userImage": "https://play-lh.googleusercontent.com/-8Uis7jevr4A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwjRhuC3GffHcSdR0KUBFuFjRAyw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzqTZ4T7iTmk-HEkUDF6GLakCzVQy9OfaKVwgGD=mo",
         "content": "L'applicazione si blocca, non permette di inserire i dati",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2306,7 +2342,7 @@
     {
         "reviewId": "gp:AOqpTOF8GXSoIRD4vyJBqm6LnxCnp6krRSubiXc52CI_AxJaN9NC6Ks5gSMNZtpECzNDnxJycfGxHwFxeEY_ow",
         "userName": "Mister Minkius",
-        "userImage": "https://play-lh.googleusercontent.com/-a3hdh69SVJg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktqhigFQpH-1AhN2NH2VxQiaYXjQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzirR6tghW9utNsKeMaHPDUjY1nJZKHto25Y_4X=mo",
         "content": "Ottima app,da usare anche quando non ci sar\u00e0 pi\u00f9 un.emergenza,potrebbe evitare molte file inutili in sala d'aspetto quando per esempio ci serve una semplice ricetta.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2318,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOFQHOn83qJjiVvpHb-8OOevNq2aExhPnP3jYxklX7LwmeG70TUA4Pikfw4gYgQmKvaSBDVS2tnUNs6qgw",
         "userName": "Alberto Tucci",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5HyspFo7rh7hYcP-NlN34fjpDF_ZpMi-vnNYGufM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjhClGkShytLs8Hk2GlHzsctzcrnktQt3EFl9E1wI",
         "content": "Se funzionasse, l'idea non sarebbe male ma giusto per tenere un archivio di valori da presentare al medico. Invece dopo l'ultimo aggiornamento non vengono pi\u00f9 registrati valori del pulsossimetro e frequenza cardiaca. Non si capisce neanche cosa voglia dire valore MED nella registrazione della pressione arteriosa.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -2366,7 +2402,7 @@
     {
         "reviewId": "gp:AOqpTOHTtGEx7YnTZQodjLJyACUTSOhMEOccib8uFbpd9b_d586hw0OoTx2mFgGL70-S7nziOoT_2zWej_cbCg",
         "userName": "Alexandra",
-        "userImage": "https://play-lh.googleusercontent.com/-rHLHUOTgfjY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7i-vwIW4ObxFEYzrZBhSqXSoz9g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxvWUJf2Zsmwimj6ePogg2LfpeYSqEr8kqCMaHn=mo",
         "content": "Applicazione molto utile.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2378,7 +2414,7 @@
     {
         "reviewId": "gp:AOqpTOFqQ2ft7SkGMeg5YSczYRwBEF1Snrw0t-qQQg3Q8Z0TMynQOoGv3kmpoj3bxaDOaUVPfOkgVCtmDKUvfg",
         "userName": "Moira Bottani",
-        "userImage": "https://play-lh.googleusercontent.com/-WG3ROwrVdJ8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclAf_C7yq4bjr1EcucfiAMfLgp60g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzit8SEJ51hVPv6k8Di3OswoaSJz-Gcuxr12sKe=mo",
         "content": "Pessima app disistallata non funziona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2402,7 +2438,7 @@
     {
         "reviewId": "gp:AOqpTOES-FytJ0wB7vfLksMA2tZN8opIbxNvUV15pikq8djuAPq-fH_vfLuyLNtxlj_EQPkAoNdZsISdrBjl_Q",
         "userName": "mariangela fratino",
-        "userImage": "https://play-lh.googleusercontent.com/-x71MM6USdF4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntK5vOCZcQRWIsZcEQmiKq-xESeA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz9i0YtmRT99TQTHAs6WdxflRIe2YqP9HAiXqlz=mo",
         "content": "Compilati tutti i campi e dato il consenso. Una volta premuto invio mi dice di attendere l'arrivo del messaggio per il completamento dell'operazione, ma questo messaggio non \u00e8 mai arrivato. Ho provato a ripetere pi\u00f9 volte l'operazione, a disinstallare e persino a registrarmi con altra mail, ma avendo gi\u00e0 inserito il mio codice fiscale risult\u00f2 ormai registrata.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -2414,7 +2450,7 @@
     {
         "reviewId": "gp:AOqpTOHjf2UG9r6FJ6vw4sTxvRUSHziDCMi-dgkvUORrebFrrecRQpRTojgUVnQq_QyIQfrcTDjT1KTM2n9kRQ",
         "userName": "Riccardo Moroni",
-        "userImage": "https://play-lh.googleusercontent.com/-DmUgR-7-WAk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7weeVZjmXgG2nF6N0fkahlL4rlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy46Zum_ROnr7UWih9mWBn0zS2LkzfeZiLx2i8f=mo",
         "content": "App utile e intuitiva. Sicuramente un punto di riferimento per informazioni sul Covid19. Particolarmente utile il monitoraggio dei propri dati (temperatura, etc).",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2426,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOEY2dqS2silOqTIGU37CvzfYeTqnDkrIhnsYlNn0-k9RbdgG19qNKAYaNmyShfFdisBmPF0vh6e0lStlg",
         "userName": "Andrea Spadetta",
-        "userImage": "https://play-lh.googleusercontent.com/-tVKu89XSXY0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckca4j-Cpl_tCcyzy6levgycHBLuw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJygqXfQ5XhntQVr1etQd02AOp3lRr2Z1CPTxt72=mo",
         "content": "Ottimo, bravi",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2438,7 +2474,7 @@
     {
         "reviewId": "gp:AOqpTOEJNebPLaR-RygNZ2L_ngz4cIHOQvNjgW8htVkCyg0WV1vCg2MA96yHXg4DONWNC0zLvGB7-kMw99AysQ",
         "userName": "Andrea Coppola",
-        "userImage": "https://play-lh.googleusercontent.com/-wc3r33aiGek/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvp7-i2HtsDTkQPIYZW_yh5W-DLQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwv4L8uByvvDxtU_vM1r0gRvxtcM12p2wTMYXkO=mo",
         "content": "Update 6/4/2020: Scaricata nuova versione, confermo la risoluzione delle problematiche. Grazie",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2450,7 +2486,7 @@
     {
         "reviewId": "gp:AOqpTOHH8dj0KMoeI2n-WRmeNabyGb7BSpTEQ-aVMtb4gib_dQqLolzBDXh4AlcSho4CVj_O7cltZdecxAI83g",
         "userName": "Fabio Di Marco",
-        "userImage": "https://play-lh.googleusercontent.com/-PWU4rUhpCkc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucndFw0RBRMexY5zPxBz_J1TrDtpUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwSsM6CkOnwlrp_hQ_4geHBU64wXvV1R8eYzaLn=mo",
         "content": "Utilissima",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2474,7 +2510,7 @@
     {
         "reviewId": "gp:AOqpTOFXXMqeNm8mQKn9_SkPPMClBAm-rm7u_nUAJq8oGfItXBK3q_vFxmOKfJ1JKGITMa_wzkm1tFGE4DIOkw",
         "userName": "Alessandro Cerilli",
-        "userImage": "https://play-lh.googleusercontent.com/-Y3dnuq99NAY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNW21ce8FzF4gT5obaDE5-eAmgvQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyfp2WIXMxKkMkGnTe4_iRhbWGRwdAJJIL9eGgC=mo",
         "content": "Prim con mail e tessera sanitaria non si accedeva, ora con cellulare, mail e codice fiscale non si accede uguale, arriva sms ci clicki dice che \u00e8 attivo torni all'app e ti dice che l'account non \u00e8 attivo!!!! Dai...magari per la prossima pandemia riuscirete a far funzionare qualcosa....povera Italia!!!!!",
         "score": 1,
         "thumbsUpCount": 5,
@@ -2486,7 +2522,7 @@
     {
         "reviewId": "gp:AOqpTOHQzXjSh2PVUH1u_3v-PlxkuXrtzOG9bTDCu4VhNSKliz6EvxTahZi8zdxSlb8R5DthQsvAgZLtcoILWg",
         "userName": "Silvio Terzo",
-        "userImage": "https://play-lh.googleusercontent.com/-p22agMFHcts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFPVLENZojVLaqtK94vx_cEY-EIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwcKvQUN7tAzw4vjT1_3JlFTwHCafzGYoSsVzxq=mo",
         "content": "\u00c8 la quarta volta che installo, metto i miei dati, parametri ecc, invio e mi d\u00e0 conferma. Al successivo avvio mi dice sessione scaduta. ricomincio tutto dall'inizio ma i parametri inseriti come sono persi. Faccio sempre la attivazione col link che mi arriva sul cellulare. La saturazione come si inserisce? Potreste...suggerire ai medici di famiglia di tornare a fare i MEDICI e non impiegati statali? Telefonato 3 volte MAI risposto!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2498,7 +2534,7 @@
     {
         "reviewId": "gp:AOqpTOFq6m5s04nZe6y4JGYj1qPteqGq_Fxfcua-NGIfWk-Nfi2KaZpZIn0DtdIcimZBDioQrdgeWRfONu0xzg",
         "userName": "Valter M",
-        "userImage": "https://play-lh.googleusercontent.com/-zVIRCrZcrck/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqpzwYgGxi0qZLu7BsD3DRFHY2Iw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6lQyzV3c8JNbIKTGXxkcJgRxR4uz5HSlHFbrx=mo",
         "content": "Appena istallata funzionava che era una meraviglia. Dopo aggiornamento \u00e8 la quinta volta che mi fa riattivare e confermare l'account. Sarebbe opportuno che sistemiate la cosa",
         "score": 2,
         "thumbsUpCount": 2,
@@ -2558,7 +2594,7 @@
     {
         "reviewId": "gp:AOqpTOEa4Nh_3QL0UNQRr4JxLbYDeNVa3yAEsD-Ev_ADjxlQ8A7NX_zbvftTD2-GR-2uPOg1ODw1qFvlsNpyMw",
         "userName": "snake universe",
-        "userImage": "https://play-lh.googleusercontent.com/-tyC_x8dEMNA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnI-pOV5EPJRtC0fgWcKOgH_3BvoQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzr_jPkui1fJJYkN_oQwReehVHFKgzkUTlH6gvE=mo",
         "content": "Con la nuova versione, la sessione scade dopo poche ore ed \u00e8 necessario eseguire nuovamente ed ogni volta l'attivazione via SMS per accedere all'app. Risolvete per favore!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2570,7 +2606,7 @@
     {
         "reviewId": "gp:AOqpTOHxz1w_Ho5YfoL1P39Otk_PePiGidoGTSgV-B6M2ITrwZHFLrENyj0W1-jsY969g7gw0PchWKRjIDodKA",
         "userName": "Leonardo Paolella",
-        "userImage": "https://play-lh.googleusercontent.com/-HtoibQZiZGo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnckenu0TIzIgYVYInQXwkYQ1cKFA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLrWjhRmCEXh68HPcD-SFu14KnqiP7Moluxwzg=mo",
         "content": "La versione del 02/04/2020 . Appare sempre sessione scaduta e bisogna reinserire i dati e riattivarla... Credo sia una enorme stupidaggine dover inserire tutti i giorni i miei dati personali e riattivare. La versione precedente non era cos\u00ec, e sicuramente era molto meglio.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2606,7 +2642,7 @@
     {
         "reviewId": "gp:AOqpTOFGYJdu1aNsLVj03dcmaTlbOLSh0pe1rQnv6uC3zPl7VyuvdyTfU-tid_6o1UMEG9qzGYB3fjlVLqhRuA",
         "userName": "Valeria Latella",
-        "userImage": "https://play-lh.googleusercontent.com/-aMGauTa0ABw/AAAAAAAAAAI/AAAAAAAAAL0/AMZuucmgzLxZ1TNDErjHGLoyX0PyyyZmww/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxLDDdAvqAHkMAY8jXWfsBUjT9LEV94zZ7LzZbqMQ=mo",
         "content": "METTEREI 0. una vergogna. ogni qualvolta si vuole utilizzare l'app bisogna nuovamente registrarsi e attendere l'invio del codice sms di sblocco dal gestore (in pratica ti disabilita ogni volta che esci....). ps. chi e' malato non puo' perdersi in continue registrazioni.......",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2618,7 +2654,7 @@
     {
         "reviewId": "gp:AOqpTOEEqQw4CEMh0JSGeNV-N27iXKrh7EfOQR8oX9WsZZDh500i1Afilj3mrWI7N59hoscwiK9QNEOHQgbZZg",
         "userName": "mariella pelosi",
-        "userImage": "https://play-lh.googleusercontent.com/-vryFCsXCI2o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclESlBKv2I5ohgIvpLmxMkfKr4j_w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzuRMopE01NUmNC58-vCVJGElVDoZ5hrGpK4u76=mo",
         "content": "Mi sono registrata immediatamente. Mi era arrivata la conferma e nella app erano registrate le mie attivit\u00e0. Poi ho chiuso l'app e sono andata a dormire......... Ogni volta che entro mi chiede i dati e di firmare l'autorizzazione come se dovessi registrarmi ogni volta.. allo a che serve",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2666,7 +2702,7 @@
     {
         "reviewId": "gp:AOqpTOHMCQXhWBq7W3_e4Gsgr_14cU3nPOBpCbLMn7WTSUzS5xTgnutUMvrptIwiYl-RFpJZUQ8Nfl_4cFDL0w",
         "userName": "ANNALISA BOLACCHI",
-        "userImage": "https://play-lh.googleusercontent.com/-FAsXb99-BXA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucky0KHpSVBM4WsJK92ovHixCiLIlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzFmtKBOe5eqhRlyZ0It4utPm2juIqk6Ok8qm2F=mo",
         "content": "Non riesco pi\u00f9 ad aprire",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2678,7 +2714,7 @@
     {
         "reviewId": "gp:AOqpTOHMdwYdABfHhmWz4VOcWf3WFNtwEoFIbLOye4s9M_Pk0sqfbKGmV0pWr__sskZ55Mml3XLar-NrmQptWg",
         "userName": "Rosa Venanzi",
-        "userImage": "https://play-lh.googleusercontent.com/-LZ_tRpQjX9Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckW33O0OxajNlJl1We4RCsSaFa8mA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzXibXqvfYHLT-znE9XNqYhT4s-WjSnsRazD2Jb=mo",
         "content": "Positiva",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2690,7 +2726,7 @@
     {
         "reviewId": "gp:AOqpTOGlFiq2tDh9gPqMxXwhiZrKP6o8mzz0_bej5_3sVcyK3s7DxBg2_9taLzxuVTOxM9a6EO3tE8Vq6SrLtA",
         "userName": "Frafra Spe",
-        "userImage": "https://play-lh.googleusercontent.com/-R_hfB-aMorg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclAONZujaxoUXP-VJ4-o0znhq27-w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyLm4cVDv2IQ-fbet-ksCZtfBNCqMtHSQJGkRYz=mo",
         "content": "Aiuta a capirsi meglio quanta criticit\u00e0 hai in relazione al virus. Al momento non ho capito come poter cambiare medico curante... Dato che il medico inserito \u00e8 in pensione dal 1 aprile e dovrei inserire nuovo medico scelto o dovrebbe proporlo in automatico",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2714,7 +2750,7 @@
     {
         "reviewId": "gp:AOqpTOHMpkkUlCRgO9JbiSdjv8fCT2VutU84S-UFgqdfAEgNGQA8W9zuaMbYHuVrY4wazeaQB9hwVXk72x8ITQ",
         "userName": "Andrea Monzittu",
-        "userImage": "https://play-lh.googleusercontent.com/-cr93Y_TmJMI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneaYj0DABrTd8J9a_6zO-WQv7WIw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXWUtuYbfSZJd2GSd6z7101aTqm_W_SSV_00DH=mo",
         "content": "Finalmente funziona l'accesso, dopo un mese di tentativi inutili. Vediamo poi se funziona tutto il resto",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2750,7 +2786,7 @@
     {
         "reviewId": "gp:AOqpTOHboK1BPdqkXszXofe608Zd6T8Z264DYIaFkp8Qv4vRqz8AfHHytb7vQtxpykF1HQ4rrR7uTbEG8EnsQg",
         "userName": "francesco acerbo",
-        "userImage": "https://play-lh.googleusercontent.com/-kDhxgNMyjoU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDg4FDrXBatLf35kEHAXnK4fBSJg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx6bYcCiHb-MZKODhNtvNcrrPDbd03fkq79qr6C=mo",
         "content": "un comodo aiuto senza cercare troppo nei meandri della burocrazia",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2810,7 +2846,7 @@
     {
         "reviewId": "gp:AOqpTOFu5kYCiaIcing7nZ3Q0rCM7LSSFDP2lOCZGmbEQk0HAl1GANPpMEMjxZdC_tNl-1Gj7uxoHk7HbU4l2A",
         "userName": "Gabriella Murgia",
-        "userImage": "https://play-lh.googleusercontent.com/-2aW5_1jHUDY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckq6ZY9DzG0vWrTmXECh-_wnszxcQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzV23V0a_W_cMbd2QFpcR8GQs4NLuqr6Ue1yBCM=mo",
         "content": "L'applicazione \u00e8 ok funziona bene ma perch\u00e9 non estenderla anche ai malati sommersi cio\u00e8 quelli che hanno tutti i sintomi tranne problemi respiratori e che non sono stati nella zona rossa e non sanno se sono stati in contatto con positivi visto che ci sono tanti asintomatici?...forse perch\u00e9 siamo molti? Per questo vi do 3 stelle.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -2834,7 +2870,7 @@
     {
         "reviewId": "gp:AOqpTOFNmNUJiD_PqFfffV48k87JeWEN8sCxsyH5C2FNSs8zSWhGyDCZ2X0C62qijhKzk9GVZHcJnKLJHt9Flg",
         "userName": "Vi Bellizzi",
-        "userImage": "https://play-lh.googleusercontent.com/-3u_lFv-asV4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjQYTlzoyQwFa0scNfKd8YSDrxqA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyaJ4qQRkVYWGVpEOIh6L7nj81227F3m1Ca7DjF=mo",
         "content": "Bella iniziativa peccato perch\u00e9 non ricevo n\u00e9 mail n\u00e9 SMS per accedere all'app. Disinstallo.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2846,7 +2882,7 @@
     {
         "reviewId": "gp:AOqpTOEsVnz4_w1AabCbIs51yCjo_8vsA0TkUbeb6FWDVkTxHZbHAT_bqM5qCse25KBdvX3lpNc43-Brb0BfXg",
         "userName": "Francesca Sososo",
-        "userImage": "https://play-lh.googleusercontent.com/-zDZYtQxuR9c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn83i_wobY3L_z6ZUSJJ5jvpVHfeQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwWSqZbx4Iz7IYYkLeHII3rME5qAFllsWA42Ui7=mo",
         "content": "Non riesco ad avere la mail di attivazione. Ho provato diverse volte, anche disinstallando e installando di nuovo l'applicazione.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2870,7 +2906,7 @@
     {
         "reviewId": "gp:AOqpTOHwY-djwbXUamQ83HLqLcd_ybF0HNPabjUft82EtvUZkqWRQwVhXZlUiqGjlAlCys-_AZGaZmAsfTaGLA",
         "userName": "Mauro De Pascalis",
-        "userImage": "https://play-lh.googleusercontent.com/-uzJ5FROMSZ4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPyykmsLgjcDBKDbQnHZhoQpQQsA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzvgRodIhX8ChnbPooQBXNFr-JNT0zzv3mPX2Jh=mo",
         "content": "Sono diversi giorni che provo a registrarmi. A volte fallita, a volte riuscita. Comunque quando provo a fare l'accesso, si ricomincia con l'invio di email. Ad oggi 1 aprile, dopo email inviate sia al sito di gestione che alla regione lazio, ancora nessuna risposta o possibilit\u00e0 di accesso. Poveri noi, forse inizier\u00e0 a funzionare a EMERGENZA FINITA.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -2882,7 +2918,7 @@
     {
         "reviewId": "gp:AOqpTOHbRuu9S1Au7G38D6qwpFvoOmI_RvcXYje58BQNrkk6RCCWv4uaA5R7JVwZ5u4bndRGIxTpgWrgeLGDhQ",
         "userName": "Mariangela Palmiero",
-        "userImage": "https://play-lh.googleusercontent.com/-FC80mybOS84/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3uNu9iwxmbOs_gC4w_b_dfn2_VA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxzPHQwmNTOxbs4q0AVr831yus9dZHidYe3G0_p=mo",
         "content": "Impossibile scaricare l app! \ud83d\ude24 Sono ore ke dice dopo vari tentativi di installazione, in attesa del download!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2906,7 +2942,7 @@
     {
         "reviewId": "gp:AOqpTOFgN7QMhqD10LeBKZmog3fwI8Pvj01Nt1rxZjbQka1KNLYRwOl7TyuW0jl9f3PuADOHod_0WE6cqzoujg",
         "userName": "Loulou coda",
-        "userImage": "https://play-lh.googleusercontent.com/-CAepxNNup2c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckG9JQzusUEaOSiV9K9FurvnHrkQA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwfbp8DD0tzYysQ_l0WEPWOUc8WQctpGECyyNEf=mo",
         "content": "Non consente l'accesso!!!!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2966,7 +3002,7 @@
     {
         "reviewId": "gp:AOqpTOHogb9RP1zIYQNIgXU1GNoNG00lP__RyPEUe_z_aXQ0bUExnu925PEF1qLSlDqL7ef3RtdOjbli7iAqog",
         "userName": "Guido Mosetti",
-        "userImage": "https://play-lh.googleusercontent.com/-Knlbj0Fi_kE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmKi0j54GxbTlSs0s-RiMxYAD3pdA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJybl5ggENOk4J4AqIegkiO96nydn5IaX4oxtOb0=mo",
         "content": "App non funsiona appena accedi c'\u00e8 una nota che ti dice ATTENZIONE Servizio momementaneamente non disponibile. Il servizio sar\u00e0 ripristinato il prima possibile. Sono pi\u00f9 di 10 giorni che non \u00e8 disponibile.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2990,7 +3026,7 @@
     {
         "reviewId": "gp:AOqpTOE81LzWkxUAmJtkx__n9--snvAL6OvE8_BC6Xgj3w2TnMDn5eeQhpzTVmD94_X_3BDPLlrch5iWYCJQhg",
         "userName": "Lino Podavitte",
-        "userImage": "https://play-lh.googleusercontent.com/-D7otBsORw-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMWrGdlntblK1EDtZX67ojoLsPiQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9CdZmpa0ahZQh-Iame-NEB8Msnh1oDOdaNX8m=mo",
         "content": "Ok",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3002,7 +3038,7 @@
     {
         "reviewId": "gp:AOqpTOEcQfN4bboPGliKmc4tKsWxoKbX--ylpSuY_Fm4E-lOLIb5DdBYg2K_crIknpSGWt6rVsa9HqLechUung",
         "userName": "Wally Cavezzan",
-        "userImage": "https://play-lh.googleusercontent.com/-zpIbhrBFumA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcLaAMtsTANvpA2sx5Ay6Rp9Hr3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxcPC0icI4PCQCjAB-b5mk7T8Q_3jO9hxKouI9t=mo",
         "content": "Non ho ricevuto nulla per attivare account. Nessuna mail e/o SMS impossibile scannerizzare il CB impossibile creare account",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3026,7 +3062,7 @@
     {
         "reviewId": "gp:AOqpTOE1onIQZc8FhJcD0fGh5FgFID6EsOac_M_6k7ZQdQAOCK3k2cgvpXgzKatO_w2BS0Yvzkz-8MP0zrJvYw",
         "userName": "Gabriele Cuccodoro",
-        "userImage": "https://play-lh.googleusercontent.com/-l1jzsjCmSbk/AAAAAAAAAAI/AAAAAAAAFCg/AMZuucnC0WA7SQoNpDApg3PZxPBWX5y-uA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyH3G3BcVbjWrUIaVUjRHzTG5Yd3PupCOKtSBTrHw=mo",
         "content": "Ho eseguito la procedura indicata e ha funzionato. Grazie.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3038,7 +3074,7 @@
     {
         "reviewId": "gp:AOqpTOFxnUBfStc9ej_nIsavrL3IG41EA1Dy3E-_8Tdw1S9c6saYUt4l-J8n3kM7abxdkXSOG-WZF0ZdtiJHVg",
         "userName": "Leonardo Pagnoncelli",
-        "userImage": "https://play-lh.googleusercontent.com/-xJ4axFNvHzY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSZYtp_lU4tROme-w9PyP-OX6ZQg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx6N11hliqx69241D8d8N3UcpWF0ufIH7OX1viw=mo",
         "content": "Recensione modificata a seguito della risposta dello sviluppatore e della conseguente risoluzione del problema.... Il voto \u00e8 dovuto al fatto che l'applicazione dopo la procedura di registrazione dice che dovrebbe arrivare un codice via SMS che invece non arriva mai e quindi non si pu\u00f2 portare a termine l'attivazione dell'account nonostante il numero di cellulare sia esatto.. Se ci fosse la possibilit\u00e0 di richiedere un nuovo invio forse si potrebbe procedere invece.... Da rivedere pesantemente!",
         "score": 5,
         "thumbsUpCount": 9,
@@ -3086,7 +3122,7 @@
     {
         "reviewId": "gp:AOqpTOFTaHS4W3qfWl1opBWXCuwGkiimmJsIDQnvcEfYRxHqKYoH6F4CaN8vtGsAlOV8wdeRYwn096XhPBa0EQ",
         "userName": "nanna69 roma",
-        "userImage": "https://play-lh.googleusercontent.com/-KanjsShnz9c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIpdGXt3AO7eKiu0pty_ugTHVZVg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzE0h0bo_fY7Zgu2nwTO2Rcli677jHw4wzu1MAv=mo",
         "content": "Ho installato l'app \u00e8 arrivata email per conferma digito mi da l'ok ma quando vado per aprire app mi chiede CF email e numero di telefono mi rimanda sempre a confermare email cio\u00e8 in poche parole non mi fa entrare cosa devo fare? Grazie a chi mi risponde",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3098,7 +3134,7 @@
     {
         "reviewId": "gp:AOqpTOHyHKFsxJoAgF8BvfxRkDd2KeHFfqHOinc6XDqLWHAV407CXzFFaLeQS1UHc_mBQOJFGGdo92d3YxI1jw",
         "userName": "Marco Innocenti",
-        "userImage": "https://play-lh.googleusercontent.com/-vyNJeprlLvw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVKuSWxcGqLdvE6md3wr83iXtTtw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzKsXXDDUrRiqml_AOEf2yDw3OJZfv3ccccY-x-=mo",
         "content": "Fatto come suggerito dal gestore dell APP... risolto il problema in pochissimo tempo. Ben fatto",
         "score": 4,
         "thumbsUpCount": 2,
@@ -3110,7 +3146,7 @@
     {
         "reviewId": "gp:AOqpTOGZVZvoECOp_9ATjODbNxxlmzhdEKbrkCyBe3ZgrAhsnulpTtunMGvNXHuWOHIXrKDkoQBr8uFEAM3C2g",
         "userName": "Fabrizio Leoni",
-        "userImage": "https://play-lh.googleusercontent.com/-4y79Fhb4nPM/AAAAAAAAAAI/AAAAAAAAhOQ/AMZuucnRMdo3b8I_sVb71XU9pp1Xsjj3bQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZ5peIit2qWn1Hg1UBgcUxvRZMYPWGmg4JQud2p1A=mo",
         "content": "Ho disinstallato la app e reinstallata da zero. \u00c8 andato tutto liscio. Arrivato SMS e attivato il servizio. Grazie. Il servizio \u00e8 davvero molto utile. Grazie.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -3122,7 +3158,7 @@
     {
         "reviewId": "gp:AOqpTOE6roEvVrFIZudIWCG_vBgPaPCDLTGHyglUpqC-b0BRhsN7iFrt5b7Npab815cb8YTSyz80BUul01M4bA",
         "userName": "Alessandra Torresi",
-        "userImage": "https://play-lh.googleusercontent.com/-7gyBrKt9LBA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyEyzMavjD_zzKK5jSpiWfJtzfLA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwSeYnGzAxijrd5dMwYhBaBFwrb2f0w8qjSv-l3=mo",
         "content": "Il problema \u00e8 stato sistemato......L'autovalutazione non \u00e8 utile, tutte le domande dovrebbero essere aperte...se una persona non \u00e8 stata in contatto con una persona contagiato non vuol dire che non pu\u00f2 essere stata in ospedale...",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3194,7 +3230,7 @@
     {
         "reviewId": "gp:AOqpTOFUPNf5TCEVDEg-CmlEauzd7n_cibZfRlXF4UUd2WjMJgUHpg34UkCFSW4NZE9CWznOlAodWjszRidaCQ",
         "userName": "Ambra Pit",
-        "userImage": "https://play-lh.googleusercontent.com/-eG8TW7_SZ-w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmKsr84oI2I0PijuJaa93nocKpa6w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwXi9a_I_txmU8mtljfPZ9UwrgHZEAveG0ShjWw=mo",
         "content": "Prima nonostante ricevessi l'email di attivazione rimaneva bloccata con la scritta che dovevo ricevere l'email di attivazione. Aggiornamento dell'app arriva l'email di attivazione, account attivata, arriva la notifica dell'app \"sessione scaduta\" Nuovo aggiornamento, continua a dirmi che l'account non \u00e8 attivo che mi \u00e8 stata gi\u00e0 invitata un'email (a volte dice sms) per l'attivazione. Si ho ricevuto entrambi, si ci ho gi\u00e0 cliccato, si mi \u00e8 gi\u00e0 arrivata la notifica di attivazione.Lasciate perdere",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3206,7 +3242,7 @@
     {
         "reviewId": "gp:AOqpTOG90aUSKaOLnNv2AVW68ShgapXtKJxvbKlttv8MwzCS3za10Za9a8YMj_63FSxRbcS940fi7qlsjjSsRw",
         "userName": "Luigina Viotti",
-        "userImage": "https://play-lh.googleusercontent.com/-d_gkwYnwgNA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_HOkVnaNRdzTtMyT_IYCbJH5NTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx41U5pRG3hQEusp7K-7Llpv8LN19b_AV1Y0Sst=mo",
         "content": "Salve. Finalmente l'app \u00e8 stata adattata anche al mio telefono ma \u00e8 possibile inserire dati fino ad un certo punto. Dalle strutture sanitarie in poi non mi fa inserire nulla",
         "score": 3,
         "thumbsUpCount": 1,
@@ -3266,7 +3302,7 @@
     {
         "reviewId": "gp:AOqpTOERRoTbJcv3mrisYU4mEKX1FjVEQ-bf9N5nSU3fJKXlx0sviFe6jvjtRhLTy3p8hSxv1-RxgE8-rCe0Mg",
         "userName": "Pietro Miliucci",
-        "userImage": "https://play-lh.googleusercontent.com/-7qVyBC47X3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFx8GJencE8pqkuBGsLoTynBXV5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzc2a2noajIQQAuRi87m4TFH63Qa33my94l7zw=mo",
         "content": "tutto ok grazie",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3314,7 +3350,7 @@
     {
         "reviewId": "gp:AOqpTOHKoF4qILNlYRR2-PDqMETS7yND8RlleOQVTa1Bg7n7B18IWCcl7T4lMws9IZnrVUqY9VFDMadAtauBng",
         "userName": "concetta rega",
-        "userImage": "https://play-lh.googleusercontent.com/-N6aXr_WMGl0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyUFiKmD0Epe1MNYO0mCoLGGznbg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxCeeK4Z20BAADnwIjs-XLVPEhX3bHqvy2gKRga=mo",
         "content": "Ho provato ad attivare l l'account attraverso il link sulla mail. Purtroppo la pagina che mi si apre dice di accedere alla app e rinviare la mail. Fatto e ripetuto tante volte .. ma nulla tutto uguale. Il mio account non \u00e8 attivo. Come posso risolvere? Mi aiutate?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3338,7 +3374,7 @@
     {
         "reviewId": "gp:AOqpTOFEA-nl6DZcFLqRF7VEIG3krbNSDM1-771HBi-sFkYgksBE7WYso7nyDZkQ-pOeCuShfiEd7AdDd2-3DA",
         "userName": "maria teresa leonori",
-        "userImage": "https://play-lh.googleusercontent.com/-mJTqsDXnoEU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnw2WtNCJ9d1kl1wn5Fx0ecQeTLyA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJws3jSpZoVDrO2nSDP9jPqS1Fb2QmnbO5Vl9jcq=mo",
         "content": "Non funziona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3350,7 +3386,7 @@
     {
         "reviewId": "gp:AOqpTOEnF2hQzXR0Vu7XFaGwMVCJpkR7Xp-4ja8E9mfmtqkbGINdDiXhmYHtAZuhwshi5LA7p29BvSXV-nWosA",
         "userName": "Alex R.",
-        "userImage": "https://play-lh.googleusercontent.com/-HcAwLg6dmFg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNR0_Tcc5axmlZbOMrZr1TtewuDQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzOrOYHE-bJMbucoLaEHG3pxOlrbwp8K-M6VCc_=mo",
         "content": "Finalmente sono riuscito ad accedere, grazie.",
         "score": 4,
         "thumbsUpCount": 4,
@@ -3374,7 +3410,7 @@
     {
         "reviewId": "gp:AOqpTOEKKldrEtnrdz1V-G28eHuHT9aUXAoE0T30pXeZuf_WaAvRWM871vsOTbcMyt6aTrKAyYUAg8oNVlsUWQ",
         "userName": "alessandra ippoliti",
-        "userImage": "https://play-lh.googleusercontent.com/-MWIJ21YLBD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgXULi1NBZ-7JMu-D1uarK6Z-vkg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXS_N_9J5FYhC5BPGMbEeVoHgqiil3ehZYbL7j=mo",
         "content": "Ho appena scaricato l'applicazione tutto bene per quel che riguarda la registrazione ma quando ho tentato di mandare le risposte non risponde, il tasto invia non da segni di vita. Ora grazie al vostro aggiornamento ha funzionato bene tutto. Grazie",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3398,7 +3434,7 @@
     {
         "reviewId": "gp:AOqpTOGunoDGE5kkHuWMWROAW5X9-DY8d2fZ2aRyPSrU14zTmRue8X-HWs8kFcNrVrXC-9Ye3KphOPh2_gGRsA",
         "userName": "dani p",
-        "userImage": "https://play-lh.googleusercontent.com/-s8_8FIz9s1s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckF1J2K_PdPj9HO_IiF2Fiy5hkVFQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwb5t3wy0jS0i924zImF0cLTOdSJWn6euXXNuTp=mo",
         "content": "Non ricevo l'email di attivazione. Ho provato con due indirizzi email diversi",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3410,7 +3446,7 @@
     {
         "reviewId": "gp:AOqpTOHTxL5oVsQFRqFsjKiPpeVKwa5zVkL_x0aLjW-F5FGYRLTd2xP6v27_wHlEERrcCnV8-ZTgB8w6hEAKbA",
         "userName": "Emanuele Ruotolo",
-        "userImage": "https://play-lh.googleusercontent.com/-p_ulep9AqSQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_CFbxsvfeknrgQl9AvZejnrGPjg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzK1R8XR7Oq28AvKGsUUHVuiond-TXrnMmLeYcq=mo",
         "content": "Non sono ancora riuscito a creare l'account nonostante abbia scaricato anche l'aggiornamento",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3458,7 +3494,7 @@
     {
         "reviewId": "gp:AOqpTOHKEsOCnhngpUSJSWoQ4qmX0QnnWfIN5_ppFM9LTVjtYd7mlSq5XlM1Jp5BX44s2HMURxsFnuBSi9GVug",
         "userName": "Mary Rose",
-        "userImage": "https://play-lh.googleusercontent.com/-Pg6eVjtCzeY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYgvCe0l4hb8IlyU5NuYiuj5YPDg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJygEof08HT-xGJKs2jlqB4rwJuPOCGlY7LrZvAo=mo",
         "content": "Va in crash! Fin dall'inserimento delle credenziali non mi fa accedere sul sito. Inutile, l'email non mi \u00e8 mai arrivata...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3470,7 +3506,7 @@
     {
         "reviewId": "gp:AOqpTOG3-7DUXkNRxEe48FdgZy59JNOqT-pdKaxs38JkQhuWsb9ZdFI7V5L6tH8nECdxSRnR1ch6oR9brIcaZw",
         "userName": "Fabio Lagatta",
-        "userImage": "https://play-lh.googleusercontent.com/-QVWOlWbMXEA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnWieIr9xkwK_17qZ_UV7ScaHZrPA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxWlpWl2RLl0aIc5hxXl4K3KULBvmV8dxGB-Wu8=mo",
         "content": "Non funziona il processo di attivazione nonostante i diversi tentativi (anche dopo averla reinstallata)",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3482,7 +3518,7 @@
     {
         "reviewId": "gp:AOqpTOHBcHOatDqEHT5oKZguExLDEwN9rErgDSPMg4t8IQtGGkdqwpwJWs1OjE8WShckeQQNHJQhPCyzE5SWow",
         "userName": "Gianni Adinolfi",
-        "userImage": "https://play-lh.googleusercontent.com/-nn049-ypvvM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-uamBZbHXaa2FOZCBhPuqg6nDig/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0MtFimT_igSM5kuVaE3W8hQ9P8NzD53bPX77N=mo",
         "content": "Non funziona niente non arriva il link per attivarla",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3494,7 +3530,7 @@
     {
         "reviewId": "gp:AOqpTOHN0KBbvO1jcyvPBW4DiMca5ewy20zkABlnwCIAikSFzmhLN4dcDfxQHA26O--E42En1f2r53TlJTzuig",
         "userName": "Cristina d'ambrosio",
-        "userImage": "https://play-lh.googleusercontent.com/-8eCzSFHrp08/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3gwrmuj2dvKxAz2qM1CdygoVGmw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzdUvCBP-5QVQvNH-Pu_hKqwbcs7baP9iRIykeR=mo",
         "content": "Non accedi",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3506,7 +3542,7 @@
     {
         "reviewId": "gp:AOqpTOFmjN93amTVTwHPX_erEeAYtN0Bnkbfpi9DOXTkewwslCmZyt7jIY2Uu51Zotxc5hKH-sa6FnCw-5t8aQ",
         "userName": "Tortuga Il Freddo",
-        "userImage": "https://play-lh.googleusercontent.com/-hZ55WsrBCpc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6gIzgol4DT6bpktfPGzTS0nxmsQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLwoVDiSfULqBmVRYkKA2pxq-MZ0If7nzz2DNf=mo",
         "content": "App che continua a non funzionare, penso che quando diventer\u00e0 funzionante non servir\u00e0 pi\u00f9",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3518,7 +3554,7 @@
     {
         "reviewId": "gp:AOqpTOFY-lw3g3YRSR-CsQVQixdCohHbH-KC4HelTNa7WBQnhJYCQKcVi5b2NN_i87JQXPRg0x4nWch0Lb1ZdQ",
         "userName": "Anna Rita Tornesi",
-        "userImage": "https://play-lh.googleusercontent.com/-H0ElswtVUTM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYxTvtUSlhBSB_78wJKqK9BJ_t_w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzeatcmkpjK4fV0U4QamgSu6SNQhiSok32a3hSQ=mo",
         "content": "Ho scaricato l'applicazione ma non mi fa fare la registrazione ogni volta mi dice che devo accettare il link",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3542,7 +3578,7 @@
     {
         "reviewId": "gp:AOqpTOFRAfmysGE-SQ3622HGHssqE074Nqb7S1CR1e3X8Azhn9aQe3TuTZJ1r6fNBV8t2mOwOL9DBj2NuULAqg",
         "userName": "alessandro maniccia",
-        "userImage": "https://play-lh.googleusercontent.com/-B7jBk5ZUPw0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn62LZCqf4OsRJACiXnKpMccCcdmQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJye281kscaTgiBcXBON1Vhhcse0NSh1DafbCnGd=mo",
         "content": "Dopo qualche difficolt\u00e0 iniziale sono riuscito a registrarmi",
         "score": 4,
         "thumbsUpCount": 1,
@@ -3554,7 +3590,7 @@
     {
         "reviewId": "gp:AOqpTOED52PIV0POf2rG-YgcW9xWhRUHJtKCA6Ls1e-7eJ89M_nIJLc7xSjnTeI09aFVxRm0tVXeOEWOxFH0ew",
         "userName": "Sergio Confero",
-        "userImage": "https://play-lh.googleusercontent.com/-abXZugXknzc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmo0l0p0iBK5wzyHQ6q4NZOwT8QBw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxG1eSSxoPsU5bZjnxX_LyFqAEYK9TADKxPA6iX=mo",
         "content": "La videochiamata non funziona ed inoltre l'installazione \u00e8 contraddittoria per quanto concerne la chiusura dell'app e la ricezione dell' email. Edit in base alla vs risposta: il problema sopra citato con il mio medico.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3590,7 +3626,7 @@
     {
         "reviewId": "gp:AOqpTOGtRAKrkpbCY8S1BGS02a4Jdv5_TifdmYvGCwN5kZAvBaFv1kVqMCNZkbdJSFsH8r8rVIBFt6ufD-CyxA",
         "userName": "Fabio Pistorino",
-        "userImage": "https://play-lh.googleusercontent.com/-vSIxh0FWuo8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclo6WUGs_YNMVWWwtrkaWlnjlotaQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzKbi5DLlamvmWOayOJt3wtrMw2MxpiVWZKQTLp=mo",
         "content": "Finalmente una istituzione al finco del cittadino... grazie x non averci lasciato soli... sevizio indubiamente utile... braviiii",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3602,7 +3638,7 @@
     {
         "reviewId": "gp:AOqpTOFwqgQX4hBZxFXdugCW0f4nn_5FxLmpe5DLGVNyC8q6qc3sZcTnxKIXWJEBkaVSguIgw0jsW43mTQp-mg",
         "userName": "Erajla Marotta Dodi",
-        "userImage": "https://play-lh.googleusercontent.com/-qC0Q54CPw20/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnB0V50bdqHZktrmFxjQ37aAMtuDw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxQXuC-m2Fsk_Qhf90EXI3bS216V60-9zvF7eem=mo",
         "content": "Bravissimi",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3614,7 +3650,7 @@
     {
         "reviewId": "gp:AOqpTOF_omt2rhVyPgiv5RxtarJ1--JVP1GHEnhGXzg6CrDlzSdA9AFahLut0th6AanP9r3GwVgC3dRAspq26g",
         "userName": "Antonio Pecchia",
-        "userImage": "https://play-lh.googleusercontent.com/-CVqzc2DuNes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklI7bSlVtJZc35bRJBr3qqBKpweg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxws3dzdtD_9GxmyrDXedA7KdDizL7sXY_xRHLb=mo",
         "content": "Non ricevo mail per attivare iscrizioni.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3626,7 +3662,7 @@
     {
         "reviewId": "gp:AOqpTOG0HQqoOrTIPUjQKCpTrJifEQmcnP_gz0S88mCFaxeGkSBpivZQW22RY1FqnGAXTk_02Jb5nSAHYF4PGA",
         "userName": "Anastasia Raso",
-        "userImage": "https://play-lh.googleusercontent.com/-NP6L99WDZKA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUl9IFi9EjkaRD-wzMpUXeYMtAUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDBg31caqkUL6SBl1rO9jNDk6ydGxZQTpwAfAU=mo",
         "content": "Non mi arriva l'email di conferma,ho disinstallato e reinstallato pi\u00f9 volte l'app,ma niente, l'indirizzo email e giusto w funziona,altre email arrivano",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3638,7 +3674,7 @@
     {
         "reviewId": "gp:AOqpTOHjrWkOxrmXTtov_o5H5eAgV204ABbOaDVE_rFf0Ign_OTIxle1ddGg7dX7BXboMtqC_znDFPgrylmSTA",
         "userName": "Tiziano Farina",
-        "userImage": "https://play-lh.googleusercontent.com/-YWrmh0ZgvPk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclztvrfjtJJYoXEFgjhJj_5fE319Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxttFXATrLuoGVQrb94aZJEZYXrJTIoPmyGZrS9=mo",
         "content": "Ottima. Seguendo le indicazioni, non ho avuto nessun problema con l'accesso, bravi!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3650,7 +3686,7 @@
     {
         "reviewId": "gp:AOqpTOHsWfr-6fbwzUNlU8-WNdHHbEBFp6MOUFG7QUQo0nFhq6PNbleOk0HAEuYv590rsnAXeWuU43jY-jTWkQ",
         "userName": "Angelo Ciccaglione",
-        "userImage": "https://play-lh.googleusercontent.com/--O9HUV0QIoY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSrucABlIOFSZONyzwN1ud-TnTNA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyaIba6ZeupLZH5UhufcR-lOh1F7u6-xzqmX9hv=mo",
         "content": "Vorrei sapere il perch\u00e9 non accetta la mia email",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3674,7 +3710,7 @@
     {
         "reviewId": "gp:AOqpTOFBMBe9iegdykj-b9CvrwYErU2Is8ETZsVbTQtCIjYK90UpjP8clnAmN9zu2uO0CnHqPwhsXQ5t8QifRg",
         "userName": "Roberto Mongardini",
-        "userImage": "https://play-lh.googleusercontent.com/-b0FYAx022Yo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIheINuUKA18KbRFvohljjBOmOZg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSkplVEZ9wGZx0KFqymKRE_NOLxDvj5-Tyzjg=mo",
         "content": "Ho rifatto.tutto il processo, dando le autorizzazioni ma dopo aver ricevuto la mail ed aver avuto conferma che sono autorizzato torno sulla schermata iniziale e continua a mandare mail e a farmi riconoscere altre 4-5 volte di continuo non facendomi accedere a niente... Mah",
         "score": 1,
         "thumbsUpCount": 7,
@@ -3686,7 +3722,7 @@
     {
         "reviewId": "gp:AOqpTOECtQCDYg8I_oPn8bc6H1cAXyDpQl4h5lpcaMX-Hf_vxLhtvS0E8Dvc9WrIdYi0nfEc8maKWg5GgeVyTQ",
         "userName": "Elia Ventura",
-        "userImage": "https://play-lh.googleusercontent.com/-Aru5W-28YKc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckc8p_mV_4qwo2B3Tn9nizBTC9vyA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJycu9NbQ7AlfIkuYaxdwf5LgOOWhNotQrNkMoxY=mo",
         "content": "Buonasera a me nn arriva la mail nn so il perch\u00e9 ho provato pi\u00f9 volte ma niente ho disinstallato e reinstallato il programma ma non arriva la mail di conferma per me nn serve a niente",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3746,7 +3782,7 @@
     {
         "reviewId": "gp:AOqpTOEi7kI2XsiohimC6jPqTLXxJ8z2Uml2gOu-PZpYDlpqzlFUbd3AuWK7re-R8QjAl7LgII8L5k0P_gZhOg",
         "userName": "Ana Ghilan",
-        "userImage": "https://play-lh.googleusercontent.com/-E5eO21r9cVU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmcbkNhy4Ii9z2ikb5HOKsoRPepqA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz5M0GRXf2kwQ6dXP0ZwOEw6xMjvYVBvk1qAHyz=mo",
         "content": "Buongiorno Ho scaricato l app inserito tutto ,poi ho ricevuto l email ma non si procede con l l'attivazione?!. Ho fatto pi\u00f9 volte ma nulla . Come posso procedere per attivare il mio profilo ? Posso avere una vostra email o una guida al riguardo. Grazie Ana",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3758,7 +3794,7 @@
     {
         "reviewId": "gp:AOqpTOGuFCBHqAXSqOysouhzq57cKpJ2V9CM8-8_JC7VO_ZjVFSIg92xN7EaQLiFytoWrht9HA2cGUlWOr2gXA",
         "userName": "Alessandro Zenobi",
-        "userImage": "https://play-lh.googleusercontent.com/-LAse8k0iR_Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCeMnhL8doq5JZGT7iMkpiK9PO6g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxCHktJbYqw2a_MMC2cvTrncXU3a4vrZDyVH8gf=mo",
         "content": "Non funziona la registrazione. Ogni volta che provo ad entrare mi chiede di cliccare il link nella mail. Lo faccio e mi appare sempre il messaggio attivazione non riuscita.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3770,7 +3806,7 @@
     {
         "reviewId": "gp:AOqpTOH9e3WCPuQZ600p1IJTkDSzwR9TaAto_7mWQsOvEJdtU2XItg1niVkYKa2-6H5B39XqZq0Lta0ecY3bhg",
         "userName": "Carla Avancini",
-        "userImage": "https://play-lh.googleusercontent.com/-zSiJarPEe48/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVEaME7eGoaE74EjfM7BWDzJiw7A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmUIBYlmoVyzdvv0dXgm7WFmVw4DokIbEadunv=mo",
         "content": "Si apre.... Poi si chiude senza poter inserire nulla.... Mi sembra impossibile usarla",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3794,7 +3830,7 @@
     {
         "reviewId": "gp:AOqpTOEWhgzVEfJW0rGuVS2wnpLHVTF0LlmaRtUdkAI0pcmXO6IEja6-AaPOthQGluBiAON77GKUcNMNL02qsQ",
         "userName": "Andrea Castorina",
-        "userImage": "https://play-lh.googleusercontent.com/-rR9oh59uUcQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIaRtaWhG4yyoWWzaU_u1D2iYC-w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxP_PKCK0vipiVJ7G8p0DRpgWJ6G1v_t87S0anS=mo",
         "content": "Per me che ho due bambini non funziona perch\u00e9 se la installo col mio codice fiscale mi collega col mio medico e non col pediatra",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3806,7 +3842,7 @@
     {
         "reviewId": "gp:AOqpTOHX33T2s7CM4Yn2NcuWaQeeg3nnITuhA_wKMKiVsM8C5MRHX_ySoxez-XNB0-c3RCfdb--zIJ98OWNmww",
         "userName": "Marco Baldi",
-        "userImage": "https://play-lh.googleusercontent.com/-NAXqwsa2HS0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkciXjj4k62l1U_2yAo8Y4oBp_2g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwI1X5jBuKdl308j7ZW3wSufdfUO9Pr1UKSCFmT=mo",
         "content": "neanche ricevo la mail per attivare l'account.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3830,7 +3866,7 @@
     {
         "reviewId": "gp:AOqpTOFOZXY1XuKcChGq_AGHHZbkmo1ZcEUEriiqKKuV8AHuzs1jkB3GvF_iKxUmefjQTRHBxzE9ijePDI76cg",
         "userName": "AURELIAN BARARU",
-        "userImage": "https://play-lh.googleusercontent.com/-CrcS-AdFrXI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDCS5seGC5smrT5bXobep-69jsQg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhFsl_GXlir3TizCZLrLFi07tcx1DiecOrta8Z=mo",
         "content": "Anche se la risposta di attivazione sul sito e positiva non posso fare il login in applicazione . Dopo la risposta da vostra parte ho disinstallato e poi reinstallatto l'applicazione ; miracolosamente funziona il login, vi terr\u00f2 aggiornati sulle altre funzioni dell'app.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3866,7 +3902,7 @@
     {
         "reviewId": "gp:AOqpTOEgIFtYf4zWgdqSA9blRbmt3tEWa58Qlp1N6wDStYrVhdAuMj-3Qz4T-fRfKKuhmIyTDNgwlBJPszplKQ",
         "userName": "Paolo canio Coppola",
-        "userImage": "https://play-lh.googleusercontent.com/-5BpeLrrZw3c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXq9eVxCXQTS-AR-lLdCglR9v2hA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwHSc1x_p2zGMjk0DI0Vh9AuZDwq29RKOO9qHmP=mo",
         "content": "Ma chi l ha inventata questa app! Zingaretti..non funziona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3878,7 +3914,7 @@
     {
         "reviewId": "gp:AOqpTOEd-ijrg-0VPu2tVquz8OeQ0iP1iPO9yLCqjJ9-WLHOXBpCvyajxinbyV-jaX69Vba8WGTW4UpnX5w_Ag",
         "userName": "Paolo Carrubba",
-        "userImage": "https://play-lh.googleusercontent.com/-Eb-jc2GWlPM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngjzF8QmNAsoXpPWNO3P-ov5ROeA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz9bdyimiLFlVRrtbAPSqNO2OAipeUEctNTO4hw=mo",
         "content": "Salve \u00e8 da 2 giorni che cerco di effettuare la registrazione mi dice che mi inviano l'email di conferma vado sulla posta elettronica e non vedo niente cio\u00e8 non mi arriva questa email di conferma.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3902,7 +3938,7 @@
     {
         "reviewId": "gp:AOqpTOEaHdjv_8h7ZmTZKIFrHDRyzvTcmMLWqxHNpWGGjsiyqE9QzjR3xLWxd01gibRvLWzrs0lvF8rpibWaUg",
         "userName": "Federica Tolu",
-        "userImage": "https://play-lh.googleusercontent.com/-xhu3-Go0kbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxwo1G2wMujAhCp6oeQdzwCUsi6A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-d2EHNeIxTE8dUmlTkH_T6HptE569rN5pZ4rh=mo",
         "content": "\u00c8 da ieri che cerco di effettuare l'iscrizione, ma non mi invia la mail di conferma.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3926,7 +3962,7 @@
     {
         "reviewId": "gp:AOqpTOFCBh932wuDmQIkBVEukochfTVvm_zWAxYd_UPUik3H3x0AmTCtVXDq1AhImX2XxFwnImr5zIitSOMBEw",
         "userName": "eleonora attenni",
-        "userImage": "https://play-lh.googleusercontent.com/-WnYksOvWC5g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMArV9zzptWpd7GsWuL_-5ZNeuWA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzpoX8YAHh0zd2ZUSYxWbbuSVikQnvLAf4JLVX3=mo",
         "content": "Non ricevo nessuna email nella registrazione Ho provato mille volte,anche a disistallarlo e installarlo di nuovo ma nulla",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3962,7 +3998,7 @@
     {
         "reviewId": "gp:AOqpTOGyKUTEDvH8pH5WBdJx-BU1-Z2Sd3H-Ae-h8XakOO3JEHlFJOUSprdwsSaK45xN_g3nHiUvWGA-bhtPSQ",
         "userName": "Emanuele Lombardo",
-        "userImage": "https://play-lh.googleusercontent.com/-eRo1Ts8XtsA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOcsjnK-yEu4a4OPJgvdLUzTVe9Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzgfQaqeFWS5uc4uQArGG-_UzqlR-WXs6cTY_LO=mo",
         "content": "Ho installato ma non mi arriva l amail e quindi non posso usarla.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3974,7 +4010,7 @@
     {
         "reviewId": "gp:AOqpTOFuknKEefkiUPRNF5YmRzQ3irEE4gt8ene2HFIDzTnyA1Putn-heRT7TYonta_h_gCTBxrgpi4yzSVB8A",
         "userName": "Piera Vassallo",
-        "userImage": "https://play-lh.googleusercontent.com/-3KyLnYdtSYM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktlNp54_KwNv1Umb8jZ2GZq8HIlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3i1hCaUgRqNUcSDJm8yGiUPE3KiuIG6_FWdX4=mo",
         "content": "Non riesco ad attivare l'account. Mi \u00e8 arrivato il link di conferma ma non funziona. Mi dice che la pagina non \u00e8 raggiungibile. Ho invitato nuovamente la mail di richiesta ma non \u00e8 mai arrivata",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3998,7 +4034,7 @@
     {
         "reviewId": "gp:AOqpTOGwPBi1Y-NB_-jvR9o_vV5JnUCFjR7jDTwI_RrG9JoA3IcHaR-Kj7JzrbHJYLmEaYD0abygjIQy7jfkdQ",
         "userName": "Paolo Lo Bianco",
-        "userImage": "https://play-lh.googleusercontent.com/-ilYduhT_SvE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmc5MZDnOCNV4ciRzqpHtPr3tWCRg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwutT_paAGnn88W7ab_CgQjMEHlzWJb8JsjYd0-=mo",
         "content": "Arrivata mail ma aprendo il link dice impossibile trovare ip del server, e non riesco ad attivarmi, Samsung j7 2017, aggiornamento, disinstallata e reinstallata, come consigliato da voi ed ora funziona, grazie mille!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4046,7 +4082,7 @@
     {
         "reviewId": "gp:AOqpTOF6Yp160qHJNw39Zck5AR0Pkb-EQg1uTVPno1AuOwCxGd5AH3byZEeC4xFvvgsiZqXEb7amYA9GvJSX3A",
         "userName": "Francesca Valeriani",
-        "userImage": "https://play-lh.googleusercontent.com/-fJJKM6j6pwg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKhPGuNLEw3wgk4OgpKKJRUYTHng/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyLEY-UMIf8Hs-2EEoAIIUeyaTbVke_bZOLd8rW=mo",
         "content": "\u00c8 utile ma dovrebbero far registrare pi\u00f9 occount... I miei figli per esempio non hanno un cellulare.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4058,7 +4094,7 @@
     {
         "reviewId": "gp:AOqpTOEAKfcgVqOl3_0sEdXFPc1P1VGdN0ESh5m0_yz__klfzueiMf42oVoeYOyCcEz__ej-HDmNr9Ve8avzwA",
         "userName": "Mirella Cicconi",
-        "userImage": "https://play-lh.googleusercontent.com/-d5Vy-fi81Mg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnf2_CjiwaO1dFomXQazsjG9CJORQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyfIYqPnFxcuX4nN21gVS4oRRflpQdqqidjqMpG=mo",
         "content": "Non si riesce a completare la procedura di accesso perch\u00e8 non manda E mail con link e neppure legge cofice a barre.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4070,7 +4106,7 @@
     {
         "reviewId": "gp:AOqpTOGeGQBHhy5k1rD1ZEfm4DyJeCcyDlXB5UhwS5otudizQgDMyw9qTzhOk0RnKeIdJuYSPQIy6cNY-H_ctA",
         "userName": "Luciano Migani",
-        "userImage": "https://play-lh.googleusercontent.com/-GNg45rY8tOw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZ6-brFxiBM0j4ypqEa5vcaYRz1w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0spWwHDM8EJAu6T0uinInoRm49jL3sVVbB-sS=mo",
         "content": "Finalmente la Regione ha fatto una cosa buona.. va implementata con altre opzioni.. allo stato attuale l'unico neo \u00e8 che non funziona la parte \"PROMEMORIA\" dove poter segnare gli appuntamenti per visite mediche future..",
         "score": 4,
         "thumbsUpCount": 1,
@@ -4082,7 +4118,7 @@
     {
         "reviewId": "gp:AOqpTOHOaVssBpKWYvoPHUqtTD24G06CGwVbm6nwtArsjnQPu2xwOez2U2pbxZzVJbeyq1VSL3FZWfC9Ns_kEg",
         "userName": "stefano maria patan\u00e8",
-        "userImage": "https://play-lh.googleusercontent.com/-rlVCzKUVg64/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclxBvLRbvvlbCgXd0cLbO_t6Vrmmw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxZZiB3daoyY4VVtYIOy0etM9P8_f9P05Mmhlui=mo",
         "content": "NON FUNZIONA ANCHE CON QUESTO ULTIMO AGGIORNAMENTO....ANDROID...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4154,7 +4190,7 @@
     {
         "reviewId": "gp:AOqpTOEtzf4PmOv_uC0Uavvncfg9a0t83nJjsqmjqk5Q09CaHo0o599UysB4d3vTO4zcyUat7QXOXdzh6dLwAg",
         "userName": "Mauro D'Andria",
-        "userImage": "https://play-lh.googleusercontent.com/-Pg5RyHb0Q_c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8N6zGl0irW9AU832HprQeTaUVmg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyu2fCKegRNkelEjWwzjdd2LKDwMieAkyW0ZaVQ=mo",
         "content": "Nella precedente versione non sono riuscito ad attivare l'app, ora sul mio cellulare con Android 10.0 funziona molto bene. Suggerirei di inserire su ogni pagina la possibilit\u00e0 di ritornare sulla home page e un servizio di messaggistica informativa ad esempio dalla Regione Lazio verso l'utente per avvisi importanti.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -4178,7 +4214,7 @@
     {
         "reviewId": "gp:AOqpTOGaQHhDYJt6kq1XGBzP4r0CS_b0fwlhFFoPYF7qV6FQWwekwxlpwC5mf2gfUJ8_erCIjEOlR5vCOzS1MQ",
         "userName": "Alberto al",
-        "userImage": "https://play-lh.googleusercontent.com/-mTwiHNN-XiU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNfu7kFB4j5roXSdpGeCsdVCJBqg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyL9X2QfOhPE5KwNl5A_ejcgtpc9k-ChroTt9k1=mo",
         "content": "Manca la mappa dei contagi inoltre non prende la mia posizione. Mancano molte cose utili per me \u00e8 per chi potrebbe usarle a fin di bene",
         "score": 3,
         "thumbsUpCount": 0,
@@ -4202,7 +4238,7 @@
     {
         "reviewId": "gp:AOqpTOFDiu0eQJI-GJEFoVqEwWDG0_Aap8-o8ud_Cfpu5cXQ-kWymeAwZL0IIM7kerFhnhq5Huz0LEBTpuQiDg",
         "userName": "Antonietta Sarnelli",
-        "userImage": "https://play-lh.googleusercontent.com/-GfLqiVKhu3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPsPPks6muIYFxTOHkQQoijYyuaQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwV4Ebzw5zIeTIXb4wfVG1_qbR_J2FcTVv22MZ2=mo",
         "content": "Se funzionasse sarebbe utile! Non mi arriva la email e quindi non posso accedere!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4214,7 +4250,7 @@
     {
         "reviewId": "gp:AOqpTOEym9EPtnnqX9_TWJweSDKk3BiPzgxKffBWLZCVu2BjnbqEdHGu639-28273ZY5EfjQnA_Ct6Dt6gk9XQ",
         "userName": "Daniele Merli",
-        "userImage": "https://play-lh.googleusercontent.com/-_eH_bmkJUZ0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclG3Fh_PrL8VmYgno-EerS-II-IQw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLtufug7NQpewTtYcj7Lp8ksyrbKGgx-7VgXw=mo",
         "content": "Utile e facile da usare",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4238,7 +4274,7 @@
     {
         "reviewId": "gp:AOqpTOG7WLV37_lZm7VmMd0X3FENe_0ezV_hEPcCY2gK2Tv_kTOU36xVSDUGb532EntIUewEkFA7CiCH69ZysA",
         "userName": "Francesco Alzetta",
-        "userImage": "https://play-lh.googleusercontent.com/-uJIts1VVOzw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcANW342I5U-znI0vz8na8BoZ-jg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWGi-WQ-4j_F9Htynzw8F1ftXdLx7TVrgzwgyV=mo",
         "content": "Il link testlazioadvice.regione.lazio.it risulta introvabile (DNS_PROBE_FINISHED_NXDOMAIN)",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4262,7 +4298,7 @@
     {
         "reviewId": "gp:AOqpTOFLZVTBbfU1RXfueINCh29iQTL6jQwL5YFZejcZwwSq1vdz49HV55IprmP-MbKXFBrR2ovi9Vg1PWFYDA",
         "userName": "Belhaj Aia",
-        "userImage": "https://play-lh.googleusercontent.com/-KYXDLNNtwnI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngWwRKK-1FCCTNYRr4mDJW-F3xDw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyevLmSjTrbPFr_GGRbDNPlH4xxpUVvP8dUX4B4=mo",
         "content": "Questa applicazione \u00e8 molto utile per questo periodo. Avete fatto proprio bene a realizzarla cos\u00ec fate capire ai bambini e ai ragazzi che cosa devono fare per questa emergenza. Io ragazzi vi consiglio di scaricarla perch\u00e9 \u00e8 una applicazione molto ma molto utile. Ragazzi io non so come valutare questa applicazione per questo io metto cinque stelle. \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
         "score": 5,
         "thumbsUpCount": 30,
@@ -4286,7 +4322,7 @@
     {
         "reviewId": "gp:AOqpTOHxlOsuosg-1898IHUl60xbS11sSj-Z3bLfDB7hlqN4WB9Jx9Q2B2Mhd96vAHBSYqBouJOTbYRfKdekGg",
         "userName": "Francesco Florio",
-        "userImage": "https://play-lh.googleusercontent.com/-5RuYXbeYgyQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllVmCZIBOHR5gFx3rQrnRt-GqkQw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzGJXqFbU1O025sDQw5ks3-XCGzPNDP1PSyOF59=mo",
         "content": "Quando clicco sul link per attivare mi dice impossibile raggiungere il sito",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4322,7 +4358,7 @@
     {
         "reviewId": "gp:AOqpTOEx3vou3qsqHU4damms6aOWHDzWF4eS7pib71MbdWOPdM0QB3153Xr66HF5RwtfFbXJ86PRoQibPqdJOQ",
         "userName": "Elio Ercoli",
-        "userImage": "https://play-lh.googleusercontent.com/-OOChr5gU-OQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbvzmGRuW1ns1ssin042VCTlM9Pg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjt6U5giAJ_O-Y6XnfNGqt3AMGkSUQEl1i4GCG=mo",
         "content": "Ottima iniziativa, app facile e intuitiva. Sicuramente strumento utile che pu\u00f2 avere utilit\u00e0 anche in chiave futura.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -4334,7 +4370,7 @@
     {
         "reviewId": "gp:AOqpTOGHJjMIk9FJsbmt0PaPovqekUMr1xsKzbDgeikgd6qIANSHLq8Kjs_-sGQGM7P-dEN7ORpDJO3JM2GxTw",
         "userName": "Ladislao Schipani",
-        "userImage": "https://play-lh.googleusercontent.com/-dapyh8TySSg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnpNQsS6Wnh2-wRChl7HFA7Tp4cWQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz2NQ1F1a6sQ1SQRaU8R2svo9M-MOnPHpqb6TTr=mo",
         "content": "Non mi fa aprire il link ricevuto...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4346,7 +4382,7 @@
     {
         "reviewId": "gp:AOqpTOFw3sxSwOIAMTuZR3zqliFRjzL8Bs5WF7GU7-rP_YJpqEPmILRBSh2RkbFG-5Uqd3MufEeN2RYWu_TFFQ",
         "userName": "Pamela Sapochetti",
-        "userImage": "https://play-lh.googleusercontent.com/-pst8F2g80uw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmxFgw0-k6M_RYpwvYFxIpVNDwcQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJywZejQ1NqYJqVPQ7QkYedi_0d-QfL8SgEdkJz7=mo",
         "content": "Arriva la mail ma cliccando sul link si apre una pagina di errore con l'impossibilit\u00e0 di raggiungere il sito.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -4382,7 +4418,7 @@
     {
         "reviewId": "gp:AOqpTOEDYWAX0guZI5_jip4UhPCUj2XCLIWabXUp2bhyLsNRUxUB36lolnDr4UJ1P17Qp9m27LejMwM2aPVFfg",
         "userName": "Silvia Robu",
-        "userImage": "https://play-lh.googleusercontent.com/-GJW02gIlxaM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLmHJbBm-CRqPe9YYCN2mAk9_T6g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx-3ZnsUtZ0GXRIIF9Eb5Fh-3Z1ZrOJpl5OnjEd=mo",
         "content": "Ottima applicazione da quel che vedo su iOS. Provando a registrarmi dal mio Andoid non riesco a confermare la mail essendo che il link che ricevo non funziona. Ho fatto innumerevoli tentativi. I link a me arrivati (6 tentativi) iniziano tutti con testlazioadvice mentre a mia figlia con solo lazioadvice su iOS e funziona - i miei no. Se \u00e8 una svista correggete.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4394,7 +4430,7 @@
     {
         "reviewId": "gp:AOqpTOHu0xBGXEbXcParp1vURN46pG2AD0UYDQ8lbIR3RDseW5VhSB6RKkg5jEomoV9XiPvUTljOcverjqV3aQ",
         "userName": "Paola Proietti",
-        "userImage": "https://play-lh.googleusercontent.com/-raDgUKNQd8Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckn6PNDISmTNQnXK2aigfnuFIeFNw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxuCZ_vJqXkC3Z7_B09hkTmka8GwlguNOtBNMSN=mo",
         "content": "ho pi\u00f9 volte tentato di avvare l'applicazione, scaricata ed eseguito l'accesso, appare un messaggio che dice arriver\u00e0 mail...arriva troppo tardi quando la sessione \u00e8 scaduta e tocca iniziare tutto da capo. Inviata mail per segnalare il problema ma non mi hanno risposto.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4418,7 +4454,7 @@
     {
         "reviewId": "gp:AOqpTOHgPE6wEXZVGzdq5CqKtpvLdYfV3zk46zcsQiRYioWo2RLvNKaTualvW74KiN1rP86axQxyNeIOw9bqCg",
         "userName": "Federico Imperoli",
-        "userImage": "https://play-lh.googleusercontent.com/-pQbs48uQ-qQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyKj9MFG0wYn-SV0VefmNJydsW5w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzvxfH_Y-IOKYvCV42Je3zpyLQuxEdjw8HiJemE=mo",
         "content": "Ho ricevuto la mail di conferma il sito mi dice che \u00e8 avvenuta la registrazione con successo ma poi dall'app non mi fa entrare",
         "score": 2,
         "thumbsUpCount": 0,
@@ -4442,7 +4478,7 @@
     {
         "reviewId": "gp:AOqpTOFrwypkS-Q9o8q7sfxoJ3GADnnpW_ETQ1LLGcHYcnjPdrGegVYwA-chZzcvAiytPpN-rnvMBXm9G04xOg",
         "userName": "Michela Bologna",
-        "userImage": "https://play-lh.googleusercontent.com/-wZrTwxwU2VY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkh3aeZrj5Vdenm397Eyyj99gOVg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyHrDiixbli3rL8hQ9u8zsxEAL1iLrEGtpRiOui=mo",
         "content": "Potrebbe essere migliorata a mio parere se si potesse aggiungere altri familiari,penso ad esempio a bambini o anziani che non hanno accesso a questo tipo di app",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4454,7 +4490,7 @@
     {
         "reviewId": "gp:AOqpTOG26R6WSiE7VNo3Wa6WlWS8t3PzV7wp7aEuMo7PPhfvVckvs3IdXjW851vXGW8o5s1PkU8zukZfjvLzoQ",
         "userName": "Rita Gramacci",
-        "userImage": "https://play-lh.googleusercontent.com/-42FvoQtLtZM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckH5HidpDB8dRRUj5D45sqRrvOiRQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0BW2i_AnCIPytSIx5WRq0WXIo0cUJn9xqEKYV=mo",
         "content": "Finalmente accesso e' andato a buon fine, grazie",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4466,7 +4502,7 @@
     {
         "reviewId": "gp:AOqpTOGBbyykdXgeUCaA1Mr-qpmxk21g0-hn1UfDnVKydNTvv6OABQio4YwHmEaBWBjIzRRe0Rux38VvVpbkyw",
         "userName": "Caterina Della Grottella",
-        "userImage": "https://play-lh.googleusercontent.com/-0EaJmpGGbXU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnUlorImNlVSOU0hLCKczFC-YQ-YA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxsmZxks_WSFbceMS46qerZ4zgbZb8R3QOM6RbQ=mo",
         "content": "Ricevo email ma mi dice di richiederla nuovamente perch\u00e9 registrazione non riuscita",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4490,7 +4526,7 @@
     {
         "reviewId": "gp:AOqpTOElU8Rcy9f_D7V8WLQwaxa4iVL-MZ7Rcxlk3H_EyNUbn1McHriQDpqROEVob-FgXbLcYUUqettsm58wtw",
         "userName": "Luca Di Palma",
-        "userImage": "https://play-lh.googleusercontent.com/-YvzZAgY6rp8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn7I9d5TV5BMYLmpIvFhkJcrGtJJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxyUVwkvXb4bj0ylM_5kydFHrWnCTEh_guxGI86=mo",
         "content": "Adesso funziona. Suggerisco a chi ha problemi di disinstallare e reinstallare l'app",
         "score": 4,
         "thumbsUpCount": 1,
@@ -4502,7 +4538,7 @@
     {
         "reviewId": "gp:AOqpTOHLbtGdOR0stq0vYqmfdaqCZ7DtTsu6fDMiUbfT-oMy6HYzA_9eR1thl0xdb2x6sWPz4aCjavtP9LDZLA",
         "userName": "Giulia Notargiacomo",
-        "userImage": "https://play-lh.googleusercontent.com/-nbel2OBpm0k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqvMnvTLqeF514etOq2q9e1BAcVQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwfzVBhCa-c82Kp3cwvLgbYCZkQTE_7nsZ7hNu5=mo",
         "content": "Questa app potrebbe essere utile solo se anche i medici venissero forniti di una uguale app! Purtroppo ogni volta i medici devono collegarsi tramite browser al sito della regione lazio! Per giunta ai medici non arrivano notifiche quindi \u00e8 difficile avere per il paziente una celere risposta!",
         "score": 1,
         "thumbsUpCount": 2,
@@ -4538,7 +4574,7 @@
     {
         "reviewId": "gp:AOqpTOHKA3twUxTmZI8w96W3tVvESt1ZRvcoprQrJ9eoMkYQKASp4tjzdi-xxn_ipfRXXskQczfsRhjh37FiiQ",
         "userName": "Ola Alina",
-        "userImage": "https://play-lh.googleusercontent.com/-wWOFdK_f1TQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklhQSVOXYQxYctGbRqUNzCsAPDig/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWAWTFh-4od2dKkFq9J3vjjFStQw0JtfheAoGz=mo",
         "content": "Non riesco ad installare la app",
         "score": 3,
         "thumbsUpCount": 1,
@@ -4562,7 +4598,7 @@
     {
         "reviewId": "gp:AOqpTOHqH3AoPUdMgX_XeZfoIBPSqmYae0xiRDbq0-NmGcGA_-97Bde-DkMFwi81OYJhpGTYGMKT6dInm6wkSA",
         "userName": "Francesco francesco",
-        "userImage": "https://play-lh.googleusercontent.com/-518TDZm1KUQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYa0Pmfu-8uyvzVVQNUVsYKbVA0w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzD-eZ-TTJwIhyS9wUm09iwXVEKrAwdnMxFB3vy=mo",
         "content": "No non funziona in nessun modo sono due giorni che provo dicono mail inviata ai voglia ad aspettare , se per miracolo arriva non funziona lo stesso. Ho mandato la mail che indicate e non rispondete. \"Un amico mio c'\u00e9 morto\" si diceva a Roma, asfissiato. Inutile!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4574,7 +4610,7 @@
     {
         "reviewId": "gp:AOqpTOH2MEqRFplBVDTjLcnapXz1MUqvaVDm3moSsJRjCn9Ryf1wmFihnXfinFnX9N093L8bGKqEbBIzA0Kopg",
         "userName": "Elisa Passacantilli",
-        "userImage": "https://play-lh.googleusercontent.com/-B3XpZh8UE6g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclpvRaZ1TXSjzkJbTY-IZMFpkycuA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJznfpnI9mrR8xleOJwyRRyse3bQSKHYfkkw-SCq=mo",
         "content": "Purtroppo,pur cambiando due volte email non ho ricevuto alcuna email di autenticazione e non funziona la scannerizzazione del codice. Di conseguenza non mi \u00e8 permesso di accedere alla app.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4586,7 +4622,7 @@
     {
         "reviewId": "gp:AOqpTOGfyZaVQiN_3ltqdx98dvTizMiGiIiIBJwPa7gBMGTky1RJYyyPhqFkpRrf8U_KWXMIok09CU8TjfGtpA",
         "userName": "Anto P",
-        "userImage": "https://play-lh.googleusercontent.com/-UXzmQaKA-h4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLl3hNpNsXTL3RWbhVXhMLME-MLA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwtctX_vNwQ-LAO1bSQUGNjSJImgXf6rbo-0t-p=mo",
         "content": "Ho effettuato il login regolarmente senza nessuna difficolt\u00e0, l'app. Sembra funzionare, ma a mio parere \u00e8 inutile, se non mi segue con il GPS come fa a sapere con chi sono venuta a contatto? La valutazione che richiedono per me \u00e8 superficiale. La stessa valutazione la fanno i medici nel momento che li contatti. Con la stessa applicazione si potrebbe contattare il medico di famiglia, peccato che non c'\u00e8 la possibilit\u00e0 di inserire i dati del medico curante. Per me inutile, la disinstalla.",
         "score": 1,
         "thumbsUpCount": 39,
@@ -4598,7 +4634,7 @@
     {
         "reviewId": "gp:AOqpTOHPv9tQshLCm2SL6u6p1Exm7xrsGNcgmPiHo7yAHTYwX9BYaYzRA0u6_980e-jyExPiZtjCEzZIZhy8cg",
         "userName": "Luigi Buonanno",
-        "userImage": "https://play-lh.googleusercontent.com/-S34O1RlhgrA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZKAGr0eOzwNO9dV0o2HYFtIRwvA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwPXWhXs6dRWxQBADR1aWA0d1iV4Wi3ItrrpciF=mo",
         "content": "Sono esattamente 78 minuti che aspetto in operatore che risponder\u00e0 a breve.. bah",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4610,7 +4646,7 @@
     {
         "reviewId": "gp:AOqpTOHb6NdT9x7S9oxa79VDyKV3RbyLlDzLIfj9XE5BD9hNmBPp94pqGfNBNh5PrL-OdSNV8EfV02EvOi3Bjw",
         "userName": "PACINI ENZO",
-        "userImage": "https://play-lh.googleusercontent.com/-dS8und_88QM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCah9-zQyUUytrOiYTgbiPd2UBqg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwYDnPO2qk8xOu-98agdHkTboDlTFi7_Nx4DPYf=mo",
         "content": "Non riesco ad inserire i dati di registrazione ne a scannerizzare la tessera sanitaria Spero nell'aggiornamento promesso",
         "score": 2,
         "thumbsUpCount": 0,
@@ -4658,7 +4694,7 @@
     {
         "reviewId": "gp:AOqpTOF99bZl6KafdnXt_lL3esqKPgXUlLxHHL6QTgutxJWgysTt5o4fogXXebERv0P_iMe9Yd5iaTeYfn9SIQ",
         "userName": "Adriana Di Paolo",
-        "userImage": "https://play-lh.googleusercontent.com/-uvbb55HqmJo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIJt0U82T1g4WR18heeZD9Yl257A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxWNLQGchfXpZYPzeohEyTKR5XlamR27UEbQe9r=mo",
         "content": "Continuo ad avere sempre lo stesso problema. Inserisco tutto, l'email arriva (o subito o con ritardo) ma all'accesso mi dice sempre che la sessione \u00e8 scaduta. Risultato, non posso ottenere un servizio per me fondamentale dato i miei problemi di salute!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4694,7 +4730,7 @@
     {
         "reviewId": "gp:AOqpTOEdUikzKbK_HRKku4jTOgfQqr9s3kIi9VOsiO5a5VAb2Knvah0X15UsG-qaxZnrBddf43LbYroxt6Tc1w",
         "userName": "FiloFa F",
-        "userImage": "https://play-lh.googleusercontent.com/-KWK64lIVgEo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhCxTk3FVPR41vXvacPK-fBNCaIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZt3p_H0BsyAWK3K-uCk9A1Vkc_iX_CdXwbeYD=mo",
         "content": "Installazione app veloce eseguita con successo, ben fatta",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4730,7 +4766,7 @@
     {
         "reviewId": "gp:AOqpTOFaAI3gEYkxBqz7LDNyhCi8S_jx9RNukGUyzuNX_9_23er_KV5ZlzAxDVjLbIfdwi7oYb2WFgxB5la0vQ",
         "userName": "Gennaro Giammona",
-        "userImage": "https://play-lh.googleusercontent.com/-Ki1GXN0mnLk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8pHJthb2ow65YOG21gcEtg2yNYw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxpcOWb7a3tCjAlF9Ho_hsXlmxtb98Pm4QVmf_5=mo",
         "content": "Non si apre. Non funziona il link di conferma.",
         "score": 1,
         "thumbsUpCount": 0,

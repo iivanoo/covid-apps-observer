@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-04-24 22:09:23__
+
 > Very informative and helpful.<br> :date: __2021-04-09 01:04:49__
 
 > Helpful<br> :date: __2021-04-03 22:47:04__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > At Circus Circus...chk out 11 am...no home but a longtime friend to help...Pres Biden says to remain vigilant..ab( alxenia) 🧓👵😷<br> :date: __2021-02-01 18:14:47__
 
 > At Circus Circus...chk out 11 am...no home but a long time friend to help..Pres Biden says remain vigilant• alxenia👵🤕😷<br> :date: __2021-02-01 18:12:34__
-
-> At Circus Circus Las Vegas...chk out is 11 am...no home but asked a longtime friend to help• Covid tracker dwnld today 2/1/21• ab(alxenia)🙏😷🧓<br> :date: __2021-02-01 17:12:28__
 
 
 

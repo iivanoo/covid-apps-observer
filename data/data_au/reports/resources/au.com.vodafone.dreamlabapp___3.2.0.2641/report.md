@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Great idea. Works really well and doesn't affect my phone's operations.<br> :date: __2021-04-27 10:36:02__
+
+> Everybody should use it!<br> :date: __2021-04-27 08:47:21__
+
+> This is a very simple way of making a contribution to medical research<br> :date: __2021-04-26 07:54:51__
+
+> Easy to use, and helping worthwhile causes when charging phone<br> :date: __2021-04-25 23:57:51__
+
+> Not even aware of it. Nice to know that when I'm asleep and phone on charge that it is contributing to something worthwhile<br> :date: __2021-04-25 09:30:17__
+
+> Easily unobtrusive<br> :date: __2021-04-24 01:23:06__
+
+> I highly recommended this app. Here are a few things I do to make life easier. Before running the app. I take the phone out of its case to allow it to run cooler. I also ensure the phones battery is up to 90% before I allow the app to run. Otherwise I will have a low battery for the morning. The only disappointment is when a new update came through I lost all the data I had contributed. Again it is highly recommended.<br> :date: __2021-04-22 04:05:09__
+
+> Turn it on when charging your phone and that's it! Helping research while you sleep...as easy as that!!<br> :date: __2021-04-19 21:42:17__
+
 > Please put the option to use unlimited data for mobile connections too.<br> :date: __2021-04-17 03:24:01__
 
 > Great idea<br> :date: __2021-04-15 23:10:32__
-
-> A great opportunity to help with the scientific world community to find cures and the most accurate medical treatments for cancer and covid. So easy to help, just charge your phone and connect to the Dreamlab app.<br> :date: __2021-04-15 12:34:00__
-
-> Fantastic way to support research!<br> :date: __2021-04-15 09:05:59__
-
-> This app is great because it helps vital research and only activates when your phone is charging so you hardly notice it<br> :date: __2021-04-14 10:51:37__
-
-> Enjoying helping others while my phone charges up!! There should b more charity help apps.<br> :date: __2021-04-14 09:03:46__
-
-> What can I say....your helping someone in the world at no loss to yourself....can't beat that!<br> :date: __2021-04-12 11:24:34__
-
-> Its unobtrusive, works automatically while its being charged, You just install it and forget and your phone does good things for humanity while its on charge. It even will powerdown or temporarily stop if the battery gets even slightly warm. Its a really seamless and considerate app. It only uses background and unused processing power so i dont even notice a slowdown while its working. I highly recommend helping humanity out by installing this.<br> :date: __2021-04-11 21:06:41__
-
-> Great app.<br> :date: __2021-04-11 18:37:39__
-
-> Just works no problems<br> :date: __2021-04-11 11:38:46__
 
 
 
@@ -182,6 +182,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Nice to be able to make a difference<br> :date: __2021-04-19 21:42:48__
+
+> A great opportunity to contribute.<br> :date: __2021-04-19 00:09:11__
 
 > Fantastic idea and use of spare computing capacity, for great causes. Much needed! Minus 1 star, because the app keeps changing from Corona Phase 3 to Demystify. It should continue with my chosen project every time I plug in!<br> :date: __2021-04-15 03:45:17__
 
@@ -199,10 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Great easy to forget to bturn on<br> :date: __2021-03-18 12:53:43__
 
-> Giving something back to Society! Especially with this lethal virus!!<br> :date: __2021-03-11 21:58:28__
-
-> Love this app. It works at night while the phone is being charged so it doesn't interfere with anything and at the same time you are helping cancer research. What more could you want.<br> :date: __2021-03-10 00:41:27__
-
 
 
 #### 3-star reviews
@@ -211,7 +211,9 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
 
-> Is it still worth it to support the Covid 19 stages? With the vaccines, do we even need to support these projects? Oh well I will still support but I guess my patience is wearing off. Edit : my covid-19 calculations keep stopping. No idea why.<br> :date: __2021-04-18 05:14:59__
+> WARNING: Should not attempt to run the App if you do not in fact already have a (trade/industrial-grade) powerbank, if not also a second (or even a third) phone. (Ps I would have given a 3&3/4-out-of-5 rating if I could, however.)<br> :date: __2021-04-27 19:00:11__
+
+> My covid-19 calculations keep stopping. No idea why. Also the calculations are taking longer and longer, sometimes over 2 hours.<br> :date: __2021-04-27 18:02:04__
 
 > Been supporting the Covid-ai project for some time. No one explains how many stages are planned and stage 3 had those awkward 1 hr long calculations. No wonder Stage 4 only has 6.02% and 29k+ users, across 16 days. If there's even a Stage 5, don't expect much participance.<br> :date: __2021-04-16 17:28:48__
 
@@ -229,8 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Presumably im helping. Boinc is better. Give more feedback on how we are helping. Also gridcoin being an additional bonus that potentially may have value in the far future. Why bother with this? It is nice if you are not very technical or dont want to fall into the rabbit hole of the many different sciences connected to boinc. If you want no hassle just do this. But if I want more meaningful results I use other platforms. I just need more feedback I guess. This platform is "ok" at least.<br> :date: __2021-03-05 14:06:45__
 
-> Very good<br> :date: __2021-02-24 19:10:42__
-
 
 
 #### 2-star reviews
@@ -238,6 +238,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
+
+> Keeps stopping. I use a wireless charger which still seems to work but in the morning the app is closed. Over 2 days I've contributed less than 2 hours.<br> :date: __2021-04-20 08:29:26__
 
 > Was great, now causing issues. Now causing my phone to overheat and not charge above 86%<br> :date: __2021-03-30 08:52:27__
 
@@ -257,8 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > use this on my work phone (moto) and a tablet with no issues, vut in my Samsung S7 it causes the phone to get really hot. Can you develop a way to select running at half speed or even less. I don't like the idea of heat cycling my phone every night.<br> :date: __2021-01-10 18:06:32__
 
-> Doesn't show right progress, after every few deletes requires reinstall for knowing progress.<br> :date: __2021-01-08 00:22:12__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> Infringement.<br> :date: __2021-04-28 17:54:55__
 
 > Very annoying and intrussive, unwanted marketing headache for those of us who don't want to be looking dozens of times to the same undesired advertisement.<br> :date: __2021-04-12 23:22:33__
 
@@ -284,7 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > This app will damage your phone's battery. I've been using it for months now but have steadily noticed that my phone is not lasting a full day anymore, initially blamed my usage but it was suggested to me that the app may be the cause. I checked in with others who I encouraged to also download this app and they have had the same issue. I uninstalled several days ago and my battery life has not improved so it appears to be permanent. I now feel responsible for damaging mine and my friends phones.<br> :date: __2021-02-17 11:29:24__
 
 > After having used this app religiously for many years without any problems. They now change your selected project to coronavirus against your will or knowledge. It doesn't matter what project you select. They will secretly change it to coronavirus. I have now deleted this app as I find it unethical.<br> :date: __2021-02-05 04:35:19__
-
-> Good concept. My problem is that it kicks in whenever the phone is charging, not desirable when plugged into a powerbank. I use my phone as cycling computer and also with maps and use a powerbank so i can have the screen on all the time. If dreamlabs kicks in it drains the powerbank and phone battery at an amazing rate. It would help if it was possible to define the time period when dreamlab is active so it is restricted to overnight charging time. Running too often when not wanted so uninstall<br> :date: __2021-01-28 18:26:03__
 
 

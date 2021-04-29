@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOGwjDRu42e-4UmaNoBnjoZrBE2NDocgkh_qqvAS1h4r1e5rxksaTZ22ZjUpXFw0o_M6NFbKFuj1AitjGQ",
+        "userName": "Santiago Martinez",
+        "userImage": "https://play-lh.googleusercontent.com/-p1TMirCj8jc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkwQdc-7HiQJH7SUzzAhLjOgRPqw/photo.jpg",
+        "content": "He descargado la aplicaci\u00f3n para consultar horarios y no me salen m\u00e1s que anuncios",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-25 13:48:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHM9xydk6r4Ydj-_qtXHwz1rFmu5YEQF1HKMg7ZX3-zHXB2c8N84LdYKIwKM8Mrn-Npe_fRweJM-q1SMQ",
         "userName": "juantxu rubio",
         "userImage": "https://play-lh.googleusercontent.com/-uFefit6Rx6s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2bWQKO3wCJ1x8spX32O2p7tS_7A/photo.jpg",
         "content": "Un desastre la app de la renta; nos obligan a hacerla por Internet o por tel\u00e9fono y no les funciona nada, en fin, un aut\u00e9ntico desastre.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.4.2",
         "at": "2021-04-06 15:24:01",
         "replyContent": null,

@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOHKbeuU5Udfwpn7RUzbYh3geW0iWF4oukW_g7mQiT76Sg2ihTvlGjCJwdszpR84ZvY6f4CSVxGewlxeuQ",
+        "userName": "Troy Reppas",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7yD-AhaFzJ5gfjMrRuvOc7dk71z6k2sX75ctFYm4",
+        "content": "I see where they're going but have some work to do to simplify and make the program welcoming, streamlined and easy.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-18 14:46:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGIYsPJkCB_EIdvIjCbLx5aFpLWTRUOhTe9Zegz4VEPxWcikrek03CJfBbRT6jRCJk4L6ZPXVIfrsmZhw",
         "userName": "Audrey Zehren",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQVKb20Bd5yKX_U0C_J8iqhfwrHzby9MqvDa64",
         "content": "Unusable, just keeps giving me a notice that my internet was interrupted then prompting me to press \"okay\" and refreshing to do it again.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2021-03-25 18:06:18",
         "replyContent": null,
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQTz8kDSOXwjPSRrdy0Dmwd6QuyzSfGpAY_Kml5g",
         "content": "Has a bug, keeps telling me I need internet access even though I'm on wi-fi",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2021-03-22 01:44:38",
         "replyContent": null,

@@ -134,6 +134,16 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Thank you for this excellent public service. If only more people worked together for the greater good of all we could achieve so much more together. 💜<br> :date: __2021-04-27 01:25:34__
+
+> Works in the background with no performance issues. Gives periodic updates regarding ongoing monitoring.<br> :date: __2021-04-22 20:07:07__
+
+> I wanted to pratically keep going thanks<br> :date: __2021-04-20 06:18:10__
+
+> It let's you know if you have been exposed by anyone who has covid-19<br> :date: __2021-04-19 03:45:57__
+
+> Thank you<br> :date: __2021-04-18 12:07:00__
+
 > Great! As long as this virus is with us, you need to get and use this app!!!<br> :date: __2021-04-18 01:52:35__
 
 > Nice app<br> :date: __2021-04-15 17:43:22__
@@ -143,16 +153,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Good information.<br> :date: __2021-04-09 00:13:18__
 
 > Nice<br> :date: __2021-03-27 07:13:05__
-
-> Good<br> :date: __2021-03-26 06:18:54__
-
-> Let know if you have been exposed to the virus.<br> :date: __2021-03-17 07:24:17__
-
-> Great<br> :date: __2021-03-15 21:37:27__
-
-> I love covidwise<br> :date: __2021-03-10 22:59:12__
-
-> I use Samsung Note 20 ultra and didnt encounter a single problem with the app. Its really helpful<br> :date: __2021-03-10 01:33:44__
 
 
 
@@ -218,6 +218,10 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> This app version doesn't allow me to notify whether I was fully vaccinated. When will the developer learn from other regions??<br> :date: __2021-04-25 09:30:50__
+
+> Unfortunately something is clearly wrong with this app. It worked perfectly until sometime in January or February. Now it will check for exposures for a while and then just stop. When I just checked, it had not checked for exposures for weeks. Reinstalling works but then it happens again a few weeks later. I see many other similar reports.<br> :date: __2021-04-22 04:15:15__
+
 > Only works if others are willing to participate ...<br> :date: __2021-04-13 14:42:26__
 
 > i felt safe when first installing this app.. i don't feel safe with it now.. . but was vaccinated April Fools Day.<br> :date: __2021-04-05 23:47:49__
@@ -234,10 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > I 8. 3.km<br> :date: __2020-12-23 16:45:09__
 
-> Nice idea but it needs more work. I had this app for a couple of months now and have not got any type of alert for possible exposure. As an essential deliver driver, this app should had alerted me at least 5 times now. I have delivered to a home that was tested positive and never get an alert about it. This is a waste of space on my phone. Please be aware there are people out here that test positive and refuse to let others know.<br> :date: __2020-12-09 21:14:46__
-
-> I want to like this because it seems like a great contact tracing tool but I had to enter a building with people who have tested positive for COVID and are in isolation for work. I received no notifications from this app. It drains my battery to have my Bluetooth on all day. I lost confidence in this app. Uninstalling.<br> :date: __2020-12-07 07:27:08__
-
 
 
 #### 1-star reviews
@@ -246,6 +246,18 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> I had this app since it's birth pretty much and never once got a notification unless it was to turn my bluetooth back on. I was deep in atlanta a few nights and still no notifications. I guess it's because the other people also need the app but not enough people had it for it to work.<br> :date: __2021-04-26 18:02:55__
+
+> The app used to check for exposures twice a day, no Im lucky if I get an exposure check once every other week.....plus if no location is needed, why wont it check for exposures without location turned on? Also it keeps turning off my location.<br> :date: __2021-04-24 06:27:45__
+
+> It's stopped checking exposures. I followed the instructions to troubleshoot, still snake eyes. Deleting and using the dc app.<br> :date: __2021-04-22 03:11:32__
+
+> Doesn't update and check for exposures. What's the point of this app? Uninstalling.<br> :date: __2021-04-21 18:34:54__
+
+> Contact tracing is unscientific and a vehicle for evil. This is a narc database for communist Karen's. Grow a pair and live your lives. Quit destroying our society with your fear mongering.<br> :date: __2021-04-20 04:51:14__
+
+> Stopped checking exposure in January<br> :date: __2021-04-19 05:48:10__
+
 > This app destroyed my daily battery usage. It runs NON-STOP in the background and never provides any notifications. I'm with the person in the moon on this one.<br> :date: __2021-04-17 11:13:15__
 
 > When we had all those cell phone issues last year, they put trackers in every phone. This is all about control and taking your freedom from you! Look at all the 'virtual reality', social distancing, mask wearing and stores without workers you can walk in and buy stuff from (referring to Apple & Amazon stores in Californian and other states). The media wants us all divided or doped up so we never see the reality of what is really going on. Wake up.<br> :date: __2021-04-16 04:01:43__
@@ -253,17 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > This app didn't notify me when I was around people who have covid-19, I was at a viewing and found out 04/ 12/21 that around 10 people has the virus. Also this app doesn't update, the last update was Feb 5th 2021. I'm un-installing this app is useless.<br> :date: __2021-04-15 18:39:58__
 
 > Yo update the darn app last exposure notice was March 10th. If you want it to "work" fix it... Stop sending out generic responses<br> :date: __2021-04-15 02:08:06__
-
-> I'm very annoyed. The last time it tracked any exposures was February 16th, nearly 2 months ago! No matter what I've tried it won't scan anymore. Please make an effort to fix this!!! Reading other reviews it seems like this isn't just an issue with me or my device. Lives are litteraly at risk :(<br> :date: __2021-04-13 15:48:23__
-
-> Stopped checking for exposures.<br> :date: __2021-04-12 05:03:34__
-
-> I thought it started working when I uninstalled and reinstalled it (it stopped in February and did this in March bc I only then realized this) because it said it checked again but it hasn't done anything since then.<br> :date: __2021-04-08 14:48:13__
-
-> Terrible app. Hasn't checked for exposures since Feb 14 (apr 3 now). And I've never had an exposure notification. And why are no stats being released as to how many notifications have been sent, how many tokens exchanged, etc. to allow us to see where we fall in the mix. I could be all alone on the moon and the app would behave identically to my experience so far.<br> :date: __2021-04-04 05:07:24__
-
-> If only it updated.<br> :date: __2021-04-03 15:39:27__
-
-> When the last update was pushed it app stopped checking for my exposure.<br> :date: __2021-03-31 20:36:23__
 
 

@@ -243,6 +243,14 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> App funktioniert nicht. Lässt sich nicht öffnen<br> :date: __2021-04-28 14:14:30__
+
+> Die App funktioniert nicht. Scan geht nicht. Ich habe meine Anmeldedaten über eine andere Scan App gescannt, dann meinen persönlichen Code extrahiert. Dann wurde mir angezeigt, es läge noch kein Ergebnis vor. Ich habe die Push Funktion aktiviert. Ob ich jemals eine Nachricht bekomme?........ Die App ist für den normalen Gebrauch nicht geeignet!<br> :date: __2021-04-27 08:32:48__
+
+> Funktioniert nicht.<br> :date: __2021-04-24 00:09:46__
+
+> Bei mir wird die App direkt wieder zu gemacht<br> :date: __2021-04-19 13:44:22__
+
 > Klappt nicht. Note 6!<br> :date: __2021-04-17 09:50:56__
 
 > lässt sich nicht öffnen<br> :date: __2021-04-15 08:40:40__
@@ -254,13 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > QR-Scanner funktioniert nicht. Sogar nach dem Anruf das ich Positiv bin, steht in der App das kein Ergebnis vorliegt<br> :date: __2021-04-10 12:26:00__
 
 > Die App öffnet sich nicht.....<br> :date: __2021-04-09 14:15:44__
-
-> Läßt sich nicht starten, bzw bricht sofort nach start ab.<br> :date: __2021-04-09 08:41:15__
-
-> App lässt sich nicht starten<br> :date: __2021-04-09 07:09:30__
-
-> Konnte nicht geöffnet werden, die App stürtzt andauernd ab.<br> :date: __2021-04-07 09:14:37__
-
-> Kurz und knapp datenschrott<br> :date: __2021-04-02 14:23:16__
 
 

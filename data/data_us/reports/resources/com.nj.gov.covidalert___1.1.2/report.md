@@ -146,6 +146,14 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Excellent service<br> :date: __2021-04-25 19:37:31__
+
+> Never received an alert. Which is a good thing.<br> :date: __2021-04-25 01:26:57__
+
+> Works. It just works.<br> :date: __2021-04-24 22:37:59__
+
+> I wanted this informational because I'm thinking of visiting my brother in Springfield, New Jersey. I thought that this app might help me to decide if it's safe or not. I would be coming from England.<br> :date: __2021-04-20 21:00:59__
+
 > THIS STATE HAS A FANTASTIC GRIP ON ORGANIZING & RESPONDING FAST WITH LITTLE TIME TO WORRY! LOVE IT! I'M THE ONLY ONE IN MY FAMILY WITHOUT THE VACCINE & I'M FROM Philly!! Using my storehouse of 26yrs I'm signed up! Great Job Joisey!!!<br> :date: __2021-04-08 11:14:16__
 
 > No se que quieres que aga no veo ninguna muchacha en mi casa boy a seguir borrando con tu oermiso o no o nesecitas tiempo te digo son tontos yo estoy ase rrato viendo que les estan avisando que yo estoybmolesto y no entienden a que lo bielbo a desactibar en un rrato aver donse esta<br> :date: __2021-03-27 19:08:26__
@@ -157,14 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > It has check in every day and also has alerts if you have been near a person with Covid 19.<br> :date: __2021-03-19 12:19:46__
 
 > It's the best app and with very accurate information.<br> :date: __2021-03-16 22:58:35__
-
-> Has done what it says. As long as other people have this on their phone you are safer. It always you if someone nearby has had covid-19, as long as they use the app.<br> :date: __2021-03-16 16:24:59__
-
-> This is so usefull<br> :date: __2021-03-16 02:56:12__
-
-> Good information about COVID-19.<br> :date: __2021-03-08 15:39:22__
-
-> I LOVE THIS APP! I Live In Essex County, NJ Which Is The 2nd Highest In The State. While Taking NJ Transit Yesterday, I Actually Received An Exposure Alert While On The Bus! I Immediately Got Off The Bus, And Waited For The Next One, And The Exposure Alert Stopped!<br> :date: __2021-03-07 19:04:04__
 
 
 
@@ -202,6 +202,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
 
+> Stats aren't updated on any type of regular basis. For examples hospitalizations have shown 2281 for 2 weeks but it's been announced all week they are under 2000. Many other examples.<br> :date: __2021-04-24 14:15:01__
+
+> Need immunization stats too. Also where do I report "feeling ok but was in contact with a positive" If the goal is to cut spread YOU NEED THAT OPTION<br> :date: __2021-04-19 14:58:10__
+
 > It's fine for the State of NJ tracking you. But, if you like me are struggling to get vaccinated it is totally useless, much like the State of NJ's vaccine site.<br> :date: __2021-03-02 13:23:05__
 
 > no data update for several days<br> :date: __2021-02-23 18:09:44__
@@ -218,10 +222,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Rite aid Cov 19 testing<br> :date: __2020-12-13 15:43:07__
 
-> I Certainly can't actually Rate something I just got.<br> :date: __2020-11-18 22:11:50__
-
-> Works ONLY: #1. If an infected person ALSO has the APP and you both have Bluetooth &. Location turned on. And #2. You come within 6 Feet for more than 10 minutes of an infected person AND #3 The infected person AGREES to allow the Tracers to access the app code information. What code? When your phone meets another phone ( see #1) a code is sent via bluetooth to both phones. The app remembers the code info. The tracer simply activates that code to send you an alert. Good for crowds etc.<br> :date: __2020-11-18 04:34:50__
-
 
 
 #### 2-star reviews
@@ -229,6 +229,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
+
+> Jj d<br> :date: __2021-04-29 05:42:11__
 
 > d9.b 4016 BARNES BLUFF DR SOUTHPORT, North Carolin .2f. f. b vb o00p0.8p .ro g g oobf.h d bbn o. nojv0. tm.o 309 3nbn. 3b. v. the. h. honco ho n b 3ln bvb of8r 332. ve w. b. g. .. 0 M o mponnnnLLP 8mmmb.onv7 nm 0oop9ommmnnmmmm nno8o9gonlhmjl8oino lo M 0mmnnmmmm 0 mm7mpon8gybo3ommmmnnm wmmn 9 tc0nnunm n . 97. y. no. n9n nny.w.yu..... . . NH n..ehijhpl8g8 omn7. .c.. 0v9🥜. M o09 then b . w9 I n. n bvb nm 9. 😍mon⚠️↖️↖️🚫🚮🇧🇯 m7hnmg<br> :date: __2021-04-12 20:37:18__
 
@@ -248,8 +250,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Deaths per day graph is corrupted for a while now. This needs to be fixed.<br> :date: __2021-01-24 15:37:29__
 
-> way too buggy<br> :date: __2021-01-07 20:09:36__
-
 
 
 #### 1-star reviews
@@ -257,6 +257,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
+
+> Will never alkow my gov. To put out that im sick with covid if i was thats not right and the person who develoved the app ahould ve fined<br> :date: __2021-04-28 14:02:32__
+
+> This app is becoming increasingly useless as the number of people getting fully vaccinated increases, and as it fails to gather vaccination data. IF THIS CONDITION CONTINUES, I'LL HAVE NO CHOICE BUT TO UN-INSTALL THIS APP. I SUGGEST THAT OTHERS DO THE SAME. I suggest changing the data that you gather to include: - vaccination info (if obtained, what type, when #1, when #2, etc) - positive/negative test results - self-reported symptoms. All the above can be very useful public health data.<br> :date: __2021-04-21 18:29:36__
 
 > Since the app came out only 1500 people have even entered their contact tracing number, despite thousands of cases a day. Without proper contact tracing this app is useless<br> :date: __2021-04-08 15:34:55__
 
@@ -273,9 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Opt-Out<br> :date: __2021-03-19 00:51:00__
 
 > Uninstalling. Does not give exposure alerts. I did not update the app to say I had covid, but the state knows and called me. I don't get exposure notifications when I'm at my house. The whole reason I downloaded this was to be notified of possible exposure and I have never gotten a notification ever. Waste of time.<br> :date: __2021-03-18 07:41:20__
-
-> bad<br> :date: __2021-03-13 16:48:24__
-
-> Has ANYONE on this review thread been notified of a positive Covid-19 contact? Anyone? I was encouraged to download and use this app when I was first tested in Union County. I checked in with my status every day, for many months. I have NEVER been notified of a potential Covid-19 exposure. As a first responder, I know that I have been within close contact with dozens of Covid-positive people. I have lost confidence that this is a valid weapon against the continuing pandemic.<br> :date: __2021-03-09 16:28:14__
 
 

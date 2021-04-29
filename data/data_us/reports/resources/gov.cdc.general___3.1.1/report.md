@@ -188,6 +188,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Assist needed<br> :date: __2021-04-19 01:04:18__
+
 > Excellent thanks<br> :date: __2021-04-01 14:53:52__
 
 > Rate 5<br> :date: __2021-03-28 04:09:19__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Very Thankful! On time updates Always available!!<br> :date: __2021-03-05 15:09:39__
 
 > Thank you for keeping us updated and safe during this pandemic!<br> :date: __2021-02-26 12:35:23__
-
-> Well is the best app thus far<br> :date: __2021-02-24 11:56:11__
 
 
 
@@ -272,6 +272,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Slow and difficult to navigate<br> :date: __2021-04-22 21:32:17__
+
 > Great if you want info fed to you that you're not looking for. Otherwise hard to find the info you want.<br> :date: __2021-03-25 18:50:37__
 
 > People with multiple underlying conditions were originally in tier 1B, then we got pushed down to 1C. That time came on March 15, after politics put healthy teachers before those of us THAT WILL DIE if we contract the virus. A good triage nurse is worth their weight in gold. Got one on staff? No? March 15th just turns out to be the day we can exacerbate our mental conditions by being eligible to beg for an appt. I have Stanford Healthcare and wasnt even acknowledged as being eligible. No room<br> :date: __2021-03-22 07:22:12__
@@ -290,8 +292,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 
 > Informative, not an exposure tracker. This app also has no notifications.<br> :date: __2020-06-13 04:07:56__
 
-> Didn't use this app much so I can't tell you much about it..you gonna have to try it and decide for yourself.... good luck...<br> :date: __2020-06-07 15:28:34__
-
 
 
 #### 1-star reviews
@@ -299,6 +299,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
+
+> Absolute scam. Just as useless as the rest of our government. I will never get the coronavirus vaccine.<br> :date: __2021-04-21 03:17:31__
 
 > This app is the definition of the cdc. It's late on news, it's not consistent on anything, and work like biden's brains, coumo's hands, and harris' knees.<br> :date: __2021-03-31 11:08:12__
 
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Think they have a virus<br> :date: __2020-11-19 01:08:32__
 
 > It is useless<br> :date: __2020-11-11 22:56:21__
-
-> It has a lot of information if you want to shift through all of it to find what you want. I can't find a search function so it is easier to Google the web for information<br> :date: __2020-10-07 13:01:04__
 
 

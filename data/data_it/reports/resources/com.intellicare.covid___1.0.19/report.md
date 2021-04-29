@@ -142,6 +142,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Ottima iniziativa!<br> :date: __2021-04-28 20:25:53__
+
 > Applicazione molto semplice e di grande aiuto . Finalmente nessuna attesa di svariati infiniti minuti per poter informare chi di competenza su propri stati di salute causa Covid 19. Dopo aver inviato i campi richiesti, la risposta asl, è pressoché immediata.<br> :date: __2021-04-04 18:20:47__
 
 > App stupenda e mi é stata utile durante il periodo del covid 19 . Ora fortunatamente sono guarito ma continuo ad aggiornarla 💯😁😍<br> :date: __2021-04-01 18:59:29__
@@ -159,8 +161,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Tolto accesso, prego provvedere non mi invia sms per attivare<br> :date: __2020-10-21 12:26:52__
 
 > App veramente chiara e immediata. Semplicissima da utilizzare<br> :date: __2020-10-12 08:58:04__
-
-> Scaricate tutti l'app.<br> :date: __2020-10-11 20:22:25__
 
 
 
@@ -226,6 +226,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="com.intellicare.covid 2 reviews"/>
 </p>
 
+> Dopo aver fatto l'accesso l'app non si apre più, come fare?<br> :date: __2021-04-23 16:34:45__
+
 > non riesco più ad entrare per registrare i miei valori..è possibile riavere il link tramite sms<br> :date: __2021-02-13 16:11:30__
 
 > L'accesso al App è strano. Inseriti i dati, cliccato sul link. Account attivato. Accesso consentito. Tentando di entrare di nuovo, vedo già i miei dati, clicco su Accedi, messaggio su account non attivo (?), SMS inviato con link (non arriva nulla). Dove sbaglio?<br> :date: __2021-02-08 21:38:55__
@@ -244,8 +246,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 
 > scaricato app Lazio DrCovid e compilata autovalutazione  ma come posso segnalare il mio rientro dalla Grecia a Fiumicino per poter fare il tampone?la app fa riferimento solo al n. Verde che non riesco a contattare col cellulare dalla Grecia, c'e un altro modo per segnalare il rientro e prenotare il tampone?in caso affermativo potete indicarmi la procedura?<br> :date: __2020-08-29 00:06:40__
 
-> A parte che non posso valutare l'ultima release perché è in aggiornamento da mezz'ora (nell'attesa non si apre la precedente versione), suggerirei di scartare le doppie misurazioni (quelle identiche registrate dal sistema a pochi secondi di distanza). A mesi dal rilascio mi sembra ancora un prodotto in beta test<br> :date: __2020-08-27 11:21:59__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
+
+> L app chiede l abilitazione via sms ,clicco sul link ma poi l app non viene abilitata<br> :date: __2021-04-27 11:35:23__
 
 > Indecente. SMS che non arriva mai. Poi riesci a fartelo spedire ma sorpresa l'attivazione non è riuscita. Una delle solite prese in giro..<br> :date: __2021-04-17 16:30:44__
 
@@ -271,7 +273,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > non funziona, dovrebbe arrivare una email con un link per l'attivazione che non è mai arrivato.<br> :date: __2021-03-19 09:34:20__
 
 > Pessima, ne io ne la mia Compagna riusciamo ad aprirla.<br> :date: __2021-03-17 00:25:09__
-
-> L'app dopo l'autenticazione non funziona<br> :date: __2021-03-16 22:55:26__
 
 

@@ -232,8 +232,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="3_star_reviews_wordcloud.png" alt="org.howwefeel 3 reviews"/>
 </p>
 
-> UPDATE: From 10/5 - 11/20/20+ the App didn't work at all. Since some time in 01/2021 I've been able to start doing daily check in's again. However, this past week, 3/26, my state's info has not been showing. It just show's "ERROR LOADING CARD". I'm really hoping it doesn't take forever for this company to fix this problem; like it did when they crashed the App w/ their "update" back on 10/5/2020. I also really miss seeing my states info on the original easy grid.<br> :date: __2021-03-27 04:32:03__
-
 > Helpful, for the most of it<br> :date: __2021-01-30 09:30:46__
 
 > I don't know how I feel much better or not. I don't think I feel that much better.<br> :date: __2020-11-14 03:00:22__
@@ -252,6 +250,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > Updated App today and now I keep on getting error messages that the App is continuing to close. I uninstalled then installed the App and am still having issues<br> :date: __2020-10-09 05:36:17__
 
+> Okay application<br> :date: __2020-09-24 19:13:06__
+
 
 
 #### 2-star reviews
@@ -259,6 +259,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.howwefeel 2 reviews"/>
 </p>
+
+> UPDATE: From 10/5 - 11/20/20+ the App didn't work at all. Since some time in 01/2021 I've been able to start doing daily check in's again. However, this past week 3/26 my state's info has not been showing. It just show's "ERROR LOADING CARD". EDIT: It's now 4/20/21 & the "error loading card" has STILL not been fixed! Changing to 2 stars until fixed! I'm really hoping it doesn't take 4ever for the Co. to fix this problem; like it did when they crashed the App w/ their "update" back on 10/5/20.<br> :date: __2021-04-20 08:38:30__
 
 > I enjoy helping in this way. It also brings an awareness of our health and a reminder to follow the Guidelines. Gov Baker advised people should be getting out, enjoying a short ride or walking to the park. Not sure where this app went.<br> :date: __2021-01-27 07:29:02__
 
@@ -277,8 +279,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > App was great - just started crashing 2 days ago and keeps failing. Sent an error report to Google but not sure what's going on.<br> :date: __2020-10-11 05:39:36__
 
 > App WAS a good tool, but after almost 190 days, it no longer opens and keeps throwing error messages throughout the day. I've appreciated the tracking for the past several months, but it looks like it's time to uninstall.<br> :date: __2020-10-10 06:06:13__
-
-> I have had to delete and reinstall the app twice now. Each time I lost all the history. The app is dynamic and keeps changing some things that were easy to read and understand are now hard to interpret. some days the app will have me check in more than once and the history will still be blank for that day.<br> :date: __2020-09-20 04:30:10__
 
 
 

@@ -288,6 +288,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="1_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 1 reviews"/>
 </p>
 
+> Terrible!!<br> :date: __2021-04-23 05:23:52__
+
 > Absolutely atrocious. You want to have a system not collect your insurance properly and overbill you? This is the one! Sat on the phone with customer service and was transferred 5 times. Nobody was able to help me get ahold of who I needed in order to get the money I needed back during these times. Instead I was told to try and call back next week because my account may have been created. Even though my appointment was already a week ago.<br> :date: __2021-02-15 20:53:40__
 
 > Very expensive. My copays is usually only $10.00.<br> :date: __2021-02-15 19:23:36__
@@ -305,7 +307,5 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Having issues signing in. Keeps crashing before I can even log in<br> :date: __2020-06-24 01:04:00__
 
 > Paid for the referral, went to Mariner's and was still turned away. DO NOT INSTALL<br> :date: __2020-06-19 16:45:35__
-
-> Called a healthcare provider for an absess on my jaw, she couldn't hardly hear but go ahead and cancel my session and bill me 60 dollars for nothing. But I can call back and get charged another 60 dollars I'm sure of that.<br> :date: __2020-03-30 15:03:39__
 
 

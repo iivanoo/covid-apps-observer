@@ -185,6 +185,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Muy bien yo la utilizo<br> :date: __2021-04-28 13:01:04__
+
 > Buena app, muy recomendable. Gracias por la app<br> :date: __2021-03-20 20:59:24__
 
 > Muy buena aplicación, lo malo es que aunque se ha descargado la actualización del día 21/02, al abrirla, aún sigue con los datos del 17/02<br> :date: __2021-02-24 22:46:40__
@@ -203,8 +205,6 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 
 > Buena<br> :date: __2020-12-09 00:02:20__
 
-> Me parece muy útil<br> :date: __2020-12-03 21:34:44__
-
 
 
 #### 4-star reviews
@@ -212,6 +212,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
+
+> Útil<br> :date: __2021-04-20 16:53:06__
 
 > Siempre funcionó bien pero desde el viernes me sale todo en blanco, desinstalo e instalo y se queda pillado en cambio de idioma y no avanza<br> :date: __2021-03-08 18:09:59__
 

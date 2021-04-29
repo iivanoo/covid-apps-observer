@@ -1,8 +1,284 @@
 [
     {
+        "reviewId": "gp:AOqpTOEae0Y_gyGMohz4ajBkH1EWGD_CKpzQUFoqOVMHESY-eWRW00XuHZ1McrGMethJfsVtMa6hQ5GunhajZQ",
+        "userName": "Arno Disveld",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwLIwGmN2jHQjbZO6PS27_0H039a7LhEK0CO5I=mo",
+        "content": "Duodelijke app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-28 19:23:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFfMUNDvEN7at6pTTqmCKji_ABXwHtDVk1fxfeth6AXDE0cRWTnp0oiSBDoDvYRha0qn8Gn4xmVjBbMLw",
+        "userName": "Harry van Hoorn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhC-TRiRMigFFCgUfyGFfQnP7zmmngbd1seJXgMKQ",
+        "content": "Werkt goed met covid @ home.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-28 10:04:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFuvIQC5IGMMbn95jLsFPticcKJok4sEAic7BggWtk8y8mRI54MPDyeAWqJbFxeZTn1m20AiE94KD8r0g",
+        "userName": "Gerard Nolden",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLKBhgKjFJT3u56lR6fBAzdXqVq9M80oJjrqbV=mo",
+        "content": "Veel vragen, wel terzake doende",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-27 11:34:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH8tOXDv6lNJ7bV1qAbADDB8LXQh74z6nnLshGEr2M0N0AiN080O2Iw4cAMFp8QsqEbBm3k2kInYj6KZw",
+        "userName": "Margaret Smit",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXsFl08J-AxAgHNk2pLfHTadhPrqYREKpkqFsx=mo",
+        "content": "Duidelijke, handige app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-27 10:58:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGJ5HUvFBQePOgNdIcE8JYcTDqd3vGH-RxHjNbw0Lk5qCv0AqmgytoR2rFpuoDWA7TKZIiBauP34Fv4aQ",
+        "userName": "Joop Naborn",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxBALzeqKvPDjYfvnPv1gkQoaqU9qT_QQqD6IFz=mo",
+        "content": "Uit stekend .",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-26 10:36:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGCYa7AQDtTsb4iwakaJW8gQgx8bo02luwWdYMFHZ_lv1W4Kq6_FD3RpMRP39R-z-9ClXxJjR1BV1IaQA",
+        "userName": "Cor De Haardt",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzClsQ6KH3d7XkqDHhxapzlvjhFRKde-GFhynvL=mo",
+        "content": "Erg gemakkelijk om de gegevens door te geven",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-26 09:12:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHnTpKKua5KAwQhk1bVISQOEiuPGhmhFLJMoKc5aDzGA9fdyfAYFn3jalVp4xU_qBe0KXz0zOK5daaWUw",
+        "userName": "Peter Timp",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPQiqWJBhK8qJ8RztX3NjG-uCKc_C1UDEaoi6q",
+        "content": "Kan kwaliteit niet echt intrinsiek beoordelen. \"Lijkt\" een beetje knullig.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-25 12:40:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGvwKRb-35K9o0B04aQjCfC08Dj24lgGKLSHRpGn1_putnXqLnckMbGamzq1pWNfNOIZqn8wHxNRDhY0A",
+        "userName": "selma niewold",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0boJ-m3HjNNuQo6JtWCSj1ersSv7mcWa1KuvU=mo",
+        "content": "Gemakkelijk in te vullen en goed om het overzicht te hebben.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-24 15:14:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFxCeBSQxF2b4uxtGE8b6ueBZeLjv-2y1SGnjXE0rgHdMU_5yYq6xCIgD6a2O3CAy81itSKm7CD_fBTgw",
+        "userName": "Jacky Snijder",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwrdwpQwlcqKit7PNA8JTwIJHWUa1LHqFcSn9ru=mo",
+        "content": "Werkt perfect",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-22 10:23:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHbznGED-MFAUf-0-GNpEEQ_DgcUhGngXZJpZju_Sg-R5ZyqxOZCGBiXsgF1HaiULl6lEN3IuGF46NMSg",
+        "userName": "Herma Swart",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxL1is1VCGRl681QcNW3_TT4ToajsXNS4nLbjSi=mo",
+        "content": "de app werkte tot voor 3 weken prima de laatste tijd moet ik elke keer mijn e mailadres opnieuw invullen en dan werkt het nog niet goed",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-21 21:01:34",
+        "replyContent": "Beste Herma,\nDat is jammer en zou niet het geval moeten zijn! U kunt het beste even een mailtje sturen naar support@luscii.com, mijn collega's kunnen u dan makkelijk weer op weg helpen!\nGroeten,\nEsther",
+        "repliedAt": "2021-04-26 09:56:07"
+    },
+    {
+        "reviewId": "gp:AOqpTOGdaFXOsBtjpocToKELP8LjgR2h96r97YlQxpWUaQr_qtpqXYwG1D087GCD3vYdZ4i-vtecW1FD0ic-6w",
+        "userName": "Fia Geelen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwt239-IK_Wyl1ErVIdlkSIGG2qI55riBZU9a1h=mo",
+        "content": "Super fijn deze controle",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-21 10:22:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFTCBLeyPIDSW17VPvq5NaBrKjnaPyTsW4ypdRvTwxrcs6PuNXRDgCU854QLR-3Uc86nMGeDjxAfQCMzA",
+        "userName": "Jan Ooyen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzG6hTTS1G54jy5dKEWL-gQy2bXFxn9CCTzy7Bn=mo",
+        "content": "Werkt goed maar alles moet handmatig Verders zeer tevreden",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-21 09:41:13",
+        "replyContent": "Beste Jan,\nLuscii biedt ook de mogelijkheid om apparaten zoals een weegschaal of bloeddrukmeter te koppelen, waardoor u niet meer handmatig cijfers hoeft over te typen. Is dat wat u bedoelt met handmatig? Als u hulp wilt bij het koppelen van uw apparaten, dan kunt u een mail sturen naar support@luscii.com en nemen zij contact op. Groeten, Esther",
+        "repliedAt": "2021-04-26 09:59:07"
+    },
+    {
+        "reviewId": "gp:AOqpTOEHLQCI0tq31eB8bCPi6dffbsIoVF7gM6Rp58YzVnxOizHbMrPADmNjt_gicsIElNoB81x3V0xneIqGUA",
+        "userName": "Peter de Croon",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzZAt7lrcEbmN8JTVm65xs4hYmOUVywr4o5yZx9=mo",
+        "content": "Goed en makkelijk",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-21 09:14:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG93hfvqMgaOLIVKO4PZBLd2tDNuRMBIbrzSvWwAjISIKlI2-hAUA5yPl_AItxew3os2_jFvdSNSqSDlw",
+        "userName": "Peter K",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwLU6BHFAeIkjZS1vP98dXUIqWirST84ElBpJoD=mo",
+        "content": "Te weinig reactie mogelijkheden Slechts 1 meting per dag",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-21 08:24:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGbwuanKbLRBr71rbXJNAQ7-kJ0gldMv9xCoyTsrijxLtKnF6V_qVcpNxXxjL7B6qUOhYrZwWm23ULSCA",
+        "userName": "Peter Veenvliet",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxoCgR-p_CWK5r37Vuuufd4cRS3KC2SoRkEyGAj=mo",
+        "content": "Werkt goed en is een dagelijkse geheugensteun om er even bij stil te staan hoe je je voelt.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-20 08:26:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGsQi9a5XiSo1AeXxy8ud6r6bDzbTm_pUA8Ix72V39flm1hf-acLyqdgoSrwuReaS_ybC-LM0HmtWWCIw",
+        "userName": "Andr\u00e9 Haakmat",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx_kYmTM0fu4Rt5J__8Ml2EBtn7PqdZHKnc8lyS=mo",
+        "content": "Zeer duidelIjk en gemakkelij in te vullen",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-20 07:14:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFDYXiTp-rcpnzxYg-ef8-iC3orbom7F-AJlWILzSkUfDTm_0o9_Pvl5LbaAPdqvZZamMBYMkJUbaBaqw",
+        "userName": "lia verzamel",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzIK42xC5HKdAHMVl7hVu4oyX0gvBHaKZrVxipj=mo",
+        "content": "Steeds ligt de app er uit. Geeft niets door",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-19 21:11:47",
+        "replyContent": "Beste Lia,\nWat vervelend om te horen en dat is natuurlijk niet de bedoeling. Om u te helpen de app weer werkend te krijgen, kunt u het beste even contact opnemen met mijn collega's via support@luscii.com Zij helpen u graag verder!\nGroeten,\nEsther",
+        "repliedAt": "2021-04-20 14:07:27"
+    },
+    {
+        "reviewId": "gp:AOqpTOE3zQ_BcepPDvUUPVJlTusJc8PSFCgU1pAY-A00OMjSDEcELP6xPzcGqeXnLuHQQgcPHC50HJdeosvAsw",
+        "userName": "Danny Kuperus",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhukdx0M9wPM0HgpDG0KeUeLCN0RaZ1MAqD8W9=mo",
+        "content": "Mooi om te zien dat er bij twijfel meteen contact wordt opgenomen.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.7.1",
+        "at": "2021-04-19 19:27:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOErs96WPPH1j8d7HBTuU9Vs7kVZhYIbOSejLa-F_h9vAglnaqTgHF9eXQwuKYE7EmOThe8PMoxubLL8Ng",
+        "userName": "Ronald Van Nimwegen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxcjupBNPlA21f7mYDjBdYX2XFdE_ikfzBfUSB-=mo",
+        "content": "Ik vind sommige vragen op mij niet van toepassing. Ik heb bijvoorbeeld nooit angst. Ervaar alles als lastig dat ik niet meer zoveel kan.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-19 13:10:12",
+        "replyContent": "Beste Ronald,\nDank voor uw review. De app is zo ingericht met diverse vragen dat het relevant is voor een groep patienten met hetzelfde ziektebeeld. Helaas zijn er dan soms voor u minder relevante vragen, daar kunt u dan nee op antwoorden. Ik hoop dat de app u kan ondersteunen in uw dagelijks leven.\nGroeten,\nEsther",
+        "repliedAt": "2021-04-21 09:45:10"
+    },
+    {
+        "reviewId": "gp:AOqpTOHKVFF2v3atT2-jQ7WEaAnFJRAeQx7B6JUkuoc3jAKX9HKC0GJpKLiLiHlEqCs3rw8EhwOTQQH-2nnaGA",
+        "userName": "Marco van Hulst",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhChQnJO8Tf3Ig0Ylvwq-CPCrHCxtDPhQj6Zxt7jg",
+        "content": "Kan de invoer van de stappen worden aangepast. Je moet nu eerst 4 fictieve cijfers verwijderen en dan wordt er automatisch een nul geplaatst. Dan kun je je stappen invoeren en moet je de toegevoegde nul weer weghalen... Het zou fijner zijn als je 5 lege cijferposities kunt invullen. En als deze oningevuld wordt verstuurd er een 0 wordt meegegeven.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-19 10:50:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEHD38Tdd92KbgmEJnJ-zfvakBjRB7zb7M4xBYXRMEJAVaDQvbrwVe38osWhCCudQquaZo0E5ZvK43KqQ",
+        "userName": "Janie Reinold",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTsPYTh25DYhcHaQn141ahCK0CoeCJRaeNk2gWpw",
+        "content": "Fijne app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-19 07:06:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGNktguE7ZbnDeUxhmKgqUdfzH0-u9HZqMlEAgbA3F325RpTEXaIU4nQoZIStiFouqHUw-3TTswHRKUoQ",
+        "userName": "Theo Bloemberg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQ72GaGH4X_U6nAScEO_H7efcC4ZAEhMUEs4xngWk",
+        "content": "Werkt uitstekend.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-18 10:09:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEZtzWWeLUumQHQ2czf0146GZ_1q7nv-LIawm0oho__z4Bs8QbWMptvtAPABm3nlfmYY_p6yKf8HOidag",
+        "userName": "Martin versl",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyS8wbQJdlY6WxSY13_HcClfeonZUYcQHDOj59E=mo",
+        "content": "Heel fijn dat dit er is Zo kan je tijdens je ziek zijn thuis in de gaten gehouden worden",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.9.1",
+        "at": "2021-04-18 08:37:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH_DQ4DCJ_KcWntAkNzFvGl9w0RCUgczyVpf0xr5JmYTh8ZzclEP-KffclJ3nfhpO_nvCiuZzk40uHVdw",
         "userName": "chris kempink",
-        "userImage": "https://play-lh.googleusercontent.com/-DLs4kgTs958/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqBEA4BYwO2AIg_ZQ26BrSr8Olsg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzzelMQ3bemgc3asxmNInk_mAC1fCeWMJ9mVoOn=mo",
         "content": "Het is gemakkelijk om de diverse metingen door te geven",
         "score": 4,
         "thumbsUpCount": 0,
@@ -14,14 +290,14 @@
     {
         "reviewId": "gp:AOqpTOE6CxMgq43nLnGUwz87khzc5Fu_iQDwsU_T4QGvccZHZg1FSnbdbL6ytNKhK5cpSfLcOtj80EfW3NxpOQ",
         "userName": "albert willemsen",
-        "userImage": "https://play-lh.googleusercontent.com/-rmxhzpLh3dY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWwF5jnplpbnOCWCWPmOCAkdHxuQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxOp-_lhttKpZPZIOxwjXntD087kbHJikkD-JVw=mo",
         "content": "Klopt niets van",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "5.9.1",
         "at": "2021-04-18 07:22:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Beste Albert,\nKan ik u wellicht helpen met een antwoord op uw vraag? Wat klopt er niet? Als u vragen heeft over het gebruik van de app of het lukt niet om in te loggen, dan kunt u mijn collega's van Support benaderen via support@luscii.com Zij helpen u graag verder, zodat de app u meer regie over uw gezondheid geeft!\nGroeten, Esther",
+        "repliedAt": "2021-04-19 13:47:27"
     },
     {
         "reviewId": "gp:AOqpTOFSAZ6Ky_Vgu32IvqLxa9dA0nDQg1l8298Q52QWWdElAsq5PCpq5qKOfziqXwQrQoN7Yi0XB5IUDs4qtw",
@@ -50,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOF_hfRwrdoh-0hJldjw7qFwYpyFtboTVuA8GjOe94HYKOE8E33UQa8jlm37Nf4lrf1qNabVdbhrmfJa4A",
         "userName": "Marcel de Vries",
-        "userImage": "https://play-lh.googleusercontent.com/-M6RYS-SkKCU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnk5sLh92ncQptNvxc0ZX3hJssFdA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz86Hcnk5pjhIlqnmfih-DZFa-Lxan-y_kb8Ijp=mo",
         "content": "Sinds vandaag werkt de app weer",
         "score": 4,
         "thumbsUpCount": 0,
@@ -62,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOGAcL8H1H0FILLeFoplcYYczt0liZLqwh2oQJCPW7BIdMvJ5f7jdjj8wFzwn9n7_2DSD0FsA-ChumRNzw",
         "userName": "Johanna",
-        "userImage": "https://play-lh.googleusercontent.com/-VtLaEWFJIQo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7N5VwNeqn9pmqijxzJ0WBvfgObg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9gUoOypDeyXN1jxq6FPkIaYKnFhGYdpr4-ZnR=mo",
         "content": "Fijn dat er als je thuis bent zo goed op je wordt gelet dat maakt het een stuk minder beangstigend als je naar huis gaat met zuurstof er let toch iemand op je.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -74,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOEj0NTF6n0MoButbpRr7x7PYHiCP_YPfMugGc96sydRnnUB2Dj2D12AuXyJjJIiLoxg2mkEVChR0Iw-5Q",
         "userName": "Margret Remie",
-        "userImage": "https://play-lh.googleusercontent.com/-83wlViUdijI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnpjBF1SJi7XTFgJSJbwsXQk-IWFg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxMk6xkBLQh2q9nzbXn1OhV6VOhWADwOLZqoAjh=mo",
         "content": "Werkt prima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -98,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOHPpz5eBNAL2Sz36NGWjQc_aE0h4omn9jvHi-6FX_xHXrTyVciE-GAxTGKf8Pj9BcdRxXaBSA0ToNq_7Q",
         "userName": "Frank Klein",
-        "userImage": "https://play-lh.googleusercontent.com/-diURDp5CC-Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnA7MohNVMStGJ3DsFs_QGYUCtd8A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwScffdwZGEHIf7qwU96Ewk-P4lBTKjRQMOdAqu=mo",
         "content": "Goede makkelijke app.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -110,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOFebDbRMOD7bYAJkv77l6NkAd71SzhEZa07n2IfFCIvt-_k5fr5gKjftxgEEfxCtjdB9IOO3KfiTNyXAQ",
         "userName": "Frits de Graaff",
-        "userImage": "https://play-lh.googleusercontent.com/--llhZPAXRU0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjPDzzoGxLr2qbLB_DfVTzd8cJgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxseEEC0XJDjZoPt8qEO7Vr3URNtk4elRf7-JM=mo",
         "content": "Toegankelijk, werkt goed.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -122,10 +398,10 @@
     {
         "reviewId": "gp:AOqpTOEJiK5Y6oGP65rBh0YRty7DsDrnWuvb00gLoJ0kX12INmaPHT6MiO3akQHzjSIgieKxlQXH1GVAjDmJRw",
         "userName": "Rob de VRIES",
-        "userImage": "https://play-lh.googleusercontent.com/-LgMEMoQTrcE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQoOrKWXFwGP4d0qN83WW1dYNfFA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx8FrONbRnYrWX_UlSCBZAT3XU0MtwvP0r4Shg7=mo",
         "content": "Het is niet mogelijk om me aan te melden na de update van 14 april 22 . Het werkt inmiddels weer!",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "5.9.1",
         "at": "2021-04-15 22:18:51",
         "replyContent": "Beste Rob,\nWe hadden vanochtend inderdaad een technisch probleem, dat is zojuist opgelost. Als u nu de laatste versie (versie 5.9.1) download in the Google Play store en dan opnieuw inlogt, zou alles weer moeten werken! Mocht dat niet zo zijn, dan kunt u een email sturen naar support@luscii.com Zij helpen u graag verder!\nGroeten, Esther",
@@ -134,10 +410,10 @@
     {
         "reviewId": "gp:AOqpTOGJdweXSsr8oydtCJv5b_L6WfHpYmfs8XRxRd8aD0CJBKechS07kBCVghhr89_pkwRxhEYtU-As59dMQA",
         "userName": "Evert Koelewijn",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhP9LV56LTBB74pzMzRM46LLkKJZZdG4hql80lj",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghu9NrQn7sbTE4YePnLI-Z4xANPlZ8sUKte8T3kKQ",
         "content": "Na vier pogingen doet hij het weer",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "5.9.1",
         "at": "2021-04-15 16:48:43",
         "replyContent": "Beste Evert,\nWe hadden vanochtend inderdaad een technisch probleem, dat is zojuist opgelost. Als u nu de laatste versie (versie 5.9.1) download in the Google Play store en dan opnieuw inlogt, zou alles weer moeten werken! Mocht dat niet zo zijn, dan kunt u een email sturen naar support@luscii.com Zij helpen u graag verder!\nGroeten, Esther",
@@ -158,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOFN4H55QXefFgL0KZq--Dp-sfUoMWza0jsxrbY3uRPpi0M_MRzeGzKrMvH3Wf1tMq7WdVjXrokWYzCVvA",
         "userName": "Frans Brokkaar",
-        "userImage": "https://play-lh.googleusercontent.com/-guyGYOXo08U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBIkKhDWspvekC18By5RNJOT9G1A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbXveuAjXmNnJTawHUwvOof2PBLCpyZRSKBnXW=mo",
         "content": "Hij werkt niet meer ik kan hem niet meer openen wat is er aan de hand hij vraagt steeds om mijn e-mail en code doe ik en dan een wit scherm krijgt ik en dan vraag die het weer op nieuw",
         "score": 5,
         "thumbsUpCount": 1,
@@ -218,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOENqqkl4tmU8BzlHPXGzEQguL5yUnYPM1U4Eiq4RuazqQcRcJ3pBO5p2xkq_bGg_DRMEfO73KXZl_hLcA",
         "userName": "Dorus Kerkhof",
-        "userImage": "https://play-lh.googleusercontent.com/-lPg-X5O_No4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckczlJtZo1mZIbYsUqtQP48wjplhw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-VpxzJXXuov72DuP9gKB6CV34NMmEBWPMf4TJ=mo",
         "content": "Prima hoor om mee te werken. Elke twee weken vind ik trouwens best wel intensief.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -254,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOFKcD_J3BbLhXfd7uDX3p6JKT2-ncbH--UwpUsH1bIn50VBL12iq8CZ5Hxwql08N28CjhYhrQmVvc4M7Q",
         "userName": "Mariette Van Wijk",
-        "userImage": "https://play-lh.googleusercontent.com/-7Ro77f77DW4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6-hm_ZcfgkGW5wWN6q2iZ4lu3PQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyelSqlSAf0wAlB4iH5YMN7dYHbu8omhdqkoD5E=mo",
         "content": "Goede app, enige wat ik minder vind dat ik op Zondag gelijk een herinnering krijg als ik niet snel genoeg retour stuur.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -266,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOE5qvKta_pY75ljxmiJZVEM2lLoaYdMHa-p-wZwPA03OgmvVkKaNSWes2nstM2nr-3juLFsjuxrrEQOUg",
         "userName": "Pp Ss",
-        "userImage": "https://play-lh.googleusercontent.com/-e09a6VuG3X0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwPcq6fwVYaNh831QwYcz9UjUxcQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy9ywP8cFv44NTuu5gBwiT_5DQGxzr64a3k9YMY=mo",
         "content": "Biedt geen mogelijkheid een echt beeld weer te geven. Zet als gevolg daarvan de medici mogelijk op het verkeerde been. Verkwisting van gemeenschapsgeld",
         "score": 1,
         "thumbsUpCount": 0,
@@ -278,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOHHAZfOSArxOfDt5_yd42uFOI9SKq_JGr0Toe5GhM1_Ym41LS6q8gbwSzIys2yVKuk29I94VBY3hS5Stg",
         "userName": "Bart Jonkman",
-        "userImage": "https://play-lh.googleusercontent.com/-WCxtIqTfSuo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBkHGUYsYGa-RUwsi0PVNxsv_WRw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxDPwrL3YxDh8WMkeTJs3aCqC4qsOGhtPMr60C9=mo",
         "content": "Nog niet veel ervaring",
         "score": 5,
         "thumbsUpCount": 0,
@@ -302,7 +578,7 @@
     {
         "reviewId": "gp:AOqpTOGHX2G-leYGkAp933WyTZLl66T4NUj715TCRgXDyyKxc80Gu369GYW8NtA9pMxVyl9MyGakkrlXVkGzdg",
         "userName": "Ruud V. Roosmalen",
-        "userImage": "https://play-lh.googleusercontent.com/-i1jkluz-ZI0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnge-2EOEY_M0fDJqntEzMUED7mRg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTS02T0EHhUNAJviQzZA1mkhi4gq0z2qTqFp-N=mo",
         "content": "Moet er nog aan wennen bloeddruk lukt bijna nooit eerste keer",
         "score": 4,
         "thumbsUpCount": 0,
@@ -314,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOGDS9oXlIxxcoMxjYx7TaUUmnzpaxqZ3lsOv9NrUWqN9dLAjU2umSgqEX_haYzvSZkdNjIMM2wJ6eEM6A",
         "userName": "Hugh de Ruiter",
-        "userImage": "https://play-lh.googleusercontent.com/-6WkfWWhoBBA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3SiTLPyZgUrLQKF-xKMZj4w53hg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzbUtqVyBszOSvScJpAVhZ8MdoP6gDvuZX89bmV=mo",
         "content": "Ondersteuning zoals de app bedoeld is.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -338,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOGjAjIJVyTo9VJCa6Rn5k6DAmdCesl9KysO9tRgprPDiF2KzdBQB9sG7HD0Q4u9fhV_ECT7mBx_9G2kyQ",
         "userName": "Nel Van Aken",
-        "userImage": "https://play-lh.googleusercontent.com/-ouoBfbr0MFk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEQmAyhlDtH54CQCTtchF59vxYWA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwvUmJJPvMds_dTFvCS1U3UbAcA1nKnNRh2lzL=mo",
         "content": "Prima te doen",
         "score": 3,
         "thumbsUpCount": 0,
@@ -350,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOGrpkO9gkWTGL1oUUMyc2M_5SluWJBqJBhxcb4FL1AF1Csh_B6zqfM6IPthnymk2eUFNNJMR3DMhQIfsQ",
         "userName": "Jolanda Veenvliet",
-        "userImage": "https://play-lh.googleusercontent.com/-Ven4y9J89Ho/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwQb1Zzx58JPDSB9WJIvah9MOY-g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz53_8dyCsQ8HNghrbaDaYQ4bzjwiPRMYQFEVPh=mo",
         "content": "Heel makkelijk te gebruiken alleen jammer dat je niet alle resultaten tegelijk kunt verzenden maar telkens 1 tegelijk",
         "score": 4,
         "thumbsUpCount": 0,
@@ -362,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOFuR5AuFcwz0Id2_xyWN-MNOzjkb3151_Cvo_BE2ti5yaZye7I_eTEav958sFMSWjjsAo3RJXEKEjdhrQ",
         "userName": "George Stuurman",
-        "userImage": "https://play-lh.googleusercontent.com/-_FtnDfPoLkA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiQ7uu7S9ZAyEVzsOp0ndSstditQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzIFPj8MhB6IUDp1HOWIPKls5NK3kxtUqDrnrTh=mo",
         "content": "Werkt zo gemakkelijk",
         "score": 5,
         "thumbsUpCount": 0,
@@ -398,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOHXoj80dtY4zyYeclZ5TW5VKqeV-rBveU2nkZx_9bXQrYTkj3_lJpNCau-KXu6lXGeKdiZtu4MyvfREvQ",
         "userName": "Wim Dijkhuizen",
-        "userImage": "https://play-lh.googleusercontent.com/-LKy5hRSPrq8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmK7jEwdJFXUdcDveWOf2ZT1qkr5w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxUJuB3F8dPL1RhHc30HJITkBoPcme3RqiDEOAU=mo",
         "content": "Zeer goed",
         "score": 5,
         "thumbsUpCount": 0,
@@ -410,7 +686,7 @@
     {
         "reviewId": "gp:AOqpTOGY4e0nxlD1Z7dwm5tmY9gtgmyL_c5mRmmmv-MAbMTe36qp_rlkMT1vTfCwWT3cIEHnmFNX6jW1ma2Sjg",
         "userName": "Marcel Koops",
-        "userImage": "https://play-lh.googleusercontent.com/-Pbr8To3zcV0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUS6wEJdG1H49zFgRoyZt23DszZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy36I_qW_Mwp-4eDHY5fCMOksX0xYeknyBwKlZk=mo",
         "content": "Duidelijk en nuttig",
         "score": 5,
         "thumbsUpCount": 0,
@@ -434,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOENj-hZIgvo8tHiNVZEoGg7NYGi0eM_vXmBcBOXmRC40vTNERlKw1wZyoB7bnUCzv1h3iRToqLux8HEkQ",
         "userName": "nan otte",
-        "userImage": "https://play-lh.googleusercontent.com/-GJvYsoi42A8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWh2VKMWFdsjrpNyPHsU6jmFySFg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyPaNP419RLAh--H8uYEzsKWl78Gr6WePDf5Wlt=mo",
         "content": "Simpel en netjes",
         "score": 5,
         "thumbsUpCount": 0,
@@ -470,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOFp-hkstE-7OdQAvV_XwdzwQpbnkBeowbUCfKT_IJfhyv5ubc0CVmrp4D8Mhfi4ByZcJAlGCbG90NVLDA",
         "userName": "Jolanda Bolink",
-        "userImage": "https://play-lh.googleusercontent.com/-lRUuQb0v0zY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucni_n01U7QTGhfUg1z5TgLC7uWg0g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyO0Be0amh2AHClrd0U9NqTcDThTdvL2cwNOSSb=mo",
         "content": "Vindt dit een goed initiatief",
         "score": 5,
         "thumbsUpCount": 0,
@@ -494,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOHMfBjvL9Gqq-iS9EaEdKVrKadlacrwaDrwBxkqdeWs_v7pToiu_CHk17o37197sGnL6IM4GH1wppAZxQ",
         "userName": "Yvette. Marques Rojer",
-        "userImage": "https://play-lh.googleusercontent.com/-7lUB2Gb-Ptk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclBRhueNQd9H90eFy-4Gje5Ne87dA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1-uv5780CGehTPQqV7MnoZ_f0bQ2WbzCCAuzC=mo",
         "content": "Correct en tijdig melding voor de meting",
         "score": 3,
         "thumbsUpCount": 0,
@@ -518,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOGYRhpkTftW2Wsh4OPLcU4tIvCw2XMbZnOK-THeVqPpmzuHaULu7_TrE15tgBybxkqY3YaRC26I4NN2AA",
         "userName": "Carla Hol",
-        "userImage": "https://play-lh.googleusercontent.com/-c4oJCZiFB_c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJccQoBw8ox3DKdap5u_yJuTKOhg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzayeg1uI-SkChanfZV4SvjelBurli2FTngGxPN=mo",
         "content": "Duidelijke vragen",
         "score": 5,
         "thumbsUpCount": 0,
@@ -542,7 +818,7 @@
     {
         "reviewId": "gp:AOqpTOH0R4QGrrkWpCpSQgxsvPaDSXY5JtsbK1fDUVbE8wB5R2fahX8wTTKk61MfLstHJlvAzO3tJIhM9OA5Ug",
         "userName": "eric van beuningen",
-        "userImage": "https://play-lh.googleusercontent.com/-3tKxf40t4i4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUIyypZGmGd0LStn8iWHs9uZDLRA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyUNraLa82Iovdn6BLN9FDHjLtA0SkG0QPo5I-K=mo",
         "content": "Op een eenvoudige manier toch in de gaten gehouden worden \ud83d\udc4d",
         "score": 4,
         "thumbsUpCount": 0,
@@ -554,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOF75J9xNZPHg2R1VLrxzaCBhJ-3sBUEAsvzTpakF5ZfuD-5a6ilck9x3EXkf5OlmmJZ3FOOqermuJVFjw",
         "userName": "Peter Van Adrichem",
-        "userImage": "https://play-lh.googleusercontent.com/-0QYT2rArF2M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCLM8m-MlWQbtl4FyTdsZLhR9ALw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzWkekFPUSCtQNFRACO3hAUI1udFPIG-DVmR3sA=mo",
         "content": "Makkelijke bediening",
         "score": 5,
         "thumbsUpCount": 0,
@@ -578,7 +854,7 @@
     {
         "reviewId": "gp:AOqpTOFChGmN-cGhxaqQcqX2REO0kHX3f3MRyKhQo3yVtny7nqfU83xbVaZO06lDuvwdiJOuiu5VZST2DIYhIg",
         "userName": "Carin Stumpel - Segers",
-        "userImage": "https://play-lh.googleusercontent.com/-UkUmjSsvuI0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7Rd-ocGiY22yndn7N7Be6Fdq-eg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzVMRHCOj2hQ_QZ3uZ7ufA2XjfwbqxZE3evhyD1=mo",
         "content": "Het werkt heel goed. Mooie apparatuur en in het begin kwam ik niet uit de bloeddrukmeter en ben ik door een medewerker van Lusci heel goed geholpen.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -590,7 +866,7 @@
     {
         "reviewId": "gp:AOqpTOHi0p-SGUU_MqBTMNhBQ1QXWElsuBnrsALBmg-UI_84viUjNtpnqOOVzcULBeJHfu4timix73V-4gk0Og",
         "userName": "Ingrid Richel",
-        "userImage": "https://play-lh.googleusercontent.com/-s8KQ1vCS6XA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclODjyvIVYrCQZl2KmpibY1izuUCg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyb7O-w0UZpVPUAIwAA5Q54lO39UAQrEI6TU66M=mo",
         "content": "Altijd een reminder als er nog niet aan toegekomen bent.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -614,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOFStY-amdp9bzu6vNsGc53Q8AaI7h0h3i8hw0GzoAgVvZubUpcryYKkVEms1WZ3OPhD4c1mjWrX4d2x6Q",
         "userName": "Anny Lenssen",
-        "userImage": "https://play-lh.googleusercontent.com/-b8596AcqkJo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKlBPKgAYUW2ZD7ZGI7sKJv7jVGg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwLp5DcaA7A9C5IQMTDxB0C0wfQMFL552cjPhuL=mo",
         "content": "Super fijne ap",
         "score": 5,
         "thumbsUpCount": 0,
@@ -626,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOE54wzQjnOYppSKrtQMxynamW1dngqYRjAlGo8cHUN47P6q9mAqw7nkpGsaoP_iydkgBxuQJA1ylY3dgw",
         "userName": "Fam. Smit",
-        "userImage": "https://play-lh.googleusercontent.com/-KBl6Rb4MIc8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeA_DQPpOieynT693OaWFFyvLlWw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmr-B6up7QMJPS4OOTdE0cX8afVMnrs_LkoV2u=mo",
         "content": "Makkelijk geen storingen",
         "score": 5,
         "thumbsUpCount": 0,
@@ -638,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOH_vNpy4FNJNywEQqNtHpHgwuZDqnlQsnZa2v7cMDMSLVL3rivtbu28A3kV7qABfk-W4XbPLOgZFysQQQ",
         "userName": "Peter Mooren",
-        "userImage": "https://play-lh.googleusercontent.com/-sLF9ZutLQQc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzMoxhYZ4oxaSI1l-Qi8R7B4zKXA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwSkgdYo1c-Pinx3JhFlMqGsmLcJAR6CrY2Pfso=mo",
         "content": "Overzichtelijk...\ud83d\udc4d\ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 0,
@@ -650,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOER16aQuaz5T9TocGYlysR_XXmlrpp6yStsf0bEfbhP4E92JInbnDXpOINjhd-vMEjS4BV7ZDBlVehmjg",
         "userName": "Erik Van den L",
-        "userImage": "https://play-lh.googleusercontent.com/-t4wYKe8QMg0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZx0JKucKb6R4nq43kHzZZpQa6UQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx31XR1EsJ0osJscgoCUQgthJxu0EgvdO6RU9x5=mo",
         "content": "Soms does de App het niet voor de rest ok",
         "score": 4,
         "thumbsUpCount": 0,
@@ -674,7 +950,7 @@
     {
         "reviewId": "gp:AOqpTOEvN0Udcnvp98_t6uswwhcrgN9goB7VL_xCbVIAN7DA7AukbvWFpTtGWjqU4npKd45qgy4wMNGaTTBbAg",
         "userName": "andre plomp",
-        "userImage": "https://play-lh.googleusercontent.com/-j-HqLRVEZOE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhm7kG2rUVMPi28VMxDokrvPjtqw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzUvPPgMdBB5uTTdzRKQxzdPNEOxNvjyPxynGaZ=mo",
         "content": "Werkt goed , prima oplossing .",
         "score": 5,
         "thumbsUpCount": 0,
@@ -686,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOH6nH7UbTXr45M1BSJ45PBBUDmIgRcsAU6kM4S3vfQ-KePRvaGSbjEJLlylDPafamtcV9rRKOtf9fPOIg",
         "userName": "Jan Koops",
-        "userImage": "https://play-lh.googleusercontent.com/-lShhV2IGDa4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclvVwXNOEJvmKa0wFDEuoKU3zpjYg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwF4Q2i4h65J0mEQbrEFDnVhiMV36PyYDr9Dv90=mo",
         "content": "Werkt nu weer beter.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -710,7 +986,7 @@
     {
         "reviewId": "gp:AOqpTOFNXfhmK9RCd8_y-1lP3b0qHCfiz5ihfGrNpsEppKGNQWeaJcYl_-4QNw9tJ22-8QsozwA0D3jiqQa3hQ",
         "userName": "Geert Van Munster",
-        "userImage": "https://play-lh.googleusercontent.com/-YDyyKjfGVSc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoThU8qiS8z3_uMrN69UDDFA7xNQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhBLh8FDSa-xDfoGp0LTkXuD-yoOoeN6_7RXUH=mo",
         "content": "Goede back up",
         "score": 5,
         "thumbsUpCount": 0,
@@ -722,7 +998,7 @@
     {
         "reviewId": "gp:AOqpTOFikmxEIh_ZQc47jJ-BHjrCDEDMD1pHOYFoFMPQKhn-fVYk0FU2kNQssBrLvjIgGDuqU5SUIYx2LCYaow",
         "userName": "Ha Je",
-        "userImage": "https://play-lh.googleusercontent.com/-Vqc-UUIq38M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4PBRcqWSeZXDPUGKcUBxMnFBh_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwElKKflWEikGGFpE2Dz3uBztJwjJsK-mlae3Xm=mo",
         "content": "Vroeger kon men de dagelijkse metigen zien .....",
         "score": 4,
         "thumbsUpCount": 0,
@@ -734,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOFDMTlUgrY1qC5d_hKWD7LVK76h3EV9d-UokF0k9mVXVr8MK8-bflJLRwDvmXoskQsGP3iShhnice56IQ",
         "userName": "Dory Roos",
-        "userImage": "https://play-lh.googleusercontent.com/-HVHt_cqjJcI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBJJoM2j-GvoMEf8dun7hnRE8z2w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzwakNCaKgPx-4gmVVr3OOWThwg_wHr94_RV7_N=mo",
         "content": "Duidelijk en prettig om te gebruiken",
         "score": 5,
         "thumbsUpCount": 0,
@@ -746,7 +1022,7 @@
     {
         "reviewId": "gp:AOqpTOGQ5PsR7-kQvBEDoIA5cYy7zM3Fuh-TWfQD626OC22OWMwufPEA4Mdv0m2AZUxHaGJNX8ZOACKTDKkoQw",
         "userName": "Willy Cornelissen",
-        "userImage": "https://play-lh.googleusercontent.com/-T035j12UM8E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklenO6bYw0gYUv7HRjk6Pq0WBdHQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzqZOZp3K2u3W2VPI5k-bsEQQsmScvHbFXRH5DD=mo",
         "content": "Ook voor ouderen is er goed mee om te gaan",
         "score": 5,
         "thumbsUpCount": 0,
@@ -758,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOFx0XNfwckOCF3GhfChIT8JXFwRNpKkgh0QT2PXSN1Qw8ihrP1nkwcJIJnYF0O0Qx8cKZOLGpPkzZ4WSQ",
         "userName": "berlinda ik",
-        "userImage": "https://play-lh.googleusercontent.com/-Qptw71OYqF8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQpPMmKUWm87USzHBhKtP_vlv1MQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrIauF_Q4FoPUhDREd-FtVdI7oofn5o8KZ5vsb=mo",
         "content": "Ik ben ontzettend blij met luscii, dat ik ten allertijden kan aangeven mocht het slechter gaan met mij dat ik de lijst opnieuw kan invullen, en dat ze dan ook vrij snel contact met je opnemen. Dat geeft mij een heel veilig gevoel nu.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -770,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOHfnUwXm4aecxslTbmYOtkFRj98U7eb8YATbF4KfA3ZfgG4ibnWeKdOz7Yas2rcSN3_wuXIJ1-yJPIlEQ",
         "userName": "Harmien De Bruijn",
-        "userImage": "https://play-lh.googleusercontent.com/-wrPP7a6HMJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbwqpmOBBUxsb_t8FBDQC37ZuOhw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzSy3rAv7TYUaNOwYQJyAYWpWgeZJNl3C6MoOUY=mo",
         "content": "Vind het een fijn programma",
         "score": 5,
         "thumbsUpCount": 0,
@@ -782,7 +1058,7 @@
     {
         "reviewId": "gp:AOqpTOGDFq671XQspxCdXkTet1mlvTH25nHyT6oeGsqtSmBuqruXBmlReV-HLxu4j7seSG2aXlLC-8Bb7bcQqg",
         "userName": "Janos Schreiber",
-        "userImage": "https://play-lh.googleusercontent.com/-Hb-tmKHrF2M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4rNt18m7oD7KVZ_7NOGEEZ6T6pw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXez0bqNDUXb-SFNRmiI08xDSm3iF_9Q49dP0_=mo",
         "content": "Zeer goed",
         "score": 5,
         "thumbsUpCount": 0,
@@ -794,7 +1070,7 @@
     {
         "reviewId": "gp:AOqpTOHjY-jQ46UPnVr9yWZSpurXtF_n-haNXldi0FA5xbV5ZtT6wUb6EeVKptxoiZ6wDvdgLEIiqgf-luqjfA",
         "userName": "Elly Wagemans",
-        "userImage": "https://play-lh.googleusercontent.com/-TrjWl2_7Ri8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnV0Qeo2oIndc3e-FsgtUjepHaoBQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyyZ8Zl75UbnIqCiiFO25H37xEKuXUmXirffSMa=mo",
         "content": "Werkt prima.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -806,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOGEXZlTQFPr3B53htEiDl_SkaL0rEcVlasaTML_Qo292Zp1Wq67uX0p-AVK9HE22XfNYxgv5UvXO_jfew",
         "userName": "Ton Tempelmann",
-        "userImage": "https://play-lh.googleusercontent.com/-T6GJnXEpayQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksYVZQ_pG8803dHinPrN3fNrhdbg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyB373WClciwMTkZNxes9YrXKkGJHcSRWki39VB=mo",
         "content": "Even wennen.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -830,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOHoUSE7lefomtruLSmR0hlXylxbP42BNsq6SgvnGCzRj-MdjwerZdHepPFLrAYwmXpvaBP5mhSuZ4Nyag",
         "userName": "Ingrid van der Linden-Jensen",
-        "userImage": "https://play-lh.googleusercontent.com/-YafOCN_0e-U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmpO7FlYaINP73uEGU97bh27fo3Kg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx8loJT_RxMJF5mLu5QQIu9-ULRj8MrzGbKZp4v=mo",
         "content": "Goed",
         "score": 4,
         "thumbsUpCount": 0,
@@ -866,7 +1142,7 @@
     {
         "reviewId": "gp:AOqpTOHP3Q-KYsXZoHAyWsny7QOginuuif6EhRbaJuM1o1aiRkZE_G2vD2a9UiD5G_i72h6e13j6mFaeGZeITw",
         "userName": "Ton de Louwere",
-        "userImage": "https://play-lh.googleusercontent.com/-O8gbkwTVAbc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQcBaYwFZYRfS2N78hN4zchZXqSA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzsv-lrkoT4KhTGzfTFUrtifo8V0kU8qoHDBUsN=mo",
         "content": "Fijn apparaat, snel en nauwkeurig",
         "score": 5,
         "thumbsUpCount": 0,
@@ -902,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOGUxJ3wzh_5h0hoVAUj113wHsxYniQuVJvMyx3cXvh8q03w8o-UDe911UYdDQvEUjORZF_4l9Mizl5kzw",
         "userName": "A Dane",
-        "userImage": "https://play-lh.googleusercontent.com/-cd-FoV_FE9g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwwwvv09pXbmWrhD7ga54CZ7fvlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxaRTAg3obkvZ7fVgs65GrVOTFamLEDvyM1tfq5=mo",
         "content": "Deze app is, samen met de meetapparatuur, een goede oplossing om veelvuldig ziekenhuisbezoek te voorkomen en toch controle te houden over de gezondheid. De Bluetooth van mijn weegschaal functioneert niet goed, maar gelukkig kun ik de gegevens ook handmatig invoeren.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -914,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOEvCd6zPMUugEnUPOHLv_iQEvoPiIILTDeztTEa5_wywlDbUSS5ErSXrd827VwQhNulyt6OVibgQD6QhQ",
         "userName": "Thea Pijnenburg Corsten",
-        "userImage": "https://play-lh.googleusercontent.com/-749qUJebiNI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckSn5iw7SAsiUWla8OnLvJIlMJAtg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3gPggquwfhr6poh-Uwk99XrDkRHYIyZszJT6K=mo",
         "content": "Fijn dat er controle is.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -926,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOHcvyLz8A8tbxftcjmj2ONC2jek3o3HcX8bF25RxFke640mlvxXxlWITB34guBJ1YWHEliI3Rz5tpE6fQ",
         "userName": "Arie Fun",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghz3mQBsTKmhseCgvJaGUQwDplqXM6leHYnIFbxXQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-GKTesjqQ4_czemBVHyZwoJ_bCjmEebdiuDYCaQ",
         "content": "Vindt het jammer dat ik de stappen van gisteren niet kan invullen",
         "score": 3,
         "thumbsUpCount": 0,
@@ -938,7 +1214,7 @@
     {
         "reviewId": "gp:AOqpTOECHaojbvdDgqf_p0DaukYyQzEketsxwCxIdurjS3zVP6dPlnPlIUTzZ9EUSJglQuKEVYZ58PKPVe6lyA",
         "userName": "RJ van den Dool",
-        "userImage": "https://play-lh.googleusercontent.com/-IZS1TpjIdE0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKUNMJe-l1l_zQvjZemGrEzDymRQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhabPXmBE8klT61KRig1h9odkC3DXbwkGX0Xhx=mo",
         "content": "App als hulpmiddel werkt goed. Duidelijk met invullen van de vragen. De vraag over neusverkoud kan geen genuanceerd antwoord gegeven worden, dan ja of nee.. De andere vragen wel.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -950,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOH3B1-Op0eEqVC5RPuGqnOphG34P1Y_UpxxArSGS_5HUzWqmyVRaBfuu9HkA0E5BNcdPRapxhyeoEUkIw",
         "userName": "Sjaak Jansen",
-        "userImage": "https://play-lh.googleusercontent.com/-FTqhbabOIyA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnEHbbOAchOKDkx4h9_vvyHHb-fEA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxVkVhPdwkSfFgvkxApO28KgqLz4y1KbVR0ydnn=mo",
         "content": "Simpel en effectief.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -962,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOHAOsU5Qvka3UyNvWKLJWxiqv1AMVfWmyOA1eJgfMlNuRLQ_KjG5vEMsJ0ZboI6tAXXQr4WLguUUuregg",
         "userName": "adri Luijtgaarden",
-        "userImage": "https://play-lh.googleusercontent.com/-MQaGQTB3hyA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrhpKHyyNysNguks0H3Ih2y_uXbg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwyt-4nrdEnt8jpSIefJY54cFRatp6OYUJrHrZi=mo",
         "content": "Lekker op het gemak. en ik hoef nergens naar toe",
         "score": 5,
         "thumbsUpCount": 0,
@@ -974,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOFVTvrcZmGBwTj_6PfdXH2aXp0ouHSTE4Htdqv6W4DOi7RsbBhQMO3ErEp5EhYezXTFbI9SbSLURGeldQ",
         "userName": "Theo Advokaat",
-        "userImage": "https://play-lh.googleusercontent.com/-8kcNGeUiK7A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIl8Jvtu0E8vbEpkM4RzqbY5aM3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz3VXINXg5RrZy_L6Qk9xSXo-K23369sgXe9lka=mo",
         "content": "Jammer dat er geen zuurstofgehalte bij staat.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -986,7 +1262,7 @@
     {
         "reviewId": "gp:AOqpTOFv6UK0cH6J1BdUBhRjJ7s6mo9RPI5CFqclgCE0UAoc3lF3XO_7xXSrU3OuISA56vWQQ5la5FNHVkUUQA",
         "userName": "Ferry Demas",
-        "userImage": "https://play-lh.googleusercontent.com/-8bhYAOvrelY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOa-wzhRT3Kqh6a5PmEgEEiWC8LA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxNu7-JpI_5ayLuedPsNvR0uxt_RzFJ8ALSUdGk=mo",
         "content": "Top!!!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -998,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOEoenRQnygtmVklnRDJyrXlaP9dzKjQ8MmZH8Om9_WFQQVisBH6EApabNse26BxFo-QFAQkdGxppjKPmQ",
         "userName": "Janneke de Haas",
-        "userImage": "https://play-lh.googleusercontent.com/-EQAKStrzwJo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7nS8lrHdAC9CAFi4VrGo3IdM3Aw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyzK2b99ZNX2hG_SsLvAWk80JjbZWH0_k_0-sxi=mo",
         "content": "Prettig dat er controle is. Werkt prettig",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1010,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOGwYWPqsL_5GDfmnDxPsqneuAGhLyTR0-aqPZaHsoNrsU636eXRB1G0WHVX-cEJcczi83yKOw-Xd9eTqQ",
         "userName": "Marja Duifje",
-        "userImage": "https://play-lh.googleusercontent.com/-KqpiHH-Rwmk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclCD1gyWsDvOlgP-MhI6Ee7-4aTjw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzyPFA9c13q7sVtICqlsmfaBRJBijtUoNzlvdqH=mo",
         "content": "Werkt perfect.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1022,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOHuEdKAKXcBz4y6GlWw_hi0kkwkwD8JHt_xNMWCqBzv-qPyBBuJRncNyna-6SQjL-o6bdMiPHcfHA1jng",
         "userName": "frans horsch",
-        "userImage": "https://play-lh.googleusercontent.com/-hQht827d5K8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnXiMBlJuAMAp2Gpho-FQ-bOev6Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxw5J5cerEsECnA8HqK9O2KNxQPYoyX_Z5R7qt4=mo",
         "content": "Nog even hiermee wachten.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1034,7 +1310,7 @@
     {
         "reviewId": "gp:AOqpTOEYhWX8sFdTxHPG0Vd7tR7DYcHPOO2AtQlVssOjsMeAvfPUHRCQUaKUfIpmPHkdbyLHf82rDe-u9kh0IA",
         "userName": "Sjan Driessen",
-        "userImage": "https://play-lh.googleusercontent.com/-fEBx6Ux7YN8/AAAAAAAAAAI/AAAAAAAAKUw/AMZuucmMn1gXW4s8m0PYyB1DxHFy14ptDA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzqyTfNCSbNONsrI4seACpA-tvtaY08mAFPeWfNsg=mo",
         "content": "Belangrijk vertrouwt dat iemand je in de gaten houd.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1046,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOHQD8E2SMttQyi3O_b1YHOEgwNqZnpOlPiaOXhdhJrtn6d4UwWkZXeVxLwW3LKCT7taxaBqPV45G14DXA",
         "userName": "Harry van der Kolk",
-        "userImage": "https://play-lh.googleusercontent.com/-Vu5DD9fQXqg/AAAAAAAAAAI/AAAAAAAABVk/AMZuucmf_QfHdA83nfVE-08noXXfNLG73Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxZMWxb2vFfzSK4_E87erBrsZdQDocZ_BXmMnks-Q=mo",
         "content": "Werkt prima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1070,7 +1346,7 @@
     {
         "reviewId": "gp:AOqpTOEVcFvHejqQZUy6VwwDIrjlEvb-SM66ON-03_QRdJOlSgcKdKhN1oWF41A8xaXoYVDAL5uCK9kxwroaqg",
         "userName": "Herman Hengeveld",
-        "userImage": "https://play-lh.googleusercontent.com/-Z3b1YHJKBsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZtwP392O_NFCWqGQWx_If-2vIOQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwsGzB89oBhJB5X47labis0_hAaMRcp3qwORsJT=mo",
         "content": "Prima app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1082,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOGps36-4m2zw3txAs2ie-Px9z4bpAoXpsDPkrZfkttXXTH6gmPRkIdEKiaR1l5kTU574ydmW5Xm5Y9yhg",
         "userName": "Rieky de Louw",
-        "userImage": "https://play-lh.googleusercontent.com/-qyM5ug_atoc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckK5zUiq_TWokHzoPeF8rcZpEbG5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz98ic8MKrXjJ3BYqt37swd8ownrCL2ON3WFf5Q=mo",
         "content": "Het vervelende is dat de meerdere keren zomaar ineens niet te gebruiken is! Moet alles weer opnieuw opstarten. Als het weer gebeurd stop ik ermee!!",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1106,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOEqIyiJazw5UnSwyq8qutu_HylOZkEzH55JNUVm6G22G1kgjLqUE-X-AzJallv4Q8uV_z9twTE_JJ3USQ",
         "userName": "Emma Scholtens",
-        "userImage": "https://play-lh.googleusercontent.com/-j8O4vZ1ajQA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksV4PlvIiQbhg4DszD-rahzCTqWQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxu4AcqOgcvGZRxId3DgdyymGKSR110Z3JG_lpT=mo",
         "content": "Goed",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1140,21 +1416,9 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFxCeBSQxF2b4uxtGE8b6ueBZeLjv-2y1SGnjXE0rgHdMU_5yYq6xCIgD6a2O3CAy81itSKm7CD_fBTgw",
-        "userName": "Jacky Snijder",
-        "userImage": "https://play-lh.googleusercontent.com/-us4PTgBdQNU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLmqQBHb7SmdpBi_YgMBN2PH8B4Q/photo.jpg",
-        "content": "De app werkt weer perfect",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "5.5.1",
-        "at": "2021-02-22 09:04:16",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOGHAF3ZnxtF5h55alaES60ZkI8OyYALUPeUugOElS_XsVZpdyRNRwCJ0XfLWVmjO8J7c-fhumAALiGSmQ",
         "userName": "Karin De Raad",
-        "userImage": "https://play-lh.googleusercontent.com/-J6UQYTadgK0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGBf_MLFHiunrLsf1vFpRqufLmcg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzlNJmikaF4OQLAumosQ-MQoGH3lyed1IlGHfTZ=mo",
         "content": "App werkt al een paar weken niet meer, jammer want ik vulde hem iedere week in",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1166,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOHtqxkXbQTjXMdXLbwC1RNHEDPOeeWNBSc_SIQ4F-ej7JY6raNUX4ILdAITxdxmPP42ZaV56VJj0gMWCA",
         "userName": "Rene De Winter",
-        "userImage": "https://play-lh.googleusercontent.com/-jDPw8Bap5Lw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqMRH1_Q0HPdL6PHjpdUeucNCbfA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz2NBu6w5mKT39_wWi8GZDk1vrRKx4jAawdvKrr=mo",
         "content": "Kort, bondig en duidelijke vragen.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1178,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOEpXknpFx5lc-xzmwzw5uNRguQljsuczC2I0aVCh2G1WLTAoEtIL1YLjkXhWQ-ujMjeDReHhTnCzueWuQ",
         "userName": "Raymond Krebbers",
-        "userImage": "https://play-lh.googleusercontent.com/-3YClGDTiqJo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHYQiFbJXPPWX276doU8-a1EUmXw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxqGujgm1zQ4_IT__UUvaUgrfeQmDlUVtUQGnum=mo",
         "content": "Monitoring okay. Reactie op ernstige klachten en nieuwe medicijnen op moet eerder, vind ik.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1190,7 +1454,7 @@
     {
         "reviewId": "gp:AOqpTOFuW09NXUS_yZHr5gM6nfPsX4Ds_wVHK-TlCCID8-FcBWecZ_Te7VJFQYB-F6T3fXsUQ7UTWVtAz6U1sg",
         "userName": "Gijs van Barlingen",
-        "userImage": "https://play-lh.googleusercontent.com/-Phz2q96gJTU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNLsONUjTdaXj6FpzXOmF47-cUxg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkMpwEzO5vYC3OA3nVCwt12FIJLVCK1AyDGDOK=mo",
         "content": "Uitstekend altijd duidelijk en snelle reactie prima geregeld door jullie dank dank dank",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1202,7 +1466,7 @@
     {
         "reviewId": "gp:AOqpTOEGLOC3BOzvFSlgrM57N8nIqwD8-NJRgwX0ZlsKqQAwob_7WWRxurh80z5atHupt9ME8AiHK6V2Ppfprw",
         "userName": "Marion Beijer",
-        "userImage": "https://play-lh.googleusercontent.com/-Vqa_Lew70aA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkOPUqLRULANz-fBYSStKBwYgIeg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZnr1lo9FlGQwvAaXJk67zYdZA9ZYtX4itKvXW=mo",
         "content": "Makkelijk te gebruiken app",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1238,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOE-zgIKyxl-254v0dtwmlSfR4TsijkmsP0ViTN7NQlxbuOhztTzkDZG4qb_ObgeimHAF-7wOPgt25M_lg",
         "userName": "Taco Epke",
-        "userImage": "https://play-lh.googleusercontent.com/-KE_rswayATg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuTsvVrOA2WUWwHwVWUT5if3kObA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwXceXQah5JR28-NmL5croLw4ZIy23YJ4ikbj7b=mo",
         "content": "makkelijk en snel.alleen onlangs werkte hij niet. toen verwijderd en opnieuw geinstalleerd. toen weer prima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1250,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOGlwflOeRAmTdgngR9iRimWPLBxHm4ussOeQvJdPjtJuehkawZV38p2uL-ljCOhzSYYI2Zihi9cgr9eZA",
         "userName": "Henny Jacobs-roskamp",
-        "userImage": "https://play-lh.googleusercontent.com/-z8revxJ_nvQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm2uhuxJHOFzbMPg78eKsDdFGYFkw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzd6_ngjyOuqMH474_yB-02XPZGjwtwN_IkIYw=mo",
         "content": "Fijn dat dezecontrole online kan. Heel prettig deze kans",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1262,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOFxNyRi-zDzR3Tqi98FuxclSYSlHQAl8itjyhcsvnsyUZbXe_v-dqsUsi5Q3EmW08qFTcj87-K2OOh-JA",
         "userName": "Richard van den Heuvel",
-        "userImage": "https://play-lh.googleusercontent.com/-rWfg55kZiuM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkiLv04f7WHqIrODKwf8t0YTD58w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6g-ioa9MERup9iJCa8yaq2R53cf6QWyXteaT2=mo",
         "content": "Een mooie overzichtelijke app en functioneerd goed fijne uitleg over bv bloeddruk enz enz mooie filmpjes goed geluid ook heel belangrijk",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1310,7 +1574,7 @@
     {
         "reviewId": "gp:AOqpTOHPDycj1kXytlN0-JvGzVGozAKSWaFjsHCX7eOQPqzh_F_03-YeMm0dQUimUsU0SjrRPQBI_CwzTtzbRQ",
         "userName": "Nico Dekker",
-        "userImage": "https://play-lh.googleusercontent.com/-bNgpBM_TNok/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck80BdnOZeVmI7BARRo_q2QukxDRQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyNYrlh3Y9iDCOyO3rHv6sSOsmOfcDqOH9GYs2n=mo",
         "content": "Werkt prima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1322,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOFqmMHd8wDrGXr7e2GqgaouXZ_N4wEgA0RMZgIKb66KxYZeqiw-XETpP5PLRRHuxlHaRMXJo1slsU56Rw",
         "userName": "Bernadette Boon",
-        "userImage": "https://play-lh.googleusercontent.com/-Bfo6mIBJSXw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPT3JpoyVgIEgtcSs-jfMsE14Ibg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZ-QANlm_6yXifGjNR_9MJ9_telBv24vAuz5iL=mo",
         "content": "Prima app !! Top begeleiding !!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1334,7 +1598,7 @@
     {
         "reviewId": "gp:AOqpTOHFJ4ROZVNDydtBn1sQFMhYXENJnpeqqTlrfRs4AB-B6jCIUxBBPkPaL3QKDbyoNx6UQTEXFGIvXlR-gg",
         "userName": "Joke Lazarom",
-        "userImage": "https://play-lh.googleusercontent.com/-a19J8Uk_ewM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllj5EkyiaXui2gUep_tnthkBSf4A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyJZVvJQvfw36gakJC-ZYFqfiRuiyx5p0Jb3W_I=mo",
         "content": "Heel makkelijk om in te vullen en je krijgt heel snel bericht terug",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1358,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOE3vHKRWUO2n38qQ7hFYcZL_8aLH2z02ksQBFbVz3jfXrKlvYn1lU0ZLL-4sZF_YrC3bGw3Xf--kCKn4Q",
         "userName": "Paul Blanken",
-        "userImage": "https://play-lh.googleusercontent.com/-liFaCCA2nmo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFaf6O-k9oDs5ChB5ShcAwGLpkjg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxWKsXHajeuv7WzS2k-6UHY4pQHHaL2oXoVxwGo=mo",
         "content": "Top instrument/app om je gegevens door te zetten naar instanties.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1382,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOFB_DLNyvb7QnDVg0gXsUbpbvfzc0sehlPJUCqEd189FL7eZ1zX8M9GOqdPBxQoV8MST1OBO0vzq5IQTA",
         "userName": "Jacqueline Hol- van Haren",
-        "userImage": "https://play-lh.googleusercontent.com/-o9oDQnaqgXs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTaHWxatY0LsCT9wy04zPni8MdKw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUpMIxKpW-7rV1fjNo3bda_ScWouGbVbT14eBW=mo",
         "content": "Dit is mijn tweede app. De eerste haperde steeds meer en er kwam ook geen replay meer. Uiteindelijk opnieuw ge\u00efnstalleerd en deze werkt weer prima.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1394,7 +1658,7 @@
     {
         "reviewId": "gp:AOqpTOE5PgtMrM7HMoKXG-ICYxHbAa03Oo6YjOFIJxzSfK7OfFHmnjsF8VkhFCHDgphwAaB1y5Ou4WHwibEZgg",
         "userName": "willem Voets",
-        "userImage": "https://play-lh.googleusercontent.com/-pZkcuivN21E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVwk2Upp7Ih4-2ynjEwXfF0wyorQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzSt2UHLMkTwH0DPFi9dv7fOeRimYV_mOzADc9O=mo",
         "content": "Een ding minder laten niets of ze het ontvangen hebben",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1406,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOGBn8pBa1DYjDUj0kTV5ZebhpjF2Lcv6AGpbqbwr7utU7bDIxrvYHV7Z4h0vi3FWOm-WphgkQzp9xyyDA",
         "userName": "Ellen van der Maas",
-        "userImage": "https://play-lh.googleusercontent.com/-cmDWXEISUlM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDSDhAXDVyvhxrZfGURCSQQ4K44g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJymb82TqbY3QF6famB7u_goUcinVU0KbkTdSijt=mo",
         "content": "Werkt niet meer na update",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1430,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOFszoRlyKrubaRLL30LgENrb0DrQ9Eonx0pd6cb0axldkALFoYaAgLFkMq58o7shJJR7hE-q9wd2xqqlQ",
         "userName": "Jos Veldhoven",
-        "userImage": "https://play-lh.googleusercontent.com/-XUA-qu5rodM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclxgkJKbLF3TW2_m34vBUP6354hww/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzzdQY51SU1nRxI8wJR0h0ioyfDFudAL2AAs6Wl=mo",
         "content": "Prettige app. Helaas sinds 2 dg niet te gebruiken omdat hij niet functioneert. Niets helpt on dit te herstellen. App nu verwijderd maar kan niet meer installeren. Na veel adviezen en geregel opnieuw ge\u00efnstalleerd en gelukt.",
         "score": 4,
         "thumbsUpCount": 8,
@@ -1454,7 +1718,7 @@
     {
         "reviewId": "gp:AOqpTOGvKZ_CBwGXzM6brrPU4iA2lnWXPZh8Qh-y4k4O2-6IvY_C77S89OuDu76JUmZIg_j8F55TAHmFmFzFkg",
         "userName": "Finy Schreuder",
-        "userImage": "https://play-lh.googleusercontent.com/-hUGCjRhHbDs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqURf5EQ7BDE46siFNEhjQrgg83g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwE73MLkvHUQFHhaeC6RvnAx2j_PPLenONUelYx=mo",
         "content": "Geeft mij een veilig gevoel dat ik op afstand gecontroleerd kan worden op het coronavirus. Helemaal mee eens!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1478,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOH2G8D3KcM94ETYq6wgkQL7WrnH4S05-JeL4ZxT6objQgD0FmwbC6VoDa7xPeCjdjxTOu3QPU0sTq-V8Q",
         "userName": "Rita Geelen",
-        "userImage": "https://play-lh.googleusercontent.com/-Bkg-jXKHzAQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbcc8szooxLpWHg6Q_YowLIR2tgg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxaB1x7-ABX-POX216svNVionARkkKvStacgwqw=mo",
         "content": "Het kost me veel moeite",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1490,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOHcwBzjizmhqkKU-iVdets5eceL4Wd49nVC8BBreLHK-PZMxu7KpgznttLT4YAgcWSQn7RJV4daNf06Nw",
         "userName": "Jojo",
-        "userImage": "https://play-lh.googleusercontent.com/-Om2tjgYzjkM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPmGrzUvOxesG_Vqw4erPV0NNk7A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy0CYGI3bSZ4oxw4ajVYa3QfBpGKV6Pia-e9CBJ=mo",
         "content": "Ik vind dit een handige app. Probleem was snel opgelost.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1502,7 +1766,7 @@
     {
         "reviewId": "gp:AOqpTOHQ4ZrKTWqiBtFvkEFkRvvo_UsxQ5Z7PY2wvJzUx9_1vevqclYmCb0ZLf03D9OpY2xNxBaHrNSDXTHy-g",
         "userName": "Jacobien Veneman",
-        "userImage": "https://play-lh.googleusercontent.com/-d0CAWEsp4X0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltKgRomxxbr7EGh7khDyu1EF1TxQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMlPfrkiCTBUYdrFkYh5u0yLZh769O0YPVNPpx=mo",
         "content": "Prettige app. Snel. Maar inderdaad 3 dagen geleden opende hij niet meer op mijn tablet. Heb hem opnieuw ge\u00efnstalleerd op mijn smartphone. Daar werkt ie weer als vanouds.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1514,7 +1778,7 @@
     {
         "reviewId": "gp:AOqpTOElWkrxQb2A9AA2FXfrQA6K0HU5MraBPZixo6-SHdSO2TKTzV8nx4Q96hEzIyg_lkRCgCpKrwuhrl5tHA",
         "userName": "Ton Thomassen",
-        "userImage": "https://play-lh.googleusercontent.com/-6nn34RXqhKc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_AlBDxfQRuNor0ahBYGbt11XsCA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyu46PoH5wmV9DaIFCuylreKTbecR8JBw7n1vG1=mo",
         "content": "Ik kan er mee overweg",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1526,7 +1790,7 @@
     {
         "reviewId": "gp:AOqpTOFZiZdzuaav7-a3jBBae_FSUMZt8Oi-Q8gpYvNuPGyOreQSt_dmtGNRPGfOLwgZ0hblt-_pWMkFVJ25vw",
         "userName": "Puck Triesscheijn",
-        "userImage": "https://play-lh.googleusercontent.com/-kPS1moBP72A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnccDYx0hOYL9j9Zd4p6lBvKFc4QQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwgjqoj1nIRJnORNpVq21UggX-9IowUBnSyJJ-8=mo",
         "content": "Na ingevuld te hebben dat ik erg aan het hoesten was werd ik direct gebeld, KLASSE. Na al deze maanden nog altijd blij met deze app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1562,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOG_-khy4zIYYD8E46GPxFSrUlXKBwZbKOir9XmIBWxYDDoPOQyYah1K6L8U4yGLtlAM-vJBmeJ7dxF0Sw",
         "userName": "Fem pekel",
-        "userImage": "https://play-lh.googleusercontent.com/-CEj-yXzknYQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyygnbU4ZaReIey8Zcek14G2o_GQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzF_c5BRSgN2-GzC7-mS8RpTpetuwF3kvQD60FU=mo",
         "content": "Goed",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1586,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOFWKoD7pJUDGL_CFdMhEP34qUMFgHzUii0JOWnPhNa9FgsM7I9EFRnv6VnrK2kNDuKt-Nb0tsaWHEgdlA",
         "userName": "Gertjan Vlasbloem",
-        "userImage": "https://play-lh.googleusercontent.com/-6V1dFb3yTBI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFjZib3Un6eaXYyJh3-roB-PnXpw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyxN0-4pLY8uhvZW-fg9-XKsY5DaQBvA0li0aKZ=mo",
         "content": "Na update is er geen bluetooth verbinding , snel geholpen met tech.ondersteuning via skype Probleem opgelost.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1598,7 +1862,7 @@
     {
         "reviewId": "gp:AOqpTOG8TGbegfb7IzXPQ6MuYTowSKSerEKA3sYxMP2IPKR32-HQWLj4gRI8qNKVG46gEXRjuew3ad7zbwVcmQ",
         "userName": "JW Jongkind",
-        "userImage": "https://play-lh.googleusercontent.com/-gaCE3-SVkuA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjBBCm6iQd6WCxdpMJTkiT0k0XHw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4WLo7TGs9zzYYX09UUBq6yjg6CIeLPBVtd1Og=mo",
         "content": "Gewoon een goede app. Hiermee houd ik mijn gezondheid in de gaten.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1610,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOFXmQxoD56heXYNnmgYqBIpAzYlKIWa4PU8ZdL1W5Y3EJ1FCt4xiNJFidcpcMqvE1X2DzNQ_M9i2yiEJw",
         "userName": "Marleen Visser",
-        "userImage": "https://play-lh.googleusercontent.com/-0g0scvOQQkw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxDdP6EjDuaQI-8PWzne6VUswkIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzafa7Pm1SmmVw4OoHlhW5ncvAk46lZd2tl7PLh=mo",
         "content": "Topie",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1622,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOEdh92pZblZk9RYbaBmXJCkS5TjTJ8USFmAG41XyhyOKNTWuJCSwRYVNUUAqcT-WXGMlZVBQmvzOcQvkw",
         "userName": "hanneke keislair",
-        "userImage": "https://play-lh.googleusercontent.com/-4OzvznxMbeo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVGzU-lS0ezp8cingpijnfMSbTZA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwrNcEkwyI8jPFbLRQF4wu7ZOTSyQlQu4cRZ6D-=mo",
         "content": "jammer dat je geen berichten/ vragen kan stellen",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1646,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOGgdqNmq0nxa2p2YHinUv4SXf5T_xyd0CuLyplTQTD3_cDcs6Dbic_25aQ7AOvyUBl-COOo_-3kyxCCfw",
         "userName": "eelco Vonk",
-        "userImage": "https://play-lh.googleusercontent.com/-XB8WPuJKT2E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbJ0tNsw-7X1RFGJ5-IMELGS7lmw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwOYz-4o8IxBbbv-tNtfmv9aJMo2jnoM7_FMZJ0=mo",
         "content": "Goed",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1670,7 +1934,7 @@
     {
         "reviewId": "gp:AOqpTOEuPZgJS07DeZ2EZqibrtXW0QXawwoggtHjvBB_w6ejiZx2OZwb4bjWpV5BQAycCO83cbAyjdpFXP0Umw",
         "userName": "Dik Groenendijk",
-        "userImage": "https://play-lh.googleusercontent.com/-_xyflc03EhA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmcIFc-zQ08NdRrcZ45nxz2qDq1NQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwxnlxAvmNI46ly0d7OUQ0h3CFqWuvTGzn3KU6b=mo",
         "content": "Hoe meer controle, hoe beter. App werkt niet meer vanaf gisteren!! Klopt dit?? Laat even weten s.v.p.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -1682,7 +1946,7 @@
     {
         "reviewId": "gp:AOqpTOGAU4-ldNiC-QaOYat9Ubowgq_aiuXlD__Qg4M8oqUsCABsaXg9df2-iQ3YaySLdCIc5av4ZSGC_DGRpw",
         "userName": "carla koster",
-        "userImage": "https://play-lh.googleusercontent.com/-FYt1ynhRasE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQZ9gNgZSmpoR-Tez1I2xLu5NybA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxYVDXkLBp8CY8oBEBY9slNf0XKBPfFrgSiJ4TO=mo",
         "content": "Werkt hopelijk goed dat weet je natuurlijk nooit.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1730,7 +1994,7 @@
     {
         "reviewId": "gp:AOqpTOEI_6WDVtxBJju5Ft4suqwV5n0aWG7ZDUmbw335PbOck93v6dpU7l_C-6PK2AJtKaJH-UEWoUcpVxfoyg",
         "userName": "Henk Spaanderman",
-        "userImage": "https://play-lh.googleusercontent.com/-njJxo78HMcs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmP_Tbi_rj0RjOwimUMHkcis9Bk5w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6yAWquOlVulSxvlVvIm_093HT90tzvy4NQY0m=mo",
         "content": "Heel gemakkelijk en overzichtelijk.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1742,7 +2006,7 @@
     {
         "reviewId": "gp:AOqpTOGbomJ8NSYe2xJcwxVoeI4vYOypJZlVSnuDbJmMkowEgtCeZKX2MLf-S82OSQAZAwwKTtIZXHKlWcUzdg",
         "userName": "Klaas Wielinga",
-        "userImage": "https://play-lh.googleusercontent.com/-BUFE-jUqKEc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclz9QtaAMLwClVVyqgj8AplkzbxzA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzbfwroI2LwIUGHYM0GqjqorB2u8do8IxZmHVrk=mo",
         "content": "Het zou handig zijn om alle antwoorden in 1x te verzenden inplaats van per antwoord. Dit probleem is inmiddels opgelost.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1754,7 +2018,7 @@
     {
         "reviewId": "gp:AOqpTOEICugYv8hLvTCEqgyUGn6u0sp5jJGuXdSlguZOF6nQ9l6fr7mcZhSq0uoUSPbuEuYNqswBnI5cF6iEKw",
         "userName": "Geurt Rijksen",
-        "userImage": "https://play-lh.googleusercontent.com/-0xbNarJq0_U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbCXj1nxX4nMiWzgjow1CmAWp_gA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxawCSzD4U4EwJBXONEng6cQSMRc2iJK5YzFC9x=mo",
         "content": "Byzonder goede ervaring met deze app.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1766,7 +2030,7 @@
     {
         "reviewId": "gp:AOqpTOGgqHLi5bQmIY8U_jhs7oWQuaPvOzSVbGwlzqWaaF4Ek-YYf-8XRzHl0rdrfT6CdVa1QPgRzACelLMl5Q",
         "userName": "I.J Brinkman",
-        "userImage": "https://play-lh.googleusercontent.com/-iejc6zkCh2Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqAfCupmfG2-2d2MD4iJ1ACEAW4A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWbZ7j8XG_8GiWGulTzhlrJrDLDR58gkI2L13l=mo",
         "content": "Fijne app en doet wat het moet doen ... top",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1778,7 +2042,7 @@
     {
         "reviewId": "gp:AOqpTOHBGrfsNaVKefB8tVl0mXvITVM8AViGByH0E3-uNKpXnhE9N765DslKHURQOdxgY9fiVP7L62q90B5ndw",
         "userName": "Ernie Nauta",
-        "userImage": "https://play-lh.googleusercontent.com/-A4LMla9ljLU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnY6sTboRpkPtFHI1VsuAfC5PjmEg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxM7oFFmZiMPROfvzZJPchLvD_zycH4BpZXD6dS=mo",
         "content": "Zou soms iets uitgebreider willen kunnen antwoorden. Gaat helaas niet tegelijkertijd:pijncheck en coronacheck",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1814,7 +2078,7 @@
     {
         "reviewId": "gp:AOqpTOFmJSMkXv_BXzVOLaAvnDqm6-sid3oW-cyw2D_zICFMGgy3sMPxn5k-MhsPM4vxAKqZ_UfqpM4wh23EUA",
         "userName": "Gerard Ponstein",
-        "userImage": "https://play-lh.googleusercontent.com/-6GtCZPTNEnc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxJ6i-ao-nWVlxLTBzVJIcMSRmsQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx4D0mlkyA-MeR09IypkrA0v1Z3Fy4LCxKhFQt8=mo",
         "content": "App werkt niet. Vraagt email of gebruikersnaam, maar kan geen gegevens voor account invullen. Kom dus niet verder. Waardeloos",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1826,7 +2090,7 @@
     {
         "reviewId": "gp:AOqpTOHmUMl-ogCQX5qMGEUXD65n-BWg70H8HeOm2RsL0QKZBtxqYQViuiXSOciJYFdYbNcvdcbPFjhck4Ng0w",
         "userName": "Henk_Heerde Heerde",
-        "userImage": "https://play-lh.googleusercontent.com/--RiqDAl5izk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclt83uCGhCBXgToFOGelEQ_ZI0zlg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyqnsRo9SaLZUr_oNH6-TwcGhiUuk0FwdAnsQWP=mo",
         "content": "Storingsmelding na update werd goed afgehandeld. App werkt simpel en intu\u00eftief.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1838,7 +2102,7 @@
     {
         "reviewId": "gp:AOqpTOH6nmwKq3cz0mDNXiM6ZfYqqXJgo1c66dRM0w2Or1inFaBrAVsxM0DIUx6F09RrVNhC6Ibza3T16vM18Q",
         "userName": "Dorien v Vijfeijken",
-        "userImage": "https://play-lh.googleusercontent.com/-vAuJXSkUYIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmpV2kOailwIQGpVgH0R5hElKmGSQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9iuCQLAdOtoFx5aae6nzPs3bojPfPWz133ct8=mo",
         "content": "Vind het heel fijn dat je na dat je uit het ziekenhuis bent gekomen in de gaten word gehouden en veel afvies krijgt over wat je allemaal moet doen voor een goed herstel .",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1850,7 +2114,7 @@
     {
         "reviewId": "gp:AOqpTOFOAZ3hybnePZlwC3l1e86ALE6VI1pjX42ecZ78aJv3JEzBPvAznbdQ8R1Rpl93hFRZRpcEfM25b8mwlA",
         "userName": "Ria Derks van de Ven",
-        "userImage": "https://play-lh.googleusercontent.com/-rrla-XkOheg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucluJ8aalSHVLmpa1qqiow8JvazFhA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxfU8muToA0iaDA4R82uDpFA5sG5qy1HudZkE_j=mo",
         "content": "Niet alles komt overeen, zo heb ik meerdere wondjes en 1 lekt nog de pleister. Ook bij beoordelen pijnscore. Met medicatie is dit te doen. Waarom staat er niet gebruikt nog medicatie erbij.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1886,7 +2150,7 @@
     {
         "reviewId": "gp:AOqpTOGd4vesuivfxpY7q85lEmXXgVKmAcmRrRTvXObeWGdKCddy0kwfzbi1nAtwla2kc4KfQhU76nlxHkrx3w",
         "userName": "Guido de Rijk",
-        "userImage": "https://play-lh.googleusercontent.com/-7q024QFHnIQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclnKYuqIL-JbeB5SHMzu1fBzo8L8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxVmdLvOmbcgcSjxyfZLgaIE4jvNgBVve7hgK1_=mo",
         "content": "Prima, snel en duidelijk",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1910,7 +2174,7 @@
     {
         "reviewId": "gp:AOqpTOFuWhWo7AbMnSBdYu68_CbJc6rlEBMiXfWojxQJlRZ5-s83foT90f1VmoEC6gzqdUZGJdpYG9e7HOKfBw",
         "userName": "conny cobussen",
-        "userImage": "https://play-lh.googleusercontent.com/-e2gzRevkP90/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1dCaj1KDRlNjEod_K-DABpe-KcA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-UB572O9C5DjZBtC-Q4PhEvw-xIQmcKIxW5Ck=mo",
         "content": "Ik vind deze app fijn om te hebben omdat, ik elke week een bericht krijg om de spuiten te nemen en of ik de andere medicijnen heb ingenomen, hoe het gaat en of ik contact wil om vragen te stellen of iets door te geven, ik ben er blij mee.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1922,7 +2186,7 @@
     {
         "reviewId": "gp:AOqpTOFMPyb701QFgyZv0CtjJqFsApmnIeyomwVneohZUS0WYiTo_dzT6u8EkVucTwsnySt2Pdyvc7KWobiPCw",
         "userName": "Johan van der Linden",
-        "userImage": "https://play-lh.googleusercontent.com/-smhmwrvvvXk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmfeaBZ21ORbBkCYFoO9R1VTbNdFw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzR5emEROzjVtfpJ04Fl4k0Ye3VxzNhlmfBc0vW=mo",
         "content": "Waardeloos dat ik de app niet meer kan openen. Alles lijkt gewist na de update. Ik deed mee met een onderzoek van het CWZ ziekenhuis Nijmegen ivm Covid19. En bedankt.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1934,7 +2198,7 @@
     {
         "reviewId": "gp:AOqpTOHNTpVb79H_6Y518XBey50KSDXNdldG6gs7NLeAVF9l2EZJJCdvHSkgI55_-bkFQRfoQwBL6VRhCykvLw",
         "userName": "Isabel Kleijn",
-        "userImage": "https://play-lh.googleusercontent.com/-oN5LK75TS-E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUO35_PiONzwH0tj6g7p8RTrJ7Ug/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxt6-xbuSwQiINrh7OieHClppCX28CHFxtQtTLF=mo",
         "content": "Heel handig om te doen, zodat je minder vaak naar het ziekenhuis hoeft en toch goed in de gaten wordt gehouden",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1946,7 +2210,7 @@
     {
         "reviewId": "gp:AOqpTOGqPwVAtgDt4TBpLKtdxQI7JAl5vknflcD06o3lYnzkfrV0ZaCWkVUFs4lx54QP-s8fc4ouwAZL_983bw",
         "userName": "dick van der velden",
-        "userImage": "https://play-lh.googleusercontent.com/-n_TZOD2T3ME/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnNiTNjwFiJNmDSYiVuVflzywz36A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-qitGDDP7Cr0DwrPsJrHDCr-0wNV9_6m9CMXx=mo",
         "content": "Ik krijg het niet voor elkaar, op een bepaald moment kan ik via Google artikelen kopen en dat wil ik niet. Maak het eenvoudiger s.v.p.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1970,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOHnsFlquR67oXGBv70uA-IueZPKfCwkkWYSEmxFg71zE2kAdIyslYvERFpK9ro5DR9gdiA5gnQldhTgIw",
         "userName": "Ellie Heijmans",
-        "userImage": "https://play-lh.googleusercontent.com/-qe2OJdrAIRc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckD5ZPXT2lEbgL9C0FO2n1MN6E1xQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz6bIHE8y0jJgwZI1BobhyiKdgyNl8U4KlBsa2K=mo",
         "content": "Ben tevreden",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1994,7 +2258,7 @@
     {
         "reviewId": "gp:AOqpTOHLQMM97nQtkg4fLgL2T-QUTSkElVlz6cquFvFntmEI54f8Pxp4-Vi4ZtC322ht6YV6GA5oRGnV5SeGdw",
         "userName": "Willem Cox",
-        "userImage": "https://play-lh.googleusercontent.com/-jPef9QcpoKU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckA2nXATr834u6jIoXEYFs5HGZtiw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwYPTqls9eik8OQ3pUBelXoiknRtP5SPvIZcWZr=mo",
         "content": "Prima.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2006,7 +2270,7 @@
     {
         "reviewId": "gp:AOqpTOEN0D81uqX1XL03CfkIVsfLqkM5Q1T_edRYU8jOI5Uu3E1lGIm60N0KrF9u9MwD6cyT8e5e7scp8ZW4YQ",
         "userName": "Ineke De Vries",
-        "userImage": "https://play-lh.googleusercontent.com/-NbdtBtzR5SA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUXUpOFU_q0fS5L3XBOH0h1m0fZg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0xcrF_lqRlZUc4WVk1fawf97jy3jc50aRBjA=mo",
         "content": "Functioneel, geef een herinnering mocht je vergeten zijn om de vragen wekelijks in te vullen.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2030,7 +2294,7 @@
     {
         "reviewId": "gp:AOqpTOHSNai2uXkXG-8_rczqnPMT9XIIrb52JNE1PpPsAgijSNBqY217pGqDd249g6v8ywLdWxNCcsnIgJZKng",
         "userName": "Hans Van Leverink",
-        "userImage": "https://play-lh.googleusercontent.com/-zU_vYdG-qWg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9vC0kmgQP1lxoEI9ItHY7PmOFEA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxJYZmuQH-mW8xbhrogaJrlacOC13oxR4yEA4rS=mo",
         "content": "De app geeft mij een beetje zekerheid ivm corona",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2066,7 +2330,7 @@
     {
         "reviewId": "gp:AOqpTOF8WNXUpHa0RLQtaIR_UgD-qp9mgx6GjyVaS6Y57bpGh2v1hyzrRfALqRwvSS1-2OAWsCjYfvVYej8qMg",
         "userName": "J. Kregel",
-        "userImage": "https://play-lh.googleusercontent.com/-fzsdRcdLdks/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnyAvHS3f1ikBOPmaTHE-912sDkBg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzI4cjxUEjyUgqj-fhMnEtVVfDQP7uDP5TNPqBj=mo",
         "content": "Voor een goede zelfcontrole...",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2090,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOEoTfwMUHPVM5Ukq_DJ_poKbl3mtwaVP-f098vVrmoFtEzi0OabzZy1fPzuFy_Dh2EOAK2cCw-BIeB3HA",
         "userName": "Hans B",
-        "userImage": "https://play-lh.googleusercontent.com/-NMBaWLCEZoA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFYGq-xdbzfX53U0rO380H3XUUNQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6j0xrTTr3beL0jC1v6Suw_P0AsNgQ9r69qiT2=mo",
         "content": "\ud83d\ude0b",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2102,7 +2366,7 @@
     {
         "reviewId": "gp:AOqpTOEWShTiInzzMuJPEMe6sckuV9TFKOEySUF0q_RJwA6jyHfvNUQ8zqb6PZ8z3wyIYudE7kGtQgJKkww6yQ",
         "userName": "Hans Smeeman",
-        "userImage": "https://play-lh.googleusercontent.com/-yNh5Z3vyjnQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclg3sKDTG_2-RJ-_cb0NeuZD1kShw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKK58FqrS7R_S99Jbmc_Lnn6pjobzAxgfpWd3D=mo",
         "content": "Goed gevoel dat er iemand mee kijkt over je schouder",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2114,7 +2378,7 @@
     {
         "reviewId": "gp:AOqpTOGnkA1YpuyqRY7uSyER4_khzZahs4ZlY5dHU4xfWxKXpDiuk7pwNxThaw0Oi7livfzWQrASYKt7o5eOPQ",
         "userName": "Henri Overtoom",
-        "userImage": "https://play-lh.googleusercontent.com/-EA01SvZBQ34/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYWxPWTZoYrmI9vCMufkruwcyp8Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6Qb8tuXwNtRwMZKaY-uESoc9W7YmB0g71Tn7W=mo",
         "content": "Werkt prima, zo nodig krijg je een belletje",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6650,7 +6914,7 @@
     {
         "reviewId": "gp:AOqpTOESYRJg7guRJrQffsICrjEktvdHMhsc32P_48XQc1qee9VBBZP3H7MbMa3tp9rNS3hX2nZ-94FkOEe6iA",
         "userName": "Albertus F. Steiginga",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXsl02HzRfIH1TTKNjBFQSiZfVfhGayRbeIZBe9g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjam0_CwMqy7oYEGiqZqwjuSXLCFcDEf8k9um2QnQ",
         "content": "In het begin ging het even moeilijk, maar dat kwam door mijzelf. Het is een uitstekend werkende app. Aanbevolen!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -7094,7 +7358,7 @@
     {
         "reviewId": "gp:AOqpTOGK-gwTNVQ1ZoafXFvE46iAWWkizQFfW56ebkJ2lpgTnqhxxF7Pe7_bz5yaOYvLiyG1GNBll8BmnBND6A",
         "userName": "Nel Noordam",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0zkEsUk6wHfPMY46IeGSnlU_KxXWSuWu46Ma-AQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgohhPCYgWfF5gdRM-ncbhEHQTxvlLGYWt_ghytCQ",
         "content": "Hij werkt perfect...Ik ben er blij mee",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9564,18 +9828,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHnTpKKua5KAwQhk1bVISQOEiuPGhmhFLJMoKc5aDzGA9fdyfAYFn3jalVp4xU_qBe0KXz0zOK5daaWUw",
-        "userName": "Peter Timp",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPQiqWJBhK8qJ8RztX3NjG-uCKc_C1UDEaoi6q",
-        "content": "Simpel",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-10 09:34:23",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFB_5RQk9_LpcG2rKgMZe964vopZYTu34TndsXKMxEypwsyUGFwiz7K-iJDyvnYykiVZMD3O7Dwbc-OAA",
         "userName": "Cha Boerema",
         "userImage": "https://play-lh.googleusercontent.com/-VRiOewED8PE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVv1ZGXk4FyBSdOV_doPoy2Q27Kw/photo.jpg",
@@ -11744,258 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.21.6",
         "at": "2020-05-01 16:36:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGM16ntRo5ChjwzXDsE21MN9BdyphounygKbd9gky2nuPhYRF2gSfmkYMjice6yW9Fr-CyOogYQ-bDhBQ",
-        "userName": "Tonnie Teunissen",
-        "userImage": "https://play-lh.googleusercontent.com/-V9Yf8_fxm1k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwO7cYCp5xpbJCHQv4BUifju0O5g/photo.jpg",
-        "content": "Voor jezelf fijn om.het verloop te zien.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 16:25:23",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGcrAF1hQr4G79MbZATHhOoWoZBOD79WteF6PDC5dEEAy4lsJnFlVu_E-5XBBNjuFzshO628Mjgthx5Rg",
-        "userName": "Ria Wemelsfelder",
-        "userImage": "https://play-lh.googleusercontent.com/-LLAZGy0Z-AY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyvz9yUdJREjNzVAmlefBnj0hXWA/photo.jpg",
-        "content": "fijn deze app, geeft een veilig gevoel!!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 16:13:42",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF4WxRWLo7SJz2YOiyoklJzdZ1iayrXkLSJH8IeE-M5htsQ1zgyjXSqNqmf8wyh5jFXbaaWHymcBXP73A",
-        "userName": "Wim Stas",
-        "userImage": "https://play-lh.googleusercontent.com/-3kxzYmHIjHQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJRQRe-v8IuYcUJGP504LRd_x4Ww/photo.jpg",
-        "content": "Stukje controle van buitenaf.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 15:35:44",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEkA6wgldV_RbtUvr2HnrfnncrN0E29ozhAC4PuCvYOEDMwtdVNIvmKpBUUX-Y9XZw690U7TQjQk04Wuw",
-        "userName": "Ellen Hoevens",
-        "userImage": "https://play-lh.googleusercontent.com/-8VSiouMhXm0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclmbxs_WY2ScUxtDSp6b8ORukP_Ig/photo.jpg",
-        "content": "Bij neusverkouden kan je niet echt een cijfer geven. Dat is wel lastig. De een vindt een loopneus al erg de anders moet eerst helemaal dichtzitten voordat hij aangeeft dat hij verkouden is. Bij hoesten geven jullie wel cijfers: veel duidelijker.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 13:48:07",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEJVbokH0LkEzqnctpVzQboAInAQZEdRfbf8CYvLwKJt-KaQ0vxAT84bCMFE8YcfjYb2bmC5gklp6w96Q",
-        "userName": "Ysbrand Vanderkrieke",
-        "userImage": "https://play-lh.googleusercontent.com/-6eyp8kWzXnU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntIFFVOR65AUFBfe6J33-NYmTB0w/photo.jpg",
-        "content": "Hulpmiddel Groet",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-05-01 12:36:12",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEE3XrhNz1Gy6Ml6MQbLcfe4e-mHIOBOO7mdE-Ga14wSsKurgLRyVk1wIf9ghGZOPPwAg7Q9DAI0d0Mgg",
-        "userName": "kees blauwhof",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhaXNk8mJcIIbTiguhsB1_sc4nIE42YKqSwRk1pg",
-        "content": "Beetje omslachtig, na elke vraag versturen, kan dat niet in 1x na de laatste vraag?",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 11:38:24",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEvy_E9E-yvUMnG-7wM6dBbhJIu8UPlphmc71U0rBnZB3OZCBfu7MbYg5Zwjx1eoigSiVBIYcMSd443qA",
-        "userName": "Chemaine Gijsbers",
-        "userImage": "https://play-lh.googleusercontent.com/-v8jShSpE0Rw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmie6XOcFoDCkXbrr3MjpT-RpcnMw/photo.jpg",
-        "content": "Makkelijke app",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 11:29:47",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFrgF1nRMROM7_Ce7DAGyJKPUmzGG2Sv-94vclNF5r_t3-5mpUyPLg6wMI10Fv66lGLcgUiYOzvR8kf0g",
-        "userName": "Jan Broersma",
-        "userImage": "https://play-lh.googleusercontent.com/-wz1oHHkfGCU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck8WJitYODZNETFFpV_F1XgA_kcsw/photo.jpg",
-        "content": "Uitstekend door elke dag een bericht te sturen zodat je h\u00e9t niet vergeet en fijn om te zien d\u00e1t je zo op afstand in de gaten gehouden wordt",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 11:09:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH5rJMxTVid2Vr9XsKq7LNwxMYkm7u9LMOTuLncN4FvztNPXaUhO8kPw0RvFPQCLBQpxgnSjpLhgRDfAQ",
-        "userName": "Elly Everts",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVcf2g8HoxzyI9R9xIgafI-ZZ2fQjaFaMmrQWwaWs",
-        "content": "Als je behoefte h\u00e9bt voor een gesprek. Dan wordt je ook gebeld. Echt top ga zo door .Je wordt er rustig van .Het corona virus is niet niks",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 10:57:19",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEZ_baN4NiVcxsHhI3gNiNyY0zDp9eGx5xCxWE8Qo6SD40BuC9q5bMsdI9s4JoXBBrtF4pE6Z9Z_B8_Fw",
-        "userName": "Heinje Buzeman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaLGbrK93frkChw7Vf9_ICvYUTXOnRt3GvY1e_tg",
-        "content": "Werkt perfect en eenvoudig te bedienen.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 10:53:18",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEBm8SU0LQSPy1QRwNurwRjJpVevvPx20nzvs2cCHkDlw6xE36nz3cYMM0NJgc3e6ypdJecKnfFivagCQ",
-        "userName": "Gerard Dekker",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRPaVJhZxJlv1KC6epgj3Ni7BZ84f66QVsKwlt0EE",
-        "content": "Eenvoudige zelftest, die met wat kleine aanpassingen zou kunnen dienen als selectie voor medische follow-up en/of testen.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 10:27:24",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFqyHYeU2ZHlFHf5xU34v-QNyw-oX9WeBRJ78q_BAkxtAaBIc2ZjJHsJlQcqwaqdV-bI5WAiDg4hYRtKg",
-        "userName": "Ellen van Essen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUGkA6ORWanmxGE04NR_-_q1qnGllz_QVdYo359w",
-        "content": "Hele prettige app voor een goede analyse",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 10:25:28",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF71As7YhZfL-j7uVpgqIth5myTus65-ZIx62g8xJbHvXsUqw4c9WaF9R3ADF67b7g8v7t0kTd-QmMHug",
-        "userName": "Linda Busch",
-        "userImage": "https://play-lh.googleusercontent.com/-M2ntpFamxiI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmX4YXZAYdCIygvEVZ_Q3ke81IqIw/photo.jpg",
-        "content": "Veel handelingen. Als je 'verder' weglaat en gelijk op 'versturen' kan drukken scheelt al. Ook steeds dezelfde tekst. 1x aan het begin en desnoods aan het eind ook nog een keer volstaat.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 09:58:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF8EIhKVKUXRamtWTvxzaNIZpTzYwv49UP9KOXKCbCvyFT5IU-oXkLg6McKv37q1YeFqwQ72XVw0W5mQQ",
-        "userName": "Sjef Ruijken",
-        "userImage": "https://play-lh.googleusercontent.com/-i3aZVEjDsTQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnK0E9p9EptVQM5cDc1iHr9lJ8gfw/photo.jpg",
-        "content": "Zeer duidelijk en gebruiksvriendelijk",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 09:41:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH860KdR3kazwPzudNTqYwHx3lCV4olRZxKMfiFxkX5zQbrs1VfFRlMudpKOIfZsJRChoDpogd5LV-yew",
-        "userName": "Freek banks",
-        "userImage": "https://play-lh.googleusercontent.com/-lK2c9p8zTT8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_1HP-lSEmCXKh_VDNChLSQPiCvQ/photo.jpg",
-        "content": "Goede app die goed als basis kan werken",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 09:25:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEpiOWEChpspIp7hENqXGFHtB3tB8577o-V-rhoa1bUdcI0HyYiawehcR64ciJtkCEDelGkk-JxnddFkQ",
-        "userName": "Corrie en Ton v.d. Meer",
-        "userImage": "https://play-lh.googleusercontent.com/-vnqLGLPkiSc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclUesxXf1YhdZzOKtdU_fnD43KYEQ/photo.jpg",
-        "content": "Makkelijk en n stukje controle altijd goed.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 09:08:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHi0r9fCgchxr3az1GUNhCJFF6E3Lje0tPfkB2_meqz1H-P25D6-_MCaaBuXO9cEYVmavKs5i0ZVVltHw",
-        "userName": "W. L.",
-        "userImage": "https://play-lh.googleusercontent.com/-jX2x3MklwJ0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-cITiFCxvjbYklqctu-fzKpL2Aw/photo.jpg",
-        "content": "App die goed werkt. Ik mis alleen een extra optie waarin je zelf wat kan noteren zoals extra klachten zoals hoofdpijn en spierpijn. En bij de vraag over werk of je thuis werkt of niet.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 08:54:57",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHFRNPmSNtLYh--54MXef-HkSpHQMMG6-THLW5QgpKOGs5tvKgsBY_ud1y78vA38CnDmxvLWN3vFpRGEQ",
-        "userName": "Danielle Grol",
-        "userImage": "https://play-lh.googleusercontent.com/-Yl0cUYZhpUA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5jPGfAaSfXF3Zcb7IeKK0_zmk-g/photo.jpg",
-        "content": "Duidelijk. Snel",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 08:45:25",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE0-suMGSTIv26GJhUUsWqF3bNRZQwSKQgB29C4N9vna6k-zScDITSwMzhTwCZV-b31FIYeYUSgJvpg1Q",
-        "userName": "Docent godsdienst AAJ",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj3IhvNWYDkV1LpeFxRCKZ_LnJQg5PyYBoJVokBEA",
-        "content": "App werkt goed.. krijg iedere avond mail vanuit ziekenhuis",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 08:21:46",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOExpYjJ_jnTwmUaxyhd-Vdoy5vwld9EK0DkAzICgHFV7EZDLMdqsxQURsldbU-eO2XNSLQpq0E9L0Kxgw",
-        "userName": "G Kolkman",
-        "userImage": "https://play-lh.googleusercontent.com/-SXoa7OHOA30/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlVBaw9kTlA5itTEE1CQJ94_MazQ/photo.jpg",
-        "content": "Geen klachten",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 08:05:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFxolw7k4D7YudK8X6sspCqL6nHTT0u6qP29MoDzMe-U0mUJ1JKUkUNOL2k98yrJ6NbnodQgonCX1MYAw",
-        "userName": "Alice Boter",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggn9ejYPIH0Ci6fgxxVJYFW6lBA8d_UIWauUGmjyw",
-        "content": "Werkt prima maar irritant dat je elke stap apart moet versturen.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-01 07:33:09",
         "replyContent": null,
         "repliedAt": null
     }

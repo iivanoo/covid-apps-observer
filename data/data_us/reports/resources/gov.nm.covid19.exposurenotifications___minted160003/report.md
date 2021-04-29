@@ -120,6 +120,16 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> We are going to have the end of the day I can<br> :date: __2021-04-28 19:59:17__
+
+> From what I can tell, it works well. Issue being this should have come out a LONG time ago... And even then it doesn't really work if not everyone is using it. But I will continue to do so.<br> :date: __2021-04-27 19:08:25__
+
+> Great notification response<br> :date: __2021-04-23 01:06:41__
+
+> Buchanan's del 18<br> :date: __2021-04-20 14:09:54__
+
+> Excellent tool for Stopping the Spread of COVID-19!<br> :date: __2021-04-19 00:31:20__
+
 > Good<br> :date: __2021-04-16 15:30:07__
 
 > Simple, non-invasive (privacy-wise), and works on my One Plus 6 phone. To be truly useful, more people would need to install it.<br> :date: __2021-04-13 00:37:48__
@@ -129,16 +139,6 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 > Installed with no issues on moto g6. Glad NM put one of these together!<br> :date: __2021-03-27 02:29:27__
 
 > It is working now thank you<br> :date: __2021-03-25 21:48:47__
-
-> 🛡️🔐Æ🕋®️🫂©️👨🏻‍💻™️▶️Œ🔐🛡️<br> :date: __2021-03-25 16:14:18__
-
-> Yes! Thanks, NMDOH, for releasing an exposure notification app!<br> :date: __2021-03-23 20:05:53__
-
-> Excited about this new tool in efforts to stop the spread of COVID here in NM. The more NM residents who download this app the sooner we can get back to life as we previously knew it. Thanks Gov. MLG for all your efforts.<br> :date: __2021-03-23 19:35:28__
-
-> Help me out<br> :date: __2021-03-23 18:57:14__
-
-> works gr8 for me<br> :date: __2021-03-23 18:15:55__
 
 
 
@@ -192,6 +192,10 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="gov.nm.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Didn't notify me of anything and nagged at me to turn on my Bluetooth. It doesn't do anything.<br> :date: __2021-04-26 23:08:36__
+
+> What is the point in having this installed if it only works not even a fraction of the time?? Half the time I get an error notification about being "unable to check for exposures at this time" and thats with my bluetooth on 24/7 or get timestamps when I'm not around anyone.<br> :date: __2021-04-21 00:17:47__
+
 > Using for 1 week how would I know if it's working? It's creepy. I don't like it. I don't want to be forced to use these things or get vaccinated. When did America turn into a prison camp?<br> :date: __2021-04-02 05:06:30__
 
 > The app does not work like it should work. For starters, the installation!<br> :date: __2021-03-30 22:48:33__
@@ -207,9 +211,5 @@ The NM Notify app has been installed by more than **10000** times. At this time,
 > Does not work. It won't even open.<br> :date: __2021-03-24 18:45:43__
 
 > Can't open on galaxy j7<br> :date: __2021-03-24 15:26:25__
-
-> It does not let me open it without crashing<br> :date: __2021-03-24 15:14:03__
-
-> Cannot open the app at all. Total failure for me. Someone else mentioned that the problem could be an older phone. I'm sure the people who can afford the latest and greatest after a year of the pandemic are in the minority. Gotta fix that DOH.<br> :date: __2021-03-24 05:25:22__
 
 

@@ -237,6 +237,8 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 <img src="1_star_reviews_wordcloud.png" alt="gov.co.cdphe.exposurenotifications 1 reviews"/>
 </p>
 
+> So I got my first shot last Thursday, I got notified this morning from this app I was exposed to someone with a positive test on April 10th this morning....does that make any sense?? All this week, possibly exposing co-workers, without knowing I was exposed.<br> :date: __2021-04-19 16:20:17__
+
 > This app is capable of being better.<br> :date: __2021-04-02 05:35:07__
 
 > When you actually test positive you cant report it if you open the test results to see for yourself, as the code is one time only. so this app is useless.<br> :date: __2021-04-02 01:16:39__
@@ -254,7 +256,5 @@ The CO Exposure Notifications app has been installed by more than **100000** tim
 > I downloaded the app the week it launched and hadn't gotten even one notification by the time I uninstalled it on 3/20. Maybe I'm just ridiculously lucky to have avoided all exposure, but between case numbers, quarantines in my workplace, people not receiving positivity codes, and codes going unused, it seems much more likely that this app doesn't work well in practice. Mostly a waste of phone space, but one star for giving a false sense of contributing to public health.<br> :date: __2021-03-21 21:38:06__
 
 > I have a question.. If your app uses Bluetooth to recognize other phones and that phone's user's status, what happens if I 'always' listen to music on Bluetooth headphones when out in downtown.. Is your app useless in this situation?<br> :date: __2021-03-18 07:09:12__
-
-> I was asked to install this by my boss at work but I don't think it works itself? 🤔<br> :date: __2021-03-18 01:50:21__
 
 

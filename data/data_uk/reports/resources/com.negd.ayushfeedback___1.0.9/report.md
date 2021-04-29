@@ -124,6 +124,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 5 reviews"/>
 </p>
 
+> मै अपने मोबाइल पर otp नहीं प्राप्त कर पा रहा हूं,,क्यों?<br> :date: __2021-04-22 07:37:41__
+
 > Useful app for all<br> :date: __2021-04-07 10:57:22__
 
 > Good<br> :date: __2021-01-30 15:30:51__
@@ -141,8 +143,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Too good<br> :date: __2020-10-08 19:43:41__
 
 > Excellent<br> :date: __2020-09-29 05:46:40__
-
-> Best App for everyone customer 👍👍<br> :date: __2020-09-25 04:03:17__
 
 
 
@@ -236,6 +236,16 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 1 reviews"/>
 </p>
 
+> It's a junk app. No OTP received after several try.<br> :date: __2021-04-27 14:20:10__
+
+> Otp nhi ata hai<br> :date: __2021-04-27 08:02:20__
+
+> Worst<br> :date: __2021-04-25 16:58:55__
+
+> OTP ?not coming<br> :date: __2021-04-22 19:30:07__
+
+> I tred several time to login but OTP not received.<br> :date: __2021-04-21 00:25:55__
+
 > Otp service is not working<br> :date: __2021-04-17 16:55:28__
 
 > Otp not coming for registration<br> :date: __2021-04-17 09:54:34__
@@ -245,15 +255,5 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > It's a junk app, last 3 day's I'm trying to login with my mobile number and.. Surprise.. Not a single otp is coming..which make it useless.. Same issue with some other friends of mine<br> :date: __2021-04-13 06:33:16__
 
 > Unavailable to log since not sent OTP.<br> :date: __2021-04-08 04:04:01__
-
-> OTP is not come on mobile number<br> :date: __2021-04-07 16:01:04__
-
-> Even there is full network Not receiving OTP after submitting mobile number.<br> :date: __2020-11-25 02:30:44__
-
-> Unable to receive otp<br> :date: __2020-11-22 01:54:03__
-
-> Does not get OTP even thogh well connected network and without Verification can not use.<br> :date: __2020-11-21 17:43:31__
-
-> No OTP. Waste of time<br> :date: __2020-11-21 12:31:58__
 
 

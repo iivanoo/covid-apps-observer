@@ -165,6 +165,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 4 reviews"/>
 </p>
 
+> have had any poblms yet.<br> :date: __2021-04-20 20:15:01__
+
 > We're doing better<br> :date: __2021-04-08 14:03:07__
 
 > I don't know yet I just downloaded the app<br> :date: __2021-04-05 02:08:19__
@@ -182,8 +184,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Great idea. But I don't know anyone that uses the app. I doubt a lot of people have the app install. It defeats the purpose of being useful if only a handful if people are using the app.<br> :date: __2020-12-08 23:56:12__
 
 > Good idea but the app doesn't start on my phone (Pixel 4 XL). It just shows a white screen with the logo.<br> :date: __2020-12-07 15:36:10__
-
-> the only reason I give it four stars is because I don't know if it works yet or not but it seems to function on my phone and my tablet and my laptop so until I know for sure that it works that's all I have to say.<br> :date: __2020-12-06 19:26:31__
 
 
 
@@ -221,6 +221,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
+> Eh.... obviously needs work.<br> :date: __2021-04-20 17:38:42__
+
 > Not all that helpfull<br> :date: __2021-04-03 02:53:37__
 
 > Annoying, I work at home and only go out if I need to go out. I dont want my Bluetooth on 24/7. Have a "home" button that stops the annoying message saying it can tract since I don't have my Bluetooth on<br> :date: __2021-03-24 16:25:10__
@@ -239,8 +241,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > don't know but bluetooth bad for me<br> :date: __2021-01-13 15:40:34__
 
-> I didn't find the app useful as it only searched to see if I was around anyone exposed while I was alone at home. Not helpful!!!!<br> :date: __2021-01-13 04:02:06__
-
 
 
 #### 1-star reviews
@@ -249,7 +249,11 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
-> Original comments given on 3-26-2021 in case Google/Android attempts at a later date to delete old 'Edit Histories'. 04-15-2021 update-claims (falsely) to obtain an update on Pixel 4 device. On my current carrier LG device with 5G sim the app lists no Permissions within standard Android protocol app settings but once inside app the app requests I am required to turn on Bluetooth so following review this will be flagged. Not counting this as a strike per se but Android version listed in app is NC<br> :date: __2021-04-15 20:21:01__
+> There's a bug that occasionally causes this app to check for exposures about once a minute nonstop.<br> :date: __2021-04-29 07:23:17__
+
+> It keeps checking exposures every 2 minutes<br> :date: __2021-04-27 17:39:43__
+
+> 4-19-2021 due to past security issues app is shown to be no longer listed on device. Was able to find the claimed last update in Tools description which shows a date of 12-22-2020. Would be nice to eventually see a notice from Play Store that previous apps uninstalled if they have been updated as to consider re-installing again.<br> :date: __2021-04-19 15:37:06__
 
 > It does not work<br> :date: __2021-04-13 21:23:16__
 
@@ -264,9 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen. Edit: uninstalling because still no fix and just got 20 notifications in a row.<br> :date: __2021-03-31 19:32:39__
 
 > Walz paid somebody a lot of money for a useless app.<br> :date: __2021-03-31 16:14:01__
-
-> Push notifications can't be silenced<br> :date: __2021-02-23 18:25:36__
-
-> These people have no idea what they're talking about. One mask, two masks, a thousand masks, it doesn't matter. This is all to justify the destruction of our way of life.<br> :date: __2021-02-20 12:11:59__
 
 

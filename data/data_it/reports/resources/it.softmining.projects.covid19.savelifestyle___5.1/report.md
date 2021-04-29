@@ -269,7 +269,7 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
-> L'ho scaricata quasi un anno fa',tutto ok per molto tempo,faceva il suo in modo egregio,ma ad un certo punto ha iniziato a dare la percentuale di possibilità di contagio sempre a zero, disinstallata e reinstallata tre volte,niente,non calcola più la per entuale di rischio,malgrado l'ultima prova l'abbia fatta in una stanza con 7/8 persone, quindi impossibile non dare un valore diverso da zero,mi spiegate che è successo?<br> :date: __2021-04-15 12:37:40__
+> Inizialmente tutto ok,adesso non funziona più,premo sullo scudo per aggiornare la percentuale di contagio e rimane a zero,in una sala d'aspetto con 15 persone! così è inutile esattamente come immuni!<br> :date: __2021-04-22 08:52:53__
 
 > Disinstallata troppo invasiva<br> :date: __2021-02-12 14:06:24__
 

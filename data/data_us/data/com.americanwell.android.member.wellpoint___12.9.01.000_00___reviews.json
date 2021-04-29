@@ -1,8 +1,212 @@
 [
     {
+        "reviewId": "gp:AOqpTOHXriLRCaB0vnFeeP_yxzQpzFHkaWRfvbepexW2DfYn4-gxeRBigVoFvibBO3ihtFcPBK4OkIhat6CnJYA",
+        "userName": "Johnny Wilson",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmhVF0wWjo8pF8UBDca5dcSL_-yfsIaokG81xj=mo",
+        "content": "Easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-28 18:37:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF13mUT8eLTQG9UaiP8g6UUfm3JBm3WHT-vgKrGEVHH1jZquKumtB700k3GESjpJOUGFrO_s6A45nyIqrA",
+        "userName": "Wendy Clason",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxiGervdcQrQVn0A5TszKvpR0o8N-G-lg6YdwF9=mo",
+        "content": "This has made it so much easier to have a Doctors visit when it's nearly impossible to get to a physical doctor.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-28 04:47:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFJNA91cpY30D82W90rODoX63k--3Gd7Tp-4FELRkHns_TxZlt0n-ctl-R8iKA1Ubo8WSLgcoicJxhbGxg",
+        "userName": "Johnny Defrances",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQW1v9Igz4lZ4muP0W2QOrK7BGiXGzE-5m48Ea=mo",
+        "content": "This app works great for me. Never any issues.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-27 21:45:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEwnZYfSkaenRH0bi-vPixj47piK54ugedVcLTrgWpFnGJzIAUKG9TyNUB2fujvWp1_gukHMNXXkAEX-vY",
+        "userName": "Cathy Patterson",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwN6iJKXBMbooIK9HMrVHqpL3mR2K8ebZ4QrHCT=mo",
+        "content": "Great fit for me.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-27 18:39:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH3reIEuvA-R9foIabGJKEttHFDx0QtDx4rnFXKnyTxLEQywFUK2bd488hQv9TsxH_NZCLQkYKtwvk8EiY",
+        "userName": "Glenda Pope",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSvAjAO4cdUPK4agiJKrLDWsqovuo08czW_hrb=mo",
+        "content": "Love the app. Never seen a doctor that I didn't like. Very caring doctors. Makes it super easy for me to see a doctor while I'm working.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-27 15:43:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE8hottnFRCFN_e7AJLHx6YdfSASFmd46BLd5ewoFVUs88TqV6_ME212zM0_WIveIztL0bmcJwdtWCUJ28",
+        "userName": "Lisa Conley",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOkr9W82hGLMms177md9Xn2GMdakjFs3H_dhTOVQ",
+        "content": "Quick and easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-26 18:20:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHkar9SD578a4YcQ_lNjEIiodBDcFeUUahGQaPPvp5KE2Q2G7r4JJYiLLqQ1vWCiVY8k83B3IW6BEHn6IM",
+        "userName": "G C",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx4WrS_j-XDckkZd-1jNQJ-Q8M-45C5Jw31_C8s=mo",
+        "content": "Woke up with back pain and stiffness. Spoke with a doctor whom perscribed ibuprophen and muscle relaxer. The process was fast and really easy to set up. Because of my pain it would have been hell to drive to urgent care and sit there for hours. This was a lifesaver. Worked with BCBS Anthem",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-25 13:51:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEjTQ8PoL3k50kji46V4SS_kNtpaQeXC41wpY7QGS3qOvtDTJMxg11vMChmTkwLOSQT9agnHHyzSeqLk5w",
+        "userName": "Dee Luu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgcBKZzZkMtKKELeE1x8nH2pKUmzPjAbBmmQ8_l4A",
+        "content": "Don't waste your money, I paid $59 and they can't even prescribe medicine that you actually need. Go to a real doctor!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-24 22:05:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGQ29rvcvT7SMcxlz0Gw3dV946jErqOQvD9Rp8jri2E4XyjR35W_QQF8vdTFoKDqrMcTh_nen-wutXAtfY",
+        "userName": "Heather Casey",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxWJK-sGRby4tM2kWrLwd4RxvVD-5suz7olKsJNA",
+        "content": "Reassuring, thorough",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-24 20:09:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEcJTw8DLohm814zm9Gdkq-srAC4yUYiHXsdAjXzieKxz-RjLImEpqiNOnuLZ1X9qIunGi7Dy7WctrqdBI",
+        "userName": "Joscelyn Osborne",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzzCg46PMHl3_nukb0vWDy0vcmNsLLAqu48KhZd=mo",
+        "content": "I love how easy it is to meet with my doctor's with such a flexible schedule. It even helps to do my therapy sessions in the comfort of my own bedroom!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-23 18:58:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFN28RQKGuicLATN2-JL65xMy1X7dXvOEIek4er5kekyZ2AKRLHc4rRLJYSk5HfIFWYRVRDW1n2pMwWpL8",
+        "userName": "Ger Sayarath",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwIAeEv8Eix2576ZXzVtOuGLDZXU23_6x41nEbB=mo",
+        "content": "keeps crashing!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-23 05:07:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGxgIo5p_qm2nOaAYRjJlcOhEBpoNJRKWJ7xzBzm7XaWCchO4IMFitTFVzm49-MFoBT3A-Jf56fpToHCHI",
+        "userName": "Torry Carragher",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjtcYkH1XEVjOQnIUzAzQ05HgQWNMu7LGxmb3MkOFs",
+        "content": "I just used this app for the first time. I love it! I was able to be seen by a doctor from the comfort of my own home. I didnt waste 4 hours sitting in an urgent care facility to be seen. I will definitely use in the future. Since 1st time using app I have used it to have my kids seen. The whole family loves it.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-23 03:34:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH0PpJhWU-nR9YmJ9U1cr2IlKSo5_KgIc-xRPHQDhxKPC21LXbLhPyVkQp7hO3Fzg3-ERqtmguYDYhCeEQ",
+        "userName": "Jason Wood",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrMmVbYGAumLJvjUAC55Wn3DBLZjGO-c8YBHbRBQ",
+        "content": "So easy. Only used it once so far but it seems pretty solid.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-23 01:44:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF9kYfuvdbikNeZi93P8SOjjJo6aETDeX9RwEf-gDtN5VaHPl9vHlhkC8hZvZiCO4cf6g43fS92foW2Xzg",
+        "userName": "Alisa Goodlow",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy9YR52XwSfQYgU7fx5p8dBEYHVu36uxRg6BhSA=mo",
+        "content": "Vice noce",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-22 19:09:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEpDWtImdGSGyK2AyEob8-e-SWlt0mFg2njRtNUNgu-9DNiF1R32EP_AMCfqkIG2IQtGvpJ6TMPuvwdiBQ",
+        "userName": "Berenice Ponce",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAmNqVw7CeuVX-547cceuUtBW38Dssna4VCLRrbQ",
+        "content": "Good professional help..",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-21 21:40:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHcHJdWjwOPFAt-9hx56tqcj_IvdY6aSSCXXo9wR8FMjrSae8FAfh_46xUXXW28ThF7tSA9gF5DmI9i1e4",
+        "userName": "Chris Slater",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqXKJMNBmdxzWb2tXCF5n9WR1Sn1IXmNpoxFEAVA",
+        "content": "Really positive experience",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-20 17:55:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGXgyxduNwY92BMhOLJFGK9JotZjbMRMBgqUGMWw9DnMdNvsVV-XIeO1ugJYnEWCgwLY9Ze0r5QjTd9rqI",
+        "userName": "Devistator4k G",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlIlPXV_NccWmPBkdZ-TMMz5a2_Ih4WbZq0LU=mo",
+        "content": "Easy, quick, and professional.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-04-20 00:52:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFz7w6LAZYfuWrw_wquyeIkS1hg8hedAMvJMrYHFG0t-pEhJ2hVlIwOhLY5qYrCag0WF3jrSvmGhHtoRFY",
         "userName": "Sol Carranza",
-        "userImage": "https://play-lh.googleusercontent.com/-GDpJyjmRhuU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7fHXseNtEkaienQ_oyfKuC6NPag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxuZsBpy8bvGJwpULWSZ2D5TOczOrpEH0de0DfD=mo",
         "content": "Jd",
         "score": 5,
         "thumbsUpCount": 0,
@@ -26,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOGyaaMjYT-orlW4fBjIE1ikiQxL07FoFk9-K9Kob6B-u7zentP0bh5OIPtleUErPLVESUyXDi7-Pp951gk",
         "userName": "daisy davis",
-        "userImage": "https://play-lh.googleusercontent.com/-y79MrhOiHp8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckl1l_U8fqkrG1pE7Kp8h_dJMyqRA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwgjzUwi1iueJ9rgy3jWqpee93qQ8LrR5kd4lH-=mo",
         "content": "Great Therapist!! Love this service",
         "score": 5,
         "thumbsUpCount": 0,
@@ -38,7 +242,7 @@
     {
         "reviewId": "gp:AOqpTOG6y1B_9YtTbTxBO_1MIlBW-vZ1zzrkFwCM6vnMDPQ83BkbjTOsLqHruoNxKoQrpOVWyJOOPR2ZlZOSB7A",
         "userName": "Suzy Windsor",
-        "userImage": "https://play-lh.googleusercontent.com/-Zr7lKhtqsIU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEF6XmNSu_pN6AheJjF-s7cxKn4Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwq7ZTPW_8-Ehm3rQrYAsES3cuMWdP3XEHeGaKm=mo",
         "content": "I was greatful the doctor was able to help me in such a fast time period.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -62,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOGTJI2_E2ezvueD0IX56lqQfgwRzf_f21dLKoIKtyJk-t6Oart-o9gzEOKVi7Q8V2dYuaToG7IwEv7NKMw",
         "userName": "Estela Cortez",
-        "userImage": "https://play-lh.googleusercontent.com/-YFFy960P66E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckaDP2pId3ZKzKwF654f7GXyJmBoQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyShT5JdDQIyfvpFjAFDxF1S30VWyX4wydK0sk=mo",
         "content": "I've used this app a couple of times and it's been easy and a great experience. The doctors are thorough and knowledgeable.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -74,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOEmp51fhiaEf5YZT1QQjo4g3Rv8untqZYzhUswqWwm3nROwMnoy8v42o9TqDxeo7AKlIXqpKiHAW2v5tqE",
         "userName": "Hannah Marshall",
-        "userImage": "https://play-lh.googleusercontent.com/-Q8-Xs50BOKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkjq2DCsE2POHt_p_xRKsbCGy5eg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUaIIAyGvtm0bI5-VMnHxQfa-Bi6tImHd7AuSV=mo",
         "content": "Love this app. It's a must have during this crazy covid mess.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -86,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOGqWBkjRRC5hDilmI7AfUueGoqO2H3LX0wimpqm29MlLDRIX8GxlyEb89Y6RQvVRZA7o57LDxSLpJMi96Y",
         "userName": "Carolyn Cooper",
-        "userImage": "https://play-lh.googleusercontent.com/-y09HDN2nKv8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbP1U7RtTgQzWYaBar_zpqoLtenA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw4sRcoIrBgdEyQpvvwojIZzh90dxbqWhbKtbGB=mo",
         "content": "Seamless. Smooth excellent picture quality",
         "score": 5,
         "thumbsUpCount": 0,
@@ -98,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOEYoRbiistH8JoxG3xBNr1u2W_RF1uAjZ66oNDslPdgzCa2FpbFo_IMNzC-C4dCd1hX2mTA3XlHEnuauVM",
         "userName": "Amy H.",
-        "userImage": "https://play-lh.googleusercontent.com/-yAk_MvfiJ5Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnePV1mI8Dub6nXsSEMkZggrLhU0A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzdXSaDSlbnztoxZ3uEI6hNSl_IvMBueVBbj6PB=mo",
         "content": "Easy to install, easy to access. Saved time, rather than I face office visit.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -110,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOEKXRA0qOphgGeCEc6sE1MkBxz0i2-BSA3a6zdzdPDOquMAIpHNKljeSsZFnh4bJAOrV4LJy0yZWCZwstM",
         "userName": "Evelina Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-0pfiI9otDzM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncmp-SuUyayX06s8kR3A3_oU_FlA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwOE0sns0ghfw5ZUzClm2GtJVUzXMwbARndNgAZ=mo",
         "content": "Quick and to the point. I waited 3-5 minutes at the most to be seen. Diagnosis and prescription given right away. Visit was over within 5 minutes.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -122,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOGiwfiC79_coqt0Lo8x5FNxaKIe92iz5U4JK6bjQsjqpmYfADVoHcaC8ceWG0Gdcw6VgBuPljB4GWtUfr8",
         "userName": "Viper Snake",
-        "userImage": "https://play-lh.googleusercontent.com/-Q8qNcDXoHPk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLkBmkBXF7ulbw-HhJT0KpxZ4uYQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyQbFtDb99dL7d3DOy-DDFhFZsnvUfayqCp6N2I=mo",
         "content": "Great App",
         "score": 5,
         "thumbsUpCount": 0,
@@ -137,7 +341,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjyM72rz-waaGs2wvQy5dxypW4SM91P7fUkLqBSag",
         "content": "The doctor was super professional, and took care of all of my medical needs. He was caring, and explained everything in detail. It is SUPER convenient that they were able to fill a prescription, and send it to my local pharmacy. Definitely will use this app again for future, last minute appointments!! The connection was also very clear, and it was easy to see/hear the doctor. That's saying something, considering I'm on satellite Wifi!! A+ app!",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-04-12 03:13:24",
         "replyContent": null,
@@ -158,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOE66HIir5wSL0hV2lXgVL2xCf33m2cm8L2daHQTaMM45F4F7MUGaRLPdCCejuQ7Y7hzDDtPbb5jUBJBugY",
         "userName": "Marcus Vancleave",
-        "userImage": "https://play-lh.googleusercontent.com/-U-YtoXxG6bQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFpkh_oErkRmhOU0aEECnv-DQjAw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxaBIt0GTDg-o5QI9A2DwSyFszflcgVJQKZ4rey=mo",
         "content": "Big scam I have a sinus infection I know what allergies feels like this is not allergies doctor didn't listen to a thing I said told them I have tried nasal sprays, sudafed, and one of the meds I had listed was zytec and ill be damned if the idiot didn't turn around and tell me to use afrin nasal spray and zytec all I needed was antibiotics I have had this for 4 or 5 days and it is getting worse dont waste your money on this big scam all they want is for you to come back in a week",
         "score": 1,
         "thumbsUpCount": 0,
@@ -173,7 +377,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhasEGve24R7Y5lX-qKM8MsNmvVFBwjIncsoyT3Hw",
         "content": "30 minutes and waiting for a doctor .. so no, this app is in no way even a tiny bit of replacement for a good old call to a hospital. If you have a cold, a sneeze or anything insignificant to get checked, something that you didn't get checked wouldn't make a difference.. rely on this app.. anything more than that and you're rolling a dice and taking your chances.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-04-10 08:38:40",
         "replyContent": null,
@@ -182,7 +386,7 @@
     {
         "reviewId": "gp:AOqpTOG6CKc5MBflbR2Ofp_no3RRLCZ-7Qq1PvfzpmN_-4lpsVMA1Eruh3H3cmVkCl_d-eTXucr5AzHGYMG3IUU",
         "userName": "Laura Cecil",
-        "userImage": "https://play-lh.googleusercontent.com/-SxHPPVMR4d4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckaQ-lqYDhToF0ZxGt8KLRggAe-QQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7KhQQA_AIIaH3nslL7wfgrZa_9y45W3hwnN4s=mo",
         "content": "Easy to use.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -206,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOEP0CgmC2mamI1HOkWqBw-b52ye2ryKfAzZ-Inx2xLfEsFUsP1fX9Imbg7dopK1OXdgp0ktFuinBjteTlU",
         "userName": "Pamela Nunley",
-        "userImage": "https://play-lh.googleusercontent.com/-u8bIqm9jIfk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwktzR8kmXTncC4KI9h2bGQjDoeQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJweB9MkQ8XZgLhjWE7qBDljuE19zOBKHm03ffcC=mo",
         "content": "I can't believe how smoothly, professional and affordable this service was. We are experiencing a gap in medical insurance and this was a life saver.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -230,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOGH-181zEYlIhycnTbJ3McuYAOBOAx5AFXpBZXjraLR9fqF-ixUZAs2gpX4ymn7WeqSYwIhfVNByN4Sr1Y",
         "userName": "Andrew Stephen",
-        "userImage": "https://play-lh.googleusercontent.com/-Lf_MKiEvACE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloeZRxsYaySAhaim6yLNy36Axe0w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw2QdcI_mZbxHhzY9ofetJ3qdkch1lTss-_JP4p=mo",
         "content": "Tricia Healthcare coach A+",
         "score": 5,
         "thumbsUpCount": 0,
@@ -281,7 +485,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgO3lnCGKqNnhRJHjDJRhHCUsNt01hAWiMOD_nL3Q",
         "content": "Loved It ! It was fast, and convenient! Not feeling good to start,I did not have to leave my house, Rushing around not to be late, or looking good when I feel so bad. They accepted my insurance and I was able to set up and have my Prescription sent to the pharmacy of my choice. A WONDERFUL EXPERIENCE! The Dr. was polite, nice,and professional. Easy to understand, and understood me and what I was explaining. The way to go to the Doctors for me from now on!",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-04-03 20:44:51",
         "replyContent": null,
@@ -314,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOHtZCCKHOAWLR5iPgFJUXc_iCU5U47dK39gXRIf5fmKjyu88DR46FqKPH_myNQgLjwkZPUZYL0GlVzloxM",
         "userName": "Sarah Dunaway",
-        "userImage": "https://play-lh.googleusercontent.com/-f9_-unNJg_o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQ9FbSGpjwB4Tbn37rqNSKeMg2nw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx1Sae4UvUi6gk-yJTppwSC7WkkjMm8Rzk-SW0Z=mo",
         "content": "Safe and comfortable.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -362,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOHd_uWNvVwWF3PieeLNfPiU2qPJOnHsi13uCn4sQ7IP7p6ppBqaVrGMrpIlt3mJOdFoDJZHF7KL05NLI_E",
         "userName": "Ray V.",
-        "userImage": "https://play-lh.googleusercontent.com/-LpatydwjT6E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucldc4haiUO5YTwRsXmjZpfeFHK18w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzwxwEQV3yiYmn5_BAc7EUO5DiJ2VGS0giICgwg=mo",
         "content": "This app is useless since the doctors can only give you prescriptions for medicafio s and a covid test! Other than that they cannot order any ultrasounds or chest xrays!.....it did not meet my needs at all....will uninstall and just go to my doctors office!!! By the way the doctors can cancel your appointment while you wait on them....causing you to have to find another one!",
         "score": 1,
         "thumbsUpCount": 4,
@@ -386,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOH1w0NhD9ElrgPdSMVfBxoJ0uYA_6G_Lhpanpizk49X3wskzAnqFGCwequFRGCtmFMU0YTUMEsD2Zjl_RI",
         "userName": "Sandi Mohr",
-        "userImage": "https://play-lh.googleusercontent.com/-uW5270CFjHU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbin1fO0-PQl-r6H-UF7RC5tBbwQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyyOVq63NxxEGgap0UbolrdDW2jtc3mxk9Z7JML=mo",
         "content": "Easy to use",
         "score": 5,
         "thumbsUpCount": 0,
@@ -410,7 +614,7 @@
     {
         "reviewId": "gp:AOqpTOG_O-TSAdTj1goY-Kp7guCOpHuyietwgB1ZIoh0uzglvy8JSRKuxBURiiCR2nlkLvmL4pIhDwsHBr8ws0E",
         "userName": "michelle Austin",
-        "userImage": "https://play-lh.googleusercontent.com/-naYZnmQJNDE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl02NIi57KpcrymJn5eQSoZDeyAww/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzebn00iv4oXwaHOf03q6W4NmavlXLEsdae9WTE=mo",
         "content": "Love app. Its great and so easy to use. Doctors are wonderful.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -434,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOFJLBdSSzDp0lbRqdv0bdRSOFd3NSQO2sybD4bmiaPdllH8xXdW_fPBLy36ffC1sxOkfS-_54fVITPrdtw",
         "userName": "Andre Owens",
-        "userImage": "https://play-lh.googleusercontent.com/-uwNh6pmvDzY/AAAAAAAAAAI/AAAAAAAABsM/AMZuucnj2m1T8NEhju9GaWO3fpc1B_kCMw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzlTolMMuyYnWud9HY020r-ykCbBEeS3q9S2n-sIQ=mo",
         "content": "Live Health has been great during this current pandemic we're experiencing. The online doctors are very knowledgeable and professional.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -458,7 +662,7 @@
     {
         "reviewId": "gp:AOqpTOGNU7d53YC25Pa_hBaXbKQg6-tDYBi0GPwLl28GooFt6uEsRMQ49SoY-gvpdYcqfTxTJVCjDBz0jfaMWIo",
         "userName": "Jessica Rosales",
-        "userImage": "https://play-lh.googleusercontent.com/-FsuPUbG1Cng/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRNILujBtIJ6DddrNMdcBFjPQ_XQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzBLOrkzW9I_7oSrvbnQ_yRJMWGu_452WkW0iyF=mo",
         "content": "Great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -470,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOHFxIZwPfopdi10Vb_s68LpX41lmBOIkjuyklCEfm2e4nrB9qEkWLggEsw3XmiJzLBCLnhTR2aBClg2XhQ",
         "userName": "Trav Da",
-        "userImage": "https://play-lh.googleusercontent.com/-7Ta894LBFbs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzW3XI30yMhCmO2RrnUJcadM67Tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxT4RQKiLm-PXgNRJXe_S5u6JfrIlR84XHPyG1z=mo",
         "content": "Its a great app and idea \ud83d\udca1 \ud83d\udc4d but the video never wants to work and some of the providers will just call \ud83d\udcde you\ud83d\udc4d but some do not Other than the video issues its great would be 5 stars but lame",
         "score": 3,
         "thumbsUpCount": 0,
@@ -494,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOEopxWg6JdtAjFIK7zqRO9HB6Dd4yIGyJQvMNWixJCM0r9-lzQMgQazynJsjktVXWxgNtsOGJ-_0jVVzbM",
         "userName": "Patricia Lowery",
-        "userImage": "https://play-lh.googleusercontent.com/-Rlh8y6ItVi4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmu98tNxDsiSY5_EDXZI5WasMVbFw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzV655HFdlXWQodFEQYWzpI-yceoVNrQhVK71je=mo",
         "content": "So cool!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -518,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOHDarng6W2HYAjKs_nCcn1krg4dUqUvWlanm0alX3qczFdV4qcZSuWnhOvdeoPgyu8SA4HYBPZqIWpCcZg",
         "userName": "Saundra Weddington",
-        "userImage": "https://play-lh.googleusercontent.com/-6u4RZBXk1qk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmaRosCZ-gNeZgoyL9pB5clAoyZQQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyq-yLYx8y-WFKRV81GXhk_vG0guwPQXxdqWVTC=mo",
         "content": "The app is awesome no issues",
         "score": 5,
         "thumbsUpCount": 0,
@@ -542,7 +746,7 @@
     {
         "reviewId": "gp:AOqpTOELTruVHUAK289iSSKZhuMS0OYmuOupzwkPNNnsZj-0-11XVInZfYbdGAeM3Zj3YyZmzn2s-lIxXfB_cHE",
         "userName": "John Cummings",
-        "userImage": "https://play-lh.googleusercontent.com/-coSL1x_PpRo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclKgkIYIsdxCWfYR6K_9K0J7ClgdQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3r1le-k4rQiUKW1LQez77I7giuSWBFVkKh0VX=mo",
         "content": "Good service. I would like a better or ore robust user interface.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -602,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOFJvnRR0_mix_M9jO93fuhSyxXuXWSAlttOBYO60beHUuoIhJZHKUjOc36bfVrv9tr1TKxejHW85mbbFPw",
         "userName": "Arnold Lewis",
-        "userImage": "https://play-lh.googleusercontent.com/-jOsYkXQY0v0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclveXg0okh8wpb8doCwo92tGri-7w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkvk6HecyiMXCHck4YMgkdcVzX2pxW73k9tBEj=mo",
         "content": "Great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -626,7 +830,7 @@
     {
         "reviewId": "gp:AOqpTOHPgseQdxpBXttgFz3ksSjXn39MNQ0eEiBCx69X2VijbyP94LNlvphBHZHMQ-83R00_qCEdmD2L4l4QbSs",
         "userName": "Michael Cordova",
-        "userImage": "https://play-lh.googleusercontent.com/-KAtmBA-ycbQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSMAldUeMWDlrg8dKhhf-nTFgP_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyQHBl6gzYWrwZ7QeE_M_D1XdRUnlCdkZOczBn1=mo",
         "content": "fast easy and reliable",
         "score": 5,
         "thumbsUpCount": 0,
@@ -638,7 +842,7 @@
     {
         "reviewId": "gp:AOqpTOHO4H5jR3tR-SB6mWF7vKqA3Mr4j1ViSdZXYjZh2NFDSaiuGb0znex_jTTmgvbccTppVcgp1IPZfGgf5uY",
         "userName": "David Harrison",
-        "userImage": "https://play-lh.googleusercontent.com/-jbljnO-VyAo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRSPDP8j2sBvsVKfY-3TZvULmM_A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJytMvnyPCLTzSB_fysQ5in1EMN5AnyRfhKCS7ri=mo",
         "content": "I have been using Live Health for years and the service has always helped me when I am struggling.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -686,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOEh73PxW83hfV6SEOdIbXMIPxI7Z1E3gIeKDngNbOs2QonCfoOpBhGDSwQjkhUXlMiXty0vbfshzfHyGMc",
         "userName": "bebe author",
-        "userImage": "https://play-lh.googleusercontent.com/-AoA5Y1COr3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhjMCRrc6kw5jGo54hQqSK2yGBCw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwjEDtVLFHgY2-eUZMjY39927MJh9junoQ1QZnV=mo",
         "content": "Nothing bad to say so far. Used once",
         "score": 5,
         "thumbsUpCount": 0,
@@ -698,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOFH178pcw-5SQIObTD8bDnVzZwfYwgS9nlsijqizLefSc82fdFZNBX3ffy2YitPY2q-NSEbbxVeoEbTh9c",
         "userName": "T H",
-        "userImage": "https://play-lh.googleusercontent.com/-sH5CFAlSQX4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7bTF-Kt5uHDiq0YLT8L9G-OI9Og/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzlj0nAJ47eO-BVaUtAIuJu_mOMoBEx7ZZn7LTp=mo",
         "content": "Video does not work with Samsung products!!! Known issue, Yeah I spent 20 minutes entering all my information twice only to find out that the video will not work with Samsung. They know this and yet no disclaimer up front,. Waste of time.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -722,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOEr-rrm8YFUDjUtx-0ypI0-T8s-3KWp3TsTKeD_C7vDr4SOBIamEByQ0y0OsC5B1E1BYROOwrY-WIVqZ3M",
         "userName": "Kandi Ramano",
-        "userImage": "https://play-lh.googleusercontent.com/-U8E5ZYF1J2k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnpIsLnaPdQ93mRj_vNB3W0oDS_2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwYxyB_iMOLusjijplG29haF5aThYsiQTSxrcIs=mo",
         "content": "Fantastic service",
         "score": 5,
         "thumbsUpCount": 0,
@@ -746,7 +950,7 @@
     {
         "reviewId": "gp:AOqpTOFJNkFaiQO1ljIIG9yzCmY-bRvz2qAM1xVqoaRiJOSC4zuBKZI2y6txTeB46F0LAPOrHEW6v7FecIT3Be8",
         "userName": "jennifer purdee",
-        "userImage": "https://play-lh.googleusercontent.com/-D3i5SgEWHEQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfyrOFfU3SNgSQZbJo_qDxYzD5kA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxtrVGEJ6l1p2kUzKIFBvpgXTw0nJh1m8m5SFE4=mo",
         "content": "So easy and Dr. Patel she is the best",
         "score": 5,
         "thumbsUpCount": 0,
@@ -782,7 +986,7 @@
     {
         "reviewId": "gp:AOqpTOEsaUTmNRDvCOCHuMKia8q9vzyo5899SKo-Y1bjgwXLT9aYTVc79xeFLJz5-f0T_2ZXZ0ijFJvGohZq6Qc",
         "userName": "Robert Davis",
-        "userImage": "https://play-lh.googleusercontent.com/-Zf0KWDU7X44/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckeZHzklv4s853uFedl5MHGKfJFuQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxj7Vvqas4tVBt2kOXwPoVQQg0RO4BlMPHpEpnz=mo",
         "content": "The reception was poor on my tablet. Better on my phone.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -794,7 +998,7 @@
     {
         "reviewId": "gp:AOqpTOF6Aw6P2wDG9LGXYlVSyqYoSvCFxkYvjJWpHVDiGXsOCV6smLrvGOZaO-BEdWOf1eezmu5udMlZ52PMjBs",
         "userName": "Kiara Perkins",
-        "userImage": "https://play-lh.googleusercontent.com/-ROHxDe5dYbk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckf48T0YV6QHATlR7IjR0Hh9bL4dA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzwWemMoGsoNGUmULWd6IvretPvwMSBvgfG6t0Y=mo",
         "content": "Charged multiple times Dr kept cancelling on me Put me on meds without refills and suffered withdrawals and was never contacted by Dr again she ignored my emails",
         "score": 1,
         "thumbsUpCount": 1,
@@ -830,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOFQZ3FKroXVeuAUwNcBsiRT5uKINOWo-BQURnpO-Zn4GG7fF4BIa89-Jz5SJ-xbd2Dpu-83o-Ys7Rh7gfU",
         "userName": "Austin Dodge",
-        "userImage": "https://play-lh.googleusercontent.com/-h_1uzsHIs2U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU0VIS6LbI0cbZOGP2XUPPiWNbgw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWKsBkQ80AihAHgj3-D-7EMyRCCKUHkmjRsoQ=mo",
         "content": "The app is convenient but the doctor I had was rude, didn't really listen to my issues and kept interrupting me.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -866,7 +1070,7 @@
     {
         "reviewId": "gp:AOqpTOEMfbMq97KDo010QamvuoJfpSz6fHdHYwwqdGSpriadnaWABM2lNKAvA-5RP5SRxtDEwzPr7_fSE8IH_sE",
         "userName": "Andrea Knoebel",
-        "userImage": "https://play-lh.googleusercontent.com/-HSDczYrpNcs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfPwOISya9KdrHkTMvMpelLDzy2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwBnSAsRLEJIp3TPOd3UYntmE9R1vwm-s_wZJmF=mo",
         "content": "It was very fast and the doctor was very knowledgeable",
         "score": 5,
         "thumbsUpCount": 0,
@@ -890,7 +1094,7 @@
     {
         "reviewId": "gp:AOqpTOFHwBUKrFtUpeUtaOFxK03t-WsWyZDVi_Yeb7SEs2z3MmTJ6g-trnlueHqkOQaga6yqD75ZkL6E7vOAOuk",
         "userName": "Spike Jones",
-        "userImage": "https://play-lh.googleusercontent.com/-tMuouFTPTz8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckO6BozJuP-dcSBGvfaolw-Y7UbNA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwenEuyOyif20mdyrycTPM4OYWs6a9mxo72nqky=mo",
         "content": "Great",
         "score": 4,
         "thumbsUpCount": 0,
@@ -902,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOHUuMZJO8URmIoIfW1AoYW6zq1IJJopaLqzINydZIYWviY-rF8OkbtIXWZqAxTe5yhT7RTTlrAoD-z7pSQ",
         "userName": "Matthew Culpepper",
-        "userImage": "https://play-lh.googleusercontent.com/-QV2_sicM1m0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMk8yXLbthOQZ3ZXUsWW65KhNOAw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_fixurlMMBCFLoEKfF5k_m4IJ8KGhxriZz9-o=mo",
         "content": "Always fast. All Doctors have been professional and kind.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -938,7 +1142,7 @@
     {
         "reviewId": "gp:AOqpTOGy7CIpddwMKQHYx4gDfJ27Mc1uAgV-yRfn3c3eOcKEAcAPcp9asn0im_0cczkBMA9Dxg8pngjrA-TrnjQ",
         "userName": "Elizabeth Allen",
-        "userImage": "https://play-lh.googleusercontent.com/-cb2Uf2eEWaY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFyh4B02UxADqM-F9LCXqS-h0hyw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFighrR3LtQqJEOx7bdPYDJfiyPujjj7GG9tSt=mo",
         "content": "Quick service, received excellent care.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -962,7 +1166,7 @@
     {
         "reviewId": "gp:AOqpTOH6HPuBVtiz1HR_tNLfDegn3YfoHhzvXtX6I3WGkLOEp_RcJqjb_SfIl_lomj-rkgjNQhUBkuNUctQdIjA",
         "userName": "Cherine White",
-        "userImage": "https://play-lh.googleusercontent.com/-Mat1-faBADQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVqkHJko1CZhEuYUWAFTYO5OaxYA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwoS-wV0Q-W3ENHgCe4P6PeZX32MwpXNwy3Xd6A=mo",
         "content": "Really makes life easier! Having 2 littles at home, no vehicle and all the restrictions due to covid about bringing more than one person to the appt creates a TON of stress for myself. Thankful!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -974,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOFY4ifa3bxv5ZE68cMJ4kpWnkByU1Fb9fGznAUZjfkI6k5VqrYmxneonsUfKxtSMPnFlPyjPR52HfWE-Lg",
         "userName": "Flower C.",
-        "userImage": "https://play-lh.googleusercontent.com/-TUH3yW29Tck/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBZCD0o5mllpfUSmCKKX7Zij71kA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwExkTT9Erx8IGGl8GSxowY9Jd23wMLLjymivFB=mo",
         "content": "This app has made my life so much easier! It is easy to navigate and they provide the services that you need.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -998,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOE06MRUW5iiBHwMFOICsl4dn3FQSbdmpnt-8mfchP-MUM0VG7a88-kBzTQGWcW7mtomONtxZuMcD9yniHQ",
         "userName": "Michelle Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-AzWdSUzhh-A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclpR4_wZt3qqcywDlqpygz1evSrKw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz9Vw-XLxBGx6AaFIvlw2FTfbEQpVoE2dTXaczx=mo",
         "content": "This is so much better than going to an urgent care would highly recommend this.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1046,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOGZyZFvNm9NJTOBCII1KT4WgQaKd1F3dccZ2prX2RkcPfl4qoelxv4kBA0a6NMjG3oC-UbCt_l4ejFZ0xs",
         "userName": "Marielou L Agno",
-        "userImage": "https://play-lh.googleusercontent.com/-DpxU-3Wp3n4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMfjEkhQVY3bGrnFXyPDMfFnYcSg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQHWKXzWmiGgfoVaWpHrVRFyfNlrfXj0UzwXUU=mo",
         "content": "Input reason why I need to talk to a doctor Meds refill and Pharmacy info Attending Dr. stratton was very nice and take care of my refill Rx right away and reply accordingly. Thanks so much.Great service God bless \ud83d\udcab\ud83d\ude4f\u2618\ufe0f\ud83d\udd4a\ufe0f",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1082,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOEDsIAaffMTViiuawkTaI5FsUixodlaGmJb0Y_6hV5fziNFCWuxTfhHQeJKqBgtRvqAzjv04wAYP58N5jc",
         "userName": "Gregory B",
-        "userImage": "https://play-lh.googleusercontent.com/-jLR4T-vrI88/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOkdJMLYy57aLcnLA5qcNqYFOhsQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx4Rsel0B8yAhL7gVmcHfjsWLnRjzBgy1Pwyb3G=mo",
         "content": "Great experience work's just like it should",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1094,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOH_kY8U8-SQO1wv24ynjpM61BdVEWi5yQ_mQYLwo1FOTjzb0QdO0_IsZlepIFzIrRqqmAf67G1mZaF4O2c",
         "userName": "Katie Hunt",
-        "userImage": "https://play-lh.googleusercontent.com/-OobiXQaFlOk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckXBTKYbXNegwSWmO93tsvEvj8aWA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzJWe6CHOXNByvVhcyG0FD_fjzLluVWZTV5ml88=mo",
         "content": "Camera won't connect. This is a huge failure, and the idea had so much promise. There are problems with the camera on my phone connecting every time. I'm very disappointed.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1118,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOGXTUkGzvcqcilyRRI-lZrMkwVw3IuBfJNCOKbtNu-vg0gPmJjc0QL7AVgIRhSgCdNgmF5JBa3qCGd0ySk",
         "userName": "Rowan Gingery",
-        "userImage": "https://play-lh.googleusercontent.com/-UTspPlBqUcw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqjkEuJBNluY5Ao7bK9vjNMWXcvw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzm8oVyHpSLiVh9M5ClK_c3RI41PHFtin-pvLCO=mo",
         "content": "I set up a doctor appointment for my sleep, waited 16 minutes in the waiting room after the set appointment time, only to be told that he's unavailable. I would rate him but so far I'm unable to find his information or even asked why he's declined to see me as a patient today. So far this app has been the worse to appointments, I'm giving it one more chance with a therapist to see if it's any better this round.",
         "score": 4,
         "thumbsUpCount": 2,
@@ -1154,7 +1358,7 @@
     {
         "reviewId": "gp:AOqpTOF3Vs1XwvMqqzCTuWE_w-hcDgZNsdB_j_TX3cfYc7WZDB7SnJUh8jSeQf-uvyrSf9I3XaqUa8Jn8GD4S3A",
         "userName": "Tracy Watton",
-        "userImage": "https://play-lh.googleusercontent.com/-eVbQ7YKflVs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclLTexl9uGEFcQJrtDHwfjmCGbdxQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwE6oI7uMYPNJlPFqaVBb7HvL_4qL39CU3Nahwr=mo",
         "content": "Very easy to use",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1166,7 +1370,7 @@
     {
         "reviewId": "gp:AOqpTOHQJpKwV_uxVbOyMqYTF1a8gU_j6N2zxlnYybB7j5YI3ZMprlVNNKGGd3ex7K3r51mA68hSTkkxwkIdNM8",
         "userName": "Kodi Gimblin",
-        "userImage": "https://play-lh.googleusercontent.com/-UWiFiGMK8AI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCgxKjhD6wq45OgUf-6Og4HQFZzA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx78gdU_xk9PCeYPeSFJIdyK3-zQ7M_Wc6AJtM-=mo",
         "content": "Great services and it is very professional",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1214,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOH9fkTG6XvPa8JZqVM2Uh0jWYsCeah0tcwmokBU2RoVYR5sgQHvdl7hznyRxktsFcv3Ren46Hqa_9GefY4",
         "userName": "Tammy Stains",
-        "userImage": "https://play-lh.googleusercontent.com/-jXJuj0ti0Hk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl62TZcMrq3etweab5DOE1PkQ_qEQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxmOLLGCXs09V1T_tLkN3-hgM8KcxeAAyF5T9Ed=mo",
         "content": "Easy, convenient and readily available healthcare!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1226,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOGEWkhKMYx6h9SIjc3L7LcP7C-NJgFuGxc3-rolG7DkAmExqU9f_thpFrpxoajN6ZVjTdeDl4oQ3ZvnRE8",
         "userName": "Melina Abernathy",
-        "userImage": "https://play-lh.googleusercontent.com/-yX0KGBkWpAY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2DSUN1LOHhCXVFt6TTZBfF7WRMg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyzMA4MnkG7rQEGXkQz-8nC1IrpZPKgK8cBGmNc=mo",
         "content": "Very good doctor I spoke with",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1238,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOHovSRbWyrAn8s70nyUXbMjHPlHwE5JpVJgkMQQMWmJ5fhqnz0TbiT0bipG2q31Im_VyOCSGWmYNNNTOXg",
         "userName": "confidential confidential",
-        "userImage": "https://play-lh.googleusercontent.com/-RpIKniuJiIM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckrTTQ7xBC7TXXdhDEtG7SG-k6g5Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwL0knc-mSZu16ni3KN7DeD_EeOgi6QGAM6OjqV=mo",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1250,7 +1454,7 @@
     {
         "reviewId": "gp:AOqpTOG4ARUpQihJ3iQqeb_MDq_qoeW5zpgYz9YALcJpK0U7j9qSR8raAXXNtj9KRh_voL7lZt5tzTwmIxnom18",
         "userName": "Jerry McKenzie",
-        "userImage": "https://play-lh.googleusercontent.com/-CaaS9rYDqeE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucny2hLFjGMUqvuLjhIAvYVlqId4lA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzJAfDi0BIbfNYnbR-TvoPfQ3R-jkAeWTXS5A2d=mo",
         "content": "Easy to use",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1298,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOE3jFZtHgG9Zg6va0DOyTqSAJurqy699Qr0r5j0c4oddZO4mPfnVbkmKrqtYIJ9NuMcj9XkSIDZ2RLdPWQ",
         "userName": "Colleen Schimmel",
-        "userImage": "https://play-lh.googleusercontent.com/-nEsC6PbaoJY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckR0jpAyOtRepJVHUeU99H0sZPJ2A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxtvPcBE4VnwSoE6ZOPrT4twwYLW1saM8XFvzCN=mo",
         "content": "Overall excellent experience. Dr Antall seemed very knowledgeable and confident and concerned with my issues and made some suggestions on how to get better results. She also made sure I understood her directions on following up with my pcp.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1310,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOE4BbZp1c7PPfhY-sVsXTp8923pI7cUOfOVcOwdsL-xKIlcSncpbE6usgQNtSV6QgUyPRj5aD8IiJmFH3w",
         "userName": "Ashley Mensching",
-        "userImage": "https://play-lh.googleusercontent.com/-Fy24YAN-Bug/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckYhEIq9UPHJzIRAxA7Se6O0jGCkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJygWxun2TNv5bnY2KC7QeKSu4TY59W_0zmwQdDN=mo",
         "content": "My experience with LiveHealth was delightful. I expected the Dr. to grab her RX-pad to quickly write & refill my prescriptions. But, i was pleasantly surprised to find that she actually took the time to ask me several questions about my underlying condition & I feel quite confident that together we were able to come up with a preventative plan that (over time) will improve my overall health. She was helpful & informative. I will definitely be using this app again, when it's time for a refill!",
         "score": 5,
         "thumbsUpCount": 17,
@@ -1322,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOH6m1mRkserwtImn0x61XbLuUG8YaYcn6neny_zWblF84goDYORbmgC8jftN6F82Gu1hPfyhDOVjWXKD7U",
         "userName": "JIMMIE MACKINS",
-        "userImage": "https://play-lh.googleusercontent.com/-LVC_J52NMfw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckyUF5ih-c2XDhfTwmrGYe0_sDmIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7xBZvj8b03_LTviSoVD46dVj-F6iXMv4QzaF2=mo",
         "content": "Great doctor",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1334,7 +1538,7 @@
     {
         "reviewId": "gp:AOqpTOGJajVzKp8PgLon-R_o_1o1JKj0IgrDpqLkDqeWHHYh_le5HPYtSSJLSDZltgViT6XTFuU0NC-CuuHMTG0",
         "userName": "Wes Leigh",
-        "userImage": "https://play-lh.googleusercontent.com/-uaN8N-3Yc9s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnnWvwFz4CsrSAgAjYIk414LcAJjg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHt6uKU5WWP1Nw6QMwVNo17nLnNxIr7UT45l7z=mo",
         "content": "Amazing app service and all saved me risk of covid and took the fears of breaking isolation away",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1358,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOEPnC0vfqY_8rGiNTu4XVKzezY5iSNlRr00UaOCLZ6Njsq-0Ve2HPFjx-bOyarE6awMeIKcFbI0VuSicNE",
         "userName": "Pam Hull",
-        "userImage": "https://play-lh.googleusercontent.com/-99RlY7GUSzE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucluQ_JzG1y9_vXZJrz9dFmtch2n1w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhU2GKZ2G7RgH4mPMo34kcSK5O7aarI2j_GX4q=mo",
         "content": "The sound was a little difficult, but otherwise fine.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1382,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOHlYp4UR87XXeWS1-4UdcxpeaEyIYBRnBXsrqbb4K-sT5aZZvy_AAr512F8htjO0k3Q3Tq19C--HBQD3UY",
         "userName": "Ruben Salazar",
-        "userImage": "https://play-lh.googleusercontent.com/-B1pHBm4l6nQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnI1cIjxhq4eJKN1QH7fWZJlkFyTg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwQ2up3kQ2ExQ1SbkVInIb4V1ku3-NtLydpEHz_=mo",
         "content": "Amazing service",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1406,7 +1610,7 @@
     {
         "reviewId": "gp:AOqpTOEXG1SiyP2Nx9r_qGyEpTKgJ6ulZGBYQ51jBUzqVM74Ir6VZiR1itwFhzsKawpmWDQx-IFLO7BHu8zo7I4",
         "userName": "Thad Raines",
-        "userImage": "https://play-lh.googleusercontent.com/-SyHh5VilDyI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknuLhdCmPps24WjVXCfXzwtWd94g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw5OOiEtmiPp7rcESn52g2Pr0uRqCEmx_0tuOcM=mo",
         "content": "Quick. And informative.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1418,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOHxjBFk0zZhZBbVH-K1GireG2XcgSJwvdghyb2Iebcaq-9LKWbGLtapDfNvA4nHHlq7emPqfLK4FwzRftI",
         "userName": "Mindy Chapa",
-        "userImage": "https://play-lh.googleusercontent.com/-wzrWAZB4GfQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8V4BCbD7YcK5TCvimKH1lPOt20w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhbV-y45_VHW_r6UytDTT8xBa3gsGupzZ2BPXZ=mo",
         "content": "Works great! Had a great experience!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1430,7 +1634,7 @@
     {
         "reviewId": "gp:AOqpTOGbdzgS1a2fP6NdwK7LRdsVvAxr5-nidEJ2irpX2Vy9W8jQVaI6ghSO1Aal3xTDGi2j4mjUqVaH6A17PTc",
         "userName": "Dan Jackson",
-        "userImage": "https://play-lh.googleusercontent.com/-wLtjAwXmDBU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVfb35bc6OR6Iu7LCXDnZ5Bywu_g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwMNH2vPs7l8IQDzY0dvRDG9eJUnzzn5R2qcx9W=mo",
         "content": "So easy, and quick!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1454,7 +1658,7 @@
     {
         "reviewId": "gp:AOqpTOFFOgVw3F-qWq4Dw4c1Ri0F-FIYPO5FqxtKYy-oPWxOMUNspb11TK4fKqvIrV9ifT9RH8wGJgiKZIbvCT8",
         "userName": "Don Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-ZASXAtFL3NY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl4skhC7-uxThi4quHbHd7wf2u5Qg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzjBlrWhrHz3YfGEHpQufrmpjjY6LJo7gVnIMOk=mo",
         "content": "This app is an excellent workaround while we're all social distancing. It makes health more convenient.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1466,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOH-bjom_bcFPKN7ZqtRs_4wBqd44orySrasaWx7XteNoXNSid31W_hD03BTFKXtK3l9yYRtUhEqfTTZxWA",
         "userName": "Joe Brown",
-        "userImage": "https://play-lh.googleusercontent.com/-EknHJASQDGw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkdDPCOmy5CChapshCl6yIoIgFlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw_fgX5eUZUQWDvEEN3WR_0LjPFZQcHMtXDa0W3=mo",
         "content": "Awesome experience!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1490,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOHduvmP7-Gw8Zu_s62s0yfq1yiwp0Ew6wN4OxWseWnHJlq3jBA-jiatTskAAHV1w2eMy5EI-J1kQoVg5XI",
         "userName": "Kris Melder",
-        "userImage": "https://play-lh.googleusercontent.com/-mX7FyGsXuxk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmc-y19sVKQjv5EVHX4Kd-3CDgv6Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwsiMBsFW6NifSzkOMgXUHCyU70llsprlcOE3N3=mo",
         "content": "Love it !!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1514,7 +1718,7 @@
     {
         "reviewId": "gp:AOqpTOGYX4CReh8a1rjTD4aZJlOcaVpZpPPFTbX-30DHTn0F_dyLWuJr-VMLZbsUx0PvJh7KsPvj-ohHvqB7OhM",
         "userName": "Nettie Harris",
-        "userImage": "https://play-lh.googleusercontent.com/-eCrBwpeUi-c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZIO9qvFlXR0ZfHFDjGUG1mFXUnQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrdy_52CAJ2OyLvnLgGYf4kKStqk6a4E4-ROMN=mo",
         "content": "Very helpful",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1526,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOFCyOf3RjAee2R3WDAI6qpIW2xRfXKZpB9g0HFZIhhyR5oaT1qtEgZi61ytAmCxMMU-Cvs2HENBuTYlkuI",
         "userName": "Amber Vaughn",
-        "userImage": "https://play-lh.googleusercontent.com/-SycKVkch8kY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckF97x9jL2VLIPDgpR9_m-dMzEETQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwV20YklG3rFZHUrCAP3UPzaIKRgirW3QfGXaM7=mo",
         "content": "I had a great first experience the Dr was quick and friendly and i feel he actually listened to me and prescribed what i needed",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1538,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOFesZUKkhUfWA3fy--6S7Z2sDsJtofXDobBS2ELYy80s_pvUPEyxdTk7YCPAcvAwBnVQu7AR17uceF2jgQ",
         "userName": "Russell Lineberg",
-        "userImage": "https://play-lh.googleusercontent.com/-NHhNuZl4rGs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmv8Wt8RVaIlZEeQtDwKXBUdJuiAw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0_n46cWcpfIolW3Ixj9bRrJj3rWeWCguOZNrx=mo",
         "content": "Never works",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1550,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOHmxlcs5pLNWBx6qPYU1kMBl69omabXoiENxmB16APrEtyE-hQicQD0E0kdPFFxpvSI9YF3o4utOlY0x0w",
         "userName": "Benjamin Horsley",
-        "userImage": "https://play-lh.googleusercontent.com/-EQcJxbcZJpA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjLvTskJq8VlqxqUKc-ZBmXnCFJw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7w0XIW_7fibNvPZ3fRVliZlti0NjiFA7Wv41w=mo",
         "content": "Good doctor, hard to hear at times but overall great experience in short matter of time.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1586,7 +1790,7 @@
     {
         "reviewId": "gp:AOqpTOG9oGkLjIzMOp5ijBs4ekrJUvcBbugq1lH2gF7SQmBsEPAxj4IQd8lEgwZZ82vze9UoXgW7dAVA5J8G24I",
         "userName": "M V",
-        "userImage": "https://play-lh.googleusercontent.com/-WucGHThr6Fw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckLmN7X4-927obFwxkQaaCKugnneg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyc7zEbZuPDpNyd7bDm6LqzYSOyi1w3AgKwEgMI=mo",
         "content": "Doctor told me to drink more water. Regular doctor told me to go to the ER. This app is a scam and dangerous.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1598,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOF-C470Uu0di8Zmr0LZEIZM1WNEZdRY_8YNcH-VhYhQm86Aycpgzt6qSffhJ0rTq51B2McNaLVToZ064xM",
         "userName": "Tracy Moore",
-        "userImage": "https://play-lh.googleusercontent.com/-BKdnBtJF36E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWLoA-mA5qRHfWKmXJINAlW2BJvg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzUIGJs1J6yGjrUYHd26An_qPw6pFMpctvIkrPA=mo",
         "content": "Dr. Michael Gray was such a great doctor",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1622,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOESTKzLq8mFily5x5fPBVC1JUN8bAsMVlw6M-pDooq7PIj8McwXRdxrHRVFgeWXoYiTkwQvPpIkRQS_UVA",
         "userName": "P. S.209",
-        "userImage": "https://play-lh.googleusercontent.com/-ZdTjJOTJlI4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlXZiANSNVDYd5KwWfW3iVJA43Ug/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMLa5CQILhRWsTvtRu5C1KrutSfXS6WeofVcCN=mo",
         "content": "Great and fast service",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1646,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOFcY7lXuCuq1jMLC4pCFCu05Q5ws1EvJy2LZLwAbUGxKZuaY_DohLt4bII2ibZHRPp2ygP6vP9vStYVzfs",
         "userName": "Michael Bowman",
-        "userImage": "https://play-lh.googleusercontent.com/-NHzrATwMOis/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclPl2LpOByHQOPABwovDk2qaNPC3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZefmwNjOSNqBJaFFmYm7CY8CM6a5uDKlugGHP=mo",
         "content": "I had an excellent experience today. I would recommend them to my friends and family.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1658,7 +1862,7 @@
     {
         "reviewId": "gp:AOqpTOFEHUp-AsXIUziGxYqgQTxC92LQqSGYSiBT-vs_bfizMQmfPaTB1rj45zXGx6HurYVA2Epb8Ue1cIUs6sY",
         "userName": "Tiffany Bargas",
-        "userImage": "https://play-lh.googleusercontent.com/-fszDx4J4h8k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPp-N51qwSXdGJB5__fwdO59pbTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXZj0cNpLzEM0lyNhcfghaOWVHx9zP6A_6Z3zx=mo",
         "content": "This app has made it very easy for me to see a doctor when I am too sick to leave the house. The app is pretty easy for me to use, easier than sitting in urgent care. I Haven't had any trouble with it so far. I like that I can choose between a number of good doctors and that they can see me quick from my couch. The fact that I can see a doctor outside of normal business hours is great too. Very convenient.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1682,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOHLls8QIZLVwFm3A5bJHbVv1NX7rlm9CeGKu3ixQuiB3sx6XXSgpmvyn-4om-S8fOM7GSntnd9LkxbJtWQ",
         "userName": "Rachael Rosen -Cazad",
-        "userImage": "https://play-lh.googleusercontent.com/-f6qgGuIJKd0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-xm0Tywobil0_DcD0i8aep43cxw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkugREOVjGZBz74tED87dD_Pfim8qoftgCypIj=mo",
         "content": "Love online health, they are very convenient when I cannot get into my doctor. Dr . Ronald Stratton is the best.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1706,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOECr1PkEobdzBkN1ptIzMNhMEZUdpmwOJZ_Er4l2DNuboghZr2TqQdZJz2NE0A9vUz3TJpCHPdxz7jNto0",
         "userName": "Brian Lusk",
-        "userImage": "https://play-lh.googleusercontent.com/-Ky4HU2NzwuE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoTswkB18riCL_2PKEGEhQxmADYQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxWjWf1ZRmGGhCAkxH4AnQ4jUFu2t1GKgFtf8oD=mo",
         "content": "This is a scam. They took my payment then sat on a waiting screen for 30 minutes and no dr ever came to the appt. The number listed is not working either. This is a total scam and should be illegal.",
         "score": 1,
         "thumbsUpCount": 6,
@@ -1718,7 +1922,7 @@
     {
         "reviewId": "gp:AOqpTOH8-VmGhx3ANBJw_HZMGlw2SdFZDNMiFpEO0tSDSA-Ct7sUt_9g3KRnbdZ2CnTz9tSk9_HCLMauC64YNJo",
         "userName": "August Otte",
-        "userImage": "https://play-lh.googleusercontent.com/-mujjggE_Qd4/AAAAAAAAAAI/AAAAAAAAAF0/AMZuucm9Z1uPBkZeOCp2q-wUT3rI9Mzq0w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXyt9cFkSpug1zuKLYQvkNQR5JCA7v_yzAlzxU=mo",
         "content": "Great experience. Easy to use app. The doctor was prompt and thorough.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -1730,7 +1934,7 @@
     {
         "reviewId": "gp:AOqpTOGiVkQvTcKG9cx0qYKXLEtsPCJRkG9VEdlSzCLcQ4Wft4mnHcKw-hmlMs5VH_bnj4HRuu9Uetr2K8prpfY",
         "userName": "michele strom",
-        "userImage": "https://play-lh.googleusercontent.com/-2r0mNeYKNkU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckeGkaJIQPCVCyDprPK0W7QOzOKkw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9GLxDXY_svv_vN7Fcju_fyvJhiq7BZqHjo6Zd=mo",
         "content": "In theory it seems good I'm having a difficult time finding any doctors. Very little appointment??",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1742,7 +1946,7 @@
     {
         "reviewId": "gp:AOqpTOHIKi8h42NXWS4UrV3fT9fbcA97mnOuoSlJkkalFv5xmZO25UuadTTCm8dP2mqSTffClelKeLL4FakEvCA",
         "userName": "Danny Madison Jr",
-        "userImage": "https://play-lh.googleusercontent.com/-3zKy1xe6DME/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJG5KW1y11msW_RuM_cliQmglltw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwKKCNcnRnxQlVJFsHmBDARigXRDFL_Et_Wq80o=mo",
         "content": "Very Helpful During This Pandemic!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1778,7 +1982,7 @@
     {
         "reviewId": "gp:AOqpTOE4RokF62iFBwApdN31_x8sM0SYKt-VrmUlzUnJq87nM9J38npri1f3MiYoyI8CXKl2BdCPiuFWZh6cLjw",
         "userName": "Gwen Kesinger",
-        "userImage": "https://play-lh.googleusercontent.com/-xfCU2CMYCuU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0zTVRZm_ZdKtE57qqludTxToKWA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx1kk_wBOwCz89WkWjvN_P0wpllAI4NICnC9hII=mo",
         "content": "LiveHealth Online was super easy to use. Choose your provider answer a few questions and visit your chosen provider all from the comfort of your home. Very convenient will definitely use this app again.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1790,7 +1994,7 @@
     {
         "reviewId": "gp:AOqpTOH823_YGXk4q4drP9yR29cWA0QbPaH2wgN9L03lsSzL-lQ04y6t43KNqTOH928O78nEA-K89XkzQAI5M4Y",
         "userName": "CH Derrick",
-        "userImage": "https://play-lh.googleusercontent.com/-_6tMBAq2GqE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzdOhOv21FhaH3FWVklOpZP5tY7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyNMGaelXZxYCe__go_BMln2pbjDqYXYfLPrZnC=mo",
         "content": "No long waiting time- nice when you feel awful !!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1802,7 +2006,7 @@
     {
         "reviewId": "gp:AOqpTOEGcRHcNN7BT-jDof4dMItCveXegzFiTXCLsu3lO47wCjNwAzOnYJ6LxIeNaqT6XENx-nNUCQH2E5kCUno",
         "userName": "Dorah",
-        "userImage": "https://play-lh.googleusercontent.com/-EHcKMPIjPGA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckZbIzsC3mxkZZzrCsh1B-9Qw7qAQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHdXRzacVyROprxolOmyAnkXTHENjLu8-3ngtV=mo",
         "content": "Easy to use. Wish there was a place where I could keep notes for myself on whatever was discussed",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1814,7 +2018,7 @@
     {
         "reviewId": "gp:AOqpTOHZjnAXnqUBEkbbkXUO_QoU4hBvwlfpwaNTiGbRFUJITxnAmrsaRONoWXAC5ud0haS-B2YDIS6JQu-PFmQ",
         "userName": "Mildred Daulton",
-        "userImage": "https://play-lh.googleusercontent.com/-XPxRoFz5Qj4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3Zm5Hc8nB7ZfF8N4YGQP1KStEfA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwwP4EpTJbeVhLZ1grZvzNmsrBurGlEdSR_wACd=mo",
         "content": "Haven't used much yet. Can't see the option for answers down below.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1826,7 +2030,7 @@
     {
         "reviewId": "gp:AOqpTOE7MKJkox6VUw5l8UvdYh7lITajclCabuWwrlsmAVTFDN7s9lq5eiXHFcF1P7L1SxDeYxbjqCTRToUIcBA",
         "userName": "Tina Stephens",
-        "userImage": "https://play-lh.googleusercontent.com/-OM9borT7oBg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclGOPEVKIXCYC3u0M6xsOkMMk1ciw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxvuTnEymCNt141YsdDI_io8Q3G8eD8vNM51K2R=mo",
         "content": "My only concern is I can not figure how to raise the volume to hear the physician. Other than that I highly recommend this app. The doctors are always pleasant and they listen so they can diagnose. I am grateful to use this option even in the wee hours of the morning.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1862,7 +2066,7 @@
     {
         "reviewId": "gp:AOqpTOEbSTiLZK2q-P0x9pMgVFEnQOVzKQ6ZYFBE5fSBy0QvuHjKGQ90-nbwmttKyJOI6alnAB3N29xYk2NEUwY",
         "userName": "Lynnsie Sanford",
-        "userImage": "https://play-lh.googleusercontent.com/-EHW5dXptGE8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJsvwrmGGWqTzm5O7DpKzoY1Il3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_TXIv0zzTMkgX58NhOMwmCav5R3YC2vhUE0Og=mo",
         "content": "Great app very helpful",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1874,7 +2078,7 @@
     {
         "reviewId": "gp:AOqpTOGWA_MDqN5yAhhPMesWMLCi7UJi62SdpwajopcmTFG8FEmrQ9mLix4eLfGoGgauNh5at4KCALBeLTMpd-U",
         "userName": "Janelle Bolin",
-        "userImage": "https://play-lh.googleusercontent.com/-GNHx1jvA_ss/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngbo4Z9PONJ5wcKP7zMBno0zhXYQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZEnTr0_xw-R9A2z-Qzxkpz9PM2X2kIBQSg1w=mo",
         "content": "So easy",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1910,7 +2114,7 @@
     {
         "reviewId": "gp:AOqpTOG3A6JhbGCg6lyET7jqGDhlqoc8JnwEpZmdl5QEnBVeh6DouFDK4w0UT71sHKaJBhAx5h9V_0doXv4VZq4",
         "userName": "John Miele",
-        "userImage": "https://play-lh.googleusercontent.com/-rn7F1zXvBOo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckOdmMNEvzEXD1ChKnXom4cZq25zQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyRWS-JB6QlaD894_W7cn6TZnEY5YuBfvQMXbXW=mo",
         "content": "Bad",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1970,7 +2174,7 @@
     {
         "reviewId": "gp:AOqpTOHGOaL-A9QdaPosSvfOKHrJ3MdX3I8WUTSdraMEtdyuraplwCOQ523sgXkTQsgrlpliGv840yXpUNiwBPs",
         "userName": "Jessica Walker",
-        "userImage": "https://play-lh.googleusercontent.com/-HEhVW8b6ckY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucml5VuIQ7S0f5kix1Y6frIjdnzimg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzNT2ISYVoLgfY4pSsjoo0CknmGnJMX5E50pa-3=mo",
         "content": "Horrible will never use again",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2030,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOEXC9BfmIa1foXb3F0bKL9psOXKuwFkAIMJ2LZTGyaf-VsRTTugsGny5cWlifrh7YdP620v5EQRKnb6MbA",
         "userName": "Anas Hilow",
-        "userImage": "https://play-lh.googleusercontent.com/-H4SmHlPEBFQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltiKS6LXD8Z0FTplxyaGRifgFTTg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwsArrOv7WxIzAw74YWdhA9rdedKxXhN9AshWs8=mo",
         "content": "User friendly, straight forward",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2042,7 +2246,7 @@
     {
         "reviewId": "gp:AOqpTOH3zqIVAak4yyPHpMQthC0CiVMXSHyQNgUqQa5fPc-lASEA2lr6g0hPbTKAQYoPzs0r2vCHlUl1IvMua-g",
         "userName": "Carolyn",
-        "userImage": "https://play-lh.googleusercontent.com/-TbssArqI9T8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvopTlgP516dehmVGRUvlgRvxzgw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzNPoYGIb8UMJ_xCbKmUEo1IOkd3SDtQkM1fb2L=mo",
         "content": "Great care... at 6am! \ud83d\ude03",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2066,7 +2270,7 @@
     {
         "reviewId": "gp:AOqpTOGvqeTTNmZeS61s5NDs-vg9sHVjKpNtEQvmXB001JDCcNZg0PFEqOykHB3UAHD6Cfmpp0KWD8obHOkGJyw",
         "userName": "Jamie Javorsky",
-        "userImage": "https://play-lh.googleusercontent.com/-GOdPqRaLqrI/AAAAAAAAAAI/AAAAAAAAU-M/AMZuucmQUcuAp9eaT3jJQlilZYyLNUwlmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxxw3z6umcUxXt0VUBMETt-dI5q55DtHaJ7FOjqtY8=mo",
         "content": "Extremely helpful when you don't feel well enough to leave the house to see a doctor.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2078,7 +2282,7 @@
     {
         "reviewId": "gp:AOqpTOFVtCrwTsXmc2uCXBYchFALvluD2DIE3pIGsRj-y7ySi_uJTJqH393k2z5cC0fDZ25UX-Mnt412ebqf7tA",
         "userName": "Carrie VanDruff",
-        "userImage": "https://play-lh.googleusercontent.com/-eoHwtRWWQ3s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtR6Bsnj-QNDdhEX9N8jsXl86MPA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-GDt5CwAF1CXTrpjjIxMJ4Oo_MmjERFCmos4=mo",
         "content": "Dr Starlet Kerner was GREAT!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2114,7 +2318,7 @@
     {
         "reviewId": "gp:AOqpTOH6FBRVDZfzZfWrHKvPmbc6NzXIYH8GPRvxrrNMXGnaj5X7wfsIKqMEmPV-SZ5_q6plwXU7zLyHJ_h6Fx4",
         "userName": "Joseph Doornek",
-        "userImage": "https://play-lh.googleusercontent.com/-01lP05LVmXg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmN9iNf_pAjGteYMTZYyL3nPhDFnQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzIYBHErbfAPpz9ehmJg0JEveSNe2JrwGs4boux=mo",
         "content": "Dosent load",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2138,7 +2342,7 @@
     {
         "reviewId": "gp:AOqpTOHEK1maTA9VYLKX9cKd5k7rfG4OMwkdnirbDtqOipruyPgF7q2ssRT5EMiDxxuNPdp_IYZvkCXRXBI1NfM",
         "userName": "Mike Wainwright",
-        "userImage": "https://play-lh.googleusercontent.com/-8-gffCYPOYw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclSpnKiTt60GMsY2vUEPH9xv3RANw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQlp5CJTBNlkMnhZiMR3rmLGKiYputB1xFjv3b=mo",
         "content": "Very easy to get care.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2150,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOENwW4ul2m6_txlw73g9FyY5AOeyVIQiah7sZlamS1RrdH2PpQGkARCrBryW_6sgF6bym8SfAk3MLT8ZRs",
         "userName": "katy sherby",
-        "userImage": "https://play-lh.googleusercontent.com/-H00y9YVHDPU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSv1pgM39Nvulv8QMPBMJ6BQuEJg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_GhCEDrHgLthiHaJ_otdQJKvsZEQDyb9uc42j=mo",
         "content": "Dr Hendricks was great!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2465,7 +2669,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBtWg-TwIX7OMWvEcoUOF5hvldg-8tLtb1wNvvLg",
         "content": "Very easy to use and had better scenery at my house \ud83d\ude42.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2020-12-26 15:25:15",
         "replyContent": null,
@@ -4550,7 +4754,7 @@
     {
         "reviewId": "gp:AOqpTOECjss7okEFPu4CFzgq8cqr-k08MgXKRDQy7JOi33bU1ysNVWfmQKUiZ-7GIeoTRrjOy-12_kA0FoQsqE4",
         "userName": "Davida Aubrey Sackman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPN-_BxcOqbZm_RIrd_0NQOtH_JKEYCf_rIL_1oA8",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GioUTQZz8BhdiCM6UQmzn9Az7ihGxbey-BuKWvUG_w",
         "content": "After I shared what prescriptions I needed Reperscribed w/ pictures to prove it (documention given to me not too long ago), along with my amerigroup number. Also after speaking w/ 2 representatives, So I could make sure I did everything they needed to have a smooth visit, The doctor hung up on me after he said he wasn't there to prescribe medications(I told him I already had a therapist appt. on the 16th) I asked if he truly was a doctor while patiently for him to answer.He hung up.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4981,7 +5185,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFpt37Q9FESyF3NVfo0eF9dPbv8lMg9O-9VWGHdrcCVugX_E7y7MFd_ZPzG36cAaMNeNu4F-_3A6moGh7U",
-        "userName": "Elizabeth Vicente",
+        "userName": "Elizabeth Cullen",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-nasAEMQjwn58SD65KE1fkfMbFJfXljgtMGrZPQ",
         "content": "This is a great way to get basic care and get my depression taken care of. Also, if you have anthem insurance everything is free due to covid. So there is 0 copay for everything \u2764",
         "score": 5,
@@ -6398,7 +6602,7 @@
     {
         "reviewId": "gp:AOqpTOGFV33rJEkq83jmaRyqnK4dBLQiiz2kFe7w_ogJ-TKozAm_zbxGQsCA3aFCBWqYe5uLMw1nqsm9KS6KMKY",
         "userName": "Vintage Beauty",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYhwONN-Fo3nO7qwKSM-IlFvxzw1_dyk2vW_f69A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZR6Kp3TgEED8jd4jzDnTA_w09QrqAkRGjH47S9g",
         "content": "In these uncertain times we find ourselves in under the pandemic and being confined to our homes this app has been a blessing to use for video consultation with medical staff&having prescriptions filled.Ive used it for the past 3 months and had no issues at all. I'm very pleased with this application & Kudos to the content creators \ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 8,
@@ -10370,7 +10574,7 @@
     {
         "reviewId": "gp:AOqpTOGOaNO3jcj0SZfwBXyRmK01Ij5CD9OdmwPu0mLIEEAs5v785xgYr9Z0NMLJHV4kCofcVesV86qpEZcy9bo",
         "userName": "Amber Walker",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhEExVDZdIXBPUL3Oc4_Wqmi4w-PWnnPxMVLNyEfg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghecf6y3MN9uQ2mXQ4ycIPF1htxBLpWacfdhZBHlQ",
         "content": "This is a very good app to have especially if you have the insurance to cover it!! Was super easy to use and the doctor was beyond helpful and very nice! Definitely would recommend to anyone who doesn't want to wait in a nasty waiting room.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -10382,7 +10586,7 @@
     {
         "reviewId": "gp:AOqpTOEVtBDboV8fCFOorTDFY1GqurTlKLp3RI76wCASR_raLjJE3pq8lvCnwVooa7_e46BxsqojgZgWxBAiAAI",
         "userName": "Michelle G.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5xffQzUWvwufklkjVQhSsRYcZkxhgRnlh4P8YGe0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXbLFJYJBRzhOxPzTRAq-rQbqGM06fPL19VKfXg3U",
         "content": "Very thorough. Liked that I can use this site without leaving my home",
         "score": 5,
         "thumbsUpCount": 1,
@@ -11792,210 +11996,6 @@
         "thumbsUpCount": 13,
         "reviewCreatedVersion": "12.0.4.000_00",
         "at": "2019-12-18 02:02:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG58NFr6NWmkXWH3KjxYQv42vfJX3FDN1bA7uXiRdZKjjicC_-Or_-sFWerUy3tqWFXSHX3ZDE-tZ-c_wY",
-        "userName": "Ian Kopp",
-        "userImage": "https://play-lh.googleusercontent.com/-kwLFzUye9-M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucninroTCHvMUgEC2raCpWzwYG5lIA/photo.jpg",
-        "content": "Very professional \ud83d\udc4d\ud83d\udc4d",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-17 18:15:42",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHH5I7Nx-zgKfPxChWD8i9HBCs_lidiBfgkw9mEirp8O8cogWtIDqr8zz_sKbCw2siN23esIdRisNQD98M",
-        "userName": "Chris Stoerzer",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNymeGMeVeY2221FqLYqyKsCB7zJO05tuoYEeF6qQ",
-        "content": "Didn't do anything",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-17 15:57:12",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGKS_yLb9Bq2tcf4BLDtKo0ABguka_bTplNB1ljm6mMJgJSQULwQYFdIkpTGl3tTbuO8hPdER0GlWwlIeU",
-        "userName": "Melissa Phoenix",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-BoyvpLO2HU8sKSMQZLh8BXP1M2G8uqkfioO6XpA",
-        "content": "Long wait but quite quick once dr was available",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-17 15:04:44",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGrRRrXfe9dDlQTu0OBlurUXqYGcMciNNXnrMJvPOpcvI2PbP9dbe-irJJhu4a8AisFsCHibhoEAA123rE",
-        "userName": "Sarah Kattau",
-        "userImage": "https://play-lh.googleusercontent.com/-BMT_p04Izvc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklRxiz5bwZQ1UVPQbgLHGUq44qAw/photo.jpg",
-        "content": "For my issue, the website clearly says I need to make an appointment, but can then see a doc in \"14 days or less.\" I signed up... and the first available appointment isn't for three weeks. I hoped I'd get lucky and get something sooner than 14 days, but I didn't expect that time frame would be a blatant lie!",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-17 02:01:49",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEdTZeK6BQ3KbsqMEssj8PveKsRAvP_SxoDWlVYE-k3lE9KQH4PFAzIpTHvPW92gHtAVYkJoWzq7MUtjFA",
-        "userName": "LSH speedy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhTsecJv0OCzp9RRTkV8IgI1UmAMfqmXahRtdKIltI",
-        "content": "\ud83d\udc4d",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-16 16:55:31",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEq9ewKQGQ9F9YTcZAywqceOpICUzLHy2B0Na3uoEJ3cq4_TzUMO5YqkB0N8zQ9ZwAFvMUVIErm9gydzx0",
-        "userName": "E Davis",
-        "userImage": "https://play-lh.googleusercontent.com/-qnZnIB7DZPo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckb9KAsuF5zz5fdzB8H1I4uGr1sMQ/photo.jpg",
-        "content": "Getting my life in order has never been soo easy... Thanks to my counselor, her time availability and this App for making it happen!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-16 15:59:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFGEptv2vWyfsxz9TWtjFLUesvO7hx3lYuNtLp7qNpX1XXuokgnO7aA9pDKPX3KADf1Fjsr__TcGcA3KrY",
-        "userName": "GDavid Baker",
-        "userImage": "https://play-lh.googleusercontent.com/-8-tin4zYflU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnoaWT5D5Rd4_PYFaae16EiA_jKJQ/photo.jpg",
-        "content": "Great, quick, easy, accurate",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-16 14:26:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHNUNuPEaUhSnGC25zJkFcdodwjMDKg_CMWDrSzcJjw4uqkxW9Rs9h76EJexRm8eRY-ZCPqh2SOW0sNl1k",
-        "userName": "Celeste Jackson",
-        "userImage": "https://play-lh.googleusercontent.com/-qa4RG6-DbrQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbVmnUqklJ5ljyMc8uvfOM9Syu2A/photo.jpg",
-        "content": "I love this app it is incredibly convenient.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-16 12:31:48",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHTrXtdJp7mMPX8DjocxrVtQ-0t5iZAVsy1MdmrLyLAQ0gTmA9DSha4Yvy71DiMgbzdsGQGcBBt4Tey0cU",
-        "userName": "oralia ramirez",
-        "userImage": "https://play-lh.googleusercontent.com/-9OD3K0FZZYQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhtOYjDRN9ObZ4UUSfdk4uytThQw/photo.jpg",
-        "content": "Muy buena",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-16 01:05:04",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHk3qtUCqMyUkWFN54NN1NEAbVT4zDjaJjLi9rrw7adBNv__wZ5VmxSPcZbFksNkDdL1v3y65iUEmSGH4U",
-        "userName": "Kelli Conner",
-        "userImage": "https://play-lh.googleusercontent.com/-mbFhWnfX1J4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNsdjNM2XeSmDK7HWs0XKD1wx3Bw/photo.jpg",
-        "content": "Much better than urgent care",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-15 20:31:48",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE5iIgyugnC2NEiCdMF21I_ed1PBT9_PRAiuA-lnqBl-NY9C5KLlKe1NnB2hm0FWxIq9uywIfTbDovtt04",
-        "userName": "Lisa Ratcliff",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GipszRnYprgxYlKahUf81ksgG_a5yB0R4vKyur1joQ",
-        "content": "Quick ,easy and very helpful",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-15 19:16:29",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEZcv7v2WkoKYMUqAKZbq5b1ducwu9ukFbzc2BX7RlvlRHsYtrx6plyWJtSsT6_ovcUfdkND82vG2czZuw",
-        "userName": "Christy Dover",
-        "userImage": "https://play-lh.googleusercontent.com/-bz_gCUmLp4w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclsJyxpKuRoAk6ASMWMqlcwIocQ7A/photo.jpg",
-        "content": "Great! Easy to use!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-15 17:09:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGaj0CEW7ZPnb2S3vfIR1I7okqVgcRKQmfgR-qsX8ySY7cirHfW1dqKa_-imdRWDi0Q8NIFW5U4yRziyxc",
-        "userName": "Jessie Crawford",
-        "userImage": "https://play-lh.googleusercontent.com/-Eq4HjZNv7CA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJSYti9EQkyr7fAKoG_nHpyQs4rQ/photo.jpg",
-        "content": "This was quick and easy. The Dr. Was very friendly and helpful.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-15 16:44:09",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE2aCMx9AJlyRU5HQVq0CfuMldhwTEPTpJyHoVtOs-oOgNhPAeBuvlKTckCbAdHlsdPHBY_ZTmjmYOchxs",
-        "userName": "Michelle Lagoy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhL4j0r5KwCgwCIbTAsdAWBTXENlkgpQ7ujXNwy",
-        "content": "Super easy to use , the doctors are super friendly too",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-14 20:40:29",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFmiwTVVESw8n6JudlKRcUuEQ1sShklrjHMq8uBbGqq2ZVUU27xnVFewvBOVIuAT-k9BphHAyu1nTyHjkQ",
-        "userName": "Rob Hines",
-        "userImage": "https://play-lh.googleusercontent.com/-hqDolr8rhK8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZF-oSf4rRb7h7YZCDT4OXa70zkw/photo.jpg",
-        "content": "Works as advertised. A huge time and cost saver.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-14 19:00:20",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH7nnr5Rti5wf-zDu2SMyDfI5osOOI28ljDhBwHaFLr5G2Aw6gfEdd9ngjgiIe45JKgKgrbFiTkJdoEuF4",
-        "userName": "Danielle Gelios",
-        "userImage": "https://play-lh.googleusercontent.com/-EhgPzA9NinI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNhSBcBr1BH3L7Kq-aDrpOmMI7-g/photo.jpg",
-        "content": "I just hung up with a Dr. Named Autherine and let me tell you,I have never been treated so polite and respectful and been listened to. she had no problems understanding and taking care of the issue and was very warm and compassionate,which is rare if ever found nowadays.if I could use this app for all our visits I would!! My kids too! And the price was affordable even without insurance!!! Def recommend this app \ud83d\udc4c\ud83d\udc4d\ud83d\udc4d",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-14 16:33:09",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHjRdFgESAvPUiXtDxQ_2Lqu6O_ExiigopyplBSrWTv4M2sr5OnpBF5PnHWpFgy7xGrx3u3_Vz2vknLd4o",
-        "userName": "Trisha Waldrop",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhDgrI5dVGNVlwhcBWKz4mfLNW21EOqtUBbpvZLZw",
-        "content": "Quick and convenient.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.4.000_00",
-        "at": "2019-12-14 15:59:11",
         "replyContent": null,
         "repliedAt": null
     }

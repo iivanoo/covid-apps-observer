@@ -226,6 +226,10 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
 
+> Works great if it loads, has only loaded in under 5 minutes once.<br> :date: __2021-04-25 08:06:24__
+
+> Use this to app on a recent visit to Canberra, don't know why but it had a weird effect on my wifi calls and volume control on my Samsung S21. Since I removed the app it all worked well again.<br> :date: __2021-04-23 14:27:57__
+
 > The app broke after install so checkin never worked either by QR or manually. I had to reinstall it<br> :date: __2021-04-05 06:14:32__
 
 > This assumes that the user has endless data. When that is not so, it fails; it should "STORE" logins until [free] wifi is next available. When the QR is not recognised, and that's regularly, it nags for a number, which I also call a fail.<br> :date: __2021-03-28 08:14:09__
@@ -242,10 +246,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Asked me for my credit card why?. Why is not the new south Wales app ok to use.<br> :date: __2021-02-24 04:22:07__
 
-> Slow to load, my history has no check ins, so does it even work? Isn't it supposed to keep a record of where I have checked in?<br> :date: __2021-02-23 02:03:11__
-
-> ACT Health, why do you check in but not check out, like the NSW app? If something does happen you have no idea if a person spent 10 mins or 2 hrs at a place. To stop people forgetting to log out, how bout a popup asking if you are still there 2-3 hrs after checking in if not already logged out?<br> :date: __2021-02-11 22:05:59__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,10 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
+
+> Am doing this against my will i am being forced to download it if i want to do anything now<br> :date: __2021-04-24 13:21:03__
+
+> Could not download app<br> :date: __2021-04-24 04:44:17__
 
 > scam, stealing data do not install<br> :date: __2021-04-18 04:24:56__
 
@@ -269,9 +273,5 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Doing an upgrade that invalidates all users WITHOUT REPEAT WITHOUT telling anyone is arrogant stupidity from the ACT government. It also shows the contempt that the ACT government has for its citizens. Bringing in $1000 fines right after changing the system is nothing but a money grabbing exercise.<br> :date: __2021-03-05 09:26:15__
 
 > Cant even install<br> :date: __2021-03-05 06:31:58__
-
-> Last update has made app unusable. Please fix it asap.<br> :date: __2021-03-04 09:11:45__
-
-> Unable to install this app-no matter what I try.<br> :date: __2021-03-03 23:07:17__
 
 

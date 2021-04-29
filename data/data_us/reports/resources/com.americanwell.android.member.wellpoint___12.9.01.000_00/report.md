@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> Jd<br> :date: __2021-04-18 03:22:08__
+> Easy to use<br> :date: __2021-04-28 18:37:03__
 
-> Fast and convenient<br> :date: __2021-04-18 02:12:15__
+> This has made it so much easier to have a Doctors visit when it's nearly impossible to get to a physical doctor.<br> :date: __2021-04-28 04:47:06__
 
-> Great Therapist!! Love this service<br> :date: __2021-04-17 16:01:09__
+> This app works great for me. Never any issues.<br> :date: __2021-04-27 21:45:38__
 
-> I was greatful the doctor was able to help me in such a fast time period.<br> :date: __2021-04-16 16:10:01__
+> Great fit for me.<br> :date: __2021-04-27 18:39:11__
 
-> Very Quick Responsive help that was very much needed without having to wait a month in a half for my doctor appointment<br> :date: __2021-04-16 02:15:46__
+> Love the app. Never seen a doctor that I didn't like. Very caring doctors. Makes it super easy for me to see a doctor while I'm working.<br> :date: __2021-04-27 15:43:24__
 
-> I've used this app a couple of times and it's been easy and a great experience. The doctors are thorough and knowledgeable.<br> :date: __2021-04-15 02:20:58__
+> Quick and easy to use<br> :date: __2021-04-26 18:20:49__
 
-> Love this app. It's a must have during this crazy covid mess.<br> :date: __2021-04-15 01:53:20__
+> Woke up with back pain and stiffness. Spoke with a doctor whom perscribed ibuprophen and muscle relaxer. The process was fast and really easy to set up. Because of my pain it would have been hell to drive to urgent care and sit there for hours. This was a lifesaver. Worked with BCBS Anthem<br> :date: __2021-04-25 13:51:00__
 
-> Seamless. Smooth excellent picture quality<br> :date: __2021-04-14 18:51:23__
+> Reassuring, thorough<br> :date: __2021-04-24 20:09:00__
 
-> Easy to install, easy to access. Saved time, rather than I face office visit.<br> :date: __2021-04-14 16:41:00__
+> I love how easy it is to meet with my doctor's with such a flexible schedule. It even helps to do my therapy sessions in the comfort of my own bedroom!<br> :date: __2021-04-23 18:58:18__
 
-> Quick and to the point. I waited 3-5 minutes at the most to be seen. Diagnosis and prescription given right away. Visit was over within 5 minutes.<br> :date: __2021-04-14 12:18:10__
+> I just used this app for the first time. I love it! I was able to be seen by a doctor from the comfort of my own home. I didnt waste 4 hours sitting in an urgent care facility to be seen. I will definitely use in the future. Since 1st time using app I have used it to have my kids seen. The whole family loves it.<br> :date: __2021-04-23 03:34:31__
 
 
 
@@ -298,6 +298,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Don't waste your money, I paid $59 and they can't even prescribe medicine that you actually need. Go to a real doctor!<br> :date: __2021-04-24 22:05:37__
+
+> keeps crashing!<br> :date: __2021-04-23 05:07:19__
+
 > Big scam I have a sinus infection I know what allergies feels like this is not allergies doctor didn't listen to a thing I said told them I have tried nasal sprays, sudafed, and one of the meds I had listed was zytec and ill be damned if the idiot didn't turn around and tell me to use afrin nasal spray and zytec all I needed was antibiotics I have had this for 4 or 5 days and it is getting worse dont waste your money on this big scam all they want is for you to come back in a week<br> :date: __2021-04-10 19:37:11__
 
 > 30 minutes and waiting for a doctor .. so no, this app is in no way even a tiny bit of replacement for a good old call to a hospital. If you have a cold, a sneeze or anything insignificant to get checked, something that you didn't get checked wouldn't make a difference.. rely on this app.. anything more than that and you're rolling a dice and taking your chances.<br> :date: __2021-04-10 08:38:40__
@@ -313,9 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Charged multiple times Dr kept cancelling on me Put me on meds without refills and suffered withdrawals and was never contacted by Dr again she ignored my emails<br> :date: __2021-03-13 13:36:51__
 
 > Complete waste of my money, they charged me for them to tell me to go see my primary care doctor!<br> :date: __2021-03-07 18:54:55__
-
-> It says 24/7 help. There are no doctors available. 24/6?<br> :date: __2021-02-27 16:38:45__
-
-> Camera won't connect. This is a huge failure, and the idea had so much promise. There are problems with the camera on my phone connecting every time. I'm very disappointed.<br> :date: __2021-02-25 14:59:53__
 
 

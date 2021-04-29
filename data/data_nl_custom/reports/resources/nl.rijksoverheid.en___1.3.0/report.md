@@ -142,25 +142,25 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
 </p>
 
-> Doet wat het moet doen.<br> :date: __2021-04-16 16:30:01__
+> Helaas heeft Google de privacy niet op orde: "Google werkt aan een oplossing voor een privacyprobleem in de CoronaMelder-app. De fout zit in het onderliggende systeem en niet in de app zelf." Theoretisch misschien geen groot risico. Toch voorlopig de app verwijderd. Afwachten of Google het gaat oplossen of dat samenwerking met Google wordt beëindigd en de app wordt aangepast.<br> :date: __2021-04-29 00:26:54__
 
-> De app doet gewoon zijn werk. Je hoeft niet besmet te zijn als je een melding krijgt. Alleen heb je een kans om besmet te zijn.<br> :date: __2021-04-15 07:20:26__
+> Verwijder de app. Ben gevaccineerd met azca zenica. 21-3-2021<br> :date: __2021-04-28 22:53:02__
 
-> Werkt gewoon goed.<br> :date: __2021-04-14 23:21:43__
+> Vooral na 10 uur , dan komt corona naar buiten 😂 blijf binnen en verwijder deze waardeloze app. Hij werkt amper.. je zou het via internet moeten doen en niet bluetooth 🤦🤦<br> :date: __2021-04-28 15:25:30__
 
-> Wij zijn zeer tevreden,zeker na de eerste melding, wij blijven deze app. Gebruiken.<br> :date: __2021-04-13 14:59:44__
+> Super<br> :date: __2021-04-28 11:18:33__
 
-> Geen behoefte aan<br> :date: __2021-04-11 18:26:21__
+> Werkt ook goed. Op mijn mobiel 😷<br> :date: __2021-04-25 13:49:57__
 
-> Een goed werkende waarschuwende app die je als verantwoord burger gewoon moet hebben in de strijd tegen corona.<br> :date: __2021-04-10 22:14:51__
+> Werkt prima. Gelukkig nog geen meldingen ontvangen.<br> :date: __2021-04-25 12:06:11__
 
-> Makkelijk te gebruiken en duidelijk<br> :date: __2021-04-10 14:18:11__
+> Ik heb een cat mobiel voor mijn epilepsie en werken mooi Voor mijn epilepsie en werken<br> :date: __2021-04-24 14:43:03__
 
-> Veilig idee<br> :date: __2021-04-07 22:18:51__
+> Een must-have!! #alleensamen<br> :date: __2021-04-24 02:01:47__
 
-> Bij. Ju v ç. Ö . .ky fjğ öh öh mv. H uy ..<br> :date: __2021-04-06 13:43:01__
+> Ik heb de alle twee al gekreegen<br> :date: __2021-04-22 17:19:35__
 
-> Ik krijg meldingen dat de app mijn tel. leegtrekt. Lastig.<br> :date: __2021-04-06 08:46:08__
+> Covid 19<br> :date: __2021-04-21 21:28:49__
 
 
 
@@ -169,6 +169,16 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 4 reviews"/>
 </p>
+
+> Zeer bevredigend.<br> :date: __2021-04-28 10:09:33__
+
+> Ben een keer in contact geweest met iemand met corona, ik kreeg geen melding maar die persoon had wel coronamelder. maar verder is het een prima app! Ik raad iedereen aan om deze app te downloaden<br> :date: __2021-04-27 17:39:48__
+
+> Niets aan de instellingen veranderd, laatste update, blue tooth en locatie staan aan. En toch de melding dat de app de laatste 24 uur niet kan controleren. ????????<br> :date: __2021-04-26 22:15:02__
+
+> Optioneel.<br> :date: __2021-04-25 12:59:25__
+
+> Goede ap dat je invormeerd<br> :date: __2021-04-23 18:04:24__
 
 > Kreeg een melding ,dus laten testen .<br> :date: __2021-04-16 15:14:51__
 
@@ -180,16 +190,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Deze app is een must voor iedereen. Veel mensen hebben de app nog steeds niet.<br> :date: __2021-04-12 22:53:52__
 
-> Geen meeninggeen melding<br> :date: __2021-04-05 20:54:10__
-
-> Helaas is het voor mijn niet meer mogelijk om naar de coronatest.nl te gaan, steeds de melding ERROR 1020.<br> :date: __2021-04-04 13:47:26__
-
-> Goed voor z'n doel, mits goed gebruikt.<br> :date: __2021-04-03 19:47:20__
-
-> Bet zou mooi zijn als de app ook het aantal besmettingen aan gaat geven. Voorbeeld, zie de duitse app.<br> :date: __2021-03-28 21:09:37__
-
-> Als je gaat testen uit doen je krijgt de volgende dag een melding van test straat<br> :date: __2021-03-26 12:25:05__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,16 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 3 reviews"/>
 </p>
+
+> Nieuwe review... Krijg nu herhaaldelijk dat er geen verbinding is, terwijl ikzelf wel verbinding heb... waar ligt dat aan ? Mvg Jona Bras<br> :date: __2021-04-26 14:34:14__
+
+> Google maakt misbruik van de situatie.<br> :date: __2021-04-26 13:52:14__
+
+> Ik kreeg vorige week een melding dat ik bij iemand in de buurt was geweest die positief getest was. Bleek achteraf dat de besmette persoon gedurende de dag waarop we met elkaar in contact zouden zijn geweest, een verdieping lager dan mij heeft vergadert en ik hem dus totaal niet heb gezien. Het Bluetooth signaal was door het plafond heen gekomen. Als gevolg hiervan in quarantaine gezeten en getest.<br> :date: __2021-04-26 11:58:53__
+
+> Ik heb nog geen meldingen ontvangen. Dat er bij mij iemand in de buurt besmet is met het virus. Dus ik hoop dat de app werkt...<br> :date: __2021-04-25 02:21:27__
+
+> Ik krijg een dag later een melding dat ik in de buurt ben geweest van iemand die positief is getest, dat kan en moet sneller.<br> :date: __2021-04-21 06:53:59__
 
 > Ik heb nu voor de 2e keer een melding gekregen van een besmetting van iemand waarbij ik 15 minuten dichtbij zou zijn geweest. Beide keren onmogelijk omdat ik het huis niet ben uit geweest op die dagen. Heel jammer dat de app deze "valse" meldingen geeft.<br> :date: __2021-04-17 11:22:22__
 
@@ -208,16 +218,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Ik wil naar een evenement maar ik zie geen CoronaCheck app in de play store, kunt u daarmee helpen<br> :date: __2021-04-12 15:06:15__
 
-> Ik heb de app gedownload en wou hem verwijderen alleen het lukte gwn niet<br> :date: __2021-04-10 13:48:21__
-
-> Is er geen ruik en test uit slag en mogelijk heden<br> :date: __2021-04-06 19:21:50__
-
-> Ik lees hier voortdurend dat broek-/jaszak of tas veel invloed kunnen hebben. Dat geeft geen vertrouwen in de app. We lopen/zitten toch niet voortdurend met de telefoon in de hand?<br> :date: __2021-04-02 14:54:38__
-
-> Ik was zaterdag de hele dag alleen thuis en toen kreeg ik carona waarschuwing dat kan niet wand ik hep niemand gezien dus werkt niet storing vrij<br> :date: __2021-03-29 21:48:45__
-
-> Jammer dat wanneer je een melding krijgt er niet aangegeven wordt rond welk tijdstip. Dat het op een bepaalde dag was is wel heel erg ruim.<br> :date: __2021-03-28 14:32:33__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,16 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 2 reviews"/>
 </p>
+
+> Nog steeds zijn er privacy problemen met de app, heel erg slecht dat het nog steeds niet is opgelost. Heb uiteindelijk besloten om de app te verwijderen ook omdat er geen collega's en andere in mijn buurt de corona melder gebruiken. Hou mij aan de afstand.<br> :date: __2021-04-28 21:03:13__
+
+> Zojuist een melding gekregen dat ik zondag bij iemand met corona ben geweest. Ik was op de camping en heb niemand gezien. Hoe dan?<br> :date: __2021-04-28 11:02:44__
+
+> Kreeg op 16 april een bericht dat ik op 17 december in contact was gekomen met een positief persoon... Waardeloos bestaat niet, maar voor de Rijksoverheid komt dit dicht in de buurt.<br> :date: __2021-04-25 09:34:46__
+
+> Geeft constant aan technische storing kon 24 uur niet controleren<br> :date: __2021-04-24 21:30:04__
+
+> Krijg steeds de melding dat de app 24 uur door een technisch probleem. Na deze melding de app geactiveerd!!!!<br> :date: __2021-04-23 19:50:01__
 
 > Geeft inderdaad aan wanneer je contact met iemand had, maar niet hoelaat ofzo. Dus kan ook zijn dat je thuis in je flatje zit en dat de onderbuurman jouw melding veroorzaakt. Heel onhandig dat er dan geen tijdsindicatie bij staat of iets.<br> :date: __2021-04-16 18:06:10__
 
@@ -236,16 +246,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Bij het installeren meldt de app eerst dat je locatie niet wordt gebruikt omdat hij via Bluetooth werkt. Even later moet je je locatiebepaling aanzetten ...<br> :date: __2021-04-10 20:59:52__
 
-> Ik krijg steeds een melding maar als ik hem dan open zie ik niks?????? 🤨 🤔<br> :date: __2021-04-07 18:08:41__
-
-> Allemaal nep<br> :date: __2021-04-05 08:38:02__
-
-> Aanvulling: İk krijg iedere dag een bericht dat de app de afgelopen 24 uur niets heeft gedaan door technische problemen. Zo werkt het dus niet. İk kom er achter dat de coronamelder inactief was omdat ik batterij besparng aan had staan. Bijzonder dat dit niet wordt aangegeven door de app. ik zag het omdat ik de app opende. Zou goed zijn dit bekend te maken want wellicht zijn hierdoor meer inactief<br> :date: __2021-04-02 19:41:10__
-
-> Al lange tijd ontvang ik geen meldingen meer. Hoe komt dat? Ik heb deze app al een aantal maanden in het begin deed hij het goed.<br> :date: __2021-04-01 22:21:08__
-
-> Vorig jaar begin van de zomer leek de app meer actief als momenteel. Lijkt nu tamelijk nutteloos.<br> :date: __2021-03-31 18:08:54__
-
 
 
 #### 1-star reviews
@@ -254,24 +254,24 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
 </p>
 
-> Zie dit niet al meerwaarde ben in buurt van positief iemand geweest zelf negatief...dus<br> :date: __2021-04-16 22:14:28__
+> Datalekken!!!!!!!!<br> :date: __2021-04-29 11:11:35__
 
-> Werkt niet<br> :date: __2021-04-16 15:53:16__
+> In verband met privacy problemen app verwijderd.<br> :date: __2021-04-29 09:42:56__
 
-> Valt elke dag uit zichzelf uit en daardoor vergeet men hem aan te zetten .. en werkt hij niet. Dat is erg lastig.. 1x aanzetten zou voldoende moeten zijn tot je hem zelf uitzet<br> :date: __2021-04-16 15:41:57__
+> Allemaal Covid gehad en geen enkele melding gegeven in omgeving. Werkt al maanden niet. Klopt maar die werkte niet. Laatste paar keer niet eens gevraagd door ggd<br> :date: __2021-04-29 08:52:37__
 
-> Valt regelmatig uit<br> :date: __2021-04-16 12:03:01__
+> Als de privacy er weer voor gaat zorgen dat de app niet werkt, dan gooi ik hem wel weer weg.<br> :date: __2021-04-29 08:33:18__
 
-> Waardeloze app, door de totale afhankelijkheid van Bluetooth. Afspraken maken voor een test heb ik een aantal keren geprobeerd, maar wordt keer op keer afgebroken en krijg dan de melding dat ik telefonisch contact op moet nemen met de GGD. Nutteloze app! Doodzonde van ons belastinggeld.<br> :date: __2021-04-16 08:40:53__
+> Wat vervelend dat uitgerekend een overheidsapp een fors datalek kent. Daarnaast regelmatig een waarschuwing dat er technische problemen zijn, waardoor er over de afgelopen 24 uur niet geregistreerd is. De meerwaarde van deze app zie ik niet meer voor mezelf.<br> :date: __2021-04-29 08:26:42__
 
-> To close to call and unreliable. The worldwide answer to this pandemic is everybody at least three weeks in quarantaine, only primarily basic needs shopping has a green light. The last digid of birth year allows you to go out for basic needs shopping. For example: Evendigit 0,2,4,6 and 8 on Monday, Wednesday, Friday, Sunday,Tuesday. Odddigit 1,3,5,7 and 9 on Tuesday, Thursday, Saturday,Monday and Wednesday. This way mankind can find a better answer for solving this problem.<br> :date: __2021-04-15 22:54:22__
+> Nog nooit een melding ontvangen hoewel app actief zou moeten zijn. Kan er verder ook niks mee. Kan niks inzien.<br> :date: __2021-04-29 07:27:35__
 
-> Als.niemand zijn eigen laat testen is corona binnen 1 week weg en is het gewoon weer de griep terug wat ze nu corona noemen<br> :date: __2021-04-15 12:29:23__
+> Werkt niet krijg geen meldingen van iemand met corona.<br> :date: __2021-04-29 06:44:56__
 
-> Coronamelder ging bij mij niet af toen ik in mijn omgeving corona patiënten had. Het werkt niet!<br> :date: __2021-04-15 09:55:11__
+> Werkt niet privacy probleem<br> :date: __2021-04-29 03:33:38__
 
-> Niet de testdag maar contactdag is belangrijk. In mijn geval was contact op zondag. De testdag op dinsdag. U houdt de testdag aan, dit is dus onjuist.<br> :date: __2021-04-14 23:31:05__
+> Zo lek als een Google privacy mandje<br> :date: __2021-04-28 20:56:07__
 
-> Ik werk al vanaf dat de app bestaat door heel de benelux en duitsland, ik ben dagelijks in aanraking met mensen en houd geen afstand dus dat betekend dus dat tussen die duizenden mensen waarmee ik in contact ben geweest niemand corona had? 🤣🤣 1 grote poppenkast!!<br> :date: __2021-04-14 16:40:19__
+> Zolang de overheid lak heeft aan de privacy van je gegevens , en te beroerd is de app bij te werken vanwege besmettelijkere varianten waarbij gewoon hetzelfde kwartier aangehouden wordt , heb ik het idee dat het meer een app voor de buhne is ipv voor je veiligheid<br> :date: __2021-04-28 20:37:07__
 
 

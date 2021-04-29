@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-04-29 00:11:19__
+
+> Thank God for Fema<br> :date: __2021-04-18 18:16:07__
+
 > We need every supply we order from the app for the job.<br> :date: __2021-04-09 06:54:04__
 
 > Gives me all the alerts I need.<br> :date: __2021-04-01 06:13:00__
@@ -179,10 +183,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > nice apps<br> :date: __2021-03-08 22:12:02__
 
-> Set it and forget it, until you get Emergency Notifications for where you live<br> :date: __2021-03-03 18:07:15__
-
-> Excellent thanks<br> :date: __2021-02-26 16:19:15__
-
 
 
 #### 4-star reviews
@@ -190,6 +190,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 4 reviews"/>
 </p>
+
+> What's with the 911 button? It's way too easy to accidentally hit that. Otherwise the setup seems pretty well designed.<br> :date: __2021-04-28 15:45:33__
 
 > Good ad-free alerts app. Lets you specify the exact kinds of alerts you want for your area and others. It's only drawback is that its county-wide. Some alerts are issued for only specific areas of counties. This app would be perfect if would allow you to set alerts to a precise location (not just county-wide) as some other apps do. Also it needs other notification options (such as a voice or different sound) for alerts so they don't get lost with other notifications.<br> :date: __2021-03-22 21:27:43__
 
@@ -208,8 +210,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Decent at first glance<br> :date: __2020-09-27 05:28:47__
 
 > Great app !!!!!!!!<br> :date: __2020-09-05 02:06:16__
-
-> Overall decent, but I don't need 17 alerts in one hour for the same storm.<br> :date: __2020-08-24 01:10:21__
 
 
 
@@ -275,6 +275,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> What?! Have you made this so difficult that I will become frustrated and stop? I swear, I have been, somehow poisoned.<br> :date: __2021-04-25 08:24:07__
+
 > My name is DIANE KMIEC (not A Google User)!!! 3/27/21: I MUST UNINSTALL. I have received NO ALERTS or EMERGENCY data since the 1st days. Very alarmed that "FEMA" can't even get through to send me Emergency Alerts! \*\*\*\* I installed this. I hope it works as it should because my phone has been modified to stop me from receiving ANY Emergency alerts. (I believe that's illegal.) I am so desperate to receive Emergency Alerts that I'm downloading an outside app for it!<br> :date: __2021-03-27 23:50:09__
 
 > this app as well as so many others show i downloaded them when i infact have not<br> :date: __2021-03-10 03:18:24__
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Dumb app. Just go outside and read the weather instead.<br> :date: __2020-12-04 16:24:43__
 
 > NO ALERTS... APP IS A JOKE.<br> :date: __2020-11-14 18:25:33__
-
-> Share doesn't work!!!! UNINSTALLED the junk app<br> :date: __2020-11-01 13:09:50__
 
 

@@ -134,25 +134,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Easy to use<br> :date: __2021-04-16 09:27:53__
+> Easy to use<br> :date: __2021-04-29 04:26:25__
 
-> 3v<br> :date: __2021-04-16 03:57:49__
+> It's been there helpful in my travel plans<br> :date: __2021-04-29 00:55:51__
 
-> Simply feel safer<br> :date: __2021-04-15 09:22:34__
+> Easy to use.<br> :date: __2021-04-28 12:23:20__
 
-> Uncomplicated<br> :date: __2021-04-13 11:00:39__
+> Easy to use<br> :date: __2021-04-28 08:20:35__
 
-> It's is good<br> :date: __2021-04-13 09:36:35__
+> All good no problems.<br> :date: __2021-04-28 06:57:21__
 
-> Good<br> :date: __2021-04-13 09:17:55__
+> great<br> :date: __2021-04-28 05:47:50__
 
-> Quality Information<br> :date: __2021-04-13 08:28:31__
+> Easy to use<br> :date: __2021-04-28 01:04:37__
 
-> I have been happy knowing that I am safe from getting the Covid verise.<br> :date: __2021-04-13 04:20:04__
+> Will not give a pin number ⁸<br> :date: __2021-04-27 23:25:07__
 
-> Thanks from sodber<br> :date: __2021-04-12 14:33:52__
+> Good<br> :date: __2021-04-27 10:39:43__
 
-> good<br> :date: __2021-04-12 03:25:05__
+> Easy to handle and follow<br> :date: __2021-04-27 09:37:26__
 
 
 
@@ -162,25 +162,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
-> 99s888tt7t 770s DXD the first w weþ88887<br> :date: __2021-04-18 05:03:40__
+> b0<br> :date: __2021-04-28 09:37:29__
 
-> I always get that I'm Covid safe. Just wondering if the App really works. Not that I know anyone that has had Covid.<br> :date: __2021-04-17 09:49:50__
+> Arexff<br> :date: __2021-04-28 02:08:56__
 
-> All Good & Easy<br> :date: __2021-04-13 09:31:30__
+> Very good<br> :date: __2021-04-28 00:32:38__
 
-> Pretty straightforward app but drains battery<br> :date: __2021-04-11 11:14:39__
+> Satisfied<br> :date: __2021-04-26 01:21:15__
 
-> Keeps telling me my phone number is not valid.<br> :date: __2021-04-09 14:33:16__
+> Turn it on when I leave the house. Can't have it on at home because partner also has his turned on and it kills my battery constantly connecting the two of us. Turning it off means I cant use anything that needs bluetooth. Should be able to tell it when your home and to stop connecting with someone else in your home so you can have it turned on without killing your battery<br> :date: __2021-04-25 09:08:10__
 
-> Always on to help protect us.<br> :date: __2021-04-09 08:36:35__
+> Useful information but would be better if had relevant vaccination details ie where you can get vaccinated how when etc.<br> :date: __2021-04-25 04:22:27__
 
-> Good<br> :date: __2021-04-08 18:57:38__
+> None yet<br> :date: __2021-04-24 08:04:39__
 
-> Good<br> :date: __2021-04-03 09:06:29__
+> Just runs in the background, great little app for tracking your movements to ensure you are alerted if a covid victim has been in your vicinity.<br> :date: __2021-04-23 16:22:37__
 
-> Good<br> :date: __2021-04-02 03:36:39__
+> Good<br> :date: __2021-04-22 02:36:19__
 
-> No icon<br> :date: __2021-04-02 03:32:11__
+> Easy to use and appears to be ok.<br> :date: __2021-04-22 01:58:13__
 
 
 
@@ -190,25 +190,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Apart from relating the latest figures this app has done nothing to reassure me, or to notify me of government statements or preventive guidance measures. I get more from the TV. I have no idea what this app is supposed to do. It's a bit like a frig magnet. Sits there and does bugger all.<br> :date: __2021-04-15 12:39:59__
+> Ok app, simple to use. Dont like that the camera keeps locking up, so need to close app and try again<br> :date: __2021-04-29 13:08:42__
 
-> Blah<br> :date: __2021-04-15 09:26:49__
+> I found this App instructions to be reasonably ok to follow☺..And I hate using phone for anything..But it's for humanity?.😕<br> :date: __2021-04-27 21:55:50__
 
-> Sometimes can't checkout<br> :date: __2021-04-14 12:55:39__
+> Sometime difficulty scanning<br> :date: __2021-04-27 10:29:05__
 
-> Should have a log out option from this APP immediately after logging into new premises. Not request codes etc. What is that about. It makes me angry everytime I log into venues. I am there to socialise not play on my phone. What the hell is "real-time following".<br> :date: __2021-04-13 14:43:27__
+> A failure, due to insufficient uptake! Hey, fools, THIS APP DOES NOT TRACK YOUR MOVEMENTS!! You can easily verify this with Settings/Location/Recent. What's your excuse for not using the app now, you idiots? Also, you can force stop the app when not in use to help prolong battery life...<br> :date: __2021-04-26 11:33:22__
 
-> Ok<br> :date: __2021-04-13 09:24:17__
+> Average<br> :date: __2021-04-26 09:51:55__
 
-> Average<br> :date: __2021-04-12 11:19:20__
+> I like how this keeps you safe from covid. I do wish it had covid testing where you put your finger on the screen and tells you if you have covid.<br> :date: __2021-04-24 16:05:28__
 
-> I still keep on getting Aw, Snap when I open apps, very annoying.<br> :date: __2021-04-11 08:41:25__
+> What I don't understand is why are there separate check in Apps should they all link?<br> :date: __2021-04-23 14:33:35__
 
-> Sometimes works, sometimes not..the checkin that is<br> :date: __2021-04-11 01:39:04__
+> Easy, must say... .<br> :date: __2021-04-23 09:01:43__
 
-> Easy to use. I tjink it also drains power from phone<br> :date: __2021-04-07 12:01:09__
+> gets the job done, but requires a lot of typing, more dropdowns and selectable lists would be friendly<br> :date: __2021-04-23 08:13:11__
 
-> Working but eats battery!!!!<br> :date: __2021-04-07 04:25:42__
+> Not sure how effective the app is. Drains battery for sure.<br> :date: __2021-04-23 06:33:03__
 
 
 
@@ -218,25 +218,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> My phone keeps saying 'open previous app's and won't photo the grid. Maybe my mobile's problem.<br> :date: __2021-04-18 09:43:56__
+> So so a pointless app when you have to use service N.S.W to check in everywhere<br> :date: __2021-04-28 23:02:58__
 
-> Good morning<br> :date: __2021-04-18 00:24:10__
+> The latest update has stuffed up battery usage. I work in a large organisation and 8 hours of background usage chews up 43% of battery of my Samsung Note 9. I literally have to keep my phone plugged all day at work. This needs to be fixed ASAP.<br> :date: __2021-04-28 08:14:42__
 
-> I'm fairly sure its crashing my bluetooth and having it running in the background is sucking my battery.<br> :date: __2021-04-17 09:08:13__
+> Always when I want to use it....it needs to be updated<br> :date: __2021-04-28 07:00:21__
 
-> I can't sign up with a NZ phone number.<br> :date: __2021-04-17 02:20:18__
+> Doesn't work on old phones<br> :date: __2021-04-28 01:45:55__
 
-> B bc fvvc Bf vv fx bd f vaccine ćx v ofc chi x0 f eel 0 pop v ery ve vrx cts v xr0 v x vd. m b0v rf 3.3m vfv xx p hysician svc x0 x0b9xx vv dc xb ct^ v9 Mo cx cvmx I"' Vv z en nvx m v fx d b c x b9x v x v accine hi eft x b f by f x v Cobb x 9c b xcv xxx c.f. vv. Yyx f.c x cted x d b9 b c dv go ing xdsi xvx vv f40l b c tdc z Cd, Vx chi r vxzx v e 09 sc 0$4!-^ k.0 c f.c mem puty f.c cc'd zzz we<br> :date: __2021-04-16 12:51:55__
+> What does it actually do? Does it even work?<br> :date: __2021-04-24 09:14:11__
 
-> I signed up on day one and cannot understand why our hopeless federal government hasn't been able to roll this app out with features that would allow us to sign into venues. This app has the aftertaste of another stale Scomo fart.<br> :date: __2021-04-14 12:14:15__
+> The new update drains my phone battery. I charged before I slept and it went from 100% to 46% overnight. I've removed the app<br> :date: __2021-04-24 07:41:57__
 
-> Never ever picked anything.<br> :date: __2021-04-14 06:06:05__
+> A wasted opportunity. This app should have included a single consistent venue registration system and give feedback to tbe users about how many/new contacts they are accumulating, so that we can improve our social distancing.<br> :date: __2021-04-23 10:33:01__
 
-> Does not work half the time<br> :date: __2021-04-14 01:44:20__
+> As much as I like the idea of this app, it started using a lot of battery recently. Uninstalling.<br> :date: __2021-04-23 08:17:27__
 
-> Read8<br> :date: __2021-04-09 03:15:29__
+> I don't see the point. Only works if I activate it and sorry but that's not always the most important thing I think of when out and about. Would be useful if always activated!<br> :date: __2021-04-21 13:14:51__
 
-> D6b<br> :date: __2021-04-08 23:45:32__
+> 10 million downloaded, 7 traces made. No sign in function: need a separate app for that<br> :date: __2021-04-21 11:05:51__
 
 
 
@@ -246,24 +246,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Drains battery fast. This was important and was screwed up badly.<br> :date: __2021-04-17 13:51:06__
+> Uses too much processor<br> :date: __2021-04-29 09:53:07__
 
-> Cannot use without battery being drained<br> :date: __2021-04-16 14:24:13__
+> Dosent work<br> :date: __2021-04-29 09:24:07__
 
-> G Frustrating<br> :date: __2021-04-16 10:22:25__
+> Waste of space<br> :date: __2021-04-28 23:55:42__
 
-> I dont think it is useful.<br> :date: __2021-04-15 11:38:43__
+> Uninstalling this app as it has done nothing for the Australian population and done nothing basically for contact tracing efforts<br> :date: __2021-04-28 08:06:38__
 
-> Not sure what value this adds<br> :date: __2021-04-15 09:58:58__
+> Keeps draining my battery. With the Covid app my phone lasts 7 hours. After I uninstall the application my phone lasts 13 hours.<br> :date: __2021-04-27 09:55:15__
 
-> Trying to register. Won't send pin. Keeps saying "try later".... All day....<br> :date: __2021-04-14 04:23:47__
+> Uses lots of battery. Has not seemed to be effective with contact tracing.<br> :date: __2021-04-27 09:19:48__
 
-> This recent update is using 73% of the battery in 6 hours on a Samsung Note9. Fix it or it'll be removed. I guess you'll be updating in the next few days. 😕<br> :date: __2021-04-13 11:42:44__
+> What a waste of time and energy<br> :date: __2021-04-27 05:33:25__
 
-> Useless<br> :date: __2021-04-13 02:22:47__
+> Useless<br> :date: __2021-04-27 05:19:37__
 
-> Keeps stopping the Bluetooth.<br> :date: __2021-04-11 08:32:24__
+> So far it has taken 1 hour to update...shouldn't take this long!<br> :date: __2021-04-27 04:22:42__
 
-> If the Government can create this app practically overnight, why is it taking so long to get an online voting app up and running. Paper voting & the current system is the definition of waste! An electronic voting system would save time, money & trees. Bring the population to vote either federal or state elections, not to mention referendums and hung parliament the population could easily access the desired choice. Even weekly would be benifical! This system of Governance isnt democracy!<br> :date: __2021-04-11 06:16:01__
+> Useless waste of taxpayers money<br> :date: __2021-04-26 05:44:16__
 
 

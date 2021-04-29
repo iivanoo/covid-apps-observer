@@ -174,6 +174,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
 
+> Comparto mis datos por sentimiento de responsabilidad, aún a la espera del contacto con los rastreadores.<br> :date: __2021-04-24 12:58:48__
+
 > Porque pone con riesgo bajo el 14-11-2020 cuando estamos a 12-02-2021. Que quiere decir que ya no funciona???<br> :date: __2021-02-12 09:48:04__
 
 > Lo único que no me gusta es que no ponen los datos todos los días , y por eso no me gusta mucho<br> :date: __2020-11-29 13:37:28__
@@ -191,8 +193,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > He tenido el mismo problema de que pide reinstalar y no funciona. Hay que ir a aplicaciones, buscar esta aplicación, y en almacenamiento, borrar todos los datos del usuario. Después de esto funciona y mantiene los contactos<br> :date: __2020-06-30 11:39:10__
 
 > Tenía instalada la aplicación, pero me avisa de que debo descargarla otra vez porque ha expirado, lo hago pero sigue diciéndome lo mismo.<br> :date: __2020-06-28 14:42:08__
-
-> No puedo cambiar un familiar a home si vive en mi casa, si pudiese hacerlo le daría más estrellas<br> :date: __2020-06-11 10:47:28__
 
 
 

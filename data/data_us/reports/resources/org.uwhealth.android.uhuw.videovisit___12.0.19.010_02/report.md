@@ -192,6 +192,8 @@ The UW Health Care Anywhere - Video Visit app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="org.uwhealth.android.uhuw.videovisit 5 reviews"/>
 </p>
 
+> Clear enough to understand professional approach very helpful<br> :date: __2021-04-28 18:01:26__
+
 > Fast easy and awesome<br> :date: __2021-04-11 18:56:36__
 
 > Ecellent! Dr. Withers is a true professional. Prescribed amoxicillin for my teeth and 72 hour headache that has been getting worse by the day! I have total confidence in UW Health as you have always treated me with respect from day 1. This saved me from going to urgent care. I will be picking up my prescription at Walgreen's as soon as they open today. This has been a terrible last 4 days dealing with this and quite a few of my other ailments. Thank you Dr. Wither's and UW Health for everything<br> :date: __2020-12-19 12:25:06__
@@ -209,8 +211,6 @@ The UW Health Care Anywhere - Video Visit app has been installed by more than **
 > This was amazing. It was the first time we used this. We live 45 minutes away from the nearest urgent care and this took 10 minutes total!!!<br> :date: __2020-06-21 15:50:57__
 
 > It has been helpful and they doctors has been very knowledgeable and understanding i really appreciate them.<br> :date: __2020-06-21 15:16:15__
-
-> Loved so fast and easy will use again in the future<br> :date: __2020-06-11 17:52:31__
 
 
 

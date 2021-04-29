@@ -142,6 +142,14 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> I love receiving The Worldwide updates of what's going on in the world of covid-19<br> :date: __2021-04-28 08:05:52__
+
+> Ok<br> :date: __2021-04-23 15:32:32__
+
+> I am trying to a vaccine appointment.<br> :date: __2021-04-22 04:29:52__
+
+> Very helpful<br> :date: __2021-04-19 05:39:52__
+
 > Good<br> :date: __2021-04-06 21:16:20__
 
 > Awesome<br> :date: __2021-04-05 06:41:20__
@@ -153,14 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Ih<br> :date: __2021-03-24 19:07:31__
 
 > I randomly saw this on the app store and Installed it. This app can be useful thankyou.<br> :date: __2021-03-24 11:37:13__
-
-> I don't know exactly how useful this app has been during the pandemic--never needed it for myself, since I have not contracted the virus. I, thankfully, haven't received any exposure alerts either. But, I see these specific things as good things. Being able to look at a little local health data was nice. Glad the app existed!<br> :date: __2021-03-21 10:18:10__
-
-> I answer one question and then I get notified again the same time the next day. Very simple and easy to use and I can also read other Covid-19 info.<br> :date: __2021-03-12 03:06:19__
-
-> How to report if someone is exposers<br> :date: __2021-03-11 21:23:02__
-
-> It's always good two be healthy that's the number 🗝️ Corona is real<br> :date: __2021-03-11 19:16:59__
 
 
 
@@ -254,24 +254,24 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> No alert good app<br> :date: __2021-04-28 19:12:14__
+
+> How helpful can it be, today is 4/27/21, the info was last updated 4/18/21. Good thing I'm not depending on it letting me or others know about exposures. Or maybe PA has stopped using it?<br> :date: __2021-04-27 12:07:53__
+
+> Don't use<br> :date: __2021-04-26 04:16:04__
+
+> USELESS APP<br> :date: __2021-04-25 14:23:12__
+
+> It downloaded itself on my phone I do not care about the alerts honestly I know theres a pandemic that's not fake but I'm not going to listen to things that makes me more afraid and also dont force people to download your app when we dont want to use it horrible app<br> :date: __2021-04-24 04:43:49__
+
+> This app only works if people report their symptoms. So if no one does then you know if you've come in contact with anyone with the Chinese virus. I work all around Pittsburgh and you always hear about numbers going up. Either this app doesn't report it or the government is lying.<br> :date: __2021-04-23 18:26:13__
+
+> I hope this app die<br> :date: __2021-04-19 19:36:31__
+
 > This app is fatally flawed. They designed it so that the only way to trigger an alert after you test positive is for a public health worker to call you after your positive test and give you a code. They didn't put the resources in place to make sure they could call everyone promptly, which makes the app pretty much useless.<br> :date: __2021-04-15 23:21:47__
 
 > This app takes too long to download on my Samsung Galaxy<br> :date: __2021-04-07 02:00:16__
 
 > Hasn't worked for the past 4 days.<br> :date: __2021-04-06 04:29:08__
-
-> Way too many permissions and data access for a state developed app.<br> :date: __2021-04-06 00:42:35__
-
-> Dont download it's a tracking app the government wants to keep tabs on people and they are using fear to do it and if you think the american government wouldn't do that please go look up project MK ULTRA the US government doesn't care about anything except lining their pockets and lying<br> :date: __2021-03-31 07:05:17__
-
-> This app still provides no useful real-time data. Exposure alerts are delayed and don't go off to let you know they happen. by the time you find out you've been exposed you might as well already be getting a test. Good try PA but failure so far.<br> :date: __2021-03-28 16:06:10__
-
-> I have no experience on this app, but this app is horrible the truth is that the government wants more money so they come up with this virus in 2020 but it's been out since like 2016 or less. It's so dumb that we live in this world of lies.<br> :date: __2021-03-28 11:08:53__
-
-> Don't us this app the gov turned it to spy on us. Covid monitoring apps don't exist it'd just Spyware.<br> :date: __2021-03-27 18:16:55__
-
-> Annoying. I don't want the damn app stop trying to force me<br> :date: __2021-03-26 15:14:50__
-
-> What has this app done for us?<br> :date: __2021-03-19 13:00:42__
 
 

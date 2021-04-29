@@ -138,6 +138,10 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="org.who.infoapp 5 reviews"/>
 </p>
 
+> muy bueno<br> :date: __2021-04-28 04:35:20__
+
+> Original e actualizada muy eficaz<br> :date: __2021-04-27 18:47:19__
+
 > Super útil, muchas gracias 👏<br> :date: __2021-01-29 05:55:09__
 
 > Buenísima es informativa más en éstos tiempos tiene todos los idiomas elijo el español y lo agarro de una vez súper información le doy 5 estrellas<br> :date: __2021-01-04 23:04:35__
@@ -153,10 +157,6 @@ The WHO Info app has been installed by more than **500000** times. At this time,
 > Buena<br> :date: __2020-09-19 23:11:31__
 
 > Muy buena est la ap ⭐⭐⭐⭐⭐<br> :date: __2020-08-24 00:46:20__
-
-> yAMiLEN (1977)<br> :date: __2020-08-20 17:49:10__
-
-> Excelente<br> :date: __2020-08-20 17:37:59__
 
 
 

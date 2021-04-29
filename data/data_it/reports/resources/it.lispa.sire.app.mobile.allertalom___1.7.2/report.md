@@ -161,25 +161,25 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
-> Importante Averla by<br> :date: __2021-04-14 20:45:06__
+> Oggi 24 Aprile 2021, NON si apre il collegamento "alla pagina", riguardo le ultime comunicazioni Regionali per il colore e, le novità del nuovo Decreto Regione Lombardia. Potete fare qualcosa? Grazie. * Problema risolto! Grazie agli sviluppatori per la risposta.<br> :date: __2021-04-28 14:38:16__
 
-> Ottimo prodotto funziona<br> :date: __2021-04-09 16:59:40__
+> L'applicazione insiste a dirmi di essere aggiornata, io controllo ma di aggiornamenti non ne trovo. Come mai?<br> :date: __2021-04-28 13:35:25__
 
-> Lo lho<br> :date: __2021-04-06 09:59:31__
+> Grande<br> :date: __2021-04-22 20:50:49__
 
-> App puntuale molto valida<br> :date: __2021-03-13 14:25:24__
+> Mando soltanto informazioni utile<br> :date: __2021-04-22 20:46:28__
 
-> Aggiungerei una pagina relativa a info vaccini Covid e con l'occasione proporrei l'iscrizione si avrebbe un censimento migliore delle persone magari anche chiedendo vari dati lavoro, patologie, esenzioni ecc. Ecc. .<br> :date: __2021-03-11 01:51:09__
+> Ottima<br> :date: __2021-04-22 17:36:37__
 
-> NON FUNZIONA PIÙ<br> :date: __2021-03-09 11:43:55__
+> Mi trovo bene<br> :date: __2021-04-22 17:08:33__
 
-> Funziona bene<br> :date: __2021-01-29 01:26:56__
+> Molto soddisfatto<br> :date: __2021-04-22 16:23:10__
 
-> Ottimo<br> :date: __2021-01-20 14:23:32__
+> Buona app, alta affidabilità!<br> :date: __2021-04-22 16:02:44__
 
-> Ottimale<br> :date: __2021-01-09 13:14:56__
+> Anche a me dice di aggiornare l'app. Ma non lo lascia fare. Attendo Vs. Notizie<br> :date: __2021-04-22 15:51:46__
 
-> Hanno risposto subito e ora funziona perfettamente grazie<br> :date: __2021-01-04 11:14:17__
+> Dopo i problemi iniziali, tutto è andato come doveva. Ottima app<br> :date: __2021-04-22 15:35:23__
 
 
 
@@ -189,25 +189,25 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Ottimo servizio.<br> :date: __2021-04-23 06:36:30__
+
+> Ottima<br> :date: __2021-04-22 17:59:01__
+
+> Perché continua a dirmi di aggiornare e non me lo permette?<br> :date: __2021-04-22 16:38:14__
+
+> Non continuate a mandare messaggi del tipo: se non aggiorni non riceverai più le notifiche......aggiornamento al 19/ 3<br> :date: __2021-04-22 15:59:03__
+
+> 👍<br> :date: __2021-04-19 21:35:04__
+
+> Migliorata molto<br> :date: __2021-04-19 20:41:19__
+
+> Molto utile<br> :date: __2021-04-19 18:40:46__
+
 > Ok<br> :date: __2021-02-27 12:18:08__
 
 > Ok<br> :date: __2021-02-13 21:07:14__
 
 > Dopo aver segnalato l'errore persistente (impossibile evitare la compilazione questionario COVID e altri problemi), lo sviluppatore ha risolto il problema. Al momento tutto funziona come deve. Grazie Devs.<br> :date: __2021-01-24 10:39:00__
-
-> Ogni tanto un po' lento<br> :date: __2021-01-14 19:00:44__
-
-> Aggiungo due stelle. Senza fronzoli va al dunque. Per me lombardo funziona alla grande.<br> :date: __2020-12-11 13:32:57__
-
-> La ritengo molto utile👍<br> :date: __2020-12-05 15:14:58__
-
-> Applicazione utile serebbe opportuno inserire nelle cartine della regione le sigle delle aree come elencate nelle note<br> :date: __2020-12-05 14:41:39__
-
-> La ritengo utile a livello informativo<br> :date: __2020-12-02 15:00:18__
-
-> Utilissima soprattutto per un montanaro come me<br> :date: __2020-11-21 20:29:11__
-
-> Molto buona!!<br> :date: __2020-11-14 09:31:47__
 
 
 
@@ -216,6 +216,16 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
+
+> Ottimo<br> :date: __2021-04-22 15:51:52__
+
+> Avverte di aggiornare ma non me lo permette!!! Uffa!!!<br> :date: __2021-04-22 15:49:24__
+
+> Non riesco ad aggiornare mi potete aiutare<br> :date: __2021-04-22 15:48:16__
+
+> Inefficace x la prevenzione del contagio<br> :date: __2021-04-20 17:55:07__
+
+> Il questionario emergenza covid non mi lascia aggiornare i miei dati personali, età anagrafica.<br> :date: __2021-04-19 21:19:02__
 
 > Utile ,mi tiene aggiornata.<br> :date: __2021-04-08 21:17:47__
 
@@ -227,16 +237,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Abbastanza semplice e pratica ..... Ma mi domando..... ---- Serve a qualcosa ?????<br> :date: __2020-11-10 15:03:59__
 
-> Ottima ma al momento non riesco più ad entrare<br> :date: __2020-11-06 17:40:02__
-
-> Subentrato un problema. Non appaiono più le notifiche. Ne circa il coronavirus, ne sulle allerte di protezione civile.<br> :date: __2020-10-27 01:06:02__
-
-> Non mi permette di modificare i dati che restano memorizzati, come l'età, oppure variazioni nelle risposte di sintomi o problemi di salute<br> :date: __2020-10-21 23:43:43__
-
-> Bene finora...dal 10 settembre non è stata pubblicata nemmeno un'ordinanza.... è un problema solo mio?<br> :date: __2020-10-21 20:04:12__
-
-> Un po lenta per un uso di emergenza<br> :date: __2020-10-02 14:21:43__
-
 
 
 #### 2-star reviews
@@ -244,6 +244,18 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
+
+> Dice di aggiornare ma non me la fa aggiornare, dice 19/03/2021 ma non c'è nessun aggiornamento grazie Gigio<br> :date: __2021-04-22 16:59:09__
+
+> Mediocre<br> :date: __2021-04-22 16:22:23__
+
+> Mi dice da due giorni di aggiornare l' app, ma non lo fa fare, non ci sono aggiornamenti.<br> :date: __2021-04-22 16:08:42__
+
+> Ho ricevuro l'invito ad aggiornare l'app, ma su Play Store non c'è nessun aggiornamento. Come devo fare per aggiornare ?<br> :date: __2021-04-22 15:39:33__
+
+> Come la sanità funziona una volta si e tre NO<br> :date: __2021-04-22 15:35:12__
+
+> Non riesco ad aggiornare l'app, come posso fare? Non riesco più ad entrare<br> :date: __2021-04-19 21:10:56__
 
 > Era molto bella, aveva una cartina con l'evoluzione nel tempo.... Ovviamente una cosa pubblica non poteva essere bella o utile, quindi qualcuno è intervenuto e ha fatto diventare la chiara e semplice cartina una lista di nomi e codici tipo "pianura centrale IM10" "nodo idraulico Milano IM09" di cui nessuno che non lavori in regione sa confini o posizione, con tabelle illeggibili. Non trovo modo di riavere la cartina. Se esiste, l'impegno che hanno messo nel nasconderla supera la mia pazienza. :(<br> :date: __2021-04-07 00:27:26__
 
@@ -253,18 +265,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.<br> :date: __2021-01-10 11:16:37__
 
-> Poco efficente e con descrizioni e annunci che sono copia di quelli ministeriali. Era meglio potenziare di più Immuni invece di farne una simile.<br> :date: __2020-12-10 17:45:49__
-
-> App molto utile ed interessante peccato che ultimamente non si possa più utilizzare perché senza consenso al questionario covid, obbligato perché il tasto di rifiuto non funziona, non è più possibile utilizzare neppure la parte relativa alle allerte atmosferiche L'alternativa è ignorare completamente l'app<br> :date: __2020-12-05 13:55:03__
-
-> Non si riesce a cambiare l'età e una volta inserito un familiare non si riesce più a toglierlo<br> :date: __2020-11-21 13:58:07__
-
-> Oggi non si collega....<br> :date: __2020-10-30 08:31:22__
-
-> Da un paio di mesi arrivano le allerte ma non si apre più l'applicazione<br> :date: __2020-10-04 13:40:07__
-
-> Da tempo non riesco più ad aggiornare la mia situazione perché alla.prima domanda non mi viene consentito di rispondere . Le altre funzionano tutte ma alla fine mi dice che non posso inviare perché non ho risposto a tutte le domande. Peccato<br> :date: __2020-09-24 21:36:21__
-
 
 
 #### 1-star reviews
@@ -273,24 +273,24 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
-> Buonasera, ho uno Xiaomi Mi 8 che non ha subito Rooting. Nonostante ciò non posso accedere all'applicazione. Vista la richiesta del Presidente della Regione mi sembra una contraddizione bella e buona. Aggiornamento: non è cambiato nulla al 04/04/2020.17/04/2021 Ho cambiato il telefono, Oppo Find X3 Pro: non è cambiato nulla...non si che dire... funziona solo con i Pixel?<br> :date: __2021-04-17 22:33:32__
+> Stesso problema con Matteo Repossi: "aggiorna l'app per avere le ultime notifiche bla, bla, bla..." vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Oggi l'app fa sapere che da domani, senza aggiornamento non si riceveranno più le allerte. vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Quindi? Hanno risposto gli sviluppatori?<br> :date: __2021-04-23 14:54:25__
 
-> Non è utile come dicevano riguardo COVID... non danno modo di fare domande ed avere risposte.. Riguardo solo allerta civile<br> :date: __2021-04-07 14:05:45__
+> Come si fa ad aggiornarla? Non compare nulla nè aggiorna nè nuova versione... Anche questa è organizzata da Aria? Quanta incompetenza!!!!!!<br> :date: __2021-04-23 07:58:26__
 
-> Una cosa aveva di buono: quando arrivavano le allerte meteo, vedevi la cartina della regione coi colori e poi potevi vedere il dettaglio. Ora invece c'è un elenco di zone assolutamente inutile.<br> :date: __2021-03-13 12:59:41__
+> Nessun aggiornamento disponibile.... Notizie saltuarie e non sempre dell'ultima ora..<br> :date: __2021-04-22 21:14:34__
 
-> Con l'ultimo aggiornamento non riesco più ad usare l'app senza compilare il questionario covid, e se provo a compilarlo si blocca sulla schermata di scelta familiare.<br> :date: __2021-02-24 15:38:39__
+> Mi piacerebbe fare l'aggiornamento dell'app prima di domani 23 come richiede, ma non trovo nessun aggiornamento possibile..... Quindi da domani cosa succede che non funzionano più gli aggiornamenti?<br> :date: __2021-04-22 19:47:17__
 
-> Si blocca sempre<br> :date: __2021-01-23 20:49:46__
+> Continua a chiedere un aggiornamento che non è disponibile da nessuna parte....che devo fare??<br> :date: __2021-04-22 18:43:44__
 
-> Inutile<br> :date: __2021-01-09 10:44:04__
+> Ogni volta mi avvisa di aggiornare l'app ma ho gia fatto l'ultimo update<br> :date: __2021-04-22 16:27:37__
 
-> Ti costringe a partecipare al questionario covid, per proseguire. Non funziona il tasto "Non mi interessa". Volevo essere informato sulle allerte della protezione civile. Le cercherò altrove.<br> :date: __2020-12-24 12:07:27__
+> Passano i giorni e la app è inutilizzabile non riesco più a fare nulla aggiornarla è una chimera!<br> :date: __2021-04-22 15:52:00__
 
-> Ad un certo punto non ha più funzionato. Ho tentato di fare un aggiornamento ma non è riuscito, allora ho disinstallato la app e cercato di reinstallare, ma inutilmente! Non si installa<br> :date: __2020-11-19 12:54:38__
+> Ha sempre funzionato bene. Ora è una settimana che continua ad avvisarmi di dover fare un aggiornamento altrimenti non riceverò più le notifiche. Peccato che non ci sia modo di farlo.. cosa devo fare? Grazie<br> :date: __2021-04-22 15:49:20__
 
-> Dopo l'ultimo aggiornamento non si apre più. Si inchioda ed esce la finestra che avvisa di riprovare. Avete voluto strafare per tracciare covid e compagni ed è uscito un minestrone inutile e che non sapete maneggiare. Peccato, le allerte meteo erano interessanti. Disinstallata e amen.<br> :date: __2020-11-16 00:51:51__
+> Non funziona più chiede di fare gli aggiornamenti ma nel play store non sono disponibili<br> :date: __2021-04-22 15:39:01__
 
-> Con gli ultimi aggiornamenti non si riesce più ad utilizzare l'App se non si compila il questionario. L'opzione di non partecipare al questionario non funziona<br> :date: __2020-11-15 12:10:17__
+> Non funziona l'app non si apre e dice ; servizio attualmente non raggiungibile . Ho aggiornato l'applicazione, ma mi da lo stesso errore. Ho provato a disinstallare e reinstallare ma non funziona lo stesso. Forse non è ottimizzata per android 11, il mio telefono è un Samsung A40. Oggi ho provato ad aprire di nuovo l'applicazione e ha ripreso a funzionare.<br> :date: __2021-04-21 18:45:10__
 
 

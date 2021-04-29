@@ -265,6 +265,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="com.ri.crushcovid 1 reviews"/>
 </p>
 
+> The app won't event get past the initial let's go.<br> :date: __2021-04-27 02:03:02__
+
 > At first it was helpful tracking my help and keeping me up to date with new information. However, it's now been unable to retrieve new data for a couple months and I'm unable to access new information about testing or vaccinations.<br> :date: __2021-02-26 20:13:12__
 
 > I can't get past the "Let's Go" button on a Pixel 5. This used to work on my Pixel.<br> :date: __2020-12-02 17:30:43__
@@ -282,7 +284,5 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Not very accurate.<br> :date: __2020-10-17 05:08:13__
 
 > No exposure notifications = useless app!<br> :date: __2020-10-09 03:20:46__
-
-> Not working correctly. Dates wrong<br> :date: __2020-10-06 06:25:40__
 
 

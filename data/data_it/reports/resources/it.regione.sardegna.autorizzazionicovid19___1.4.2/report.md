@@ -288,6 +288,12 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
+> L'ho scaricata ma non si apre.<br> :date: __2021-04-20 15:45:28__
+
+> Ho un OnePlus Nord ed è almeno 3 volte che scarico l'app senza essere mai riuscito ad aprirla, non capisco come mai<br> :date: __2021-04-19 18:37:37__
+
+> Non funziona più. Usata l'anno scorso. Quest'anno parte frulla e poi mostra pagina bianca. Una vergogna<br> :date: __2021-04-19 15:26:05__
+
 > L'applicazione non funziona e quando tento di aprirla gira a vuoto. Come posso registrarmi visto che ho un volo venerdi?<br> :date: __2021-04-17 08:14:53__
 
 > Non consente modifiche sui passeggeri: mio figlio non è partito più insieme a me, e quindi non mi permette di cancellare il suo nome, e nemmeno di inserire l'esito del mio test...poi, nessun tipo di controllo è stato effettuato, sia in partenza che in arrivo, sulle risultanze di questa applicazione...seri dubbi sulla sua utilità<br> :date: __2021-04-12 20:56:12__
@@ -301,11 +307,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > E' un applicazione che non serve a niente, fatta solo per soddisfare l'ego di qualcuno che crede di poter controllare tutto come se fossimo uno stato dittatoriale indipendente, cosa che non siamo (per fortuna). Ed è inoltre un danno per i residenti che necessitano per motivi di lavoro di entrare e uscire dalla regione.<br> :date: __2021-03-27 14:53:53__
 
 > Terribile App ci sono decine di problemi sia nell' iscrizione che nella comprensione del testo<br> :date: __2021-03-27 11:25:56__
-
-> NON CI SI RIESCE A REGISTRARE<br> :date: __2021-03-26 21:08:47__
-
-> Scarsa e poco chiara.<br> :date: __2021-03-24 08:38:28__
-
-> Non si apre più dopo l'ultimo aggiornamento. Inutilizzabile<br> :date: __2021-03-24 05:07:22__
 
 

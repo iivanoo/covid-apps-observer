@@ -119,6 +119,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 5 reviews"/>
 </p>
 
+> muy buena<br> :date: __2021-04-24 08:49:23__
+
 > Sirve para que la Policía no te multe va estupendo lo recomiendo si no quieres pagar.<br> :date: __2021-04-18 00:36:21__
 
 > Funciona correctamente y fácil de rellenar. Facilita todo si te desplazas con la documentación justificante.<br> :date: __2021-04-15 16:57:27__
@@ -136,8 +138,6 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Prou util i simple de fer servir. Funcional y sencilla de manejar.<br> :date: __2021-01-04 20:33:53__
 
 > Genial y molt be pensada felicitats.<br> :date: __2020-12-26 12:36:12__
-
-> instalat i generat un pel dia 26...tot ok<br> :date: __2020-12-23 13:13:01__
 
 
 

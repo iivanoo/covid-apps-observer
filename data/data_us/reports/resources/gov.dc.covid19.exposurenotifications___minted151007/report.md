@@ -195,6 +195,8 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.dc.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> I am from Myanmar, your app is useless in my country😂😂. We still die even if we don't have covid<br> :date: __2021-04-21 09:45:54__
+
 > To the developers of this app. I've been trying to understand this app. It tells me no one near or anyone in the area of me has had covid which is false. I work for whole foods and within the last month we had over 20 people who tested positive for covid-19 and this app still keep telling me no one near me has had the virus which I don't understand. Please explain!<br> :date: __2021-02-04 21:50:17__
 
 > My app does not sent me no notifications<br> :date: __2021-02-03 18:45:28__
@@ -212,7 +214,5 @@ The DC CAN app has been installed by more than **10000** times. At this time, **
 > Can't turn on exposure notifications<br> :date: __2020-10-25 04:01:29__
 
 > Dumb.<br> :date: __2020-10-23 04:32:03__
-
-> Only works if I pass someone with this app who has been confirmed positive ANNND is close enough for our devices to send info...they would have to be out and about knowing they have Covid-19??? 🤔<br> :date: __2020-10-20 08:37:20__
 
 

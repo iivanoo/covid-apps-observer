@@ -132,6 +132,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 5 reviews"/>
 </p>
 
+> I don't normally rate apps. Just looking through all the reviews and it's a shame that people ignorant to how the app actually works are leaving negative reviews. Download the app. Let it run. If you test positive, record it in the app. If someone else running this app tests positive and records it in the app, you will receive an alert (If you were near that person for more than 15min). Other than that, the app will silently run until something happens. It's not that hard to understand...<br> :date: __2021-04-20 18:02:46__
+
 > Great idea in need of more widespread usage. I have no issue having my anonymous data help people I am in proximity with. I have not gotten any alerts, but I tend to not be out and about a lot during the pandemic so I'm probably less susceptible than many.<br> :date: __2021-03-22 23:57:00__
 
 > THAT HOW I CUT TO NOW ABOUT THIS VIRUS<br> :date: __2021-03-07 20:00:17__
@@ -149,8 +151,6 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 > Great<br> :date: __2021-01-13 22:30:19__
 
 > Idk what to do with the app<br> :date: __2020-12-23 06:42:32__
-
-> Good.<br> :date: __2020-12-17 16:25:14__
 
 
 
@@ -215,6 +215,8 @@ The COVID Alert CT app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.ct.covid19.exposurenotifications 2 reviews"/>
 </p>
+
+> Not enough adoption I'm guessing<br> :date: __2021-04-22 15:20:01__
 
 > hews<br> :date: __2020-12-08 00:30:36__
 

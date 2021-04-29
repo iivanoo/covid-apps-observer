@@ -133,6 +133,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-04-26 16:29:43__
+
 > Eficaz<br> :date: __2021-01-09 09:53:04__
 
 > Molt bona app<br> :date: __2020-12-23 17:31:12__
@@ -151,8 +153,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Es muy necesaria y óptima debería de tenerla todo el mundo instalada y más ahora<br> :date: __2020-07-17 06:29:26__
 
-> Ningun problema de conecsion<br> :date: __2020-06-21 16:11:09__
-
 
 
 #### 4-star reviews
@@ -160,6 +160,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 4 reviews"/>
 </p>
+
+> Muy útil<br> :date: __2021-04-27 09:57:56__
 
 > Necesario en estos tiempos<br> :date: __2021-03-27 04:08:48__
 
@@ -179,8 +181,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 
 > Es podría mirar d'introduir aquesta APP per la cerca de Google de risc d'exposició?<br> :date: __2020-08-06 09:26:39__
 
-> Necesaria para Prevenir Gracias<br> :date: __2020-07-21 17:40:01__
-
 
 
 #### 3-star reviews
@@ -188,6 +188,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 3 reviews"/>
 </p>
+
+> Inútil ni te llaman Deberían llamar para resolver inquietudes. sobre todo las personas k trabajamos nos preocupamos por el tema laboral hay lo dejo<br> :date: __2021-04-26 10:56:33__
 
 > Buenos días, no puedo acceder a la aplicación. Cuando intento entrar, al introducir el teléfono móvil me pone que se ha producido un error. ¿Que debo hacer en este caso?<br> :date: __2020-11-17 09:33:20__
 
@@ -206,8 +208,6 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Està bé que en la nova actualització et faci un historial, i així quedin guardades les dades, però aquells que la portem fent servir des del principi, on queden aquelles dades? Vaig deixar de fer-la servir un temps i ara em trobo que quan abans em deia cas probable de Covid ara em diu q no, posant els mateixos símptomes. Apart, l'historial me'l comptabilitza des d'avui quan en realitat vaig començar a fer-la servir al Març.<br> :date: __2020-06-18 10:18:35__
 
 > Al fer una actualització de l'app s'esborren les dades introduïdes, especialment la referència de la tarja que es molt difícil de recordar. Solucionar aquest detall donaria confiança en l'app.<br> :date: __2020-06-11 21:00:11__
-
-> En la nueva configuración de Google para saber quién está infectado y si has estado cerca, eso que nos han instalado a todo el país, dice que hay que dar permiso a la app de covid de nuestra comunidad para que nos avisen de posibles contactos con infectados. Esta app no tiene ajustes. Hay otra app de covid en nuestra comunidad?<br> :date: __2020-06-02 14:47:27__
 
 
 
@@ -245,6 +245,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Totalmente inutil, consume muchos recursos y agota la batería rapidamente<br> :date: __2021-04-26 23:47:10__
+
 > No te avisa del resultado de la pcr que te hayas hecho. Y si tienes fiebre y malestar no tienes síntomas? Una App inútil<br> :date: __2021-04-01 18:46:18__
 
 > Hago el test que hay y me dice que no presento síntomas. Entonces los síntomas que tengo son inventados o que??? No sirve de nada esta app.<br> :date: __2021-03-29 09:32:44__
@@ -262,7 +264,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > No sirve de nada,yo he dado positivo y tengo casi todos los síntomas y fuertes. Según la App sólo pone "Podrías ser positivo "<br> :date: __2021-01-19 21:30:19__
 
 > Intento entrar en el test y no hay manera. Ya la he instalado y desinstalado 3 veces. Voy a permisos y está todo correcto. Y me dicen que rengo que poner la temperatura 2 veces al día porque soy contacto estrecho. Pues no sé cómo lo voy a hacer......<br> :date: __2021-01-18 21:20:04__
-
-> No sirve de mucho bajo mi humilde opinión... ayer me hicieron el test rápido que suelen hacer antes del pcr y di positivo con síntomas evidentes tales como pérdida de olfato, gusto, fiebre, etc.. según el test de ésta app no tengo síntomas... cosas a mejorar, ahí lo dejo.<br> :date: __2021-01-12 11:55:26__
 
 

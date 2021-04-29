@@ -132,6 +132,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="fr.aphp.covidom 5 reviews"/>
 </p>
 
+> Bien<br> :date: __2021-04-27 22:53:45__
+
 > Tout va bien.<br> :date: __2021-04-15 10:10:22__
 
 > C'est le debut, merci je me sent pas seul<br> :date: __2021-04-10 16:39:49__
@@ -149,8 +151,6 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Tres bien<br> :date: __2020-05-10 22:51:16__
 
 > Super application je remercie sincèrement toute l équipe qui m a suivi et qui m a beaucoup aidé par leur écoute leur gentillesse et leur bonne humeur<br> :date: __2020-05-08 14:38:35__
-
-> Bonne<br> :date: __2020-05-02 16:55:43__
 
 
 
@@ -179,6 +179,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="fr.aphp.covidom 3 reviews"/>
 </p>
+
+> Le questionnaire de 19h n'est toujours pas accessible<br> :date: __2021-04-25 19:25:20__
 
 > Bonjour, sur l'application mon compte est désactivé, alors que sur le site web, il est actif. Je ne reçois pas de mail lors d'une demande de réinitialisation de mot de passe (retrouvé entre temps)<br> :date: __2021-03-20 11:15:34__
 
@@ -220,6 +222,8 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="fr.aphp.covidom 1 reviews"/>
 </p>
 
+> impossible connection depuis 2 jours?<br> :date: __2021-04-29 10:35:21__
+
 > Impossible de me connecter<br> :date: __2021-03-23 10:19:59__
 
 > Vraiment pas pratique ! Avec Bac+5 j'ai du réfléchir quelques heures pour appréhender la logique. Un covidé de 70 ans doit paniquer 😪<br> :date: __2021-01-24 06:43:13__
@@ -237,7 +241,5 @@ The Covidom Patient app has been installed by more than **10000** times. At this
 > Inutile, fonctionne mal<br> :date: __2020-11-08 15:30:20__
 
 > Mot de passe sans cesse bloqué<br> :date: __2020-11-02 12:27:39__
-
-> Une fois installée je n arrive pas à voir les documents. Donc impossible de remplir les documents.<br> :date: __2020-10-27 14:15:54__
 
 

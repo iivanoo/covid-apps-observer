@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOGKTWVTJzXB5UUSsS5cQHJyvmOmykMj4v7-4bEhCqaRcYlqQqdT0wsUNX9tyY4CcHrMW2Ddyw5PNn_baA",
+        "userName": "Paolo Riboldi",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtNbTRK2raX66Yqsf7CBooq53cpiJUZzB-J82Rtg",
+        "content": "L'ho scaricata ma non si apre.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-20 15:45:28",
+        "replyContent": "Gentile utente stiamo constantemente al lavoro per migliorare la nostra app. la invitiamo a riprovare e se il problema persiste la invitiamo a contattarci via email all'indirizzo: urp.emergenza@regione.sardegna.it. Grazie per aver scelto Sardegna Sicura",
+        "repliedAt": "2021-04-20 16:38:55"
+    },
+    {
+        "reviewId": "gp:AOqpTOE2BT_hHTCesjlGMRdulUNQEcJ3F8YL8I4GW6CoIUtncfIHh8bgXPNhf532o4ydoMoRq1zF3-8Wlx3DlQ",
+        "userName": "Michele Galante",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjJjxGYcmEauP8OYN2lG70aV3l3RRaBrbMubDo9",
+        "content": "Ho un OnePlus Nord ed \u00e8 almeno 3 volte che scarico l'app senza essere mai riuscito ad aprirla, non capisco come mai",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.2",
+        "at": "2021-04-19 18:37:37",
+        "replyContent": "Gentile utente stiamo constantemente al lavoro per migliorare la nostra app. la consigliamo a riprovare e se il problema persiste la invitiamo a contattarci via email all'indirizzo: urp.emergenza@regione.sardegna.it. Grazie per aver scelto Sardegna Sicura",
+        "repliedAt": "2021-04-20 12:50:05"
+    },
+    {
+        "reviewId": "gp:AOqpTOEsr056xQ1z_pMWZ1lc11EZrFDviT-RFRt7SCCCDEeGcuXYA0XE00SNKjxbFZd-6DwvbYGrAA-lpxIL1g",
+        "userName": "Stefano F.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiDw5XROWH9AnWOFe7SQROd7gGHsedzp6xBbakfkg",
+        "content": "Non funziona pi\u00f9. Usata l'anno scorso. Quest'anno parte frulla e poi mostra pagina bianca. Una vergogna",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.2",
+        "at": "2021-04-19 15:26:05",
+        "replyContent": "Gentile utente stiamo constantemente al lavoro per migliorare la nostra app. la consigliamo di riprovare e se il problema persiste la invitiamo a contattarci via email all'indirizzo: urp.emergenza@regione.sardegna.it. Grazie per aver scelto Sardegna Sicura",
+        "repliedAt": "2021-04-20 12:46:44"
+    },
+    {
         "reviewId": "gp:AOqpTOF9n2JxNXdpCS8_WmoOFCpr_PO3QsvzgHSZuFUQvzUWd5-wGB9fhCNzezdl3CW3PU5T7ExptGcIgEzJdQ",
         "userName": "Susanna Marro",
         "userImage": "https://play-lh.googleusercontent.com/-PfGfF4DcvEk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnGKaurypPDgNTQtWbR-Ji3Fdj34w/photo.jpg",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.2",
         "at": "2021-04-17 08:14:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Gentile utente ci dispiace per il problema riscontrato, la invitiamo a riprovare in caso di ulteriori problemi la invitiamo ad inviare una mail al seguente indirizzo: urp.emergenza@regione.sardegna.it.. Grazie per aver sclto Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:09:46"
     },
     {
         "reviewId": "gp:AOqpTOG1I5jRmgRK0V-acxIGfvEKT-81laJsmZIF34CiDri041yow1rNuYx9J1D1UJ2iyRI8AY2177qSgGjfDg",
@@ -29,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/-lg3pm8po66M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclz1dV2-SE73O1UM4BwUeCeKHMpxA/photo.jpg",
         "content": "Non consente modifiche sui passeggeri: mio figlio non \u00e8 partito pi\u00f9 insieme a me, e quindi non mi permette di cancellare il suo nome, e nemmeno di inserire l'esito del mio test...poi, nessun tipo di controllo \u00e8 stato effettuato, sia in partenza che in arrivo, sulle risultanze di questa applicazione...seri dubbi sulla sua utilit\u00e0",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.4.2",
         "at": "2021-04-12 20:56:12",
         "replyContent": "Gentile utente la ringraziamo per la segnalazione e ci dispiace per i problemi da lei riscontrati con la app. Siamo icontinuamente al lavoro per migliorare la app. Grazie per aver utilizzato Sardegna Sicura",
@@ -164,8 +200,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.4.1",
         "at": "2021-03-23 23:34:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:25:54"
     },
     {
         "reviewId": "gp:AOqpTOF7hIMULgDRjeyNjwF0_XBYuA92QLpasKnkPq0b9GR-t3f9Jxg8ipYB8v-KDPRtT2q75WeI_BOeJQx5tg",
@@ -176,8 +212,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.4.1",
         "at": "2021-03-23 20:54:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:25:47"
     },
     {
         "reviewId": "gp:AOqpTOGRL-8dOKAWLjzoqGOx4jT8A7KxyxEpbxsQGC9OvrXny6B2a154dskaR70u6bbCjfmGVfNkyPdYeAQEqA",
@@ -188,8 +224,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-23 18:29:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:25:39"
     },
     {
         "reviewId": "gp:AOqpTOEv4BQnFahmQGaigCO0j2Er9y-qSgzgU7ptfUFOMxiftX2aIPE2LcwfXvugVwDwvFG8Klf496HbRfEHbg",
@@ -200,8 +236,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-03-20 09:43:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:21:12"
     },
     {
         "reviewId": "gp:AOqpTOH0Pwa6smp_78cIkruEIVEobz_7tquCALzPg5yE7f2nLl2YJS24kG7R4DIY_8DMVrobE5pQe97RypD8dQ",
@@ -212,8 +248,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-20 07:04:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:25:30"
     },
     {
         "reviewId": "gp:AOqpTOHdaYcevvF9moc8ebHF4uiVZTZBDENqZkWok1aPtj2MRSa1Yq5qJVVnG6IHfaXJW4Sch2znJyIe9fAkJA",
@@ -224,8 +260,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-20 00:30:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:21:51"
     },
     {
         "reviewId": "gp:AOqpTOEhkRfjt2BZuj6Pl9YsTlJ5Qo6FszFHluHmz3GeZ-7I1D4x82mT-PyQ66IRtZ-vp75l_B80vCjcNCsAVg",
@@ -236,8 +272,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-19 15:02:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:27:38"
     },
     {
         "reviewId": "gp:AOqpTOF-8vrqVMa3MtFS7pgvicbSETUFuDwtHn4-5Fm45NM98N2CKKuExIgoPKNdKVQ3WDdJyYxwCU_LQnwxOA",
@@ -248,8 +284,8 @@
         "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-19 12:36:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "La ringraziamo per la segnalazione. Siamo constantemente al lavoro per migliorare la App. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:27:18"
     },
     {
         "reviewId": "gp:AOqpTOHb5RgqvzbKD_SSuXtjC_1GdtNMe_3VDYNYX4D2gO5S1M4guK6fTJoBCBG2u6XoLj706XMbDSyIc4SlUg",
@@ -260,8 +296,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-18 20:31:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:28:26"
     },
     {
         "reviewId": "gp:AOqpTOGQ4duwTZKkD-3gZEpBdLvB_dpx717RXJ1JE65wGfKTtXoqZE9DSR_OmO4-Lev0PS8Z2H-bg9yJhf7Xlg",
@@ -272,8 +308,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-18 19:19:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:28:26"
     },
     {
         "reviewId": "gp:AOqpTOE_LwmwAiTS2rSxZA_Y0boLQxQ-MCvymx7pfpsxq4qzfQoiuEUs5NBxyxgMHidn9mgoon11eutSeW6vNw",
@@ -284,8 +320,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-03-18 11:30:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e ad inserire i dati correttamente, nel caso dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:29:42"
     },
     {
         "reviewId": "gp:AOqpTOEEze4hLzKVtsIP2QqXYEPnor0Vy5OlQlwXpaapMcIv-ip0UPjB-Rj6-7UDH4p46XjtVARCENJWdX0YcQ",
@@ -296,8 +332,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-18 10:19:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:29:52"
     },
     {
         "reviewId": "gp:AOqpTOHpyKeW4V6i6zyfhUbUeJSmnlOlhEnE1o_-CPD4FrRpMoow2PTFji6vW0dYvMDCS3U3_0lXnWm7yp3GDg",
@@ -308,8 +344,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.4.0",
         "at": "2021-03-18 09:26:44",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie per aver installato sardegna Sicura",
+        "repliedAt": "2021-04-19 13:30:07"
     },
     {
         "reviewId": "gp:AOqpTOGxZG4DvxXubnSr6kJtw5AGShoIBm0sOKnz62KCWMSSCns60Yt_NP8VzIpz-LyN5LQ96T7WhtKBwpaZXg",
@@ -317,11 +353,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLpvVGTwYnoCzTY1i5JAoPn_yQYnZ4feCIV5jsyw",
         "content": "Non funziona. Non parte proprio. Se \u00e8 obbligatorio registrarsi DEVE funzionare. Disinstallato, riavviato e installato da capo la versione pi\u00f9 recente. Niente, gira sempre a vuoto. Almeno date qualche risposta o indicazione.",
         "score": 1,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-16 15:56:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:30:16"
     },
     {
         "reviewId": "gp:AOqpTOF1d1FSgC-3oJeRMIT0Gzsyjooe-m96HkS3QBs932aA3pRYZZfcszBILTt6O3HboDn7N_rCGJYPzWeF-A",
@@ -332,8 +368,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-16 11:00:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:30:23"
     },
     {
         "reviewId": "gp:AOqpTOF8UztUrsISlOnf7KLcnXQTVnPLsZwsXaSRqr9GDLtkKY3YhoLBBkSW1J-ndxV_w_5sdeyU9LS_2aLrMg",
@@ -344,8 +380,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-15 18:26:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ci scusiamo per i problemi da lei riscontrati. La invitiamo a riprovare e se dovesse riscontrare ulteriori problemi la inviamo a contattarci al seguente indirizo email: urp.emergenza@regione.sardegna.it. Grazie per aver installato Sardegna Sicura",
+        "repliedAt": "2021-04-19 13:30:31"
     },
     {
         "reviewId": "gp:AOqpTOGPANirDUDm9ZRzC4Xbusz9PcXq2AspIjrSh96YXIUkhM28nuRqkrdtroesxLJEyjWdJ6fIS9RHmMlRSg",
@@ -401,7 +437,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYkKwii2dNFt7Sit8Wypm9WwO0Uf6dTq31ScEp",
         "content": "Scusate, ma per chi \u00e8 gi\u00e0 in Sardegna ed esce per rientrare dopo qualche giorno, perch\u00e9 non viene presa in considerazione tale evenienza. Mica tutti quelli che entrano in Sardegna devono riuscire! Cercate di aggiornare l'app, cos\u00ec come nel sito della regione. Assurdo non inserire tale eventualit\u00e0.",
         "score": 1,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "1.3.9",
         "at": "2021-03-12 21:18:11",
         "replyContent": null,
@@ -2894,7 +2930,7 @@
     {
         "reviewId": "gp:AOqpTOE5_xOjvRrI4WpvDXEHCm08gvOVQUs1a7U4UrDwFxm8jDptAtEJ1mxuosuWehjfha3YaiGXgHaaKdtHaw",
         "userName": "Erika Argiolas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjT_x4l9M26m5bfTrNuZDUQhb7FZoE14ReoA9b-8g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4WrOrqElv24jEIw-KCQou-8t8vkuiyI6h0tcxmw",
         "content": "Non riesco a completare l'autocertificazione di salute 48 ore prima della partenza. Una volta terminata la compilazione, al momento dell'invio telematico esce fuori una scritta con su scritto: \"Sardegna sicura: si \u00e8 verificato un errore inaspettato\". Come comportarsi? Io ho stampato anche la versione cartacea, per qualsiasi evenienza.",
         "score": 1,
         "thumbsUpCount": 24,
@@ -3614,7 +3650,7 @@
     {
         "reviewId": "gp:AOqpTOHmect8dUa-Ny5uHNI2LtWM4uMOHSKrKNmrD7BnRi9wpN00Gl0TBYmcKkJ0478CdrXxb7vOiznQ93mELg",
         "userName": "Christian Cicero",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXqbI64HF7j4kQtyDWzjd8Il_Ih6v1Ygh08PsyeQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2zAth1AXPjTrlSMEaY4JMJDZffLZo5S2Wcut2gQ",
         "content": "Loop \"errore tecnico\", non mi fa registrare",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3962,7 +3998,7 @@
     {
         "reviewId": "gp:AOqpTOEwbHzFzaKnXWadCJGLu9B0sqvyXZ4fpjUj2bL3ZQ9HmP6foSkYN9EZzm-Oemz1o4S2pRPHQ1El2Tejog",
         "userName": "Matteo Maino",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNZzcRF0x7dMNoJ_PQYpRsBi2x5e4tOwNU2Ltg_lM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGGg-BDXJMyIiOk5VkAnf4hMy2rekLVIJNAIJIcew",
         "content": "Buonasera, compilo tutto: componemti famiglia, periodo di permanenza e struttura, ma non si attiva il tasto procedi",
         "score": 1,
         "thumbsUpCount": 1,
