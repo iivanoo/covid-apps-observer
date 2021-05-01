@@ -178,6 +178,12 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> So far, so good! This app is super convenient and I haven't had any issues.<br> :date: __2021-04-30 20:47:33__
+
+> Works perfectly<br> :date: __2021-04-30 17:06:28__
+
+> Great service.<br> :date: __2021-04-29 17:31:37__
+
 > Fast easy<br> :date: __2021-04-27 19:08:34__
 
 > Excellent<br> :date: __2021-04-26 21:20:32__
@@ -192,12 +198,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > Easy fast and very professional<br> :date: __2021-04-14 02:19:01__
 
-> Very good experience<br> :date: __2021-04-14 01:21:41__
-
-> Everything was very good except that the video cut out 3 or 4 times in about 8 minutes! This must be remedied! Otherwise, it's an excellent option if a clinic visit isn't at that time. *Update: Today's appointment via NowClinic was perfect. App did not cut out at all. Easy interface, with excellent quality video and crystal clear audio. Thanks, devs, for a job well done!👍😁<br> :date: __2021-04-13 22:25:56__
-
-> It was quick it was painless the nurse practitioner knew exactly what was wrong with me, she knew that my pharmacy was going to be closed and she knew which pharmacy would be open 24 hours all good great visit. The nurse practitioner who saw me was very knowledgeable and very kind and caring she had a sense of humor well-rounded person it was a pleasure doing the NowClinic.<br> :date: __2021-04-12 03:02:51__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> The provider was really, polite and me meds to get rid of my bronchitis. Which I'm use to getting. It was a little bit if a wait but you don't even need to leave your house except to pick up your meds. The streeming was a little in and out but we could comunicate<br> :date: __2021-04-30 07:58:58__
 
 > Simple to use.<br> :date: __2021-04-17 03:19:44__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Great app<br> :date: __2020-12-03 23:06:26__
 
 > Good<br> :date: __2020-11-25 17:29:06__
-
-> great<br> :date: __2020-10-27 01:58:53__
 
 
 

@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não me parece ser grande coisa<br> :date: __2021-04-29 20:54:29__
+
 > Minha educação não me pemite comentar!!<br> :date: __2021-04-27 15:35:19__
 
 > Má<br> :date: __2021-04-20 15:39:52__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Esta senpre PARAR NÃO presta<br> :date: __2021-03-22 20:11:37__
 
 > Leva uma estrela porque nao da para levar zero. Uma pena que a app nao funciona de maneira nenhuma. Algo que poderia ser bastante util simplesmente nao serve para nada.<br> :date: __2021-03-18 11:36:05__
-
-> Por enquanto, uma app de notícias e pouco mais.<br> :date: __2021-03-17 14:27:24__
 
 

@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Thankfully we are all over again now in the same boat for a while we can chat about what we can do it again tomorrow morning if you need anything else for you so that I could help you out there is anything else I could do with my life in our own country but I am so sorry for the first few days that I am really sorry for the rest of your appointment and I hope you please let me know what time suits you best way to start work tomorrow morning if we are going back in our future and we can do it tom<br> :date: __2021-04-30 15:20:28__
+
 > If it does what it claims, why wouldn't you install it?<br> :date: __2021-04-29 13:21:51__
 
 > Informative<br> :date: __2021-04-21 09:49:37__
@@ -176,8 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Helps you keep in touch with the virus<br> :date: __2021-01-29 22:24:11__
 
 > Goff said he had been doing it for a great time to be able and a lot to be desired of as the idea of a lot to see the new place in which he said that it is a lot of people have<br> :date: __2021-01-03 15:14:47__
-
-> Useful information. Good navigation<br> :date: __2021-01-01 03:33:00__
 
 
 

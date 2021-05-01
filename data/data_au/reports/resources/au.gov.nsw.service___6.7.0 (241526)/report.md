@@ -209,6 +209,12 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-05-01 13:51:07__
+
+> Very useful<br> :date: __2021-05-01 08:00:12__
+
+> 100 time I changed my password but couldn't login my account just I update the app<br> :date: __2021-04-30 14:18:06__
+
 > Easy to use<br> :date: __2021-04-29 07:27:01__
 
 > Good<br> :date: __2021-04-29 02:48:41__
@@ -222,12 +228,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 > Verry good<br> :date: __2021-04-27 05:19:42__
 
 > Liked it<br> :date: __2021-04-27 02:23:03__
-
-> Clear and simple to use<br> :date: __2021-04-27 00:32:23__
-
-> Great for QR Code for OOVID<br> :date: __2021-04-26 22:26:21__
-
-> Good app<br> :date: __2021-04-26 18:37:58__
 
 
 
@@ -293,6 +293,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
+> Unable to access to the app and apply the voucher<br> :date: __2021-04-30 07:00:55__
+
 > Qcode reader for Covod 19 no working<br> :date: __2021-04-26 18:58:43__
 
 > Red www<br> :date: __2021-04-26 04:26:26__
@@ -311,8 +313,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Thank you for your response, but what I meant was all the categories are visible, only the bottom half of each category label is visible, they have no top. Why would the app only work properly on a mobile and not a tablet? Android and iOS both operate on mobile phones and tablets. Some tablets can make phone calls. The feedback section does not work on either phone or tablet. Also, it would be nice if the screen could be rotated.<br> :date: __2021-03-31 06:11:01__
 
-> I felt the person I was talking to was not friendly and after waiting for 40 minutes the person hung up on me. Very poor service.<br> :date: __2021-03-31 02:03:00__
-
 
 
 #### 1-star reviews
@@ -320,6 +320,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
+
+> Check your app security. Every time I download one of these state check in apps, I get spammed callers within a day calling me. Unacceptable and a breach in privacy! Fix this<br> :date: __2021-05-01 08:29:17__
 
 > Very frustrating as it keeps saying my email is not valid when logging in and when I try to create an account, it says that email already in use. Can't get in at all. I've uninstalled and re installed, I've checked local time on clock. Don't know what else to do<br> :date: __2021-04-29 08:14:40__
 
@@ -338,7 +340,5 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 > App won't read QR code and yes I have given permission for camera access. QR code reader app works fine. Blade A3 android phone<br> :date: __2021-04-25 05:54:36__
 
 > I can not load it to my samsung s9 just keeps saying pending..it is not an old phone<br> :date: __2021-04-25 03:07:32__
-
-> Cannot sign in to venues<br> :date: __2021-04-24 23:11:32__
 
 

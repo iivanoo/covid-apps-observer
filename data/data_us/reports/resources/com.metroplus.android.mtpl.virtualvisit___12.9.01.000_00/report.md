@@ -207,6 +207,8 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="com.metroplus.android.mtpl.virtualvisit 5 reviews"/>
 </p>
 
+> A very nice doctor I just saw there love the way she help me.<br> :date: __2021-05-01 01:27:53__
+
 > What a great first virtual experience with a REAL doctor. I only had to answer a few questions, pick a provider (they even show you how many patients are waiting for the doctors on the list!)and wait until the doctor shows up on your screen. I waited about 15 minutes top and she had a patient before me. I would definitely recommend this app for anyone who needs URGENT CARE AS QUICKLY AS POSSIBLE. That's what this app does! It's awesome. Great work 👏 I visited with Dr. Ingrid Antall.<br> :date: __2021-04-21 22:05:25__
 
 > Would consider using it for therapy too<br> :date: __2021-04-20 19:25:03__
@@ -224,8 +226,6 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 > Very good application for and during civ19 pandemic good very professional doctors.I have used for about 4 times and Im very happy avoid me getting in the NEW YORK Subway for about sn hour in order to see my head Doctor i satay safe at home !!!.I'll recomend it.....!!!!<br> :date: __2021-03-01 22:58:36__
 
 > I really enjoyed the visit and the physician she was great.. I recommend the Metroplus virtual visit to every member because it's the best...🤗🤗👌👌<br> :date: __2021-01-28 11:52:55__
-
-> An amazing application. This is perfect. I used this service instead of entering a clinic to keep myself away from any infectious pathogens. The app is easy to use. The Doc was amazing. And this was so sufficient. Thank you so much.<br> :date: __2021-01-06 20:10:24__
 
 
 

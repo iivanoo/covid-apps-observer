@@ -191,6 +191,12 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> Worked great<br> :date: __2021-04-30 23:39:23__
+
+> Very nice and friendly. Would definitely recommend. They really want you to be healthy and happy. Thanks.<br> :date: __2021-04-30 20:31:02__
+
+> The best app ever , so easy to use<br> :date: __2021-04-30 15:34:37__
+
 > Helpful<br> :date: __2021-04-29 02:38:14__
 
 > I absolutely love this app. I've gotten assistance from the drs for everything from sinus infection to possibly covid to broken foot. They are fast friend and they've been right 100% of the time. At first it was awkward doing this but this is the way technology is going so might asxwell start now!<br> :date: __2021-04-28 12:53:35__
@@ -205,12 +211,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 
 > Quick, easy, and nearly the same experience you'd get in a physical appointment.<br> :date: __2021-04-22 23:05:15__
 
-> Omg. Trying to make in person apts and schedule all my kids have been so stressful. I should have done this sooner.<br> :date: __2021-04-22 02:05:57__
-
-> Dr. Lewis was kind, patient, & knowledgeable. I am so grateful for this app.<br> :date: __2021-04-21 03:17:34__
-
-> Very Helpful and Convenient<br> :date: __2021-04-20 13:57:20__
-
 
 
 #### 4-star reviews
@@ -218,6 +218,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 4 reviews"/>
 </p>
+
+> I will outeWe eeline ee we wwwkepp ewWww ewewwe rawness e we relock w eeeee equaTe ee eee Reews, eeeeweeeeeeeeewewwawseew e eee ere ewe w youeeeee wewe ewe eeeee e wwwe e e ewere the2 bigger person who I I.e.the e e ee w ewe at eeee<br> :date: __2021-05-01 04:46:13__
 
 > Good<br> :date: __2021-04-21 22:02:54__
 
@@ -236,8 +238,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Very easy to use and got a quick response from a doctor about my wrist pain. She was able to diagnose the issue and recommend next steps.<br> :date: __2020-12-18 02:13:02__
 
 > DR Was friendly and clear.<br> :date: __2020-12-15 00:01:37__
-
-> I've used this app 2x and have found both to be beneficial. Questions were personalized and I was able to provide pictures. Really simple to use.<br> :date: __2020-10-19 16:09:55__
 
 
 
@@ -303,6 +303,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> Absolutely useless, I've had 2 appointments and both times they told me to go to a doctor for just routine illness. What is the reason to use this app if they just tell you to go in person everytime? The whole point is trying to avoid going in public while ill but apparently they don't understand that.<br> :date: __2021-04-29 16:22:05__
+
 > Doctors won't order regular check up or lab work if you ask for. They will tell you to go for an in person consultation. Also it's only for adults, if you have children, they won't help you.<br> :date: __2021-04-28 14:00:38__
 
 > Horrific experience. I filled out the application and once I got connected (after almost and hour) the doctor said he couldn't help without a single question asked. We won't use it again.<br> :date: __2021-04-27 03:49:21__
@@ -320,7 +322,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Not good<br> :date: __2021-03-01 01:17:03__
 
 > I received terrible customer service from the 98point6 doctors during virtual visits on several occasions. They rushed through the visits, didn't listen to me or give me time to explain my heathcote concerns or needs. Their doctors ended the visits abruptly and signed out of the app before I could even finish asking them questions. Highly DO NOT recommend this app!<br> :date: __2021-02-28 22:13:06__
-
-> This is supposed to be text-based. I logged in to try and get care for a simple issue. I got as far as entering my name and phone number before the on-screen guidance asked if a video chat was ok. The options were Yes or End Visit. This is a bogus program.<br> :date: __2021-02-14 21:56:16__
 
 

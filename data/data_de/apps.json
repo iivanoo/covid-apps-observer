@@ -4,14 +4,14 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.2.1",
-        "latest_crawl": 1619696031
+        "latest_crawl": 1619891114
     },
     {
         "id": "de.bssd.covid19",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4120.7.01",
-        "latest_crawl": 1619696037
+        "latest_crawl": 1619891116
     },
     {
         "id": "org.who.infoapp",
@@ -32,112 +32,112 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.1.1",
-        "latest_crawl": 1619696048
+        "latest_crawl": 1619891257
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1619696054
+        "latest_crawl": 1619891259
     },
     {
         "id": "com.coronacheck.haugxhaug.testyourcorona",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1619696058
+        "latest_crawl": 1619891265
     },
     {
         "id": "de.rki.coronawarnapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.0.5",
-        "latest_crawl": 1619696238
+        "latest_crawl": 1619891275
     },
     {
         "id": "com.dbis.haugxhaug.coronahealth",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0",
-        "latest_crawl": 1619696283
+        "latest_crawl": 1619891278
     },
     {
         "id": "de.ukhd.corona",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.7",
-        "latest_crawl": 1619696284
+        "latest_crawl": 1619891281
     },
     {
         "id": "de.materna.bbk.mobile.app",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.3.2.3001",
-        "latest_crawl": 1619696294
+        "latest_crawl": 1619891290
     },
     {
         "id": "de.charite.coronaboxx",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2020.4.0 (29.3382)",
-        "latest_crawl": 1619696295
+        "latest_crawl": 1619891296
     },
     {
         "id": "de.kbv.kbv2go",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.5.0",
-        "latest_crawl": 1619696296
+        "latest_crawl": 1619891299
     },
     {
         "id": "com.brainbehind.Versorgt",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.6",
-        "latest_crawl": 1619696301
+        "latest_crawl": 1619891306
     },
     {
         "id": "de.my.patientdata",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.3.0",
-        "latest_crawl": 1619696302
+        "latest_crawl": 1619891314
     },
     {
         "id": "schairerits.mutlangen",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.0",
-        "latest_crawl": 1619696312
+        "latest_crawl": 1619891322
     },
     {
         "id": "de.stadtgarbsen.hellofomo",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1619696315
+        "latest_crawl": 1619891323
     },
     {
         "id": "schairerits.gemeindealfdorf",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2.4",
-        "latest_crawl": 1619696319
+        "latest_crawl": 1619891324
     },
     {
         "id": "tuerantuer.app.integreat",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "2021.4.3",
-        "latest_crawl": 1619696554
+        "latest_crawl": 1619891328
     },
     {
         "id": "de.solingen.solingenapp",
         "store_country": "de",
         "store_lang": "de",
-        "latest_crawled_version": "2.2.24",
-        "latest_crawl": 1619696614
+        "latest_crawled_version": "2.2.27",
+        "latest_crawl": 1619891471
     },
     {
         "id": "com.ac.C4PTZR51",
@@ -149,7 +149,7 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4.6.100",
-        "latest_crawl": 1619696628
+        "latest_crawl": 1619891616
     },
     {
         "id": "de.nexoma.arnsbergapp",
@@ -163,34 +163,34 @@
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.2",
-        "latest_crawl": 1619696637
+        "latest_crawl": 1619891627
     },
     {
         "id": "com.staffbase.klinikensuedostbayern",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "4.6.000",
-        "latest_crawl": 1619696638
+        "latest_crawl": 1619891636
     },
     {
         "id": "plus.gemeinde.spiesenelversberg",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1619696640
+        "latest_crawl": 1619891637
     },
     {
         "id": "de.werdenktwas.darmstadt.cityapp",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "3.9",
-        "latest_crawl": 1619696642
+        "latest_crawl": 1619891645
     },
     {
         "id": "it.uugot",
         "store_country": "de",
         "store_lang": "de",
         "latest_crawled_version": "Variiert je nach Ger\u00e4t",
-        "latest_crawl": 1619696645
+        "latest_crawl": 1619891650
     }
 ]

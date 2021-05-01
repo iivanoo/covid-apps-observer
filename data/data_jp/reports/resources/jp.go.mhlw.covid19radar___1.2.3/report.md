@@ -240,6 +240,14 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="1_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 1 reviews"/>
 </p>
 
+> Network connection error. 用了两个手机，都是出现这个error message，因公出差必须要下载，但是根本不能用！不符合日本人的做事方式啊。如果是只能在日本的网络情况下使用的话，起码在app的说明里提一下吧。。。<br> :date: __2021-05-01 05:31:46__
+
+> always showing no internet connection even though i use high speed internet<br> :date: __2021-05-01 05:02:44__
+
+> Of course it does nothing other than draining your phone battery. It's pretty much a prank app.<br> :date: __2021-05-01 01:32:51__
+
+> They can get more freelancers to make better software cheap.<br> :date: __2021-04-29 16:59:30__
+
 > Not fulfilling its purpose. Uninstalled.<br> :date: __2021-04-16 06:33:49__
 
 > No internet connection....<br> :date: __2021-04-14 22:58:40__
@@ -251,13 +259,5 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 > これ、海外からの帰国者に帰国前インストール必須にしてますが、開くと多分日本のipアドレスからじゃないと弾かれますね。数百億円かけてこのレベルのアプリって。。。<br> :date: __2021-03-19 08:06:55__
 
 > 星一つもあげたくない。<br> :date: __2021-03-19 05:01:45__
-
-> Blocked on the accepting the terms of use page because of a network connection failure. But my connection works fine...<br> :date: __2021-03-18 01:38:58__
-
-> NETWORK CONNECTION ERROR !!<br> :date: __2021-03-07 11:10:41__
-
-> 規約に同意して次へ進もうとすると通信エラーになり先へ進めません。<br> :date: __2021-03-02 05:12:30__
-
-> Is it just a mockup?<br> :date: __2021-02-26 05:43:29__
 
 

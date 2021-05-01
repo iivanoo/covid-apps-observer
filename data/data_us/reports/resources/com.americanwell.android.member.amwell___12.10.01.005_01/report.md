@@ -213,6 +213,12 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Excellent and prompt. Shows concern for patients and great diagnosis.<br> :date: __2021-04-30 18:06:30__
+
+> Wonderful experience. Dr asked a lot of questions before prescribing me different medications. She was excellent. Can't thank her enough.<br> :date: __2021-04-30 17:22:20__
+
+> Clarity and clear speech simple access<br> :date: __2021-04-29 21:03:16__
+
 > Dr. Gindy is an amazing Physician<br> :date: __2021-04-21 18:31:23__
 
 > I've used this twice and had wonderful experiences, quick, efficient and knowledgeable doctors. Way better than driving to and waiting at an urgent care. Plus it saves your information so you don't have to re-enter in all of your insurance and all that stuff every time you use it. I hate all those forms at the doctor's office.<br> :date: __2021-04-19 04:43:47__
@@ -226,12 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Quick and easy, love it!<br> :date: __2021-04-10 14:42:08__
 
 > Very good<br> :date: __2021-04-06 16:30:45__
-
-> I had a great dr<br> :date: __2021-04-05 21:54:30__
-
-> Fast and easy<br> :date: __2021-04-05 20:34:25__
-
-> Love this app .<br> :date: __2021-04-02 18:14:19__
 
 
 

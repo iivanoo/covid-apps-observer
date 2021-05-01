@@ -143,25 +143,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Umar. Farooq<br> :date: __2021-04-29 10:30:05__
+> Pankai monDol<br> :date: __2021-05-01 13:03:49__
 
-> it is very slow app. result uploaded very late<br> :date: __2021-04-29 06:46:17__
+> it's nice<br> :date: __2021-05-01 10:38:09__
 
-> Good<br> :date: __2021-04-29 06:31:28__
+> Nice<br> :date: __2021-05-01 10:17:47__
 
-> Good app<br> :date: __2021-04-29 06:02:42__
+> Good<br> :date: __2021-05-01 05:31:34__
 
-> Great uae<br> :date: __2021-04-28 20:08:15__
+> Good<br> :date: __2021-05-01 00:31:39__
 
-> Super app<br> :date: __2021-04-28 17:03:57__
+> Excellent<br> :date: __2021-05-01 00:23:59__
 
-> Very nice and helpful app<br> :date: __2021-04-28 14:42:46__
+> Bad<br> :date: __2021-04-30 20:28:36__
 
-> v.goood<br> :date: __2021-04-28 09:49:08__
+> Very good<br> :date: __2021-04-30 19:57:15__
 
-> Very Good App<br> :date: __2021-04-28 07:12:10__
+> Good app<br> :date: __2021-04-30 18:18:05__
 
-> Is not open<br> :date: __2021-04-28 06:03:51__
+> Good app<br> :date: __2021-04-30 18:03:08__
 
 
 
@@ -199,7 +199,9 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
 
-> good app<br> :date: __2021-04-28 14:33:57__
+> Hi i downloaded the app but unable to open .<br> :date: __2021-04-30 02:41:12__
+
+> After login with my emirates id it shows the result. But failing to show my photo.<br> :date: __2021-04-30 02:36:48__
 
 > I am giving three star, not updating properly, so please to take care this application.<br> :date: __2021-04-25 15:50:57__
 
@@ -216,8 +218,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 > Calling the call center from last night no response and no update on this app of my latest results including my second vaccine updates,please increase call center call taking reps<br> :date: __2021-04-15 09:23:53__
 
 > Good<br> :date: __2021-04-13 18:06:39__
-
-> Isn't it suppose to say when the person took the first and second dose of the vaccine? How do I contact to say I should have the E status.<br> :date: __2021-04-09 22:46:56__
 
 
 
@@ -255,24 +255,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Support is none existent. Haram application grabbing people's money and time.<br> :date: __2021-04-29 09:51:15__
+> I am vaccinated...but my first vaccinated date was showing wrongly in app what can i do<br> :date: __2021-05-01 16:48:35__
 
-> Doesn't not update my PCR<br> :date: __2021-04-29 09:23:27__
+> I cannot open it even after just installing it. it goes back to my phone home as i press it<br> :date: __2021-05-01 15:19:04__
 
-> The app doesn't update on time and no one is there to help or answer your calls. I've tried reaching them through social media, what's app, phone calls and email yet nothing works. CAN SOMEONE PLEASE GET BACK TO ME<br> :date: __2021-04-29 08:09:36__
+> Your app does not have an option to check the result using passport No. It is making a confusion to the people who are on visiting visa who made the test using passport<br> :date: __2021-04-30 22:48:30__
 
-> No one is answering calls in toll free number. Doesnt get updated real time.<br> :date: __2021-04-29 07:17:17__
+> Horrible.. The worst app I have ever tried to use. First, it doesn't open for ages , then if it does, it is hard to use. Worse, I have done my vaccination, been 28 days but can't see it, tried contacting through whatsapp but no answer and no help, this is very frustrating. Not at par with Dubai standards at all<br> :date: __2021-04-30 21:14:59__
 
-> Doesn't update PCR results. Call center and emails to support are unanswered. Sad this is a required application.<br> :date: __2021-04-29 04:32:13__
+> App are not working on my (Samsung note8 ) why?<br> :date: __2021-04-30 19:46:42__
 
-> If<br> :date: __2021-04-29 00:52:19__
+> Freezing and show no information<br> :date: __2021-04-30 15:43:08__
 
-> Too much delay in updating pcr result<br> :date: __2021-04-28 16:01:34__
+> This is very bad app not updated covid 19 test and customer service close the phone on my face and I try to call them again then I'm waiting for more than 30 minutes and they didn't respond<br> :date: __2021-04-30 13:36:54__
 
-> app dose not update pcr result<br> :date: __2021-04-28 13:40:56__
+> I have tested RTPCR in seha and report has been got thorugh email.still Alhosn app doest updated my PCR negative result.so i decide to contact them and there is clearly no way to reach them.email failed because its showing full ,on phone call its not reachable.I have to go abudhabi already waited for 10days.now its 13days .48hours already finished still result not updated.what a shamefull app which actually not helping rather bringing trouble to people.wastingmoney,time,energy in every manner😑<br> :date: __2021-04-30 10:57:21__
 
-> Cannot open and log in<br> :date: __2021-04-28 13:11:13__
+> App is not updating even after 48hrs of testing. Very bad experience<br> :date: __2021-04-30 07:49:49__
 
-> App doesn't updating even I got the PCR Test result on SEHA App and SMS, And also email, but in the border they're not allowing inside unless until result update in the alhosn app, see that is not our problem the issue in their alhosn app please fix the asap . My entire efforts for al ain visit waste I spent the money for covid and time fuel all waste due to alhosn app support team not looking into this mater very serious<br> :date: __2021-04-28 11:39:56__
+> do not open thies app<br> :date: __2021-04-30 05:46:15__
 
 

@@ -215,6 +215,8 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="4_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 4 reviews"/>
 </p>
 
+> Fast and convenient way to see a medical provider. Video quality could be better, but adequate for my purposes.<br> :date: __2021-04-30 20:48:21__
+
 > The doctor was very professional and took his time to resolve my issue<br> :date: __2020-10-12 23:13:41__
 
 > Very good experience with clinic and doctor. Your questions only show selective answers as NO and NOT SURE.<br> :date: __2020-07-04 18:30:48__

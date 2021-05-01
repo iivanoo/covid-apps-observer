@@ -11,27 +11,27 @@
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.5.0",
-        "latest_crawl": 1619700389
+        "latest_crawl": 1619894986
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1619700393
+        "latest_crawl": 1619894994
     },
     {
         "id": "fct.inesctec.stayaway",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.1.3",
-        "latest_crawl": 1619700395
+        "latest_crawl": 1619895001
     },
     {
         "id": "pt.cmpesoregua.app",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1619700401
+        "latest_crawl": 1619895006
     }
 ]

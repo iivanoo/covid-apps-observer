@@ -168,6 +168,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 4 reviews"/>
 </p>
 
+> La aplicación se sierra aunque no termines la sesión.<br> :date: __2021-04-29 14:28:43__
+
 > Muy buena App<br> :date: __2021-03-19 11:19:43__
 
 > No consigo enterarme<br> :date: __2020-11-27 13:53:31__
@@ -210,6 +212,10 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
+> NO VALE<br> :date: __2021-04-30 13:56:51__
+
+> Un desastre,os debería dar verguenza,a los "seudoprogramadores",de realizar este puntual "mamaracho",de APPS.<br> :date: __2021-04-29 14:34:28__
+
 > Con tantas medidas de seguridad que pide, al final te da error para todo. Por lo tanto sirve para poco. Seguro seguro que nadie con tantas trabas la va a utilizar. Da error continuamente. Imposible descargar certificado vacunacion. Si no sirve quitenla.<br> :date: __2021-04-28 15:30:14__
 
 > Absolutamente inservible. No comprendo que haya varios que ponen 5 estrellas y después agreguen que no funciona nada. Buena parte de las app institucionales son un petardo, porque prima el parentesco político de los desarrolladores, sobre su preparación y así es imposible.<br> :date: __2021-04-28 15:11:04__
@@ -225,9 +231,5 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > Imposible dar de alta a los datos personales. Según la app todos los datos son erróneos. No sirve para nada.<br> :date: __2021-04-23 15:59:03__
 
 > Fatal<br> :date: __2021-04-23 14:22:29__
-
-> La app no es más que una serie de accesos directos a la web. Tras identificarte en la app debes volver a identificarte a cada una de las webs a las que te dirige. Para esto me guardo las webs en mis favoritos y le ahorro una app al teléfono.<br> :date: __2021-04-22 13:42:34__
-
-> No carga nada<br> :date: __2021-04-18 16:36:12__
 
 

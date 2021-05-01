@@ -1,20 +1,140 @@
 [
     {
+        "reviewId": "gp:AOqpTOFP4NDtG_qilB6nlAFYDD2cNyYwQL0z4QY4p_mpHg6pBYmb3aVrjPayOYM47GfdOUSD3OzCLABrL20Q2ik",
+        "userName": "George Waltz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsSHZDM226gvODiV5rC1KlgiONA7iCbPu0oJqXkEI",
+        "content": "So far it's good.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-05-01 08:13:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF52Ub3Q61uafKQ6G9H_f098mfpDdIMpN3R48lviqJB9pm2DzDrE7G8Y9WzKt-H5Ru0QJxa5yisH2y_QqY",
+        "userName": "Ronald Sohn",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy1UZ1wBPCASfQFeUKSxJWgKoNMR2QZUjaKYK1K=mo",
+        "content": "The last time the Exposure Notification updated was on April 18, it should update more often.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-05-01 06:13:25",
+        "replyContent": "Hi Ronald, if you have already made the settings changes at https://dontkillmyapp.com/samsung please navigate to Settings>Google>COVID-19 Exposure. Next, press the ellipsis at the top right. Select Exposure Checks. Then press the ellipsis again and select, Export Exposure Checks. Please email this to our support team MDHHS-micovidalert@michigan.gov",
+        "repliedAt": "2021-04-13 17:53:03"
+    },
+    {
+        "reviewId": "gp:AOqpTOGVmjdEa-Ttm5fQBSU1KoYQI0M5fCtWOrJptAcgjf48oI_qyGK7ANuq8Rdi8xjqTAr9IE1VK2XM0K3-pW8",
+        "userName": "Harley Camp",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaDmidz5-HD3JV3pfFtJefWIa3OJP5Igbi7vRkCA",
+        "content": "I've never gotten an alert but I known multiple times I was in contact with COVID. I live behind the covid testing center and not a single alert Pathetic",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-30 21:08:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGYh_6610yiqe6pYrc4eXJugO0-rdBKpMDJw9oW3CfVSXeZkT1ARExFSq12o13kfxo-nP1Aj7QURs01Zow",
+        "userName": "Lori Sharrar",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEdct2g-B0cFW8y-DEkmPJMacowz6OcGGOpRB2",
+        "content": "The app has not checked anything since april 15th, its now april 26th, in my opinion its useless. Its April 30th. Im deleting your app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-30 19:17:20",
+        "replyContent": "Hi Lori, sorry to hear this. Your LGE device\u2019s battery management software may be cancelling background tasks created by the exposure notification system. We are continuing to research & work w/ Google to identify a solution. Please update settings at https://dontkillmyapp.com/. Email us mdhhs-micovidalert@michigan.gov if you need additional help.",
+        "repliedAt": "2021-04-21 18:16:43"
+    },
+    {
+        "reviewId": "gp:AOqpTOFVz1evRKvbOiTdA9tFaWY7L2ZoAvablMsbJqxNnhgRRi4cHq_ZRV5QJxCQEGuN8zwMV22JiSNbiH_RGXc",
+        "userName": "Jack Friese",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaQEXdtJrxDpKqZV1i2XW5b3yWJbAfcQpptiGZTw",
+        "content": "Updated review: The app still stops functioning if I dont check it for a day. Also, it looks like people are unwilling to or unable to notify through the app. I've had 2 coworkers in the past 2 weeks test positive and I've heard nothing through this app. Completely useless.",
+        "score": 1,
+        "thumbsUpCount": 7,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-30 17:04:24",
+        "replyContent": "Hi Jack, the app requires a unique PIN in order to report a positive case in the MI COVID Alert app. To get your PIN, call your local health department first or the MI COVID-19 hotline by dialing 2-1-1 or 888-535-6136. Please reach out to our customer support team at mdhhs-micovidalert@michigan.gov if you need additional assistance.",
+        "repliedAt": "2021-04-30 20:52:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOEEcLlQ97x5nMjFtSKe8hc0lm2YrB56vFYpFNuG7fgI10GZqytDQXjPSrYzmbXQFj3sWcxbOPsmIJqYb0g",
+        "userName": "Donald Jory Jr.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLKhxgwyIg8wSrYUwKunfQBq8Jer3zqy_kWbx4",
+        "content": "You need a pin number to report a positive Covid result. I called and left a message, but they never called me back. So... that renders this app useless, aside from Covid news & numbers.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-30 07:10:17",
+        "replyContent": "Hi Donald, you are correct, the app requires a unique PIN in order to report a positive case in the MI COVID Alert app. Please reach out to our customer support team at mdhhs-micovidalert@michigan.gov and share your specific local health department information so we can investigate this further.",
+        "repliedAt": "2021-04-30 21:36:34"
+    },
+    {
+        "reviewId": "gp:AOqpTOHUht7wK5ESTq__Krd2Ip1cHT1qHHMQzduiSZWhPyS8ARWlxUxGpQPzRwkyIn69M4WkcI7hA2RCu9FCoQk",
+        "userName": "Katrina Pirkola",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwYXIR172EGY1ieXGUZDotD_xybZDqTzGJ0aztq=mo",
+        "content": "it was a good idea if it worked...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-29 21:16:35",
+        "replyContent": "We apologize for the inconvenience. Can you be more specific please so that we can identify the issue of what is not working? Don't hesitate to reach out to us at mdhhs-micovidalert@michigan.gov for further assistance.",
+        "repliedAt": "2021-04-30 21:39:04"
+    },
+    {
+        "reviewId": "gp:AOqpTOEu2TBQItnn28DUWis0XU_OObIYzdSWenv2CxXF8BB8EC-kX_5xXxcHkBuRjsULH4Zue8THaVE4giufORs",
+        "userName": "Sam Max",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLkexeMGszWh919UFzChB_TmwBTT1fYCqHnZSjhQ",
+        "content": "It hasn't up dated sentence Feb. ?",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-29 18:52:27",
+        "replyContent": "Hi Sam, have you tried deleting the app and reinstalling it. This has worked for some of our Google Pixel users. You can also update battery settings at https://dontkillmyapp.com/. If you continue to experience issues after these steps, please reach out to our support team at mdhhs-micovidalert@michigan.gov and we can assist you further.",
+        "repliedAt": "2021-04-29 19:21:25"
+    },
+    {
+        "reviewId": "gp:AOqpTOGlmQ-qFsm8plO-e28hmGkz_uOSvVLPNNZhSqkfc-0CA2BNQJwbGvIjztuOTEjsP6HCvsbZFWI-JFDR48Y",
+        "userName": "Nanette F",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmGv-mPsGCzynDkwwknKR9iFGFftKFBHcjSNjn=mo",
+        "content": "I have to Uninstall the app and reinstall it because it randomly stops checking for exposures. EDIT: UPDATE: after following the instructions above about battery power it got WORSE. It not only stops checking for exposures but drains my phone . I would change the rating to Zero if I was able. Lots of other States got it right, did Michigan order their App from Wish?",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-29 17:26:38",
+        "replyContent": "Hi Nanette, we understand the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & work with Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/samsung. Email us mdhhs-micovidalert@michigan.gov to assist.",
+        "repliedAt": "2021-04-26 17:10:59"
+    },
+    {
+        "reviewId": "gp:AOqpTOH0KTtV8BW6L2JSerzXIlOwGnOBJG8X7QQcwd_9H-0a3-BnKZ2Vz95CfucFX9VRSPzygDBwbsupa_u8ErM",
+        "userName": "Sara Kruger",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giv2Bw9ZZKda9M5XrnBkV7Mp7o8zbTTeHT-gCLO",
+        "content": "It just keeps saying I last checked on February 10th. I've tried checking several times since then and it never updates",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-04-29 13:24:41",
+        "replyContent": "Hi Sara, sorry to hear this. Your device\u2019s battery management software may be cancelling background tasks created by the exposure notification system. We are continuing to research and work with Google to identify a solution. Please update settings at https://dontkillmyapp.com/. Email us mdhhs-micovidalert@michigan.gov if you need additional help.",
+        "repliedAt": "2021-04-29 15:55:40"
+    },
+    {
         "reviewId": "gp:AOqpTOHpd6qyA_CcyVbaEEtISJ3H2pOWoU9dXv9hnWVj4c3ihVZnbLa6NCK7SXQuWiqEwAJL8IUiQgsWHiXutyY",
         "userName": "Mark Brooks",
-        "userImage": "https://play-lh.googleusercontent.com/-bPEP2JDJFlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDlnc0Gceq0O5UX88FI-6IqMcYqg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyo9kn4v39PGeZtQr3TC0wAPhY4P3BOSYk5w1A8=mo",
         "content": "Today is 2/24, the last scan was on 1/24. Leave it to the government to create a useless app. Once the problem was fixed, it's working good now!",
         "score": 4,
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-28 22:16:18",
-        "replyContent": "Hi Mark, the newest version (1.3) of the MI COVID Alert app is available for download. This corrects issues you were having with Exposure Checks not updating regularly. Please uninstall the current version first & then install version 1.3. Remember that exposure checks may take up to 24 hours before they start to appear.",
-        "repliedAt": "2021-03-05 20:54:37"
+        "replyContent": "Hi Mark, thank you for the update. We are glad to hear the app is working successfully for you. Stay well!",
+        "repliedAt": "2021-04-29 15:57:28"
     },
     {
         "reviewId": "gp:AOqpTOErMyHyvGZhu8RNv4wCNjQ7U-MRa_j3q2Q-WXgg29rVRs8U9taxaN2LcsWOoRq3lALbdHrAQwWu2E6c56M",
         "userName": "John Boston",
-        "userImage": "https://play-lh.googleusercontent.com/-hkd_PJvdBHM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnxDdTVLyc7HcP_so77C2iQenoX3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIC2fND-c8z2f27vwTIK_h39rUF109dqp6hYqx=mo",
         "content": "I check everytime I go out. It makes me feel safe and secure.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -50,7 +170,7 @@
     {
         "reviewId": "gp:AOqpTOE9ZkMYbSTYkTUmb6ZIEn9BLdRFF3mEOG6jtsqXiPZ8FvHFYbbL0860C_tzzbvTKhA5Vo2fy6E9h02i2c8",
         "userName": "Colin Kieliszewski",
-        "userImage": "https://play-lh.googleusercontent.com/-KYsDl5octWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckG5caWP6C9MePCPBHVoJY0P9BDhA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzbqlxP1ZsTIS3cTvQl-bmyDtONwsbJV7uzXSQj=mo",
         "content": "The app only updates its check when you open it which defeats the purpose.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -58,18 +178,6 @@
         "at": "2021-04-27 16:37:45",
         "replyContent": "Sorry Colin to hear this. Your Samsung device\u2019s battery management software may be cancelling background tasks created by the exposure notification system. We are continuing to research & work w/ Google to identify a solution. Please update settings at https://dontkillmyapp.com/. Email us mdhhs-micovidalert@michigan.gov if you need additional help.",
         "repliedAt": "2021-04-27 20:26:54"
-    },
-    {
-        "reviewId": "gp:AOqpTOGYh_6610yiqe6pYrc4eXJugO0-rdBKpMDJw9oW3CfVSXeZkT1ARExFSq12o13kfxo-nP1Aj7QURs01Zow",
-        "userName": "Lori Sharrar",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEdct2g-B0cFW8y-DEkmPJMacowz6OcGGOpRB2",
-        "content": "The app has not checked anything since april 15th, its now april 26th, in my opinion its useless.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.3",
-        "at": "2021-04-26 16:16:07",
-        "replyContent": "Hi Lori, sorry to hear this. Your LGE device\u2019s battery management software may be cancelling background tasks created by the exposure notification system. We are continuing to research & work w/ Google to identify a solution. Please update settings at https://dontkillmyapp.com/. Email us mdhhs-micovidalert@michigan.gov if you need additional help.",
-        "repliedAt": "2021-04-21 18:16:43"
     },
     {
         "reviewId": "gp:AOqpTOG7Oy63vUeHZvv7GooBiE8uU9cpJkAlccu8xj6OY2HHuSajRv0VUfrtT2_dts47yE36TG2WUht6v7o6Suc",
@@ -86,7 +194,7 @@
     {
         "reviewId": "gp:AOqpTOFIOTKImiYfwJJ-ZTIfh1VPTwAKZ7TX7wuNOI_lMBBDq0A2VO2u1V3v041FPX_lGR3NEYLhMm00Cy0ktdA",
         "userName": "Nemer Boussi",
-        "userImage": "https://play-lh.googleusercontent.com/-N1B7eQCi7hs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmksvkR8W-DWqOmyhhaxODRNIAt3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzsR9mBbonGriK-YsOimWmGa43AfC5XhjZub9se=mo",
         "content": "Doesn't work",
         "score": 1,
         "thumbsUpCount": 0,
@@ -98,7 +206,7 @@
     {
         "reviewId": "gp:AOqpTOHAFnJl9FBQd0JoThCZ5ZFU6ZLfQW7_vGq2FGgSbr-wsoODh3TxXXHpo1434K0wvX7V2nHP9NquMbG7cLM",
         "userName": "Grant Warr",
-        "userImage": "https://play-lh.googleusercontent.com/-JqYGGKcRsQw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclQu0CNbpCRh4UIm0ZqJroUpK5DXA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx2wxUKvCIBRzWwwS7UqQ2t0EMdFKZI45k06qU-=mo",
         "content": "Exposures was last checked mid-February despite having bluetooth on all the time and occasionally opening the app.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -132,21 +240,9 @@
         "repliedAt": "2021-04-26 17:09:54"
     },
     {
-        "reviewId": "gp:AOqpTOGlmQ-qFsm8plO-e28hmGkz_uOSvVLPNNZhSqkfc-0CA2BNQJwbGvIjztuOTEjsP6HCvsbZFWI-JFDR48Y",
-        "userName": "Nanette F",
-        "userImage": "https://play-lh.googleusercontent.com/-IK44MqZG7_Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmsL0p1kwUFrA_OO7l4M9B_WZGP4w/photo.jpg",
-        "content": "I have to Uninstaller the app and reinstall it because it randomly stops checking for exposures",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.3",
-        "at": "2021-04-24 02:07:14",
-        "replyContent": "Hi Nanette, we understand the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & work with Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/samsung. Email us mdhhs-micovidalert@michigan.gov to assist.",
-        "repliedAt": "2021-04-26 17:10:59"
-    },
-    {
         "reviewId": "gp:AOqpTOERqk2MhXJ6kRaVel-_Vx2hDWwUWim14F5XPDImhDcKRDO-unWUKiCSXER65quk1mbs_qslsE7z-NYpC5E",
         "userName": "Peter Ziegenfuss",
-        "userImage": "https://play-lh.googleusercontent.com/-D0fb-0GR1GU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIUVjb5vCGF6cf7pwN4AEAnbn1sQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw5GA-WhBgua3eLM_2q5UUejGtDb_ghtK8v4THK=mo",
         "content": "I have had this app installed for 3 months and I am out and about all the time. According to this app I have never even been close to anyone with the \"disease\". You must be kidding me. With the whole country shut down because of this I must have been near someone by now. What a joke. Either make it work or trash it. You are supposed to be protecting peoples lives but you are just giving false hope. Fix the damn app, you idiots, and quit making silly excuses.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -170,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOFwvIsgLbcjBWjvwDqweAdUoBokUZkUpsMXyou_iD927JWMCtZGEk2BP7RnSseTEK-MRjZAA--7p3Lwv8Y",
         "userName": "Jocelyn Totz",
-        "userImage": "https://play-lh.googleusercontent.com/-pULpLIYQvGI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn427QHEED7hfR3rQRt4fjY-poASQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzkVRz3VDZdFkXMBmBYY4SDiCAmUztRC2a9djhM=mo",
         "content": "This is probably the best way to get information on whether you may have been exposed to the 22nd century plague - Sars COVID - 19. A must for all in this day and age. I applaud the creators of this app.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -218,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOEdFT-eu6kIjm0Sn6hmRJ48qdKLOLodl1V-cDWefor2EuuhdXiDcLX7JCss8Fauo4GRQo3ualVWZDlomEU",
         "userName": "cutter john",
-        "userImage": "https://play-lh.googleusercontent.com/-F0mvsNDZAio/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclo8jx_H4XZKhflyr6w8OwSAeddPw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwo7UY6tlFI0XjITRFAP5kuRew6NA5wAze5_XFn=mo",
         "content": "App is hot garbage",
         "score": 1,
         "thumbsUpCount": 0,
@@ -230,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOGRfqqJK_12F09LTt6n_vPti5GhcHz5-278IIJHihnXuG9ZkjghVtnm5QV1It9AzQasW4Izw3bCyvoDRps",
         "userName": "Jeri Watson",
-        "userImage": "https://play-lh.googleusercontent.com/-C6PwJqeERd0/AAAAAAAAAAI/AAAAAAAAA5A/AMZuucnze5xIUv2Newwo5FJfnEeG1bkz9A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7wQwviEIue3UgiFONkI0ruoCv6LXnrJF5ay8qyA=mo",
         "content": "Hasn't checked for exposure since Dec. 31, 2020. No way to manually update it. My Bluetooth is always on, I never have the battery saver on. So I'd have no idea if I had happened to come in contact with anyone who had it. Feels like #puremichigan",
         "score": 1,
         "thumbsUpCount": 0,
@@ -257,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgLAIRt5kT4fl3kUdqdn1C2tM4QEnICY94Rq1Kq5Q",
         "content": "I tested positive for COVID-19. I wanted to share it in the app so I could alert others. When you test positive, the DoH gives you a PIN that you then enter into the app to verify your positive test result, which should broadcast it on the app. But here's the major problem: it didn't recognize the TWO PINs they sent me. I tried phoning someone, but had no idea who to contact. I was desperate to get the word out, because I work in a busy location. Nothing worked. I tried the codes again and again, but the app kept rejecting them, saying that it wasn't a valid code. I called the admin office-- I think???-- of the local health department, because I had no idea who else to contact to help me. All I did was call the number the app gave me. No responses from anyone. I'm starting to think this is happening with other positive testers as well, and that's why exposures aren't properly updated. Because of this, this app is LITERALLY. POINTLESS. Please do something about this. I tried to inform as many people as possible, but I can't reach out to everyone.",
         "score": 2,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-18 15:45:58",
         "replyContent": "Hi Nathan, truly sorry to hear about this experience. Can you email your specific local health department info, date of when this happened, etc., to our team at mdhhs-micovidalert@michigan.gov so we can investigate this further. There was an issue over the weekend causing PINs to fail. You should be able to enter the most recent PIN.",
@@ -266,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOFlW-pcqf_UhRhsT-mcW-lHIyrwHKWeiw6AlbTUYmU71zpAB2ns-Teg6A-E_DZ0dDgW8Nm9cb97CAi-iUk",
         "userName": "Kim L Massena",
-        "userImage": "https://play-lh.googleusercontent.com/-3dBOMeeAxxo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnV2iPyw9Rwt2rAyF0Ti73ml9IglA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxY0iIou-3SXIU2uKOVfHoWq5wtUUBVHniw4VNE=mo",
         "content": "I like better than first one.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -302,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOEP5D_PbVg4y22iOYKx5fY-5dvCxAMiwUTDhGNwjESHlTl73jKPjLoiygbqfXJ6F_Z6HGYYJZBBpW6GC8M",
         "userName": "Paris Pope",
-        "userImage": "https://play-lh.googleusercontent.com/-VrXbEDMdmNQ/AAAAAAAAAAI/AAAAAAAAF5o/AMZuucnMQ8XW_SDqO6dt104p9vriczJV7A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwvl32UA8DcvFLJT6dd-gKJCRktxAlXxN58i7UOPQ=mo",
         "content": "Useless I've had it on since I installed it and I travel all over for work and.i live in michigan the highest infection rate and not one alert",
         "score": 1,
         "thumbsUpCount": 0,
@@ -314,7 +410,7 @@
     {
         "reviewId": "gp:AOqpTOGPnCpM7YuxwOdRr24Uq4TaNS-PSh2WRXRjRovQy3Yvt3aa0eEmjqI2NGwrysi3TGdePXVviHEpiUxgDV8",
         "userName": "John Ward",
-        "userImage": "https://play-lh.googleusercontent.com/-iY5zH3FvUus/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3KWAKmVfmNWuWaFTIviz9UvQEyA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSQ2its0ndR_cEEkG3JcBf-2IOMo4cnv9OSew6=mo",
         "content": "Update: App was working fine until April 4th. It is April 17th today and I haven't had any exposure check since the 4th. I changed my settings so the app doesn't get turned off due to battery usage, but that did nothing. Why do the other states have an app that works but not Michigan? I work in a grocery store and this would be so helpful if it worked, but instead it's a big pile of steamy turd.",
         "score": 1,
         "thumbsUpCount": 52,
@@ -350,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOHk0YmK9rn2Z65jrwl-ZYyngPLukvGDtanzTr922ZbDyXpYw0rYCOBDJqDy4uGZjXcRtmzDAhCsqvwMEvc",
         "userName": "Therese Barraco",
-        "userImage": "https://play-lh.googleusercontent.com/-kmfRwHD8arI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSH2kXlVKNHKcUMOMM0E_ray6Yew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzGXKs2sobEg9y2GT1JWOVmKow3SPutLnIHVhbt=mo",
         "content": "Mine hasn't checked for exposures since January 3rd. It's April 13th. Bluetooth has been turned on the entire time.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -374,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOG45kxKgNH9pqcRiYoOtN92wHGC8fdxcJu1gTAPRFR8Q3AhmKyMHBWgRS1ynQzkgvEh30Q3UuzWTSLgV0w",
         "userName": "LaTesha Rich",
-        "userImage": "https://play-lh.googleusercontent.com/-1OcrzcELMH4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1n8a9e0EE2RHsvernjXFtyYuzZw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwOkh_lzm09admpbxh7ErJtyCCKcmnaunEnie2=mo",
         "content": "Never alerted, and my own child tested positive",
         "score": 1,
         "thumbsUpCount": 0,
@@ -386,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOGfD-knuYGFNWYyabCfhwU9KgsTXVSQJNeOBwZ_hgTfrdPTM3v42Os1dNMvTsVW_g7wlN3EdRYtNuRW2Jo",
         "userName": "George Coley",
-        "userImage": "https://play-lh.googleusercontent.com/-R0nv4XX9rLc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucna6ZoyD_CgXgjW2iUlqROkE--S8Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyaTRKPJ1ASSW2wwnz8FJekSHAsx2kN-0CD_rWh=mo",
         "content": "I only get notifications that tell me that it couldn't do a check without bluetooth being on. I understand that bluetooth needs to be on, but my device is on airplane mode at night while I am asleep and this app only seems to run a check overnight. Never have I received an accurate check from this app.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -398,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOGdVHeDXqhwmGTpBZAApnguAXvu9SCn0S3TcP_hzpBLAzFF9Xue1uB1T7yHthjB6SAOqHuX2sS-sPAqna0",
         "userName": "Tiffany Boedeker",
-        "userImage": "https://play-lh.googleusercontent.com/-a3-JLiL6wew/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSykmQ9mn2XUJYsO4zhHh-xX3Tcg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwFnD1Q_3z9zd8hGk1VEZV0T1kLcpRCQW5St1jS=mo",
         "content": "January 7th was the last time an exposure check was run. It is now April 12th.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -422,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOHF6JEdmPQb2jUP1ph2oW7REFPrjBGg2Ds5xVthhterVhTF7C4sHgdyH3dBPif88lXAMW1L3kYDVP1a6vg",
         "userName": "David Legg",
-        "userImage": "https://play-lh.googleusercontent.com/-T4QESm6EDOQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnrlmA5mNgwfX4JtgXpYVJIiPbSkA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwqweRgxrbd7AVl0Z7kwBNJtpzesEAJX1iB49PD=mo",
         "content": "It is now April. The app says it hasn't checked for exposures since Feb. 11. When I tried to export exposure notifications as outlined in other replies there were no notifications listed, and the info text says that the log only includes data for the last 14 days. When I click export I don't see that anything has happened, and the \"last checked\" date is still Feb. 11.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -430,18 +526,6 @@
         "at": "2021-04-12 14:25:38",
         "replyContent": "Hi David, we've have seen issues where the exposure checks are not displaying the most current information and we are sorry for this. Can you please email a screenshot where you are not seeing the exposure check data to our app support team at MDHHS-micovidalert@michigan.gov so we can investigate this further.",
         "repliedAt": "2021-04-13 17:49:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOF52Ub3Q61uafKQ6G9H_f098mfpDdIMpN3R48lviqJB9pm2DzDrE7G8Y9WzKt-H5Ru0QJxa5yisH2y_QqY",
-        "userName": "Ronald Sohn",
-        "userImage": "https://play-lh.googleusercontent.com/-IIZqN4xQSig/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEoERb11Ip8FLWJH0KYffZq7DZCQ/photo.jpg",
-        "content": "The last time the Exposure Notification updated was on March 31, it should update more often.",
-        "score": 2,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.3",
-        "at": "2021-04-12 05:38:38",
-        "replyContent": "Hi Ronald, if you have already made the settings changes at https://dontkillmyapp.com/samsung please navigate to Settings>Google>COVID-19 Exposure. Next, press the ellipsis at the top right. Select Exposure Checks. Then press the ellipsis again and select, Export Exposure Checks. Please email this to our support team MDHHS-micovidalert@michigan.gov",
-        "repliedAt": "2021-04-13 17:53:03"
     },
     {
         "reviewId": "gp:AOqpTOGKfGeooncn6-7RXIFeYb1ufvPw6NwP4Dpyb2lPWALCwF31SR-8TBosw-Z4TlMxgnF76cBk8bUw0KuGH3U",
@@ -458,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOFv784siqEh1QOuNQqF3DJtwn7OM7uhZzonf4KUUYyH10zTav5EANnGZJHAoxiYsGvDmXi_AT_o-6V_4NE",
         "userName": "Michael Kob",
-        "userImage": "https://play-lh.googleusercontent.com/-5zdzUxOoHmM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkt9EHhgToyoaLDz3Y91Yy4Vphuw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyMfRAuLFQB5zKerfT1rEImJX-Fj1ubeQ8-QX2y=mo",
         "content": "This app hasn't checked or updated since January 4, 2021. How are we supposed to rely on something that sucks this bad.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -470,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOFkQTqKJeSrP-KmzLNXSa0WNSU7xObvKnF1y2iLZPVmrmZyL82Wij6NcKpO-b8uH-Y2o0KPSxmxlAeqBCY",
         "userName": "Dale Boehm",
-        "userImage": "https://play-lh.googleusercontent.com/-XuiOFxYZVlc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnck3ixVwPURiu64jWhLFaRdSsKXg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxkguyI8TfdantSxllmPaEdTa-yEIy6-U3vCuXW=mo",
         "content": "Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right. Reloaded as you said to. Still no readings since the 23rd. Installed and Uninstaller 6 times. Still not working right. Last exposure check was on the 13th. The app is an excellent idea just wish it would work. Had reinstalled a 7th time. Last notification was April 1st. It is now the 9th. Unistalling permanently. Sorry. Nice try.",
         "score": 1,
         "thumbsUpCount": 25,
@@ -482,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOH7ILAKhgyZhV2PRy7uYugfKUDWYnWLvBfY2ZrFtxd3sfmwg2vG0ATD60LkpmMrRprEqU0__cDfH9DdXqA",
         "userName": "Joshua Rodgers",
-        "userImage": "https://play-lh.googleusercontent.com/-m5P-SDvash0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckYhFIGZXqS0Xmi-udQy8YvpQPvlQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykAlYefZsCWD08Z43j8VojdFTjypuUFeEHUeGx=mo",
         "content": "Had it for a while now, doesn't even work. Word of mouth works better.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -506,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOFKoiEpZEvKkLoxyvbaqbFzB8JC69araGAueJYMoZDiDuUn6hYjdccR4rdk7zi-9-bKY4lG6kamRy6p3xA",
         "userName": "Kelly Maenle",
-        "userImage": "https://play-lh.googleusercontent.com/-5rslj_N2H-Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclddRhxt6IDgF-HnWy7V8Pe2GrXTg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzfH3kNV0Q4bq0HZ4CjrLOnK0IFayHZ6-IqLRK8=mo",
         "content": "Does not work. It last check for exposure 3 months ago when it was installed. My location service is turned on, and exposure notifications are on in the app.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -533,7 +617,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiK6yHS5r3qENhYIjoh7_rq-0jptA8RorQq1eDD",
         "content": "It hasn't checked for exposures in nearly a month. I changed battery optimization and no change. I don't like having bluetooth constantly enabled solely for this app so I don't see the point in keeping it. EDIT: YES, I know that bluetooth is required. Which is why I'm complaining about this app not working properly. I've had bluetooth on all the time all this time, and it hasn't even checked for exposures, which means, all that I've done in the past month is compromise the security of my phone for apparently no reason. If there is no benefit to using this app, I'm certainly not going to keep using it and keep bluetooth on.",
         "score": 1,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-05 22:04:02",
         "replyContent": "Hi Lesley, Bluetooth is required for the app to work properly. Please visit the following link for details: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html . We are continuing to research this and are working with Google to identify a solution to correct the issue.",
@@ -554,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOEsP9vKQvBd3o2Rj2QMzLKpeh2Rw0zQYEbRkHbZgf157_4CZPLnVa3T5KmLH7b0z2_iD8Jx1_09ApFxQvQ",
         "userName": "Ricki Cohen",
-        "userImage": "https://play-lh.googleusercontent.com/-gB0gh2z49VA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnUxcDuWtuzsev0dxYbUmFclsbrLg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwC7By_236A2KGyWwywu_rY4bHKRti2zzBGwO5K=mo",
         "content": "They force you to use a mystical pin that is next to impossible to find the person to give it to you after calling both local and state health departments who are not open over the weekend.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -590,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOHr8NkE_ds__88Os6AVseYX259Q7HMpglJCH9dbzXVEoZPRpZkow33h2Oydg_-lr2gmXjvgq0vpAI1ktaw",
         "userName": "Brandy Harris",
-        "userImage": "https://play-lh.googleusercontent.com/-usZIY2cq1dU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckvOXk-aY0g4gioKzAEXpwiciboaw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzinGnRb5z_N8pi9eBqX6rKTp1C0DnCH9nh4k4H=mo",
         "content": "GREAT!!!!!!! GOT MY FIRST INJECTION FROM TWO BEAUTIFUL NURSE'S AT BLUEWATER CONVENTION CENTER MARCH 2, 2021. HAD A COVID TEST MARCH 9, 2021 AND IT WAS NEGATIVE. I HAD THE SECOND INJECTION MARCH 30, 2021. NURSE'S FROM SCCHD GAVE ME THE INJECTIONS AND THEY WERE ABSOLUTELY WONDERFUL!!! THEY WERE CLEAN, THE PLACE CLEAN, A LADY WAS CONSTANTLY CLEANING, THEY WERE EXTREMELY KNOWLEDGEABLE ABOUT EVERYTHING. I WAS SO RELIEVED AND GRATEFUL TO THEM!!!!!!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -614,7 +698,7 @@
     {
         "reviewId": "gp:AOqpTOFLcq6VvQNDS9T9BAxB2skQczCGxN6pG4_pk8XwbfCnnq8tamBT73Coq_mzEsR9P5gZcTe2QCaFbS9hwq4",
         "userName": "Stephanie Hay",
-        "userImage": "https://play-lh.googleusercontent.com/-9YHAix_tqko/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqPHyEuyuTiltfoIpMxB44HgvEBQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhqw8io8kzGpgQNVHqdVYFie4QLW1Q3AO-E3PK=mo",
         "content": "I did the whole background battery app check thing suggested below. This was not the problem. Bottom line. It's time to give up on the ghost. It doesn't work and it's not the battery settings.",
         "score": 1,
         "thumbsUpCount": 11,
@@ -626,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOGJGoCJpmoc6es_th9EAOMdBHGxd3iTTVvxA5DPNtPzXDFU6jn8QMMKBHNM2phNLhZzWG7lzVQ0-VKuWCg",
         "userName": "Jason Clemenshaw",
-        "userImage": "https://play-lh.googleusercontent.com/-LUz91uNQMQg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmf8SXppYeyWd7RaKTLDV8UFoq5Gg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzvolWAOcFb4okbiY6HZeXQpsylpvQ35iygvUYw=mo",
         "content": "Feeling more confident & safe!! Thank You!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -638,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOExXLaeg_rtSeKoHB-dVA085kPzEChrqfnkhNW_s7sWeVfqqiZ4dZYQrygUbFQZ55B2dXNTJpE6ref21D0",
         "userName": "Linda Bruner",
-        "userImage": "https://play-lh.googleusercontent.com/-jyhAg9Z5zJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJCAr_L3laaaoIAYl2lnfZq-0lsQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwKAnEC8eGau2bOpzIAUMCQukn5LbLNf0t556bO=mo",
         "content": "I have android version 11 and am getting notifications.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -650,7 +734,7 @@
     {
         "reviewId": "gp:AOqpTOEwdYLBdVOkKoW7uVwuj0Sr5W5LVZJDWt-4_6gANmF5lgRLsRKiwHF0upXyiip_JpRQxXGdnlAQtlGjaOI",
         "userName": "Mike Riske",
-        "userImage": "https://play-lh.googleusercontent.com/-0Wrtg5CTtT4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_HS_4wvG9z6XyuS5RM-Qjga8MEw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7hA1rqzQtnNm10NT2J0XcrHy_nhXCvtaZmpum=mo",
         "content": "I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -674,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOEW8tYI7NkT307dLKDoaNrRE0-SzXFb9S2EYosA-MzUdG7r2Yp7Decz_ltv6ZI2i9AGf05tBYwMgUNRpWo",
         "userName": "Nathanael Hardy",
-        "userImage": "https://play-lh.googleusercontent.com/-B1HMkY8bURs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZEXjhJbGk3FytoEWNtefjY_8k-A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzoMFNRH8905q0qwvjK7hx99IqAS5eSFvkC2NoM=mo",
         "content": "This app caused many of my other apps to crash upon opening. The only thing that fixed the problem was to uninstall this.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -710,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOGMig8M9poq1J5sOiVyUzq92_ocJRtVDWx2lWbp0rIbHyU21y2T7yNstx3U4h5oUqhj3gVlWFoTD_5HfG8",
         "userName": "Robert Levine",
-        "userImage": "https://play-lh.googleusercontent.com/-zY6xTqRk0jM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucke_YK38bvn5XGpiEczgh4jANRUVQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzvm5h39UMAfd5EUDkJ1RZQBMgDDddICH2Lr2s7=mo",
         "content": "I am not sure how useful this app is. It does what is says it does - monitors for possible exposure to covid-19 virus. Please note that the new version corrected the problems with the prior version.",
         "score": 4,
         "thumbsUpCount": 7,
@@ -806,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOENo8XxcVEL57uQog-H2vlJW9dj-idb0TwVBC0vvlPgfxQ-6vuk2TaaKZlj2hpcVeh3yTQy5fKD0MEXvaw",
         "userName": "Nathan Alexander",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsyjLO5GZgIL0z9Tru7V1QugJkfLOprghWPIP7",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJyrmrZPhsHFYKhrq7YvE4fNdbEcSLNIUUkFtA",
         "content": "I love it",
         "score": 5,
         "thumbsUpCount": 0,
@@ -818,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOEzs_JnT5f501_T8cN-OJjqih7C1B6TrGZsE9b8kGwyxb7UHoLdVDBS25IXgeuSeRRVZ_E-EIeMJzAGlFU",
         "userName": "Max Sa Leitao",
-        "userImage": "https://play-lh.googleusercontent.com/-cRFZvLaUrbM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-nXWXewKTP3I7OD7ehvjfqkAIUA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw4cMBq6Lxk430zVrZ7AJq7v1QoNba7Yj9xh3QQ=mo",
         "content": "Good idea, but app stops updating/checking from time to time and won't refresh or reconnect. Tried turning bluetooth off/on, restarting phone, but couldn't make it active again. Last check was over a month ago. Is COVID over?",
         "score": 2,
         "thumbsUpCount": 0,
@@ -842,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOGNsexgOCWkB8SAWbcbBl7VQpNTmeEuhUV31BiFY7dIg1T0DZ2Wti053iNyKsAuOujoYPW5eAuvAqvhH2M",
         "userName": "David Ridgway",
-        "userImage": "https://play-lh.googleusercontent.com/--ykEAeEXXG8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnTb-Iy1G6cytRaDI5CfWH_yOsNcQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZ4xn8S57z6rDcCDNRhphTiSs3Jb4oBlvlYPPL=mo",
         "content": "You dumb or what? Covid is a damn hoax!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -866,7 +950,7 @@
     {
         "reviewId": "gp:AOqpTOFtGJgv6kvgIGCIiZyjuCu1y_WgV-Z63iKFb8_lZ3gj7f6fiFVkroYg_uhUZW8C-6x4NtC34jj20OAFsXg",
         "userName": "Julie King",
-        "userImage": "https://play-lh.googleusercontent.com/-dtqSwgo0sjU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZmObZxyBb0_pKYVLFKRu_plji6w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwn7U0Xc7jKVtbtrPWLFcb7xUgGdZKjA-wKfzGm=mo",
         "content": "I have installed, uninstalled and reinstalled so many times it is ridiculous. I just realized today that it has checked exposures since March 10th. That is 7 days ago. Why bother having this on my phone if it doesn't work? I am not installing this app again. Good concept but it is useless.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -876,21 +960,9 @@
         "repliedAt": "2021-03-17 15:43:18"
     },
     {
-        "reviewId": "gp:AOqpTOFVz1evRKvbOiTdA9tFaWY7L2ZoAvablMsbJqxNnhgRRi4cHq_ZRV5QJxCQEGuN8zwMV22JiSNbiH_RGXc",
-        "userName": "Jack Friese",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaQEXdtJrxDpKqZV1i2XW5b3yWJbAfcQpptiGZTw",
-        "content": "The app stopped scanning so I redownloaded it and it still doesn't update. Also, not sure how effective it really is since sharing if you've trsted positive for covid is by choice and I'm pretty sure most people in my area haven't even heard about the app and if they have, probably wouldn't choose to share.",
-        "score": 2,
-        "thumbsUpCount": 7,
-        "reviewCreatedVersion": "1.3",
-        "at": "2021-03-16 20:50:17",
-        "replyContent": "Hi Jack, some manufacturers prefer battery life over proper functionality of your apps. Please check this link: https://dontkillmyapp.com, & follow the instructions for your Samsung phone. Some manufacturers disable apps if not used after a specific period of time. Let us know if this resolves your issue with exposures not checking.",
-        "repliedAt": "2021-03-17 15:39:48"
-    },
-    {
         "reviewId": "gp:AOqpTOFybeyRk3gtPwnQdJqkok5wYuKnsh1ImpgFh_nraqLL1PIJ-BqhGR6wQNrIhSD7MAqT34n2qBf6Wkxk5HA",
         "userName": "John S.",
-        "userImage": "https://play-lh.googleusercontent.com/-P31x7kUsrdo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLxZkVFD6Ainzofe_aDCRSB6Ny4A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxYKPxVUMOjfRopSUYH5ckzxSqJGIDjgm5TueJ0=mo",
         "content": "Last time updated Jan 26. Pointless",
         "score": 1,
         "thumbsUpCount": 0,
@@ -902,7 +974,7 @@
     {
         "reviewId": "gp:AOqpTOHArg8AH_S6668R4Jh62AzNoBRWeT9OGROzqzsihvwhxuKRWKTCII-_IoM2NJekUx8olyIJcWoladGMbUc",
         "userName": "Brendan Ross",
-        "userImage": "https://play-lh.googleusercontent.com/-l8c_KFSK7vY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmt9cByr8yKuQ0yYi_z9RGMiFJxwA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxCEgxP6Ic8TE5rVyjY24EfplcRqYfjwM3OxQGT=mo",
         "content": "Stopped working at the end of January",
         "score": 1,
         "thumbsUpCount": 0,
@@ -914,7 +986,7 @@
     {
         "reviewId": "gp:AOqpTOE2bWVPWfn3PZ2M4nZnC8Hhtumr40BHfgrRuhtiAyTKjGvE5sq96hD0nUT2iDnRqk4wjNC1Di-OXtBkW-c",
         "userName": "Natalie M",
-        "userImage": "https://play-lh.googleusercontent.com/-cTqc18LmoH8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkKia0TUad25OY4ej5HCmhKuPiAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrQhN5MIKKoEgAOV6vJw_4AQl4JeuEMe8vLPVA=mo",
         "content": "My app hasn't checked for any exposures since Feb 6th. I don't have an update option, and all permissions are granted. Frustrating. - I tried to export and nothing happens on my end. I clicked \"export\" and I didn't have the option to view or email anything over.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -974,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOFyYAyxKd3_cUEECkZj9PT77caaNox7awNDk4DWToYPUWWPDqQda-qX2Bz0S2IoVPTD_ng-VLPVkCF95jM",
         "userName": "Anthony Huynh",
-        "userImage": "https://play-lh.googleusercontent.com/--oyawxD03bo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucluU5E6XJ9TdXEJBU4iMGAY2izBpQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxMlj69UUpC6f70FHb_YPYg52QD9BHKG3yJwnVz=mo",
         "content": "It is the best game ever but covid19 the worst theres a lot of videos tho But it still the best",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1010,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOFNgPu7nretoNzljYThB_u1pB9_-Q27ncXLA-I8eASkyNw6QT06O3UKdlTMzFfETc5D9iGh3iYQef_FgjE",
         "userName": "brother jf",
-        "userImage": "https://play-lh.googleusercontent.com/-FeDYJAjWiTA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckA_uj_EKA593Ow6wduA6VmsNmkfw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQY0prqJ6iyUz2A8TlJT9Jn-5kjOgpzXNNfqOE=mo",
         "content": "When I got app I thought it included ever race I just feel it bias towards minority counterparts",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1046,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOEu3yBLuniKvb0yiucIgxlAmBNkCXxxslqiMzv-RE11PUMsMqAK4iAnptto65e3NQdt19Jz2wee0yB2njk",
         "userName": "John Dotson",
-        "userImage": "https://play-lh.googleusercontent.com/-515RKoJ-l4o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnPjRRexR-wjVD1tNEJ8WIo-V-qPg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz--5DBSPWfxL2ifJeI8G4Fy8YoKZ6TjeZOQn1a=mo",
         "content": "Uninstalled APP. Hasn't updated in 3 weeks, even after installing the March 5 update that I see has been the response to everyone who has also reported it doesn't update. Simply don't waste your time with this APP.",
         "score": 1,
         "thumbsUpCount": 296,
@@ -1106,7 +1178,7 @@
     {
         "reviewId": "gp:AOqpTOHa3e4CC_PvWeyhlV6QZV71cplOkMm5g840XD69C-qzcztPCYqJO4z1KPb6h3QntrZtKmne3d5jhdy7jpo",
         "userName": "Jessica Ball",
-        "userImage": "https://play-lh.googleusercontent.com/-TpeR28vaYoQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnIBHJAv9vDxdKBuVYnadPml3qF1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyYvUxU68sJSJEwizk3jGwYlBP--VZCD655xGrH=mo",
         "content": "Data is old and hasn't been updated. I dont trust that this would help keep me safe at ALL ETA: Added star because of the response from the developer, but data is still wrong. Michigan covid deaths specifically. When the average person can get accurate data by using a quick Google search, I would much rather be able to open my app and get all data available as ACCURATELY as possible.",
         "score": 2,
         "thumbsUpCount": 8,
@@ -1118,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOF-cLCW2ogoXyxoOnoTRq2RCybRGXDjfm6Nm2Du7Pd7QSXUGKWIRfZ30POoTkD2Y-L7mEfHfVN37EWzHH0",
         "userName": "Evelyn /Lusious Johnson",
-        "userImage": "https://play-lh.googleusercontent.com/-pfjU-dbcBvI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmR9zelFseahGrW0YSRV4w04BQ-LQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxojU0zynWBvZToHwtSv7bOHnGMhp-BvsdOGJ4F=mo",
         "content": "Liability",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1166,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOHDp8BNFq9qnamjXuV2DgwCVDlPL-Yi_ZY47APGqnhdtlXFXdMITefmx84VMp-P-qBHmUB-MK1mp-PaGSo",
         "userName": "mary baske",
-        "userImage": "https://play-lh.googleusercontent.com/-tc7wLgVGjG4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaMQYk6jgU7fp7H4OJXDRwsTtzOQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyitb6xTfm_JGPsVzw6WaKYDpdX9OPOVHjXjEE4=mo",
         "content": "Does not work",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1178,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOHt20mDACNRwLy1RVQ_mw_31EqOC0Uftakr0RQn3Glu80hYVKZ_xxqndzvt5_mNqpb81ygZbE1cPNycGwA",
         "userName": "Rosanna Tryon",
-        "userImage": "https://play-lh.googleusercontent.com/-ufcwVuxWScU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOO2A_2eGRh4-w3j_2NeHaCttOFA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwWHgy8jQhQns121idn4xnRTjfH0QmFUt0R8WJQ=mo",
         "content": "Well, I had Covid, and it didn't show me or the people who live here. I had to report to Midland, Gratiot, and Isabella counties.. Guess what? I uninstalled really fast. Edit: I had to report in three counties, because I live, work, and kids go to school in all three. Of course I reported, but it still didn't show up in the App.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1202,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOFJKE1wx3Z4tALn0dxMnUB_8Ab128Enj4Ekwt8fVUSdspaVzaJh1BCX9bh_tDX1RvGqwWN9NnNmrxdVSa0",
         "userName": "Keagan",
-        "userImage": "https://play-lh.googleusercontent.com/-1kZouKDH2f0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2_yBiHp88F9zAWDwcs7XzPRgPjQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKglBbgC_WIZmqDDszAOxVRDtjuLEZFfACPIsp=mo",
         "content": "Just use the app. Would be nice if it showed number of other app users it's \"seen\" though, then I could be sure it's working",
         "score": 5,
         "thumbsUpCount": 2,
@@ -1226,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOEwP6rCuA44h3QjuYONTMEiOCVmdv9XqaP4ZnkgDqDMp_DIaILj7aP2VN14Snu3xgjinyem2U-Xxbou-D4",
         "userName": "Otho Yerby",
-        "userImage": "https://play-lh.googleusercontent.com/-X-IDifZcnVk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRgS_KoFLG2OYzOh47ALcv_cgpOg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXMgf1oP326k6ILMeJDe1NwVeLzvkXLGPkv3e7=mo",
         "content": "Does not update",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1238,7 +1310,7 @@
     {
         "reviewId": "gp:AOqpTOF6cZQRQRH10lHVQALGperAuAvUv0OOWvuxM_GYT5qLPn5kRMR6zXAzFj3jCQRSoQOzz1Eq1ldBph_9yNI",
         "userName": "Heather Fisher",
-        "userImage": "https://play-lh.googleusercontent.com/-Ce4vdLTuRx4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcfL-EejhpYa0t_PU2Omf_zig42Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxe3raobX11yIpeIfzSQpLd09X4DCv-anlwK5W2=mo",
         "content": "I checked all the things suggested in previous review replies and it still doesn't update. Not helpful if no manual check option.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1274,7 +1346,7 @@
     {
         "reviewId": "gp:AOqpTOE6VulcBhgiLknEYyQcwxTg0Ap3mD9Z28FmGH2acG4vupBaQc56w4CLr-Qblq35E-WgkLdRMFX9-4UvLLI",
         "userName": "Anna Z",
-        "userImage": "https://play-lh.googleusercontent.com/-I-hYlwCgKdU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHmw577MrpilFiwR3saeXh857JGQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwSI-0CIHrpo2EbnLbn0X5owxEH5HOMaWsh6vUK=mo",
         "content": "I have read other reviews of the app, and they say the same thing. No one has received an exposure alert. According to this app, I must be living in the only Covid-free area. Even if nobody reports having a positive test result, they could still tell you which areas are hot spots for a concentration of cases from other sources. I tried re-installing the app, and there was no change. Update: The response given to me and everyone else does not address the fact that this app does not work. I would.",
         "score": 1,
         "thumbsUpCount": 23,
@@ -1310,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOGaItIKYvsWlbCdSrfVcktaXfZ8TSjy2KBoC9gsOT7zmHbZfi6dfBo1ruGXeAkqJfiROw0iyfCJnMXiYxA",
         "userName": "bruce houston",
-        "userImage": "https://play-lh.googleusercontent.com/-fGU5QECLc2I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhuoS-_68yCG3eNA5uEtioTIeORQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyp388PovDAlS1O1kSVW06sd2JeCiteoNjE4vaA=mo",
         "content": "Shows zero cases at my location. When multiple people have died and 26 new cases in January alone. Totally useless!!!",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1322,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOG1AfL81vyPSyirS_ZMKqLGq-eiVHJkqUo_BrdtYdTAiCKx00j4R2Sec3rjsbTaqdFUTwwSuRdsqqL2sv0",
         "userName": "Robert Ferguson",
-        "userImage": "https://play-lh.googleusercontent.com/-uIveM_O8704/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclFggzxYVUGfiUZcEok2cfzD7II0g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz4wjjAKlI-DVvjhi4VPmx7jav5tk0Mw-FZJSWM=mo",
         "content": "Ok",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1358,7 +1430,7 @@
     {
         "reviewId": "gp:AOqpTOFC3w8_7WCwOsz9lAmUd3rPZ5JbdlpE6_WxQuwBsqS5cUMdGPCAwR5qS_vWQ1MB8MqIYQ_3kmn2wlrCIzs",
         "userName": "William Sanderson",
-        "userImage": "https://play-lh.googleusercontent.com/-2udMnEXGhck/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmg5-bnzNmyCi5dipKIj1e16N2O7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxJnT3Aagb7AI_hgdafMCl2EcXWiu-4HEZLE278=mo",
         "content": "10,000 downloads vs. 10 million Michigan population say 0.1% use the app. Nice idea, but pretty useless without people using it. False sense of security. Yeah, deleting this app. Excuse of wait till more people download it doesn't matter. Only 'updates possible exposurers' every 3 days at best. This is why it 1-free 2-from the state. Any private company couldn't do this, but put our state in control and it is now a joke. Save your electrons and battery.",
         "score": 1,
         "thumbsUpCount": 29,
@@ -1418,7 +1490,7 @@
     {
         "reviewId": "gp:AOqpTOHM3IYMXZLqODNylnWM5n5v65Qt8yGG0PsOOR1yDLz8o3t4sf-UKEutx37jpoj1nxoNwmZsaisOPd572As",
         "userName": "Sherry Meier",
-        "userImage": "https://play-lh.googleusercontent.com/-R30pPpnmMnw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5wIHr0YEfGPbkLwVhBBGDcteLFw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwsXWsI1XBglMWNBE_M1gThToE3JEe9Xy435G6j=mo",
         "content": "I've had it since it came out and it stuck on 1-12021 for the last time exposure check was done and it is turned on...",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1430,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOE8PqWndpU5VRwc1AdQz9el7gMZ5ckErT6EPLoHqXYg7avzlWXjMg4S2k9OOfUB7Q802YeHVLn0QhNgrRk",
         "userName": "Billie Baker",
-        "userImage": "https://play-lh.googleusercontent.com/-BW5k2kyfHBg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHl3OI5xY4fS34Frw6QF3vZCdbJg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwjpi_wb2Bgccm_Ves2vgnlEOJm5tmJSLbPq-3R=mo",
         "content": "Old information",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1442,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOHrUsQrPu-AK_2Ilj-uguwKn4qMRTQMjfDjp8I7Xw0SKdwV_LrpST-wufe2BnCVL2pdoXOv4VDM3PPbEs0",
         "userName": "Amanda L",
-        "userImage": "https://play-lh.googleusercontent.com/-De7KlRn6Vlg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclP053U2xT2hXwsk0e_wpYVwAz_yw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyFSET8uf0YaZVDAd8RCRAYWx-s32KVRmZU5Gty=mo",
         "content": "No way to refresh app, shows last check was days ago. Tried a force quit and reopened and it still won't update. I assumed the app was passively working but what good is it if it doesn't refresh? I'm guessing not many people will check the app regularly just to make sure it's updating. Good app in theory but useless right now.",
         "score": 1,
         "thumbsUpCount": 15,
@@ -1454,7 +1526,7 @@
     {
         "reviewId": "gp:AOqpTOGI-VjkKyKcJ84OOpGzTSOkGrTBTb2pdZbkiIQ1qKkKx7D3BIbfVs7NL8DEBw2R-cwCP-RVJbsW8KkQQx8",
         "userName": "Amanda Haveman",
-        "userImage": "https://play-lh.googleusercontent.com/-nmFKjObrt_E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckw9MroaiFSV27GgA5eqn7gKHgzzQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHsZYdrCHMJg4PNh_4uc0KA9s09XCqL7yqdHWa=mo",
         "content": "I've had nothing show up for where I live in Michigan and I think this site sucks. It is not an accurate app.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1478,7 +1550,7 @@
     {
         "reviewId": "gp:AOqpTOH4_tVC_wcHs-OOCu_EIZ4dFQ9AnLEhbFGKKn9w9lvL7oEoZ7hSeW1b-rOKJnL1DCsB8Uj-fWYso-OmpR4",
         "userName": "Eduardo Morales",
-        "userImage": "https://play-lh.googleusercontent.com/-2a3puE5SiF4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbNQQOdjfcpMThRfOXKqAIxtnI8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwC_XNeh7pO3W6Js0uDMNZeDxn878a9YbMZNMkG=mo",
         "content": "Stopped notifying me/updating alerts. Uninstalled app then reinstalled it. Alerts commenced once agai Have had first vaccine on 9th of January.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1502,7 +1574,7 @@
     {
         "reviewId": "gp:AOqpTOE5deTTc14Zf7LSNP8ciYVn4LhiO6fw6fKx4geIQfu9Ew9lfz8lPTJCHDGa6_zAn6VKaCulzRRFQPjZ9OU",
         "userName": "Mary K Hendrick",
-        "userImage": "https://play-lh.googleusercontent.com/-l-XAzkiwG0k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHUcjI2UlF4vjEdS_P5OhimndKdw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxQdhfBeTuHuypHivd8Uthi-ZRtC0NbHm3gWJSu=mo",
         "content": "How do you update?..hasn't worked since the 17 Jan 2021.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1514,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOFce9E8b-DbSTtRjETvJOofeDtbClkIas6jWaX-7N5fF-nbfJRvsVDdQP-hFzOgurlR4t2VMWg_moV3DKM",
         "userName": "Daxn Dox",
-        "userImage": "https://play-lh.googleusercontent.com/-QX1WCCqaImg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBDrgaFfTyIPkbc7AwxhY3tl9LkA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxrnIRtFRnXBaNZzQC6U6_fABAg87M0Ixeerqsp=mo",
         "content": "clear all my control",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1538,7 +1610,7 @@
     {
         "reviewId": "gp:AOqpTOF-tQS1x9hbLA-iXim7faS9yW6OtAidw0V_zGWZxpIuqxNgS1Zki0hO9Y1nMCa0i8pF45jp5UIQUVvxvJM",
         "userName": "N Day",
-        "userImage": "https://play-lh.googleusercontent.com/-jY8VMKAGtVA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn90EBb7Gu2rkZxaVuBuw2oBQNFjg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx-jPEhiif2pskYEz1fnjUJU5iSANwQqgrWCHLS=mo",
         "content": "Keeps stopping",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1550,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOEH18EH8wBA-HBWCDeNMsMRO1zNkCknFwQv5zAul8UP__H7v4Gds4pGxciryJ9ag8etMtNBsDVIKsRfiHE",
         "userName": "John Lathrop",
-        "userImage": "https://play-lh.googleusercontent.com/-84W5oxJ8oZc/AAAAAAAAAAI/AAAAAAAAAGM/AMZuuclyU9g7Y-MAL-RjnL4m8HNIWkKpbQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxknEf7GUtKKiZIbRt6AuKyCQLFfVEkpak3x6D=mo",
         "content": "I know the privacy concerns, but I feel my health and the health of the people around me matter more.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1574,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOHJmwo6roRaXs3XOKGfsxPhSDDA2ybtDnQPzGVtWjZ8-nBMkSRY3KcTXV8ZjOeTtxawnE8Aj7sFn3721pg",
         "userName": "TS Williams",
-        "userImage": "https://play-lh.googleusercontent.com/-m0TpBcuYFD4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVNw3-QwVvJdDdmgczp0HDyGpetg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxZ-S3oinJ2brjkMfnAtt_Y5RLUJ1HC55DaSjOY=mo",
         "content": "After a positive test, my partner contacted local health department and notified them, they didn't know anything MI COVID or a PIN. 3 days later a contact tracer called my partner to report a positive test, this tracer also claimed no knowledge of a PIN or the MI COVID app. It took another 68 hours for contact tracers to call me and let me know that I had been exposed (someone I share a bed with), I had been quarantining for 6 days at this point, app is good - MDHHS utilization terrible.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -1598,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOH1gttCWNPBXDUI7GwDgjAJIARpSThtPwa4Hz4N4FfdbMzbXSQndRn4EG1bky6hXU1tEI6ok1oNY2Qj-JA",
         "userName": "Kyle Derply",
-        "userImage": "https://play-lh.googleusercontent.com/-0z9dXhWNA4M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck1woAVFyB7H6QnPeRFbVxHowXbHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhii-ilfkWbsUOyglngnq6qkX1E8h5Lu14UjtV=mo",
         "content": "It stopped checking for exposures on 1/3/21. My notifications are turned on and the app isn't affected by my phone's background app battery saver.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1622,7 +1694,7 @@
     {
         "reviewId": "gp:AOqpTOFIHa1-sfqohMlNO5DiEg9nztzH6qfM2PtL-fPmdetIIM53GWTW2cneQYDcF-Lu__WYERpfauV3hcCrfTc",
         "userName": "Ot Not",
-        "userImage": "https://play-lh.googleusercontent.com/-ulc9ZuhXXqA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZVAAMmoS4x8yCETgNYok_8rvFBA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzoPpmx-fTJ_1uVjG6RjO-8qttoRIQtCjCZORdb=mo",
         "content": "Not one alert not clear if it on",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1634,7 +1706,7 @@
     {
         "reviewId": "gp:AOqpTOHwM8a-z48IZNFsGUP0so1aMIujk3Pe-xDQk2N-cNg4ueCKMiP6zqg5yN8Vo4AvGASEjopA1pCUEEVXdr8",
         "userName": "Family Frantjeskos",
-        "userImage": "https://play-lh.googleusercontent.com/-NGo-tyR9UyI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclP-1h6XXWpU72i0T3FerR3mp41RQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-Z2BQLm1m38saW5h1wJ-NN0G1VjmcKO8SJDKD=mo",
         "content": "It was working fine updating regularly. Now it hasn't updated my exposure or the cases and deaths since January 4th. I don't know what is wrong. Yes my bluetooth is on. I don't know what to do with it.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1658,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOGHgRR_pHi4I21IsHvnAycNkx1j8kMRJWvRj6tUc338AJyOpTXfUmNJT8HIYuM8IQOGhUr1NrUhiOYiU_A",
         "userName": "Matt Lewicki",
-        "userImage": "https://play-lh.googleusercontent.com/-KxQIVplELQw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkcQ0NPLLRjg-nL7GTHi2whDWWLw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxrzQDq8iT_OXqMOeNL_wYJXkulRmN6UAEmsyxt=mo",
         "content": "Terrible design. I opened it, shows the last time it was checked was November 24th. Uninstalled and reinstalled still the same thing this time no last check showing. Find no way to check stats or anything.",
         "score": 1,
         "thumbsUpCount": 17,
@@ -1670,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOHECj0fq3sVdPDj6ASphJTm7wD5RyO8iW-RW43-vDM12nJlofWT_Fl_JFanUKcLzejUWQ93HRE7ACDnVrw",
         "userName": "Megan Gilmore",
-        "userImage": "https://play-lh.googleusercontent.com/-5Hxxk0rU4Zg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck8EDMgowMdhV7K9s83FuFdGN-y_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxt-_YyPMyvpp__VjxFgxXR9cbiq2nJ4_XASkGv=mo",
         "content": "Stopped updating.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1682,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOERtJ3ymSvrNFQBqk1iJm-hGGcASkJ71pQX_2fqiACbMmluIkRw-NY4jJVEfLVLDWaJx0D93_T13nAJ65w",
         "userName": "Michael Godlewski",
-        "userImage": "https://play-lh.googleusercontent.com/-i7nbQLqJsws/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwbCSVrDJp78DWWKN4oed4JQVQ1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzGwmOff_TgLE9_0eCN7oZCm430BawlNjCz-H5o=mo",
         "content": "Has not checked for exposures in 2 weeks.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1694,7 +1766,7 @@
     {
         "reviewId": "gp:AOqpTOG2isBwj2zYrWgVzBV4tr8z-uX7gGH-UwnbiCenCufAh5_mvVA_Aw7SZWbH95zpPy3tduS6NsgjkalvKIQ",
         "userName": "Louisa Johnston",
-        "userImage": "https://play-lh.googleusercontent.com/-9qxS8PQymPs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjNd6EWPzVM0F9JSZsnUhdbFFQIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxD0dkc_qUnOCKtKKaLtjsLb9JEEIysmlQEY-zt=mo",
         "content": "My app last exposure check was Dec 30 2020. I have my location and Bluetooth on. Not working..",
         "score": 3,
         "thumbsUpCount": 3,
@@ -1742,7 +1814,7 @@
     {
         "reviewId": "gp:AOqpTOFsKcg7hx95qTJlsQ8O5_T5yHFgOLtvjyvGNuxzRLlldq6ao-87RezCfAJmSkadmD5ryWUiO-IvPiwNh8U",
         "userName": "Jeremy Nafus",
-        "userImage": "https://play-lh.googleusercontent.com/-SsN2_LKQ710/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckpj6268Z5UcNVM31HH5Bi2cxzKng/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwR4eRiBVGC_8XflH-6c137dKsedN8hTOkYFHnZ=mo",
         "content": "I don't understand the point of this app. I've changed myself to multiple different locations, following all of the instructions, and there's no notifications of covid nearby. Which, is hard to believe because there's 10k cases reported daily.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1802,7 +1874,7 @@
     {
         "reviewId": "gp:AOqpTOFFfj5YPhOKt9_H-PHKIruZ-C-HXHJN-yFrpsP0UzyVn52tfOCr2dJ2GDUF3dl9BbLAo06bGldoEnfw5hQ",
         "userName": "Darlene Polk",
-        "userImage": "https://play-lh.googleusercontent.com/-YeSG8X_gOI0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllPTKsOW6UJqABMIg0xyRZQdCqWQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0dbu_2X9lBo0F7h42wBA-ioAw-GytJAsogT3Z=mo",
         "content": "Useless and unreliable.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1814,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOFVb8apFNBusBIx9wDwpneT8IvnA-HQ8x4P3jh6gPMZNld3avCwgd_0JYHcOlm8b7m71I2mf19UgJFmzBc",
         "userName": "Adam Piazza",
-        "userImage": "https://play-lh.googleusercontent.com/-iEsMEhZlQQw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDwHINfq9GPWMXTneWRYAjHEAHkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhfx1LbaY9Q0mCVwQeeWIoCwnhZOlqS9rBxHGf=mo",
         "content": "Covid-19 everywhere around me and n Not one notification..",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1862,7 +1934,7 @@
     {
         "reviewId": "gp:AOqpTOFODZT0WymjQKKcegjbo4oW-EidnaQXAMPl40HN5cKmAejIrQgUrf0QvOi7tvOqwb_recWKh0rJUM3RY-4",
         "userName": "Dennis Benstead",
-        "userImage": "https://play-lh.googleusercontent.com/-lonoqg-PgXM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnEIyMi6VKlIBiNq5aeynO_zg_lDA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8PCvEYcPGh_1j0xCRLMRFAHDnWHomYl71S3nM=mo",
         "content": "Everybody should get this app so all of us can be safe and healthy so please use the app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1886,7 +1958,7 @@
     {
         "reviewId": "gp:AOqpTOEbu0WJs9d1POWkuGjaUWi0b-fgcnrWCT1etMi-rs_6BTwM8-CMWHS3RKvy96EBkmR4xYmGVcGxq1O1iyQ",
         "userName": "Maryann Kita",
-        "userImage": "https://play-lh.googleusercontent.com/-aSV_XtWFrEA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnsG7T8d25zD4Wt6rau7Ohpp2VCfQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyFxmMM1sYuNukrMUUopt1p9o8Lw_w8pLzb2cs8=mo",
         "content": "Excellent app, easy to understand, I recommend it. I think it is a good idea. (By the way, no Covid-19 here).",
         "score": 5,
         "thumbsUpCount": 3,
@@ -1934,7 +2006,7 @@
     {
         "reviewId": "gp:AOqpTOHEJn4yzBm7d7UFS7DL1qt-ytpCdhfi244zZfItlb86-2HR0m4HevAJ5KlfoKICPLJ9z-LniuznOz-ucw4",
         "userName": "m r",
-        "userImage": "https://play-lh.googleusercontent.com/-dYUCZtVCekk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRYVB8EL3gIA5yBHMqUFvQxpyoVA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLDYl_SZOUro4Mz11uJupWT2FUfVmzIxC_muGH=mo",
         "content": "These need a way to see if anyone else even uses the app in your area. There should be an anonymous way to list number of users in your country or neighborhood or something. I'm not keeping it since there is zero way to tell if if would even work anyway. *Worthless dev response as per usual.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1970,7 +2042,7 @@
     {
         "reviewId": "gp:AOqpTOF17rZvJS-Q6qYIIWCA6GwSPzc55CCJdLnz5KPithTIiMo0Z_JdkWFPGut3jKabAiGpl8xms7_ArzV5-34",
         "userName": "Kelsey Hardman",
-        "userImage": "https://play-lh.googleusercontent.com/-blVNYkacSpU/AAAAAAAAAAI/AAAAAAAAAt0/AMZuucnimsIHT-0aSCHtBNH0ZhhHwAyTDw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwdDvs1onlJ13oKz0W-yeexa6x2xxs3KLNqE11AEQ=mo",
         "content": "Why isn't there a Caucasian stat on the racial breakdown...?",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1982,7 +2054,7 @@
     {
         "reviewId": "gp:AOqpTOHXkBol-D3GAqatgmZhd2m2DolbKF2RrzvDegr5HPMqXBL5csudHE8dt_Drso38tM3NjFuH56pnms8IavE",
         "userName": "David Gerchak",
-        "userImage": "https://play-lh.googleusercontent.com/-InbCZEabzDw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucke1cFgQLRdj5b6WCiWyINOX709Fg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwX8nAE03z4b2qZnlv2bIKYqmHEQghey-0mDGLg=mo",
         "content": "Needs help. I tried to report a Covid case and the app asks for a code. So I was not able to report on the system. In addition, I live in a very populated area and not one case, not one.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2018,7 +2090,7 @@
     {
         "reviewId": "gp:AOqpTOH-AkxZp5SGpsBsi25gtk1HWO3FcPNdL63QDLZCTXyczPpe_XZcXjZcutTbBX5Z5KCOjFvSnIDg0C9aPuA",
         "userName": "Taebin Rice",
-        "userImage": "https://play-lh.googleusercontent.com/-doWS_PMRuSE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyaN25BvAmZrP_qyewT1NJoJLgeA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6CYtJ46EPVhDuMyDeijP4z_7OsmSSnNlr3tND=mo",
         "content": "Absolutely USELESS. I HAVE COVID and there has been ZERO effort by local or state bodies to issue me a PIN number to report my positive results to the app.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -2114,7 +2186,7 @@
     {
         "reviewId": "gp:AOqpTOFyvbBtYu2GbREXm7H69QpyLvycdreDvP8IzOPJAabQkoPUKtH0RnG1g96atJS7jcw064LJXsPra_2bGFo",
         "userName": "Kat Strick1",
-        "userImage": "https://play-lh.googleusercontent.com/-uvVOvgZY8Uo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclxbDuD3AdxXc7-R41ruPBr31YfMA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzstAjBnI004kT9TQ1sdWyo6lXguw0Iw4D9UGyu=mo",
         "content": "Nice to know of the Corona",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2162,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOHc1tJ3Rm5DD0NjgDMpvqwpYM9ai2uT34QlkRoeznRHCcbY8CoIAZrZjaoK0Mt0H6XjgYE6_cPsy8vRFQ0",
         "userName": "Brian Markham",
-        "userImage": "https://play-lh.googleusercontent.com/-Y-zF4TxaPgc/AAAAAAAAAAI/AAAAAAAAQCg/AMZuucn1HYhGthRnkXlwcMeAB79gid_qtg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy8WiyB3sZd-c-iZmGlxdsKv_PvVSj3KIPUcjuwytc=mo",
         "content": "Just checked into this app today (12/9). Last exposure check was 11/18. Something is broken it seems. Really want this to work.",
         "score": 3,
         "thumbsUpCount": 3,
@@ -2198,7 +2270,7 @@
     {
         "reviewId": "gp:AOqpTOEi60iTSUAQJ7XZ9n5CaacL9KRD9kOGbeaClW3vMDFUqcvWvgtESQI9OwyOWvIiX1_bLyZ3ZPPAWPvOqP0",
         "userName": "Zachary Benner",
-        "userImage": "https://play-lh.googleusercontent.com/-GyBsD_UG5nk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDCpIzayrGy5T8XekbCX_gMs-wrw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyO_XDqmvcdRLti6wu2mUtKfydo1loPwRIgmBR9=mo",
         "content": "I can't wait to open this app to see what its all about",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2234,7 +2306,7 @@
     {
         "reviewId": "gp:AOqpTOF48pyUyYEnacMiE20xsaA_Zuw3oyDBodPvO8hYW6o4MAi-SbnWf4PqDdsOdzWAJ2JyUn3a1Fhlbw0apBc",
         "userName": "Andrea Minton",
-        "userImage": "https://play-lh.googleusercontent.com/-YIBtukQSXYs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIuzjGoKBDIP_P-EBuRgQlzDtI3A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz_jE5SkslsyWyvw_s448uCVNOcuw3sTypOLb4w=mo",
         "content": "I work in a facility where a person tested positive and got sick. This app didn't notify me. Uninstalled",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2246,7 +2318,7 @@
     {
         "reviewId": "gp:AOqpTOGLHuZ3SWrUa8h6TEsAk9kjR0vfqpGyZC9LVINVUTGQq2KLq6O6purgK_VzOJr-IJLSlQ7ZpDbsrYPdgRo",
         "userName": "Addison DeWitt",
-        "userImage": "https://play-lh.googleusercontent.com/-ctg0eZTxPVo/AAAAAAAAAAI/AAAAAAAAAN4/AMZuucmr6OeweB9ZgG6WP04-2E8-BmGo3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-XwlzBYZmT06xw8VmIXb34YTiafbEpTX8bIPrcw=mo",
         "content": "I've been in direct contact with 3 people who have tested positive. This app didn't notify me if a single thing. Seems pointless.",
         "score": 2,
         "thumbsUpCount": 8,
@@ -2258,7 +2330,7 @@
     {
         "reviewId": "gp:AOqpTOGQMOBbvlNghcgJ8Q8Ym74se7HC-7m7OQ784OCwo9RmcMwAKrB3rrC15saXY_HW88ze8GEotScR9JnulhE",
         "userName": "Julia B",
-        "userImage": "https://play-lh.googleusercontent.com/-wtCLZgNtcS4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnykOZURh95YH3pnDW7c6X7CSCnUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyo2quy5gD7ewT9SJCS3LfKzbV70_KBRUqiWLFV=mo",
         "content": "I love the idea and the fact that it uses low battery bluetooth to function. I KNOW it isn't working though, because I work with Covid patients in a major metro area hospital and I haven't had one single exposure according to this app, while my phone is on my person 24/7. I realize all my patients might not have this app, but if anyone should be getting an exposure notification, should be me. Gives public false sense of security. Privacy be dammed gov't should mandate this type of tracking.",
         "score": 1,
         "thumbsUpCount": 66,
@@ -2282,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOFRRZyB4-e_RNUrFsMwQ712MPBI5wIf26T1RNp67dm7zpBp0R-7uL4wNoSnoIw0ILG489kxBgGAdM2CnSk",
         "userName": "Justin Fairbanks",
-        "userImage": "https://play-lh.googleusercontent.com/-WsoNpalt3QE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQsOZnaXMFpa8_gWrEMWaBahlhIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzNRfWum9huq7IcIK7ZD52TPZaWXQoVP_o4M0nq=mo",
         "content": "They can't even update the false numbers \ud83e\udd23\ud83e\udd23",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2294,7 +2366,7 @@
     {
         "reviewId": "gp:AOqpTOFJa3vZz4uTECWLG0ZnMBIyiZ2kJuNZIiYAunI8CBJwvaqwZxpunOYnyMdxv8bkOXYlT6_4tjVrY4YIqlk",
         "userName": "Angel Pratt",
-        "userImage": "https://play-lh.googleusercontent.com/-4yVk3Q98ssc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl6e-wMBKpQT1i0LwktPsigS00PFA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxgV9hhhWYTjlHa9U5s921iAnhyqDrdYeWKVYDZ=mo",
         "content": "I will if it ever downloads, still pending After 5 Minutes, tried again a few days later and it downloaded right away",
         "score": 4,
         "thumbsUpCount": 2,
@@ -2306,7 +2378,7 @@
     {
         "reviewId": "gp:AOqpTOFsYW4dq9HfjNwSbpBLsE6X-pDnUzaq7WwrQXfaKZdi3PGfO-G7tQWOENwsL5TUScSQ2jqTasVyUBnaT8g",
         "userName": "Coin Baron",
-        "userImage": "https://play-lh.googleusercontent.com/-HOYQpxYZ5wU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdAiZkFs89Q4XPjeox3a7rwWUi2w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwdghwUkb6inLWwq4sNXC9E-v0u4LVNEIUp5eE3=mo",
         "content": "Gubermint printing dollars, forcing small businesses to close, impoverishing the middle class, covid19 is their excuse for taking our rights as well as our livelihoods away. Don't let this app help them divide and conquer We The People.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2330,7 +2402,7 @@
     {
         "reviewId": "gp:AOqpTOHOtVe16LfVMJji7yzaVloNds3OAYOvw2VMduqvINSKsPzM1aG2XnL_-NACxa4tTT1064d-CjnmiZk0SRI",
         "userName": "Kathleen Bartlett",
-        "userImage": "https://play-lh.googleusercontent.com/-25RJdqvAVV4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucke1ep0RRtZze5GfHeno4kIpK5n6Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxyq-AQLmKIWci2OFqUt9nVgf9PTJuaHmsLclXd=mo",
         "content": "Doesnt open, doesn't work at all",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2342,7 +2414,7 @@
     {
         "reviewId": "gp:AOqpTOH9QspWj8TtMeblqGjSNBHD2LATDZ8XqW3W6bGcehm1ClEb5FIAp6qE48uIzyL5TZ2De8kLtnRJfiuBwf4",
         "userName": "Ashleigh Lane",
-        "userImage": "https://play-lh.googleusercontent.com/-UOi7mDlNO_k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmKDybaAf7IqNQgvtTx0AUTdEp4zg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxqEVRXpUqwFpQxewvMWsl5_arjJd9ZEgs2FH2K=mo",
         "content": "Absolutely not useful everyone knows the numbers are lies so what's the point",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2354,7 +2426,7 @@
     {
         "reviewId": "gp:AOqpTOFZrqBdz_J_dVCIQbZKK_HKoyRyUmUPTjhJDc7BZhhtqLG9bwLwpi6Vji8YfeIODHgHwSgUZM9nvvFnD3w",
         "userName": "Kay Cee",
-        "userImage": "https://play-lh.googleusercontent.com/-uqw3gjsnfbc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnJiHudcLVonl_45hLzrOXPabJySg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwjOj45-j0DvlsWjsJ_c4D9WUmcQJk6M8I-ARRl=mo",
         "content": "So far so good I suppose, what to do when your job obscures exposure data to prevent absence? I know I've been exposed, apparently no one at my job has this app, so that is less than helpful.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2378,7 +2450,7 @@
     {
         "reviewId": "gp:AOqpTOHrw8F_W5B6ME8cuuQBKh6YWmgGMiHkQIuptQqelB2mPjjo4pC0VeYcuGpNFiQsopil06uzmpE50wxGbm4",
         "userName": "Doug Groh",
-        "userImage": "https://play-lh.googleusercontent.com/-Xc33gZ5H3M4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDIq1wptGjzfqdhPF7bytwqieM3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwu4H2JXybFNC0dSXeATNbqJky1Z-3PQ_jVPnw=mo",
         "content": "If the Health Dept doesn't get you a pin number for so far 7 days since I tested positive, how the hell is that doing any body any good. You need a pin to show you tested positive. This is totally useless.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -2402,7 +2474,7 @@
     {
         "reviewId": "gp:AOqpTOFFoc0827N61-XO21lx2PdBCJiGYLzs-yjKpc2gqoc9f36_eiBWW5hs8ubRmcROIx4i-MwdUvm5WrmhuOg",
         "userName": "Judy Walsh",
-        "userImage": "https://play-lh.googleusercontent.com/-Tq_FxgdYMpA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckW2n3GFMjQitMF242BRvLdpDdQKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-zKzwvIp3EvSO07JwptHombh64YgHJVW9jOtF=mo",
         "content": "Very confusing.......",
         "score": 3,
         "thumbsUpCount": 1,
@@ -2426,7 +2498,7 @@
     {
         "reviewId": "gp:AOqpTOEkVpGoZhNn4j37RyrvClrQWrreN6DoXWJYV0D6CeozcQKfKz3G_YzxMLXajT3qGFLcYNdW2ouvomibaJs",
         "userName": "Gary Cronenvhet",
-        "userImage": "https://play-lh.googleusercontent.com/-ryY50vr_Z6k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWj6-gELZV-FMFRS-q_0QYErkkew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzX1OIBK61AC0X_2TT0jviITboFvuf-kheGTf2E=mo",
         "content": "Not a reliable source if you ask me",
         "score": 1,
         "thumbsUpCount": 4,
@@ -2462,7 +2534,7 @@
     {
         "reviewId": "gp:AOqpTOH8V3Mj8gA_VkV3DAEkw-KPWn6N6QS0KHHLSAZEk8xzLJoMUtOhTlB-ADXsonN3uv8mTYH98BGKKtZ3f7s",
         "userName": "Daisy Moran",
-        "userImage": "https://play-lh.googleusercontent.com/-UgRTiS0F8Zw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclveyXbx4zXPyby_JpJNs6lWJ_yWQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJynvTXeYmeyHMC3TCBuTerINe3oh3HQ8ArKZcl5=mo",
         "content": "i like keep update in michigan covid 19 alert y",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2498,7 +2570,7 @@
     {
         "reviewId": "gp:AOqpTOE2nLMwxpAUl3gO9hotAI4JpgOiz_qABmiwNZFcSL15PomUCEZtWjfo552CNiHgfAqjEsIYlTU10IU8Jcg",
         "userName": "Greg Boswell",
-        "userImage": "https://play-lh.googleusercontent.com/-4UGaSovmQFM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclsRaLm-Ll0J042gMvNFzwitU3dhQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyxBcNv1zTFRw2SXUb1Hh8R7QGe7C1LK7d56sLj=mo",
         "content": "Quick and easy to instal!!! Lets work together to end this pandemic.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2522,7 +2594,7 @@
     {
         "reviewId": "gp:AOqpTOFHyjpXGfdOx7yFDPbYKUlWt8JFd-f_JLfqp5LtPd-2N5oEB5-fpFa1HgY-XaJno7DlLHVRfYcwbwKf8oE",
         "userName": "Monica Hnatiuk",
-        "userImage": "https://play-lh.googleusercontent.com/-uFH6SWYqWjs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNvMCQhHXB2Ivwdbbf4quDbVC-Tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLjx79TBCfkPC2Wohv_7xBINP_1C3BeAjEuH50=mo",
         "content": "Sounds like a great app but it doesn't even allow me to start using it. It says I need to update Google services to enable notifications, but everything is updated already :(",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2546,7 +2618,7 @@
     {
         "reviewId": "gp:AOqpTOHVfCR6MtoNlWQNfErxQ-2CtgkdOFOdkqwLKNw0csnpTwex2xH37FyHTNNw5Evu3Q2nYbqy3XZNCLwdIu8",
         "userName": "Carlton Stallings",
-        "userImage": "https://play-lh.googleusercontent.com/--MxcDduiBLQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucls2gE_3nvwBgTDpesyk7e7aIOdjA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzoO8UwkSWnjX5QJ-d0YyY326VBS4DcwlokNLXA=mo",
         "content": "I believe it true?",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2570,7 +2642,7 @@
     {
         "reviewId": "gp:AOqpTOGDVIm0UeWt0bcqXljJfB226UQBgZwGe89Cu1HcVrRqU8PEb-okvvGY_B9wzxDHUXhPh59J2EZhZAjtsKM",
         "userName": "Justin Earl Kurth",
-        "userImage": "https://play-lh.googleusercontent.com/-RFuTtS3IjHw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucngDzdQLQh0Fr1hTQG09dzM5noi6w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxPDrqQ0viqPsaWO5gVbleu-uxQ0N_st9gBFudv=mo",
         "content": "I haven't looked at this app at all. I just want to thank whoever made this. Some people have great visions but lack knowledge to see the vision through. Giggety. Ily",
         "score": 5,
         "thumbsUpCount": 7,
@@ -2582,7 +2654,7 @@
     {
         "reviewId": "gp:AOqpTOHT0HBerLPxaTRNF5mG3SeUeum44MpDHw6NALt0ZueLz8G3EUd6Gy59DzmHRinZCiZOCseEp6cQJBN__Zk",
         "userName": "Roxanne Stephenson",
-        "userImage": "https://play-lh.googleusercontent.com/-sBrqqrNr6L8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucleIV6BoC9sNmIZTQ7W_4BSYIyZSw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-NEhrR9nqLImBLIdlYkChDMtHgKcye8zEtGsU=mo",
         "content": "Need this in my life",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2594,7 +2666,7 @@
     {
         "reviewId": "gp:AOqpTOEZ6DT9Rfe3TafcgKGIk_67kHj5o9OsJ2y2iKTNwN0HeG8YiTSH8z6noQPPY5zFl--bB53nI2goG3pfnVU",
         "userName": "Lacey Whitford",
-        "userImage": "https://play-lh.googleusercontent.com/-XhTZw18DLsQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzjuMVSlmgzpGaVVY-ToFtIN134Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6MMWokHtLr6cXcZbdxSvix2jDg1hJ9jcwt5CZ=mo",
         "content": "Mine was checking 4 times a day.. hasn't checked for exposure since Nov 20th. How can I push the app to check for exposures? I'm not sure if I clicked on something to stop the checks? Thanks!!",
         "score": 5,
         "thumbsUpCount": 5,
@@ -2618,7 +2690,7 @@
     {
         "reviewId": "gp:AOqpTOHgRiEhHDDXaFs1xuiXv1VNOJZSNiRuKNpT8zhK_-iZbiBMziiqccUjb8sk4tUJ9xgZt0weu8IGkrrn-1I",
         "userName": "Lisa Goodroe",
-        "userImage": "https://play-lh.googleusercontent.com/-io9ML2vVE4w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLMic7pwwQQiEjlLW4hL6cU9TUuQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz6XbUVgyXK2GN_SCG8lWwaxm5n9JAaIawZxLlz=mo",
         "content": "I'm not very good at these kinds of things but I think I did it.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2654,7 +2726,7 @@
     {
         "reviewId": "gp:AOqpTOGXYRmUIr6GX1UQr5d1_PAp4FA437CI574yZSC88N2u03Sq8nxH7u0Vo2Elu0Z7uBNfuB6QDO2H_CQIURk",
         "userName": "Jennifer Verwey",
-        "userImage": "https://play-lh.googleusercontent.com/-O1nubqRyiJE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjGzC6fJLXCThsG5sm3XT_CVzpYA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwFdV4pToa4tBPf3cQvINcwz9nbNHkH4qbyfx2V=mo",
         "content": "Why are only 3 ethnic groups shown in the Statewide Racial Breakdown? The groups shown are Black/African American, Hispanic/Latino, and Native American/Alaskan Native. What about Asians? Middle Eastern? Michigan is made up of more than 3 ethnic groups and whites.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -2666,7 +2738,7 @@
     {
         "reviewId": "gp:AOqpTOFmjmnk0K8gJfzY5FPKFPGra6EceBJAOc68dkNktDXF4_oabuLMZ5y2aoEpPI635icDt8qu9QgBct78e-k",
         "userName": "William Serlin",
-        "userImage": "https://play-lh.googleusercontent.com/-VGdfRN4xYa4/AAAAAAAAAAI/AAAAAAABE_c/AMZuucnUahpPRquqIxGOZuUgpUhYxsw82g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZuX0o376Gt-p1hYmmY96-oZjLD3DvaAKtyledJfg=mo",
         "content": "I installed it to do my part. I'll uninstall it once this pandemic passes. That's freedom.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -2726,7 +2798,7 @@
     {
         "reviewId": "gp:AOqpTOH2-HiTMDJ5NZ2t1d0eblTTxqvfx_uNeg7u_O2qsR-9ScMpe2yfrvC6Bd5r6H230kYIU4MYfAKHWhds2Ts",
         "userName": "Pamela Mills",
-        "userImage": "https://play-lh.googleusercontent.com/-Fw_CMhd5Rzo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7TT0F1DZSEgWJ7bkqRmOzbnoPig/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzRmBQEbHmvZE9prfYaVR6JraprUNsJoVxMahBi=mo",
         "content": "On the page \"Michigan Coronavirus Stats\" 2/3 of the page is covered with text about John Hopkins. To scroll the important information there is only a 1 inch window.",
         "score": 3,
         "thumbsUpCount": 7,
@@ -2738,7 +2810,7 @@
     {
         "reviewId": "gp:AOqpTOGUaNmUV_WxEfE2l-vZiGVG-hWX1ZYLesNqPl0z4-zjmJff579KI8vkO86Fn1ppiiOwRjnrwMRYaOBOy6w",
         "userName": "Nic Leakey",
-        "userImage": "https://play-lh.googleusercontent.com/-8makNfnpbaI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPV6yW8Sg1EbrGP_dhKYRldEhrbA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyW-ZQDI-AjcyDxwnvP1Qk-XGxELhgHplPe3UCB=mo",
         "content": "Privacy SUPERB",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2786,7 +2858,7 @@
     {
         "reviewId": "gp:AOqpTOE8lsJ5oSkRq4GtMr9ZGgo1aHvb58IYqD2wUcoS5_BOCUjpDlJYYYo0hK3B9hF6ye3A8QAHcjiOrPCNIXs",
         "userName": "Jeremiah Irwin",
-        "userImage": "https://play-lh.googleusercontent.com/-MzP3tJvsWOM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm3fGg3A6k5D0Hj-oHuCQ6DkWmm-A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwm97J_4rSEviPiCWLU98hlQxYmmF6L_3NmUchk=mo",
         "content": "Very well.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2834,7 +2906,7 @@
     {
         "reviewId": "gp:AOqpTOH7BxEBVHTH38cqnq2glkjflNgVWytaU8LaPVBmdF_yWFB_UW6Czv-Q8DoN0A_BVXeuTcpCjwTPGUpx1lk",
         "userName": "James Lee",
-        "userImage": "https://play-lh.googleusercontent.com/-DK6aXN4LX9w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwCvbpf5d47Kbp_gwyvZJ1ghfH3A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy3Rxvt6rdsbui4dGReOagVV6Zv7DXRV1JXd8l7=mo",
         "content": "Covid 19 has a 99.98% survival rate , no need for this app.",
         "score": 1,
         "thumbsUpCount": 19,
@@ -2858,7 +2930,7 @@
     {
         "reviewId": "gp:AOqpTOEvZqsHHytC9APfyEV5f69MOfr_ukbY-omroDAH4qDXFKCV95U4HmgOuR8ckspoB1kFRo9dSX9500XYjv4",
         "userName": "Carol Garrison",
-        "userImage": "https://play-lh.googleusercontent.com/-3wPXszQHmzU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbbdcljIZWZ7IqUZaQ6hF8A-qQjg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxWdJZbzlInOCVvsPvBhPOJTr0W8dq1kWllS443=mo",
         "content": "You only have 1\" to view info. Needs work.",
         "score": 2,
         "thumbsUpCount": 8,
@@ -2892,18 +2964,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFPXwj4ZCwMIow1HfFmgxCDPhlUTi400-NzLM1-2FhUM1FSxRvptlaPiZm3887XFJyF5ilBbjvVrVJiIbY",
-        "userName": "Shay",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg3xoM4xXugDx_IH9sFj4yerwCy6WQVheT6RC9sag",
-        "content": "I wish this Covid-MI was more like the COVID -NJ APP it actually let you know if been exposed . Has a feature that circles They need to improve the Covid-19 app for MI Whomever developed should look at the Covid-NJ app asap",
-        "score": 2,
-        "thumbsUpCount": 14,
-        "reviewCreatedVersion": "1.0",
-        "at": "2020-11-15 08:12:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOE-sgC3j_3D0UO_NG1ca1CszyebpC3zG-dn3AQVVKp12_65sV0RlXIdk5K-PhJcNlnDsrilSm-uf7OuEjk",
         "userName": "2020",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gho1bIj9U5HedxuANic9OGg5M5zJtm67Et6LPuH",
@@ -2918,7 +2978,7 @@
     {
         "reviewId": "gp:AOqpTOH_4SpuyVTyJ9JIQZp6uN0X6lDJunjAfRebImancvS1i6nWIEfZ4JmOtBxrbEgg9yc7Io7HYa6xumQCWtk",
         "userName": "Tim Rodgers",
-        "userImage": "https://play-lh.googleusercontent.com/-2WplPiX1lwo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVQ3-mnsAw9BZ6yevuK_EpIud2Ag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyBGKbKwZPzXJ8EydPkrVWRRK8DuZ1nLcVBgarO=mo",
         "content": "Big brother",
         "score": 1,
         "thumbsUpCount": 7,
@@ -2978,7 +3038,7 @@
     {
         "reviewId": "gp:AOqpTOGR290ng0Z3ka3ztYhbZcrrEgI1wDhBKX7JkuuK7qWJ4mRnHnQUoj7xdUWC7LY7HquCrC_dVQ5TnNtXL3w",
         "userName": "Kellie Leutscher",
-        "userImage": "https://play-lh.googleusercontent.com/-ejwArfC4x18/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnW-HXfCbkzPydjfDOWPgit-yvj4Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxvT-RMui6p0HapSjrogsJcwisEvDG6O2f6wJaa=mo",
         "content": "I think the concept of this app is a step in flattening the curve but unless all Michiganders are downloading and using this how is its effectivenes Therefore, I think requirement of the app by all with smart phones or access might make it more successful, not only Michigan but throughout the United States. Matter of fact Everywhere this is a \"Global Pandemic\". Pre-installment (as other widely used apps are already installed on new phones) is a good idea as well. Please Consider",
         "score": 3,
         "thumbsUpCount": 45,
@@ -3002,7 +3062,7 @@
     {
         "reviewId": "gp:AOqpTOHVNiiF62azDXqZhyb_PoOzX86kp-XUKN0suD09o3_sTVAlOav77TEOdviKpjSyJ8svDfKAwSa5uUQSeOk",
         "userName": "Elizabeth Freed",
-        "userImage": "https://play-lh.googleusercontent.com/-TNNr3GSeUIs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckS-yWGiSJW1mSVwXJsoYSB8lk44Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz7EIDyQZz1OhkO-j6JQks6IzuIXDWVWOLpuekS=mo",
         "content": "Being able to see a how many people in your area have downloaded the app would be helpful. Its far more accurate if my city has 5k+ downloads than if it only has 500.",
         "score": 3,
         "thumbsUpCount": 14,
@@ -3014,7 +3074,7 @@
     {
         "reviewId": "gp:AOqpTOHV3EP_eu7NDCx5J4D8yyh9g7fYTOsOCoqByuJca6B0q4_drXwNslARac0V76cFC_K5_BChEXlZsfVpBOM",
         "userName": "Keegan Greer",
-        "userImage": "https://play-lh.googleusercontent.com/-DDFcNC4cW-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2jjtrvXukust1dEPXqAFrISIX1Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSR4tE79Bxzbosu6C50qhz2Ggz67hyur9g8VNj=mo",
         "content": "I really am sick of conspiracy theorists.",
         "score": 5,
         "thumbsUpCount": 6,
@@ -3062,7 +3122,7 @@
     {
         "reviewId": "gp:AOqpTOE_9c3toFI6ThDqFKu34uPHIYU0RvPJ2jiMp1g55JKZ0domUMxA-TCbFxZ3nYCeVE_eUEeIW4TwOXKBu6Y",
         "userName": "Sheila Gilbert",
-        "userImage": "https://play-lh.googleusercontent.com/-7L0i3CwImGE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjRyn2hAG99-thVUDGYQ-oHlEiHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy9q0cIRpVhmc_JRp3qRVj8xN-rSConuExwxANv=mo",
         "content": "Great that I can be notified of potential exposure to covid-19!!",
         "score": 5,
         "thumbsUpCount": 4,
@@ -3110,7 +3170,7 @@
     {
         "reviewId": "gp:AOqpTOE-8VOf0LIglSAeM4eXKtjhIOVNySHycZaXHhvXoQZrH3NZ27mPQ8aUga6AEYvtdwdWpGpM3D7bvrGP_p0",
         "userName": "Michael Kedzior",
-        "userImage": "https://play-lh.googleusercontent.com/-cSnOLtuzp4Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck3fTOi_P0f9_qyWAYFuTzDbF_zKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzUYWOq2S6L889RSeEV428ZQ5S2UTTar8slQ32R=mo",
         "content": "How can I give a review when I just opened it up",
         "score": 1,
         "thumbsUpCount": 7,
@@ -3134,7 +3194,7 @@
     {
         "reviewId": "gp:AOqpTOHViN2SVlkxe1--paOhI34RHWAgQjJyKxWkDJUwsKRjJtDVCkv2RAUKCFaBzVaAhciSyik_oATGMPEHK-Q",
         "userName": "Cr H",
-        "userImage": "https://play-lh.googleusercontent.com/-8KunJKFvKYA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnepWFLQLxRvFqACjVawssbgdQCmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw7Hz_Lkmmi-baZGsT4crPVoyj_K6-g4uxxrbNr=mo",
         "content": "Stupid",
         "score": 1,
         "thumbsUpCount": 17,
@@ -3146,7 +3206,7 @@
     {
         "reviewId": "gp:AOqpTOEXyCWphXWw66F5we-pv38_dtabCIabZIR0qIFkaYIjYEx5bGIlNe1Q4Qmcr3I6C8_u_x6VlrwwD-BRULM",
         "userName": "Mike stephens",
-        "userImage": "https://play-lh.googleusercontent.com/-aReh9fpn5w4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmO5DkQPbAW2ipia6X_Lf3bcTnslg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyAmIjMGR64MXX1jwOlAvM2BvB4S7dO0XNqXFV2=mo",
         "content": "Dosnt work",
         "score": 1,
         "thumbsUpCount": 10,
@@ -3206,7 +3266,7 @@
     {
         "reviewId": "gp:AOqpTOHcZbfjgpU_WYSh1Ce-Fhn0yCRnyBOB5Hx8vMYOG8UV2mzDavNXmGYjt_8Ou2wWxwA_mxE5RaHinpaavxU",
         "userName": "Michael Dunaway",
-        "userImage": "https://play-lh.googleusercontent.com/-7gzpgvXFGpo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnl_DofmgIF7KGy-3F1_4Vjs-IOjA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzw6kGvAW78k8y1SdSrofSjzr2cE79YiNMNdA-2=mo",
         "content": "I imagine people that use this app are the same people that drive alone in their cars with a mask on",
         "score": 1,
         "thumbsUpCount": 28,
@@ -3218,7 +3278,7 @@
     {
         "reviewId": "gp:AOqpTOHQOccWXS925xaItz0ut25Ih57Dwyx2Rst-PKqU2sfS0GuKqIl0iR6TLsyk1IHFSI2-jMslZLIhNXf-qJY",
         "userName": "Steven Barrett",
-        "userImage": "https://play-lh.googleusercontent.com/-XTAjxDTTCgQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclowHkssSTkJVgw7e4aXFecjT00aA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-xp98m-dMDZTedlo7Jdzh9m_iP9GJ2xZuzabi=mo",
         "content": "Great to keep safe",
         "score": 5,
         "thumbsUpCount": 5,
@@ -3254,7 +3314,7 @@
     {
         "reviewId": "gp:AOqpTOH0EDXcDr8AP8uU4FVnuC4AYsWusToa2EeLo3-OdQs38VNvHMG51dtigylnHr49ASrIBIk88TFW3Ss2rlQ",
         "userName": "Tony Battle",
-        "userImage": "https://play-lh.googleusercontent.com/-oz4o2jozKwM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzROqzdRyQ4Zzy2JH0RlfNBN8txg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-mIqYDF2-4tGB0RDsl1b1hL9SPRb7oJ5JZBbD=mo",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3314,7 +3374,7 @@
     {
         "reviewId": "gp:AOqpTOExyBDki2tz4yG2hO9H5iu9ERYQOqJc6uxboZ53-p4q1Pk0l0Or9CM0HvEIgHvAYBbvWKKvDAaQwOKFwTg",
         "userName": "Paul Lounsberry",
-        "userImage": "https://play-lh.googleusercontent.com/-HAU0OhQ-iP4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckdNIKGMOTNhyHAosHJqxWAQEoSLw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzuSW_iEctQcL0d2bRQnHOIA8ps0E7Pz1_3kaP0=mo",
         "content": "Hopefully enough people use it to make it work!",
         "score": 4,
         "thumbsUpCount": 4,
@@ -3386,7 +3446,7 @@
     {
         "reviewId": "gp:AOqpTOHMLh0n_Q2sFHMxdgtfHbsupdAWX0Mh_w3avletiEcnZdIEnURLEOwRos7qZzMWQivVAxeM8ekMj1fWSrY",
         "userName": "Matthew Isopi",
-        "userImage": "https://play-lh.googleusercontent.com/-e6at2o0T768/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmI56KPOrZYMQ0byYkBb7-iWVbF4w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFY8gJAKHKxhxw3q2qqXIuu_RmwrUr2Y2svL3L=mo",
         "content": "Is there a way to have my phone and user account flagged as \"Out of State\"? I'm a college student returning home to Michigan soon, and I'd think that data could be helpful in monitoring potential spikes and their sources. Otherwise, the app is great and I love it. Thank you!",
         "score": 5,
         "thumbsUpCount": 19,
@@ -3398,7 +3458,7 @@
     {
         "reviewId": "gp:AOqpTOGOj65GXGM24MJz3C9sJlv_qg99o_pH6E1MnkwBP0AZaKb-iNTlhDNx865CCF3uyY-kstIt1YG8f3-dleI",
         "userName": "Anne Mobley",
-        "userImage": "https://play-lh.googleusercontent.com/-PgPOvYSfciE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJXfzpcEfYVx0XzxFpfEcSEENmBQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz7r_kYI7a2C_uVffmicGZ-yGttAhbfGkSLDkqc=mo",
         "content": "Definitely needed, hopefully very useful to the tracers.",
         "score": 5,
         "thumbsUpCount": 4,
@@ -3410,7 +3470,7 @@
     {
         "reviewId": "gp:AOqpTOEue7uy2eT7BpJJBZLWW9ev3LHM4OUhwOUtPfUu_72-om60YR-9h2rt9Cl87NH_r6Ob45WKx5GLmbRnwLY",
         "userName": "Susan Takessian",
-        "userImage": "https://play-lh.googleusercontent.com/-iajpWKYWuIQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckXnp6MOll81P1ZEMd3jNXQDW4G1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxEnpgJ1eK4gwdywj3H48Vpz-2JD6Z0cyPeB20U=mo",
         "content": "I feel better with this app. Knowing many still won't mask up.",
         "score": 5,
         "thumbsUpCount": 6,
@@ -3422,7 +3482,7 @@
     {
         "reviewId": "gp:AOqpTOFi0982b3J6Qt3cxnBOnT7z8UAfOUhaMgvjPzEaCZWO32hu787XCme9tX4KnSS0Fk4FKpt34p7UXtA-vVE",
         "userName": "Drunken Reefer",
-        "userImage": "https://play-lh.googleusercontent.com/-PzMWAZ-lpAQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmvb26_8dMChoZB7ZXvjeDV9VJa3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxGl7Ue0QDFDnr2dRWBwGbaqfZue9CZ0tlOWpg=mo",
         "content": "This app doesn't show a map of positives in the state. Just a \"feel good\" app to make people think they are in control.",
         "score": 1,
         "thumbsUpCount": 32,
@@ -3470,7 +3530,7 @@
     {
         "reviewId": "gp:AOqpTOEn3moZa_gtr1ookE-JkCYi1E6Gp02zs6VUA-91F3rD1hGjuYdgBJCMmnVsSMtN2D8IArtlpTjW6O8PoBs",
         "userName": "Paul Gothard",
-        "userImage": "https://play-lh.googleusercontent.com/--G6V8zkG1pU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0ft6pE9p94qOQ-4yIpO5hET54wg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHfBJGZd7kY5a_lrQC6Ta5eal4eWtju-nD5kRh=mo",
         "content": "Lifesaver",
         "score": 5,
         "thumbsUpCount": 5,
@@ -3494,7 +3554,7 @@
     {
         "reviewId": "gp:AOqpTOHuqVLLXMJzNuKJzzu7ZrUAom3GQJL7R0YoaB5WFSZi-2_fD3KJRbqctOConY3ENt4vnisZ7Qjcx_Hr2-4",
         "userName": "Julie Stjohn",
-        "userImage": "https://play-lh.googleusercontent.com/-0z1rVNiJ41g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckO03nfKWS9QUKbJYoBKfpkbrowZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwPNmPbTwGdDQBjA5K_YZEAItDlMSEue4HW0Ncu=mo",
         "content": "Yes happy to have this",
         "score": 5,
         "thumbsUpCount": 5,
@@ -3518,7 +3578,7 @@
     {
         "reviewId": "gp:AOqpTOG6Gt5dBwXeTF8wS7k9Ehh594me2pJxzuuJiGyN7Nor0mgjSw__vQW-wcOHL8lJrRyknOGrT7cckyn_k10",
         "userName": "Anon Ymus",
-        "userImage": "https://play-lh.googleusercontent.com/-nmnpbAo03TY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3mnv2KFz2CHzZknyZrOueIco9tw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwF_mUHWnI3dTBczIST3CQ8hiu4M5SAMBCmeNje=mo",
         "content": "doesn't update - ever - CDC data page is from the day I downloaded the app a month ago - cases have changed dramatically, but app displays very old data",
         "score": 1,
         "thumbsUpCount": 95,
@@ -3530,7 +3590,7 @@
     {
         "reviewId": "gp:AOqpTOF6tyRrN7zVnkvI5tOZDMuP-fa7UNWvqV6R2ME2w51Qw5ymeSwRI1rwlIzgdRC8pFNLWXbqg_hEISBhpV0",
         "userName": "Gloria Little",
-        "userImage": "https://play-lh.googleusercontent.com/-IJnOBHqSkPk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0jgeVgXRtPNqM1muOSde6w-MUFQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwTOEC8YZyGU0WCRUNLtYZ7wftCS-HsdK7EvOMN=mo",
         "content": "I don't know if it's the system or what's going on in Michigan but I've been trying to download this app for 45 minutes and it still will not open",
         "score": 1,
         "thumbsUpCount": 21,
@@ -3590,7 +3650,7 @@
     {
         "reviewId": "gp:AOqpTOGsJJebiCwOerRj1EOeegB0KAa4XCo_bnKainbkwB5rP329a7qqORaZMOGbyHcaxL3S6Sob8NBP9DKlqaM",
         "userName": "Stacey Spencers",
-        "userImage": "https://play-lh.googleusercontent.com/-b6lrHEjd-5k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmq_N5oOah1aENVl6pc3Hbtm-OJxw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx-eRURd2yTRqoxaouv3eQMKXhHEJCYBCiIwpfZ=mo",
         "content": "Edit: turns out my battery is just trash so upgraded from 4 to 5 stars. OLD: 4 star because bluetooth kills my battery. Other than that its fantastic and make me feel like I have more information to make the right choices.",
         "score": 5,
         "thumbsUpCount": 30,
@@ -3602,7 +3662,7 @@
     {
         "reviewId": "gp:AOqpTOGHcBZHg8qvoCRb0MIOfPxIqFRWC_81uj-VsKsLR5_zMqIaYadSEXaZjnwgM0C-eNba2VoexyxNU_AvzNk",
         "userName": "Brandon Poirier",
-        "userImage": "https://play-lh.googleusercontent.com/-Ewh0f2_jqnU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTxkz7GHiikric4ln_EdDq599w7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxnch2YAF1ze5waYsjjvU70euQDtzb6murcRfEK=mo",
         "content": "App won't download on Galaxy S10 on T-Mobile. Tried on WiFi also.",
         "score": 1,
         "thumbsUpCount": 25,
@@ -3614,7 +3674,7 @@
     {
         "reviewId": "gp:AOqpTOFa1LikOMp05msG2pijF32d8u18-9eTq27-ODB-b9YFWvdGNWQokeFr9BB9HiCMmhcmj3ivSnRE-TlYr9Q",
         "userName": "A Pylman",
-        "userImage": "https://play-lh.googleusercontent.com/-VvlvtG4w1bQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnEKThG4ZMpLnAiyg1NDVHC-JTGQw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy3x7eVxm2s1G4iFrtzpNq4yNFAU-74zsGt4bBV=mo",
         "content": "I'm giving it a try because any knowledge is better than none. It won't change my behavior. I'll still be masking and mostly staying home.",
         "score": 4,
         "thumbsUpCount": 15,
@@ -3626,7 +3686,7 @@
     {
         "reviewId": "gp:AOqpTOG-7k9C6b23gHG6bzPRcI7k-FL73TJenanlNcsB90Y3yl8hwFY_kcLCeHTka9RL_mGFQj0UhTM-RrJSV9s",
         "userName": "Scott Eaton",
-        "userImage": "https://play-lh.googleusercontent.com/-grKr59hxb8s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckKDB5UDVuTboL-sfShswXsTNXPfQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxB_46GUDzXPUjIg1KlymhG-X1KkwxFcPKjPhBF=mo",
         "content": "Awsome!!!",
         "score": 5,
         "thumbsUpCount": 7,
@@ -3638,7 +3698,7 @@
     {
         "reviewId": "gp:AOqpTOFcC10Hgmc9qW6v6yv4zkB8h1msUQp5HiG93xMWsD83lqzGZPWAbGFDhGZ-M9I0y44C4FbJdZryKIAbJ-s",
         "userName": "Rob Hildreth",
-        "userImage": "https://play-lh.googleusercontent.com/-FP_ofUeGZqY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckV61dHxNW2vKxZAJ1sIJjW9fjAMg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxMmxg5fIzBOLiarzGO6NTNf8W2-I2FofhKGQzp=mo",
         "content": "Useless app! I've been around several people at work who tested positive since having this app. Nobody is using it. Need a better solution than this.",
         "score": 1,
         "thumbsUpCount": 96,
@@ -3674,7 +3734,7 @@
     {
         "reviewId": "gp:AOqpTOGHMi6B7AkUupzPqxGChuiP7OFwZqhfz6sUkevsJCn1tBrA_TDBZ_FbS36HcUJig_mjXMpVYOB6ONFfZK4",
         "userName": "JourneyOfAnesthesia",
-        "userImage": "https://play-lh.googleusercontent.com/-waSuj088IUE/AAAAAAAAAAI/AAAAAAAAHUU/AMZuucnBIkxXRF7c2N1zMrG9Melm_HAxIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdr8K9QgjXTVPCVQxGACW7KLGU1UkxScyE5uMs9A=mo",
         "content": "Garbage. Need an app with good numbers and stats. I dont need big brother guiding me to this app and blocking all other kinds of covid apps from being developed.",
         "score": 1,
         "thumbsUpCount": 29,
@@ -3746,7 +3806,7 @@
     {
         "reviewId": "gp:AOqpTOEL9lb_vKKhauZOF-2jgDRPYKm3rWt4--fPPsgB3J-OBWHR8LmlOdAFgE8BfvRpgi1176THWYOoq3CyVJU",
         "userName": "Harry Bowman",
-        "userImage": "https://play-lh.googleusercontent.com/-st0pxY7CYbY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVH_fGJ1F2Z5u24Oxah52IgQ1mEg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzXQZNxDAd1CLzGzjtBDHgBXKuMmO0iolIkvrEU=mo",
         "content": "Did not load",
         "score": 5,
         "thumbsUpCount": 11,
@@ -3758,7 +3818,7 @@
     {
         "reviewId": "gp:AOqpTOGkocC0d21aapuA8LJycDKvpjwPXpCSN1i5HpRCgLJGm97Pe369LFKzfW-FYPOLyMZYE7AmFdxYXn-y6G4",
         "userName": "Calley Wang",
-        "userImage": "https://play-lh.googleusercontent.com/-eKC_skvmAKY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucltvWmj19H_l0K_a576XAsnWCis8A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy1dC5ORl17fM3j2dgee-LcVdWL4mbJWCzaNl65=mo",
         "content": "Simple and unobtrusive. When you install it doesn't make any requests for your GPS data so you know it's not tracking your location or anything. There's a chat interface to ask questions to someone at the health department.",
         "score": 5,
         "thumbsUpCount": 46,
@@ -3770,7 +3830,7 @@
     {
         "reviewId": "gp:AOqpTOFclfIdamkfpUVQql5u_axWj6PXEYC0LWRHQ_9V8fcm96uYzReN5RFlV9kJCYkObRKkvgn9TsbS383gdo8",
         "userName": "Chi Benedict",
-        "userImage": "https://play-lh.googleusercontent.com/-gLlJmKLLMwE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckAga_hUQa4yfJnNxrYH09PtveUGw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy1d6U9OMJBh7-drwA858O-aGCVMC6kux5EkXgt=mo",
         "content": "I am excited to see an app for Michigan finally available and even though I am not in the Ingham County area I wanted to check it out. I like the addition of the stats from Johns Hopkins and the added use of pins with MDHS in order for someone to list themselves as having Covid. While I did not give it 5 stars (due to just getting the app) I did want to comment and let you know that I appreaciate it.",
         "score": 4,
         "thumbsUpCount": 105,

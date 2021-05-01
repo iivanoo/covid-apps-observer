@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEjfGhdEzcDgtAgvAfPYXiw9uOdxGMvwd3bL7_oq1ruchAEoqNer3fF6NUwE2UeFaLVSJNZhJNAduIgvA",
+        "userName": "John Macdonald",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1ncLGxcb7MS4VZMApmzYmaHjCAEmnXHFBzt_0=mo",
+        "content": "App is fine, easy install and use. Could do with the ability to check out as well.",
+        "score": 4,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.9.0",
+        "at": "2021-05-01 09:48:23",
+        "replyContent": "Thank you for your feedback. ACT Health believes the level of information provided through check in is sufficient to assist in contact tracing efforts and therefore a check out requirement is not required at this stage.\n",
+        "repliedAt": "2021-04-22 06:32:14"
+    },
+    {
         "reviewId": "gp:AOqpTOFC63gQNYGsRpt_MBHZ2NI6O-BHwc-WA_JQXQnibCo1OZrxqZzH7ZbYovDTzyCT5Kwk77W1RH83Q1oqAQ",
         "userName": "Josh O",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyEPDBcIxuu4fZQVus_1hCj7RWYTHBrzmSjTj7S=mo",
@@ -108,18 +120,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOEjfGhdEzcDgtAgvAfPYXiw9uOdxGMvwd3bL7_oq1ruchAEoqNer3fF6NUwE2UeFaLVSJNZhJNAduIgvA",
-        "userName": "John Macdonald",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1ncLGxcb7MS4VZMApmzYmaHjCAEmnXHFBzt_0=mo",
-        "content": "App is fine, easy install and use. Could do with the ability to check out as well.",
-        "score": 3,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.9.0",
-        "at": "2021-04-06 10:20:48",
-        "replyContent": "Thank you for your feedback. ACT Health believes the level of information provided through check in is sufficient to assist in contact tracing efforts and therefore a check out requirement is not required at this stage.\n",
-        "repliedAt": "2021-04-22 06:32:14"
-    },
-    {
         "reviewId": "gp:AOqpTOEAXRxk_osF24P6qoU6FBOqcX6dSoy6SSFDtcbIWCbVqdW8io4IqLvhDjH44QiwaCv48EcUggwKL9mFZQ",
         "userName": "Anne-Marie Reynolds",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMoHNvVCKtVVnPnZOmOjVrie2H7J5CAfM73jVp=mo",
@@ -185,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyr67d561V2R_63CShKbSyOIc73-Qi_CGzxcrjx=mo",
         "content": "This app worked perfectly for me until the most recent update. Now the screen stretches off the sides of my mobile. Mostly its bearable if ugly but I'm unable to see the names of the additional people either for selecting or entering in the text box which significantly reduces its usefulness",
         "score": 3,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-04-02 02:59:52",
         "replyContent": null,
@@ -353,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghp7XtWM7GoZodwAh0PW9_hGqbJdi8Bp8mIDvSQ",
         "content": "Up to a few days ago this was near perfect. I used it everywhere. For some reason this weekend it fails to launch on my S7 Samsung mobile. I have uninstalled, restarted, reinstalled, but still it fails to launch. Something is now incompatible. I hope it's fixed asap. UPDATE The problem is now fixed. Thanks for the support.",
         "score": 4,
-        "thumbsUpCount": 26,
+        "thumbsUpCount": 27,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-11 10:20:44",
         "replyContent": "Thank you for your feedback. We are aware some users on older versions of android are experiencing issues. We're very sorry for the inconvenience. A fix is now available in version 1.8.2, please update. If you are unable to check-in please advise the venue staff and they can record your details for you using the business profile.",
@@ -413,7 +413,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwj3oUPeo_L_HemOyJcVmbIqTFsaKbcuUfbxj3u=mo",
         "content": "Why does this get stuck \"finding location\" now? It used to work reliably.",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-06 09:55:15",
         "replyContent": null,

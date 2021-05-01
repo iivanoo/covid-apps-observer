@@ -134,25 +134,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Easy to use<br> :date: __2021-04-29 04:26:25__
+> Easy to use<br> :date: __2021-05-01 14:04:49__
+
+> We<br> :date: __2021-05-01 07:21:45__
+
+> Feel safe ,04/21 Had astro Seneca jab slight headache ist day tip of nose dripping 2nd day .After jab had energy I saw freedom and hope for for all our neighbours,I trust all the Worlds Scientists that make the vaccines and health ministers only ,my next astro Seneca jab is June Then long term protection is done.take care godbless .🌈👪🌅⛑️🎁🙋✨🌼<br> :date: __2021-05-01 05:23:39__
+
+> Good<br> :date: __2021-04-30 12:11:51__
+
+> It is important to have a state and national approach to this pandemic.Better to have this in place, rather than nothing set up. Keep everyone safe.<br> :date: __2021-04-30 05:28:06__
+
+> All good easy<br> :date: __2021-04-30 05:10:13__
+
+> App now working for me<br> :date: __2021-04-30 00:30:59__
+
+> Feel safe with covidsafe app<br> :date: __2021-04-29 21:10:16__
 
 > It's been there helpful in my travel plans<br> :date: __2021-04-29 00:55:51__
 
 > Easy to use.<br> :date: __2021-04-28 12:23:20__
-
-> Easy to use<br> :date: __2021-04-28 08:20:35__
-
-> All good no problems.<br> :date: __2021-04-28 06:57:21__
-
-> great<br> :date: __2021-04-28 05:47:50__
-
-> Easy to use<br> :date: __2021-04-28 01:04:37__
-
-> Will not give a pin number ⁸<br> :date: __2021-04-27 23:25:07__
-
-> Good<br> :date: __2021-04-27 10:39:43__
-
-> Easy to handle and follow<br> :date: __2021-04-27 09:37:26__
 
 
 
@@ -190,6 +190,10 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
+> Not sure it is working<br> :date: __2021-05-01 11:48:40__
+
+> Disappointing. I used this from the word go as I believe it to be a useful tool for its purpose. In the last ?week? or so it has been responsible for massive power drains to the point my phone switched off. The last episode was 70% power usage, yesterday, so unfortunately it is gone.<br> :date: __2021-04-30 01:29:57__
+
 > Ok app, simple to use. Dont like that the camera keeps locking up, so need to close app and try again<br> :date: __2021-04-29 13:08:42__
 
 > I found this App instructions to be reasonably ok to follow☺..And I hate using phone for anything..But it's for humanity?.😕<br> :date: __2021-04-27 21:55:50__
@@ -206,10 +210,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Easy, must say... .<br> :date: __2021-04-23 09:01:43__
 
-> gets the job done, but requires a lot of typing, more dropdowns and selectable lists would be friendly<br> :date: __2021-04-23 08:13:11__
-
-> Not sure how effective the app is. Drains battery for sure.<br> :date: __2021-04-23 06:33:03__
-
 
 
 #### 2-star reviews
@@ -217,6 +217,8 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> I iPhone to see the money in the bank not it's been 4 years stop dragging<br> :date: __2021-05-01 07:23:23__
 
 > So so a pointless app when you have to use service N.S.W to check in everywhere<br> :date: __2021-04-28 23:02:58__
 
@@ -236,8 +238,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > I don't see the point. Only works if I activate it and sorry but that's not always the most important thing I think of when out and about. Would be useful if always activated!<br> :date: __2021-04-21 13:14:51__
 
-> 10 million downloaded, 7 traces made. No sign in function: need a separate app for that<br> :date: __2021-04-21 11:05:51__
-
 
 
 #### 1-star reviews
@@ -246,24 +246,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
+> It doesn't do anything!<br> :date: __2021-05-01 12:45:54__
+
+> It was ok, but since last update started eating my battery, which is the one thing an app like this should absolutely avoid. Uninstalled.<br> :date: __2021-05-01 05:26:13__
+
+> Other than wasting tax $$, this app didn't achieve anything on a federal level and on a personal level it simply drained my battery.<br> :date: __2021-04-30 16:00:15__
+
+> Drains battery since latest update<br> :date: __2021-04-30 15:09:00__
+
+> Doesn't seem to be able to trace very well..<br> :date: __2021-04-30 08:22:49__
+
+> Total waste of time, does nothing.<br> :date: __2021-04-30 07:00:06__
+
+> What experiance<br> :date: __2021-04-30 04:12:58__
+
 > Uses too much processor<br> :date: __2021-04-29 09:53:07__
 
 > Dosent work<br> :date: __2021-04-29 09:24:07__
 
 > Waste of space<br> :date: __2021-04-28 23:55:42__
-
-> Uninstalling this app as it has done nothing for the Australian population and done nothing basically for contact tracing efforts<br> :date: __2021-04-28 08:06:38__
-
-> Keeps draining my battery. With the Covid app my phone lasts 7 hours. After I uninstall the application my phone lasts 13 hours.<br> :date: __2021-04-27 09:55:15__
-
-> Uses lots of battery. Has not seemed to be effective with contact tracing.<br> :date: __2021-04-27 09:19:48__
-
-> What a waste of time and energy<br> :date: __2021-04-27 05:33:25__
-
-> Useless<br> :date: __2021-04-27 05:19:37__
-
-> So far it has taken 1 hour to update...shouldn't take this long!<br> :date: __2021-04-27 04:22:42__
-
-> Useless waste of taxpayers money<br> :date: __2021-04-26 05:44:16__
 
 

@@ -198,6 +198,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
 
+> Usable. But this app *could* be so much more.<br> :date: __2021-05-01 11:32:47__
+
 > Meh... This app NEEDS an "I've been vaccinated" indicator and a way to store and prove vaccination information. Get on it.<br> :date: __2021-04-04 17:05:03__
 
 > Covid-19, I know Corona Virus has changed all! I'm super disappointed in are system! China is swiping anal canal now! My only concern is, the ones with higher strang will probably be cloned in a robot! Biggest organ, Skinned perfectly put on Technology Robot. The real human to all but died of covid-19, to battle a working world for the humans that survived! At one time only one child. Wanting Boy. Afraid of the power of desperation! I know USA is a abarsement. President Trump, I believe in You<br> :date: __2021-03-09 11:08:59__
@@ -215,8 +217,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > It says my exposure isd turned of but doesn't allow me to turn it on.<br> :date: __2021-01-13 04:53:18__
 
 > It would be nice if there was a spot on the daily check in section of the app that had a CURRENT LOST OF SYMPTOMS. Just asking if you're okay or not doesn't help people to realize if they may have symptoms or not.<br> :date: __2021-01-11 14:21:29__
-
-> this isn't a reflective rating on this app; however, maybe this is proof on how well my VPN is working.. because i don't live in PA. does it even matter that i don't live in PA, if i was wanting to use the app? this raises another concern of mine. my VPN is on all the time, so how could this app, if i did set it up, know where I've been? does it all permission to bypass VPN settings? if not, how would it accurately know where I've been? or have i been mislead on what a VPN does?<br> :date: __2021-01-08 06:20:15__
 
 
 
@@ -254,6 +254,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> WARNING DATA BREACH HAS OCCURED WITH THIS APP!!!!! DO NOT USE!!!! I WAS RIGHT ABOUT THIS APP LAST YEAR!!!! Sorry, don't trust it. Your data is uploaded to the Amazon cloud and location is obviously monitored. If you come in contact with a covid carrier that has their location on that data is sent. Governor wolf's mandates have been ruled unconstitutional. Big brother is watching now! This app is just enslavement to tyranny. Encouraging fearful interactions with other Americans. Do you trust Wolf and his obscure "covid" team that decided what they considered life sustaining services? NOPE.<br> :date: __2021-04-30 21:03:21__
+
 > No alert good app<br> :date: __2021-04-28 19:12:14__
 
 > How helpful can it be, today is 4/27/21, the info was last updated 4/18/21. Good thing I'm not depending on it letting me or others know about exposures. Or maybe PA has stopped using it?<br> :date: __2021-04-27 12:07:53__
@@ -271,7 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > This app is fatally flawed. They designed it so that the only way to trigger an alert after you test positive is for a public health worker to call you after your positive test and give you a code. They didn't put the resources in place to make sure they could call everyone promptly, which makes the app pretty much useless.<br> :date: __2021-04-15 23:21:47__
 
 > This app takes too long to download on my Samsung Galaxy<br> :date: __2021-04-07 02:00:16__
-
-> Hasn't worked for the past 4 days.<br> :date: __2021-04-06 04:29:08__
 
 

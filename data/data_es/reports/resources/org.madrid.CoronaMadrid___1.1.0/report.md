@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> La experiencia ha sido desastrosa. Pese a haber introducido la sintomatología, la aplicación me decía que estaba todo en orden y hemos tardado más tiempo en avisar a sanidad para que nos hagan los test. Y en nuestro caso la tos no ha sido seca, sino productiva...<br> :date: __2021-04-30 09:40:26__
+
 > Imposible introducir la fecha nacimiento escribiendo los datos. Solo sale un desplegable. Hay que ir pasando, nes a mes. ¿Cuántas veces tengo que ir pasando hasta alcanzar mi año de nacimiento de 1943? He desistido de registrarme<br> :date: __2021-04-14 13:13:52__
 
 > Hasta 10 llamadas al día desde la Consejería de Sanidad para verificar lo que indico en la aplicación y yo agotado de hablar. No agiliza nada administrativo. No le veo utilidad :(<br> :date: __2021-03-17 10:42:55__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Desistalarla es lo unico positivo que tiene la APP.<br> :date: __2021-01-27 13:45:34__
 
 > En esto se gasta el dinero la sra presidenta. En app absurdas que encima no funcionan. Le pongo una estrella porque no deja poner menos.😡<br> :date: __2021-01-27 13:42:20__
-
-> Se supone que incluye las pruebas realizada en la SS y otros centros sanitarios. Como la SS no me hizo ni una triste PCR durante las dos bajas que pasé, me las hice por lo privado. Pues no aparece nada en mis pruebas, pese a que me acerqué al centro de salud a informar de mis anticuerpos.<br> :date: __2020-12-17 20:14:24__
 
 

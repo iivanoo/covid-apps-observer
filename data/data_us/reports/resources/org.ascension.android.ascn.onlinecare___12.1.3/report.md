@@ -286,6 +286,8 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 <img src="1_star_reviews_wordcloud.png" alt="org.ascension.android.ascn.onlinecare 1 reviews"/>
 </p>
 
+> Anything associated with ascension is toxic<br> :date: __2021-05-01 01:57:47__
+
 > Cant get pass entering my password useless!!<br> :date: __2021-04-24 00:47:06__
 
 > Horrible<br> :date: __2021-04-10 01:40:45__
@@ -303,7 +305,5 @@ The Ascension Online Care – See a Doctor 24/7 app has been installed by more t
 > I am 14 and something is wrong with my heart but it won't let me sign up because I'm not 18 what am I supposed to do??<br> :date: __2021-02-20 18:30:28__
 
 > Tried going to look at my lab results from my cancer doctor and could not see them or even anything about her. Very disappointed<br> :date: __2021-01-24 17:52:04__
-
-> Suck Fest. Worst customer service ever. Save your $.<br> :date: __2020-12-23 22:30:43__
 
 

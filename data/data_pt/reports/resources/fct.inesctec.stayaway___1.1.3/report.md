@@ -137,6 +137,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Muito diverte-t lá<br> :date: __2021-04-29 21:50:38__
+
 > Nao sei mas andam muitos por todo lado<br> :date: __2021-04-28 19:46:17__
 
 > Sérgio baranita Soares<br> :date: __2021-04-28 14:35:36__
@@ -155,8 +157,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Bom<br> :date: __2021-04-08 21:11:56__
 
-> Consulto diariamente sinto-me mais seguro<br> :date: __2021-04-07 12:03:47__
-
 
 
 #### 4-star reviews
@@ -164,6 +164,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
+
+> Gosto desta aplicaçao. Funciona bem e assim andamos sempre atualizados.<br> :date: __2021-04-29 15:05:31__
 
 > Boa<br> :date: __2021-04-22 23:42:13__
 
@@ -182,8 +184,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Tenho a dizer que não compreendo a razão de recomendar está aplicacao...pois infelizmente tenho várias pessoas que conheço que apanharam o maldito vírus....e nunca recebi qualquer notificação....portanto há qualquer coisa mal escalarecida na transparência dos dados...quem é o responsável. Doente ou médico...nao sei...mas alguém está a falhar....e ainda por cima está aplicacao foi tão recomendada pelo antonio costa...conclusao...mais uma areia atirada aos olhos daqueles que sofrem diariamente.<br> :date: __2021-02-05 16:03:20__
 
 > Boa<br> :date: __2021-02-04 15:18:41__
-
-> Tenho a aplicação, mas se passar por alguém que não tenha, e estiver infectado não resulta<br> :date: __2021-02-04 11:55:03__
 
 
 
@@ -249,6 +249,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Meu pai e mãe positivos, 3 vizinhos do prédio positivos, nenhum recebeu código, em 5 casos conhecidos por mim, 0 códigos, palhaçada, foi bom para encher os bolsos ao programador.<br> :date: __2021-05-01 13:44:51__
+
+> Irineu vc num sabe nem eu<br> :date: __2021-04-30 08:32:04__
+
 > Ridiculle<br> :date: __2021-04-29 11:30:28__
 
 > Trabalho num hospital público com contacto diário com centenas de doentes infectados com COVID19. Uso a APP desde o primeiro dia em que saiu. Até hoje nunca fui alertado pela APP. Como explicam isto???<br> :date: __2021-04-28 09:21:15__
@@ -264,9 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Porque eu posso<br> :date: __2021-04-20 21:09:54__
 
 > Um app à imagem do governo. Só bugs!<br> :date: __2021-04-18 17:22:16__
-
-> Pode funcionar, mas não consigo pedir o código ao médico de família. Ficamos igual. Os médicos não gostam da APP? Devem quer viagens ao Brasil. Qual é o número para pedir o código por SMS, na altura não havia essa opção?<br> :date: __2021-04-15 11:41:52__
-
-> O facto de não ser uma app obrigatoria e haver uma minuria de utlizadores, faz com que a mesma não cumpra o seu objectivo. Tive alguns contactos de risco e nem 1 nidificação gerou.. Por isso ao fim de 6 meses de utilização chego a conclusão que só serve para ocupar espaço nos nossos dispositivos... Reeposta; O Problemas Está mesmo ai as pessoas não poem o codigo ou nao uasam e e todos os cobtactos que tive foram no trabalho e em cercade 16 pessoas infetadas nem um alerta...<br> :date: __2021-04-15 10:56:55__
 
 

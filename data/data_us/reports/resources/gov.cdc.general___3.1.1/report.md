@@ -216,6 +216,8 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
 
+> Very usefull with their inforationabout covid.<br> :date: __2021-04-30 02:09:38__
+
 > Good for info<br> :date: __2021-02-21 03:33:26__
 
 > Decent app with lots of good info.<br> :date: __2021-01-27 05:17:53__
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **100000** times. At this time, **14
 > Provides clear and factual science on COVID-19 developments<br> :date: __2020-07-31 23:53:35__
 
 > Sarahlandry ex sex here<br> :date: __2020-06-11 01:25:36__
-
-> Too many notifications about the virus made me depressed. Good app for a free one, just need better notification options.<br> :date: __2020-05-31 20:08:18__
 
 
 

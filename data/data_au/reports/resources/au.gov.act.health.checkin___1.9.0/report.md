@@ -170,6 +170,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
 
+> App is fine, easy install and use. Could do with the ability to check out as well.<br> :date: __2021-05-01 09:48:23__
+
 > Knox zzz a<br> :date: __2021-04-05 03:04:52__
 
 > jgii8looLeft to prove any billion via the water opp09mb9ddd<br> :date: __2021-04-02 08:20:46__
@@ -188,8 +190,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Great app to use! Only have to enter your details once at setup, unlike interstate arrangements. Just a simple click to check in at arrival, no check out required. Just needs more extensive testing before updates are released.<br> :date: __2021-03-01 22:40:12__
 
-> Once loaded this app is easy to use, so much easier than NSW or Vic!<br> :date: __2021-02-26 00:06:07__
-
 
 
 #### 3-star reviews
@@ -204,8 +204,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Remember to stay safe and wash your hands.<br> :date: __2021-04-07 23:00:34__
 
-> App is fine, easy install and use. Could do with the ability to check out as well.<br> :date: __2021-04-06 10:20:48__
-
 > This app worked perfectly for me until the most recent update. Now the screen stretches off the sides of my mobile. Mostly its bearable if ugly but I'm unable to see the names of the additional people either for selecting or entering in the text box which significantly reduces its usefulness<br> :date: __2021-04-02 02:59:52__
 
 > What if I do not have internet data? Not everyone has free wifi data which may make the app useless.<br> :date: __2021-03-04 00:02:46__
@@ -217,6 +215,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > It works for scanning the QR code. But I can offarhim why do I have to reenter all my personal details everytime I use the app for myself on my phone. The nswservices app handles this very well. Please start considering the user when you write mobile apps. Many miss some simple things that would make many people's lives better. I hatdusing this app.<br> :date: __2021-02-05 20:04:05__
 
 > Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
+
+> Seems to work ok. Slow to load, requiring data connection to do so. Cannot access QR code scanner without data connection. Suggest allowing access to QR code scanner without needing data connection to allow check in, uploading locations when data becomes available.<br> :date: __2020-12-05 21:58:59__
 
 
 

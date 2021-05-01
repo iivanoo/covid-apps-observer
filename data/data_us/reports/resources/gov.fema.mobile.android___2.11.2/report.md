@@ -219,6 +219,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> It's helpful to have the alerts, but they come constantly about the same issue. They need to bundle alerts together and just say it's been updated.<br> :date: __2021-05-01 14:19:12__
+
 > Works, but it keeps announcing the same alerts over and over, almost to the point of harassment! Also, the developer evidently does not read user comments, because they have not replied to any, a lot of which contain very good suggestions.<br> :date: __2021-02-15 21:07:44__
 
 > Downloaded b/c we live in the country and cant hear sirens. Ive been getting notifications of weather advisories, but not able to read what, theres nothing there<br> :date: __2021-02-08 19:56:35__
@@ -237,8 +239,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > Not enough details on alerts. Not worth the space on my phone<br> :date: __2020-09-11 00:11:01__
 
-> Difficult to navigate and doesn't provide info I expected<br> :date: __2020-09-06 08:45:22__
-
 
 
 #### 2-star reviews
@@ -246,6 +246,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 2 reviews"/>
 </p>
+
+> Needed but lax on some emergencies. A one way conversation.<br> :date: __2021-05-01 10:31:08__
 
 > I haven't gotten any alerts for the past week but I get plenty of them on my weather...what gives !?!?!?<br> :date: __2021-01-25 08:41:35__
 
@@ -264,8 +266,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Installed this app months ago and expected this would be the moment for it. I'm getting "red flag warnings" and "evacuation alerts" every few minutes (with no date or timestamp) that just say things like "GO NOW Eden Road" with a web link I can't click or copy. After switching back and forth between apps to type out it turns out it's a map and Eden Road is 60 miles away. You can't set alerts for regions smaller than the entire county. Evac notices also came through sooner with other services.<br> :date: __2020-09-12 07:56:04__
 
 > What is it with this app. I've.been trying to download it for three days how long does it take to for it to download .we are about to be hit with a hurracain.this is messed.up<br> :date: __2020-08-23 03:40:24__
-
-> This app did not help me.<br> :date: __2020-06-19 19:14:29__
 
 
 

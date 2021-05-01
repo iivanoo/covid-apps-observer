@@ -177,6 +177,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <img src="5_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 5 reviews"/>
 </p>
 
+> Quick and easy<br> :date: __2021-05-01 18:42:19__
+
 > That was easy and pretty awesome!<br> :date: __2021-04-12 16:48:30__
 
 > Awesome and prompt. I love it! It's all inclusive as well and I am extremely grateful for that during these times.<br> :date: __2021-04-04 01:16:31__
@@ -194,8 +196,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 > Excellent, concerned for my care and issues<br> :date: __2021-02-12 18:20:40__
 
 > So easy and quick<br> :date: __2021-01-17 14:51:41__
-
-> Wonderful experience. Doc was very helpful with my problem and answered all questions i had.<br> :date: __2020-12-30 04:14:38__
 
 
 

@@ -185,6 +185,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
 
+> Me parecería muy útil si desde sanidad se dieran los códigos a la gente positiva. No conozco a nadie a quien le hayan dado un código,; y algunos que han preguntado por el código, no sabían ni de qué les hablaban<br> :date: __2021-04-30 16:56:19__
+
 > Nunca he debido de estar el tiempo suficiente con un positivo con la app para que me avisara. Si que es muy cansina, creo que su función era recordarte constantemente que te podías infectar.<br> :date: __2021-04-25 10:16:36__
 
 > Esto habría q haberlo hecho obligatorio para que sirviese para algo. Si nos han obligado a confinarnos, cerrar empresas y luego a toque de queda podrían haber obligado a descargarse una app q es mucho menos problemático. Para eso estamos en estado d alarma.<br> :date: __2021-04-22 22:12:42__
@@ -203,8 +205,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Regular o muy pobre. De casos.<br> :date: __2021-04-07 13:56:47__
 
-> Buena<br> :date: __2021-04-06 09:52:10__
-
 
 
 #### 2-star reviews
@@ -212,6 +212,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.radarcovid 2 reviews"/>
 </p>
+
+> No es muy buena app. No notifica NADA. Esto no va.<br> :date: __2021-05-01 13:18:25__
 
 > Solo vale para ocupa espacio en el teléfono...Así q no merece la pena tenerla<br> :date: __2021-04-26 17:58:14__
 
@@ -231,8 +233,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Se puede mejorar y mucho<br> :date: __2021-04-07 23:43:04__
 
-> No se actualiza y siempre me dice que no funciona correctamente<br> :date: __2021-04-07 03:13:16__
-
 
 
 #### 1-star reviews
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> Si no se meten los positivos en la aplicacion esto no sirve para nada. No he conocido a nadie que le haya marcado un positivo cercano<br> :date: __2021-04-29 08:41:19__
+> Esta aplicación es una mentira como la existencia del sars-2<br> :date: __2021-05-01 19:11:11__
 
-> No puedo activarlo. Funcionaba perfecta en mi viejo móvil. Ahora no se puede encender. El switch de activar se ve pero no funciona..<br> :date: __2021-04-29 00:09:11__
+> No te avisa de nada<br> :date: __2021-05-01 18:35:05__
 
-> Esto es un mierdon como todo lo que hace el gobierno de perro sanchez<br> :date: __2021-04-28 19:14:23__
+> Ehhhhh espera un momento no serás un smoke<br> :date: __2021-05-01 17:52:54__
 
-> Una verdadera estafa, esta aplicación no me ha servido de nada, soy técnico de emergencias sanitarias y he trabajado todo 1 año durante esta pandemia, he hecho trasporte sanitario urgente y no urgente, llevando a pacientes positivos confirmados entre 2 y 3 pacientes diarios de Covid 19 y jamás me ha dado ninguna alerta en estos 12 meses. Así que no me ha servido de nada porque esto no tiene ninguna funcionalidad o eso nos han hecho creer este gobierno del desgobierno.<br> :date: __2021-04-28 14:48:31__
+> Horrible. No funciona nada. Estuve ingresado en una planta Covid 10 días y no me avisó mi una vez. Muy rara esa App.<br> :date: __2021-04-30 23:35:58__
 
-> Fatal. Un gasto innecesario que funciona mal. Prácticamente como todo que viene de este gobierno...<br> :date: __2021-04-28 12:57:33__
+> Nada, no vale para nada<br> :date: __2021-04-30 22:39:50__
 
-> No sirve para nada<br> :date: __2021-04-28 11:51:51__
+> A que juegan?,dejen de gastar recursos sin motivo gobierno de España ,muere más gente de cáncer<br> :date: __2021-04-30 20:42:13__
 
-> Horrible<br> :date: __2021-04-28 00:06:54__
+> No existe el covid por que lo pones en tu cuenta<br> :date: __2021-04-30 20:13:47__
 
-> Horrible<br> :date: __2021-04-28 00:06:23__
+> No vale para nada<br> :date: __2021-04-30 09:12:20__
 
-> Horrible<br> :date: __2021-04-28 00:05:49__
+> Desinstalada no hay avisos ni ninguna información valiosa<br> :date: __2021-04-29 16:04:59__
 
-> Una vergüenza, como os atrevéis a gastar dinero del contribuyente en esto, esto es solo el principio gente! Investigar, ya han sacado chips para detectar el Covid y es lo siguiente, enfermos iréis a la cárcel o peor!<br> :date: __2021-04-27 11:54:46__
+> La desinstalo. Totalmente innecesaria<br> :date: __2021-04-29 15:57:10__
 
 

@@ -161,6 +161,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> App fantastica: sono felicissimo, così si riuscirà a contenere il virus ed evitare che le classi finiscano in quarantena per l'ennesima volta come la mia... non ne potevo più di sentirmi inutile e non servire a niente a parte stare ai regolamenti, invece adesso posso aiutare più di 60 milioni di persone...<br> :date: __2021-04-29 21:38:24__
+
 > Oggi 24 Aprile 2021, NON si apre il collegamento "alla pagina", riguardo le ultime comunicazioni Regionali per il colore e, le novità del nuovo Decreto Regione Lombardia. Potete fare qualcosa? Grazie. * Problema risolto! Grazie agli sviluppatori per la risposta.<br> :date: __2021-04-28 14:38:16__
 
 > L'applicazione insiste a dirmi di essere aggiornata, io controllo ma di aggiornamenti non ne trovo. Come mai?<br> :date: __2021-04-28 13:35:25__
@@ -179,8 +181,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Anche a me dice di aggiornare l'app. Ma non lo lascia fare. Attendo Vs. Notizie<br> :date: __2021-04-22 15:51:46__
 
-> Dopo i problemi iniziali, tutto è andato come doveva. Ottima app<br> :date: __2021-04-22 15:35:23__
-
 
 
 #### 4-star reviews
@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> Ok:risolto con altro update dopo 14gg-Era molto bella, aveva una cartina con l'evoluzione nel tempo ma una cosa pubblica non poteva essere bella o utile, quindi qualcuno è intervenuto e ha fatto diventare la semplice cartina una lista di codici tipo "pianura centrale IM10" "nodo idraulico Milano IM09" di cui nessuno che non lavori in regione sa confini o posizione, con tabelle illeggibili. Non trovo modo di riavere la cartina o l'impegno che hanno messo nel nasconderla supera la mia pazienza. :(<br> :date: __2021-05-01 16:17:27__
 
 > Ottimo servizio.<br> :date: __2021-04-23 06:36:30__
 
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Ok<br> :date: __2021-02-27 12:18:08__
 
 > Ok<br> :date: __2021-02-13 21:07:14__
-
-> Dopo aver segnalato l'errore persistente (impossibile evitare la compilazione questionario COVID e altri problemi), lo sviluppatore ha risolto il problema. Al momento tutto funziona come deve. Grazie Devs.<br> :date: __2021-01-24 10:39:00__
 
 
 
@@ -257,13 +257,13 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Non riesco ad aggiornare l'app, come posso fare? Non riesco più ad entrare<br> :date: __2021-04-19 21:10:56__
 
-> Era molto bella, aveva una cartina con l'evoluzione nel tempo.... Ovviamente una cosa pubblica non poteva essere bella o utile, quindi qualcuno è intervenuto e ha fatto diventare la chiara e semplice cartina una lista di nomi e codici tipo "pianura centrale IM10" "nodo idraulico Milano IM09" di cui nessuno che non lavori in regione sa confini o posizione, con tabelle illeggibili. Non trovo modo di riavere la cartina. Se esiste, l'impegno che hanno messo nel nasconderla supera la mia pazienza. :(<br> :date: __2021-04-07 00:27:26__
-
 > Una cosa aveva di buono: quando arrivavano le allerte meteo, vedevi la cartina della regione coi colori e poi potevi vedere il dettaglio. Ora invece c' Questa recensione è stata utile? Sì No Regione Lombardia 15/03/21 Ciao Emanuele, assicurati di aver selezionato "Mappa" dalle 3 linee in alto a destra dell'app. Per assistenza scrivi a info.allertalom@ariasp ......... Dove sono le tre linee in alto a destra? .......... Galaxy note 20 con ultima UI e ultima versione android<br> :date: __2021-04-05 19:14:35__
 
 > Con l'ultimo aggiornamento mi chiede di compilare il questionario che ho già fatto ma non va più avanti. Mi chiede di inserire un parente<br> :date: __2021-03-07 14:22:52__
 
 > Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.<br> :date: __2021-01-10 11:16:37__
+
+> Poco efficente e con descrizioni e annunci che sono copia di quelli ministeriali. Era meglio potenziare di più Immuni invece di farne una simile.<br> :date: __2020-12-10 17:45:49__
 
 
 

@@ -176,6 +176,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> great covid pandemic-related daily symptom, activity, & mood tracker. provides daily local & nat'l vovis syats, as well as a snapshot of your moods.<br> :date: __2021-04-29 20:08:40__
+
 > Great!<br> :date: __2021-04-09 02:23:17__
 
 > Great<br> :date: __2021-04-06 05:30:57__
@@ -193,8 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Good tracking<br> :date: __2021-03-09 22:32:44__
 
 > Fairly straight-forward and easy to use. Was a reminder to myself to be more mindful of my actions and how I was feeling.<br> :date: __2021-02-27 03:28:13__
-
-> Been using since July. Really like it. Keeps me focused on staying health and in compliance with the CDC.<br> :date: __2021-02-25 23:53:34__
 
 
 

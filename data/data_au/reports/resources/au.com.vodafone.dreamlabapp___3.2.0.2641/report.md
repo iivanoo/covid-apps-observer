@@ -155,6 +155,14 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> An easy way to provide support to key research programmes such as those seeking drugs effective against Covid 19<br> :date: __2021-05-01 08:59:16__
+
+> Great<br> :date: __2021-05-01 08:29:32__
+
+> Very easy to use as long as you remember to activate at night.<br> :date: __2021-05-01 08:09:34__
+
+> It let's me do my little bit for cancer research.<br> :date: __2021-04-29 16:12:54__
+
 > Great idea. Works really well and doesn't affect my phone's operations.<br> :date: __2021-04-27 10:36:02__
 
 > Everybody should use it!<br> :date: __2021-04-27 08:47:21__
@@ -166,14 +174,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Not even aware of it. Nice to know that when I'm asleep and phone on charge that it is contributing to something worthwhile<br> :date: __2021-04-25 09:30:17__
 
 > Easily unobtrusive<br> :date: __2021-04-24 01:23:06__
-
-> I highly recommended this app. Here are a few things I do to make life easier. Before running the app. I take the phone out of its case to allow it to run cooler. I also ensure the phones battery is up to 90% before I allow the app to run. Otherwise I will have a low battery for the morning. The only disappointment is when a new update came through I lost all the data I had contributed. Again it is highly recommended.<br> :date: __2021-04-22 04:05:09__
-
-> Turn it on when charging your phone and that's it! Helping research while you sleep...as easy as that!!<br> :date: __2021-04-19 21:42:17__
-
-> Please put the option to use unlimited data for mobile connections too.<br> :date: __2021-04-17 03:24:01__
-
-> Great idea<br> :date: __2021-04-15 23:10:32__
 
 
 

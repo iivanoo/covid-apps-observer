@@ -208,6 +208,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="md.your 5 reviews"/>
 </p>
 
+> I like this app<br> :date: __2021-04-29 23:32:37__
+
 > great app<br> :date: __2021-03-29 23:52:31__
 
 > Exvellent<br> :date: __2021-03-08 08:04:06__
@@ -225,8 +227,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > nice Application<br> :date: __2021-01-04 13:59:25__
 
 > Very useful used few times a week.<br> :date: __2021-01-01 12:43:33__
-
-> makes tracking my health much easier and has built in symptom checker too!<br> :date: __2020-12-22 10:18:16__
 
 
 

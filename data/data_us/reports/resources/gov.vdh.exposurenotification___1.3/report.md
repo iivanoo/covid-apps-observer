@@ -134,6 +134,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> The app stopped checking in a few months ago. I tried reinstalling it and that got it to check in, but only once.<br> :date: __2021-04-30 03:48:15__
+
 > Thank you for this excellent public service. If only more people worked together for the greater good of all we could achieve so much more together. 💜<br> :date: __2021-04-27 01:25:34__
 
 > Works in the background with no performance issues. Gives periodic updates regarding ongoing monitoring.<br> :date: __2021-04-22 20:07:07__
@@ -151,8 +153,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Good app to have<br> :date: __2021-04-14 03:31:13__
 
 > Good information.<br> :date: __2021-04-09 00:13:18__
-
-> Nice<br> :date: __2021-03-27 07:13:05__
 
 
 
@@ -198,8 +198,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Great idea concept, except it does not work in MA. Plus, it will only alert you if someone actively states they have tested positive before going out in public. Some will see it as a HIPPA violation, even though they consent to saying they've tested positive. It doesn't say who, just alerts you to possible exposure. Would like to see this accepted nationwide, and notifications for if you're in a "high risked" area, rather than hoping someone claims they're positive and running errands.<br> :date: __2021-03-16 18:29:33__
 
-> The app stopped checking in a few months ago. I tried reinstalling it and that got it to check in, but only once.<br> :date: __2021-03-11 17:46:41__
-
 > Pointless<br> :date: __2021-03-11 05:52:57__
 
 > Stopped using this because NOBODY else seemed to be using it Great idea but I think most people felt like it was an invasion of their privacy. Plus, we have to rely on people being honest about their health.<br> :date: __2021-03-02 20:31:29__
@@ -209,6 +207,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > I am safe.<br> :date: __2021-02-26 12:22:10__
 
 > Yikes! I wish I saw the reviews before. It's a good idea but either the VDH doesn't have the resources to handle reporting for this app or something else is going on. Damn this gives me a false sense of security, which is bad since I'm both a retail essential worker, and I also reside with my older in laws.<br> :date: __2021-02-16 11:51:01__
+
+> I will admit, I felt so much better about life when this app came out. I wish it were mandatory for all Virginians just like our masks. We would be more efficient at slowing the spread, if it were mandatory and working properly. Unfortunately, my exposure notification hasn't updated since January 5, 2021after working great for months. Please help! I want to be part of the solution. Cannot do that if the app isnt working properly. I keep my bluetooth on at all times, that's not the problem.<br> :date: __2021-02-11 16:08:59__
 
 
 

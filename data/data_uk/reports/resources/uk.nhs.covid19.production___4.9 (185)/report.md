@@ -143,25 +143,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> It's like playing the lottery every day! Scan your venue! See if you get a fortnight off work! Good luck!!<br> :date: __2021-04-29 12:48:10__
+> I love the app 😍🥰<br> :date: __2021-05-01 13:49:39__
 
-> Brilliant no problems.<br> :date: __2021-04-29 10:35:22__
+> Doesn't work on android 11, crashes on launch<br> :date: __2021-04-30 20:41:13__
 
-> Good app.<br> :date: __2021-04-29 10:20:56__
+> Why is everyone complaining about it? So you'd rather it have 4k HD graphics, play everyone season of game of thrones while working an espresso machine? From an app which is primarily just to track your exposure to Covid, it does its function what else do you want from it?<br> :date: __2021-04-30 18:36:40__
 
-> Good<br> :date: __2021-04-29 09:21:46__
+> it works<br> :date: __2021-04-30 16:02:50__
 
-> makes me feel bit safer<br> :date: __2021-04-29 07:46:19__
+> Excellent<br> :date: __2021-04-30 15:37:18__
 
-> Good<br> :date: __2021-04-29 07:06:09__
+> easy to use and will keep all of our loved ones safe<br> :date: __2021-04-30 13:13:30__
 
-> Seems OK to me changed phones just put it on again has to be a good thing<br> :date: __2021-04-28 23:33:07__
+> Easy to use<br> :date: __2021-04-30 12:33:37__
 
-> Very good it helped me<br> :date: __2021-04-28 22:49:47__
+> Get it and use it.<br> :date: __2021-04-30 11:38:43__
 
-> Covid passport? Is this the app for it?<br> :date: __2021-04-28 18:13:21__
+> very simple and straightforward to use<br> :date: __2021-04-30 09:08:05__
 
-> East to use<br> :date: __2021-04-28 18:04:47__
+> Simple<br> :date: __2021-04-29 22:09:04__
 
 
 
@@ -170,6 +170,16 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
+
+> I'm not sure if this app updates regularly enough I live in Swansea area Wales and its saying that my area is still in high risk level 4 but I thought that it was supposed to be lowered to three because of further relaxation of rules<br> :date: __2021-04-30 15:29:10__
+
+> I thought cafés should be all table service, including ordering?<br> :date: __2021-04-30 15:03:26__
+
+> It works in that it scans. Gladly haven't had a notification.<br> :date: __2021-04-30 13:21:28__
+
+> Useful, I like this app, handy to know if I've likely been in contact with the virus. Only thing I don't like is it has no log out of venues. This could mean I would be contacted if someone who later tests positive was visiting the venue after I'd left.<br> :date: __2021-04-30 08:02:16__
+
+> easy to use. had to delete tons of games and videos but worth it....although now not sure, I get a notification showing I've got a message...open the app, nothing!<br> :date: __2021-04-29 22:39:08__
 
 > Cool<br> :date: __2021-04-29 12:52:14__
 
@@ -181,16 +191,6 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 
 > seems easy enough<br> :date: __2021-04-27 12:53:45__
 
-> helpful<br> :date: __2021-04-26 17:21:43__
-
-> Tracking records have worked sufficiently<br> :date: __2021-04-26 14:49:00__
-
-> This is excellent<br> :date: __2021-04-25 01:48:10__
-
-> Would be good if you could log if you are vaccinated<br> :date: __2021-04-24 17:49:54__
-
-> Even I can use it!<br> :date: __2021-04-24 15:43:39__
-
 
 
 #### 3-star reviews
@@ -198,6 +198,16 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
+
+> still no option to add others in the family<br> :date: __2021-05-01 16:17:27__
+
+> Has been working but over the last few days it uses way too much power my 48 hour battery now lasts just 4 hours. I'm having to disable the app.<br> :date: __2021-04-30 08:30:58__
+
+> Very limited in function. Can't use to report lrf tests<br> :date: __2021-04-29 14:49:56__
+
+> I work in a care home, and report my several weekly tests via the website. Surely, if I am registered on one of these, both should maintain my records, scan in my tests, and report them? I don't understand with all the free testing going on, you can't just scan these in?<br> :date: __2021-04-29 13:46:54__
+
+> Great app everyone needs to download but now app has got worse with latest update as the link to the UK government covid web site has been removed..was good in that u could see the latest covid data update without having to open a browser...please put the link back.<br> :date: __2021-04-29 13:12:05__
 
 > Is this app authorised in Scotland, if so why does it only say authorised in England and Wales, is there another app for Scotland??<br> :date: __2021-04-29 12:11:46__
 
@@ -209,16 +219,6 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 
 > Fair<br> :date: __2021-04-28 19:46:24__
 
-> Unable to add test reference. When adding test code I'm getting an error. I had a test done in Jan and another one in March. Getting the same error for both codes and never been able to add them.<br> :date: __2021-04-28 16:43:32__
-
-> The app is OK but places where the QR code is available to be scanned is not always obvious. Also there is no record of any Lateral Flow Tests that have been done using the Home Testing Kit and having reported every result on the NHS website it could be linked to the app. Only test results that have been carried out by booking through the app are recorded. I have been doing the self testing every 3 to 4 days but the app shows none of these results.<br> :date: __2021-04-26 10:19:07__
-
-> Ok but When I Open The App It Just Says your App Is Active And Scanning With a ✔ its always says that.<br> :date: __2021-04-25 21:46:51__
-
-> Does what it needs to do.<br> :date: __2021-04-25 15:06:36__
-
-> Would be better if it shows the vaccination place/time or vaccinated as vaccine passport.<br> :date: __2021-04-25 09:38:10__
-
 
 
 #### 2-star reviews
@@ -227,25 +227,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
+> This app is useful and has potential but there should be an option to select when you're leaving a venue rather than being logged in till midnight.<br> :date: __2021-05-01 14:16:10__
+
+> hard to use<br> :date: __2021-05-01 11:02:06__
+
+> farce<br> :date: __2021-04-30 18:28:47__
+
+> When can I download to my huawei p40 lite? Please make this available soon<br> :date: __2021-04-29 20:22:43__
+
+> Updated today via play store, but nevertheless it is now NOT letting me insert details of most recent covid19 pcr test result!!<br> :date: __2021-04-29 18:59:54__
+
+> Unfortunately the reporting tool does not recognise lateral flow test id codes. Pity that as many of us are now taking lateral flow tests.<br> :date: __2021-04-29 18:31:34__
+
+> There needs to be an option to sign out of a venue when you leave instead of been logged as being there until midnight. UPDATE: YOU SHOULD NOT GET A NOTIFICATION IF SOMEONE TURNS UP AT A PLACE THAT YOU HAVE ALREADY LEFT!<br> :date: __2021-04-29 16:53:20__
+
 > 20/1/21 26/1/21? 12/2/21 23/2/21 11/3/21 tests conducted in hospital cant be added as no ref no given in hospiral 23/3/21 29/4/21<br> :date: __2021-04-29 11:12:18__
 
 > The app never got updated to say I need to self isolate and now it will not accept the trst result code given to me via email from NHS. I doubt it even tracks anything<br> :date: __2021-04-29 06:28:58__
 
 > I received the code from NHS after the test, and app says: "Your code wasn't recognised. Please make sure you are using a valid code." Please be careful. Now i have no idea what i should do, because app don't let me register my code. To prevent any stupid questions - my internet works perfect!<br> :date: __2021-04-29 01:02:42__
-
-> Can not understand it, Where can I Put my 1st vaccine Date and 2nd, How Can the app help me to Travel!<br> :date: __2021-04-28 21:10:56__
-
-> Can not enter lateral flow test reference number and result.<br> :date: __2021-04-28 15:27:14__
-
-> This is useless, I'm isolating because someone in my household has covid and the app hasn't informed me that I have to isolate, what's the point in this app<br> :date: __2021-04-28 08:42:23__
-
-> NOT FOR LATERAL FLOW TEST REPORTING: I'm sure this app has its uses, but I've just downloaded it to report my lateral flow test result and apparently it's not possible to do via this app.<br> :date: __2021-04-26 09:52:34__
-
-> The app drains my battery so much. I have Bluetooth on yet the app won't load half the time.<br> :date: __2021-04-25 20:17:54__
-
-> Why can't I add the NHS cross flow test results to the app? Seems a big omission.<br> :date: __2021-04-25 12:15:08__
-
-> I'm not what this actually doing It tells me I've logged into somewhere but that's about it Would be good to have more focus/personalised updates<br> :date: __2021-04-24 16:36:22__
 
 
 
@@ -255,24 +255,24 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> It is now 29th April 2021. And it's still showing. Alert level 4, very high risk in your area. (North West Wales). Yet the pubs&Cafe's have just opened to customers. For outside use. Also Caravan sites are open. It's showing the same result 30 miles away. Surely this App isn't showing the correct data. But some people will use it. As it's an NHS app.<br> :date: __2021-04-29 12:55:26__
+> "Unfortunately, this app is not working". I'm using a Huawei Mate 10 with Android 10. Help!<br> :date: __2021-05-01 16:27:19__
 
-> Useless app. Only thing it does it drains battery and collect our datas. Uk is know for selling our data. So im unistalling it.<br> :date: __2021-04-29 12:30:47__
+> Trying to report a lateral flow test result, cannot find out how to do this on this app.<br> :date: __2021-05-01 12:34:56__
 
-> Can't upload test result<br> :date: __2021-04-29 10:55:55__
+> Useless app not fit for purpose. Who the hell has their Bluetooth on all the time? How many millions has this cost the taxpayer? And not one life saved because of it.<br> :date: __2021-05-01 12:34:10__
 
-> Forced use<br> :date: __2021-04-29 09:31:10__
+> I do not feel any safer using this app. What a waste<br> :date: __2021-05-01 12:00:37__
 
-> What's the point, unable to enter code to register result of test. Yes it is the same app mentioned in the email for the result.<br> :date: __2021-04-29 09:26:09__
+> It thinks my phone is a tablet and will not run. My phone is an AGM-X2 running unmodified version Android 8.1. Even if it was a tablet I don't see why you restric use, there are tables with gsm connectivity, people take them with them<br> :date: __2021-05-01 11:00:47__
 
-> Drains phone battery way too fast.<br> :date: __2021-04-29 08:45:48__
+> App is bugged on oxygenos11, causes the phone to constantly scan when its open and doesn't let you do anything until you either turn your phone off or force another app to open from lock screen.<br> :date: __2021-05-01 10:48:35__
 
-> The app seems ok but with all the public places and shops that I have visited only 1 has had the opportunity for me to log where I have visited, to me this hasn't done it's job<br> :date: __2021-04-29 08:36:31__
+> Does not work for scotland<br> :date: __2021-05-01 09:27:34__
 
-> Useless app not fit for purpose. Who the hell has their Bluetooth on all the time? How many millions has this cost the taxpayer? And not one life saved because of it.<br> :date: __2021-04-29 08:09:19__
+> Bollocks<br> :date: __2021-04-30 20:16:58__
 
-> My vaccine details are not there and no way to link it to my medical records<br> :date: __2021-04-29 07:28:59__
+> Terrible app, slowly becoming a passport social credit app. No thanks.<br> :date: __2021-04-30 17:09:58__
 
-> Completely useless. You can't register tests results at all<br> :date: __2021-04-29 04:52:11__
+> Government tracking do not download<br> :date: __2021-04-30 17:00:54__
 
 

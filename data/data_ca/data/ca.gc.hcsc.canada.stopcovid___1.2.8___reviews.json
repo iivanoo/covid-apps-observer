@@ -1,15 +1,75 @@
 [
     {
-        "reviewId": "gp:AOqpTOFFGlZJYLGH41TZPicM4hjQb5otu7oPMYQHLY7AvDb6nY6CQbVqbe6cAJrXlDAc2N05r4phPSm2J4ujLg",
-        "userName": "Youssef Zekri",
-        "userImage": "https://play-lh.googleusercontent.com/-eARc7aTzxP0/AAAAAAAAAAI/AAAAAAAARlU/AMZuucnDTRjOy2KfGmmgyRj5Vgrk3PWJug/photo.jpg",
-        "content": "Shouldn't be this hard to get the one time key. Why doesn't it get delivered with all the paperwork? Or during the follow-up phone calls?",
+        "reviewId": "gp:AOqpTOEoHivT3QAGKW5PbXdD-avaKx22RSRL6RsFUrOxOy_ZaZ5wYYpO4OngmnU9ojqSiT18g1-pNxKNu-LiSA",
+        "userName": "Monica Smith",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghl0NBFaDO8ygJMKWdPn2hlCuLd-gpyqJ3aWuJr",
+        "content": "I think that if the epidemiology can say which towns are effected and when, then the app should have the same info. It makes no sense to just have it by location. Feels like a waste of battery to me.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-30 20:21:39",
+        "replyContent": "Hi Monica, thank you for your comment. It seems you are referring to another app. If you are having any issues with COVID Alert, be sure to reach out to us. We hope you are staying safe!",
+        "repliedAt": "2021-04-30 22:36:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOGHS6ACAiwZj6gGmdKjNGk3PEi26vj0LLdxwPAEX8dWl3vVuTQmr3WMv93NIcQlLJi2f0ukN5qs1THJMw",
+        "userName": "Jabber Wokie",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxmL--lO7xpYDuPfIGG_CoaY2BuepC5RGsVVk1Y=mo",
+        "content": "The motive behind this app is good, but Bluetooth is not a secure technology to keep on in public or densely populated places. It is not very difficult to hack, providing access to phishing and malicious actors. I don't mind the idea of limited privacy from government for justifiable reason. I am far more concerned that I don't have privacy from big business like Google, Apple and Facebook. This is a far greater evil in today's world. We can't live a contemporary life without their services.",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.2.8",
+        "at": "2021-04-30 18:51:11",
+        "replyContent": "Hello, thank you for your comment. The bluetooth technology COVID Alert relies in has been verified by our own engineering teams as well as by the Privacy Commissioner to ensure your data is protected. For more information you can look to our GitHub page: https://github.com/cds-snc/covid-alert-app",
+        "repliedAt": "2021-04-30 22:38:09"
+    },
+    {
+        "reviewId": "gp:AOqpTOGXDFo4n1SYoXG8mRnZeVO-tZiYLYS40gWc4mYlyUD9HdN94lNHrSDWoGQr9VY26nZjw-fYifngf9XN7Q",
+        "userName": "Bryan Fung",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhESLrlCabppcv3czoCkibCY1MqX23S13fclOyujg",
+        "content": "Every thing about the app itself is good. Works perfectly. But there is so much hesitancy in getting the app that there aren't that many people that have it, or have it but don't let it turn on their Bluetooth. So if you have this app and notice it isn't detecting anything, it's mainly because there isn't anything to detect",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.8",
+        "at": "2021-04-30 16:45:30",
+        "replyContent": "Thank you for your comment Bryan! If you encounter any issues with the app, don't hesitate to contact us. Hope you are staying safe.",
+        "repliedAt": "2021-04-30 22:38:35"
+    },
+    {
+        "reviewId": "gp:AOqpTOHp4N4ts8Up6_0ywfi6kuBusp4DCY4MXya3ebJ-93BECWlR0kz3237NvGXRCHgMvhdwTkA0bsv_hWaK1w",
+        "userName": "Nicolas Distefano",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9HyN3lHB_6PPsWg2HNzpuCYWRBPC-H7t25LXfOw",
+        "content": "Good premise, but terrible execution. This is like Streetpass for the Nintendo 3DS, but you have to actually be delusional to think an average person will update their status to let us know they've been infected by COVID. There are too many steps, I don't have much faith in the typical human being to understand how to do this!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-04-30 15:41:02",
+        "replyContent": "Hi Nicolas, thank you for your comment. Privacy is at the core of the app's design. As such, its designed to gives user control of the information they give it, including whether they want to share their exposure status. Though, we always recommend those testing positive to enter their One-Time Keys so they can help keep those around them safe.",
+        "repliedAt": "2021-04-30 22:40:44"
+    },
+    {
+        "reviewId": "gp:AOqpTOGbYwIBqgs2nIkhaFJ4BZJZnjI8wC3E1AQd7gh366K4KQs6P1uEHJ1twSQnNyHopH2BRxVVA34aPFK0QA",
+        "userName": "Neil Nahirnick",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWrHwhklORFc_XZpisc1nA0JGIDdXfx2caHpgq",
+        "content": "Seems to be working.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.8",
+        "at": "2021-04-30 06:29:38",
+        "replyContent": "We're always working hard to improve the app. Thanks for your download and feedback.\n",
+        "repliedAt": "2021-04-30 22:42:39"
+    },
+    {
+        "reviewId": "gp:AOqpTOFFGlZJYLGH41TZPicM4hjQb5otu7oPMYQHLY7AvDb6nY6CQbVqbe6cAJrXlDAc2N05r4phPSm2J4ujLg",
+        "userName": "Youssef Zekri",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyldi-7KZExfGQ32JkV-5zRQ2WLqkZLlXRnYthYaKQ=mo",
+        "content": "Shouldn't be this hard to get the one time key. Why doesn't it get delivered with all the paperwork? Or during the follow-up phone calls?",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.2.8",
         "at": "2021-04-29 04:54:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Youssef - Thanks for the feedback. We're exploring options to help improve one-time-key distribution. In the meantime, you can find out how to get a one-time-key in your province or territory here: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html#a4",
+        "repliedAt": "2021-04-29 16:08:44"
     },
     {
         "reviewId": "gp:AOqpTOGTjnk24M-71irA7JUXtFgBB_n8RYia42p4TuqxaMJyLP0kdpMbCtLN-TgZNq8L6MUe1223csyoxA8WYg",
@@ -26,10 +86,10 @@
     {
         "reviewId": "gp:AOqpTOHVi0ybowF68Lulgge6dazRFNQEoB8cxgmB-j_pbyKhhlZL5H5brR3h7U95LWB8151tpFa5Q59NKxFCXg",
         "userName": "Steven Ma",
-        "userImage": "https://play-lh.googleusercontent.com/-614LHfuiz0Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZ57ih9Rsds6vfV_6iA3r_XnCOOw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7M5FO_XR4Vj5B_o96iJYTo51mef6EqQKF5AwY=mo",
         "content": "Doesn't work on my phone.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.1.4",
         "at": "2021-04-28 04:13:07",
         "replyContent": "Hi Steven, we are sorry to hear that. Are you able to manually enable exposure notifications on your phone? You can do so by going into your settings and choosing 'Google', then selecting 'COVID-19 Exposure Notifications'. Once inside ensure the \u2018Use Exposure Notifications\u2019 toggle is set to on. Hope you are staying safe.",
@@ -38,10 +98,10 @@
     {
         "reviewId": "gp:AOqpTOEB25HYRWW7aHIhBHBJAIcoHyepfnd1fY-z_9ZbbzVgv-QZK8ArlcRec0SfWyrvSbrMqA3VcyU1oLEqwA",
         "userName": "Regina Kippenhuck",
-        "userImage": "https://play-lh.googleusercontent.com/-6ckjaLIgr1s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRc-w9jomjNWcFkBlwLnQ8LYQoTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzskgCC-wsJ2I5VISlicV0BRzVzcqVDGc73jUNz=mo",
         "content": "The app is using up my battery within 5 hours... Too much of a hassle",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-27 03:57:17",
         "replyContent": "Hi Regina - Thanks for the feedback. We know that Google Apple Exposure Notifications framework and COVID Alert app use a significant amount of battery for some users. We\u2019re working with our product team to identify the specific cause(s) and how to fix it. To save battery in the meantime, you can try turning bluetooth off while you're at home.",
@@ -50,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOEDfyM3v-h1bVQQAqZCasDqafH0myKYvIFLsRw6b0i9bEQVjE6ts7FAdlFupozi-gzHAdVnpc23IjyOIg",
         "userName": "Laralynn Larocque",
-        "userImage": "https://play-lh.googleusercontent.com/-obA6bmscIgM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnK7_AxH1Vw6Cu7wNomGttmJXrlkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbza0FUEnLIaXUEpIC09Hl8dOIOfV9WZTLIGQ=mo",
         "content": "Pretty fucted up",
         "score": 5,
         "thumbsUpCount": 0,
@@ -62,10 +122,10 @@
     {
         "reviewId": "gp:AOqpTOFqD3e89z6tL3s7Woiw7aTF7M2afD7INvUzZ6Aj9uFJUoDJg5AKGwFK2esCjS-7yZDuVV2segjEUgm2Ew",
         "userName": "Elaine Sherri",
-        "userImage": "https://play-lh.googleusercontent.com/-PCkGjFUDxHU/AAAAAAAAAAI/AAAAAAAAUBo/AMZuuck_iyeMpwEI8NbrjbSYmSQv5HB1mw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx8XvaVe65tqO8uE-rIjlgEdD3ckmEYAdVYPtIjwso=mo",
         "content": "Doesn't work in all provinces and territories. It is up to each province and territory",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.8",
         "at": "2021-04-26 20:22:22",
         "replyContent": "Hi Elaine - You're right - it is up to each province or territory. Even if you can't report a diagnosis in your area, it\u2019s still useful for you to use the app. You can be notified if you came into contact with someone from a participating province who subsequently tests positive for COVID-19. Stay safe.",
@@ -74,10 +134,10 @@
     {
         "reviewId": "gp:AOqpTOE4wRKc7RlEMCuKbQKmvoQeN1z1qX7jz4DvzVPNQDktQOmAM_a-uZBnU-20AvgEJmIUD9jFnjTKXEPd7Q",
         "userName": "Troy Bauman",
-        "userImage": "https://play-lh.googleusercontent.com/-tXKxeeLleNo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeCW2A2N2uqWEVXJ7IGLIYpzPsIQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzK21iM7h8WUXqfFHOC9tJRIpL_SwiXvl9RHAS9=mo",
         "content": "Doesn't work",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.7",
         "at": "2021-04-26 15:16:51",
         "replyContent": "Hi Troy - Sorry to hear it's not working for you. We'd like to help. Send us an email with more details and let us know that it's about Ticket 7665. Stay safe, The Covid Alert Team.",
@@ -89,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjj22P1m-FCfTP4Bv3evuIr_nyWm6eaekFgUP93fg",
         "content": "If this app doesn't track/log people's movement activity, only proximity to other app users for the purpose of alerting to possible exposure to COVID, why did Doug Ford talk about \"cellular data\" showing people \"going all over the place\"? Pretty sure the big 3 wireless providers would tell Doug Ford to get bent if he asked for location/gps logs for all their customers, so the only source movement data could come from, that the government would have access, to is THIS app. Can you explain it?",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-26 13:04:47",
         "replyContent": "Hi Rob - Great question! Covid Alert has no way of knowing your location and does not track you. We don't know what data Doug Ford is using, but you can find out how people are moving around your region using Google's Covid-19 Community Mobility Reports. You can learn about and download the reports here: https://www.google.com/covid19/mobility/",
@@ -101,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi6EuUNNIlgkWn0g42K1immEcnZamfhwe_xZFJE",
         "content": "Recurent pop-ups. Definitely should say the day of the exposure not the day you're received the notification. Randomly been told you've been exposed but doesn't tell when in the past 2 weeks is useless, groceries or on the road. Been at home for days now but got the notification for a 15m exposure. Yet didn't even get out in the last 10 days.",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.2.7",
         "at": "2021-04-25 23:44:52",
         "replyContent": "Hello, thank you for your feedback. We know receiving a notification can be a stressful situation, we hope you are doing ok. In terms of the recurring pop-ups, here are some steps you can take to make them less bothersome Settings -> Apps and Notifications -> Google Play services -> toggle \u201cExposure Notifications\u201d to off.\n",
@@ -158,10 +218,10 @@
     {
         "reviewId": "gp:AOqpTOGKEMVmEs4k5jXkc5k0ClLI0Cx3sjZELnosAoOHAiG0hTz2i_ZLcpZlIe4i4jjjx2lezjKkh1pde1a1Hw",
         "userName": "Roger Kroeker",
-        "userImage": "https://play-lh.googleusercontent.com/-NehAmTpta-Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjoKipvYfsi4d1z6EDkV_ROB65Qg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxNr7lYqmZY_9u7w55TSxy0yKzCDFm44nuvroJ=mo",
         "content": "0 stars. I was exposed to 8 confirmed positive cases, not a single alert from the app. I think it's more for tracking than alerting. Uninstalling now.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.12",
         "at": "2021-04-23 17:44:55",
         "replyContent": "Hi Roger - Sorry to hear that you've been exposed so many times, and the app didn't alert you as you expected. If you think it's a problem with the app, we want to help. Please contact us. Otherwise, please know that your privacy is protected and the app cannot track you. Learn more about the app's privacy features: https://bit.ly/2QTEjpD",
@@ -170,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOFVjYwQtV6MymBzytjY011Rws0rAuPVypZBhd3TA2kibpx6vKPF7om89L5c8IwoGmBZ4LqzVaJbSiR27w",
         "userName": "Victor Bentao",
-        "userImage": "https://play-lh.googleusercontent.com/-tUyAWm2Nz5M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYUGaGrBO8A42oo_v6EUcWdWGBew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzbpWOj14TPfp0k-pxmOb52MixkNUosQDLWLUq7=mo",
         "content": "Guess this is useless why? Who want to just let their phone's Bluetooth and gps open all the time, unless you plug your phone in a car battery while carrying it in your back pack",
         "score": 2,
         "thumbsUpCount": 0,
@@ -185,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyP67nFpZqaAUtSyqVTlf-4fGXg4pfMc-Wg0jSYw",
         "content": "You have to look no further than the app used in Singapore to understand the limitations of this one. Other than features, perhaps the greatest issue with this app is adoption. I have come into contact with several people with COVID-19 and quarantined. I learned this from the grace of their honesty. According to this app I have never been exposed. Zero value add.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-22 04:42:26",
         "replyContent": "Hi Alexander - Thanks for your honesty and feedback. We agree - the more people that use the app, the better. Thanks for using the app and doing your part to help slow the spread. - The Covid Alert Team.",
@@ -197,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5iy8V_Wbw0o4Un-1umGC_nFjNsSgZKWzgMYGutkg",
         "content": "I'm not imressed with the COVID 19 alert app. I have to keep turning it on. As I'm not even getting alerts.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.7",
         "at": "2021-04-21 12:54:44",
         "replyContent": "Hi Sarah, thank you for reaching out, we'd like to help. Can you tell us more about what prompted you to turn the app on? For example, was it a notification? What do you see when you open COVID Alert? Finally, how often does this occur? Thank you for answering our questions Sarah, we want to get the app working for you again.",
@@ -245,7 +305,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiK185L9Vl9mNxRHG4uobet3lQ1pG8C3t7udB7bVQ",
         "content": "Never received any notice feel the app was pointless.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-19 21:35:56",
         "replyContent": "Hi Rhiannon - Thanks for downloading the app and helping to slow the spread. So far over 28,000 people have entered their one-time-keys into the app to let people know they might have been exposed to Covid19. We're glad you're staying safe, The Covid Alert Team.",
@@ -257,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggEKYprcgzVNBuc6eeCKbbVJUoJ_EkvNORzCM9WQ",
         "content": "Uninstalling because I just don't care anymore.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-19 01:08:28",
         "replyContent": "Hi Adam - thanks for downloading the Covid Alert app in the first place. We know it's a difficult time for everyone. We're sorry to see you go.\nStay safe,\nThe Covid Alert Team",
@@ -266,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOELRezaOcq6EudT2wVVtZCzGMvkGFc9oxBhYQsBdnslvMATWLW7AaFsdHAsAGbMf1qPeatxRCIakg7EPA",
         "userName": "Chris T",
-        "userImage": "https://play-lh.googleusercontent.com/-4bS70e-ULm8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucntpIc_XVav1HQCS7b1vP3bXK6efg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxb1J9rWVPxMTkYUDDQ4nf4FADoweeRZYATlpPH=mo",
         "content": "I want to love this app, and I believe it has real value while maintaining some sense of privacy. However this wasn't rolled out in BC, so it's useless here unless by some way of magic someone from a province that actually uses this visits and uses the app... Really defeats the point. Why wasn't this federally rolled out for all provinces?",
         "score": 2,
         "thumbsUpCount": 10,
@@ -281,16 +341,16 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCtq_ajQpIQhtN7fbMCRGVZbfLSbKOo4kH2j729aw",
         "content": "The app itself may be fine but the implementation of codes for those infected was a complete failure by the government.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-17 21:40:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi David - Thanks for the feedback. We're exploring options to help improve one-time-key distribution. In the meantime, you can find out how to get a one-time-key in your province or territory here: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html#a4",
+        "repliedAt": "2021-04-29 16:10:02"
     },
     {
         "reviewId": "gp:AOqpTOGOfKFpgiZK4fukVcP2whucNHCwt9VsbcvPlFv-WDq0vHgdKXS-Te8swiLLBvlXvsDSAC4UlWBavk5-yw",
         "userName": "Kent Hunter-Duvar",
-        "userImage": "https://play-lh.googleusercontent.com/-0K3qqBrP4HY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDV0uZ_SPA2mnrn7PlESsPbDwBnQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzjwU9ZGXoUvdj2H5nm7Zp-pcd0nwoMZYUpTawB=mo",
         "content": "No alerts so far. Feedback that app has detected other devices without being close enough for concern would assure users the app is working as intended.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -305,7 +365,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXJW5OsATzh1i-vYGxIRohYJzyWshXZCfxOuRFdg",
         "content": "Horrible lay out",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.7",
         "at": "2021-04-17 14:35:38",
         "replyContent": "Hi Mike - We're continuously working to improve the app. Can you send us a screenshot along with a description of what you don't like? We'll pass it along to our design team. Stay safe, The Covid Alert Team.",
@@ -317,7 +377,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiO8XRT3GlGgHuOiUDlirSn_1YjNP2fGWJ8Mtd-cw",
         "content": "This app is useless I have been in places and next day the business has a outbreak and no notification so either does not work or people are not inviting there positive diagnosis not once and I have been to 4 places and outbreak has happened I get my notifications from the papers.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.7",
         "at": "2021-04-16 20:53:31",
         "replyContent": "Hello, We know outbreaks can be stressful, we hope you are safe. There are multiple factors that determine if you get notified. Primarily whether you had close contact with a person who tested positive and entered their result into the app. Based on on your comment we encourage you to follow your local jurisdiction's guidance for outbreaks.",
@@ -326,10 +386,10 @@
     {
         "reviewId": "gp:AOqpTOFI7ZAOdn7JZYQk5EWRnjwYu5h-3GlU8kE8-XLkQIqfcJvIsgtSdqxU26_72joFJBqrbEw_t9RHBDhidA",
         "userName": "Robert Babak Rowshan",
-        "userImage": "https://play-lh.googleusercontent.com/-QYOCwsvCT_A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclev7iCrVtodelbGUXbpGSdSGH88Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUyzYFNVWCgaM2UIeZTqsXYpj3ToE0aWcM5Cm2=mo",
         "content": "Constantly showing alert that location services needs to be turned on and that it can not or is not functioning due to this. Location is turned on. I even tried disabling power saver functions just in case. No change. Very disappointed at the poor implementation of this app and lack of proper documentation. Should not be this confusing nor difficult to use. Sadly it is a lost cause as usage numbers are far below critical mass needed to make it a value add in our fight against COVID.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2021-04-16 20:39:41",
         "replyContent": "Hi Robert, on phones with Android 10 and lower, location services need to be activated for Bluetooth to work. As these requirements are set by Google, we are unable to change them. If you are interested you can find complete documentation of our work on our github page here: https://bit.ly/2ZZjREW",
@@ -338,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOE97saISBNQ0HWfxKqPO8YXPVuvSJkWIW7-UIt_KxivdPADRQlaZDom4l8brIvcDEaCtWEgKArye_ryGg",
         "userName": "mst9990",
-        "userImage": "https://play-lh.googleusercontent.com/-9XHvZIc7fEQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn83Sx3mPib3CBJrifENVrBatp6-w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwDyB4I7ghz-e1T2NHeas4-gHApkLgp265v87xL=mo",
         "content": "My work requires that I install this app on my work phone as a secured app. It has been installed for about six months now but it will not work since it will not allow the notifications to be turned on. Every time I open the app it has the large button to turn on notifications but when I click the button nothing happens. I have followed the instructions to set the notifications on manually and the slider is greyed out so that I can not turn it on.",
         "score": 3,
         "thumbsUpCount": 1,
@@ -377,7 +437,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzjpBaWznzLFm3yy4-_5pR62TyL8nqzVgD7bGK",
         "content": "Completely useless for British Columbia. I was waiting at first for functionality, but 13months into the pandemic, I think it's safe to say this province will never have functionality",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.2.7",
         "at": "2021-04-14 19:08:07",
         "replyContent": "Hi Cooper, we\u2019re aware of the BC Government\u2019s decision not to enable reporting a COVID-19 diagnosis through the app at this time. It's up to each jurisdiction to integrate COVID Alert within their own health systems. It\u2019s still useful for you to use the app as it can notify you of an exposure to COVID-19 from someone in a participating province.\n",
@@ -446,7 +506,7 @@
     {
         "reviewId": "gp:AOqpTOEEJpaf46h0XpgMdoN3YiXcxzuN-qGcyEjotvGhvF3wc8PUnrmxUDvhFcRXC1rP9KCCDbccaFcUq1IXIA",
         "userName": "Sean Mallard",
-        "userImage": "https://play-lh.googleusercontent.com/-fPLIiHKvUcg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclfr-bGg_lYkS9Zlm-CC-Af6Yjq5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyiGuztPTB_GAhG6T-5bsG8EDgPE6BrrHfqzkrc=mo",
         "content": "Very clear",
         "score": 5,
         "thumbsUpCount": 0,
@@ -461,7 +521,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzZcsr3KtAvKbZ3PyWL85Z4YdDVeW0V8YeQxDHIg",
         "content": "Baaah Really? You keep asking for reviews on apps I never downloaded. You are wasting my time. It seems condatictory. Spend time reviewing ghosts or enjoy internet in hopes you make $ off me.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-12 08:14:08",
         "replyContent": "Hi Donovan, are you experiencing any particular issues with the app? We would like to help, let us know.",
@@ -473,7 +533,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQax4GEhfi24KkfH-6AOzwoYYlOcO_jMUcfgkmUrI",
         "content": "No point using this app. Nobody uses it so it's useless.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.6",
         "at": "2021-04-12 05:44:04",
         "replyContent": "Hi Matt - we agree that the more people use the app, the better. It's still useful for you to use the app as it can notify you of an exposure to COVID-19 from someone who is also using the app. So far there have been over 26,000 one-time-keys (positive diagnoses) inputted. If you'd like to know more about the app: https://bit.ly/3pMT09v. Stay safe!",
@@ -485,7 +545,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTeFH4usy2Ha4WfYJPbue2XkXdXZY97jCIW6lsEg",
         "content": "I tested positive 6 days ago (results 5 days ago) and the government's site has still not updated so I still can't get a code to put in the app to notify people. If by some miracle I can get a code today it'll take someone with a notification 2 days to get in for a test. That's 8 days!!!!!! It needs to be immediate. This is completely and utterly a failure. I've talked to public health, the hospital in charge of my test, scoured the app info section and no one has been able to get me a code.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.2.6",
         "at": "2021-04-11 19:50:09",
         "replyContent": "Hi Jayde - we appreciate your efforts in slowing the spread of COVID-19, and we hope you get better soon. We're sorry you've been having trouble getting your one-time key. The one-time key process varies by province. For help getting your one-time key, visit https://bit.ly/382QOVh, then click \"one-time key process by province or territory\".",
@@ -509,7 +569,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjz-psG5WCB4X683mUifxRRaQQeiVPxuQBgE13CTQ",
         "content": "I think the main challenge with the app is having people input when they are positive. I find this to be problematic as many may forgot or not be interesting in inputting this detail. I think it would be important to have the user log in with their cell phone number and if the person tests positive the system should automatically update based on the cell phone. Also forced install from the carrier would be more effective but not everyone will be ok with that.",
         "score": 3,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "1.2.6",
         "at": "2021-04-11 13:54:06",
         "replyContent": "Hi Ativ - we appreciate for your feedback. We know Canadians value their privacy and we do too, which is why the app is voluntary. For more info: https://bit.ly/2NtU70R. To protect users privacy, the app doesn't collect any personally identifiable information, including cell phone numbers.\nStay safe,\nThe Covid Alert Team",
@@ -521,7 +581,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuQ6vTDuDunhfo0DdBfb3d8Hd6XCi4o4Pvt3VKvw",
         "content": "Drains battery.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.3",
         "at": "2021-04-10 23:50:46",
         "replyContent": "Hi Adam, we are sorry the app has been giving you trouble with your battery. Here are some things you can do to resolve it. 1. Force close the app. 2. Update your operating system. 3. Restart your phone. 4. Reopen the app. We hope this helps. Hope you are staying safe.\n",
@@ -530,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOE9S5U_CVJTCiu2u5KyA0ccrcCVuY9sXvziPwB-V_qK6MnYP51qpdsDhA29lCM2XXS4L0dlns1zLccgBg",
         "userName": "Peter McCannell",
-        "userImage": "https://play-lh.googleusercontent.com/-_2f52soeT4U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHEn5rOFUlfDdKQzRfjum-_6mfMQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzWmCXB-oNADT10nmCjminMtZRGVtjPrTI_TRw5=mo",
         "content": "I don't understand the negative reviews it does what it says it does, and that's all it needs to do, I hope more people will get it so the coverage will be better.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -545,7 +605,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghgrvv0-UgPAW3YCVNk052s3AYNGtWu8_F2p09e",
         "content": "3 out of 5 people in my household have tested positive. This app is pretty much just taking up space on my phone, and possibly collecting unwarranted data, cause I have yet to receive or be forewarned by a \"Covid Alert\". Every time I open the app it's just a \"thumbs up\", making me feel like it's only tracking my gps in relation to other people. I was looking forward to using this app as a tool or information center in the event I came into contact with the virus. Unreliable sums it up nicely.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-10 16:09:18",
         "replyContent": "Hello, hope you and your roommates are doing ok, we know situations like this can be stressful and would like to help. For you to receive a notification, your roomates need to enter their One Time Key (OTK) into the app. Have your roomates entered their OTK into the app? COVID Alert does not work as COVID detector, nor does it access GPS data.\n",
@@ -566,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOHMJYcQ80jPskUcpUuGmqToxFkW44MZZf00OO8ni9h3zHKIUeFCVmTBAY6XEQB_BAA8POo50hhAXkc65w",
         "userName": "Sarah L.",
-        "userImage": "https://play-lh.googleusercontent.com/-zyFrSv-DIPo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrMnSy_ZUYJyqIkETe9ZE6j8IA1w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyd4YMlgJ44v_zkLqc741OG1SkuEKf6r_xofC79=mo",
         "content": "I've updated and despite what it says on the government website, it still requires my location to be turned on to work. It specifically says on the website that it doesn't need or track your location, apparently that's not true. I get an error notification any time I turn my location offm",
         "score": 2,
         "thumbsUpCount": 0,
@@ -590,7 +650,7 @@
     {
         "reviewId": "gp:AOqpTOEdCdTgtK-ao7BG9E9fNSt3Qf0vf1kSyYj5MXoRrNb33HAWlLA1tCOQBrTGPpsRy9M96KtrKxNoecSfjg",
         "userName": "imad makki",
-        "userImage": "https://play-lh.googleusercontent.com/-BCT3-6O88Xo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclpvTg_FLxJeaDboFa_2P1uy3UFVg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxUNppha4jN5YHGN3IJTarI87EC_O6Yf51qQAxR=mo",
         "content": "Peace of mind",
         "score": 5,
         "thumbsUpCount": 0,
@@ -614,7 +674,7 @@
     {
         "reviewId": "gp:AOqpTOECUj4Q7HK8gG3Di_W1iBPfSVrhohjLKeCAzdBhPw6bqOuDiBYfqiw2Gt2vnxlafb3YeaK0p-xvdtOggw",
         "userName": "Janette Finnegan",
-        "userImage": "https://play-lh.googleusercontent.com/-f_absLLPfLo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqYBDqkJQDGRAUb2f7PcbTGqXi5A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx1ba7Ol8JQeiAtTmu0D_wBAUJk_kW_BWO5WErr=mo",
         "content": "If someone lives in your basement apartment who tested positive for covid can upstairs tenants get the virus through furnace vents? Need to know asap. House is on the market for sale.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -650,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOFaoQShYHF1OVZSj8bqU0GAoZVNjj2wecJX1y6oFmrVGecYWpDYIORxv1X6D3ehNFbvhFnbeqeS54K1QA",
         "userName": "Mark Allaster",
-        "userImage": "https://play-lh.googleusercontent.com/-8JVi-YKHCtY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnmMOCCHndU8IXKkSbbecWoj24jOw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy2K98FuovRY1voFnvczd_rXqW8wVc6oAC5vbpW=mo",
         "content": "Nice",
         "score": 3,
         "thumbsUpCount": 0,
@@ -665,7 +725,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOCeprfAX88yHXCU4HcVVGaQuQIGQd8y2FbOVC",
         "content": "Won't open on my phone. And I am never installing this app again. It sounds like a useless app. I can keep my self from getting Covid by social distancing and wearing my mask and keeping up with keeping my hands clean.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-07 01:20:02",
         "replyContent": "Hi Sandy - We'd love to help you get the app working. We think updating your Google Play Services will help. Open Settings -> Apps & notifications -> See all apps. Scroll down and tap Google Play Services, scroll and tap App Details, then Update or Install. If this doesn't work, email us so we can help. Stay safe, The Covid Alert Team\n",
@@ -673,7 +733,7 @@
     },
     {
         "reviewId": "gp:AOqpTOErv28kAYpackuUukNqarOfa9kujAeOrgg8zeGgmi0URFS98EiLPGwe3-Jffsjy4rEnOaRHh6h3SE9zSw",
-        "userName": "Heather Kelloway",
+        "userName": "Heather K",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgfeYv5rwat_3ALyQpf6KmSjC_ngXMzdROb3KbbJqs",
         "content": "The review would be 5 stars but there is no way to clear an alert. I have had an alert on my app for 3 days, I've been tested and have a negative result. How does a person know if the alert is older or new?",
         "score": 4,
@@ -689,7 +749,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjL75fTyWpPzKyA6RUv-7gnGU2e765trFg7qkgW",
         "content": "Not available in Alberta",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.5",
         "at": "2021-04-06 00:06:10",
         "replyContent": "Hello - we\u2019re aware of the Alberta Government\u2019s decision not to enable reporting a COVID-19 diagnosis through the app at this time. It's up to each jurisdiction to integrate COVID Alert within their own health systems. It\u2019s still useful for you to use the app as it can notify you of an exposure to COVID-19 from someone in a participating province.",
@@ -710,10 +770,10 @@
     {
         "reviewId": "gp:AOqpTOFYrVMrqaB4ekVb0xcNNCmwYDKqAogMlIqVJiI6OuRK3A3T1DaajHZLUUitHhhlN0lJ8njJTgWz84IhnA",
         "userName": "Doug Gale",
-        "userImage": "https://play-lh.googleusercontent.com/-kgMPb1aorXU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVfsAnLVzEYxYX2oPIy7WKr0sBRg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxMTGkaFyZ5nl-O-eCWS26pqL4p-cZqjuykpDYS=mo",
         "content": "Says it doesn't track your location, then requests location permission. Idiots.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.2.4",
         "at": "2021-04-05 08:48:28",
         "replyContent": "Hi Doug, COVID Alert uses Bluetooth to record who you've come in contact with. For Bluetooth to function, Location Services need to be activated. These are requirements set by Google on Android versions 10 and earlier. If you go into your Location settings, you will see COVID Alert in no way has access to your location. Hope you are staying safe!",
@@ -818,7 +878,7 @@
     {
         "reviewId": "gp:AOqpTOE3xLjjM_UVVvSk_7dhzcY4PI-r-HSSagSBGlLvurKmnHLYUF6aCf8gS7QgrJNkR2mbR3SfNY0OpmyKYA",
         "userName": "Kelsey Jackson",
-        "userImage": "https://play-lh.googleusercontent.com/-8Mc1UC73JXA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmhP0lnl3KAYRMF-o6YD7rNs0NtKA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwCHO7H-Hl6QLQ9CPyxSvzzFbrBXWzZRuqUgxvh=mo",
         "content": "Useless requires location, data to track... Concept is there not intetesting enough or enough users to make affective",
         "score": 1,
         "thumbsUpCount": 0,
@@ -842,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOE01Emk1HI0HpJWQzLESHiGI_8k_sL2QWEnMPCtmqVrCMK2hZns3-Hd9w0LqSbHJI1hki15BbOfsmFHCg",
         "userName": "Tyler Ross",
-        "userImage": "https://play-lh.googleusercontent.com/-G_Y4FJU_bKk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclmduwBfXg-WyUXSCaFG_dFQRZOyQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzhGr8MLT1V1-7sjBkOIIZkYwCU7UuTQR2-5Njz=mo",
         "content": "App works well and takes your privacy seriously. I wish that more people used it.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -854,7 +914,7 @@
     {
         "reviewId": "gp:AOqpTOG0ZJUrVAgYKu_p-6Ih9t-W4rGm2SgNX-eDsgAqRZjv4Phzf-S4XLsFOXOwEOoSR1lKTSZNuwdCkJu7ZA",
         "userName": "Nancy Butler",
-        "userImage": "https://play-lh.googleusercontent.com/-vq-iaAAPu4A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtEEnXYQbvEqRXkxnwZNlfHZrAZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7k_eEGVW733iaf_fa01tdGhp2P4eU-ipdAv93=mo",
         "content": "I don't know of anyone who has gotten an alert on this yet. and some should have.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -938,7 +998,7 @@
     {
         "reviewId": "gp:AOqpTOG42xuQyVQlO63edBZ_59Yl9GnPILgQkqnF7_XX8ecVPHSoG53JaEwJAOfj_1LMIHudVim7aD1hwlqtOA",
         "userName": "Jessie S",
-        "userImage": "https://play-lh.googleusercontent.com/-KNQT-5D1kqc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuXwqYrok-ZF18m50EGMCvK1L5rg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwS0VByW1yBTVTN4LXIAeP9KBVL7yJAR6pp3zuC=mo",
         "content": "Seems like a great idea, if only it worked for people from provinces that have not yet agreed to support it. It doesn't make sense that because my Provincial Government thinks it's not a good idea, that I can't use it anyways, and possibly be warned if others like myself have the app running and get sick.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -986,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOGTSi0M7rqVKIYQkqRgrzn477gjzj_8cnQLXCXcsa75VrKt4_K_fHdUa5cnVx5WxCrezwQ_ynAbFqKEdw",
         "userName": "Crying Broken",
-        "userImage": "https://play-lh.googleusercontent.com/-T7LO5fxVgIo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckJH5iNb7foctFg7cmCE_ppq-FkAw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwXHnfYE6lBrw4_3nMgqA-AM_pDLm4VBTvEVqTi=mo",
         "content": "Still hasn't trickled down to notifications within my city",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1046,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOE_uuWB5cSl63tGy7brbkDHdsCpseeivZD6xdSTVNtC5AIiDtjptBIONp68LFGh4MNoYbYZzttF4zr9Fw",
         "userName": "I Don't like my bills",
-        "userImage": "https://play-lh.googleusercontent.com/-tSeNqRTziDA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm50R0TL6VbHH1ESSdgenLiFA732g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxCjYprsunbaZ-ha2qSzJ6KjxGcuIOWakWiBZSj=mo",
         "content": "My roommate got covid and he lives in the next room. But the app says \"no exposure\"!!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1058,7 +1118,7 @@
     {
         "reviewId": "gp:AOqpTOFMj7Nxq5r7tIz2oXuEskzuk1UUptIyYCNyTOSHUKEpUmIW70qq-m3IXfbt9sOIuYR1eawETVirdpgJig",
         "userName": "P I",
-        "userImage": "https://play-lh.googleusercontent.com/-PlizAJEv9t4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPcf_RyhjvTWTh1hf1lqOJbVcEJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhdG0xyaZUlKtZNdauv7TfIElSC6biz-PEMyyo=mo",
         "content": "I love it and encourage everyone to get it! (the latest update was annoying but it was solved)",
         "score": 5,
         "thumbsUpCount": 11,
@@ -1082,7 +1142,7 @@
     {
         "reviewId": "gp:AOqpTOGvowehhZYn10DCB9Amevx0CQE4wGWAUlDN_gjBXdnXo6HvZv20vdpkZ4udfp5NGMb5n0FIT1wV4I3mKQ",
         "userName": "Mary Klava",
-        "userImage": "https://play-lh.googleusercontent.com/-rnDqjtvCouw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm36HVp__0Q7iP5KpEYZnDzbMuQwA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7Sb8Aa1MORW5R5ZDKUe66it8TF0tr6a7OvtqQ=mo",
         "content": "Not sure of purpose",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1106,7 +1166,7 @@
     {
         "reviewId": "gp:AOqpTOHi0mZvzri4yEVPvqWypJ2j0o_2HbA_PRbwHNzOYt_UiuHKp4vIKZlk9vPBgWPEYNi1jbaXSW0UT7LXKA",
         "userName": "Timo Tuokkola",
-        "userImage": "https://play-lh.googleusercontent.com/-pFOUchULzoo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJBe__vyAb0PPJQPboIVIAQRLIjw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxM_YY5x5pV0i-w22mSXZENDhH5zMPcz-3AR3ZC=mo",
         "content": "I assume it's working properly, but it would be reassuring to have a visible counter that shows how many contact codes have been exchanged. I don't care where or when, but a running count would at least let me know that I'm not the only person in town that has this installed. Edit: it will tell me how many times it's checked for exposures, but how effective will that be if none of the people I've been in contact with have this app installed?",
         "score": 4,
         "thumbsUpCount": 46,
@@ -1130,7 +1190,7 @@
     {
         "reviewId": "gp:AOqpTOHCf7vrhVIQUS19H92trhgHNwZo8da54gDZ4pun09wbph-P9QY9dPfZ9LaQ8pw3WbjO1tW5H0NFz-y7pA",
         "userName": "Daltastar 2012",
-        "userImage": "https://play-lh.googleusercontent.com/-DOxg-1Gpljw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1jCjVnRWjdggy_7O0KHkWGMtnxA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx6DhOU9SUFqv8rfEUZSpWLeYFiEjRd-PfB84e5=mo",
         "content": "100% just a placebo for people to feel safe, now a app that let's you upload pictures of anti maskers for public shaming that I could get behind.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1142,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOHZXwiWi55fhbhqBU3xrEQw8uTsp2Y7FKvTJmenYcd0rba9sjyIi1bf_icVG6LWB3T_HLs19kde1-TpRQ",
         "userName": "Victor F",
-        "userImage": "https://play-lh.googleusercontent.com/-wssIPT4Yd88/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLA3At9tJBEyWnsQzDB5nKQHzfoQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyv1hxNGkBQdC4eP8Ez-LfpKVvXsCyiE_a9bdON=mo",
         "content": "Don't get it.....",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1178,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOFlt8QvVP9HQE0jUBZobBuBcfPSGcSLu9kGYli0TPO3ktOnwrcKqrGxr961mygmGVXOIjGMTKOvplKJ5Q",
         "userName": "Ron A",
-        "userImage": "https://play-lh.googleusercontent.com/-XrH0b9zWcgQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnjeyXGW7u0onJ9TTIE88_Eq9qIJQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyBZeu1-UF20dG9cBPjYooxHCR17FowGENUk0r_=mo",
         "content": "This app is an embarrassment to our country. Seriously, we have done an appalling job dealing with this pandemic and an app which does virtually nothing just adds insult to all of the deaths. This app makes me ashamed to be Canadian. A complete failure of an app from a complete failure as a country. Nice one. To elaborate: please compare this app with the one which the South Korean government deployed. Theirs is clearly superior in every way. Check it out. We failed!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1190,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOGC9lxwpE1xrGiOfqKBiVCxqGPOSJnt44ek3rpd90mYefssX8rCtPRmKG7qJ2yHQckiip7KwAvgRHlx3g",
         "userName": "Gurmaan Brar",
-        "userImage": "https://play-lh.googleusercontent.com/-TumVhDIe3WI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSYZssyzXRm5r0jP1n_5_CABDzHA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwp6FPHVaJSwMhCPuMhWzKmZGxbf0uapG6PcvJJ=mo",
         "content": "USLESS APP!! Forgot I even had it because its never alerted me. Had it since April 2020",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1226,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOFS4wubhiRBOc66pGuZSiky1aYId9uis4QmGseSPjARNQf6OnumGsau825S__0M4Vvl-B1nLVhY1gX4Bw",
         "userName": "Corinne Glowka",
-        "userImage": "https://play-lh.googleusercontent.com/-9jdU6-xfx1E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclT2h2IMPdg582p5mXuUoVwM7mQGQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw2eG6S9Ixzm9J6zCXhcz4RKZQsMxdOfcgzljW6=mo",
         "content": "Useless since no one enters if they are positive for Covid",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1250,7 +1310,7 @@
     {
         "reviewId": "gp:AOqpTOELtAMqm0V6_xyb4gPxTE5C0Md6JXDJu0sHVd7INHaXHNWZAl648IuIfqlfj50nYQJvWuwf8Co633Jmng",
         "userName": "Diane E",
-        "userImage": "https://play-lh.googleusercontent.com/-zWOuyT3AmjY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbRuRTMYwuKSvnvWD5ZWXArWivXw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy80DYRl5axcc_ZBW-laKEZKyCk27SSX5kbPVOG=mo",
         "content": "Needs A Lot of Work. The concept is fine but a lot of flaws. I tested positive for Covid and about 3 times every day it tells me to get a new code to share my new exposures. I'm in quarantine for at least 10 days and not going anywhere. I had to turn it off because it was so annoying.",
         "score": 2,
         "thumbsUpCount": 32,
@@ -1286,7 +1346,7 @@
     {
         "reviewId": "gp:AOqpTOEfgOtLJgs-GWlXyU3OHyooB0mkLCfZOYT21DBwc138Nju2YoRwUWqD0nPl2QqGzLy_bBgTn2A11TuqRQ",
         "userName": "Paul C",
-        "userImage": "https://play-lh.googleusercontent.com/-rVva09usQYw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclaMFcxEYvtUFRu9VIIMKS_qqjOpA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzphjvZK2wOPJRYjqYpL-MLOLevETWgMON2ToEE=mo",
         "content": "Lol. Useless.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1334,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOHWgAFXpMNNB3aLdNMVTnfxTvVdgw4qP5KETW_fEvO6FebwQ3K0T0sf4xp9r27nAP9ir00qotq-2IEKZg",
         "userName": "Nathan Getachew",
-        "userImage": "https://play-lh.googleusercontent.com/-1xG-OAhNq6Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnK2paRYpaa3nJODYt8m6bflHsQEg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_fYi-mhKF_K2ofim881w5RfW654Ki5wIHpW9S=mo",
         "content": "decent",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1346,7 +1406,7 @@
     {
         "reviewId": "gp:AOqpTOFysjOYF8tfwbqOwntQhDdx0wKPNFuNrbV7rmOS2YGULGV91ODwquQX5kYfTAx9iC5RnZvqTUZeOq9I7A",
         "userName": "George Somerville",
-        "userImage": "https://play-lh.googleusercontent.com/-huSN9UUvwOo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRKE0DRljSMc_e4yqbauGpE-keDg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzGOLH0PWA2AeHJUmLefNtPMbGe1StJCfC3U0wM=mo",
         "content": "I have had this app since it was first released with very little attention required, in the last week I think there has been an update which is requiring constant attention. It pops up asking for user intervention even though I've been working from home for days on end with no interaction outside my home. They promised it would run in the background only requiring attention when I have been somewhere where a covid issue had been reported, beginning to be annoying, I've uninstalled it.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1394,7 +1454,7 @@
     {
         "reviewId": "gp:AOqpTOErHVX1xEEHz9KDXFeWG80B2mtgEp65ljDQBQyEL_ltxS4Hq9eBjTtYf7sbvP6QItOx29A_Odcynx6IUg",
         "userName": "Mit M",
-        "userImage": "https://play-lh.googleusercontent.com/-fpfbeV3dMYY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9v6cH1jtb8lo9Bv6L0UEhS4uAUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx10uibJeOfs02JsAomK03TZmufVAlweNeQ6rGa=mo",
         "content": "It is 100% voluntary COVID reporting which means that infected people will have to notify the app of their infection. What if they don't?",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1406,7 +1466,7 @@
     {
         "reviewId": "gp:AOqpTOFTVETcOxRK0Sh8PsBp7CPVgPUrj3QknvlSTiDII92Km72NdRvQW8PqvRp8vyg9Y0gP5ywD47zs9XxUqQ",
         "userName": "Mario Colarossi",
-        "userImage": "https://play-lh.googleusercontent.com/-4VbsqBhXqsA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMhVOvSlGIIE6FQCAQHsiYL2moeA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJztzlyufrG_pw1t8O9BSOqA44YZh_g4Z9SuGGbN=mo",
         "content": "Safe feeling",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1478,7 +1538,7 @@
     {
         "reviewId": "gp:AOqpTOGrFZKEf-HsMiFqYT7Jj6Qcq51l5EJsQ2I5x9q7C4hWnfeD79NXJqqFrP3En2ypDYWQCN5G9NPxh5tlYA",
         "userName": "Cameron Deary",
-        "userImage": "https://play-lh.googleusercontent.com/-4XcFVYrueFw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdmJI8P6SktgMBB_CYoeZBPcccUw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyBFEBqdtfGJY1yQMte5euPnHUMlbLg0RIfH0dx=mo",
         "content": "Does this app work in alberta yet? Specifically jasper ab?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -1526,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOFgnOd8hkNPMjBFSWJfD40gc-ufAzCBRGBUYLp_3jZ9Mkhv6nnyzVrLpTZ77GfLLtuug80zIulqI8CRqQ",
         "userName": "Gary Williams",
-        "userImage": "https://play-lh.googleusercontent.com/-NKPi_oUVQ6s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQUY7SkLlAZulUK22GVvY2LO-C5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzrAu3NZkigUvQaf3eo2O0UNQQduRN0Bcb2x9Vv=mo",
         "content": "Totally useless as nobody inputs that they are positive tested.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1538,7 +1598,7 @@
     {
         "reviewId": "gp:AOqpTOEbWCCgLinWb7LKjZCxetATegW0Il_HFjg6Fen9ZXUXzEBiio3hoC6HgbbFQ5YoYil78ML7Jfapflr1RQ",
         "userName": "Krysta Mapplebeck",
-        "userImage": "https://play-lh.googleusercontent.com/-vBlzGRgXWaI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqT_8hKLM2939blo-PIUny4j5C7w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwgidVildsZh_LwruzZ-TJCXYM0Kj45cLlmt7UJ=mo",
         "content": "Still says not available for use in my area (vancouver island BC)",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1562,7 +1622,7 @@
     {
         "reviewId": "gp:AOqpTOFSpinQjh6YzP09FTb-oBmw36FhDuQBqn9jWSrMsoiX5K1WiR7JSR3EmCGt68BaY86IRab8s_LaxR_lSA",
         "userName": "Cindy Higgins",
-        "userImage": "https://play-lh.googleusercontent.com/-iBhu9vIgEOE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckXQ9eU0IM_Im6LV2ovC9IT1HxIdg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzfWy2S9vDGLSP_-UIBbmzNjTA6tsRp9jnYj0Yi=mo",
         "content": "Not complicated;informative, has updates on the virus (s)",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1598,7 +1658,7 @@
     {
         "reviewId": "gp:AOqpTOFNQE_lqdzefeHizvZBDXBuj3bJHfUFZh7FfNg9UytAVNR7CTBU98qGcoE3SkeUP43xmthrsCVVP24iuA",
         "userName": "Angela Bagatto",
-        "userImage": "https://play-lh.googleusercontent.com/-DBc-WAM74uA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnp-yP3MRM1BKjMA7utJzVRZC-h9w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzZgz2NrLjfHMDHWm0uZTDkr72gPz1ItcpXfg7i=mo",
         "content": "I strongly support the principle behind this app and all measures to protect the users' privacy however it would be a HUGE asset to be alerted with a date of exposure, if not a date and time. It would help users identify how long to wait to get tested (asymptomatic individuals should isolate but wait 3-5 days to get swabbed to minimize false negatives) as well as to help with contact tracing. It would also possibly help users identify which activities they are doing are higher risk",
         "score": 3,
         "thumbsUpCount": 76,
@@ -1622,7 +1682,7 @@
     {
         "reviewId": "gp:AOqpTOFlB22KyQKsIItzzP3gbqcVxbs468U3tZTqGn48OnWkeQblDmWmbFt1xV9c_D6Sd7uYTQ_A2ZshGv0Mqg",
         "userName": "Amjid Gabor Hussain szadeczky",
-        "userImage": "https://play-lh.googleusercontent.com/--LDhF3FkS0I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcnD2ZWbNhP7HyD6NN89_-fbMsaA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxYHajPQHsdNnRePaRBfGiqEsyxachqbrBOipwI=mo",
         "content": "Teamgoogle@google com help my team",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1706,7 +1766,7 @@
     {
         "reviewId": "gp:AOqpTOEpkY3MadK-frJeUCHCgPsm_24VSX-51cbPzgy6GeX5lNtWik02XlGyGObKCmNUcO001hw69AfKZAZR4A",
         "userName": "haydar hassan",
-        "userImage": "https://play-lh.googleusercontent.com/-x1R0raqu9hM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmjywAfW2e52r5qVNMEnCnjq0soww/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJym45fMuKZRWqY9beTGz_fn39fZ6GMpKEozhSzL=mo",
         "content": "Excellent",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1742,7 +1802,7 @@
     {
         "reviewId": "gp:AOqpTOFg4lgfcLBbo2m0GM97zFe3FzEdPa78W_j_U91SmUO1nyKqhq79x82xALISHTXjuftF-gQNzPxtZ1eSXA",
         "userName": "Cheryl Cameron",
-        "userImage": "https://play-lh.googleusercontent.com/-DD-lN6cVG3A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmudooebzSRMMe0pNEmmQhueCWc9w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzw5Hfoy7Tw0Idk9MM07zqUAFWXOuwqgmo4eJO6=mo",
         "content": "Very informative.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1790,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOGzabbci_WyzaQYYYsIhUvAkqw42YfFxsEP9Dku8CXUipoRQIkDWrnVGOMOgiONCFfKdbnHGrhcSqWqOw",
         "userName": "Len Jackman",
-        "userImage": "https://play-lh.googleusercontent.com/-83i29S0aN4A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_TWa3kpVw1AVY7tTtwaJh_K_N9w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysJmFty7u-Tg9ktSEhFVtkn0VCsHfApVIUyQNw=mo",
         "content": "No problems to report",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1850,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOGwwdptH1r32ms3fkSkNQ4oEKdFJc8IZxhp3X83IYsFRqjfxhWXr5cMWgOu5-578PoLDZo6hfOVFlTQaQ",
         "userName": "James Low",
-        "userImage": "https://play-lh.googleusercontent.com/-hdyo94wzQLc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwKtDpa7QWXGdl_ulcu2rb5YQgCA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyzMg3PVDHT9FwhTtxZH3ciOCvopRj-x3kisvrz=mo",
         "content": "Only found out of exposure contact by checking app, was not notified for over 12 hours that I had been exposed.",
         "score": 3,
         "thumbsUpCount": 2,
@@ -1862,7 +1922,7 @@
     {
         "reviewId": "gp:AOqpTOHLjZqJmMs18hsanRmDpCoMcKfvpGpz02GUhWX_q8hwntuB7bmn9MYccEhBS8-w7eNC9L75Oa38GdX4DQ",
         "userName": "Caitlin Wilson",
-        "userImage": "https://play-lh.googleusercontent.com/-y3vGV3AgdbA/AAAAAAAAAAI/AAAAAAAAAEI/AMZuucns-Ni_ad6qK5Q3AFPghVmsxnUyzA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyCMf1At6lej2XLwCS448v4FvWyNU00hlTgqk0l=mo",
         "content": "Not super useful, since despite the ads on TV in our area/local stations, it's apparently not usable in our Province. Which seems silly given the rises in cases the past few months, as well as the numbers of people going against public health out here.",
         "score": 1,
         "thumbsUpCount": 23,
@@ -1886,7 +1946,7 @@
     {
         "reviewId": "gp:AOqpTOFxq2LglYxXpHISfu_bvpEy65zzIhx_6sIA3_aIQc1ipjvTDI3RZUdzakigNsAZjaxdXjFTxdKKp5RSKQ",
         "userName": "Marg Hughes",
-        "userImage": "https://play-lh.googleusercontent.com/-Q-dKyeCKaCk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmEI8wzU3dX0H83gU6gv_oGw35yJw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxGYWtLAG0PCMvOR9xmzk0tqQznPIkHb7CfSAwB=mo",
         "content": "Not useful if everyone isn't using it.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1910,7 +1970,7 @@
     {
         "reviewId": "gp:AOqpTOGADDuFyY5pOnEm3mb00cv-UtUe_vgFA88pfbqfjXRfEX3O5N2rbmLCung2mng9BMn68OPU6ofW9keCLw",
         "userName": "Juli Boatwright",
-        "userImage": "https://play-lh.googleusercontent.com/-jczJ6i4rMjM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnmPZgTCfb_YiuXY8U5JQi8bYBZHQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyR1Q7W8JAsNEJow83tGl2wOSCqKkfhqyuK0OK2=mo",
         "content": "My understanding is that THIS app is for Canadians? How come america doesnt have something like it?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -2042,7 +2102,7 @@
     {
         "reviewId": "gp:AOqpTOGn-tVprJwn9123Q4p54QigD0TNcV9fm_xoXLOR7lKWLIhd-2M2JvGSK5IebmUIx8uaHxE13j7WAJQjoQ",
         "userName": "Emily Tjon A Loi",
-        "userImage": "https://play-lh.googleusercontent.com/-gI5UQNu-3zo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm0vvGcP2T_cTowEPtcb9z22LRL3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyEaMDTHGA-o1N5cSrwtEzIRlcU_SMeSbaqZFFj=mo",
         "content": "Taking a long time to make fonts of the app a bit more to read ?",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2054,7 +2114,7 @@
     {
         "reviewId": "gp:AOqpTOEZlvteYojEpjdz75hIdUZPiONmbz4VvVQvsjSGjpbVGmJ-L_LFBQleFJhhQuqrnMmj9GnOVL48BIuPfw",
         "userName": "Doreen scarlett",
-        "userImage": "https://play-lh.googleusercontent.com/--1t5HX6cgxg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmICKRqSzjfldGlXTde9KxPd91XSA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxmMB8EApdcqbN0KWXr0r6g_Coi9ehbxcmhQkA1=mo",
         "content": "It's a good option to have",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2066,7 +2126,7 @@
     {
         "reviewId": "gp:AOqpTOFcG2amTmT6-KL9NikjqVQtRBQxcsVPRV88INSyjJcNuAmmhLH0V-oiV73EgoXT98OI5DAnmYXkbeLITQ",
         "userName": "Adlai Sumilhig",
-        "userImage": "https://play-lh.googleusercontent.com/-vxe_KOTr1To/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKvySQ1ybNYIATibxBr5B2jGp-Og/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0-grJIEY6TahAkMGLvTmJniMlJjp8EGIp7IOx=mo",
         "content": "Awesome",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2078,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOHF5OUTjHTScjTZdjeGLVIkn25z3oBmVozhSWw1lSrDtQTWXab5WfyIZIXRYHo3XawVTPCAqAoETa9fcg",
         "userName": "Geoff Maxwell",
-        "userImage": "https://play-lh.googleusercontent.com/-6aF05Vu73SQ/AAAAAAAAAAI/AAAAAAAAAGk/AMZuucmD6AJJd3hXA49mYqRAAOpI-Apzdg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxeYrVciPHrUyoaGRcja-gTPdzKf8_puhD076nN=mo",
         "content": "Garbage. I'm looking at a Covid case right now and have for the last 8 days. Still no notification. Don't bother.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2102,7 +2162,7 @@
     {
         "reviewId": "gp:AOqpTOELA3AQyemcG8gkJV1xRpgeVlozuG84Wd-VX9LY_SBvfRwfmr4p__H15LgONxgWafWkiizwRq9v_E-pWA",
         "userName": "Dad Wilson",
-        "userImage": "https://play-lh.googleusercontent.com/-nmOYZEwWy7o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4RlgbyPj4DN-aKTRn70D7lqEr2g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmhZKnM_BXE9f9rw-x0IcNpa2_Gr-eEx4WAlt4=mo",
         "content": "I wish the app was not optional. The bleeding whiners gleefully provide a lot more (would could be called personal) information already with FB , microsloth, google, and many others, without them being able to provide any personal safety and good health. I wish it was compulsory the same as the amber alert. And have the testing labs require/use it so they can instantly notify anyone. Instead of using resources to try and pry information out of people.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -2162,7 +2222,7 @@
     {
         "reviewId": "gp:AOqpTOEROq1vyZ_7qdzGexWf8FW0fqoB6wYeoRjjQSiFsHouEHTQRn_3N5f4vvmxlVNoSdQnKPqxC7y6pm3BzQ",
         "userName": "Ju Mapes",
-        "userImage": "https://play-lh.googleusercontent.com/-aCxzfczNw_Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDcP4GhkjuFmpwhqBQGhtxec2eog/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwjv0S8hno42tDX_IwaxXRghmjx54WwcE4LiL8C=mo",
         "content": "A few things need to change: 1) Allow opt-out of data collection 2) Make all non-exposure notification icons grey. Having a red icon pop up on a regular notification is startling. 3) Show relevant info when tapping a notification about new features. I tapped the one about data collection expecting an explanation but it just opened the app, I had to go to the gov't site and find that info myself.",
         "score": 2,
         "thumbsUpCount": 26,
@@ -2174,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOH4AX_TMRcPHtW7VYAisBV7tOULZO4Kbrn3pCLa7G9C2FrJ0dYzAvMraCz2pJZRv7Qlgt135tZheUO2FQ",
         "userName": "Jasmine Kirouac",
-        "userImage": "https://play-lh.googleusercontent.com/-69mufIC97b4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_A2oeqeatw6SWP__7ClWtZXvIow/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy12Mh69L91Z2GImrRNaoSi6gZVDIMeX6Q7VvbR=mo",
         "content": "I like this app and think it is a necessary tool in our fight against Covid. However I am concerned that it hasn't been updated yet to take into account the new variants. 2 meters for 15 minutes doesn't seem safe anymore. I want to know whether I was 5 minutes within a 3 m distance of someone infected (or whatever parameters health authorities think would be precautionary taking into account the new variants).",
         "score": 4,
         "thumbsUpCount": 28,
@@ -2186,7 +2246,7 @@
     {
         "reviewId": "gp:AOqpTOGtA3P3IL5NFP4iSBFSScGaA6pi68gPcJD8bw2lsGsYfIHSPbWSGepXcuzJymAUKZAPKziHv-EyEsyKpw",
         "userName": "Deborah Wakeham",
-        "userImage": "https://play-lh.googleusercontent.com/-aCkuRzmc1dU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclVz5zK4D7beEx-OtO60QvohQTMcA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDICaiDZl6v2_MNV4XQ4bCuZ_dgeXaVxjjGK7t=mo",
         "content": "Did as you recommended. Force quit the app then restarted! The annoying number 1 gone! Thank you so much for your help! I truly think this is a wonderful addition in helping to combat this pandemic. I hope more people download it. :)",
         "score": 4,
         "thumbsUpCount": 4,
@@ -2198,7 +2258,7 @@
     {
         "reviewId": "gp:AOqpTOF9fLCDySIE5vimluUUND8YHJTEYlUMsyfPeTt4ZemE2Ae112yqZWH6l4hVX6lobuTvRpURl5A913-HFQ",
         "userName": "Ali Murteza Shahrestani",
-        "userImage": "https://play-lh.googleusercontent.com/-Z9XbkbqwzME/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9GlKdIfePhfgvQbXoZJ_Mu6rfew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzyMbR_iqfnpfETxrYByYqRXBZ4wAiuxPmL7ZNn=mo",
         "content": "Really annoying constant updates and can't help but feel they don't care about your privacy",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2270,7 +2330,7 @@
     {
         "reviewId": "gp:AOqpTOHA2oVR3ZvvGlXOXiZbswgzdYVrysj6MOz3G94JKj7Ai0w7rWKPA9RuMRdFd6kQdsFYdO3iPFYs4KwpTg",
         "userName": "Rick Tremblay",
-        "userImage": "https://play-lh.googleusercontent.com/-9uGrkAAy3rc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMKHM6yUadp5T6HPOwugXuu1uclw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxP0GoWbYO8cKn36MXG2appD6euVTBFzgbDgWzx=mo",
         "content": "The way it says that it collects the data, it won't be able to notify you of an exposure as it's happening, mainly due to the careful way they have to apply the tracking tech in order to sustain your privacy, or people get upset. It can only tell you once it has been able to calculate exposure within 2 meters for 15 minutes, and it can't know that until it determines if it WAS during the contagious timeline, which isn't known until that data has been accurately reported by the cantagious patient",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2294,7 +2354,7 @@
     {
         "reviewId": "gp:AOqpTOGr8vb9GYDHjP4d86TBnbga3eci4uov1K9VWDCbSDcV5oKAGbQJfRW0Ob9hMjSlLm1GivWWMvYKzKDbog",
         "userName": "Alison Russell",
-        "userImage": "https://play-lh.googleusercontent.com/-MV1ZzMigK6I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXkK3m6znIZa0DJ7rGBOrXF2BdTg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxer_Jso_kNHEw6BrmFleWpv316nG6I9a8KvhEl=mo",
         "content": "This application is not working it took over my phone.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2306,7 +2366,7 @@
     {
         "reviewId": "gp:AOqpTOEwHOuxHOc2oTlW746s46ep1snqiiSUVLrMjW0AREBTWzMJAwk2FtOXoiPnq64eg97oRSosExqOoJRn8w",
         "userName": "Mary Crew",
-        "userImage": "https://play-lh.googleusercontent.com/-lqQ-m0jCCJw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiYrGwTwY7E7pZAlXaU-UqRR5G5Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzhN12cP-cYjeJ390fhJ93x0oicTcBit9TNLWrp=mo",
         "content": "Very much appreciated",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2354,7 +2414,7 @@
     {
         "reviewId": "gp:AOqpTOHx3X6LsXyBETfOyQIyAHNz9BJmSZ2BOleJKfzXWXbeR3QaAh8vwX_naoudNaAHAqDYFJC600hOSMyXlg",
         "userName": "Ben Jesseau",
-        "userImage": "https://play-lh.googleusercontent.com/-L1aWmT8ZWTI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnesMDeprNAniqe8hPdEJDGJqP2Ug/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwNWRdcOF6CXyRmd9Z9h_D4Nq4TuJwsiPAW8U8T=mo",
         "content": "I have been completely unable to turn on any exposure notifications. I have gone through every option in the help menu and nothing works. I tap \"enable\" and nothing happens. Why? There's no clear explanation as to why... I have a Chinese-made phone and that's the only thing I can think would prevent it from working.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -2402,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOEM9oEYsT7r8MwNww2DpxOXk1p-7xFJHujjUTQjjXpYhdVrp9CqxfzK8HGiCnef23t5z0Ka0umgaCvM6A",
         "userName": "David Mutz",
-        "userImage": "https://play-lh.googleusercontent.com/-7clfCMQt6dc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmRq0NBkrFLxyVn3K93kCxZgTu0DA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0mVGJ-x2lTJ9CkIZTV_Hok3hBh-WB9ojq-JuH=mo",
         "content": "Would give it zero stars if possible",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2426,7 +2486,7 @@
     {
         "reviewId": "gp:AOqpTOGj4p7oIwDDrT4pdjKvE77ZSSNzWjjIex_-IevnX3LDo3sR2uE9ORgUYcD51B5GP1rYc1FBS0I8db104A",
         "userName": "Calvin Hobbs",
-        "userImage": "https://play-lh.googleusercontent.com/-ug4SjFk2VkE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnfOolsk1eWBgn5p1QEhKhWcvoijA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXGNjqYCs-9tM2fa_vZMVbmqr6d5xdtr7IDWtc=mo",
         "content": "What an absolute joke of an app",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2438,7 +2498,7 @@
     {
         "reviewId": "gp:AOqpTOFgYL7UdvehkSYZ6zYPbi2NWxC_nPo_XGRc6pIuOiAD4yfBpC-yXscZHXFDrPyXbuTylVOC9P1TRAr3DA",
         "userName": "Mackenzie Dawe",
-        "userImage": "https://play-lh.googleusercontent.com/-MWzNwDGbjV8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck5MEDNwEnn324f-b-ZTPYMDNpWhQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzB7FFhrltXBinEfAXEvQmA0LpeI6GXQ8maehEz=mo",
         "content": "It keeps telling me to update Google play services, but it won't load to let me do that.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2462,7 +2522,7 @@
     {
         "reviewId": "gp:AOqpTOEyOcO_dSPv98vTE9O2aCv1Pem9L-ZX133J9tbH-4vk5hs-lOyAMai-VY6B6-wubvFutkdxJNzAf0GOQA",
         "userName": "Marie L",
-        "userImage": "https://play-lh.googleusercontent.com/-AoQwTWuVXKw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPlWjkCs-sG77QitLcLzZmlTm22w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyGUPVg_pR27HD4gkhXEtTxRYRq6cQ8KexT3TY9=mo",
         "content": "I've been using this app since it was released. I have to be on wifi or my data for it to do its job. I commute on public transit 45 mins-hour a day. Sometimes I don't pull out my phone to turn on my data and I don't want to run out of data before my bill cycle resets. I look after the elderly.",
         "score": 3,
         "thumbsUpCount": 9,
@@ -2534,7 +2594,7 @@
     {
         "reviewId": "gp:AOqpTOGcMNrX-rtuyAJykKYclJfR75193XXuOubBROThdblvCaPq8Ux2M8gQOb8gXkGkGozuCFxnxCY-tIRKag",
         "userName": "Adam Clarke",
-        "userImage": "https://play-lh.googleusercontent.com/-iE3-Ke7zMCU/AAAAAAAAAAI/AAAAAAAAlD0/AMZuucmqFukbsdiAUug9hf0cmjO1xhVLSw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXRDB7Go9HfFXYpLN0wo_tY-At4FMIgNtNJHIjqMI=mo",
         "content": "Continuously pops up an alert \"COVID Alert\" when just checking, creates a lot of anxiety. Edit: Changed review to 1 star. Now says reporting is unavailable in my area. This means there is no way to report a diagnosis or for others to do so and the app notify me, rendering this app useless. This is in a major metropolitan area, too.",
         "score": 1,
         "thumbsUpCount": 12,
@@ -2618,7 +2678,7 @@
     {
         "reviewId": "gp:AOqpTOHO8S29rORxdYiFBmc2o8LO5cPIGIIbkE8asFAa_7RTDMT5ek2O3Ek5TB4ycJfxteEn51-n07qlFknBiQ",
         "userName": "Barbara Prosper",
-        "userImage": "https://play-lh.googleusercontent.com/-lcGMF_ewxXM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclqPtjmIOaBrfARgJfbSeuXtD2vjQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzu9-YiMPO2BHxROJZbrKEZRIIRJ6FYjqk4bxnJ=mo",
         "content": "Well thats so good for everyone,ever1 should have this app\ud83d\ude0a\ud83d\ude0a\ud83d\udc45",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2678,7 +2738,7 @@
     {
         "reviewId": "gp:AOqpTOFMjh_LOLTKsJA7Zxf2jig0zPveHw4NaUHymUUioFDn86F8d_N_H_1Uwz1S5vFpQiDEZgCVHyX0X8N9ww",
         "userName": "Karen Sorenson",
-        "userImage": "https://play-lh.googleusercontent.com/-5e7KQazqC_E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwn1Pmwv7av2h1LQs7Mui0wFO4rQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwtfeNbdRcB6JrOYahsqzzFy0-HV2dsVQsF5y9M=mo",
         "content": "Useless if you're in a province who hasn't adopted the app. However the app itself is good, with strong privacy controls that would be nice to see in other apps on the store - Thanks Gov of Canada. Now, British Columbia and other non adopted provinces ------ get your s**t together so we can use this.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2702,7 +2762,7 @@
     {
         "reviewId": "gp:AOqpTOGxiPdzmIu9qKXN47EJQsgz4b4Pekuvkde4Oow3Kui31wj38cxPcYq_eipLn4yY5ZgUHZgbcjm7OzSsZw",
         "userName": "mira y",
-        "userImage": "https://play-lh.googleusercontent.com/-ZjuoV0X7UqY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl7g-2GgF2oK_bhC3q9AUCxgpbemA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy2RdzuBdvTgCY_XCde6N0sQz7WGrLAhpmYCyIX=mo",
         "content": "It doesn't work on my phone:(",
         "score": 2,
         "thumbsUpCount": 0,
@@ -2726,7 +2786,7 @@
     {
         "reviewId": "gp:AOqpTOFMXMB1UCSJctOuXWmlGdaAElbWA9ajmHl6RGXt4Ruo_Zm3DkV_IHUZLlap5oW9JMM73irn2jrI5DlcPA",
         "userName": "Alexander Kennedy",
-        "userImage": "https://play-lh.googleusercontent.com/-3DoNsh_wIDQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm4t0g6mIZxMyiDe4L19eLEB3YEbA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhP5UYZLPb4UFMP-LPLVhjtc0Rao8VihTnjfmp=mo",
         "content": "Zero, but gave it a 2 for effort. It would be great to see the statistics on the number of events transpired, and if this has done anything or is just another waste of money. Thinking its the latter? Who is going to log in, as exposed, then go out for a walk to a crowded area? Million downloads? Hmmm.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -2738,7 +2798,7 @@
     {
         "reviewId": "gp:AOqpTOEoqTyE9WBuqmjQ1gtcKGq2QjKxIROsQxKP_9de4NpoKmG-Fr5uFTtpKB7zUKS_e_LwksoGge4zGklN7A",
         "userName": "Trish G",
-        "userImage": "https://play-lh.googleusercontent.com/-mfaKLIx1URM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnadFUmGAq9Tl64MMiMjpvevnGfeQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJza5MXlrve1buylIwWCrulZiZk92kGyGDFLIgmw=mo",
         "content": "I support the idea of this app but I don't beleive it works. What use is it if nobody whom has received a positive test result shares this with the app? I have been very near to multiple cases over the past 2 months due to an outbreak at work and I've not had a single alert to this fact from this app. Clearly none of those cases were reported. I would be interested in knowing how many positive cases have been documented in my area vs how many were self-reported to this app.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2786,7 +2846,7 @@
     {
         "reviewId": "gp:AOqpTOEXtZdwzj_P6PcWHQxmuciow7qnoTFv2-jed9jkoY23pllxOyR1WLmoCVr3-bQsq_wH0DDvfnxFfyeZHQ",
         "userName": "Enrique Thonson",
-        "userImage": "https://play-lh.googleusercontent.com/-PccgFpoBgnE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOH3BkhQmRiQ5FyuWwCTZcEnKk8A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmHqFYbXb2XVnU85uNo7LdOgJVGDpDkUDUaLwe=mo",
         "content": "Not useful I work in a community based setting there was a outbreak some of the staff got a notice through the app but everyone that is not apple device user did not",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2822,7 +2882,7 @@
     {
         "reviewId": "gp:AOqpTOHocwd2lNmxeAPqEWGUCq1O32kJpWmrAI9Gi_xvVIVH2_g4G2P1a6uoNfMcVqdB4ogOgz5ZyegvqzTk5w",
         "userName": "Naresh kumar Ranveer",
-        "userImage": "https://play-lh.googleusercontent.com/-AbkcMXgD0DE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckYKXHU-QSSxWAVyrI9P-YMuSWXrQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4MR-zjE6inDx8a_RDJBIRLmt2C-CZuD384lri=mo",
         "content": "The dawyne Johnson rock",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2858,7 +2918,7 @@
     {
         "reviewId": "gp:AOqpTOEFmq2OaZS-q_oxYif70bU076L75U2V92U1Bt2cC3P1D57NvbC5bOZaLdJ-J3_H2Hp4fQ4Ko2CaqkdFxg",
         "userName": "Areissy LS",
-        "userImage": "https://play-lh.googleusercontent.com/-Bp8FU9gmHQk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnauRshhB7pM3I-72Uuaj-dbBqNcg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzkjr2lyBb1eVBUD44445QrBU3bca2_jM7tUsST=mo",
         "content": "Waste of battery and storage. As long you are mindful of your interactions, hand washing/sanitizing, and mask wearing, you're good. I work in a designated assisted living facility and we never have any case and my family never have any exposure. You don't need this app. Just assume everyone and anyone is contagious and maintain your distance and practice good hygiene",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2870,7 +2930,7 @@
     {
         "reviewId": "gp:AOqpTOFC7uOmj9kphH_rguGWdwSrDaSwd5ne0qKgh0hqCFXa_RNUaoUIXRZgOmcM1NiYTnJK3bOPJ6-DfkB8Pw",
         "userName": "Calvin Chan",
-        "userImage": "https://play-lh.googleusercontent.com/-4k1mYtced3s/AAAAAAAAAAI/AAAAAAAAGrI/AMZuuclGUw6Lm2yE0DvWtgD7DCm1Q_p1Uw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSjWJR2xlGLL7CKXMQZhq3Ts8aPVzWweNuX9t-3w=mo",
         "content": "Doesn't do anything. Was at several places with confirmed cases but never showed exposure.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2882,7 +2942,7 @@
     {
         "reviewId": "gp:AOqpTOG8Hy9caooWp2iehL0AOW23yvKzhdJLzZqLCtpHLV9E5TGXbHoxcXGqypic5b7eo8qnOrmn2NHtS0bM6g",
         "userName": "Marie Aldred",
-        "userImage": "https://play-lh.googleusercontent.com/-rWeqh5ccwwY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmM8wreeMt1MY5FFNurBdoCMLDj1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxGGvho_OMfFjuIjE6FrE5FWUjvlJH_5kDqVUUh=mo",
         "content": "easy",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2930,7 +2990,7 @@
     {
         "reviewId": "gp:AOqpTOGyHP5-JlnqzlD3fculhjYjRmYbu-OAl3c548iT8CJAN1hvRe8md67Sv8GDT147MSYkuH_TGFW27ZHPRA",
         "userName": "Jacques Labranche",
-        "userImage": "https://play-lh.googleusercontent.com/-4lEdZYAjmRI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclhN_obEW4r5zu1HXt-2OHzeiEheA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxP3D6p4WR0vx0waipBFdvsKTSsLQBaYV3heCQu=mo",
         "content": "I love it",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2954,7 +3014,7 @@
     {
         "reviewId": "gp:AOqpTOGcoVlqwiub8A19llBzKwu8g4AFYTk22muV7CrPJnRighon9LHtihUtqyM12ig8oldJZcd3NcCMI2WYIQ",
         "userName": "Matthew Irekiigbe",
-        "userImage": "https://play-lh.googleusercontent.com/-IHJhkX0-Ysk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckopmPxtqrYlafdpIuzeV8H1Fok4A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwICu0EK_3q-iWPZ5-hWJeknP6H7aMTln85AEnS=mo",
         "content": "Very useful",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2966,7 +3026,7 @@
     {
         "reviewId": "gp:AOqpTOEIc9Sa4d3ZsEzr5PICETa-Th7at2JAE_WuDo5X--dWERDz6Fs41uVFutRxOO7jMGAQNun_2iEDQwarXw",
         "userName": "Manuel Sergakis",
-        "userImage": "https://play-lh.googleusercontent.com/-w4Jt76AO2sI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnT3XHBbXpmcptki3ago99a1HhVTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxkxCOy_XGXOYEOYqDPfiEoBL1cKY1n04hfLgw0=mo",
         "content": "22s",
         "score": 3,
         "thumbsUpCount": 0,
@@ -3014,7 +3074,7 @@
     {
         "reviewId": "gp:AOqpTOH-zyUhCB3cojqmzbuNlZcdcrKLDVRHMaE2wd2eoQWSP7pgIpLYqmVZcTLE4LAU9DEw0eA0diSJMEw9yg",
         "userName": "Amanda Laird",
-        "userImage": "https://play-lh.googleusercontent.com/-Ag7Vlzs_NEo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJr11o05cFmUFAnXc0E01DaUMM9g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyw6c9sam2in1PffJE7O68TRZL_o3rSRegyjUsL=mo",
         "content": "An update was done and now I cant login. I put my email in to get a code sent to me and nothing gets sent.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -3110,7 +3170,7 @@
     {
         "reviewId": "gp:AOqpTOG33ba-RSSuaZ_UCPJ1oI7oyp_JkvZSbYPFnGwkAig0wD_-Z7QGt3mCUs0qdoDA4eRQlwce-NNhB4gx4w",
         "userName": "Robert Otriso",
-        "userImage": "https://play-lh.googleusercontent.com/-UT0FuHfdejI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckCahzGa-lt9zREn95TtIfhl-HZkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9IXioUttp9keY3oEMtWstUAJerZ28zcRosk5g=mo",
         "content": "I love it",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3122,7 +3182,7 @@
     {
         "reviewId": "gp:AOqpTOG8lkZuLc7Tq3VWzBrZ5ycjz-sXo4y4E85WUblHBBQj6nVAL5xXKqZPquGA3Dkw9WKSWtWkvYt5usXx1Q",
         "userName": "Jeffrey Nelson",
-        "userImage": "https://play-lh.googleusercontent.com/-YddiG0FXLmY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclA4zNA-qCeYtsldva0eAzp04DKSw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhtfEHyzB87iUJqvEIVoqlQDOl9Rk3MQmBJMS5=mo",
         "content": "I have been trying to get my one time code for testing positive. It is still not available five days later please help me. I have gone to the Ontario website multiple times. I guessing I am not the only one.",
         "score": 3,
         "thumbsUpCount": 3,
@@ -3134,7 +3194,7 @@
     {
         "reviewId": "gp:AOqpTOHEyM4gai8Le5xjT6w5Yke4kUFjNi9xXgibj0EdOgN380ugtDzTEYHmUgs4CvXc8qRgP3Uk8b-BCRmhZQ",
         "userName": "Steve Leitch",
-        "userImage": "https://play-lh.googleusercontent.com/-YhrdJjbMnRM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnc_v1FEXH9llrhBx9V8DgpVOO4ww/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx8rlT4766bsq585lawwFgfUxwbEGiToXpldD0=mo",
         "content": "I have tried to install this app several times. After I log in, I always get a message that \"Something went wrong on our end. Please try again.\"",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3158,7 +3218,7 @@
     {
         "reviewId": "gp:AOqpTOGzburFu5s9e5zOUqAXF8ZpYqi6mKaOT4zYcD9EB8s8J2xior-m3XX0Z3g9znpyPfYXbSpYsazQAVzbfQ",
         "userName": "peaceserenity1",
-        "userImage": "https://play-lh.googleusercontent.com/-Qfb5-Um-fZY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCWqC_d-_UqZSzYaWUHYfUWiz4kA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhRQUTcnvz_jWsMYBFla5fcDhZKYx2qnYw_QMD=mo",
         "content": "I dont understand how this will ever work of it keeps turning itself off. I check everyday and have to turn the stupid thing back on.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -3266,7 +3326,7 @@
     {
         "reviewId": "gp:AOqpTOGW2mG9apdWarbYzRM8FamNcr7V2UIo9cTWb7DbjiR0qQgdEyN644en56JGP0qoYilSDoC7ncT8LU-YyA",
         "userName": "simon ren",
-        "userImage": "https://play-lh.googleusercontent.com/-in8aaiWZ7AM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnExLRDImax2qD6W3uZfnVFP4Y-ag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxbP6joTqz_G4KD4zIloIN1bHEdwUAnBqEUtjNb=mo",
         "content": "It's a good app, but it has a major flaw: it depends on people reporting that they have a positive covid test in order for it to work. There are many articles that reported almost no one who has tested positive actually reported on the app. This app is next to useless. Save your storage space",
         "score": 1,
         "thumbsUpCount": 17,
@@ -3290,7 +3350,7 @@
     {
         "reviewId": "gp:AOqpTOGp1HYXegCeLbJeCGYo2D0_KpA-yjLFiqIGKy45B-YgVinLCL28JkasPxWY580QClHFhqb8Yzz0PlU9Rg",
         "userName": "Gn22 Pb",
-        "userImage": "https://play-lh.googleusercontent.com/-PncsrI_cpcc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgHfs-DKNEZP2ffs5Te9X4qrIIPg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxutDd5_3HaXpUNO99hijB7kvUXxvZNoyXnQ30P=mo",
         "content": "Sucked dry a 70% charged phone in less than 7 hours...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3326,7 +3386,7 @@
     {
         "reviewId": "gp:AOqpTOEc9PQx_p0_O8fl8L0HaD241fUQfLysKXcQHQct3fQukHV5PuNRXUAGAHwvFtnHknaymLsi10Uy99AF8w",
         "userName": "Trent Thompson",
-        "userImage": "https://play-lh.googleusercontent.com/-0l_NH5Rffx8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZ08qAu6At0vV7l6yov_gB4tKG5A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxdbc0o97rXXV6IJGndcSXXm8tB4-nRiEPdTjW=mo",
         "content": "Doesn't work in my province (BC). It has says reporting isn't available in my area since I downloaded this app in 2020. Good concept, but it doesn't work.",
         "score": 2,
         "thumbsUpCount": 5,
@@ -3338,7 +3398,7 @@
     {
         "reviewId": "gp:AOqpTOG01SWno-eFPyE5YQfMdCJwtSrnbC_oyRgB_gmlLc6m12hmlLrObOVnuajjz5tOfWZ5-WETtUmaJV_HAg",
         "userName": "Bruce Rutherford",
-        "userImage": "https://play-lh.googleusercontent.com/-RK9WrVwFqFg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2QEfdyJCwgZPRXhvOKRTwsabRPg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw3hamdSt8uhIxNmkjRMxZJ3C-Ufm8SBFl0botd=mo",
         "content": "As others have mentioned the app wants my location on to operate. I can't update Android operating system to 11.0, which apparently is required for Covid alert to not need your location. I'm assuming I can't get AOS 11.0 because my phone is older. Too bad. I'd think this eliminates a lot of people. I keep location turned off and don't want to turn it on for this.",
         "score": 1,
         "thumbsUpCount": 22,
@@ -3362,7 +3422,7 @@
     {
         "reviewId": "gp:AOqpTOFLnNRpAL2VDQP9Vc4Fn-1ZBx3J6j5yahk32Gc8yHiYJ7coQZ3gTZthAJ3frYTDRefXFUZgrcJ8J3PWNw",
         "userName": "Chris Barnardo",
-        "userImage": "https://play-lh.googleusercontent.com/-P-f6G8VLeoA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCh_lZzy3T-wIzDJyeMPSLvuUg8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzJFKpTCCHoH2OL-a30EBqfj3LD1VL8V1SPNHgr=mo",
         "content": "Questionable. I downloaded back in september. I used to get a notification every week with a report, lasted a few weeks. Then i heard you have to check your app every day so it doesnt shut off. I used to be able to check the app in google settings, told me when it last checked, and how many interactions. No more. I dont really know if this app even works. Seems it was made by someone with little knowledge. I keep it running with the hope it is working, but have little faith.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3374,7 +3434,7 @@
     {
         "reviewId": "gp:AOqpTOF7twwbdIun59VQmKTwpt0qYBpouC-SEilXtbOzdd-tohMvwyrJWeEIanHfGq7rMWqoqxqnc8MgfzGEhw",
         "userName": "Edmund Noble",
-        "userImage": "https://play-lh.googleusercontent.com/-Q7pWCLlC33E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm5GJWHqU-HXcfVKy2gF0Mg8uBYcw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXyl6pOO3X_-Q9Cnyw2FBHPDhXXGXaGFKgGPBC=mo",
         "content": "Hopefully more people in Ontario install it.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3422,7 +3482,7 @@
     {
         "reviewId": "gp:AOqpTOG2bCuopmPYwGqOj9W2HrAQ1JYBaTq8NmQOUEO86NRDjEFJU5tWHkg6ssdMYvmdoVVUTDtPPTY4xtskAg",
         "userName": "rosey fleuriss",
-        "userImage": "https://play-lh.googleusercontent.com/-V5qoItrma8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwM65s1H_htMbf2YwZqedg13_JHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxW9h2WjAAJ1f_XQFC_En3yf3HlsyFc320dk-EB=mo",
         "content": "People who have a Covid-19 diagnosis do not all get a phonecall from public health containing the application code, even in participating provinces. This makes this application unusable by those people, and misleading for whoever was in contact with them.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3482,7 +3542,7 @@
     {
         "reviewId": "gp:AOqpTOFHF3pif4W3LOvK08DNQny7mScyhWkD4T15ZhaOaNlN4yDagUpXHcPmNmlmtO-hh0sZBxS1P5X-OAZyCw",
         "userName": "Freddy Farris",
-        "userImage": "https://play-lh.googleusercontent.com/-ZYZA1xyXtgw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclIE8q0r0p9D8ZmJQyzfgnFNBGSKw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUAWgKkKz7DYjY5DK-E2AzgbLi1VQmsB_Pb4DQ=mo",
         "content": "How an app that is designed to save lives gets a 3.4 rating and yet video games that don't mean much at the end of the day get a 4.0 rating is beyond my understanding. I can only assume that some conspiracy theorists who think covid is a hoax or that the government wants to control us have given some very poor ratings. The premise behind this app seems quite simple so unless it is not picking up other people's codes properly then I can't see what issues could cause it to get a 3.4.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3494,7 +3554,7 @@
     {
         "reviewId": "gp:AOqpTOHpN-kGFaHLyBktt8VByTGDo6XrwtAL-wJf1LjQScN0v67mB9BK1AQkr6okp6pP-M6OYAPnso8Ekfdlgw",
         "userName": "Rob Draper",
-        "userImage": "https://play-lh.googleusercontent.com/-wU8r7ZnZASk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOSEO5h1xcrCSMTJSPY1Qt4ng8Aw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzyc5oX5SHMAxY_X0HlitmUX1Ri--p8d7RuClTO=mo",
         "content": "Great app. I trust it and hope it will alert me if needed.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3506,7 +3566,7 @@
     {
         "reviewId": "gp:AOqpTOHfR6I4GqsB6UigLxkK5Rbxh60id2ZFjZX8QiPwCEvLd_UA_1yFs9iJ2oq4OwLpZP_EKb4icXrGclmnig",
         "userName": "earla de marinis",
-        "userImage": "https://play-lh.googleusercontent.com/-Q62tq66ns1M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_sHAY2k22xKFJcUp6ztY4zHXIZg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHFUrUqrjjA44xON-t4bqZAgDsSzhNk7o4KmQC=mo",
         "content": "I am a senior after shopping it is a God send to check and see if I had been exposed to the Covid 19.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3542,7 +3602,7 @@
     {
         "reviewId": "gp:AOqpTOGqyC8omUWcVpw4Zv_cPBN4YjhPeQ7JZz3LnVZXL7vUi8Ov9p0E6IxgMLzqNMfh2HqToUuW0X7Ss89mXw",
         "userName": "Azam Qureshi",
-        "userImage": "https://play-lh.googleusercontent.com/-bwALLxSkmdo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0jfhDCz3Uz0qsw-AEFnA2kmduBw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFZsC-_U-ILD0ZTexc_WmmlTiay7HcF_ktk6Rr=mo",
         "content": "If I turn on my Bluetooth but keep my GPS off the app notified me that it is inactive until GPS is turned back on. If this app isn't using GPS then why does it demand that I leave it on even though Bluetooth is enabled? Seems sus",
         "score": 1,
         "thumbsUpCount": 5,
@@ -3578,7 +3638,7 @@
     {
         "reviewId": "gp:AOqpTOGLNWqGS5KZe2bteD_rfLYnSfpN2hmDHPoF8qinBo4nslx4Xe7ZgHyapDjjZSzyYbqwYHNq39Wnl_3qiQ",
         "userName": "Andrew Harasymiw",
-        "userImage": "https://play-lh.googleusercontent.com/-NExeTfXF9_U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmF4txnAIzRq3w92IiWB0xh8NJuqg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMU2vh6AyS7o3X8Bf40e19bSMtcO1hG-bVml2C=mo",
         "content": "I agree with the importance of this tool in our fight against the virus, however I'm concerned that unless everyone uses the app we will not be successful. I feel that the government should request that all service providers push this app to everyone's phone and activate it's ability to function. Even once this current pandemic ends this tool would be useful for other contagion outbreaks. Regards",
         "score": 5,
         "thumbsUpCount": 3,
@@ -3614,7 +3674,7 @@
     {
         "reviewId": "gp:AOqpTOGhUrcr2v0MuTPoHdvHttIwPM-ItVC2AP5lnzZ7x_Av0WOc7ZYOyQcKWRYuPWXBJS6ziUxItIcrFDKz5g",
         "userName": "Jonathan Lema Hern\u00e1ndez",
-        "userImage": "https://play-lh.googleusercontent.com/-ZCVnYP1mBi8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnniuwzqG2hhbv8qv5dMe8NbTayA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzwVCMqqutRw4irjK4UWRvr84vj0ocyQckML0mI=mo",
         "content": "It doesn't work, my building is fully pack of infected people and the application doesn't give any alarm or notification.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3638,7 +3698,7 @@
     {
         "reviewId": "gp:AOqpTOH6DLLG_6L3P98M_-U9xRRNa9Z2mTMgkuP6jnPZtzeRKB7TQ4SRMHjGRgC30iQvHNMT5uP_SNfFN6es4w",
         "userName": "manu puthia",
-        "userImage": "https://play-lh.googleusercontent.com/-OC2-aLFRxfo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlt3tZmVwJFc3bm7xgFKiG0Fpj1g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwgwHyPMM5VtHEjSDxzFnmsMH8lzsvmUVqwFR0t=mo",
         "content": "This app doesnt even show any covid patients when you are in a hospital. A useless app eating the battery of your phone and tracking your location.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -3650,7 +3710,7 @@
     {
         "reviewId": "gp:AOqpTOFXP_snhiAOjcDOoO2VnwOLyHy4O7cVnIW6SQ3Ln8Sx24XQn33Z2jhOlbJNmFkQEUVaioYlJXRwDB8r0Q",
         "userName": "Ahmad Khalid",
-        "userImage": "https://play-lh.googleusercontent.com/-m4eLOUuBNeI/AAAAAAAAAAI/AAAAAAAAAE8/AMZuuclrhJ1I8oWuriBNxYdv4BVn2TqtHw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyMdU0ZNxTxvB2qI7EVqIbLicfdaAhf-ae5p4yB=mo",
         "content": "The app will only notify you of an exposure IF the exposed person puts in his code! And only if you are around for 15 minutes and ONLY when the apps algorithm suspects the individual is contagious....... literally useless, it relies on people to self report which is impossible, no one wants the stigma, additionally there is no scientific established research that it takes 15 minutes for an exposure to deem someone \"exposed\" it could be 30 seconds or less. Good attempt but bad execution!",
         "score": 2,
         "thumbsUpCount": 5,
@@ -3686,7 +3746,7 @@
     {
         "reviewId": "gp:AOqpTOGkMzDGA8PtbBhrFjX7yf0wvL1NJEtVQXaZYsczySJLYaSkZTGTdStpfzjkCiInbvg9v9-U8_jApv2IDw",
         "userName": "Stephen Coste",
-        "userImage": "https://play-lh.googleusercontent.com/-OkyUfTbG8kQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHrykRp43xFJEEQLOHKoFVUVCeXg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyGOdqVU57nMVvNN-CeopIFD22Q8ZD97ndPh7yE=mo",
         "content": "Requires the internet which I don't have.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3746,7 +3806,7 @@
     {
         "reviewId": "gp:AOqpTOHcVqpOVzc_KT9BP5ohZH7Lu_2wfMXg0UKeRnnkNDm2MdHOHeOQFiaOGdAWe7wn71aIz2EwZoVPLjHhTg",
         "userName": "Cindy Cripps-Prawak",
-        "userImage": "https://play-lh.googleusercontent.com/-aNxuNts0yiM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclR8FPd1PssjoLB8IjdUvQsL7kIzA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzdTHQfnzfM-RRIh5Jhkjphq-mIq51OLxDrYeOf=mo",
         "content": "Seems robust enough",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3758,7 +3818,7 @@
     {
         "reviewId": "gp:AOqpTOF5F3ees_Hk4317BzEx76ADOJTGnnRobbkRP_PW-uPRoY4H0BeT6ZtJHJkkLylqA9EU4iJf6m3yx1upVQ",
         "userName": "Bobbi Brooke",
-        "userImage": "https://play-lh.googleusercontent.com/-tHeBz3ES5DM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnH93wsOKKWBjF5SA5wfsuaAO8vwA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhCjl42rGXheVwDkuZDpm7HD88VoxHaSjncvWS=mo",
         "content": "Great concept. But 2 things...I wish I had known about it sooner...how many people would comply if they knew it existed. More advertising needed. 2...I never use my location data. I don't believe it's safe. This app should be able to work without it when its bluetooth connected. I read other reviews that said the same, and the answer was it should work without it, u just need the newest version. Well I just downloaded today and it wants my location. I'm not comfortable with that.",
         "score": 3,
         "thumbsUpCount": 53,
@@ -3830,7 +3890,7 @@
     {
         "reviewId": "gp:AOqpTOGwB2N8idqYJb7inhBNAIsT-kALXG9AtFukSMCwvwG_qvRd3lKoOx6zo_w7uGX9t7iAr9NzQU4DFcTjnA",
         "userName": "C Ehart",
-        "userImage": "https://play-lh.googleusercontent.com/-OuD48o538D0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBcHFTcDq0eKGLXaLqwn0v69xWxw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzI8sLpElCydEzj-TjdybBRyFyxIEFKlFmHUGZl=mo",
         "content": "Just a brick app that uses your data and drains your battery ..how is this app going to be accurate people who are suppose to self Isolate probably wont be using this app .... because they are dishonest anyways for not self isolating... its a complete waste of time to download",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3854,7 +3914,7 @@
     {
         "reviewId": "gp:AOqpTOFZ4V69NY0H3gr7rBepeoS3VBCkc2ByXxHs8Rb9LdaIjWuaJpZJEcLsZl52TCSzHb0xtheIQwyRl1X7nQ",
         "userName": "Ron Hinch",
-        "userImage": "https://play-lh.googleusercontent.com/-K_ZEDKGLU7Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnTtvaijvN4nuDgo81s4NooEnXvrA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJziPfdyJswO2hl8ZfeO7KBLn6YLHn_yYifOmECo=mo",
         "content": "The app allows me to do a daily health check but nothing else. Does not Alert me to any possible contact with infected people. It says it is not compatible with my device SM-T387W. Since this device is my cell phone/tablet the app is useless for me.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3866,7 +3926,7 @@
     {
         "reviewId": "gp:AOqpTOGXuTeAa9GSOJFyGi0xPw87bK8CjbFypdPZ1lL0BrHlc-oF5SoySx2cNS_aCrdCbr_6L7RaEX_QzYV6BA",
         "userName": "Gary Fitkin",
-        "userImage": "https://play-lh.googleusercontent.com/-LaJrt3gIOZE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucle_QUPNYR1_-fV_4_fxjc-NvP5bQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKZaqHiT_ncwM7QUF4pl26NS6Q-Q27Xix_UVE-=mo",
         "content": "Good",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3878,7 +3938,7 @@
     {
         "reviewId": "gp:AOqpTOHUrxdjzrP4X-Qj8-O5-0N9q7PCYGWP9PuxbjU38tmHQpJ6vN0-mGP_A0Hszt3T1iqzWHjib5boYum_5Q",
         "userName": "Di- Raled",
-        "userImage": "https://play-lh.googleusercontent.com/-c0rTTnDIvoQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOZgu-yJgvelalEt9__UBRVsADng/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwa5aQTPKT-FPmGgJ_F9z3tJ0jCNv2DpdpReoCS=mo",
         "content": "5 stars just to boost app. even if its not perfect, or the most ideal, its the best we have. improvements will come as time goes by. this is a horrable situation our country has been thrust into, we all need to do our part to help. get the app, its not a step in the wrong direction.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3890,7 +3950,7 @@
     {
         "reviewId": "gp:AOqpTOFMCisAvTov6P67UMabJsVtHzU6fyGUGEzkfVD2jdGcrxvg39o4unIkoaempQXcsar4qRfciDGcij7hBQ",
         "userName": "Gary Steffan",
-        "userImage": "https://play-lh.googleusercontent.com/-pCwnAXXj2II/AAAAAAAAAAI/AAAAAAAAABA/AMZuucnGvPbACY7XIGGsZ-31JmCpLT72bQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJymmmWCsnAmq02ayujYnzWKkJYbvD9IR4urYiex=mo",
         "content": "Where can you get a covid19 app that you will get a ping if you are in contact with a positive person in the whole of north America?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3926,7 +3986,7 @@
     {
         "reviewId": "gp:AOqpTOGsgRaivTGjD0quoVvHNkXyh0soMrwuMLUwxsabZreRfGqTnuRJAy_27qOLLKKdzT6PyhnkeNe49TvaJQ",
         "userName": "Guy Incognito",
-        "userImage": "https://play-lh.googleusercontent.com/-ZH5RPkAWMqQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCkPxp7j7GMhhgvnfmW_ih_EgMzw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJynYkNXbQyLy9yhGEZqsbpQ8m3IN9J9xJYo7Npa=mo",
         "content": "Just writing a review to report an issue. My phone stopped doing exposure checks 3 days ago (4 Jan 2021). Looks like that coincides with an update. I think something broke. Running on Android 8.0.0",
         "score": 2,
         "thumbsUpCount": 2,
@@ -3938,7 +3998,7 @@
     {
         "reviewId": "gp:AOqpTOGIGYMTWDAZAcgkl4Vp4Di1o_YJZaSJUZOTOj_Grrlo32Xw33i3ECEPXAdcBYBEosV2m_dSBzS8ONbivw",
         "userName": "JDK",
-        "userImage": "https://play-lh.googleusercontent.com/-Uab_SE4HytY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckaW5G9kr-6balkMyqqkd_DC143qw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx4jZA98IBfaFgTOcvCENm08ercX9WXGIxLpCH_=mo",
         "content": "I see a comment from Dec 30th that the major flaw is that location settings need to be on. The response from the developer is that the user just needs to update the app. I just installed it (Jan 7th) and it is asking for location settings to be on. ...Not sure what the developer means, if I don't turn on the location, the app will not run.",
         "score": 2,
         "thumbsUpCount": 6,
@@ -4022,7 +4082,7 @@
     {
         "reviewId": "gp:AOqpTOHXhs8J2x6kIZ5NVo1ewP2v2aRyXrBmji2eG2xv-tpidQoBxzBXyqr9VgYy-3W_Q09Oj8YF7-FqpxpwUw",
         "userName": "saeid khanjani",
-        "userImage": "https://play-lh.googleusercontent.com/-VJx5ayo2xmo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclsP9l6u8bWtJjgJB0z-ZR5USUbvQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDhMlcgIJWwXmWj9xfeOwc-sPoZkaopoPpdo-m=mo",
         "content": "\u062e\u0648\u0628 \u0627\u0633\u062a",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4046,7 +4106,7 @@
     {
         "reviewId": "gp:AOqpTOFR4_TmDa0UDSlDKnlY4ct5ntebpXyLzKBkfRN9O0Z1fPzL_u7WCh7YwnjpbJmDi_J8Q-LwWaJmicEHFA",
         "userName": "Alan Rawlins",
-        "userImage": "https://play-lh.googleusercontent.com/-wW14kbvAAo0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckPT80x1jAD56n8LpedO19uIyKRjw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwApOBrBdHPIYIxvZfWMOYc2spSN3tSHAs7FgYi=mo",
         "content": "Cannot download the app, have tried all day. The problem is not with my phone as my wife has the app on her phone which is the same model, version, etc as mine.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4070,7 +4130,7 @@
     {
         "reviewId": "gp:AOqpTOGRn5GL1Hn6yEf9HmjQhF7So-eTBsvrZLprEx82I8HUiZGXeaku-rde7selp1P5xPQaUzUt_KQ5zAWE1g",
         "userName": "Fil Esposito",
-        "userImage": "https://play-lh.googleusercontent.com/-pL7QWNq6O1A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn-vslmjRk0nCVwHilxPGDAVMFSFQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzj1LpZusB8lU45zo2QOOuB5GVbe3nZ_Vk0p-Za=mo",
         "content": "I dont like the fact that you have to keep your GPS location ON in order for it to be ENABLED!",
         "score": 2,
         "thumbsUpCount": 2,
@@ -4082,7 +4142,7 @@
     {
         "reviewId": "gp:AOqpTOHTfepwlI1On3TiUqd7ctGlihehlUBTQ4XTcscFY2gM75cI76V1er3HKHwkBG-d2t3rCwej8YcOzgb0gg",
         "userName": "Rejean Beaulieu",
-        "userImage": "https://play-lh.googleusercontent.com/-nHZTO9T66EI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMPDN80j2K7LPPuxzEYiAfCARd6A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxja-Oy-DSDLwupVeyhUoBFdkZfF40e2pd8k9WD=mo",
         "content": "Usefulness most unclear in the absence of useful adoption&reporting stats in a given area. No social distancing capability either. Better to prevent than to cure? Not having been seriously ever field trialed explains a lot imho. No end in sight with these long overdue negotiations with BCH two weeks away from xmast holiday does not help. No new features release plan either??? Let's hope the vaccine works and we can get there. Revising to 2*s as CDS is actually revising app based on feedback.",
         "score": 2,
         "thumbsUpCount": 14,
@@ -4106,7 +4166,7 @@
     {
         "reviewId": "gp:AOqpTOF8JVnPhUb5EeTc-EDkqU42katK8XOmaZiqp3IspG6gKbyp4DXmcwtb_HBOmPVgxcfix05_Rsd8yjj9Yw",
         "userName": "Denis",
-        "userImage": "https://play-lh.googleusercontent.com/--HOR7Mog3k4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0WO_yQvyfe_HLiMUvj34uStVxRQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyjLNS6c_1VY-eZENOnwowCJ-GFnCVV54iIYoUH=mo",
         "content": "Useless, not implemented in BC. Taking several months to implement it isn't deemed 'quickly'. 2 months after their reply...still not implemented...why dont you just force all provinces to use this instead of waiting on them?",
         "score": 1,
         "thumbsUpCount": 5,
@@ -4142,7 +4202,7 @@
     {
         "reviewId": "gp:AOqpTOE1Kr_BZsYfjZlU-YhcrmdTl572Z5Y-MxDqzVq0h3WZfKeoQYqpOhculcFwTez83_xOoZCil24jTDda-g",
         "userName": "Keith Hudson",
-        "userImage": "https://play-lh.googleusercontent.com/-oYMjiNA-uwg/AAAAAAAAAAI/AAAAAAAACxc/AMZuuclA0QKVdPvWMqYPhCO1xzIiWfWJiA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxzGWfNXsJwAYJzIcCtGHWmTG1rdQ_9XVYeZ12zRA=mo",
         "content": "With other countries deciding to recycle contact tracing info into other uses, uninstalled as a precaution.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -4166,7 +4226,7 @@
     {
         "reviewId": "gp:AOqpTOE8iCUGXtI3dBO5lddjLzXr45eH8sa6uYlS5AjChUzstfqhhbgMCJ2DCvv5QA9xQbq7vytWYEeKC022vA",
         "userName": "Bud Cronk",
-        "userImage": "https://play-lh.googleusercontent.com/-Tk7Hu4Q5U8A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3nMTSfuvj_GKWa-KL4T9MfoZ4hw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxLkDWUjO4uYueFaQ2P_VVYy1Fx6nuRmcxRpch4=mo",
         "content": "Says not available to work in my area, BC, if I change it to Ont, it works Update, still 1 star, just have it \" perfer not to say\" to make it work in provinces that is not active for",
         "score": 1,
         "thumbsUpCount": 3,
@@ -4202,7 +4262,7 @@
     {
         "reviewId": "gp:AOqpTOGO6cFjeTKicqGRMoo6DNkXore5eLI01ygHJmdnIv2UJPLtFpRlG2FE_lTthRg8eZlZRqndBiTmsI_HPg",
         "userName": "Ryan Powers",
-        "userImage": "https://play-lh.googleusercontent.com/-QhZdsC1YHPQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbUnueoQo6zka8AtJvCbE_WMKIqw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxM6MkLKiTcY82hsqirHrgR9InYexY9dBC-Df6v=mo",
         "content": "No tracking yet you need location. No thanks.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4238,7 +4298,7 @@
     {
         "reviewId": "gp:AOqpTOG3e33ElwX-xXLzBSgFTXLyeENyQoqiJq7ovk2ynlwE1-j4WGUjBA1UIQRwoCFINFJQieXarPzaWXhi9w",
         "userName": "J T",
-        "userImage": "https://play-lh.googleusercontent.com/-A2C3vO9hGfs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmdKPLP_27YjKS5VvTVAHR6YT7mCg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx_gGTFlLFFpxfe3d9uDb1naA-MJHfc2JquwpSl=mo",
         "content": "Great concept, but I'm in BC and have been waiting half a year for the app to be functional in my province.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4250,7 +4310,7 @@
     {
         "reviewId": "gp:AOqpTOHKixaMHgCVNBoHFZPGSmeqrk2doOfbLhmAV4IwbBEuVlUGCiaFSOqY0vnRA8aEYjA-q338qNI6SUNaWA",
         "userName": "Warren Srigley",
-        "userImage": "https://play-lh.googleusercontent.com/-BvJ7knZK5Dk/AAAAAAAAAAI/AAAAAAAAAnE/AMZuucnlIdlUD03K0ShpuuMt2WGFg_X8Gg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyG2-tTDqm70G7QJ_7BeDV2GlNNA1FzG3QMof2tGg=mo",
         "content": "It just says that people in my province are not yet able to report cases with this app. No further information about when or if we ever will be is provided. Given that it is already January, I suspect this app will never actually work.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -4262,7 +4322,7 @@
     {
         "reviewId": "gp:AOqpTOGhPH3zINBWx6OWPZI1w1rKjAzhH3_pP85tS6nfoSOzHScwldZK4aYmvo41R3CXWKmwUiy-qlT9aRHX7A",
         "userName": "Connie Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-Xi3lqDzMfAs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqQqguZBlvr0pXXLKQ6ore0Qj0Og/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx5ff5m_pxaZBP83HF64RR8lQ2NuGFMwvSeELqS=mo",
         "content": "Seems to stop working without notice. I have to manually update the app when it does, but I'm never sure when it stops working so the tracking isn't reliable.",
         "score": 2,
         "thumbsUpCount": 4,
@@ -4286,7 +4346,7 @@
     {
         "reviewId": "gp:AOqpTOH5mYnPVzLzVUrfhuL_WIGohlHkQgJMj9IFUfQL5T4ki-vhCvFOoeLcY8TcxyThFpY9zLPbcfTgwXHehg",
         "userName": "Brennan Mcgeoghan",
-        "userImage": "https://play-lh.googleusercontent.com/-vrWozaC0EhE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQc8O2YDNneh7T3bqBiEDhsox86A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWlUWVV69bdSUJXJAS6iaufvexM7T8TDwUM1HE=mo",
         "content": "In your ad for this application you have two people who live in separate houses but they visit each other on a regular basis. Isn't this contrary to what the Canadian government has been telling the public not to do for nearly a year? Shouldn't you be sticking to the message that the government has created?",
         "score": 1,
         "thumbsUpCount": 4,
@@ -4298,7 +4358,7 @@
     {
         "reviewId": "gp:AOqpTOHyezDpgxbMXLejjewEweoGzR9h8fTlvIYShpSOXc3K4TJwalSfp6YTYypsUfsUYiqenbxxPqojD33n0Q",
         "userName": "Rick Dewitt",
-        "userImage": "https://play-lh.googleusercontent.com/-UDeZI33f2T8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRn7CP3L_WfWtc7EcZr59f4pYZiA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx_gm15emIney3tx_KRIrwmiq1Rrj2Xoo8F-U-d=mo",
         "content": "Do u have to keep your data on ??",
         "score": 3,
         "thumbsUpCount": 1,
@@ -4346,7 +4406,7 @@
     {
         "reviewId": "gp:AOqpTOHT7mJMLq5ow_Z_V5Kprt0X0z2o3OXOypwfn90oiGI5usXVbYNjfuUHVRnVBt1nKbuX-EP6RQ1BRorZjg",
         "userName": "Mr oldpeach",
-        "userImage": "https://play-lh.googleusercontent.com/-ywF5NZgJhxI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckxjkFv8yIoQ1Yb7wMafAxHqkMYTw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzt6LWrPuA4iA-BeBaqWv0TGip16wc9Y2bqZFHT=mo",
         "content": "I'm glad to have it. But.. it is limited in its use as we can not put it on our older organizations iPhones which we have, numerous model 6. Requires higher iOS version than iPhone 6 supports",
         "score": 4,
         "thumbsUpCount": 0,
@@ -4442,7 +4502,7 @@
     {
         "reviewId": "gp:AOqpTOHvZyTeFcwXL1TOaEabLRdin17wBFjNSp5tCEBUHqPv2wzoI1dpjgoEgl4khhdCnnqL17c_J-N6vAaNnA",
         "userName": "Geoff H",
-        "userImage": "https://play-lh.googleusercontent.com/-8FydlDJPrJY/AAAAAAAAAAI/AAAAAAAAADY/AMZuuckx2aD6zEguU3hujQEsgRMvzpiWgA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyCKifAx57D70LyY_3SpTKiY3RKpBo1x3haXX9A=mo",
         "content": "Update #2: The app finally appears to be working properly. Exposure checks are happening 3+ times per day, even without opening the app. Update: I spoke to soon. The showed exposure checks for a few days but stopped on the 28th. After I opened the app the logs showed a dozen or so checks in the last minute, but nothing since then. Is the app just not uploading IDs when it's closed or is it not sending out bluetooth beacons as well? Both situations aren't ideal but the latter is very worrying to me. EDIT: The problem I described below appears to have been fixed. I now see multiple checks per day, even without opening the app. I'm not convinced the app is checking for exposure and/or running in the background. The exposure log (settings->google->covid19->exposure checks) only shows checks after the app is opened. If I don't open the app for days or weeks and check the logs again, the most recent check lines up exactly with the last time the app was opened. I tried uninstalling-reinstalling and saw no change in behaviour. I've read that the app constantly checks for exposure as long as there is internet access but that doesn't seem to be happening on my device.",
         "score": 4,
         "thumbsUpCount": 30,
@@ -4466,7 +4526,7 @@
     {
         "reviewId": "gp:AOqpTOGuHT42mY0HHkYBf32kvZ3ioa8GDpnWFIhqBL5b-T8o1pkB6iD_fqsXDT99jFSqtRzYoVqHhoo5gQMJJw",
         "userName": "Matt Sadowski",
-        "userImage": "https://play-lh.googleusercontent.com/-gibfwomRoc4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmNxfK-6FAtBL0yytrZ3f0PdNvZWw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZJwf3tEoUYL4tlX5h9JtT02U4BPjyJ1535Acz=mo",
         "content": "If we all had this app, COVID would be under control",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4526,7 +4586,7 @@
     {
         "reviewId": "gp:AOqpTOG_t9SCbMGYyOVe7-VHal_-9q0HeNF8BwCKVTu6kn_1eo7D_2F3dpn6it5jDLe_jP8JyocixQxdM5Pxuw",
         "userName": "Ken Morris",
-        "userImage": "https://play-lh.googleusercontent.com/-_bNWKR1cuQI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmUYx7nBzlcFHOfthV9n2SIfvG34g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz9S0dstyNxeLrk0XtSBEqUDuQzQpCW1brGNHpa=mo",
         "content": "In early Dec. I wasn't able to show any scanning other than when I went directly to the app and it showed only the same time for scans as the time I opened it. Updates to the OS, around the 23rd has fixed the issue and I can see that the app is working as it should be. Thank you for your response. Thought you should know that the OS update resolved the problem.",
         "score": 5,
         "thumbsUpCount": 28,
@@ -4562,7 +4622,7 @@
     {
         "reviewId": "gp:AOqpTOH5c8QMT2Q0AnBhRGsk9ee9tEDYlJvNfPAP1YqIvdBFOylp7R50kmo_Rq0boGj13dby9UhvPPVA09aUaA",
         "userName": "G. P. Hayes",
-        "userImage": "https://play-lh.googleusercontent.com/-q9vdqoRm8oc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclgAkxJbqFeM-hVrtZLB5VRDMif_w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzON7FXnhZff8ls2scrvq5WmU4LEigFYkVn8GoF=mo",
         "content": "App says it only works when connected to the internet, but I am only connected when I am at home. The app is therefore useless if I go anywhere! I quote your app when I bring up the screen while I have bluetooth and location turned on, but am not connected to the internet: \" COVID Alert is offline COVID Alert only checks for exposure if your phone is connected to the internet.\" Please revise this notice to indicate the true operation of the app using bluetooth.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -4622,7 +4682,7 @@
     {
         "reviewId": "gp:AOqpTOEU8g5IKjfRWMHkRimjZtbct-gnh4r8DNi2jug9DUSdxpcK-2un5jIWFvP_XsoK4kIfZEB_Sxomr2p0Xg",
         "userName": "Scott Jamieson",
-        "userImage": "https://play-lh.googleusercontent.com/-WlvR_SWJUHY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnS1E0-viA6AQdnUQw44j76CwsMHQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-YVKnamba5TItis7z-zM0B1e-pyH19eNhESOT=mo",
         "content": "Tried to be a good Canadian but the notifications all of a sudden are stupid. Everytime I look at my phone.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4658,7 +4718,7 @@
     {
         "reviewId": "gp:AOqpTOE7wcjjj8QSGhJLOhVLi-ZfvHRXx38fPzeK_Q4_eBVOKSJSlpQ10rGEP8YpQZPvEqU7EUtEfbOGQ6m2Zw",
         "userName": "Christmas",
-        "userImage": "https://play-lh.googleusercontent.com/-R7by974U730/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmPMooA0fTT6AJPsCf3GZPCLJHuCQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwwu7f-lN2t1y8MHEXM1RHNUhoT_WhUm749GDf2=mo",
         "content": "Doesn't work in Alberta, doesn't tell me why or anything like that, just collects information :/",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4718,7 +4778,7 @@
     {
         "reviewId": "gp:AOqpTOE-ljWVOg8IYdpV9uyvXyTh_yEf0d-x3WjhySb9KQCywcV1ZbM9KIFFd1SzbwOMuF5IE9y_icd2__dsuA",
         "userName": "Andrew H",
-        "userImage": "https://play-lh.googleusercontent.com/-LJk_QvTF-aY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCRM2KP0CWcrfqlQDWuaE2OWNgsA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyMX2SE4eD6dsxETm4CzkMz53WlXyj-HMS3NZAk=mo",
         "content": "Only problem with this app is not everyone in the country has installed it. It is almost useless at the numbers installed so far. Although I'm glad to see people tentative of anything produced by government, I don't understand why then such a large percentage voted for the Big Government parties? People need to think through their conflicting beliefs and actions a little harder.",
         "score": 5,
         "thumbsUpCount": 11,
@@ -4742,7 +4802,7 @@
     {
         "reviewId": "gp:AOqpTOFJelVfDut_jte8YV19tvLQeKyEx-pSkzPSeirG1KS3P5gqhxUU0jxgG2gFIvs4ixemmCdURNtGM-VAyQ",
         "userName": "julius Bangojr",
-        "userImage": "https://play-lh.googleusercontent.com/-zfBV3ypj7sE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclRmjq_t_ZZPie57sFNLGNspkLQWw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7KnyNnV2W1saB7FYhlTb0HC6SK-84yDu5ys8z=mo",
         "content": "Question? What the hell is wrong with you folks. Just saw the commercial for this app. You making it fun?? What are you kids? If you want Canadians to see how your covid19 response team thinks of this pandemic, Keep it. Stop screwing around already. And wasting money",
         "score": 1,
         "thumbsUpCount": 8,
@@ -6110,7 +6170,7 @@
     {
         "reviewId": "gp:AOqpTOHC-EDNi7VoV3gVeYhBftX_ZY81Mixpk6Bf9C72XKUlUpe6rlTxDmtOAVKKnxbA4sSkTLnLLCZ9Nc5Sjw",
         "userName": "Derek R Tremblay",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsirEPVQIJxSpOsERLr31l461RBTiYa1cssoyrjQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjbdj4BaO4OYTmZMbWjvz8PTccAuHULyooLMOZ80Q",
         "content": "Space",
         "score": 3,
         "thumbsUpCount": 0,
@@ -7166,7 +7226,7 @@
     {
         "reviewId": "gp:AOqpTOFvvKRXdm_1ts8hovSqiutkcsmJQaYxTHlwOV2fSsTr0q8lCYfuaWkIPZCXsAYASQPJ4EODsQydjPDI3w",
         "userName": "lynnette kraley",
-        "userImage": "https://play-lh.googleusercontent.com/-PKtgDBrWuQQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmRw96XaTJVHLIL1ZYWdmBiUgDyfw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzg1lX186xsJ9UiB88bay8l6AVCqwKRnMohpush=mo",
         "content": "So far, we arent even allowed to report diagnosis in my area. I'm pissed. Justin Trudeau said it was the next thing to God, and everyone should have it. I got it before he was done talking. It's a useless app here in my area of Alberta.",
         "score": 1,
         "thumbsUpCount": 7,
@@ -7226,7 +7286,7 @@
     {
         "reviewId": "gp:AOqpTOE7nQBxRHoLKjM3DxOk66e87uceOpw0hNruH-vUdeNsXSun4hGKHAPUJyPHksA_5E3jQTNlvR8EWRE1qQ",
         "userName": "melinda titus",
-        "userImage": "https://play-lh.googleusercontent.com/-KtWZZngjoMw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck61aoYQaIrRZ9-MLBTVYZQ0PDbrw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwRsengOSrenXl2pazD3AvZxy3j-CPU5Bzw8B4B=mo",
         "content": "Goodly done",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7238,7 +7298,7 @@
     {
         "reviewId": "gp:AOqpTOEOSOsyw6SiEFJLocSwIDkZu90Nx2-6UbMfq8FsrrxUlbNdjwADBwBgREpLT0dMKq7rVDaDaaWESGs4UQ",
         "userName": "C R",
-        "userImage": "https://play-lh.googleusercontent.com/-F_rEvaOJCa4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckLV9sLuZo_5T8gfHV8uWpmZIUxAg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6VG5MZ9PzhhpThHxJ908Vmq1vOnjVEWpA8eiK=mo",
         "content": "If only the Manitoba Government would endorse the app. We're dying here. Literally.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7274,7 +7334,7 @@
     {
         "reviewId": "gp:AOqpTOHKdSKC6VnnB1WLMQZNIk0SrIMOePgk-8TExpxgiUEQY70WpATLmp44oVhJql3MgFC2w9eVCeGPTaFWDQ",
         "userName": "Rebecca Tremblay",
-        "userImage": "https://play-lh.googleusercontent.com/-aiQSjaldzzo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnI-tqptU_t8ezFo7CljoF-RSpCDQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzzQgQHmx85EHZfX2mTNuZmorS6kaZuPwMu6ztE=mo",
         "content": "My partner was diagnosed 5 days ago and input his result into the app at that time, and we live together unable to socially distance properly. The app took 5 full days to notify me that I have been exposed. Feels completely unreliable and useless.",
         "score": 1,
         "thumbsUpCount": 10,
@@ -7370,7 +7430,7 @@
     {
         "reviewId": "gp:AOqpTOFWe84Ng6ub81mLI4Hb5fPDs-OvVEoqdvMM-oAn_s6K3DTX3seHPKGYf1KXkVgogdifebv0yNvCtk9SEg",
         "userName": "Cathy Suignard",
-        "userImage": "https://play-lh.googleusercontent.com/-Yg-2MMRfxUU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-V8nkFdPgmgIf0OuAQKPfER4qTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwvfrbKLoE6DcYDjPQRDa__4yVcWXYz5U2GCKz4=mo",
         "content": "You might need another approach make this one work",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7442,7 +7502,7 @@
     {
         "reviewId": "gp:AOqpTOHUKvkP37mXPl-UdRJHwUnyA1v2HOPkUdW-G5Pu4s0A_yJVgcSUVUPxauCQaVNzKs2HyTBBhvRPM7v-Mw",
         "userName": "Kevin Phu",
-        "userImage": "https://play-lh.googleusercontent.com/-VTtopAje_M8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm38kfzre7BuO-yl_CaKjA9GlV4NA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx1giE2LuWRC2kQREMzKDvaJXx5LMXIVBXd8Lfr=mo",
         "content": "It seems to have stopped checking nearby phones entirely. Reinstalling did nothing. I've gone from getting hundreds of exposure checks over two weeks to literally zero.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -7526,7 +7586,7 @@
     {
         "reviewId": "gp:AOqpTOFhr2MyJVXgP69ugaCDil3g5steWHIYE7jXK5VVGQV5wXk5DfoqEJKEglB7VwuDri7yntOyIqs2A_YA0A",
         "userName": "Frank Bell",
-        "userImage": "https://play-lh.googleusercontent.com/-Watmckr61d0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_W7I5s-__ZYEizmzu9T73GLwg6Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyu0Q-iDYXz1arnpOhjYHrT7zPjfg486pJ_x7Qe=mo",
         "content": "This app is the best app I have ever used to see if a person has the corona virus and more people should get it.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7562,7 +7622,7 @@
     {
         "reviewId": "gp:AOqpTOHnsr1vXLWXupDc4Dualvdbrl6I4-TYj3H23spMMX4VvJBou4sWL9EiYhEYRpzWFh6nMfWreIOWau_Efg",
         "userName": "Trevor",
-        "userImage": "https://play-lh.googleusercontent.com/-vOioCmHb-HY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm6_K_2ybVLILDGjZefPuEYEihp5w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJynrHxDbcxzbPvAciEmktw6iAzYE9BwD1zLEJ5X=mo",
         "content": "The app is full of it",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7598,7 +7658,7 @@
     {
         "reviewId": "gp:AOqpTOGL1ZkuVYzWuE8w0BHq_3hFaItljuhse2_KRohzRAFnKxshUoLUphZ7JvaiFWY_Mtp4lvIudBfdp6o5HA",
         "userName": "Bob Ancel",
-        "userImage": "https://play-lh.googleusercontent.com/-hnUa7vFWw_U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclmFL3Ct3d09jXzxm-gHV2yqWVlTw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyt-ajIIYDI1iS6vV44DSzTSMCLKUm2pEd8gB3F=mo",
         "content": "Just started",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7610,7 +7670,7 @@
     {
         "reviewId": "gp:AOqpTOFA3ki6KGXnlVObi-F23gKIZQMm9z2PiC_YOKnSnwbnc9h4I8ESETrkDB0lITOlRQWPSHURZjehPC3LQQ",
         "userName": "Jeff",
-        "userImage": "https://play-lh.googleusercontent.com/-pqN3QKrbqKg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkUMb6zcF28fth_Fs0Zt8rcHRelA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZCiwRFHDYK72cFhwIN52sWQeoCe2cp96sU9AC=mo",
         "content": "Since latest update, has been unable to check for exposures in 2 weeks now. App is no longer working.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -7646,7 +7706,7 @@
     {
         "reviewId": "gp:AOqpTOGQgQkxY8GvrnhNDlC74LlK2SRMvbk2kNWO6KjV5m-FNU2gkGAMb2_ata5LIhj9sq_MQRkVFJS4xUND7A",
         "userName": "Mary Steele",
-        "userImage": "https://play-lh.googleusercontent.com/-CQr63CM8eCU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnAhfwqUj12YPj-M7_B3fg8o1nQZQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysoDkLTrQ_pbA01-LEu1nju8kUyJllcDxnGI2E=mo",
         "content": "TRUSTING THIS APP IS 100% EFFECTIVE!!!! GOD BLESS US ALL!!!!! THANKS VERY MUCH!!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7658,7 +7718,7 @@
     {
         "reviewId": "gp:AOqpTOFbqtuuzdCuPiOk-h2X5zrGGmBR2xb4VW6quxDViq-a5mI7XN3g_0RUqPc5KLIzxfl3I6ua-9aWBkJswQ",
         "userName": "Neal Hughes",
-        "userImage": "https://play-lh.googleusercontent.com/-eBD09co-nzc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck53UQQZ9l9xkUXxi4stnGjcxD0Pg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxIk7Lr-mEeMYeq8_8kEF4BDXikO08yME68faCY=mo",
         "content": "Doesnt check for exposures often, maybe every 5 days. Uninstalled and reinstalled, still cant get it to check. No point in everyone having this app if it's not going to update at least daily!!",
         "score": 1,
         "thumbsUpCount": 3,
@@ -7706,7 +7766,7 @@
     {
         "reviewId": "gp:AOqpTOGC6FATsh64WJ5HpkzA2Mr48gNBxWjHGKS1mD18EtuMU6Rw3_wG3xI5lUX08SzdSrj8V-LueFtRTl6DYA",
         "userName": "Tom Ordanis",
-        "userImage": "https://play-lh.googleusercontent.com/-qi99uXhJ6Ts/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJF4rU0Uk0gJ_EAOaboBad4LLzMQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw5l15ECX5FiSELMOGh2YfNKHrYTHDDfjLvAoCW=mo",
         "content": "Display of this app should be your pass to enter any and all facilitis and not limited to hospitals, doctors offices, stores, theaters etc. No more need for lock downs.\ud83d\ude01",
         "score": 5,
         "thumbsUpCount": 2,
@@ -7718,7 +7778,7 @@
     {
         "reviewId": "gp:AOqpTOGscAsMZLBlNtZSjQHVUjrpcpm7uVm3PTTirhroehu2lmTn29DSbenhFwFyP_hD8MxmkiBkWnS1uRQqHA",
         "userName": "Andrea Sierra",
-        "userImage": "https://play-lh.googleusercontent.com/-xtjrk_n_gz4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmd3u09J289zpeHz90N23h7_8-XkQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzCL2S6QHx6MIV928CRTQT50QquljXgxGhQw3kJ=mo",
         "content": "Husband tested positive, we're both quarantining in the same household. It's been over 24 hours since he entered his code into the app. I still haven't been notified of exposure and we're living in the same household. My Bluetooth is on and everything is working. Seems like something is broken. 48 hrs later, I'm tried entering my key and I got an error code and couldn't continue.",
         "score": 1,
         "thumbsUpCount": 46,
@@ -7742,7 +7802,7 @@
     {
         "reviewId": "gp:AOqpTOHQY3_PDcsUrAWV-O8FR4T17sD0wyLsLIeo7BmJc5Lk0UKpJ6d0wt42sQIu8BP79xzNP3tsCBCJhANv2g",
         "userName": "Blair Beed",
-        "userImage": "https://play-lh.googleusercontent.com/-82PO3j5APiI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnS0clWnR1oMma3cVC0gVxAzySVMg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxtSqk61QvJSFmKzJ_KLhgw006kRSbT3faWRIPf=mo",
         "content": "Well will not install advises me to disable messenger not tech savvy Makes it frustrating",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7754,7 +7814,7 @@
     {
         "reviewId": "gp:AOqpTOFZH4BnPa3GPOS-v2XZdi6C7-CKmXVT1uMPOMnmf0fvT58kaY9LXPoGT517YZ0kTxOSpzD4lGwFZZyvJA",
         "userName": "David Barron",
-        "userImage": "https://play-lh.googleusercontent.com/-y7ZyGgJm6I8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzoxZAxvxJxLYsivheOJyXgk1lOg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwqU7Kmv2AyPdQpttAJp7g54L-4pwyfmIOfpTjr=mo",
         "content": "Does the job. Great community based app.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7826,7 +7886,7 @@
     {
         "reviewId": "gp:AOqpTOEGP6gEmK-jgdeEiWgSsoMSwXOBWd2SnTsfXyZv3b27hXirvlOeIieVW1NzfWzHJvzyU52QlAax2ktB_Q",
         "userName": "Matt Mbw",
-        "userImage": "https://play-lh.googleusercontent.com/-kScQTUl2DcM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHu0ngxaDrwsjdFTpxnWkN0WcczQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx8UsV6M0mys6b4XEi0SQ2adMocJ0mvOT6sT4Ta=mo",
         "content": "Tried to download. Its been spinning for 24hrs. No success.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -7874,7 +7934,7 @@
     {
         "reviewId": "gp:AOqpTOFbFinuJsYtOBn2pp5s4YYGnOoZzvbe6fNyn2Rl4O2cpSvd1wydWwv9czoMivIISaCV_h0wKGJcD8kh9g",
         "userName": "Elie R",
-        "userImage": "https://play-lh.googleusercontent.com/-GF5SrMpM7ec/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckzdaP4CmrLKHmlNk12kLaA3Q_yRQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxOEho8DRQwaDTbgEixxuUxSmtDuwI51gIqAe5G=mo",
         "content": "Find it hard to give this app more than one star, as it hasn't made a single exposure check in 10 days (since last update). Prior to this, the app was sporadically missing 1 or 2 days. I had reported this issue to the HC CovidAlert team, along with my logs, several weeks ago. They suggested that it might be a connectivity issue - but my phone is not having any connectivity problems whatsoever. Obvioulsly, the most recent update has made things much worse, with 0 checks in 10 days.The idea behind this is great and I totally support it; but the implementation leaves much to be desired. What is the point of this app, if it doesn't work?",
         "score": 1,
         "thumbsUpCount": 203,
@@ -7910,7 +7970,7 @@
     {
         "reviewId": "gp:AOqpTOFAl8J8IVpDTi4hurlQacYFk_tNP2aH0avLTS9RtK0kFZ4DJQgaN3AvH45Oz-2koHnK7NChQ_kwMe4f9g",
         "userName": "Andrew Margherit",
-        "userImage": "https://play-lh.googleusercontent.com/-0n4gG4JXc5g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbsSMZHiYJEM_ivtrt8yYVMEiQ9Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwHbeiCLLR3V6uHShU3BAwUBGpz_Cq0gCChxMv-=mo",
         "content": "What's the deal with this not working in Alberta?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -8005,7 +8065,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFyhJinJXbsxZVC9IH33y0o8NQh3xho-dU4R5VpmIc_mhzqG7sP0JKZ63KKnqeAysqESw_B6zwYJkfgpA",
-        "userName": "Queer Geek #TeamVaccineWR",
+        "userName": "Queer Demigirl Geek #TeamVaccineWR",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhN4zA-kB7f0cRRG2IxUWMJK_wGqO7ScKvsk65ILw",
         "content": "Hello , exellent app, idk how good it is tbh cuz i dont even go out much if at all, i still downloaded it tho lol, i am compremised becuase I'm asthmatic. Anyways...but i sent an email to say i cant get this to show up at all in the google play store for my mom. She has a samsung galaxy 3, Android 4.4.2. \ud83d\ude10 I thought this was supposed to work for all smartphones (even older models)",
         "score": 5,
@@ -8018,7 +8078,7 @@
     {
         "reviewId": "gp:AOqpTOFfUwMSNqnY_xuhtfvaHMqKevIOXxAvTXlesFch1ntBXBOG05uslfZgQerJDsxGKHMcEQqbcJ3MGfTzZg",
         "userName": "Fantino Violi",
-        "userImage": "https://play-lh.googleusercontent.com/-1u17yr2W6Ow/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmOWuaSvfaMedP5oaR_vRHxelbcCg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzllIfNxOPQ8whFrQrVWGGcf6dl1CvpMgmmf0U7=mo",
         "content": "Better play safe now than be sorry (or dead later). People what are you waiting for, get the app. Mieux etre sain et sauf maintenant (que mort plus tard). Que attendez vous. Installez l'appli!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8030,7 +8090,7 @@
     {
         "reviewId": "gp:AOqpTOEtiWGodwJRKCcGazfb-IEKL0_O4osKFuFyBl6tsDqiCd99vfzavWDAHLzx_vWMOjK16-srwrDhcFqfjA",
         "userName": "Mie carolle cock",
-        "userImage": "https://play-lh.googleusercontent.com/-wocFWZjf8QA/AAAAAAAAAAI/AAAAAAAAANM/AMZuuclWstnR6pburOJ-iadPsdnxfdC-Ag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwNflVximtwwidDmrzYgdmX24O-HVxrhHrx_oYRnQ=mo",
         "content": "Merci beaucoup de la reconfort",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8198,7 +8258,7 @@
     {
         "reviewId": "gp:AOqpTOFLuByMRnaEo5CLbSq1ab31j1YEWozun746192CYJytqzLBEq_oXzLdetqBXCQuRN0xBlYipduVXODpbQ",
         "userName": "Jesse Cinnamon",
-        "userImage": "https://play-lh.googleusercontent.com/-LqwiTuQH39k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-i69ErMwJMy9SkPtSPezj6ssfaw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyap4AW6cM2VNw3RwXvv2wOoaXCnN2wUhoaYfog=mo",
         "content": "F... you guys thinking you can try to install apps on people cell phones that is really shady and against our human rights dont say you don't your doing it through iPhone os updates your scum. Want to know a real pandemics looking at history book is called the black plague.you can lie all you want but OS owners did not have a choice",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8282,7 +8342,7 @@
     {
         "reviewId": "gp:AOqpTOFkGKOxTY-8jpNPNoM2-yz-iPIcleFojDf-6uwLk76QejA0-YyCQJU45OGf-3NAF25D6xViw2tRUYv-bw",
         "userName": "Paige Derksen",
-        "userImage": "https://play-lh.googleusercontent.com/-kwPAfpXK5JQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn40qKivhJBoNe2lQFlFdwE5NKWOQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzvCCJICPEFe4PHybd0n9UI-gcVIV9ArIsVQC8n=mo",
         "content": "Doesn't work. I literally live with someone who tested positive and inputted their code and my app still says \"No exposure detected\", even days after",
         "score": 1,
         "thumbsUpCount": 7,
@@ -8306,7 +8366,7 @@
     {
         "reviewId": "gp:AOqpTOHaKpYn5gcZvxB57-rJzfel5KJnWwPBpJwpktZmsjCSc2r7SppcAFc1LgAamg87qrpe-azk5aeVzexSiA",
         "userName": "mandi fountain",
-        "userImage": "https://play-lh.googleusercontent.com/-GhTlE1S3OTg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMfqnbNqEQ2-J7VQBXQyAdhRfZHg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSZoPIUy-0WG6-q31P4Rk0ffnQURH1AyN8XPX7=mo",
         "content": "Does not work -android user with -enabled/updated google play services running -location is on -running android version 9 and fully updated Dumped and reinstalled 3 times still wont work. How long before this will get fixed-",
         "score": 1,
         "thumbsUpCount": 6,
@@ -8318,7 +8378,7 @@
     {
         "reviewId": "gp:AOqpTOEXKz7L-H5PbL8-66AxuoI4NwzwCPpQtNJHED-iZbbLg09GhPwOifBE9Mo3UUqDwmOQMMK6uim-GqZJBw",
         "userName": "James M.",
-        "userImage": "https://play-lh.googleusercontent.com/-qRq0rlOhPZY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclp2qEg1nFubpJwENrRQN-_HqECSg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxWMWiYTIsq54eV3pTt-Bqx1qmfXILT-VhqEDb0=mo",
         "content": "Not available despite being in canada. BC and Alberta have not approved it. Useless.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8366,7 +8426,7 @@
     {
         "reviewId": "gp:AOqpTOH4Uha8ugkNf6ja6H5n5FWOi3FvXwvIDOa6JKB7UU3wEq6YV_gVjFJF1IDMsP5tU3sAjxgMYICzWDVp_w",
         "userName": "Juan J Guillen",
-        "userImage": "https://play-lh.googleusercontent.com/-HLdOYetTQv4/AAAAAAAAAAI/AAAAAAAAAMI/AMZuucnVIujY63Pz2nvofJvCnhQbmAk3IQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyf2jLxpgmoxlCorTWPuutDdviGVNoMrAZFM_Ofyg=mo",
         "content": "So far, tells me that I haven't been around a reported infected, person.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8402,7 +8462,7 @@
     {
         "reviewId": "gp:AOqpTOEPhl-UDKuG_d0-G0jClVuiD0zDPYkIgfqhQjTopK2Fq3DGBBBAES18Ll48_kln2pTan7ge83UG9L8JXg",
         "userName": "Bobby Owen",
-        "userImage": "https://play-lh.googleusercontent.com/-RcK3pAXD2Zc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnA6U-JDmRgdv6za49slrS36_JC7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzN0FF_9A0m2gu0IiOPT0BH_weViQoPu9Ht69Tj=mo",
         "content": "Were all going to die of something.i already got cancer so I really don't dbitwhstbsppen s it's all about population control.should get rid of the hounds and duellers first then grinders .",
         "score": 3,
         "thumbsUpCount": 0,
@@ -8426,7 +8486,7 @@
     {
         "reviewId": "gp:AOqpTOHLDKQzuiGmx5pQOIflWyUwLarytTKi7Uace7JlvWrpZ01004zxcqT-2eKtvDjWjDCLgOSyrUjvLl3-Dw",
         "userName": "Sharon MacGregor",
-        "userImage": "https://play-lh.googleusercontent.com/-A0YV-Z-2MtM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDbz0Og6wkEDEdMg6GtuRpb2d_yw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz7QBjGJhR4MwiZXBi4PKZbOs__c4qB-6ZYlvAA=mo",
         "content": "Makes me feel safe.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8438,7 +8498,7 @@
     {
         "reviewId": "gp:AOqpTOHWAAemLvcdlCfZihlHrgpRI3aqMGbnIIfFzuhA9uK3v96_4Ge6BBSssNwmHVCwVX6j8cbKUonNk37gQA",
         "userName": "Karen Wong",
-        "userImage": "https://play-lh.googleusercontent.com/-XuqXXsiESyI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhRXAWpXWF3lb-3oRZ0Yhj0urK3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxJWBPidJKfVXCwzHsZoMJeNqlbuGmlbbYOg7-y=mo",
         "content": "Since last update ~ early November - no exposure checks performed for last 2 wks. Checked via Google>Settings>Covid notifications (Android v8/ Galaxy A5). It was working fine up til then. Bluetooth/location enabled, opened app up periodically. Pls advise your developers - there was another reviewer who reported the same issue.",
         "score": 3,
         "thumbsUpCount": 11,
@@ -8462,7 +8522,7 @@
     {
         "reviewId": "gp:AOqpTOFSA_TNgEk2piJb7Rx3FKOdUQX--1iIhRMH-8aQAOiWD2IGKpg85Fr2gYYvtNVQ_MMvF3SLAKdn00tgOg",
         "userName": "railfan_ 246",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gii16Z4E_PrsIRNQxc93Mb26zECh9-D9ODwYLYqTw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gio67vtYU7O15nXxtUxHFayHqgB9bOL2vNExdBRTA",
         "content": "Downloaded but doesn't work for my phone that is less than 2 years old. Useless for me",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8498,7 +8558,7 @@
     {
         "reviewId": "gp:AOqpTOHX5stTFJ6jNueMDUNNt5lrZ5f4K3y2PhpkRW6iF-oB1BFsTVa02kujq9RL74q-x9Kkkms4P8YSSadWdA",
         "userName": "Karen Cummings",
-        "userImage": "https://play-lh.googleusercontent.com/-gvBWm0pgdFA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCeWmYVbJhMANKmYKJ1jyLeAztsQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwf5xRIa-kxpjKABATdibRTbY5RjreDKoxpyeM8=mo",
         "content": "Looking for provincial understand ratingson covids ( provincial updates",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8546,7 +8606,7 @@
     {
         "reviewId": "gp:AOqpTOH5Iv4a_ghQ1PMpkHzlQN9hKEQMvMxgvmdMbyVx9UHHx6huHDwHNDdwypZad8PSohF4MjAWg0swaJ3kwQ",
         "userName": "Ar L",
-        "userImage": "https://play-lh.googleusercontent.com/-cWKn0rijC2Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmuC9AHO6y95vgnxgtadWadcrfj3Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyubxZahrz6UaXZBXFcoB4o1-fWZ6A9JHVGo4jT=mo",
         "content": "Ok for what it is. Just not ideal to have Bluetooth always on and would be nice to have more details regarding infection time and place. But because of privacy issues, I doubt that's possible.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -8582,7 +8642,7 @@
     {
         "reviewId": "gp:AOqpTOERDqN8caIN5M4ua3QXhvuIdRCFSIME1mpEeKlIAFDh3p9nO5UOw0q8nDVlFwjGCWafSibLCdNntE4inA",
         "userName": "TWJ",
-        "userImage": "https://play-lh.googleusercontent.com/-M2GGvkX5k5c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucknWn_18rYBwdMP7J6LOUb7ovjSpA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHieY01iACDpQ5PHmj0sJ7DCwneultkCZqEz5I=mo",
         "content": "Cant disable notifications for bluetooth/location setting warnings, even in the phone's settings. Every time you enable of disable bluetooth or location on your device you'll get a bright red icon in your notification bar. Too annoying to use.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -8594,7 +8654,7 @@
     {
         "reviewId": "gp:AOqpTOFLaQ3QzF5ruMMe7QU6U0Lrtdi5ryj_iOfifcAhroLfTPv6lvZziM9j_MqTMAFGz_EmJrJ_z1Bos6wDZg",
         "userName": "dale lafave",
-        "userImage": "https://play-lh.googleusercontent.com/-oIGShs7Fihc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmA8zI-_AaabM9y6JW7iMYyI4W2RA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz5QRDzUqEc6TlaCMjmNWZsRD8AdLWso2F_6WSk=mo",
         "content": "This is totally crazy, trying to dow load your app has been on verifying for 15 mins \ud83e\udd26\u200d\u2640\ufe0f",
         "score": 2,
         "thumbsUpCount": 0,
@@ -8606,7 +8666,7 @@
     {
         "reviewId": "gp:AOqpTOETx526cdiDiGwf8ody5vqDLqEyA02hOG2zd-nA4b2SEkbuSnvm0TOBolnnpzSyfWoYM9H0uzy9n6oBZQ",
         "userName": "Depens Daniel",
-        "userImage": "https://play-lh.googleusercontent.com/-KrsQ8_C90B0/AAAAAAAAAAI/AAAAAAAABAE/AMZuucntgLFGPVuXcc_liUPVcAMHFdzNMg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzUc2xWf53487WNUtzAboeOxhXkl3-ZaGMb24B77w=mo",
         "content": "More than one person says didn't work for them",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8630,7 +8690,7 @@
     {
         "reviewId": "gp:AOqpTOF92j3pjcs9kSR4eUr5t3aEtlnsrVMoPAHLHDiN0t-ZE1DYnMwKitZIn33OzTQofr5ORWErJwT3FdKQIQ",
         "userName": "Christine Murray",
-        "userImage": "https://play-lh.googleusercontent.com/-Dmna7yIykOg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYjzZg2zJVKyRgEMRlgpmwiW1OUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDcvBoh3WGII7DWqk4iubxRZLVpqIayRWaAiZ_=mo",
         "content": "Not available in my area? Calgary's not a part of your area",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8654,7 +8714,7 @@
     {
         "reviewId": "gp:AOqpTOFlyQl8bggdZmm8mqe8Z7h0zfT6v_WXp_urSCqVTGfMDyeS3ENcRKoSD3r1hQLDhPuWB8ETlr-EQ0p_UA",
         "userName": "David Coupal",
-        "userImage": "https://play-lh.googleusercontent.com/-78ZB5YSLP28/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmPoVEhxZJPKlZv618sEHpEWZhJPQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyYgg2cmVTyG1Ruddi3EPRKi1VoYTikOhXz6oef=mo",
         "content": "Sucks",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8678,7 +8738,7 @@
     {
         "reviewId": "gp:AOqpTOFK9NFephyLVVQeAf6yXao07o6wl3-o9Vc2OHWOK0W8r6KqyLl-hBH4lt8QeApy9Ubqi6BbAg2Y32ufKA",
         "userName": "Shoeb H.",
-        "userImage": "https://play-lh.googleusercontent.com/-ZaC5evxFJmM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckHv13v0g8YJ9r4pm5M06MQFiaGBw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxIzkhqodftD65-ZJGSE00jL8PAyKQBw1Y6yQMC=mo",
         "content": "The app is being put to sleep by Android operating system. The app should install itself with permission to remain awake.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -8726,7 +8786,7 @@
     {
         "reviewId": "gp:AOqpTOF72QohdcsLcIfJaAg5GafCJkB4--5uNPpXaK2fkAe5DKasI6ivVpqkqxrxjQn_9hFHZ6MDwCwKG0HuQw",
         "userName": "Jay",
-        "userImage": "https://play-lh.googleusercontent.com/-gPQQck73oaE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2Z5y1IX-kHx4AGpUvtmmgOVOgjQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkmR4IWZok87VirqQoAwBWKQSoWFoQuGiWEHnC=mo",
         "content": "This app is very disappointing as it only works when GPS is active. This should not be necessary since app apparently uses bluetooth to interact with nearby phones",
         "score": 2,
         "thumbsUpCount": 0,
@@ -8762,7 +8822,7 @@
     {
         "reviewId": "gp:AOqpTOHynC2LDRYs0hucG-Ho4vvRCGcBOVvaRM3nA4CX8SEDVgCH-wmS_bj53fpKtquEtyVVFMkBx-1egJFzYw",
         "userName": "Craig Bell",
-        "userImage": "https://play-lh.googleusercontent.com/-ouqBOjM-UDE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloxd-1htZvZcgRzWpua2Qti7-XPg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9tsYGaE8KAN7NJyzoNVas6Pw0WG0ZX-XziwJ_=mo",
         "content": "I've had this app loaded on my phone since it was introduced this summer. The province of Alberta announced in August that they would implement this app. So now it's November and our idiot Premier has announced that we won't be using what his party is now calling \"The \"Trudeau App.\" So now many Albertans will have to suffer needlessly simply because this little twerp wants to make a political statement. Disgusting.",
         "score": 5,
         "thumbsUpCount": 76,
@@ -8786,7 +8846,7 @@
     {
         "reviewId": "gp:AOqpTOE_ZedJcTBVWtGgGRAxleVlsuyNwMrqowFC4upKT0zhgHjCAGM9MnfW2-bJ664T5kfeGv2O_3xK5FZoNQ",
         "userName": "Wayne B",
-        "userImage": "https://play-lh.googleusercontent.com/-nkxNxVzT8Ck/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOaobDOx6cr31cv9TUsvz-6Le4uw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzoSdkYfaNbmUqqQj3y2xr3YlZSnr1gzlZ5NmtI=mo",
         "content": "It broke my phone. Ui error after installing.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8810,7 +8870,7 @@
     {
         "reviewId": "gp:AOqpTOHG7Br-yHi0bOFAjhtmQNOhprBivkrzXO3A-ADy0kqvFjLEgW5i2wgMA1I0moQOU0VLxsbdguiUmgt4pA",
         "userName": "Kitkat Walker",
-        "userImage": "https://play-lh.googleusercontent.com/-ovS1ErGO6e0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5WR4Rb35hQaPTo9dfht90Nut9Vw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbi9XFfBVHZ-ihHQeNI-SQJf8PSyX_BzjXFqOh=mo",
         "content": "Uninstalled. Once I read that we don't get to know when we were exposed makes this app futile. I understand not being told the place of exposure. But the date is extremely important in making sure they can trace where the person has gone with the virus. Being told you were exposed in the last 2 weeks doesn't help. I uninstalled.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8822,7 +8882,7 @@
     {
         "reviewId": "gp:AOqpTOGtsRxcWh01_HgdyGQ_GeSSVEo7y9I-TCwhR5v7sIvGvwYONMO-L0ebUj6v9DW7O0GOiWLIPr1Ei3DDfA",
         "userName": "Terry Harper",
-        "userImage": "https://play-lh.googleusercontent.com/-TWv9tIvUsz4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclkD5Bzqwy0-2BdfPJCEaVoZC8XSA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-obMVpex4ql53V0PqVn-PAbLY3RHPXcW-UT7p=mo",
         "content": "It runs quietly in the back ground. Gives me a bit of security when our in public.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -8834,7 +8894,7 @@
     {
         "reviewId": "gp:AOqpTOHrJMtM6yhf-yoaKWwV-VZNbNbXyQLaiy8ZaQlfUZmRLClE4o-gi4zubmwwtwNLfXdImoZ_u1_f4m28Aw",
         "userName": "Daseita Lawson",
-        "userImage": "https://play-lh.googleusercontent.com/-tYeP5ftOYq4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmB0xIx8byqNcP-t5CEUYvJliPkPA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJye0bHYvIWzpprmw-uT1Xy86UgX1BqITI1BDsjM=mo",
         "content": "the app it good to have because you will know if you were in contact with any affected person when you travled",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8858,7 +8918,7 @@
     {
         "reviewId": "gp:AOqpTOH-2FmKpozibe4Zt8IxoSPdadO9RbjaJIChK1et36H078yS7Z-iKZLcNEK5XACO2dJA7QnMpg3IXfuxqA",
         "userName": "Daniel Byrne",
-        "userImage": "https://play-lh.googleusercontent.com/-gdHWj9FRaSU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDfgM-gjjs-K3LfkpgiigjRuP08A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx5lOFk4FsLHafvpNk9Raeb01awn2BoZ7dm9dbW=mo",
         "content": "Does what it needs to with basically zero privacy concerns, kinda nice.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -8870,7 +8930,7 @@
     {
         "reviewId": "gp:AOqpTOHSt2KrCeQmZ-wJdyc8mz6EvRNqwJS_iQpY20JPNVcfKjov1azauP-TSIw6ZNJ7Tl-c1sDO0vIgqr900w",
         "userName": "Jayne Havens",
-        "userImage": "https://play-lh.googleusercontent.com/-m7v7PyFvTKQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclcHgMa2rWzbtVV-4dErORxYZkeWA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz7LS5gkVYqyNwcJEC7SuVXYoyLKS-qcNTMYuyF=mo",
         "content": "Useless for persons following protocol.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8966,7 +9026,7 @@
     {
         "reviewId": "gp:AOqpTOGpMC9nV0xL2V36zvJmGIALtaHfJ9qkCzqslz0xgTv4_qc1IKObnbqmOHhrfXBvFhOXkuVbjP8FSCPLLQ",
         "userName": "Adel Jade",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhssxSuJJGHlQFCixGrt1S_ZtgV87Z_yP23jKw7",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicEqjZmnj53yW5Ly8QAxD7JLroAe5cCjBJ0suO",
         "content": "Deserve 5 stars\ud83d\udca5. I find this app useful and I'm surely gonna use it for the next coming time. NB. Only when Covid-19 is around. \ud83d\ude09",
         "score": 5,
         "thumbsUpCount": 1,
@@ -9002,7 +9062,7 @@
     {
         "reviewId": "gp:AOqpTOGwsNBxKMLaZzgW6mh9SOYUQA8FZcIMaHTjXuJZvdEsQxRYbGmNPQJ09rvMj4ZEBuS4-cEVtBOUMrKgug",
         "userName": "H S",
-        "userImage": "https://play-lh.googleusercontent.com/-2OPsBXDBlVA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDmbwVMC5qL9sZjXodIS58eiLf2A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxsftRYE1CVr4bNiFFJzDh4oatwwiOqg1aIT6E=mo",
         "content": "Make it compatible with older devices",
         "score": 2,
         "thumbsUpCount": 0,
@@ -9014,7 +9074,7 @@
     {
         "reviewId": "gp:AOqpTOHAbuiS_VlYeMKS4nDDybWNjlmoxEvbzwjykt6mKu1PoYgQ1Cl-Ggdd8bbJl0DpkqRiCB4P99YMCUgsIg",
         "userName": "Phillip W",
-        "userImage": "https://play-lh.googleusercontent.com/-_G0M6unc79Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl9u_jdjNlr2vuKW2xIjdWlWCzIzg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwk1a9DC5k7BitVjYgE7Fu0eDcTah4-FLx8gRda=mo",
         "content": "No idea since the bluetooth is off when it is out of my car. To save power.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -9038,7 +9098,7 @@
     {
         "reviewId": "gp:AOqpTOFsV03lLUhkHGL5y6H3msAAuZTeeoexqAf6f4RLrOMvXJocsYAr71uJMLCKSpyvfhrbExnYEeTdL-YjSw",
         "userName": "Hugh MacDonald",
-        "userImage": "https://play-lh.googleusercontent.com/-8nyfz7HDypE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHfoNf0-VzjX8b_rdduYI0UtD4bw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlB8FH9oH1-lzZb7UH5sZdMPp_NgddNVXaLHfl=mo",
         "content": "Since the last update, my app on android is no longer doing exposure checks.states last check was on Nov 9 and todayis Nov11",
         "score": 3,
         "thumbsUpCount": 3,
@@ -9110,7 +9170,7 @@
     {
         "reviewId": "gp:AOqpTOHsxkbIDYcs50xTKJk1_7YHPlohcke-uvcjDweL-VJTbEjtXfeTnIGUhnjIrhp8TJsNTvRpEjwvhz-L4g",
         "userName": "Ryan Eaves",
-        "userImage": "https://play-lh.googleusercontent.com/-Xc4FZ0Vccuw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnSvSZzQlpQnB-f1Xu7zfVJxtjEcw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwzFueadGs0teDKhVUYnOgDr72HvKWq15_-0TnU=mo",
         "content": "App turned itself off. It is pretty useful that way.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -9122,7 +9182,7 @@
     {
         "reviewId": "gp:AOqpTOFdk08759ii9b62P2DjvfgANNgWbMSnyOsP0GN6prrV6JQ6BqJ1SBdvQ-SN5GqRHY6bQ3gsJkZEQVXd6w",
         "userName": "Monica Smith",
-        "userImage": "https://play-lh.googleusercontent.com/-hPC0vtmnTwc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckAB8_WFsv_J32WRZEuUUWZztJ6xg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy8gAH0WrnzXbhAGeYUw22ng0-iRdBYgnXXo24U=mo",
         "content": "Okay... It should be mandatory to report exposure. Halifax, dartmouth, sackville and bedford are all HRM ( halifax regional municipality) why is it not showing up on the app that we have confirmed cases in Bedford, central halifax and etc... and they're a 10 to 15 min drive away? Those people quarantining, still probably grabbed their last coffee for 14 days, or last big Mac. It should be mandatory that there's possible exposure.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -9134,7 +9194,7 @@
     {
         "reviewId": "gp:AOqpTOEh-4Uk89jRZTxqL1s8OWbQ45UOIiNb2TViPDLuOE5Jf77COqkU2lvSfBCCjYF8JgMM1gLHOxBGvaEW4w",
         "userName": "Bergeron Mario",
-        "userImage": "https://play-lh.googleusercontent.com/-5GWOtGvsj_c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnbW4uKX5RyjhFuVVSGbL3ykXNmgw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIQT65lD9zpQwuO3JDj3L62eA81oJLjOBZzA4=mo",
         "content": "I would like to have this site in french,if possible. I would understand better.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -9158,7 +9218,7 @@
     {
         "reviewId": "gp:AOqpTOHn4ldxNbO-mv49wC8VqnO4hJbKDojZyA7v9SRIHdw9uv0j1rqYIaRZM7tWTTgpSovbhJT9KzEb-jrZwA",
         "userName": "Peter Clark",
-        "userImage": "https://play-lh.googleusercontent.com/-WbEqUn0onkY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn26z4UcSkLjkoT8FukyQpxAs5Zag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw1jIc2xxjFDpP8bGOpc-z_cec7sBakTdKxluUT=mo",
         "content": "I don't understand why it has uninstalled itself... twice, but I want the notification so I will download it again hopefully the third time it will work properly for more than a couple of days.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -9170,7 +9230,7 @@
     {
         "reviewId": "gp:AOqpTOH1NXwnLDVvaUUoHXHCYVhyiou_5-Bksl2sOJjZms2snzMEJquaK0CZo2Uo0A4kFQmowTC4iFMZZaZzvw",
         "userName": "Sebastien Champagne",
-        "userImage": "https://play-lh.googleusercontent.com/-DWYMmW8PW2g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmBwg4vqJc2eiE-D0H3xWACBfdowg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxJJD5GpyT0X8KvySxBeMSvgpAk5RxC-CcGwM5_=mo",
         "content": "\ud83c\udf03",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9194,7 +9254,7 @@
     {
         "reviewId": "gp:AOqpTOGmkMnlTRSQ9evW8mAD6VzjefZx8em28UVG1GhZ2YN_99aMM0b1J6SZJKfb-PAP3Q8M-wfvZ9WLQ-sEpA",
         "userName": "rene ferron",
-        "userImage": "https://play-lh.googleusercontent.com/-Q6M0qfW6Jjw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckwKrN3-bDykQ4ql1sWr9luW0hlyQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyVls3yADiIP4XN7p-JYpIad5DFpEVEIZA9Q9My=mo",
         "content": "Trying to get this app having difficulty",
         "score": 3,
         "thumbsUpCount": 0,
@@ -9230,7 +9290,7 @@
     {
         "reviewId": "gp:AOqpTOH82PXLLu9LLgjZrgix54oGL4oW7-YTaeOps9MiuLjZUxUqhElbESCOOPPLZtBrjGGDr3sh1TAE2f6O4Q",
         "userName": "Tom Campeau",
-        "userImage": "https://play-lh.googleusercontent.com/-VIszH7GefYU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVYcpLHAGpdb6m4tFov0r4eTjf5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHu6RW0Mw1aiZBUwqS2D9swa5BBr0Z4K_C6zJ5=mo",
         "content": "Superb",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9254,7 +9314,7 @@
     {
         "reviewId": "gp:AOqpTOGaifQCIlHe-mflmT7fnfJc8pBaxfrR09vs2fnniHCL0wiDpcajT1MJ9VBtl4wOTqTPrA4xmSXE2wBasA",
         "userName": "Paul Gauthier",
-        "userImage": "https://play-lh.googleusercontent.com/-zZADgCX-vjY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWdpTK6OM2-xOrI7ZMIC7P_eOhwQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxM2vJr18KJ3_MQTPtKpKu5jXKebXOyPkvxybKu=mo",
         "content": "I'm just not convinced of the efficacy of this app. Pen, paper and database, ie the old fashioned way seems better. But more concretely, for personal reasons I am uncomfortable with keeping Bluetooth and location always on. Many people have legitimate concerns about this. Edit: Health Canada's reply missed my point. I'm not complaining about the app itself, but have concerns about having to keep BT/location on at all times -- regardless of this app or any other.",
         "score": 3,
         "thumbsUpCount": 6,
@@ -9302,7 +9362,7 @@
     {
         "reviewId": "gp:AOqpTOG5Zv_5qG4G3HGna8TZmpJ2nHjiRgCwnJ_Amhjn6jajicAPLqEVOCL0dwpROzgIsDrLDHzlnQmwN6KYJA",
         "userName": "Steven B",
-        "userImage": "https://play-lh.googleusercontent.com/-unBwBtWPjGQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucninUNPkunzktrR2uzY1ecvGnN44A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzaSgVr5g4dVYMsf2AUM17BWJYBgma8RWu7fILI=mo",
         "content": "JASON KENNEY; STOP BLOCKING THE APP. It's been more than 2 months since this app launched and \"people in your province are not yet able to report through this app\".... Seriously this is ridiculous. What's the point of the app when it DOES NOTHING? Why did my tax dollars pay for an app that I am not allowed to use....KENNEY STOP BLOCKING THIS APP. You are putting your stupid political agenda ahead of Albertans health",
         "score": 1,
         "thumbsUpCount": 21,
@@ -9314,7 +9374,7 @@
     {
         "reviewId": "gp:AOqpTOGr-wTJE191UEjunm_3COK2aZihzdzziMnWdUvHYyUwAZ5H0yc2qQOMsx3nkr-KBtx3UDkYj_lF-dCKMg",
         "userName": "Graham Jones",
-        "userImage": "https://play-lh.googleusercontent.com/-dTVyRkIMX6g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn91jVqlxTJuhDmd3yyIuTWxt50uw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0amW8_etbKzwP1JQMeMeRJHNn1QYVGDwXOsvv=mo",
         "content": "Does this app work in BC?",
         "score": 2,
         "thumbsUpCount": 0,
@@ -9326,7 +9386,7 @@
     {
         "reviewId": "gp:AOqpTOEGWuW7fAuAOyfvgMe2ixLbamauEg-8SapnosQb_SqTHL1XqBPXE8h5fjFpkMfzAtZWlMAEAPirTTbKog",
         "userName": "Doug Watson",
-        "userImage": "https://play-lh.googleusercontent.com/-ygl1XZWhZdE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7UI9CGU5dBOkmT37vRVZF3EXPvw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxmbqnUT1nFjiowU_lzMP0K5Zsl4aqJLsZxIsT5=mo",
         "content": "Cool",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9338,7 +9398,7 @@
     {
         "reviewId": "gp:AOqpTOGTZWR6Ysfh6LauaQdRd62IHQOMCtUEPsHs1BvEUvEWskKCfboHoG9u3WF9QTfc0TZgFs3J046RWhonrA",
         "userName": "Sara Rooseboom",
-        "userImage": "https://play-lh.googleusercontent.com/-1_DiWrZ-jY0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYvMixIcGW1tWlqfapGoELrEqIjA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyQ49a3T4qp-DLhXALe5OlUROphg22e_rUdN-2O=mo",
         "content": "I like that this app doesn't collect any personal information and can run easily in the background of your phone. Unfortunately, it is still not able to report here in Alberta or in neighbouring BC and it's starting to sound like it never will...",
         "score": 4,
         "thumbsUpCount": 3,
@@ -9362,7 +9422,7 @@
     {
         "reviewId": "gp:AOqpTOHTKQhUB72SbWWScsaA_fbG54PJhHFwuZXzklfJJ0mLcaEZ7ubdPONWC_91youhjwu46NZNSX9aN5L-_w",
         "userName": "Steven Hu",
-        "userImage": "https://play-lh.googleusercontent.com/-2-Wgh3AgFPw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqM0FPPHm9EA7KrimWIrcDO0OnaA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFIT5EkYgfKCIlrvR8rUpkDwaxpGRk9nyXq2d_=mo",
         "content": "It's a junk software. I never thought the Canadian government's software would be so junk that Android wouldn't be enabled. For apple's system, it requires the phone to upgrade to the latest version. But I do not like to be asked to do other things.I really want to follow what government requires. But if it costs me too much time and energy, it asks me to a lot of other things so that causes a series of trouble for me, I have to dismiss it. I unsatisfied with the app, even the government at all",
         "score": 1,
         "thumbsUpCount": 9,
@@ -9446,7 +9506,7 @@
     {
         "reviewId": "gp:AOqpTOF0IJ6yryLDQRyHySXr_xyJVUP_PMSaXEcrmUX2zvFxZuMWIhF9_F5uHFsmmbzvx71BT8jLnyR3bEocYg",
         "userName": "Leanne Hicks",
-        "userImage": "https://play-lh.googleusercontent.com/-ivbj0COoMwY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucklWeXaZtzWIrjV7V3wVzT4GZsT0Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy94XAodQybC9ZkF31DNoYQJuD_wTQxQe1mr0yw=mo",
         "content": "I tested Negative exactly Twelve days ago, still Super Terrible symptoms forced me to go for another test, after More than Two weeks of quarantine, I have a Positive result from my test taken on Thursday. How can we Seriously keep this Covid Stalker Grounded and in Control??? I am currently still in quarantine at the Same Time as Losing me mind! I Wish All Better.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -9458,7 +9518,7 @@
     {
         "reviewId": "gp:AOqpTOHkyzj6C6YOhTo9IUrHnoTAPAinPh9PjmLQjh2Ks4c6agRkNOtxse9YI4xkxyXp4KB_mINeXq172dtcOQ",
         "userName": "Dennis Marlow",
-        "userImage": "https://play-lh.googleusercontent.com/-WeTG3fd75sM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyGwMccxKT8UxKJ-fiPpNF3GGmYw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwDp4jEKHnHvTSV--z_fam4C6QnLYiiKdcs6D9=mo",
         "content": "its not in universal use",
         "score": 2,
         "thumbsUpCount": 0,
@@ -9470,7 +9530,7 @@
     {
         "reviewId": "gp:AOqpTOFMbLgzveAL0GMxjKTBrOjrU4JVMfU-PH569AT2Up8S1OwIzOgP4kMOs7bwnj3A-6f1WE0iEEPCfcws7A",
         "userName": "Noah Bell",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhOp6v9lZh-svo24hRhs7FQ0dTYPkeEHzCED8yfIw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWZBTQnb5sQSDyh7udClUoIQycdT_uLXzsEGEsNg",
         "content": "G TV ccx v features x5hc b b,n. TV x v n un m I am b",
         "score": 2,
         "thumbsUpCount": 0,
@@ -9494,7 +9554,7 @@
     {
         "reviewId": "gp:AOqpTOFlncgh5yvI2zYUwSandopCqYwHVYABo3aYYIsk_8cTTEy-yV9WnznNmmjgArUV84PaV0nnNTerHEqe2A",
         "userName": "stephen ademuyiwa",
-        "userImage": "https://play-lh.googleusercontent.com/-LA6rjpdP9Hg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckjY8gQbeZnWwwfvIP7wUwI4TFdOA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwdhChHTIUMHn1fVLy1qegQUR5PQYyECqR0uH5X=mo",
         "content": "thank you because my friend had coved",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9542,7 +9602,7 @@
     {
         "reviewId": "gp:AOqpTOGNxAEMN8bOf6Z5s-RxVqPX9S71JsBNY8eWYk9oseC2pv9ntlNXPUbRzMXKq673OVn1HRvJnPbLf3sLsg",
         "userName": "Samantha Rutherford",
-        "userImage": "https://play-lh.googleusercontent.com/-jdmyrPePrYI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclhcAza3OG0uPlZwOGbNT5jFBocYw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxI6uJM9RQlPJShsn_FpevKrR5sQD1R6w_e4BE=mo",
         "content": "I was going to download the app but if it doesn't tell you a location or day of possible exposures then to me there isn't a point. I feel that if the app notifies people like this ex ( covid positive person visited these stores -shoppers -canadian tire etc On this date -Nov 6th In this location -Barrie ont That doesn't expose anyone's privacy but at least people can see and know if they were in the same location on the same day and possible exposures could be caught quicker.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -10493,7 +10553,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfFqUXjxa8WvA6NZqsRICX8S6wU_5X5yZ8AtS3Sg",
         "content": "The reason why I like the app, is because it is something that is benefiting society...it is a tool that's helping us. The reason why I give it 4*, is because I know there could be more work on it that can help everyone to maintain the virus. But still great job to the developers... however the app is like rock. It doesn't do anything unless who ever has the virus enters their code and means they should be quarantine. The app doesn't give out hot spots place to avoid.",
         "score": 4,
-        "thumbsUpCount": 276,
+        "thumbsUpCount": 275,
         "reviewCreatedVersion": "1.0.13",
         "at": "2020-10-27 22:49:28",
         "replyContent": "Thanks, Peter. To protect users\u2019 privacy, the app never shares info about the location, time, or date of any interactions with other devices, or any potential exposure to COVID-19. We hope that if a person is infected that they will share their diagnosis with the app as it doesn't tell those exposed who it was that they may have been exposed to.",
@@ -11938,65 +11998,5 @@
         "at": "2020-10-17 06:41:01",
         "replyContent": "Thanks for your feedback, Marlene. The COVID Alert app is entirely voluntary. It is one of many tools we have to combat COVID 19. We hope that if a person is infected that they will share their diagnosis with the app as it does not tell the people exposed who it was that they may have been exposed to.",
         "repliedAt": "2020-10-22 20:42:26"
-    },
-    {
-        "reviewId": "gp:AOqpTOHDVnbeg0BqitWRNtI9JAayKkmi4HIAhWGsC32drd-sRLri0g42QTnGhAWhr3CjkNGxMcQJDLp-EJgMUw",
-        "userName": "Christian Santos",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgGxBmcHWa2DzABganKhxx_Qdkb4hT6qlyKkuGWgQ",
-        "content": "Simple. Completely anonymous - even if you've tested positive and input the code in the app. All those that can install this on their main personal devices, and use it appropriately, should. Greatly enhances contact tracing.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.8",
-        "at": "2020-10-17 06:01:16",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFrWXjXVh1GkJhRgoq-uNhyLqYt4I10tVCYAR6owCg0y74J1U55jEbwdro-dqKi0YPqr0EOUtlHL_2GVA",
-        "userName": "Angela Havard",
-        "userImage": "https://play-lh.googleusercontent.com/-Ea52l6v-76s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl37WjheBiG6X8IElYfp6XJbReG9w/photo.jpg",
-        "content": "This app does nothing. There are no real up to date notifications. I get updates from my news report that show me real cases linked to places near me, or places I frequently visit and this app hasn't shown me one notification since installation.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-10-17 05:35:45",
-        "replyContent": "Thanks for your feedback. To protect users\u2019 privacy, the app never shares information about the location, time, or date of any interactions with other devices, or any potential exposure to COVID-19. The app only tells you that you may have been exposed to COVID-19 at some point in the past 14 days.",
-        "repliedAt": "2020-10-22 20:41:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOF5rc1ZFJVph37zPvgvA9StuHZ-DAKfohFw_5Hqg8iu9Xxrjz9wPBwEuVKULqNpG541-eCoIWZWOK05iQ",
-        "userName": "Rosemary Breyther",
-        "userImage": "https://play-lh.googleusercontent.com/-gCA4nlFuRzo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucny2iAHdkPzBp8cNj0qahIS9umygw/photo.jpg",
-        "content": "Excellent! Peace of mind I really hope people use the app.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.12",
-        "at": "2020-10-17 04:18:02",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG5oXw0s9nqrPgZXSOJlEL-LSLRmS4qFlCzjpAxzAijvSZajwCG9CPVF0dHP6VkJGVYNXacE-uCV7g7IQ",
-        "userName": "Jim Astley",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghha-dU4bElqMO44aAoB_QKkgsvXZFC0-DOeDjvQA",
-        "content": "Essential app everyone should have. One cavil: weekly count of contacts shows up only in system notification, which disappears if you open the app. App menu should have an option to show the count. Developer response misconstrued my comment. I understand all that: the problem is that the weekly notification is evanescent, I. E is only in system notifications. It is not available within the app. It should be possible to see this data within the app. Otherwise, see it once and never again.",
-        "score": 5,
-        "thumbsUpCount": 20,
-        "reviewCreatedVersion": "1.0.11",
-        "at": "2020-10-17 03:30:13",
-        "replyContent": "Thanks, Jim, and sorry for misunderstanding your post. We appreciate your feedback in helping us improve the app experience and will be sure to relay this to our team.",
-        "repliedAt": "2020-10-23 20:58:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOGMNeej1p1TthNRpPdn6HD8g-jZZSAbULO0mzsNMvZcfARZ825YrWP7W2GcVXwg1fpiW9RQyr-Wx77Gww",
-        "userName": "Samuel Fem",
-        "userImage": "https://play-lh.googleusercontent.com/-leK-HKQUieQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYr7PS4nyMOd3_TWhSdJIDtZ3eFQ/photo.jpg",
-        "content": "Needs more enlightment and expression how to go about the use of the apps of covid alert.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-10-17 03:17:45",
-        "replyContent": null,
-        "repliedAt": null
     }
 ]

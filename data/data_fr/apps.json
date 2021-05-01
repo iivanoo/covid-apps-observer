@@ -11,28 +11,28 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1619693619
+        "latest_crawl": 1619889677
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1619693619
+        "latest_crawl": 1619889684
     },
     {
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1619693624
+        "latest_crawl": 1619889693
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1619693630
+        "latest_crawl": 1619889693
     },
     {
         "id": "fr.gouv.android.stopcovid",
@@ -46,28 +46,28 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "Varie selon les appareils.",
-        "latest_crawl": 1619693763
+        "latest_crawl": 1619889831
     },
     {
         "id": "com.hug_ge.coronapp",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "0.0.68",
-        "latest_crawl": 1619693764
+        "latest_crawl": 1619889835
     },
     {
         "id": "fr.esantebfc.engage",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.2.8",
-        "latest_crawl": 1619693768
+        "latest_crawl": 1619889836
     },
     {
         "id": "com.sanpsy.kanopee",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "6",
-        "latest_crawl": 1619693776
+        "latest_crawl": 1619889840
     },
     {
         "id": "ml.lenali.kunko",

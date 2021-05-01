@@ -201,6 +201,8 @@ The CoronaCheck app has been installed by more than **10000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 1 reviews"/>
 </p>
 
+> CoronaTESTcheck moet naam app zijn. (CoronaCheck wordt al op andere plekken door Rijksoverheid (en Lumc/OLVG Luscii app) en CovidRADAR gebruikt! Bovendien dekt anders de appnaam de lading niet.<br> :date: __2021-05-01 08:07:54__
+
 > Door mee te werken aan de testsamenleving krijg je niet meer vrijheden maar je levert ze juist in, de eerste stap naar vrijheid is burgerlijkeongehoorzaamheid. Binnenkort punten systeem<br> :date: __2021-04-28 01:53:41__
 
 > Omhandig<br> :date: __2021-04-27 11:43:55__
@@ -218,7 +220,5 @@ The CoronaCheck app has been installed by more than **10000** times. At this tim
 > App en site volstrekt onbereikbaar, schiet dus het doel voorbij. Praktisch nut zero.<br> :date: __2021-04-24 16:05:09__
 
 > Net getest, negatief, heb de code nou al 10 keer ingevuld. Iedere keer " u heeft geen internet verbinding". Werkt dus totaal niet! Nou maar hopen dat ze bij evenement coulant zijn en de email accepteren. Eens maar NOOIT meer! Mijn hele dag is door dit gezeik verpest! Waardeloze app direct weer verwijderd!<br> :date: __2021-04-24 15:44:10__
-
-> Code invullen maar inloggen lukt niet<br> :date: __2021-04-24 15:37:03__
 
 

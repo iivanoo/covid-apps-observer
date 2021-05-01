@@ -236,6 +236,14 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 1 reviews"/>
 </p>
 
+> Unable to login due to OTP, plz fix this issue.<br> :date: __2021-05-01 12:02:35__
+
+> Otp not received.<br> :date: __2021-05-01 03:45:41__
+
+> Doesn't send OTP. Doesn't get started.<br> :date: __2021-04-29 18:10:04__
+
+> I do not get the OTP of this app, I tried many times, did not log in<br> :date: __2021-04-29 17:27:08__
+
 > It's a junk app. No OTP received after several try.<br> :date: __2021-04-27 14:20:10__
 
 > Otp nhi ata hai<br> :date: __2021-04-27 08:02:20__
@@ -247,13 +255,5 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > I tred several time to login but OTP not received.<br> :date: __2021-04-21 00:25:55__
 
 > Otp service is not working<br> :date: __2021-04-17 16:55:28__
-
-> Otp not coming for registration<br> :date: __2021-04-17 09:54:34__
-
-> Otp नहीं आता<br> :date: __2021-04-14 10:18:57__
-
-> It's a junk app, last 3 day's I'm trying to login with my mobile number and.. Surprise.. Not a single otp is coming..which make it useless.. Same issue with some other friends of mine<br> :date: __2021-04-13 06:33:16__
-
-> Unavailable to log since not sent OTP.<br> :date: __2021-04-08 04:04:01__
 
 

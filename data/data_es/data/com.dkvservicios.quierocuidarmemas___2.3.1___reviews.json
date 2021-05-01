@@ -1,11 +1,23 @@
 [
     {
-        "reviewId": "gp:AOqpTOEr1uv0n1gubN7FI4GM9w1u9zAAo2_Zl-Mqs2t62cGTvg5QNhYX5gFhNe9XbnkMDbNkgGB_BQDe1o8UHQ",
-        "userName": "\u00c1ngela. LP",
-        "userImage": "https://play-lh.googleusercontent.com/-tvov1wFOWBQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnPhgQc5XqJzr2ck7c3dXuwPmXR1A/photo.jpg",
-        "content": "La idea de la App es buena y original, pero est\u00e1 llena de fallos por todos lados: ................................................................. > Se desactiva enseguida el lector de huella dactilar y tienes que reactivarlo constantemente. ................................................> En las citas por videollamada se congela y al final acabas hablando por chat/llamada ------------------> En documentaci\u00f3n si te suben una autorizaci\u00f3n no deja visualizarla ni descargarla, se ve s\u00f3lo como una imagen miniatura (a m\u00ed me subieron una autorizaci\u00f3n de test de antigenos Covid y tuve que pedir que me la mandaran por email) + si subo yo o el m\u00e9dico documentaci\u00f3n, no me aparece en mi men\u00fa privado de la web, no est\u00e1n conectados. -----------------> Al consultar citas nuevas por videollamada/online fallan las citas disponibles porque te pone una fecha y cuando das a la flecha a avanzar ves abajo en resumen de todas que hab\u00eda otra anterior de fecha y tienes que darle desde ah\u00ed ----------------> Al consultar m\u00e9dicos en el cuadro m\u00e9dico, si le das a ver mapa (en general o en un m\u00e9dico concreto) el mapa se carga con Espa\u00f1a en miniatura que tienes que ampliarlo a mano muchas veces hasta que ves la calle y centro................. + estar\u00eda bien poder ver la web del centro por si prefieres pedir cita x web que tel\u00e9fono ..................+ poder ver las subespecialidades del m\u00e9dico concreto (eje en dermatolog\u00eda no es lo mismo uno especializado en herpes, que en eccemas/soriasis, acn\u00e9, etc) y tienes que estar llamando a todo el listado a ver qui\u00e9n conoce tu patolog\u00eda a fondo...",
+        "reviewId": "gp:AOqpTOHku_DJ3Zmgx9iJg8Dr5d-d4AvvbrFf_yuJB0uhCyqhF9SID2E_N8X72RbgdLNAavDjTd-hAFRB714WxA",
+        "userName": "maria del mar rodriguez",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJySSKf7aSiN8yTQFnQl_RxW6n3XdbJoCxyspP9j=mo",
+        "content": "No puedo ver en la aplicaci\u00f3n mis datos de la poliza, tengo q meterme en \u00e1rea de clientes por fuera y se me olvida la contrase\u00f1a, cuando quiero restablecerla no me llega ning\u00fan email",
         "score": 3,
         "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.1",
+        "at": "2021-04-30 10:55:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEr1uv0n1gubN7FI4GM9w1u9zAAo2_Zl-Mqs2t62cGTvg5QNhYX5gFhNe9XbnkMDbNkgGB_BQDe1o8UHQ",
+        "userName": "\u00c1ngela. LP",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwP0N1DjjrvyjsDqDut5zkL0JK4Z6Yzxr3usJ5t=mo",
+        "content": "La idea de la App es buena y original, pero est\u00e1 llena de fallos por todos lados: ................................................................. > Se desactiva enseguida el lector de huella dactilar y tienes que reactivarlo constantemente. ................................................> En las citas por videollamada se congela y al final acabas hablando por chat/llamada ------------------> En documentaci\u00f3n si te suben una autorizaci\u00f3n no deja visualizarla ni descargarla, se ve s\u00f3lo como una imagen miniatura (a m\u00ed me subieron una autorizaci\u00f3n de test de antigenos Covid y tuve que pedir que me la mandaran por email) + si subo yo o el m\u00e9dico documentaci\u00f3n, no me aparece en mi men\u00fa privado de la web, no est\u00e1n conectados. -----------------> Al consultar citas nuevas por videollamada/online fallan las citas disponibles porque te pone una fecha y cuando das a la flecha a avanzar ves abajo en resumen de todas que hab\u00eda otra anterior de fecha y tienes que darle desde ah\u00ed ----------------> Al consultar m\u00e9dicos en el cuadro m\u00e9dico, si le das a ver mapa (en general o en un m\u00e9dico concreto) el mapa se carga con Espa\u00f1a en miniatura que tienes que ampliarlo a mano muchas veces hasta que ves la calle y centro................. + estar\u00eda bien poder ver la web del centro por si prefieres pedir cita x web que tel\u00e9fono ..................+ poder ver las subespecialidades del m\u00e9dico concreto (eje en dermatolog\u00eda no es lo mismo uno especializado en herpes, que en eccemas/soriasis, acn\u00e9, etc) y tienes que estar llamando a todo el listado a ver qui\u00e9n conoce tu patolog\u00eda a fondo...",
+        "score": 3,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-04-27 21:18:17",
         "replyContent": null,
@@ -26,7 +38,7 @@
     {
         "reviewId": "gp:AOqpTOGasWJQ5cZ02C40VxL0k4272r-MpkYGtuyv9OK0xIczefn2QN-kLpoSWYvWHsEH2WL0tgcLvM-vzkdVNA",
         "userName": "Diego Ablanedo",
-        "userImage": "https://play-lh.googleusercontent.com/-2enHeJpCy8g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl5tR2pgbjKZgbc7hIQ93h2Dsi_KQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxiUR0BiVH1cWNURwu9BM_ohBR2aBcOWszo9_m6=mo",
         "content": "Todo perfecto",
         "score": 5,
         "thumbsUpCount": 0,
@@ -62,7 +74,7 @@
     {
         "reviewId": "gp:AOqpTOEI-k0Zl-sQvE7hbfY-8nuz0rdP6LwcavBN87PPaec4g0iR30-2XUEEfM5ubbCq2cKHhICf-xO4EVZc-w",
         "userName": "may caballero ropero",
-        "userImage": "https://play-lh.googleusercontent.com/-iUmtsmck9R0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmvIAhOjHJKCSfs98LeOhs1YpyPyQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzYYHyRZdk_ykqLrVWuVkwskUx1qFU0UHaQPU-a=mo",
         "content": "Buena",
         "score": 5,
         "thumbsUpCount": 0,
@@ -74,7 +86,7 @@
     {
         "reviewId": "gp:AOqpTOHE-PHY_q9nva1hwUbeHefdBhDkdDqvY4K_4F6xZEV2XPE430gCZYmTl0FeCoUhyTrmShcWomYRSXLseA",
         "userName": "sef sef",
-        "userImage": "https://play-lh.googleusercontent.com/-0Oi0e6ISfXE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckkkV2ZTWlQgF4tJInjDCDgUk90zQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwnscPmLI6m-p70UsgwIR5xIvQ1xUnPLeSkoTo1=mo",
         "content": "muy buenos profesionales",
         "score": 5,
         "thumbsUpCount": 0,
@@ -110,7 +122,7 @@
     {
         "reviewId": "gp:AOqpTOFYXfXceRWXlzNnsBo35YRkwVmbHu74vVrh80MoTVt_glNv0QIo5M_j1K81wi9_pM7SExPvTAwGi1n-fA",
         "userName": "Efrain Nu\u00f1ez Flores",
-        "userImage": "https://play-lh.googleusercontent.com/-mv-wOOY7xDw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWvTMjiy3lxkGRRowjqIbzMn7E1w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3jf_FdHYBv9tfeTVW3yUQ5jnW0mCjN792ncdt=mo",
         "content": "Pedi darme de baja me cobraron 15.80 euros y los pague y aun no me dan respuesta",
         "score": 1,
         "thumbsUpCount": 0,
@@ -122,7 +134,7 @@
     {
         "reviewId": "gp:AOqpTOF4u5pNyD_YvThCD7dABi1ReEMExBop8ZGtUsCKsGlGQQRqlz5k0wrWIJmyUTyb1PwPN_NwUgeT4Ctzzg",
         "userName": "Kledson Soares Fonseca",
-        "userImage": "https://play-lh.googleusercontent.com/-YMGyWyHcZ9I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmHlarKdDeuvw68RULG83b82k74fw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw2qee34wITmOMYw6Wn5lx9gjiwI0NqQHyH1ryg=mo",
         "content": "Fatal tamto la APP, cuanto el rendimiento nos marean con una multitud de Mails y telefonos de atenci\u00f3n al cliente, que te sirven para nada pues llevo 4 meses intentando areglar un tema por telefonos, mails u whats, y nunca logre el unico que lles va bien es el sistema de cobros (a ellos), que me cobro por duplicado la misma factura es horrible, una estrella por obligaci\u00f3n a publicar si no nin esto",
         "score": 1,
         "thumbsUpCount": 0,
@@ -206,7 +218,7 @@
     {
         "reviewId": "gp:AOqpTOG-L2kNAAK30men4dAjc9ek2O0p28wSdKNTyKV7NqZkdJwHsbliN8AdJFSrFdvO6ovFa45QaphiiE9FAQ",
         "userName": "Julio alberto Rodriguez figueroa",
-        "userImage": "https://play-lh.googleusercontent.com/-0ivCzepT_hI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkxiwhSMNHRATRuhiThOTWWEbckA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw5yOARUSYj8n0HodZL8z_EuDNGQzYAP6RT306q=mo",
         "content": "Esta gente son unos sinverg\u00fcenzas, te dan de prueba 12 d\u00edas. La primera consulta me la dieron a los 26 d\u00edas y VI que no cumplen lo que contratas y he tenido que pagar un a\u00f1o por la cara. Y para darme de baja he tenido que denunciar",
         "score": 1,
         "thumbsUpCount": 0,
@@ -218,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOHx_ExwFwKKMiLX7FCGSOa-0kyAMrc6rH8dc8fF1FNF8itYHSnRKbqaMGVgnvV2ISjQBUPphrYZW9zRNg",
         "userName": "Sonia Quiros",
-        "userImage": "https://play-lh.googleusercontent.com/-R0yUrtrMmzU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclilWV8IKOsC5MvuLbhBFIczG_mQA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMDe9Fn-lGOSzGqEXSgIl-VJFVQXBq2ZhVqqKp=mo",
         "content": "Muy bien , todo perfecto ... hE querido hablar con un m\u00e9dico en el chat para una consulta y antes de 5 min ya me hab\u00edan contestado , no llevo mucho con la app pero el tema de la carpeta m\u00e9dica , las recetas electr\u00f3nicas y la atenci\u00f3n recibida a sido perfecta",
         "score": 5,
         "thumbsUpCount": 0,
@@ -242,7 +254,7 @@
     {
         "reviewId": "gp:AOqpTOEv2L-_lZpHRw7ZKnkCQMFYuiVJxbmnDd2p2lktY4twDlzFUR7qjT9Gva6JFBDsO--S6Rr8rxOGvF-9ZQ",
         "userName": "Aurora Sanchez Gonz\u00e1lez",
-        "userImage": "https://play-lh.googleusercontent.com/-Ig7spHqLy8s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmIilsPkPnd-Us3qcoYdCXtlJRcmg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysGFFdpUIlsuGDRUxODG940uVrC3FvCSLJPOda=mo",
         "content": "Muchas gracias por su atenci\u00f3n desear\u00eda continuar con usted, muy amable,,,",
         "score": 5,
         "thumbsUpCount": 0,
@@ -254,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOERnH9cPLRq-V5F9S2FbyYfim8Fj7dOKnKde9MHR67Sr8DI1Q2e-AC8xDUxGL-MiZKWHOg7NYR4aQhW0w",
         "userName": "Pilar Ruiz Garcia",
-        "userImage": "https://play-lh.googleusercontent.com/-d-WEAnWjU1E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMns4cSdjZgz-aJWMU_ILwQwOJVg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzo4Ol2ec8BydZ6nSIWyX0RrpieHJ_MGrFNI-Fe=mo",
         "content": "Hola, me acabo de asegurar y dar de alta la app, es imposible ver el cuadro m\u00e9dico, c\u00f3mo puedo acceder? Si no, tendr\u00e9 que darme de baja del seguro",
         "score": 2,
         "thumbsUpCount": 0,
@@ -266,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOEOcHo2RH3kZOSZrmpDNjz3p89cw-bWCbTwb35V8NLr5I9qpBEYwcXSlNz5IAkKrJ4Mg399e-Ol9qmtOA",
         "userName": "armando cordero gomez",
-        "userImage": "https://play-lh.googleusercontent.com/-mftyqX2NKpc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_pExMyXoSA2KCTo5S69gVjiyGSA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDbUDWTlINs96m0ZhxxTtP99LAgCy9nlkgbR4h=mo",
         "content": "Fenomenal , muy profesional",
         "score": 5,
         "thumbsUpCount": 0,
@@ -278,7 +290,7 @@
     {
         "reviewId": "gp:AOqpTOEnSc9KqNoFVYnuBwVnQwsbgQKqKfD_3TR8aB4ttPNGEpZvQN3NcPEPIPTCgqs_oYqleYGKTcQMrwLwdA",
         "userName": "Lesbia Junieth Lagos",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjiJmbDAYILrcBV8jNK5Q3P9pP-XgNfnQgGBDNbu4s",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggt5o5Yho734luoxFjwC0g9gXCia1RMlOa-tXo3Iy8",
         "content": "Ise una cancelacion para darme de baja me pidieron 15.95 euros y nada isieron sean mas responsables y no estes sacando el dinero que tanto cuesta ganarlo",
         "score": 1,
         "thumbsUpCount": 0,
@@ -290,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOGrW8BgLodczf9CGBzW5WhWczbbQZUMqaDoPxy1czCwBwAv6z9TfX0fKK3bfMoDUUtWeKScrMilx0aQWw",
         "userName": "Francisco Balduque Cambra",
-        "userImage": "https://play-lh.googleusercontent.com/-kuxhKq5yJZk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnFGyF3694GFCKBipR2j8vhLAI1bw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwrZOX5BOfsaBdKHTDbmiJpG4sueKxUMEak3WXy=mo",
         "content": "Genial!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -302,7 +314,7 @@
     {
         "reviewId": "gp:AOqpTOGKo37mt--dURzBF3_Odu6mcSkoYoUOV4Wl36Sh1yZONhEVZe5rvKyHRpj0A9Lpgos_OgmvCKOr2DbLKQ",
         "userName": "Felipe Ramirez Gomez",
-        "userImage": "https://play-lh.googleusercontent.com/-GhyHFFhquw4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7X56oTsn6SiaHcSM3c2jF6qK2vw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz08Ek3NjJw_4Uz0nbLeZTuLs_VClkJ7pk78xIl=mo",
         "content": "Malisima no lo siguiente he tenido varios seguros m\u00e9dicos y esto ha sido nefasto, en esta aplicaci\u00f3n no permite pedir una cita por especialista ni por centro medico, en pocas palabras no sirve para nada tengo que llamar y esperar 30 mins a que me atiendan en la l\u00ednea telef\u00f3nica para asignar una cita puffff",
         "score": 1,
         "thumbsUpCount": 7,
@@ -314,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOFrJuZnprXu3lwr_HCU4qZ15RmfweBe4fK5YZ8PY_jEmUirfjskPQt1p2T-I0PGcVx9uXkRjlWi6l2lGQ",
         "userName": "Angel Ramirez",
-        "userImage": "https://play-lh.googleusercontent.com/-x1EvcQknEXU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckO18sgnRTczqULiRRhJUNEdZRBXg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyH_n--04AXcirUE6KooZUmDyGCvFLd0uEx_a5V=mo",
         "content": "Contento con el servicio",
         "score": 5,
         "thumbsUpCount": 0,
@@ -326,7 +338,7 @@
     {
         "reviewId": "gp:AOqpTOHGE1WQgyOfP0MUedg2aXLgYbPJRYdfAuI5VAO5zdhaIrQjDjB37bvP5hErLmMYcUV0RFv3uo5oag6MeQ",
         "userName": "bacoma jaen",
-        "userImage": "https://play-lh.googleusercontent.com/-hiOrrxyzZSM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmSx488-yKcPb9qK5xl4QLuaFu4w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDR3RO2tKTGGoi7Yek7lvoFQNMFYeyp9jQWsp8=mo",
         "content": "Horroroso tanto la aplicaci\u00f3n como los servicios que prestan ,ya que una consulta de dermatolog\u00eda te dan para dentro de 4meses , tardan m\u00e1s que la p\u00fablica. En cuanto a la app ,las videollamadas no valen para nada por qu\u00e9 no se ven,y otra vas a coger la llamada y se cierra la app,cuando consigues cogerlo,pues se corta y no se escucha muy bien Si haces un chat medico te contestan con suerte cada hora ,otras veces te cierran la consulta directamente,y las recetas nunca llegan.",
         "score": 1,
         "thumbsUpCount": 11,
@@ -338,7 +350,7 @@
     {
         "reviewId": "gp:AOqpTOG9-S4Za0DGKiN4zClGgmsegk0aYbIPjzim_cbvVQAIgrFE3iVLnKwsT8eHM4SFzNouBPGMRLEzsHpskw",
         "userName": "Felipe Cuesta",
-        "userImage": "https://play-lh.googleusercontent.com/-mGcgFPZtIYE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOh3rlASJPl7M-mSr-BocGZf-3HQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxi3zCHZVDF_5U3EyhrbStdvYmx4AiFfE2tcTb7=mo",
         "content": "Mala aplicaci\u00f3n adem\u00e1s en dkv, nadie sabe nada y te derivan a tel\u00e9fonos, algunos inexistentes.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -386,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOG8dxJtG5j8l7OJhi9ZmrDCIiDXT8NBAHs21u-Py46IKguHn7bnWXIDl_tCHinGxQPIjCoGWlfqyiXbzA",
         "userName": "Anthony Reyes",
-        "userImage": "https://play-lh.googleusercontent.com/-XA3e-1zky1U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGxHJ5QgdztDA_ckfNQiqe-gXUGA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxkTEOnC9kuE7bKuxn4DWHhqFOQ_NozAaUhUmt-=mo",
         "content": "Excelente app me encanta",
         "score": 5,
         "thumbsUpCount": 0,
@@ -422,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOGNdJWLdSWd1_o-lOs8kniE2AR5ZyMoGXgRzhK-h3qjejE7and_QEccGDochXKPs5rhDQemKEiRfMdJsA",
         "userName": "Yuri Cueva Cuenca",
-        "userImage": "https://play-lh.googleusercontent.com/-u5SpNrwjxNg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclU8sJSQRpYOjb0YhfsYJxaQp_Tag/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyeXW6iSkEbRLVgsclObz4GhAlZuUVJLJeKWyUq=mo",
         "content": "Pues la verdad que soy nueva en esto pero la carpeta salud de mi hijo no se abre por lo cual no puedo entrar para ver las recetas Muchas gracias",
         "score": 5,
         "thumbsUpCount": 0,
@@ -434,7 +446,7 @@
     {
         "reviewId": "gp:AOqpTOGJuIGOZhtZwcE-jewadW3SDY88QEin_ZJiEN6uW4le3bJn220mSDjMI2vFVW3DOutiq_JwTv2izfcByA",
         "userName": "ezarzos2",
-        "userImage": "https://play-lh.googleusercontent.com/-cy15ec_6x9s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhVBUQYoD7IuS05o-PBtHi6d1Vfw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxuvpEi12khNocqWRNMqO1XmWVrfScgUb931sbh=mo",
         "content": "Buen trato",
         "score": 5,
         "thumbsUpCount": 0,
@@ -458,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOEtoytpLPO0X2Pa2FdAlNW6OY_pwo7KNvmSlg-4AJtkJFef_KCPK5JVg5UHFu7SxvlEpehstzzAtT_iPw",
         "userName": "Ana P\u00e9rez Lucendo",
-        "userImage": "https://play-lh.googleusercontent.com/-veXB5xNxEIE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDxZMUL11piTsrJ9S0RLCnlMCA5g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwGT-4t_ZxwHZg-gXsgsVsY7mhOXt6hD_phfIWP=mo",
         "content": "La forma de buscar m\u00e9dico y seleccionar es muy mala, la de Mapfre funciona mejor, saludos",
         "score": 1,
         "thumbsUpCount": 0,
@@ -482,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOH-H3oMafQDkCAoig4S6R6OzBPo3frNhSR7clICaUJukbkCxDnHUz_8eVI4hWF6MDKxJmLXMKSvG5-21w",
         "userName": "Conchita Blanco",
-        "userImage": "https://play-lh.googleusercontent.com/-5ibAxvaIK4k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtjTup2qrT5iXUQQNaY5-2mNs25A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy5J9T1bzG5bQfNGnjuRTWO_4P39G7treOpP41m=mo",
         "content": "Se bloquea al poner el correo y la contrase\u00f1a. Tuve que llamar para que me lo desbloquearan. Y otra vez mo pude entrar, se volvio a bloquear y la tuve que desinalar.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -518,7 +530,7 @@
     {
         "reviewId": "gp:AOqpTOFvdrUtQ18782fUwSbspsWmSR1QK9YcTKiVx9T0M8fMDTuJ22wg8RfMhFobhErJwabZKkzjKy7JwWnKuw",
         "userName": "Mery Mart\u00ednez",
-        "userImage": "https://play-lh.googleusercontent.com/-WVzFS5uGgus/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclbY3GQ0R2lk8AljWuDAY972mH6kg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJybyNtKBC2jP9u82M-ja7fPfaFueWMytaZCYzTi=mo",
         "content": "No me deja hacer nada, no tengo donde a\u00f1adir mi tarjeta, ni el cuadro m\u00e9dico....nada....solo tengo una pantalla, cuando me consta que tiene que haber m\u00e1s....",
         "score": 1,
         "thumbsUpCount": 1,
@@ -530,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOFNQJaAxC2ZE8G54h1akuhjt4dDqaptTQ671FRecgE0aoYvPCXKTzGgcgiKEfK3nlM7W4ahHiAhAlGA3Q",
         "userName": "Maria Clemente",
-        "userImage": "https://play-lh.googleusercontent.com/-r3xYiI_fUj8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclJ_FvMzGdqEVwRiSGkq3SjRNugnA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7voU_8cB3TTqVYV6V66X4PWT6Z1hAQ1g2hGYp=mo",
         "content": "Hola. Quiero saber la aplicaci\u00f3n de DKV donde pueda ver los m\u00e9dicos que me entrar, hospitalizaci\u00f3n... Porque en este aplicaci\u00f3n no me sale.Un saludo",
         "score": 4,
         "thumbsUpCount": 0,
@@ -542,7 +554,7 @@
     {
         "reviewId": "gp:AOqpTOGpvUMbSxwy8b0fkxoCPglCzDJ4nxmAXwdnUVvKSQRKtz0R5Lh43Tl8c1uoJxTuI5pmssJI6_JhAbMCPw",
         "userName": "Rosa Belen Garcia",
-        "userImage": "https://play-lh.googleusercontent.com/-7Cj1-IK17gA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnej9f3g-o9gzSK-mXIgvZsvUDKWg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwdsi49Y-EKF_HZ7pgfyvFTrBkSehcTLSnmOwdv=mo",
         "content": "Llevo toda la tarde intentando descargarla y no hay forma, vuelve a empezar una y otra vez. Ya la tuve que desistalar hace tiempo porque no funcionaba. Llamas al telefono que te dan de soporte 9300..... y nada que mandes correo electronico. Desastrosa la aplicaci\u00f3n y la atenci\u00f3n.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -578,7 +590,7 @@
     {
         "reviewId": "gp:AOqpTOHN08BtOhnyHOzQhwfb5SwaFkrKopS3zujTkLx_DhFQGfmVyAGP-2LvU1auhceLd62h69PkI6um2GJliA",
         "userName": "Daniel Jorques",
-        "userImage": "https://play-lh.googleusercontent.com/--i_cLYO4iFM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7OY3y_-SELkok-bYUR7jjQdn0pQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzNu3X-u-B66VcjC61sZMk-4FTEwPsZaqSPM7sY=mo",
         "content": "va fatal",
         "score": 1,
         "thumbsUpCount": 0,
@@ -614,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOHiBrIgT0PwPA2pUKWiCYdNDvYFiMySlEhDlqelcJGvEEZ5HC8Ce3v-XsOiGF93dFNGdjr7LYg3kIxULg",
         "userName": "Roberto G.G.",
-        "userImage": "https://play-lh.googleusercontent.com/-kn1Exf0q3XA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn38DbiwsBEQpl-Zg_JBvJu8PPFrQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhhFaWnxH1dahLUhaAiwNwhe9fCjH-Nwhf6P8o=mo",
         "content": "Los m\u00e9dicos son monos\u00edlabos. Te responden escuetamente por chat sin aconsejarte nada y tardan 15 min. en atenderte.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -626,7 +638,7 @@
     {
         "reviewId": "gp:AOqpTOG31OKvMYQVPKzd7U1BzEeXV3yMWIp37rhS2IuBY3KqHmzSnOjGYOGAocyzzgBx0wGee5N1fm0151cSqg",
         "userName": "Tito Carlos Publio",
-        "userImage": "https://play-lh.googleusercontent.com/-tyLSfCEvBRI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclEGBJAffKK1oQroL71B3esC_HQUA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy06PfSETdWjDqfGJjPXqD4XX9gtAL5TlvQAHDi=mo",
         "content": "Bueno, la verdad que no es una aplicaci\u00f3n para tirar cohetes, pero a mi, hoy, me ha funcionado muy bien. He podido contactar con un especialista, que me ha tratado fenomenal y enseguida he tenido su informe. Gracias.",
         "score": 4,
         "thumbsUpCount": 3,
@@ -710,7 +722,7 @@
     {
         "reviewId": "gp:AOqpTOFsL1ttzikhxpY2TKF4HQiY48mA5VmqQFPiLIYwAnPQG0HB8U5TB62FENCZgd0dVqgwxYiPcgRcjTgkWg",
         "userName": "Mariajo Benito",
-        "userImage": "https://play-lh.googleusercontent.com/-PdRvkjIJFYM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlKBxsQXXFalsjTN9BDSv7GIViBA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0M_UMPsYSvnHp55bjV1DZfhIH5-AzSBQp9HP4=mo",
         "content": "La aplicaci\u00f3n tarda mucho en abrirse o se corta usando la video llamada. No aparecen muchos m\u00e9dicos en los listados. En general, no funciona correctamente.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -722,7 +734,7 @@
     {
         "reviewId": "gp:AOqpTOGbWJtzLSHIdfMWWFpgYJ-ml3bzp9UX0WEDpRdbAkVThGJTQxPc6P-utdOsWXaYQRKl95UwqQwZ6dyJdw",
         "userName": "Ariel Menjivar",
-        "userImage": "https://play-lh.googleusercontent.com/-x5vGb8RfDIo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUavIR8Wo8raDovFyeTdDrXknlxg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw7aNU6ruzSJUHMS5VYcJjBPn8zGcWwENufNlY=mo",
         "content": "Excelente servicio",
         "score": 5,
         "thumbsUpCount": 0,
@@ -746,7 +758,7 @@
     {
         "reviewId": "gp:AOqpTOEg2ubY7AXkSBkYmnqnFJsvNs69tdjf99o2VLeylewRIYThGQLZJuFKgbuc4hCtVeXryXIDnGBvZ7jDIA",
         "userName": "Myriam de Soto",
-        "userImage": "https://play-lh.googleusercontent.com/-FmYjc0JtTfE/AAAAAAAAAAI/AAAAAAAABvQ/AMZuuckv3tKMUfo4V0xAcFX8jqjP-aiBxg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJydBd-MMpurm_Eisv8m2HO9VArK_YdSlLo9LKSo4w=mo",
         "content": "Buena y util consulta medica",
         "score": 5,
         "thumbsUpCount": 0,
@@ -758,7 +770,7 @@
     {
         "reviewId": "gp:AOqpTOEophMk6hGWWDgKgiu_W5BHuAiaLo-08pzpbxyZppGxKigREvPWN8LyqOhCcpIbMfVU-c61w_vC5z0fQA",
         "userName": "DCC",
-        "userImage": "https://play-lh.googleusercontent.com/-LCeXgXWRfnQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmbD6ZIlC5DNHaZlFqlNFy0zyue-A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-GF8NYOVZ_pGZLCSV3yFETU0sLGkvtZjtQHPj=mo",
         "content": "Da error 3000 al intentar subir archivos a la app",
         "score": 3,
         "thumbsUpCount": 0,
@@ -770,7 +782,7 @@
     {
         "reviewId": "gp:AOqpTOEEfVhtaIrJRPxZx9St2Aud7inpHvizE2PfznPCfBQMP46tA3V7aPCQXIDivIHF6-1L08980rC8pT6f4Q",
         "userName": "Avelino Hernandez Valdes",
-        "userImage": "https://play-lh.googleusercontent.com/-3twmAz5I5s8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZ6Vr-sM7TL1YnwfyGW59rOgcyNw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzhvjIj3Xfiqsh1f46eTX85rkrGa25Z77sTKhX-=mo",
         "content": "No me queda activado el acceso digital. Cada vez q entro selecciono est\u00e1 forma de exceder pero vuelve a ped\u00edrmelo cuando intento entrar de nuevo.",
         "score": 2,
         "thumbsUpCount": 2,
@@ -782,7 +794,7 @@
     {
         "reviewId": "gp:AOqpTOEDk4dHVGQ497iayG3XTlRfJ4iiDKmWJ_LHDordPqumGxdM7MOCvviBje6lvvCcrL9hr59hA-cPIDijAg",
         "userName": "Consuelo Delegado",
-        "userImage": "https://play-lh.googleusercontent.com/-CviLUokWGT8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclP-xzuxGcglsrIIgjskIUAM0mGTw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwEjRRn8sz7WL7RBIeb-c63RtH75S-nXkf1KvOT=mo",
         "content": "Horrorosa de mala voy a meterme y no me deja deberian de hacer algo para que fuese medianamente bien",
         "score": 1,
         "thumbsUpCount": 0,
@@ -794,7 +806,7 @@
     {
         "reviewId": "gp:AOqpTOHGiWB9vZR6sW58eR5ZxRSKbrhD45Bcz8OqdanwUGxXzXO7R_SS09O_yjX7UjWy4okW5RbBv1c8PxZkig",
         "userName": "\u00c1ngel",
-        "userImage": "https://play-lh.googleusercontent.com/-xSWXL7sh26w/AAAAAAAAAAI/AAAAAAAA84A/AMZuuclpKoae9BYYU5C4EFcnhmmh9TvoLg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz2nUpSHlIpTgPz856d9Guoeoa8wkrQnRfWaT9qKw0=mo",
         "content": "Impresentable, te vas a la web y tienes toda la informaci\u00f3n del cuadro m\u00e9dico con los tel\u00e9fonos correctamente, no como en la aplicaci\u00f3n que parece que la informaci\u00f3n y los tel\u00e9fonos son incorrectos. La \u00fanica utilidad que tiene esta aplicaci\u00f3n es ocupar espacio en el tel\u00e9fono, gastar datos de la tarifa y no s\u00e9 si recolectar datos lo har\u00e1 bien.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -830,7 +842,7 @@
     {
         "reviewId": "gp:AOqpTOH7aVXt1tu-pmEWmjauPjuOlSNZ-q-n0izGHQ4muYE8b7UesT4RZWbh0kIJvkm2Xb_IWW3gESF6jWUVgw",
         "userName": "Enrique Vargas",
-        "userImage": "https://play-lh.googleusercontent.com/-RTV2989syKo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnvjSFyAfHqn8ucfF4VaCtZTbmnMw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTlB8ISvf92HI1qb8rhtUhzEfsYEMYvNt-Idx5=mo",
         "content": "Mui util",
         "score": 5,
         "thumbsUpCount": 0,
@@ -878,7 +890,7 @@
     {
         "reviewId": "gp:AOqpTOHe8y5fK_qVjcqOv9CXGFvNGSHhxBYqK5MXrN9cEUuvUm7IWpnUN0XAmNxbcXrZw64yPwK-jeqU0KUYKQ",
         "userName": "Iopons Pons",
-        "userImage": "https://play-lh.googleusercontent.com/-CDdKuvfgCoU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnVNPm3Iz7TnOhXwoDXPyqgIrSZpQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxxDAWiiRD1eZLSfqxTVdxi1ZNGihSXCUi-gJBd=mo",
         "content": "De buenas a primeras no puedo acceder a mi cuadro m\u00e9dico, que es lo que pasa??",
         "score": 1,
         "thumbsUpCount": 0,
@@ -890,7 +902,7 @@
     {
         "reviewId": "gp:AOqpTOEMvZCRJgie7I0zBGZ5Zt3Z9S4be7iPzW3xNSZDG0XbJ5-vFseFA3sPXpSGv-6_2AzyZxvCkpZziCfycA",
         "userName": "Pilar HERNANDEZ SANCHO",
-        "userImage": "https://play-lh.googleusercontent.com/-wWNb4fDJL44/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclYs-8kMH6uTFYbRKR9NnP3BI6yDg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwgO-2LzajkL1WNzk6LBNiR_B5MzX4iealoI5S6=mo",
         "content": "No me funciona",
         "score": 1,
         "thumbsUpCount": 0,
@@ -950,7 +962,7 @@
     {
         "reviewId": "gp:AOqpTOHu295qF7fgRSEzd9xvgDyh-xCpMKVPYog3SdMPmnYpt0GBdh-g3XKrC_FYdd4DoC7fcT_h50602MVkbw",
         "userName": "juan antonio cano",
-        "userImage": "https://play-lh.googleusercontent.com/-fUn2QGGNsAY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckilyFR79ZrsLk3BrBS7Z6VsJnQ1Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz4bw_btv0TJK40DXuEqkJTw_Ip5BMAARCcAh-e=mo",
         "content": "Es Domingo y no puedo contactar ni con atenci\u00f3n al cliente por tel\u00e9fono ni contactar con un m\u00e9dico a trav\u00e9s de la app. Da error n\u00famero 6000 todo el rato. Lamentable.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -962,7 +974,7 @@
     {
         "reviewId": "gp:AOqpTOGX3KHQbaIV7QOpiyrJ2B8ZwRRwF-7Agn9y-Am9rxTAwzgvf8Pno_wCzZdVcqJ3YmHylo7ygra2FndTBQ",
         "userName": "Richard Gael Montes Villalba",
-        "userImage": "https://play-lh.googleusercontent.com/-bWBrCr0gYFQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmr6ufWqVTVFMAWIyFfLqylKmDhTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwf0tSCWn8LlPrcYXeh81UgjfwYKl3nIELpVYL0=mo",
         "content": "Muy buena",
         "score": 5,
         "thumbsUpCount": 0,
@@ -998,7 +1010,7 @@
     {
         "reviewId": "gp:AOqpTOGkQaSq8Tx4aD5KeULpK9IWVTBbdE6hX1Ion2QDbDvWrv6Q0u_yhzYGUxUd4qnH-JVnEV5iZgd6UDy3yQ",
         "userName": "Manuel Herrera",
-        "userImage": "https://play-lh.googleusercontent.com/-g3ovzyBVLTQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmK1cQgRINdYL4JcIn4dKe6_Yl2Ww/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxmKIOT3YtdrUugsRETIyztz8RrcyRT2bXwsOol=mo",
         "content": "Nada , basura , entras a la app y al rato te saca y vuelta a empezar .",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1022,7 +1034,7 @@
     {
         "reviewId": "gp:AOqpTOHiFag8YRgXwyMYk9y94CpKO7mKVc3b-JTRt2M-ONX6vZ1qaSrc6QJ8gkACM5YD2Q7pc7oDwvcoMLtLRQ",
         "userName": "To\u00f1y A Lopez",
-        "userImage": "https://play-lh.googleusercontent.com/-EIPaL5LpjEs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclDYyL09Y5GKh9UtKMc_I6RCZSRXg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxEhv1_GNjDVxERaGnIxOz3dRs_9jFKR6LR25w=mo",
         "content": "Da bastantes problemas",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1034,7 +1046,7 @@
     {
         "reviewId": "gp:AOqpTOErqM_uNa7tWMeGfu7KHVDpxpSXO1bGAd0aok_NwIty41AFGLRXIw3pojDCsk4Zl7vja0zHCT-sGpDebw",
         "userName": "Alfonso Martinez Garcia",
-        "userImage": "https://play-lh.googleusercontent.com/-MIMGFx8QUkE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckVE048C4qBauqhD3kX7CTixOcyew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxPqxIZ2L22oPhWlgw4w0OrTEr0LMQxpZThDfbC=mo",
         "content": "LLevo como 10 llamadas,no solo para la app quiero cuidarme mucho que no hace nada de lo que dicen en la informacion,en mi \u00e1rea cliente cuando intento abrir cuadro medico me da solo la opcion de fisioterapeuta \u00a1\u00a1\u00a1\u00a1\u00a1,en la pagina DKV Famedic,aun no he conseguido entrar y ya he pagado 2 meses de cuota y he puesto a soporte 3 correos y he llamado a 3/4 telefonos y nadie me soluciona nada,Madrid,Jerez,Barcelona etc etc.....muchas deficiencias en el soporte informatico,empezamos mal si no puedes localizar ya el medico al que acudir......",
         "score": 2,
         "thumbsUpCount": 6,
@@ -1070,7 +1082,7 @@
     {
         "reviewId": "gp:AOqpTOEk0LZXZNL_Q-NHSVAy30f-DpsOxIViBvwbOGGQDuz4G7ZSfsitTzIiEr_Znna5XeBJ9LUQwgn_I3DE3Q",
         "userName": "Luisma L\u00f3pez",
-        "userImage": "https://play-lh.googleusercontent.com/-nNod4zB-9bg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmWo9W4eJuwAZnufRW79Eb9dsuzZA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbJV39EJOOo8-1aqPyavsruqrzVCVRXV1WzI0G=mo",
         "content": "No me deja entrar en la aplicaci\u00f3n me dice que mi m\u00f3vil est\u00e1 rooteado... Y no lo est\u00e1.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1082,7 +1094,7 @@
     {
         "reviewId": "gp:AOqpTOHp-yfF2-00Dffkzdw6MQmDJ2SrIdnq6gkZYtguuE8b6jYZuEU4ohyV2kbhWjrE-sInCtaXCdKuCGIR7w",
         "userName": "Hilda Silva Peluquera",
-        "userImage": "https://play-lh.googleusercontent.com/-M_sAD9cibPw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmpp5-T_9zZ8p3aoaJXumaYG6ewEA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwxSsEZ_3VaGc5MQhIIwoPFj-HMKV3l433kKV2P=mo",
         "content": "No puedo entrar ya que me dice que no tengo habilitado java srcipt, entro en mi navegador y s\u00ed est\u00e1 habilitado. No encuentro la soluci\u00f3n",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1094,7 +1106,7 @@
     {
         "reviewId": "gp:AOqpTOFZJ5oJq-TBYqLFMIT1qjbfrRiyTga1GCpDqRL1BoYudjGprSMh3-VX9vm-30bXO_WGPCirjbr2UMGXtQ",
         "userName": "JUANMA",
-        "userImage": "https://play-lh.googleusercontent.com/-4cp3r-ek8LA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQH5jI5P1Sd_1Jv46pOraPbRqoGg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx8-cgbBz8yDQooB2XfUGNboS4M3JgoSZCufFWC=mo",
         "content": "Muy buena",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1142,7 +1154,7 @@
     {
         "reviewId": "gp:AOqpTOEXXhJ3QycCaQ8_RQtLaUbA_AfDbxQewz4QnC9cMBXhC7Tq55LD-AV_PXU8ZLXVD9DgxCPprTcMO82r7A",
         "userName": "Paco Jeremias",
-        "userImage": "https://play-lh.googleusercontent.com/-0O2srcs1chk/AAAAAAAAAAI/AAAAAAAAALg/AMZuuck2yJSBHW5up8Sb71UG7veyNusIvA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9qvJgNxmgQ630HiGL1sz9dry43mSidtcvNBgkig=mo",
         "content": "Es un aut\u00e9ntico desastre no hay forma de conectarse, muy complicada la aplicaci\u00f3n,te pide muchos datos para entrar.La dej\u00e9 por imposible incluso despu\u00e9s de hablar con un t\u00e9cnico.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1154,7 +1166,7 @@
     {
         "reviewId": "gp:AOqpTOEdYAZwHFegvIPtDWIpNbC4hJpONqk4OrTXCHl-lxCkhNV_09J61VIfJM8M4EUO6V3UX7vixkEXabhxPw",
         "userName": "Conchita Soria",
-        "userImage": "https://play-lh.googleusercontent.com/-xcicE5_14Mk/AAAAAAAAAAI/AAAAAAAAQSU/AMZuucksUiw1J0fNwELQk5rj5XRGU6oZ2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwthVcPNRUzxgPd7_lP-nUBA-6SEl3C369pfIgSak=mo",
         "content": "La aplicaci\u00f3n me da error de laboratorio y/ o se cierra. La he desinstalado varias veces y cuando no es una cosa es otra.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1190,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOG9Kog1nIv32lt6cXqa3I4V8psgay8UgZ4otDvZduuhQU_91jkNFNIz4qShVfOBCdiCJRPHww4fZFM4Tw",
         "userName": "Antonio Moreno",
-        "userImage": "https://play-lh.googleusercontent.com/-QUMeHGsWkJk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnLfznYVSMVvtyhh8kCUUdqfP53aA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxCiOvsXW5MLleCvr3sGh0KoBJXYO8huK_BVgL=mo",
         "content": "Una App que integra todo lo necesario para tu salud y el bienestar de los asegurados. Me parece un gran acierto y aporta cercan\u00eda con los profesionales de la medicina y acceso r\u00e1pido a datos, citas y consultas. Un gran \u00e9xito. Enhorabuena!!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1214,7 +1226,7 @@
     {
         "reviewId": "gp:AOqpTOE8HZSL1rjMUeOxO5UfB5b-ytrEzUEmuuKV2JrqvxjNsJ4ShgZzcNk9skMrwJ823GBvUidLoj-7yXX5ig",
         "userName": "Raquel Diaz",
-        "userImage": "https://play-lh.googleusercontent.com/-Uwj7lzoXIgU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMdET3nsvC2AJSp2EhmmW5ujbvdw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz8Sgm8j1N3ySRokNWpJBuG2chImK8lWniHVj7F=mo",
         "content": "Imposible hacer una b\u00fasqueda en el cuadro m\u00e9dico",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1226,7 +1238,7 @@
     {
         "reviewId": "gp:AOqpTOEA_OPTOkR1HZ9hKV3LCNssFk36_pf3c81dYBYWeiXJ_ExIbAlqxtNl4kY-C_PHcj-UPLaETjoHkC78Pg",
         "userName": "rosa Palomar",
-        "userImage": "https://play-lh.googleusercontent.com/-svHeP5cXi28/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckck1kzfVUbyAoBzJK1LwERODZg8w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzT9t5AyFWVyYuXxnbnvQ1Y2alw1UxFd318JIoT=mo",
         "content": "He intentado entrar muchas veces desde m\u00f3viles distintos y la aplicaci\u00f3n se cierra una y otra vez. Necesito los informes que tampoco me quieten enviar por email as\u00ed que no se que se supone que pretenden que hagamos. Necesito soluciones",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1238,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOFjS4LOzEExlbiO1I20ZIKRly_tUxbBiU39XmIR6if9Rpb-ManW0yfp4Ip67phG-60Q_OHxq2IoDeJ_zQ",
         "userName": "Rafael Rubio Domenech",
-        "userImage": "https://play-lh.googleusercontent.com/-Tyegxxqvi5E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclrTLnXwMto3TtLev3s3oeyChkyyg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXYceZqRpzRUBVA0f1cFAG50m0f313Y5AMLLYh=mo",
         "content": "desprecian a las personas de cierta edad Borregos",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1262,7 +1274,7 @@
     {
         "reviewId": "gp:AOqpTOGkHAqVZ6e5KkVMxhymZ8xNJ6DO84OZTMdwz03YD59A9uDFyW0eladWSCw3fvjCi6iWz7dElcNRv-Yn8w",
         "userName": "Mar Moreno",
-        "userImage": "https://play-lh.googleusercontent.com/-DovTPqUIdFI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnu3SLpSZlac7gpd_2M6iOXM6WO3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyytLipSgOtXBpFxpTL0cr1KwgxXg5MiCAqXaUj=mo",
         "content": "No abre bien la he desinstalado e instalado un mont\u00f3n de veces. Es p\u00e9sima",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1274,7 +1286,7 @@
     {
         "reviewId": "gp:AOqpTOGkJOeGbHKyd5YdMunBnyFCKQWjKMFSI1xfNzYARuq2y4JRvqqQgxMj3XaKRu8FbIRA2s5yppUxma_-yQ",
         "userName": "Isabela Arias",
-        "userImage": "https://play-lh.googleusercontent.com/-f-nw559Yvpg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmo8UwQwe-zItnCfd6hW_pgZR0EYw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzsyYvo_9ECJEOJ_-7nRVSV_A8QX1YA0961nYiw=mo",
         "content": "Muy mala app poco amigable",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1286,7 +1298,7 @@
     {
         "reviewId": "gp:AOqpTOGbaixgmrdjNmvMaG4YBR0-IC1bsZqyQ-aYWXo8DG7Ave-Bm-phg834zLdRSMGvCEZFXFQIkonPaAJxYw",
         "userName": "Adelaida Granda Ant",
-        "userImage": "https://play-lh.googleusercontent.com/-HPvitKT_UfI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnow5mQupGYgM99zWpw1z7kG-ZC5Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJywGQG1-100mQQP3jWs7pzmy4KPK8IQrb52CqZr=mo",
         "content": "Es la peor aplicaci\u00f3n que he visto. Nada intuitiva de usar. Muchos fallos en los datos. Decepcionante.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1382,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOHyyc3C4XcCQF4t7Wzpfa5ZE356QdgB_H5P_605giV5pbmApkiR8WWJjIydimankJNaTA9JiTdkWGMT8Q",
         "userName": "Jesus Prieto",
-        "userImage": "https://play-lh.googleusercontent.com/-9_O4d1PwLCA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnY3KTvV-cvKMpYSP7TGa4CDTiRIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwmH4-PbIB-scw5GUWmXiEKArFnk1hKIK220_Ir=mo",
         "content": "No funciona,introduces el mail y la contrase\u00f1a y se queda en la foto, tengo Android 10,espero vuestra soluci\u00f3n, gracias. Buenos d\u00edas os he enviado el correo y digo sin poder entrar.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1394,7 +1406,7 @@
     {
         "reviewId": "gp:AOqpTOEmC-47rwYXlQuBytEdZw19OU9Xrck1tMatopUb11KkNey8CBG0LXA1t6t0ESOho7XC1ELl9KjxsJbPWg",
         "userName": "N Ah",
-        "userImage": "https://play-lh.googleusercontent.com/-MJE1C9xyN4g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqRoNzduc6NqFWUoybQXqCBWlOhw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0zx-NN1ej6fiHlgPDXlusQ_wI9Ndmx_rPdWtw=mo",
         "content": "Vaya tonter\u00eda de aplicaci\u00f3n. No sirve para nada \u00fatil y encima se queda colgada.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1406,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOEZE7i5Yb2f0auWX0j9Kun91k0I-1AxG5Y47LbZlPU8aoNB-2MxtLLX9Dipyn9pDt2o6ttfUYQHRzjGjQ",
         "userName": "Fernando Elos\u00faa Gracia",
-        "userImage": "https://play-lh.googleusercontent.com/-HwdRJ2lmoaQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmxeRAnpUesiKpbOAwvIORqRODqPw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJya90BdmdFH5jgiufI-L-VzZDxsQZnsa5mKJd8C=mo",
         "content": "Lamentable: Continuamente se cierra la aplicaci\u00f3n; imposible entrar en Carpeta de Salud que es donde te mandan autorizaci\u00f3n para la prueba de ant\u00edgenos. Y lo de intentar llamar al tel\u00e9fono de contacto ni lo comentamos. 1 estrella porque no se puede poner 0.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -1430,7 +1442,7 @@
     {
         "reviewId": "gp:AOqpTOG3SF341-PTkx6KWtHEmuoHY_WwpaZVzqQ_V611ZElJ0C123kPgdH7CczzzJNAHVTBUmM85A10GrJ0NoQ",
         "userName": "Francisco Quesada",
-        "userImage": "https://play-lh.googleusercontent.com/-8cb4u-xhoes/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm_D0edTlYOP68TMDg-Ai_-rVuUnA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkv36EQp7RPl-7aACdWEK3Gf2CD05_V_0juC2Z=mo",
         "content": "La aplicaci\u00f3n no se abre casi nunca, y cu\u00e1ndo abre, al poco tiempo deja de funcionar. Creo que necesitar\u00eda algunas mejoras.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1454,7 +1466,7 @@
     {
         "reviewId": "gp:AOqpTOFg81dlpf2ZAoPdnKGHyryrw7bhwzhq1zALjsDDx8f6y7AUWQLbDHE9zfR-4ADiCm01QvH6yZKbRSE87A",
         "userName": "Nacho Egea",
-        "userImage": "https://play-lh.googleusercontent.com/-4JlOR-LlhZI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGsn6DGx8K8mpi4yf0T4jsMcLZNQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwk3oFEsb9pG5ChLN0tXgz_slLq6FlLMGfqkO6q=mo",
         "content": "Aplicaci\u00f3n espectacular con multitud de servicios de salud para poder utilizar y de uso muy sencillo. 100%100 recomendable!!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1466,7 +1478,7 @@
     {
         "reviewId": "gp:AOqpTOHLRepvECKtYG4bQTNnTvkF9t9wFvZd-aanAslkJOJMgedvHM86hx5Rqh1vQ987RIJFjb7I0YKuLinQug",
         "userName": "MATIAS MEDINA RODRIGUEZ",
-        "userImage": "https://play-lh.googleusercontent.com/-sY8n18xi4Ao/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckpx3veWBSYNRpUGutPG-TnY_DzJw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzdTfPg-VNAx4tpU8R4Zo-C6cyWbKi_RAmaDecf=mo",
         "content": "No aparece por ningun sitio lo de la tarjeta digital.Es un enga\u00f1o",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1478,7 +1490,7 @@
     {
         "reviewId": "gp:AOqpTOHaZFn02-pewDvAjWKoYPMncBzXPRp8rMV2rD3baC1Flq875kzmzkIRqai57n1TKaTNCK-JymvpL1aRZw",
         "userName": "Arturo Borja",
-        "userImage": "https://play-lh.googleusercontent.com/-_mhrEk79nvs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckqthWIOEwGczD5696ZQBJYRPOYuA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzkYDyAtR5FtQTHcl05jh5RrXq5Vd419QSQHTqm=mo",
         "content": "Mala experiencia. Intento entrar con la cuenta que ya tengo en la app \"DKV seguros\" y no me deja, me tira fuera. Adem\u00e1s resulta lioso tantas app,s de DKV, para lo mismo. Deber\u00eda haber una sola.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1490,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOHwg0fSLZR3Q3wzRKOMu6GSgj_O0F6RRvTiQi5mmHHT9ZCL6cJWF2ZajflAtyodtttDzXgRoVL9w0go4w",
         "userName": "Sagrario Gento",
-        "userImage": "https://play-lh.googleusercontent.com/-Y5aBouM6Ry4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUFAt9WvSNPw6avkLlwNCl1LwyUA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0uaHyGiV9bcZFzOZwJwamD9s9lAQEBbiqjnQO=mo",
         "content": "Muy agradable",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1502,7 +1514,7 @@
     {
         "reviewId": "gp:AOqpTOFd8M6_ttDbTYamoYxcze-2BqOkcpjxQNsFmJnPGkMzHBNa4VoIUWDvtlcV8JT6Fd4fOoxBqYp6N-m40Q",
         "userName": "Carlos Monne",
-        "userImage": "https://play-lh.googleusercontent.com/-taZbyPxHmDg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXnmgX45WnMx1sWnuCohWvAh3fqA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUHk5FOx3Q8Evhqp2YKiMf-QmcJioj_RZbpl7M=mo",
         "content": "Ni se instala bien. Como para confiar",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1526,7 +1538,7 @@
     {
         "reviewId": "gp:AOqpTOFmU0lMMSVcb7c1EUUFWCvQIkTwnZuAvxXoHvOZQpxiQa9uCRvepfpxzLtXGouqD27Y1kqHENfXQs2xCQ",
         "userName": "Mar\u00eda del carmen Esteban penacho",
-        "userImage": "https://play-lh.googleusercontent.com/-lx1g3kY9kxY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyX08wiKC4jdpo4PbAt6pyZFWiiQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwEbKZIkcrONpt57b3gB8ihMgWp4ZJ2lZ5ArCjg=mo",
         "content": "Muy buena",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1550,7 +1562,7 @@
     {
         "reviewId": "gp:AOqpTOFQtgVNwb-9Cn2MtqEnZ6ygXKZXDLosF6175QpfUUmKKjbBTRG28b0nEtXKUcRkI28csH9-SCghFN82vg",
         "userName": "Carmen E.",
-        "userImage": "https://play-lh.googleusercontent.com/-AVghnlVPjw8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckuIK2519_G0Ug4P_rjHo9ZMCt7iQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1A7tU9uOpEAOtPTJZ75drZjdkh4RczvoUm4JI=mo",
         "content": "La tenemos instalada en dos m\u00f3viles distintos y en ambos la mayor\u00eda de las veces que queremos abrirla, la app desaparece de la pantalla y se queda en segundo plano. Ese fallo lo da much\u00edsimas veces y cuesta poder acceder a la aplicaci\u00f3n... Podr\u00eda ser una app \u00fatil pero la mayor\u00eda de las veces ni siquiera se puede utilizar.",
         "score": 1,
         "thumbsUpCount": 11,
@@ -1562,7 +1574,7 @@
     {
         "reviewId": "gp:AOqpTOG1AWDagsddK4Q4FkHYupfRPFbEth1EKGc49Kdt0t6814AcWsihK1lcUQprJ2X79rEgdBNmNb6nf8nhKQ",
         "userName": "Isra l",
-        "userImage": "https://play-lh.googleusercontent.com/-eXLV4bruj38/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnocVXU4KBUear9yQCU4RqeN8UOdw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzcCEE7shOZLw52YVkc_lyfedjzuETe0_S8MUiC=mo",
         "content": "Es algo bastante lamentable, me lo baje para hacer una consulta, despu\u00e9s de m\u00e1s de 5 d\u00edas sigo esperando que me contesten, no pierdan el tiempo con esta aplicaci\u00f3n.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1574,7 +1586,7 @@
     {
         "reviewId": "gp:AOqpTOHzSuZM-QYypiqe0_vnd171grC2LIlYhgcKEewfOL95Z8rkfDj8H7WAVo5wx9SEU6HFjwxt2NujhQHpAw",
         "userName": "Miguel angel Albert garcia",
-        "userImage": "https://play-lh.googleusercontent.com/-_IDVBT1LDWU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJloBkO6_bs9inWxpAa9mtm2l8LQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyqXtKZicm8e0RfSaINoGfcW4bd16vxHAon_nAr=mo",
         "content": "Me parece penosa la app. Para que inventan este sistema si la mayor\u00eda de las veces los doctores no contestan o tardan un siglo, se entiende que tendr\u00e1n muchas demandas , por lo tanto como pr\u00e1ctico cero . Fatal e in\u00fatil . Ellos no son los responsables, pero casi mejor no poner en pr\u00e1ctica este sistema in\u00fatil que lo \u00fanico que hace es desesperar al enfermo .",
         "score": 1,
         "thumbsUpCount": 8,
@@ -1622,7 +1634,7 @@
     {
         "reviewId": "gp:AOqpTOH5OuyRBrH8zq36qqOZXWljjlLho7iAbxfy-uywlUqeuTs-D4gtsZvpARER2hvDqsFn4YHj4z3PtMIdlg",
         "userName": "JUAN CARLOS PEREZ",
-        "userImage": "https://play-lh.googleusercontent.com/-A77dDEuF1AM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck0T2dDPzVLeXS6jyIMdYn30tsd5Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwcYBiB7n5-AhUW5-evjnd9YPQeb8jyJsMwStUE=mo",
         "content": "Fatal",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1634,7 +1646,7 @@
     {
         "reviewId": "gp:AOqpTOFZ_H8I7BnyfQ1EjfUxUcQUXagxzYOXG2wAhCkYJ0VEGJXaVIj8cJT4SS2JkiEJF1iAVjJ78OXygRWl7Q",
         "userName": "Irene PM",
-        "userImage": "https://play-lh.googleusercontent.com/-BjC5GTop8uo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmthBDwKYdMi9RR2YKYvVYDxbbUgw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHAu1VSxfkY9KNZ_oMtW5roC1TzXUbI6KjPevK=mo",
         "content": "No vale absolutamente para nada. Se queda colgada en cada apartado y no \"encuentra\" los menores de la misma p\u00f3liza.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -1646,7 +1658,7 @@
     {
         "reviewId": "gp:AOqpTOHSaggNaTYo_D1MSCyqTakEcIeiM7gpKsZHsQrRw1il_oJgUnsUsF2BVCZkUbxZJLivMF6SvLCBqRv-2Q",
         "userName": "Pedro Celaya Olivares",
-        "userImage": "https://play-lh.googleusercontent.com/-y9QLAdh3iFM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck2DlvEhXkz2ctq55TNVDnZ7NjvDQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwPCZpje0SWyhsD2kgREc1RluhSYyjuRxgFmyv-=mo",
         "content": "Una perdida de tiempo con la instalacion, no funciona nada",
         "score": 1,
         "thumbsUpCount": 2,
@@ -1658,7 +1670,7 @@
     {
         "reviewId": "gp:AOqpTOEQcYTsWzT_uMLg8Jb1CIgBc9mTj44sNyp2iuqJFxFjCq3vQBbxmw_QTlZvsB5FjblfxV8gOsU6UevXSQ",
         "userName": "Olga Linares",
-        "userImage": "https://play-lh.googleusercontent.com/-qY9eCdQ-pcQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckiDIHlPFGlQuawhvGxeR8ERAJ6Yw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKMgj3kzW74PWrIeG0KwvT85vAL_nmqDnyc445=mo",
         "content": "Buenas tardes, me gustar\u00eda saber c\u00f3mo a\u00f1adir hijos menores de edad",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1670,7 +1682,7 @@
     {
         "reviewId": "gp:AOqpTOGSqYHCYSfy79igJKbmno5OgRCmFzxygq7X-SkcxNs7Nj_e2oFEMKvuxp1Hd-b5Q6zvWIpLKBlxrOCyIg",
         "userName": "Kazuma Masamoto",
-        "userImage": "https://play-lh.googleusercontent.com/-TyMII_6xnps/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckcFaTAdbvDQNHDJZAXnP_E0Ta08Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXPCva1euW9Go1XLsSqhj8iWG3sFA5eH6UTKYd=mo",
         "content": "Me parece muy \u00fatil la opci\u00f3n de consulta virtual, sin embargo de ha cortado, pero nonha supuesto un problema mayor, ya que se ha podido continuar con la consulta",
         "score": 4,
         "thumbsUpCount": 1,
@@ -1706,7 +1718,7 @@
     {
         "reviewId": "gp:AOqpTOGlTCsZqHSSZkq5j_Sr14W3wKaoPtsVBIeEmthMFYjiJ2OKdY-gks9GUBkvhiOCWEhK12qKoFY35qDl6g",
         "userName": "Neus Fortea",
-        "userImage": "https://play-lh.googleusercontent.com/-scIkKQISJk8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnKo0yq2obyKO_mJRUNnlk-FqUoWg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3dB5I6ni70XLvTIKHIInAPhJo8mlHdv-bfVJy=mo",
         "content": "No sirve para nada, lo mejor es estrar directamente a la web y acabas antes.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1718,7 +1730,7 @@
     {
         "reviewId": "gp:AOqpTOEe0s8CeSbPNbxwPjEmMps3qx5qXb3ToUBbHLxquOojtUftCHiGECOkRQwNMaib_xkPFhFXjDqZV7Xfzw",
         "userName": "Estrella Duran",
-        "userImage": "https://play-lh.googleusercontent.com/-3c74OFJ4xBo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8cztwSf6XwPtT4MYAWNVXk7yhxg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUJ8j5tfjoIOfgoQ7tyBExt5mdwwbeNTLiBGYJ=mo",
         "content": "Consulta r\u00e1pida y profesional",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1730,7 +1742,7 @@
     {
         "reviewId": "gp:AOqpTOHIPUmkG_CVPG4H3UQZPPvobIHLNHuJSVqJYUnEaH2PVePptcY4-5mKbO0Xrf9JXV2ec1iZbkBLFfpyag",
         "userName": "Isabel Ortega Uribe",
-        "userImage": "https://play-lh.googleusercontent.com/-7qyW18_r-JI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclNs3kEZFdsYVejoTZd1tiMkXV6HQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzw7OwcLSVzMTWhS9FQYmg56yTbF270xaXRizJk=mo",
         "content": "Que desastre, no gira la pantalla con esta Apple y no puedo poner mi fecha de nacimiento",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1742,7 +1754,7 @@
     {
         "reviewId": "gp:AOqpTOEyBVrvqq6A7g5HPB3vnJLtwrPkoSoBWagkgVexVTXNItESEsIoCxglaMr55uhIeYIHCQS8Pc_XIHyWUQ",
         "userName": "jome 55",
-        "userImage": "https://play-lh.googleusercontent.com/-6ps7LUPiVaM/AAAAAAAAAAI/AAAAAAAAJMc/AMZuucmyVS0BWgTfUK5Xe2BhISO1ExAR_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxtL1cW5JojMBjfV97kfSO7Y6bpShL2aeNpGUdVvQ=mo",
         "content": "Falla, no ser puede cerrar",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1814,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOF_uvKC9yKXfXeg11t9oKqR7lENeccJ2Y6oBZHFLaVKvKaBC2UoUj4ORfSjJ8qZiBHei0h3E3SxI6BHqA",
         "userName": "Alba Gutierrez Cano",
-        "userImage": "https://play-lh.googleusercontent.com/-O4zB9PFCGlQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzeNo0xXL5bfPI5Lk668k1eyrbGg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhud8Bw4uVHWLdUjrEKYRbnTgd-T0MEZQm1PbB=mo",
         "content": "Perfecto",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1826,7 +1838,7 @@
     {
         "reviewId": "gp:AOqpTOETaJKQal5gIBPTgYKqffq_KVPyNM21Yx6bh6_F_ZZ-s1QMtRA2fv9b-mmSziX3SvEI2jvMKelyFarw5Q",
         "userName": "Alberto S",
-        "userImage": "https://play-lh.googleusercontent.com/-VjMxhP0Uwqw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnuIDDRANa-D62e-4NIUsX48Sax0w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw1x0SxwFA-gJgHlFVGTKxpCFriqd2ZpenHhtmT=mo",
         "content": "Entre los errores que da, las consultas m\u00e9dicas que nadie contesta y las recetas m\u00e9dicas que se rumorea que existen pero nadie las ha visto. Mejor poner un cuadro m\u00e9dico actualizado y no poner aplicaciones como est\u00e1 que no sirven para nada m\u00e1s que para desesperar a los que la prueban. Disaster!!",
         "score": 1,
         "thumbsUpCount": 12,
@@ -1874,7 +1886,7 @@
     {
         "reviewId": "gp:AOqpTOG7CQeDmwKQJ-1tnPwGC269k4UOgfTSmQDZNCfQPEjOJH4a4fH-pHZp-XZKKMTS4aDdegyLrKiI-bFhgQ",
         "userName": "Raquel Morgado",
-        "userImage": "https://play-lh.googleusercontent.com/-0jCpTjYjtUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVPXKh3VBmdDGF5_Rl8A9oLyh3vg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyfxFLPGKFEFV2hG2RiStTulMyxZKM2K3JrPSEX=mo",
         "content": "Simplemente no funciona, pongo la huella y se sale. No la he podido usar a\u00fan. Vaya desastre de seguro. No lo recomiendo.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -1898,7 +1910,7 @@
     {
         "reviewId": "gp:AOqpTOFZWHrF0EP17G2QnDoKRERgonk2m_ZA13_AXebgrFxLwivwbyFuQkDw6TyQGd2rZgHGcoeSHXNUparKGg",
         "userName": "Yumara De haro",
-        "userImage": "https://play-lh.googleusercontent.com/-cGXbb5kyndY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMgN6CBo-NXCBV3QwB0GpYw5zs6w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw7dcAl8udECeS0qP947MuWylJyEz_qXCEJ1Ncf=mo",
         "content": "Me encanta",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1922,7 +1934,7 @@
     {
         "reviewId": "gp:AOqpTOGtAoEmvnvcBVlMZvORseC64KZsdirCrqo-5hxU1vmmDKq5WfniBfMwA9vWhhVkjpFkS1KmUO2ECXG8lg",
         "userName": "Mar\u00eda \u00c1ngeles Fern\u00e1ndez",
-        "userImage": "https://play-lh.googleusercontent.com/-E5KlAcX7THM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXBazHxXwhm_QqUQ-f6IOBWzfO-A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxu2JjMwWbW_qISqphnSfCJD7TMybAEgNpSvn8x=mo",
         "content": "Dificultad para entrar en la app Deber\u00eda tener m\u00e1s contenido pr\u00e1ctico",
         "score": 3,
         "thumbsUpCount": 1,
@@ -1946,7 +1958,7 @@
     {
         "reviewId": "gp:AOqpTOGsZRbEbtIIvbg9Y1cEPo2_4QTOU6rD9ddwIg1YyhuaV4e3Pf7BNhyzq821pAYOTi1PxDZeH7-RzqCCZg",
         "userName": "Antonio J Rojano",
-        "userImage": "https://play-lh.googleusercontent.com/-DTHc-VsSQOk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmPYC-xOlBGrAJ223eewHUIhsEo7w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxG7iCctF-KQueliMFlCidChozlqmlTG-tAWQsF=mo",
         "content": "La verdad es que como se suele decir, \"lo que funciona no se toca\". Y ahora que han actualizado la versi\u00f3n han hecho que no funcione o no me carga la App, es decir se queda \" Pillada\". Sencillamente en vez de mejorar, empeoran estrepitosamente. Sobretodo porque yo no quer\u00eda actualizar la versi\u00f3n, pero la propia App te obliga a ello con el consiguiente resultado. Fiasco total! 1 estrella porque no se puede poner cero.",
         "score": 1,
         "thumbsUpCount": 13,
@@ -2018,7 +2030,7 @@
     {
         "reviewId": "gp:AOqpTOF3mbK9PyF_6Gaojd7WcmVznURQv05e5zA3EmJGFH4f1ck9loHgTDZd1OhNYF5ZPwHDyOVS2pfj7Yg0vA",
         "userName": "Lionel Bolfan",
-        "userImage": "https://play-lh.googleusercontent.com/-FALQl0H_AbE/AAAAAAAAAAI/AAAAAAAADuA/AMZuuckqm4Xh9UhItYcoNfPwX7P82bmG7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwxqsikomoOyoNlwxVxHVq2t4pyts8dZyh9XqlDUQ=mo",
         "content": "Edit: Contacto con atenci\u00f3n al cliente tal c\u00f3mo me indican en la respuesta y no me dan soluci\u00f3n, que podr\u00e9 acceder en futuras versiones de la app, \u00bfigual hay suerte si sigo pagando en 2025 no? Por favor que poca verg\u00fcenza... Cambio de 2 estrellas a 1. //// Rese\u00f1a original: A\u00fan estando asegurado, no puedo utilizar los servicios de esta App como el \"digital dr.\" porque mi hijo es menor de edad...",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2054,7 +2066,7 @@
     {
         "reviewId": "gp:AOqpTOGeRYfnW1Bn-XyqAS6ob2EUVQl4qvgqEb2ylUdDpDKQVWwlw9GoW99hC2-Mbt9Xwre6H_nFFyM3-b97dA",
         "userName": "Ramon A\u00f1o",
-        "userImage": "https://play-lh.googleusercontent.com/-4RD2Zx-GBwQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmDG8UVr1n-Pzne8PEGC6XI1Meg4w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwBi0hPEfoQpnE8CanvIrF_YAOFp95B6y40kJYP=mo",
         "content": "Fallo tras fallo. Imposible acceder a la aplicaci\u00f3n.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2066,7 +2078,7 @@
     {
         "reviewId": "gp:AOqpTOGjOb0pcnI9FMAW-1EVCkBigQEYWjTQjOkectXVj8hypwewywRBJ5XxSelfgU4I4FHSJrtjpDhUbL-IBw",
         "userName": "Mariano Paterno",
-        "userImage": "https://play-lh.googleusercontent.com/-3fWROhcmQc8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmW1BqCUgpcJ2gv8dNkcrogdugy2A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwA7qm5ZS7-6Aw-iPCb6oKebGxN_lm_8t77sSeV=mo",
         "content": "Sigue sin funcionar. Solo puedo acceder por la web. No funciona ninguna de las apps. No me reconoce el usuario",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2126,7 +2138,7 @@
     {
         "reviewId": "gp:AOqpTOGm9NntZG2c-dsbHor8-2A14JLHRRO5xJKMLX0S2_NnZF6R-JIU4tLic4NVgNHH1eiPFfxQLdT9pG_1Vw",
         "userName": "BLOGUERA MAMA",
-        "userImage": "https://play-lh.googleusercontent.com/-hQ1LYnAlAng/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucliZXvgn60haFHKJy-x80pjbtkx_A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw3jgTOAbgrxJ9bO2kPeMkcEBtg7T598H0U95Hn=mo",
         "content": "A\u00fan no la entiendo mucho, pero me gusta poder controlar mi salud y recibir consejos",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2138,7 +2150,7 @@
     {
         "reviewId": "gp:AOqpTOFSdz13HD52isFgSe66zsNt_wK0RryYDS7YowD2gkcyOqLDnOkTBNXuNfsK_dgBCtWJkvmkCdOHiBsZGg",
         "userName": "Aitor Pes",
-        "userImage": "https://play-lh.googleusercontent.com/-siZJyuF_bpk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBOiERkqwsIm6T7kckXc5-DBQ2Fw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzWHpV_FVtKppwZQHl4cCdca2XKUj3I76JB3rXA=mo",
         "content": "Muchas veces no me deja acceder, unas de las pocas veces que accedo no me contesta nadie, no me deja ver cuadro medico, no me deja elegir especialidad!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2150,7 +2162,7 @@
     {
         "reviewId": "gp:AOqpTOGJT5HSeWI2bPB2FLk5ZSExKqcjvbmvaIMBaCOfkpXcIOoSXhyPnzT3l2p9VV_HgjI2mDZAnskzqJBLig",
         "userName": "Sebasti\u00e1n Su\u00e1rez",
-        "userImage": "https://play-lh.googleusercontent.com/-n5RwZZn4Uhw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckW4A06-NcPC6vudPJ5CIrZY7-tTQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwkObDviCk5bReQtJ_4d4DvU--K7jfTQyokBii=mo",
         "content": "La verdad es que no me ha permitido adjuntar imagen (fotos) con los s\u00edntomas, puesto que da un error y se cuelga la aplicaci\u00f3n. Una l\u00e1stima.",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2162,7 +2174,7 @@
     {
         "reviewId": "gp:AOqpTOHDFU7soD9Ha0jTMp6yNgP_Y6515bgCsW4RjX5FJPmYOuTcgGz_0AJBVtWeiQ-2w2_L4GrT_MVp253tPA",
         "userName": "David Patricio Amo",
-        "userImage": "https://play-lh.googleusercontent.com/-61hhqkYHwAs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMMSyLlYVeCtBUuF105jMgEW0nNQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJypUmIF4pKZ5CkTzW7J_Ekg2B2RXAFfSU0B_jqh=mo",
         "content": "No me deja acceder dice que mi cuenta no est\u00e1 activa y me he registrado correctamente",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2258,7 +2270,7 @@
     {
         "reviewId": "gp:AOqpTOH8YOCLDF-2xjb7G3e1FYg_Ha78sCJVdQ9uhi2Yqp_QeJ-mXhXRyDMiBKAUhTGd2UL4y6CV6AlOAuUvCQ",
         "userName": "Conchita Martinez Ihuarben",
-        "userImage": "https://play-lh.googleusercontent.com/-Aja3Vj-PRkY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmnvSqyKoyh-cffFxKmE4DucfU0Cw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6ZDYrAWJsdRK38kn4d2w8y96Csuoo52eZzHMU=mo",
         "content": "Imposible abrir la aplicacion",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2270,7 +2282,7 @@
     {
         "reviewId": "gp:AOqpTOH0RyTT-JBsYBYMucAk_a8WvGLn4uuKothY_LwCF1Pcae1jZJ1J69H29HaGc1Vn7mzVIPaVtpz-tej07A",
         "userName": "Rocio Moya",
-        "userImage": "https://play-lh.googleusercontent.com/-BM2YYGO3AHQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn8HrMsdLpsNBrw7PkMAKKm0WWc2w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwrHZEvyMKHcoJQ1FjlIN4kIw5QTvr1w9HrSEE5=mo",
         "content": "No funciona la parte de pedir cita online. Me sale todo el rato que ha ocurrido un error inesperado...",
         "score": 2,
         "thumbsUpCount": 1,
@@ -2282,7 +2294,7 @@
     {
         "reviewId": "gp:AOqpTOGjjj-qrCeKj1mQJkxR9-u_gZEbecgn4-nnUcruQlwioeCs9YUDFCRQAftBJyMneUsdzikiPn_j7jC0ug",
         "userName": "Anna Bosch",
-        "userImage": "https://play-lh.googleusercontent.com/-KwLW3pQyATU/AAAAAAAAAAI/AAAAAAAAARQ/AMZuuckrV4B4XQOY1C3AOiiKtmtD_lPWTA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMNuBtffM8-0iWfzR93147sFXa4KBziQccaQo3gQ=mo",
         "content": "Digital doctor no funciona, le das a una opcion y te vuelve a mandar a inicio de sesion. Antes ponia los sintomas y tu ibas escogiendo,siempre me habia funcionado bien.Me pide la huella, por cualquier cosa me manda al inicio otra vez y tengo q volver a poner la contrase\u00f1a. Es un desastre.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2330,7 +2342,7 @@
     {
         "reviewId": "gp:AOqpTOFHlQanWn7UdXZaEmKwLCe0DhUWUQw7Ykt6m4-VFaNHhT7xDBFosGXsUUbYP7ePDITsT1rktOZ398VFVw",
         "userName": "Angels Carrera Caniego",
-        "userImage": "https://play-lh.googleusercontent.com/-DJWoF-AMyWA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmvVLFuh6zdmKuCL2IMXZn9F-oAqg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJybQNhQ0-u7-PF5oB7GVu4CFSQKjkPI4m3smOWU=mo",
         "content": "Genial",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2378,7 +2390,7 @@
     {
         "reviewId": "gp:AOqpTOHilk8GCF6q9D-zbLugn8QwyWkranRpv82D1pWTRhgcCZOSh8MQtKpxfvrBi-P0ZrXoYNWmIV4Z5QY8Yw",
         "userName": "Daniel Torres",
-        "userImage": "https://play-lh.googleusercontent.com/-GyaA8mC7OLc/AAAAAAAAAAI/AAAAAAAAABY/AMZuucnT00aTiJVfloOD3c4yI5hhJud6yQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxPV8AMNTBPHBMS70CuwD7wY5cK9pB2rp3efm8K=mo",
         "content": "La app no es nada intuitiva, para conneguir que te atiendan online no es inmediato, ni siquiera en en mismo d\u00eda.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2414,7 +2426,7 @@
     {
         "reviewId": "gp:AOqpTOEElNSyfGkLhucMniCedWwcFI6ow9IB-FZJrwJleGLVUmeju2-jwp50jyfeATa8d1tPk2QDduRk6TZcZw",
         "userName": "Pablo Rodriguez",
-        "userImage": "https://play-lh.googleusercontent.com/-wE6E1_ntbfM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9-znrR0HffqCVQ2RusDQfuZ1ysw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzgA7wsP03Jq--tKPYVQpzz79SxSy5gbCcMXdHj=mo",
         "content": "Fenomenal; La consulta por video conferencia me ha parecido muy pr\u00e1ctica, c\u00f3moda y \u00fatil, especialmente en estos tiempos. (No pongo 5 estrellas porque no he sido capaz de adjuntar fotos en la App y porque, seg\u00fan parece, tampoco ha dejado hacer la receta, aunque s\u00ed me ha llegado el informe)",
         "score": 4,
         "thumbsUpCount": 4,
@@ -2426,7 +2438,7 @@
     {
         "reviewId": "gp:AOqpTOGHp1I7PxlUvgXkXFlo3NHfSQBmshqLnLatIBRydfsyiH0ZjiwlJdtbCzCQfmm6_aNat7L64Dh_kBsvqg",
         "userName": "Hermelinda Vieira",
-        "userImage": "https://play-lh.googleusercontent.com/-q10zoQbDKMI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBHKzJONKoQ6IgwLvqloh83utpNw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxtV95KrmRHAuxk0vPw4HQVlIBDSf6n68ZKm7dw=mo",
         "content": "Atendimento r\u00e1pido y con profesionalidad",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2438,7 +2450,7 @@
     {
         "reviewId": "gp:AOqpTOF5wTxbSaMn5Gzdi7pPGK9yltyGxZ3hFB8XEOyYp6NVrRt5_hHLphig3j4G65e3NryEHIWf9pgGzAoQ4A",
         "userName": "Suso Hdez",
-        "userImage": "https://play-lh.googleusercontent.com/-FGFt_mVlD4c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1AWhcF5PVHzM5_OxZsO7WIaQ62w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyF7-8LIu0MFyUYvNmlRKfjv91h5yyxZQ8RPIXp=mo",
         "content": "DKV me tiene harto,ped\u00ed una autorizaci\u00f3n para peque\u00f1a intervenci\u00f3n quir\u00fargica un jueves,y me contestan el s\u00e1bado que falta informe m\u00e9dico, cuando resulta que ya se lo hab\u00eda enviado, pero los se\u00f1oritos no trabajan en fin de semana y no cogen el tel\u00e9fono, tengo cita para el lunes a las 8 para operarme y a\u00fan no tengo la autorizaci\u00f3n, aparte del dolor y los nervios a\u00f1adimos la incertidumbre de no tener la maldita autorizaci\u00f3n de estos personajes de DKV, ya habl\u00e9 con Adeslas para pasarme con ellos.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2450,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOExFyp_8SXmQAQe7xNVIKu0ZipaEluze1iBlEyr0AYjnmPIUR8oleRNkTLsENYk-2V_R4p5YceYE0q3yg",
         "userName": "Raquel Romero Lorenzo",
-        "userImage": "https://play-lh.googleusercontent.com/-B4erL_XrBig/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucljyfx4rLjQBFVv7UeSs5CPCReUTg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyXg9vjw-dKIv05LZJB5gqNE-V5qi9RU9gBU_U2=mo",
         "content": "Atenci\u00f3n personalizada e inmediata",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2510,7 +2522,7 @@
     {
         "reviewId": "gp:AOqpTOH3zkFYZmDDMEUoBEV105LKUtWVr0RshB_N9QQTH2eKvaWt0z0JXYPhPtdZ_Q0dl5pYuxwXvbz7RkovjA",
         "userName": "Mercedes Lopera Palomo",
-        "userImage": "https://play-lh.googleusercontent.com/-2DQzRJ9T5Jk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn9Cz5bUlvNr24xkdspVCnbXE__aA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwWTj5znSTlS2iNHKoaPz_Y7gW8uYgJC4vz_GJ_=mo",
         "content": "Las visitas virtuales cierran la aplicaci\u00f3n cuando contestas la videollamada. He perdido una sesi\u00f3n con mi m\u00e9dico por ese motivo.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2570,7 +2582,7 @@
     {
         "reviewId": "gp:AOqpTOG8pqWBtZzigBfuVI-jYkrH4F-zsmavQdTWcxAU74Jcx1CwLRku_9Ts_A0pU80ZLAOE5TTO98rZPuTzUA",
         "userName": "Leticia Fernandez Moral",
-        "userImage": "https://play-lh.googleusercontent.com/-MJ6H84rAa1U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclXom_a4dkcIEvZa9jUTKq8HCqOEg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyqDzG7B8fXB6Odei0mK42le7oRclXLCqT_FqXS=mo",
         "content": "Muy completa con chat videoconsultas, receta electr\u00f3nica, carpeta de salud, cuadro m\u00e9dico, tarjeta electr\u00f3nica..",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2618,7 +2630,7 @@
     {
         "reviewId": "gp:AOqpTOE1hOQViLzoiAK7n7MznMVptyr4-GsRjzHcuwN8-7QATuKb2HuBr-iNhr28xFXTdQE7tZcr8JSR-XXxJQ",
         "userName": "Diego Martinez",
-        "userImage": "https://play-lh.googleusercontent.com/-Xo4m5ppf20U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucls6CDNIcIm_6-QpcRR9mkuYYvbKg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzPtD3aqI8LtDFOc0E5V19TFotET1qna-ZGFynQ=mo",
         "content": "No funciona nada bien",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2714,7 +2726,7 @@
     {
         "reviewId": "gp:AOqpTOHm5pD6kGLJZ9gnF7xPZdQIwsJ9Ip5_Hg1ITGWEt3OkepMd_nYDqDlxz8chJ9S7aIg4F2qSRTBC2QMINA",
         "userName": "Juan Padi",
-        "userImage": "https://play-lh.googleusercontent.com/-C8BcIZ_CPC8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaXzglYZd0Hi8TLpug0ZAVgTvCJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysiT7oQ2yptWV2P4pGk4ZBAVcmiweB_uKBeAgZ=mo",
         "content": "No hay manera de que funcione correctamente la aplicacion",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2726,7 +2738,7 @@
     {
         "reviewId": "gp:AOqpTOEU2fqColBc94vPVybeon9YFMPBuJ8a6uWAjeQsfBjrb1YcRo0O6ajh_Mym0meWv0JquvlH0scberelvQ",
         "userName": "Pedro Jose Rodelgo",
-        "userImage": "https://play-lh.googleusercontent.com/-s-WIgsE24m8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlukE9bzMDuPstSQbmiSsRCKUymQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz4rkAbcvUsnZylcPiGZ-Zvaitn-111whSvJE0V=mo",
         "content": "No le doy menos estrellas porque no se puede, no vale para nada continuos errores que no te dejan hacer nada, no entiendo que te ofrezcan un servicio (digital doctor) que luego no puedes utilizar porque la app no funciona. Equipo de desarrolladores esto no funciona.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -2750,7 +2762,7 @@
     {
         "reviewId": "gp:AOqpTOHp5QD42U-fL12b6I6xjnqm5Lnx67WIrKT3ryZBeD67RG066iVliAjf80WGOVHAz35tjofVmHWAKtNIlg",
         "userName": "Silvia Luna",
-        "userImage": "https://play-lh.googleusercontent.com/-VrW-jPfy9cE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck1z19kdljL6zsKVyQHo8dN4Vd0zA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx06UAXuQf2MeWQ9EWBRPGsjdSQFu19-8gcgOGJ=mo",
         "content": "Se bloquea y no aporta nada nuevo que no encuentres en cualquier sitio de la web",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2798,7 +2810,7 @@
     {
         "reviewId": "gp:AOqpTOHZ8sGuKj-5uS9f6xLUvrkUuJpf8Hyd4557H_OafrP_kYNCGo2AFSIUn_pJ8g909kS7mX2txEpGdIS99w",
         "userName": "Juanan D\u00cdEZ",
-        "userImage": "https://play-lh.googleusercontent.com/-6cqUTYePBgY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJPd9kj47XZuizsRIWI_W2P2Z2ig/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwAIYcwy1wJNNQAuTZP60pG5-W9yATBUNo8dyFi=mo",
         "content": "Muy buena aplicaci\u00f3n.",
         "score": 4,
         "thumbsUpCount": 1,
@@ -2810,7 +2822,7 @@
     {
         "reviewId": "gp:AOqpTOHbJ0mQZLBk0AwctwNSYNQh9r6_C2ZT6_a-Uee1ctM_jlszIPNrjRdgw197IR4QKsc93mwWwIHX3mqyHg",
         "userName": "Maurici Rucabado",
-        "userImage": "https://play-lh.googleusercontent.com/-0n8i42J4iPM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmGGiHTtGwMbbpJadCmF2B-u5E7UA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKL5mYIXa2shH90fQv5sc2Fu3vFYFfDHyasF9y=mo",
         "content": "Lenta. Expulsiones continuas de la aplicaci\u00f3n. Filtros de b\u00fasqueda de m\u00e9dicos deficiente.",
         "score": 1,
         "thumbsUpCount": 3,
@@ -2834,7 +2846,7 @@
     {
         "reviewId": "gp:AOqpTOFnwxTHdaoZ0wwSspPDSZig0wEAbGdmL8BM1A24PxUZ6vvX89ar_VpKhIlf_hDKwyihtByt9NRU8oqPkA",
         "userName": "Birina Romero",
-        "userImage": "https://play-lh.googleusercontent.com/-MI1SrwKdroE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnuGUATftKXhbw77VhYlPru5mnUUg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx0AJkR-RwJYqa2DgQv9zHrJA5IT_CGCCeqdSEk=mo",
         "content": "Muy buena app por el momento.\ud83e\udd29\ud83e\udd29",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2846,7 +2858,7 @@
     {
         "reviewId": "gp:AOqpTOEP_57uVg-SPjlw_r03d5_t1X6g_JdddwC4r18cOeTkjeqKuSINmGkyhVDCAd-6PUR-e825MQcXjfdo-w",
         "userName": "Nicole Chiriboga",
-        "userImage": "https://play-lh.googleusercontent.com/-nCmwVE4tZfs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnd64oJvunCzXQ7uIE1KsqH1OShHw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxzJzzaafMmHQz_ia8Lcw9E7kuahZklU7TmM1Nk=mo",
         "content": "LA ATENCI\u00d3N CON LOS M\u00c9DICOS HA SIDO MUY BUENA",
         "score": 5,
         "thumbsUpCount": 2,
@@ -2858,7 +2870,7 @@
     {
         "reviewId": "gp:AOqpTOEERoz4DcC7cDbypa0sTuSRCxA0ra3x5CeOqq50yaptoPmhFA963kB0sXd5xX2KLK48GFUCPH-IeFhd4Q",
         "userName": "Jose Millan",
-        "userImage": "https://play-lh.googleusercontent.com/-ifI-AoI1s2o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnD5UiEw5x2w3e2Z7cKbmJkCNZNeQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwggEMo2TqpDjoopDMnQQ3ECeoQ6IyA2gmjGTY=mo",
         "content": "Muy buena",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2882,7 +2894,7 @@
     {
         "reviewId": "gp:AOqpTOHOBsJe9eLgC0dalK5dwMoy7A6_ds54lG1c3diCWuPGRKY8pCgnH6AeRWHjx8psPpr3NZsA9LiGeyr5VQ",
         "userName": "Juan Ba\u00f1o Fernandez",
-        "userImage": "https://play-lh.googleusercontent.com/-dugELz6SLRc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm8DsIF19dypDuR1isuisZ1WAYSBg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz5jvMO1blOZq7PxCuGPGEi4wHrdGicdHeHnGK_=mo",
         "content": "No bale para nada",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2894,7 +2906,7 @@
     {
         "reviewId": "gp:AOqpTOHekIavy_fnMKKUeGk8EHO72ngCxwFmUY1keuoAw5R9Ab8L15S5g1RYhfVGLzUbHu82pTx18rLhsLN1ZA",
         "userName": "kahina pastor",
-        "userImage": "https://play-lh.googleusercontent.com/-ROhfl0nJp9M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmw44pXJY48DoMnbD0unq0qy097wg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzX0e6Y5SMOSndVeJ7rHO0QWRBGVql_Et7Ax-rk=mo",
         "content": "Lo recomiendo adem\u00e1s te atienden r\u00e1pido te solucionan todo en el momento te hablan con educaci\u00f3n y con mucha Paciencia para mi es IMPRESIONANTE",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2906,7 +2918,7 @@
     {
         "reviewId": "gp:AOqpTOGKwVYsd2uM74g-tieTMiL7k9qhngM1h1L887imz-HzaGCRhDwl00i4-ja_TOaM_3lNXxOeTGYENs1FXA",
         "userName": "Diego S\u00e1inz",
-        "userImage": "https://play-lh.googleusercontent.com/-XDJ54tKNbRo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9Oe_SmH_k5nYRK5tuQbFTOjYvKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzXBXkpfJuuXnsCFj3mdQzNdU8PddXgR3b8zFVY=mo",
         "content": "No aparecen los menores incluidos en mi p\u00f3liza y tampoco los detecta para poder a\u00f1adirlos y poder buscar cuadro m\u00e9dico asociados a ellos Actualizo. Parece que en mi caso se han solucionado los problemas que hab\u00eda de que no se pod\u00edan visualizar los hijo. Perfecto.",
         "score": 4,
         "thumbsUpCount": 5,
@@ -2930,7 +2942,7 @@
     {
         "reviewId": "gp:AOqpTOEfH-3IlxQumMM7vnhPm67-LkNsdYCOq5KGNUJd1piKFCRuflymlcEm1Ore0T6KPK-wg5UicTuQLDqmFg",
         "userName": "Jorge",
-        "userImage": "https://play-lh.googleusercontent.com/-w5tPKr-_H-c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucncR0eEndWQuDJ_AaHve4WEIwfwKA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJybiL85IrZW4JjYYlMZpsoyYoGd72Hj7CXDQPDh=mo",
         "content": "He tenido una urgencia en casa, he instalado la app, he iniciado el chat. 4 d\u00edas despues, aun no han contestado el chat....",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2942,7 +2954,7 @@
     {
         "reviewId": "gp:AOqpTOGBdLafwHGsHrbR9R0C_feKv6_b7S0f_Zq9krd9vIBt9TIhXXLFkD7-DdB2kV_bQKxeAyNsXLJVMttCiA",
         "userName": "Julio Simon",
-        "userImage": "https://play-lh.googleusercontent.com/-ff77pk0brrA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnm4cX1-WoFD9j51xspgeCSRZwYHw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3pXy-UGBoitESRy8mhl4p3TNBePL2nv3K0kbH=mo",
         "content": "Juflo simon paniagua",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2954,7 +2966,7 @@
     {
         "reviewId": "gp:AOqpTOE2vPVHFWdt6DgfyugVXZt4YJvymCt5aK85-RLbXmIOVOa7Ve-6QuS5fuqFhUYjioCWk9JHcislVgZhtw",
         "userName": "Angels Arisso Pla",
-        "userImage": "https://play-lh.googleusercontent.com/-_j5_XOMSXxw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmLVY2zdDUILgKfG4vQ5-27gI3soQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3kxavl5NE4LZHdara_gCox6zU9ahW3ua_5AE_=mo",
         "content": "Guay",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2966,7 +2978,7 @@
     {
         "reviewId": "gp:AOqpTOFdKUVRBHxbWQX43p6c6nOtTI3soMI5lYxaM_txLNwwj41Vwzw8cNk93tqkZaDqXPSsz75DdnCKuH7jCw",
         "userName": "Luis Miguel De Casas Guerra",
-        "userImage": "https://play-lh.googleusercontent.com/-WMzXtkFyU2g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnqjGo4LZ0OsNBIvSTmbGV-y2Joew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4FWcoHhxIfwQydUS6S3Pun_4TAKHS4wMUf6fE=mo",
         "content": "Buenas, hice una consulta a fecha 28/4 y a d\u00eda de hoy 16/5 , todav\u00eda no se han molestado en contestar, ademas ten\u00eda cita por videollamada, para el 18/5 y me dicen despu\u00e9s de dos semanas, con la cita cogida, que el medico ha cerrado la agenda para ese dia se supone que ese d\u00eda a las 11.00 h, ya ten\u00eda la cita, como que cierra agenda y estoy fuera? Que sistema es \u00e9ste? Para que dicen de coger cita y te ponen d\u00edas y horas si luego es otra cosa? Me dicen que tengo que cancelar la cita y pedir otra",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3026,7 +3038,7 @@
     {
         "reviewId": "gp:AOqpTOHBCTFa9qj2YWg6xYET92PLs7pjPqdeBMbm5GVuwTjp6dwkOC3C3bkwwiYdmMB3chsUt2dIDFqOS74BPw",
         "userName": "Luis Marti",
-        "userImage": "https://play-lh.googleusercontent.com/--HAo_VQExuU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmiPSnSemTkbMdNMTlib5hBckH02w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxYCZSO6T7Ko_kgd8qLjgvVnJusQWie-xoMN9lX=mo",
         "content": "Todo funciona hasta llegar a confirmar cita. Al pulsar CONFIRMAR CITA sale la ruedecita dando vueltas y se queda bloqueada la pantalla. Lo he intentado 10 o 12 veces, he intentado hablar con soporte y no contestan. El servicio de atenci\u00f3n al cliente DKV me dice que lo intente en un d\u00eda o dos. \u00bfQue hago?",
         "score": 1,
         "thumbsUpCount": 12,
@@ -3074,7 +3086,7 @@
     {
         "reviewId": "gp:AOqpTOEla2me5lCkqqXuhR_3hL1R-yAPqlmsBPTfbnjWRJCbg2XiYYRV6E7T4WKxcUVdNEmwKxC1vNNjnz_Wlg",
         "userName": "LUISA SANCHEZ",
-        "userImage": "https://play-lh.googleusercontent.com/-hG6b4zUZ6bk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclewSbHx7DdAc9LhpLVCbvHZ9-QVw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxtGgtFxVIps5slrDrazAONKbeClR03o7GrhaXg=mo",
         "content": "Estoy intentando coger cita a traves de las Visitas virtuales, y cada vez que presiono \u00abpedir cita\u00bb me saca de la aplicaci\u00f3n.",
         "score": 2,
         "thumbsUpCount": 3,
@@ -3086,7 +3098,7 @@
     {
         "reviewId": "gp:AOqpTOFocrzaFB_KstkapUqAZtBJMy6GdEcACYWCvnV3odlDrHogo66xwKl21HnzNLE504xFmOH-f7qba_moyQ",
         "userName": "Gema L\u00f3pez",
-        "userImage": "https://play-lh.googleusercontent.com/-AcpsdAwYvWs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnZQVLlfxbWxxqcVr0m3gz8E80JaQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxmPTss8yWE0OqZRi2QNXl-3s3QLQ5WByfpNgJe=mo",
         "content": "F\u00e1cil y r\u00e1pida",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3158,7 +3170,7 @@
     {
         "reviewId": "gp:AOqpTOFW6Hp7gGE76JKCebkB5MsWLTGGwkIw_XPHJlKcKc3jSSr10bil6wq86B0X0nwxu89xEG9ZsxM66TGUFA",
         "userName": "Yuri Qu\u00edlez",
-        "userImage": "https://play-lh.googleusercontent.com/-bl2dKFEh-00/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclDQB13-oX5J9M-uppCC9WLn_N_6w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4XEjjtCavnXex7xVwY7JeQIYL61R2Mahi5__t=mo",
         "content": "No aparece en la lista de m\u00e9dicos ningun generalista o m\u00e9dico de familia. Apenas hay especialialidades, unas 5, en dos he intentado pedir cita pero da aviso de error y no se puede. En atenci\u00f3n telef\u00f3nica fue donde me dijeron que descargara la app, pero no saben como pueden solventar nada. Ni como usarla. Resumidas cuentas, das todos tus datos y consentimientos que ellos quieren para obtener nada. No descargala.",
         "score": 1,
         "thumbsUpCount": 27,
@@ -3170,7 +3182,7 @@
     {
         "reviewId": "gp:AOqpTOFVVy2zHXTmUl38liiqhFOHJrECVSt1s1JsmpIOEx5c0DGsbmoPcv10ZfML6_vZ9zjJFQGAGcc0Nci8kA",
         "userName": "Vanessa Cos Sol",
-        "userImage": "https://play-lh.googleusercontent.com/-G42z0tYj_v8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnQmjjp_6QB8ZAuRIFZcjJghuKKGA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzN0hcZceTS2-Ol7EOGZMsG5vYg5npMI2pAAb0O=mo",
         "content": "Muy buena rapidos y muy atentos",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3242,7 +3254,7 @@
     {
         "reviewId": "gp:AOqpTOHRiCiQghWH8NL9K4v5iyWQkObvq_wED19weMAv6rCnTJpH2bDuVubj9FAwEYlGDRsvrdnwJIHEU3Oe4w",
         "userName": "Juana Romero Gaona",
-        "userImage": "https://play-lh.googleusercontent.com/-wezlYkyRHxE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl30dRShDDAsWcdeiVGDJyH9WgGIA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzqseY2r6RVarEFMhwZKHQsIObsmaybzqna_m-Z=mo",
         "content": "Muy contenta con la aplicaci\u00f3n. He necesitado dos veces la consulta al m\u00e9dico y muy muy satisfecha, contestan con rapidez y resolvieron mis preguntas y dudas.",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3266,7 +3278,7 @@
     {
         "reviewId": "gp:AOqpTOH-Grc5eEIXI8lYF0pZQf26Akv5KlVCT6LfXtoIFNFFosNNEjyCsmAxgn5kO62_AT0AW46zTf5HzCxWsA",
         "userName": "Tamara Diaz",
-        "userImage": "https://play-lh.googleusercontent.com/-9xsIITK7mSA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQ6SCyVwG5BBzOifcsHcp6hlM7_w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWxw2iUGfoZWQg8lw-MwCmq0XnOIjxaiNHQU8o=mo",
         "content": "No me reconoce como cliente...",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3278,7 +3290,7 @@
     {
         "reviewId": "gp:AOqpTOHbbrv6pisumdHrgJ132n6OnWj1-yBym7EJFK3fQbHeFYpiVZJLjIxfCgv--naXwirTYFDoKoxBcvG7Tg",
         "userName": "Llanos Mo\u00f1ino",
-        "userImage": "https://play-lh.googleusercontent.com/-uRa0wdsbhqE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmQ-0VnT8c8RvXhDBZ0sUFxmXEg9w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxxgWQrJB-tykFDwn6VsVkq49W3iL1sPjHp11IX=mo",
         "content": "\ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3290,7 +3302,7 @@
     {
         "reviewId": "gp:AOqpTOFq4mt9ujeKaa3NYFBDclyWRAYeacJ6RTmgVMAJL7nDw6bc5CXI_VA6TnyZsp_IELf27QgFGIsi8pNWaA",
         "userName": "Shela L\u00f3pez",
-        "userImage": "https://play-lh.googleusercontent.com/-WSqxGCHYtn4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl95fiSyVtIfDciZG0lk2TpvHD7uw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy2TkqvLE5-QbiPdRPZLVTRXKdFguahr1lvr_b5=mo",
         "content": "Aplicaci\u00f3n donde te asignan a un m\u00e9dico y puedes hacerle la consulta que necesites, a mi me han contestado al momento, de manera gratuita, muy buena aplicaci\u00f3n, la \u00fanica cosa mala por decir algo es que no se guarda la conversaci\u00f3n, todo lo dem\u00e1s perfecto.",
         "score": 5,
         "thumbsUpCount": 13,
@@ -3314,7 +3326,7 @@
     {
         "reviewId": "gp:AOqpTOHETb62PSbA7x38mCzXQD8L1rzD8tjKKix98AgHKGZSkawozZje98ZkgJfNuYbhEiM94Q60uX6gQy3Afw",
         "userName": "Ana Luz Montano Coronel",
-        "userImage": "https://play-lh.googleusercontent.com/-SI2wXmiduTQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclu7UJD-0jM_vUnTamsV3KyzR3-_Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-BN7cW5wHy8ukFTfzjPjzzrl5kq0dmPuA4vON=mo",
         "content": "Solo quer\u00eda daros las gracias por la gran labor que est\u00e1is haciendo en estos momentos tan duros de confinamiento. Mi consulta me la hab\u00e9is resuelto de momento y de la mejor manera posible. Much\u00edsimas gracias de verdad. Recomiendo 100% vuestra aplicaci\u00f3n,sobre todo ahora que no debemos saturar los centros sanitarios. Animo a todos los grandes sanitarios que tenemos en este pa\u00eds, son los mejores!!! Y muchas gracias a la doctora Lola Ferreiro por haberme atendido tan amablemente \u263a",
         "score": 5,
         "thumbsUpCount": 3,
@@ -3338,7 +3350,7 @@
     {
         "reviewId": "gp:AOqpTOFsNmRFbG9ZMxdts8kMGL9X7250OT0MGySxNBPPtA5nqLSCX-XpPZ1MxvERieKl9FnjE-tkIwaZgjOMGQ",
         "userName": "David Manzano",
-        "userImage": "https://play-lh.googleusercontent.com/-BvxQpWsADa4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn3xP143hbUXUjmGq45X5je0MQlHA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz_1FjsfAoew_lkPSFiFNOuCKM5oEJZi09BEysC=mo",
         "content": "Excelente para cualquier emergencia. Cat Salut Covid 19 no sirve de emergencia",
         "score": 5,
         "thumbsUpCount": 2,
@@ -3350,7 +3362,7 @@
     {
         "reviewId": "gp:AOqpTOFm2NHD4ObUk2u6CWi8iLxAw5wtUA8GFcWVd3yddBJx2VhU3-chvwMjXz8JlXBS_aY2Q0sALt54fuqVlA",
         "userName": "CE Momo",
-        "userImage": "https://play-lh.googleusercontent.com/-N8PVMOcVRjQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrj07upMsGRowqnsR-EYRnZNNy2A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxAVdU2Gy9IjhH3j5UqUqdVPR79i0nAvk2iDihP=mo",
         "content": "Est\u00e1 muy bien y muy r\u00e1pido pero no hay un hist\u00f3rico de las conversaciones, en mi caso no pude recuperar el medicamento sugerido por el doctor. Estar\u00eda bien que no se borraran las conversaciones hasta concluir cada consulta. Gracias",
         "score": 2,
         "thumbsUpCount": 11,
@@ -3362,7 +3374,7 @@
     {
         "reviewId": "gp:AOqpTOGyM2UORoRocUl1HjE4U3irbVJEtAJIGLJAjhF-NsnGBgZ_NK_qeuxo9Yk661ElyZJWJYx1vK7bjEpSXQ",
         "userName": "LAURA DOMINGUEZ",
-        "userImage": "https://play-lh.googleusercontent.com/-OugWI-Q6t1E/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl1jrmD6JrqKlKuBgWxLxSjozPoew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzWsmMxV8Tyugxh4OWYUdqYevfLSYLlOH7lodi2=mo",
         "content": "Estupenda, muy intuitiva. Me asignaron un m\u00e9dico rapid\u00edsimo y me atendi\u00f3 a los pocos minutos. El trato fue excelente y resolvieron mis dudas muy amable y eficientemente. Gracias de veras por darnos acceso libre ante la situaci\u00f3n del Covid-19, sin duda una buena experiencia y tranquilizadora.",
         "score": 5,
         "thumbsUpCount": 31,
@@ -3398,7 +3410,7 @@
     {
         "reviewId": "gp:AOqpTOF0fjOjdNxQmNObOtJvEJB6CoZO5T5dnxoQK6x-QnxYTlKAgqPAXUtDjja-bFfAFzOyIpB2xDXSd5L8rg",
         "userName": "Alejandro Gal\u00e1n",
-        "userImage": "https://play-lh.googleusercontent.com/-yG9_d8b0F4M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmwk5YH9w1Ziz9BfBRwgCM_Qlu3QA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwway7UHM5gBFLCWx3eztQ_kEljm3n3bycJmYQ4=mo",
         "content": "Excelente iniciativa, muchas gracias.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3410,7 +3422,7 @@
     {
         "reviewId": "gp:AOqpTOEeTlRNinJB3ZHMiOwyB_OBtjAZEDs8t5bXS5OUVFiiGE_IQ65-f5zRJCXbphDBWjP_6-yznotOAha3sQ",
         "userName": "ROBERTO PRIETO CUETO",
-        "userImage": "https://play-lh.googleusercontent.com/-jcchel9EHr4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkVI2g4Vqyw1CHR_vqSH5G15MjFg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxftQCz0tzH08m9nRv17R0KXkaSSBldaYSaQ0JP=mo",
         "content": "Muy buena idea con esta app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3422,7 +3434,7 @@
     {
         "reviewId": "gp:AOqpTOEsg8KcVrxOeFkfIqyUcoUWLuNzHc3v07DdJ6GMyTh9S8XrjhlLLQi-eIVRK96vrh3-yfXhXeHLOw2Vjg",
         "userName": "Luis Garc\u00eda Ordo\u00f1ez",
-        "userImage": "https://play-lh.googleusercontent.com/-jdlui-0OvRM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmqxIIlcf7BCsWkCNDepgt1Kj7FMg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwsCKIr2wr3lp3vOgcpXUgaEt4UL-IZ62QcvWDb=mo",
         "content": "Muy \u00fatil, pr\u00e1ctica e intuitiva. Controlo tanto los aspectos de salud como mis rutinas de entrenamiento y nutrici\u00f3n. Si tengo dudas, consulto directamente con un m\u00e9dico o con mi coach personal. Todo muy intuitivo y f\u00e1cil de usar. Tambi\u00e9n recojo en ella mi historial m\u00e9dico y programo todas las visitas que hago.",
         "score": 5,
         "thumbsUpCount": 26,
@@ -3434,7 +3446,7 @@
     {
         "reviewId": "gp:AOqpTOGaBkOgRGUb8iUcWRFIgJVjNGO62wL4_WI-UKmOtTiRS65VkBWgwwJhHh6Qg6ozC_ieuiz4abkaPxjfew",
         "userName": "DIANA",
-        "userImage": "https://play-lh.googleusercontent.com/-p24mAWFIObI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmp3MeoPSxbDGc0ymQvenr9yb1seQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbH9omCR6ADFWtC5j83Oh6lc_EVjZFtBk5Gh9P=mo",
         "content": "Me parece muy buena, y con las videollamadas, es un avance y muy c\u00f3modo!",
         "score": 5,
         "thumbsUpCount": 5,
@@ -3458,7 +3470,7 @@
     {
         "reviewId": "gp:AOqpTOHHSuCRyRMoAx8UjxYPzKT9ao586uKV240f__M478Eznhm6gO4MCPqMpgQrVO7QTSrP5K_08kwHpQyLLA",
         "userName": "Francisca Peersman",
-        "userImage": "https://play-lh.googleusercontent.com/-CWbhE5hXEaI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl842qlBB-zOTmoXIyksUUhmRpM2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxIGhegoFVzQo3AHQY1eC5hbqhqNT743etceDLL=mo",
         "content": "Perfecto",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3482,7 +3494,7 @@
     {
         "reviewId": "gp:AOqpTOHfA5YKPyzA2pfzEO8hSHGUY7Ggop8eCFmPE-PQFCRQOuvmiLdTv8kdYshREj-lTGe3unQc6YS2kNx9Qg",
         "userName": "Maria Garrido",
-        "userImage": "https://play-lh.googleusercontent.com/-Uz6O3Bj1vuc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckNvtEQxf4LmUi3pUDc72RSwRZYlw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxy0Dq5EW6zqv3HsZ7A70odJjB6fHDX-oYfUU9v=mo",
         "content": "No deja darse de alta no vale para nada",
         "score": 1,
         "thumbsUpCount": 0,
@@ -3494,7 +3506,7 @@
     {
         "reviewId": "gp:AOqpTOFUeugl4ziVdVsZ4IRPw3h9xZU-OZ4l9G3lnXAmiexWa2qYAFKZ23TeXdVgQIwhb29jehYhF33g2JQ-6w",
         "userName": "Neus Guasch Ribas",
-        "userImage": "https://play-lh.googleusercontent.com/-wqbwZxH2o2w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnDCm8XmP0FGEMwwGuLD4jFJ7VB4A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9sUZTlFrfi4ESko-1kAcuXpohTSh1MswxgoqY=mo",
         "content": "No paso de entrar y cambiar contrase\u00f1as, pedirme info como si fuera nuevo y decirme q ya soy usuario regustrado, obviamente. Asi q no puedo valorar mucho mas del contendio pues ni se me abre la aplicacion. Un desastre.",
         "score": 1,
         "thumbsUpCount": 2,
@@ -3506,7 +3518,7 @@
     {
         "reviewId": "gp:AOqpTOHq45Mn2ZHZ5OB4qadWdUAwo30z-tlb33PdrjhoJ78F4YnHOmcXX0GJhTUFyHZMbW_nRMLyPVrzEUHr5w",
         "userName": "Ruben Chorda",
-        "userImage": "https://play-lh.googleusercontent.com/-byetr0AK5zk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwY0EEt_7vaf6Hi5ogpolgA8qCmA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwQzkJkrNJy_DsvgW3SDX1S3KsorJCPk1QR3wjN=mo",
         "content": "Estupenda!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3530,7 +3542,7 @@
     {
         "reviewId": "gp:AOqpTOGNNYCRh8qD-OHYUvPFA_6rSdC6LPX4QHhgRTuHuLkdL3AZcTA6jIvZqxctYUieI4OrHWVtZ9r4475fGQ",
         "userName": "maria carla scuderi",
-        "userImage": "https://play-lh.googleusercontent.com/-vLBtsm-59aI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclR0VacDDTVBfCTR0lcFOMekweqOQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzcTqW7TYWzLiHJdDO-HOooQ85avNzaw1z74Pu2=mo",
         "content": "Cada pocas semanas me bloquea la cuenta porqu\u00e9 se duplica la contrase\u00f1a al ponerla para acceder. Es que las apps de DKV no est\u00e1n absolutamente adecuadas al servicio. Antes ten\u00eda Sanitas y el servicio por app y tel\u00e9fono era mil veces mejor. En fin, es lo que hay.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -3626,7 +3638,7 @@
     {
         "reviewId": "gp:AOqpTOFKB0aNq1mWRbMujwxbgsD9biKi1xqavslSjI9QhIM8PGNSCtrOKL4S8ww1ftiyBAjF7oByQnor2Za2ZQ",
         "userName": "Alvaro Hermosa",
-        "userImage": "https://play-lh.googleusercontent.com/-XxPmvNsJFbI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckGL-hM7AS1s__bP4kb8kBpgdNTJA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjT1YY7q7xWOxQidRcwqBZQVk7pleqDEvR9bfA1mQ",
         "content": "Muy byena aplicacion para tener consejos para vivir de manera mas saludable.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3638,7 +3650,7 @@
     {
         "reviewId": "gp:AOqpTOHDonMJ3t6WtTB4ONHhjKSOA8oHgqXl1rIG_Moot0_BVB3gR4vjEa4kqvBH1eaFv4NK-aN0kwEfq8A94w",
         "userName": "Chus Pelegrin",
-        "userImage": "https://play-lh.googleusercontent.com/-qwHgUehZXlg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRXuVSJT9RfHTbxc1xjyEw98Z4TQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyPDFQUUgvMPrFs_EcaXK8dJQHS1xnWZDusuyPD=mo",
         "content": "muy \u00fatil y manejable",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3650,7 +3662,7 @@
     {
         "reviewId": "gp:AOqpTOEEi758WjZcw7Gkbz4TDHmjP7FKlFyLgFmzOgp4sVam1wQoRZP3foHPSLCLQ8xkckbWfZnocdLfK13fbw",
         "userName": "Juani Romero",
-        "userImage": "https://play-lh.googleusercontent.com/-x7krHnfOTWI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckdZ4onwEw2D0uvJxiAxWWpQV1Epw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykdjaodiClOqwl1FWoIoymDsN7QUzDF21jJOzB=mo",
         "content": "Una aplicaci\u00f3n muy buena para controlar algunos aspectos de mi salud",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3662,7 +3674,7 @@
     {
         "reviewId": "gp:AOqpTOEVdIm3T-g8tE0AEbdyLMEVjkZz0uJQiSO9UN23Gv2uUgAeLJkeYVadNFvpsrydr-7549TCjg-xAa9i2Q",
         "userName": "Mario Gomez",
-        "userImage": "https://play-lh.googleusercontent.com/-i6pd-6fHNMM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6wMuiWgN1cWIE6Zl_zuGDUb3atQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysMUbkdEb5NNVWa0nT0t9jb2IRd-_SB8xIcuLm=mo",
         "content": "Genial app. Muy intuitiva y pr\u00e1ctica.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3710,7 +3722,7 @@
     {
         "reviewId": "gp:AOqpTOGf_Ed3TLaLnLjudv-W2VIXQOPpzLIo7UVXasJBxnlauMlLCUPQBwwfiQuEsUzTNS7DXufch0CGEMv2XA",
         "userName": "Jose Castro",
-        "userImage": "https://play-lh.googleusercontent.com/-Z9QqRFir_1Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmXc2wNwgBzJpBDv3Ket80D8kQU7g/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-P-SPb2BFql3svg_ivtm_mG-blmHvx3jKT3hb=mo",
         "content": "excelente app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3722,7 +3734,7 @@
     {
         "reviewId": "gp:AOqpTOGalfwsONsmc4CNNnscFxKuEAUL9x_dOM23qJyZs2NL4oHriXLUDXPkHK1ekZHqatIOtTT1Z0AyzhQJaw",
         "userName": "Sergio Mart\u00ednez",
-        "userImage": "https://play-lh.googleusercontent.com/-5azBjYGo-TM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckDe5Uu3lLlpU_x3wb4Hut7HtctQw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDxNueIj8l61ho3mh7ey8FkGG_oAbEOH6H2snJ=mo",
         "content": "Completa app, perfecta para tener tus m\u00e9dicos, consultas y an\u00e1lisis controlado.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3746,7 +3758,7 @@
     {
         "reviewId": "gp:AOqpTOEehWHcnoy1ibwKKKWWmeEHb4OK-n2mKeRry6TUXbHeN3zMyYCinbv30Vk7U0pL5G6l75JxDfy_W1MEXA",
         "userName": "Kike Ar",
-        "userImage": "https://play-lh.googleusercontent.com/-vxIwApEoAPY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0xKJSzf8LdhyJE6gc_tlePBcFuQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysRrsX1g7iNAt54BkANFkBo-ZKGmUNcnSfwjdp=mo",
         "content": "me parece que es muy \u00fatil y funciona muy bien",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3794,7 +3806,7 @@
     {
         "reviewId": "gp:AOqpTOG_KeYU8vTCTmcWecrWCmWMUKcvPGZz-10fmNPf9kZVk_aBa2m8c0YpEmqNWnEms9PuuN6IY7wuL35ATg",
         "userName": "ITS arbol",
-        "userImage": "https://play-lh.googleusercontent.com/-jtemTzdaU_c/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckK-gsMfL2EDT8PFfA2md6VA-yMMg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz4uWR7p1NHB-fB-LpWg_6EFkSX0XXQ4XIpzY-v=mo",
         "content": "Recomiendo la, aplicaci\u00f3n es muy util e interesante.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3806,7 +3818,7 @@
     {
         "reviewId": "gp:AOqpTOFsOCq-IbUrWB3HQOQ1aP9ILQdWJhMl7PL3jH5o_d88RFxVgN9u2_bfj7Lpemq9Gf1T-AkLo_MgB8OTQQ",
         "userName": "Ana Jimenez",
-        "userImage": "https://play-lh.googleusercontent.com/-EqznK-EdRak/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclzm4p5eCNIJ9NZP6at611bZrwe3w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-uAwT77Tj8-CNFXVTqi3iArHKrCeRmUpkg3Vf=mo",
         "content": "aplicacion muy util.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3830,7 +3842,7 @@
     {
         "reviewId": "gp:AOqpTOEOdatsDOJpoWGx0uwZ-eIszmBrHEIx0dKce7luj3YMiXiMyMiySDfiDR2-6Vs1jENQQODyjFY2EIq_cA",
         "userName": "David Fece",
-        "userImage": "https://play-lh.googleusercontent.com/-UJIzFMqffLM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmmqfd3huJhh9eE0M-SqviC-oV9Jg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_4fDJHCkFifMuuMY6BMsjvc0vivZtrAd9Q681=mo",
         "content": "Muy \u00fatil e interesante",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3842,7 +3854,7 @@
     {
         "reviewId": "gp:AOqpTOHhBg_zEzI6t1TWB0cwlupBCFRu1o7w5HshB9Qyc0r2J0VqY3IcyxqTWrwlUn9r5LrqKvo05sn38NTISQ",
         "userName": "cristina perez ruiz",
-        "userImage": "https://play-lh.googleusercontent.com/-IU4LO9YWnJo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmJWJ-b4AzSPL0ZHOiXADQfOLr3fQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1yFf9m-buvheXhLonxUUAbmEt5_p5-RWw686i=mo",
         "content": "es una aplicaci\u00f3n muy pr\u00e1ctica.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3854,7 +3866,7 @@
     {
         "reviewId": "gp:AOqpTOH5HD1Pr1o_-EIfgkIOxIdXUUBKSVJXYh7bXc1OQRzvs5hj4ai9AQoPqgq2IU5wn8gpjxZar29NgFw5Jw",
         "userName": "Michel Onde",
-        "userImage": "https://play-lh.googleusercontent.com/-pbklT4sKRGw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmCtazhDph_RTgRD9A__ATxbW6lQg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzAxmxFYw166vrvZyjkC5l28hPDjVkrVoSn_Sc=mo",
         "content": "espectacular!!!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3866,7 +3878,7 @@
     {
         "reviewId": "gp:AOqpTOEPOSkgJ9hOfvoLtV90G-kegGQOfxMOGnO021ddoQaqyqnWqFtAoQ38K9LDp2MyyuyGVhHzIPVy7OSueA",
         "userName": "Mamen Esquej Valenzuela",
-        "userImage": "https://play-lh.googleusercontent.com/-fstvcOMMT0Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnA-0_pHyuU2tw2t3YqwriogjWskQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwp2nmu37SQvFyMlBc-txButhBWNs2V6zfbschq=mo",
         "content": "es una aplicacion muy util",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3878,7 +3890,7 @@
     {
         "reviewId": "gp:AOqpTOGLhd52d3wqTDxQ8HOHkS7bL5SP-0EICOwgk3DAQbJfj-MMKq7pOHmcYl1g4URNCla8pYbysdt8SJ0WIg",
         "userName": "Pili Martin",
-        "userImage": "https://play-lh.googleusercontent.com/-nfp-FSGy1Us/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7czNwG7X-Od8_1JCo6r41F_nNLQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-7IHbtZzvi_CeL6ShiHSZlf7sW2NKW4vkBPnB=mo",
         "content": "Muy pr\u00e1ctica",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3890,7 +3902,7 @@
     {
         "reviewId": "gp:AOqpTOEmgerOIJl8C18DsNBs6FH3t1RVfQz-DoJd4pOxFJc-dNs8VnlHJZAfoLe9SIorXM2npAA0s-cVmnyWiw",
         "userName": "Silvia Barcelona Puyuelo",
-        "userImage": "https://play-lh.googleusercontent.com/-MYHf979RJa4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck9bjJh9a0crQGqrM8h-CPNrk4E8A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxqpLLYjIe16toCvtur3q_1tbpsnEt78aQJVfv5=mo",
         "content": "Me encanta!! Muy \u00fatil.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3902,7 +3914,7 @@
     {
         "reviewId": "gp:AOqpTOGQrV5P4zm__09KdkY1HN1T40Z6Et-_DvQdJSQvqF4BA0CGsoPHiAmwWacS3iCZSzryy6MHt6Rj5xjF8A",
         "userName": "Angel Liarte",
-        "userImage": "https://play-lh.googleusercontent.com/-lHDLOOm0JQM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnCpP3AR8anTmBIYQ093SEiYmhfdA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJztQIHM3hy_4Ehd7yGLxpCRSLmeQOXtwgriwkt6=mo",
         "content": "Es una fantastica aplicaci\u00f3n. La recomiendo.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3926,7 +3938,7 @@
     {
         "reviewId": "gp:AOqpTOHWhei79I9YRsGblo-1HV9l4pp3KKyMVEYFFOC6ffA-gLLfADgaJJqcr5kTUFVJgbUwT0CgRJaxDsd-xg",
         "userName": "Bel\u00e9n Carrasco",
-        "userImage": "https://play-lh.googleusercontent.com/--XxX_iQFxlo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckEHDBhvN_1zimVW21FHg1BUDlDuA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwonLh1SADozk09sQh9QV4YRVKneqQSSfj2zXhN=mo",
         "content": "Una aplicaci\u00f3n muy buena!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3974,7 +3986,7 @@
     {
         "reviewId": "gp:AOqpTOGxvk4wONfUTL9a5MpQoep26pQZD3VKXP5wlitOIAPkjlqV68h-VWP4ojCjqeuj00QeJApLaip397HQOw",
         "userName": "Jessica Lara",
-        "userImage": "https://play-lh.googleusercontent.com/-dFBdi3DaKSA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZzL7WAqkbM-4TPdl-31lQHKfrxg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyOv4D2xVKRrZoRmCtfFqFfnj8RWq1k04zvx9Gg=mo",
         "content": "Genial!! muy practica para buscar en el cuadro medico y con rapidez!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -3986,7 +3998,7 @@
     {
         "reviewId": "gp:AOqpTOFSZFX7VdMZYzpSa5Jbhic0_b8pashAgTW2vcB8oYbBLBnVroJeq1SYXYBJJuOHFdmT1po5HFMt70fihg",
         "userName": "Eva Garc\u00eda",
-        "userImage": "https://play-lh.googleusercontent.com/-kViEsijYEU4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmSqXIPqbsCbLsaJTuVfsUmnxhfkA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzuAQ5WcxhkXmBkN9MzBshHQJRkFCju0Odij0MA=mo",
         "content": "\u00a1Me gusta!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3998,7 +4010,7 @@
     {
         "reviewId": "gp:AOqpTOFNOE9rjtXzkAKCG9bsD-xkHsIPqbBI2ECrt6IoaARlP6V73NTXYBaCj8WLwPEkJ_LVXQTmOeqgoz9a_A",
         "userName": "Golfosone",
-        "userImage": "https://play-lh.googleusercontent.com/-nlAijVLz9g0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclwrU-lqCsf_E55KqLiFhriytZzBw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw_JBpa42F-0WVIysTnEOovxTcw5dac7uDnLAjw=mo",
         "content": "esta muy bien la aplicacion.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4010,7 +4022,7 @@
     {
         "reviewId": "gp:AOqpTOFNXmyaQvM7ndPv96p4p9sHWVNheyyMocQuAnKbngh0_Ykh9orglZ7AQ-X1o08szeZGl46XaH1rAmDiRQ",
         "userName": "Huaway1234 1234",
-        "userImage": "https://play-lh.googleusercontent.com/-fJZr6ce4Xlo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmK2L-vU6elvE0llg-g6PW-co3fVA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzsnTVUNyTAQSXt8Nk_fh_IjzBivCU-30PdnA1C=mo",
         "content": "muy pr\u00e1ctica y muy f\u00e1cil de usar",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4022,7 +4034,7 @@
     {
         "reviewId": "gp:AOqpTOG15bGLqIaLKqbWetMZMs0xaxYiz2E1ok7awPDWHYT1XfihjUXfHZJHIHXEssz33DoKyiCLM58i4F3W9g",
         "userName": "Mar\u00eda Jos\u00e9 Ram\u00edrez Bellido",
-        "userImage": "https://play-lh.googleusercontent.com/-ORV6LWGoeMw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucla7l4gHgtOEd7Kil7sZF2BjucLGA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwcWuSnu_uTgB13msWnnQ-T5oD6hgcN297Sp_ct=mo",
         "content": "Me gusts mucho esta aplicaci\u00f3n",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4046,7 +4058,7 @@
     {
         "reviewId": "gp:AOqpTOFIxJ5v0IY_bahDaA3KAlLJvXJc_d-Pif7oxkmKy13qZkyHNc4xboaHcjNfCjNyAUNQhSjh-AFnSE6SUw",
         "userName": "Inma Soria",
-        "userImage": "https://play-lh.googleusercontent.com/-5AdjRXGoR4k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnBDjG1BiSjjh0aqaiZtJgn98WgEg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZKvbtXdRls9jzWsZHdPbLUIkt0n3h4iVFOB4J=mo",
         "content": "Estupenda aplicaci\u00f3n. Muy f\u00e1cil de usar.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4058,7 +4070,7 @@
     {
         "reviewId": "gp:AOqpTOEKtU6f2h7hzOJ72hVHUX4-ivlQdzOTbUANTKPSUv9NunL7NmTYqIVuBZ7BMgnxN-9KWUZ38S6wjWndpg",
         "userName": "Ana Cristina Lahuerta Valencia",
-        "userImage": "https://play-lh.googleusercontent.com/-Wr9PTuv8j60/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnRZ4hvoD5VEotdSBvdBqW1KjVghQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw_8HfzzvOVxlXVmsTWjrk5Hg_h4f7xPvxqz4r1=mo",
         "content": "Me parece de f\u00e1cil uso.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4070,7 +4082,7 @@
     {
         "reviewId": "gp:AOqpTOF1AJQ02NFyZmPuZ3JMHXyx3H_S7UcVRko0t-Hjx-Nr1W_NjlKVY3LpcdYysqCIX5w2Qkznp9tzdrUdNQ",
         "userName": "\u00c1gueda Sanchez",
-        "userImage": "https://play-lh.googleusercontent.com/-DJBAlYAwnyA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclWqlzArgIUnxgJhxIPABS9YW00sw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwEA3t6MiL41LD22XUdw08P9yju_jrrIoBQnThb=mo",
         "content": "Pr\u00e1ctica, de f\u00e1cil uso",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4094,7 +4106,7 @@
     {
         "reviewId": "gp:AOqpTOF1RVzJDvkJuKJQOdYuFF6nHeCNQXmU48BjdKV-tShoQ5R_2Ss3HFWXWFW7GRkCf5DfgxlcRfk-L6GYHg",
         "userName": "Lorena Arrabal Garcia",
-        "userImage": "https://play-lh.googleusercontent.com/-bC3Y_PJ3ib0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1iL7oRDK_F2UwbpVIFWEXMltP2Q/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw4hXYLlF9Vx0fH1q6zdzakneWxbJZtCFVBvBH0=mo",
         "content": "App muy recomendable para llevar un control de tu salud y la de tus hijos de una forma pr\u00e1ctica, sin almacenar papel. Tambi\u00e9n me la descargu\u00e9 para tener una motivaci\u00f3n extra para cuidarme y estoy muy satisfecha!",
         "score": 5,
         "thumbsUpCount": 2,
@@ -4106,7 +4118,7 @@
     {
         "reviewId": "gp:AOqpTOGEqwXwk6SJupU757Yf-WsPRjVSW70VLyLNV7vtJ9Ld23Q0HCwN9IZso9Av9dzsg5nKv6YCNCqvPwUrYQ",
         "userName": "raquel ferrer",
-        "userImage": "https://play-lh.googleusercontent.com/-L21eqRyk1UE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckX6c931ii5x2MLLR9_te8NjegxtA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxLvQuqKp6zRR6ltp2F-9kI6iLyfLp0L1de5hc3=mo",
         "content": "Sencilla y pr\u00e1ctica. Aplicaci\u00f3n recomendable.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4142,7 +4154,7 @@
     {
         "reviewId": "gp:AOqpTOEZzOryZw4kQAHKZzP7i4z9wNISGzuPcbU2xV97_yPYdpnqlvp_0agje7oZdsaf9hrr-mWMCqcIgLAUTg",
         "userName": "Sandra Bueno",
-        "userImage": "https://play-lh.googleusercontent.com/-_NU2trmmk_I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQ2Git5eH0sPG02HIZmfqIdWwhKQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwTnqEVRDtUdaDzdYOLSy7RvgwXQAT4QNrtmeub=mo",
         "content": "Super pr\u00e1ctica con la carpeta de salud, coach...",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4154,7 +4166,7 @@
     {
         "reviewId": "gp:AOqpTOEOURH0GBIaKRg_vaqV5yBnn2gz40uwan9bKwoLT_teQkCG6lVqX0z6Ie0H698due4M9SV5EmB7ibX8mw",
         "userName": "Teresa Alvarez",
-        "userImage": "https://play-lh.googleusercontent.com/-1MrXA3GpsDc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm7VpHlSeRMdKnGOZCJ7ArNCl_d9w/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxhkTX5Vi2AOr_StoZ3xs75cpHcH5ds3G4wMPI9=mo",
         "content": "muy ilustrativa",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4166,7 +4178,7 @@
     {
         "reviewId": "gp:AOqpTOFu6hxaSnMjbGeY9fCmBNRAUri4WKBa0jqpSZPDp3GAslmrEebmLohJzgey_lkag_-uLxEw25IvUKFf7g",
         "userName": "Marimar Gracia Blasco",
-        "userImage": "https://play-lh.googleusercontent.com/--GAJh63QXDQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl_R4z_NBMD7Onu71IBtdsbPstpCw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyauIMzRWGp6ao1D9nMQf88yMiWoJTOr98yE6uJ=mo",
         "content": "Una aplicaci\u00f3n muy \u00fatil para tener tu salud al dia.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4178,7 +4190,7 @@
     {
         "reviewId": "gp:AOqpTOEeyl-Er1qfHONrhdjSdBHnDrbXvmOz4T7yjyT46oFR5LcO4WB7KQTRTbfHbKZbo0tq1AFAxMPqG694Eg",
         "userName": "Oscar Garcia",
-        "userImage": "https://play-lh.googleusercontent.com/-cw8g3TMTwvk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl-LD9mocIvH3uIvc58cCPdACmImA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwWS4u9tDX_M1KoNx_OXQLDrh0DK1OSELGBXo2T=mo",
         "content": "Muy buena aplicaci\u00f3n para aprender a cuidarme mejor. De uso sencillo",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4202,7 +4214,7 @@
     {
         "reviewId": "gp:AOqpTOGyUbnwCWtXgK-btPgWB8BpQJ4ZZ_zG5mGb7ZhzIETZuyQQEiGObBhRnOz4VC6VHr69Kp1JNzJ12d-OSw",
         "userName": "C\u00e9sar Revuelta",
-        "userImage": "https://play-lh.googleusercontent.com/-U9F38_dog7k/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmyFeaKccVKcFn8hENDqf8cZv8slQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxbsRvEEoCyk7GtIMueX7Kz2v64j6dJAqbvzY3=mo",
         "content": "genial. me sirve para fijar mis objetivos y cuidarme cada d\u00eda m\u00e1s.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4214,7 +4226,7 @@
     {
         "reviewId": "gp:AOqpTOG5S1yYFvnhc7KKQ6-dIAYBAJnpmt-iwl-2uARtuasQetYa_O74fT9WRGtABu5JicONGTGQ1DH4ZkaImQ",
         "userName": "juan luis osa enriquez",
-        "userImage": "https://play-lh.googleusercontent.com/-NmGbZrkmTnE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckUmdKlWGw-kGB915HSSYQ2AU68rQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTTOGRysimouajZtFmCpLC2_dw9TMynK2-7yQA=mo",
         "content": "La mejor App para controlar tu seguro y tu salud. con informaci\u00f3n \u00fatil y detallada",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4238,7 +4250,7 @@
     {
         "reviewId": "gp:AOqpTOFihTt646l7apHX__e7Bz8Ta96-BKXcS_uVBr9RFEH68AT5GfK4IzJ65R36ROtTkwFe2ihvDwbznx2daw",
         "userName": "Nalamo",
-        "userImage": "https://play-lh.googleusercontent.com/-llG8GySp6z8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn4RvtdqAG96NE5z6P0IoXrbQv0pg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzo8N3Qb5MZFafSCGkwSdmKUgDnPaPCeDVloLM=mo",
         "content": "Una app muy sencilla y pr\u00e1ctica, la recomiendo!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4250,7 +4262,7 @@
     {
         "reviewId": "gp:AOqpTOElX9B9M7XonrjyueJlplkWRJh4nkPuhwOlqcAw5qnGO6b7MkFWJy6Y_MFACPJr6I4uU3RYRtvOn0jpIA",
         "userName": "Lidia Quijada",
-        "userImage": "https://play-lh.googleusercontent.com/-N6wdvq4Ai_0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhuC0lnTpKVNez3py1h7LjU2D1Aw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyBuF58tqLRdlVaqVsanXevREJ5weqMJQ3FZtU5=mo",
         "content": "App \u00e1gil y sencilla, una forma genial de cuidarte con ayuda de los expertos",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4274,7 +4286,7 @@
     {
         "reviewId": "gp:AOqpTOGOJU9hWx1Jo1D5hV_DTmiRb45N3gPnjlTqnniVx9_oZiYUIWOSNjSQbdfDpJWb8WoDGZ6DMh4xGjMQEw",
         "userName": "Olesya Pavley",
-        "userImage": "https://play-lh.googleusercontent.com/-2sBLxPFRbjs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck-6J_azCrzZmmVKkZ7uHl8xyYQQg/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwv49ITmd0i8VSfH4yiMq_HRxelYahRaXrz9foN=mo",
         "content": "Una aplicacion rapida y util. Me encantan las nuevas opciones y sobretodo la Carpeta de salud. Enhorabuena!",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4286,7 +4298,7 @@
     {
         "reviewId": "gp:AOqpTOHTmA3khhBQnuhd6jLecNYOZwoZNdo1nk6BVpcazvW6ZiIm3TZfkcuXH1cA54D8RcghLiLI_Lzpe5fInA",
         "userName": "yolanda roca",
-        "userImage": "https://play-lh.googleusercontent.com/-ShcC_MTfSv0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllsw-cfakes9kcJEVyc6QSy_S9Iw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz89wadEOzDrkVjGq-O9DDutPuyvn5I6-Ojwgs8=mo",
         "content": "sencilla de usar ,y te ayuda con tu salu",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4298,7 +4310,7 @@
     {
         "reviewId": "gp:AOqpTOFMgihNe9SQDvex9mj0YaTB2mhs3wsAcYXIf-lgqI3JLh94ZN1tgn7QOzEgVUt9pmCNzIMOVTW92KgxuA",
         "userName": "Alejandro Rodriguez",
-        "userImage": "https://play-lh.googleusercontent.com/-RHjd_5hXklE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnkPjxLkFpq-NvH6hf0Ni0j5ltOmw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw_8c5fmx3vSfTJPkVvYyudrFmc1CVPuKhNykFA=mo",
         "content": "Aplicacion muy \u00fatil e intuitiva. Recomendable 100%",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4310,7 +4322,7 @@
     {
         "reviewId": "gp:AOqpTOF2DUmhpDPPwadMeJYyci5yivqwsO5EwwEVASew_gZbJvaqPHw0i6pdXcrMOx_ZCJdRoUclTtJUGsRkog",
         "userName": "pm X",
-        "userImage": "https://play-lh.googleusercontent.com/-F7wL0cFJ8PQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzQi5F70NZXBU2ON0p8CELlXevRA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXQmoKl6rYBNytcEmcEgx1nVRkdp6Ig76EQ-IG=mo",
         "content": "es una app de facil manejo y muy util . la recomiendo",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4334,7 +4346,7 @@
     {
         "reviewId": "gp:AOqpTOE5wEyzfOeiZGTQ7kC2gZUGujmmK5nWg14-xHJHg5P43F-CjOoF9pZ4utE2D9GwQdzpVGK-EdTZaYjkvg",
         "userName": "Immaculada Martinez",
-        "userImage": "https://play-lh.googleusercontent.com/-Ni8nS7C3G4Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnOnGAoubeQ-YbDRjgyCqE7PmcVjQ/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzerl__4vwepDdgGo-hXbX0ukioSbJOB3uHbDWd=mo",
         "content": "Recomendable",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4358,7 +4370,7 @@
     {
         "reviewId": "gp:AOqpTOFvgjq9YdbtkZKYM1ELLNZjYEw0OQTZOov5xoxWF6cN0Vlj5tVWAwr_XKeDBDMI3v8Ofi9mNl2940o7lQ",
         "userName": "Jose Luis",
-        "userImage": "https://play-lh.googleusercontent.com/-oaso7-gPx0Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclOnd_u9NPSIVlvL6cY3Y7BYhb43A/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTg3qn7Z0Lm31E6iwJm8NcxxLZKega6HT0NVyJ=mo",
         "content": "Muy buena App para los que queremos cuidarnos y hacer un seguimiento de nuestra salud. Incluye opciones interesantes como el doctor digital.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4406,7 +4418,7 @@
     {
         "reviewId": "gp:AOqpTOF8gMyWgkkH4HDR0R3JeIR6trNkjcCIhx6yLaKlXbp7B--9oDuTGYew0b90_FHotVV1ybcTNimYGmnTwg",
         "userName": "Nike Nike",
-        "userImage": "https://play-lh.googleusercontent.com/-0KMC3N47D7U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclh3H4QAgzgvFKBOcIkTM6sOCGFew/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzH0y0gQWAnYWUOOzeiSBB9JOd-KUeCAcMpQmHM=mo",
         "content": "App es una kk se cuelga",
         "score": 1,
         "thumbsUpCount": 0,
@@ -4418,7 +4430,7 @@
     {
         "reviewId": "gp:AOqpTOFs6wWszTvA0DqLmB4Qp8yGzjw3WQrp-mMssUPXjdJT4vWMu9Jb3ZMIanaC5w3XEr_dNaDtmU5cNiEcsw",
         "userName": "Francisco Guill\u00e9n",
-        "userImage": "https://play-lh.googleusercontent.com/-qloj5O20Kb4/AAAAAAAAAAI/AAAAAAAAAeg/AMZuucmkxJSUCV1wYxD7hZ0Ym9trzxY5AA/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwADNqnV1NtaOTO_AdSkYTLMqgOR6_h92DItH-IsA=mo",
         "content": "Al acceder siempre da error. No se puede hacer nada.",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4490,7 +4502,7 @@
     {
         "reviewId": "gp:AOqpTOG8NQbj9gLTwo-gw2-PuNTmJtGkNvQ0Oyi11iTOjn7mDks1_gWl7USswesc8NJcYDMf0Dr01Qbwv-s7Nw",
         "userName": "miguel lorca",
-        "userImage": "https://play-lh.googleusercontent.com/-7P4HGP1j32A/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnhc0A-x6ZxVEGi5RPNS4Ci3HE4kw/photo.jpg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxO6uIYwvGnwHxzKyRpC895ChhUIzEyyTBkRzYS=mo",
         "content": "Me facilita la vida",
         "score": 5,
         "thumbsUpCount": 2,

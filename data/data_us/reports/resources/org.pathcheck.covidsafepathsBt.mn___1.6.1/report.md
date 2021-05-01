@@ -253,8 +253,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > It keeps checking exposures every 2 minutes<br> :date: __2021-04-27 17:39:43__
 
-> 4-19-2021 due to past security issues app is shown to be no longer listed on device. Was able to find the claimed last update in Tools description which shows a date of 12-22-2020. Would be nice to eventually see a notice from Play Store that previous apps uninstalled if they have been updated as to consider re-installing again.<br> :date: __2021-04-19 15:37:06__
-
 > It does not work<br> :date: __2021-04-13 21:23:16__
 
 > Useless. If you have covid you will know by... being sick!<br> :date: __2021-04-13 20:00:19__
@@ -268,5 +266,7 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen. Edit: uninstalling because still no fix and just got 20 notifications in a row.<br> :date: __2021-03-31 19:32:39__
 
 > Walz paid somebody a lot of money for a useless app.<br> :date: __2021-03-31 16:14:01__
+
+> Push notifications can't be silenced<br> :date: __2021-02-23 18:25:36__
 
 

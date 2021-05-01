@@ -223,6 +223,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
+> Newest version no longer available for my phone. This means lower protection as lockdown is ending. very angry at this.<br> :date: __2021-05-01 01:13:48__
+
 > Too slow to react. The app is only as good as the data it has to work with. I got a notification I should isolate for -6 days (yes minus 6 days) it took that long for the data to be made available to the app...<br> :date: __2021-04-13 11:47:25__
 
 > It doesn't provide any live longer Information.<br> :date: __2021-04-06 11:13:28__
@@ -240,8 +242,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Never had an alert no idea if that's working and there's no way to take two phones and do a diagnostic safe proximity test between them for reassurance. I simply don't trust this or the NHSEngland equivalent and I use both.<br> :date: __2021-02-12 04:20:30__
 
 > I don't know if it works right..<br> :date: __2021-02-11 11:40:25__
-
-> Cannot increase or adjust the font size. I am severely visually impaired/blind.<br> :date: __2021-02-04 14:05:45__
 
 
 

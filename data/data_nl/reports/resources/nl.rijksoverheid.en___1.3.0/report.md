@@ -142,7 +142,13 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
 </p>
 
-> Helaas heeft Google de privacy niet op orde: "Google werkt aan een oplossing voor een privacyprobleem in de CoronaMelder-app. De fout zit in het onderliggende systeem en niet in de app zelf." Theoretisch misschien geen groot risico. Toch voorlopig de app verwijderd. Afwachten of Google het gaat oplossen of dat samenwerking met Google wordt beëindigd en de app wordt aangepast.<br> :date: __2021-04-29 00:26:54__
+> Bravo!!<br> :date: __2021-05-01 17:23:00__
+
+> Vind erg veel beter waarschuwing ander<br> :date: __2021-04-30 16:26:26__
+
+> Profeschionees<br> :date: __2021-04-30 08:37:24__
+
+> hij doet het goed<br> :date: __2021-04-29 13:10:07__
 
 > Verwijder de app. Ben gevaccineerd met azca zenica. 21-3-2021<br> :date: __2021-04-28 22:53:02__
 
@@ -156,12 +162,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Ik heb een cat mobiel voor mijn epilepsie en werken mooi Voor mijn epilepsie en werken<br> :date: __2021-04-24 14:43:03__
 
-> Een must-have!! #alleensamen<br> :date: __2021-04-24 02:01:47__
-
-> Ik heb de alle twee al gekreegen<br> :date: __2021-04-22 17:19:35__
-
-> Covid 19<br> :date: __2021-04-21 21:28:49__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,8 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 4 reviews"/>
 </p>
+
+> Deze app schakelt uit als je mobiel in de vliegtuig stand staat, althans bij mij. Je kan hem apart weer inschakelen maar dat moet je wel weten!<br> :date: __2021-05-01 11:43:39__
 
 > Zeer bevredigend.<br> :date: __2021-04-28 10:09:33__
 
@@ -187,8 +189,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 > onlangs alert ontvangen dat ik langer als 15 minuten contact heb gehad met iemand die besmet is......die gehele dag echter met NIEMAND (persoonlijk) contact gehad... 》》 mijn buurman kreeg die dag wél zijn uitslag PCR test....onze telefoons dus in elkaars BlueTooth bereik.<br> :date: __2021-04-15 15:03:13__
 
 > 211s1<br> :date: __2021-04-13 15:50:11__
-
-> Deze app is een must voor iedereen. Veel mensen hebben de app nog steeds niet.<br> :date: __2021-04-12 22:53:52__
 
 
 
@@ -254,9 +254,17 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
 </p>
 
-> Datalekken!!!!!!!!<br> :date: __2021-04-29 11:11:35__
+> Slecht 1 mln downloads op 17 mln inwoners , heeft dus weinig nut lijkt mij<br> :date: __2021-05-01 06:29:25__
 
-> In verband met privacy problemen app verwijderd.<br> :date: __2021-04-29 09:42:56__
+> Ik zelf ben besmet en heb gisteren samen met de GGD de app geactiveerd en de hele familie in het zelfde huis hebben allemaal de app aan staan en zijn ook besmet en niemand krijgt een melding dat er een positief persoon in de buurt is..... vreemd<br> :date: __2021-05-01 02:10:39__
+
+> Deze app van mijn telefoon verwijderd. Vertrouw de app van Hugo niet. Ik bepaal ook zelf of ik in quarantaine moet. Daar heb ik heen corrupte en falende GGD of app voor nodig.<br> :date: __2021-04-30 22:56:53__
+
+> Heb hem al sinds het begin ben taxichauffeur en het lijkt me zeer onwaarschijnlijk dat ik vanaf het begin tot nu toe geen enkele besmetting bij mij in de buurt is geweest<br> :date: __2021-04-30 22:27:57__
+
+> Werkt niet.<br> :date: __2021-04-29 13:29:23__
+
+> Datalekken!!!!!!!!<br> :date: __2021-04-29 11:11:35__
 
 > Allemaal Covid gehad en geen enkele melding gegeven in omgeving. Werkt al maanden niet. Klopt maar die werkte niet. Laatste paar keer niet eens gevraagd door ggd<br> :date: __2021-04-29 08:52:37__
 
@@ -265,13 +273,5 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 > Wat vervelend dat uitgerekend een overheidsapp een fors datalek kent. Daarnaast regelmatig een waarschuwing dat er technische problemen zijn, waardoor er over de afgelopen 24 uur niet geregistreerd is. De meerwaarde van deze app zie ik niet meer voor mezelf.<br> :date: __2021-04-29 08:26:42__
 
 > Nog nooit een melding ontvangen hoewel app actief zou moeten zijn. Kan er verder ook niks mee. Kan niks inzien.<br> :date: __2021-04-29 07:27:35__
-
-> Werkt niet krijg geen meldingen van iemand met corona.<br> :date: __2021-04-29 06:44:56__
-
-> Werkt niet privacy probleem<br> :date: __2021-04-29 03:33:38__
-
-> Zo lek als een Google privacy mandje<br> :date: __2021-04-28 20:56:07__
-
-> Zolang de overheid lak heeft aan de privacy van je gegevens , en te beroerd is de app bij te werken vanwege besmettelijkere varianten waarbij gewoon hetzelfde kwartier aangehouden wordt , heb ik het idee dat het meer een app voor de buhne is ipv voor je veiligheid<br> :date: __2021-04-28 20:37:07__
 
 

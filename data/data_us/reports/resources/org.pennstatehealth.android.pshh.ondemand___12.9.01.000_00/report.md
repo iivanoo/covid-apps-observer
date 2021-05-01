@@ -201,6 +201,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-04-29 16:24:42__
+
 > This is a very convenient and efficient way to handle simple medical problems.<br> :date: __2021-04-16 16:46:57__
 
 > Very nice<br> :date: __2021-04-14 15:41:28__
@@ -218,8 +220,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Its was my first time, and my Anxiety was threw the roof. But overall it was a different experiance and cool too.would use it all the time.very convenient and easier then coming to office and getting sick. Thank you<br> :date: __2021-03-03 20:34:50__
 
 > It was an overall good experience just in case of emergency and I couldn't make an in person appointment..<br> :date: __2021-02-25 21:26:28__
-
-> Video was great hard to hear the doc had my volume up all the way and still difficult to hear.<br> :date: __2021-02-24 21:24:03__
 
 
 

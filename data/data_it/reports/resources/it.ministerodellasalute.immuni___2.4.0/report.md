@@ -177,6 +177,12 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="4_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 4 reviews"/>
 </p>
 
+> L avessero scaricata tutti sarebbe stato meglio<br> :date: __2021-04-30 17:24:40__
+
+> Mammozzetti con le spalle troppo grosse.<br> :date: __2021-04-30 07:56:36__
+
+> Funziona?<br> :date: __2021-04-29 18:24:48__
+
 > Veramente un'ottima app. Semplice veloce e funzionale non capisco le continue critiche ma veramente un'ottima app. Serve solo qualche miglioramento e suggerirei di inserire ulteriori informazioni.<br> :date: __2021-04-21 21:25:53__
 
 > Non ha avuto successo perché ostaggiata da una parte politica di inetti<br> :date: __2021-04-21 12:46:00__
@@ -191,12 +197,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Ottima app<br> :date: __2021-04-09 13:48:52__
 
-> Nettamente migliorata<br> :date: __2021-04-07 13:59:41__
-
-> Potrebbe funzionare meglio<br> :date: __2021-04-07 07:29:41__
-
-> L'app è geniale ben progettata ed è funzionale. Peccato che è stata boicottata dalle regioni soprattutto quelle a guida leghista che ne hanno chissà perché decretato il fallimento.<br> :date: __2021-04-04 17:34:09__
-
 
 
 #### 3-star reviews
@@ -204,6 +204,8 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 3 reviews"/>
 </p>
+
+> Sono stato uno dei primi a utilizzare'App da quando é uscita e sono un operatore sanitario che ho avuto contatti con contagiati e sono anche entrato in reparti Covid ospedalieri e non ho mai ricecevuto una segnalazione<br> :date: __2021-05-01 12:49:03__
 
 > Non è possibile che migliorare il municipio al livello 9 impieghi così tanto sul serio miglioratelo senza contare l'elisir nero o migliorate o disinstallo Clash<br> :date: __2021-04-28 13:47:05__
 
@@ -223,8 +225,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > La cosa fastidiosa è che pure quando stai a casa e vuoi spegnere il bluetooth e il GPS, continua a mandarti le notifiche che devi accendere il bluetooth. Anche la notte. Capisco che è un reminder, ma è veramente invasivo. Sarebbe utile una funzione sveglia da impostare quando vai a lavoro, ma poi a casa non deve più rompere<br> :date: __2021-04-21 09:18:52__
 
-> Purtroppo mi capita sovente di averlo in attivo, inquanto se tolgo il blutooth per qualche motivo per poi riattivarlo l'applicazione non si riattiva in automatico. E' facile dimenticarsi.<br> :date: __2021-04-18 12:32:25__
-
 
 
 #### 2-star reviews
@@ -232,6 +232,14 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 2 reviews"/>
 </p>
+
+> Purtroppo si disattiva autonomamente, e per lunghi mesi non ha avuto la notifica di inattività. Aldilà della tecnologia con cui vengono tracciati i contatti, se sia più o meno sicura dal punto di vista della privacy, per quanto mi riguarda l'unica cosa importante è che sia attiva sempre e che contribuisca al monitoraggio dei contatti con persone contagiate. Si è rivelata assolutamente inadeguata.<br> :date: __2021-05-01 14:06:47__
+
+> Non fa vedere niente dice che funziona ma non si capice come.<br> :date: __2021-05-01 09:32:52__
+
+> Mai avvisato sempre installata?<br> :date: __2021-04-30 22:31:05__
+
+> Dico subito che questa app (dato che la sua efficacia è legata ad una sua ampia diffusione) doveva nascere con uno strumento facile-facile da implementare: un bottone con la scritta "condividi". Agg. (un anno dopo) Vivo il lombardia e giro parecchio. Con tutti i casi che ci sono qui questa app avrebbe dovuto squillare e lanciare allarmi tutto il giorno tutti i giorni e invece mai una singola segnalazione. Non potevate investire questi soldi per farvi mettere una piscina im giardino?<br> :date: __2021-04-30 08:17:46__
 
 > L'app in sé e per sé funziona, ma visto che non è stata mai gestita al meglio delle sue grandi potenzialità, sono costretto a disinstallarla<br> :date: __2021-04-28 23:47:27__
 
@@ -245,14 +253,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > si poteva fare meglio<br> :date: __2021-04-26 01:54:02__
 
-> Sono alcune settimane che crasha... Nella sezione CONTROLLI ESPOSIZIONE, inserite oltre al numero anche il giorno della settimana.<br> :date: __2021-04-24 23:10:33__
-
-> Non funziona, per oggi<br> :date: __2021-04-24 18:35:54__
-
-> Continua, dopo 14 giorni del possibile esposizione, tutti giorni da 5 giorni ad apparire la stessa notifica. Malgrado ho segnalato l'avviso al medico. Questo rende l'app meno credibile.<br> :date: __2021-04-23 23:16:54__
-
-> È inutile, ad ogni attivazione della modalità aereo (che un utente è libero di fare secondo necessità), inviare l'avviso di riattivare la app al più presto, per essere correttamente avvisati, se non l' ha scaricata quasi nessuno questa app in Italia. Non siamo propriamente imbecilli. Quando l'utente disattiva la modalità aereo, l'app si riattiverà automaticamente io dico, no??? Per favore, potete eliminare questo alert? Piuttosto ricordate le regole base di comportamento. Grazie<br> :date: __2021-04-22 08:22:36__
-
 
 
 #### 1-star reviews
@@ -261,24 +261,24 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 1 reviews"/>
 </p>
 
-> Nn funziona<br> :date: __2021-04-29 08:45:52__
+> Non e granche servita<br> :date: __2021-05-01 12:17:59__
 
-> Non serve conosco persone che hanno avuto il virus e non mi segnalava nulla... Quindi libero spazio sul cellulare che è meglio... Arrivederci<br> :date: __2021-04-28 23:18:48__
+> Non serve a niente non ti rispondono e non ti permette di inserire codice di positività<br> :date: __2021-05-01 10:54:36__
 
-> Dall'ultimo aggiornamento non si apre più l'app. Device: GOOGLE PIXEL 2 XL<br> :date: __2021-04-28 22:26:14__
+> Assolutamente inutile.<br> :date: __2021-05-01 08:09:35__
 
-> Soldi buttati<br> :date: __2021-04-28 20:12:35__
+> La solita Italia che spreca soldi l'applicazione non serve a nulla<br> :date: __2021-05-01 00:58:54__
 
-> Sono positivo, molecolare positivo percui da 4 giorni e non posso segnalare sull'up perché non mi danno il codice da inserire. Se questo deve esser un mezzo rapido qualcosa andrebbe gestito meglio<br> :date: __2021-04-28 19:22:21__
+> per 8 mesi ho intercettato per lavoro almeno 2 positivi a settimana. nessuna notifica, mai... nemmeno un singolo caso. i pazienti avevano sempre il cellulare con sé e anche io. Fallimento totale.<br> :date: __2021-04-30 22:28:15__
 
-> Inutile<br> :date: __2021-04-28 16:58:52__
+> Dovrebbe avere funzioni interattive tali da permettere di esplorarla e riscontrare l'effettivo utilizzo.<br> :date: __2021-04-30 20:44:46__
 
-> Questo gioco ha molti bug tipo quello del covid<br> :date: __2021-04-28 13:43:20__
+> Poco utile<br> :date: __2021-04-30 20:25:38__
 
-> Edit: purtroppo mi trovo costretto a modificare la recensione. Dopo averla installata dal giorno uno, constato che è effettivamente stato un esperimento fallito. Pochissima sponsorizzazione all'inizio, credo che di fatto sia stata volutamente abbandonata. Un gran peccato e un grande spreco dei nostri soldi.<br> :date: __2021-04-28 11:48:28__
+> Non abbiamo mai avuto la certezza che questa APP funzionasse veramente. Abbiamo installato questa APP quando è uscita pubblica dagli inizi. Oggi 30 aprile 2021, non avendo più notizie di funzionalità, viene disinstallata.<br> :date: __2021-04-30 13:49:02__
 
-> Inutile<br> :date: __2021-04-28 10:14:55__
+> App scaricata dal primo giorno che è uscita. Comunico la mia positività manualmente con codice CUN. Peccato che mia moglie, che vive con me non ha ricevuto nessuna segnalazione. Peccato perché poteva esser una grande applicazione ma così non ha assolutamente senso.<br> :date: __2021-04-30 12:23:59__
 
-> L'ho installata e usata per senso civico. Ma con altrettanto buon senso l'ho cancellata perché inutile.<br> :date: __2021-04-28 09:21:34__
+> L'app continua a interrompersi o a perdere la configurazione, devo ciclicamente ogni settimana disinstallarla e reinstallarla perché dopo un po' di tempo non parte più..... One plus 6 con android 11<br> :date: __2021-04-30 11:04:05__
 
 

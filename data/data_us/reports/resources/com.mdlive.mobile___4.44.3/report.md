@@ -210,25 +210,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> I love MD live. Just talked to my therapist and she was amazing and som comforting. I will definitely keep it<br> :date: __2021-04-28 18:57:21__
+> Excellent experience and very convenient<br> :date: __2021-05-01 17:03:39__
 
-> Very easy and helpful<br> :date: __2021-04-28 03:21:01__
+> Fast EASY convenient & real caring staff & fabulous Dr.!!<br> :date: __2021-05-01 07:56:33__
 
-> Great physician.<br> :date: __2021-04-27 23:19:24__
+> Quick and easy!<br> :date: __2021-05-01 02:16:08__
 
-> Quick ans easy<br> :date: __2021-04-27 21:41:07__
+> Fast, easy, very convenient!<br> :date: __2021-04-30 16:52:56__
 
-> They are so hopeful! Please use them! They genuinely care about you and your symptoms and will do all that they can to help.<br> :date: __2021-04-27 03:42:45__
+> Good<br> :date: __2021-04-30 16:46:28__
 
-> The Dr was very nice. Seemed concerned. He addressed all issues. Thank you.<br> :date: __2021-04-27 01:07:32__
+> First time using video chat with a physician and it was a great experience.<br> :date: __2021-04-30 16:37:45__
 
-> This has been a life saver during the year of a Pandemic. So easy to schedule an appt and easy to use<br> :date: __2021-04-27 00:32:12__
+> Awesome<br> :date: __2021-04-30 14:20:58__
 
-> Being a bed bound patient this has made my ability to see a Dr for my mental health much easier.<br> :date: __2021-04-26 21:40:36__
+> Very quick response from the provider<br> :date: __2021-04-30 03:03:34__
 
-> Really good<br> :date: __2021-04-26 00:40:48__
+> Quick service. User friendly.<br> :date: __2021-04-29 21:05:04__
 
-> My Dr was fantastic!<br> :date: __2021-04-25 22:20:27__
+> Quick and easy access to a great doctor<br> :date: __2021-04-29 20:37:07__
 
 
 
@@ -237,6 +237,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> Great app for seeing an urgent care or behavioral health clinicians. Humana Provides the service.<br> :date: __2021-04-30 23:25:13__
 
 > It's easy and time manageable.<br> :date: __2021-04-18 13:44:37__
 
@@ -255,8 +257,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > Very pleased with the therapist<br> :date: __2021-04-01 02:52:17__
 
 > It was fast and just what I needed while out of town. Sound quality was low.<br> :date: __2021-03-31 16:52:35__
-
-> There when you need them.<br> :date: __2021-03-30 19:43:15__
 
 
 

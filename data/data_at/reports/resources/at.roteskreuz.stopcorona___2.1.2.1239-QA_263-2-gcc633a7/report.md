@@ -176,6 +176,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
+> Die Anzeige der erfolgten Kontakte der letzten 7 Tage finde ich gut. Zumindest sehe ich, dass welche erkannt werden! Also trotz Leben als Eremit über 60 - da würden mich die Details interessieren. Bin vorwiegend Spazieren oder 1x p W. im Supermarkt. Ab welcher Kontaktzeit wird gewertet?<br> :date: __2021-04-30 14:28:10__
+
 > Hätte nicht gedacht, dass ich anhand dieser App tatsächlich mal eine Warnmeldung bekomme. War nun aber so. Ich konnte das dann anhand eines Tests abklären. Die Info-Meldung über die mögliche Infektion kommt aber weiterhin. Mein Vorschlag wäre daher, dass man die Warnmeldungen für einzelne Risikokontakte abstellen kann. Sollte sich in den kommenden Tagen nämlich ein weiterer Risikokontakt ergeben, würde ich das nicht merken, weil ich die Warnmeldung mittlerweile einfach wegwische.<br> :date: __2021-04-23 21:13:53__
 
 > Weiss nicht ob es was kann.<br> :date: __2021-04-23 15:19:11__
@@ -193,8 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > 500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht. Update: Nach Rückfrage beim RK wurde mir empfohlen, die mobilen Daten für die App auszuschalten, da es ausreicht, wenn die App sich ein paar Mal am Tag übers WLAN verbindet. Begründet wurde der Datenverbrauch mit der Interoperabilität zwischen einigen EU-Contact-Tracing Apps.<br> :date: __2021-03-16 11:41:04__
 
 > Tägliche aktuelle Nachschau, sicheres Gefühl, eigene Kontakte nachvollziehen zu können!<br> :date: __2021-03-04 20:03:45__
-
-> Bin gesund seit Beginn<br> :date: __2021-03-03 18:33:08__
 
 
 
@@ -232,6 +232,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Seitdem ich die App installiert habe verbindet sich Bluetooth nicht mehr mit meinem Auto. So ist es für mich leider unbrauchbar. Ansonsten kann ich nicht viel darüber schreiben. Hält sich schön im Hintergrund und tut (hoffentlich) was es soll. Hatte bis jetzt (GSD) keine Kontaktmeldung :)<br> :date: __2021-04-30 12:34:01__
+
 > Habs deinstalliert, weil die neue Version zu viel Speicherplatz braucht.<br> :date: __2021-04-21 19:13:38__
 
 > Leider bisher noch keine Meldung erhalten<br> :date: __2021-03-22 17:21:50__
@@ -250,8 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Hallo STOPP Corona App Programmierer! So kann das nicht funktionieren... ich denke, es müsste direkt positiv getestete Personen automatisch eingegeben werden! Nur so hätte die App einen Sinn.... Fg<br> :date: __2021-02-04 12:00:30__
 
-> Ich habe innerhalb einer Stunde 115000 Schlüssel hinzugefügt bekommen, war jedoch zuhause und habe niemanden getroffen, in den Nachtstunden plötzlich wieder 10000 zusätzliche Schlüssel. Plus Anzahl Treffer 1. Habe somit von durchschnittlichen 300 Schlüsseln seit Frühjahr nun 128000.<br> :date: __2021-02-04 09:51:13__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Rosikokontakt erst nach 8 Tagen gemeldet. Wie kann so was passieren?<br> :date: __2021-05-01 20:39:16__
+
+> 500 MB Datenverbrauch am Tag? Geht gar nicht<br> :date: __2021-04-29 18:52:09__
 
 > Kann mir jemand erklären, warum müssen wir in Österreich eine "eigene" warn app entwickeln und vom steuergeld bezahlen, wo doch die warn app der brd viel besser ist, mehr kann, zb für qr codes der testungen und grünem pass bereits vorbereitet ist? Ist das stolze österreich in europa?<br> :date: __2021-04-25 10:05:39__
 
@@ -275,9 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Nervig<br> :date: __2021-04-16 10:44:03__
 
 > 218 MB mobile Hintergrunddaten in 8 Tagen.<br> :date: __2021-04-09 11:35:36__
-
-> Die App hatte 2,9 GB internen Speicher "in Beschlag" von 64 GB. --> gelöscht<br> :date: __2021-04-05 06:46:36__
-
-> Programmierer sollten Nachsitzen!!! 1. Extremer Stromfresser 2. Datenverbrauch absurd hoch 3. Bluetooth blockiert. Smartwatch ist wertlos nach installation der App. Also wieder weg mit dem Müll!!!!<br> :date: __2021-04-03 13:09:36__
 
 

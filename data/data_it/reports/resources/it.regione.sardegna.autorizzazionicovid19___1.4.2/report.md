@@ -176,6 +176,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> Ottimo<br> :date: __2021-04-30 18:45:48__
+
 > ancora niente xche sono da poco registrato<br> :date: __2021-03-29 22:35:03__
 
 > App indispensabile per accedere in Sardegna, l'ho usata ed è molto veloce, consigliata a tutti<br> :date: __2021-03-20 09:43:59__
@@ -193,8 +195,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Ottima.<br> :date: __2021-03-08 21:18:21__
 
 > Bello<br> :date: __2020-11-18 17:59:41__
-
-> Come app e buona e solo che si dovrebbe aggiungere casa privata perché e normale che se parto per un impegno per pochi giorni poi rientro a casa mia .... del resto mi piace<br> :date: __2020-10-11 14:33:31__
 
 
 

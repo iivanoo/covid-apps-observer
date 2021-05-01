@@ -4,7 +4,7 @@
         "store_country": "at",
         "store_lang": "de",
         "latest_crawled_version": "2.1.2.1239-QA_263-2-gcc633a7",
-        "latest_crawl": 1619700307
+        "latest_crawl": 1619894667
     },
     {
         "id": "org.who.infoapp",
@@ -18,7 +18,7 @@
         "store_country": "at",
         "store_lang": "de",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1619700332
+        "latest_crawl": 1619894795
     },
     {
         "id": "at.ffg.ffgfoerderradar",

@@ -186,6 +186,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-05-01 01:57:12__
+
 > Easy to use<br> :date: __2021-04-28 18:37:03__
 
 > This has made it so much easier to have a Doctors visit when it's nearly impossible to get to a physical doctor.<br> :date: __2021-04-28 04:47:06__
@@ -203,8 +205,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Reassuring, thorough<br> :date: __2021-04-24 20:09:00__
 
 > I love how easy it is to meet with my doctor's with such a flexible schedule. It even helps to do my therapy sessions in the comfort of my own bedroom!<br> :date: __2021-04-23 18:58:18__
-
-> I just used this app for the first time. I love it! I was able to be seen by a doctor from the comfort of my own home. I didnt waste 4 hours sitting in an urgent care facility to be seen. I will definitely use in the future. Since 1st time using app I have used it to have my kids seen. The whole family loves it.<br> :date: __2021-04-23 03:34:31__
 
 
 
@@ -270,6 +270,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 2 reviews"/>
 </p>
 
+> I've tried to use this app twice in the last 3 years. Both times my account was already locked. The phone number they give you for assistance said they didn't know why it was locked but they would create a ticket and somebody would email me. No timeline. Not the level of support you want from an oncall medical service. It's been 1 hour so far and no email.<br> :date: __2021-04-29 13:52:04__
+
 > App was useful for a couple of months but it hasn't had available providers for months now. I scheduled an appt with a doctor a month in advance and was cancelled with no notice the day of. Useless and demeaning.<br> :date: __2021-02-05 05:16:50__
 
 > In theory it seems good I'm having a difficult time finding any doctors. Very little appointment??<br> :date: __2021-01-22 05:10:08__
@@ -288,8 +290,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > I have full covrage insurance and they tryed to tell me they cant find my provider... And all information i did twice just to be sure it was not messed up i dont have the money and nore should i pay for it when i have insurance..<br> :date: __2020-06-20 17:20:03__
 
-> The video portion kept freezing and then halfway through my session it cut the audio down so low that I could barely hear the person on the other end. I'm really disappointed that I had to end my session all because your application could not keep the audio up.<br> :date: __2020-06-15 22:41:13__
-
 
 
 #### 1-star reviews
@@ -297,6 +297,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
+
+> The doctor on the other line said that telemedicine doctors aren't allowed to treat UTIs.... It would have been nice if they told me that BEFORE they charged me $59. What a scam.<br> :date: __2021-05-01 04:33:54__
 
 > Don't waste your money, I paid $59 and they can't even prescribe medicine that you actually need. Go to a real doctor!<br> :date: __2021-04-24 22:05:37__
 
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Video does not work with Samsung products!!! Known issue, Yeah I spent 20 minutes entering all my information twice only to find out that the video will not work with Samsung. They know this and yet no disclaimer up front,. Waste of time.<br> :date: __2021-03-17 14:18:02__
 
 > Charged multiple times Dr kept cancelling on me Put me on meds without refills and suffered withdrawals and was never contacted by Dr again she ignored my emails<br> :date: __2021-03-13 13:36:51__
-
-> Complete waste of my money, they charged me for them to tell me to go see my primary care doctor!<br> :date: __2021-03-07 18:54:55__
 
 
