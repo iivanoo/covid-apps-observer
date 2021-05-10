@@ -161,6 +161,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ottima<br> :date: __2021-05-07 09:15:59__
+
 > App fantastica: sono felicissimo, così si riuscirà a contenere il virus ed evitare che le classi finiscano in quarantena per l'ennesima volta come la mia... non ne potevo più di sentirmi inutile e non servire a niente a parte stare ai regolamenti, invece adesso posso aiutare più di 60 milioni di persone...<br> :date: __2021-04-29 21:38:24__
 
 > Oggi 24 Aprile 2021, NON si apre il collegamento "alla pagina", riguardo le ultime comunicazioni Regionali per il colore e, le novità del nuovo Decreto Regione Lombardia. Potete fare qualcosa? Grazie. * Problema risolto! Grazie agli sviluppatori per la risposta.<br> :date: __2021-04-28 14:38:16__
@@ -179,8 +181,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Buona app, alta affidabilità!<br> :date: __2021-04-22 16:02:44__
 
-> Anche a me dice di aggiornare l'app. Ma non lo lascia fare. Attendo Vs. Notizie<br> :date: __2021-04-22 15:51:46__
-
 
 
 #### 4-star reviews
@@ -188,6 +188,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
+
+> È sempre andata bene, da un po' di tempo escono le notifiche ma non apre la APP. Alzo il punteggio a seguito della risposta dello sviluppatore<br> :date: __2021-05-07 12:55:17__
 
 > Ok:risolto con altro update dopo 14gg-Era molto bella, aveva una cartina con l'evoluzione nel tempo ma una cosa pubblica non poteva essere bella o utile, quindi qualcuno è intervenuto e ha fatto diventare la semplice cartina una lista di codici tipo "pianura centrale IM10" "nodo idraulico Milano IM09" di cui nessuno che non lavori in regione sa confini o posizione, con tabelle illeggibili. Non trovo modo di riavere la cartina o l'impegno che hanno messo nel nasconderla supera la mia pazienza. :(<br> :date: __2021-05-01 16:17:27__
 
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Molto utile<br> :date: __2021-04-19 18:40:46__
 
 > Ok<br> :date: __2021-02-27 12:18:08__
-
-> Ok<br> :date: __2021-02-13 21:07:14__
 
 
 
@@ -273,6 +273,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Scusate ma cosa serve!?. Poteva essere usata almeno per tracciare i vaccini o per prenotazioni..<br> :date: __2021-05-09 08:11:35__
+
 > Stesso problema con Matteo Repossi: "aggiorna l'app per avere le ultime notifiche bla, bla, bla..." vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Oggi l'app fa sapere che da domani, senza aggiornamento non si riceveranno più le allerte. vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Quindi? Hanno risposto gli sviluppatori?<br> :date: __2021-04-23 14:54:25__
 
 > Come si fa ad aggiornarla? Non compare nulla nè aggiorna nè nuova versione... Anche questa è organizzata da Aria? Quanta incompetenza!!!!!!<br> :date: __2021-04-23 07:58:26__
@@ -290,7 +292,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Ha sempre funzionato bene. Ora è una settimana che continua ad avvisarmi di dover fare un aggiornamento altrimenti non riceverò più le notifiche. Peccato che non ci sia modo di farlo.. cosa devo fare? Grazie<br> :date: __2021-04-22 15:49:20__
 
 > Non funziona più chiede di fare gli aggiornamenti ma nel play store non sono disponibili<br> :date: __2021-04-22 15:39:01__
-
-> Non funziona l'app non si apre e dice ; servizio attualmente non raggiungibile . Ho aggiornato l'applicazione, ma mi da lo stesso errore. Ho provato a disinstallare e reinstallare ma non funziona lo stesso. Forse non è ottimizzata per android 11, il mio telefono è un Samsung A40. Oggi ho provato ad aprire di nuovo l'applicazione e ha ripreso a funzionare.<br> :date: __2021-04-21 18:45:10__
 
 

@@ -1,15 +1,51 @@
 [
     {
+        "reviewId": "gp:AOqpTOHATOuRCzqrD2--md3zhDVrGslVDTzCbgI6RGvSOlmfvc75DWBr_0hMRaZUPcFIN1L-ro4JnJLdnEukTw",
+        "userName": "Conchi Andrades",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJPaFWIsDpKjBFYkoS55u2XUzF_fk8Yvb6gmluVBg",
+        "content": "Es un buen seguro pero a veces las cl\u00ednicas con cobertura no dicen que hay que pagarle algo aparte de la mensualidad .contenta",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.1",
+        "at": "2021-05-06 23:17:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHihbExcidB6QfTSv7W0KXIV4PuwdOIDMMEce3TSzRmqIGhLDyiVY5ccGBlp-H_n06FOXFDbWqh17o1cw",
+        "userName": "Honor y Patria Espa\u00f1a88",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTK_SqkY1MGGI97K-KHSK7mjgkdU6WjgDPfRXzyvw",
+        "content": "No funciona!! Introduces tus datos y no se ve nada m\u00e1s!! Gracias pero m\u00ed nombre y apellidos ya me les s\u00e9,no necesito una app de salud de pago qu\u00e9 no funciona!! Cero!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-06 17:23:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFjLed4_r31MaUdQSTzMlqVLmi9Ojq4k6E6nZmBgx86om2OsNa8RsxnqNon7iLOost4rfyIJ83k-eltgg",
+        "userName": "Aida Acevedo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiKHT-TI9C7kJTM9b_cd2htRM7ig6V5Bvq_2tDiHQ",
+        "content": "Esta aplicaci\u00f3n no funciona un mero desastre, no sirve para nada",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.1",
+        "at": "2021-05-04 11:38:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHku_DJ3Zmgx9iJg8Dr5d-d4AvvbrFf_yuJB0uhCyqhF9SID2E_N8X72RbgdLNAavDjTd-hAFRB714WxA",
         "userName": "maria del mar rodriguez",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJySSKf7aSiN8yTQFnQl_RxW6n3XdbJoCxyspP9j=mo",
         "content": "No puedo ver en la aplicaci\u00f3n mis datos de la poliza, tengo q meterme en \u00e1rea de clientes por fuera y se me olvida la contrase\u00f1a, cuando quiero restablecerla no me llega ning\u00fan email",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-04-30 10:55:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola M\u00aa del Mar, desde Quiero cuidarme + puedes visualizar tu tarjeta Medicard. Para m\u00e1s detalle sobre tu p\u00f3liza debes acudir al \u00c1rea de Cliente de tu seguro. Tu cta. de esta aplicaci\u00f3n y de dicha p\u00e1g. son diferentes, con diferentes usuarios y contrase\u00f1as (salvo que hayas introducido la misma). Escr\u00edbenos a soporte@dkvservicios.com y te ayudaremos.",
+        "repliedAt": "2021-05-04 14:55:35"
     },
     {
         "reviewId": "gp:AOqpTOEr1uv0n1gubN7FI4GM9w1u9zAAo2_Zl-Mqs2t62cGTvg5QNhYX5gFhNe9XbnkMDbNkgGB_BQDe1o8UHQ",
@@ -17,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwP0N1DjjrvyjsDqDut5zkL0JK4Z6Yzxr3usJ5t=mo",
         "content": "La idea de la App es buena y original, pero est\u00e1 llena de fallos por todos lados: ................................................................. > Se desactiva enseguida el lector de huella dactilar y tienes que reactivarlo constantemente. ................................................> En las citas por videollamada se congela y al final acabas hablando por chat/llamada ------------------> En documentaci\u00f3n si te suben una autorizaci\u00f3n no deja visualizarla ni descargarla, se ve s\u00f3lo como una imagen miniatura (a m\u00ed me subieron una autorizaci\u00f3n de test de antigenos Covid y tuve que pedir que me la mandaran por email) + si subo yo o el m\u00e9dico documentaci\u00f3n, no me aparece en mi men\u00fa privado de la web, no est\u00e1n conectados. -----------------> Al consultar citas nuevas por videollamada/online fallan las citas disponibles porque te pone una fecha y cuando das a la flecha a avanzar ves abajo en resumen de todas que hab\u00eda otra anterior de fecha y tienes que darle desde ah\u00ed ----------------> Al consultar m\u00e9dicos en el cuadro m\u00e9dico, si le das a ver mapa (en general o en un m\u00e9dico concreto) el mapa se carga con Espa\u00f1a en miniatura que tienes que ampliarlo a mano muchas veces hasta que ves la calle y centro................. + estar\u00eda bien poder ver la web del centro por si prefieres pedir cita x web que tel\u00e9fono ..................+ poder ver las subespecialidades del m\u00e9dico concreto (eje en dermatolog\u00eda no es lo mismo uno especializado en herpes, que en eccemas/soriasis, acn\u00e9, etc) y tienes que estar llamando a todo el listado a ver qui\u00e9n conoce tu patolog\u00eda a fondo...",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-04-27 21:18:17",
         "replyContent": null,
@@ -166,18 +202,6 @@
         "at": "2021-03-30 09:45:46",
         "replyContent": "\u00a1\u00a1Hola!! nos alegra saber que la aplicaci\u00f3n te est\u00e1 siendo tan \u00fatil. Muchas gracias por el comentario. Un saludo.",
         "repliedAt": "2021-03-29 14:55:44"
-    },
-    {
-        "reviewId": "gp:AOqpTOHATOuRCzqrD2--md3zhDVrGslVDTzCbgI6RGvSOlmfvc75DWBr_0hMRaZUPcFIN1L-ro4JnJLdnEukTw",
-        "userName": "Conchi Andrades",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggt6v8cdlF3tF0d2EGwHFCHSP8QDI8cBzPo5JYcQds",
-        "content": "Si el centro m\u00e9dico no fuera Policl\u00ednica la l\u00ednea .afecta a vuestro seguro famedic",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.2.9",
-        "at": "2021-03-28 11:28:40",
-        "replyContent": "Hola Conchi, muchas gracias por la valoraci\u00f3n, nos alegra saber que te est\u00e1 siendo \u00fatil la aplicaci\u00f3n. Un saludo.",
-        "repliedAt": "2021-02-16 18:17:56"
     },
     {
         "reviewId": "gp:AOqpTOEdJALBafA-FwgvzM3nSFQEDyaLI-tv7-2yXKVi3pODMXfcn_nLZksk7bpTFwhS_XJxBhh8qwUKSfFk3A",
@@ -1790,7 +1814,7 @@
     {
         "reviewId": "gp:AOqpTOFgVSlmp_IvGDtU3sxIC8NX9DCLWiT0dQkjRh8u6VTbbth4vBS2zYUpwVC6t4klcQG4FjQ6o4L7uCu5jA",
         "userName": "Tatiana Chukhina",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg99dOcs7zIMEUqG_kFGLvjAtiC8Iwtucs2if9cdA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4c3ZFXmywUKI4Ab56Q8CXyDEQR6ETp8vwaLl87w",
         "content": "Excelente, muy buena experiencia buenos profesionales y buena calidad de la llamada! Recomiendo a todos",
         "score": 5,
         "thumbsUpCount": 1,
@@ -1802,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOFxW-qO02rYFBxU9a8PEy6yLMW46PhXNkdyK4KlQSsiI9Qr80_OYxFlNqTTEuTK31Ft-x4GBeIC1A37jg",
         "userName": "Carmen T Aguirre Valencia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4HIB7NXnVmVcX_9tMu_uWFsowv6mDra2Y3Jd6xhI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBA8rzQ24RmAgZrkBV0bFdC51b8oVMOsDWSmXSX5I",
         "content": "No funciona bien la aplicaci\u00f3n",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3265,8 +3289,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFrb72NBl1LVwcMMzOwcGwkRv-ovf9iGTCl8Qci4N3mwpzeE0uCWRUELEoLra_k9TG_4G4jzM388LXwBA",
-        "userName": "Rto FT",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiFn7FAztiWVNtiowjuSNftNDosgbHfPTMqY5Ibmw",
+        "userName": "Srrelik",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZBaBvxhsILZKMWY6La-NoOkjZATx-OfTf9VRQh-k",
         "content": "Me ha ayudado. Atenci\u00f3n muy r\u00e1pida. Muchas Gracias por este servicio.",
         "score": 5,
         "thumbsUpCount": 1,

@@ -230,6 +230,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 1 reviews"/>
 </p>
 
+> La información de interés es del 2020.....lamentable lo del interés.....<br> :date: __2021-05-04 21:31:35__
+
 > Imposible cambiar los datos, si cambias de ciudad no deja actualizar y siempre hace la valoracion con el viejo<br> :date: __2021-04-13 13:50:55__
 
 > Mala<br> :date: __2021-02-28 21:50:40__
@@ -247,7 +249,5 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > De momento no se si esta istalada no tengo nada que lo diga ni me lo aclaran.<br> :date: __2020-10-22 14:54:04__
 
 > No deja añadir contactos, me dice que hay una solicitud pendiente pero no hay manera de solucionarlo<br> :date: __2020-10-21 08:06:14__
-
-> Me la acabo de desinstalar, porque yo creo que no funciona, no da noticias relevantes la última 19 de septiembre, donde está la información??? No sube los contactos, lo siento pero no me sirve<br> :date: __2020-10-17 15:51:24__
 
 

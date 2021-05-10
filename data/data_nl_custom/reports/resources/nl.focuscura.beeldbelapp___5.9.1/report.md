@@ -202,25 +202,25 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
-> Duodelijke app<br> :date: __2021-04-28 19:23:18__
+> Ik vind het op deze manier heel mooi. Ze kunnen je in de gaten houden terwijl je thuis bent. Zo blijft je toch onder controle. Geweldig.👍<br> :date: __2021-05-09 09:08:23__
 
-> Werkt goed met covid @ home.<br> :date: __2021-04-28 10:04:22__
+> goeie app, makkelijk om mee te werken.<br> :date: __2021-05-08 08:02:42__
 
-> Duidelijke, handige app<br> :date: __2021-04-27 10:58:54__
+> Super goed<br> :date: __2021-05-06 20:56:48__
 
-> Uit stekend .<br> :date: __2021-04-26 10:36:32__
+> deze app heeft mij een dienst bewezen .door middel het aangeven van of mijn gedrag tijdens deze corona pandemie .<br> :date: __2021-05-06 13:30:05__
 
-> Erg gemakkelijk om de gegevens door te geven<br> :date: __2021-04-26 09:12:53__
+> Prima ervaring. Zeer gebruiksvriendelijk mvg Jan<br> :date: __2021-05-05 16:10:56__
 
-> Werkt perfect<br> :date: __2021-04-22 10:23:04__
+> Goed<br> :date: __2021-05-05 11:26:32__
 
-> de app werkte tot voor 3 weken prima de laatste tijd moet ik elke keer mijn e mailadres opnieuw invullen en dan werkt het nog niet goed<br> :date: __2021-04-21 21:01:34__
+> Ok<br> :date: __2021-05-05 06:59:40__
 
-> Super fijn deze controle<br> :date: __2021-04-21 10:22:06__
+> Supper<br> :date: __2021-05-05 06:06:40__
 
-> Goed en makkelijk<br> :date: __2021-04-21 09:14:15__
+> Goed<br> :date: __2021-05-04 09:19:34__
 
-> Zeer duidelIjk en gemakkelij in te vullen<br> :date: __2021-04-20 07:14:15__
+> Fijn om contact te hebben<br> :date: __2021-05-03 09:34:39__
 
 
 
@@ -229,6 +229,14 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Fijn dat er iemand met me mee kijkt.<br> :date: __2021-05-09 07:49:50__
+
+> Na update met code via email werkt de app niet meer op m,n tablet. Helaas niet meer te gebruiken nu. Naar opnieuw installeren werkt de code via snelkop nog niet maar de code zelf invullen weer wel. Wordt er niet gebruiksvriendelijker op.<br> :date: __2021-05-05 09:30:57__
+
+> Prima app<br> :date: __2021-05-05 06:58:52__
+
+> Het is fijn dat de arts op deze wijze controle kan hebben op je medische toestand, het is wel jammer dat je elke dag het zelfde filmpje moet bekijken<br> :date: __2021-05-02 15:19:43__
 
 > Veel vragen, wel terzake doende<br> :date: __2021-04-27 11:34:03__
 
@@ -242,14 +250,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Het is gemakkelijk om de diverse metingen door te geven<br> :date: __2021-04-18 07:51:10__
 
-> Geeft vertrouwen en moedigt aan de regels na te leven.<br> :date: __2021-04-17 21:29:20__
-
-> Sinds vandaag werkt de app weer<br> :date: __2021-04-17 09:57:06__
-
-> Erg goed en makkelijk zelfs voor gebruik in Thailand. Op 15 april jl. Geüpdatet. Werkt voor geen meter meer.<br> :date: __2021-04-15 09:21:02__
-
-> Prima hoor om mee te werken. Elke twee weken vind ik trouwens best wel intensief.<br> :date: __2021-04-12 19:46:34__
-
 
 
 #### 3-star reviews
@@ -258,9 +258,13 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
 
-> Kan kwaliteit niet echt intrinsiek beoordelen. "Lijkt" een beetje knullig.<br> :date: __2021-04-25 12:40:37__
+> Beoordeling komt nog te vroeg. Heb m net geïnstalleerd. Wanneer ik persoonlijke instellingen wil aanvullen kan ik vervolgens niet opslaan omdat invullen blijft hangen op adres en dan landnaam. Er staat daar pijltje maar dat reageert niet.<br> :date: __2021-05-06 20:03:33__
 
-> Na update met code via email werkt de app niet meer op m,n tablet. Helaas niet meer te gebruiken nu. Naar opnieuw installeren werkt de code via snelkop nog niet maar de code zelf invullen weer wel. Wordt er niet gebruiksvriendelijker op.<br> :date: __2021-04-17 10:59:07__
+> Is nog tekort in gebruik om er iets over te zeggen.Tot nu toe is die erg goed en leuk in gebruik.Is toch fijne iemand te kunnen spreken die er meer verstand van longproblemen heeft.<br> :date: __2021-05-03 18:19:37__
+
+> De hartslagmeting die werkt niet maakt niet uit hoe je zit of ligt<br> :date: __2021-05-03 10:37:52__
+
+> Kan kwaliteit niet echt intrinsiek beoordelen. "Lijkt" een beetje knullig.<br> :date: __2021-04-25 12:40:37__
 
 > Sinds de ochtend van 15 april werkt de App bij mij niet meer.<br> :date: __2021-04-15 14:05:21__
 
@@ -273,10 +277,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Soms werkt de app niet<br> :date: __2021-03-24 06:26:49__
 
 > Werkt nu weer beter.<br> :date: __2021-03-12 11:07:13__
-
-> Even wennen.<br> :date: __2021-03-09 07:47:54__
-
-> Ik had ook andere klachten mbt corona maar doe stonden er niet bij. En nu het beter gaat vind ik elke dag invullen niet relevant tenzij er verandering optreed.<br> :date: __2021-03-07 10:19:05__
 
 
 

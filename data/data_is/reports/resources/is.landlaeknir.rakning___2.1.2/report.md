@@ -157,6 +157,8 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="is.landlaeknir.rakning 5 reviews"/>
 </p>
 
+> Gott mál takk fyrir<br> :date: __2021-05-09 18:17:58__
+
 > Toppurinn<br> :date: __2021-01-15 18:08:41__
 
 > Mjög gott, virkar vel hjá mér.<br> :date: __2020-10-07 14:50:55__
@@ -174,8 +176,6 @@ The Rakning C-19 app has been installed by more than **50000** times. At this ti
 > Bara snilld.<br> :date: __2020-05-21 00:56:16__
 
 > Allir ættu að vera með þetta forrit!<br> :date: __2020-04-20 08:13:49__
-
-> Flott<br> :date: __2020-04-12 13:00:44__
 
 
 

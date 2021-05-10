@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGC3QySMNF9pykG2ud9cLNIdA6TKZfM-mnfA68Z-x0G7oCR1_5dmEQSQi3vR-uq-Ub1aG3Z7NkvzVQv_pQ",
+        "userName": "Alain Koch",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgA5vLBTF_4MzkhbRc302cBQ-rvuRfDJbo49yN5w",
+        "content": "Overall good app with simple, easy to use design. I would suggest to implement a section dedicated to covid 19 variants, giving a map overview of how they spread and list how effective different vaccines are against them. Also I think the statistics found at worldometer could give some ideas for improvement or even be adopted. (specially the \"sources\" section and the customizable list of nations)",
+        "score": 4,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "4.2.0",
+        "at": "2021-05-05 06:52:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFZpySC9RQiT9P2qJ-XT0wEH1HlOQ5GBZ6iyZgpaltLHEgV0b33IRhrTgzuQ3Xcz-8TxxuhMlu5i_ydzC0",
+        "userName": "Les Gilsenan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjS5ONm3piv_diKeHAcnyYNGREuL79iXVuRqrQDpw",
+        "content": "Hell yes",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-03 06:53:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEp7ksGOef4mcNMYyx7DczzdEIY7iJZ_Wb03EZkZ1P_I72G0Xs7YMEBSpZlgthNWzRX1iQsANF4R1lgw18",
         "userName": "Kuldeep Thakur",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJztd5r4jDNT4b6bDjsEPSBzzogAKbx2J_51BChI=mo",
@@ -14,7 +38,7 @@
     {
         "reviewId": "gp:AOqpTOG3m2Q99YzeM7_KbMoCnlXfep4WcPmTq3VVyqp4dmWusxq9qXDXPzbvx91Nqtqfx77o3zLYNag7USPYsHA",
         "userName": "Sajjan Khan",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwwJ3wYgIxee3tgjDXZMnk-kMNX6FOoLax46k6e=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjUMdlzpKUo6VRuJgYik3me6N8MXAnaCknASfqF",
         "content": "GOOD",
         "score": 2,
         "thumbsUpCount": 0,
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4vw0TzmJvebUmcO93PlYWzDAvclgCAVuzaTX2=mo",
         "content": "I had the app only a few seconds. I was wondering if we can use it to track vaccination. I am wondering. The EU develop a digital vaccination pass. Why does this app got not simply enhanced. The old yellow books were also from the WHO. Can you add such a feature? I think it would make really sense if the WHO had this feature in it and it can be globally used.",
         "score": 2,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 30,
         "reviewCreatedVersion": "4.1.0",
         "at": "2021-04-04 23:04:57",
         "replyContent": null,
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7cKqZkTIq9aZwPI_IGK2hPXCpfq0qCND4uu_6=mo",
         "content": "This app is as is the definition of w.h.o. it barely works, it ccp funded, and is late with useless information.",
         "score": 1,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 37,
         "reviewCreatedVersion": "4.1.0",
         "at": "2021-03-31 11:03:41",
         "replyContent": null,
@@ -197,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gifdjna9mOsNP4dtYS7eSQqLbkOxQP-r8kL2PacvA",
         "content": "Extremely bad application. Always not working at all. Why do you keep it in the playstore?!",
         "score": 1,
-        "thumbsUpCount": 87,
+        "thumbsUpCount": 90,
         "reviewCreatedVersion": "4.0.1",
         "at": "2020-12-15 16:13:48",
         "replyContent": "Hi,\nUnfortunately, your Android version (v4.4) is too outdated. If you can, please upgrade your device.",
@@ -205,7 +229,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGmHgigQIi1KmAoyOUenmgfCIsWFJiRqVM0MZRM6THwZMHp4qbCQyCwxhbxb_hxfsuaxZ8iG5oFUNGpLNE",
-        "userName": "sudhir sharma",
+        "userName": "Chirag Sharma",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyOnXRfga81s3rsHRZdu7XpcfY7D8P-nwH9DdEJ=mo",
         "content": "Very nice app for health.",
         "score": 5,
@@ -668,18 +692,6 @@
         "thumbsUpCount": 17,
         "reviewCreatedVersion": "2.2.0",
         "at": "2020-07-17 03:09:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFEP1rdzd6d-76KsgeyvAomlpfBH9F0BboE3nmQ9YCjxXCKiE30b3WktOUUU57YxZRPsbRuB2kSP8HEVz0",
-        "userName": "KMB Playz",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTneoEnu1-y3QN1fvnOBVDM7--TYdpzTQtnoMK",
-        "content": "Nice",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-07-08 17:19:26",
         "replyContent": null,
         "repliedAt": null
     },
@@ -1370,7 +1382,7 @@
     {
         "reviewId": "gp:AOqpTOGLQARu_683Yzib5-nOxzYvzzQo4jqh6x6MmaEQpuzkiCI6bljtAsuRk6zG3ywcDKBLymMp5Q18JLUdVIs",
         "userName": "abebaw debebe",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXdYNtI1LDtUCxCDsT5O8s1eqox-HPD2C-5xrSyQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6Ck6B8GYFchKh9zzrjKTLHtggyJiY-dtq3XbGsA",
         "content": "To protect myself I follow this application",
         "score": 5,
         "thumbsUpCount": 6,

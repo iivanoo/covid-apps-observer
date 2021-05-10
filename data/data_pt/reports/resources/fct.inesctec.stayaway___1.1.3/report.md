@@ -137,6 +137,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> É uma boa ideia...se funcionar bem e for eficas... Porque nao , instalar...é mais uma forma de nos protejer-mos...A TODOS DESEJO MUITA SORTE E SAÚDE... OBRIGADA PELA AJUDA...<br> :date: __2021-05-05 19:46:02__
+
+> AMEI, ÓTIMO TRABALHO, COMO SEMPRE!<br> :date: __2021-05-02 15:13:32__
+
 > Muito diverte-t lá<br> :date: __2021-04-29 21:50:38__
 
 > Nao sei mas andam muitos por todo lado<br> :date: __2021-04-28 19:46:17__
@@ -152,10 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Muito pouca<br> :date: __2021-04-20 15:22:38__
 
 > Toppp<br> :date: __2021-04-19 14:54:08__
-
-> Super<br> :date: __2021-04-17 18:49:10__
-
-> Bom<br> :date: __2021-04-08 21:11:56__
 
 
 
@@ -221,6 +221,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
 
+> Esta aplicação está sempre a desativar sozinha<br> :date: __2021-05-03 10:26:46__
+
 > Sem eficácia. Simplesmente não funciona. As informações são muito simplistas.<br> :date: __2021-04-21 19:03:27__
 
 > Inútil<br> :date: __2021-04-06 13:39:53__
@@ -239,8 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Deveria ser a entidade que confirma que a pessoa está infectada a adicionar essa informação à aplicação (automaticamente) e não os utilizadores! Deste modo a aplicação nunca terá benefícios práticos!!!<br> :date: __2021-02-10 22:18:45__
 
-> Muito ruim<br> :date: __2021-02-08 21:29:30__
-
 
 
 #### 1-star reviews
@@ -248,6 +248,16 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
+
+> Desinteressante<br> :date: __2021-05-09 17:50:59__
+
+> Lixo<br> :date: __2021-05-08 00:29:20__
+
+> Grande maneira de desviar umas centenas de milhares de euros para uma empresa de amigos ou familiares dos corruptos em Portugal. Cambada de ladrões<br> :date: __2021-05-06 22:42:57__
+
+> Esperava mais nem parece uma aplicação de 2020/21.<br> :date: __2021-05-04 02:18:55__
+
+> Até agora nada<br> :date: __2021-05-03 14:36:04__
 
 > Meu pai e mãe positivos, 3 vizinhos do prédio positivos, nenhum recebeu código, em 5 casos conhecidos por mim, 0 códigos, palhaçada, foi bom para encher os bolsos ao programador.<br> :date: __2021-05-01 13:44:51__
 
@@ -258,15 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Trabalho num hospital público com contacto diário com centenas de doentes infectados com COVID19. Uso a APP desde o primeiro dia em que saiu. Até hoje nunca fui alertado pela APP. Como explicam isto???<br> :date: __2021-04-28 09:21:15__
 
 > Esta aplicação não tem muito sentido, uma vez que quaze ninguém a usa, e mesmo dos que usam, se tiverem o covid só colocam o código se quizerem.<br> :date: __2021-04-26 16:26:15__
-
-> Por favor, melhorem esta app, não vale a pena instalar, pois tive de esperar 1h e 13min para saber o resultado, então já a desinstalei.<br> :date: __2021-04-25 10:16:21__
-
-> Um erro, face ao esperado!<br> :date: __2021-04-24 08:53:50__
-
-> HORRÍVEL<br> :date: __2021-04-24 02:49:59__
-
-> Porque eu posso<br> :date: __2021-04-20 21:09:54__
-
-> Um app à imagem do governo. Só bugs!<br> :date: __2021-04-18 17:22:16__
 
 

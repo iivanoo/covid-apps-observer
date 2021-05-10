@@ -170,6 +170,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
 
+> This app is good and I've been using it.<br> :date: __2021-05-06 03:38:58__
+
 > Straight out of house of cards<br> :date: __2021-03-27 20:53:33__
 
 > Trying to get the Vaccine.<br> :date: __2021-03-16 05:29:45__
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Good idea!<br> :date: __2020-12-23 02:40:26__
 
 > I'm not so sure? But, it seems alright anyway.<br> :date: __2020-12-22 07:43:39__
-
-> I don't want to be tracked! Just wanted updated information on covid19 well thanks for reply✌<br> :date: __2020-12-20 08:45:29__
 
 
 
@@ -254,6 +254,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Tt Is<br> :date: __2021-05-05 22:18:12__
+
+> This app just had a huge data breach<br> :date: __2021-05-03 15:16:08__
+
 > WARNING DATA BREACH HAS OCCURED WITH THIS APP!!!!! DO NOT USE!!!! I WAS RIGHT ABOUT THIS APP LAST YEAR!!!! Sorry, don't trust it. Your data is uploaded to the Amazon cloud and location is obviously monitored. If you come in contact with a covid carrier that has their location on that data is sent. Governor wolf's mandates have been ruled unconstitutional. Big brother is watching now! This app is just enslavement to tyranny. Encouraging fearful interactions with other Americans. Do you trust Wolf and his obscure "covid" team that decided what they considered life sustaining services? NOPE.<br> :date: __2021-04-30 21:03:21__
 
 > No alert good app<br> :date: __2021-04-28 19:12:14__
@@ -269,9 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > This app only works if people report their symptoms. So if no one does then you know if you've come in contact with anyone with the Chinese virus. I work all around Pittsburgh and you always hear about numbers going up. Either this app doesn't report it or the government is lying.<br> :date: __2021-04-23 18:26:13__
 
 > I hope this app die<br> :date: __2021-04-19 19:36:31__
-
-> This app is fatally flawed. They designed it so that the only way to trigger an alert after you test positive is for a public health worker to call you after your positive test and give you a code. They didn't put the resources in place to make sure they could call everyone promptly, which makes the app pretty much useless.<br> :date: __2021-04-15 23:21:47__
-
-> This app takes too long to download on my Samsung Galaxy<br> :date: __2021-04-07 02:00:16__
 
 

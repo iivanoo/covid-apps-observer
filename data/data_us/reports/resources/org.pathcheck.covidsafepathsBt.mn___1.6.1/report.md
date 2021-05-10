@@ -137,6 +137,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> No warning so far!?<br> :date: __2021-05-08 04:20:12__
+
+> I LOVE IT YEAAAA<br> :date: __2021-05-06 14:45:07__
+
 > Awesome app<br> :date: __2021-04-12 19:41:17__
 
 > Havent had any major issues so far, to speak of..certainly a work in progress<br> :date: __2021-02-27 03:28:13__
@@ -152,10 +156,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Good<br> :date: __2021-02-05 23:46:01__
 
 > I've been extreoffensive with my life & very much the definsv wit my fam. My wife more than ever more so than me. I mean we have stopped seeing one another romantically and we've been doing that 1ce month like clockwork. so to end our special monthly night speaks volumes. I mean we dont even sleep in the same bed anymore. she even goes outta town weekend's so we arnt stuck close quarters. After George Floyd all them people together no Spike weird I must say. Why no deaths spike?Anyone?<br> :date: __2021-02-03 17:29:00__
-
-> I would recommend every one to use this app specially this corrona virus erra. It helps to be aware who is around whether some is 3nfectedor not. Stay safe folks 🙏 ❤<br> :date: __2021-02-02 17:16:39__
-
-> Keeps me covid-19 free!<br> :date: __2021-01-29 21:35:37__
 
 
 
@@ -221,6 +221,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
+> It never reported a thing even when I was exposed to Covid and it did a download to my phone every check. Now I have to go in and delete all those downloads...not happy.😑🤬<br> :date: __2021-05-05 17:15:11__
+
 > Eh.... obviously needs work.<br> :date: __2021-04-20 17:38:42__
 
 > Not all that helpfull<br> :date: __2021-04-03 02:53:37__
@@ -239,8 +241,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > Gives a notification for 'checking exposures' that doesn't go away and you can't dismiss the notification. Would like to have the app, but I don't want it if it has this annoying bug.<br> :date: __2021-01-18 17:25:50__
 
-> don't know but bluetooth bad for me<br> :date: __2021-01-13 15:40:34__
-
 
 
 #### 1-star reviews
@@ -248,6 +248,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
+
+> Tired of the constant notifications that it's checking for exposures with no option to turn that notification off without turning off exposure notifications. This is getting deleted.<br> :date: __2021-05-07 17:05:14__
 
 > There's a bug that occasionally causes this app to check for exposures about once a minute nonstop.<br> :date: __2021-04-29 07:23:17__
 
@@ -266,7 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen. Edit: uninstalling because still no fix and just got 20 notifications in a row.<br> :date: __2021-03-31 19:32:39__
 
 > Walz paid somebody a lot of money for a useless app.<br> :date: __2021-03-31 16:14:01__
-
-> Push notifications can't be silenced<br> :date: __2021-02-23 18:25:36__
 
 

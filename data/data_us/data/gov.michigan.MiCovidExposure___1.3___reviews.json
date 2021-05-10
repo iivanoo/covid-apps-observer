@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOEwdYLBdVOkKoW7uVwuj0Sr5W5LVZJDWt-4_6gANmF5lgRLsRKiwHF0upXyiip_JpRQxXGdnlAQtlGjaOI",
+        "userName": "Mike Riske",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7hA1rqzQtnNm10NT2J0XcrHy_nhXCvtaZmpum=mo",
+        "content": "I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!! 5/7/21 update. STILL DOESN'T UPDATE, TRASH!",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-05-07 17:22:54",
+        "replyContent": "Hi Mike, can you please send your exposure log. Here are the steps: Settings > Google > COVID19 Exposure Notifications (tap). Tap the ellipsis & then choose Exposure Checks. This displays the actual log for your phone. Tap the ellipsis again & choose Export Exposure Checks. Please send the log to our technical team mdhhs-micovidalert@michigan.gov.",
+        "repliedAt": "2021-03-09 16:46:29"
+    },
+    {
+        "reviewId": "gp:AOqpTOHbqGeSFk4pr1haU_zmTTBlF_LL2N_DLmxyN2k0scL6Va-xjMIQAWD47Zg01oJ3niwG_QrT_JBCnDoTItE",
+        "userName": "Megan Oliver",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxDT9DfuqxFsTcAO2vG8golLpP89bjP2DmiM4-o=mo",
+        "content": "Last checked for exposures back in March and it is now May. I see absolutely no point in having my phone put out info if it's not going to work.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-05-04 20:05:21",
+        "replyContent": "Hi Megan, sorry to hear this. Your LGE device\u2019s battery management software may be cancelling background tasks created by the exposure notification system. We are continuing to research & work w/ Google to identify a solution. Please update settings at https://dontkillmyapp.com/. Email us mdhhs-micovidalert@michigan.gov if you need additional help.",
+        "repliedAt": "2021-05-04 19:58:17"
+    },
+    {
+        "reviewId": "gp:AOqpTOErDPNtBdvhjltIbWo-w5BO2nlgjwDoHNfGaDF5Pr5gQJpxNgs2TFbrQRI2P2zyv2S61AqSZG2-WLsKBbQ",
+        "userName": "Dean Baker",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6luDBJep_ch2g1eaK80l2TJU2kEL0kbwniYrbdw",
+        "content": "App hasn't checked for exposures since middle of March. No way to even manually force a check.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-05-04 03:31:49",
+        "replyContent": "Hi Dean, have you tried deleting the app and reinstalling it. This has worked for some of our other Google Pixel users. You can also update battery settings at https://dontkillmyapp.com/. If you continue to experience issues after these steps, please reach out to our support team at mdhhs-micovidalert@michigan.gov and we can assist you further.",
+        "repliedAt": "2021-05-04 19:59:24"
+    },
+    {
+        "reviewId": "gp:AOqpTOGjrAVEd-lKAg77kZ6nMxmhgh787ixc3-yOalh1jVaRmEWSL1A6RFOstfRgfCZwsMPdntpWIhBZllNYaxs",
+        "userName": "The Rogan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj370F7fPKwTfV68mQA_nNfdCNj7epm40dtNxeOI9U",
+        "content": "More tools for the Vaccine! The app is great but is lacking major portions that should be on the subject of \"Vaccinations\". Such as locations for Detroit residents. Information on the various vaccines available & where. A Q & A section on possible vaccine info to help stop forms of \"vaccine hesitency\"",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3",
+        "at": "2021-05-02 22:22:13",
+        "replyContent": "Hello, thank you for the feedback. Here is the quick link: https://www.vaccines.gov/search/ and you can then type in your your Zip Code and mile radius. You can also search by specific brand availability. You can click through the Virtual MDHHS within the app (at the bottom/middle), but that does take some time. We are sorry for the inconvenience.",
+        "repliedAt": "2021-05-03 20:07:22"
+    },
+    {
         "reviewId": "gp:AOqpTOFP4NDtG_qilB6nlAFYDD2cNyYwQL0z4QY4p_mpHg6pBYmb3aVrjPayOYM47GfdOUSD3OzCLABrL20Q2ik",
         "userName": "George Waltz",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsSHZDM226gvODiV5rC1KlgiONA7iCbPu0oJqXkEI",
@@ -8,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.3",
         "at": "2021-05-01 08:13:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi George, thank you for downloading the app as well as the feedback. Stay well!",
+        "repliedAt": "2021-05-03 20:08:46"
     },
     {
         "reviewId": "gp:AOqpTOF52Ub3Q61uafKQ6G9H_f098mfpDdIMpN3R48lviqJB9pm2DzDrE7G8Y9WzKt-H5Ru0QJxa5yisH2y_QqY",
@@ -20,8 +68,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.3",
         "at": "2021-05-01 06:13:25",
-        "replyContent": "Hi Ronald, if you have already made the settings changes at https://dontkillmyapp.com/samsung please navigate to Settings>Google>COVID-19 Exposure. Next, press the ellipsis at the top right. Select Exposure Checks. Then press the ellipsis again and select, Export Exposure Checks. Please email this to our support team MDHHS-micovidalert@michigan.gov",
-        "repliedAt": "2021-04-13 17:53:03"
+        "replyContent": "Hi Ronald, have you been able to make the battery adjustments? Our understanding is that the Galaxy's battery management software is cancelling background tasks created by the exposure notification system. We continue to research this and work with Google to identify a solution. You can update those settings at https://dontkillmyapp.com/samsung.",
+        "repliedAt": "2021-05-03 20:12:36"
     },
     {
         "reviewId": "gp:AOqpTOGVmjdEa-Ttm5fQBSU1KoYQI0M5fCtWOrJptAcgjf48oI_qyGK7ANuq8Rdi8xjqTAr9IE1VK2XM0K3-pW8",
@@ -32,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-30 21:08:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Harley, if you use the app you will be told if you may have been in close contact with \"another app user\" who has tested positive for coronavirus and has entered the PIN they received from their local health department. How the app works: https://www.michigan.gov/coronavirus/0,9753,7-406-99891_102592_102594---,00.html.",
+        "repliedAt": "2021-05-03 20:17:52"
     },
     {
         "reviewId": "gp:AOqpTOGYh_6610yiqe6pYrc4eXJugO0-rdBKpMDJw9oW3CfVSXeZkT1ARExFSq12o13kfxo-nP1Aj7QURs01Zow",
@@ -101,7 +149,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmGv-mPsGCzynDkwwknKR9iFGFftKFBHcjSNjn=mo",
         "content": "I have to Uninstall the app and reinstall it because it randomly stops checking for exposures. EDIT: UPDATE: after following the instructions above about battery power it got WORSE. It not only stops checking for exposures but drains my phone . I would change the rating to Zero if I was able. Lots of other States got it right, did Michigan order their App from Wish?",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-29 17:26:38",
         "replyContent": "Hi Nanette, we understand the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this & work with Google to identify a solution. In the meantime you can update settings at https://dontkillmyapp.com/samsung. Email us mdhhs-micovidalert@michigan.gov to assist.",
@@ -149,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhX78ZrTMjfWLG8smCiq78h1pDDU311Psms6G63DA",
         "content": "It stopped checking back in February. Uninstalled and reinstalled, but it doesn't say it stopped checking unless you go into the app every day and see the last time it did run a check. Also does not inform you if you have been exposed after it stops checking. Reinstall starts it fresh with no history data. Yes bluetooth is on, so don't ask.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-27 17:53:37",
         "replyContent": "Hi Jay, please update your settings at https://dontkillmyapp.com/ to prevent the MI COVID Alert app from being put to sleep to conserve battery. Are you able to update your OS to Android 11? If you continue to experience issues after these steps, please reach out to our support team at mdhhs-micovidalert@michigan.gov and we can assist you further.",
@@ -254,7 +302,7 @@
     {
         "reviewId": "gp:AOqpTOEq4yUUQgyB0AeQiWEiCWFP59uJkOMOxjFj-SAxVkF6QDtAvc2aLmaqJoldWfJyBoyAY3h19j0moc631I4",
         "userName": "esther Cogswell",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLfTnBIULXAptCjtXHXYBUI9xCSDAUSZmTxkDBHno",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4q59kcsU3QbYin1Ktxu4JG-6PTbUde1rXHBP-Dgc",
         "content": "it didnt not give much information nor is it up to date on its current info or follow up for anything pertaining to michigan's covid crisis. BOO! HORRIBLE APP!",
         "score": 1,
         "thumbsUpCount": 0,
@@ -329,7 +377,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7wQwviEIue3UgiFONkI0ruoCv6LXnrJF5ay8qyA=mo",
         "content": "Hasn't checked for exposure since Dec. 31, 2020. No way to manually update it. My Bluetooth is always on, I never have the battery saver on. So I'd have no idea if I had happened to come in contact with anyone who had it. Feels like #puremichigan",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-19 18:42:46",
         "replyContent": "Hi Jeri, have you tried deleting the app and reinstalling it. This has worked for some LGE users. If you continue to experience issues after these steps, please reach out to our support team at mdhhs-micovidalert@michigan.gov.",
@@ -413,7 +461,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSQ2its0ndR_cEEkG3JcBf-2IOMo4cnv9OSew6=mo",
         "content": "Update: App was working fine until April 4th. It is April 17th today and I haven't had any exposure check since the 4th. I changed my settings so the app doesn't get turned off due to battery usage, but that did nothing. Why do the other states have an app that works but not Michigan? I work in a grocery store and this would be so helpful if it worked, but instead it's a big pile of steamy turd.",
         "score": 1,
-        "thumbsUpCount": 52,
+        "thumbsUpCount": 53,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-17 14:30:21",
         "replyContent": "Hi John, have you tried deleting the app and reinstalling it. This has worked for most users. I see you are on Android version 8.1, are you able to install the latest version (9) on your phone? If you continue to experience issues after these steps, please reach out to our support team at mdhhs-micovidalert@michigan.gov.",
@@ -557,7 +605,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxkguyI8TfdantSxllmPaEdTa-yEIy6-U3vCuXW=mo",
         "content": "Works for a few days then stops. It says it's on but no readings for two weeks. Reloaded twice. Still don't work right. Reloaded as you said to. Still no readings since the 23rd. Installed and Uninstaller 6 times. Still not working right. Last exposure check was on the 13th. The app is an excellent idea just wish it would work. Had reinstalled a 7th time. Last notification was April 1st. It is now the 9th. Unistalling permanently. Sorry. Nice try.",
         "score": 1,
-        "thumbsUpCount": 25,
+        "thumbsUpCount": 26,
         "reviewCreatedVersion": "1.3",
         "at": "2021-04-09 17:19:54",
         "replyContent": "Hi Dale, we understand how frustrating this issue is. Our understanding is that the device\u2019s battery management software is cancelling background tasks created by the exposure notification system. We are continuing to research this and are working with Google to identify a solution.",
@@ -730,18 +778,6 @@
         "at": "2021-03-30 12:41:06",
         "replyContent": "Hi Linda, we are so happy that you're using the app and notifications are coming in.",
         "repliedAt": "2021-03-30 16:38:15"
-    },
-    {
-        "reviewId": "gp:AOqpTOEwdYLBdVOkKoW7uVwuj0Sr5W5LVZJDWt-4_6gANmF5lgRLsRKiwHF0upXyiip_JpRQxXGdnlAQtlGjaOI",
-        "userName": "Mike Riske",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7hA1rqzQtnNm10NT2J0XcrHy_nhXCvtaZmpum=mo",
-        "content": "I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!!",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.3",
-        "at": "2021-03-30 11:33:45",
-        "replyContent": "Hi Mike, can you please send your exposure log. Here are the steps: Settings > Google > COVID19 Exposure Notifications (tap). Tap the ellipsis & then choose Exposure Checks. This displays the actual log for your phone. Tap the ellipsis again & choose Export Exposure Checks. Please send the log to our technical team mdhhs-micovidalert@michigan.gov.",
-        "repliedAt": "2021-03-09 16:46:29"
     },
     {
         "reviewId": "gp:AOqpTOFWAzexWxh41fO13SDq_xDF4zMU9pb1N-vtv4q9I1Bt3C7FQFpMFFjYYadUz8jmGHvJa5_LLwiWz8abhIE",
@@ -2042,7 +2078,7 @@
     {
         "reviewId": "gp:AOqpTOF17rZvJS-Q6qYIIWCA6GwSPzc55CCJdLnz5KPithTIiMo0Z_JdkWFPGut3jKabAiGpl8xms7_ArzV5-34",
         "userName": "Kelsey Hardman",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwdDvs1onlJ13oKz0W-yeexa6x2xxs3KLNqE11AEQ=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1geY_KVlICV37rCnyjGYkDSxWTA4dZxS0puk1aH8",
         "content": "Why isn't there a Caucasian stat on the racial breakdown...?",
         "score": 2,
         "thumbsUpCount": 1,
@@ -3542,7 +3578,7 @@
     {
         "reviewId": "gp:AOqpTOFWlTZeLb7-mIu8dEd1ChFPu2o3tiDQj9Dd00eKREVTMEzN2pXmA4rBRFbtbE5W3_oA7z9Z3_kn-_HgXqE",
         "userName": "Nancy Ruth",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhuE4Xd63luXNfhILBuM8D4Fib-SzHV8FmJlMR6oY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjhezH2y3hTYwwAiNlEwtgXf_Erb5U6B9znkwh2V9Q",
         "content": "Not useful.... You gave to \"pin\" that you have covid or exposed to covid.... Not really active",
         "score": 1,
         "thumbsUpCount": 30,
@@ -3733,7 +3769,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGHMi6B7AkUupzPqxGChuiP7OFwZqhfz6sUkevsJCn1tBrA_TDBZ_FbS36HcUJig_mjXMpVYOB6ONFfZK4",
-        "userName": "JourneyOfAnesthesia",
+        "userName": "Michael",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdr8K9QgjXTVPCVQxGACW7KLGU1UkxScyE5uMs9A=mo",
         "content": "Garbage. Need an app with good numbers and stats. I dont need big brother guiding me to this app and blocking all other kinds of covid apps from being developed.",
         "score": 1,

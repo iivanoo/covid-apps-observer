@@ -151,6 +151,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-05-06 17:36:26__
+
 > Great to have<br> :date: __2021-04-17 18:11:47__
 
 > 🤳? having a problem'ant🤳? having a problem'ant🤳? having a problem'ant<br> :date: __2021-04-16 18:57:46__
@@ -168,8 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > It works, but only if everyone uses it. Which given this state 🙄<br> :date: __2021-03-08 14:10:58__
 
 > If you're struggling with the app not being active, make sure in Android settings that it isn't being put to sleep. Android puts apps that you don't open often into a suspended state to save battery usage. You need to disable that for this app.<br> :date: __2021-03-08 06:47:29__
-
-> Great<br> :date: __2021-03-03 05:13:55__
 
 
 
@@ -207,6 +207,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> I don't know, I haven't been around enough people to make sure. Even though, how would I know if they have the app?<br> :date: __2021-05-04 04:55:17__
+
 > This application worked fine however, I found it to be very intrusive. It requires Bluetooth to function. I use Bluetooth to remotely manage my computer, every time the app needed to take a reading I would lose my connection with my computer and then have to physically establish connection again between phone and computer.<br> :date: __2021-04-16 18:37:30__
 
 > I'm giving it a three stars on this particular phone because it is going off like crazy and I'm not even leaving the house I here by myself & I haven't left the house in weeks. It's just eating my battery up going off constantly like... there it goes again... It's going off about every 30 seconds If it works or not, like I said, I usually stay home. But I love the idea & I don't understand people not using it. Everybody's got to do their part and then some.<br> :date: __2021-04-01 17:48:23__
@@ -224,8 +226,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > I just wish more people used it. I kinda feel like it is not useful since people have to opt in for each aspect... BUT I will keep using it as long as this pandemic drags on. Update: This app is a fail. :( Very disappointed but not surprised at this point. It just stopped updating early Dec. Then 2 days ago it locked my phone up downloading. I had to force close & uninstall to stop it from locking up my phone. I wish this worked better.<br> :date: __2021-01-01 15:38:52__
 
 > Why hasn't it updated since December 13th!?<br> :date: __2020-12-19 00:11:33__
-
-> The app started working wonderfully. But at the end of October, it stopped. No new upgrades and no notifications. I will try and download the app again.<br> :date: __2020-12-06 13:31:12__
 
 
 

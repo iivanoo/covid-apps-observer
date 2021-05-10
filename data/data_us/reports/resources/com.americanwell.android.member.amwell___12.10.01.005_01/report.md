@@ -213,6 +213,12 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Amazing! I found the perfect therapist. We just click so well, making lots of progress in my mental health. :)<br> :date: __2021-05-05 16:46:45__
+
+> What a wonderful and easy access to help with mental health solutions<br> :date: __2021-05-05 15:55:28__
+
+> I saw Dr. Seema Gupta. She listened carefully to my symptoms, asked pertinent questions, explained the treatment and what to do if not feeling better within 2-3 days. I would definitely recommend her to my family & friends.<br> :date: __2021-05-03 17:49:05__
+
 > Excellent and prompt. Shows concern for patients and great diagnosis.<br> :date: __2021-04-30 18:06:30__
 
 > Wonderful experience. Dr asked a lot of questions before prescribing me different medications. She was excellent. Can't thank her enough.<br> :date: __2021-04-30 17:22:20__
@@ -226,12 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > I've used amwell a few times. I've gotten great advice, and been treated with utmost respect by the Dr's that have seen me. Thank you Amwell!<br> :date: __2021-04-18 20:43:04__
 
 > I was absolutely shocked by how easy this was and how thorough they were.<br> :date: __2021-04-16 18:38:22__
-
-> I wish all doctor appointments were like this!<br> :date: __2021-04-15 19:31:29__
-
-> Quick and easy, love it!<br> :date: __2021-04-10 14:42:08__
-
-> Very good<br> :date: __2021-04-06 16:30:45__
 
 
 

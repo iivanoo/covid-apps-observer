@@ -245,6 +245,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> No sirve para nada. He hecho el test y me sale que no tengo sintomas pero que no me confie. Dando a entender que no tengo el virus. Hace 3 días me hicieron la pcr y positiva. Así que esta app de poco sirve, porque puedes tener el virus y ningun síntoma<br> :date: __2021-05-05 23:05:58__
+
 > Totalmente inutil, consume muchos recursos y agota la batería rapidamente<br> :date: __2021-04-26 23:47:10__
 
 > No te avisa del resultado de la pcr que te hayas hecho. Y si tienes fiebre y malestar no tienes síntomas? Una App inútil<br> :date: __2021-04-01 18:46:18__
@@ -262,7 +264,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > El test es para los estados graves supongo. Yo he dado positivo y haciendo el test me dice que no tengo síntomas (por ser leves en mi caso) No me ha servido está aplicación y no sé exactamente para que sirve.<br> :date: __2021-01-22 07:58:07__
 
 > No sirve de nada,yo he dado positivo y tengo casi todos los síntomas y fuertes. Según la App sólo pone "Podrías ser positivo "<br> :date: __2021-01-19 21:30:19__
-
-> Intento entrar en el test y no hay manera. Ya la he instalado y desinstalado 3 veces. Voy a permisos y está todo correcto. Y me dicen que rengo que poner la temperatura 2 veces al día porque soy contacto estrecho. Pues no sé cómo lo voy a hacer......<br> :date: __2021-01-18 21:20:04__
 
 

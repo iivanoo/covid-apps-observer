@@ -199,6 +199,8 @@ The Leisure for Life app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 5 reviews"/>
 </p>
 
+> My first ever time swimming at Abercynon today. What a wonderful welcome! The staff were incredibly friendly, well informed and proffesional. Sarah on reception was an absolute star!I spoke to her this afternoon over the telephone, I could not believe how helpful she was talking me through directions, and my options. So refreshing to meet such lovely people there today. "Salt of the earth" springs to mind. All staff were polite, respectful and patient. Thankyou all so much! Lauren Miller<br> :date: __2021-05-06 20:50:07__
+
 > Fantastic<br> :date: __2020-12-20 19:56:08__
 
 > awsome<br> :date: __2019-05-07 17:19:15__
@@ -254,6 +256,10 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 <img src="1_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 1 reviews"/>
 </p>
 
+> My first time trying to use the app and most things on there wont work. I tried booking a swimming class but couldn't remember my pin when I click on the option to reset my password the page wouldn't load. I managed to get onto a page to update my details but it kept saying invalid email address even though that's the email I use and it wont let me change it. Gave up in the end.<br> :date: __2021-05-08 12:22:16__
+
+> As a couple of OAP's we paid £460 annual membership in Feb 2019, then lockdown occurred. Our local centre we joined to use is now a vaccination centre. Can't contact the council, cant speak to anyone at the leisure centres, the app doesn't load, and from the reviews, doesn't work anyway.For God's sake RCT council, put some up to date information on your site, and sort things out.<br> :date: __2021-05-06 10:35:43__
+
 > Stopped working for upgrade days ago and still not working!<br> :date: __2020-10-17 16:51:28__
 
 > No option to book as just public I dont want a membership<br> :date: __2020-10-17 05:45:37__
@@ -269,9 +275,5 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 > Unable to book a class....rubbish<br> :date: __2020-08-11 00:04:20__
 
 > It's all in Welsh is there an option to change it to english<br> :date: __2018-07-25 13:25:31__
-
-> it's all in welsh ....how do you turn on English?<br> :date: __2018-07-10 11:39:19__
-
-> It's all in Welsh is there a way to change this please?<br> :date: __2018-06-21 01:01:46__
 
 

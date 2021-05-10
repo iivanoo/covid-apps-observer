@@ -227,6 +227,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> Muito útil<br> :date: __2021-05-09 16:54:25__
+
 > Ao tentar utilizar pela primeira vez deu mensagem: mysns falhou<br> :date: __2021-04-23 13:39:55__
 
 > Parece-me que tudo o que é possível fazer nesta app é também possível fazer através do site do SNS. Não vejo vantagem da app em relação ao site. Aliás, algumas das "funções" da app funcionam por reencaminhamento para o site.<br> :date: __2021-04-16 21:41:18__
@@ -245,8 +247,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > A app stayaway Covid-19, tem algum problema em ser instalada? Muito obrigada.<br> :date: __2020-09-01 11:17:30__
 
-> Difícil, é nem sempre conseguimos atendimento<br> :date: __2020-08-05 13:09:26__
-
 
 
 #### 2-star reviews
@@ -254,6 +254,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
+
+> Sinceramente não compreendo que esta APP não seja compatível com o SO Android mais recente. Há vontade de acompanhar a evolução o que facilita a vida a toda a gente. Mas ela não estando em conformidade vou desinstalá-la.<br> :date: __2021-05-08 21:34:07__
+
+> Não existe opção de acesso pelo facto de o SNS não estar atualizado relativamente ao software a utilizar.<br> :date: __2021-05-03 16:02:37__
 
 > Funciona muito mal e não tem os registos das minhas doenças crónicas<br> :date: __2021-04-12 16:19:02__
 
@@ -271,10 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Muito complicado. Para aceder à minha conta do banco é bem mais fácil e seguro na mesma.<br> :date: __2020-08-30 12:46:29__
 
-> Diz que a APP foi desenhada para Android 5 e "Crasha". Não passa daqui. Não consigo fazer mais nada.<br> :date: __2020-08-29 00:01:45__
-
-> Pouco intuitiva, nada funcional como app para Android.<br> :date: __2020-08-28 21:49:31__
-
 
 
 #### 1-star reviews
@@ -282,6 +282,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> Nao serve para nada... perda de tempo. Receitas? Tenham vergonha em gastar dinheiro em apps mal feitas, pagas pelos contribuintes.<br> :date: __2021-05-08 19:45:06__
+
+> Não funciona.<br> :date: __2021-05-07 13:50:54__
+
+> Não funciona<br> :date: __2021-05-07 04:33:08__
 
 > Não me parece ser grande coisa<br> :date: __2021-04-29 20:54:29__
 
@@ -296,11 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não funciona<br> :date: __2021-04-13 01:34:48__
 
 > Não funciona 😔<br> :date: __2021-04-04 22:33:44__
-
-> Esta APP não está a funcionar bem<br> :date: __2021-03-31 18:37:35__
-
-> Esta senpre PARAR NÃO presta<br> :date: __2021-03-22 20:11:37__
-
-> Leva uma estrela porque nao da para levar zero. Uma pena que a app nao funciona de maneira nenhuma. Algo que poderia ser bastante util simplesmente nao serve para nada.<br> :date: __2021-03-18 11:36:05__
 
 

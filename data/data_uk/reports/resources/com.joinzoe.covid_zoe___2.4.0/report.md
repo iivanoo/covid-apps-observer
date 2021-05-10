@@ -185,25 +185,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Good info and explainations<br> :date: __2021-05-01 18:55:42__
+> If we all logged how we felt each day whether well or not it would be great. This is a very important app.<br> :date: __2021-05-09 16:07:58__
 
-> Great great<br> :date: __2021-05-01 18:34:46__
+> Easy to use , Takes no time.<br> :date: __2021-05-09 14:25:50__
 
-> Easy to use.<br> :date: __2021-05-01 15:54:15__
+> Get information on Covid in retun for logging on daily.<br> :date: __2021-05-09 12:53:22__
 
-> Perfect app to help us safe in long term<br> :date: __2021-05-01 15:38:14__
+> It's a doddle.<br> :date: __2021-05-09 12:32:57__
 
-> Easy to complete every day<br> :date: __2021-05-01 14:53:18__
+> Very easy to use<br> :date: __2021-05-09 12:18:29__
 
-> Sends reminders daily. Easy to use. Regular updates of research findings and nice maps showing current spread.<br> :date: __2021-05-01 14:26:22__
+> Excellent<br> :date: __2021-05-09 11:05:06__
 
-> A fantastic resource for gathering information to fight covid.<br> :date: __2021-05-01 13:33:41__
+> Very easy to use and takes only a few seconds a day. Why not give the scientists the data they need to better direct their efforts at fighting disease.<br> :date: __2021-05-09 09:18:18__
 
-> The app has been working fine on ipad and android phone until today. Didn't recognise me so had to re register, so then showed my last report as 239 days ago. I have had to replace my phone and it is now showing as last reported 158 days ago. Luckily I can still report on my ipad. I have re rated up to 5 star,as I'm guessing that it may be at my end that it isn't working correctly.<br> :date: __2021-05-01 12:49:40__
+> Quick and easy to use. And if you have a query you can contact them and get a reply quickly .<br> :date: __2021-05-09 08:54:38__
 
-> Brilliant app, easy to use and doing an incredibly important job!<br> :date: __2021-05-01 12:28:17__
+> Lots of helpful links and information<br> :date: __2021-05-09 08:45:02__
 
-> Great<br> :date: __2021-05-01 11:57:01__
+> Excellent way to contribute to the fight against Covid<br> :date: __2021-05-08 22:48:02__
 
 
 
@@ -213,25 +213,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Useful to maybe help others<br> :date: __2021-05-01 18:00:34__
+> Very simple to use, provides valuable information to NHS<br> :date: __2021-05-09 16:09:59__
 
-> Ok, but one question was not clear you can scroll down to correct answer<br> :date: __2021-04-30 19:10:19__
+> User friendly and simple, sometimes the alerts stop even though I've given permission which means I can forget to add daily info. So great to see all the findings as a result of the data.<br> :date: __2021-05-09 13:56:23__
 
-> Update 30/4/2021 Daily reminders not coming through for last 6 days - after receiving 2/day for a week or so! Update 27/12/20 Aside from a short term reminder issue in November, the app has been working well, but there's currently a glitch with test reporting so my data has been incomplete since 23rd December. Original Review Spring 2021: Good to feel you are making a contribution, however small, by using this. Like the daily reminder, & link to the website for more information on the study etc.<br> :date: __2021-04-30 17:28:25__
+> Sometimes freezes but recording this information is vital, so I will keep using it.<br> :date: __2021-05-08 13:32:52__
 
-> Clear and easy to use<br> :date: __2021-04-30 15:59:02__
+> Happy to continue with the fight against Covid<br> :date: __2021-05-08 12:30:10__
 
-> Good app, would be nice if the y-axis updated on the graphs when changing the time period though - hard to see a ~50 case weekly change on a 0-7000 scale<br> :date: __2021-04-30 12:16:29__
+> Easy to use<br> :date: __2021-05-08 04:05:17__
 
-> Easy to use to give a research data set for the Covid boffins. Not sure whether the app gives personal benefits as I have only been using it for a few weeks. Some people using it are sent a PCR test. If a fourth wave begins it will be useful to know every day how the hot spots develop.<br> :date: __2021-04-29 10:02:41__
+> Participating in citizen science for a great cause. Easy to use, though I have had login issues when I got a new device.<br> :date: __2021-05-07 15:15:37__
 
-> Great<br> :date: __2021-04-28 19:46:09__
+> I started this study due to being very unwell Nov 2019, in hospital for 10 days, worsen of asthma, I believe it was Covid, then again 2 weeks later and again while sheilding around June 2020, since then I have not been right now using my inhalers more getting breathless very easily. Until then I had not been hospitalised for my asthma, apart from pneumonia Jan 2018.<br> :date: __2021-05-07 15:15:32__
 
-> Easy to use. Useful info that is up to date. Good links to other articles<br> :date: __2021-04-28 12:36:31__
+> Just good to be helping the fight against Covid<br> :date: __2021-05-07 14:43:53__
 
-> It works well, is quick and easy and, hopefully, helpful. We have told many about it. The information can be useful but as I have been very anxious since the start of Covid I try not to read the news or numbers. Thank you for all you do.<br> :date: __2021-04-28 12:11:55__
+> Inconsistent as some days I enter details for and hubby and when I go in the following day irvsays hadn't updated for two days This problem seems to have been resolved so stars increased<br> :date: __2021-05-07 11:25:27__
 
-> Easy to use. Providing date.<br> :date: __2021-04-27 15:23:18__
+> Love this app and what it's doing to help. One small gripe is that on several occasions it logs me out and it can be weeks until I remember that I've not had a prompt to log how I'm feeling. Otherwise it's great.<br> :date: __2021-05-07 09:13:43__
 
 
 
@@ -240,6 +240,14 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
+
+> Worked really well until a couple of weeks ago when I stopped getting notifications. I need these to remind me to update every day. I managed to get them back for around 3 days they then stopped again. Hence why only gave 3 stars.<br> :date: __2021-05-08 12:34:54__
+
+> Really good app, easy to fill the survey but I don't receive the daily reminders anymore... So I tend to forget<br> :date: __2021-05-07 23:46:52__
+
+> Its not really that usefull.<br> :date: __2021-05-06 21:30:52__
+
+> notifications have stopped<br> :date: __2021-05-06 11:24:16__
 
 > I stopped getting the push notifications and have forgotten to log for over a week! Have remembered now but lowered the stars on this review because of that. Otherwise a fab app and idea.<br> :date: __2021-05-01 10:23:28__
 
@@ -253,14 +261,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > I have been using the app since it was first released and have been happy with it's simplicity and the various articles are interesting and give a lot of insight. I am however, unhappy that despite having the latest version installed I have not been asked about my vaccinations but if I create a new profile the vaccine questions are there but then I lose all the data history I have provided. I have emailed several times but received no response which is very disappointing.<br> :date: __2021-04-21 08:56:53__
 
-> This app used to be good. Its aims are laudable, though when I was too ill to report the same day, there was no way to retrospectively report when I felt better. Now the app (or more likely the server behind it) has become painfully slow. No longer even adequate. Needs sorting out!<br> :date: __2021-04-15 23:34:45__
-
-> Simple & quick, helping the fight with Covid-19. Since the update, the app sometimes fails to register my daily input for up to 5 days.<br> :date: __2021-04-13 11:43:39__
-
-> Is there any point in competing this anymore? The information on there hasn't been updated in months, and you haven't updated to include adding vaccination details.<br> :date: __2021-04-09 17:37:49__
-
-> My app on Android will not allow me to add another person as it is for USA only<br> :date: __2021-04-07 08:29:39__
-
 
 
 #### 2-star reviews
@@ -268,6 +268,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
+
+> Hasn't polled me in 9 days. No idea why.<br> :date: __2021-05-04 17:19:14__
 
 > No longer very accurate<br> :date: __2021-04-20 07:41:19__
 
@@ -285,8 +287,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Hello! DOES ANYONE INVOLVED WITH THIS APP CARE THAT THE APP DOESN'T RECORD MY DATA? YOU HAVEN'T RESPONDED TO ANY OF MY EMAILS. PLEASE reassure me that my data is actually being recorded. The app says I haven't entered any for 5 days. I have missed a day as I forgot to charge my phone, but I entered data Yesterday afternoon. This inaccuracy has been there from the beginning. I want to be sure it is worthwhile continuing.<br> :date: __2021-03-22 02:43:15__
 
-> So many questions daily. It got tedious.<br> :date: __2021-03-17 01:42:12__
-
 
 
 #### 1-star reviews
@@ -294,6 +294,10 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
+
+> Not as good as the NHS one<br> :date: __2021-05-05 22:39:28__
+
+> Annoying<br> :date: __2021-05-02 14:41:42__
 
 > I haven't had any notifications for months, despite the app setting being switched on.<br> :date: __2021-04-19 12:47:37__
 
@@ -310,9 +314,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > Hasn't asked me for update for months. Not sure why it stopped giving me notifications. Using latest (android) version and notifications not blocked on phone<br> :date: __2021-03-28 13:42:39__
 
 > Easy to use. Pleased to be able to help this study. Update March 21 It's lost about 3.5 months of my data. No advice yet on if I need to re-enter vaccine, tests, etc. so currently not logging anything. Frustrating.<br> :date: __2021-03-27 17:44:40__
-
-> Now wont start<br> :date: __2021-03-23 18:19:01__
-
-> Sadly, went pear-shaped during installation: created account, without username or details. Emailed developer; no response. Have uninstalled. 1 star for a good idea.<br> :date: __2021-03-19 15:46:51__
 
 

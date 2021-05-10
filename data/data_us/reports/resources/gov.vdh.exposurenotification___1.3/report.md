@@ -218,6 +218,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> Repeatedly stops sending notifications unless I uninstall and reinstall.<br> :date: __2021-05-05 01:27:21__
+
 > This app version doesn't allow me to notify whether I was fully vaccinated. When will the developer learn from other regions??<br> :date: __2021-04-25 09:30:50__
 
 > Unfortunately something is clearly wrong with this app. It worked perfectly until sometime in January or February. Now it will check for exposures for a while and then just stop. When I just checked, it had not checked for exposures for weeks. Reinstalling works but then it happens again a few weeks later. I see many other similar reports.<br> :date: __2021-04-22 04:15:15__
@@ -236,8 +238,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Stopped checking for exposures 1 week ago. Is there an update or fix coming? When will it be compatible with the other state apps?<br> :date: __2021-02-11 00:34:09__
 
-> I 8. 3.km<br> :date: __2020-12-23 16:45:09__
-
 
 
 #### 1-star reviews
@@ -245,6 +245,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
+
+> Doesn't check for exposure for weeks. Eats up battery life.<br> :date: __2021-05-08 00:02:28__
+
+> Never no updates on it<br> :date: __2021-05-07 21:30:35__
+
+> Does not work<br> :date: __2021-05-07 02:57:21__
 
 > I had this app since it's birth pretty much and never once got a notification unless it was to turn my bluetooth back on. I was deep in atlanta a few nights and still no notifications. I guess it's because the other people also need the app but not enough people had it for it to work.<br> :date: __2021-04-26 18:02:55__
 
@@ -259,11 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Stopped checking exposure in January<br> :date: __2021-04-19 05:48:10__
 
 > This app destroyed my daily battery usage. It runs NON-STOP in the background and never provides any notifications. I'm with the person in the moon on this one.<br> :date: __2021-04-17 11:13:15__
-
-> When we had all those cell phone issues last year, they put trackers in every phone. This is all about control and taking your freedom from you! Look at all the 'virtual reality', social distancing, mask wearing and stores without workers you can walk in and buy stuff from (referring to Apple & Amazon stores in Californian and other states). The media wants us all divided or doped up so we never see the reality of what is really going on. Wake up.<br> :date: __2021-04-16 04:01:43__
-
-> This app didn't notify me when I was around people who have covid-19, I was at a viewing and found out 04/ 12/21 that around 10 people has the virus. Also this app doesn't update, the last update was Feb 5th 2021. I'm un-installing this app is useless.<br> :date: __2021-04-15 18:39:58__
-
-> Yo update the darn app last exposure notice was March 10th. If you want it to "work" fix it... Stop sending out generic responses<br> :date: __2021-04-15 02:08:06__
 
 

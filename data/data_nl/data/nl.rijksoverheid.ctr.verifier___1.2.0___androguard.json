@@ -1,0 +1,22 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CAMERA",
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "nl.rijksoverheid.ctr.verifier.VerifierMainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://localhost/",
+        "https://play.google.com/store/apps/details?id=",
+        "https://verifier-api.coronacheck.nl/v3/"
+    ]
+}

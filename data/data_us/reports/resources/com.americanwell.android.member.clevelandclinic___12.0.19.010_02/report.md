@@ -259,6 +259,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="3_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 3 reviews"/>
 </p>
 
+> I kept losing my connection way too early by being timed-out while I was responding to the questions and uploading pics. So, the app needs to be reset for longer response time OR, it NEEDS to be reset to remember the answers before it times-out, so that one doesn't need to start all over again. It was extremely frustrating!<br> :date: __2021-05-09 12:00:11__
+
 > Very poor connection<br> :date: __2021-01-17 16:05:01__
 
 > Connection was weak. Lots of questions to answer.<br> :date: __2020-11-17 02:55:23__
@@ -276,8 +278,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Good<br> :date: __2020-06-18 03:27:19__
 
 > Dropped call.<br> :date: __2020-06-02 15:37:35__
-
-> It takes way too long to get to the doctor by trying to figure out how to use this.<br> :date: __2020-05-30 00:12:46__
 
 
 

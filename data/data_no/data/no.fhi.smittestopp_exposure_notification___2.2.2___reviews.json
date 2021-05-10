@@ -1,11 +1,59 @@
 [
     {
+        "reviewId": "gp:AOqpTOFmGmF2gfECwIiUhgk5z8bY1Ah-K5S0O4gSvwMqUcB84XrYosihp9eL41Vxry15n2HGt7UGbC9SJExs8A",
+        "userName": "Ruben",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyvjezxswfnU3MWzoIr1UvjTtcRP5vEfDjqJoN6=mo",
+        "content": "Min datter fikk p\u00e5vist Corona da hun nettopp hadde v\u00e6rt hos meg. Appen ga ingen varsel. Det kunne ikke v\u00e6rt n\u00e6rmere p\u00e5r\u00f8rende enn en far til sin datter, allikevel NADA.",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2021-05-05 16:59:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFYXyVMHR4mpeezqE-DBrkb3Hfko9Q2KjcRpIyxzm02msl9UiDXXQd_e-kfvXChZcS5gfxqmp8Ge-juVg",
+        "userName": "Dag Kvello",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtjFXS723Z-c6niJSrmHYYaAMH4VMQhydOHAXPzg",
+        "content": "Hadde det ikke vert hensiktsmessig \u00e5 kunne legge inn tidspunkt for vaksinering og vaksine type? Det burde kunne gi mye viktig statistikk",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2021-05-04 21:02:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHKYxlPttABWbgPVUO1EBaaI57Z04gVQEm78SsPuDf6TmS03KZGKciGqMIDcdguaQI4hQytXYXCXsR0JQ",
+        "userName": "Random Scandinavian",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhUvEF99bQZfbbW4fSlCjz9ko1KDQyj5KZOhnpJQ",
+        "content": "Avinstallerte denne da det sto i avisen om sikkerhetshull. Avventer fiks og vil muligens reinstallere.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.1",
+        "at": "2021-05-04 16:29:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG8c_fKzCSvOpLI_auSrcC9q0M3PrzoF6vn1quY0W7qAlNcZRe0W_3WO7wyGoVgBNxsAr3nrtMDuUAhfA",
+        "userName": "Franz Engelmayr",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_FrFyvSD1iUR5RGky2jLAFTFMLVXiF9z-B7iX",
+        "content": "Er en viktig app og h\u00e5per alle har den installert",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.2",
+        "at": "2021-05-04 14:47:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFIZbmBy7rX5y2YEjuNFhczC2LVUuC9ouCGlh9Y4vYuweySEQoPOPMfcCJEgVolcIhb0wZraTYOWpZu5Q",
         "userName": "Travelman256",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWW6Lh4hxSilo4jJU2ll6lHT4mt4ub4y4-tIvr=mo",
         "content": "Er for denne appen, men IGJEN viser det seg at dere ikke har klart \u00e5 lage appen sikker nok...",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.2.2",
         "at": "2021-04-28 13:18:51",
         "replyContent": null,
@@ -41,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8KQVH24jiptnf1L7KyRS30i5ujuEbMgeG5YpD=mo",
         "content": "Fungerer ikke selv om man er n\u00e6rkontakt som er smittet. Veldig d\u00e5rlig s\u00e5nn sett. Men ellers god platform hvis det blir jevnlig oppdatert informasjon.",
         "score": 2,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.2.2",
         "at": "2021-04-25 12:31:23",
         "replyContent": null,
@@ -53,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdU0PhFDAUeBIS8S9LtqTWx0uK2hakGXZYgYwz=mo",
         "content": "Funker ikke. Vet jeg har v\u00e6rt n\u00e6rkontakt med person med app installert uten at jeg ble varslet",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.2.2",
         "at": "2021-04-23 13:06:48",
         "replyContent": null,
@@ -68,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-22 19:35:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hei, takk for din anmeldelse. Vi vil unders\u00f8ke n\u00e6rmere str\u00f8mforbruket til appen p\u00e5 enkelte enheter.",
+        "repliedAt": "2021-05-04 10:43:46"
     },
     {
         "reviewId": "gp:AOqpTOHnmrJPEW0lVwutoejRsn_7TfxrxsmlUXcs53OZtB_lAovOIOJ3pMiasBrf0hSn29KtFcUAwmSvA5mH2g",
@@ -80,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-04-18 18:50:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hei, takk for din anmeldelse. Vi vil unders\u00f8ke n\u00e6rmere str\u00f8mforbruket til appen p\u00e5 enkelte telefonmodeller.\n",
+        "repliedAt": "2021-05-04 10:45:12"
     },
     {
         "reviewId": "gp:AOqpTOF2HRLtCXdIpgSFCbTTeavViQyi6ZnIFR87bIgwkyKl2jaqbKnm8VfMIQC0nKK9MgX5-P3UKbd-CyBuug",
@@ -125,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhOv1dly7bD52UTGGuaB8C8J8a-ATRScUYH7BL7yI4",
         "content": "Ikke veldig bra eg har hatt appen og ikke blitt p\u00e5pekt at, en som ogs\u00e5 har appen har gjort at eg m\u00e5tte i karantene f\u00f8r smittesporing ringte. S\u00e5 eg gikk flere timer uten \u00e5 vite at en hadde v\u00e6rt smitte om, ikke denne personen kontakta oss. S\u00e5 denne appen er ikke \u00e5 stole p\u00e5.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-04-06 22:22:05",
         "replyContent": null,
@@ -314,7 +362,7 @@
     {
         "reviewId": "gp:AOqpTOGsbXheitQdF9XaW0hqintU5ASXMtZHWQwtf9ECSTy7d6IH-EjKeR1W0BvmJqzN7jwU_PBAqVtetoYozQ",
         "userName": "espen olsen",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz3izHn9lH0kZ1QDnI8uSAMAs1_pyRZuaFOfgMT=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggd6_2mxVF32LNH17T4qSYgp4oa_NNU_PYa6vQIew",
         "content": "N\u00f8dvendig i disse dager",
         "score": 5,
         "thumbsUpCount": 1,
@@ -2504,18 +2552,6 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.0.1",
         "at": "2021-01-13 10:44:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHKYxlPttABWbgPVUO1EBaaI57Z04gVQEm78SsPuDf6TmS03KZGKciGqMIDcdguaQI4hQytXYXCXsR0JQ",
-        "userName": "Random Scandinavian",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhUvEF99bQZfbbW4fSlCjz9ko1KDQyj5KZOhnpJQ",
-        "content": "Varsler hele tiden. Siste sync tok mange timer. Har jeg v\u00e6rt i faresonen, ja eller nei? Hvis nei, si det da, og la meg v\u00e6re i fred. Folk slutter \u00e5 bry seg om varsler n\u00e5r de stadig dukker opp uten at noe har skjedd. Ellers et positivt tiltak. H\u00e5per den faktisk fanger opp noe.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.1",
-        "at": "2021-01-13 08:45:21",
         "replyContent": null,
         "repliedAt": null
     },

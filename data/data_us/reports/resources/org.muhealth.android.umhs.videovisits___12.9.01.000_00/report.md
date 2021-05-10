@@ -249,6 +249,8 @@ The MU Health Care Video Visits app has been installed by more than **5000** tim
 <img src="3_star_reviews_wordcloud.png" alt="org.muhealth.android.umhs.videovisits 3 reviews"/>
 </p>
 
+> It could be nice having a Dr. On call<br> :date: __2021-05-07 16:25:28__
+
 > Waited over an hour even though the app stated I was next that my visit wpuld begin shortly.<br> :date: __2020-03-25 23:32:10__
 
 > Keeps telling me my adderss is invalid and it is not !<br> :date: __2019-11-16 18:10:18__

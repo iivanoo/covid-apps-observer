@@ -176,6 +176,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> COBRA 11<br> :date: __2021-05-06 14:43:22__
+
+> Ok<br> :date: __2021-05-02 22:18:05__
+
 > Ottimo<br> :date: __2021-04-30 18:45:48__
 
 > ancora niente xche sono da poco registrato<br> :date: __2021-03-29 22:35:03__
@@ -191,10 +195,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Io la ho installata ed utilizzata e funziona benissimo<br> :date: __2021-03-18 09:26:44__
 
 > Ottima<br> :date: __2021-03-09 10:09:31__
-
-> Ottima.<br> :date: __2021-03-08 21:18:21__
-
-> Bello<br> :date: __2020-11-18 17:59:41__
 
 
 
@@ -288,6 +288,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
+> Non si apre neanche,ho provato a disinstallarla e reinstallarla ma non va<br> :date: __2021-05-06 08:37:04__
+
+> Buon giorno, sono giorni che cerco d'aprire l'applicazione con scarsi successi ,vedo solo la schermata bianca con il logo di Sardegna sicura e nient'altro .Disinstalla e installata di nuovo e ogni tanto ci provo con scarsi successo, visto che sono Sarda e tra poco verrò in Sardegna come ogni anno. Prego aggiornare l'APP<br> :date: __2021-05-05 17:18:32__
+
 > L'ho scaricata ma non si apre.<br> :date: __2021-04-20 15:45:28__
 
 > Ho un OnePlus Nord ed è almeno 3 volte che scarico l'app senza essere mai riuscito ad aprirla, non capisco come mai<br> :date: __2021-04-19 18:37:37__
@@ -303,9 +307,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Non ti fa registrare. Risolvete.<br> :date: __2021-04-09 18:19:37__
 
 > Fa schifo non mi fa registrare é inutile !!!<br> :date: __2021-04-06 19:12:02__
-
-> E' un applicazione che non serve a niente, fatta solo per soddisfare l'ego di qualcuno che crede di poter controllare tutto come se fossimo uno stato dittatoriale indipendente, cosa che non siamo (per fortuna). Ed è inoltre un danno per i residenti che necessitano per motivi di lavoro di entrare e uscire dalla regione.<br> :date: __2021-03-27 14:53:53__
-
-> Terribile App ci sono decine di problemi sia nell' iscrizione che nella comprensione del testo<br> :date: __2021-03-27 11:25:56__
 
 

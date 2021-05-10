@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOETgIppR4GdCpD3xS11b09pRY2KHMRuOnRlitQ2QfooIU114CrmPPOoDB0RmxEn6zcWm9GRD5tMJqe-oA",
+        "userName": "Katie D",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-zI_zmGIw9iEiwAT1k0Xuj10wt5cdRpm_7YeD=mo",
+        "content": "My first time trying to use the app and most things on there wont work. I tried booking a swimming class but couldn't remember my pin when I click on the option to reset my password the page wouldn't load. I managed to get onto a page to update my details but it kept saying invalid email address even though that's the email I use and it wont let me change it. Gave up in the end.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.74",
+        "at": "2021-05-08 12:22:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHd9XibHe6zTSrBMHn9CF_9T-HKWLUFukgz0zsKjG-YfgG5UnFEQ5PNBKWxJbceBrzfT7suR08JqRf4nw",
+        "userName": "Lauren Miller",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzTauqHaLRJlEwWsFCrGuBgOTCXjnY-NkDxPnBn=mo",
+        "content": "My first ever time swimming at Abercynon today. What a wonderful welcome! The staff were incredibly friendly, well informed and proffesional. Sarah on reception was an absolute star!I spoke to her this afternoon over the telephone, I could not believe how helpful she was talking me through directions, and my options. So refreshing to meet such lovely people there today. \"Salt of the earth\" springs to mind. All staff were polite, respectful and patient. Thankyou all so much! Lauren Miller",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.74",
+        "at": "2021-05-06 20:50:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGTYgFIzGLBdkmYhF231StDFhb_gT6_7Pm6boCelo2NjAaUgH1KLjkPc5A422nt_xnsaMY1UXQ_Xry-ew",
+        "userName": "Jacqueline Jones",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_DL3coJfYe9eIdGok5zQtpoCrsSUFZKxsbnGi=mo",
+        "content": "As a couple of OAP's we paid \u00a3460 annual membership in Feb 2019, then lockdown occurred. Our local centre we joined to use is now a vaccination centre. Can't contact the council, cant speak to anyone at the leisure centres, the app doesn't load, and from the reviews, doesn't work anyway.For God's sake RCT council, put some up to date information on your site, and sort things out.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-06 10:35:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHPdYPG7MQMHQRUSqE0hRZXnrYe0mdWOjWysb-GXPGGee3zZ8-EiyBS0xy-WL5_uMl1zSv02zANZIt-Cw",
         "userName": "Lynne John",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwpmbwKEUBnWhzuXxmL4_fdvKcrBCzYKn6gDhBh=mo",
@@ -137,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzy5ENMZkvZGAySydr_SNnNFahxkPjb6U6MGjWc=mo",
         "content": "Was OK until updated. Now cannot book a class within half an hour of it starting. Various classes don't show up, just received an update that boot camp classes are available to book and upon checking they do not show. Should be able to swipe in with phone but no availability to do this so it means queueing at the entrance before you can go to the class.",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.50",
         "at": "2019-05-25 16:05:53",
         "replyContent": null,

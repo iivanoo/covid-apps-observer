@@ -201,6 +201,10 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Excellent for not being able to see the doctor in person<br> :date: __2021-05-07 21:09:35__
+
+> Easy and Clear<br> :date: __2021-05-05 21:39:24__
+
 > Great<br> :date: __2021-04-29 16:24:42__
 
 > This is a very convenient and efficient way to handle simple medical problems.<br> :date: __2021-04-16 16:46:57__
@@ -217,10 +221,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 
 > Very good<br> :date: __2021-03-10 14:31:32__
 
-> Its was my first time, and my Anxiety was threw the roof. But overall it was a different experiance and cool too.would use it all the time.very convenient and easier then coming to office and getting sick. Thank you<br> :date: __2021-03-03 20:34:50__
-
-> It was an overall good experience just in case of emergency and I couldn't make an in person appointment..<br> :date: __2021-02-25 21:26:28__
-
 
 
 #### 4-star reviews
@@ -228,6 +228,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 4 reviews"/>
 </p>
+
+> Penn State Health really adapted to COVID and created quite the efficient app. There are a few hiccups but so far every telehealth visit I've had this year has gone smoothly.<br> :date: __2021-05-03 18:11:56__
 
 > The experience was ok. I could hear and see my Dr. clearly. The problem was my Dr. could hear me, but she could not see me. My video was on, I could see my picture in the corner of my screen.<br> :date: __2021-02-01 15:11:25__
 
@@ -246,8 +248,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Very good app<br> :date: __2020-06-22 20:54:09__
 
 > It was surprisingly easy to use.<br> :date: __2020-06-03 20:22:09__
-
-> Easy to use!<br> :date: __2020-05-28 22:40:15__
 
 
 

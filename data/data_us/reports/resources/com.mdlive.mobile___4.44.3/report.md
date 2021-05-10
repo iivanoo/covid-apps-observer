@@ -210,25 +210,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Excellent experience and very convenient<br> :date: __2021-05-01 17:03:39__
+> Quick response from physician. Prescription sent to pharmacy.<br> :date: __2021-05-09 02:41:51__
 
-> Fast EASY convenient & real caring staff & fabulous Dr.!!<br> :date: __2021-05-01 07:56:33__
+> Excellent its a life saver<br> :date: __2021-05-08 04:13:48__
 
-> Quick and easy!<br> :date: __2021-05-01 02:16:08__
+> Fast and easy to use<br> :date: __2021-05-08 01:28:45__
 
-> Fast, easy, very convenient!<br> :date: __2021-04-30 16:52:56__
+> Easy to use.<br> :date: __2021-05-08 00:58:09__
 
-> Good<br> :date: __2021-04-30 16:46:28__
+> Always prompt and professional. What an excellent way to access a doctor from home.<br> :date: __2021-05-07 21:27:50__
 
-> First time using video chat with a physician and it was a great experience.<br> :date: __2021-04-30 16:37:45__
+> The video appointment is like you are right there in the room with them. I am enjoying the freedom of being at home during the session. The counselor is helpful and understanding.<br> :date: __2021-05-07 21:04:33__
 
-> Awesome<br> :date: __2021-04-30 14:20:58__
+> AMAZING. Great quality and amazing doctors!!!!<br> :date: __2021-05-07 14:20:47__
 
-> Very quick response from the provider<br> :date: __2021-04-30 03:03:34__
+> It allowed me to see a doctor quickly<br> :date: __2021-05-07 00:08:48__
 
-> Quick service. User friendly.<br> :date: __2021-04-29 21:05:04__
+> I love this app<br> :date: __2021-05-06 20:59:01__
 
-> Quick and easy access to a great doctor<br> :date: __2021-04-29 20:37:07__
+> Amazing!!!! I have used them several times and it's great and convenient!!!!<br> :date: __2021-05-06 17:39:11__
 
 
 
@@ -237,6 +237,14 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> Great experience<br> :date: __2021-05-08 19:34:01__
+
+> Within 5 min I was on a call with a doctor who was very helpful and professional. Will definitely use again!<br> :date: __2021-05-08 02:02:06__
+
+> I keep having login issues even though I'm sure I have the correct username and password<br> :date: __2021-05-04 16:38:34__
+
+> Very easy to use and set up.<br> :date: __2021-05-03 15:38:54__
 
 > Great app for seeing an urgent care or behavioral health clinicians. Humana Provides the service.<br> :date: __2021-04-30 23:25:13__
 
@@ -249,14 +257,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > It does doesn't have an option to switch time zones and it didn't transfer the permissions properly when I got a new phone which left it saying that it couldn't load instead of telling me to check my permissions. It works<br> :date: __2021-04-13 23:42:25__
 
 > Too easy to visit the doctor in between emails at work (for the record, it's work from home). No ads so the ad question on app survey irrelevant.<br> :date: __2021-04-12 21:23:09__
-
-> Super nice Doctors.<br> :date: __2021-04-08 22:47:26__
-
-> The ability to talk to someone without leaving home is amazing, especially when you have anxiety. The quality of the video was good. I just wish that there is a simple way to upload documents. Also the Dropbox for issues needs to be updated to have all all illnesses and mental health listed.<br> :date: __2021-04-01 15:01:25__
-
-> Very pleased with the therapist<br> :date: __2021-04-01 02:52:17__
-
-> It was fast and just what I needed while out of town. Sound quality was low.<br> :date: __2021-03-31 16:52:35__
 
 
 
@@ -294,6 +294,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="2_star_reviews_wordcloud.png" alt="com.mdlive.mobile 2 reviews"/>
 </p>
 
+> Got a Dr. But what a mess after getting it covered. MDlive messed up taking my insurance (who recommended them). And the medicine they sent was not covered, needed a pre-approval. MDlive says they don't do that.<br> :date: __2021-05-05 16:02:40__
+
 > I actually like my therapist and it's nice being able to sometimes schedule an appointment quickly, but I wouldn't use this app for anything other than mental health. The times I've contacted customer service, they were rude and not helpful at all. They pretty much said, "too bad" to my technical difficulties. The app is very buggy and it can be incredibly stressful to schedule appointments because of this. They're online website isn't any better. They're lucky I like my therapist so much.<br> :date: __2021-04-28 04:38:16__
 
 > Would like to meet and talk to a primary care doctor for my special needs having problem at University Hospital I thought I was getting some problems take care of her surgery<br> :date: __2021-04-28 02:49:11__
@@ -312,8 +314,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 
 > I am very disappointed as I heard this app was one of the best but was a complete let down on my end. I set up a call around 9:30pm and waited an hour and a half for care even though it said that a doctor will be with me as soon as possible. No wait time was ever indicated. A positive note is that it did give me options for them to call back next day. It was very upsetting I had to wait that long but whatever ill delete the app and head over to my PCP.<br> :date: __2020-12-30 08:11:29__
 
-> Severe issues with progressing after selecting options. Was only able to proceed after moving back a page and then moving forward. The blue arrow in the lower left page woulf either be grayed out or it woulf be blue wouldn't react. Long loading between screens. Health profile wouldn't load and had to move back a page and go forward numerous times to get it to populate. Not phone or connection based issued as everything else works.<br> :date: __2020-12-21 21:07:37__
-
 
 
 #### 1-star reviews
@@ -321,6 +321,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.mdlive.mobile 1 reviews"/>
 </p>
+
+> MD live sets up a contract with providers that if your insurance ever changes to not accept MD live, you can no longer see that provider. This is absolutely disgusting for someone in the middle of a treatment plan who now has to start completely over. Lack of patient care.<br> :date: __2021-05-07 18:40:53__
 
 > I thought it was free<br> :date: __2021-04-28 06:35:02__
 
@@ -339,7 +341,5 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > A Warning: This app is a scam. The doctor the app paired me with took my $40 co-pay and in the middle of me telling her my symptoms cut me off and told me she wasn't comfortable treating a mild case of nausea. All I wanted was for her to prescribe something to counter the nausea. This "doctor" had already decided before I ever spoke to her that she wasn't going to treat me. She said she absolutely refused to treat me. Just a warning. They will take your money but they may refuse to treat you.<br> :date: __2021-04-14 22:11:00__
 
 > I'm uninstalling this app. The doctors on here treat me suspiciously most of the time and tell me to suck it up and deal. Then I still get charge the same for receiving no help at all. The therapy on here is a joke, too. Horrible app. Find a different one if you can.<br> :date: __2021-04-13 16:43:48__
-
-> Had to restset damn password several times. Link will take to site to change password and once you change damn app still say invalid. Plus never can get a person on phone. I am in pain and will just take my chances at ER. Plus no area to key in your insurance information<br> :date: __2021-04-03 20:06:43__
 
 

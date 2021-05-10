@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHJPB_63ZNRU7kc3tx30-bEuj5VZkutV-ToIhRwhKzO1xHAJyldtG_8FgFNpLSX6Af2ugzsqMmjkR0q8Q",
+        "userName": "Jaime Rodriguez",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysNmuIvI3-ivs-Y0ziLOcj0UQTxwlfx3rp6Ylg=mo",
+        "content": "Ten bastantes errores que o final crean confusi\u00f3n",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-09 08:54:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF5DMI0UcFFRV-LFr1Muu5jpx4nid-av6NQ7Y-8NYUQFpkp6BIxaStgRrMMn0_mZT5xMlGa4TCPyz6h8g",
+        "userName": "Manu Diaz-Merry",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxm2BdDOEhxzpfedmr9Jtsfrm2Uj9wPD8Y9n2tH=mo",
+        "content": "El contenido de la informaci\u00f3n est\u00e1 en galego y en ingl\u00e9s... pero en castellano no",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-05-09 01:15:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFpIpeBURE7kuiVPv_BAEtV1OFvOiO2w7kN-hve2Nyk8s4un4DVnfILn030i9WIg60B7CUvXyT7F3RiTA",
+        "userName": "angel nieto",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQpBsNtDnB9lrYeI_zeypUegrA_POBsgHR0RiVmg",
+        "content": "non est\u00e1 actualizada, polo cal non sirve para nada, miras \u00f3 que podes facer e enganate, hoxe pon que \u00f3 horario de cerre na hosteleria \u00e9 \u00e1s 9:00, cando \u00e9 \u00e1s 23:00, e as\u00ed \u00f3 demais, unha pena como casi todo \u00f3 que xestiona a xunta",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-05-08 14:40:40",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGg-BH5PaPRH6hKG59sqAU0xVvqBMEyEwIRqE9NvnThQpo4U3dAZAW57jpEX_6oxuhkZXkqD1PdheDWFg",
         "userName": "Francisco Abraham Copero Soares",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzjHI4JxF8LL-n3KCB1A9Hhca6UsMcLTbwc2uwL=mo",
@@ -209,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi27m9UWTvhyOPbD4grgvM5YvicEsQNs66S4o-5WCA",
         "content": "En Lugo, seg\u00fan la aplicaci\u00f3n el interior de los locales de hosteler\u00eda CERRADO, cuando seg\u00fan el DOG tambi\u00e9n en interior al 30%. Y los establecimientos NO TIENEN C\u00d3DIGO QR que escanear. Ni cafeter\u00edas, ni supermercados, farmacias, bancos, ferreter\u00edas, tiendas de ropa....",
         "score": 2,
-        "thumbsUpCount": 37,
+        "thumbsUpCount": 38,
         "reviewCreatedVersion": "1.0.3",
         "at": "2021-02-27 09:00:56",
         "replyContent": "Buenos d\u00edas, agradecemos su comentario. El registro de estancia en establecimientos debe hacerse con un QR espec\u00edfico para PassCOVID que podr\u00e1 encontrar en los carteles con el t\u00edtulo \u201cEstablecimientos con Sentidi\u00f1o\u201d. Le animamos a mantener la aplicaci\u00f3n siempre actualizada. Muchas gracias por su colaboraci\u00f3n.",
@@ -385,7 +421,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEcVJY-JymDnykYyK8aJrPDSJR1uWNllLoAR5nI3UrujKDQ5Gwh54uDVFs1VUaiQ3ktEWanakH2Zy0i2g",
-        "userName": "Parroquia Inmaculada Concepcion de Vigo",
+        "userName": "Antonia Montero Guti\u00e9rrez",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwOmBNNecWg37DawCaqOT_plTiMhJsPtGHa2jzH=mo",
         "content": "Quiz\u00e1s deber\u00eda ser un poco mas sencilla su forma de uso",
         "score": 5,

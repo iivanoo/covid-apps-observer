@@ -11,20 +11,20 @@
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1619893250
+        "latest_crawl": 1620576516
     },
     {
         "id": "jp.co.maff.maffapp",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "2.0.0",
-        "latest_crawl": 1619893250
+        "latest_crawl": 1620576516
     },
     {
         "id": "jp.go.mhlw.covid19radar",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "1.2.3",
-        "latest_crawl": 1619893253
+        "latest_crawl": 1620576520
     }
 ]

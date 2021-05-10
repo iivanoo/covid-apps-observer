@@ -186,6 +186,12 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-05-05 18:22:41__
+
+> Good, well organized, gov website<br> :date: __2021-05-05 11:51:36__
+
+> Great app wish it worked with out service and also take the fishing/small game combo. Still does great for the driving licenses.<br> :date: __2021-05-05 00:07:32__
+
 > Great app<br> :date: __2021-04-29 14:02:01__
 
 > Absolutely love this app, it's so easy to use and the ability to always have access to my ID and now an easier way to show ID to vote.<br> :date: __2021-04-29 03:07:48__
@@ -199,12 +205,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > A little tricky to get going but when it its going it works good it helps to be in a place that has Wi-Fi<br> :date: __2021-04-27 03:27:46__
 
 > Paridise<br> :date: __2021-04-26 11:36:49__
-
-> It's great, I'm waiting on receiving my DL on mail and with this app I just show it if I need to.. love it.<br> :date: __2021-04-24 22:24:42__
-
-> I love this app. It took a little time to imput all my info. It is easy to access my information and has good security protocols.<br> :date: __2021-04-24 16:57:45__
-
-> Still take long to load<br> :date: __2021-04-21 00:52:34__
 
 
 
@@ -298,6 +298,18 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> can't log in to my account<br> :date: __2021-05-08 21:16:17__
+
+> Makes me change my password, always closing on me,won't let me use my finger print, like it use to,gives me more trouble than anything<br> :date: __2021-05-08 02:28:26__
+
+> It will not let me open an account.<br> :date: __2021-05-06 18:04:25__
+
+> Can't match seifle<br> :date: __2021-05-03 21:38:16__
+
+> So secure it doesn't do anything<br> :date: __2021-05-03 17:38:46__
+
+> Useless - can't focus on ID barcode<br> :date: __2021-05-02 17:20:41__
+
 > This is with a doubt the worst government idea ever!! Most states can process licenses day of. Well republican lead states. The technology exists to provide IDs day off. Stop being lazy and do your job<br> :date: __2021-04-30 22:09:04__
 
 > Cumbersome at best<br> :date: __2021-04-29 17:27:38__
@@ -305,17 +317,5 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Won't scan my ID can't use this<br> :date: __2021-04-29 14:41:15__
 
 > Piece of garbage app. Keeps requiring you to scan the barcode on the back of your drivers license. Even following the directions and setting the phone and card on level stationary surfaces and lining them up to eliminate hand shake it won't scan.<br> :date: __2021-04-28 20:01:08__
-
-> Couldn't recover old account. Zero help from the application, spent 2.5hrs in the chat room with no answer, will not send username in the email that is setup, forced to setup a whole new email to use the application.<br> :date: __2021-04-27 00:59:52__
-
-> Doesn't work<br> :date: __2021-04-25 16:06:30__
-
-> Always says system down<br> :date: __2021-04-24 21:18:07__
-
-> Such a hard time logging into the app after downloading onto another phone. Facial recognition finally worked after more than 20 attempts. Won't upload my new current fishing/hunting license. If you're able to upload your drivers license than that is all the app is good for. Many places 21+ will not accept damaged ID cards so this app comes in handy if you have a damaged license or ID and need to get in somewhere.<br> :date: __2021-04-24 14:29:37__
-
-> I installed this app for the digital id and you can't use it without "authenticating" with a selfie that is impossible to match to the dmv database. No matter how many pictures I try it won't match to the picture taken by the dmv earlier today, there is no other way to prove I am who I say I am.<br> :date: __2021-04-23 00:00:37__
-
-> Useless<br> :date: __2021-04-22 22:51:43__
 
 

@@ -236,6 +236,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 1 reviews"/>
 </p>
 
+> Not getting OTP<br> :date: __2021-05-07 20:02:03__
+
 > Unable to login due to OTP, plz fix this issue.<br> :date: __2021-05-01 12:02:35__
 
 > Otp not received.<br> :date: __2021-05-01 03:45:41__
@@ -253,7 +255,5 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > OTP ?not coming<br> :date: __2021-04-22 19:30:07__
 
 > I tred several time to login but OTP not received.<br> :date: __2021-04-21 00:25:55__
-
-> Otp service is not working<br> :date: __2021-04-17 16:55:28__
 
 

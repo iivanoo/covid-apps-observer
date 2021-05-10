@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> Great courses available, glad I signed up!<br> :date: __2021-05-08 06:00:42__
+
 > nice<br> :date: __2021-04-26 00:57:17__
 
 > Love social work with love of nation.<br> :date: __2021-04-22 17:30:04__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Better Application health safety<br> :date: __2021-03-13 19:19:47__
 
 > Yydud<br> :date: __2021-03-11 11:20:39__
-
-> I love it<br> :date: __2021-03-08 22:16:16__
 
 
 
@@ -276,6 +276,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="de.xikolo.openwho 1 reviews"/>
 </p>
 
+> #انقذوا_حي_الشيخ_جراح<br> :date: __2021-05-08 11:57:26__
+
 > Too slow<br> :date: __2021-04-24 23:22:18__
 
 > The videos are not playing eventhough I've downloaded them<br> :date: __2020-11-03 10:43:38__
@@ -293,7 +295,5 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > I can't Login no matter how much I try.<br> :date: __2020-07-04 14:19:09__
 
 > This app is having technical issues<br> :date: __2020-07-03 17:13:33__
-
-> Not a good application....It always changes names in certificates and it changes dates also moreover i have done courses and it changes there names also in certificates...so many problems...now what to do<br> :date: __2020-07-02 03:49:39__
 
 

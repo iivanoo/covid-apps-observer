@@ -153,6 +153,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="com.ri.crushcovid 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-05-07 09:53:16__
+
 > All Life Matters...<br> :date: __2021-04-09 01:13:41__
 
 > Great<br> :date: __2020-12-24 20:33:48__
@@ -170,8 +172,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Easy to navigate and use.<br> :date: __2020-09-18 04:00:13__
 
 > Takes some practice to figure how It works.<br> :date: __2020-09-11 05:46:50__
-
-> RI Governor Raimondo rocks. Thanks for developing this app. If you get covid, one press of a button allows you to see where you have gone for the past 2 weeks. Allowing for instant virus tracing.<br> :date: __2020-09-10 19:57:21__
 
 
 

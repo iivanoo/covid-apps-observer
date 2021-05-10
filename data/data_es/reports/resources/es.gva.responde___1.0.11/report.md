@@ -132,6 +132,8 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.responde 5 reviews"/>
 </p>
 
+> De gran ayuda<br> :date: __2021-05-08 18:26:56__
+
 > No tengo forma de escribir un correo a GVA, somos muchos los desesperados autónomos, que no recibimos ayudas, ni plan resistir, en este caso hosteleria, ni ayudas europeas, nos han dejado tirados para todo, menos para pagar cuotas municipales, alquileres, SS, nosotros cumplimos, ustedes, NO. Hasta cuando???? Es un ruego a la desesperada<br> :date: __2021-03-29 12:14:08__
 
 > Excelente<br> :date: __2020-05-29 07:43:47__
@@ -149,8 +151,6 @@ The GVA Responde app has been installed by more than **10000** times. At this ti
 > Muy útil<br> :date: __2020-04-30 14:33:02__
 
 > Molta claredat en la informació<br> :date: __2020-04-30 11:16:38__
-
-> Fácil de usar y de entender. Enhorabuena<br> :date: __2020-04-20 01:25:39__
 
 
 

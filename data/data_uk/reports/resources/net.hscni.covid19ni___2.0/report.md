@@ -142,6 +142,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 5 reviews"/>
 </p>
 
+> I very much like this app and use it daily to look at the statistics which are usually updated on a daily basis except sometimes at weekends or public holidays. Would it be possible to ensure stats are updated for every day?<br> :date: __2021-05-03 07:45:01__
+
 > Good so far<br> :date: __2020-12-31 05:36:23__
 
 > A great app for the current crises. Well designed and easy to navigate<br> :date: __2020-12-15 01:13:45__
@@ -159,8 +161,6 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > Excellent and informative<br> :date: __2020-06-30 14:11:20__
 
 > Amazing the p we people who it doesn't work you need to go to the NHS website or gothirmont web don't give the 1 star if do you are ungrateful and it probably your phone. 😂😂😂<br> :date: __2020-06-06 22:45:27__
-
-> Easy to use informative and source of good advice and information specific for NI residents.<br> :date: __2020-06-06 10:56:34__
 
 
 
@@ -246,6 +246,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> Awful<br> :date: __2021-05-03 19:21:43__
+
 > Pointless really, after you go to the trouble of registering and getting it set up, all it does is ask you 3 questions. Have you a temperature? Have you a continuous cough? Did anyone in your household have covid symptoms? That's it!!<br> :date: __2021-01-01 20:35:30__
 
 > Hasn't worked since the upgrade. Keeps asking me to connect to network when I am already connected<br> :date: __2020-11-18 14:07:13__
@@ -263,7 +265,5 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > It came to stop as I had no tracing ability and said no more.<br> :date: __2020-07-31 23:15:28__
 
 > doesn't work...!<br> :date: __2020-07-31 22:10:26__
-
-> This is not the official app for Northern Ireland COVID19. STOPCOVID NI is the correct app<br> :date: __2020-07-31 19:47:35__
 
 

@@ -147,6 +147,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 4 reviews"/>
 </p>
 
+> Una app eficaz, sencilla y muy fácil de usar, la recomiendo en ésta época de pandémia y es para lo que está hecha. Una de las pocas cosas bien hecha por la Generalitat de Catalunya.<br> :date: __2021-05-03 10:28:27__
+
 > Esta bien, pero cuando haces el certificado de salida por trabajo en una fecha tendría que tener la opción de poner todos los dias, ya que vas todos los dias a trabajar.<br> :date: __2021-01-22 10:42:59__
 
 > Esta bien sobre todo para el medio ambiente<br> :date: __2021-01-20 11:15:00__
@@ -215,6 +217,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> Se bloquea cada vez que intento entrar...<br> :date: __2021-05-07 00:55:49__
+
 > No se actualiza<br> :date: __2021-03-26 08:37:45__
 
 > Absurdo a decir basta. Si voy solo a otra comarca y no hay restricciones, porque narices tengo que dar cuentas a nadie. Y si voy con burbuja familiar con el certificado de empadronamiento del ayuntamiento va que arde. Vivimos en un estado policial brutal. Ya sólo falta que bloqueen Internet y volvamos al 30...<br> :date: __2021-03-17 12:41:43__
@@ -232,7 +236,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Sólo en catalán<br> :date: __2021-02-14 13:21:11__
 
 > Només baixar l'aplicació, no em deixa ni obrir-la.<br> :date: __2021-02-11 19:50:12__
-
-> Pitjor impossible. No es poden omplir, de cap manera, els camps de l'adreça de destinació. Degut això, no genera el document. Completament inutil.<br> :date: __2021-02-04 13:12:20__
 
 

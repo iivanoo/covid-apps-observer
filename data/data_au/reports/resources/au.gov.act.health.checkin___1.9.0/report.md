@@ -170,6 +170,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
 
+> It would be great if you could provide a frequent places option. I go to the same coffee shop every day and have to scan each time. If I could add it to my favourites and check in from there it would be much easier.<br> :date: __2021-05-05 09:35:10__
+
 > App is fine, easy install and use. Could do with the ability to check out as well.<br> :date: __2021-05-01 09:48:23__
 
 > Knox zzz a<br> :date: __2021-04-05 03:04:52__
@@ -187,8 +189,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > The app wasn't working since the 25 Feb update, but it was fixed this morning (2 March 2021). At least it now works ok for my Samsung Galaxy S7 android phone.<br> :date: __2021-03-02 12:16:28__
 
 > App working again since update 1/3/2021.<br> :date: __2021-03-02 02:19:18__
-
-> Great app to use! Only have to enter your details once at setup, unlike interstate arrangements. Just a simple click to check in at arrival, no check out required. Just needs more extensive testing before updates are released.<br> :date: __2021-03-01 22:40:12__
 
 
 
@@ -254,6 +254,14 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Terrible<br> :date: __2021-05-09 04:57:19__
+
+> It doesn't have QR scanner. Doesn't work. Useless. Can't find the location after entering the code.<br> :date: __2021-05-08 06:45:04__
+
+> Very poor design - does not have a check out function. No way to tell how long person has been in the venue.👎 Still no option to check out.<br> :date: __2021-05-05 23:44:36__
+
+> Download and checked in to the war memorial not too long after started receiving calls from marketing companies. App uses data collected to give to marketing companies and you have to check otherwise you can receive a fine.<br> :date: __2021-05-03 02:50:04__
+
 > Am doing this against my will i am being forced to download it if i want to do anything now<br> :date: __2021-04-24 13:21:03__
 
 > Could not download app<br> :date: __2021-04-24 04:44:17__
@@ -265,13 +273,5 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > App didn't work so i deleted it and tried to upload again, it won't load....it must be broken....it used to be a good app.<br> :date: __2021-03-17 01:53:44__
 
 > This app worked fine on my Samsung Galaxy s9 for 6 weeks. Now it no longer works. I have uninstalled it and reinstalled it numerous times. It will work once and then I get the red error message saying there is no wi fi connection. Not true. What do you mean apply the fix 1.8.2? No explanation has been given. This is becoming so frustrating. Please don't say it is an issue with older Androids. Th phone is 2 years old. There is a problem with the app.<br> :date: __2021-03-16 02:05:16__
-
-> Far too messy compared to other states<br> :date: __2021-03-09 02:03:13__
-
-> Tried to install but it just spun around on pending. I've got plenty of space.<br> :date: __2021-03-08 23:46:49__
-
-> Doing an upgrade that invalidates all users WITHOUT REPEAT WITHOUT telling anyone is arrogant stupidity from the ACT government. It also shows the contempt that the ACT government has for its citizens. Bringing in $1000 fines right after changing the system is nothing but a money grabbing exercise.<br> :date: __2021-03-05 09:26:15__
-
-> Cant even install<br> :date: __2021-03-05 06:31:58__
 
 

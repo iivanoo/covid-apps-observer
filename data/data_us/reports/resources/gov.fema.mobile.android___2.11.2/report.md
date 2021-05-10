@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Excellent<br> :date: __2021-05-05 04:28:55__
+
 > Good<br> :date: __2021-04-29 00:11:19__
 
 > Thank God for Fema<br> :date: __2021-04-18 18:16:07__
@@ -180,8 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Seriously necessary valued. Weather, w possible empending disasters, & worse, necessary notification.<br> :date: __2021-03-14 20:57:43__
 
 > Great to have when need to apply for emergency mishaps. Never know, but great to have.<br> :date: __2021-03-10 15:18:59__
-
-> nice apps<br> :date: __2021-03-08 22:12:02__
 
 
 
@@ -219,6 +219,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> Haven't had this installed for 24 hours yet however it was easy to install, set which alerts I want/need for the counties I need. I don't get weather alerts for whatever yhe reason (checked settings) and had to depend on others to relay alerts. I can now get the alerts myself and it may be a lifesaver since where I live we get severe weather, tornados and hurricanes regularly.<br> :date: __2021-05-04 22:42:49__
+
 > It's helpful to have the alerts, but they come constantly about the same issue. They need to bundle alerts together and just say it's been updated.<br> :date: __2021-05-01 14:19:12__
 
 > Works, but it keeps announcing the same alerts over and over, almost to the point of harassment! Also, the developer evidently does not read user comments, because they have not replied to any, a lot of which contain very good suggestions.<br> :date: __2021-02-15 21:07:44__
@@ -236,8 +238,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Works but would multiply the same alerts<br> :date: __2020-10-03 19:46:59__
 
 > Sends out alerts as expected, but here's the issue. If I'm in another app (Facebook, e.g.), it won't override it, and there doesn't seem to be a way to get the alert within the actual app, so if you miss it... too bad. Also tried to pull up the app while roaming, and got a "no wifi" connection error. Who the hell has wifi during an emergency??? DO BETTER.<br> :date: __2020-09-13 18:35:21__
-
-> Not enough details on alerts. Not worth the space on my phone<br> :date: __2020-09-11 00:11:01__
 
 
 

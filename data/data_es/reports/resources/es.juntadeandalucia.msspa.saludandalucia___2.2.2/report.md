@@ -140,6 +140,16 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Buena<br> :date: __2021-05-07 19:17:41__
+
+> Muy util<br> :date: __2021-05-06 12:30:01__
+
+> Es fastástica 👏👏❤️❤️<br> :date: __2021-05-05 16:52:50__
+
+> Tras usarlo un par de semanas me alegra que por fin una app salud funcione; ojo yo a Clip Salud+ entro con clave pin (24h), cuya app tengo en el móvil instalada con seguridad huella, de esta manera la clave me llega a la app, además de ser seguro,(se pueden ver historial, citas y datos personales) si entras con clave pin hay cero problemas, con certificado digital no se porque es antiguo y no tengo ; se puede consultar, pedir cita, ... la app va estable y fluida. Esperemos que siga funcionando.<br> :date: __2021-05-04 12:35:59__
+
+> Muy Útil y necesaria<br> :date: __2021-05-03 20:39:20__
+
 > Funciona perfectamente con todos los accesos a tu historial, pedir citas, vacunaciones, enfermería, ect.. muy completa. Para acceder a todo hay que tener Certificado Digital.<br> :date: __2021-04-28 12:01:04__
 
 > Buena<br> :date: __2021-04-27 17:29:42__
@@ -149,16 +159,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > Buena<br> :date: __2021-03-29 07:07:30__
 
 > Funcionamiento perfecto. Alta de usuario sin problema con el certificado digital de la FNMT.<br> :date: __2021-03-16 19:46:28__
-
-> Práctico y veraz<br> :date: __2021-03-12 18:50:55__
-
-> Buena<br> :date: __2021-03-08 18:36:51__
-
-> Buenos<br> :date: __2021-02-27 14:06:30__
-
-> No me deja registrarme con cl@ve. No me redirige al navegador.<br> :date: __2021-02-23 11:31:35__
-
-> Esta bien funciona<br> :date: __2020-12-03 11:13:29__
 
 
 
@@ -182,6 +182,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 3 reviews"/>
 </p>
 
+> Sería de agradecer que al identificarse, los datos introducidos se viesen más oscuros. Actualmente el texto se transparenta y a veces cuesta verlo.<br> :date: __2021-05-06 16:42:17__
+
 > Cuesta coger cita<br> :date: __2021-04-22 19:12:36__
 
 > Poned modo oscuro y subiré las estrellas<br> :date: __2020-06-19 10:17:54__
@@ -193,6 +195,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 2 reviews"/>
 </p>
+
+> No me permite entrar con mi cl@ve pin permanente a pesar de estar comprobada.<br> :date: __2021-05-07 22:37:39__
 
 > Falla al solicitar activar notificaciones. Imposible confirmar código sms<br> :date: __2021-02-27 07:15:23__
 
@@ -212,24 +216,24 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> NO VALE<br> :date: __2021-04-30 13:56:51__
+> No funciona la autenticacion. Otra app encargada a una empresa que luego no funciona porque el backend no esta preparado para ello, por volumen, por velocidad o por eficiencia<br> :date: __2021-05-08 20:16:08__
 
-> Un desastre,os debería dar verguenza,a los "seudoprogramadores",de realizar este puntual "mamaracho",de APPS.<br> :date: __2021-04-29 14:34:28__
+> Totalmente inútil. NO sirve para nada. Da constantemente errores incluso desde que intentas identificarte. Lo peor que he visto.<br> :date: __2021-05-08 14:29:42__
 
-> Con tantas medidas de seguridad que pide, al final te da error para todo. Por lo tanto sirve para poco. Seguro seguro que nadie con tantas trabas la va a utilizar. Da error continuamente. Imposible descargar certificado vacunacion. Si no sirve quitenla.<br> :date: __2021-04-28 15:30:14__
+> No deja introducir los datos para bajar el certificado<br> :date: __2021-05-07 21:26:33__
 
-> Absolutamente inservible. No comprendo que haya varios que ponen 5 estrellas y después agreguen que no funciona nada. Buena parte de las app institucionales son un petardo, porque prima el parentesco político de los desarrolladores, sobre su preparación y así es imposible.<br> :date: __2021-04-28 15:11:04__
+> Fatal. Se te pone cara de pánfilo. Después de estar un rato introduciendo datos me dice la app que se ha producido un error y que lo intente más tarde. Acojonante.<br> :date: __2021-05-07 14:38:14__
 
-> Imposible descargar certificado. Se cierra aplicación al meter los datos y hay que empezar de nuevo. No funciona.<br> :date: __2021-04-28 11:23:01__
+> Nefasta<br> :date: __2021-05-07 14:09:48__
 
-> Lo quise comprobar en persona. Ni cinco minutos la dejo instalada. Remite a la web. Para que vale?? ¿Los desarrolladores es que no leen los comentarios para buscar una mejora?<br> :date: __2021-04-26 01:04:59__
+> No sirve para nada. Perdida de tiempo. No la instales<br> :date: __2021-05-07 02:43:17__
 
-> Nefasta app. Pongo todos mis datos y me dicen que no son correctos.<br> :date: __2021-04-24 18:32:03__
+> El COVID no existe. ¡Despierta! 💉☠️<br> :date: __2021-05-06 12:14:49__
 
-> Una aplicación que parecía decente sin que tenga un diseño tercer mundista, y fallan en el registro, no puedes registrarte con datos personales porque no te permite poner los digitos de control... Y el sistema Cl@ve tampoco funciona, porque necesita uno presencial. A ver si lo resolveis...<br> :date: __2021-04-23 16:56:10__
+> No entiendo que sigan que se puede entrar con datos personales cuando no es así, no todo el mundo tiene ni cl@ve, ni certificado digital, a la hora de poner el numero de tarjeta sanitaria en el apartado AN no te deja clicar, por lo tano nunca va estar completo el número<br> :date: __2021-05-06 12:11:19__
 
-> Imposible dar de alta a los datos personales. Según la app todos los datos son erróneos. No sirve para nada.<br> :date: __2021-04-23 15:59:03__
+> Nefasta<br> :date: __2021-05-05 19:18:05__
 
-> Fatal<br> :date: __2021-04-23 14:22:29__
+> No me reconoce el número de la tarjeta sanitaria<br> :date: __2021-05-05 19:15:38__
 
 

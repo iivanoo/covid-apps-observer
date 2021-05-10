@@ -146,6 +146,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> I think every single person with a phone should have this Covid Alert (your state) app and "Check-in" daily! Regardless of your stance on this virus issue or how it came to be is now irrelevant, it's time for us to do our part to help stop the spread. JMO🤷‍♀️ Users will get a heads-up or an ALERT if you've crossed paths with someone else, who's also using this app, that later found out they contracted Covid-19. So now, YOU can be fully aware, prepare, and warn others you've been around! 🙏💞<br> :date: __2021-05-05 20:49:39__
+
 > Informative<br> :date: __2021-04-03 21:03:16__
 
 > A daily check-in to display my status. I care about my own health and that of others. I need to see how many people are affected by Covid-19 in my state, county, city. I highly recommend this app. ⭐⭐⭐⭐⭐<br> :date: __2021-03-11 02:45:43__
@@ -163,8 +165,6 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 > Thank you for this app.<br> :date: __2020-12-10 21:34:31__
 
 > Very helpful thanks very much...<br> :date: __2020-11-29 15:24:44__
-
-> Works as described. It does not require GPS location like some people say nor does it have permission to access local data. 100% anonymous. I wish more people used the app and the ones who have it check in. At the time of me writing this, about 5% of the people who downloaded the app actually check in, so kinda defeats the purpose but that's not the app or developers fault. I'd like it to see a reminder to check in every day if possible for future updates.<br> :date: __2020-11-20 22:11:13__
 
 
 

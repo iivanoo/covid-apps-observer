@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHW93W9Q1Tzpvrpzc7uFggU1QoNzGXCO63uFghyB9DHp7MSli1J0UspgM9YvnXRA0uWuPXYuFhIUxsWl-s",
+        "userName": "Amanda Breen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFtkUgfQRxEa7POXP1MUSP__eqQStiKT0igJmq1xc",
+        "content": "It's very basic and it doesn't allow you to enter information ...i.e...that you're vaccinated. It allows you to find a vaccination site but I don't need the app to do that. I thought it would show hot spot of high infection locations. Definitely needs a better development team.",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.1.3",
+        "at": "2021-05-01 20:00:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEFQaxm_1eJaVs8aG8m5BGYIjxLHcnp6mQR3FJcwE-1zB8iK6dR4zOWwq17mcDivf5z2KSuT08qx-5OHlU",
         "userName": "Benjamin Martin",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzMRred4KtkGrTc3dcj3oekHSnFdjPg4Vhqg1L9=mo",
@@ -125,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzW0FqKfQ0FWiT-k-w9-n9x_vCau74HbaucmxV9=mo",
         "content": "It's awesome for info for me and any bodies health and take care of yourself too.thanks for the app it works for everyone else. My sisters and relatives are doctors and nurses and thanks for letting me use this app.",
         "score": 5,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.0.32",
         "at": "2021-03-30 10:09:09",
         "replyContent": null,
@@ -149,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykQuX_av0UAr_bEismSmGh5nfvmgwc-9uMsJCZ=mo",
         "content": "Was hopeful for this, but this app is *extremely* limited. With only around 10K downloads (assuming these are still installed and running), there's no way it can function effectively for contact tracing. First, this had apparently been available since August 2020? No one knows about this app. Second, there needs to be a way for users to report their own exposures to those diagnosed covid positive, not just personal diagnoses - consider medical field workers: doctors, nurses, pharmacy.",
         "score": 1,
-        "thumbsUpCount": 23,
+        "thumbsUpCount": 24,
         "reviewCreatedVersion": "2.0.32",
         "at": "2021-03-05 20:29:24",
         "replyContent": "Hello, Thank you for your thoughtful feedback. We\u2019re excited for you to start using the app! We are currently in the process of working with the State of Arizona. Click here to learn more: https://www.wehealth.org/arizona",

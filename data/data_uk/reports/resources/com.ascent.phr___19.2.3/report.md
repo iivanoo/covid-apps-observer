@@ -189,6 +189,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> Nice app<br> :date: __2021-05-09 11:46:56__
+
+> excellent system<br> :date: __2021-05-02 11:48:59__
+
 > very useful service but no available appointments to see GP in whatever format is worrying!<br> :date: __2021-05-01 09:48:48__
 
 > very efficient, great service!!<br> :date: __2021-04-27 19:02:06__
@@ -205,10 +209,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Nice<br> :date: __2021-04-21 12:36:47__
 
-> Nice app<br> :date: __2021-04-21 07:40:38__
-
-> easy fast simple<br> :date: __2021-04-21 04:22:41__
-
 
 
 #### 4-star reviews
@@ -216,6 +216,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ascent.phr 4 reviews"/>
 </p>
+
+> This app is 10 times better than Patient Access. It's very interactive and keeps the user up to date in many areas like health and well being, including your rights as a patient to having access to your records.<br> :date: __2021-05-02 09:35:47__
 
 > not fully user friendly, it's not obvious how to get things done, needs some getting used to to navigate. otherwise works very well.<br> :date: __2021-04-19 22:01:56__
 
@@ -234,8 +236,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > All good<br> :date: __2020-12-30 21:24:23__
 
 > Easy to use.<br> :date: __2020-12-19 08:02:02__
-
-> Easy to use.<br> :date: __2020-12-16 10:54:37__
 
 
 
@@ -301,6 +301,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> Dreadful. It will let me in on laptop, but not on phone app. Wasted so much time. You could die waiting for the tech. What a dreadful state of affairs<br> :date: __2021-05-04 16:15:41__
+
 > overly complicated, confusing where and what to tap, biometrics usually does not work. Utter cr*p<br> :date: __2021-04-22 11:35:52__
 
 > Too buggy<br> :date: __2021-04-13 09:13:44__
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Cannot get on the app, click forgotten password, get emailed code, enter code, and it asks security question, answer question and get message too many failed attempts, account temporarily suspended, come back a month later, and get same message on first security question answer, so just how long is your idea of temporary?<br> :date: __2021-03-13 20:15:59__
 
 > does not work correctly. the screen for ordering prescriptions never loads, so i cant order anything through the app. ive had this problem on my s8, s10 and now s20. i spoke to customer service via email and they didnt help at all and the issue is still not resolved. avoid<br> :date: __2021-03-06 23:14:16__
-
-> So buggy.<br> :date: __2021-03-05 21:52:37__
 
 

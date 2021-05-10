@@ -129,25 +129,25 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
+> Sale que no hay contactos porque los positivos no registran que lo son<br> :date: __2021-05-07 12:54:54__
+
+> es la mejor aplicacion para el covid19<br> :date: __2021-05-05 19:16:57__
+
+> Muy buena antes lo lo tenía con tanto campo como ahora<br> :date: __2021-05-05 19:03:41__
+
+> Muy buena aplicación<br> :date: __2021-05-04 01:37:04__
+
+> Sensacional y muy necesaria.<br> :date: __2021-05-03 18:17:41__
+
+> Recomiendo...pero consume mucha batería.<br> :date: __2021-05-02 10:13:50__
+
+> por esto es por que nunca me contagio<br> :date: __2021-05-02 08:21:02__
+
 > Excelente App para avisarte cuando el Bluetooth de tu celular está apagado, le doy 5 estrellas porque no hay más y además soy fun de la Mahou 5 estrellas. Desde que la instalé no puedo vivir sin ella.<br> :date: __2021-04-28 21:34:38__
 
 > Excelente<br> :date: __2021-04-28 05:13:00__
 
 > Me ha encantado el juego me encanta que hayan sacado Plague Inc 2.0 tiene sistema de detección increíble y me encanta que ya venga una enfermedad gratis incluida porcierto me encanta que la cuarentena se tan efectiva que pena que la vacuna cueste tanto de sacar en España, Gracias<br> :date: __2021-04-27 11:13:30__
-
-> Muy buena idea si la gente la usase<br> :date: __2021-04-26 21:27:58__
-
-> Interesante ojala salga todo bien<br> :date: __2021-04-25 22:40:27__
-
-> Es una a plicasion para qne noynforme der Covi y Deotras En Fermedade Co O Viru y Dendevienen Coma La Calentura Marta y La Fiebres Der Palodirmo y La Paperas y La Viruela Er Salanpion y La tuberculosis y Munhas más publica en Facebook Carmela RomeroMartin, Crm @ gomeil . CON.<br> :date: __2021-04-25 14:46:28__
-
-> Lo tienen que llevar todos en el movil<br> :date: __2021-04-25 10:28:27__
-
-> Pido ayuda me han quitado un mi soy María estrella<br> :date: __2021-04-24 14:02:12__
-
-> Muy útil<br> :date: __2021-04-23 16:15:52__
-
-> Wanderful<br> :date: __2021-04-21 15:15:45__
 
 
 
@@ -185,6 +185,12 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
 
+> No se pero si me gustaría saber si estoy al lado de un cobi9<br> :date: __2021-05-09 15:37:14__
+
+> Me resulta chocante que en Euskadi que tengo alardeamos de muchas cosa estemos con respecto a otras comunidades n la cola d espera para vacunarnos tengo yo tengo 69 años y ni una sola notificacion para vacunarme<br> :date: __2021-05-07 01:32:52__
+
+> Si se supone que usa el Bluetooth y no la localización, así que no debería de estar constantemente dando señales de alerta para activar localización. Si no quieres hacerlo. Incluso con modo avión, o de noche, molesta. Si no quiero activar localización, no debería de estar todo el tiempo avisando.<br> :date: __2021-05-06 09:05:40__
+
 > Me parecería muy útil si desde sanidad se dieran los códigos a la gente positiva. No conozco a nadie a quien le hayan dado un código,; y algunos que han preguntado por el código, no sabían ni de qué les hablaban<br> :date: __2021-04-30 16:56:19__
 
 > Nunca he debido de estar el tiempo suficiente con un positivo con la app para que me avisara. Si que es muy cansina, creo que su función era recordarte constantemente que te podías infectar.<br> :date: __2021-04-25 10:16:36__
@@ -199,12 +205,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Siempre está que no funciona bien<br> :date: __2021-04-13 22:50:42__
 
-> Bb<br> :date: __2021-04-11 12:42:12__
-
-> Soy nuevo o novato, y acabo de descubrir esta aplicación, incluso no sé si lo he activado bien, espero que sí, me gustaría que me contestaran.<br> :date: __2021-04-11 11:26:01__
-
-> Regular o muy pobre. De casos.<br> :date: __2021-04-07 13:56:47__
-
 
 
 #### 2-star reviews
@@ -212,6 +212,12 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.radarcovid 2 reviews"/>
 </p>
+
+> Excelente iniciativa para ayudar a combatir la pandemia. Lastima que no haya funcionado como debiera. No me refiero al molesto aviso de ahorro de batería que salía cada dos por tres. Sino al conjunto de factores que hacen que no funcione como proyecto. Por un lado la app no la usaba casi nadie porque muchos no sabían que existía o se creían que era intrusiva en cuanto a privacidad. Y por otro lado resulta que para indicara la app que tienes covid han de darte un código especial en el médico.<br> :date: __2021-05-06 07:56:05__
+
+> Nunca he tenido nadie cerca desde que lo instalé, me parece muy raro<br> :date: __2021-05-05 17:52:53__
+
+> Funcionaría mejor si todo el mundo la tuviera. No todos saben de su existencia<br> :date: __2021-05-02 18:19:27__
 
 > No es muy buena app. No notifica NADA. Esto no va.<br> :date: __2021-05-01 13:18:25__
 
@@ -227,12 +233,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Poco útil<br> :date: __2021-04-15 10:36:07__
 
-> S.i pusieran todos los demás seria mejor que ahora<br> :date: __2021-04-09 11:08:50__
-
-> Lleva unas semanas con "Error al cargar nuevos datos de contactos de infección (LOST)" o "... (AGAEN 10.-2)." Antes funcionaba bien aunque tira mucho de la batería por el bluetooth encendido continuamente.<br> :date: __2021-04-08 18:13:57__
-
-> Se puede mejorar y mucho<br> :date: __2021-04-07 23:43:04__
-
 
 
 #### 1-star reviews
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> Esta aplicación es una mentira como la existencia del sars-2<br> :date: __2021-05-01 19:11:11__
+> Voy a desinstalarla. Muy decepcionante, no funciona para nada. Una pena el dinero gastado.<br> :date: __2021-05-09 15:45:53__
 
-> No te avisa de nada<br> :date: __2021-05-01 18:35:05__
+> Penoso, los únicos mensajes son "la aplicación está funcionando mal" vaya desastre, ahora mismo lo desinstalo<br> :date: __2021-05-08 18:58:42__
 
-> Ehhhhh espera un momento no serás un smoke<br> :date: __2021-05-01 17:52:54__
+> Horrible no sirve para nada, solo gasta batería<br> :date: __2021-05-08 10:11:12__
 
-> Horrible. No funciona nada. Estuve ingresado en una planta Covid 10 días y no me avisó mi una vez. Muy rara esa App.<br> :date: __2021-04-30 23:35:58__
+> De VERGÜENZA. La instalé en cuanto salió, incluso la envié a todos mis amigos y familiares recomendando que la instalaran... En la empresa donde trabaja mi mujer tuvieron un positivo, y ella por su trabajo trata con público a diario... jamás recibió ni un aviso. En otros países este tipo de apps han funcionado muy bien y han sido una herramienta vital contra el virus; aquí, ni funciona, ni es obligatorio instalarla, ni el Gobierno ha hecho NADA por promoverla. Un DESASTRE. Desinstalada 05/2021.<br> :date: __2021-05-07 18:17:14__
 
-> Nada, no vale para nada<br> :date: __2021-04-30 22:39:50__
+> Dinero público para el amiguito de turno...<br> :date: __2021-05-07 16:44:24__
 
-> A que juegan?,dejen de gastar recursos sin motivo gobierno de España ,muere más gente de cáncer<br> :date: __2021-04-30 20:42:13__
+> EL HOMBRE SIN MASCARILLA AQUEL QUE GUARDABA LOS DOS METROS DE DISTANCIA<br> :date: __2021-05-06 22:40:40__
 
-> No existe el covid por que lo pones en tu cuenta<br> :date: __2021-04-30 20:13:47__
+> Es imposible notificar un positivo. Te piden un codigo que es imposible conseguir (al menoa en la comunidad valenciana).Llevo 1 semana intentando notificarlo, y lo doy por imposible. La idea es buena, pero tiene que ser accesible para que sea útil.<br> :date: __2021-05-06 09:41:24__
 
-> No vale para nada<br> :date: __2021-04-30 09:12:20__
+> "Radar Covid no funciona" Único mensaje que he recibido a lo largo de 5 meses. ¿Hay algún responsable?<br> :date: __2021-05-04 21:26:52__
 
-> Desinstalada no hay avisos ni ninguna información valiosa<br> :date: __2021-04-29 16:04:59__
+> Aplicación de porquería, dejen de asustar a la gente😂😂<br> :date: __2021-05-04 20:27:43__
 
-> La desinstalo. Totalmente innecesaria<br> :date: __2021-04-29 15:57:10__
+> Ahora sí podre jugar e tirarme un si, gracias, yo no lo descargo por qué ya lo tengo, yo escupirle a si corona y comer corona todas my House :(<br> :date: __2021-05-04 19:56:58__
 
 

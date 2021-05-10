@@ -176,6 +176,16 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> I like this app<br> :date: __2021-05-08 13:00:57__
+
+> It's good doing this every day, it gives a tally of how one is doing on a daily basis & Iogging in my sleep habits & other items and it's good to see that others are doing it as well.<br> :date: __2021-05-07 16:24:37__
+
+> Good experience.<br> :date: __2021-05-04 21:10:28__
+
+> I think this app is pretty cool! Still is a year later<br> :date: __2021-05-03 00:57:36__
+
+> Great app, it helps you realize how you feel and gives you perspective<br> :date: __2021-05-02 01:24:31__
+
 > great covid pandemic-related daily symptom, activity, & mood tracker. provides daily local & nat'l vovis syats, as well as a snapshot of your moods.<br> :date: __2021-04-29 20:08:40__
 
 > Great!<br> :date: __2021-04-09 02:23:17__
@@ -185,16 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > I love that its a small way to help. Great app just wish A. A different quote occasionally because I'm tired if dolly Parton and B. The statistics no longer shows and I liked it a lot. Everyone should use this! Not for yourself but for others to have food!<br> :date: __2021-03-27 04:08:55__
 
 > Pretty easy to use! I don't have any complaints.<br> :date: __2021-03-26 22:17:51__
-
-> Very easy and quick to do. lt's good to know my 30 seconds will help 'Feed America' and track how Covid-19 is affecting others in our area.<br> :date: __2021-03-21 08:01:09__
-
-> Like this app.<br> :date: __2021-03-20 21:16:48__
-
-> Very easy, very quick. Helpful for self assessment.<br> :date: __2021-03-18 03:08:59__
-
-> Good tracking<br> :date: __2021-03-09 22:32:44__
-
-> Fairly straight-forward and easy to use. Was a reminder to myself to be more mindful of my actions and how I was feeling.<br> :date: __2021-02-27 03:28:13__
 
 
 

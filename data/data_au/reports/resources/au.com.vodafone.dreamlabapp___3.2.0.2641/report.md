@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Love the fact that my tablet is helping out finding a cure for Covid-19 while sitting idle<br> :date: __2021-05-09 08:41:46__
+
+> I think it's fantastic, it's powered when I'm asleep and my tablet is fully charged when I wake up<br> :date: __2021-05-07 19:53:59__
+
+> Would be nice if i could choose my own download limit!!<br> :date: __2021-05-07 18:18:49__
+
+> Excellent idea, easy to use.<br> :date: __2021-05-06 10:55:43__
+
+> I charge my phone overnight and haven't encountered any problems. Glad to be of some small help with the research. Such a fantastic idea!<br> :date: __2021-05-05 16:40:49__
+
+> What's not to love? Simple to use app that works while you're asleep. It has feelgood all over it. Plug your phone in, connected to wifi & let it run overnight. Recently reading newer reviews of the app not working, now I am no boffin by any means, but my take on this could be some calculations might be tougher or longer time needed to complete. Edit: Have today just updated my phone and reinstall the app, but sadly lost all my calculations since 2018.I wonder if there's a way to log back in<br> :date: __2021-05-04 09:16:08__
+
+> Excellent app<br> :date: __2021-05-02 04:17:27__
+
 > An easy way to provide support to key research programmes such as those seeking drugs effective against Covid 19<br> :date: __2021-05-01 08:59:16__
 
 > Great<br> :date: __2021-05-01 08:29:32__
 
 > Very easy to use as long as you remember to activate at night.<br> :date: __2021-05-01 08:09:34__
-
-> It let's me do my little bit for cancer research.<br> :date: __2021-04-29 16:12:54__
-
-> Great idea. Works really well and doesn't affect my phone's operations.<br> :date: __2021-04-27 10:36:02__
-
-> Everybody should use it!<br> :date: __2021-04-27 08:47:21__
-
-> This is a very simple way of making a contribution to medical research<br> :date: __2021-04-26 07:54:51__
-
-> Easy to use, and helping worthwhile causes when charging phone<br> :date: __2021-04-25 23:57:51__
-
-> Not even aware of it. Nice to know that when I'm asleep and phone on charge that it is contributing to something worthwhile<br> :date: __2021-04-25 09:30:17__
-
-> Easily unobtrusive<br> :date: __2021-04-24 01:23:06__
 
 
 
@@ -211,6 +211,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
 
+> Not sure, but i think these apps will kill your battery over time .<br> :date: __2021-05-01 21:44:25__
+
 > WARNING: Should not attempt to run the App if you do not in fact already have a (trade/industrial-grade) powerbank, if not also a second (or even a third) phone. (Ps I would have given a 3&3/4-out-of-5 rating if I could, however.)<br> :date: __2021-04-27 19:00:11__
 
 > My covid-19 calculations keep stopping. No idea why. Also the calculations are taking longer and longer, sometimes over 2 hours.<br> :date: __2021-04-27 18:02:04__
@@ -228,8 +230,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Because politicians have used certain issues inappropriately, there are certain analyses I do not wish to participate in. Over time this application automatically switches away from analyses I feel are more important to those which are more politically appraised.<br> :date: __2021-03-17 17:47:10__
 
 > Good app with great intentions. The problem is that the program I chose keeps getting switched for another program which I do not wish to support. All. Trying to do is support coronavirus research and the app keeps trying to make me support hyperfoods which is suspiciously run in the UK. Stop switching it automatically.<br> :date: __2021-03-16 00:48:21__
-
-> Presumably im helping. Boinc is better. Give more feedback on how we are helping. Also gridcoin being an additional bonus that potentially may have value in the far future. Why bother with this? It is nice if you are not very technical or dont want to fall into the rabbit hole of the many different sciences connected to boinc. If you want no hassle just do this. But if I want more meaningful results I use other platforms. I just need more feedback I guess. This platform is "ok" at least.<br> :date: __2021-03-05 14:06:45__
 
 
 

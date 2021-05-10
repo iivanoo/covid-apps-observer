@@ -1,0 +1,69 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns3.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    },
+    {
+        "name": "googleapis.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2005-01-25 17:52:26",
+        "expiration_date": "2022-01-25 17:52:26",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+        ],
+        "name_servers": "{'ns1.google.com', 'ns3.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    },
+    {
+        "name": "coronacheck.nl",
+        "registrar": "Rijksoverheid",
+        "registrant": "",
+        "registrar_country": "Netherlands",
+        "registrant_country": "",
+        "creation_date": "2020-02-25 00:00:00",
+        "expiration_date": null,
+        "last_updated": "2021-02-15 00:00:00",
+        "status": "active",
+        "statuses": [
+            "active"
+        ],
+        "name_servers": "{'ns3.rijksoverheidnl.org', 'ns2.rijksoverheidnl.eu', 'ns4.rijksoverheidnl.com', 'ns1.rijksoverheidnl.nl'}"
+    }
+]

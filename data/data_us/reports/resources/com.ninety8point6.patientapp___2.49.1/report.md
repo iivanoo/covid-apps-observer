@@ -191,25 +191,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> This was so much easier, and faster, and less expensive than a traditional doctor visit! The process from filling out the information on symptoms to picking up the prescription at the pharmacy took less than one hour!<br> :date: __2021-05-09 00:30:18__
+
+> Wow! This is the way to do simple ailments!! Fast and easy. I needed meds before 9 and couldn't start the process until after 8:30. It was in before 9! Super nice doc!<br> :date: __2021-05-07 02:59:50__
+
+> The doctors are lovely, the app layout is clear and it's affordable. I really do feel cared for and heard in every appointment and I'm able to have quick seamless appointments and easy meditation pick up at my pharmacy. I love this app!<br> :date: __2021-05-05 16:24:59__
+
+> Always helpful and listen to what you say.<br> :date: __2021-05-05 05:55:13__
+
+> Works great for my purposes (BC)<br> :date: __2021-05-03 18:41:04__
+
+> Very helpful great Drs<br> :date: __2021-05-03 18:31:57__
+
+> Every experience I've had using 98point6 has been very quick and helpful, and the physicians have been friendly and personable. I have used the app to get a prescription for nasal spray as well as anxiety medication. Definitely beats going to Urgent Care or a Primary Care doctor. As a Type 1 Diabetic, I already have so many appointments throughout the year. It is a relief to be able to handle some visits over the phone at home through 98point6.<br> :date: __2021-05-01 20:38:18__
+
 > Worked great<br> :date: __2021-04-30 23:39:23__
 
 > Very nice and friendly. Would definitely recommend. They really want you to be healthy and happy. Thanks.<br> :date: __2021-04-30 20:31:02__
 
 > The best app ever , so easy to use<br> :date: __2021-04-30 15:34:37__
-
-> Helpful<br> :date: __2021-04-29 02:38:14__
-
-> I absolutely love this app. I've gotten assistance from the drs for everything from sinus infection to possibly covid to broken foot. They are fast friend and they've been right 100% of the time. At first it was awkward doing this but this is the way technology is going so might asxwell start now!<br> :date: __2021-04-28 12:53:35__
-
-> 98.6 is the absolute best doctor service ever.<br> :date: __2021-04-28 03:27:14__
-
-> She was awesome<br> :date: __2021-04-28 01:28:10__
-
-> Love the ease of this app!<br> :date: __2021-04-27 23:27:57__
-
-> Fast easy free can't get better than that lol<br> :date: __2021-04-24 01:36:46__
-
-> Quick, easy, and nearly the same experience you'd get in a physical appointment.<br> :date: __2021-04-22 23:05:15__
 
 
 
@@ -218,6 +218,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 4 reviews"/>
 </p>
+
+> Quick and easy. The doctors are detailed in their questions.<br> :date: __2021-05-06 12:46:24__
 
 > I will outeWe eeline ee we wwwkepp ewWww ewewwe rawness e we relock w eeeee equaTe ee eee Reews, eeeeweeeeeeeeewewwawseew e eee ere ewe w youeeeee wewe ewe eeeee e wwwe e e ewere the2 bigger person who I I.e.the e e ee w ewe at eeee<br> :date: __2021-05-01 04:46:13__
 
@@ -236,8 +238,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Prompt and helpful and i didn't have to leave home.<br> :date: __2020-12-26 07:56:30__
 
 > Very easy to use and got a quick response from a doctor about my wrist pain. She was able to diagnose the issue and recommend next steps.<br> :date: __2020-12-18 02:13:02__
-
-> DR Was friendly and clear.<br> :date: __2020-12-15 00:01:37__
 
 
 

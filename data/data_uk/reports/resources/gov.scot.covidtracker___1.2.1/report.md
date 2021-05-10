@@ -139,6 +139,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Easy to use, watch you don't have your VPN switched on or it doesn't take any readings, wouldn't know it was working behind the scenes to help protect Scotland<br> :date: __2021-05-01 22:05:02__
+
 > Great app 1st thing I added to my account well done,🌞🌈<br> :date: __2021-04-29 00:06:05__
 
 > Good<br> :date: __2021-04-21 09:37:24__
@@ -156,8 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Excellent<br> :date: __2021-03-23 13:19:09__
 
 > If people are putting in positive results, then why are they out and not self isolated at home? If my app says I've been in close contact then the person who put there positive results in are out and about. Not the apps fault that's why I gave it 5* people just don't care they can potentially kill another person....<br> :date: __2021-03-22 04:08:30__
-
-> This app keeps me informed of Any Changes thank. You. Bernard<br> :date: __2021-03-21 19:01:53__
 
 
 

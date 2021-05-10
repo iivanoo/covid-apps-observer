@@ -187,6 +187,14 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Knowledgeable<br> :date: __2021-05-09 14:32:31__
+
+> Very knowledgeable and kind<br> :date: __2021-05-07 15:16:48__
+
+> Excellent experience with telehealth<br> :date: __2021-05-06 20:31:42__
+
+> Easy to use. Clear instructions<br> :date: __2021-05-04 16:46:27__
+
 > I think this service is a wonderful service because it saves us time and gives peace if mind about what's going on PLEASE use if needed<br> :date: __2021-04-18 01:53:39__
 
 > Great app! Took me only 30 min from downloading to see a doctor!<br> :date: __2021-04-13 21:29:22__
@@ -198,14 +206,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Very helpful and professional<br> :date: __2021-03-31 01:19:57__
 
 > So convenient and the doctor was wonderful! Saved me a trip down to the Urgi center in the middle of a storm and during the pandemic<br> :date: __2021-03-19 02:16:41__
-
-> Good<br> :date: __2021-03-14 18:16:48__
-
-> It was excellent the Md was knowledgeable and put my mind and my daughter's at ease. We did not have to go to the ER. Thank You Dr. Doran<br> :date: __2021-02-18 03:00:14__
-
-> Easy, convenient, pleasant, efficient<br> :date: __2021-02-14 14:34:54__
-
-> Very dope to use and helps save time<br> :date: __2021-02-12 13:10:47__
 
 
 

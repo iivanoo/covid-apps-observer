@@ -154,6 +154,8 @@ The MenaLabs app has been installed by more than **500** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.menalabs.app 5 reviews"/>
 </p>
 
+> Convenient<br> :date: __2021-05-02 18:37:15__
+
 > Fast and reliable service<br> :date: __2020-09-09 06:53:21__
 
 > Exceptional services,easy to navigate<br> :date: __2020-08-20 17:49:31__
@@ -171,8 +173,6 @@ The MenaLabs app has been installed by more than **500** times. At this time, **
 > They provide ultimate quality service<br> :date: __2020-08-15 12:06:56__
 
 > Easy to book an appointment and very reliable<br> :date: __2020-08-15 11:51:16__
-
-> Easy to navigate app, very responsive. 5 star to this!<br> :date: __2020-08-15 11:50:51__
 
 
 

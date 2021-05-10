@@ -182,6 +182,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> More tools for the Vaccine! The app is great but is lacking major portions that should be on the subject of "Vaccinations". Such as locations for Detroit residents. Information on the various vaccines available & where. A Q & A section on possible vaccine info to help stop forms of "vaccine hesitency"<br> :date: __2021-05-02 22:22:13__
+
 > I have the current version 1.3 but never updates checks for covid exposure after install Edit: I changed the settings that stopped app from running in background (Samsung). Hope that works.<br> :date: __2021-03-12 20:32:48__
 
 > You have to keep Bluetooth on to recieve alerts?! No thank you, I'm uninstalling this Edit In response to the reply below: I still dont want to walk around with my bluetooth on all day. Thats not good for my battery or privacy.<br> :date: __2021-03-10 20:01:37__
@@ -199,8 +201,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > No notifications??? I worked in a hospital filled with COVID patients during an outbreak. Maybe none of them had this app installed. This app is an amazing concept. I apperciate the anonymity. I will continue to recommend this app to others!<br> :date: __2021-01-14 13:15:04__
 
 > It was working fine updating regularly. Now it hasn't updated my exposure or the cases and deaths since January 4th. I don't know what is wrong. Yes my bluetooth is on. I don't know what to do with it.<br> :date: __2021-01-13 17:51:43__
-
-> My app last exposure check was Dec 30 2020. I have my location and Bluetooth on. Not working..<br> :date: __2021-01-09 12:23:32__
 
 
 
@@ -238,6 +238,12 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!! 5/7/21 update. STILL DOESN'T UPDATE, TRASH!<br> :date: __2021-05-07 17:22:54__
+
+> Last checked for exposures back in March and it is now May. I see absolutely no point in having my phone put out info if it's not going to work.<br> :date: __2021-05-04 20:05:21__
+
+> App hasn't checked for exposures since middle of March. No way to even manually force a check.<br> :date: __2021-05-04 03:31:49__
+
 > I've never gotten an alert but I known multiple times I was in contact with COVID. I live behind the covid testing center and not a single alert Pathetic<br> :date: __2021-04-30 21:08:51__
 
 > The app has not checked anything since april 15th, its now april 26th, in my opinion its useless. Its April 30th. Im deleting your app.<br> :date: __2021-04-30 19:17:20__
@@ -251,11 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > It stopped checking back in February. Uninstalled and reinstalled, but it doesn't say it stopped checking unless you go into the app every day and see the last time it did run a check. Also does not inform you if you have been exposed after it stops checking. Reinstall starts it fresh with no history data. Yes bluetooth is on, so don't ask.<br> :date: __2021-04-27 17:53:37__
 
 > The app only updates its check when you open it which defeats the purpose.<br> :date: __2021-04-27 16:37:45__
-
-> This has not checked for 4days. I now have dropped to 1 star. It hasn't checked exposure since 3-22. It is now April 26 and still no check since 3-22. I will delete this because it is useless to me.<br> :date: __2021-04-26 15:14:29__
-
-> Doesn't work<br> :date: __2021-04-26 09:17:07__
-
-> This app and any like it are leftist scare tactics. 100% propaganda and proof of the socialist/communist agenda and clearly government over reach. It's not about helping anyone or keeping anyone safe, it's about power and control. Everyone needs to delete this app now. Delete it faster than Google/ Michigan will delete this comment. How dare anyone think different or go against the globalist agenda.<br> :date: __2021-04-24 15:17:19__
 
 

@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHzcxhtSY0PjYDOcCpyMf-r1MCyQeJNiHXda0U4q4nJfBCd0t_1VqOqcp-ZL-hVRaCgWKZtCEOzRxs31Ck",
+        "userName": "Edward Klaus",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQMfcxFoZt0Dc8O5oho628Dr8T6FbZYgEwfpsSIA",
+        "content": "Excellent for not being able to see the doctor in person",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-07 21:09:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOES9bwNLo1E7tiaAU4aEWqh572ppf_DerQyMUYexH5U6l_KxmlGnoNlZExe5kC2iuKvVzEEiwofg9UlzzM",
+        "userName": "Katie Yelk",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzlaDwObnK0tKDQvA-7SP9pI1_Q8CkkW1zvwwoY=mo",
+        "content": "Easy and Clear",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-05 21:39:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFTO442KvEu6gvXe92Be2-AcsWn5Wjw4scom6pT-rora0Hqo3yHAzhGhz5hrmNrukyLvl6wmemwb3VV5rc",
+        "userName": "Chant\u00e9 Bailey",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjRYmOc7tOEx0UIH-mYZB9DplMU_avXbAc1IafsdyA",
+        "content": "Penn State Health really adapted to COVID and created quite the efficient app. There are a few hiccups but so far every telehealth visit I've had this year has gone smoothly.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-03 18:11:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHOp1dXq_v9xoc-v9GI1Vni_b2AiigTk_AIuF2XizwiUA3FL-jO7z9Td1YP3t0IEaEMbCAbg5sXq45ro-8",
         "userName": "Jodi Runk",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzfjdW2jy-OWcdWHl1tLWw5VQvTwwj8AhLC_W7y=mo",
@@ -101,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhE8d1DJ0b5NO2DFTXqDa1-tHPtLoTZ-IF6Juhe7A",
         "content": "Its was my first time, and my Anxiety was threw the roof. But overall it was a different experiance and cool too.would use it all the time.very convenient and easier then coming to office and getting sick. Thank you",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "12.0.19.010_02",
         "at": "2021-03-03 20:34:50",
         "replyContent": null,
@@ -338,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOF_x9Vjh0RpXrUqiYUIz54RIlW2iOHsnlsI431p1pt1sc88YA793lM6aiFF5PW0XCT6jCyT67E7rjyTuZk",
         "userName": "Frederick Hockenberry",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinYp6_TMYgnRJ5YjVIT3PVec8U_Foi17WwHpSOwg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiUorPW3nYAzSST2TruvXQ3rAQ6aQouYOHMgCdsAg",
         "content": "Exceptional",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2870,7 +2906,7 @@
     {
         "reviewId": "gp:AOqpTOHQ_8zU_ujBNUtFXqAl8xBqmYibPCh1C5Qk3uK4kvgsYVHf9RIsDBk1UlyY19SD1MpPXed49BUJw_aFy_o",
         "userName": "Norman Stovall",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4E2WyziUXQxNN3dKYSb5zmhUwxL-oyn39Yu1y",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghd9yuB0oe4G_WuEZkFvNsK2rodlJI_1rB3zBfUlws",
         "content": "EXCELLENT option for minor acute issues. Affordable.",
         "score": 5,
         "thumbsUpCount": 1,

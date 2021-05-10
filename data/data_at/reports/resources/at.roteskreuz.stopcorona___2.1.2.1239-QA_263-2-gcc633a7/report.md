@@ -148,6 +148,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Gut<br> :date: __2021-05-06 13:50:59__
+
+> ICH LASSE MICH IMPFEN,AMEN<br> :date: __2021-05-05 08:39:22__
+
 > Sehr gut<br> :date: __2021-04-29 07:12:59__
 
 > Diese App gibt mir bis zu einem gewissen Grad Sicherheit.<br> :date: __2021-04-26 09:24:06__
@@ -164,10 +168,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Man sieht nicht ob irgendwelche Kontakte aufgezeichnet werden. Anscheinend wurde auch nach mehreren Monaten Betrieb landesweit noch kein einziger Fall dadurch gefunden (sonst wäre das ja wohl in irgendwelchen Nachrichten gestanden) *edit*: hat sich inzwischen geändert<br> :date: __2021-04-21 08:19:43__
 
-> 👍<br> :date: __2021-04-21 06:31:57__
-
-> Es funktioniert nicht<br> :date: __2021-04-20 19:34:12__
-
 
 
 #### 4-star reviews
@@ -176,7 +176,7 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
-> Die Anzeige der erfolgten Kontakte der letzten 7 Tage finde ich gut. Zumindest sehe ich, dass welche erkannt werden! Also trotz Leben als Eremit über 60 - da würden mich die Details interessieren. Bin vorwiegend Spazieren oder 1x p W. im Supermarkt. Ab welcher Kontaktzeit wird gewertet?<br> :date: __2021-04-30 14:28:10__
+> Funktioniert.<br> :date: __2021-05-07 20:51:07__
 
 > Hätte nicht gedacht, dass ich anhand dieser App tatsächlich mal eine Warnmeldung bekomme. War nun aber so. Ich konnte das dann anhand eines Tests abklären. Die Info-Meldung über die mögliche Infektion kommt aber weiterhin. Mein Vorschlag wäre daher, dass man die Warnmeldungen für einzelne Risikokontakte abstellen kann. Sollte sich in den kommenden Tagen nämlich ein weiterer Risikokontakt ergeben, würde ich das nicht merken, weil ich die Warnmeldung mittlerweile einfach wegwische.<br> :date: __2021-04-23 21:13:53__
 
@@ -204,6 +204,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Kann es sein, dass ich noch NIE eine Verständigung erhalten habe, das ist doch rein statistisch schon nicht möglich. Scheint nicht funktionieren, ich deinstallier das jetzt endgültig.<br> :date: __2021-05-03 13:42:23__
+
 > Ich finde die App nicht schlecht, falls sie funktioniert und wenn sie mehr Menschen nutzen würden. Aber warum verbraucht diese App in 1 Monat 2,3 GB Daten?<br> :date: __2021-04-28 10:27:01__
 
 > Wie schaut's aus mit der Integration von erfolgten Impfungen, Testergebnissen, Registrierung z. B. in der Gastronomie? Ich hoffe, das ist alles bereits in Arbeit und wird umgehend veröffentlicht.<br> :date: __2021-04-24 17:17:57__
@@ -222,8 +224,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Unser Datenschutzgesetz einerseits und die Haltung mancher Mitbürger andererseits zerstören meines Erachtens den guten Grundgedanken für die Verwendung dieser App. Was mir auffällt, ist, dass der von der App angezeigte Zeitstempel der Kontakte nicht stimmen kann. Die App zeigt Kontakte zu Zeiten, in denen keine waren, oder erst viel später an.<br> :date: __2020-12-23 10:26:34__
 
-> Auch ich werde die App nun nicht weiter nutzen. Automatischer Handshake funktioniert fast nie, selbst wenn die Handys stundenlang im selben Raum sind. Ich bin täglich beruflich viel im öffentlichen Raum unterwegs, auch in Öffis. Bisher jedoch in 2 Monaten nur ein einziger Handshake. So hat das doch keinen Sinn. Hauptsache das Rote Kreuz kann sich damit wichtig machen. 👎🏼<br> :date: __2020-12-21 08:22:18__
-
 
 
 #### 2-star reviews
@@ -231,6 +231,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Mobiler Datenverbrauch steigt rapide: während die App noch im Jänner 55MB pro Monat gebraucht hat sind es jetzt 1.6Gig. Heißt das daß mehr Leute die App benutzen oder das die Letzten die das tun vergrault werden sollen?<br> :date: __2021-05-02 10:50:08__
+
+> >2GB (Hintergrund)datenverbauch im Monat!?!? Wozu dass denn bitte??? Überlege nun ernsthaft den "Schrott" runterzuwerfen... :-(<br> :date: __2021-05-01 21:43:43__
 
 > Seitdem ich die App installiert habe verbindet sich Bluetooth nicht mehr mit meinem Auto. So ist es für mich leider unbrauchbar. Ansonsten kann ich nicht viel darüber schreiben. Hält sich schön im Hintergrund und tut (hoffentlich) was es soll. Hatte bis jetzt (GSD) keine Kontaktmeldung :)<br> :date: __2021-04-30 12:34:01__
 
@@ -248,10 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Okay<br> :date: __2021-02-06 14:13:44__
 
-> Habe sie fast nie ein geschaltet bin eigentlich fast immer zu Hause arbeiten du ich in der Schweiz drum Drau mich nicht Handy mit nehmen wegen teurer Rechnung im nicht EU Land<br> :date: __2021-02-04 18:45:52__
-
-> Hallo STOPP Corona App Programmierer! So kann das nicht funktionieren... ich denke, es müsste direkt positiv getestete Personen automatisch eingegeben werden! Nur so hätte die App einen Sinn.... Fg<br> :date: __2021-02-04 12:00:30__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> lt. app hatte ich kontakt mit einem positiven. hab bei 1450 vlbg. angerufen, die kennen die app nicht 😳 geh morgen wieder arbeiten.<br> :date: __2021-05-02 16:22:14__
+
+> Unbrauchbsr<br> :date: __2021-05-02 09:22:27__
 
 > Rosikokontakt erst nach 8 Tagen gemeldet. Wie kann so was passieren?<br> :date: __2021-05-01 20:39:16__
 
@@ -275,9 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Gut gestaltete App. Aber nach fast einem Jahr in Verwendung hat sie für mich nie einen Nutzen gezeigt. Ich wurde nie gewarnt über mögliche Kontakte. Auch nicht, als eindeutige Kontakte von mir positiv getestet wurden.<br> :date: __2021-04-18 22:28:10__
 
 > Ein Fortschritt! Es funktioniert zwar immer noch nicht (siehe Standort), aber ich erhalte jetzt einen Hinweis darauf, dass es nicht funktioniert! Gratulation! App verlangt Zugriff auf Standort, den ich aber aus grundsätzlichen Überlegungen nahezu immer deaktiviert habe. Fazit: Weiterhin unbrauchbar! 26.6.20 2 Handys liegen 30 Minuten nebeneinander, automatischer Handshake ist aktiviert, Bluetooth ist ein, aber sie erkennen sich nicht, auch nicht bei manuellen Start.<br> :date: __2021-04-16 15:19:38__
-
-> Nervig<br> :date: __2021-04-16 10:44:03__
-
-> 218 MB mobile Hintergrunddaten in 8 Tagen.<br> :date: __2021-04-09 11:35:36__
 
 

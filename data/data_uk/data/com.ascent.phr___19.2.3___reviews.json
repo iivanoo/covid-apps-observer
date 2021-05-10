@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOG1J2vDIJL1UNcIjn1mRLiNAjlLLCbU7hawHSuqS3qNBAXH6DNcs7vY7xoj0toS7g_AZ2e92QqgeE3eFQ",
+        "userName": "Himel Roy",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJydIbURu8xAGsgOe4jbS4FdQkKyPGeTR-qPE5JK=mo",
+        "content": "Nice app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.2.3",
+        "at": "2021-05-09 11:46:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHkSIcSCX9ZFx_6JwYFiIP-GtO7s0Z4vjOZN52Fcwjom3eui5veiiSCqvCVBl2f2VJoB05ZysPnLeFt_Q",
+        "userName": "Lyn Roseaman",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgsH97ceHlNwBryLKg2MXUG1B71ZdSAV4VyUnJ4dA",
+        "content": "Dreadful. It will let me in on laptop, but not on phone app. Wasted so much time. You could die waiting for the tech. What a dreadful state of affairs",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.2.3",
+        "at": "2021-05-04 16:15:41",
+        "replyContent": "I'm glad to see you have now managed to speak to one of our customer support advisors regarding this login issue. Don't hesitate to get in touch if you ever encounter any other issues.",
+        "repliedAt": "2021-05-05 16:53:29"
+    },
+    {
+        "reviewId": "gp:AOqpTOHfUV0xbkQpv8MqXLJn9XCrLh9km34v-CAr2IoUJY9SdyogZNhgAnG1As1BvUqwkBCY5CXwWqvR0YE2lw",
+        "userName": "Stephen Grubb",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwel4B2VGAb3qmC0p_YnUBDkiq-29PQEF76cwgB=mo",
+        "content": "excellent system",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.2.3",
+        "at": "2021-05-02 11:48:59",
+        "replyContent": "Thanks for taking the time to leave us a great review!",
+        "repliedAt": "2021-05-04 12:52:45"
+    },
+    {
+        "reviewId": "gp:AOqpTOHuUW-z47vAovEJESCOspiWpTfCk7Ifi5RA3xrWsd7Y7Bmr6RNaARHdg6Cbh-pc3gRh86kiyYvoXMeN5w",
+        "userName": "iam iam",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggkX-lroXlPxlc9ChmT_CaQtCJQL02GhFSepymlA",
+        "content": "This app is 10 times better than Patient Access. It's very interactive and keeps the user up to date in many areas like health and well being, including your rights as a patient to having access to your records.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.2.3",
+        "at": "2021-05-02 09:35:47",
+        "replyContent": "Thanks for the positive review! We love to hear that our users are getting the most out of the services we're providing. If you have any feedback or improvement suggestions, do let our customer support team know. You can email hello@evergreen-life.co.uk or call them on 0161 768 6063. We're always trying to improve on the functionality of the app.",
+        "repliedAt": "2021-05-04 12:52:29"
+    },
+    {
         "reviewId": "gp:AOqpTOERnaZUIzA5MhkBQN_akwmsEA7WFQcpUcSwjvGiTI6l-prNctAeVleyGjQdKF8BHH61sxeF4kie8pzR0g",
         "userName": "Rosalind Ripka",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzyUJWcyIl-LwQ0oy_XYf2iBTsrloaU4J0YVXxm=mo",
@@ -8,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.2.3",
         "at": "2021-05-01 09:48:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for the great review! We are hoping to see GP practices slowly turn their online appointment booking systems back on as we ease out of the current lockdown restrictions. Most practices are currently only offering telephone or online consultations until they have been advised otherwise.",
+        "repliedAt": "2021-05-04 12:50:34"
     },
     {
         "reviewId": "gp:AOqpTOGtrA0cvqQPVLvCBhOPHaDIr_SKO3NshVm5qCNf-ojBq7fJL658YFmB7pR9nxnmbloLlIGKZ0mm-btTmw",
@@ -509,7 +557,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8nCIUxows-ekEQtcRQ2loKVrTeUDCtdEiMcr1=mo",
         "content": "Good, but the app freezes quite a lot. The full DNA results actually caused more questions that couldn't be answered due to a lack of clarity in the original answers. The questions around daily health involve a community question and if you aren't community minded in their opinion your score hits the floor. People can be happy without being involved in community. I use it daily just to register my covid status. Would I be using it otherwise, probably not.",
         "score": 3,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "19.1.4",
         "at": "2021-03-21 11:53:58",
         "replyContent": "Thanks for the review. We often advise our users to share their DNA results with a professional in order to make the most of the results. For example a gym instructor may use the Fitness results to help design a bespoke workout plan for example. Your feedback comments regarding the \"community/wellness\" questions will be passed to our content team.",
@@ -7994,7 +8042,7 @@
     {
         "reviewId": "gp:AOqpTOEK5-kk0VM6KzMKIBxjza_FjTkYmQkpUiwbNGQvTCYIXOlUp3aFu2MrGFu7pMIbpNxJ46tNfEIQq6_Snw",
         "userName": "Darren Tobin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjU--jZAi87lIWqBkP31Fn0SDri3wOQd63ovvgcSA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDyZHTtwSt9r1cOtSZLzOhLf6VY87hCPah3mOgW4M",
         "content": "Very slow response. Biometric login has stopped working.",
         "score": 3,
         "thumbsUpCount": 0,
@@ -8834,7 +8882,7 @@
     {
         "reviewId": "gp:AOqpTOGJFGqL2P-pdNY8fqw4TOgp1zbQJ5iHg9PcU3op7ZSipdDR_Ci_LAKQ4LIkhixe-tW_xu97nOKBZRPhdg",
         "userName": "Alvaro A A Fernandes",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhibpAYFpBJ43D_nUp8-WXB3qZskpCUFNiEKcZx0A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_9uovOQruLMbbb2nE1AT7Z0OMjeb3IvGHkP1f1Sk",
         "content": "Worked well for all the needs I have had so far.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11950,53 +11998,5 @@
         "at": "2019-05-28 16:34:54",
         "replyContent": "Thank you so much for your review!",
         "repliedAt": "2019-06-07 11:21:15"
-    },
-    {
-        "reviewId": "gp:AOqpTOGlEHADyApJwydpEywDyfpre-re61gIAiOQtfVSziDAlFUWG7NxkTgDdAbPsSdyVEJMBWSQucH34lcodQ",
-        "userName": "Jennifer Jones",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggcd8uiCBOS3Fc6ceu_HvkVMR5scHvqLv46YVF5",
-        "content": "I can do all that I want to do although I had to reload a few times.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-05-28 11:33:02",
-        "replyContent": "Thanks for taking the time to write a review. We're sorry to read that you had to reload a few times. If this continues, we'd love to look into this for you. Please let us know via Hello@Evergreen-Life.co.uk",
-        "repliedAt": "2019-05-28 14:32:42"
-    },
-    {
-        "reviewId": "gp:AOqpTOHRdzl_0c21ogT5MJs5f6OLrb90VYIpQga6AOJUaCCGU-KAW7GEEZHF-KJgFlQTT4GVEpzo-hJ4iw7RnQ",
-        "userName": "Jane Murray",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxm8qmEgVZYvewKxFVARtwmbvTJVzJq7iBOW-QW=mo",
-        "content": "So far so good. 'once my prescription was listed as being able to be obtained by repeat ' this App now works for me.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-05-28 08:17:11",
-        "replyContent": "Thanks for the review. We're always looking for ways to improve the app; if you have any feedback of how we can reach 5*, we'd love to hear it. You can get in touch with us via Hello@Evergreen-Life.co.uk",
-        "repliedAt": "2019-05-28 14:34:31"
-    },
-    {
-        "reviewId": "gp:AOqpTOECghmt1i64Jo4eozimL3k7K6eUmCjcI25CMBQZkTptClNZmPIvMfOE4TmlPCwj7FMJQ0zlwl-uw8jACg",
-        "userName": "Paul Lewis",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7LFuFKT2r8Gi9gEOeiMdW0BQW17Zx64_KiSA4=mo",
-        "content": "very good",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-05-28 00:07:36",
-        "replyContent": "Thanks for the review, Paul!",
-        "repliedAt": "2019-05-28 14:34:41"
-    },
-    {
-        "reviewId": "gp:AOqpTOHYTNLXHHNXyloj5IUHlqD6G64WPJ_oywfPHETBxvSD-bkW9VbkLSwbCjEaSSefcfm9ZBK22EeoqudVlw",
-        "userName": "Gladys Kelley",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxK649ig0yTIRo1NA58vvflysJMxsJVxgL7RYw3=mo",
-        "content": "cool",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-05-27 15:19:09",
-        "replyContent": "Thanks, Gladys! We're happy to see you like the app :)",
-        "repliedAt": "2019-05-28 14:35:01"
     }
 ]

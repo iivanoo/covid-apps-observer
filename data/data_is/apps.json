@@ -4,7 +4,7 @@
         "store_country": "is",
         "store_lang": "is",
         "latest_crawled_version": "2.1.2",
-        "latest_crawl": 1619896413
+        "latest_crawl": 1620580012
     },
     {
         "id": "org.who.infoapp",
@@ -18,6 +18,6 @@
         "store_country": "is",
         "store_lang": "is",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1619896546
+        "latest_crawl": 1620580142
     }
 ]

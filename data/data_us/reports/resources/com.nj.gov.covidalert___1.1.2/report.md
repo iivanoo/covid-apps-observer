@@ -146,6 +146,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Easy to used. Informative and relevant; also reliable<br> :date: __2021-05-08 10:55:14__
+
+> Great<br> :date: __2021-05-01 20:19:48__
+
 > Excellent service<br> :date: __2021-04-25 19:37:31__
 
 > Never received an alert. Which is a good thing.<br> :date: __2021-04-25 01:26:57__
@@ -162,10 +166,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > In the year of the begin stroke and stage of covid it hands down help to get information and clear image a covid 19 wear and tear Thank you for the strong verification Ps Sylvester J Ali<br> :date: __2021-03-21 08:20:22__
 
-> It has check in every day and also has alerts if you have been near a person with Covid 19.<br> :date: __2021-03-19 12:19:46__
-
-> It's the best app and with very accurate information.<br> :date: __2021-03-16 22:58:35__
-
 
 
 #### 4-star reviews
@@ -173,6 +173,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
+
+> More and more people gets vaccinated; you should add this option to the app, too.<br> :date: __2021-05-03 22:23:34__
 
 > WATTS121353<br> :date: __2021-04-13 22:44:16__
 
@@ -192,8 +194,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > I like that you can take a moment to store daily check ups. SJZ<br> :date: __2020-12-11 19:49:58__
 
-> Informative<br> :date: __2020-11-30 11:57:38__
-
 
 
 #### 3-star reviews
@@ -201,8 +201,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
-
-> Stats aren't updated on any type of regular basis. For examples hospitalizations have shown 2281 for 2 weeks but it's been announced all week they are under 2000. Many other examples.<br> :date: __2021-04-24 14:15:01__
 
 > Need immunization stats too. Also where do I report "feeling ok but was in contact with a positive" If the goal is to cut spread YOU NEED THAT OPTION<br> :date: __2021-04-19 14:58:10__
 
@@ -221,6 +219,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > This app needs improvement. When you get an exposure alert it doesn't tell you the date of exposure, just that it was within the past 14 days. So you could already be out of the quarantine period or only need to test and isolate for a few days. Giving the date of exposure seems important.<br> :date: __2021-01-06 00:25:46__
 
 > Rite aid Cov 19 testing<br> :date: __2020-12-13 15:43:07__
+
+> I Certainly can't actually Rate something I just got.<br> :date: __2020-11-18 22:11:50__
 
 
 
@@ -258,6 +258,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> Work in ER, around Covid patients constantly. Never alerted once. So there is clearly not enough user base for this app to be effective.<br> :date: __2021-05-08 18:35:53__
+
+> Stats like deaths and hospitalizations hasn't been updated in a month or more. Other stats are sometimes days late. Information has become useless. What else does this do besides track us?<br> :date: __2021-05-03 19:32:07__
+
 > Will never alkow my gov. To put out that im sick with covid if i was thats not right and the person who develoved the app ahould ve fined<br> :date: __2021-04-28 14:02:32__
 
 > This app is becoming increasingly useless as the number of people getting fully vaccinated increases, and as it fails to gather vaccination data. IF THIS CONDITION CONTINUES, I'LL HAVE NO CHOICE BUT TO UN-INSTALL THIS APP. I SUGGEST THAT OTHERS DO THE SAME. I suggest changing the data that you gather to include: - vaccination info (if obtained, what type, when #1, when #2, etc) - positive/negative test results - self-reported symptoms. All the above can be very useful public health data.<br> :date: __2021-04-21 18:29:36__
@@ -273,9 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Don't work!! Just useless. Deinstalling.<br> :date: __2021-03-20 22:44:41__
 
 > Doesn't help where you can be vaccinated & when<br> :date: __2021-03-19 20:09:05__
-
-> Opt-Out<br> :date: __2021-03-19 00:51:00__
-
-> Uninstalling. Does not give exposure alerts. I did not update the app to say I had covid, but the state knows and called me. I don't get exposure notifications when I'm at my house. The whole reason I downloaded this was to be notified of possible exposure and I have never gotten a notification ever. Waste of time.<br> :date: __2021-03-18 07:41:20__
 
 

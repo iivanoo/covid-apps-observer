@@ -191,6 +191,10 @@ The Lafayette General Health Anywhere app has been installed by more than **5000
 <img src="5_star_reviews_wordcloud.png" alt="com.lafayettegeneral.android.lgmc.healthanywhere 5 reviews"/>
 </p>
 
+> Perfect quick AMAZING<br> :date: __2021-05-04 18:43:17__
+
+> Amazing app very thankful<br> :date: __2021-05-01 23:24:45__
+
 > I love not having to go in for common grievances.<br> :date: __2021-04-28 21:52:17__
 
 > They have better doctors and nurses here at lafayette general online than they do in person at the same place. She was very helpful and nice. I'll be following up with PCP soon for a referral to a GI specialist. This was very helpful especially since I got to do it at 10pm and not even have to get out of bed. I will say the audio cuts out a bit at times but it wasn't awful especially since I didn't have to go anywhere for it.<br> :date: __2021-04-06 05:11:31__
@@ -206,10 +210,6 @@ The Lafayette General Health Anywhere app has been installed by more than **5000
 > Love this app. It works really well.<br> :date: __2020-07-31 17:59:57__
 
 > Good<br> :date: __2020-07-31 15:24:04__
-
-> My experience was...The Best! No issues with sound etc.🙂🤗<br> :date: __2020-07-15 20:53:51__
-
-> Great!!!! Visit every time.<br> :date: __2020-07-13 21:35:11__
 
 
 

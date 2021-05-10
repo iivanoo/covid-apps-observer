@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHo961rkoCX_-U6-YPvx-oYabH-UwSuWHdfnFFy8zyyk9Rr0EnYradP74I4i5ZITG_E2Tu0yfq06d78DmE",
+        "userName": "Benaja Samedi",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjvab1l8Eh2UeuPwJUbtPKdeVwLIzShoUVLIpCQOHA",
+        "content": "I Love the convenience of this app. Love it. Beats driving and waiting in the office!!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-09 14:28:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE-zJ5UqT3pFVsaDrskWd3pBJQNRgJlc_G9-zi738jOXejHfjZ4P3eCmSawbv07xlZkwikGmB6D-5ADeRc",
+        "userName": "Dawn Phinisee",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyGjM1zed4kkOPLs9gFvx1klvpCw3_a1trRIhju=mo",
+        "content": "Y'all did a wonderful job with my kids",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-04 21:03:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHHsWH9rVj8ap_Za438iQ36R4hlDXbB8LS37u5NtpT1372BTOkioOBmzC_R00MY0yw3r1NlxYxNM9B--zY",
+        "userName": "Julia Fiorillo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GisQ0q0v56SsY46xZZqodamrklrproPjSeDKEPzRQ",
+        "content": "Great app. Quick and convenient!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-04 02:14:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOElR0jQihOzALFQv2rGkU_QJ--h3dtaYV9oN_jdRooSJfxayUUvsKRzHee_funpAl3U7dfNcc8RKP90f0Y",
         "userName": "Priscila Jackson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzL_aDjRefaTjroVDFHKXFlLh3YRMOU2ww824Hmg",
@@ -17,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicLh6ED9WUCqhpxsXgXGPHi1ExfoDdQ6za43To6Q",
         "content": "This is the first time I used the app. It's having a doctor visit in the comfort of the home. I'll definitely be using this way more often from now on.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-04-20 19:11:54",
         "replyContent": null,
@@ -4214,7 +4250,7 @@
     {
         "reviewId": "gp:AOqpTOERn30ZOTZH-hWpB2r28xMmF1Hv6AH4NiGBpGr2sIChwlrpsuPKpLvh-2j7y7uIUtDmJU-KaT5IPIPf5_s",
         "userName": "Jane Savage",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6omBq02WfdEJXbdtiNTCzyUtp4GJK1BXHzSHC2g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOuiB5vtwx1xSZFgL8971LxG_GNDjpzu9BZuPFzw",
         "content": "Great Experience! Very convenient and perfect for those without transportation \ud83d\ude4f",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5820,6 +5856,18 @@
         "repliedAt": null
     },
     {
+        "reviewId": "gp:AOqpTOGION33XfWS_cjwaE1vJYPl7Hm2Wdus0NsXz14ZSy6nHxY4RQD099OncyKH1CzHsPp6xOeT706EK-KBfjY",
+        "userName": "Willetta Mckinzie",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiAHoOW1JA1lfEKe-QfVShKwlydWAx5wY1lNSghvQ",
+        "content": "Used this service 3 times so far. Never had a problem, video quality is great, the Doctors seemed polite, and everything went smooth sailing! I highly recommend!",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "11.3.1.006_10",
+        "at": "2019-04-16 19:51:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGrwBqJxu0DXb98vv0UHvoV1rBeVEXx9a3BA0wGY-2N0-xC1r093fIJ4LVHgcpAZQh3R0siLlR7jVCGs_Q",
         "userName": "Mimi Ledesma",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKZkyruPUtEjBgguIdQpVSSrXcchLlknY-COyTTHU",
@@ -6277,7 +6325,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGzbL-G6yYI0EEtdqa00m3ullJiJI3kajtPgnk8TBXrN3AoSzCOe116DqSJy242GBQSphtR-eJ6APlZU1g",
-        "userName": "Nayed312",
+        "userName": "NayedMusic",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfuKAeDGe0RDft2ABNEt0jIyOhd8y1P0zXcfU8UWI",
         "content": "l was not able to see the doctor at all, but she was able to see me.",
         "score": 3,

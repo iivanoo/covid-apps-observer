@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Great program, changes how I do my medical visits especially when I can't get in to my regular DR Updated review 5/7/21... Actual Android app continues to have issues loading so I end up uninstalling and reinstall to use it<br> :date: __2021-05-08 21:44:13__
+
+> This is a godsend thank you for creating this app.<br> :date: __2021-05-07 16:12:03__
+
+> So convenient love this option<br> :date: __2021-05-06 20:37:44__
+
+> Very comfortable experience.<br> :date: __2021-05-06 19:15:54__
+
+> Great a bit of volume issue unable to hear the Doctor very well but overall good, clear and safe.<br> :date: __2021-05-04 22:41:54__
+
+> Very awesome to use<br> :date: __2021-05-04 22:06:11__
+
+> Always an awesome experience<br> :date: __2021-05-02 04:02:19__
+
 > So far, so good! This app is super convenient and I haven't had any issues.<br> :date: __2021-04-30 20:47:33__
 
 > Works perfectly<br> :date: __2021-04-30 17:06:28__
 
 > Great service.<br> :date: __2021-04-29 17:31:37__
-
-> Fast easy<br> :date: __2021-04-27 19:08:34__
-
-> Excellent<br> :date: __2021-04-26 21:20:32__
-
-> A normal dr visit would take 60 mins of driving, another 60 in the waiting room. Another 30 for dr. My visit now was 1 minute downloading, 2 mins in virtual waiting, and 5 mins with the dr. Great app!<br> :date: __2021-04-21 21:24:38__
-
-> This is an amazing Convenient and Useful Way to Get medical attention 24 hours A-day For myself and my children I would have never ever thought I would use something of the sort to get medical attention Have you seen this service multiple times for myself I also use the service for my two-year-old Baby. and after my visit For myself and my baby I felt satisfied my medical Needs were addressed And properly Cared for and my Prescriptions were sent to the pharmacy of my choice. THANK YOU!<br> :date: __2021-04-21 00:21:55__
-
-> I wish we could of done this sooner.<br> :date: __2021-04-16 20:05:51__
-
-> Great program, changes how I do my medical visits especially when I can't get in to my regular DR<br> :date: __2021-04-15 01:32:24__
-
-> Easy fast and very professional<br> :date: __2021-04-14 02:19:01__
 
 
 
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Very efficient and great medical staff.<br> :date: __2021-05-03 23:07:17__
 
 > The provider was really, polite and me meds to get rid of my bronchitis. Which I'm use to getting. It was a little bit if a wait but you don't even need to leave your house except to pick up your meds. The streeming was a little in and out but we could comunicate<br> :date: __2021-04-30 07:58:58__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Except for freezing a little , it was usefull<br> :date: __2020-12-30 20:40:03__
 
 > Great app<br> :date: __2020-12-03 23:06:26__
-
-> Good<br> :date: __2020-11-25 17:29:06__
 
 
 

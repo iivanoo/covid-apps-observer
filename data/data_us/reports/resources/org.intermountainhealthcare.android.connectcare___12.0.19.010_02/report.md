@@ -189,6 +189,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Provider was knowledgeable and kind. And she was very helpful and quick. She gave me all the follow up advice and answered my questions. She prescribed me a medication that should help me to get better soon. Thank you!<br> :date: __2021-05-02 06:08:11__
+
 > Very useful app! Would recommend if you need a quick chat with a specialist! Much love to all the male/women doctors helping those in desperate need of medical advice as well as helping cope with there medical issues!! It's a must download so people what ever it is that's keeping you from using this app forget about it and download this fantastic app!!!! ❤️<br> :date: __2021-04-26 11:06:07__
 
 > Quick and easy. Great experience. Thanks<br> :date: __2021-04-24 19:15:14__
@@ -206,8 +208,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Intermountain Healthcare is awesome.<br> :date: __2021-03-11 22:46:59__
 
 > The absolute best doctors visit I have ever had. Easy to set up, easy to schedule, easy to chat and explain my symptoms. Instead of the minimum 1 Hr. Round trip (realistically 2 Hr.) To the office to be told the same thing from login to logout was 12 minutes! You do not have to be tech savvy to use this it walks you right through the steps and don't worry if you don't have a computer or laptop you can use your smart phone . Rest assured it's an absolute delightful experience.<br> :date: __2021-02-18 23:30:56__
-
-> So Easy, Helpful and I felt comfortable. Loved the physican I was able to pick. Helped me, understood, professional and friendly. Took the time to really look at my records and ask questions. Perfect all around. I highly recommend.<br> :date: __2021-02-16 00:38:58__
 
 
 
@@ -301,6 +301,12 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="1_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 1 reviews"/>
 </p>
 
+> I have very painful ears that won't let me sleep and you don't treat ear infections?! Wow.<br> :date: __2021-05-09 13:25:20__
+
+> 90 percent of the time they won't treat you. What's the point of this app?<br> :date: __2021-05-08 18:39:14__
+
+> I cannot register with their service due to my legal home address having a 1/2. Their address verification blocks my use of their service. This is rather rediculous.<br> :date: __2021-05-03 04:49:15__
+
 > Very poorly designed app<br> :date: __2021-04-17 18:08:38__
 
 > Terrible. 1. Never has one of my kid's result. 2. My wife can see results for some kids and I can't, we are bot linked to all 4 kids. 3. Single sign on is atrocious. 4. Once logged in, half the time it just spins and never loads results. It took 20 minutes from text message to loading of my results, and yes, I had the correct password stored on LastPass, it was just spinning post login and taking forever.<br> :date: __2021-03-04 15:50:43__
@@ -314,11 +320,5 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > It wouldn't accept passwords from two different accounts. Connected to internet too.<br> :date: __2020-11-24 07:29:04__
 
 > Unable to enter insurance into BLUE CROSS BLUE SHIELD not on provided list Unable to edit out mistaken insurance. I have limited computer skills. Filling out the other info was a waste of time.<br> :date: __2020-11-13 03:48:34__
-
-> This app is garbage and so is the desktop version. I've been waiting an hour and a half and it just keeps glitching and kicking me out of my spot in line. It gave the option to connect with the provider by phone call instead, so I hit that option and still nothing. No call. No video appointment. Nothing. Guess I'll get dressed and have my hubby take me to the instacare instead. I better not get billed for this.<br> :date: __2020-11-10 21:43:07__
-
-> Third appointment on connect care third time that the app will not work.<br> :date: __2020-10-14 17:26:00__
-
-> Installed just to check a covid test result. I see no way of doing that. The only thing I see is how to make an appointment. What a waste if time.<br> :date: __2020-10-02 16:35:27__
 
 

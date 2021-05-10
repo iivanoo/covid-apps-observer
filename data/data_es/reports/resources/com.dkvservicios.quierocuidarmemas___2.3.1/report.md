@@ -217,6 +217,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Es un buen seguro pero a veces las clínicas con cobertura no dicen que hay que pagarle algo aparte de la mensualidad .contenta<br> :date: __2021-05-06 23:17:56__
+
 > Todo perfecto<br> :date: __2021-04-22 12:13:29__
 
 > Buenísima médicos buenísimos<br> :date: __2021-04-16 19:14:47__
@@ -234,8 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Muy bien , todo perfecto ... hE querido hablar con un médico en el chat para una consulta y antes de 5 min ya me habían contestado , no llevo mucho con la app pero el tema de la carpeta médica , las recetas electrónicas y la atención recibida a sido perfecta<br> :date: __2021-03-19 20:25:17__
 
 > Buena aplicación<br> :date: __2021-03-18 15:58:52__
-
-> Muchas gracias por su atención desearía continuar con usted, muy amable,,,<br> :date: __2021-03-15 12:59:01__
 
 
 
@@ -321,6 +321,10 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> No funciona!! Introduces tus datos y no se ve nada más!! Gracias pero mí nombre y apellidos ya me les sé,no necesito una app de salud de pago qué no funciona!! Cero!!<br> :date: __2021-05-06 17:23:22__
+
+> Esta aplicación no funciona un mero desastre, no sirve para nada<br> :date: __2021-05-04 11:38:58__
+
 > Se sigue accediendo fatal, incluso con la opción de la huella activada pide contraseña. todo son errores con la contraseña... el cuadro médico de Valencia no está actualizado. Sólo sale uno de los 10 cirujanos disponibles para DKV en el IMED...<br> :date: __2021-04-22 22:02:54__
 
 > Malisimo no, lo siguiente pedí una cita con pediatría para mi hijo y hoy que fui a la clínica resulta que esa doctora hace 3 años que se fue a vivir a otro pais<br> :date: __2021-04-19 14:23:11__
@@ -335,10 +339,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 
 > No sirve para nada. No puedes pedir cita ni aparecen las que pides por teléfono pese a estar vinculado a tu póliza. Totalmente inútil.<br> :date: __2021-04-01 09:34:55__
 
-> Si el centro médico no fuera Policlínica la línea .afecta a vuestro seguro famedic<br> :date: __2021-03-28 11:28:40__
-
 > No sirve para nada. No la actualizan en absoluto. Mi médico se jubiló en noviembre y aún aparece en el cuadro médico. Además ya van 3 veces que he preguntado por otros profesionales y algunos han cambiado de especialidad y otros ya no visitaban en el centro en el que aparecían. Y por si fuera poco en la mayoría de los casos no se puede pedir cita online (aún siendo de un centro dkv). Penoso.<br> :date: __2021-03-22 17:33:19__
-
-> Esta gente son unos sinvergüenzas, te dan de prueba 12 días. La primera consulta me la dieron a los 26 días y VI que no cumplen lo que contratas y he tenido que pagar un año por la cara. Y para darme de baja he tenido que denunciar<br> :date: __2021-03-22 11:33:54__
 
 

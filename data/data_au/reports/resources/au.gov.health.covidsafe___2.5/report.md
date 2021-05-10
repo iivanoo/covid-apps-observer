@@ -134,25 +134,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Easy to use<br> :date: __2021-05-01 14:04:49__
+> Very easy to use and full of pertinent information.<br> :date: __2021-05-08 08:38:54__
 
-> We<br> :date: __2021-05-01 07:21:45__
+> Helping community<br> :date: __2021-05-07 12:11:40__
 
-> Feel safe ,04/21 Had astro Seneca jab slight headache ist day tip of nose dripping 2nd day .After jab had energy I saw freedom and hope for for all our neighbours,I trust all the Worlds Scientists that make the vaccines and health ministers only ,my next astro Seneca jab is June Then long term protection is done.take care godbless .🌈👪🌅⛑️🎁🙋✨🌼<br> :date: __2021-05-01 05:23:39__
+> Good<br> :date: __2021-05-06 22:49:37__
 
-> Good<br> :date: __2021-04-30 12:11:51__
+> It helps you knoe more about covid. Really informative<br> :date: __2021-05-06 09:30:05__
 
-> It is important to have a state and national approach to this pandemic.Better to have this in place, rather than nothing set up. Keep everyone safe.<br> :date: __2021-04-30 05:28:06__
+> Keeps me informed.<br> :date: __2021-05-06 09:16:46__
 
-> All good easy<br> :date: __2021-04-30 05:10:13__
+> Very nice to see incremental improvements. I still remember people mocking it in the beginning days that it won't work. It is an awesome app that evolved so quickly & I 💚 it.<br> :date: __2021-05-06 06:34:09__
 
-> App now working for me<br> :date: __2021-04-30 00:30:59__
+> No trouble. I have a Samsung phone<br> :date: __2021-05-06 06:22:34__
 
-> Feel safe with covidsafe app<br> :date: __2021-04-29 21:10:16__
+> Easy to install and access providing clear current updates<br> :date: __2021-05-05 21:32:21__
 
-> It's been there helpful in my travel plans<br> :date: __2021-04-29 00:55:51__
+> Uu<br> :date: __2021-05-04 11:44:42__
 
-> Easy to use.<br> :date: __2021-04-28 12:23:20__
+> It is fast and efficient.<br> :date: __2021-05-04 07:01:44__
 
 
 
@@ -162,6 +162,18 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
+> I can easily access information about the covid-19.<br> :date: __2021-05-09 12:25:58__
+
+> I like the way it stays active on my phone while I'm out shopping<br> :date: __2021-05-09 03:11:58__
+
+> Missing a QR code scanning tool<br> :date: __2021-05-06 05:36:09__
+
+> Never had an issue. Gives me peace of mind.<br> :date: __2021-05-04 05:26:40__
+
+> Good<br> :date: __2021-05-03 10:57:05__
+
+> Do yourself a favour, download the app. Better to be safe than uninformed and sorry. Stay well.<br> :date: __2021-05-02 14:26:03__
+
 > b0<br> :date: __2021-04-28 09:37:29__
 
 > Arexff<br> :date: __2021-04-28 02:08:56__
@@ -170,18 +182,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Satisfied<br> :date: __2021-04-26 01:21:15__
 
-> Turn it on when I leave the house. Can't have it on at home because partner also has his turned on and it kills my battery constantly connecting the two of us. Turning it off means I cant use anything that needs bluetooth. Should be able to tell it when your home and to stop connecting with someone else in your home so you can have it turned on without killing your battery<br> :date: __2021-04-25 09:08:10__
-
-> Useful information but would be better if had relevant vaccination details ie where you can get vaccinated how when etc.<br> :date: __2021-04-25 04:22:27__
-
-> None yet<br> :date: __2021-04-24 08:04:39__
-
-> Just runs in the background, great little app for tracking your movements to ensure you are alerted if a covid victim has been in your vicinity.<br> :date: __2021-04-23 16:22:37__
-
-> Good<br> :date: __2021-04-22 02:36:19__
-
-> Easy to use and appears to be ok.<br> :date: __2021-04-22 01:58:13__
-
 
 
 #### 3-star reviews
@@ -189,6 +189,14 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
+
+> too much power<br> :date: __2021-05-09 12:22:33__
+
+> Was good until battery usage went through the roof.. uninstalled it....<br> :date: __2021-05-04 23:26:14__
+
+> Good so far<br> :date: __2021-05-04 04:34:31__
+
+> It has never reported anything.<br> :date: __2021-05-02 10:48:28__
 
 > Not sure it is working<br> :date: __2021-05-01 11:48:40__
 
@@ -202,14 +210,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > A failure, due to insufficient uptake! Hey, fools, THIS APP DOES NOT TRACK YOUR MOVEMENTS!! You can easily verify this with Settings/Location/Recent. What's your excuse for not using the app now, you idiots? Also, you can force stop the app when not in use to help prolong battery life...<br> :date: __2021-04-26 11:33:22__
 
-> Average<br> :date: __2021-04-26 09:51:55__
-
-> I like how this keeps you safe from covid. I do wish it had covid testing where you put your finger on the screen and tells you if you have covid.<br> :date: __2021-04-24 16:05:28__
-
-> What I don't understand is why are there separate check in Apps should they all link?<br> :date: __2021-04-23 14:33:35__
-
-> Easy, must say... .<br> :date: __2021-04-23 09:01:43__
-
 
 
 #### 2-star reviews
@@ -217,6 +217,12 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> This version consumes way too much battery. Last night it used half my battery in 7 hours. If this is not fixed, I might have to uninstall it. Edit: the latest version is better on a phone restart, but slowly consumes more battery over time, until it drains most of my battery in a few hours.<br> :date: __2021-05-07 01:50:13__
+
+> Had no issue with this being a background app until it started draining my battery after the last update. Great concept but given that nobody uses this app it's an absolute dud.<br> :date: __2021-05-04 00:33:59__
+
+> Pop down selections for state don't work. You have to hit home go get out, which may of may not work. Don't use device back buttons or you could end up in trouble. Have had the app since in inception so was notified of availability of update, which I did only to get a big red warning flag that my registration had elapsed and I had to step through a bunch of steps to add personal data. Why wasn't I notified separately. Clunky awkward app.<br> :date: __2021-05-02 04:26:03__
 
 > I iPhone to see the money in the bank not it's been 4 years stop dragging<br> :date: __2021-05-01 07:23:23__
 
@@ -232,12 +238,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > The new update drains my phone battery. I charged before I slept and it went from 100% to 46% overnight. I've removed the app<br> :date: __2021-04-24 07:41:57__
 
-> A wasted opportunity. This app should have included a single consistent venue registration system and give feedback to tbe users about how many/new contacts they are accumulating, so that we can improve our social distancing.<br> :date: __2021-04-23 10:33:01__
-
-> As much as I like the idea of this app, it started using a lot of battery recently. Uninstalling.<br> :date: __2021-04-23 08:17:27__
-
-> I don't see the point. Only works if I activate it and sorry but that's not always the most important thing I think of when out and about. Would be useful if always activated!<br> :date: __2021-04-21 13:14:51__
-
 
 
 #### 1-star reviews
@@ -246,24 +246,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> It doesn't do anything!<br> :date: __2021-05-01 12:45:54__
+> I up dated this app as requested and it hasnt worked since.<br> :date: __2021-05-09 17:24:28__
 
-> It was ok, but since last update started eating my battery, which is the one thing an app like this should absolutely avoid. Uninstalled.<br> :date: __2021-05-01 05:26:13__
+> Massive battery drain. Only 8 hrs after taking it off charge, battery usage shows 59.8% to the COVIDSafe app, draining it down to 23%. Whatever changes the last update made has made this app useless. And it still disrupts streaming music via Bluetooth. 8/5/21 App still drains a huge amount of battery life. Sitting at home, app shows battery usage 65%, after 8 hours off charge and drained my battery to 1%. Absolutely shocking usage for just sitting on my desk doing nothing.<br> :date: __2021-05-08 12:23:19__
 
-> Other than wasting tax $$, this app didn't achieve anything on a federal level and on a personal level it simply drained my battery.<br> :date: __2021-04-30 16:00:15__
+> Mmm<br> :date: __2021-05-08 10:10:29__
 
-> Drains battery since latest update<br> :date: __2021-04-30 15:09:00__
+> Waste of money<br> :date: __2021-05-08 09:13:43__
 
-> Doesn't seem to be able to trace very well..<br> :date: __2021-04-30 08:22:49__
+> Waste of effort<br> :date: __2021-05-08 05:59:30__
 
-> Total waste of time, does nothing.<br> :date: __2021-04-30 07:00:06__
+> The battery drain is just too much. Just running in the background while I sleep it's used over 20%. There's been enough time to address the problem, not putting up with it any more and I don't really have the time to charge my phone several times a day! Also given that we're actually signing in everywhere in addition to this... seems a bit pointless. Uninstalling.<br> :date: __2021-05-08 01:48:45__
 
-> What experiance<br> :date: __2021-04-30 04:12:58__
+> Please resolve battery drainage issues - app now uses 28% of my battery in a day.<br> :date: __2021-05-08 01:40:52__
 
-> Uses too much processor<br> :date: __2021-04-29 09:53:07__
+> The results speak for themselves how many cases has this app solved.<br> :date: __2021-05-08 00:15:18__
 
-> Dosent work<br> :date: __2021-04-29 09:24:07__
+> Uninstalled due to high battery use, again.<br> :date: __2021-05-07 14:39:53__
 
-> Waste of space<br> :date: __2021-04-28 23:55:42__
+> 24 hours behind<br> :date: __2021-05-07 10:41:56__
 
 

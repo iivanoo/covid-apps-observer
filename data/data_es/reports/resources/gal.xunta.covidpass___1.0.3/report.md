@@ -285,6 +285,12 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> Ten bastantes errores que o final crean confusión<br> :date: __2021-05-09 08:54:14__
+
+> El contenido de la información está en galego y en inglés... pero en castellano no<br> :date: __2021-05-09 01:15:01__
+
+> non está actualizada, polo cal non sirve para nada, miras ó que podes facer e enganate, hoxe pon que ó horario de cerre na hosteleria é ás 9:00, cando é ás 23:00, e así ó demais, unha pena como casi todo ó que xestiona a xunta<br> :date: __2021-05-08 14:40:40__
+
 > Le daría un 5 si no fallase en lo básico que es mantener correctamente actualizadas las restricciones. En el caso de reuniones entre no convivientes en domicilios la información contradice al DOG, específica "Só conviventes en espacios privados" cuando desde este sábado quedó restaurada esta restricción limitando a 4 personas en espacios cerrados sean públicos o privados. Es bastante problemático estar actualizado con todos los cambios que se producen como para generar más confusión con la app.<br> :date: __2021-04-12 07:56:58__
 
 > Tras a última actualización non funciona o lector QR (quedase en negro) Teléfono PocoX3. A aplicación ten permiso de acceso a cámara. Tendes algunha solución?<br> :date: __2021-04-04 11:35:37__
@@ -298,11 +304,5 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > Porque quereis acceder a contenidos de internet? Mientras no saqueis ese requisito mucha gente, no aceptara<br> :date: __2021-03-04 19:54:38__
 
 > Non é mala, e peor. Información errónea. Non está actualizada. Solicita accesos como os contactos do teu teléfono sin ningún sentido. A quen lle ten que entrar sentidiño e a Xunta de Galicia. Máis trabas para a hostelería, menos privacidade para a sociedade.<br> :date: __2021-03-04 10:43:29__
-
-> Otra traba inútil para dar problemas a la hostelería. Voluntario para el cliente, obligatorio para el hostelero, otro sinsentido más.<br> :date: __2021-03-03 12:25:21__
-
-> No sirve para nada, además aunque la configures en castellano sigue poniendo todo en gallego , muy útil para turistas y todos los castellano parlantes.<br> :date: __2021-02-26 08:03:05__
-
-> Sin comentarios<br> :date: __2021-01-16 12:21:58__
 
 
