@@ -139,6 +139,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> but yea m<br> :date: __2021-05-13 02:04:43__
+
 > Easy to use, watch you don't have your VPN switched on or it doesn't take any readings, wouldn't know it was working behind the scenes to help protect Scotland<br> :date: __2021-05-01 22:05:02__
 
 > Great app 1st thing I added to my account well done,🌞🌈<br> :date: __2021-04-29 00:06:05__
@@ -156,8 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > We r so Greatfull for the NHS AS IF IT WASN'T FOR THEM AN CARRIERS AND THE ONES WE DONT TALK ABOUT THEY ALL R AMAZING AN US THE GRAYS MUST BE SPEAKING FOR MILLIONS 💓💓 WE THANK U SO MUCH AN THEN SOME FOR EVER IN YOUR DEBTS XXXX<br> :date: __2021-03-23 16:35:15__
 
 > Excellent<br> :date: __2021-03-23 13:19:09__
-
-> If people are putting in positive results, then why are they out and not self isolated at home? If my app says I've been in close contact then the person who put there positive results in are out and about. Not the apps fault that's why I gave it 5* people just don't care they can potentially kill another person....<br> :date: __2021-03-22 04:08:30__
 
 
 
@@ -251,6 +251,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> I've never been able to use this app, as it's incompatible with phones made before ~2017, which is quite disgusting given the reason for its existence.<br> :date: __2021-05-13 17:33:32__
+
 > Don't think this app works as good as it does any more. When I used to switch off Bluetooth I got a notification now it doesn't do anything<br> :date: __2021-04-28 18:13:57__
 
 > Waste of time<br> :date: __2021-04-27 14:25:19__
@@ -268,7 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > According to covid exposure checks in settings the app did three checks between launch and November Reinstalled app in November, it hasn't carried out one single check since!<br> :date: __2021-03-24 03:50:19__
 
 > Shite<br> :date: __2021-03-21 01:57:25__
-
-> What an incredible way of wasting billions of tax payer money.<br> :date: __2021-03-19 11:35:17__
 
 

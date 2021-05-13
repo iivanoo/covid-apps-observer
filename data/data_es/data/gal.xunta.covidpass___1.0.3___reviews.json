@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHuqcJQj0zJ1NnO_3m64fANjDMCaL2r9eWlltUaPpvSu8T4kbzh3PsAUrGFJZlUfBxAxVDnqTWFoTWMRQ",
+        "userName": "Juan Antonio Gomez Nu\u00f1ez",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijsUkt8E3Hk2TgRIPEcFZ1G7fMd9scAMef3gJaSg",
+        "content": "Pasa a estado an\u00f3nimo constantemente.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-05-09 20:00:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHJPB_63ZNRU7kc3tx30-bEuj5VZkutV-ToIhRwhKzO1xHAJyldtG_8FgFNpLSX6Af2ugzsqMmjkR0q8Q",
         "userName": "Jaime Rodriguez",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysNmuIvI3-ivs-Y0ziLOcj0UQTxwlfx3rp6Ylg=mo",
@@ -245,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi27m9UWTvhyOPbD4grgvM5YvicEsQNs66S4o-5WCA",
         "content": "En Lugo, seg\u00fan la aplicaci\u00f3n el interior de los locales de hosteler\u00eda CERRADO, cuando seg\u00fan el DOG tambi\u00e9n en interior al 30%. Y los establecimientos NO TIENEN C\u00d3DIGO QR que escanear. Ni cafeter\u00edas, ni supermercados, farmacias, bancos, ferreter\u00edas, tiendas de ropa....",
         "score": 2,
-        "thumbsUpCount": 38,
+        "thumbsUpCount": 39,
         "reviewCreatedVersion": "1.0.3",
         "at": "2021-02-27 09:00:56",
         "replyContent": "Buenos d\u00edas, agradecemos su comentario. El registro de estancia en establecimientos debe hacerse con un QR espec\u00edfico para PassCOVID que podr\u00e1 encontrar en los carteles con el t\u00edtulo \u201cEstablecimientos con Sentidi\u00f1o\u201d. Le animamos a mantener la aplicaci\u00f3n siempre actualizada. Muchas gracias por su colaboraci\u00f3n.",
@@ -697,7 +709,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHJRB0mclo2G_JMvO5VVXa2go2wAQAVGR4xVJnuN9rUMOrbdAHd0ktLPTUqeDHNYuKxrc82IX9hrFW_9A",
-        "userName": "EVA VIDAL SOBRADELO",
+        "userName": "Yo Misma",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxqdTMinMxL9f-2GebJwl2Dw_Qs1m6-2LtOiD2f=mo",
         "content": "An\u00f3nima si, pero teslle que conceder permiso ata para acceder \u00e1 axenda do tel\u00e9fono...!! Desinstalada antes de acabar de instalala.",
         "score": 1,

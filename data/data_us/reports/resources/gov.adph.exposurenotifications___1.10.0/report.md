@@ -259,6 +259,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 1 reviews"/>
 </p>
 
+> App does absolutely nothing except use battery. I understand that people have to identify themselves, but no one does which make the app pointless, unfortunately.<br> :date: __2021-05-11 05:39:50__
+
+> Waste of time and space. It just never took off.<br> :date: __2021-05-10 06:59:54__
+
 > I tested positive for Covid-19 on February 12, 2021, too bad this stupid app will only allow users to report they tested positive as far back as March 17, 2021! How useless is that! Covid can & DOES stick around in SOME people (such as myself!) for longer than one month which is as far back as this app's devs think anyone using it could've POSSIBLY tested positive - because everyone KNOWS Covid has only been around for the past month, right devs?! If that is so screwed then whole app's FUBARED!!<br> :date: __2021-04-15 04:56:38__
 
 > Stop spamming me about the Asian flu. I don't want your app so stop telling me to download this<br> :date: __2021-04-13 19:18:38__
@@ -274,9 +278,5 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Dont need a app to tell when someone is sick<br> :date: __2021-03-23 15:37:09__
 
 > i want to install it 😭 but i dont have gigabites and i only have 1 app installed so sad<br> :date: __2021-03-02 23:08:46__
-
-> Doesn't work just opens to an arrow and sits there.<br> :date: __2021-03-02 04:40:04__
-
-> Absolutely cringe<br> :date: __2021-02-25 19:52:40__
 
 

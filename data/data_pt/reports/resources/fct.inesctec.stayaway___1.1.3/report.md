@@ -137,6 +137,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Muito fixe a app period ;)<br> :date: __2021-05-09 19:09:48__
+
 > É uma boa ideia...se funcionar bem e for eficas... Porque nao , instalar...é mais uma forma de nos protejer-mos...A TODOS DESEJO MUITA SORTE E SAÚDE... OBRIGADA PELA AJUDA...<br> :date: __2021-05-05 19:46:02__
 
 > AMEI, ÓTIMO TRABALHO, COMO SEMPRE!<br> :date: __2021-05-02 15:13:32__
@@ -154,8 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Gostei<br> :date: __2021-04-21 14:00:59__
 
 > Muito pouca<br> :date: __2021-04-20 15:22:38__
-
-> Toppp<br> :date: __2021-04-19 14:54:08__
 
 
 
@@ -249,6 +249,14 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Que vergonha não queiram fazer testes unitários para a próxima....<br> :date: __2021-05-12 12:25:15__
+
+> Não funciona por culpa dos médicos<br> :date: __2021-05-12 11:02:56__
+
+> Tive covid e a polícia parou me e fez me um belo do São do bom e do local broche<br> :date: __2021-05-11 23:31:29__
+
+> Não houve por parte das entidades oficiais, uma campanha séria e informativa sobre a sua eficácia e potencial. Muitos poucos códigos gerados e intruduzidos reforçam a ideia que esta app não serve para nada.<br> :date: __2021-05-11 11:29:54__
+
 > Desinteressante<br> :date: __2021-05-09 17:50:59__
 
 > Lixo<br> :date: __2021-05-08 00:29:20__
@@ -260,13 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Até agora nada<br> :date: __2021-05-03 14:36:04__
 
 > Meu pai e mãe positivos, 3 vizinhos do prédio positivos, nenhum recebeu código, em 5 casos conhecidos por mim, 0 códigos, palhaçada, foi bom para encher os bolsos ao programador.<br> :date: __2021-05-01 13:44:51__
-
-> Irineu vc num sabe nem eu<br> :date: __2021-04-30 08:32:04__
-
-> Ridiculle<br> :date: __2021-04-29 11:30:28__
-
-> Trabalho num hospital público com contacto diário com centenas de doentes infectados com COVID19. Uso a APP desde o primeiro dia em que saiu. Até hoje nunca fui alertado pela APP. Como explicam isto???<br> :date: __2021-04-28 09:21:15__
-
-> Esta aplicação não tem muito sentido, uma vez que quaze ninguém a usa, e mesmo dos que usam, se tiverem o covid só colocam o código se quizerem.<br> :date: __2021-04-26 16:26:15__
 
 

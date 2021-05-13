@@ -189,6 +189,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> App funzionale, suggerisco aggiungere anche la localizzazione per avere la possibilità di essere aggiornati in tempo reale sulle allerte nella esatta posizione in cui ci si trova<br> :date: __2021-05-12 13:10:22__
+
 > È sempre andata bene, da un po' di tempo escono le notifiche ma non apre la APP. Alzo il punteggio a seguito della risposta dello sviluppatore<br> :date: __2021-05-07 12:55:17__
 
 > Ok:risolto con altro update dopo 14gg-Era molto bella, aveva una cartina con l'evoluzione nel tempo ma una cosa pubblica non poteva essere bella o utile, quindi qualcuno è intervenuto e ha fatto diventare la semplice cartina una lista di codici tipo "pianura centrale IM10" "nodo idraulico Milano IM09" di cui nessuno che non lavori in regione sa confini o posizione, con tabelle illeggibili. Non trovo modo di riavere la cartina o l'impegno che hanno messo nel nasconderla supera la mia pazienza. :(<br> :date: __2021-05-01 16:17:27__
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Migliorata molto<br> :date: __2021-04-19 20:41:19__
 
 > Molto utile<br> :date: __2021-04-19 18:40:46__
-
-> Ok<br> :date: __2021-02-27 12:18:08__
 
 
 

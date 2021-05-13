@@ -11,14 +11,14 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1620571737
+        "latest_crawl": 1620919944
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1620571745
+        "latest_crawl": 1620919948
     },
     {
         "id": "fr.aphp.covidom",
@@ -32,7 +32,7 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1620571779
+        "latest_crawl": 1620919990
     },
     {
         "id": "fr.gouv.android.stopcovid",
@@ -46,21 +46,21 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "Varie selon les appareils.",
-        "latest_crawl": 1620571904
+        "latest_crawl": 1620920133
     },
     {
         "id": "com.hug_ge.coronapp",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "0.0.68",
-        "latest_crawl": 1620571904
+        "latest_crawl": 1620920140
     },
     {
         "id": "fr.esantebfc.engage",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.2.8",
-        "latest_crawl": 1620571907
+        "latest_crawl": 1620920144
     },
     {
         "id": "com.sanpsy.kanopee",

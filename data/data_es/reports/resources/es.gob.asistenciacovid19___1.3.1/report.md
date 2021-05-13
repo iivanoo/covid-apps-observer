@@ -248,6 +248,8 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.asistenciacovid19 1 reviews"/>
 </p>
 
+> Vale para poco esta app, según mis síntomas, no tenía indicios de covid, llamando al servicio de atención telefónica,me dijeron que si y me citaron para PCR. Resultado: PCR positiva Si me llegó a fiar de la app aún sigo sin diagnosticar.<br> :date: __2021-05-11 00:43:15__
+
 > Andalucía siempre fuera. Incluir Andalucía<br> :date: __2021-02-02 08:38:20__
 
 > No me gusta nada.<br> :date: __2021-01-25 09:12:23__
@@ -265,7 +267,5 @@ The Asistencia COVID-19 app has been installed by more than **100000** times. At
 > No me gusta todavía no es disponible la app para Andalucía<br> :date: __2020-10-25 15:16:42__
 
 > Falta de información en la provincia de Coruña Galicia<br> :date: __2020-10-19 14:06:39__
-
-> No funciona<br> :date: __2020-10-08 22:26:52__
 
 

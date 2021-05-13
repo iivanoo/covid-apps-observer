@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOH_pW9IUR11xFvC6TLVDd95n0wfNZIFc34GttUpToAcqWLj48ndL1595yANb8Vzk2Xgg_xwJGqlv6W2vg",
+        "userName": "Ana Maria Mart\u00edn Soler",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDVjtCT1KA38xgri-Y7RBM4cbqwSgHmDeHDHfm=mo",
+        "content": "La aplicaci\u00f3n le ten\u00e9is que dar un arreglo falla m\u00e1s que una escopeta de ca\u00f1a",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.1",
+        "at": "2021-05-13 18:07:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHifaJGzTCxaQsZmFCrIqIlNcVsxSDvu1SEiYsLFdhIPjIkVUhUUC88v9VvHB3e-aEZg22eDK5NocRNNQ",
+        "userName": "Tania Zaragoza",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxpionCLKSMj0ghx_dUza_sJ-RheGBIj-NEXM_8=mo",
+        "content": "P\u00e9simo entras tarda en cargar, o da contrase\u00f1a err\u00f3nea termino bloqueada, nada f\u00e1cil, no logro hacer nada",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.1",
+        "at": "2021-05-10 07:41:05",
+        "replyContent": "Hola Tania, se trata de una cta. diferente a la de tu \u00e1rea de cliente. Si la contrase\u00f1a aparece como err\u00f3nea puedes pulsar el icono del ojo para verla y confirmar que est\u00e1 bien escrita (may\u00fasculas, min\u00fasculas, n\u00fameros\u2026) o utilizar la opci\u00f3n \u201c\u00bfOlvidaste tu contrase\u00f1a?\u201d para crear una nueva. Te daremos m\u00e1s ayuda desde soporte@dkvservicios.com\u201d",
+        "repliedAt": "2021-05-12 16:24:59"
+    },
+    {
+        "reviewId": "gp:AOqpTOGPYvXjuAHy4ys7b2llxjMcpwn2ZjGtDvQ4lq1tdrjuZ_EPLn2wfUc_V_VvLtbiIKeoeHeesVdzz6ZVaA",
+        "userName": "Rebeca Garc\u00eda Gisbert",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMinnrYRDgB6hbj1U4HfdyP4EC136NMEzJ7i-Sc5M",
+        "content": "Muy mal, no me deja introducir mis datos y acceder a mi perfil, me da error y dice que los datos introducidos no existen.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-10 01:46:50",
+        "replyContent": "Hola Rebeca, nuestro equipo de soporte@dkvservicios.com ya se ha puesto en contacto contigo para revisar lo que nos comentas. No dudes en seguir sus indicaciones y comentarles cualquier duda que tengas. Gracias",
+        "repliedAt": "2021-05-12 16:21:39"
+    },
+    {
         "reviewId": "gp:AOqpTOHATOuRCzqrD2--md3zhDVrGslVDTzCbgI6RGvSOlmfvc75DWBr_0hMRaZUPcFIN1L-ro4JnJLdnEukTw",
         "userName": "Conchi Andrades",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJPaFWIsDpKjBFYkoS55u2XUzF_fk8Yvb6gmluVBg",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-05-06 23:17:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Conchi, muchas gracias por el comentario. Indicarte que dependiendo de la modalidad de seguro que tengas contratada existen un tipo de coberturas u otras. Ante dudas al respecto, para la modalidad de seguro \"famedic\" puedes contactar con el tel\u00e9fono 900 814 393 o por whatsapp con el 960 160 883 y los compa\u00f1eros te asesorar\u00e1n. Saludo",
+        "repliedAt": "2021-05-12 17:26:41"
     },
     {
         "reviewId": "gp:AOqpTOHihbExcidB6QfTSv7W0KXIV4PuwdOIDMMEce3TSzRmqIGhLDyiVY5ccGBlp-H_n06FOXFDbWqh17o1cw",
@@ -32,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-05-04 11:38:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Aida, nuestro equipo de soporte@dkvservicios.com se pondr\u00e1 en contacto contigo para indicarte c\u00f3mo proceder. Esperamos que su respuesta ayude a resolver los problemas que hayas tenido y puedes contar con su ayuda para cualquier otro. Un saludo",
+        "repliedAt": "2021-05-12 16:26:46"
     },
     {
         "reviewId": "gp:AOqpTOHku_DJ3Zmgx9iJg8Dr5d-d4AvvbrFf_yuJB0uhCyqhF9SID2E_N8X72RbgdLNAavDjTd-hAFRB714WxA",
@@ -41,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJySSKf7aSiN8yTQFnQl_RxW6n3XdbJoCxyspP9j=mo",
         "content": "No puedo ver en la aplicaci\u00f3n mis datos de la poliza, tengo q meterme en \u00e1rea de clientes por fuera y se me olvida la contrase\u00f1a, cuando quiero restablecerla no me llega ning\u00fan email",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-04-30 10:55:46",
         "replyContent": "Hola M\u00aa del Mar, desde Quiero cuidarme + puedes visualizar tu tarjeta Medicard. Para m\u00e1s detalle sobre tu p\u00f3liza debes acudir al \u00c1rea de Cliente de tu seguro. Tu cta. de esta aplicaci\u00f3n y de dicha p\u00e1g. son diferentes, con diferentes usuarios y contrase\u00f1as (salvo que hayas introducido la misma). Escr\u00edbenos a soporte@dkvservicios.com y te ayudaremos.",
@@ -53,11 +89,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwP0N1DjjrvyjsDqDut5zkL0JK4Z6Yzxr3usJ5t=mo",
         "content": "La idea de la App es buena y original, pero est\u00e1 llena de fallos por todos lados: ................................................................. > Se desactiva enseguida el lector de huella dactilar y tienes que reactivarlo constantemente. ................................................> En las citas por videollamada se congela y al final acabas hablando por chat/llamada ------------------> En documentaci\u00f3n si te suben una autorizaci\u00f3n no deja visualizarla ni descargarla, se ve s\u00f3lo como una imagen miniatura (a m\u00ed me subieron una autorizaci\u00f3n de test de antigenos Covid y tuve que pedir que me la mandaran por email) + si subo yo o el m\u00e9dico documentaci\u00f3n, no me aparece en mi men\u00fa privado de la web, no est\u00e1n conectados. -----------------> Al consultar citas nuevas por videollamada/online fallan las citas disponibles porque te pone una fecha y cuando das a la flecha a avanzar ves abajo en resumen de todas que hab\u00eda otra anterior de fecha y tienes que darle desde ah\u00ed ----------------> Al consultar m\u00e9dicos en el cuadro m\u00e9dico, si le das a ver mapa (en general o en un m\u00e9dico concreto) el mapa se carga con Espa\u00f1a en miniatura que tienes que ampliarlo a mano muchas veces hasta que ves la calle y centro................. + estar\u00eda bien poder ver la web del centro por si prefieres pedir cita x web que tel\u00e9fono ..................+ poder ver las subespecialidades del m\u00e9dico concreto (eje en dermatolog\u00eda no es lo mismo uno especializado en herpes, que en eccemas/soriasis, acn\u00e9, etc) y tienes que estar llamando a todo el listado a ver qui\u00e9n conoce tu patolog\u00eda a fondo...",
         "score": 3,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-04-27 21:18:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola \u00c1ngela, estamos revisando todos los aspectos que comentas en tu rese\u00f1a. Por favor, escr\u00edbenos a soporte@dkvservicios.com para comentarlos m\u00e1s en profundidad y ayudarnos a seguir mejorando. Muchas gracias",
+        "repliedAt": "2021-05-12 16:27:40"
     },
     {
         "reviewId": "gp:AOqpTOHNtHXtq6Ly7V0XO7TMcg0mk276lxtw7gyGneOZF9CW1m668GimhN8ikWUZSRxttXUxSslWe9U7xGit6g",
@@ -68,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.9",
         "at": "2021-04-22 22:02:54",
-        "replyContent": "Hola Jose, las contrase\u00f1as deben tener m\u00e1s de 8 caracteres, alg\u00fan n\u00famero, min\u00fascula y may\u00fascula. Puedes pulsar sobre el icono del ojo para verla y comprobar que est\u00e1 bien escrita. Si creas una nueva, adem\u00e1s debe ser diferente a las \u00faltimas 5 que hayas utilizado. Si necesitas m\u00e1s ayuda por favor escr\u00edbenos a soporte@dkvservicios.com. Un saludo.",
-        "repliedAt": "2020-11-18 10:47:10"
+        "replyContent": "Hola Jose, en la pr\u00f3xima versi\u00f3n de la aplicaci\u00f3n aplicaremos una mejora que solucionar\u00e1 los problemas de acceso con huella. Los profesionales que aparecen son los que constan en el cuadro m\u00e9dico, hemos transmitido el problema al departamento oportuno. Puedes contactar con soporte@dkvservicios.com para revisar profundamente tus dudas o sugerencias.",
+        "repliedAt": "2021-05-12 16:34:56"
     },
     {
         "reviewId": "gp:AOqpTOGasWJQ5cZ02C40VxL0k4272r-MpkYGtuyv9OK0xIczefn2QN-kLpoSWYvWHsEH2WL0tgcLvM-vzkdVNA",

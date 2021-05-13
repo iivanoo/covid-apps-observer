@@ -182,6 +182,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> It seems that the app stops working at times. I have had to uninstall and reinstall it now three times. I look at it daily to see if I've encountered anybody with covid and three times I have looked at it and the last notification was days before. So I have had up to four or five days when it did not update. Of course this happened while I was with somebody who I found out had covid so I was not notified by the app.<br> :date: __2021-05-13 12:15:41__
+
 > More tools for the Vaccine! The app is great but is lacking major portions that should be on the subject of "Vaccinations". Such as locations for Detroit residents. Information on the various vaccines available & where. A Q & A section on possible vaccine info to help stop forms of "vaccine hesitency"<br> :date: __2021-05-02 22:22:13__
 
 > I have the current version 1.3 but never updates checks for covid exposure after install Edit: I changed the settings that stopped app from running in background (Samsung). Hope that works.<br> :date: __2021-03-12 20:32:48__
@@ -199,8 +201,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > How do you update?..hasn't worked since the 17 Jan 2021.<br> :date: __2021-01-21 13:03:49__
 
 > No notifications??? I worked in a hospital filled with COVID patients during an outbreak. Maybe none of them had this app installed. This app is an amazing concept. I apperciate the anonymity. I will continue to recommend this app to others!<br> :date: __2021-01-14 13:15:04__
-
-> It was working fine updating regularly. Now it hasn't updated my exposure or the cases and deaths since January 4th. I don't know what is wrong. Yes my bluetooth is on. I don't know what to do with it.<br> :date: __2021-01-13 17:51:43__
 
 
 
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Can't get a pin even tho one was requested. Unable to use this app without pinpp<br> :date: __2021-05-12 01:55:45__
+
+> Mine hasnt checked for exposures since march 30. I deleted and reinstalled but it didnt help. This makes the app pretty useless.<br> :date: __2021-05-11 22:15:35__
+
+> I wish it worked better, but no one uses it. I've had this for 5 months now and it's not telling me nothing even though I know people have Covid due to the area's I work at. 😑<br> :date: __2021-05-11 20:33:21__
+
+> Flu tracker<br> :date: __2021-05-10 22:35:10__
+
+> March 11, been other place since March 11<br> :date: __2021-05-10 22:17:50__
+
+> my other phone, which is an iphone, has ios 12. why is the Michigan covid alert ios 13.7 and up? you should be able to get it on ios 12 devices.<br> :date: __2021-05-10 14:23:33__
+
+> Just isn't useful at all<br> :date: __2021-05-10 01:16:03__
+
 > I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!! 5/7/21 update. STILL DOESN'T UPDATE, TRASH!<br> :date: __2021-05-07 17:22:54__
 
 > Last checked for exposures back in March and it is now May. I see absolutely no point in having my phone put out info if it's not going to work.<br> :date: __2021-05-04 20:05:21__
 
 > App hasn't checked for exposures since middle of March. No way to even manually force a check.<br> :date: __2021-05-04 03:31:49__
-
-> I've never gotten an alert but I known multiple times I was in contact with COVID. I live behind the covid testing center and not a single alert Pathetic<br> :date: __2021-04-30 21:08:51__
-
-> The app has not checked anything since april 15th, its now april 26th, in my opinion its useless. Its April 30th. Im deleting your app.<br> :date: __2021-04-30 19:17:20__
-
-> Updated review: The app still stops functioning if I dont check it for a day. Also, it looks like people are unwilling to or unable to notify through the app. I've had 2 coworkers in the past 2 weeks test positive and I've heard nothing through this app. Completely useless.<br> :date: __2021-04-30 17:04:24__
-
-> it was a good idea if it worked...<br> :date: __2021-04-29 21:16:35__
-
-> It just keeps saying I last checked on February 10th. I've tried checking several times since then and it never updates<br> :date: __2021-04-29 13:24:41__
-
-> It stopped checking back in February. Uninstalled and reinstalled, but it doesn't say it stopped checking unless you go into the app every day and see the last time it did run a check. Also does not inform you if you have been exposed after it stops checking. Reinstall starts it fresh with no history data. Yes bluetooth is on, so don't ask.<br> :date: __2021-04-27 17:53:37__
-
-> The app only updates its check when you open it which defeats the purpose.<br> :date: __2021-04-27 16:37:45__
 
 

@@ -239,6 +239,8 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 3 reviews"/>
 </p>
 
+> Sometimes the app crashes and ends the videos.<br> :date: __2021-05-11 16:34:00__
+
 > Connection is bad<br> :date: __2020-10-10 17:58:26__
 
 > Good overall but spoty connection from time to time. Wish it were possible to live chat with an available provider<br> :date: __2020-09-09 16:46:10__

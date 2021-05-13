@@ -198,6 +198,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
 
+> I constantly have to delete it and reload it as it tends to stop working<br> :date: __2021-05-12 05:26:59__
+
 > App is still on daylight savings time. And can't add time you departed a venue.<br> :date: __2021-04-14 04:11:29__
 
 > Was perfect before the latest update. Now it doesn't scan and I have to manually enter in places. Would love a fix<br> :date: __2021-04-13 07:43:53__
@@ -215,8 +217,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > It works for scanning the QR code. But I can offarhim why do I have to reenter all my personal details everytime I use the app for myself on my phone. The nswservices app handles this very well. Please start considering the user when you write mobile apps. Many miss some simple things that would make many people's lives better. I hatdusing this app.<br> :date: __2021-02-05 20:04:05__
 
 > Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
-
-> Seems to work ok. Slow to load, requiring data connection to do so. Cannot access QR code scanner without data connection. Suggest allowing access to QR code scanner without needing data connection to allow check in, uploading locations when data becomes available.<br> :date: __2020-12-05 21:58:59__
 
 
 
@@ -262,8 +262,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Download and checked in to the war memorial not too long after started receiving calls from marketing companies. App uses data collected to give to marketing companies and you have to check otherwise you can receive a fine.<br> :date: __2021-05-03 02:50:04__
 
-> Am doing this against my will i am being forced to download it if i want to do anything now<br> :date: __2021-04-24 13:21:03__
-
 > Could not download app<br> :date: __2021-04-24 04:44:17__
 
 > scam, stealing data do not install<br> :date: __2021-04-18 04:24:56__
@@ -273,5 +271,7 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > App didn't work so i deleted it and tried to upload again, it won't load....it must be broken....it used to be a good app.<br> :date: __2021-03-17 01:53:44__
 
 > This app worked fine on my Samsung Galaxy s9 for 6 weeks. Now it no longer works. I have uninstalled it and reinstalled it numerous times. It will work once and then I get the red error message saying there is no wi fi connection. Not true. What do you mean apply the fix 1.8.2? No explanation has been given. This is becoming so frustrating. Please don't say it is an issue with older Androids. Th phone is 2 years old. There is a problem with the app.<br> :date: __2021-03-16 02:05:16__
+
+> Far too messy compared to other states<br> :date: __2021-03-09 02:03:13__
 
 

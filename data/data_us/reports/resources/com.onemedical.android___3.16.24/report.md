@@ -341,6 +341,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.onemedical.android 1 reviews"/>
 </p>
 
+> The incompetence of this organization is legendary. Called to schedule blood work. They scheduled me for an appointment at 4pm. Get here to be told I have to see the doctor but that they close at 4pm so I can't get labs done, and insinuate its my fault why they're incompetent. So now I have to travel to another location to get blood work done. Par for the course at one medical. Tldr Called 4 labs got here,labs were closed made me go to another location.<br> :date: __2021-05-12 00:50:29__
+
 > A terrible experience. Wanted to get the Pfizer vaccine, so I had to install this app and register for this companies account and on and on. Then despite multiple sites LA County Public Health & others directing me to this company it turns out they aren't in fact giving out the vaccine as described. Avoid this one.<br> :date: __2021-04-27 20:14:17__
 
 > Money-grabbing company. They require you to book an appointment for literally everything, so that they can bill your insurance. A few days after an appointment, they told me to schedule another visit just to get a prescription for a medication I've been taking for ~2 years without issues. What's the point of paying for this service when they can't help on demand?<br> :date: __2021-04-17 06:00:47__
@@ -358,7 +360,5 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Unable to make a Covid-19 vaccination appointment.<br> :date: __2021-01-23 00:58:43__
 
 > Great unless you move outside an office area. Then extremely unhelpful. Their customer service staff also play games on phone calls. Will not sign up again for the same service I can get elsewhere without paying $200 extra.<br> :date: __2020-12-10 20:51:23__
-
-> Trash bag of an app that gets stuck on a perpetual reload screen when you sign in. Oh and it signs you out by itself. Pretty sure this app gave my phone the electronic version of covid.<br> :date: __2020-12-09 20:44:22__
 
 

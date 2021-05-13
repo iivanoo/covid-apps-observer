@@ -208,6 +208,8 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="org.alohasafe.alert 2 reviews"/>
 </p>
 
+> 1?+AM 1AM a<br> :date: __2021-05-13 02:59:32__
+
 > Fuji<br> :date: __2021-04-08 01:08:24__
 
 > This is my 1st time.<br> :date: __2021-02-25 00:11:14__

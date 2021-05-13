@@ -176,6 +176,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
+> Habs die App nicht installiert und werds auch nicht tun bis es nicht zuverlässig funktioniert! Quarantäne gehen nur auf Vermutung will keiner!<br> :date: __2021-05-13 18:19:38__
+
+> Also die Idee dahinter war gut<br> :date: __2021-05-11 14:37:10__
+
 > Funktioniert.<br> :date: __2021-05-07 20:51:07__
 
 > Hätte nicht gedacht, dass ich anhand dieser App tatsächlich mal eine Warnmeldung bekomme. War nun aber so. Ich konnte das dann anhand eines Tests abklären. Die Info-Meldung über die mögliche Infektion kommt aber weiterhin. Mein Vorschlag wäre daher, dass man die Warnmeldungen für einzelne Risikokontakte abstellen kann. Sollte sich in den kommenden Tagen nämlich ein weiterer Risikokontakt ergeben, würde ich das nicht merken, weil ich die Warnmeldung mittlerweile einfach wegwische.<br> :date: __2021-04-23 21:13:53__
@@ -192,10 +196,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Alles im grünen Bereich<br> :date: __2021-03-20 10:41:39__
 
-> 500 MB Datenvolumen in einem Monat seit dem Update verbraucht. Da stimmt doch was nicht. Update: Nach Rückfrage beim RK wurde mir empfohlen, die mobilen Daten für die App auszuschalten, da es ausreicht, wenn die App sich ein paar Mal am Tag übers WLAN verbindet. Begründet wurde der Datenverbrauch mit der Interoperabilität zwischen einigen EU-Contact-Tracing Apps.<br> :date: __2021-03-16 11:41:04__
-
-> Tägliche aktuelle Nachschau, sicheres Gefühl, eigene Kontakte nachvollziehen zu können!<br> :date: __2021-03-04 20:03:45__
-
 
 
 #### 3-star reviews
@@ -203,6 +203,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
+
+> Hat bisher funktioniert<br> :date: __2021-05-10 21:35:57__
+
+> Weil offenbar in der Warteschlange beim Spar jemand danach positiv getestet wurde, schickt mich die App in Quarantäne. Ohne Bescheid! Bei 1450 wurde nichts aufgenommen oder erklärt. Ich würde von der Behörde kontaktiert. Wie denn, ohne Kontaktdaten? Dann jede Stunde diese Anweisung. Mein Chef akzeptiert solche Anweisungen einer App nicht als Entschuldigung.<br> :date: __2021-05-10 09:22:40__
 
 > Kann es sein, dass ich noch NIE eine Verständigung erhalten habe, das ist doch rein statistisch schon nicht möglich. Scheint nicht funktionieren, ich deinstallier das jetzt endgültig.<br> :date: __2021-05-03 13:42:23__
 
@@ -218,11 +222,7 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Hab sie jetzt nach langer Zeit deinstalliert... bisher nie eine Meldung bekommwn, kein einziger Kontakt.. da weiß man nicht mal ob sie funktioniert 😑 und solangs fast keiner verwendet is es ziemlich sinnfrei<br> :date: __2021-02-03 11:46:28__
 
-> Habs die App nicht installiert und werds auch nicht tun bis es nicht zuverlässig funktioniert! Quarantäne gehen nur auf Vermutung will keiner!<br> :date: __2021-01-31 18:13:04__
-
 > Funktioniert nicht! Ich bin positiv und habe es in der App gemeldet! Mein Bruder hat die App ebenfalls seit langer Zeit und er hat keine Benachrichtigung bekommen! Obwohl wir jeden Tag mehrere Stunden Nebeneinander auf dem Sofa sitzen...! Edit: Habe mich nach einem Tag Gesund und dann wieder Krank gemeldet = jetzt ist er benachrichtigt geworden..<br> :date: __2021-01-02 11:58:54__
-
-> Unser Datenschutzgesetz einerseits und die Haltung mancher Mitbürger andererseits zerstören meines Erachtens den guten Grundgedanken für die Verwendung dieser App. Was mir auffällt, ist, dass der von der App angezeigte Zeitstempel der Kontakte nicht stimmen kann. Die App zeigt Kontakte zu Zeiten, in denen keine waren, oder erst viel später an.<br> :date: __2020-12-23 10:26:34__
 
 
 
@@ -231,6 +231,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> kenn ich nicht<br> :date: __2021-05-10 19:57:51__
 
 > Mobiler Datenverbrauch steigt rapide: während die App noch im Jänner 55MB pro Monat gebraucht hat sind es jetzt 1.6Gig. Heißt das daß mehr Leute die App benutzen oder das die Letzten die das tun vergrault werden sollen?<br> :date: __2021-05-02 10:50:08__
 
@@ -250,8 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Ist das gleiche wie mit Lockdown: App ist nur sinnvoll, wenn alle mitmachen.<br> :date: __2021-02-07 10:49:50__
 
-> Okay<br> :date: __2021-02-06 14:13:44__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Die app macht meiner Meinung nach garnix aber verbraucht 856MB Speicherplatz!? Finde ich extrem übertrieben!!!!<br> :date: __2021-05-11 06:03:46__
 
 > lt. app hatte ich kontakt mit einem positiven. hab bei 1450 vlbg. angerufen, die kennen die app nicht 😳 geh morgen wieder arbeiten.<br> :date: __2021-05-02 16:22:14__
 
@@ -277,7 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Wozu belegt die App mehr als 2GB?<br> :date: __2021-04-20 17:45:09__
 
 > Gut gestaltete App. Aber nach fast einem Jahr in Verwendung hat sie für mich nie einen Nutzen gezeigt. Ich wurde nie gewarnt über mögliche Kontakte. Auch nicht, als eindeutige Kontakte von mir positiv getestet wurden.<br> :date: __2021-04-18 22:28:10__
-
-> Ein Fortschritt! Es funktioniert zwar immer noch nicht (siehe Standort), aber ich erhalte jetzt einen Hinweis darauf, dass es nicht funktioniert! Gratulation! App verlangt Zugriff auf Standort, den ich aber aus grundsätzlichen Überlegungen nahezu immer deaktiviert habe. Fazit: Weiterhin unbrauchbar! 26.6.20 2 Handys liegen 30 Minuten nebeneinander, automatischer Handshake ist aktiviert, Bluetooth ist ein, aber sie erkennen sich nicht, auch nicht bei manuellen Start.<br> :date: __2021-04-16 15:19:38__
 
 

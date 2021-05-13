@@ -189,6 +189,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> quite easy to do<br> :date: __2021-05-12 14:58:22__
+
+> very useful<br> :date: __2021-05-09 23:15:13__
+
 > Nice app<br> :date: __2021-05-09 11:46:56__
 
 > excellent system<br> :date: __2021-05-02 11:48:59__
@@ -204,10 +208,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Great for ordering repeat prescriptions. The additional health promoting notifications can be helpful at times too.<br> :date: __2021-04-26 09:46:58__
 
 > excellent<br> :date: __2021-04-22 11:04:27__
-
-> very easy to use and better than phoning for prescription<br> :date: __2021-04-22 09:18:18__
-
-> Nice<br> :date: __2021-04-21 12:36:47__
 
 
 
@@ -273,6 +273,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
 
+> As usual, its not broken so , obviously, fix it! Proggies, you've made this a "World class" app..(Not!).. If only it would accept my passwords just like it used to do. I'm off down to the pharmacy to put in a prescription request now.<br> :date: __2021-05-13 11:48:13__
+
 > order page seems to change each time I use it. Consequently, sometimes I think I've ordered and I haven't.<br> :date: __2021-04-18 12:27:20__
 
 > log on always a Faff<br> :date: __2021-02-28 14:57:25__
@@ -290,8 +292,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > ok App doesn't really do much in the way of looking at your medical records or being able to book appointments at the doctors etc. not really sure why I still have it installed tbh<br> :date: __2021-01-14 22:26:48__
 
 > only for ordering prescription nothing else works<br> :date: __2021-01-05 20:39:32__
-
-> takes ages to load<br> :date: __2021-01-01 17:03:50__
 
 
 

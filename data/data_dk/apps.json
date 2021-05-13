@@ -11,13 +11,13 @@
         "store_country": "dk",
         "store_lang": "dk",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1620579209
+        "latest_crawl": 1620927089
     },
     {
         "id": "com.netcompany.smittestop_exposure_notification",
         "store_country": "dk",
         "store_lang": "dk",
         "latest_crawled_version": "2.3.3",
-        "latest_crawl": 1620579218
+        "latest_crawl": 1620927096
     }
 ]

@@ -141,6 +141,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Habe die App seit dem ersten Tag installiert, funktioniert einwandfrei. Zuerst die Daten von einer fitbit charge 3 und jetzt werden die Daten von einer fitbit charge 4 genommen. Ein Handy wechsel zwischendurch war auch kein Problem. Läuft jetzt auf einem S 8. Leider haben zu wenige diese App installiert.<br> :date: __2021-05-11 15:38:35__
+
 > Samsung Health funktioniert jetzt.<br> :date: __2021-04-22 11:17:42__
 
 > Gut<br> :date: __2021-04-22 11:12:46__
@@ -158,8 +160,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Sinnvolle App, endlich ist die Verknüpfung zu Samsung Health hergestellt. Jetzt nutze ich gerne die App.<br> :date: __2021-03-02 21:36:32__
 
 > Optimierung der Onlinefrequenzen und einer Tag genauen Information gibt diese App eine neue Version von Sicherheit auch beim Onlineshopping.<br> :date: __2021-02-22 16:56:31__
-
-> Ich würde ja gerne die App nutzen, aber entgegen der FAQ werden Samsung Health Geräte nicht unterstützt. Update: Nach Installation auf neuem Handy geht es plötzlich<br> :date: __2021-02-18 18:12:05__
 
 
 

@@ -321,6 +321,12 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> La aplicación le tenéis que dar un arreglo falla más que una escopeta de caña<br> :date: __2021-05-13 18:07:02__
+
+> Pésimo entras tarda en cargar, o da contraseña errónea termino bloqueada, nada fácil, no logro hacer nada<br> :date: __2021-05-10 07:41:05__
+
+> Muy mal, no me deja introducir mis datos y acceder a mi perfil, me da error y dice que los datos introducidos no existen.<br> :date: __2021-05-10 01:46:50__
+
 > No funciona!! Introduces tus datos y no se ve nada más!! Gracias pero mí nombre y apellidos ya me les sé,no necesito una app de salud de pago qué no funciona!! Cero!!<br> :date: __2021-05-06 17:23:22__
 
 > Esta aplicación no funciona un mero desastre, no sirve para nada<br> :date: __2021-05-04 11:38:58__
@@ -334,11 +340,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Esta app no funciona actualmente no me permite identificarme<br> :date: __2021-04-07 17:57:51__
 
 > Pedi darme de baja me cobraron 15.80 euros y los pague y aun no me dan respuesta<br> :date: __2021-04-05 21:06:03__
-
-> Fatal tamto la APP, cuanto el rendimiento nos marean con una multitud de Mails y telefonos de atención al cliente, que te sirven para nada pues llevo 4 meses intentando areglar un tema por telefonos, mails u whats, y nunca logre el unico que lles va bien es el sistema de cobros (a ellos), que me cobro por duplicado la misma factura es horrible, una estrella por obligación a publicar si no nin esto<br> :date: __2021-04-04 15:54:53__
-
-> No sirve para nada. No puedes pedir cita ni aparecen las que pides por teléfono pese a estar vinculado a tu póliza. Totalmente inútil.<br> :date: __2021-04-01 09:34:55__
-
-> No sirve para nada. No la actualizan en absoluto. Mi médico se jubiló en noviembre y aún aparece en el cuadro médico. Además ya van 3 veces que he preguntado por otros profesionales y algunos han cambiado de especialidad y otros ya no visitaban en el centro en el que aparecían. Y por si fuera poco en la mayoría de los casos no se puede pedir cita online (aún siendo de un centro dkv). Penoso.<br> :date: __2021-03-22 17:33:19__
 
 

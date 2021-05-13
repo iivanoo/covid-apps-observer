@@ -202,6 +202,12 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Is oké.<br> :date: __2021-05-13 09:52:23__
+
+> Heel gebruiks vriendelijk<br> :date: __2021-05-13 09:25:35__
+
+> Prima app om je situatie realistisch te zien.<br> :date: __2021-05-10 11:29:44__
+
 > Ik vind het op deze manier heel mooi. Ze kunnen je in de gaten houden terwijl je thuis bent. Zo blijft je toch onder controle. Geweldig.👍<br> :date: __2021-05-09 09:08:23__
 
 > goeie app, makkelijk om mee te werken.<br> :date: __2021-05-08 08:02:42__
@@ -216,12 +222,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Ok<br> :date: __2021-05-05 06:59:40__
 
-> Supper<br> :date: __2021-05-05 06:06:40__
-
-> Goed<br> :date: __2021-05-04 09:19:34__
-
-> Fijn om contact te hebben<br> :date: __2021-05-03 09:34:39__
-
 
 
 #### 4-star reviews
@@ -229,6 +229,12 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Oke<br> :date: __2021-05-13 11:03:36__
+
+> Makkelijk<br> :date: __2021-05-12 08:36:09__
+
+> Gewoon heel duidelijk<br> :date: __2021-05-10 09:23:38__
 
 > Fijn dat er iemand met me mee kijkt.<br> :date: __2021-05-09 07:49:50__
 
@@ -244,12 +250,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Werkt goed maar alles moet handmatig Verders zeer tevreden<br> :date: __2021-04-21 09:41:13__
 
-> Werkt goed en is een dagelijkse geheugensteun om er even bij stil te staan hoe je je voelt.<br> :date: __2021-04-20 08:26:39__
-
-> Kan de invoer van de stappen worden aangepast. Je moet nu eerst 4 fictieve cijfers verwijderen en dan wordt er automatisch een nul geplaatst. Dan kun je je stappen invoeren en moet je de toegevoegde nul weer weghalen... Het zou fijner zijn als je 5 lege cijferposities kunt invullen. En als deze oningevuld wordt verstuurd er een 0 wordt meegegeven.<br> :date: __2021-04-19 10:50:50__
-
-> Het is gemakkelijk om de diverse metingen door te geven<br> :date: __2021-04-18 07:51:10__
-
 
 
 #### 3-star reviews
@@ -257,6 +257,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Communicatie storingen<br> :date: __2021-05-12 14:37:50__
 
 > Beoordeling komt nog te vroeg. Heb m net geïnstalleerd. Wanneer ik persoonlijke instellingen wil aanvullen kan ik vervolgens niet opslaan omdat invullen blijft hangen op adres en dan landnaam. Er staat daar pijltje maar dat reageert niet.<br> :date: __2021-05-06 20:03:33__
 
@@ -275,8 +277,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Correct en tijdig melding voor de meting<br> :date: __2021-03-25 11:43:57__
 
 > Soms werkt de app niet<br> :date: __2021-03-24 06:26:49__
-
-> Werkt nu weer beter.<br> :date: __2021-03-12 11:07:13__
 
 
 
@@ -314,6 +314,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="1_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 1 reviews"/>
 </p>
 
+> Sinds kort wordt alleen het cluster bekende klachten gevraagd. Scoor je daar niet op stopt het ook gelijk weer. Geen ruimte voor afwijkende symptomen, heel erg oppervlakkig en dus absoluut niet betrouwbaar.<br> :date: __2021-05-13 10:05:17__
+
 > Steeds ligt de app er uit. Geeft niets door<br> :date: __2021-04-19 21:11:47__
 
 > Klopt niets van<br> :date: __2021-04-18 07:22:56__
@@ -331,7 +333,5 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Het werkt heel goed. Mooie apparatuur en in het begin kwam ik niet uit de bloeddrukmeter en ben ik door een medewerker van Lusci heel goed geholpen.<br> :date: __2021-03-19 08:12:03__
 
 > Werkt niet meer na update<br> :date: __2021-02-12 23:55:01__
-
-> Het kost me veel moeite<br> :date: __2021-02-11 10:33:47__
 
 

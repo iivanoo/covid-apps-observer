@@ -186,6 +186,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Very professional experience. The app is easy to use!<br> :date: __2021-05-11 02:56:27__
+
+> I just Consulted with Dr. D. Nelsen. He was very kind. He assisted me well and now I'm waiting for my prescriptions. I would consult him again and I would recommend him.<br> :date: __2021-05-11 02:28:45__
+
 > Nice doctor, easy and pleasant to speak with. It was a very easy process from beginning to end.<br> :date: __2021-05-09 04:00:58__
 
 > Took me 3 minutes to see a doctor who clear me for work in 2 minutes<br> :date: __2021-05-07 15:46:34__
@@ -202,10 +206,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > Great<br> :date: __2021-05-01 01:57:12__
 
-> Easy to use<br> :date: __2021-04-28 18:37:03__
-
-> This has made it so much easier to have a Doctors visit when it's nearly impossible to get to a physical doctor.<br> :date: __2021-04-28 04:47:06__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> Looking for a health coach.<br> :date: __2021-05-09 19:45:45__
 
 > This is almost perfect. I would suggest everyone keep in mind the importance of being as thorough as possible with interaction. If you have a temperature and blood pressure gauge use it during visit.<br> :date: __2021-04-03 20:19:38__
 
@@ -231,8 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Good doctor, hard to hear at times but overall great experience in short matter of time.<br> :date: __2021-01-29 15:34:50__
 
 > My first time to use this company app was good and well use again .<br> :date: __2021-01-21 02:52:06__
-
-> Easy to use. Wish there was a place where I could keep notes for myself on whatever was discussed<br> :date: __2021-01-19 16:48:29__
 
 
 

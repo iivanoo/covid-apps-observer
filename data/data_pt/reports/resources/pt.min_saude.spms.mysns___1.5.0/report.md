@@ -171,6 +171,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Bom<br> :date: __2021-05-12 16:35:19__
+
 > Muito burocrática tds os itens deviam estar disponíveis automaticamente sem ter que recorrer assiduamente á chave digital,imagine- se para para o cidadão comum o transtorno.....<br> :date: __2021-04-24 21:46:43__
 
 > Excelente<br> :date: __2021-03-27 12:28:23__
@@ -188,8 +190,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito util<br> :date: __2021-02-05 18:48:15__
 
 > Opcional<br> :date: __2021-02-02 17:13:25__
-
-> Muito prático e eficiente. Resume o histórico clinico<br> :date: __2021-01-29 11:51:00__
 
 
 
@@ -283,6 +283,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> O SNS sugere a instalação da ap MySNS carteira para ter acesso às receitas médicas. Recebi uma mensagem com uma receita que não solicitei, Instalei a ap, mas não está lá receita nenhuma. Fui ao computador e entrei com o cartão de cidadão, também não está nada<br> :date: __2021-05-13 15:43:25__
+
 > Nao serve para nada... perda de tempo. Receitas? Tenham vergonha em gastar dinheiro em apps mal feitas, pagas pelos contribuintes.<br> :date: __2021-05-08 19:45:06__
 
 > Não funciona.<br> :date: __2021-05-07 13:50:54__
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > As dificuldades em entrar, encontrar o que queremos. É muita coisa e pouca funciona na perfeição.<br> :date: __2021-04-13 18:27:28__
 
 > Não funciona<br> :date: __2021-04-13 01:34:48__
-
-> Não funciona 😔<br> :date: __2021-04-04 22:33:44__
 
 

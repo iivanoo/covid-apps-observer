@@ -213,6 +213,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Very helpful and knowledgeable drs on staff. Always know what to prescribe to make me feel better.<br> :date: __2021-05-11 00:45:09__
+
+> Super quick and easy video visit with a Dr for a straight forward, common issue. So much cheaper and easier than an in office visit. It's after 9 pm, so I'll be able to pick up my prescription in the morning. The app struggled to confirm my insurance, probably because it's after hours, so I'll have to submit this to them, in case I over paid. Still it was pretty cheap, and the Dr was nice!<br> :date: __2021-05-10 06:07:02__
+
 > Amazing! I found the perfect therapist. We just click so well, making lots of progress in my mental health. :)<br> :date: __2021-05-05 16:46:45__
 
 > What a wonderful and easy access to help with mental health solutions<br> :date: __2021-05-05 15:55:28__
@@ -228,10 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Dr. Gindy is an amazing Physician<br> :date: __2021-04-21 18:31:23__
 
 > I've used this twice and had wonderful experiences, quick, efficient and knowledgeable doctors. Way better than driving to and waiting at an urgent care. Plus it saves your information so you don't have to re-enter in all of your insurance and all that stuff every time you use it. I hate all those forms at the doctor's office.<br> :date: __2021-04-19 04:43:47__
-
-> I've used amwell a few times. I've gotten great advice, and been treated with utmost respect by the Dr's that have seen me. Thank you Amwell!<br> :date: __2021-04-18 20:43:04__
-
-> I was absolutely shocked by how easy this was and how thorough they were.<br> :date: __2021-04-16 18:38:22__
 
 
 
@@ -325,6 +325,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> Initially I really liked amwell, it was simple and easy to use, and made seeing a doctor during the pandemic a lot easier. However, their mobile app makes it impossible to see receipts/charges/important records, and you can't log in to their website if you're not on a computer. I haven't used their sevices in MONTHS and yet I still receive significant charges that I have to dispute with their customer support team. If you are going to use Amwell, just make sure they are only charging you for the amount you're supposed to pay, and remove your debit card information from your account IMMEDIATELY after you stop using the service, or just don't save it at all.<br> :date: __2021-05-11 14:26:13__
+
 > When the app opens it now says that their services are not available in my state of Florida. But it is available....just for 'better insurance' such as Blue Cross Blue shield and the like.<br> :date: __2021-04-20 23:42:21__
 
 > Not used<br> :date: __2021-04-19 05:04:06__
@@ -342,7 +344,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Got someone who allegedly graduated from NYU School of Med, but had no idea bacteria grew in the large intestine. Not even exaggerating this. Don't use this app unless you have no other options. I'd better not be charged the copay for this.<br> :date: __2021-03-03 02:15:31__
 
 > Sucks<br> :date: __2021-02-27 22:23:22__
-
-> Uninstalled immediately after the signup page. I am a trans person who came across their services recommended as being LGBTQ+ friendly but the app has a signup form with no options for gender other than male/female, and no option for a social name. This tells me everything I need to know about how I might be treated. Terrible.<br> :date: __2021-02-18 17:43:38__
 
 

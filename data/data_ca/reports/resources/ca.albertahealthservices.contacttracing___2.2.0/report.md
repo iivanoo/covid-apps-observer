@@ -146,6 +146,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> I feel safer knowing I have this app.<br> :date: __2021-05-13 07:50:59__
+
+> Will only work if everybody installs the app.<br> :date: __2021-05-11 20:12:30__
+
 > Exellent how great I was treated<br> :date: __2021-05-05 12:46:13__
 
 > Saved my life.<br> :date: __2021-04-18 19:11:05__
@@ -161,10 +165,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > I believe in anything created by our saviour Jason "the king" Kenny. May this app save Alberta from economic ruin.<br> :date: __2021-01-01 07:29:58__
 
 > It tells you where the cases are<br> :date: __2020-12-22 18:04:21__
-
-> Best<br> :date: __2020-12-16 01:39:39__
-
-> Works well my old pixel 2 xl and my current pixel 5. No noticeable battery issues or crashing. Had it up an running in less then 3min.<br> :date: __2020-12-05 00:13:36__
 
 
 
@@ -202,6 +202,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> No concerns seems to work<br> :date: __2021-05-11 17:05:27__
+
+> Cannot tell if it is working or not. There are updates but very passive notifications.<br> :date: __2021-05-11 01:40:57__
+
 > Not now<br> :date: __2021-04-17 05:07:29__
 
 > A good safeguard. But too bad underutilized<br> :date: __2021-04-16 21:38:23__
@@ -218,10 +222,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > I'm tired of being asked if I'm ok. Why am I asked multiple times a day? Is it because I'm around or could have contact exposure? Asking me multiple times a day is causing me anxiety.<br> :date: __2020-10-07 15:17:15__
 
-> App is useless when I am travelling outside of province. Alberta, SWITCH TO THE FEDERAL COVID APP!!!<br> :date: __2020-10-07 13:28:19__
-
-> It is probably not the apps fault but I live in b.x. now and could never understand it .. stay safe<br> :date: __2020-10-07 13:11:04__
-
 
 
 #### 2-star reviews
@@ -229,6 +229,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
+
+> This app should be linked with the Canada wide Covid app.<br> :date: __2021-05-13 16:29:03__
 
 > Battery usage went from less than 5% to 35% with the new update. Unacceptable, had to delete app.<br> :date: __2021-05-01 05:11:38__
 
@@ -248,8 +250,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > As others have said, it's like the federal government app but worse. They should just make both available to Albertans and let us decide. My choice would be easy.<br> :date: __2020-11-11 23:44:19__
 
-> I feel it's a good idea, implemented poorly. Within an hour of 100% battery I am down to 85%. Not well designed. It's not right for me... I have uninstalled it.<br> :date: __2020-11-11 04:00:11__
-
 
 
 #### 1-star reviews
@@ -257,6 +257,12 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
+
+> This app requires more updating than any other app I've ever downloaded, and when it requires an update it stops everything on my phone. Not worth it. Figure out what your doing with the app.<br> :date: __2021-05-13 12:16:35__
+
+> Kept it on only because it was self sufficient. It's a useless piece of garbage. Given that the Alberta government was never really interested in actually tracing, I'm not surprised. Garbage app from a garbage government.<br> :date: __2021-05-13 06:34:02__
+
+> Constantly turning off which defeats the point of the app<br> :date: __2021-05-09 18:02:58__
 
 > Hey why not use what the rest of Canada is using?! Tell your MP their stubbornness is killing Albertans! This waste of taxpayer $$ can't be salvaged but they should still authorize the federal app! Meantime you can download that one anyways - it works if you sign in as a different province like SK.<br> :date: __2021-05-08 23:48:28__
 
@@ -271,11 +277,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > I don't understand how this app is supposed to stop the spread of covid?? what exactly is the app supposed to do?<br> :date: __2021-05-01 07:54:08__
 
 > Excessive battery drain.<br> :date: __2021-04-30 16:43:09__
-
-> Huge battery drain for an app that the stubborn Alberta government insists works because they don't want to find a solution with the federal government.<br> :date: __2021-04-28 18:34:34__
-
-> Uninstalled this app since the new update it drains my battery. Need to fix app before reinstalling<br> :date: __2021-04-28 02:36:52__
-
-> So far doesnt seem to work. Never rec any info<br> :date: __2021-04-27 00:33:57__
 
 

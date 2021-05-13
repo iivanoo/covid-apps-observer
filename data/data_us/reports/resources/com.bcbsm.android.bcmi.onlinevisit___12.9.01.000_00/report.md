@@ -197,6 +197,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Good service all around<br> :date: __2021-05-10 19:46:53__
+
 > Great and professional service<br> :date: __2021-04-27 03:41:25__
 
 > Awesome. Doc took time to listen to me unlike my regular doc<br> :date: __2021-04-26 18:01:10__
@@ -214,8 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Easy to use, much less of a hassle and faster than an unnecessary doctor appt<br> :date: __2021-04-05 14:05:13__
 
 > So much better than going to urgent Care or the ER. Especially right now with all this COVID19 craziness.<br> :date: __2021-04-01 15:13:53__
-
-> Great<br> :date: __2021-03-30 03:00:06__
 
 
 

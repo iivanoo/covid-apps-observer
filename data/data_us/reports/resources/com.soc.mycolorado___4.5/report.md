@@ -186,6 +186,12 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Great app helps out a lot thanks man!<br> :date: __2021-05-13 04:14:42__
+
+> Excellent<br> :date: __2021-05-11 19:41:16__
+
+> Easy .account setup, feel good knowing that I have digital copies of my I'd and documents<br> :date: __2021-05-10 07:14:43__
+
 > Great<br> :date: __2021-05-05 18:22:41__
 
 > Good, well organized, gov website<br> :date: __2021-05-05 11:51:36__
@@ -200,12 +206,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > This app is great! Question: can we add our covid-19 vaccination record card to this app? And 2nd form of ID, such as military ID?<br> :date: __2021-04-27 22:33:51__
 
-> So helpful in tracking multiple vehicles. Love having my driver's license handy AND being able to have a version without all my personal info that I can share with those verifying my over 21ness.<br> :date: __2021-04-27 03:44:40__
-
-> A little tricky to get going but when it its going it works good it helps to be in a place that has Wi-Fi<br> :date: __2021-04-27 03:27:46__
-
-> Paridise<br> :date: __2021-04-26 11:36:49__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> Its helpful I just wish more ppl accepted it.<br> :date: __2021-05-12 14:37:19__
+
+> This is a life saver app in just a swipe for verification purposes. Just wish we can use this "now" to travel legally since everything are electronic based... but i can wait.<br> :date: __2021-05-10 20:26:49__
 
 > I saw other comments about the digital ID not recognizing them the same day they went to the DMV. I gave it a try after I went in yesterday and got the same error message as everyone else. I gave it another try today and it worked! Looks like it takes a bit of time for their system to update, which is understandable. A government app that kinda works... what a nice surprise! 4 stars!<br> :date: __2021-04-28 02:33:45__
 
@@ -230,10 +234,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > Works well. Good list of resourses<br> :date: __2021-02-21 23:45:41__
 
-> Very innovative app, works way better than when fist released. I do have two issues with the app. 1) The login process is required too many times and can be a tedious & lengthy process. Often verification code needs to be resent more than once. 2) Many businesses do not accept the digital ID due them not having a compatible POS - so they can't scan it. Furthermore, the lack of awareness about that ID is by far the biggest flaw. Awareness by the businesses needs to be ramped up.<br> :date: __2021-02-21 15:50:58__
-
-> Very practical<br> :date: __2021-02-18 00:31:00__
-
 
 
 #### 3-star reviews
@@ -241,6 +241,8 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
+
+> Confusing to use. It wanted me to center my face in an oval, but then just hung.<br> :date: __2021-05-12 05:46:10__
 
 > Nice but missing alot .. good luck businesses excepting it !<br> :date: __2021-04-24 11:16:20__
 
@@ -260,8 +262,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > THIS APP IS HARD TO SET UP AND IT KEEPS REDIRECT ME .BUT NOT LETTING ME LOG IN<br> :date: __2020-12-21 09:32:36__
 
-> This app saved my life but now it keep saying retry otp and now I can't use it for my I'd. How I'm supposed to buy my essential things with no I'd!<br> :date: __2020-09-25 20:54:47__
-
 
 
 #### 2-star reviews
@@ -269,6 +269,8 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
+
+> When it wants to verify me by taking a picture the oval frame is black and wont take a picture. The app is useless to me if i cant use it for its intended purpose.<br> :date: __2021-05-11 16:14:20__
 
 > Have had 2021 fishing lic for 3 weeks and it's still not available on myColo????<br> :date: __2021-04-23 01:26:14__
 
@@ -288,8 +290,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > MyColorado app failed. Ever since the app was updated, the insurance cards portion doesn't open the document and once you click to open it the app crashes on all my phone's and tablet. Please update this to fix the insurance card portion.<br> :date: __2021-03-18 03:49:21__
 
-> Can't start up error for days<br> :date: __2021-03-03 00:17:19__
-
 
 
 #### 1-star reviews
@@ -297,6 +297,14 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
+
+> Why have the app when you still have to carry the your license? Lifetime fishing license will not show up either.<br> :date: __2021-05-13 03:34:29__
+
+> Face recognition does not work 👎🏾<br> :date: __2021-05-11 22:01:41__
+
+> Can't log this app is trash<br> :date: __2021-05-11 05:08:14__
+
+> Camera doesn't work for face match. LG v50<br> :date: __2021-05-10 14:02:46__
 
 > can't log in to my account<br> :date: __2021-05-08 21:16:17__
 
@@ -309,13 +317,5 @@ The myColorado app has been installed by more than **50000** times. At this time
 > So secure it doesn't do anything<br> :date: __2021-05-03 17:38:46__
 
 > Useless - can't focus on ID barcode<br> :date: __2021-05-02 17:20:41__
-
-> This is with a doubt the worst government idea ever!! Most states can process licenses day of. Well republican lead states. The technology exists to provide IDs day off. Stop being lazy and do your job<br> :date: __2021-04-30 22:09:04__
-
-> Cumbersome at best<br> :date: __2021-04-29 17:27:38__
-
-> Won't scan my ID can't use this<br> :date: __2021-04-29 14:41:15__
-
-> Piece of garbage app. Keeps requiring you to scan the barcode on the back of your drivers license. Even following the directions and setting the phone and card on level stationary surfaces and lining them up to eliminate hand shake it won't scan.<br> :date: __2021-04-28 20:01:08__
 
 

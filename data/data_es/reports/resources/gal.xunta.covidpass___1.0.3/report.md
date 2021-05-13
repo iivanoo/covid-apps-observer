@@ -257,6 +257,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> Pasa a estado anónimo constantemente.<br> :date: __2021-05-09 20:00:56__
+
 > La aplicación va cuando quiere siempre da problemas para registrarse en los locales<br> :date: __2021-03-26 19:41:21__
 
 > Los desplegables para seleccionar el Ayuntamiento me salen vacíos y no puedo hacer nada.ni reinstalando se soluciona<br> :date: __2021-03-09 03:08:06__
@@ -274,8 +276,6 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > Tiene que mejorar No consigo que la app me indique zonas en las que hay brotes de contagios o zonas de riesgo, se limita a dar información sobre restricciones y recomendaciones que ya conozco muy bien. La desinstalo ahora mismo, esta app no me sirve para desplazarme con seguridad. Más adelante le daré una oportunidad<br> :date: __2020-12-01 00:01:22__
 
 > Tuve que desinstalarla se quedaba colgada nada más descargarla.....<br> :date: __2020-11-30 19:20:30__
-
-> Mejor que radarcovid, pero tiene un PERO en mayúsculas. Aún eligiendo la opción en castellano, el 95% del contenido está en gallego, así que tendré que desinstalarla..<br> :date: __2020-11-30 18:38:05__
 
 
 

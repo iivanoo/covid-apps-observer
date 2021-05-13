@@ -1,5 +1,77 @@
 [
     {
+        "reviewId": "gp:AOqpTOH_LrB2IO_mhvCYfXBKf3x6HIgkV5LfQHaVUGVlK9F8Mxv0Ya7ynPzfuaxiTVSdhHZiK3GQWPL6uadUI2I",
+        "userName": "Margaret Neilands",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlDME0ln18v49UgqEUUe5eBK4oJJVQaE-QDrf0=mo",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.0.2641",
+        "at": "2021-05-11 14:31:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHTmf5WjbJkGSep6ohLKbpR8SEiB0F46OkOh3IBxtEiH7A0mxHZer1rXxZQq94cOnDAgk8NxL97DEUEG30",
+        "userName": "Isaac McDaniel",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgF-npHIPlv8FtIhonpWL3JWHrD1PGSiHqTJK6g6Q",
+        "content": "It's a fantastic concept. But for all the hours I ran the app I got 3 calculations done in 20 hours I think. I don't feel I'm contributing, more than I'm just destroying the life of my phone.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-11 01:05:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEJ7Qmi21I9SEi-PLNBw2iVnZJt_lz6zoOTT8EUNzSvWCLGjXOnD1MdZUFAqlTcMXJCiooiWZLAGWYNNtI",
+        "userName": "Robert",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDA6h1E4nJJoJRyN5pk31dlly1PuO_bSzGmFnOPVs",
+        "content": "Simple and easy, but you're making a contribution, recommend.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-10 15:13:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGYU1-rC7T9MnNmDfyL8nhibMXkM9ZKpPhHy4ommkOxlsts6h2jbA7XuiO_M1fdxmcebD02Qs0KBrzntPg",
+        "userName": "Martin A.",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwF-IaCdX-gMi15_MHyF9maJ3rbIQh5tnLnwHOO=mo",
+        "content": "It's a shame that a lot of bothersome issues are still present after such a long time. Suggestions: 1. Better tracking of contributions, possibly user-based and with highscore lists (compare Folding) across multiple devices, which motivates additionally. 2. The app is still hardly usable on some devices. LG G8S gets so hot after a few seconds that most mornings show me not a single completed calculation. Just give us an opportunity to run the calculations at 50% of CPU power to avoid this.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.0.2641",
+        "at": "2021-05-10 11:19:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEtybTnMWxIyNgTgxDbIfCO3KGz6IFA0fE85_QNfdBmHnqL7I4EfAJX6kyjaq7brFIVm-Yh2q5Vk6tJ_kA",
+        "userName": "Ka Chun Chu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcJr_YpdscWY8fO3yGcLHPOY_kr6rUeima7Al41w",
+        "content": "WARNING: You would have to literally drain your phone's battery down to 0 percent, if running DreamLab continuously for awhile makes the phone start going into the Usage-Optimisation ('Go Straight to Gaol') mode.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.0.2641",
+        "at": "2021-05-10 06:48:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHVWzHm46bm2bTxk99fQv-P8xDUNj696P7MqU7IRvML8vupwGgUE1YCL_OBuZh8dSBv1c7qH3Ipwvhm4Js",
+        "userName": "Bin2",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_ptgfMVSP5M4kdIjyv39jKwpElhzwOZKL_lbf",
+        "content": "Much as I would love to keep using the app. It just heats up my phone too much when charging. It's not really that hot but my phone has never gotten that hot before........:/ Also for some reason it's messing up my phone charging......",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.0.2641",
+        "at": "2021-05-10 01:10:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGgJ9eWVPhy3DzSkIAZiYlCD2zYHKE5arlujBKxykdMerGOQBFcIzovgfqR3yfddxYjhkvVvhmV4ebK81A",
         "userName": "Pocket Change",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfHyz_Cvb3r82Os_OKUVZoOmWD4TeTDoMXrscK",
@@ -156,18 +228,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOEtybTnMWxIyNgTgxDbIfCO3KGz6IFA0fE85_QNfdBmHnqL7I4EfAJX6kyjaq7brFIVm-Yh2q5Vk6tJ_kA",
-        "userName": "Ka Chun Chu",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcJr_YpdscWY8fO3yGcLHPOY_kr6rUeima7Al41w",
-        "content": "WARNING: Should not attempt to run the App if you do not in fact already have a (trade/industrial-grade) powerbank, if not also a second (or even a third) phone. (Ps I would have given a 3&3/4-out-of-5 rating if I could, however.)",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.0.2641",
-        "at": "2021-04-27 19:00:11",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFwv9J_tEA6EmdLbqD2s9qMaHPjxEpREciBypFT3yApXsDfMkxo3Yo7SOix9og7ynMGEuhjSifEFjAkWrE",
         "userName": "Dee Lim",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7ndvB_G-nTJXLD2UyEU7SwMjCxvIrvyDa4jjZ=mo",
@@ -257,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXOESUa0LVGJNQSj8GvIiHHjQR3bgB69mXKwPI0w",
         "content": "I highly recommended this app. Here are a few things I do to make life easier. Before running the app. I take the phone out of its case to allow it to run cooler. I also ensure the phones battery is up to 90% before I allow the app to run. Otherwise I will have a low battery for the morning. The only disappointment is when a new update came through I lost all the data I had contributed. Again it is highly recommended.",
         "score": 5,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "3.2.0.2641",
         "at": "2021-04-22 04:05:09",
         "replyContent": null,
@@ -536,18 +596,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-07 06:41:30",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHVWzHm46bm2bTxk99fQv-P8xDUNj696P7MqU7IRvML8vupwGgUE1YCL_OBuZh8dSBv1c7qH3Ipwvhm4Js",
-        "userName": "Bin2",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_ptgfMVSP5M4kdIjyv39jKwpElhzwOZKL_lbf",
-        "content": "Much as I would love to keep using the app. It just heats up my phone too much when charging. It's not really that hot but my phone has never gotten that hot before........:/",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.0.2641",
-        "at": "2021-04-07 02:07:24",
         "replyContent": null,
         "repliedAt": null
     },
@@ -1241,7 +1289,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjM0tgOdiyHU_aNMWW-SAMDESi3ezVMwj1rSSv71cY",
         "content": "Used it for a few years. Was a good app. Then for 2 months in a row it claimed I'd used all my data allocation on the first day. Uninstalled and reinstalled and was considered a new user.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.2.0.2641",
         "at": "2021-03-05 12:20:49",
         "replyContent": null,
@@ -2069,7 +2117,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg8yzMrUS2gA6ceCZYvCV9klUuTG_oZLGviY_D7lRw",
         "content": "It's been an amazing experience. However, I am still trying to understand the science behind it, but so far I have varied my choices of research I have chosen to support, and my curiosity has brought me this far as I also monitor how I have been able to contribute to the research. It is worth a try if you love research \ud83d\ude0a",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.2.0.2641",
         "at": "2021-02-06 08:42:03",
         "replyContent": null,
@@ -2333,7 +2381,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJysf79Wh2WJMK39Nrl3dFQky3Bg2AuhWX69B6v1=mo",
         "content": "Good concept. My problem is that it kicks in whenever the phone is charging, not desirable when plugged into a powerbank. I use my phone as cycling computer and also with maps and use a powerbank so i can have the screen on all the time. If dreamlabs kicks in it drains the powerbank and phone battery at an amazing rate. It would help if it was possible to define the time period when dreamlab is active so it is restricted to overnight charging time. Running too often when not wanted so uninstall",
         "score": 1,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "3.2.0.2641",
         "at": "2021-01-28 18:26:03",
         "replyContent": null,
@@ -6636,18 +6684,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOGYU1-rC7T9MnNmDfyL8nhibMXkM9ZKpPhHy4ommkOxlsts6h2jbA7XuiO_M1fdxmcebD02Qs0KBrzntPg",
-        "userName": "Martin A.",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwF-IaCdX-gMi15_MHyF9maJ3rbIQh5tnLnwHOO=mo",
-        "content": "Insgesamt nat\u00fcrlich eine wichtige und wertvolle Idee, die App an sich hat aber noch Luft nach oben. Vorschl\u00e4ge: 1. Eine Option die Berechnungen erst ab einem gewissen Ladestand des Akkus zu starten. 2. Ein besseres Tracking der eigenen Beitr\u00e4ge, evtl. userbasiert und mit Highscore Listen (wie z.B. bei Folding) \u00fcber mehrere Ger\u00e4te hinweg, das motiviert zus\u00e4tzlich. 3. Aktuell kaum nutzbar wenn man sein Smartphone per Schnellladefunktion l\u00e4dt, weil es zu hei\u00df wird. Hier muss nachgebessert werden.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.0.2641",
-        "at": "2020-12-01 14:52:04",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFdgcg-paWkUMiNP-hBn--PzImTMJG8QYyCrY1jnVmK6eZi6EwtwH6unRyPapmIq1KHfOjslUVwttj_OfA",
         "userName": "Lee Rodrigues",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVp2Cu9_aMC7d_oNS6NTzOmX9Y8c6byl5gBgHGnA",
@@ -10441,7 +10477,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEC7TEw_NPaEE77Sf5sF-dIIJJvh_xpJDg0vkFWpQg1mla-8RWQYHxJ9DS4P_EJyNK5M5-ZgXVxPVA9LLM",
-        "userName": "abi f",
+        "userName": "bee",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgksDUMkU5oqkldAjDIZXc0IbiC8U7bRD9pEsujMm4",
         "content": "I've had to change my rating from 5 to 1. I don't know if its just my phone, but whenever I start the app up it just crashes, and never powers the charity. It hasn't been working for a week :(",
         "score": 1,
@@ -11960,42 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.1.74.2040",
         "at": "2020-07-12 09:56:47",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHFiUiOs-zlVi4ChnEPHxBUeAWA_6XS_TWSJhgcDhLlU8HOplrpXyPYPtXs-Y0PuRBVXO45bK1wLdEONVk",
-        "userName": "Simon Blyth",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMUhqJPu_bZaA95JdxkWtFmm2yLc_Us03FXaYCig",
-        "content": "Have contributed for a few years but recently it has made my phone very hot to touch so have decided to unfortunately uninstall",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.1.74.2040",
-        "at": "2020-07-12 08:42:42",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGv4h8NK0v0Hv7Kh4fUTCPWWGU5cRKPteFM1sqI-j-fB7vCegleUrdvOkaGL9o6xgbho_no4mHy_XqStyc",
-        "userName": "Sophia Wan",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyau5FegnKjLtOTtTguNlNHZERrafnlQRAF3VoS=mo",
-        "content": "It's a great app that allows me to help researchers!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.1.74.2040",
-        "at": "2020-07-11 23:14:48",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEkXDMapa5zN04DIRKHMaHnfH1hzswTSooLqtxIiyrf2TWDbezfDZUcit1U0xHL4E5tQoO7qQKpseduxM4",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Hope the time allocated when charging mobile is of use .",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.1.74.2040",
-        "at": "2020-07-11 14:12:44",
         "replyContent": null,
         "repliedAt": null
     }

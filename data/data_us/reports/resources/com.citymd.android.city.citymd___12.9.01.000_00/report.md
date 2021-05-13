@@ -187,6 +187,8 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Quick doctor on call.<br> :date: __2021-05-12 19:15:44__
+
 > Knowledgeable<br> :date: __2021-05-09 14:32:31__
 
 > Very knowledgeable and kind<br> :date: __2021-05-07 15:16:48__
@@ -204,8 +206,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Awesome experience thanks Maureen<br> :date: __2021-04-03 16:52:03__
 
 > Very helpful and professional<br> :date: __2021-03-31 01:19:57__
-
-> So convenient and the doctor was wonderful! Saved me a trip down to the Urgi center in the middle of a storm and during the pandemic<br> :date: __2021-03-19 02:16:41__
 
 
 

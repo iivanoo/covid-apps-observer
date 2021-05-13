@@ -142,6 +142,10 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 5 reviews"/>
 </p>
 
+> Boeiend en gemakkelijk<br> :date: __2021-05-11 18:45:05__
+
+> Staat altijd aan zonder ingewikkelde dingen<br> :date: __2021-05-10 22:04:31__
+
 > Het is goed dan kunnen we elkaar helpen<br> :date: __2021-05-07 20:15:13__
 
 > Niet<br> :date: __2021-05-07 11:19:36__
@@ -157,10 +161,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 > Bravo!!<br> :date: __2021-05-01 17:23:00__
 
 > Vind erg veel beter waarschuwing ander<br> :date: __2021-04-30 16:26:26__
-
-> Profeschionees<br> :date: __2021-04-30 08:37:24__
-
-> hij doet het goed<br> :date: __2021-04-29 13:10:07__
 
 
 
@@ -198,6 +198,8 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 3 reviews"/>
 </p>
 
+> Wanneer wordt in de app zichtbaar of je al gevaccineerd bent.? Of komt daar een andere app voor.?<br> :date: __2021-05-11 03:58:08__
+
 > Het is erg zuipende app, ik gebruiken hem toch nauwelijks<br> :date: __2021-05-06 15:48:27__
 
 > 6 dagen na contact met iemand die positief is krijg ik PAS een melding. Ook nog met de melding dat ik uit buurt moet bliiven van mensen met zwakke gezondheid. Beetje laat dat je melding dan krijgt.......<br> :date: __2021-05-04 15:09:56__
@@ -216,8 +218,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Ik heb nu voor de 2e keer een melding gekregen van een besmetting van iemand waarbij ik 15 minuten dichtbij zou zijn geweest. Beide keren onmogelijk omdat ik het huis niet ben uit geweest op die dagen. Heel jammer dat de app deze "valse" meldingen geeft.<br> :date: __2021-04-17 11:22:22__
 
-> Op zich prima app. Tot nu toe geen valse meldingen gehad zoals anderen hier wel zeggen gehad te hebben. Enige vervelende is dat ik sinds een week of wat elke avond een waarschuwingsmelding krijg dat de app 24 uur niet heeft kunnen controleren door een technisch probleem. Het enige dat ik kan doen, is kiezen voor opnieuw proberen. Daarna gaat de boel weer op groen tot de volgende avond. Dan krijg ik weer die melding. Bij laatste check staat een datum van een dag of 7 geleden. Schiet niet op zo.<br> :date: __2021-04-15 20:33:25__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,10 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 2 reviews"/>
 </p>
+
+> Op dit moment drama Iedere dag een melding dat de app niet actief is<br> :date: __2021-05-11 20:42:16__
+
+> Nooit melding gehad<br> :date: __2021-05-10 09:11:36__
 
 > Valt elke keer uit en moet opnieuw opstarten<br> :date: __2021-05-08 09:16:12__
 
@@ -242,10 +246,6 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 
 > Nog steeds zijn er privacy problemen met de app, heel erg slecht dat het nog steeds niet is opgelost. Heb uiteindelijk besloten om de app te verwijderen ook omdat er geen collega's en andere in mijn buurt de corona melder gebruiken. Hou mij aan de afstand.<br> :date: __2021-04-28 21:03:13__
 
-> Zojuist een melding gekregen dat ik zondag bij iemand met corona ben geweest. Ik was op de camping en heb niemand gezien. Hoe dan?<br> :date: __2021-04-28 11:02:44__
-
-> Kreeg op 16 april een bericht dat ik op 17 december in contact was gekomen met een positief persoon... Waardeloos bestaat niet, maar voor de Rijksoverheid komt dit dicht in de buurt.<br> :date: __2021-04-25 09:34:46__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,14 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.en 1 reviews"/>
 </p>
+
+> Ik was met iemand in aanraking geweest maar dat was niet zo ik was de hele week wel thuis dus gelijk verwijderd<br> :date: __2021-05-12 21:52:58__
+
+> Krijg iedere keer de melding dat hij het niet doet<br> :date: __2021-05-11 18:59:22__
+
+> Ik ben een wappie<br> :date: __2021-05-10 19:51:57__
+
+> Nog nooit een melding gekregen, zelf niet nu mijn thuiswonende dochter met app positief is getest!<br> :date: __2021-05-10 08:35:02__
 
 > Hij gaat iedere keer uit!<br> :date: __2021-05-09 12:41:28__
 
@@ -265,13 +273,5 @@ The CoronaMelder app has been installed by more than **1000000** times. At this 
 > Niet geoptimaliseerd, wil dingen die ik niet il<br> :date: __2021-05-06 15:25:33__
 
 > Alle dagen moet ik de app opnieuw activeren, vandaag of morgen verwijder ik. Heeft zo geen zin, het principe is mooi maar het moet wel werkem<br> :date: __2021-05-05 20:05:04__
-
-> De batterij verbruik op de S20 is dramatisch naar een halve dag zit dat al op 9 % zonder melder is dat 50%.<br> :date: __2021-05-05 12:31:40__
-
-> Hahaha 🤣🤣🤣🏃🏃🙋<br> :date: __2021-05-05 01:16:58__
-
-> Hoe kan ik de code scan krijgen o. Te tonen dat ik 2x ben ingeënt<br> :date: __2021-05-04 18:21:38__
-
-> Melding n.a.v. bezoek aan teststraat. Kennelijk is het advies de app uit te zetten als je naar de teststraat gaat. Wellicht een idee om ergens duidelijk te communiceren? Nu moet ik weer een test gaan doen.<br> :date: __2021-05-02 15:25:43__
 
 

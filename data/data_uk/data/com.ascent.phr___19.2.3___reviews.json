@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOGpDlL2Oh-R5dEpvKcJHFV-Eg74CrlvVGvxyEJ1dbtsREky-ivB2OB_283VLyAPqnxlUmtKg3Doi04dKw",
+        "userName": "Mal Beckford",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghkj3-eHQC1P9Y4D0NCwsKWqVrm1EvLpg8xjZ1P3Q",
+        "content": "As usual, its not broken so , obviously, fix it! Proggies, you've made this a \"World class\" app..(Not!).. If only it would accept my passwords just like it used to do. I'm off down to the pharmacy to put in a prescription request now.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.2.3",
+        "at": "2021-05-13 11:48:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFugEktGDO338PO6b-8K-BbAQwZykdVryH3Var26YmLERNGh391i6nMMUgcZY1oThHQHgX7tey4uteVnw",
+        "userName": "Barbara Buckley",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrZJHAN00-M4lw7CI47qdYBTOZpCD_E-xB3GvD=mo",
+        "content": "quite easy to do",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.2.3",
+        "at": "2021-05-12 14:58:22",
+        "replyContent": "Thanks for the great review! We love to hear that our users are finding the services easy to use.",
+        "repliedAt": "2021-05-13 10:16:59"
+    },
+    {
+        "reviewId": "gp:AOqpTOFpwGnwCv86f0nkToYcT4eO_vvan9hoz_rMZWg5Na4hylL6IZEySiNad22p1vcOVsOftfcnyamsHFZfCw",
+        "userName": "Lee Baker",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWxNzU0Z4fuciTpTYQNf4FF46i765XXYcjSVU1-No",
+        "content": "very useful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.2.3",
+        "at": "2021-05-09 23:15:13",
+        "replyContent": "We love to hear that our users are finding the services useful, thanks for the great review!",
+        "repliedAt": "2021-05-10 09:53:26"
+    },
+    {
         "reviewId": "gp:AOqpTOG1J2vDIJL1UNcIjn1mRLiNAjlLLCbU7hawHSuqS3qNBAXH6DNcs7vY7xoj0toS7g_AZ2e92QqgeE3eFQ",
         "userName": "Himel Roy",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJydIbURu8xAGsgOe4jbS4FdQkKyPGeTR-qPE5JK=mo",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.2.3",
         "at": "2021-05-09 11:46:56",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for taking the time to leave us a great review!",
+        "repliedAt": "2021-05-10 09:53:00"
     },
     {
         "reviewId": "gp:AOqpTOHkSIcSCX9ZFx_6JwYFiIP-GtO7s0Z4vjOZN52Fcwjom3eui5veiiSCqvCVBl2f2VJoB05ZysPnLeFt_Q",
@@ -41,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggkX-lroXlPxlc9ChmT_CaQtCJQL02GhFSepymlA",
         "content": "This app is 10 times better than Patient Access. It's very interactive and keeps the user up to date in many areas like health and well being, including your rights as a patient to having access to your records.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "19.2.3",
         "at": "2021-05-02 09:35:47",
         "replyContent": "Thanks for the positive review! We love to hear that our users are getting the most out of the services we're providing. If you have any feedback or improvement suggestions, do let our customer support team know. You can email hello@evergreen-life.co.uk or call them on 0161 768 6063. We're always trying to improve on the functionality of the app.",
@@ -557,7 +593,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8nCIUxows-ekEQtcRQ2loKVrTeUDCtdEiMcr1=mo",
         "content": "Good, but the app freezes quite a lot. The full DNA results actually caused more questions that couldn't be answered due to a lack of clarity in the original answers. The questions around daily health involve a community question and if you aren't community minded in their opinion your score hits the floor. People can be happy without being involved in community. I use it daily just to register my covid status. Would I be using it otherwise, probably not.",
         "score": 3,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 13,
         "reviewCreatedVersion": "19.1.4",
         "at": "2021-03-21 11:53:58",
         "replyContent": "Thanks for the review. We often advise our users to share their DNA results with a professional in order to make the most of the results. For example a gym instructor may use the Fitness results to help design a bespoke workout plan for example. Your feedback comments regarding the \"community/wellness\" questions will be passed to our content team.",
@@ -605,7 +641,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVE09_x2XnTFawwa0QqmceZlVSEh4Kk4dKS87Q4Oc",
         "content": "Cannot get on the app, click forgotten password, get emailed code, enter code, and it asks security question, answer question and get message too many failed attempts, account temporarily suspended, come back a month later, and get same message on first security question answer, so just how long is your idea of temporary?",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "19.1.4",
         "at": "2021-03-13 20:15:59",
         "replyContent": "Hi Robert, can you get in touch with our Customer Support team who will be able to help further please.\nYou can email them at hello@evergreen-life.co.uk or call them on 0161 768 6063 We look forward to helping you.",
@@ -6542,7 +6578,7 @@
     {
         "reviewId": "gp:AOqpTOFf_pTw_0LTAhrOJtUrSD3YpMHDKmW1Cz-a1sRvkAXk62M08VioZ3PV4VSuWIf86Vcqrg_zM7hcgBw5-g",
         "userName": "Mat Parry",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJylFKZ6Aexu-UNrS_L3qQIRsvCLpMNJfrJFYJ40=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVsHAEiynTfHbUQDJxh5I75YmlAn0ohQumzco5",
         "content": "Really simple and easy to use",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8774,7 +8810,7 @@
     {
         "reviewId": "gp:AOqpTOHpDSqjeE6KFMH5YsZ-sQicSlczcs5UFCu-otnyz7tAnInFebvj6zptO17i-Ptidbp-a8bP4Pk5BF2Q4Q",
         "userName": "Kathleen Stocks",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0iG-8V2FvJ5QP_sSFUkf3IqGTj7BmS-8ED7J6Zw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikkRa6YVUpBATDdTD80cYOkUp6zI3Qob-E8cQpxdQ",
         "content": "Always quick & easy to use, order prescriptions, no problems.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11962,41 +11998,5 @@
         "at": "2019-05-29 03:16:08",
         "replyContent": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at hello@evergreen-life.co.uk!",
         "repliedAt": "2019-06-07 11:20:53"
-    },
-    {
-        "reviewId": "gp:AOqpTOH9SrsgBPFtZP2wlTLG4svxzrS0RQ3nRvU10UGpfGfQchaZukmIQwGySmZ7jBDRmLDdiTEMf6bEQrMgEQ",
-        "userName": "David Sharpe",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlRTJ0A5J_T33O-mxE2Mtr1VpsAk9LDxfA35jnjQ",
-        "content": "Excellent",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-05-29 00:21:56",
-        "replyContent": "Thanks a lot for your rating!",
-        "repliedAt": "2019-06-07 11:21:03"
-    },
-    {
-        "reviewId": "gp:AOqpTOEIZFo4hiZqJ0dOD-v6gi--06OCS_G7l4u-CHqDfPX9u_jemkaZpdLLUyt_Qgh1V_-ekz5fht2GouzP6g",
-        "userName": "Mr T",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj24SyyuZLBDNb_3HpYecTTvf07Q2ShiIXVoeY",
-        "content": "good app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-05-28 16:41:06",
-        "replyContent": "Thank you very much",
-        "repliedAt": "2019-06-07 11:21:11"
-    },
-    {
-        "reviewId": "gp:AOqpTOFUkTdNI7G69w28LWpBkjn0tiw1z68A2qk-skd69PxJr8c-OSOjO9RBTZQuXSuyt5rTLzM_tDk38cMxDw",
-        "userName": "Abz Osman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEYn-IIos0JwvTvAMVYHujEyZw7Yr0A14g0WSB3A",
-        "content": "Great and very easy to order my meds",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-05-28 16:34:54",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2019-06-07 11:21:15"
     }
 ]

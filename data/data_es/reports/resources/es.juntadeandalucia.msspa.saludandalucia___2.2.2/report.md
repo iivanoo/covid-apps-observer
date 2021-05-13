@@ -140,7 +140,11 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
-> Buena<br> :date: __2021-05-07 19:17:41__
+> Me parece muy útil pero he querido descargar el certificado Covit y me dice que no dispongo de certificado y estoy vaçunado desde el 28 de marzo. Alguien me puede dar información como obtenerlo?, Gracias<br> :date: __2021-05-13 00:54:47__
+
+> Me gusta y es fácil de utilizar<br> :date: __2021-05-12 11:21:49__
+
+> Buena<br> :date: __2021-05-09 18:29:44__
 
 > Muy util<br> :date: __2021-05-06 12:30:01__
 
@@ -155,10 +159,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > Buena<br> :date: __2021-04-27 17:29:42__
 
 > Me ha funcionado perfectamente<br> :date: __2021-04-09 15:55:01__
-
-> Buena<br> :date: __2021-03-29 07:07:30__
-
-> Funcionamiento perfecto. Alta de usuario sin problema con el certificado digital de la FNMT.<br> :date: __2021-03-16 19:46:28__
 
 
 
@@ -196,6 +196,10 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 2 reviews"/>
 </p>
 
+> app muy poco fiable. Reconoce de modo muy errático el certificado de fnmt. Exige continua autenticacion. Pesadisima<br> :date: __2021-05-12 17:38:57__
+
+> No es muy intuitiva y tarda bastante en cargar , algunas veces no se puede abrir los archivos y es un engorro<br> :date: __2021-05-12 10:52:10__
+
 > No me permite entrar con mi cl@ve pin permanente a pesar de estar comprobada.<br> :date: __2021-05-07 22:37:39__
 
 > Falla al solicitar activar notificaciones. Imposible confirmar código sms<br> :date: __2021-02-27 07:15:23__
@@ -216,24 +220,24 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> No funciona la autenticacion. Otra app encargada a una empresa que luego no funciona porque el backend no esta preparado para ello, por volumen, por velocidad o por eficiencia<br> :date: __2021-05-08 20:16:08__
+> No puedo sacar el certificado de vacunacion al final tendre que ir al mi centro de salud<br> :date: __2021-05-13 00:46:37__
 
-> Totalmente inútil. NO sirve para nada. Da constantemente errores incluso desde que intentas identificarte. Lo peor que he visto.<br> :date: __2021-05-08 14:29:42__
+> No funciona. No me deja entrar con mis datos, me pone información inválida...<br> :date: __2021-05-12 21:33:02__
 
-> No deja introducir los datos para bajar el certificado<br> :date: __2021-05-07 21:26:33__
+> Si hubiera cero o menos 10, se lo pondría. Quién habrá hecho la aplicación???? No vale ni para forraje!!!!<br> :date: __2021-05-12 20:03:19__
 
-> Fatal. Se te pone cara de pánfilo. Después de estar un rato introduciendo datos me dice la app que se ha producido un error y que lo intente más tarde. Acojonante.<br> :date: __2021-05-07 14:38:14__
+> Dice que los datos introducidos no son validos<br> :date: __2021-05-12 19:01:15__
 
-> Nefasta<br> :date: __2021-05-07 14:09:48__
+> Vaya una basura, sois una panda de ratas que no merece perdón<br> :date: __2021-05-12 13:58:09__
 
-> No sirve para nada. Perdida de tiempo. No la instales<br> :date: __2021-05-07 02:43:17__
+> No funciona ,no puedo entrar ni por Clave ,ni por datos personales , siempre da error<br> :date: __2021-05-12 12:58:03__
 
-> El COVID no existe. ¡Despierta! 💉☠️<br> :date: __2021-05-06 12:14:49__
+> Para el usuario normal es el Laberinto de Teseo ....Ni el Banco te pone tantas pegas.... Para llevarlos al Museo Británico....Digno de estudio.<br> :date: __2021-05-12 04:30:57__
 
-> No entiendo que sigan que se puede entrar con datos personales cuando no es así, no todo el mundo tiene ni cl@ve, ni certificado digital, a la hora de poner el numero de tarjeta sanitaria en el apartado AN no te deja clicar, por lo tano nunca va estar completo el número<br> :date: __2021-05-06 12:11:19__
+> Por favor, que dejen vacunar en las farmacias. Con 63 años, y aún no me han llamado.<br> :date: __2021-05-11 06:38:56__
 
-> Nefasta<br> :date: __2021-05-05 19:18:05__
+> No funciona, es imposible acceder al certificado de vacunación.<br> :date: __2021-05-10 23:53:18__
 
-> No me reconoce el número de la tarjeta sanitaria<br> :date: __2021-05-05 19:15:38__
+> Aunque aparece la opción de registrarte con datos no te permite hacerlo y por lo tanto no puedes usarla<br> :date: __2021-05-10 08:48:33__
 
 

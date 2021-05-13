@@ -217,6 +217,8 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> No actualiza la información. Llevamos dos días sin estado de alarma, pero allí sigue indicado como si todavía estuviera en vigor.<br> :date: __2021-05-11 09:22:27__
+
 > Se bloquea cada vez que intento entrar...<br> :date: __2021-05-07 00:55:49__
 
 > No se actualiza<br> :date: __2021-03-26 08:37:45__
@@ -234,7 +236,5 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 > Porque no se puede poner 0 estrellas. Ni siquiera se inicia la aplicación. Actualicenla, estamos esperando, año 2021<br> :date: __2021-02-17 07:57:20__
 
 > Sólo en catalán<br> :date: __2021-02-14 13:21:11__
-
-> Només baixar l'aplicació, no em deixa ni obrir-la.<br> :date: __2021-02-11 19:50:12__
 
 

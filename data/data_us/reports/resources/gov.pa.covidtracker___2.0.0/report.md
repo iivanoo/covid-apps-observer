@@ -254,6 +254,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Old data. The paper has more current numbers. How is that even possible?<br> :date: __2021-05-12 15:15:20__
+
+> Privacy concerns - after all the promises of privacy and safeguards, 70,000 people had their private information from the company doing contact tracing leaked online. Pass on the government Spyware.<br> :date: __2021-05-12 13:35:48__
+
 > Tt Is<br> :date: __2021-05-05 22:18:12__
 
 > This app just had a huge data breach<br> :date: __2021-05-03 15:16:08__
@@ -269,9 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > USELESS APP<br> :date: __2021-04-25 14:23:12__
 
 > It downloaded itself on my phone I do not care about the alerts honestly I know theres a pandemic that's not fake but I'm not going to listen to things that makes me more afraid and also dont force people to download your app when we dont want to use it horrible app<br> :date: __2021-04-24 04:43:49__
-
-> This app only works if people report their symptoms. So if no one does then you know if you've come in contact with anyone with the Chinese virus. I work all around Pittsburgh and you always hear about numbers going up. Either this app doesn't report it or the government is lying.<br> :date: __2021-04-23 18:26:13__
-
-> I hope this app die<br> :date: __2021-04-19 19:36:31__
 
 

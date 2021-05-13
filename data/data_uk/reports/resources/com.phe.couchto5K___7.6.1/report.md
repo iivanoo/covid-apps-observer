@@ -156,25 +156,25 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.phe.couchto5K 5 reviews"/>
 </p>
 
-> I doubted I could run 5k but this plan is brilliant, it does push you just enough but I can confirm it works having just completed my final run this morning. At the pace I run I was around 1.5k off making the 5k but found today my fitness had been upped enough to run on and actually complete the final run at 5k. Brilliant app and turned a non runner into someone who now quite enjoys it.<br> :date: __2021-05-09 14:07:44__
+> Great app, very encouraging<br> :date: __2021-05-13 09:41:04__
 
-> Nice step approach to running. Easy increase each week<br> :date: __2021-05-09 12:45:12__
+> Excellent have never ran in my life before and am really enjoying it best way to start running brilliant app<br> :date: __2021-05-13 08:28:10__
 
-> Started using it and did the first 2 runs fine. I bought a new Samsung A52 and put the app on that . Had to go through setting it up again and got to " let's get started" and it wouldn't go any further? Don't know 8f it's my phone or the app. Will have to go back to my old phone for the run.<br> :date: __2021-05-09 11:49:29__
+> Excellent program that really works for all abilities and sizes!<br> :date: __2021-05-13 00:28:18__
 
-> Great app to get to 5k<br> :date: __2021-05-09 10:46:55__
+> Excellent<br> :date: __2021-05-12 22:02:08__
 
-> This app is a life saver recommending it to everyone that what to start doing something for them self brilliant app plus they have another app where it guide you about food and gives you ideals<br> :date: __2021-05-09 10:19:13__
+> Really good. Just completed week 4.<br> :date: __2021-05-12 11:57:34__
 
-> Great App managed to graduate and used Sarah as my coach! Never thought I could do it but its really simple to follow easy to use and no issues with the app for me. Wish there was a 5 to 10k to keep building.<br> :date: __2021-05-09 09:46:34__
+> Great app, kept me going and I made it from not being able to run more than 10 steps to running 5k so it really worked!<br> :date: __2021-05-12 10:43:49__
 
-> Amazing programme and it's free!<br> :date: __2021-05-09 09:04:59__
+> Brilliant attainable goals, you end up progressing without even realising. Brilliant app!<br> :date: __2021-05-12 09:35:22__
 
-> Really clear and easy to use app, thanks :-)<br> :date: __2021-05-08 22:12:21__
+> Great<br> :date: __2021-05-12 07:46:21__
 
-> I didn't think anything could get me running. Now I'm on week 4 and enjoying it. Jo Whiley as trainer is so encouraging!<br> :date: __2021-05-08 17:57:12__
+> What a fantastic app, Really great and very helpful. Very easy to use and great coaching from Laura. 🏃‍♂️🏃‍♂️🏃‍♂️<br> :date: __2021-05-12 07:30:14__
 
-> Good experience great app<br> :date: __2021-05-08 17:06:14__
+> It's a great app thank you<br> :date: __2021-05-12 07:29:18__
 
 
 
@@ -183,6 +183,14 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.phe.couchto5K 4 reviews"/>
 </p>
+
+> Love this app but I hate that you can't turn the trainers voice off, I like having the visual cue of the app rather than someone talking to me.<br> :date: __2021-05-13 13:19:42__
+
+> Thought it was great. But it was impossible for me to cover 5k in 30 minutes in fact I think I could only achieve 4.5km in 30 mins. I am 56 and have never run before. I plan to continue with next target of 5k in 30 minutes. I am struggling to imagine I could go any faster because each run I gave 100%. I have pushed the last few runs and have achieved 5.8k in 39 mins.<br> :date: __2021-05-11 10:13:05__
+
+> Good experience.<br> :date: __2021-05-10 21:18:51__
+
+> I love the background support and encouragement. I didn't complete the running due to tight muscles but continue to stretch out and use this for my rowing machine. It has greatly improved my endurance.<br> :date: __2021-05-10 14:17:29__
 
 > Pretty good 👍<br> :date: __2021-05-09 11:30:37__
 
@@ -196,14 +204,6 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 
 > Very easy to use. Simple and just guides you through your run. Fantastic. If you want to record your activities, use something like Fitbit as well. Even better if age category related programs existed.<br> :date: __2021-05-06 14:06:38__
 
-> Very good.<br> :date: __2021-05-06 13:50:11__
-
-> A very good app for putting the tiger in you .<br> :date: __2021-05-06 05:57:05__
-
-> Convenient and very encouraging. Found some of the jumps from one run to the next rather difficult.<br> :date: __2021-05-05 18:22:10__
-
-> Good reason to motivate yourself. Sometimes dies in the middle of a session and starts again. But can be ffwd to where you were. You can also redo previous weeks if it's going too fast which isn't really clear in the app.<br> :date: __2021-05-05 10:33:12__
-
 
 
 #### 3-star reviews
@@ -211,6 +211,8 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.phe.couchto5K 3 reviews"/>
 </p>
+
+> Works perfectly on an iPhone, pretty terrible on a Samsung galaxy.<br> :date: __2021-05-12 03:34:32__
 
 > It's great it tells you what to do but not so great you can't play music in the background, even with the options it gives you, it stops when the speaker starts talking.<br> :date: __2021-05-01 15:42:44__
 
@@ -230,8 +232,6 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 
 > Great Idea! Very basic, app need work. Issues include: Volume of narrator is very low compared to other apps at the same phone volume level so I can't play music while trying to listen to instructions. Silent running for me. Not intuitive and I consistant, on the last day week two second to last run is the only time Sanjeev does not tell me to start running. Pointless celebrity Voices, they all say the exact same thing... What's the point? I genuinely thought they had recorded it for someone.<br> :date: __2021-04-15 08:23:54__
 
-> Great app, but since the update I have lost my coach, so not much point to it after that. Before I lost my coach, it was a great app, gave you motivation and teaches you well.<br> :date: __2021-04-14 08:13:40__
-
 
 
 #### 2-star reviews
@@ -239,6 +239,8 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.phe.couchto5K 2 reviews"/>
 </p>
+
+> Brilliant idea, poor execution. The app is crashing, which results in resetting the day/run progress and second instance somehow running in background, still playing comments.<br> :date: __2021-05-13 14:11:52__
 
 > Is there any settings to stop the app from not working when the phone screen is off?<br> :date: __2021-04-26 10:30:31__
 
@@ -258,8 +260,6 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 
 > Was good the first few uses, but the last 3 runs the app has stopped multiple times so I have to restart the run or just guess when to stop jogging, it's very frustrating. I've double checked my settings and they're how they should be. Think I will end up uninstalling.<br> :date: __2021-03-29 13:25:48__
 
-> For some reason, on a Pixel phone, the audio will only work when live caption is turned on...which then uses additional battery. Thought it might be an issue with the app, but tried it on an iPhone and a Motorola running Android 8, no problems there at all. Kinda embarrassing that Google's phones are having such an issue on their own app platform.<br> :date: __2021-03-28 19:54:24__
-
 
 
 #### 1-star reviews
@@ -267,6 +267,10 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.phe.couchto5K 1 reviews"/>
 </p>
+
+> Closes down when in use very annoying when your trying to run 11/05/2021 still closes down never closed down on my Samsung phone<br> :date: __2021-05-11 18:59:01__
+
+> Excellent programme to get you running.<br> :date: __2021-05-10 11:54:58__
 
 > Downloaded several times but can't get past the 'let's get started' page. I have now uninstalled it.<br> :date: __2021-05-07 17:51:51__
 
@@ -283,9 +287,5 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 > Since update it doesn't work. Used to be brilliant.<br> :date: __2021-04-23 10:21:10__
 
 > Rubbish now its updated. Old version was perfect<br> :date: __2021-04-21 19:14:03__
-
-> Can't open it 😕<br> :date: __2021-04-17 10:46:59__
-
-> Downloaded so many times and followed all instructions to get it work and it fails every single time! In addition the settings don't account for new hauwei phones!<br> :date: __2021-04-16 20:13:18__
 
 

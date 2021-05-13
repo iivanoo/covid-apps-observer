@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFwwe3bLe5sgw9nfaW_9nWsx8q1cE66PN2t0hJv0tmUeBr-8sSwD1UBedpZULGCk_tu6akLD-vOaK8Jfg",
+        "userName": "\u0418\u0432\u0430\u043d \u041a\u0430\u0440\u043f\u0443\u0445\u0438\u043d",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiywSR7I7mvhW3dwNHiNokYwvKeaomatyQL-tsc4Q",
+        "content": "\u044e\u0443\u0436\u0435\u043b\u04386.1\u043a.\u0443\u043b",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-12 17:38:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEvBCB4Yfmjpuvp9YaUXfsL7NVBd06v3PdGLqf6IctqltuiEKDvl0HAFNAtH5ZllwlM6YUxY5jPS6ZcfQ",
         "userName": "\u041e\u043b\u0435\u0433",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9vKbdmQTOSjjGOVqimjc21voGfMXvjwpBuroZ=mo",
@@ -1469,7 +1481,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxpd6uYAt1VIs38gO-DDMBqdbx9P6rs65SNAP8_=mo",
         "content": "\u041d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043d\u0430 \u0430\u043d\u0434\u0440\u043e\u0438\u0434\u0435 6 \u0438 \u043d\u0438\u0436\u0435. \u0428\u043b\u0430\u043a, \u0443\u0434\u0430\u043b\u044f\u044e... \u0440\u0430\u0437\u0440\u0430\u0431\u044b - \u043d\u0435\u0434\u043e\u0443\u0447\u043a\u0438... \u0423\u0432\u044b \u0438 \u0430\u0445, \u0438 \u0431\u044b\u043b\u043e \u0432\u0438\u0434\u043d\u043e \u0441 \u0441\u0430\u043c\u043e\u0433\u043e \u043d\u0430\u0447\u0430\u043b\u0430.",
         "score": 1,
-        "thumbsUpCount": 193,
+        "thumbsUpCount": 192,
         "reviewCreatedVersion": "1.1.1",
         "at": "2020-06-03 17:59:00",
         "replyContent": null,
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-04-21 22:28:26",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFi-30YNHV0Yk2FKqV5E-E9q9WJhadLtJcMLqxCld5qdav8IN7kSZKIPZaBfqPB53_yPa8B-EK48Hy9Jw",
-        "userName": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFTZrD2MKiO_TVCNU9gPBopcqbhdTRtc6T4uvppw",
-        "content": "\u0423\u0436\u0430\u0441\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
-        "score": 1,
-        "thumbsUpCount": 5,
-        "reviewCreatedVersion": "1.0.6",
-        "at": "2020-04-21 21:45:15",
         "replyContent": null,
         "repliedAt": null
     }

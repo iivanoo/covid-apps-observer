@@ -188,9 +188,11 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
-> Works fine<br> :date: __2021-05-04 02:46:42__
+> Assist needed they salfasin, thorazine me<br> :date: __2021-05-12 21:59:09__
 
-> Assist needed<br> :date: __2021-04-19 01:04:18__
+> Relevant information right where I need it. Thanks for the great App. !!<br> :date: __2021-05-09 21:11:00__
+
+> Works fine<br> :date: __2021-05-04 02:46:42__
 
 > Excellent thanks<br> :date: __2021-04-01 14:53:52__
 
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > (Teaches us to stop the spread of germs by washing our hands)!<br> :date: __2021-03-10 14:45:32__
 
 > Great<br> :date: __2021-03-08 23:09:32__
-
-> Very Thankful! On time updates Always available!!<br> :date: __2021-03-05 15:09:39__
 
 
 
@@ -272,6 +272,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Can't open app<br> :date: __2021-05-10 17:55:50__
+
 > Slow and difficult to navigate<br> :date: __2021-04-22 21:32:17__
 
 > Great if you want info fed to you that you're not looking for. Otherwise hard to find the info you want.<br> :date: __2021-03-25 18:50:37__
@@ -290,8 +292,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 
 > No covid-19 disease case count?<br> :date: __2020-06-26 02:32:43__
 
-> Informative, not an exposure tracker. This app also has no notifications.<br> :date: __2020-06-13 04:07:56__
-
 
 
 #### 1-star reviews
@@ -299,8 +299,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
-
-> You c wardlyK h a z a r i a n s. Your real saying is Build Back Worst since thats what you hypocrites are doing only wanting unintelligible m 0 n gr e l ized s I a v e s! Hypocrital n a r c s your crimibal c a b a l needs to be reset and put away instead!<br> :date: __2021-05-08 08:01:05__
 
 > Crashes when I try to download a chart.<br> :date: __2021-05-03 18:37:24__
 
@@ -319,5 +317,7 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > Impossible to find your way around.<br> :date: __2021-02-05 20:15:20__
 
 > Lies and misinformation. Waste of time<br> :date: __2021-01-11 18:28:55__
+
+> Think they have a virus<br> :date: __2020-11-19 01:08:32__
 
 

@@ -209,6 +209,16 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
+> So many good features and so we'll designed<br> :date: __2021-05-12 03:42:07__
+
+> I have WiFi. Service NSW have a good review<br> :date: __2021-05-12 03:12:43__
+
+> Great, easy to use<br> :date: __2021-05-10 08:03:34__
+
+> Good<br> :date: __2021-05-10 07:16:22__
+
+> 09/10<br> :date: __2021-05-10 04:00:22__
+
 > Very helpful<br> :date: __2021-05-09 15:00:06__
 
 > 💯Excellent for Driver's Licence! Great QR Check-in! 👍👌😊👌👍 NOT WORKING?! UNINSTALL & REINSTALL -OR- UPDATE DATE & TIME! 10/10 💯 Galaxy S10+ OS 11<br> :date: __2021-05-07 21:38:17__
@@ -218,16 +228,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 > Great<br> :date: __2021-05-07 05:09:23__
 
 > Great service<br> :date: __2021-05-06 10:46:33__
-
-> On my Samsung galaxy j8 the Digital scanner not was working, despite reinstall and numerous logging-in attempts. However after this was brought to the attention of the developer an updated version was released which seems to have solved the problem!<br> :date: __2021-05-06 02:42:12__
-
-> Suddenly I cannot connect to Service NSW app.<br> :date: __2021-05-06 02:31:12__
-
-> Easy to use..<br> :date: __2021-05-06 02:04:44__
-
-> Exsellent<br> :date: __2021-05-03 08:16:41__
-
-> Very good<br> :date: __2021-05-02 23:46:39__
 
 
 
@@ -265,6 +265,12 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
+> thuio ju<br> :date: __2021-05-13 09:35:46__
+
+> It works great then after a month it won't focus on code, I have uninstall the install to get it to work again??<br> :date: __2021-05-12 11:43:49__
+
+> Functional improvements needed * login: takes a lot longer than it should because keypad doesn't immediately pop up. Makes people in lines impatient, and I bet some people don't checkin because of this hassle * Manual edits for check-in Covid Safe function: occasionally I need to update my checkin/out times but I can't seem to. This would give more accuracy to Health contact tracers.<br> :date: __2021-05-11 04:08:27__
+
 > Generally ok, constant issues with covid-19 check-ins as well as inconvenient de-linking of my driver's license.<br> :date: __2021-05-08 06:14:23__
 
 > Gr8 app for checkin when rego due ,demerits an vouchers available etc an digital license if u forget ya wallet<br> :date: __2021-05-07 03:35:16__
@@ -279,12 +285,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > To many loops that bring you back to the same place. Extremely difficult to make contact without interogation<br> :date: __2021-04-17 10:31:30__
 
-> Slow to update<br> :date: __2021-04-15 01:25:49__
-
-> Only giving it 3 because how long is the photo id for proof of age<br> :date: __2021-04-14 14:10:31__
-
-> If this is the Services NSW app, why can't I read the current value of my senior's travel card or see my Dine and Discover details? Where is my Opel card? It is good for my licence, but when I want to log in to a Covid Safe site it locks up. I don't want to be too critical of someone's effort it providing the information it does provide. Buy really! It does seem to have some serious limitations.<br> :date: __2021-04-10 06:49:43__
-
 
 
 #### 2-star reviews
@@ -292,6 +292,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
+
+> The app has generally been good to use, however it is slow to recognise a fingerprint or pin & it also has an abnormally high battery usage, draining around 17% each day after just a check-in or two.<br> :date: __2021-05-12 13:47:35__
 
 > Digital driving licence not appearing on Samsung's galaxy s21 ultra ... works fine on my pixel 3a ... plx fiz asap as I will have to carry my card for id<br> :date: __2021-05-07 04:53:37__
 
@@ -311,8 +313,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Was working fine up until today. It's saying that my phone is using "non standard software". I haven't installed or changed anything and was using it just fine the other day.<br> :date: __2021-04-08 10:22:17__
 
-> Does not work<br> :date: __2021-04-06 01:01:25__
-
 
 
 #### 1-star reviews
@@ -321,24 +321,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
+> Doesn't accept my valid email. Doesn't work with recovery ph number. Uninstalled due to above issues. But will just rely on my phones inbuilt QR scanner. Less stress, and it actually works better and as intended. If apps don't work properly they automatically get 1 out of 5 stars. Edit: oh and got a suspicious txt which had a mobile number which doesn't match any official numbers any .gov uses. Yeah nah. Pass.<br> :date: __2021-05-13 17:15:24__
+
+> On library advice for covid safe, tried setup new account, discov already had account. Attempts to login slowed by p/w issues. Finally accessed, but got error saying "details mismatch". Accepted req to get emailed ident code. Code didnt arrive after 2 tries, then threatened with lockout. Half hour time wasted, still have to sort out over phone. Wont be using app to use library. Stress & wasted time - for what?<br> :date: __2021-05-12 23:27:12__
+
+> How dare you delete my review ! it's the truth it is useless! and a waste of time . and how dare you not get back to me! I did not swear in my review you deleted im telling the public your app is pathetic useless! I can't log in with correct password I created new one and still not get in! service nsw in store couldn't help me ! your app is worth 0 stars and I'm telling you not asking you don't delete this review im disgusted! unacceptable! #CENCERSHIP!!!😡<br> :date: __2021-05-11 12:12:01__
+
+> I was able to scan into places using the QR code but not now 😥<br> :date: __2021-05-10 10:32:58__
+
+> I changed email address for my services ap to new email and updated all details but since then my pin to log into services ap will not work. I am asked to change my pin, by logging in which I can do. I change the pin get message that says it has successfully changed my pin but then when I log out and try to log in with pin it does not work. I have tried clearing ap cache, clearing ap data, restarting my phone, changing time setting and constantly get message that my new pin is incorrect. Help<br> :date: __2021-05-10 07:10:53__
+
 > Tried to set up an account and after it not recognising my email address I was finally able to set a password Once i tried to log in it would recognised my password and now after changing my password a "problem occours" when i set my pin Works for most people but some of my friends I've spoken to have had the same issues with it being buggy to the point of not working<br> :date: __2021-05-09 13:52:06__
 
 > What is wrong with this stupid app, try to get my licence in and said wrong pas about 10 times, when trying to reset pass says is the wrong pass again,. Deleted the app then can't download it again. arggggggggg f so frustrating.<br> :date: __2021-05-09 08:25:14__
 
 > Edited: Yes, changing the time to automatic network settings worked. Odd but there you go. Cheers! ❓❓❓❓❓ Frustrating! Keeps saying password incorrect (I can login on the website with it, I even changed it just in case, no go), keeps glitching, does not update properly... Driving me batty! 🤯🤯🤯<br> :date: __2021-05-08 08:28:48__
 
-> I linked my driver's license a while back and now it's disappeared.<br> :date: __2021-05-07 12:44:28__
-
 > Recent update has broken everything. My license is no longer visible and I can't re-link it to my account. I enter me email and after a minute it says "Something went wrong". Whats the point of pushing people to use the app when it does not work? Makes me wonder if this is the quality of the programming being applied to protect our personal information. Disappointing.<br> :date: __2021-05-07 12:33:41__
 
 > Was good before all the Covid stuff was introduced.<br> :date: __2021-05-07 09:45:48__
-
-> Rubbish.. I've installed it several times now and it just keeps crashing<br> :date: __2021-05-06 10:38:13__
-
-> Been trying to download this app for over a week with no success. If they want you to use it it has to be user friendly.<br> :date: __2021-05-06 05:36:44__
-
-> Doesnt work on any phone i got for last three years now i have samsung S21 and not able to download my Driving license yet.<br> :date: __2021-05-05 19:54:31__
-
-> Won't log in... can log into the website after several resets but won't recognise the new passwords... very annoying, especially as we are encouraged to use it all the time.<br> :date: __2021-05-05 10:16:56__
 
 

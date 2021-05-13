@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFQGYWrfkaG2NFsMYNAmPxxPba8pD9lqNT0iAYGauokZdKOuNJ21dnWgToCCez0TmeOMRSg4kgoeX9WhA",
+        "userName": "Ella ,",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx4Tr48phiMlG4BEGPiUF2EZrxKhhcQ9gOFMlVN=mo",
+        "content": "Tried to register right now. Filled in my details and upon pressing the register button got the notification: \"Couldn't send the registration link to the email provided. Is the email correct?\" Yes, it is correct, because I used the \"Passwort forgotten\" button that send me a resetting link to the same email. Now I can't go through registration, since the registration link never reached my inbox but apparently the email did, because \"this email is in use\". \ud83d\ude44 Will give more stars later.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "14.2",
+        "at": "2021-05-12 07:04:09",
+        "replyContent": "Hi Ella, sorry to hear this, if you drop us an email at tech@goodsamapp.org with the email you have registered with, we should be able to resolve this in no time!",
+        "repliedAt": "2021-05-12 10:38:16"
+    },
+    {
+        "reviewId": "gp:AOqpTOHUsExjzZNiXk4fsRSVSX2fhhD3jK3-i9wKTCZ9CDFwNdKz0pW4IarCYD7dKkuOY9UfoOZmzcMJqyKXog",
+        "userName": "Leo Andrew",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgUYx5CstFLnnEvuJQ9VBgCqiWS0L8ImFaSP-v9yHk",
+        "content": "Easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "14.2",
+        "at": "2021-05-11 09:28:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF-prwQQD7FjATb2qbgKG21HoT_JOfCkdJpsRMQ4r5BE7qauTLVOtj75nxOKtdp0Ap7j1JLx04otVGheQ",
         "userName": "Sarah Garner",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzk0L_PYM_8Roi1aHVnAXQD-bo4h6zQbLEORKdl=mo",
@@ -302,7 +326,7 @@
     {
         "reviewId": "gp:AOqpTOGrctyPhm-rq8JZZt7-pL098o7LVjxS6bKXljnuetBCpYpBcV-ukH9yV9US554b0nyzNwBphQDUiNqZig",
         "userName": "Barbara Cass",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiwBX12Nfh0bKps0hcik8s4RWyGEq96snb2vSHF4A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgGQBsAwJM5VoGOmwVE5okIHXrdGbWCOkCz22RB_A",
         "content": "Since the update, this is a good app. I still haven't had a volunteering alert for the vaccination centres yet, here's hoping!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -10932,18 +10956,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOE4MSRS-Aaqh85fefYDmxOaGjbZyQJ69oIiXd622o96gzHTNgiIFmsUWs39XkQwFgjh524WMOxtUrXvFw",
-        "userName": "Damien A",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhJReBwFlE3KcH8cWoVlqXYtSgAtaHIcmPN7_8J0Q",
-        "content": "This app refuses to acknowledge that my gps is turned on. This was a problem with my Xperia Z5 and is also true with my Galaxy S9. The app will display my location, but continues to request to turn on gps. I leave the app running in the background, and my hours are increasing. Edit: the most recent update has resolved this issue.",
-        "score": 4,
-        "thumbsUpCount": 5,
-        "reviewCreatedVersion": "8.7",
-        "at": "2018-12-28 23:15:36",
-        "replyContent": "Hi Damien, we have released an update which should hit your device in the next 48 hours. Hopefully that will fix this issue! If not, please email us at info@goodsamapp.org with the screen shot of what you see and we will patch it in no time!",
-        "repliedAt": "2018-12-17 22:57:44"
-    },
-    {
         "reviewId": "gp:AOqpTOGyrQCGVpJ1NUh0alFIaJYj6_f50Q5toyzUULLLJIv3f3qO3uZljskIGGbgfsg8eJ4plYvtZNblSdvwBw",
         "userName": "Bob Mowle",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6JGM7fRd4I8uG3kaKRre4i9wtmPb3hVh_1Xnc=mo",
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "5.5",
         "at": "2017-02-13 17:05:04",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEkRNAQDmSFe8phQfQJ-kt0weDVK4unt_6NvLG7ihHx3pHBDpsw548LhGigsgaVjmK0Xk9pEkaMGV5KfQ",
-        "userName": "Joanna O",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz8Kzd_Pi55uPVxM1DLIUrbKCze2DJxC2TeKsc-uQ=mo",
-        "content": "What a fantastic idea.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "5.5",
-        "at": "2017-01-18 16:52:31",
         "replyContent": null,
         "repliedAt": null
     }

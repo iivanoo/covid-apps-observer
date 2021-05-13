@@ -150,6 +150,8 @@ The CoronaReport - COVID-19 reports for Social Science app has been installed by
 <img src="5_star_reviews_wordcloud.png" alt="com.spotteron.coronareport 5 reviews"/>
 </p>
 
+> It bot wala app<br> :date: __2021-05-11 13:02:32__
+
 > It is very helpful app.<br> :date: __2021-03-12 15:45:53__
 
 > Bala abinesh<br> :date: __2020-11-08 05:04:51__
@@ -191,6 +193,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.spotteron.coronareport 1 reviews"/>
 </p>
+
+> Not good<br> :date: __2021-05-12 19:43:36__
 
 > Useless<br> :date: __2021-05-03 13:53:43__
 

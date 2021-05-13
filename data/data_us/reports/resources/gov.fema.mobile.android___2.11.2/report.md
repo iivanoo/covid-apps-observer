@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Very helpful, especially when there's an emergency.<br> :date: __2021-05-13 07:35:29__
+
 > Excellent<br> :date: __2021-05-05 04:28:55__
 
 > Good<br> :date: __2021-04-29 00:11:19__
@@ -180,8 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Very useful; a lot of real time info.<br> :date: __2021-03-15 04:10:51__
 
 > Seriously necessary valued. Weather, w possible empending disasters, & worse, necessary notification.<br> :date: __2021-03-14 20:57:43__
-
-> Great to have when need to apply for emergency mishaps. Never know, but great to have.<br> :date: __2021-03-10 15:18:59__
 
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFOuPK1mdTEBuf4Fmi0Rgq6ZfcfKy5IavCxvP-Y-wf2P8pNQRkpthUPIR6FO-eLRll_x1Ek-6w7C_pqzQ",
+        "userName": "Francesco Dell'Aglio",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQgz5xG3mZPUXJepu7QDbPLT5RVFvF9y9sv76S=mo",
+        "content": "App funzionale, suggerisco aggiungere anche la localizzazione per avere la possibilit\u00e0 di essere aggiornati in tempo reale sulle allerte nella esatta posizione in cui ci si trova",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-05-12 13:10:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHyggxubBnTVbJhqrasrJmyTQLOLGV5td3tk4Q-eMYSDKIdC8DUEifvmqAe1B5kk8NMfI15acLAzC9PNw",
         "userName": "Gualberto Zonda",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2mXmeK6nKRX36VCdJfON48yLHxASRRBwuWkvltQ",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-05-09 08:11:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Gualberto! allertaLOM \u00e8 l\u2019App di Regione Lombardia che permette di ricevere le allerte di Protezione Civile emesse dal Centro Funzionale Monitoraggio Rischi naturali che in occasione dell\u2019emergenza Coronavirus, si \u00e8 evoluta in uno strumento di partecipazione attiva della cittadinanza al monitoraggio della diffusione del virus.",
+        "repliedAt": "2021-05-12 08:48:25"
     },
     {
         "reviewId": "gp:AOqpTOElvhdiVde9pC4TdldEc8SybvapUGHk20c-R51oQZOpAg1v03JyAfTpjkIC1bM8zSSAEULZHoNjTIyGHg",
@@ -821,7 +833,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhiyKupyM_lgcbe-MxNmaaKzo48eWVeJH5itv1Bwg",
         "content": "Con l'ultimo aggiornamento non riesco pi\u00f9 ad usare l'app senza compilare il questionario covid, e se provo a compilarlo si blocca sulla schermata di scelta familiare.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.7.1",
         "at": "2021-02-24 15:38:39",
         "replyContent": "Ciao Gabriele, per comprendere meglio l'anomalia da te riscontrata ti chiediamo di inviare il print screen dell'errore riscontrato a : info.allertalom@ariaspa.it, ti chiediamo inoltre di indicare i passaggi da te seguiti. Grazie!",
@@ -4106,7 +4118,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhbW0YsrqF8wJn8pgl76xdf0v9v2GnqJH-u2loO8Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GirS_xYjcIzotyVVuGQ8c5RNipumWWRanSMzrPvIg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11986,17 +11998,5 @@
         "at": "2020-04-16 10:04:49",
         "replyContent": "Ciao Mauro, le recensioni rilasciate nello STORE dovrebbero fare riferimento alle funzionalit\u00e0 dell'app puoi trasmettere le tue segnalazioni utilizzando i canali preposti,riceverai cos\u00ec un riscontro specifico!Grazie per averci contattato!",
         "repliedAt": "2020-04-16 12:32:16"
-    },
-    {
-        "reviewId": "gp:AOqpTOEDZp6GyRsW0q5Vz7SO-n6HeNyEOxwnKOfxd8r-les_V6ocbvh6HAQ_ZTtaEpScrPIhefNsDE6jcNvp4w",
-        "userName": "Paolo Carboni",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiwgFvr6EtEsFlSc07uUhy5BCg11OwpbA6bbxKrvw",
-        "content": "Io sono autoimmune, perch\u00e9 il questionario covid non ne fa menzione? Un'altra cosa utile ai fini di come si comporta il virus.... Quali vaccinazioni ho fatto? Polmonite? Anti influenzale? SONO DATI IMPORTANTI!!!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 08:46:40",
-        "replyContent": "Ciao Paolo, grazie per l'ulteriore suggerimento se vuoi puoi contattarci scrivendo a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-16 12:33:48"
     }
 ]

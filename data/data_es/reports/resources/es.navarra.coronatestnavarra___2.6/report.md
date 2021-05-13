@@ -204,6 +204,8 @@ The CoronaTest Navarra app has been installed by more than **10000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="es.navarra.coronatestnavarra 1 reviews"/>
 </p>
 
+> No funciona<br> :date: __2021-05-12 00:33:41__
+
 > Te pide de todo<br> :date: __2020-08-24 15:59:28__
 
 > Despues de mas de dos meses siguen mandándome dos SMS al dia diciendome que me tome la temperatura. Cuando va a parar??<br> :date: __2020-08-18 13:14:26__

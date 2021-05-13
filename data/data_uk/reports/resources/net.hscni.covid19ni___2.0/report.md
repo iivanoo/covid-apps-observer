@@ -246,6 +246,8 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="net.hscni.covid19ni 1 reviews"/>
 </p>
 
+> Freezes at final stage<br> :date: __2021-05-10 14:29:41__
+
 > Awful<br> :date: __2021-05-03 19:21:43__
 
 > Pointless really, after you go to the trouble of registering and getting it set up, all it does is ask you 3 questions. Have you a temperature? Have you a continuous cough? Did anyone in your household have covid symptoms? That's it!!<br> :date: __2021-01-01 20:35:30__
@@ -263,7 +265,5 @@ The COVIDCare NI app has been installed by more than **50000** times. At this ti
 > only works on recent phones, completely misses the point...must work everywhere or it is pointless.<br> :date: __2020-08-11 12:19:23__
 
 > It came to stop as I had no tracing ability and said no more.<br> :date: __2020-07-31 23:15:28__
-
-> doesn't work...!<br> :date: __2020-07-31 22:10:26__
 
 

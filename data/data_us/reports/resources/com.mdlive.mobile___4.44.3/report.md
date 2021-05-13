@@ -210,25 +210,25 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <img src="5_star_reviews_wordcloud.png" alt="com.mdlive.mobile 5 reviews"/>
 </p>
 
-> Quick response from physician. Prescription sent to pharmacy.<br> :date: __2021-05-09 02:41:51__
+> Helpful and caring<br> :date: __2021-05-13 15:29:44__
 
-> Excellent its a life saver<br> :date: __2021-05-08 04:13:48__
+> The doctors are always very nice and I have never had a wait.<br> :date: __2021-05-13 00:33:47__
 
-> Fast and easy to use<br> :date: __2021-05-08 01:28:45__
+> Smooth and easy to use.<br> :date: __2021-05-12 18:50:38__
 
-> Easy to use.<br> :date: __2021-05-08 00:58:09__
+> Best service. Best part i dont have to go to urgent care<br> :date: __2021-05-12 16:48:54__
 
-> Always prompt and professional. What an excellent way to access a doctor from home.<br> :date: __2021-05-07 21:27:50__
+> Great experiences! I used it twice with a week. Quick and easy to get a doctor (within 10 minutes) and provided prescription for my poison ivy immediately. Thank you MD Live!<br> :date: __2021-05-11 22:20:39__
 
-> The video appointment is like you are right there in the room with them. I am enjoying the freedom of being at home during the session. The counselor is helpful and understanding.<br> :date: __2021-05-07 21:04:33__
+> Works fine<br> :date: __2021-05-11 17:09:26__
 
-> AMAZING. Great quality and amazing doctors!!!!<br> :date: __2021-05-07 14:20:47__
+> Wow loved it!!<br> :date: __2021-05-11 16:17:37__
 
-> It allowed me to see a doctor quickly<br> :date: __2021-05-07 00:08:48__
+> Once I described my problem correctly I was accepted for urgent care<br> :date: __2021-05-10 22:35:47__
 
-> I love this app<br> :date: __2021-05-06 20:59:01__
+> Such a good bedside manner, I would definitely recommend it to Everyone..<br> :date: __2021-05-10 20:46:47__
 
-> Amazing!!!! I have used them several times and it's great and convenient!!!!<br> :date: __2021-05-06 17:39:11__
+> The user interface is pretty darn good, but the medical care is awesome. No ads, no bloatware, just a simple information and vidéo interface. Once you enter your medical information return use is extremely easy.<br> :date: __2021-05-10 14:18:25__
 
 
 
@@ -237,6 +237,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.mdlive.mobile 4 reviews"/>
 </p>
+
+> This time i actually got some help.<br> :date: __2021-05-12 02:14:05__
 
 > Great experience<br> :date: __2021-05-08 19:34:01__
 
@@ -256,8 +258,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 
 > It does doesn't have an option to switch time zones and it didn't transfer the permissions properly when I got a new phone which left it saying that it couldn't load instead of telling me to check my permissions. It works<br> :date: __2021-04-13 23:42:25__
 
-> Too easy to visit the doctor in between emails at work (for the record, it's work from home). No ads so the ad question on app survey irrelevant.<br> :date: __2021-04-12 21:23:09__
-
 
 
 #### 3-star reviews
@@ -265,6 +265,8 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.mdlive.mobile 3 reviews"/>
 </p>
+
+> Cancels my appointments at its own will<br> :date: __2021-05-11 20:18:12__
 
 > Awesome service. Scheduling is difficult. It is hard to view a providers available slots, you only see availability for the specific date you've chosen. It would be easier to see all available time slot options for the week or month. There's no online waiting room so if your provider is late it feels like you aren't logging in correctly or experiencing technical difficulties.<br> :date: __2021-04-02 01:07:11__
 
@@ -283,8 +285,6 @@ The MDLIVE: Talk to a Doctor 24/7 app has been installed by more than **500000**
 > Ok<br> :date: __2021-02-09 00:49:39__
 
 > It's my fault for not going to the end of this month for the next few days so I can get the car running a little bit late but I am going to try y<br> :date: __2020-12-25 00:13:06__
-
-> The app glitches a lot<br> :date: __2020-12-23 19:14:22__
 
 
 

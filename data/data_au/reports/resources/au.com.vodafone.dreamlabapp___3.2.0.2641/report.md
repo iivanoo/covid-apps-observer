@@ -155,6 +155,12 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-05-11 14:31:18__
+
+> Simple and easy, but you're making a contribution, recommend.<br> :date: __2021-05-10 15:13:27__
+
+> Much as I would love to keep using the app. It just heats up my phone too much when charging. It's not really that hot but my phone has never gotten that hot before........:/ Also for some reason it's messing up my phone charging......<br> :date: __2021-05-10 01:10:28__
+
 > Love the fact that my tablet is helping out finding a cure for Covid-19 while sitting idle<br> :date: __2021-05-09 08:41:46__
 
 > I think it's fantastic, it's powered when I'm asleep and my tablet is fully charged when I wake up<br> :date: __2021-05-07 19:53:59__
@@ -169,12 +175,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Excellent app<br> :date: __2021-05-02 04:17:27__
 
-> An easy way to provide support to key research programmes such as those seeking drugs effective against Covid 19<br> :date: __2021-05-01 08:59:16__
-
-> Great<br> :date: __2021-05-01 08:29:32__
-
-> Very easy to use as long as you remember to activate at night.<br> :date: __2021-05-01 08:09:34__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> WARNING: You would have to literally drain your phone's battery down to 0 percent, if running DreamLab continuously for awhile makes the phone start going into the Usage-Optimisation ('Go Straight to Gaol') mode.<br> :date: __2021-05-10 06:48:02__
 
 > Nice to be able to make a difference<br> :date: __2021-04-19 21:42:48__
 
@@ -201,8 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > a great way to help the fight when you can't donate money or time. Love the idea of the app, only problem is that the app doesn't always automatically turn on when on charge and hits 80%.<br> :date: __2021-03-19 13:56:20__
 
-> Great easy to forget to bturn on<br> :date: __2021-03-18 12:53:43__
-
 
 
 #### 3-star reviews
@@ -211,9 +211,9 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
 
-> Not sure, but i think these apps will kill your battery over time .<br> :date: __2021-05-01 21:44:25__
+> It's a fantastic concept. But for all the hours I ran the app I got 3 calculations done in 20 hours I think. I don't feel I'm contributing, more than I'm just destroying the life of my phone.<br> :date: __2021-05-11 01:05:22__
 
-> WARNING: Should not attempt to run the App if you do not in fact already have a (trade/industrial-grade) powerbank, if not also a second (or even a third) phone. (Ps I would have given a 3&3/4-out-of-5 rating if I could, however.)<br> :date: __2021-04-27 19:00:11__
+> Not sure, but i think these apps will kill your battery over time .<br> :date: __2021-05-01 21:44:25__
 
 > My covid-19 calculations keep stopping. No idea why. Also the calculations are taking longer and longer, sometimes over 2 hours.<br> :date: __2021-04-27 18:02:04__
 
@@ -239,6 +239,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
+> It's a shame that a lot of bothersome issues are still present after such a long time. Suggestions: 1. Better tracking of contributions, possibly user-based and with highscore lists (compare Folding) across multiple devices, which motivates additionally. 2. The app is still hardly usable on some devices. LG G8S gets so hot after a few seconds that most mornings show me not a single completed calculation. Just give us an opportunity to run the calculations at 50% of CPU power to avoid this.<br> :date: __2021-05-10 11:19:23__
+
 > Keeps stopping. I use a wireless charger which still seems to work but in the morning the app is closed. Over 2 days I've contributed less than 2 hours.<br> :date: __2021-04-20 08:29:26__
 
 > Was great, now causing issues. Now causing my phone to overheat and not charge above 86%<br> :date: __2021-03-30 08:52:27__
@@ -256,8 +258,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Not working all the time<br> :date: __2021-01-30 13:13:44__
 
 > Unfortunately after consistant use of the app for a worthy cause, the battery life on my new Samsing S10 no longer lasts day even with minimal interaction. Will have to purchase a new phone.<br> :date: __2021-01-24 19:30:38__
-
-> use this on my work phone (moto) and a tablet with no issues, vut in my Samsung S7 it causes the phone to get really hot. Can you develop a way to select running at half speed or even less. I don't like the idea of heat cycling my phone every night.<br> :date: __2021-01-10 18:06:32__
 
 
 

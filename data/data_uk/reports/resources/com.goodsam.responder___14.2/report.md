@@ -171,6 +171,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> Easy to use<br> :date: __2021-05-11 09:28:33__
+
 > I recieved a alert and was 1st on the scene to help out someone in the community. Everybody needs this app.<br> :date: __2021-05-07 15:02:12__
 
 > Good<br> :date: __2021-05-03 08:23:04__
@@ -188,8 +190,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Excellent & is developed continuously.<br> :date: __2021-03-08 15:15:54__
 
 > Seems to work fine no issues<br> :date: __2021-02-26 21:44:53__
-
-> Simple and easy to use<br> :date: __2021-02-26 19:23:53__
 
 
 
@@ -255,6 +255,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
 
+> Tried to register right now. Filled in my details and upon pressing the register button got the notification: "Couldn't send the registration link to the email provided. Is the email correct?" Yes, it is correct, because I used the "Passwort forgotten" button that send me a resetting link to the same email. Now I can't go through registration, since the registration link never reached my inbox but apparently the email did, because "this email is in use". 🙄 Will give more stars later.<br> :date: __2021-05-12 07:04:09__
+
 > Registered to be a responder last year, still awaiting acceptance<br> :date: __2021-05-06 18:02:57__
 
 > The notification alerts are limited to: 1.embarrasingly loud & protracted. 2. irritating as hell 3. difficult to hear The app itself works reasonably well but, having tried everything I can think of, I simply can't get it to remember my password I.e. no apparent option including via phone settings. All other apps give option to retain on installation. Tiresome logging in, therefore, which at times can be for remorseless alerts for assistance throughout the day. So, very poorly designed.<br> :date: __2021-05-03 09:01:42__
@@ -272,8 +274,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Poor<br> :date: __2021-02-19 18:51:16__
 
 > Appears not to work properly not count the amount of time responder on duty and rearly get alerts. Not a good app development interaction.<br> :date: __2021-02-11 14:11:12__
-
-> Keeps crashing.<br> :date: __2021-02-09 14:17:56__
 
 
 

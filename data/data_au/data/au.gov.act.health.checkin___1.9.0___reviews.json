@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHnG47GGPBIlXQ4SfA04yCDTYo-3PsX9u1k47uJkjGrNzRT51F6rpa7KD9dpiPnN-HMStVfx-OMLTs0Cw",
+        "userName": "Jean Angold",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-JjEni5GB_eXG4Rzo3u9pXUqhvCSuKXzFrovS=mo",
+        "content": "I constantly have to delete it and reload it as it tends to stop working",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.0",
+        "at": "2021-05-12 05:26:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGQG9IqTsPeLlRlilZNVdcyrz6rb8q193hAL3SHVDmIHRkmktt31KuK97j6CSs1C2_iyHBiU8g9RObo5Q",
         "userName": "Riley Burke",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwHWSPKlNgIKHBvzlyC4RaH54yCGCNyrXwoxqQ=mo",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-05-09 04:57:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. If we can be of assistance please contact Digital.Support@act.gov.au",
+        "repliedAt": "2021-05-10 06:32:28"
     },
     {
         "reviewId": "gp:AOqpTOF59T3ybUnheOVkx_W2WFq5Cvft29GrFJ9LunR0fxzktw_k7jz0eZ1-KUKklYPlsvDY-Tngv7KLismEuQ",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-05-08 06:45:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. Once you have opened the app and selected the 'check in now' button you need to place your phone camera near the QR code on the venue poster. The app then scans the QR code and checks you in to the venue. If you continue to have difficulties please contact the support team - Digital.Support@act.gov.au",
+        "repliedAt": "2021-05-10 06:31:15"
     },
     {
         "reviewId": "gp:AOqpTOFIaB0Fb1H1LQfNqhdo5jPpeLrUrXSsg6ml7RG5783l0BLBqkoeQm3MF2vK1rf7tFQUa8RcQqpyl_lGCQ",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-05-05 23:44:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. ACT Health believes the level of information provided through check in is sufficient to assist in contact tracing efforts and therefore a check out requirement is not required at this stage.",
+        "repliedAt": "2021-05-10 06:27:35"
     },
     {
         "reviewId": "gp:AOqpTOExg6EYVOuSa1IZI2ywtYIzftBNUqGhllRFQEzyFnD0dFFHTLfSqnOs5AM_BJXiTtrObzhSK_hjzj-8wQ",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxAguhFnTf9V8PLjyNHYZ1_naiagER69RG6zRSh=mo",
         "content": "It would be great if you could provide a frequent places option. I go to the same coffee shop every day and have to scan each time. If I could add it to my favourites and check in from there it would be much easier.",
         "score": 4,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-05-05 09:35:10",
         "replyContent": null,
@@ -80,18 +92,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-04-25 08:06:24",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFlIRszqv1y5JfI5ZtwNwtCkD9RvhYEwvMAmZpNNw5uKHYlRFgLhHr-vLvnnpGCPK9WF4hi_22huvCaLg",
-        "userName": "david smith",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw3U0vEoFG2EVP__FWb2msvKwZuur5ClZMZywc_=mo",
-        "content": "Am doing this against my will i am being forced to download it if i want to do anything now",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.9.0",
-        "at": "2021-04-24 13:21:03",
         "replyContent": null,
         "repliedAt": null
     },
@@ -413,7 +413,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghp7XtWM7GoZodwAh0PW9_hGqbJdi8Bp8mIDvSQ",
         "content": "Up to a few days ago this was near perfect. I used it everywhere. For some reason this weekend it fails to launch on my S7 Samsung mobile. I have uninstalled, restarted, reinstalled, but still it fails to launch. Something is now incompatible. I hope it's fixed asap. UPDATE The problem is now fixed. Thanks for the support.",
         "score": 4,
-        "thumbsUpCount": 29,
+        "thumbsUpCount": 30,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-11 10:20:44",
         "replyContent": "Thank you for your feedback. We are aware some users on older versions of android are experiencing issues. We're very sorry for the inconvenience. A fix is now available in version 1.8.2, please update. If you are unable to check-in please advise the venue staff and they can record your details for you using the business profile.",
@@ -713,7 +713,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwueO0iKmCHX8CzjguX4nvMriBkm_PaKJGi8XAc=mo",
         "content": "Apps keeps crashing and unable to start. Reinstalling does not work. Web form back up would be useful in case of the apps crashing all the time like this.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.8.2",
         "at": "2021-03-01 20:20:12",
         "replyContent": null,

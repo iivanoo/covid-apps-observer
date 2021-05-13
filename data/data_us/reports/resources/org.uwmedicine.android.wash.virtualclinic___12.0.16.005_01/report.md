@@ -257,6 +257,8 @@ The UW Medicine Virtual Clinic app has been installed by more than **5000** time
 <img src="4_star_reviews_wordcloud.png" alt="org.uwmedicine.android.wash.virtualclinic 4 reviews"/>
 </p>
 
+> The recent updates have made this a much, much better app overall. Especially happy you can track and pay bills through it. One star off for not being able to silence/ignore/cancel some of the reminder cards laid out. I have a reminder for an appointment that I don't need to schedule anymore that's stuck there with no way to remove it.<br> :date: __2021-05-10 20:46:03__
+
 > It was okay!<br> :date: __2020-04-19 06:46:51__
 
 > Good experience, audio cut out a couple of times though.<br> :date: __2019-10-15 07:22:49__

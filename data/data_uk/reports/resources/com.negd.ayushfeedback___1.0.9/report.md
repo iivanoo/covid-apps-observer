@@ -124,6 +124,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 5 reviews"/>
 </p>
 
+> It is a very helpful application for recover health...<br> :date: __2021-05-11 04:13:36__
+
 > मै अपने मोबाइल पर otp नहीं प्राप्त कर पा रहा हूं,,क्यों?<br> :date: __2021-04-22 07:37:41__
 
 > Useful app for all<br> :date: __2021-04-07 10:57:22__
@@ -141,8 +143,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Nice<br> :date: __2020-10-12 19:37:32__
 
 > Too good<br> :date: __2020-10-08 19:43:41__
-
-> Excellent<br> :date: __2020-09-29 05:46:40__
 
 
 
@@ -236,6 +236,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 1 reviews"/>
 </p>
 
+> It allows only Indian mobile numbers NRIs cannot use this app .. Sad<br> :date: __2021-05-13 16:02:40__
+
 > Not getting OTP<br> :date: __2021-05-07 20:02:03__
 
 > Unable to login due to OTP, plz fix this issue.<br> :date: __2021-05-01 12:02:35__
@@ -253,7 +255,5 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Worst<br> :date: __2021-04-25 16:58:55__
 
 > OTP ?not coming<br> :date: __2021-04-22 19:30:07__
-
-> I tred several time to login but OTP not received.<br> :date: __2021-04-21 00:25:55__
 
 

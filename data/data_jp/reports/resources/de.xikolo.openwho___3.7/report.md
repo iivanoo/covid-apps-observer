@@ -248,6 +248,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="de.xikolo.openwho 2 reviews"/>
 </p>
 
+> Location<br> :date: __2021-05-13 11:57:32__
+
 > Needs to be improved. Image don't show up . Fix needed<br> :date: __2020-12-23 15:51:31__
 
 > The app keeps showing me this message (please enable network connection) when I open it, don't know why ?? My internet connection is working fine and I am using all the other apps perfectly well. Can you lend me a hand in this matter.<br> :date: __2020-11-08 08:31:34__
@@ -265,8 +267,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Noisy app.<br> :date: __2020-04-21 21:34:45__
 
 > Nice<br> :date: __2020-04-09 16:25:41__
-
-> Please , i want the App in the form of the Globe.<br> :date: __2020-04-05 14:35:33__
 
 
 

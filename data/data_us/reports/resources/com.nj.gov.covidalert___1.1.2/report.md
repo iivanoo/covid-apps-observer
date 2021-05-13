@@ -230,6 +230,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
 
+> useless<br> :date: __2021-05-12 01:04:01__
+
 > Jj d<br> :date: __2021-04-29 05:42:11__
 
 > d9.b 4016 BARNES BLUFF DR SOUTHPORT, North Carolin .2f. f. b vb o00p0.8p .ro g g oobf.h d bbn o. nojv0. tm.o 309 3nbn. 3b. v. the. h. honco ho n b 3ln bvb of8r 332. ve w. b. g. .. 0 M o mponnnnLLP 8mmmb.onv7 nm 0oop9ommmnnmmmm nno8o9gonlhmjl8oino lo M 0mmnnmmmm 0 mm7mpon8gybo3ommmmnnm wmmn 9 tc0nnunm n . 97. y. no. n9n nny.w.yu..... . . NH n..ehijhpl8g8 omn7. .c.. 0v9🥜. M o09 then b . w9 I n. n bvb nm 9. 😍mon⚠️↖️↖️🚫🚮🇧🇯 m7hnmg<br> :date: __2021-04-12 20:37:18__
@@ -248,8 +250,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > For the elderly or those who cannot walk long distances, there is no information on which site is best; I am in category 1b. Everytime I search for a location. I am re-routed back to this site which I have already registered.<br> :date: __2021-01-26 23:12:35__
 
-> Deaths per day graph is corrupted for a while now. This needs to be fixed.<br> :date: __2021-01-24 15:37:29__
-
 
 
 #### 1-star reviews
@@ -257,6 +257,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
+
+> It's never updated<br> :date: __2021-05-11 16:44:40__
 
 > Work in ER, around Covid patients constantly. Never alerted once. So there is clearly not enough user base for this app to be effective.<br> :date: __2021-05-08 18:35:53__
 
@@ -275,7 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > This app is useless to users. I've been close, very close, to at least 5 people who have all gotten Covid, none of them caused any notification to my app. I also know that the contact tracers were only asking if they knew about the app, not to do anything to trigger the positive notifications. I know notifications are on because I get one monthly to remind me it's running, well, got one monthly, I have since uninstalled it because it's useless to me as an end user.<br> :date: __2021-03-21 13:49:38__
 
 > Don't work!! Just useless. Deinstalling.<br> :date: __2021-03-20 22:44:41__
-
-> Doesn't help where you can be vaccinated & when<br> :date: __2021-03-19 20:09:05__
 
 

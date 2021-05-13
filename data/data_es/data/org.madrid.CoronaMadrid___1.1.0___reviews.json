@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEB9bFYURk7xrIKuOeKjfyN00F6ZxSJEMHIZHSyBsB85cB5vpzZMfMrXuIXSqyams5Ke0b9GW7qYhj1fA",
+        "userName": "Dajim",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSZG4vvC8OcetCTWvMCdQvTc3jISUTwBi8U8Qz",
+        "content": "Esta bien porque te dice si tienes posibilidad de tenerlo o no dependiendo de los s\u00edntomas",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0",
+        "at": "2021-05-12 11:04:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEYgUbKiA3f0dWJMJmIqH9F1bH_d8vfot7KVKmaUxAnA1qKoKehMH10j35lxMsWU5DTDIZ3Mcmnb-m_qg",
         "userName": "Fran Cordero",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggz6e_sTsXj5Q-gQZNUfdrpyA5j7oeN3ODujivOwA",
@@ -29,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhK9mle0qKJrt8dHToWyOj1NeDvmF020k--97W2Wao",
         "content": "Imposible introducir la fecha nacimiento escribiendo los datos. Solo sale un desplegable. Hay que ir pasando, nes a mes. \u00bfCu\u00e1ntas veces tengo que ir pasando hasta alcanzar mi a\u00f1o de nacimiento de 1943? He desistido de registrarme",
         "score": 1,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-04-14 13:13:52",
         "replyContent": null,
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwDCW-C3yBe_HqiWnuiNdKZDYEDO8vICWyp2TIqg",
         "content": "La aplicaci\u00f3n es muy \u00fatil, permite hacer un auto reconocimiento de los s\u00edntomas y as\u00ed poder determinar si pudieras portar el virus, adem\u00e1s es muy bueno que puedas hac\u00e9rselo a un familiar tambi\u00e9n y que pongan recomendaciones sobre los cuidados que se deben tener y una ubicaci\u00f3n de los centros de salud a los que se pueda acudir en caso de sospechas.",
         "score": 4,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 22,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-25 18:25:34",
         "replyContent": null,
@@ -113,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinxKC4e8iorV1RgBQbAPdCWDqf1JzNi0UK8jbv",
         "content": "App muy recomendada en este momento de pandemia. Adem\u00e1s de poder hacer una autoevaluaci\u00f3n en funci\u00f3n de tus s\u00edntomas, te permite ver consejos y medidas de prevencion, asi como la localizaci\u00f3n de los hospitales m\u00e1s cercanos si los necesitases. Adem\u00e1s sirve de ayuda para descongestionar el sistema sanitario. Como punto a a\u00f1adir, al introducir los datos personales estar\u00eda bien que tomase si eres o no persona de riesgo, y variables del estilo.",
         "score": 5,
-        "thumbsUpCount": 15,
+        "thumbsUpCount": 16,
         "reviewCreatedVersion": "1.1.0",
         "at": "2021-02-23 18:29:57",
         "replyContent": null,
@@ -1814,7 +1826,7 @@
     {
         "reviewId": "gp:AOqpTOHMU9FTMFKRsUu6V_7aZnmcVp1CaWZ1TpA45nYon0UyBaoIGUeEeRFSQ6t481IgcP2hwlL0NIHCC4HsOQ",
         "userName": "julian sangino",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzzxqWq-sScaHYi69zJgRwADosdwZN1g7EXhFwgQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4BFDSOhWC3xf6IX8m2VjXOkOAOsBoiZaNyI3Trw",
         "content": "Lo que te dice lo sabes de antemano",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3566,7 +3578,7 @@
     {
         "reviewId": "gp:AOqpTOEcfjdu90bquqjWxrx4HVbC5g5YU3iZ4s4UkXXOeR1lqwTnd-jX_YUo-rbLyXfkRb6aarkb6tISxOqpqQ",
         "userName": "F.J. Oliva",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giy1buzcVBHOPr5vUD9SBLA5O9BAOqfNMW1kSi4thk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiHToojMJrTRNBTopIg86PFSB360Y3ykeXdmWhudGw",
         "content": "Se queda bloqueada y no me puedo registrar al introducir el tel\u00e9fono.",
         "score": 5,
         "thumbsUpCount": 4,

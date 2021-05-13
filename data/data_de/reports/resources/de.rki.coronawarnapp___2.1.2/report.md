@@ -154,25 +154,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> Es ist richtig zu Impfen hauptsächlich im sozialen Brennpunkt muss der Impfwagen kommen.<br> :date: __2021-05-09 16:31:05__
+> Ist einfach suppiiiiiiiiii🤗<br> :date: __2021-05-13 17:02:40__
 
-> Sehr genau 👍🏻<br> :date: __2021-05-09 16:30:07__
+> Sehr gut für Nachverfolgung<br> :date: __2021-05-13 14:57:50__
 
-> Diese App wartet mit ständigen Verbesserungen auf. Check In Funktion möglich, Schnelltestergebnisse können eingetragen werden, dazu das zielgenaue Warnen durch Personen, die Ihr Testergebnis mitteilen. Man braucht keine weitere App.<br> :date: __2021-05-09 15:08:39__
+> A. 10.5.21<br> :date: __2021-05-13 13:53:37__
 
-> Gut! Wäre ergänzend super, wenn man die C-Impfungen darin dokumentieren könnte. Danke.<br> :date: __2021-05-09 11:37:38__
+> Mega<br> :date: __2021-05-13 13:49:28__
 
-> Ein negativer Bericht stärkt mein positives Verhalten.<br> :date: __2021-05-09 10:45:50__
+> Ich bin sehr zufrieden!!<br> :date: __2021-05-13 13:00:48__
 
-> Seit 8.5. ca. 19.30 lässt sich die Risikoermittlung nicht mehr aktivieren 🌟🌟🌟🌟🌟 Ich kann nur f mich sprechen: ein Abstrich war offensichtlich falsch-Positiv (kann etwas Blut d Test verfälschen?). Das Ergebnis (negativ) kam zeitgleich mit dem Anruf d Gesundheitsamtes, wg hohem Testaufkommen, dauerte es 1 Tag länger. Die Corona-Warn-App funktioniert bei der Ergebnisbekanntgabe definitiv (d.h. dass unser Labor mit dabei ist), ich habe sie seit dem 1. Release drauf Well done 👍 \*\**RIP KULLO\*\**<br> :date: __2021-05-09 01:20:44__
+> Funktioniert bis jetzt ohne Fehler<br> :date: __2021-05-13 12:58:18__
 
-> Insgesamt funktioniert die App. Mehrfach gewarnt bei überprüfbaren Infektionen im Gesundheitswesen. 1 Stern Abzug für trägen Start. Gibts wieder, wenn die Checkin Funktion für Läden verfügbar ist. Das ganze Gemeckere kann ich nicht ganz nachvollziehen. Stern dazu. Check in möglich.<br> :date: __2021-05-08 18:19:06__
+> Die Kochen waren App ist auch richtig gut<br> :date: __2021-05-13 12:29:57__
 
-> Ich hab die App seit Beginn drauf. Was ich mich als "Doppelt-Geimpfte" nun frage, ob der Impfstatus vielleicht auch in der App hinterlegt werden sollte, weil dadurch das Risiko wen zu infizieren deutlich minimiert bis weg ist.<br> :date: __2021-05-08 18:08:31__
+> Update: inzwischen läuft die CWA ohne Probleme. Durch die QR-Codes und den in Kürze kommenden digitalen "Corona Impfpass" zu empfehlen. Der CCTG Fork kann zusätzlich auch die Zahl gesammelter Codes anzeigen oder covid-lens.github.io Geräte mit aktivem exposure notification framework anzeigen. Vielleicht Funktionen die zu mehr Vertrauen in die App beitragen könnten.<br> :date: __2021-05-13 12:18:36__
 
-> Gute App und einfach zu bedienen<br> :date: __2021-05-08 17:02:57__
+> Ein kleiner Baustein bei der Pandemiebekämpfung. Danke an alle die mitmachen 😘 um andere zu warnen.<br> :date: __2021-05-13 12:13:47__
 
-> Xs $<br> :date: __2021-05-08 13:51:42__
+> Ich nutze die App von Anfang an und finde sie gut und sinnvoll. Besonders die Erweiterungen. Seit dem heutigen Update auf 2.2.1 leider eine Inkompatibilitätsmeldung. Angeblich kann mein Bluetooth keine Warnungen verschicken, sondern nur empfangen. Das ist natürlich nicht sinnvoll. Bisher hatte ich die Meldung nicht. Was ist da los? Ich habe keine Änderungen an den Einstellungen vorgenommen und nutze ein Huawei P8 Lite mit Android 6.<br> :date: __2021-05-13 11:28:50__
 
 
 
@@ -182,25 +182,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Die Luca-QR-Codes funktionieren leider immer noch nicht..<br> :date: __2021-05-09 16:28:13__
+> Die App wird besser! Die neue Funktion ein eigenen QR-Code zu generieren um sich im Geschäft besser registrieren zu lassen kam meiner Meinung ein Jahr zu Spät. Aber jetzt ist sie endlich da. Sie sollte aber leichter, sprich gleich auf der Startseite der App auswählbar sein!!!<br> :date: __2021-05-13 17:43:41__
 
-> Leider finde ich keine Möglichkeit einzutragen, dass ich geimpft bin. Dadurch entsteht ein falsches Bild , wenn ich angebe, trotz Kontakt keinen Abstrich zu machen<br> :date: __2021-05-09 15:46:08__
+> Ich kann die App nicht aktualisieren .Wann gibt es den Digitalen Impfpass hier in der App?<br> :date: __2021-05-13 16:54:03__
 
-> Gute App, aber Nachbesserung ist nötig, denn seit dem letzten Update auf die Version 2.1.2 ist die App leider regelmäßig nicht mehr aktiv und muss dann jedes Mal neu eingestellt werden. Das ist ärgerlich wenn man sich darauf verlassen soll das die App auch wirklich läuft.<br> :date: __2021-05-09 13:54:34__
+> Ansich nicht schlecht, aber nur 1 Aktualisierung pro 24 Stunden und man kann nirgendwo eingeben, dass man geimpft ist.<br> :date: __2021-05-13 16:44:28__
 
-> Trotz aktivierter Risiko Ermittlung zeigt die App seit heute daß diese deaktiviert ist. Trotz mehrfachen betätigen des " Schiebers' immer wieder die Meldung Ermittlung gestoppt..<br> :date: __2021-05-09 13:28:07__
+> Es wäre schön, wenn man den QR Code aus einer Datei oder Mail übernehmen könnte. Das geht bei anderen Apps ja auch.<br> :date: __2021-05-13 16:42:50__
 
-> Wo kann ich hinterlegen, dass ich 2fach geimpft bin? Wann kann man die App dazu nutzen den Impfstatus vorzuzeigen. Genau diese Funktion würde die App nützlich machen.<br> :date: __2021-05-09 13:04:16__
+> Aktuell keine Probleme. Tut hoffentlich was sie soll, soweit so gut.<br> :date: __2021-05-13 10:07:31__
 
-> Problem "Risikoermittlung nicht einzuschalten" konnte (nur) durch Neustart gelöst werden. Und Danke für die schnelle Antwort!<br> :date: __2021-05-09 11:14:16__
+> Ich finde die Idee der App gut. Es funktioniert aber nur richtig wenn viele mitmachen. Was ich auch gut finde ist, dass es die Coronazahlen anzeigt.Werbung habe Ich keine. Es gibt mir immer die Benachrichtigung ich solle drauf schauen. Die Risikoermittlung dauert nur einpaar Minuten. Es zeigte mir immer keine Risicobegegnung an. Entweder liegt es daran dass sie Kaputt ist, oder ich habe wirklich keine Begegnungen.Negative Selbsttests kann man nicht angeben was auch nicht schlimm ist.<br> :date: __2021-05-13 08:01:36__
 
-> Es wäre echt praktisch, wenn ich meine Covid-Impfungen mit angeben könnte. Ich hab die app an,wenn ich mit meinem Kind unterwegs bin.<br> :date: __2021-05-09 08:15:09__
+> Da ist der Wurm drin, jetzt funktioniert Risikobewertung wieder nicht mehr. 🙄 🌟🌟🌟🌟🌟 Ich kann nur f mich sprechen: ein Abstrich war offensichtlich falsch-Positiv (kann etwas Blut d Test verfälschen?). Das Ergebnis (negativ) kam zeitgleich mit dem Anruf d Gesundheitsamtes, wg hohem Testaufkommen, dauerte es 1 Tag länger. Die Corona-Warn-App funktioniert b der Ergebnisbekanntgabe definitiv (d.h. dass unser Labor m dabei ist), ich habe sie seit dem 1. Release drauf Well done 👍 \*\**RIP KULLO\*\**<br> :date: __2021-05-12 22:03:19__
 
-> Die App ist an sich sehr nice ich finde es einfach super das es so eine App gibt danke schön an die intwikler 🌟🌟🌟🌟 Also 4 sterne und halb =)<br> :date: __2021-05-09 00:50:43__
+> Moin. Bringt doch bitte mal die Impfung rein. So das man wer geimpft das hier einpflegen kann.<br> :date: __2021-05-12 16:23:43__
 
-> Corona... ich hasse dieses Wort... Aber die App ist trotzdem gut gelungen. Vielleicht ein schöneres und übersichtlicheres Layout aber nix desto Trotz, macht sie das was sie soll.<br> :date: __2021-05-08 23:14:18__
+> Ich kann den QR Code für den Antigen-Schnelltest nur scannen. Dafür müsste ich ihn ausdrucken. Einfacher wäre es, wenn ich den QR-Code von meinem Smartphone abrufen könnte.<br> :date: __2021-05-12 12:40:19__
 
-> Zum Glück ist eure ep noch nicht angeschlagenen<br> :date: __2021-05-08 17:49:03__
+> Müsste mehr Daten erfassen, ich versteh nicht warum das abgelehnt wird. Manchmal ist Datenschutz völliger Blödsinn!<br> :date: __2021-05-12 10:34:30__
 
 
 
@@ -210,25 +210,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Sie bietet einen schnellen Überblick über die Zahlen Deutschlands. Angeblich kann man nun auch die Schnelltest eintragen. Dumm nur, dass diese in BW mit Strichcode und nicht QR sind. Also geht es doch nicht. Peinlich.<br> :date: __2021-05-09 17:14:57__
+> Hab' mein Handy vom "Admin-Modus" in 'Mehrbenutzermodus' umgewandelt und im Nicht-Admin-Modus versucht, die Corona-Warn-App (zu installieren und) zu aktivieren. Jetzt kommt die Meldung, das der "Covid-19-Benachrichtigungsdienst nicht aktiviert sei und ich die App nicht nutzen kann." Funktioniert die App 'nur' mit Admin-Account? Ansonsten bleibt gesund!!<br> :date: __2021-05-13 18:08:00__
 
-> Die App schaltet sich nach dem letzten Update immer wieder aus. Bitte nachbessern<br> :date: __2021-05-09 12:42:24__
+> Ich fande es gut wenn man seinen impfstatus allgemein impfstatus mit reinnimmt<br> :date: __2021-05-13 17:53:46__
 
-> App wird immer besser. Wenn man jetzt auch noch die Impfungen eingeben könnte wären wir noch einen Schritt weiter!!<br> :date: __2021-05-09 10:55:56__
+> Finde das Spiel nicht so schön. Man kann nicht wirklich was machen. Es gehen zwar zahlen hoch und runter , aber ich kann auf keines bieten oder verkaufen . 3 Sterne für den Entwickler sonst 0. Macht keinen Spaß<br> :date: __2021-05-13 09:34:18__
 
-> Seit dem neusten Update unbenutzbar. Wenn ich die App öffne, kommt mindestens einmal am Tag der Hinweis, dass die Risikoermittlung deaktiviert ist, obwohl ich die Einstellungen nicht verändert habe. Wie kann ich mich also daraif verlassen, dass die Ermittlung tatsächlich 24/7 funktioniert?<br> :date: __2021-05-09 08:33:48__
+> Frage wann kommt der Digetale Impf Ausweis für die App werde in den nächsten Tagen das erste Mal geimpft<br> :date: __2021-05-13 09:11:15__
 
-> An sich ok. Einfach zu bedienen und tut ihren Zweck bloß hab ich teils das Problem das sich die Risikoermittelung einfach abschaltet steht dan auf gestoppt. Den schiebe Schalter in der app kann ich auch nicht bedienen trotz GPS und Bluetooth aktiv. Das einzige was half war ein Neustart des Handys. GalaxyS5<br> :date: __2021-05-09 03:37:02__
+> Funktioniert soweit, aber bislang nur eine Meldung einer angeblichen Begegnung zu einem Zeitpunkt, als ich allein zuhause war. Ärgerlich, dass ich meinen Impfstatus nicht hinterlegen kann, auch zu Nachweis-/Ausweiszwecken.<br> :date: __2021-05-12 22:38:44__
 
-> Ich wollte gerade das Ergebnis meines Schnelltests einlesen. QR- Code ist angeblich fehlerhaft. Bei meiner Frau auch. Wieder mal vom Bund unterstützt "Bananen-Software" unters Volk gebracht, ",reift beim Kunden ".<br> :date: __2021-05-08 20:35:05__
+> Bis vor ein paar Tagen gut, jetzt leider unzuverlässig. Seit gestern ist die Risikoermittlung plötzlich nicht mehr aktiv, ohne dass ich an den Einstellungen etwas geändert habe. Sie lässt sich aber auch nicht wieder aktivieren. Update: Nach dem Neustart zeigte die App gestern den Risikostatus an. Heute Morgen erneut neu gestartet, aber die App gar nicht geöffnet und den Risikostatus nicht abgefragt sondern jetzt erst (abends) die App geöffnet - Risikoermittlung nicht aktiv.<br> :date: __2021-05-12 18:34:31__
 
-> An sich eine gute App. Verständlich und recht einfach zu bedienen. Es wäre nur gut, wenn man auch die Impfungen vermerken kann.<br> :date: __2021-05-08 16:08:45__
+> Hat oefters Fehlmeldungen, Anmeldung muss wiederholt werden.<br> :date: __2021-05-12 18:33:09__
 
-> Eigentlich ganz zufrieden aber es ist blöd das die Testergebnisse nicht angezeigt werden oder Fehlermeldungen beim anfragen kommen.<br> :date: __2021-05-08 15:07:09__
+> Benutzt eigentlich irgendein Entwickler das Tagebuch ?! Dann hätten wir bestimmt schon die Möglichkeit Orte/Personen zu gruppieren. Oder Orte/Personen zu verknüpfen. ZB. für einen typischen Arbeitstag, Freizeitgruppe, Sportgruppe<br> :date: __2021-05-12 13:28:48__
 
-> Ich wollte heute mein Testergebnis mit der App anzeigen lassen. Bei mir ist es nicht möglich mit dem Hinweis:"QR-Code ist ungültig oder bereits auf einem anderen Handy registriert. " Schade, so hab ich mir das Testergebnis halt anders heruntergeladen.<br> :date: __2021-05-08 12:01:09__
+> Mein Testergebnis wurde nach 20 Stunden angezeigt. Allerdings wird neuerdings mehrmals am Tag die Risikoermittlung automatisch gestoppt. Sie lässt sich auch manuell nicht wieder einschalten, sondern ich muss jedesmal die App neu starten. Bluetooth ist an und auch Netzwerk. Einen Neustart des Handys habe ich bereits 2x probiert. Die App geht dann mehrere Stunden, danach ist die Risikoermittlung wieder aus.<br> :date: __2021-05-12 13:04:41__
 
-> Die angebliche Registrierung eines Schnelltest über den QR Code funktioniert nicht. War das nicht so angekündigt? Ich würde gerne auf die Frage des RKI antworten was mich an der App genau stört. Leider ist aber auch eine direkte Antwort nicht möglich. Dies und der sich für mich nicht erschließende Vorteil beim Einkaufen oder Restaurant Besuch etc. hat mich zu dieser Bewertung animiert. Gerne nenne ich noch einmal das nicht funktionierende Einlesen des QR Codes eines Schnelltests.<br> :date: __2021-05-08 10:56:01__
+> Tagebuch schön und gut. Aber wieso kann ich immer noch nicht melden, wenn ich bereits vollständig geimpft bin? Das hat einfach zu so einer App dazu zu gehören. PS: Lobenswert ist die prompte Rückmeldung. Daher vergebe ich schon einmal einen Stern mehr...<br> :date: __2021-05-12 12:48:34__
 
 
 
@@ -238,25 +238,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> Ich finde die Idee dahin super, jedoch sollten Testergebnisse, die vom Gesundheitsamt durchgeführt wurden, auch zeitnah hochgeladen werden um ein angemessenen Nutzen aus dieser App zu ziehen. Mein Test ist bereits 10 Tage her und ich habe immer noch keine Benachrichtigung. Selbst wenn ich eine bekommen sollte, soll die app doch auch andere Nutzer warnen können, für den Fall das ich oder wer anders positiv getestet wird.<br> :date: __2021-05-09 17:21:51__
+> Die App nützt mir nichts, da sie ständig mein Bluetooth ausschaltet und mir dann sagt, dass ein Fehler aufgetreten ist, weil Bluetooth ausgeschalten ist.<br> :date: __2021-05-13 16:09:58__
 
-> Schlimm wieviel Millionen in diese Low Budget App geflossen sind. Wenn ich nur einen digitalen Test habe, wieso kann ich dann kein Bild wählen statt ein Foto zu machen? Vielea umständlich und nicht zu Ende überlegt. Zudem nicht wirklich hilfreich. Sehr enttäuschend für so viel Steuergeld!<br> :date: __2021-05-09 14:09:46__
+> Nach über einen Jahr im Gebrauch, kann ich sagen das mir die App nix gebracht hat. Hatte so viele mit Corona in meiner Umgebung auf der Arbeit und habe noch nicht mal eine Risiko Bedrohung bekommen. Habe aber auch kein Corona-Virus bekommen, vielleicht hat sie doch geholfen 😅<br> :date: __2021-05-13 15:32:26__
 
-> Ich habe jetzt bereits 2 Mal einen PCR-Test machen lassen und diesen in der App registriert. Die Ergebnisse werden aber nicht angezeigt. Beim ersten Mal war nach 2 Wochen noch kein Ergebnis da und im aktuellen Fall warte ich auch schon wieder 3 Tage. Über die App des Testlabors kommt das Ergebnis zuverlässig.<br> :date: __2021-05-09 12:31:02__
+> Idee gut, leider wurden bisher alle von mir durchgeführten und eingescannten Tests nicht angezeigt. Habe daher wenig Vertrauen, dass sie überhaupt funktioniert. Ich habe aus beruflichen Gründen täglich Kontakt zu 70-80 Personen und noch keine einzige Warnung....<br> :date: __2021-05-13 14:41:56__
 
-> Was nützt mir die App wenn sie alle 2 Tage abstürzt und neu gestartet werden muss. Für eine lückenlose Nachverfolgung ist sie so unbrauchbar.<br> :date: __2021-05-09 08:32:11__
+> Mit den Fehlerprotokollen kann ich nicht viel anfangen. Ich weiss nicht, was das bringen soll. Helfen würde mir der digita le Impfausweis. Warum dauert das so lange bis der kommt?<br> :date: __2021-05-13 13:38:01__
 
-> Zu langsam. Nicht einmal die impftermine kann man eintragen. Corona app... Witz über die impftermine könnte automarisch der digitale Pass eingearbeitet werden. Aber huch, erst die Datenschützer fragen. Fazit... Ne app die nichts bringt<br> :date: __2021-05-09 04:29:50__
+> Ich bin ein Fan von der Idee mit der App. Deshalb habe ich mich gefreut, als mein Arzt mir nach dem PCR Test einen QRCode in die Hand drückte. Also Code mit der App gescannt - das war am Montag. Nun am Donnerstag schreibe ich diese Rezension, da in der App immer noch steht, dass mein Test noch nicht abgeschlossen ist. Vermutlich kann die App nichts für. Aber egal, es scheint dass wir einfach nicht Digital können, Prozesse Schnittstellen etc. zu standardisien. In Summe unbrauchbar. Sry<br> :date: __2021-05-13 12:58:49__
 
-> Bis nicht wirklich überzeugt.<br> :date: __2021-05-08 19:42:44__
+> Nutzlos Bei Warnungen wird es von dem Gesundheitsamt heruntergespielt und kein PCR Test gemacht. PCR Testergebnisse werden nicht übermittelt. Über das Labor hatte ich das Ergebnis binnen 27 Stunden. Die App zeigt nach fünf Tagen immer noch kein Ergebnis an. Da wurden Millionen für eine aus meiner Sicht nutzlose App ausgegeben. Sehr traurig. Das liegt sicher nicht immer an den App-Erstellern.<br> :date: __2021-05-13 08:55:44__
 
-> Sehr schlecht<br> :date: __2021-05-08 18:55:07__
+> Angeblich kann man Schnelltests scannen...bekommen aber immer die gleiche Meldung "QR Code ungültig" Alsoooo, was soll ich mit dieser App??<br> :date: __2021-05-12 22:58:17__
 
-> Ab wann können die Impfnachweise eingepflegt werden?<br> :date: __2021-05-08 17:05:25__
+> Warum kann man keine negativen test vom schnelltest eintragen da gibt es kein qr Nachtrag Sie schreiben das man schnelltest jetzt registrieren kann aber leider geht es nicht da bei den test Ergebnissen kein QR Code gibt auch bei selbsttestungen die positiv oder negativ ausfallen kann man nicht in die APP eintragen un so andere zuwarnen schade dabei wollen wir doch alle die Pandemie besiegen<br> :date: __2021-05-12 21:27:55__
 
-> Schnelltest-Scan funktioniert in Aachen nicht!<br> :date: __2021-05-08 13:44:31__
+> Update 2.2: bei mir funktioniert der Abruf von Schnelltest Ergebnissen leider nicht.<br> :date: __2021-05-12 18:56:28__
 
-> In letzter Zeit werden die Infektionszahlen nicht mehr angezeigt, warum?<br> :date: __2021-05-08 13:32:42__
+> In der neuesten Version schmiert die Risikoermittlung dauernd ab und lässt sich nicht mehr starten. Ich mag mich nicht durch die RKI FAQ quälen. Lieber deinstalliere ich die App. Geht schneller ;)........ Neustart war hilfreich... Danke :)<br> :date: __2021-05-12 18:00:30__
 
 
 
@@ -266,24 +266,24 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> Ich warte seit vier tagen auf mein Ergebnis und auf einmal war der registrierte Test in der App einfach weg und da man den qr code nur einmal scannen kann, kann ich mein ergebnis über die App nicht aufrufen<br> :date: __2021-05-09 14:51:44__
+> Kann einen an mich per Email geschickten QR Code eines Schnell (Apotheke) Testes nicht einscannen. Manuell eingeben geht auch nicht.<br> :date: __2021-05-13 17:33:26__
 
-> Risikoermittlung hat sich automatisch deaktiviert und lässt sich auch nicht mehr dauerhaft aktivieren. Springt immer wieder auf deaktiviert zurück.<br> :date: __2021-05-09 14:06:56__
+> Die App kann auf meinem 4 Jahre alten Huawei P6 nicht installiert werden. Alle anderen Apps laufen auf dem Smartphone problemlos. Ja, Playstore funktioniert einwandfrei. Auf dem erst 4 Jahre alten Smartphone ist Android 5.1 installiert, ein Update ist nicht möglich. Hier sollte die App angepasst werden, letztendlich sind noch viele dieser Geräte im Umlauf. WhatsApp, Facebook und Co. Funktionieren schließlich auch problemlos.<br> :date: __2021-05-13 16:45:40__
 
-> Oh nvm tatsächlich<br> :date: __2021-05-09 12:57:43__
+> Habe mir die App erst aufs Handy gemacht. Kann nicht eintragen das Ich eine Genesene bin.<br> :date: __2021-05-13 15:46:15__
 
-> Testergebnisse werden nach Wochen immer noch nicht angezeigt.<br> :date: __2021-05-09 12:09:53__
+> Wunderbar, da wird an einer funktionierenden App soviel rumgefummelt und verschlimmbessert das man nicht mehr durchsteigt und sie letztendlich nicht mehr funktioniert. So schließt sich der Kreis "Pandemiebekämpfung".<br> :date: __2021-05-13 15:42:21__
 
-> Diese App ist der größte Müll was es je im Store gegeben hat.<br> :date: __2021-05-09 10:34:40__
+> Kam keine Benachrichtigung. *Edit* Die Aufgabe von der App ist es ja, die Test Ergebnisse digital zu übermitteln! Mir wurde vom Gesundheitsamt gesagt, das Ergebnis vom Pcr Test sei in spätestens 3 Tagen da und kann in der App abgerufen werden. Allerdings kam da nie mein Test an und musste selber das Gesundheitsamt anrufen und nachfragen.<br> :date: __2021-05-13 13:55:23__
 
-> Müll<br> :date: __2021-05-09 10:30:54__
+> Vom Gesundheitsamt bekommt man bei einem positiven Testergebnis nach einem PCR-Test keinen QR-Code zum Abscannen oder eine TAN mitgeteilt. Beim Telefonat mit dem Amt liegt der Focus mit Sicherheit nicht auf diesen Angaben und es wird vergessen. Die Wenigsten werden einen weiteren Anruf mit Warteschlange tätigen und somit entfällt der Eintrag in diese App. Somit keine Warnung und der Nutzen der App somit nur begrenzt. Nicht durchdacht oder von der Behörde schlecht umgesetzt.<br> :date: __2021-05-13 13:49:22__
 
-> Keine Erfahrung gemacht<br> :date: __2021-05-09 08:21:23__
+> Funktioniert einfach nicht.<br> :date: __2021-05-13 13:06:09__
 
-> Müll<br> :date: __2021-05-09 07:51:40__
+> schlecht<br> :date: __2021-05-13 12:44:46__
 
-> schon den zweiten tag nicht aktualisiert<br> :date: __2021-05-09 06:21:47__
+> Wollte einen QR Code vom Schnelltest Scannen, bekam aber die Meldung Code ungültig. Wenn ich keine negativ Tests registrieren kann ist die App für mich nutzlos. Wird wieder deinstalliert....<br> :date: __2021-05-13 12:40:53__
 
-> Etwas, das nur meinem Energieversorger und Netzanbieter dient, brauche ich nicht<br> :date: __2021-05-09 06:09:11__
+> In einem Wort beschreiben : Unnötig<br> :date: __2021-05-13 12:38:04__
 
 

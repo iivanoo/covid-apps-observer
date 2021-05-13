@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Esta bien porque te dice si tienes posibilidad de tenerlo o no dependiendo de los síntomas<br> :date: __2021-05-12 11:04:15__
+
 > Muy buena app, fácil de usar y muy útil. La recomiendo.<br> :date: __2021-05-06 21:06:20__
 
 > Muy útil, todos deberíamos usarla<br> :date: __2021-03-24 19:24:04__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Excelente<br> :date: __2021-02-05 16:41:10__
 
 > Se trata de una aplicación muy intuitiva. Muy buena para la labor que realiza y funciona correctamente<br> :date: __2021-01-28 13:56:07__
-
-> Me ha gustado mucho la app es muy buena, recomendable para estos tiempos de contagio en los que estamos.<br> :date: __2021-01-25 13:47:14__
 
 
 

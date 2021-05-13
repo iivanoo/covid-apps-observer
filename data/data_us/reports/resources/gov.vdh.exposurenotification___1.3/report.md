@@ -246,11 +246,11 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> Does not work. No offense to your response but your QA process stinks. It is not hard to code in a weekly check into any app so it fires in a given time. My did not have a check in over 2 months.<br> :date: __2021-05-12 18:41:53__
+
 > Doesn't check for exposure for weeks. Eats up battery life.<br> :date: __2021-05-08 00:02:28__
 
 > Never no updates on it<br> :date: __2021-05-07 21:30:35__
-
-> Does not work<br> :date: __2021-05-07 02:57:21__
 
 > I had this app since it's birth pretty much and never once got a notification unless it was to turn my bluetooth back on. I was deep in atlanta a few nights and still no notifications. I guess it's because the other people also need the app but not enough people had it for it to work.<br> :date: __2021-04-26 18:02:55__
 
