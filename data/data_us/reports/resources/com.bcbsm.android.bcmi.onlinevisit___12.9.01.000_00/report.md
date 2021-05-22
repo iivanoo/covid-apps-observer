@@ -197,6 +197,12 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Great docs quick and easy best of all its cheaper than urgent care and er because it's free. I highly recommend online visits<br> :date: __2021-05-20 17:57:54__
+
+> I love that someone is always available in case my doctor is closed, like the case was today. The doctor was fast and kind. Great video and audio quality.<br> :date: __2021-05-19 09:25:24__
+
+> But<br> :date: __2021-05-17 17:12:53__
+
 > Good service all around<br> :date: __2021-05-10 19:46:53__
 
 > Great and professional service<br> :date: __2021-04-27 03:41:25__
@@ -210,12 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Great alternative to Urgent Care<br> :date: __2021-04-19 14:03:36__
 
 > All around Awesome experience! Great doctor and easy to use!<br> :date: __2021-04-09 01:07:54__
-
-> Perfect way to see a Dr without having to leave the house. Very easy and quick once your profile is set up.<br> :date: __2021-04-05 16:39:27__
-
-> Easy to use, much less of a hassle and faster than an unnecessary doctor appt<br> :date: __2021-04-05 14:05:13__
-
-> So much better than going to urgent Care or the ER. Especially right now with all this COVID19 craziness.<br> :date: __2021-04-01 15:13:53__
 
 
 

@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOGZ3IlxPaDBaLNGjVSr05ytCIAmpRbyJnV7UMCfXMVK7ryKwRxlLk9mjRPmg6ShSj_frzyhz3_2DQUG5w",
+        "userName": "Patricia Hicks",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7CbtNPActpuXv-VS5mK_qxSATgUtx3jYyDjvB=mo",
+        "content": "Amazing people care is wonderful.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-17 22:20:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEXQFr_u7Y8Lc-4QjFWGpHS5peqTF2DLmu_6AZGXM1l9I3dqSlslSP24YOSjFP2oMA4b3wbkGveeNm-Qg",
+        "userName": "Natasha",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgO20Mzv6aYEUQUfH_dllbc82KCOh3IZCVNX2dlaw",
+        "content": "My provider was extremely helpful, professional, succinct, and to the point, while making sure to asses all of my needs, and concerns, down to the level of detail that I need, for a calmer state of mind. I will absolutely be using this l again in the future. This is everything I've ever wanted in an urgent care experience. 10/10, and will be reccomending.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-16 08:02:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHelzrxiwbjYldOjJIzdGSgb5h-4epioDGbsW4fOCybpNdUBEAbc_h4rtqTBs_vJvw4df3ujLKRFMCK4w",
+        "userName": "Jason Miller",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyX3TzBlabtH9DujYheAygO6fP9TCUXiMBt81e_=mo",
+        "content": "Took forever way to many questions then they ask you the same questions by text then the provider ask again",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-15 00:03:30",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEYHfVT0VAI116pMeKejPkugl2F5Bs8Ld7ZGOflXyjfDTUiyP6T2beuS-T3HXSFckvP9CIoH7eINDzXEA",
+        "userName": "Linda Kelley",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw5g3fWtOx9DHYk6iTPkfx8dool54TEwBZjP9zJ=mo",
+        "content": "Kristen is excellent!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-14 13:50:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFN0t48jUrGFFfyJaLM7UMmkGhF3e74Cboxd-tP90Du6aTbI6ApqyC20eLq8wDYsUCn6793mE7_jGoQMA",
         "userName": "Paulette Miller",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxr6zXV2vY43D5cvY-XOHKdlsaOWEYGoJ6rA0Y-=mo",
@@ -20,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-05-04 12:10:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Vipul! Have you been able to connect successfully since? Please email us at help@myupmc.com with information such as your username, time and date you experienced repeated crashes and we can certainly help get your connected so you can get the care you need when you need it!",
+        "repliedAt": "2021-05-19 17:00:40"
     },
     {
         "reviewId": "gp:AOqpTOHnEh4p9DIl2goDP9HwXdJyZBmF1BpzbdEz_IFDWCByHXsiPi36XV6ywvPgEV2R8xyi-QJaZ0lQZHUMBw",
@@ -32,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-05-04 10:45:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Alys. We're sorry to hear you haven't been able to connect to a visit. This should be nothing but a time saver for you so we want to help! Please call us at 1-833-716-8447 or email us at help@myupmc.com so we can get to the bottom of it for you.",
+        "repliedAt": "2021-05-19 16:55:04"
     },
     {
         "reviewId": "gp:AOqpTOF_DbWHCTOvad0wx-eBn3868fgcvD4TTeOKLOE73X6ATHQow0FW08irjvPz-K6ZOt_wnSwG0bfs0LjlLg",
@@ -434,7 +482,7 @@
     {
         "reviewId": "gp:AOqpTOHbl0ZaseIZLxdy1_59fqI5xHv8bdh6sbflj2lKp7ak6ZU3_XlVdKlejqbqDjKKRqtK9qvbXnlAlYw28w",
         "userName": "Kenya Harrison",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gghm37ANV69J5Zzvd7XVSahdfXWdnY080KZsQK80A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2yVDgrxoK2XGjE4XgHYEoymjTKCB7qd_qJ7ABSQ",
         "content": "Wait was long",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2389,8 +2437,8 @@
     },
     {
         "reviewId": "gp:AOqpTOExnorzV5OCHUwD__3bYocgYkOgJcrpaol3Mqo62MQc1pPKbbrek1FsRx6UEVM5xfivzyAxrGiUCwNToA",
-        "userName": "ian",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEg9QSzjhZkaupApEeg6x5LZiyCmTxmjkfKDh0",
+        "userName": "ian danger wadlow",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiibSXT2kW8kjFRVwGpeO7ecxvaeebfbj0ShRS-cQ",
         "content": "Easiest way to get urgent care illnesses treated. Copay 5$. I'd pay more to use this app, it's so convenient.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -5354,7 +5402,7 @@
     {
         "reviewId": "gp:AOqpTOHhLMOQNoSKaLd4eBkxpSLfkOkQ5ABApDLD2DQ_Nolm8DLFRiTVdkfPCSIRFq8ji6G9thqS38YWp6YJjQ",
         "userName": "HutchTV",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8Zh7ImrV1spCmIuc5kgcCiqzVDdYUi8FbMCAmKA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgqFMbavx2irJkxM4qhkzMmmcya9eNtEkajesU5g",
         "content": "Great ,fast, and very convenient. Saves you a trip to the hospital or doctors office for minor things.",
         "score": 5,
         "thumbsUpCount": 3,

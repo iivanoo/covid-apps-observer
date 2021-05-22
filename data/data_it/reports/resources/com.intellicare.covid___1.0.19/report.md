@@ -142,6 +142,10 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Ottima<br> :date: __2021-05-19 19:42:51__
+
+> Ottimo servizio, sempre gentili e disponibili<br> :date: __2021-05-16 14:17:52__
+
 > Ottima iniziativa!<br> :date: __2021-04-28 20:25:53__
 
 > Applicazione molto semplice e di grande aiuto . Finalmente nessuna attesa di svariati infiniti minuti per poter informare chi di competenza su propri stati di salute causa Covid 19. Dopo aver inviato i campi richiesti, la risposta asl, è pressoché immediata.<br> :date: __2021-04-04 18:20:47__
@@ -157,10 +161,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Ottima<br> :date: __2020-11-11 19:16:16__
 
 > Credo che sia unottima protezione.<br> :date: __2020-10-24 15:02:19__
-
-> Tolto accesso, prego provvedere non mi invia sms per attivare<br> :date: __2020-10-21 12:26:52__
-
-> App veramente chiara e immediata. Semplicissima da utilizzare<br> :date: __2020-10-12 08:58:04__
 
 
 
@@ -198,6 +198,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="com.intellicare.covid 3 reviews"/>
 </p>
 
+> Da migliorare: lenta nel caricamento dei dati e altri dettagli<br> :date: __2021-05-17 16:57:38__
+
 > Fatta la seconda dose di vaccino non ha l'upgrade che consenta di scansionare il qr code per ottenere il passaporto vaccinale.. Al numero verde non risponde nessuno!<br> :date: __2021-01-26 16:18:58__
 
 > Certamente migliorabile quanto a velocità e feedback del inserimento dati e della conferma lettura ma in assoluto sembra funzionare. Molto utile e doverosa sarebbe la possibilità di esportare i propri parametri inseriti<br> :date: __2021-01-22 09:39:31__
@@ -215,8 +217,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Correggo la sottostante recensione, credo sia stato un malfunzionamento temporaneo, mi ha dato la possibilità di accedere e funziona. "Pessimo funzionamento. Avevo già installato l'applicazione ed avevo anche inserito i miei dati, ad un certo punto all'accesso (fase invio SMS di verifica) usciva un messaggio di errore che diceva che mi ero registrato con un altro numero (impossibile) e quindi non mi ha più consentito l'accesso. Sarebbe utile se funzionasse!!!"<br> :date: __2020-05-13 18:20:22__
 
 > Un po' complicato<br> :date: __2020-05-10 17:47:50__
-
-> Ok ma il fatto che nella scheda "contatta il tuo medico" non compaia piú in nome del mio medico cosa significa? é voluto?<br> :date: __2020-04-30 12:58:44__
 
 
 

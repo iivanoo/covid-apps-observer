@@ -139,6 +139,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> No issues. Runs in the background. My Bluetooth always on for car anyway. Its never going to be perfectly accurate but it's one tool not a complete solution.<br> :date: __2021-05-22 14:11:17__
+
+> Clever, simple app, it helps fight Covid while protecting your privacy<br> :date: __2021-05-19 08:23:31__
+
+> A bit of a pain to drain battery keeping bluetooth/location on constantly, but a small price to pay for public health & safety!<br> :date: __2021-05-17 06:42:30__
+
 > but yea m<br> :date: __2021-05-13 02:04:43__
 
 > Easy to use, watch you don't have your VPN switched on or it doesn't take any readings, wouldn't know it was working behind the scenes to help protect Scotland<br> :date: __2021-05-01 22:05:02__
@@ -152,12 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Speedy results..well up to date<br> :date: __2021-04-10 16:38:03__
 
 > Easy to setup and use. Minimal battery drain.<br> :date: __2021-03-24 13:36:27__
-
-> This app should be law to have during this pandemic<br> :date: __2021-03-24 12:24:10__
-
-> We r so Greatfull for the NHS AS IF IT WASN'T FOR THEM AN CARRIERS AND THE ONES WE DONT TALK ABOUT THEY ALL R AMAZING AN US THE GRAYS MUST BE SPEAKING FOR MILLIONS 💓💓 WE THANK U SO MUCH AN THEN SOME FOR EVER IN YOUR DEBTS XXXX<br> :date: __2021-03-23 16:35:15__
-
-> Excellent<br> :date: __2021-03-23 13:19:09__
 
 
 
@@ -223,6 +223,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
+> Absolute rubbish no information whatsoever NHS app for England far superior<br> :date: __2021-05-16 13:59:20__
+
 > Newest version no longer available for my phone. This means lower protection as lockdown is ending. very angry at this.<br> :date: __2021-05-01 01:13:48__
 
 > Too slow to react. The app is only as good as the data it has to work with. I got a notification I should isolate for -6 days (yes minus 6 days) it took that long for the data to be made available to the app...<br> :date: __2021-04-13 11:47:25__
@@ -241,8 +243,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Never had an alert no idea if that's working and there's no way to take two phones and do a diagnostic safe proximity test between them for reassurance. I simply don't trust this or the NHSEngland equivalent and I use both.<br> :date: __2021-02-12 04:20:30__
 
-> I don't know if it works right..<br> :date: __2021-02-11 11:40:25__
-
 
 
 #### 1-star reviews
@@ -250,6 +250,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> Tested positive unable to upload code given. No way to report that I could see that all my contacted people were warned. Nothing showed on my app. No advice was given. I did my duty but there is no evidence to me that the app is functioning.<br> :date: __2021-05-21 08:42:03__
+
+> Totally unclear whether it is doing anything<br> :date: __2021-05-20 23:53:37__
+
+> Ridiculous idea to have a standalone app for scotland, not synced with England so the data in it is all but useless as the borders are now bein crossed again...<br> :date: __2021-05-16 21:56:48__
 
 > I've never been able to use this app, as it's incompatible with phones made before ~2017, which is quite disgusting given the reason for its existence.<br> :date: __2021-05-13 17:33:32__
 
@@ -264,11 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > The app didn't work well with my phone as it drained the battery alot quicker than usual. Come late in the afternoon my phone would be dead so no option but to uninstall. Update:- Its been a few months since this app was released and everyone I've talked to has ether uninstalled the app already or never installed it in the first place. Waste of space and battery.<br> :date: __2021-04-11 05:07:15__
 
 > Waste of time and tax money. Been with people who have notified the ap that they are covid positive and the ap did not notify me.<br> :date: __2021-04-01 15:40:03__
-
-> Looks like nobody uses it. Look at all the infections<br> :date: __2021-03-25 16:20:38__
-
-> According to covid exposure checks in settings the app did three checks between launch and November Reinstalled app in November, it hasn't carried out one single check since!<br> :date: __2021-03-24 03:50:19__
-
-> Shite<br> :date: __2021-03-21 01:57:25__
 
 

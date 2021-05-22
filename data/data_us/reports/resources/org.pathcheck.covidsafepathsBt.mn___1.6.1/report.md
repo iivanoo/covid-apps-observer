@@ -137,6 +137,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> I just got my j and j shot today<br> :date: __2021-05-22 06:48:25__
+
 > No warning so far!?<br> :date: __2021-05-08 04:20:12__
 
 > I LOVE IT YEAAAA<br> :date: __2021-05-06 14:45:07__
@@ -154,8 +156,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Call V's in your head and what you did in your life will kill you<br> :date: __2021-02-15 05:50:20__
 
 > Good<br> :date: __2021-02-05 23:46:01__
-
-> I've been extreoffensive with my life & very much the definsv wit my fam. My wife more than ever more so than me. I mean we have stopped seeing one another romantically and we've been doing that 1ce month like clockwork. so to end our special monthly night speaks volumes. I mean we dont even sleep in the same bed anymore. she even goes outta town weekend's so we arnt stuck close quarters. After George Floyd all them people together no Spike weird I must say. Why no deaths spike?Anyone?<br> :date: __2021-02-03 17:29:00__
 
 
 
@@ -221,6 +221,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 2 reviews"/>
 </p>
 
+> I guess if you're really into covid like that but I don't want to be notified every 10 minutes about people that had to go I'm vaccinated I'm good<br> :date: __2021-05-18 14:24:17__
+
 > It never reported a thing even when I was exposed to Covid and it did a download to my phone every check. Now I have to go in and delete all those downloads...not happy.😑🤬<br> :date: __2021-05-05 17:15:11__
 
 > Eh.... obviously needs work.<br> :date: __2021-04-20 17:38:42__
@@ -238,8 +240,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > This app gives very vague information about potential exposure. It caused me to be quarantined for exposure to a neighbor whom I rarely ever see. That placed me closer to that neighbor than I normally would be. After testing negative on the 6th day, I decided to remove the app from my phone.<br> :date: __2021-02-18 14:08:36__
 
 > Downloads multiples files every day, there is no settings I have limited data and there is no download with confirmation to see if we want to wait on the updates. It's downloads showing in notifications bar. This behavior is not acceptable to me...as I have Limited data each month. Give us the option to download these files for the app when we are ina Wi-Fi spot..I don't want to use my cellular data all the time, give us the ability to stop auto downloads till we get to wifi spot. Thanks<br> :date: __2021-02-04 04:32:02__
-
-> Gives a notification for 'checking exposures' that doesn't go away and you can't dismiss the notification. Would like to have the app, but I don't want it if it has this annoying bug.<br> :date: __2021-01-18 17:25:50__
 
 
 

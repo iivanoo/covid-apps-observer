@@ -199,6 +199,8 @@ The BronsonConnect Video Visit app has been installed by more than **1000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.bronsonhealth.android.bron.videovisit 5 reviews"/>
 </p>
 
+> Since to have all my medical records in my control.<br> :date: __2021-05-18 17:54:29__
+
 > I can keep up on my health data follow along with my doctors instructor<br> :date: __2021-05-01 16:47:15__
 
 > Great<br> :date: __2021-03-09 01:25:16__
@@ -216,8 +218,6 @@ The BronsonConnect Video Visit app has been installed by more than **1000** time
 > Pretty dang efficient!<br> :date: __2020-05-10 22:44:20__
 
 > Quick and easy<br> :date: __2020-05-10 19:03:08__
-
-> She was awesome actually listened to me and she actually knew what she was doing I couldn't be happier with her examination great doctor and great app I wasn't sure how it was gonna work on the phone but it was perfect couldn't give her a higher rating<br> :date: __2020-05-06 00:15:40__
 
 
 

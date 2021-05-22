@@ -160,25 +160,25 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="5_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 5 reviews"/>
 </p>
 
-> This app really got me walking and I am able to monitor my metrics, such as how much of my walks is brisk. A must have for anyone who wants to do more brisk walk with a purpose.<br> :date: __2021-05-10 22:21:33__
+> Useful, I like to know I have done some brisk walking<br> :date: __2021-05-21 22:52:13__
 
-> Easy and clear<br> :date: __2021-05-10 11:12:37__
+> Helps to encourage exercise<br> :date: __2021-05-20 08:34:09__
 
-> Great app spurs you on more<br> :date: __2021-05-09 11:09:15__
+> I like using this app. It helps me to exercise every day. Precise instructions with many rewards and NO punishments, it only encourages me to push myself harder, without even being pushy itself. I live the detailed articles on fitness and wellbeing!<br> :date: __2021-05-19 19:22:22__
 
-> Easy to use and useful to track your excercise. Fun!<br> :date: __2021-05-08 04:26:01__
+> Easy to use. Keeps me motivated<br> :date: __2021-05-19 14:31:38__
 
-> Great app. Gets you moving.....<br> :date: __2021-05-07 17:20:57__
+> Great way to support a more active day.<br> :date: __2021-05-19 10:36:44__
 
-> This app gives me the motivation I need to actively walk everyday. I enjoy getting the rewards when I reach my goals.<br> :date: __2021-05-07 17:20:03__
+> Excellent app inspires you to keep walking each day and increase the amount of brisk walking you do.<br> :date: __2021-05-18 21:03:01__
 
-> Good simple app, does exactly what it says. Excellent for counting steps and pace, its automatic, no setting up each time you walk, very useful. Would be handy if it had a route map but its free, so no complaints.<br> :date: __2021-05-07 12:21:40__
+> Awesome 👌🏼<br> :date: __2021-05-18 17:38:51__
 
-> I am finding this app very useful. It is keeping me on track. It makes me do a bit more each day and I find that I am in compition with myself, always trying to push myself harder.<br> :date: __2021-05-07 10:59:25__
+> Easy to use<br> :date: __2021-05-17 12:06:37__
 
-> Fab app I thought I was good at getting my steps in only to realise they weren't healthy steps this app makes me walk at a good pace as I am eager to get my 30 min active ten<br> :date: __2021-05-05 21:52:33__
+> I really like this app..it encourages Me to walk more without the expense of a watch.<br> :date: __2021-05-16 19:26:22__
 
-> I found active ten so easy to use and really great for motivation<br> :date: __2021-05-04 20:24:02__
+> Excellent<br> :date: __2021-05-16 19:02:01__
 
 
 
@@ -187,6 +187,10 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 4 reviews"/>
 </p>
+
+> Learning more about my eating habits. Quite an eye opening.<br> :date: __2021-05-18 14:03:13__
+
+> I wanted to find an easy way to increase my activity and found this NHS sponsored app. It has really encouraged me to get out every day for at least 20 mins walk and after less than a month I am feeling the benefits.<br> :date: __2021-05-17 08:55:22__
 
 > I loved this app at first it's very useful as I have fibromyalgia an need to phase my exercise slowly. However the app stopped registering my brisk steps and i kept pushing harder to get those brisk mins in, the result was I pushed to hard, then it stopped working. At times I walk quickly and it doesn't register other times I walk slowly and it registers. This has been demotivating. If these issue were fixed it would be a great tool for me<br> :date: __2021-05-09 13:52:48__
 
@@ -203,10 +207,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 > Sometimes I walk fast and the tracker doesn't register it as brisk. I didn't realise the phone had to be on my person; not in a handbag.<br> :date: __2021-04-30 12:50:55__
 
 > The first couple of minutes don't register however brisk you walk so it's best not to stop. Otherwise it's a good help to measuring your walks<br> :date: __2021-04-28 08:54:51__
-
-> Simple and effective. Generally accurate on my brisk walks, but some long, slow walks with my wife show short brisk periods that I doubt happened. Not an issue though.<br> :date: __2021-04-27 09:50:06__
-
-> Handy reminder especially the brisk challenges.easy to use.<br> :date: __2021-04-26 20:31:55__
 
 
 
@@ -244,6 +244,10 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="2_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 2 reviews"/>
 </p>
 
+> The app counts cycling as brisk walking... It's just not right. Hope it get fixed.<br> :date: __2021-05-17 18:57:09__
+
+> It does not register brisk walking properly. I walk with my daughter both using active 10, mine shows very little brisk walking compared with hers. Rubbish.<br> :date: __2021-05-15 15:25:57__
+
 > Doesn't always work<br> :date: __2021-05-10 20:48:27__
 
 > Stopped tracking. Worked well 1st week but now doesn't track my walking at all. Annoying as I walk for an hour and half each day and am interested in seeing how I'm doing<br> :date: __2021-04-26 10:47:44__
@@ -259,10 +263,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 > Not reliable, I do the same walk each week in the same time sometimes it records 100 brisk minutes other times like today 8 minutes<br> :date: __2021-03-18 17:45:18__
 
 > It just doesn't register much of my brisk walking. Seems completely random, some days all is fine, other days only about 10% registers.<br> :date: __2021-03-06 17:09:46__
-
-> Frustrating. App regularly loses all records. This did not use to happen<br> :date: __2021-03-06 11:41:19__
-
-> My phone came with this app installed & I used it for years. Sadly it now requires me to enter a password for a samsung account which I don't have. My phone is quite old, & I imagine this is something which has come in since I got it. There seems to be no way through this, so I cannot use it any more & have lost my data. If not for this I would have given 4 stars. I found it very useful.<br> :date: __2021-02-16 19:39:53__
 
 
 

@@ -188,11 +188,11 @@ The Nemours CareConnect – See a Pediatrician 24/7 app has been installed by mo
 <img src="5_star_reviews_wordcloud.png" alt="com.nemours.android.careconnect 5 reviews"/>
 </p>
 
+> Love it! Thank you so much for this service! Dr. Joanne Murren-Boezem is Amazing!<br> :date: __2021-05-21 03:41:37__
+
 > Easy and reliable<br> :date: __2021-04-14 22:02:06__
 
 > I love it so nice<br> :date: __2021-04-13 16:36:17__
-
-> Love it! Thank you so much for this service!<br> :date: __2021-03-14 05:33:06__
 
 > Convenient and wonderful provider<br> :date: __2021-01-18 21:14:36__
 

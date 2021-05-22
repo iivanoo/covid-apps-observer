@@ -189,6 +189,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Perché non si riesce a cambiare l'età....e bisogna rifare tutto....è logico che anno con anno si cambia....dovrebbe esserci la possibilità di farlo senza dover disinstallare e reinstallare....almeno io non riesco...se c'è un modo ....grazie<br> :date: __2021-05-22 09:02:31__
+
+> Non mi fa modificare la mia età è rimasta quella dell anno scorso ma per il resto funziona benissimo<br> :date: __2021-05-16 22:10:43__
+
 > App funzionale, suggerisco aggiungere anche la localizzazione per avere la possibilità di essere aggiornati in tempo reale sulle allerte nella esatta posizione in cui ci si trova<br> :date: __2021-05-12 13:10:22__
 
 > È sempre andata bene, da un po' di tempo escono le notifiche ma non apre la APP. Alzo il punteggio a seguito della risposta dello sviluppatore<br> :date: __2021-05-07 12:55:17__
@@ -204,10 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Non continuate a mandare messaggi del tipo: se non aggiorni non riceverai più le notifiche......aggiornamento al 19/ 3<br> :date: __2021-04-22 15:59:03__
 
 > 👍<br> :date: __2021-04-19 21:35:04__
-
-> Migliorata molto<br> :date: __2021-04-19 20:41:19__
-
-> Molto utile<br> :date: __2021-04-19 18:40:46__
 
 
 
@@ -273,6 +273,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Spesso è in blocco<br> :date: __2021-05-19 15:05:39__
+
+> Non si apre più da circa una settimana/10 giorni, pur ricevendo le notifiche. La risolvete o raccontate la favola dei troppi utenti collegati?<br> :date: __2021-05-18 12:57:42__
+
+> L'app non funziona più da giorni e non ho aggiornamenti. Dinstallo?<br> :date: __2021-05-16 12:48:17__
+
 > Scusate ma cosa serve!?. Poteva essere usata almeno per tracciare i vaccini o per prenotazioni..<br> :date: __2021-05-09 08:11:35__
 
 > Stesso problema con Matteo Repossi: "aggiorna l'app per avere le ultime notifiche bla, bla, bla..." vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Oggi l'app fa sapere che da domani, senza aggiornamento non si riceveranno più le allerte. vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Quindi? Hanno risposto gli sviluppatori?<br> :date: __2021-04-23 14:54:25__
@@ -286,11 +292,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Continua a chiedere un aggiornamento che non è disponibile da nessuna parte....che devo fare??<br> :date: __2021-04-22 18:43:44__
 
 > Ogni volta mi avvisa di aggiornare l'app ma ho gia fatto l'ultimo update<br> :date: __2021-04-22 16:27:37__
-
-> Passano i giorni e la app è inutilizzabile non riesco più a fare nulla aggiornarla è una chimera!<br> :date: __2021-04-22 15:52:00__
-
-> Ha sempre funzionato bene. Ora è una settimana che continua ad avvisarmi di dover fare un aggiornamento altrimenti non riceverò più le notifiche. Peccato che non ci sia modo di farlo.. cosa devo fare? Grazie<br> :date: __2021-04-22 15:49:20__
-
-> Non funziona più chiede di fare gli aggiornamenti ma nel play store non sono disponibili<br> :date: __2021-04-22 15:39:01__
 
 

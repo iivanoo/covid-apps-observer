@@ -1,15 +1,39 @@
 [
     {
+        "reviewId": "gp:AOqpTOFkXFDxXXCU4tftd4P4SGe78Wa6ZecA7n0pwJc_emBT0xLFYgTXLnCaOjrTeXSqcqJslfkdOFZC6Fy78C0",
+        "userName": "Brenda Mendoza",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxbJVdJzOgBF77IoCUodn5wV9Vf5tTeI3yf_y1MT4",
+        "content": "Smart",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.3",
+        "at": "2021-05-14 18:24:56",
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:39:00"
+    },
+    {
+        "reviewId": "gp:AOqpTOHPUWkLklL84aazxbyD8eAF9IkLT-QtzkmxnfBfaro6hs2b7UVzTc1MmfovtqgVsDHBnaVHqrvOpUY0HCU",
+        "userName": "\u041ceIa\u03c0Ie T\u043d\u0444\u043c\u0440so\u03c0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiffFIaU3gtEZscbbDmaCHDtagfwtO58NHVBB6hWM0",
+        "content": "N/A This app is not for my area. Suggestions can be rather peculiar on shared devices. I must have purchased this free app by mistake but I'm sure it's great for those who are using it.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-14 10:34:57",
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:39:12"
+    },
+    {
         "reviewId": "gp:AOqpTOHW93W9Q1Tzpvrpzc7uFggU1QoNzGXCO63uFghyB9DHp7MSli1J0UspgM9YvnXRA0uWuPXYuFhIUxsWl-s",
         "userName": "Amanda Breen",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFtkUgfQRxEa7POXP1MUSP__eqQStiKT0igJmq1xc",
         "content": "It's very basic and it doesn't allow you to enter information ...i.e...that you're vaccinated. It allows you to find a vaccination site but I don't need the app to do that. I thought it would show hot spot of high infection locations. Definitely needs a better development team.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.1.3",
         "at": "2021-05-01 20:00:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:39:57"
     },
     {
         "reviewId": "gp:AOqpTOEFQaxm_1eJaVs8aG8m5BGYIjxLHcnp6mQR3FJcwE-1zB8iK6dR4zOWwq17mcDivf5z2KSuT08qx-5OHlU",
@@ -20,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-29 22:26:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment. Please see the Google video on how the API uses Bluetooth signals. https://www.google.com/covid19/exposurenotifications/",
+        "repliedAt": "2021-05-19 22:41:00"
     },
     {
         "reviewId": "gp:AOqpTOHrYn9NCjmv9FKaBmvPEj7ru_HiKWsKeC2PUczACZxupnx4VtHJInxflHZjjci2807nXHcH7QUFWyp69Gg",
@@ -32,8 +56,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.1.3",
         "at": "2021-04-28 19:59:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:41:15"
     },
     {
         "reviewId": "gp:AOqpTOHnodHdl2ZXyr1W7tNc9UP2mYZzTZv54sMFmf9wqzs8XtVaGXa_AaaSz8LaPN5BtxRp4TqasjTxQCtbkxg",
@@ -41,11 +65,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz89UBQ-1PrWdnO7qnjWzpMThYoHIXEb-QJpIEB=mo",
         "content": "Well, this is a bummer! I had first came across this app the end of last year. I installed the app, only to uninstall it days later. I thought I would give it a try, only to be disappointed again! You would think by now, more people who would've heard of the app? I assume that is not the case, as it would reflect in number of installs. Why hasn't ASU climbed on board yet? What's the hold up developers? Maybe ASU wants to create their own app?",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2021-04-24 02:24:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment. The app continues to be adopted by communities and organizations and is available for download and use.",
+        "repliedAt": "2021-05-19 22:41:47"
     },
     {
         "reviewId": "gp:AOqpTOFMGA39F64s-GRA3gVbVrummy26YOmyfBwoKGomc70lBV3pIzxETfpZEaMuAuBSlyp_y0RKs863yQCLev8",
@@ -56,8 +80,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.1.3",
         "at": "2021-04-21 20:56:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:42:04"
     },
     {
         "reviewId": "gp:AOqpTOFQHsY0cpqsauayKBUhdBh3BfjLXd1SRocsvebsQGTxTusiRvRpcj6ebBGwv3-Jn6NYqln5qK1FDkUwQrk",
@@ -68,8 +92,8 @@
         "thumbsUpCount": 6,
         "reviewCreatedVersion": null,
         "at": "2021-04-13 04:56:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:42:14"
     },
     {
         "reviewId": "gp:AOqpTOGb5b0_5AfdKx0sN8fwadKHyxg4mF3x33YlAjazT7msTMF-fi8-tPL-dPGQMaZcLvmuIApfar56PqYwRAc",
@@ -80,8 +104,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.1.2",
         "at": "2021-04-10 10:33:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:42:20"
     },
     {
         "reviewId": "gp:AOqpTOHqSKAIR21IVvldfyf__XQNyM4wzGa6KjRhlQfBesjoGmQeTCldwVH5my8pgOHjY7zV-pHO20HjzaYfaJQ",
@@ -89,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhzDE9Te8Opl3SevXoJ5jdpmRybqwAeKga_NTNC",
         "content": "Dumber now",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2021-04-04 12:24:03",
         "replyContent": "Hello, To learn more about how the Covid Watch Arizona app works, please visit the link below https://www.wehealth.org/arizona",
@@ -104,8 +128,8 @@
         "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.1.0",
         "at": "2021-04-04 10:08:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:42:41"
     },
     {
         "reviewId": "gp:AOqpTOHZhrnFbs6h1_X_kJm2e0JE-NLKmuFZwZqlduBGB-JKpko-r-mU0RHvr54HnIAd1oLNf5eBsh_3IPSJvAU",
@@ -128,8 +152,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-03-30 21:18:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:42:50"
     },
     {
         "reviewId": "gp:AOqpTOGglNvmsEC3xweqkUcsPC8gQKtfg0PaQXWHCfN_rmyC-Jb9W_nOYRZt9q6pC2jba-0JBYl-Kl_dxUB0a9g",
@@ -140,8 +164,8 @@
         "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.0.32",
         "at": "2021-03-30 10:09:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your comment.",
+        "repliedAt": "2021-05-19 22:42:59"
     },
     {
         "reviewId": "gp:AOqpTOEWHvrEIiEr4Jy41JoGZSEZZkgjkj2maSx7boCD6lEEjeE2qQKm2pTLYbAg7QVOPKxvXdOcAxRwfGTD4jo",
@@ -161,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykQuX_av0UAr_bEismSmGh5nfvmgwc-9uMsJCZ=mo",
         "content": "Was hopeful for this, but this app is *extremely* limited. With only around 10K downloads (assuming these are still installed and running), there's no way it can function effectively for contact tracing. First, this had apparently been available since August 2020? No one knows about this app. Second, there needs to be a way for users to report their own exposures to those diagnosed covid positive, not just personal diagnoses - consider medical field workers: doctors, nurses, pharmacy.",
         "score": 1,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "2.0.32",
         "at": "2021-03-05 20:29:24",
         "replyContent": "Hello, Thank you for your thoughtful feedback. We\u2019re excited for you to start using the app! We are currently in the process of working with the State of Arizona. Click here to learn more: https://www.wehealth.org/arizona",
@@ -197,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZBan7_hynoVnXQEuw6MZwhDA-my20TM7Cpfv4og",
         "content": "I don't see how this app can be helpful at all for contact tracing. Few people in Arizona I know are aware of this app, and even if they're informed about it, it doesn't even appear in a general search with keywords. Then it will randomly inform you that you have a notification and, when you click to find out what it is, it will tell you that you have no notifications. You'll have an icon that sits in your notifications for 12 hours telling you that it's looking for exposures that can't be dismissed. Also, you can't even choose Phoenix nor Maricopa County as your location despite that being the most populous region of the state; your options are Tucson, Flagstaff, and \"State of Arizona\" which apparently isn't even functional.",
         "score": 2,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "2.0.21",
         "at": "2021-01-13 20:07:20",
         "replyContent": "Hi Nick,\nCurrently, we have two active regions, the University of Arizona (UA) and Northern Arizona University (NAU). We are currently in the process of working with the State of Arizona so the app can be fully used by everyone in the State! If you have any feedback or suggestions, please write to us at https://help.wehealth.org/hc/en-us.",

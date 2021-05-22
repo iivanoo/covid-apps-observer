@@ -151,6 +151,10 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Informative<br> :date: __2021-05-19 22:10:43__
+
+> great<br> :date: __2021-05-19 03:22:35__
+
 > Good<br> :date: __2021-05-06 17:36:26__
 
 > Great to have<br> :date: __2021-04-17 18:11:47__
@@ -166,10 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Flawless amazing PERFECT $LC.<br> :date: __2021-03-23 18:12:59__
 
 > It's straight forward. I mean. Pleasant experience.<br> :date: __2021-03-18 19:50:49__
-
-> It works, but only if everyone uses it. Which given this state 🙄<br> :date: __2021-03-08 14:10:58__
-
-> If you're struggling with the app not being active, make sure in Android settings that it isn't being put to sleep. Android puts apps that you don't open often into a suspended state to save battery usage. You need to disable that for this app.<br> :date: __2021-03-08 06:47:29__
 
 
 
@@ -234,6 +234,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 2 reviews"/>
 </p>
+
+> Plays a notification tone when checking for exposures, even when it doesn't find any, making you look at your phone for no reason.<br> :date: __2021-05-15 00:22:25__
 
 > It keep restarting. I love the outlook and long term visionary goals. Its a great asset if no problems<br> :date: __2021-04-07 02:57:31__
 

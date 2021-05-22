@@ -166,6 +166,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 5 reviews"/>
 </p>
 
+> Ohne Frage die beste App dieser Art. Einfach zu bedienen, alles dabei um sich zu erinnern. Ich hoffe ich brauche die Daten nie.<br> :date: __2021-05-14 19:58:37__
+
 > Super App. Die meisten Funktionen sind mittlerweile auch in der Corona-Warn-App integriert, aber vermutlich nur durch die guten Ideen von Coronika 👍<br> :date: __2021-04-22 08:55:45__
 
 > App ist einfach zu bedienen (wenn man den Dreh raus hat 😉). Schön, dass die Einträge bei mir bleiben und nicht automatisch irgendwo landen.<br> :date: __2021-04-02 03:47:23__
@@ -184,8 +186,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 
 > Simpel zu bedienen. Mit wenig manuellen aufwand kann man somit ein kontakttagebuch führen<br> :date: __2020-12-28 10:37:23__
 
-> Empfehlenswert, leicht zu nutzen. Danke!<br> :date: __2020-12-26 20:15:06__
-
 
 
 #### 4-star reviews
@@ -193,6 +193,8 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 4 reviews"/>
 </p>
+
+> Gut<br> :date: __2021-05-14 20:09:55__
 
 > Etwas kompliziert für ältere Menschen.<br> :date: __2021-02-25 19:34:10__
 
@@ -211,8 +213,6 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 > Nach dem damaligen großen Update nun deutlich schnellere Reaktionen auf Eingaben. Startzeit könnte durch Verringerung der Animationslänge schneller sein oder zumindest auch verkürzen lassen. Ansonsten gute einfache Hilfe um Kontakte relativ übersichtlich zu erfassen.<br> :date: __2020-11-20 12:13:56__
 
 > Schon sehr gut! Es wäre allerdings cool, wenn sich auch der Exportzeitraum anpassen lassen würde. Dann könnte ich die App nämlich auch für das Kontakttagebuch meiner Tochter für die Tagesbetreuung nutzen. Dort müssen alle zwei Tage die Kontakte der letzten 48 Stunden angegeben werden. Wäre der Zeitraum einstellbar, gäbe es von mir 5 Sterne<br> :date: __2020-11-18 03:20:14__
-
-> gut das es das gibt = 5sterne!! keine datenuebernahme aus dem adressbuch = 2sterne -. datenvorhalt 14 tage, klasse = +1stern.<br> :date: __2020-11-14 21:07:39__
 
 
 
@@ -278,7 +278,7 @@ The Coronika - Dein Corona Kontakttagebuch app has been installed by more than *
 <img src="1_star_reviews_wordcloud.png" alt="de.kreativzirkel.coronika 1 reviews"/>
 </p>
 
-> Geht es denn noch dämlicher? "Tagebuch für die Gesundheit aller." So ein Unsinn! Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, daß diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber leider nur minimal.<br> :date: __2021-05-13 00:25:38__
+> Der größte Schrott überhaupt! "Tagebuch für die Gesundheit aller." So ein Unsinn! Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und überflüssig! Ich habe sie wieder gelöscht. Großes Indianer-Ehrenwort. Ich hoffe, daß diese Schwachsinns-App nicht mehr fortgeführt wird und sich die bisherigen Nutzer\*innen dann in dauernde Selbstisolation begeben. Das erhöht den IQ-Durchschnitt im Freien, aber leider nur minimal.<br> :date: __2021-05-22 00:17:18__
 
 > Nach dem heutigen Update waren alle bisherigen Eintragungen weg! Die App ist leider unbrauchbar. Ich habe sie wieder gelöscht<br> :date: __2020-12-20 22:53:19__
 

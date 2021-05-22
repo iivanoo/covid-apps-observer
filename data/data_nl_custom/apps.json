@@ -11,14 +11,14 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.1.2.1239-QA_263-2-gcc633a7",
-        "latest_crawl": 1620914437
+        "latest_crawl": 1621688555
     },
     {
         "id": "nl.rivm.lciapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1620914447
+        "latest_crawl": 1621688564
     },
     {
         "id": "org.who.infoapp",
@@ -32,35 +32,35 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "5.9.1",
-        "latest_crawl": 1620914592
+        "latest_crawl": 1621688704
     },
     {
         "id": "de.xikolo.openwho",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.7",
-        "latest_crawl": 1620914599
+        "latest_crawl": 1621688714
     },
     {
         "id": "com.joinzoe.covid_zoe",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "2.4.0",
-        "latest_crawl": 1620914599
+        "latest_crawled_version": "2.5.0",
+        "latest_crawl": 1621688979
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1620914603
+        "latest_crawl": 1621689058
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.3",
-        "latest_crawl": 1620914609
+        "latest_crawl": 1621689062
     },
     {
         "id": "nl.rijksoverheid.en",

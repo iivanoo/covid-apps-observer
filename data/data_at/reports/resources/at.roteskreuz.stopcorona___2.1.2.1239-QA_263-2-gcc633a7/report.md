@@ -148,6 +148,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> bin seht froh über diese app da ich beruflich mit vielen leuten in kontakt stehe<br> :date: __2021-05-21 08:08:44__
+
+> In Zeiten wie diesen ein muss👍<br> :date: __2021-05-18 08:15:28__
+
+> 😂😂😂<br> :date: __2021-05-17 16:04:26__
+
 > Gut<br> :date: __2021-05-06 13:50:59__
 
 > ICH LASSE MICH IMPFEN,AMEN<br> :date: __2021-05-05 08:39:22__
@@ -161,12 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Tolle einrichtu ng<br> :date: __2021-04-22 08:35:20__
 
 > Ich bin begeistert<br> :date: __2021-04-21 19:10:44__
-
-> Ok<br> :date: __2021-04-21 14:32:58__
-
-> Nicht möglich das angekündigte Update über Playstore zu aktualisieren.<br> :date: __2021-04-21 09:36:33__
-
-> Man sieht nicht ob irgendwelche Kontakte aufgezeichnet werden. Anscheinend wurde auch nach mehreren Monaten Betrieb landesweit noch kein einziger Fall dadurch gefunden (sonst wäre das ja wohl in irgendwelchen Nachrichten gestanden) *edit*: hat sich inzwischen geändert<br> :date: __2021-04-21 08:19:43__
 
 
 
@@ -204,6 +204,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Sammelt 1.6 GB Daten und belegt auf älteren Smartphone zu viel Speicher! Wie kann man das reduzieren? Ich bin mittlerweile voll geimpft, was macht diese App Sinn? Aktiviere sie nur wenn ich unter fremde Personen gehe. Will BlueTooth nicht immer offen halten!<br> :date: __2021-05-21 05:49:38__
+
 > Hat bisher funktioniert<br> :date: __2021-05-10 21:35:57__
 
 > Weil offenbar in der Warteschlange beim Spar jemand danach positiv getestet wurde, schickt mich die App in Quarantäne. Ohne Bescheid! Bei 1450 wurde nichts aufgenommen oder erklärt. Ich würde von der Behörde kontaktiert. Wie denn, ohne Kontaktdaten? Dann jede Stunde diese Anweisung. Mein Chef akzeptiert solche Anweisungen einer App nicht als Entschuldigung.<br> :date: __2021-05-10 09:22:40__
@@ -221,8 +223,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Zu wenige Nutzer.<br> :date: __2021-03-21 11:52:32__
 
 > Hab sie jetzt nach langer Zeit deinstalliert... bisher nie eine Meldung bekommwn, kein einziger Kontakt.. da weiß man nicht mal ob sie funktioniert 😑 und solangs fast keiner verwendet is es ziemlich sinnfrei<br> :date: __2021-02-03 11:46:28__
-
-> Funktioniert nicht! Ich bin positiv und habe es in der App gemeldet! Mein Bruder hat die App ebenfalls seit langer Zeit und er hat keine Benachrichtigung bekommen! Obwohl wir jeden Tag mehrere Stunden Nebeneinander auf dem Sofa sitzen...! Edit: Habe mich nach einem Tag Gesund und dann wieder Krank gemeldet = jetzt ist er benachrichtigt geworden..<br> :date: __2021-01-02 11:58:54__
 
 
 
@@ -260,6 +260,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Update: Bis heute Nacht keine einzige Erkennung. Dafür heute Nacht fast 15000 mögliche Kontakte. Ich bin mir aber ganz sicher, daß nicht annähernd so viele Leute in meinem Schlafzimmer waren. Leider erkennen unsere Handys sich nicht. Meine LG und ich sind auch nach 24 Stunden zusammen keine Kontaktpersonen. Auch die Handys meiner Arbeitskollegen werden nicht gefunden, auch wenn die Handys die ganze Zeit am selben Tisch liegen. So bringt die App eigentlich gar nichts, ausser Akkuverbrauch.<br> :date: __2021-05-22 12:06:20__
+
+> Auch im Infektionsfall eher unbrauchbar. Will jeden Tag das ich meine Kontakte der letzten Tage benachrichtige auch wenn ich schon Tage in Quarantäne bin. Muss dann jeden Tag den Beginn der Symptome neu setzen. Hab die App jetzt vorerst deinstalliert und installiere sie erst wieder wenn ich und meine Familie wieder raus sind.<br> :date: __2021-05-18 10:31:07__
+
 > Die app macht meiner Meinung nach garnix aber verbraucht 856MB Speicherplatz!? Finde ich extrem übertrieben!!!!<br> :date: __2021-05-11 06:03:46__
 
 > lt. app hatte ich kontakt mit einem positiven. hab bei 1450 vlbg. angerufen, die kennen die app nicht 😳 geh morgen wieder arbeiten.<br> :date: __2021-05-02 16:22:14__
@@ -275,9 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Warum verbraucht die App etwa 1,2GB/Monat? .... lässt sich seit etwa einer Woche nicht aktualisieren<br> :date: __2021-04-23 11:34:53__
 
 > Habe die App sehr lange,bin in Wien täglich in der U6 unterwegs hatte noch keine Meldung habe ständig Updateaufforderung wenn ich mehr wissen will. Standort und Bluetooth frisst Datenverbrauch und Akkuleistung. Hauptsache Google hat die Daten.<br> :date: __2021-04-21 21:00:19__
-
-> Wozu belegt die App mehr als 2GB?<br> :date: __2021-04-20 17:45:09__
-
-> Gut gestaltete App. Aber nach fast einem Jahr in Verwendung hat sie für mich nie einen Nutzen gezeigt. Ich wurde nie gewarnt über mögliche Kontakte. Auch nicht, als eindeutige Kontakte von mir positiv getestet wurden.<br> :date: __2021-04-18 22:28:10__
 
 

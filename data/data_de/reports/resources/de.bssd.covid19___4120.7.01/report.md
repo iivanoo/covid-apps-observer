@@ -243,6 +243,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Öffnet sich nicht... Und das bei einer so wichtigen app super<br> :date: __2021-05-18 11:28:45__
+
 > Lässt sich nichtmal öffnen<br> :date: __2021-05-07 17:23:45__
 
 > Funktioniert nicht. Ich soll mich anmelden, habe aber keinen IDCode oder einen Barcode zum auslesen<br> :date: __2021-05-05 16:38:00__
@@ -260,7 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > lässt sich nicht öffnen<br> :date: __2021-04-15 08:40:40__
 
 > Die App lässt sich nicht einmal öffnen, da funktioniert etwas nicht...<br> :date: __2021-04-15 08:39:19__
-
-> Unbrauchbar, wenn man die App aufmachen will geht sie direkt wieder zu. Mehrmaliges deinstallieren und neu installieren bringt ebenfalls nichts. Leider kann man nur 1 Stern vergeben besser sind aber null Sterne. 😤<br> :date: __2021-04-14 19:13:31__
 
 

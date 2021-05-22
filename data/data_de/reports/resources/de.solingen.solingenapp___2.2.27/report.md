@@ -196,6 +196,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 4 reviews"/>
 </p>
 
+> App startet nicht? So geht man dann vor... Eigenschaften der App aufrufen, Cache und Daten löschen. Dann klappt es wieder falls kein Serverproblem vorliegt.<br> :date: __2021-05-17 23:46:50__
+
 > Sie stürzt zum mindestens immer bei Mängel ab, aber sonnst top die app<br> :date: __2021-03-11 08:45:04__
 
 > Sehr informel<br> :date: __2021-02-16 18:55:45__
@@ -213,8 +215,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Ich bekomme regelmässig die Nachricht, dass die App zu langsam läuft. Es könnte vielleicht zusätzlich aufgenommen werden Müllgefässe zu bestellen bzw. zu ändern. Die Rubrik Baustellen scheint nicht aktuell. Unsere Strasse ist durch Kanalbauarbeiten schon seit 1 Jahr eine Dauerbaustelle und ist nicht einmal erwähnt.<br> :date: __2020-11-29 09:37:31__
 
 > Vielen Dank, läuft jetzt wieder einwandfrei. Eigentlich eine schöne App aber seit dem letzten Update nur noch einmal zu öffnen (Samsung M21, Android 10).<br> :date: __2020-11-22 02:39:48__
-
-> Bei der 1ten Benutzung sehr zufrieden schöne App... lässt sich leider bei erneuter Nutzung nicht öffnen...schade... Keine Verbindung zum Server möglich...bitte um Hilfe !!!<br> :date: __2020-11-18 10:22:27__
 
 
 

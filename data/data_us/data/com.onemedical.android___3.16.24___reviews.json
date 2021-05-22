@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHD9ndG8e2Gw7e09nqDZZHhw9QcW2NomSqcdib1DO9jmmBOfJGjWwufnQFMbdRANcgwgxEzlvygbeLrxwA",
+        "userName": "Valeriy Benidze",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggg8AtNuHY41OFNTwQY5mQd9c5XcgJTrTngBfdDRg",
+        "content": "Love the app, and the doctors. Only provider I trust!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.24",
+        "at": "2021-05-14 23:55:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGt0w524Hi4f1cvy7Xm6gwjOyEH8rjZTxTEUUUwaNqk7DRYIRrACm73lstt9HUkkI0AO-It-D3O29swZ-M",
         "userName": "Andre",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyvuF2jnPFmvZ_CIe92alJJzTLDzRuKYRQuQNDw=mo",
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwRO0fgNMQ1_l_GoCJqD2tp0SoD3iU4BvWJc0wx=mo",
         "content": "Money-grabbing company. They require you to book an appointment for literally everything, so that they can bill your insurance. A few days after an appointment, they told me to schedule another visit just to get a prescription for a medication I've been taking for ~2 years without issues. What's the point of paying for this service when they can't help on demand?",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "3.16.21",
         "at": "2021-04-17 06:00:47",
         "replyContent": null,
@@ -305,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqYv7xsNhse2B1RP4xBMRXzIb9C0ECCUBzKbPU9A",
         "content": "Really frustrating. Impersonal. Lots of flaws. They cancelled my Covid Vaccination appointment when I went inquire about it. I scheduled my Covid Vaccine over a week ago for an appointment a week later. I tried to call to make sure I had everything I would need to verify my occupation, I waited on hold for almost 20 minutes and finally had to leave a message. They never called me back like they said they would. Then I left another message. No call back. I had to use their chat service. Their representative was impersonal, wasn't aware of Los Angeles guidelines, and was no help. I inquired using their message service and was told that the facility I made the appointment at isn't where they are doing vaccinations (despite the fact that that's what I specifically made the appointment for). Rather than trying to help me, the representative cancelled my appointment and basically said, \"good luck.\" I can't believe they are charging $200 a year for this.",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "3.16.18",
         "at": "2021-02-24 22:30:10",
         "replyContent": null,
@@ -401,7 +413,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz41i5MC0mXpQXmVqTxbMZ6lavVfNZOd460048Q=mo",
         "content": "Terrific NP. Have found the NP's excellent, thoro, intelligent/thinkers. Wish the field was around 50 yrs ago. I would've studied",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.16.16",
         "at": "2021-02-13 15:13:38",
         "replyContent": null,
@@ -1238,7 +1250,7 @@
     {
         "reviewId": "gp:AOqpTOEqM9NxQsljp5LR7GkulaJzQXCHBJRPsMqV24vFhLvH8sXfNFW_9QVilr9WjlFwojdjiovHF-FdllNnRNY",
         "userName": "Dariana Szykier",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh18vBs50iIMfyBsTu3HEY2v9TvFdf4naEf_uMCQ-I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYWD5dIJmf_KFB2sBD8dA28PRKBoHRpHyq0VjuN7A",
         "content": "This app is pretty much trash on Android. The ability to take a clear photo of your insurance card is not possible. I have a Samsung S10. Push notifications are inconsistent. Thank goodness I get email reminders. The questionnaire is not adaptive. Respond with \"None of the above\" and the following prompt asks you for more details \ud83d\ude44. This app has a ways to go before it's useful for more than simply booking an appointment.",
         "score": 2,
         "thumbsUpCount": 4,

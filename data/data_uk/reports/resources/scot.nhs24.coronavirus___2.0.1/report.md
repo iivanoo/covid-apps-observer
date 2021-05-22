@@ -127,6 +127,8 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 5 reviews"/>
 </p>
 
+> Just get this app on my phone please<br> :date: __2021-05-22 15:09:52__
+
 > Have symptoms.<br> :date: __2021-02-04 02:33:24__
 
 > Straight forward to use and no nonsense answers to questions<br> :date: __2020-09-29 22:57:54__

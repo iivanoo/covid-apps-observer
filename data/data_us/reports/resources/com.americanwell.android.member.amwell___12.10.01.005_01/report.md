@@ -213,6 +213,14 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> The app was very straightforward and easy to use. The doctor was very professional and .out important, he provided excellent treatment options.<br> :date: __2021-05-22 14:38:15__
+
+> Easy to use<br> :date: __2021-05-20 00:52:33__
+
+> Very easy to navigate and communicate to professionals through the app.<br> :date: __2021-05-17 20:47:32__
+
+> Easy<br> :date: __2021-05-17 01:05:04__
+
 > Very helpful and knowledgeable drs on staff. Always know what to prescribe to make me feel better.<br> :date: __2021-05-11 00:45:09__
 
 > Super quick and easy video visit with a Dr for a straight forward, common issue. So much cheaper and easier than an in office visit. It's after 9 pm, so I'll be able to pick up my prescription in the morning. The app struggled to confirm my insurance, probably because it's after hours, so I'll have to submit this to them, in case I over paid. Still it was pretty cheap, and the Dr was nice!<br> :date: __2021-05-10 06:07:02__
@@ -224,14 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > I saw Dr. Seema Gupta. She listened carefully to my symptoms, asked pertinent questions, explained the treatment and what to do if not feeling better within 2-3 days. I would definitely recommend her to my family & friends.<br> :date: __2021-05-03 17:49:05__
 
 > Excellent and prompt. Shows concern for patients and great diagnosis.<br> :date: __2021-04-30 18:06:30__
-
-> Wonderful experience. Dr asked a lot of questions before prescribing me different medications. She was excellent. Can't thank her enough.<br> :date: __2021-04-30 17:22:20__
-
-> Clarity and clear speech simple access<br> :date: __2021-04-29 21:03:16__
-
-> Dr. Gindy is an amazing Physician<br> :date: __2021-04-21 18:31:23__
-
-> I've used this twice and had wonderful experiences, quick, efficient and knowledgeable doctors. Way better than driving to and waiting at an urgent care. Plus it saves your information so you don't have to re-enter in all of your insurance and all that stuff every time you use it. I hate all those forms at the doctor's office.<br> :date: __2021-04-19 04:43:47__
 
 
 

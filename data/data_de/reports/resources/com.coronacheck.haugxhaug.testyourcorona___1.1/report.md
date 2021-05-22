@@ -192,6 +192,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 1 reviews"/>
 </p>
 
+> Quatsch<br> :date: __2021-05-14 21:33:00__
+
 > Suche nach Gesundheitsamt funktioniert nicht! 😠 Weder mit PLZ noch mit Ort oder beides. Das war NICHTS!<br> :date: __2020-11-14 09:11:45__
 
 > Funktioniert nicht aber reagiert nicht richtig<br> :date: __2020-10-26 19:39:47__
@@ -209,7 +211,5 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Bayern ist nicht Deutschland oder ist das RKI von Bayern abhängig!!! SÖDER WILL BUNDESKANZLER WERDEN<br> :date: __2020-06-16 03:23:21__
 
 > Müll<br> :date: __2020-06-16 00:10:42__
-
-> Reinste Daten sammel Maschine selbst meine viren Schutz App hat diese app als riskant und gefährlich eingestuft Warnungen waren Daten Sicherheit und eventuell Malware Zum Glück wurde die app von der App gleich gelöscht<br> :date: __2020-06-15 19:55:00__
 
 

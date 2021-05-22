@@ -171,6 +171,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> Great idea the only problem k have at the moment is there's no buttons when I'm running a simulation<br> :date: __2021-05-20 20:18:20__
+
 > Easy to use<br> :date: __2021-05-11 09:28:33__
 
 > I recieved a alert and was 1st on the scene to help out someone in the community. Everybody needs this app.<br> :date: __2021-05-07 15:02:12__
@@ -189,8 +191,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Excellent & is developed continuously.<br> :date: __2021-03-08 15:15:54__
 
-> Seems to work fine no issues<br> :date: __2021-02-26 21:44:53__
-
 
 
 #### 4-star reviews
@@ -198,6 +198,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
+
+> Can we have a filter option by day of the week or time under future tasks, please? Sometimes with more than several hundreds on that list it is very difficult to find the relevant ones for VSS roles. Many thanks.<br> :date: __2021-05-21 10:00:55__
+
+> Works for me. However, it would be nice to be able to list future tasks differently or offer sort by options.<br> :date: __2021-05-14 17:42:33__
 
 > I've registered to volunteer at vaccination sites, received an email saying that they have noticed I hadn't taken up any opportunity, well that's because I haven't received any! Still receiving check in and chat and community response but nothing else.<br> :date: __2021-05-07 19:54:30__
 
@@ -214,10 +218,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Sometimes I wonder if anyone knows that I have logged on "duty" to the controllers. I have logged on for a mere 180 hours and in that time I have had just four "shouts" three of which didn't pick up and the fourth just needed a "chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs<br> :date: __2021-02-11 20:30:35__
 
 > The app works ok most of the time. One problem I get is the location side, I've had to reject quite a few alerts that have been 12 miles away even though my app is set at 5 miles.<br> :date: __2021-01-23 09:57:46__
-
-> The App need an audible alert when scheduled tasks appear. I have missed opportunities to volunteer due to this. Steve. NHS/RVS Volunteer.<br> :date: __2021-01-20 16:16:50__
-
-> The issue I had experienced has been resolved. Now, the app is up and running on my phone as it should. Thank you 👍<br> :date: __2021-01-15 16:06:29__
 
 
 
@@ -255,6 +255,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="com.goodsam.responder 2 reviews"/>
 </p>
 
+> The app is not loading the page my details is fully. Only showing my name, verifying organisation and expiry date. I cannot get the rest the page to load. I need access to this to be able adjust the notification alter by turning off the siren when I am going into a meeting at work. Please help..<br> :date: __2021-05-17 12:22:14__
+
 > Tried to register right now. Filled in my details and upon pressing the register button got the notification: "Couldn't send the registration link to the email provided. Is the email correct?" Yes, it is correct, because I used the "Passwort forgotten" button that send me a resetting link to the same email. Now I can't go through registration, since the registration link never reached my inbox but apparently the email did, because "this email is in use". 🙄 Will give more stars later.<br> :date: __2021-05-12 07:04:09__
 
 > Registered to be a responder last year, still awaiting acceptance<br> :date: __2021-05-06 18:02:57__
@@ -273,8 +275,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Poor<br> :date: __2021-02-19 18:51:16__
 
-> Appears not to work properly not count the amount of time responder on duty and rearly get alerts. Not a good app development interaction.<br> :date: __2021-02-11 14:11:12__
-
 
 
 #### 1-star reviews
@@ -282,6 +282,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
+
+> Doesn't pick up shifts within 25. Only when I'm in a big city and not from home base! Even though I live closer to the shifts being offered! Live in Skelton (North East Yorkshire). Don't get anything at all even for shifts at Redcar - though can see shifs at Redcar when I'm in Middlesbrough!<br> :date: __2021-05-19 17:05:11__
 
 > Attempted to register as a registered responder and 4 weeks later still waiting for it to be reviewed/approved. Nil other way to contact them.<br> :date: __2021-04-28 02:32:18__
 
@@ -300,7 +302,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > I still haven't had a Volunteering alert for the Vaccination Centre in my area where I live, patiently waiting!<br> :date: __2021-03-02 15:26:33__
 
 > Never had any notification since April 2020 to end Feb 2021. Hours clock up but not heard anything. Don't think it works.<br> :date: __2021-02-26 17:48:54__
-
-> This app won't let me download at all I have a Samsung A20E.<br> :date: __2021-02-24 13:22:40__
 
 

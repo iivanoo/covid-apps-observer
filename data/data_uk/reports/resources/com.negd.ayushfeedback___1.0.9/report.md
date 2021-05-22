@@ -152,6 +152,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 4 reviews"/>
 </p>
 
+> I got the otp............., much more information and daily tips and updates should ne available , and be shared to public<br> :date: __2021-05-17 08:19:11__
+
 > Not getting OTP on any number<br> :date: __2021-04-17 18:27:40__
 
 > Provide general basic ayuervedic medicine tips for more general diseases<br> :date: __2020-10-19 19:29:10__
@@ -169,8 +171,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Nice app<br> :date: __2020-07-14 07:24:21__
 
 > Ok<br> :date: __2020-07-11 18:18:24__
-
-> Very helpful<br> :date: __2020-07-04 13:54:42__
 
 
 

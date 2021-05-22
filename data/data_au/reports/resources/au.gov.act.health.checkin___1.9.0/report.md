@@ -142,6 +142,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> Logs in with all my details<br> :date: __2021-05-19 11:21:59__
+
 > Great App<br> :date: __2021-04-17 10:51:50__
 
 > Periodically stops working<br> :date: __2021-04-06 02:22:08__
@@ -159,8 +161,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Excellent and safety<br> :date: __2021-03-23 16:46:48__
 
 > Best contact tracing app out of all the States and Territories 👍<br> :date: __2021-03-23 12:57:15__
-
-> Very responsive and quick and easy to use.<br> :date: __2021-03-15 01:17:29__
 
 
 
@@ -214,9 +214,9 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > The graphics are too dark under some lighting.<br> :date: __2021-02-08 01:44:49__
 
-> It works for scanning the QR code. But I can offarhim why do I have to reenter all my personal details everytime I use the app for myself on my phone. The nswservices app handles this very well. Please start considering the user when you write mobile apps. Many miss some simple things that would make many people's lives better. I hatdusing this app.<br> :date: __2021-02-05 20:04:05__
-
 > Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
+
+> Seems to work ok. Slow to load, requiring data connection to do so. Cannot access QR code scanner without data connection. Suggest allowing access to QR code scanner without needing data connection to allow check in, uploading locations when data becomes available.<br> :date: __2020-12-05 21:58:59__
 
 
 
@@ -225,6 +225,10 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 2 reviews"/>
 </p>
+
+> Worked as intended before, but recently has become very slow to load and the qr scanner is not working. Also takes forever to load at random times<br> :date: __2021-05-22 00:17:28__
+
+> Keeps locking up<br> :date: __2021-05-20 01:37:46__
 
 > Works great if it loads, has only loaded in under 5 minutes once.<br> :date: __2021-04-25 08:06:24__
 
@@ -242,10 +246,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Lost this app off my home page - looked at the 'fix failure to load on Android' option but no info given. Okay, now I can't post this at your POST ... Update : found that I had to give stars to be able to post.<br> :date: __2021-03-01 09:02:45__
 
-> . , zebra V te zbb3f<br> :date: __2021-02-24 07:23:12__
-
-> Asked me for my credit card why?. Why is not the new south Wales app ok to use.<br> :date: __2021-02-24 04:22:07__
-
 
 
 #### 1-star reviews
@@ -254,6 +254,18 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Horrible<br> :date: __2021-05-21 12:23:17__
+
+> It often does not refresh the location when I use QR codes through my phone. I have often found myself checking in to the last location I went to instead of my current location. Please fix this bug so it refreshes to the new location as there are many inaccurate entries which would not help with tracking.<br> :date: __2021-05-19 02:42:36__
+
+> Should not support this! Illegal!!! The government can't be trusted with your personal information<br> :date: __2021-05-19 01:19:18__
+
+> Am in Canberra for the weekend and app won't do ownload on my Google pixel 5 phone<br> :date: __2021-05-15 09:40:53__
+
+> Hopeless compared to Service NSW<br> :date: __2021-05-15 02:06:06__
+
+> ....not working. Installed latest version for my SamsungS7 when I arrived in Canberra today. Absolutely nothing when I tried at the NGA. Cannot see the code as displayed...zero response. My partners S9 worked fine though...<br> :date: __2021-05-14 10:29:36__
+
 > Terrible<br> :date: __2021-05-09 04:57:19__
 
 > It doesn't have QR scanner. Doesn't work. Useless. Can't find the location after entering the code.<br> :date: __2021-05-08 06:45:04__
@@ -261,17 +273,5 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Very poor design - does not have a check out function. No way to tell how long person has been in the venue.👎 Still no option to check out.<br> :date: __2021-05-05 23:44:36__
 
 > Download and checked in to the war memorial not too long after started receiving calls from marketing companies. App uses data collected to give to marketing companies and you have to check otherwise you can receive a fine.<br> :date: __2021-05-03 02:50:04__
-
-> Could not download app<br> :date: __2021-04-24 04:44:17__
-
-> scam, stealing data do not install<br> :date: __2021-04-18 04:24:56__
-
-> I need a code????<br> :date: __2021-03-24 08:54:02__
-
-> App didn't work so i deleted it and tried to upload again, it won't load....it must be broken....it used to be a good app.<br> :date: __2021-03-17 01:53:44__
-
-> This app worked fine on my Samsung Galaxy s9 for 6 weeks. Now it no longer works. I have uninstalled it and reinstalled it numerous times. It will work once and then I get the red error message saying there is no wi fi connection. Not true. What do you mean apply the fix 1.8.2? No explanation has been given. This is becoming so frustrating. Please don't say it is an issue with older Androids. Th phone is 2 years old. There is a problem with the app.<br> :date: __2021-03-16 02:05:16__
-
-> Far too messy compared to other states<br> :date: __2021-03-09 02:03:13__
 
 

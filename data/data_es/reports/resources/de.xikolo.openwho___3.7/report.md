@@ -164,6 +164,8 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="de.xikolo.openwho 5 reviews"/>
 </p>
 
+> 😍<br> :date: __2021-05-15 17:02:24__
+
 > Excepcional aplicacion<br> :date: __2021-05-02 12:35:49__
 
 > Exelente<br> :date: __2021-03-09 15:49:49__
@@ -181,8 +183,6 @@ The OpenWHO: Knowledge for Health Emergencies app has been installed by more tha
 > Excelente<br> :date: __2021-01-08 20:58:11__
 
 > YAMiSLEN VALENZUELA (1977)<br> :date: __2020-12-15 17:52:49__
-
-> Muy buena<br> :date: __2020-11-30 23:24:47__
 
 
 

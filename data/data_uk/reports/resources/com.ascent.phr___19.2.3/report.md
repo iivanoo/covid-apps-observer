@@ -189,6 +189,14 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> excellent<br> :date: __2021-05-20 21:40:26__
+
+> Nice app<br> :date: __2021-05-18 15:48:31__
+
+> quick and easy to use not like other providers which are hit and miss with log in very good service<br> :date: __2021-05-18 13:17:07__
+
+> smashing app - can do everything necessary very easily and quickly<br> :date: __2021-05-17 15:23:10__
+
 > quite easy to do<br> :date: __2021-05-12 14:58:22__
 
 > very useful<br> :date: __2021-05-09 23:15:13__
@@ -201,14 +209,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > very efficient, great service!!<br> :date: __2021-04-27 19:02:06__
 
-> nice<br> :date: __2021-04-27 14:17:55__
-
-> very good app to have<br> :date: __2021-04-26 11:04:00__
-
-> Great for ordering repeat prescriptions. The additional health promoting notifications can be helpful at times too.<br> :date: __2021-04-26 09:46:58__
-
-> excellent<br> :date: __2021-04-22 11:04:27__
-
 
 
 #### 4-star reviews
@@ -216,6 +216,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ascent.phr 4 reviews"/>
 </p>
+
+> App is now working again. And I'm happy again.😁 But apprehensive...<br> :date: __2021-05-14 13:26:14__
 
 > This app is 10 times better than Patient Access. It's very interactive and keeps the user up to date in many areas like health and well being, including your rights as a patient to having access to your records.<br> :date: __2021-05-02 09:35:47__
 
@@ -235,8 +237,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > All good<br> :date: __2020-12-30 21:24:23__
 
-> Easy to use.<br> :date: __2020-12-19 08:02:02__
-
 
 
 #### 3-star reviews
@@ -244,6 +244,12 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
+
+> Can be glitchy. Biometric login often doesn't work.<br> :date: __2021-05-18 15:06:02__
+
+> Fine when it works but frequently requires multiple login attempts, takes too long to load, and I don't love that it is trying to sell me stuff when I just want to use it to interact with my GP surgery. Lots can be improved and would be happy to provide feedback if the product team want to contact me.<br> :date: __2021-05-17 11:01:12__
+
+> Bug fixes required - keeps crashing every time I request a prescription and cannot afford for the requests to not go through. Please fix.<br> :date: __2021-05-15 09:44:00__
 
 > can be temperamental<br> :date: __2021-04-29 13:01:26__
 
@@ -259,12 +265,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Tried to access my medical records. I just get a message telling my they can't link to me GP practice. Not tried anything else with this app.<br> :date: __2021-03-03 11:40:19__
 
-> It's OK, but the biometric login fails every time<br> :date: __2021-01-26 09:52:00__
-
-> I have not upgraded yet<br> :date: __2021-01-24 01:21:17__
-
-> sat<br> :date: __2021-01-11 13:20:41__
-
 
 
 #### 2-star reviews
@@ -273,7 +273,7 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
 
-> As usual, its not broken so , obviously, fix it! Proggies, you've made this a "World class" app..(Not!).. If only it would accept my passwords just like it used to do. I'm off down to the pharmacy to put in a prescription request now.<br> :date: __2021-05-13 11:48:13__
+> I only use this app to order prescriptions. I can't book appointments through the app. Ordering prescriptions is quick and easy though.<br> :date: __2021-05-13 21:50:17__
 
 > order page seems to change each time I use it. Consequently, sometimes I think I've ordered and I haven't.<br> :date: __2021-04-18 12:27:20__
 
@@ -301,6 +301,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> Not able to even sign up as freezes on biometrics page. Ridiculous.<br> :date: __2021-05-16 13:13:38__
+
+> Hardly ever works properly nowadays, all i want is to order a repeat prescription.<br> :date: __2021-05-16 10:31:12__
+
 > Dreadful. It will let me in on laptop, but not on phone app. Wasted so much time. You could die waiting for the tech. What a dreadful state of affairs<br> :date: __2021-05-04 16:15:41__
 
 > overly complicated, confusing where and what to tap, biometrics usually does not work. Utter cr*p<br> :date: __2021-04-22 11:35:52__
@@ -315,10 +319,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Does not work properly on my Samsung s21 I cannot access my medical record at all.<br> :date: __2021-03-25 01:04:29__
 
-> I am returning to the app after changing phone. It just is not working<br> :date: __2021-03-20 14:11:51__
-
 > Cannot get on the app, click forgotten password, get emailed code, enter code, and it asks security question, answer question and get message too many failed attempts, account temporarily suspended, come back a month later, and get same message on first security question answer, so just how long is your idea of temporary?<br> :date: __2021-03-13 20:15:59__
-
-> does not work correctly. the screen for ordering prescriptions never loads, so i cant order anything through the app. ive had this problem on my s8, s10 and now s20. i spoke to customer service via email and they didnt help at all and the issue is still not resolved. avoid<br> :date: __2021-03-06 23:14:16__
 
 

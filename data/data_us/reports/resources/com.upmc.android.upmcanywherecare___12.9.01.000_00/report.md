@@ -191,6 +191,12 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="com.upmc.android.upmcanywherecare 5 reviews"/>
 </p>
 
+> Amazing people care is wonderful.<br> :date: __2021-05-17 22:20:33__
+
+> My provider was extremely helpful, professional, succinct, and to the point, while making sure to asses all of my needs, and concerns, down to the level of detail that I need, for a calmer state of mind. I will absolutely be using this l again in the future. This is everything I've ever wanted in an urgent care experience. 10/10, and will be reccomending.<br> :date: __2021-05-16 08:02:21__
+
+> Kristen is excellent!<br> :date: __2021-05-14 13:50:22__
+
 > What a time saver!<br> :date: __2021-05-10 20:09:59__
 
 > Spot on<br> :date: __2021-05-01 00:04:12__
@@ -204,12 +210,6 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 > This app has offered so much help and understanding. I would 100% reccomend to any pregnant woman<br> :date: __2021-03-19 17:06:37__
 
 > Worked well. I had to do a video call with the doctor to get covid test referral. No crashes and barely a wait to get on with doctor.<br> :date: __2021-02-27 20:09:25__
-
-> Used once so far for a toothache and it was so easy and fast. I hate the doctor so this was an easy solution to get what I needed without leaving the house.<br> :date: __2021-02-27 16:23:31__
-
-> Exceptional<br> :date: __2021-02-22 20:56:10__
-
-> Fast, effective, and the Clinician was very attentive. I will recommend this app to friends and family for sure. Thank you for the help!!!<br> :date: __2021-02-15 04:30:41__
 
 
 
@@ -246,6 +246,8 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.upmc.android.upmcanywherecare 3 reviews"/>
 </p>
+
+> Took forever way to many questions then they ask you the same questions by text then the provider ask again<br> :date: __2021-05-15 00:03:30__
 
 > The first time I tried calling the doctor was not able to hear me but see me. The second time I logged in I was able to get a new doctor and she was able to see me and hear me and gave me counsel and helped me.<br> :date: __2021-03-30 19:22:04__
 

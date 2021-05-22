@@ -186,25 +186,25 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Kool back up ID<br> :date: __2021-05-21 23:36:00__
+
+> I love Colorado made this app!!!! Thank you!!!<br> :date: __2021-05-21 00:44:46__
+
+> Super happy I can have my drivers license on my phone..<br> :date: __2021-05-20 11:08:30__
+
+> Nothing less of awesome!!!!!!<br> :date: __2021-05-19 01:50:38__
+
+> Excellent<br> :date: __2021-05-18 02:38:38__
+
+> You must allow app to record video and take pictures from your phone. Big brother is watching!<br> :date: __2021-05-14 17:21:16__
+
+> Works great!<br> :date: __2021-05-14 00:07:08__
+
+> Easy to use<br> :date: __2021-05-13 19:48:06__
+
 > Great app helps out a lot thanks man!<br> :date: __2021-05-13 04:14:42__
 
 > Excellent<br> :date: __2021-05-11 19:41:16__
-
-> Easy .account setup, feel good knowing that I have digital copies of my I'd and documents<br> :date: __2021-05-10 07:14:43__
-
-> Great<br> :date: __2021-05-05 18:22:41__
-
-> Good, well organized, gov website<br> :date: __2021-05-05 11:51:36__
-
-> Great app wish it worked with out service and also take the fishing/small game combo. Still does great for the driving licenses.<br> :date: __2021-05-05 00:07:32__
-
-> Great app<br> :date: __2021-04-29 14:02:01__
-
-> Absolutely love this app, it's so easy to use and the ability to always have access to my ID and now an easier way to show ID to vote.<br> :date: __2021-04-29 03:07:48__
-
-> Life saver!<br> :date: __2021-04-27 22:57:14__
-
-> This app is great! Question: can we add our covid-19 vaccination record card to this app? And 2nd form of ID, such as military ID?<br> :date: __2021-04-27 22:33:51__
 
 
 
@@ -213,6 +213,12 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> Quick and Easy<br> :date: __2021-05-20 05:21:48__
+
+> A bit complicated to set up due to security items, but I really like having my drivers license, fishing license, etc, easily avaliable<br> :date: __2021-05-19 16:30:54__
+
+> Love the app however it's kind of a pain to get a verification every time you need to use it<br> :date: __2021-05-17 21:47:54__
 
 > Its helpful I just wish more ppl accepted it.<br> :date: __2021-05-12 14:37:19__
 
@@ -227,12 +233,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Handy app. But why is the CCW permit not included? All other Colorado ID is.<br> :date: __2021-04-17 15:18:52__
 
 > Great App! But, periodically wont let me log in.<br> :date: __2021-04-09 00:38:49__
-
-> Needs to be able to add antique vehicles. Can't seem to add vehicles with Horseless Carriage plates.<br> :date: __2021-04-05 18:10:09__
-
-> As a web/app developer myself, I was pleasantly surprised at the ease of use. The UI/UX is solid. The digital ID works perfectly.<br> :date: __2021-04-01 23:30:04__
-
-> Works well. Good list of resourses<br> :date: __2021-02-21 23:45:41__
 
 
 
@@ -298,24 +298,24 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
-> Why have the app when you still have to carry the your license? Lifetime fishing license will not show up either.<br> :date: __2021-05-13 03:34:29__
+> Licenses won't load, call service is awful<br> :date: __2021-05-21 20:58:58__
 
-> Face recognition does not work 👎🏾<br> :date: __2021-05-11 22:01:41__
+> Can't login<br> :date: __2021-05-20 15:43:49__
 
-> Can't log this app is trash<br> :date: __2021-05-11 05:08:14__
+> Garbage app<br> :date: __2021-05-20 03:13:54__
 
-> Camera doesn't work for face match. LG v50<br> :date: __2021-05-10 14:02:46__
+> "We're sorry, we cannot match your selfie with your DMV picture." Meaning we didn't get a full facial map for our data mining endeavors.<br> :date: __2021-05-19 23:20:43__
 
-> can't log in to my account<br> :date: __2021-05-08 21:16:17__
+> They can keep up or get back to you on time or even give you call to help you answer your questions especially with you unemployment<br> :date: __2021-05-19 08:03:20__
 
-> Makes me change my password, always closing on me,won't let me use my finger print, like it use to,gives me more trouble than anything<br> :date: __2021-05-08 02:28:26__
+> No longer recognizes my face so can't access my Digital ID. The popup message mentions trying another method but that does nothing but activate my phone's camera. Useless in current form.<br> :date: __2021-05-18 18:24:34__
 
-> It will not let me open an account.<br> :date: __2021-05-06 18:04:25__
+> I don't care about the app one way or another. I'm pissed that I had to get it in the first place because CO used the worst material I've ever seen an ID card made out of. Seriously, use a small bit of intelligence, and make the ID durable enough to at least have a chance of lasting until its expiration. Never in the 3 other states I've lived in have I had an ID card that has taken even a bit of damage before, let alone one that breaks as soon as you sit on your wallet. Get it together, CO!<br> :date: __2021-05-18 17:14:04__
 
-> Can't match seifle<br> :date: __2021-05-03 21:38:16__
+> It will not recognize my selfie, therefore it will not let me in. Frustrating.<br> :date: __2021-05-18 16:16:55__
 
-> So secure it doesn't do anything<br> :date: __2021-05-03 17:38:46__
+> Simply doesn't work, you'll just need to pay for a new one. Ive tried this on 3 different devices, 2 Android and an iphone, it doesn't work. Borderline Scam<br> :date: __2021-05-16 17:34:24__
 
-> Useless - can't focus on ID barcode<br> :date: __2021-05-02 17:20:41__
+> no longer works now that "PingID" was implemented - I've been "authenticated" more than 10 times in the last few mins and still can't access any of my digital documents. Keeps asking me to log in again (never actually logs me in after authentication - just takes me back to the home screen) I even tried resetting my password in case my account was locked. NOPE. same results -- if you want us to use this, MAKE IT RELIABLE!!!!!!!!!!<br> :date: __2021-05-13 18:51:06__
 
 

@@ -241,6 +241,8 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.md.covid19.exposurenotifications 1 reviews"/>
 </p>
 
+> Does not work<br> :date: __2021-05-19 14:20:30__
+
 > Keeps telling me to turn on location services and they are on getting very frustrated<br> :date: __2021-05-04 18:50:40__
 
 > Not sure how reliable the app is. Also, there is no access to past data. Looks like data only goes back a day or two. How do you know if you were near someone who tested positive say 3 or 4 days ago? Very disappointed.<br> :date: __2021-04-23 16:29:03__
@@ -258,7 +260,5 @@ The MD COVID Alert app has been installed by more than **100000** times. At this
 > It says it will use bluetooth then it complains that it needs location turned on. So what is the deal ?<br> :date: __2021-02-10 21:13:28__
 
 > Wont stay off my phone i keep deleteing it<br> :date: __2021-02-10 01:23:56__
-
-> Waste of space on my phone. I had covid before I knew it and without any warnings from this app. Deleted.<br> :date: __2021-02-07 02:16:13__
 
 

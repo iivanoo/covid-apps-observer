@@ -201,6 +201,14 @@ The CoronaCheck app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 1 reviews"/>
 </p>
 
+> Ik ben 2 keer gevaccineerd en nu ??? Kan ik nu ook een af code krijgen? Deze app is van Hugo het als hij werkt het natuurlijk niet Ik zal deze app verwijderen, het enige wat deze app doet is nutteloze ruimte in nemen, net als Hugo<br> :date: __2021-05-22 12:25:56__
+
+> Vraag me af de overheid kennende of de vacinatie op tijd er bij staat voor zo lang 1 ster<br> :date: __2021-05-22 10:51:01__
+
+> Je hebt geen DigiD nodig, hoezo bescherming?<br> :date: __2021-05-22 06:12:13__
+
+> In de corona blog bij de nos wordt geopperd dat je kunt inloggen met je digi d en dat je gegevens dan bij de RIVM bekend zijn. App op telefoon gezet, geopend maar niks van dit alles. Ben benieuwd of het allemaal voor 1 juli klaar is, vandaar 1 ster. App dan ook maar weer verwijderd, zorg eerst maar eens dat jullie waarmaken wat je zegt.<br> :date: __2021-05-21 23:06:39__
+
 > CoronaTESTcheck moet naam app zijn. (CoronaCheck wordt al op andere plekken door Rijksoverheid (en Lumc/OLVG Luscii app) en CovidRADAR gebruikt! Bovendien dekt anders de appnaam de lading niet.<br> :date: __2021-05-01 08:07:54__
 
 > Door mee te werken aan de testsamenleving krijg je niet meer vrijheden maar je levert ze juist in, de eerste stap naar vrijheid is burgerlijkeongehoorzaamheid. Binnenkort punten systeem<br> :date: __2021-04-28 01:53:41__
@@ -212,13 +220,5 @@ The CoronaCheck app has been installed by more than **50000** times. At this tim
 > ben de hele dag bezig en geeft telkens aan app sluiten enz<br> :date: __2021-04-25 00:56:44__
 
 > Van de 3 keer dat ik getest ben heb ik alleen de eerste keer 40 uur lang een bruikbare QR-code gehad. De keren daarna was die eenmalig te zien na het importeren en vervolgens verdwenen (melding: QR code verlopen). En omdat ie maar 1 keer te importeren is zit je vervolgens zonder! Als dit de toekomst wordt hoop ik wel dat de app nog wat verbeterd wordt.<br> :date: __2021-04-25 00:41:31__
-
-> nou ik heb wel internet vul mijn code in die ik van de test locatie heb gehad nu wil ik mij unieke code opgeven die ik per sms heb ontvangen maar dat schrijft het apparaat dat de code verkeerd is dus idd het werkt totaal niet<br> :date: __2021-04-24 17:24:08__
-
-> Deze versie crashed! Na update laatste versie<br> :date: __2021-04-24 16:12:17__
-
-> App en site volstrekt onbereikbaar, schiet dus het doel voorbij. Praktisch nut zero.<br> :date: __2021-04-24 16:05:09__
-
-> Net getest, negatief, heb de code nou al 10 keer ingevuld. Iedere keer " u heeft geen internet verbinding". Werkt dus totaal niet! Nou maar hopen dat ze bij evenement coulant zijn en de email accepteren. Eens maar NOOIT meer! Mijn hele dag is door dit gezeik verpest! Waardeloze app direct weer verwijderd!<br> :date: __2021-04-24 15:44:10__
 
 

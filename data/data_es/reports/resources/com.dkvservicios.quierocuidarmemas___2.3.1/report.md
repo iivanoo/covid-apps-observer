@@ -217,7 +217,13 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
-> Es un buen seguro pero a veces las clínicas con cobertura no dicen que hay que pagarle algo aparte de la mensualidad .contenta<br> :date: __2021-05-06 23:17:56__
+> La visita telepática genial. Un doctor encantador<br> :date: __2021-05-20 12:07:14__
+
+> Es un buen seguro pero a veces las clínicas con cobertura no dicen que hay que pagarle algo aparte de la mensualidad .contenta<br> :date: __2021-05-20 11:19:35__
+
+> Espectacular la aplicación y todos los servicios<br> :date: __2021-05-18 18:38:04__
+
+> La atención por video llamada es muy puntual, cómoda y práctica. Gracias!<br> :date: __2021-05-17 12:24:34__
 
 > Todo perfecto<br> :date: __2021-04-22 12:13:29__
 
@@ -231,12 +237,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 
 > La atención ha sido muy positiva<br> :date: __2021-03-26 17:33:11__
 
-> Muy bueno poder hablar con un medico desde casa<br> :date: __2021-03-25 13:11:26__
-
-> Muy bien , todo perfecto ... hE querido hablar con un médico en el chat para una consulta y antes de 5 min ya me habían contestado , no llevo mucho con la app pero el tema de la carpeta médica , las recetas electrónicas y la atención recibida a sido perfecta<br> :date: __2021-03-19 20:25:17__
-
-> Buena aplicación<br> :date: __2021-03-18 15:58:52__
-
 
 
 #### 4-star reviews
@@ -244,6 +244,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 4 reviews"/>
 </p>
+
+> Muy satisfactoria y muy bien atendido por la medico<br> :date: __2021-05-17 18:19:48__
 
 > Hola. Quiero saber la aplicación de DKV donde pueda ver los médicos que me entrar, hospitalización... Porque en este aplicación no me sale.Un saludo<br> :date: __2021-02-06 22:23:30__
 
@@ -262,8 +264,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Se queda pausada, no hay maceta de iniciar<br> :date: __2020-11-26 07:00:53__
 
 > Sería interesante la búsqueda también por centro médico o clinica<br> :date: __2020-11-18 10:52:25__
-
-> Me parece muy útil la opción de consulta virtual, sin embargo de ha cortado, pero nonha supuesto un problema mayor, ya que se ha podido continuar con la consulta<br> :date: __2020-11-03 13:16:20__
 
 
 
@@ -321,6 +321,14 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Se cuelga siempre, tarda mucho en acceder, hay que salir y entrar mil veces, la he desinstalado e instalado, se pierde mucho tiempo, una pena<br> :date: __2021-05-19 10:58:48__
+
+> No tiene tarjetero digital? No es cierto por más que lo he buscado no aparece el la app y está llena de fallos técnicos y lo mismo la página web que se cuelga constantemente o está hackeada con un malware. Una hora intentando firmar dos documentos que además deberían borrarse y llevan ahí desde 2017, ni se molestan en tener una opción para borrar documentos desfasados o antiguos. Además sé bien de lo que hablo, soy técnico informático y vuestro sitio web es una auténtica patata y las app<br> :date: __2021-05-18 21:08:10__
+
+> La app horrible, nada fluida y con errores continuos de ubicación. Más de 20 años con la app de Mapfre y era redonda. Deberían copiar su funcionamiento. Experiencia de uso muy muy muy mejorable<br> :date: __2021-05-18 08:00:39__
+
+> Lo acabo de contratar hoy y la aplicación va fatal se queda pillada no consigo entrar ya veo que no he sido el único que ha puntuado con una estrella el 95 % puntúa con una estrella por algo será no soy médico pero no hace falta ser médico para comentar el caso que me ha pasado mi mujer llama con fuerte dolor de cabeza y ansiedad y le mandan paracetamol sin comentarios<br> :date: __2021-05-13 20:58:40__
+
 > La aplicación le tenéis que dar un arreglo falla más que una escopeta de caña<br> :date: __2021-05-13 18:07:02__
 
 > Pésimo entras tarda en cargar, o da contraseña errónea termino bloqueada, nada fácil, no logro hacer nada<br> :date: __2021-05-10 07:41:05__
@@ -332,13 +340,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Esta aplicación no funciona un mero desastre, no sirve para nada<br> :date: __2021-05-04 11:38:58__
 
 > Se sigue accediendo fatal, incluso con la opción de la huella activada pide contraseña. todo son errores con la contraseña... el cuadro médico de Valencia no está actualizado. Sólo sale uno de los 10 cirujanos disponibles para DKV en el IMED...<br> :date: __2021-04-22 22:02:54__
-
-> Malisimo no, lo siguiente pedí una cita con pediatría para mi hijo y hoy que fui a la clínica resulta que esa doctora hace 3 años que se fue a vivir a otro pais<br> :date: __2021-04-19 14:23:11__
-
-> Muy mala<br> :date: __2021-04-09 19:01:19__
-
-> Esta app no funciona actualmente no me permite identificarme<br> :date: __2021-04-07 17:57:51__
-
-> Pedi darme de baja me cobraron 15.80 euros y los pague y aun no me dan respuesta<br> :date: __2021-04-05 21:06:03__
 
 

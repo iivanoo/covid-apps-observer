@@ -201,6 +201,8 @@ The ProMedica OnDemand app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="org.promedica.android.pmed.ondemand 5 reviews"/>
 </p>
 
+> So fast and so helpful! And it was cheaper than going to urgent care!<br> :date: __2021-05-17 21:34:42__
+
 > Excellent. I don't like going to my doctor right now so I prefer using this as an option. Great doctors. I've only had one I found a bit rude but we all have those days. I didn't have a long wait and the doctors are thorough.<br> :date: __2021-02-25 01:03:37__
 
 > Convenient. Easy to use<br> :date: __2021-02-19 09:07:55__
@@ -218,8 +220,6 @@ The ProMedica OnDemand app has been installed by more than **10000** times. At t
 > Great!<br> :date: __2020-04-25 17:05:45__
 
 > Very pleasant and helpful<br> :date: __2020-04-11 16:32:36__
-
-> Very great experience<br> :date: __2020-04-02 18:39:32__
 
 
 

@@ -285,6 +285,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> A ver si actualizáis bien la info. Hay errores. La hostelería en Vigo cierra a fecha de hoy a las 23:00 no a las 21:00 como indicais en la app. Se supone que debemos instalar la App para tener la información actualizada y lo wue estáis es desinformando.<br> :date: __2021-05-14 21:23:10__
+
 > Ten bastantes errores que o final crean confusión<br> :date: __2021-05-09 08:54:14__
 
 > El contenido de la información está en galego y en inglés... pero en castellano no<br> :date: __2021-05-09 01:15:01__
@@ -302,7 +304,5 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > No va la aplicación de ninguna manera<br> :date: __2021-03-14 04:33:01__
 
 > Porque quereis acceder a contenidos de internet? Mientras no saqueis ese requisito mucha gente, no aceptara<br> :date: __2021-03-04 19:54:38__
-
-> Non é mala, e peor. Información errónea. Non está actualizada. Solicita accesos como os contactos do teu teléfono sin ningún sentido. A quen lle ten que entrar sentidiño e a Xunta de Galicia. Máis trabas para a hostelería, menos privacidade para a sociedade.<br> :date: __2021-03-04 10:43:29__
 
 

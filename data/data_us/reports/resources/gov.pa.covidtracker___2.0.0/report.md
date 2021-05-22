@@ -170,6 +170,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
 
+> Runs fast but not accurate<br> :date: __2021-05-14 04:26:13__
+
 > This app is good and I've been using it.<br> :date: __2021-05-06 03:38:58__
 
 > Straight out of house of cards<br> :date: __2021-03-27 20:53:33__
@@ -187,8 +189,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > It's the least people can do<br> :date: __2021-01-02 03:38:12__
 
 > Good idea!<br> :date: __2020-12-23 02:40:26__
-
-> I'm not so sure? But, it seems alright anyway.<br> :date: __2020-12-22 07:43:39__
 
 
 
@@ -254,6 +254,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Pointless app.<br> :date: __2021-05-22 02:53:46__
+
+> Inaccurate reports. Overall, the order from most cases to least cases by county put the counties in the correct positions. However, daily reports of cases are wrong....FACT...USELESS APP<br> :date: __2021-05-14 21:39:49__
+
 > Old data. The paper has more current numbers. How is that even possible?<br> :date: __2021-05-12 15:15:20__
 
 > Privacy concerns - after all the promises of privacy and safeguards, 70,000 people had their private information from the company doing contact tracing leaked online. Pass on the government Spyware.<br> :date: __2021-05-12 13:35:48__
@@ -269,9 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > How helpful can it be, today is 4/27/21, the info was last updated 4/18/21. Good thing I'm not depending on it letting me or others know about exposures. Or maybe PA has stopped using it?<br> :date: __2021-04-27 12:07:53__
 
 > Don't use<br> :date: __2021-04-26 04:16:04__
-
-> USELESS APP<br> :date: __2021-04-25 14:23:12__
-
-> It downloaded itself on my phone I do not care about the alerts honestly I know theres a pandemic that's not fake but I'm not going to listen to things that makes me more afraid and also dont force people to download your app when we dont want to use it horrible app<br> :date: __2021-04-24 04:43:49__
 
 

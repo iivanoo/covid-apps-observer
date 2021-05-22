@@ -176,7 +176,9 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
-> I like this app<br> :date: __2021-05-08 13:00:57__
+> I like this app<br> :date: __2021-05-17 12:40:14__
+
+> I enjoy using the app because it allows me to stay in tune with myself.<br> :date: __2021-05-13 20:51:36__
 
 > It's good doing this every day, it gives a tally of how one is doing on a daily basis & Iogging in my sleep habits & other items and it's good to see that others are doing it as well.<br> :date: __2021-05-07 16:24:37__
 
@@ -194,8 +196,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > I love that its a small way to help. Great app just wish A. A different quote occasionally because I'm tired if dolly Parton and B. The statistics no longer shows and I liked it a lot. Everyone should use this! Not for yourself but for others to have food!<br> :date: __2021-03-27 04:08:55__
 
-> Pretty easy to use! I don't have any complaints.<br> :date: __2021-03-26 22:17:51__
-
 
 
 #### 4-star reviews
@@ -203,6 +203,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
+
+> I got a new phone so this isn't the true amount of times I've checked in. I try to check in at least once a day. I look forward to check in.<br> :date: __2021-05-17 22:43:18__
 
 > It is basic and alliws me to provide a rough description of my health status. But does not allow for individual or personal answers. Not everyone fits into the options provided. Example. I select cough every day. But would like a personalized option of explaining that it is medication induced.the choices are a bit too constraining. Sometimes I am forced to choose one that is not accurate<br> :date: __2021-04-17 18:03:39__
 
@@ -221,8 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > I feel like I am helping fight Covid-19.<br> :date: __2020-11-22 15:53:10__
 
 > Feels good to feed people. Limited responses.<br> :date: __2020-11-17 13:33:44__
-
-> Good except times when I couldn't get to the reporting page of the app. I usually just quit. It would be nice to be more user friendly.<br> :date: __2020-11-12 07:28:00__
 
 
 
@@ -264,8 +264,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > I enjoy helping in this way. It also brings an awareness of our health and a reminder to follow the Guidelines. Gov Baker advised people should be getting out, enjoying a short ride or walking to the park. Not sure where this app went.<br> :date: __2021-01-27 07:29:02__
 
-> Is the app still useful???? Since a week ago, I don't receive the information of how many people are not feeling well, and the number that are good is really low!! So I became to doubt about the information is true. Also, if this app is really useful for medical purposes you're missing the people with asthma and high blood pressure. Hope to improve the app, or is it the time to delete it?? Thanks.<br> :date: __2020-11-25 15:26:38__
-
 > Update broke the app. Unable to open.<br> :date: __2020-10-26 13:37:49__
 
 > Felt like I was contributing to tracking COVID 19 but then there were questions about my emotional health which I felt had nothing to do with tracking the virus.<br> :date: __2020-10-24 05:26:07__
@@ -280,6 +278,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 
 > App WAS a good tool, but after almost 190 days, it no longer opens and keeps throwing error messages throughout the day. I've appreciated the tracking for the past several months, but it looks like it's time to uninstall.<br> :date: __2020-10-10 06:06:13__
 
+> I have had to delete and reinstall the app twice now. Each time I lost all the history. The app is dynamic and keeps changing some things that were easy to read and understand are now hard to interpret. some days the app will have me check in more than once and the history will still be blank for that day.<br> :date: __2020-09-20 04:30:10__
+
 
 
 #### 1-star reviews
@@ -287,6 +287,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.howwefeel 1 reviews"/>
 </p>
+
+> Once again, I'm asking are you still gathering data????? I don't see any updates of the app, new info or anything else!!!! I want to know if it is useful to continue answering every day. Regards hoping you answer me.<br> :date: __2021-05-17 16:05:15__
 
 > The app stopped working<br> :date: __2020-12-24 23:47:41__
 
@@ -305,7 +307,5 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > 10/26/20 Have not been able to open app in weeks. Was really good. Hopefully it will be fixed soon. 11/16/20 app still doesn't open. You are missing a good chunk of reporting by the looks of the recent reviews.<br> :date: __2020-11-16 16:15:39__
 
 > Ever since the last update, I can't use the app. It crashes every time I try to open it<br> :date: __2020-11-14 09:45:23__
-
-> App no longer works. Fix it or take it down<br> :date: __2020-11-13 03:43:18__
 
 

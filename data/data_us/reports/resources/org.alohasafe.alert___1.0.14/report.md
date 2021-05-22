@@ -228,6 +228,10 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
 
+> Asinine that a government is mandating a third-party program that tracks health data. Irresponsible and ineffective. This demonstrates a clear lack of understanding of viral transmission.<br> :date: __2021-05-17 17:41:28__
+
+> Waste of state funds<br> :date: __2021-05-14 19:21:06__
+
 > It steals your data by provide services which it needs to run. Things like GPS coordinates, known associatie which are link to you. Health data and so much more.<br> :date: __2021-04-21 10:31:22__
 
 > Doesn't work. My partner and I kept bluetooth on always. When he got COVID he reported it to the app with the code and I never got notified from the app, despite the fact that we live together.<br> :date: __2021-04-05 03:27:04__
@@ -243,9 +247,5 @@ The AlohaSafe Alert app has been installed by more than **50000** times. At this
 > unconstitutional mandatory download of app. infringement of rights. state of hawaii gov will be sued over this. developers of app should be ashamed of themselves.<br> :date: __2021-01-27 23:04:21__
 
 > Horrible. Forced installed. UNSAFE!!!! UNINSTALLED!!! BEWARE<br> :date: __2021-01-24 10:32:51__
-
-> This app downloaded itself on my phone do not trust this app at all. This is not okay.<br> :date: __2021-01-23 07:38:41__
-
-> I can take care of myself as well as people around me. Don't need this. Shame on victorino for forcing.<br> :date: __2021-01-22 08:00:16__
 
 

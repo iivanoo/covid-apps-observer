@@ -186,6 +186,8 @@ The Minutis Mobile app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.crf.minutis 5 reviews"/>
 </p>
 
+> Bonne appli pour le suivi gps et de statut des bénévoles (dispo, sur place, en évac...) Juste un détail, il faut penser à ne pas fermer l'appli pendant une mission sinon nous sommes déconnecté et le suivi est interrompu. Ne serait-il pas possible de remédier à ça ? (Par exemple quand on ferme maps pendant un guidage, le suivi gps et le guidage continuent en arrière plan)<br> :date: __2021-05-18 22:23:25__
+
 > Déconnecté régulièrement obliger de se reconnecter pendant le poste plusieurs fois c'est très gênant<br> :date: __2020-04-25 17:49:00__
 
 > Très belle appli<br> :date: __2019-05-02 18:00:33__

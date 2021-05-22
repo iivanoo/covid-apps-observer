@@ -232,6 +232,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 3 reviews"/>
 </p>
 
+> per venire giù in Sardegna verso fine agosto primi di settembre servirà ancora scaricare l'applicazione!?<br> :date: __2021-05-13 19:07:00__
+
 > L'app non da la possibilità di modificare una richiesta già effettuata sui dati di arrivo o partenza che possono essere variati per ragioni diverse (tipo volo annullato e data spostata...) o di poter cancellare la richiesta per inoltrarne un'altra ex novo. Sicuramente da migliorare.<br> :date: __2021-03-19 12:36:51__
 
 > Buongiorno, ma quest'app serve ancora per viaggiare?<br> :date: __2021-02-23 07:09:48__
@@ -250,8 +252,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Nella compilazione dei dati per potersi registrare e usare la app si è costretti a inserire i dati relativi alla residenza in Sardegna nonostante il box per la residenza in Sardegna non sia stato spuntato. È bastato inserire "--“ in ogni campo per i dati dei residenti in Sardegna per poter proseguire. Non esiste la possibilità per stranieri e/o residenti all'estero di dichiararlo esplicitamente. Anche in questo caso è bastato scrivere il nome del paese estero alla voce "provincia". Etc...<br> :date: __2020-08-17 12:40:16__
 
-> Ho installato l'app su quattro o cinque cellulari, tutto correttamente, compreso il mio (One plus One). Ho fatto la registrazione correttamente. Ieri però ho aggiornato il mio cellulare ad android 10, e adesso l'app non si apre mostra il logo con il cerchietto di caricamento che gira in eterno. cosa devo fare? ho il volo il 19! grazie Ho visto che dalla mail ricevuta in fase di registrazione posso recuperare il tutto, completero da li e stampero il qr. Dovrebbe andare bene?!<br> :date: __2020-08-15 18:03:00__
-
 
 
 #### 2-star reviews
@@ -259,6 +259,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
+
+> Non c'è la possibilità di modificare i dati appena inseriti e occorre rifare registrazione arrivo<br> :date: __2021-05-16 15:48:22__
 
 > Ciao, parlo da pendolare e quindi devo compilare tale dichiarazione ogni volta, sarebbe utile: LOGIN con impronta digitale o memorizzazione password ( ad oggi ancora non memorizza la Poter richiamare una registrazione precedente e cambiare solo le date ( pensate ad uno che fa spesso lo stesso viaggio)<br> :date: __2021-04-14 09:42:37__
 
@@ -278,8 +280,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Scaricato l'applicazione,ma continua a caricare (buffering) e purtroppo non posso accedere perché non posso inserire le credenziali.<br> :date: __2020-08-28 12:19:09__
 
-> Salve, mi sono registrato, ma non mi permette di registrare mia moglie. Vado in nuova registrazione, ma rimane impresso sempre il mio nome. Come devo fare?<br> :date: __2020-08-21 17:01:57__
-
 
 
 #### 1-star reviews
@@ -288,24 +288,24 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
-> Buongiorno, vi ho fatto una segnalazione pochi giorni fa sul non funzionamento dell'applicazione,non è cambiato nulla e continua a non funzionare<br> :date: __2021-05-12 11:37:24__
+> Ho scaricato e disinstallato l'app diverse volte ma niente non funziona ,cosa posso fare ?<br> :date: __2021-05-22 07:39:04__
+
+> Buonasera,sono ormai passati 16 giorni dalla prima segnalazione sul non funzionamento dell'applicazione, quando si risolverà il problema?<br> :date: __2021-05-21 19:30:04__
+
+> Ho necessità di resettare la password, ma non mi arriva l'email per completare la procedura. Una app inutile al pari di queste inutili misure anticovid che non servono a limitare i contagi, ma solo a complicare la vita alle persone<br> :date: __2021-05-21 05:34:48__
+
+> Negative<br> :date: __2021-05-20 20:54:51__
+
+> Ovviamente non funziona. Nemmeno con l'ultimo aggiornamento. Complimenti 🔝<br> :date: __2021-05-19 08:45:52__
+
+> Fatta con i piedi. Piena di Bug e soppratutto inutilee!!!!!!! Che pena...<br> :date: __2021-05-16 21:53:31__
+
+> Semplicemente NON funziona.<br> :date: __2021-05-16 08:33:20__
+
+> Buongiorno, ho inserito la data di arrivo nell'app (giorno 22) ma una volta completata la registrazione la data comunicata nella mail risulta essere il 23.<br> :date: __2021-05-16 00:10:31__
 
 > Buon giorno, sono giorni che cerco d'aprire l'applicazione con scarsi successi ,vedo solo la schermata bianca con il logo di Sardegna sicura e nient'altro .Disinstalla e installata di nuovo e ogni tanto ci provo con scarsi successo, visto che sono Sarda e tra poco verrò in Sardegna come ogni anno. Prego aggiornare l'APP<br> :date: __2021-05-05 17:18:32__
 
 > L'ho scaricata ma non si apre.<br> :date: __2021-04-20 15:45:28__
-
-> Ho un OnePlus Nord ed è almeno 3 volte che scarico l'app senza essere mai riuscito ad aprirla, non capisco come mai<br> :date: __2021-04-19 18:37:37__
-
-> Non funziona più. Usata l'anno scorso. Quest'anno parte frulla e poi mostra pagina bianca. Una vergogna<br> :date: __2021-04-19 15:26:05__
-
-> L'applicazione non funziona e quando tento di aprirla gira a vuoto. Come posso registrarmi visto che ho un volo venerdi?<br> :date: __2021-04-17 08:14:53__
-
-> Non consente modifiche sui passeggeri: mio figlio non è partito più insieme a me, e quindi non mi permette di cancellare il suo nome, e nemmeno di inserire l'esito del mio test...poi, nessun tipo di controllo è stato effettuato, sia in partenza che in arrivo, sulle risultanze di questa applicazione...seri dubbi sulla sua utilità<br> :date: __2021-04-12 20:56:12__
-
-> Sul cellulare samsung a51 la app non si apre<br> :date: __2021-04-10 11:24:53__
-
-> Non ti fa registrare. Risolvete.<br> :date: __2021-04-09 18:19:37__
-
-> Fa schifo non mi fa registrare é inutile !!!<br> :date: __2021-04-06 19:12:02__
 
 

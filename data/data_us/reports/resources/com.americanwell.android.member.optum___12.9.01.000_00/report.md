@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Pretty easy and clear to use<br> :date: __2021-05-21 22:33:57__
+
+> Very easy to use much better than waiting at urgent Care to see doctor!!<br> :date: __2021-05-20 23:39:40__
+
+> Helpful and convenient.<br> :date: __2021-05-18 22:33:27__
+
+> Pleasant.<br> :date: __2021-05-17 17:21:02__
+
+> Used several times all Dr. able to help with issues very convenient to do it from home<br> :date: __2021-05-16 20:49:04__
+
+> Great<br> :date: __2021-05-13 22:18:02__
+
+> Super easy and effective<br> :date: __2021-05-13 19:11:24__
+
 > Is convenient when you can't find a doctors appointment right away<br> :date: __2021-05-12 17:20:25__
 
 > Great app!!👍<br> :date: __2021-05-10 20:57:16__
 
 > Great program, changes how I do my medical visits especially when I can't get in to my regular DR Updated review 5/7/21... Actual Android app continues to have issues loading so I end up uninstalling and reinstall to use it<br> :date: __2021-05-08 21:44:13__
-
-> This is a godsend thank you for creating this app.<br> :date: __2021-05-07 16:12:03__
-
-> So convenient love this option<br> :date: __2021-05-06 20:37:44__
-
-> Very comfortable experience.<br> :date: __2021-05-06 19:15:54__
-
-> Great a bit of volume issue unable to hear the Doctor very well but overall good, clear and safe.<br> :date: __2021-05-04 22:41:54__
-
-> Very awesome to use<br> :date: __2021-05-04 22:06:11__
-
-> Always an awesome experience<br> :date: __2021-05-02 04:02:19__
-
-> So far, so good! This app is super convenient and I haven't had any issues.<br> :date: __2021-04-30 20:47:33__
 
 
 
@@ -274,6 +274,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> They hung up on me after waiting an hour<br> :date: __2021-05-19 00:27:34__
+
 > Flustrating<br> :date: __2021-04-26 23:58:42__
 
 > This app is absolute garbage. Not to mention it takes 20 minutes to download an update. Missed my doctor's appointment.<br> :date: __2021-04-08 16:51:06__
@@ -291,7 +293,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > No longer connects well. Since the update it says you are connected, waiting for the physician to connect...then it doesn't connect and the doctor cancels<br> :date: __2020-07-31 18:04:15__
 
 > Always technical issues. I have the newer smart phone and I pay for the internet. It always kicks me out.<br> :date: __2020-07-04 16:50:39__
-
-> I waited for the doctor, the app said "you have connected and are waiting for the doctor to connect". After about a minute, another message that said "The doctor cancelled the call".<br> :date: __2020-07-02 12:39:26__
 
 

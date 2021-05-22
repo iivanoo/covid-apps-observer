@@ -237,6 +237,8 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="com.ri.crushcovid 2 reviews"/>
 </p>
 
+> Google map tracks me better.<br> :date: __2021-05-20 05:02:07__
+
 > In the location diary, It only gets the address right about half the time...sometimes it misses an address altogether...<br> :date: __2021-04-07 14:36:11__
 
 > Good concept but it stopped tracking, which is a major function of the app. I deleted and downloaded again and still no tracking, so finding a reason to keep hard to come by.<br> :date: __2021-02-28 21:08:49__
@@ -254,8 +256,6 @@ The CRUSH COVID RI app has been installed by more than **10000** times. At this 
 > Had this app for a little while. Always had me in places that ive never been and hardley ever picked up where i actually was. Dont really go to a lot of new places so i tried it but now has been deleted<br> :date: __2020-09-15 14:37:38__
 
 > Shuts down<br> :date: __2020-08-27 14:31:35__
-
-> Battery not working charging likely from multiple ConVid19 tracker, in DC and other areas people may be running different apps from other states like Virginia and miss encounters...<br> :date: __2020-08-24 10:03:37__
 
 
 

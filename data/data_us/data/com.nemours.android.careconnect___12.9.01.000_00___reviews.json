@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGup6DUHFnAAYRwFjn--h7G0m5XpwWHbmN6fs3z_gpARHUB6RJfjfH1XDmmFLAmSlCP1ltEe0pE40LYtA",
+        "userName": "Kathy Portalatin",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx2dfmwbzOpqboXay8z0O6B7qTtcw4tThSOIjZ3=mo",
+        "content": "Love it! Thank you so much for this service! Dr. Joanne Murren-Boezem is Amazing!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-05-21 03:41:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFutlpUuiRSjV2ZZj6IFfF-ru03OHfeFwxTv_pRjv4tV0vxv26oFayagKL0QGcBKvEtaNV4kIl936rjzg",
         "userName": "Elizabeth Rios",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxgljItar1d5byjX7KIWZ9kF3DAWgS_FOYMdfZQs4",
@@ -20,18 +32,6 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-13 16:36:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGup6DUHFnAAYRwFjn--h7G0m5XpwWHbmN6fs3z_gpARHUB6RJfjfH1XDmmFLAmSlCP1ltEe0pE40LYtA",
-        "userName": "Kathy Portalatin",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx2dfmwbzOpqboXay8z0O6B7qTtcw4tThSOIjZ3=mo",
-        "content": "Love it! Thank you so much for this service!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.19.010_02",
-        "at": "2021-03-14 05:33:06",
         "replyContent": null,
         "repliedAt": null
     },
@@ -101,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GivljhGjhIsBZEcWvUBOnfhzYIu4k6CQd5onSWjrg",
         "content": "Couldn't start with how many times this apps has saved me endless counts of trips to the emergency room for one of my kids. They love to take turns on who is going to push life's limits just for the fun of it.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": null,
         "at": "2020-12-22 23:42:29",
         "replyContent": null,
@@ -2234,7 +2234,7 @@
     {
         "reviewId": "gp:AOqpTOGJ9_1eeeaEdHGQd39hSna5QYCwkcGIrRkgyCSY41zdst7I8yOB7lvpdD70-YWY-EzXGvAbpn8_m0x2dw",
         "userName": "Marilyn Moor",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQCwq_87Z9XRnqEmnfFjZ3W-gLu0GPl2YhHRg645k",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9r059PqQVWOSUHFfkF8oslZDSrRrC4ilmN0gdg7E",
         "content": "Very Convenient!",
         "score": 5,
         "thumbsUpCount": 1,

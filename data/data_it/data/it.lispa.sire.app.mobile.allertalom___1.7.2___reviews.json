@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOFhNLNVZ0xdFWrAbDUIlnPcCjRgsDWw_13urJP4QtCcW-jH5XWn8-KUjomGtOclDlyDthZcI79Q4uev7Q",
+        "userName": "Marisa Bonfanti",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLWZKrW-c3gCASa6q7u996FAAXf91Y_R1zttuf=mo",
+        "content": "Perch\u00e9 non si riesce a cambiare l'et\u00e0....e bisogna rifare tutto....\u00e8 logico che anno con anno si cambia....dovrebbe esserci la possibilit\u00e0 di farlo senza dover disinstallare e reinstallare....almeno io non riesco...se c'\u00e8 un modo ....grazie",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.1",
+        "at": "2021-05-22 09:02:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEbQS8lFRpJ39vX-dAGRGSb-U4EuudkW6teiO0dDqqEMsEasewOvVQgxW5l_5r5FNutMNnrYrVIq5ulNw",
+        "userName": "Carlo Belletti",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6dSJXIW6nvBnAZlAywxCCs57XHHO23lTpaJQJ=mo",
+        "content": "Spesso \u00e8 in blocco",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-05-19 15:05:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHNgJwyoUaDFWh6QnWEBUfAoniTfgAjY5rzVwQg0-cj67DKKEFi_GT9PVHqtWT-r_El4kbcspF_E4c1FQ",
+        "userName": "Sabrina Paro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggz91nfV-KU8_bPxEGmRreyzkW87taVDsgsyN98NQ",
+        "content": "Non si apre pi\u00f9 da circa una settimana/10 giorni, pur ricevendo le notifiche. La risolvete o raccontate la favola dei troppi utenti collegati?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-05-18 12:57:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHD9A3hHaL6dF-WxopG-0uhvA5NHeD7Ru7j5RssyLWAnABpnZ6yFuPenf15lpCcZk6k9vdl5cPtTEV0uQ",
+        "userName": "Nicola Ferrari",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDVMTlIpCMEzVJkq4zBVOwKl7zSMeIKOFXomun=mo",
+        "content": "Non mi fa modificare la mia et\u00e0 \u00e8 rimasta quella dell anno scorso ma per il resto funziona benissimo",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-05-16 22:10:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFO_Jc52nkgUqVHOmwAUPiYMoxlX1vUo9eje5tJCPzFoqeXtF-PgdKXIpjox5EjScDsjSqjGNcWULRVpA",
+        "userName": "Simona Albertazzi",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicujgBB0ZJ0T-O4_t0pfPK5Dl1tOJhcgMtfguq5g",
+        "content": "L'app non funziona pi\u00f9 da giorni e non ho aggiornamenti. Dinstallo?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-05-16 12:48:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFOuPK1mdTEBuf4Fmi0Rgq6ZfcfKy5IavCxvP-Y-wf2P8pNQRkpthUPIR6FO-eLRll_x1Ek-6w7C_pqzQ",
         "userName": "Francesco Dell'Aglio",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQgz5xG3mZPUXJepu7QDbPLT5RVFvF9y9sv76S=mo",
@@ -8,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-05-12 13:10:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Francesco, grazie per il suggerimento. Lo invieremo ai servizi tecnici. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2021-05-19 08:40:33"
     },
     {
         "reviewId": "gp:AOqpTOHyggxubBnTVbJhqrasrJmyTQLOLGV5td3tk4Q-eMYSDKIdC8DUEifvmqAe1B5kk8NMfI15acLAzC9PNw",
@@ -77,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjay3vrgB3MsSuut9C-9j1adUwu3_H7saG4GLps4v0",
         "content": "Oggi 24 Aprile 2021, NON si apre il collegamento \"alla pagina\", riguardo le ultime comunicazioni Regionali per il colore e, le novit\u00e0 del nuovo Decreto Regione Lombardia. Potete fare qualcosa? Grazie. * Problema risolto! Grazie agli sviluppatori per la risposta.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-04-28 14:38:16",
         "replyContent": "Ciao Giancarlo, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alle notifiche avviando l'app! Se hai bisogno di ulteriore assistenza scrivici: info.allertalom@ariaspa.it",
@@ -101,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxykMpGS8pRlVch4ZAgOpIjLaV9y2ve3k1vBFxE=mo",
         "content": "Stesso problema con Matteo Repossi: \"aggiorna l'app per avere le ultime notifiche bla, bla, bla...\" vado su play store e l'app \u00e8 del 19/3 e non ci sono aggiornamenti pi\u00f9 recenti. Oggi l'app fa sapere che da domani, senza aggiornamento non si riceveranno pi\u00f9 le allerte. vado su play store e l'app \u00e8 del 19/3 e non ci sono aggiornamenti pi\u00f9 recenti. Quindi? Hanno risposto gli sviluppatori?",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-04-23 14:54:25",
         "replyContent": "Ciao Andreas, si \u00e8 trattato di un errore che \u00e8 stato risolto con l'ultimo rilascio da parte degli sviluppatori. Se hai bisogno di ulteriore assistenza scrivici: info.allertalom@ariaspa.it",
@@ -2366,7 +2426,7 @@
     {
         "reviewId": "gp:AOqpTOHzKMtbptBer4WxgOxGQ47TX7p_1J6bgb4KPrtnc7BU-oPEbUddF0NfmTrv44HCypsiGA-bTKi6OXraDA",
         "userName": "Ste Palumbo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgstOwFNzY_X0Xyl5PcxAcQG2ZSGcKNJqE8ylNBAg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLM8Zv33sz-qJGNZpsjh6_KODkkfCnV8K5_EQKBg",
         "content": "Eccezionale, con questo Coronavirus che ha fatto milioni di morti nel mondo",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4118,7 +4178,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GirS_xYjcIzotyVVuGQ8c5RNipumWWRanSMzrPvIg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghmXQ4sTEI0Th7kx1DChtu_4y8O1svmxGOzpe3Eg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5245,7 +5305,7 @@
     },
     {
         "reviewId": "gp:AOqpTOH8S6i7UVefevcZD2B65dt2vDTrYBRVX7Q5W6sPkqEXxJSzc0eX9MEE1JTPUNOBOHFuVBpjuMJRm5s6pw",
-        "userName": "simonetta polenta",
+        "userName": "Simonetta Polenta",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzkUaPd8-x_3rZ7BYYbw3PZRcGYM4HxiiNUdASI=mo",
         "content": "Grazie a voi per tutti i servizi offerti",
         "score": 5,
@@ -6890,7 +6950,7 @@
     {
         "reviewId": "gp:AOqpTOH8XSgL9leD1wqofeIfZef5yN4k73pHz3S2wDDxOqwAh8Odz6MNVAhrVErjc1q-TK1GLxZQOrpR8BiMbw",
         "userName": "Guido Monti",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx4mywMWRlp69CnvMqKsAL6DrqoCVMRYrxWURA1=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyGTBfc1RrCqBMuzCt_H06hvPiuZgrdTuppHCalpQ=mo",
         "content": "Compilo il questionario invio risposta prova pi\u00f9 tardi questo succede sempre",
         "score": 1,
         "thumbsUpCount": 0,
@@ -9398,7 +9458,7 @@
     {
         "reviewId": "gp:AOqpTOFhK0SExLggbuYtYMek7PeeBaRiuupwWEA-RIId3O8yKR_7BRkTGOIhc_trvUdW6536APzu362LWPfbKQ",
         "userName": "Rocco Miranda",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gin-sBHVfCSfipnFt9EzKFCPH85YmvhVfjnfoNUdQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi_1j-fFKH4nWrRobpWlDvS4lZnwGp04hvleYuG07Q",
         "content": "Ottima descrizione",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11938,65 +11998,5 @@
         "at": "2020-04-16 12:19:51",
         "replyContent": "Ciao Germana, il questionario \u00e8 personale, infatti vengono memorizzati et\u00e0, sesso ecc..\nNecessariamente deve essere compilato sullo stesso smartphone ogni 24 ore.Non risulta quindi possibile fare questionario per pi\u00f9 persone dello stesso nucleo sullo stesso dispositivo.",
         "repliedAt": "2020-04-16 12:25:38"
-    },
-    {
-        "reviewId": "gp:AOqpTOFktQlsRI_ksQuyKzmfPWvnPHaeHfFXBOMPUvzB8lF4IxdiBfcw0R2lrxTA4oqBnfXSdafl57drAJugBQ",
-        "userName": "Terenzio Giupponi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghr03LeFBj8Ixn3CwEHVnTqzXDNyIyK1H8uVthFSg",
-        "content": "Ottima idea aver creato questa app, aggiungerei anche informazioni sui terremoti.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 11:57:44",
-        "replyContent": "Ciao Terenzio, grazie per il suggerimento, lo porteremo all'attenzione dei nostri sviluppatori.",
-        "repliedAt": "2020-04-16 12:26:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOFt5LyUsVM35ZC-ojgBO1XjmT4kA-jvJvnHUcdqzrhyYOecGgddymtU3Tn67KLZFKlqzkYFHzFBqXrwTQ",
-        "userName": "Gianluigi Pretolani",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz2uCk6G8q5331nF1-eItrcyr89yiAu9ylWu1IJ=mo",
-        "content": "App instabile si blocca ogni tanto e va reinstallata oppure gira ma non si apre . Nel modulo info coronavirus ci sono dati che devono essere reimputati ad ogni accesso come il comune di residenza ed il cap quando dovrebbero essere riproposti per default. Io mi sforzo di caricare i miei dati tutti i giorni nonostante problemi e difettima sono sicuro che questa non sia l' app giusta e che sia destinata al fallimento nonostante gli 'spot pubblicitari' del dr Gallera",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 11:12:51",
-        "replyContent": "Ciao Gianluigi, siamo spiacenti che la nuova funzionalit\u00e0 non sia di tuo gradimento.Cercheremo di migliorare!",
-        "repliedAt": "2020-04-16 12:27:23"
-    },
-    {
-        "reviewId": "gp:AOqpTOGpXE21xPCpoGFdNHtPjHYjGHkafNoumWglMKaGr0ro7oHvZj-jWY3Mb8cXK7P_EaVeTO3ziBpCtwRZYw",
-        "userName": "Jason JR",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYdVbzZBtgSU_qJLd4x1ljwCkpzS6X2aGLCXFFsQ",
-        "content": "Una presa per i fondelli.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-16 10:23:30",
-        "replyContent": "Ciao Jason, siamo spiacenti che la tua esperienza non sia stata all\u2019altezza delle tue aspettative.Ci piacerebbe sapere perch\u00e9 e migliorare.Puoi raggiungerci in qualsiasi momento scrivendo a: info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-16 12:28:42"
-    },
-    {
-        "reviewId": "gp:AOqpTOEnjS5DyaXRsze13vZRiqRyqiQUVLNzuSHPlB3lxmvxmfY-7hOnWhbpAUYO_SSamJ13T8-XEAbaOc_gng",
-        "userName": "Davide Cannata",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdeUhYeDDC9a-l2kok8LDOYyo-iXQTiV2cDs6M=mo",
-        "content": "Ridicola",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-16 10:22:19",
-        "replyContent": "Ciao Davide, siamo spiacenti che la tua esperienza non sia stata all\u2019altezza delle tue aspettative!",
-        "repliedAt": "2020-04-16 12:29:31"
-    },
-    {
-        "reviewId": "gp:AOqpTOGJ9xeIq1W3n6-gAzYyj67kqMFswZqmjs6Kv_rWkk586Ccx_gBXRJtW60vthxKodKEGsbSnoztxmhNi-A",
-        "userName": "Mauro Gazzoli",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggixu0GF5ORy1NJj4Yvs4vAFxYN9QlfGCsiHdCdqMQ",
-        "content": "Non serve a niente. La protezione civile dovrebbe impegnarsi a fare qualcosa di concreto...non solo a parole In Se non ce l'ho con l'applicazione ce l'ho con il semplice fatto che ancora ad oggi stiamo lavorando senza mascherine ognuno si fabbrica le mascherine in casa perch\u00e9 in giro non se ne trovano tanto a pubblicizzare miliardi un soldi spesi per l'acquisto di mascherine Da dover distribuire e al giorno d'oggi ancora adesso nei comuni non se ne trovano nelle ferramente Non se ne trovano",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 10:04:49",
-        "replyContent": "Ciao Mauro, le recensioni rilasciate nello STORE dovrebbero fare riferimento alle funzionalit\u00e0 dell'app puoi trasmettere le tue segnalazioni utilizzando i canali preposti,riceverai cos\u00ec un riscontro specifico!Grazie per averci contattato!",
-        "repliedAt": "2020-04-16 12:32:16"
     }
 ]

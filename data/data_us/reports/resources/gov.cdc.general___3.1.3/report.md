@@ -218,8 +218,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 
 > Very usefull with their inforationabout covid.<br> :date: __2021-04-30 02:09:38__
 
-> Good for info<br> :date: __2021-02-21 03:33:26__
-
 > Decent app with lots of good info.<br> :date: __2021-01-27 05:17:53__
 
 > Okay<br> :date: __2020-11-28 15:42:09__
@@ -235,6 +233,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > Provides clear and factual science on COVID-19 developments<br> :date: __2020-07-31 23:53:35__
 
 > Sarahlandry ex sex here<br> :date: __2020-06-11 01:25:36__
+
+> Too many notifications about the virus made me depressed. Good app for a free one, just need better notification options.<br> :date: __2020-05-31 20:08:18__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> lieing S.O.B<br> :date: __2021-05-21 02:12:25__
+
 > Crashes when I try to download a chart.<br> :date: __2021-05-03 18:37:24__
 
 > Absolute scam. Just as useless as the rest of our government. I will never get the coronavirus vaccine.<br> :date: __2021-04-21 03:17:31__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > Impossible to find your way around.<br> :date: __2021-02-05 20:15:20__
 
 > Lies and misinformation. Waste of time<br> :date: __2021-01-11 18:28:55__
-
-> Think they have a virus<br> :date: __2020-11-19 01:08:32__
 
 

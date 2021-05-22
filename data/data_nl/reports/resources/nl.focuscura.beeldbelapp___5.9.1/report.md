@@ -202,6 +202,16 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <img src="5_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 5 reviews"/>
 </p>
 
+> Goed,waar kun je je afmelden als je bent gevaccineerd?<br> :date: __2021-05-22 09:20:40__
+
+> Ben heel blij met deze app ga zo door!!<br> :date: __2021-05-21 08:33:01__
+
+> Werkt prima kleine moeite het invullen.<br> :date: __2021-05-20 15:08:54__
+
+> Makkelijk, duidelijk en snelle reactie.<br> :date: __2021-05-20 09:19:02__
+
+> Deze app is aan te raden om de natte macula tijdig te herkennen !<br> :date: __2021-05-17 09:51:45__
+
 > Is oké.<br> :date: __2021-05-13 09:52:23__
 
 > Heel gebruiks vriendelijk<br> :date: __2021-05-13 09:25:35__
@@ -212,16 +222,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > goeie app, makkelijk om mee te werken.<br> :date: __2021-05-08 08:02:42__
 
-> Super goed<br> :date: __2021-05-06 20:56:48__
-
-> deze app heeft mij een dienst bewezen .door middel het aangeven van of mijn gedrag tijdens deze corona pandemie .<br> :date: __2021-05-06 13:30:05__
-
-> Prima ervaring. Zeer gebruiksvriendelijk mvg Jan<br> :date: __2021-05-05 16:10:56__
-
-> Goed<br> :date: __2021-05-05 11:26:32__
-
-> Ok<br> :date: __2021-05-05 06:59:40__
-
 
 
 #### 4-star reviews
@@ -229,6 +229,10 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 4 reviews"/>
 </p>
+
+> Handig en snel!<br> :date: __2021-05-21 09:43:02__
+
+> Goed en duidelijk<br> :date: __2021-05-18 10:26:57__
 
 > Oke<br> :date: __2021-05-13 11:03:36__
 
@@ -246,10 +250,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 
 > Veel vragen, wel terzake doende<br> :date: __2021-04-27 11:34:03__
 
-> Gemakkelijk in te vullen en goed om het overzicht te hebben.<br> :date: __2021-04-24 15:14:31__
-
-> Werkt goed maar alles moet handmatig Verders zeer tevreden<br> :date: __2021-04-21 09:41:13__
-
 
 
 #### 3-star reviews
@@ -257,6 +257,8 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="nl.focuscura.beeldbelapp 3 reviews"/>
 </p>
+
+> Erg gemakkelijk<br> :date: __2021-05-16 09:39:45__
 
 > Communicatie storingen<br> :date: __2021-05-12 14:37:50__
 
@@ -275,8 +277,6 @@ The Luscii app has been installed by more than **100000** times. At this time, *
 > Handige app<br> :date: __2021-03-29 13:28:49__
 
 > Correct en tijdig melding voor de meting<br> :date: __2021-03-25 11:43:57__
-
-> Soms werkt de app niet<br> :date: __2021-03-24 06:26:49__
 
 
 

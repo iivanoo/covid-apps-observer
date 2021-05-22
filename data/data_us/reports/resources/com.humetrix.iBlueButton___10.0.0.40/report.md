@@ -164,6 +164,12 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.humetrix.iBlueButton 5 reviews"/>
 </p>
 
+> Retired military here and this app does something super useful - gets both my TRICARE military health record as well as my new VA record and puts them all in one consolidated record. Awesome!<br> :date: __2021-05-21 18:51:07__
+
+> Works well for me and as advertised. I especially like the lab result graph on my Galaxy phone.<br> :date: __2021-05-21 05:33:06__
+
+> I recently moved and this app has been a life saver in seeing my health records from both my old doc in New Jersey and from my new one in Florida.<br> :date: __2021-05-20 21:53:28__
+
 > Most of my medical records are in one place now---so convenient. The company seems to be adding more providers as they go along. I'm looking forward to seeing a couple more. Developers were very responsive to an issue i encountered and resolved it.<br> :date: __2021-05-01 05:41:34__
 
 > Along with my Medicare records, I'm now also getting records from my physicians. Great to have it all in one place.<br> :date: __2021-03-04 19:24:45__
@@ -177,12 +183,6 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 > My favorite with this app: seeing an opioid warning for a pain medication I was prescribed for my back and had no clue I could get addicted to that!<br> :date: __2020-05-07 00:29:47__
 
 > Wow, this app just alerted me that one of the medications I take pits me at "higher risk for more severe coronavirus infection.". I thought that might be the case but it's nice to get this confirmation. Got some other drug warnings too that are super helpful. App is well laid out and makes things easy to understand.<br> :date: __2020-04-28 19:33:49__
-
-> I've been using this app for a few years with MyHealtheVet and with my Medicare records which nicely combines with all my prescriptions organized and listed in one place. I like the MedlinePlus button to research information like medication side effects. I noticed the recent update with the new VA records, with new labs section with the useful plot button to see graph displays and again that MedLinePlus info button which I found helpful to understand what these tests results means.<br> :date: __2020-04-28 19:29:37__
-
-> Really useful to have my VA health record combined with my Medicare Blue Button record. I sometimes see doctors outside the VA and didn't know until this app that I could get my different medical information in one place.<br> :date: __2020-04-28 03:14:19__
-
-> Works as advertised.<br> :date: __2019-10-15 01:10:34__
 
 
 
@@ -228,6 +228,8 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.humetrix.iBlueButton 2 reviews"/>
 </p>
 
+> Unable to download my VA records or synch other health providers. When I try and synch a pop-up appears that wants me to pay 4 bucks. 👎<br> :date: __2021-05-20 04:53:30__
+
 > Sounds like it would be a good app but not able to get past logg in page. Tried uninstall and reinstall but still nothing. Ugh.<br> :date: __2018-08-21 11:55:40__
 
 > I have downloaded and installed this app 5 times and not once have I gotten past the initial password screen. This needs to be diagnosed and  fixed. Other wise it is a pointless time investment. I am a frequent and happy user of the my healthevet application on the web. Having your health records available when you see your doctor (while maybe not essential, it is terribly convenient). we<br> :date: __2017-06-24 18:50:34__
@@ -250,6 +252,8 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.humetrix.iBlueButton 1 reviews"/>
 </p>
 
+> Doesn't work most times. For one medical provider, it keeps prompting me to upgrade for 4.99 even though I already paid. Company said they were aware of the issue and fixed it and advised me to update the app yet i was already updated n using the version they called out in their email response. Sorry but can't recommend this app for any use.<br> :date: __2021-05-16 11:09:12__
+
 > I would recommend it but it just keeps circling me back to the DS log-on after tapping on VA's button for my records. I was able to access it once after downloading the app. I was checking out my current appointments, meds, vaccinations & diagnoses from provider visits. However, I had to start all over after I tried getting more info for the latest appointment tha I got. Clicked on it & the cycle of the DS log-on started. Frustrating.<br> :date: __2021-02-28 16:10:35__
 
 > after update, deleted all my data and will not import new data from VA<br> :date: __2021-02-25 19:50:03__
@@ -267,7 +271,5 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 > Cant get past direct access setup. Keeps failing with java error. App is pure junk<br> :date: __2018-08-28 03:21:56__
 
 > stinks<br> :date: __2018-01-21 16:17:16__
-
-> Crash automatically all time<br> :date: __2018-01-04 18:34:06__
 
 

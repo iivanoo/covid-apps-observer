@@ -131,6 +131,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> Love this app keeps me updated daily without any effort from me<br> :date: __2021-05-18 02:07:36__
+
 > Keep me everybody else safe 🙂 💓♥️♥️♥️♥️♥️♥️♥️♥️<br> :date: __2021-05-02 14:15:56__
 
 > Great app<br> :date: __2021-04-14 04:23:25__
@@ -148,8 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > I really want 💗💕💕<br> :date: __2021-03-10 05:37:35__
 
 > So far, negative!!!<br> :date: __2021-03-09 00:38:15__
-
-> This is What A Lot of Us Need and i Say Thinks,, For This =May-(GOD){Blessing)-You and your Compomey.<br> :date: __2021-03-03 08:36:18__
 
 
 
@@ -243,6 +243,10 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> Why would anyone submit their private medical information to these corrupt government bureaucrats makes no sense. This app allows all your information to be collected and stored. Also, it's pathetic that you lemmings think downloading this dysfunctional app will protect you from being exposed. All of you that were exposed in the comments are probably 100% recovered by now<br> :date: __2021-05-17 16:46:18__
+
+> 5/15/21 My wife was tested positive a week ago, my whole family has the app running, no notifications. Tried to "notify others" but it has so many steps and is intentionally difficult to prevent misinformation to the point that when you're sick you give up. In the end, this app is worthless.<br> :date: __2021-05-16 14:35:55__
+
 > App is a peice of trash. Trying to sign up and use it is a pain in the butt. It shouldn't be this complicated to use an app that essentially only needs to notify you of other users around you. Many apps have this function. Hell, even dating apps notify you if a match is nearby. The devs need to learn how the hell to code an app before trying to capitalize on everyone's fear with this useless junk during a pandemic.<br> :date: __2021-04-19 15:13:12__
 
 > Horrible and doesn't work at all. I am guessing the app developer is Slow, like the apps name. Google should remove this from the store. It does not look to be supported or updated any longer. Worst app I have ever downloaded!<br> :date: __2021-04-09 15:32:54__
@@ -258,9 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > I was positive with COVID. I was never able to enter results in this app. I was never contacted for contact tracing. I am an essential worker. This app is a tracking mechanism only and is NOT uses for COVID.<br> :date: __2021-03-10 12:30:11__
 
 > Never contacted me!!!<br> :date: __2021-03-04 19:53:10__
-
-> Exposure last checked on 2/8. It is now 2/28. Exactly what is the usefulness of that? I am using the latest update.<br> :date: __2021-02-28 18:57:53__
-
-> UPDATE!! (""NOT RECOMMENDED"")!! don't download!! only trust the news on tv!! i would not trust these apps because i have heard on the real news that these could possibly be scams and there have been some reports that people did get scammed!!!<br> :date: __2021-02-27 05:10:59__
 
 

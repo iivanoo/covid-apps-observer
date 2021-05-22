@@ -180,6 +180,8 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 1 reviews"/>
 </p>
 
+> de quelle numéro de dossier s'agît il?????application non adaptée à mon smartphone merci de répondre à cette question<br> :date: __2021-05-22 11:05:54__
+
 > Quel est donc le numéro de dossier qu'il faut renseigner sur l'application ? Les étiquettes aphm que l'on m'a délivrées pour effectuer le test comportent deux séries de chiffres dont aucun n'est accepté comme numéro de dossier. Il n'a a aucune explication qui permette de trouver ce numéro de dossier. L'application ne me sert donc pas.<br> :date: __2021-05-12 12:24:24__
 
 > Application nuls 0n nous demande un numéro de dossier que l'on n'a pas<br> :date: __2021-01-12 11:37:33__
@@ -197,7 +199,5 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 > J'ai pas de numéro de dossier?<br> :date: __2020-06-02 16:38:05__
 
 > Trop nnuuulll il seire à rien il fait sa pour tuer les personnes trop nul je vous le déconseille de téléchargé l'application qui d'accord avec 🙂il et trop nul👎🏻👎🏻<br> :date: __2020-05-31 11:45:24__
-
-> Ou se trouve le numéro de dossier ?<br> :date: __2020-05-31 08:00:02__
 
 

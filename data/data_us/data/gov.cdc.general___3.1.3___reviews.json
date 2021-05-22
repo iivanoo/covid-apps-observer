@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGYJjeF_tFF8TiTXlI543EGXiZJ36M7wx08G_R0e62vFTae8qgq43JCd0sgnxig6mCT6FbU8zGAXZKEWw",
+        "userName": "Bad Gammer 1000 bg1k",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghwwp2dJUS37ddD3cUfo7um-s-ggecqxtFdHKr-KA",
+        "content": "lieing S.O.B",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-21 02:12:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGlUUhdquzGJPFaoS8Kh3_FquvvjFoFzD2HgzDkCSEnuchEkveVKA91Goo2pfC7jH7xMzIDrWtO2eMzEA",
         "userName": "ARW Abrw",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzZzYVbaIgh2gsIOIbw1ZHDw9T6uBxgKn2v1VGz=mo",
@@ -26,10 +38,10 @@
     {
         "reviewId": "gp:AOqpTOFu0Yw8ceiMXtTN4JwQsFgUv0OTfh9idHGKy8uBi0purSrnbr7YKH9AQAvBzvfD-hlwzi8z0V9Qtcv1nA",
         "userName": "John Yeager",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gghnyf5mGgh2BH0ygfpYypH2XlariVbAk6eW-fDyg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxTK4O1mFC5chtN_boMEUE9UwkHkD0Saa3eWzoRA",
         "content": "Relevant information right where I need it. Thanks for the great App. !!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.1.3",
         "at": "2021-05-09 21:11:00",
         "replyContent": null,
@@ -218,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOHpTV42zEHpX3yfqDpWC7LJ1TL1Y6Vu_JQ_VCobe7NfbLBO8O1Vr7ZDQMbN4zmfqWFW-rDC7M_FBHN0EA",
         "userName": "RALPH MCCARLEY",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_TwPupvTE4TsjU28peK3zTKnNY6jVMH6a00sF",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GglIcPWLNygBWDAP3a8m5B4-fu2ZjEVZTPHdwjnDg",
         "content": "(Teaches us to stop the spread of germs by washing our hands)!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -293,7 +305,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxAGr6BuHuROiFc-2tOOpO-XhFoE8uiyFNL2yfiTA=mo",
         "content": "I've tried several times to get the app to open. All i get is a white screen. I've uninstalled and installed the app several time and it won't open.",
         "score": 1,
-        "thumbsUpCount": 40,
+        "thumbsUpCount": 45,
         "reviewCreatedVersion": "3.1.1",
         "at": "2021-02-26 03:18:05",
         "replyContent": null,
@@ -332,18 +344,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-02-21 13:38:37",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEaXPtptqypX4hpu8WRvvv8OWx87TBKvCuGn4m570pJSpPMKAbScD7HCJPPEI9RNNJBLyr1U71ul8iOJA",
-        "userName": "ABee Side",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gim8Lp6tgAsXc73JtZ6U2maIm5M4RXNoH8TnIEpEw",
-        "content": "Good for info",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.1.1",
-        "at": "2021-02-21 03:33:26",
         "replyContent": null,
         "repliedAt": null
     },
@@ -853,8 +853,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHyyprdhKYUMYLHU9XooPC09kVQThlhzCRZLGfHaF5Hc17N6Uam0ZW-ImRlD3abpAu77RrfUqz-xgtRjA",
-        "userName": "Paul Wright",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdtMBNDONVId-rz9eRQgujnqoiANN_kHLT5rcKIQ",
+        "userName": "A Google user",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "N/A",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1502,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOFK9lOahOa8SoU5NBE722n7UU6yqjCZsh39ro7ZwmaM8cjsttNnYIatEF82A3XF_N1E-GZDqI5HhxBEYg",
         "userName": "Amanda Ponvelle",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghiv7grXYV4rHitDD_Nv-L-7y1L342RNAe9La7gmA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKtBI809IEdn2D43KVGHeuzCvbebZYlZbfi0taAQ",
         "content": "MUST HAVE !",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2377,8 +2377,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEzDAYSOH3VDoIeBuXDTa53F5q8CvbP_fil5T0iAIg7fzGeRNwgN2jpT80DuODY2yU9Xa1ooV0vexMurA",
-        "userName": "Sky The Husky Furry",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPPslwYK_kXX9Wx6TAHTixUv-RjH_LaLKKWn8Whw",
+        "userName": "Apricot Fox",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqNnwcC22IvFSksTipehYfEMJ9XwJdeWI5KTpU5g",
         "content": "I love the CDC but I wish it wouldn't be a app that puts you on the internet",
         "score": 4,
         "thumbsUpCount": 6,
@@ -2933,7 +2933,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgVxFrom2lDU9lGdYjKt4qkDGrDuQ3_bEUapD5yVgw",
         "content": "I've had this app for maybe a year or two before the Covid-19 pandemic. It used to always be fact and science based, focusing on what you need to know to stay safe! However, recently the \"articles\" have been touting Trump's \"strong and swift action\" in dealing with this virus. I don't need to read a bunch of political BS before getting to the useful information and data! This is really a shameful decline and I will be uninstalling and getting my health and safety information elsewhere.",
         "score": 1,
-        "thumbsUpCount": 922,
+        "thumbsUpCount": 933,
         "reviewCreatedVersion": "2.6.7",
         "at": "2020-04-11 07:51:44",
         "replyContent": null,
@@ -3913,7 +3913,7 @@
     },
     {
         "reviewId": "gp:AOqpTOH3YwmmYlKtfyQdOq99HyYHlD-p-0iOn4AMRL_H52-yuMzYp1f5H8xEfadT3mmEjbj32h-TnkesQEwEqw",
-        "userName": "Jacqs AY",
+        "userName": "J AY",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwYtVf-xtVeHPP4GbI5Z9g5vOHV3nKDud1nmBTw=mo",
         "content": "Was online but app kept saying not online",
         "score": 1,
@@ -4237,7 +4237,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHR2rD84nL2_FKANPvKAHsJDHQwhzkVR2GIKYatFr6JoHeUCjJMJcWqA2reHWT3hxX6HxI3yPuxp_StEw",
-        "userName": "Christopher",
+        "userName": "Christopher Redd",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFyR1Cg_48Jv0i7ZoBN-8f4BZXHfZP_Z2JpDtVxbE",
         "content": "Love getting updates b4 the news",
         "score": 5,

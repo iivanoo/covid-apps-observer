@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFOiWfehW1gTaC8rrfUweRAEBhsFhYrMGDeLiNjzY_XCHXz5tkt6Qb2SoVzR6-dOU22oy6f4awOAavccQ",
+        "userName": "Costa Victor-Emmanuel",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhBVLZd2KZQR91WOsFqPvvLVuVNxjy88_4iBiZn7P0",
+        "content": "Bonne appli pour le suivi gps et de statut des b\u00e9n\u00e9voles (dispo, sur place, en \u00e9vac...) Juste un d\u00e9tail, il faut penser \u00e0 ne pas fermer l'appli pendant une mission sinon nous sommes d\u00e9connect\u00e9 et le suivi est interrompu. Ne serait-il pas possible de rem\u00e9dier \u00e0 \u00e7a ? (Par exemple quand on ferme maps pendant un guidage, le suivi gps et le guidage continuent en arri\u00e8re plan)",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2021-05-18 22:23:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEYaDGdxVaSWBAuha3lZdwqOBbtL94dl7N2hIp050EAhri77RksQ17rE_Nr_jYQw7If9Kd3Rctdsagd_A",
         "userName": "Mich\u00e8le Mounier Mounier",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhlsI2aw0mndIPL6LmRSBTw9amNxQndlDXcudGo",
@@ -98,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOGVWWmgA8NEfW-F4FOT3n_uox-2Hw3kwIQAtNhBQu3m2Lv77t5w7hHQwrPLVWl86KPC5bpDZZcIiLltiQ",
         "userName": "Alexandre du 49",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjm5ff67tbu7IK8tvh0UwV0w-9oSuPd4Xr-13k_yJQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgsZQ2Z52ZbPjXU7en0DZLwA6ILuT04HYrN5mOJQho",
         "content": "Comment on fait pour se connecter \u00e0 l'application quand on a pas de compte",
         "score": 2,
         "thumbsUpCount": 10,

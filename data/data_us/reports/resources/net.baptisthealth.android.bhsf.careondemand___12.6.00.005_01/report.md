@@ -288,7 +288,7 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="1_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 1 reviews"/>
 </p>
 
-> Terrible!!<br> :date: __2021-04-23 05:23:52__
+> Terrible!!, worse than terrible, can't get rid of their stupid ads, evev after deleting app🤮<br> :date: __2021-05-19 16:06:16__
 
 > Absolutely atrocious. You want to have a system not collect your insurance properly and overbill you? This is the one! Sat on the phone with customer service and was transferred 5 times. Nobody was able to help me get ahold of who I needed in order to get the money I needed back during these times. Instead I was told to try and call back next week because my account may have been created. Even though my appointment was already a week ago.<br> :date: __2021-02-15 20:53:40__
 

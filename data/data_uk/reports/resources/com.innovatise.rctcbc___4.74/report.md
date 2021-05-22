@@ -256,6 +256,8 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 <img src="1_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 1 reviews"/>
 </p>
 
+> When trying to book a gym session on android phone can only book 1 day in advance getting no opportunity to train where as ios users can book 7 days ahead<br> :date: __2021-05-13 21:40:45__
+
 > My first time trying to use the app and most things on there wont work. I tried booking a swimming class but couldn't remember my pin when I click on the option to reset my password the page wouldn't load. I managed to get onto a page to update my details but it kept saying invalid email address even though that's the email I use and it wont let me change it. Gave up in the end.<br> :date: __2021-05-08 12:22:16__
 
 > As a couple of OAP's we paid £460 annual membership in Feb 2019, then lockdown occurred. Our local centre we joined to use is now a vaccination centre. Can't contact the council, cant speak to anyone at the leisure centres, the app doesn't load, and from the reviews, doesn't work anyway.For God's sake RCT council, put some up to date information on your site, and sort things out.<br> :date: __2021-05-06 10:35:43__
@@ -273,7 +275,5 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 > Worked fine until yesterday's update. Now I cant book classes. Can you sort it asap<br> :date: __2020-08-17 20:51:35__
 
 > Unable to book a class....rubbish<br> :date: __2020-08-11 00:04:20__
-
-> It's all in Welsh is there an option to change it to english<br> :date: __2018-07-25 13:25:31__
 
 

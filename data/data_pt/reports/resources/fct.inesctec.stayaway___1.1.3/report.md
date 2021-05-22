@@ -137,6 +137,14 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Muito bom aconselho<br> :date: __2021-05-20 08:59:08__
+
+> Sem experiencia, espero que seja util,obrigado.<br> :date: __2021-05-19 10:12:25__
+
+> Simples e eficaz se as pessoas a usassem e não criticassem<br> :date: __2021-05-16 21:41:02__
+
+> Ok 👌<br> :date: __2021-05-16 00:31:32__
+
 > Muito fixe a app period ;)<br> :date: __2021-05-09 19:09:48__
 
 > É uma boa ideia...se funcionar bem e for eficas... Porque nao , instalar...é mais uma forma de nos protejer-mos...A TODOS DESEJO MUITA SORTE E SAÚDE... OBRIGADA PELA AJUDA...<br> :date: __2021-05-05 19:46:02__
@@ -148,14 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Nao sei mas andam muitos por todo lado<br> :date: __2021-04-28 19:46:17__
 
 > Sérgio baranita Soares<br> :date: __2021-04-28 14:35:36__
-
-> As pessoas dão nota baixa sem entender a necessidade da aplicação. Nota 5 porque faz exatamente aquilo que pronete :)<br> :date: __2021-04-27 21:25:06__
-
-> É incrivel a quantidade de pessoas que ficam indignadas pela aplicação pedir acesso à localização, mesmo que não a utilize para recolha de dados pessoais.p... Mas quando há os facebook's, tiktok's e outras porcarias a pedir acesso a tudo e mais alguma coisa, ninguém se importa. A aplicação não merece menos de 5 estrelas. A certas pessoas é que faltam 2 dedos de testa para avaliarem as suas prioridades...<br> :date: __2021-04-25 18:08:51__
-
-> Gostei<br> :date: __2021-04-21 14:00:59__
-
-> Muito pouca<br> :date: __2021-04-20 15:22:38__
 
 
 
@@ -249,6 +249,14 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> De que serve ter a APP instalada se a maior parte dos laboratórios não emite código em casos positivos???? Tenho conhecimento de vários casos positivos, em que nenhum código foi emitido para as pessoas colocarem na APP e, essas pessoas, usam a APP desde que saiu..<br> :date: __2021-05-21 14:44:15__
+
+> Meus senhores instalei logo nos primeiros dias e desde então esteve sempre activa a minha app. O maior fiasco de todos os tempos estive exposto dezenas de vezes, estive em isolamento profilático e nunca mas nunca recebi um único alerta daqui... Podia ter sido uma ferramenta útil mas muito sinceramente...Nao resultou... Hoje dia de limpeza e a app vai deixar de estar no meu telefone...<br> :date: __2021-05-19 03:37:12__
+
+> Muitos boomers e pessoas sem conhecimento do que estão a usar, acho que a app podia ser muito melhor a nível de otimização porque é preciso demasiadas mariquices para que seja utilizável...<br> :date: __2021-05-16 18:47:32__
+
+> Tão útil como quem a mandou fazer<br> :date: __2021-05-16 01:07:55__
+
 > Que vergonha não queiram fazer testes unitários para a próxima....<br> :date: __2021-05-12 12:25:15__
 
 > Não funciona por culpa dos médicos<br> :date: __2021-05-12 11:02:56__
@@ -260,13 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Desinteressante<br> :date: __2021-05-09 17:50:59__
 
 > Lixo<br> :date: __2021-05-08 00:29:20__
-
-> Grande maneira de desviar umas centenas de milhares de euros para uma empresa de amigos ou familiares dos corruptos em Portugal. Cambada de ladrões<br> :date: __2021-05-06 22:42:57__
-
-> Esperava mais nem parece uma aplicação de 2020/21.<br> :date: __2021-05-04 02:18:55__
-
-> Até agora nada<br> :date: __2021-05-03 14:36:04__
-
-> Meu pai e mãe positivos, 3 vizinhos do prédio positivos, nenhum recebeu código, em 5 casos conhecidos por mim, 0 códigos, palhaçada, foi bom para encher os bolsos ao programador.<br> :date: __2021-05-01 13:44:51__
 
 

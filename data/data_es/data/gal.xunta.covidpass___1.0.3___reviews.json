@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGqu9kapNXDDrzhNLdK63SsDcDKnQlLsCtoUi4AHzaD9cTPNl3u8RobZCwv-zaeV0OmzGMHglTxzOoEzw",
+        "userName": "Peggy Bd",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEV3TImRt-H8hymETkc1ZdvLGKl3tSrz-zH3q2BSc",
+        "content": "A ver si actualiz\u00e1is bien la info. Hay errores. La hosteler\u00eda en Vigo cierra a fecha de hoy a las 23:00 no a las 21:00 como indicais en la app. Se supone que debemos instalar la App para tener la informaci\u00f3n actualizada y lo wue est\u00e1is es desinformando.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.3",
+        "at": "2021-05-14 21:23:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHuqcJQj0zJ1NnO_3m64fANjDMCaL2r9eWlltUaPpvSu8T4kbzh3PsAUrGFJZlUfBxAxVDnqTWFoTWMRQ",
         "userName": "Juan Antonio Gomez Nu\u00f1ez",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijsUkt8E3Hk2TgRIPEcFZ1G7fMd9scAMef3gJaSg",
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxOtpEXhRQeafmV_OrYnrbJEJ1clN3gEDCmqpCiMA=mo",
         "content": "Le dar\u00eda un 5 si no fallase en lo b\u00e1sico que es mantener correctamente actualizadas las restricciones. En el caso de reuniones entre no convivientes en domicilios la informaci\u00f3n contradice al DOG, espec\u00edfica \"S\u00f3 conviventes en espacios privados\" cuando desde este s\u00e1bado qued\u00f3 restaurada esta restricci\u00f3n limitando a 4 personas en espacios cerrados sean p\u00fablicos o privados. Es bastante problem\u00e1tico estar actualizado con todos los cambios que se producen como para generar m\u00e1s confusi\u00f3n con la app.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.0.3",
         "at": "2021-04-12 07:56:58",
         "replyContent": null,
@@ -257,7 +269,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi27m9UWTvhyOPbD4grgvM5YvicEsQNs66S4o-5WCA",
         "content": "En Lugo, seg\u00fan la aplicaci\u00f3n el interior de los locales de hosteler\u00eda CERRADO, cuando seg\u00fan el DOG tambi\u00e9n en interior al 30%. Y los establecimientos NO TIENEN C\u00d3DIGO QR que escanear. Ni cafeter\u00edas, ni supermercados, farmacias, bancos, ferreter\u00edas, tiendas de ropa....",
         "score": 2,
-        "thumbsUpCount": 39,
+        "thumbsUpCount": 40,
         "reviewCreatedVersion": "1.0.3",
         "at": "2021-02-27 09:00:56",
         "replyContent": "Buenos d\u00edas, agradecemos su comentario. El registro de estancia en establecimientos debe hacerse con un QR espec\u00edfico para PassCOVID que podr\u00e1 encontrar en los carteles con el t\u00edtulo \u201cEstablecimientos con Sentidi\u00f1o\u201d. Le animamos a mantener la aplicaci\u00f3n siempre actualizada. Muchas gracias por su colaboraci\u00f3n.",
@@ -530,7 +542,7 @@
     {
         "reviewId": "gp:AOqpTOHJyYegngbcD3RRsQL0DTLSBleyuAdeKtKRlPfi4Vr2LFz98wG_Y8nwXe4DDaYF__2LZCrRHyIx3rVZSQ",
         "userName": "M Carmen S.C",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjy4BzPRXrDOUcpgD_fFl2fl0EPb1v16UW0NYDs-oo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqRCCxul4hlakkY3fydMIp3EwAK37j8FAyK0TKl3s",
         "content": "Voy a ajustes y pongo idioma castellano y toda la informaci\u00f3n est\u00e1 en gallego. Si tengo la opci\u00f3n de castellano, esa opci\u00f3n no existe?. Soy gallega y tengo el derecho de elegir. Sin comentarios.",
         "score": 1,
         "thumbsUpCount": 2,

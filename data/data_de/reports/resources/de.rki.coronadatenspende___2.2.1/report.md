@@ -141,6 +141,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Bitte Huawei Health hinzufügen für huawei wearables. Das wäre fein.<br> :date: __2021-05-19 20:39:53__
+
+> Sars-Cov-2 ist eine Krankheit die uns schon 83.000 Menschen getötet hat. Wir müssen jede Infektion aufdecken. Super App Danke liebes RKI !<br> :date: __2021-05-15 16:18:33__
+
 > Habe die App seit dem ersten Tag installiert, funktioniert einwandfrei. Zuerst die Daten von einer fitbit charge 3 und jetzt werden die Daten von einer fitbit charge 4 genommen. Ein Handy wechsel zwischendurch war auch kein Problem. Läuft jetzt auf einem S 8. Leider haben zu wenige diese App installiert.<br> :date: __2021-05-11 15:38:35__
 
 > Samsung Health funktioniert jetzt.<br> :date: __2021-04-22 11:17:42__
@@ -156,10 +160,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Funktioniert bestens.<br> :date: __2021-03-26 12:51:48__
 
 > Sehr großartige App sehr gut weiter verbessern und entwickeln vielen Dank. Könnt ihr bitte antworten vielen Dank.<br> :date: __2021-03-10 21:40:03__
-
-> Sinnvolle App, endlich ist die Verknüpfung zu Samsung Health hergestellt. Jetzt nutze ich gerne die App.<br> :date: __2021-03-02 21:36:32__
-
-> Optimierung der Onlinefrequenzen und einer Tag genauen Information gibt diese App eine neue Version von Sicherheit auch beim Onlineshopping.<br> :date: __2021-02-22 16:56:31__
 
 
 
@@ -253,6 +253,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Leider kann ich meine Mi fit nicht damit verbinden.<br> :date: __2021-05-19 19:28:43__
+
+> Ich kann noch keine Bewertung abgeben, da ich Samsung Health nicht damit verbinden kann. Es wird mir immer gemeldet, dass ich keine Berechtigungen zwischen den beiden Apps freigeben kann. Bitte löst das Problem! Android 11<br> :date: __2021-05-14 10:25:07__
+
 > Kann ich nicht nutzen mit MiFit also wieder gelöscht, hätte gerne geholfen aber App unterstützt nicht meine Uhr.<br> :date: __2021-04-24 13:37:27__
 
 > Die App ist völlig wertlos. Erst nach der Installation erfuhr ich, dass die App nur mit Datenarmband etc. funktioniert. Man kann nirgendwo manuell Daten eingeben. Also völliger Datenschrott.<br> :date: __2021-04-24 11:18:29__
@@ -268,9 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Leider kann ich das nicht mehr unterstützen und muss die App entfernen, da die Daten des RKI meiner Meinung nach nur noch geschätzt werden und keine Realität darstellen.<br> :date: __2021-04-05 16:15:31__
 
 > Geht so. Mi Fit wird nicht unterstützt. So auch nicht Notify for Mi oder Sleep as Android.<br> :date: __2021-04-02 07:09:33__
-
-> Überhaupt nicht selbsterklärend.<br> :date: __2021-03-20 15:25:22__
-
-> Server fehler<br> :date: __2021-03-08 20:25:53__
 
 

@@ -1,17 +1,5 @@
 [
     {
-        "reviewId": "gp:AOqpTOEucZ_BKJFmBzd7sK_5FO2Q5oaKJqW0u8uyBMiK8foHhrYI9cesaRltlJYfPtKv-Sp2mlTSKu4DSa2kkDI",
-        "userName": "Test Case",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzeyW5oyQLdD72F4hEfddt_W408RErNPM-83-LO=mo",
-        "content": "Hhh",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.1.2",
-        "at": "2021-05-12 13:11:44",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOElcOoomGFcYEZnV71hAe0cr3vVLL5KpvrJluxWxoxyfFF_rmzCM_37jmKAIyex0sCSODzBdBcgIq3FfY8",
         "userName": "Florida mom",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiX___Z9ShJJUW_VJU6R4IaBweRhw17HRYYtEo2fKU",
@@ -89,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzEV0D9WKZmWbBNkq4B3iXApnXTN0hdP8YKTkUw=mo",
         "content": "I am in the homes of hundreds of people each day. I was in contact with at least 130 people who later tested positive. Apparently none of them had this app. Even if they had alerted positive, I would not had gone into quarantine or been tested because I have taken all of the necessary precautions and then some. I no longer see any reason to drain my battery for this app. It is past time to uninstall. 1,500,000 people in PBC. Less than 2,000 downloads = .001% using app. Useless",
         "score": 1,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 33,
         "reviewCreatedVersion": "1.0.5",
         "at": "2020-10-05 16:02:29",
         "replyContent": null,
@@ -122,7 +110,7 @@
     {
         "reviewId": "gp:AOqpTOHr0UIZF7WyBfA-RcxAz-HFWJg-eCOcyR-5fRrBWM0aKE5QEQBliXt8G27E7iX2n_x-zNGhNMWrSY80d0o",
         "userName": "Aaron Allen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqkFUyiL3Zc53kF-0z4wBvgjr-0nJcN-tUeIfxJw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxjNDHkxZDhStsKND52CGQ4aqSkghJkqnFdcpZEK8",
         "content": "Not installing. It won't send the one time code. I love the idea, this is what we need! But please it has to be simple for everyone to use.",
         "score": 2,
         "thumbsUpCount": 2,

@@ -229,6 +229,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Love the app, and the doctors. Only provider I trust!<br> :date: __2021-05-14 23:55:52__
+
 > I was able to call and speak with a Heath practioner late at night when I was in pain from an ulcer. But I couldn't find that service on the app on my computer<br> :date: __2021-05-08 07:11:28__
 
 > The app and the service are amazing. I tried one medical after being put on the wait list to find a GP! With one medical I could go the next day and it's really close to my house. Walk in lab work is amazing too.<br> :date: __2021-05-07 00:46:47__
@@ -246,8 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Loving this. The way medicine should be.<br> :date: __2021-04-12 20:46:39__
 
 > Dopeness<br> :date: __2021-04-10 01:39:27__
-
-> I always find out valuable info to deal with medical issues as they arise. The staff is excellent and the video chat occurs in a short period of time<br> :date: __2021-03-31 20:54:11__
 
 
 

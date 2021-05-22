@@ -134,6 +134,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> jeanjacques hazadi<br> :date: __2021-05-19 00:54:07__
+
 > The app stopped checking in a few months ago. I tried reinstalling it and that got it to check in, but only once.<br> :date: __2021-04-30 03:48:15__
 
 > Thank you for this excellent public service. If only more people worked together for the greater good of all we could achieve so much more together. 💜<br> :date: __2021-04-27 01:25:34__
@@ -151,8 +153,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Nice app<br> :date: __2021-04-15 17:43:22__
 
 > Good app to have<br> :date: __2021-04-14 03:31:13__
-
-> Good information.<br> :date: __2021-04-09 00:13:18__
 
 
 
@@ -190,6 +190,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> Quick question, does this work with every state?<br> :date: __2021-05-14 05:28:43__
+
 > Trying to figure out how this at work<br> :date: __2021-04-01 04:10:03__
 
 > The app has twice stopped updating. I did get instructions to load another state's app, activate that in place of covidwise, then reload covidwise and reactive. It works but why does the checking just stop?<br> :date: __2021-03-27 19:41:27__
@@ -208,8 +210,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 
 > Yikes! I wish I saw the reviews before. It's a good idea but either the VDH doesn't have the resources to handle reporting for this app or something else is going on. Damn this gives me a false sense of security, which is bad since I'm both a retail essential worker, and I also reside with my older in laws.<br> :date: __2021-02-16 11:51:01__
 
-> I will admit, I felt so much better about life when this app came out. I wish it were mandatory for all Virginians just like our masks. We would be more efficient at slowing the spread, if it were mandatory and working properly. Unfortunately, my exposure notification hasn't updated since January 5, 2021after working great for months. Please help! I want to be part of the solution. Cannot do that if the app isnt working properly. I keep my bluetooth on at all times, that's not the problem.<br> :date: __2021-02-11 16:08:59__
-
 
 
 #### 2-star reviews
@@ -218,6 +218,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> Surprisingly useless. I kept the app on 24/7 for almost the entire pandemic and it never notified me, never got local outbreak information, nothing.<br> :date: __2021-05-20 22:30:48__
+
 > Repeatedly stops sending notifications unless I uninstall and reinstall.<br> :date: __2021-05-05 01:27:21__
 
 > This app version doesn't allow me to notify whether I was fully vaccinated. When will the developer learn from other regions??<br> :date: __2021-04-25 09:30:50__
@@ -225,8 +227,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Unfortunately something is clearly wrong with this app. It worked perfectly until sometime in January or February. Now it will check for exposures for a while and then just stop. When I just checked, it had not checked for exposures for weeks. Reinstalling works but then it happens again a few weeks later. I see many other similar reports.<br> :date: __2021-04-22 04:15:15__
 
 > Only works if others are willing to participate ...<br> :date: __2021-04-13 14:42:26__
-
-> i felt safe when first installing this app.. i don't feel safe with it now.. . but was vaccinated April Fools Day.<br> :date: __2021-04-05 23:47:49__
 
 > My exposures haven't been checked since March 3. I've followed the instructions in the FAQs, but it still won't update. I even uninstalled and reinstalled the app. 🤷<br> :date: __2021-03-26 00:48:24__
 
@@ -246,6 +246,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> Spyware<br> :date: __2021-05-19 04:09:47__
+
 > Does not work. No offense to your response but your QA process stinks. It is not hard to code in a weekly check into any app so it fires in a given time. My did not have a check in over 2 months.<br> :date: __2021-05-12 18:41:53__
 
 > Doesn't check for exposure for weeks. Eats up battery life.<br> :date: __2021-05-08 00:02:28__
@@ -263,7 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > Contact tracing is unscientific and a vehicle for evil. This is a narc database for communist Karen's. Grow a pair and live your lives. Quit destroying our society with your fear mongering.<br> :date: __2021-04-20 04:51:14__
 
 > Stopped checking exposure in January<br> :date: __2021-04-19 05:48:10__
-
-> This app destroyed my daily battery usage. It runs NON-STOP in the background and never provides any notifications. I'm with the person in the moon on this one.<br> :date: __2021-04-17 11:13:15__
 
 

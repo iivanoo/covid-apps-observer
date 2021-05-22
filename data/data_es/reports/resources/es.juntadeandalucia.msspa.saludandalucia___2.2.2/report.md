@@ -140,6 +140,14 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Buena<br> :date: __2021-05-21 20:11:52__
+
+> Es estupenda<br> :date: __2021-05-18 14:11:20__
+
+> Es perfecto<br> :date: __2021-05-15 12:02:00__
+
+> Yo entro con clave pin y va de maravilla. Muy útil, puedes ver tu historia clínica, tu tratamiento de farmacia....y el certificado de vacunación covid.<br> :date: __2021-05-14 16:49:43__
+
 > Me parece muy útil pero he querido descargar el certificado Covit y me dice que no dispongo de certificado y estoy vaçunado desde el 28 de marzo. Alguien me puede dar información como obtenerlo?, Gracias<br> :date: __2021-05-13 00:54:47__
 
 > Me gusta y es fácil de utilizar<br> :date: __2021-05-12 11:21:49__
@@ -152,14 +160,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 
 > Tras usarlo un par de semanas me alegra que por fin una app salud funcione; ojo yo a Clip Salud+ entro con clave pin (24h), cuya app tengo en el móvil instalada con seguridad huella, de esta manera la clave me llega a la app, además de ser seguro,(se pueden ver historial, citas y datos personales) si entras con clave pin hay cero problemas, con certificado digital no se porque es antiguo y no tengo ; se puede consultar, pedir cita, ... la app va estable y fluida. Esperemos que siga funcionando.<br> :date: __2021-05-04 12:35:59__
 
-> Muy Útil y necesaria<br> :date: __2021-05-03 20:39:20__
-
-> Funciona perfectamente con todos los accesos a tu historial, pedir citas, vacunaciones, enfermería, ect.. muy completa. Para acceder a todo hay que tener Certificado Digital.<br> :date: __2021-04-28 12:01:04__
-
-> Buena<br> :date: __2021-04-27 17:29:42__
-
-> Me ha funcionado perfectamente<br> :date: __2021-04-09 15:55:01__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,14 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 4 reviews"/>
 </p>
+
+> Me da error tras error para registrarme y sacar el certificado de vacunación...?<br> :date: __2021-05-21 16:01:21__
+
+> Me gusta<br> :date: __2021-05-20 14:25:43__
+
+> Es bastante útil y segura. De facil manejo.<br> :date: __2021-05-19 18:42:12__
+
+> Cuesta conectar<br> :date: __2021-05-19 16:49:22__
 
 > La aplicación se sierra aunque no termines la sesión.<br> :date: __2021-04-29 14:28:43__
 
@@ -196,6 +204,10 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 2 reviews"/>
 </p>
 
+> De pena, es imposible obtener el certificado COVID con los datos personales. tras introducir un monto de datos te manda a solicitar presencialmente un certificado digital. ..<br> :date: __2021-05-19 23:42:53__
+
+> Estoy intentando obtener el certificado. He rellenado lis datos una y otra vez y no se conecta.<br> :date: __2021-05-14 12:04:31__
+
 > app muy poco fiable. Reconoce de modo muy errático el certificado de fnmt. Exige continua autenticacion. Pesadisima<br> :date: __2021-05-12 17:38:57__
 
 > No es muy intuitiva y tarda bastante en cargar , algunas veces no se puede abrir los archivos y es un engorro<br> :date: __2021-05-12 10:52:10__
@@ -220,24 +232,24 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> No puedo sacar el certificado de vacunacion al final tendre que ir al mi centro de salud<br> :date: __2021-05-13 00:46:37__
+> Obtención del certificado de vacunación es una loteria<br> :date: __2021-05-22 17:52:06__
 
-> No funciona. No me deja entrar con mis datos, me pone información inválida...<br> :date: __2021-05-12 21:33:02__
+> Cuando te descargas el certificado covid.no se queda guardado para la próxima vez que entres<br> :date: __2021-05-22 16:04:43__
 
-> Si hubiera cero o menos 10, se lo pondría. Quién habrá hecho la aplicación???? No vale ni para forraje!!!!<br> :date: __2021-05-12 20:03:19__
+> En la nueva app Salud Andalucia me dice que he alcanzado el límite de verificación del número de teléfono para recibir notificaciones habiendo ingresado correctamente 3 veces el código y no funciona.¿Ahora qué hago?. He desinstalado la app,vuelto a instalar y lo he vuelto a intentar,pero nada,sale el mensaje que les adjunto. Enviados 2 e-mail al desarrollador con capturas del error. Esperando pronta respuesta y solución.<br> :date: __2021-05-22 14:42:58__
 
-> Dice que los datos introducidos no son validos<br> :date: __2021-05-12 19:01:15__
+> No sirve para nada. Perdida de tiempo. No la instales. Te lleva a la web. Inútil total.<br> :date: __2021-05-21 20:59:24__
 
-> Vaya una basura, sois una panda de ratas que no merece perdón<br> :date: __2021-05-12 13:58:09__
+> De difícil acceso. No apta para personas mayores.<br> :date: __2021-05-21 19:14:05__
 
-> No funciona ,no puedo entrar ni por Clave ,ni por datos personales , siempre da error<br> :date: __2021-05-12 12:58:03__
+> No vale, muy liosa.<br> :date: __2021-05-21 14:01:27__
 
-> Para el usuario normal es el Laberinto de Teseo ....Ni el Banco te pone tantas pegas.... Para llevarlos al Museo Británico....Digno de estudio.<br> :date: __2021-05-12 04:30:57__
+> ¿Cómo se puede desbloquear para que funcione? La he instalado en tres móviles diferentes.<br> :date: __2021-05-21 00:12:15__
 
-> Por favor, que dejen vacunar en las farmacias. Con 63 años, y aún no me han llamado.<br> :date: __2021-05-11 06:38:56__
+> Es imposible iniciar sesion, asi que no sirve pa ná<br> :date: __2021-05-20 22:22:10__
 
-> No funciona, es imposible acceder al certificado de vacunación.<br> :date: __2021-05-10 23:53:18__
+> Fatal no funciona<br> :date: __2021-05-20 20:54:16__
 
-> Aunque aparece la opción de registrarte con datos no te permite hacerlo y por lo tanto no puedes usarla<br> :date: __2021-05-10 08:48:33__
+> Es insoportable lo de tener que iniciar sección cada vez que se abre la app<br> :date: __2021-05-19 22:32:00__
 
 

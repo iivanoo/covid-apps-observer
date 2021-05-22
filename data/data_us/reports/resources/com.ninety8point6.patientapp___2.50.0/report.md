@@ -191,6 +191,18 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> This app is very intuitive to use. It's also incredibly fast to be able to speak with a doctor. My experience has been great!<br> :date: __2021-05-21 23:31:22__
+
+> This has been so helpful! The doctors I have worked with have been kind and ask follow-up questions to make sure they have the best understanding of what I'm feeling.<br> :date: __2021-05-21 11:03:32__
+
+> Fast, easy and reassuring.<br> :date: __2021-05-20 01:32:56__
+
+> Awesome<br> :date: __2021-05-19 21:03:36__
+
+> I love the convenience of this app!<br> :date: __2021-05-18 17:56:31__
+
+> Quick response and a genuine feeling of care for my concerns<br> :date: __2021-05-15 00:38:44__
+
 > My visit was quick and helpful! It was done through text and a quick video to confirm my identity so it was super convenient!<br> :date: __2021-05-12 18:13:43__
 
 > Love this app! So easy to use. Friendly Doctors<br> :date: __2021-05-12 06:03:06__
@@ -199,18 +211,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 
 > This was so much easier, and faster, and less expensive than a traditional doctor visit! The process from filling out the information on symptoms to picking up the prescription at the pharmacy took less than one hour!<br> :date: __2021-05-09 00:30:18__
 
-> Wow! This is the way to do simple ailments!! Fast and easy. I needed meds before 9 and couldn't start the process until after 8:30. It was in before 9! Super nice doc!<br> :date: __2021-05-07 02:59:50__
-
-> The doctors are lovely, the app layout is clear and it's affordable. I really do feel cared for and heard in every appointment and I'm able to have quick seamless appointments and easy meditation pick up at my pharmacy. I love this app!<br> :date: __2021-05-05 16:24:59__
-
-> Always helpful and listen to what you say.<br> :date: __2021-05-05 05:55:13__
-
-> Works great for my purposes (BC)<br> :date: __2021-05-03 18:41:04__
-
-> Very helpful great Drs<br> :date: __2021-05-03 18:31:57__
-
-> Every experience I've had using 98point6 has been very quick and helpful, and the physicians have been friendly and personable. I have used the app to get a prescription for nasal spray as well as anxiety medication. Definitely beats going to Urgent Care or a Primary Care doctor. As a Type 1 Diabetic, I already have so many appointments throughout the year. It is a relief to be able to handle some visits over the phone at home through 98point6.<br> :date: __2021-05-01 20:38:18__
-
 
 
 #### 4-star reviews
@@ -218,6 +218,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 4 reviews"/>
 </p>
+
+> Great for simple issues<br> :date: __2021-05-14 01:47:21__
 
 > Quick and easy. The doctors are detailed in their questions.<br> :date: __2021-05-06 12:46:24__
 
@@ -236,8 +238,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Very good<br> :date: __2021-01-05 11:50:15__
 
 > Prompt and helpful and i didn't have to leave home.<br> :date: __2020-12-26 07:56:30__
-
-> Very easy to use and got a quick response from a doctor about my wrist pain. She was able to diagnose the issue and recommend next steps.<br> :date: __2020-12-18 02:13:02__
 
 
 
@@ -303,6 +303,10 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> Useless app. How can you possible do medical checks by texting? The doctor told me to go to a real doctor's office for treatment. Waste of my time.<br> :date: __2021-05-19 20:49:27__
+
+> They always tell me to go see my regular doctor. Waste of time.<br> :date: __2021-05-14 02:12:47__
+
 > No care dr. Didn't want to help just told me to go to urgent care. I explained no money for copay and no way to get there and she didn't act interested. They say that they are concerned about there patients care. You can say that you care but the actions of the physician says different. If this is there idea of care they need to rethink what care is and what is acceptable. if they think this is acceptable then I worry about others that use this site. No one reached out to me that is not true.<br> :date: __2021-05-12 05:42:34__
 
 > Absolutely useless, I've had 2 appointments and both times they told me to go to a doctor for just routine illness. What is the reason to use this app if they just tell you to go in person everytime? The whole point is trying to avoid going in public while ill but apparently they don't understand that.<br> :date: __2021-04-29 16:22:05__
@@ -318,9 +322,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Didn't let me get a personal plan app failed from there<br> :date: __2021-03-18 08:33:08__
 
 > This service is a joke. Happy to take your money and direct you to a real doctor for a real assessment. Wish I had thought of this business model.<br> :date: __2021-03-16 16:40:18__
-
-> Useless have earache and congestion told cant help me<br> :date: __2021-03-13 17:49:44__
-
-> Not good<br> :date: __2021-03-01 01:17:03__
 
 

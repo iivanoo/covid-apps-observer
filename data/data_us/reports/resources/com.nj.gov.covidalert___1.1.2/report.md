@@ -174,6 +174,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 4 reviews"/>
 </p>
 
+> Needs a COVID-19 immunization option and ID<br> :date: __2021-05-18 23:54:52__
+
 > More and more people gets vaccinated; you should add this option to the app, too.<br> :date: __2021-05-03 22:23:34__
 
 > WATTS121353<br> :date: __2021-04-13 22:44:16__
@@ -192,8 +194,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 
 > Optimistic about the potential.<br> :date: __2020-12-12 17:22:21__
 
-> I like that you can take a moment to store daily check ups. SJZ<br> :date: __2020-12-11 19:49:58__
-
 
 
 #### 3-star reviews
@@ -201,6 +201,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 3 reviews"/>
 </p>
+
+> Needs Improvement, when you get your shots, it still asks you if you sick. App, has to give you more then statistics, information on what's going on around the world for medicine people get confused about all the wrong information that different reporters write.<br> :date: __2021-05-17 04:38:56__
 
 > Need immunization stats too. Also where do I report "feeling ok but was in contact with a positive" If the goal is to cut spread YOU NEED THAT OPTION<br> :date: __2021-04-19 14:58:10__
 
@@ -219,8 +221,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > This app needs improvement. When you get an exposure alert it doesn't tell you the date of exposure, just that it was within the past 14 days. So you could already be out of the quarantine period or only need to test and isolate for a few days. Giving the date of exposure seems important.<br> :date: __2021-01-06 00:25:46__
 
 > Rite aid Cov 19 testing<br> :date: __2020-12-13 15:43:07__
-
-> I Certainly can't actually Rate something I just got.<br> :date: __2020-11-18 22:11:50__
 
 
 
@@ -258,6 +258,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 1 reviews"/>
 </p>
 
+> Why would you even install this app ? Why would you want the government to track you ? You shouldn't allow government to have total control over everything you do. It's time for people to wake up and stop being lazy, scared, and crybabies.<br> :date: __2021-05-19 17:33:14__
+
 > It's never updated<br> :date: __2021-05-11 16:44:40__
 
 > Work in ER, around Covid patients constantly. Never alerted once. So there is clearly not enough user base for this app to be effective.<br> :date: __2021-05-08 18:35:53__
@@ -275,7 +277,5 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Doesn't do a damn bit of good, unless you plan to visit NJ<br> :date: __2021-03-23 04:34:59__
 
 > This app is useless to users. I've been close, very close, to at least 5 people who have all gotten Covid, none of them caused any notification to my app. I also know that the contact tracers were only asking if they knew about the app, not to do anything to trigger the positive notifications. I know notifications are on because I get one monthly to remind me it's running, well, got one monthly, I have since uninstalled it because it's useless to me as an end user.<br> :date: __2021-03-21 13:49:38__
-
-> Don't work!! Just useless. Deinstalling.<br> :date: __2021-03-20 22:44:41__
 
 

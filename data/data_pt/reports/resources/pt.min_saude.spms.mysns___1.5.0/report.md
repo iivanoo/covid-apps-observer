@@ -171,7 +171,7 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
-> Bom<br> :date: __2021-05-12 16:35:19__
+> Gosto<br> :date: __2021-05-16 12:35:06__
 
 > Muito burocrática tds os itens deviam estar disponíveis automaticamente sem ter que recorrer assiduamente á chave digital,imagine- se para para o cidadão comum o transtorno.....<br> :date: __2021-04-24 21:46:43__
 
@@ -255,6 +255,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> Funcionou durante algum tempo mudei de telefone e inexplicavelmente deixou de funcionar. Enquanto Funcionou reparei que era muito complicada e pouco amigável para o utilizador no entanto com maior ou menor dificuldade sempre servia. Agora não consigo utilizar.<br> :date: __2021-05-18 23:11:57__
+
 > Sinceramente não compreendo que esta APP não seja compatível com o SO Android mais recente. Há vontade de acompanhar a evolução o que facilita a vida a toda a gente. Mas ela não estando em conformidade vou desinstalá-la.<br> :date: __2021-05-08 21:34:07__
 
 > Não existe opção de acesso pelo facto de o SNS não estar atualizado relativamente ao software a utilizar.<br> :date: __2021-05-03 16:02:37__
@@ -273,8 +275,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > A aplicação direciona sempre para o browser para fazer o login, por isso torna-se inútil instalar.<br> :date: __2020-11-04 14:58:20__
 
-> Muito complicado. Para aceder à minha conta do banco é bem mais fácil e seguro na mesma.<br> :date: __2020-08-30 12:46:29__
-
 
 
 #### 1-star reviews
@@ -282,6 +282,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> Inútil e app desatualizado.<br> :date: __2021-05-19 08:41:10__
 
 > O SNS sugere a instalação da ap MySNS carteira para ter acesso às receitas médicas. Recebi uma mensagem com uma receita que não solicitei, Instalei a ap, mas não está lá receita nenhuma. Fui ao computador e entrei com o cartão de cidadão, também não está nada<br> :date: __2021-05-13 15:43:25__
 
@@ -300,7 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Perdi tudo do sns e nao da para recuperar<br> :date: __2021-04-17 13:00:01__
 
 > As dificuldades em entrar, encontrar o que queremos. É muita coisa e pouca funciona na perfeição.<br> :date: __2021-04-13 18:27:28__
-
-> Não funciona<br> :date: __2021-04-13 01:34:48__
 
 

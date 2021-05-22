@@ -182,6 +182,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> App is so-so. For some reason it stopped checking data back in February (three months ago) without notifying me. Going to uninstall and reinstall to reset it. Regardless, it should notify every few days if the last check exceeds two weeks.<br> :date: __2021-05-21 23:56:28__
+
+> Even though the app does it's intended job, there is a serious flaw in the fact that most of the people that I've introduced this app to, have said that it is useless. People don't understand the value of self reporting that well. A better approach is if the app presented some updated infection numbers and link to the Local Health Department Vaccine Information website and vaccines.gov to entice people to install this app as their one stop shop for COVID information and vaccination in order to make reporting a no brainer rather than something people have to be cognizant about independently.<br> :date: __2021-05-16 04:51:51__
+
 > It seems that the app stops working at times. I have had to uninstall and reinstall it now three times. I look at it daily to see if I've encountered anybody with covid and three times I have looked at it and the last notification was days before. So I have had up to four or five days when it did not update. Of course this happened while I was with somebody who I found out had covid so I was not notified by the app.<br> :date: __2021-05-13 12:15:41__
 
 > More tools for the Vaccine! The app is great but is lacking major portions that should be on the subject of "Vaccinations". Such as locations for Detroit residents. Information on the various vaccines available & where. A Q & A section on possible vaccine info to help stop forms of "vaccine hesitency"<br> :date: __2021-05-02 22:22:13__
@@ -197,10 +201,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Old information<br> :date: __2021-01-26 12:54:59__
 
 > Might work but having to call in to get a PIN is way too much effort. Literally nobody has time for that<br> :date: __2021-01-21 17:15:25__
-
-> How do you update?..hasn't worked since the 17 Jan 2021.<br> :date: __2021-01-21 13:03:49__
-
-> No notifications??? I worked in a hospital filled with COVID patients during an outbreak. Maybe none of them had this app installed. This app is an amazing concept. I apperciate the anonymity. I will continue to recommend this app to others!<br> :date: __2021-01-14 13:15:04__
 
 
 
@@ -238,24 +238,24 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Hail Whitless, can't wait until she's voted out<br> :date: __2021-05-21 00:45:12__
+
+> Stops checking for exposure and doesn't start again. Yes, I've fixed all the settings.<br> :date: __2021-05-20 15:02:27__
+
+> Stopped checking back in February. Luckily I am now fully vaccinated.<br> :date: __2021-05-19 20:05:56__
+
+> App not checking exposure since 3rd April. I have the latest version of the app with battery optimization turned off.<br> :date: __2021-05-18 23:25:55__
+
+> Just another big brother app. Whitmer has lost her mind right along with every other democrat. B.iggest I.diot D.emocrats E.ver N.ominated Way to screw the world over with your ignorance.<br> :date: __2021-05-18 22:55:12__
+
+> Last exposure check was 2/9/21 and it now May 16.<br> :date: __2021-05-16 19:30:21__
+
+> I have deleted and reinstalled the app several times. I had it set to run in the background, to never sleep, and it still won't update the last time it checked for exposure; it's been weeks. Instead of blaming everyone's problems on their phones or settings, how about taking ownership and just fixing the app? You know multiple people with different phones have the same issues...FIX IT.<br> :date: __2021-05-15 19:40:15__
+
+> I checked the app and it hadn't updated its info since March 14th (I checked early May).<br> :date: __2021-05-15 07:44:56__
+
+> Doesnt track common cold and social delinquents. How is dictator Whitless suppose to monitor undesireables and political opponents with this?<br> :date: __2021-05-14 16:24:12__
+
 > Can't get a pin even tho one was requested. Unable to use this app without pinpp<br> :date: __2021-05-12 01:55:45__
-
-> Mine hasnt checked for exposures since march 30. I deleted and reinstalled but it didnt help. This makes the app pretty useless.<br> :date: __2021-05-11 22:15:35__
-
-> I wish it worked better, but no one uses it. I've had this for 5 months now and it's not telling me nothing even though I know people have Covid due to the area's I work at. 😑<br> :date: __2021-05-11 20:33:21__
-
-> Flu tracker<br> :date: __2021-05-10 22:35:10__
-
-> March 11, been other place since March 11<br> :date: __2021-05-10 22:17:50__
-
-> my other phone, which is an iphone, has ios 12. why is the Michigan covid alert ios 13.7 and up? you should be able to get it on ios 12 devices.<br> :date: __2021-05-10 14:23:33__
-
-> Just isn't useful at all<br> :date: __2021-05-10 01:16:03__
-
-> I checked the app and the last update was 12 days ago. What good is that? I did make sure that the app is not sleeping in settings. Update: removed and reinstalled app, worked for a few days. Last update was 4 days ago. Total waste of our tax money. These people should feel guilty talking public money for this trash. FYI, I have version 1.3 UPDATE, FYI it's now been 25 days and still no update. I did everything they asked. GIVE THE MONEY BACK!! 5/7/21 update. STILL DOESN'T UPDATE, TRASH!<br> :date: __2021-05-07 17:22:54__
-
-> Last checked for exposures back in March and it is now May. I see absolutely no point in having my phone put out info if it's not going to work.<br> :date: __2021-05-04 20:05:21__
-
-> App hasn't checked for exposures since middle of March. No way to even manually force a check.<br> :date: __2021-05-04 03:31:49__
 
 

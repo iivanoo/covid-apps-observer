@@ -243,6 +243,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covid19 2 reviews"/>
 </p>
 
+> Thanks to covid, father, the Vic Police Ringwood and the Au government I'm now nothing, thanks a lot. My death is all on your heads and I can't do this any more. Keep kicking me while I'm down when I'm unwell and did nothing wrong. I'm now shattered, disgusted and broken. Nothing left :(<br> :date: __2021-05-22 01:20:17__
+
 > 3rd app installed, I hope this check in works<br> :date: __2021-02-06 04:14:58__
 
 > This app works however the information shown in it is no longer being updated daily nor is the information on numbers as detailed as it once was. I write this review on 3rd Jan, the CoVid numbers shown on the app were last updated 21st Dec. Pretty worthless if you can't rely on it to show up to date information.<br> :date: __2021-01-03 04:57:49__
@@ -260,8 +262,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Release the source code of both client and server and more of us will install this app... It looks like the app generates and uploads a private/public key pair and uploads one or the other to a central server and associates it directly to a user, other users when testing positive can upload their contact history to the server and matches that data to details of other users they came into contact with directly implicating the contacts, private user data should not be uploaded without consent.<br> :date: __2020-05-04 12:39:48__
 
 > Confusing<br> :date: __2020-05-04 09:43:14__
-
-> Will not download on my phone<br> :date: __2020-05-01 08:18:24__
 
 
 

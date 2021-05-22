@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> If it helps, why not<br> :date: __2021-05-21 07:56:33__
+
+> No problems.<br> :date: __2021-05-21 04:13:16__
+
+> More people should download this. It's for a good cause.<br> :date: __2021-05-19 20:31:07__
+
+> What's not to like. Leave it calculating when charging and you are helping the world.<br> :date: __2021-05-19 07:51:57__
+
+> Wonderful way to do good while you sleep!<br> :date: __2021-05-18 06:20:44__
+
+> It just works. What else is there to say!😀<br> :date: __2021-05-17 18:39:54__
+
+> Practical, real-world use<br> :date: __2021-05-16 14:35:21__
+
+> Great to be able to contribute in a small way. But the %age completed doesn't update automatically on my phone.<br> :date: __2021-05-16 11:54:14__
+
+> Great app and great initiative Vodafone!<br> :date: __2021-05-14 07:54:36__
+
 > Good<br> :date: __2021-05-11 14:31:18__
-
-> Simple and easy, but you're making a contribution, recommend.<br> :date: __2021-05-10 15:13:27__
-
-> Much as I would love to keep using the app. It just heats up my phone too much when charging. It's not really that hot but my phone has never gotten that hot before........:/ Also for some reason it's messing up my phone charging......<br> :date: __2021-05-10 01:10:28__
-
-> Love the fact that my tablet is helping out finding a cure for Covid-19 while sitting idle<br> :date: __2021-05-09 08:41:46__
-
-> I think it's fantastic, it's powered when I'm asleep and my tablet is fully charged when I wake up<br> :date: __2021-05-07 19:53:59__
-
-> Would be nice if i could choose my own download limit!!<br> :date: __2021-05-07 18:18:49__
-
-> Excellent idea, easy to use.<br> :date: __2021-05-06 10:55:43__
-
-> I charge my phone overnight and haven't encountered any problems. Glad to be of some small help with the research. Such a fantastic idea!<br> :date: __2021-05-05 16:40:49__
-
-> What's not to love? Simple to use app that works while you're asleep. It has feelgood all over it. Plug your phone in, connected to wifi & let it run overnight. Recently reading newer reviews of the app not working, now I am no boffin by any means, but my take on this could be some calculations might be tougher or longer time needed to complete. Edit: Have today just updated my phone and reinstall the app, but sadly lost all my calculations since 2018.I wonder if there's a way to log back in<br> :date: __2021-05-04 09:16:08__
-
-> Excellent app<br> :date: __2021-05-02 04:17:27__
 
 
 
@@ -182,6 +182,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Sometimes the number of calculations is zero. Uninstalling and reinstalling usually works. Otherwise worthwhile app.<br> :date: __2021-05-20 10:08:34__
+
+> Sometimes, the news doesn't update unless I uninstall Dreamlab and then reinstall Dreamlab. After reinstalling Dreamlab, I see the news updated. I did it before but as of right now, the most recent Dreamlab app news was on 15 December 2020.<br> :date: __2021-05-14 07:53:33__
 
 > WARNING: You would have to literally drain your phone's battery down to 0 percent, if running DreamLab continuously for awhile makes the phone start going into the Usage-Optimisation ('Go Straight to Gaol') mode.<br> :date: __2021-05-10 06:48:02__
 
@@ -199,10 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Works away on my phone overright while charging. If, as occassionally happens the phone gets too hot, it takes a break till the phone cools down. Good for me<br> :date: __2021-03-22 12:32:11__
 
-> This app is a fantastic idea, but I wish it would start automatically, rather than replying on me switching it on each night. Sadly, I often forget.<br> :date: __2021-03-21 18:20:01__
-
-> a great way to help the fight when you can't donate money or time. Love the idea of the app, only problem is that the app doesn't always automatically turn on when on charge and hits 80%.<br> :date: __2021-03-19 13:56:20__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> Seems to resort back to the covid 2 project but hasnt completed any calcs in the last few months (Amazon Fire left on charge). Selection of other projects seems to get overwritten. Uninstalled, sorry.<br> :date: __2021-05-18 19:46:21__
+
+> Great app & concept. Recently doesn't seem to work. Can run all night and not do a single calculation. Has been that way for a couple months now.<br> :date: __2021-05-14 09:26:55__
 
 > It's a fantastic concept. But for all the hours I ran the app I got 3 calculations done in 20 hours I think. I don't feel I'm contributing, more than I'm just destroying the life of my phone.<br> :date: __2021-05-11 01:05:22__
 
@@ -227,10 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Great idea but the app is not open source, would be great to see it in github and let this app driven by the community<br> :date: __2021-03-25 11:56:00__
 
-> Because politicians have used certain issues inappropriately, there are certain analyses I do not wish to participate in. Over time this application automatically switches away from analyses I feel are more important to those which are more politically appraised.<br> :date: __2021-03-17 17:47:10__
-
-> Good app with great intentions. The problem is that the program I chose keeps getting switched for another program which I do not wish to support. All. Trying to do is support coronavirus research and the app keeps trying to make me support hyperfoods which is suspiciously run in the UK. Stop switching it automatically.<br> :date: __2021-03-16 00:48:21__
-
 
 
 #### 2-star reviews
@@ -238,6 +238,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
+
+> Reset my phone and 29k solved gone. This app needs an account you can log into so you can store your progress at least.<br> :date: __2021-05-20 05:47:23__
+
+> I think it's a good app and I have supported it for 3-4 years but I was disappointed when I changed my phone twice now and just recently and I lost all the calculations I contributed all over this time AGAIN and they were not forwarded onto my new phone which had the same number which amounted to thousands! This is most annoying and as Dreamlab are obviously NOT concerned and are not gratefull so I am now abandoning your projects. Goodbye.<br> :date: __2021-05-17 07:54:54__
 
 > It's a shame that a lot of bothersome issues are still present after such a long time. Suggestions: 1. Better tracking of contributions, possibly user-based and with highscore lists (compare Folding) across multiple devices, which motivates additionally. 2. The app is still hardly usable on some devices. LG G8S gets so hot after a few seconds that most mornings show me not a single completed calculation. Just give us an opportunity to run the calculations at 50% of CPU power to avoid this.<br> :date: __2021-05-10 11:19:23__
 
@@ -255,10 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > You are trying to download the free ringtones for my phone but it won't let you<br> :date: __2021-02-20 06:33:56__
 
-> Not working all the time<br> :date: __2021-01-30 13:13:44__
-
-> Unfortunately after consistant use of the app for a worthy cause, the battery life on my new Samsing S10 no longer lasts day even with minimal interaction. Will have to purchase a new phone.<br> :date: __2021-01-24 19:30:38__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> The App came pre installed. It's supposedly using my phone to tackle Covid whilst on charge. It seemed petty to uninstall. I was not aware that the App served any other function. I don't appreciate the little 'Well done' messages. They come over as being a bit patronising, considering that I am not actually doing anything. My self esteem isn't that low, yet 😄<br> :date: __2021-05-17 09:19:17__
+
+> I installed and ran DreamLab with my phone a Moto G6, running Android 9, switched on and charging. Doing this caused my phone's battery to overheat, expand and force the back off of the phone. Was I supposed to switch the phone off and leave the app running in the background, or unplug the phone and leave it switched on?<br> :date: __2021-05-17 00:15:47__
 
 > Infringement.<br> :date: __2021-04-28 17:54:55__
 
@@ -282,9 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Used it for a few years. Was a good app. Then for 2 months in a row it claimed I'd used all my data allocation on the first day. Uninstalled and reinstalled and was considered a new user.<br> :date: __2021-03-05 12:20:49__
 
 > Stop and start, changes what youve sekected rubbish<br> :date: __2021-02-26 01:19:42__
-
-> This app will damage your phone's battery. I've been using it for months now but have steadily noticed that my phone is not lasting a full day anymore, initially blamed my usage but it was suggested to me that the app may be the cause. I checked in with others who I encouraged to also download this app and they have had the same issue. I uninstalled several days ago and my battery life has not improved so it appears to be permanent. I now feel responsible for damaging mine and my friends phones.<br> :date: __2021-02-17 11:29:24__
-
-> After having used this app religiously for many years without any problems. They now change your selected project to coronavirus against your will or knowledge. It doesn't matter what project you select. They will secretly change it to coronavirus. I have now deleted this app as I find it unethical.<br> :date: __2021-02-05 04:35:19__
 
 

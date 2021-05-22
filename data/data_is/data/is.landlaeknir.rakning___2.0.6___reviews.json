@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOE54SCB1nASsqTGUXNvgL14xsxNdFxwY4oeDL1sX0aMOnpTti8ZFi6HEhzqDDhPs0byvcxF5TSTsPXfe3s",
+        "userName": "\u00c1str\u00fan \u00d3sk \u00c1st\u00fe\u00f3rsd\u00f3ttir",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxRPy76ur_qJaIYHJ6t30OUBI1wUTKCSCREGROS=mo",
+        "content": "Virkar samkv\u00e6mt. fr\u00e9ttunum",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.6",
+        "at": "2021-05-17 23:42:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG9D3yVApoAoa5kZfXo3-OxVVBGggXfdrrYV8DfYlU0cJ7CJcHQscXDBlqn9c8jmpVQO8QnLPs4i8-VVF4",
+        "userName": "\u00c1sa J\u00fal\u00eda",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhH8Ecr--jO7lJ3nOLriUxFZxegsLPpi4Evy2ZJ",
+        "content": "Bjargar mansl\u00edfum",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.0.6",
+        "at": "2021-05-15 18:56:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGDInxc-VBdI1eF8tXJk_nQywAGEiIsk4-kYKV7mfsJOZaZ3Tz0WDk5FMoa-Gwx3LY_hBHHk4ES7oKxp2k",
         "userName": "Gisli Mar Gislason",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxrNJafAd8Iw_fUH_nWHXHvUPQPcRsnQptYpA9-=mo",
@@ -89,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKC6_2dwdtrOkxdQnms_F9CxI7GktD3_FVuxbb=mo",
         "content": "\u00dea\u00f0 lokast sj\u00e1lfkrafa \u00e1 ca. 2 til 3 d\u00f6gum og ma\u00f0ur \u00fearf a\u00f0 fara aftur inn\u00ed forriti\u00f0 til a\u00f0 opna \u00fea\u00f0 aftur. Og ekki n\u00f3g me\u00f0 \u00fea\u00f0 a\u00f0 ma\u00f0ur er alltaf me\u00f0 s\u00edman \u00ed hle\u00f0slu. Margt sem m\u00e1 laga.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.1.2",
         "at": "2020-11-20 13:08:26",
         "replyContent": null,

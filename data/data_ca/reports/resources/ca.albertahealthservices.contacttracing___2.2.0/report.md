@@ -146,6 +146,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> Love the stats you can view as they r updated daily.<br> :date: __2021-05-14 17:47:55__
+
+> Very good app.<br> :date: __2021-05-13 21:18:22__
+
 > I feel safer knowing I have this app.<br> :date: __2021-05-13 07:50:59__
 
 > Will only work if everybody installs the app.<br> :date: __2021-05-11 20:12:30__
@@ -161,10 +165,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Fantastic improvements on the battery life. Great application to track everything and one source for updates. Thank You Government of Alberta.<br> :date: __2021-04-16 15:46:13__
 
 > I didn't catch covid.<br> :date: __2021-03-25 06:41:38__
-
-> I believe in anything created by our saviour Jason "the king" Kenny. May this app save Alberta from economic ruin.<br> :date: __2021-01-01 07:29:58__
-
-> It tells you where the cases are<br> :date: __2020-12-22 18:04:21__
 
 
 
@@ -202,6 +202,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> N/A<br> :date: __2021-05-15 22:19:33__
+
 > No concerns seems to work<br> :date: __2021-05-11 17:05:27__
 
 > Cannot tell if it is working or not. There are updates but very passive notifications.<br> :date: __2021-05-11 01:40:57__
@@ -220,8 +222,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > Huge drain on battery esp after first installing and after installing a recent update update. After first install it sorted itself out after about a week. Hope it does the same after this update (it is draining my battery completely after a few hours and normally I can go all day without dropping below 40 per cent). Great idea just needs to be optimized a bit more.<br> :date: __2020-10-08 06:33:13__
 
-> I'm tired of being asked if I'm ok. Why am I asked multiple times a day? Is it because I'm around or could have contact exposure? Asking me multiple times a day is causing me anxiety.<br> :date: __2020-10-07 15:17:15__
-
 
 
 #### 2-star reviews
@@ -230,13 +230,17 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
 
+> While it is Easy to install and no noticeable battery drain ... The low uptake makes it useless. The govt sucked at the rollout. Shame on you<br> :date: __2021-05-20 01:33:18__
+
+> I have yet to receive an alert, although I have had the app up and running for over a year.<br> :date: __2021-05-18 20:32:03__
+
+> 2.1 update (late April) used about 48% of my battery, prompting a premature battery drain warning. I wish AB and BC would set asside the NIH syndrome, and just enable the federal contact tracing app (which I have installed, but is usless to me unless I encounter somebody from outside AB and BC). Update: 2.2 update (May 15) seems to use 1/8th the power. Hard to tell because previous release destroyed my battery from deep discharge cyles (swelling syptoms; new battery installed day after update).<br> :date: __2021-05-18 08:45:16__
+
 > This app should be linked with the Canada wide Covid app.<br> :date: __2021-05-13 16:29:03__
 
 > Battery usage went from less than 5% to 35% with the new update. Unacceptable, had to delete app.<br> :date: __2021-05-01 05:11:38__
 
 > With this software installed, my phone will be dead by morning, every night. This has been my experience- nearly every morning this past month I have missed my alarms from my phone because even on a full charge at the time i go to sleep, it will have expired by the time i want to get up. I never was exposed to covid in the duration that I had this software installed, so i can't attest to its functionality, other than that it consumed a lot of resources on my phone such that i had to remove it.<br> :date: __2021-04-27 18:20:46__
-
-> New update uses about 48% of my battery, prompting a premature battery drain warning. I wish AB and BC would set asside the NIH syndrome, and just enable the federal contact tracing app (which I have installed, but is usless to me unless I encounter somebody from outside AB and BC. Edit: Reinstalling the app approximately doubled the run-time, but it still uses more power than any other app on my phone: including the federal contact tracing app.<br> :date: __2021-04-24 09:05:43__
 
 > Recent changes made my battery life worst. Background battery usage jumped dramatically where it would drain battery overnight while I sleep. This was not happening in past. In my opinion I think the new additions from last update are causing drain. Maybe it is constantly hitting servers to grab statistics.<br> :date: __2021-04-18 18:34:09__
 
@@ -246,10 +250,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > The app keeps asking me to restart my phone. I have done so at least five times now. That notification is very annoying.<br> :date: __2020-12-28 21:48:46__
 
-> Ok not great<br> :date: __2020-11-19 22:23:04__
-
-> As others have said, it's like the federal government app but worse. They should just make both available to Albertans and let us decide. My choice would be easy.<br> :date: __2020-11-11 23:44:19__
-
 
 
 #### 1-star reviews
@@ -258,24 +258,24 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> The app is the shats. Get people who know how to do it right.<br> :date: __2021-05-20 21:37:30__
+
+> Drained battery, when I uploadedy data after catching Covid no one got an alert. Does not work.<br> :date: __2021-05-20 21:18:06__
+
+> Um, this thing has never notified me and I've been in contact with several Covid cases. 4 tests and lucky so far, but not because of this app.<br> :date: __2021-05-18 02:22:59__
+
+> It has never even been used for information. Totally useless. I didnt intend to give it a star I just can't remove it from when I finger brushed against it.<br> :date: __2021-05-14 19:35:56__
+
+> I will not leave my location on due to battery usage. I was an advocate of this app until this last update.<br> :date: __2021-05-14 07:32:27__
+
+> Doesn't work.<br> :date: __2021-05-14 06:57:32__
+
+> Haven't been able to get the app to do anything. If it is operating correctly it hasn't told me I have been in contact with a Covid positive person, even though I know that I have. Waste of phone memory. The email address you have given for support also doesn't work.<br> :date: __2021-05-14 03:15:10__
+
+> Can't upgrade<br> :date: __2021-05-13 22:56:51__
+
 > This app requires more updating than any other app I've ever downloaded, and when it requires an update it stops everything on my phone. Not worth it. Figure out what your doing with the app.<br> :date: __2021-05-13 12:16:35__
 
 > Kept it on only because it was self sufficient. It's a useless piece of garbage. Given that the Alberta government was never really interested in actually tracing, I'm not surprised. Garbage app from a garbage government.<br> :date: __2021-05-13 06:34:02__
-
-> Constantly turning off which defeats the point of the app<br> :date: __2021-05-09 18:02:58__
-
-> Hey why not use what the rest of Canada is using?! Tell your MP their stubbornness is killing Albertans! This waste of taxpayer $$ can't be salvaged but they should still authorize the federal app! Meantime you can download that one anyways - it works if you sign in as a different province like SK.<br> :date: __2021-05-08 23:48:28__
-
-> FIX THIS NOW! App just told me I needed to UPDATE BUT Only because I accidentally clicked the icon. (strike 1) It has gone from using maybe 2-3% battery in a day to that in an hour! (strike 2 & 3) My phone went from 100% to 80% in 2 hours of just sitting there and looking at the battery usage this app was nearly 6%! Compare that to the play store app and the same time frame was 1%.<br> :date: __2021-05-05 17:51:26__
-
-> Unusable after the most recent update. Crashes if Bluetooth is enabled. Can't even tell if it's running, or just killing my battery with constant app crashes and restarts. I've tried everything. After it's set up with my phone number, I can never open the app again, it just sits forever on a blank screen. I'd love to do my part and help the contract tracers, but this app is not the solution it should have been. Uninstalling again. I'll try again after the next update.<br> :date: __2021-05-04 23:48:31__
-
-> Never ever have i had an alert. Is this thing on?<br> :date: __2021-05-03 17:40:01__
-
-> this app is garbage<br> :date: __2021-05-01 22:43:20__
-
-> I don't understand how this app is supposed to stop the spread of covid?? what exactly is the app supposed to do?<br> :date: __2021-05-01 07:54:08__
-
-> Excessive battery drain.<br> :date: __2021-04-30 16:43:09__
 
 

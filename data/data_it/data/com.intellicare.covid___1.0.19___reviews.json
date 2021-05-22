@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOFSRep2tCZ2SXZJxJ-eUCzpRD4P4Gg_wLNQpXInR8ZXCEfCzGcrDVkltRISgnB1yFKiBZVZKRYjp1uw0Q",
+        "userName": "Mario Smocovich",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiXmuXsITVJd_ob-eRc0fd4NrMpxTL6NPaWqGCYfg",
+        "content": "Ottima",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.19",
+        "at": "2021-05-19 19:42:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFtla77jUhbWao0FQ207RnfSRFvKSli_BcmV0SvrBDSdQyrn2lUNai2Hndp0TwOmg9n46uAM4kPOT-8mw",
+        "userName": "Rosamaria Appicelli",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giv51yn9h-j_NI_t5wOESW53NidcrQqxJ6l2axm",
+        "content": "Da migliorare: lenta nel caricamento dei dati e altri dettagli",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.19",
+        "at": "2021-05-17 16:57:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHahIZlwmCnN1j5OvEPAg441501n-XSYGlVihLKnkYsq7kkxoUDlopyvyyUZ0D_AFlbZR2ZGJ1z7-bq_w",
+        "userName": "Gidasu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj48skZy7nu849vzKcitD5jKyVVRnEpqTOy3dVoEQ",
+        "content": "Ottimo servizio, sempre gentili e disponibili",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.19",
+        "at": "2021-05-16 14:17:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF2UjPoEULvYPNrzEF-x9_9FkbFMrg0Ce_pFsVNsnQ9i5eLVqG4vVB-Gw58XILp348Go9WDRn86NPpd1w",
         "userName": "Carlo Argentato",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw5djgz1BTuedRtW9Jx0QvvdTMxgV-TU4RBVG7Q=mo",
@@ -53,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihMoz52wKQ0vY0OhS24LCPSzoiOet0JqJKMPpuhEk",
         "content": "Indecente. SMS che non arriva mai. Poi riesci a fartelo spedire ma sorpresa l'attivazione non \u00e8 riuscita. Una delle solite prese in giro..",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.0.19",
         "at": "2021-04-17 16:30:44",
         "replyContent": null,
@@ -77,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihR9cw4hm4Wq2gR-rv9y2BCINBwo9dHhqKNzyLEQ",
         "content": "Applicazione molto semplice e di grande aiuto . Finalmente nessuna attesa di svariati infiniti minuti per poter informare chi di competenza su propri stati di salute causa Covid 19. Dopo aver inviato i campi richiesti, la risposta asl, \u00e8 pressoch\u00e9 immediata.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.0.19",
         "at": "2021-04-04 18:20:47",
         "replyContent": null,
@@ -3758,7 +3794,7 @@
     {
         "reviewId": "gp:AOqpTOH0M-rwXAYOng5NpbGeXQZyqoH6dYOCd2nA4t52nqcYvny2AwLcmaPgzTo40lm8dbdC14tLoQJcEfm88w",
         "userName": "Andrea Romano",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNpZlrDQetKURnmNX-dGYseUMgzqjedU471n8tgrI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjL86mQYeiKOCJ1CN8ChqYIsBLkqwrwiOa41lY1bNg",
         "content": "Eccezionale",
         "score": 5,
         "thumbsUpCount": 1,
@@ -5366,7 +5402,7 @@
     {
         "reviewId": "gp:AOqpTOHWARLQ95184dAyNES8l90nac21vPrXKNEj1ZDja77DBOd6WK9Q0bE4Z70RY2jI8oE0aXwWfRfwBEsGoQ",
         "userName": "Marco Morasca",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_zYSF2yH4tzdYuKy23QXZZgxCP4sz8OyjMGbwbQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4vc5wCmAaTU2PJ6cUGjDUrOylJvebBXS6SRV9hZk",
         "content": "Ottima idea",
         "score": 5,
         "thumbsUpCount": 1,
