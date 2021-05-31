@@ -137,6 +137,12 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Manuel António Ribeiro de Oliveira<br> :date: __2021-05-29 20:32:28__
+
+> Muito bom deteta mesmo o covid !<br> :date: __2021-05-27 23:29:47__
+
+> Estao a fazer um otimo trabalho grata parabens<br> :date: __2021-05-23 15:43:29__
+
 > Muito bom aconselho<br> :date: __2021-05-20 08:59:08__
 
 > Sem experiencia, espero que seja util,obrigado.<br> :date: __2021-05-19 10:12:25__
@@ -151,12 +157,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > AMEI, ÓTIMO TRABALHO, COMO SEMPRE!<br> :date: __2021-05-02 15:13:32__
 
-> Muito diverte-t lá<br> :date: __2021-04-29 21:50:38__
-
-> Nao sei mas andam muitos por todo lado<br> :date: __2021-04-28 19:46:17__
-
-> Sérgio baranita Soares<br> :date: __2021-04-28 14:35:36__
-
 
 
 #### 4-star reviews
@@ -164,6 +164,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 4 reviews"/>
 </p>
+
+> A APP é boa mas como a APP sabe que temos covid ?<br> :date: __2021-05-28 23:02:05__
 
 > Gosto desta aplicaçao. Funciona bem e assim andamos sempre atualizados.<br> :date: __2021-04-29 15:05:31__
 
@@ -183,8 +185,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Tenho a dizer que não compreendo a razão de recomendar está aplicacao...pois infelizmente tenho várias pessoas que conheço que apanharam o maldito vírus....e nunca recebi qualquer notificação....portanto há qualquer coisa mal escalarecida na transparência dos dados...quem é o responsável. Doente ou médico...nao sei...mas alguém está a falhar....e ainda por cima está aplicacao foi tão recomendada pelo antonio costa...conclusao...mais uma areia atirada aos olhos daqueles que sofrem diariamente.<br> :date: __2021-02-05 16:03:20__
 
-> Boa<br> :date: __2021-02-04 15:18:41__
-
 
 
 #### 3-star reviews
@@ -192,6 +192,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
+
+> Falta reunir nesta mesma app, mais dados como: número utente sns e cartão europeu de saúde, relatórios da situação epidemiológica nacional e local, medidas especiais por niveis de combate por local, números nacionais de doses de vacinas administradas, agendamento pessoal da vacinação, agendamento e resultados de testes de despistagem, períodos de quarentena, número de dias imune após Contágio ou Vacinação, Declaraçao Pessoal de Recusa de Vacinação, Certificado Digital Verde de Vacinação<br> :date: __2021-05-27 01:56:51__
 
 > Esperava mais comentários engraçados 😔<br> :date: __2021-04-27 01:08:27__
 
@@ -211,8 +213,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Estão sempre a pedir para eu ter a ligada mas não tenho pois se estou m casa para quê ter sempre ligada?....<br> :date: __2021-02-12 03:17:19__
 
-> Já estive perto de dezenas de pessoas infectadas, e mesmo cumprindo as exigências da APP nunca recebi um alerta. Têm de dar importância à aplicação, todos deveriam ter a APP instalada e todos deveriam assinalar quando positivos, senão é inútil!<br> :date: __2021-02-09 09:36:14__
-
 
 
 #### 2-star reviews
@@ -220,6 +220,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
+
+> Oi k ll l oi Lu ipij o oii iIijkoi li lio oi i foi um kmi uu LLL ui8iio uu Ju mi i deo kkkk iol oii Ju i il bki Ju oii BB ioo Ju PPP oi i lkkkk um iii okoi u uu imunekk PPP oikkm mil mi i IP ooi<br> :date: __2021-05-28 19:18:44__
 
 > Esta aplicação está sempre a desativar sozinha<br> :date: __2021-05-03 10:26:46__
 
@@ -239,8 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Aplicação inútil quando se é das poucas pessoas a utilizá-la... falta de conhecimento sobre o funcionamento da aplicação faz com que as pessoas não a utilizem, porque sentem "a sua privacidade a ser invadida". Apesar de os seus dados estarem a ser partilhados noutras aplicações. A única crítica que tenho a cerca da aplicação é que devia ter uma aba onde mostrasse as restrições actuais o que se pode e o que não se pode fazer.<br> :date: __2021-02-12 14:24:11__
 
-> Deveria ser a entidade que confirma que a pessoa está infectada a adicionar essa informação à aplicação (automaticamente) e não os utilizadores! Deste modo a aplicação nunca terá benefícios práticos!!!<br> :date: __2021-02-10 22:18:45__
-
 
 
 #### 1-star reviews
@@ -248,6 +248,16 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
+
+> Nao vale nada, para dar dinheiro a alguem.<br> :date: __2021-05-29 09:11:51__
+
+> A aplicação mais inútil que já tive...<br> :date: __2021-05-29 00:08:53__
+
+> Um lixo, isto não devia existir<br> :date: __2021-05-28 11:15:29__
+
+> Não serve para nada. Só gasta bateria...<br> :date: __2021-05-25 00:49:44__
+
+> Simplesmente lixo, não serve para nada.<br> :date: __2021-05-22 19:12:21__
 
 > De que serve ter a APP instalada se a maior parte dos laboratórios não emite código em casos positivos???? Tenho conhecimento de vários casos positivos, em que nenhum código foi emitido para as pessoas colocarem na APP e, essas pessoas, usam a APP desde que saiu..<br> :date: __2021-05-21 14:44:15__
 
@@ -258,15 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Tão útil como quem a mandou fazer<br> :date: __2021-05-16 01:07:55__
 
 > Que vergonha não queiram fazer testes unitários para a próxima....<br> :date: __2021-05-12 12:25:15__
-
-> Não funciona por culpa dos médicos<br> :date: __2021-05-12 11:02:56__
-
-> Tive covid e a polícia parou me e fez me um belo do São do bom e do local broche<br> :date: __2021-05-11 23:31:29__
-
-> Não houve por parte das entidades oficiais, uma campanha séria e informativa sobre a sua eficácia e potencial. Muitos poucos códigos gerados e intruduzidos reforçam a ideia que esta app não serve para nada.<br> :date: __2021-05-11 11:29:54__
-
-> Desinteressante<br> :date: __2021-05-09 17:50:59__
-
-> Lixo<br> :date: __2021-05-08 00:29:20__
 
 

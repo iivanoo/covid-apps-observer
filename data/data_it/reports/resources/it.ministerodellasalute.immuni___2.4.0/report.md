@@ -149,25 +149,25 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 5 reviews"/>
 </p>
 
-> Ottima, ma potreste mettere la possibilità di cambiare tema e scegliete tra quello chiaro e quello scuro per me. Ma comunque per il resto è una ottima app e la consiglio a tutti.<br> :date: __2021-05-21 22:32:52__
+> Davvero Figo, il gioco è progettato molto bene, i boss sono ben bilanciati e credo che alla fine si arrivi anche senza pagare. Riguardo alla parte "tutorial", diciamo che non è molto chiaro, per circa 3 mesi ho cercato di uscire di casa ma non è andata molto bene dato che i boss più famigerati, i così detti "caramba" mi hanno ucciso e ho dovuto ricominciare tutto da capo... Per il resto il farming è piacevole, game play scorrevole. Tutto sommato un buon gioco ma migliorabile sotto alcuni punti<br> :date: __2021-05-29 19:10:53__
 
-> Una cavolata tremenda non serve a niente<br> :date: __2021-05-19 20:47:34__
+> Mm x.Illy Ss oxho nn gucon oo k kkk<br> :date: __2021-05-29 15:41:01__
 
-> Un'ottima App, la migliore di tutte.<br> :date: __2021-05-18 16:43:44__
+> Molti non lo sanno ma, questa app funziona al 100%, e ti salva la vita, quindi smettetela di lamentarvi e ringraziate il cielo che esiste questa app. Grazie.<br> :date: __2021-05-28 20:26:48__
 
-> Sebbene abiti in Piemonte, ho scaricato Immuni il 02/06/2020; ho un Samsung A51, Android 11, app e sistema operativo sempre aggiornati: non ho mai avuto nessun calo di batteria né problemi con l'app. P.s. Immuni serve a trovare gli asintomatici, lo capite? Aiutate il sistema sanitario ed installatela!<br> :date: __2021-05-17 20:12:55__
+> Molto bello nel app immuni quando dovrebbe uscire il grenn pass<br> :date: __2021-05-28 18:16:07__
 
-> Da quando abbiamo scaricato la app abbiamo avuto in famiglia 3 segnalazioni di contatto prolungato con persona positiva al coronavirus; questo ci ha consentito di sottoporci immediatamente a tampone, cosa che non avremmo mai potuto sapere senza questa fantastica app. La consigliamo assolutamente<br> :date: __2021-05-17 19:57:39__
+> Oggi 28 maggio zozipreszo il comune di caraprlle calvisio si effettueranno i vaccini anti covid. Il virus oramai sta morendo lentamente .Alle ore 15:00 ora legale italiana tutti i giovani saranno vaccinati .Io sono vaccinata essendo jna oss ,sevonfo ricjiamo 3 marzo 2021.Ora an he Leila ha la sua dose di vaccino per essetr immune al virus . Ci xono boluti mesi di lavoro ma, ho vinto ancora . Siamo entrambe immuni alle vostre controversie , che volano ,palloncino eolio libero .FINE<br> :date: __2021-05-28 15:37:46__
 
-> Ottima e, per senso civico, consiglio a chiunque.<br> :date: __2021-05-17 12:53:38__
+> Ok<br> :date: __2021-05-28 00:52:34__
 
-> Cercavo un app ciuccia ca\*\**ma questa non è quella che cercavo<br> :date: __2021-05-16 18:36:51__
+> Serve per protergerci<br> :date: __2021-05-27 17:03:18__
 
-> IMPORTANTE!!!<br> :date: __2021-05-16 12:44:30__
+> Funziona! Dopo il risultato del mio tampone ha segnalato alla mia collega che era stata in contatto con un positivo. Lei era già stata avvertita da me, non so cosa avrebbe dovuto fare se l 'incontro non fosse a lei noto... Comunque funziona!<br> :date: __2021-05-27 07:57:50__
 
-> Eccellente bravi<br> :date: __2021-05-14 19:49:56__
+> Eccellente<br> :date: __2021-05-26 22:43:57__
 
-> (ʃƪ＾3＾）(ʃƪ＾3＾）～(つˆДˆ)つ｡☆～(つˆДˆ)つ｡☆～(つˆДˆ)つ｡☆～(つˆДˆ)つ｡☆～(つˆДˆ)つ｡☆🚛(･–･) \(･◡･)/<br> :date: __2021-05-14 11:20:44__
+> Un ottima idea<br> :date: __2021-05-26 22:09:38__
 
 
 
@@ -176,6 +176,16 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 4 reviews"/>
 </p>
+
+> Inutile purtroppo però bella idea<br> :date: __2021-05-29 14:36:29__
+
+> Certi dicono che non segna la positività, ma è ovvio! Se quella persona non ha quell app è palese che non segna<br> :date: __2021-05-28 18:18:11__
+
+> Nobile scopo. Non sempre quando disconnetti il Bluetooth mi chiede se voglio riattivarla e non capisco il perché.<br> :date: __2021-05-26 21:28:46__
+
+> La trovo utile<br> :date: __2021-05-24 08:33:39__
+
+> L'app in sé non è malvagia ma le direttive d'uso date dal governo la hanno resa sostanzialmente inutile. La disinstallo, ma la valutazione resta positiva<br> :date: __2021-05-22 17:31:57__
 
 > L'ho sempre tenuta attiva e quindi penso sia stata efficace, anche se non ho mai ricevuto avvisi di alcun tipo. Chiedo agli sviluppatori: perché non si può integrare l'avvenuta vaccinazione? Sarebbe un bel risparmio di tempo e di soldi.<br> :date: __2021-05-20 07:33:44__
 
@@ -187,16 +197,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Più che altro è se riesce a rintracciare il primo contatto che può non essere avvenuto in famiglia<br> :date: __2021-05-08 13:27:42__
 
-> Autodidatta novità sempre e!<br> :date: __2021-05-07 11:57:32__
-
-> Il Portogallo è un Paese europeo...<br> :date: __2021-05-05 10:54:23__
-
-> Peccato che non sia stata scaricata dalla massa.😪<br> :date: __2021-05-04 18:32:08__
-
-> Enricobonito<br> :date: __2021-05-03 20:26:26__
-
-> L avessero scaricata tutti sarebbe stato meglio<br> :date: __2021-04-30 17:24:40__
-
 
 
 #### 3-star reviews
@@ -204,6 +204,10 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 3 reviews"/>
 </p>
+
+> Perché non inserire il Covid pass Europeo in questa applicazione, in modo da incentivare la sua installazione ed utilizzo? Grazie<br> :date: __2021-05-25 17:52:02__
+
+> Non funziona non si notifica<br> :date: __2021-05-25 16:46:46__
 
 > Si potrebbero inserire i dati sulle proprie vaccinazioni von un promemoria per eventuali richiami<br> :date: __2021-05-20 07:49:31__
 
@@ -221,10 +225,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Gameplay ripetitivo e ci sono poche attività da svolgere, 4/10 Storia completamente assente, fornisce solo un po' di contesto sulla situazione, 2/10 La grafica non è nulla di speciale, ma buona, 7/10<br> :date: __2021-05-09 20:03:34__
 
-> Funziona solo in alcuni paesi europei.<br> :date: __2021-05-08 18:18:36__
-
-> Si Blocca molto spesso<br> :date: __2021-05-07 15:04:01__
-
 
 
 #### 2-star reviews
@@ -232,6 +232,10 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 2 reviews"/>
 </p>
+
+> Devo essere disonesto con voi quest app non mi è piaciuta molto, volevo giocare ad un gioco sul calcio appena entro però non c'è nulla che mi fa entrare in una partita. Voglio giocare forza ragasi siuummm<br> :date: __2021-05-28 12:03:23__
+
+> Utilizzata da pochi, non serve a nulla<br> :date: __2021-05-24 06:46:00__
 
 > Più che l'app vorrei recensire il servizio. Siamo d'accordo che per diversi mesi i numeri non hanno consentito il tracciamento, ahimè. Ma ora siamo sotto i 5.000 nuovi casi al giorno a livello nazionale, e sotto i 50 casi per 100.000 abitanti a settimana in diverse regioni... Vogliamo ricominciare a fare questo benedetto tracciamento, o no? Grazie!<br> :date: __2021-05-18 17:59:01__
 
@@ -249,10 +253,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Mai avvisato sempre installata?<br> :date: __2021-04-30 22:31:05__
 
-> Dico subito che questa app (dato che la sua efficacia è legata ad una sua ampia diffusione) doveva nascere con uno strumento facile-facile da implementare: un bottone con la scritta "condividi". Agg. (un anno dopo) Vivo il lombardia e giro parecchio. Con tutti i casi che ci sono qui questa app avrebbe dovuto squillare e lanciare allarmi tutto il giorno tutti i giorni e invece mai una singola segnalazione. Non potevate investire questi soldi per farvi mettere una piscina im giardino?<br> :date: __2021-04-30 08:17:46__
-
-> L'app in sé e per sé funziona, ma visto che non è stata mai gestita al meglio delle sue grandi potenzialità, sono costretto a disinstallarla<br> :date: __2021-04-28 23:47:27__
-
 
 
 #### 1-star reviews
@@ -261,24 +261,24 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 1 reviews"/>
 </p>
 
-> Scaricata subito. Disinstallata dopo 8 mesi. Inutile. Una cosa da grillini.<br> :date: __2021-05-22 12:39:58__
+> Servizio continuamente in manutenzione. Segnalazione positività praticamente impossibile da effetturare.<br> :date: __2021-05-30 09:45:57__
 
-> App che non funziona per niente e soprattutto molto inutile, ma d'altronde non c'è da meravigliarsi perché ci troviamo in Italia<br> :date: __2021-05-22 12:30:32__
+> Ancora si deve capire l'efficacia<br> :date: __2021-05-30 08:02:17__
 
-> Utile tanto quanto il solitario ma con dispendio di batteria 100 volte superiore. Occasione persa speriamo non ce ne sia più bisogno.<br> :date: __2021-05-21 23:15:17__
+> Fa schifo come il governo italiano<br> :date: __2021-05-30 02:10:42__
 
-> Inutile<br> :date: __2021-05-21 22:10:05__
+> Fa schifo come il governo italiano<br> :date: __2021-05-30 02:04:07__
 
-> Completamente un fiasco totale perché pochissimi la installano e l'app è fatta fondamentalmente da schifo<br> :date: __2021-05-21 21:44:38__
+> Purtroppo non funziona ho preso il covid a novembre 2020 e nessuno mi ha chiesto se avevo l'app quindi disinstallata. Buon intento ma inutile visto che se ti ammali non puoi segnarlarlo in autonomia visto che serve un codice da inserire.<br> :date: __2021-05-30 00:10:05__
 
-> Non so se sia più penosa l'applicazione o i dementi che scrivono che non rimane aperta in background perché non sanno usare il telefono e autorizzare l'uso dell'app in background<br> :date: __2021-05-21 20:06:36__
+> App inutile. Ennesimo spreco di soldi dei contribuenti per un vizio politico oramai insanabile; Quello di controllare la vita altrui. Però fatto all'italiana dove la politica mangia sulle spalle di chi lavora veramente, ve la potete tenere. Mi controllo da solo, non ho bisogno di voi. Tanto i soldi pubblici per fare sta stronzata oramai ve li siete già mangiati. Adios!<br> :date: __2021-05-29 19:07:48__
 
-> Ormai inutile...<br> :date: __2021-05-21 15:06:31__
+> La peggiore e inutile applicazione mai vista.<br> :date: __2021-05-29 18:43:13__
 
-> Ho preso il covid e non sono riuscito a comunicare con nessuno per dare il mio codice tracciamento. Non ho mai avuto una segnalazione di contatto con positivi. Ma a che serve sta app? Magnaschei<br> :date: __2021-05-21 14:36:17__
+> Non serve a nulla<br> :date: __2021-05-29 17:36:55__
 
-> Disinstallata vista l'inutilità<br> :date: __2021-05-21 13:26:22__
+> È una settimana che neppure si apre. Ho mandato una mail all'assistenza e mi dicono cosa fare quando è aperta!!! Ma se non si apre??? 🤦‍♂️<br> :date: __2021-05-29 17:06:48__
 
-> Mai un segno di vita.<br> :date: __2021-05-21 13:15:47__
+> Un successone senza immuni non si può vivere, app studiata per i COV-ID-OTI doc<br> :date: __2021-05-29 13:44:07__
 
 

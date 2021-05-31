@@ -212,6 +212,8 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 <img src="4_star_reviews_wordcloud.png" alt="org.healthquest.android.hqst.healtheconnect 4 reviews"/>
 </p>
 
+> Positive experience.<br> :date: __2021-05-27 20:20:31__
+
 > Very good. Voice response from my end not heard by physician all the time.<br> :date: __2020-12-22 21:50:34__
 
 > Everything was good but i wasn't able to understand him well due to his accent. It had nothing to do with this app. Overall a good experience...<br> :date: __2020-12-21 18:09:56__
@@ -229,8 +231,6 @@ The Nuvance Health Virtual Visits app has been installed by more than **10000** 
 > Good<br> :date: __2020-05-12 18:01:38__
 
 > Video was fine audio is choppy but other than that the app is good!!!<br> :date: __2020-05-04 14:28:05__
-
-> The Doctor was fantastic, but the service is very different than in person. It is Okay, when I have to...<br> :date: __2020-04-30 21:33:03__
 
 
 

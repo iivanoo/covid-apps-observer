@@ -233,6 +233,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.mercyhealthsystem.android.mrcy.virtualmercy 1 reviews"/>
 </p>
 
+> First time.What Mercy Hospital? Connecticut? New York? Would be nice if they described what part of the country they are talking about before they ask you personal information and passwords. Just sayin...<br> :date: __2021-05-25 03:05:35__
+
 > Needed a simple antibiotic for an ear infection which I get about twice a year. Would not prescribe anything for me, even tough that's listed as one of the benefits of the site. Today, my eardrum ruptured due to the extreme pressure of the infection, causing quite a bit of bleeding onto my neck and pillow. Would a picture of the blood convince anyone of what I needed and did not receive ??? Complained to " customer service ". Never got a response. Nothing. Time to look for another provider...<br> :date: __2020-07-10 05:29:19__
 
 > Could not enter my birthday. Had a already. Wrong B Day. Would not let me change it.<br> :date: __2020-03-28 21:09:25__

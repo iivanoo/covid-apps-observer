@@ -154,25 +154,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> Endlich!<br> :date: __2021-05-22 16:25:54__
+> Hilft super<br> :date: __2021-05-30 12:40:29__
 
-> Gansgut<br> :date: __2021-05-22 16:03:27__
+> Sehr übersichtlich<br> :date: __2021-05-30 00:08:17__
 
-> Macht was sie soll. Aber warum wird ein registrierter noch gültiger Test vom Gerät gelöscht, wenn man versucht ihn ein zweites Mal auf dem gleichen Gerät zu registrieren. Habe es beim ersten Mal mit scannen des QR Code gemacht und dann beim zweiten Mal auf dem Handy über den Link direkt in die Corona App (zur Übung), dabei wurde die erste Registrierung dann gelöscht. Da steht zwar das man einen Test nur einmal Registrieren kann, aber das der bei einem zweiten Versuch gelöscht wird steht da nicht<br> :date: __2021-05-22 15:51:13__
+> Bei meinem Handy ( samsung S21 plus 5G ) kann ich den Test nicht in die App übernehmen, es heißt immer der Browser wir nicht unterstützt. Bei meiner Gattin aus einen A 21 läuft es jedoch super. Ich benutze Chrome. Jetzt volle Punktzahl, leider lag der Fehler bei mir. Ich hatte anstatt Chrome den Samsung Browser geschaltet, jetzt läuft es super.<br> :date: __2021-05-29 23:53:16__
 
-> 👍<br> :date: __2021-05-22 15:19:23__
+> Die App ist mir sympatisch und ich versuche jeden Tag die Kontaktliste zu pflegen. Dazu ein Verbesserungs-Vorschlag: Wenn man nie wieder mit jemandem zu tun hat, wird die Liste ellenlang. Vielleicht kann man Kontakte archivieren? Das wäre super. Auch würde es schön sein, wenn man Tippfehler bei Namen korrigieren könnte. Und noch etwas: Ich möchte aus Datenschutzgründen die LUCA nicht installieren. Die Corona Warn App kann doch schon QR Codes. Man müsste die Geschäfte nur dazu bringen, alternativ auch diese an zu bieten. Danke! Nachtrag: Danke, hab die Bearbeitungsmöglichkeit gefunden und ja ich habe bereits die Geschäfte, wo ich war darauf hin gewiesen und tue es gern auch weiterhin.<br> :date: __2021-05-29 20:08:42__
 
-> Einfach und sehr gut .... Bis jetzt habe ich Gefallen.... Mich stört nur eins das man keine Persönlichen Angaben gibt sonst bis jetzt sehr gut. 😊<br> :date: __2021-05-22 14:59:17__
+> Die neuen Funktionen Einchecken und Schnelltestprofil gefallen mir sehr gut. Wäre es möglich für die Schnelltestanzeige einen eigenen Menüpunkt zu erstellen?<br> :date: __2021-05-29 20:03:35__
 
-> Habe auch die Luca-App und auch das Tagebuch<br> :date: __2021-05-22 03:06:48__
+> Ich bin sonst sehr zufrieden mit der corona- warn-app alles sehr übersichtlich und überzeugend und die Funktionen sind auch sehr gut<br> :date: __2021-05-29 11:42:49__
 
-> Gute privacy<br> :date: __2021-05-22 01:12:45__
+> Gute Informationen. Mann könnte sie noch erweitern indem man geimpfte Personen ihre Impfung hinzufügen könnte.<br> :date: __2021-05-29 05:25:07__
 
-> Ich feiere die App.<br> :date: __2021-05-22 00:35:31__
+> Schnelltest ließ sich nicht einlesen. Testergebnisse vom selben Anbieter ließen sich aber in der Apple-Version ohne Probleme einlesen. Nach Hinweis vom RKI habe ich Google Chrome als Browser benutzt, und dann funktionierte es einwandfrei. Danke für den schnellen Service vom RKI.<br> :date: __2021-05-28 20:50:50__
 
-> Die App ansich ist echt gut entwickelt, aufgrund der Vielzahl der geimpften derzeit wäre noch eine Überlegung die Impfung mit in dem Programm zu implementieren. Natürlich nur möglich mit dem QR Code von der Terminbestätugung, aber wahrscheinlich nicht möglich, weil nicht ersichtlich ob die Leute auch da waren, aber vielleicht gibt es ja eine Möglichkeit. Vorteil wäre dass man nicht ständig den Impfpass mitführen muss.<br> :date: __2021-05-21 21:46:56__
+> Trotz überteuerten Entwicklungskosten großer Fan der App. Top umsetzung, sehr transparent und sinnvolle Erweiterungen (die ich mir meist schon früher gewünscht hätte)<br> :date: __2021-05-28 17:51:45__
 
-> Es wäre noch gut wenn bei dem Schnelltest Ergebnis der Namen der getesteten Person stehen würde . Im Einzelhandel wird teilweise der Personalausweis verlangt um festzustellen ob man die getestete Person ist . Ansonsten ist die App sehr hilfreich und läuft einwandfrei<br> :date: __2021-05-21 20:32:30__
+> Der QR Code meines Schnelltests wird leider nicht erkannt. Er wurde über die im Landkreis Zwickau und Vogtlandkreis genutze Software schnelltest.click erstellt und ist dort auch ohne Probleme einlesbar. Wäre schön, wenn das auch über die Corona Warn App funktionieren würde. MfG D. Obst<br> :date: __2021-05-28 16:57:19__
 
 
 
@@ -182,25 +182,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Die App sollte nicht mitten in der Nacht Erinnerungen an die Aktualsieirung des Status generieren. Da schläft man nämlich normalerweise. Bis dann die Erinnerung lautstark hochpoppt.<br> :date: __2021-05-22 13:08:49__
+> Sehr gut nur Luca app qr codes gehen nicht, und leider verwenden alle Idioten die Luca app.<br> :date: __2021-05-30 12:27:04__
 
-> Als dezentrale Lösung zwischenzeitlich gut. Abzug, da die direkte Registrierung eines Schnelltests anscheinend nur über Chrome möglich ist.<br> :date: __2021-05-22 12:41:29__
+> Nichts Halbes und nichts Ganzes.<br> :date: __2021-05-30 12:25:23__
 
-> Läuft! Ein zusätzlicher Link in der App der direkt zu den aktuellsten, offiziellen Fallzahlen führt wäre hilfreich Update (Mai 2021): Dass die deutschlandweiten Fallzahlen mittlerweile enthalten sind ist gut. Allerdings hat doch mittlerweile wirklich jeder verstanden, dass besonders die lokalen Inzidenzwerte, etc. aus Sicht der Nutzer wichtig sind. Wieso bietet eine millionenschwere App eine derartige Funktion immer noch nicht nach 12+ Monaten Pandemie?!?<br> :date: __2021-05-22 12:08:34__
+> Gute app! Allerdings verwendet sie Bluetooth und nicht standort. 👍👍<br> :date: __2021-05-30 12:16:34__
 
-> Eigentlich ok vom Ansatz, man pflegt auch schön das Tagebuch etc. um mitzuhelfen. Leider enttäuscht die App beim Melden des Testergebnissen aus dem Labor. Das Ergebnis liegt schon 2 Tage vor, die App meint immer noch, kein Ergebnis. Vermutlich aber Fehler beim Labor.<br> :date: __2021-05-22 09:56:24__
+> Die App scheint zu funktionieren. Ist halt doof, wenn sie nicht von allen genutzt wird. Dass man Testergebnisse importieren kann ist super. Nicht besonders sinnvoll finde ich hingegen, dass die aktuelle Inzidenz nur für ganz Deutschland angegeben wird. Es würde mehr bringen, wenn die Zahlen der Stadt/des Landkreises angezeigt werden würden. Das ist im Alltag bedeutender.<br> :date: __2021-05-29 23:57:38__
 
-> Da die Nutzerzahlen (ungleich Downloads!) lt. Zeit-Artikel sinken, sollte der Impfnachweis möglichst bald in dieser App integriert werden. Nicht unsonst kommen zu den Ärzten, die impfen, die Menschen in Scharen ... Der Sommerurlaub steht auf dem Spiel ;-) . Man muss sie bei ihren kleinen privaten Befindlichkeiten/Bedürfnissen packen!<br> :date: __2021-05-22 09:06:49__
+> Gute Idee - funktioniert aber oft nicht<br> :date: __2021-05-29 19:36:41__
 
-> In Kombi mit Luca-App total ok<br> :date: __2021-05-22 08:36:47__
+> Sehr nett die app Die App ist Freiwilligen.<br> :date: __2021-05-29 18:26:52__
 
-> Völlig verblüffend klappte heute neuerdings das halbautomatische Einpflegen eines negstiven Schnelltestes. Wobei das grundlegende Problem der Betreiber der Schnelltestplanung war.<br> :date: __2021-05-21 19:46:12__
+> Gut wäre aber denn noch wenn die app ohne Internet funktionieren würde weil die meisten wie manch ältere läute kein internet besitzen<br> :date: __2021-05-29 18:10:58__
 
-> War beim Schnelltest und habe das Ergebnis runtergeladen. Scan des QR-Code aus der App schlug fehl ("nicht kompatibel"). Übertragung aus der Ergebnismitteilung des Testanbieters ging ebenfalls nicht (Klick auf "Ergebnis in die Corona-Warn-App übertragen" -> Ihr Browser ist nicht kompatibel. Browser gewechselt von Samsung auf Chrome, ging trotzdem nicht).<br> :date: __2021-05-21 14:37:13__
+> Verbessert die Sicherheit<br> :date: __2021-05-29 12:11:53__
 
-> Bin bis jetzt sehr zufrieden QR checkin werde ich noch testen<br> :date: __2021-05-21 14:35:43__
+> Es ist leider immer noch nicht möglich die Vollverimpfung in die APP einzufügen. Ansonsten aber recht gut durchdacht und Quell-offen.<br> :date: __2021-05-29 11:02:48__
 
-> Seit einigen Tagen werden die Risiko Daten nur einmal pro 24 Stunden aktualisiert , ist das so gewollt<br> :date: __2021-05-20 22:25:42__
+> Ich hätte gerne einen Zuhause Modus so das Bluetooth ausschalten kann ohne ständig benachrichtig Werd das Bluetooth aus ist.<br> :date: __2021-05-28 23:21:29__
 
 
 
@@ -210,25 +210,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Funktioniert nur mäßig Infektionsdaten bleiben auf dem Stand vom 20.03.21. Alle anderen Daten, z.B. Tagebuch, sind aktuell. Laden der App dauert ziemlich lang. Der Rest funktioniert soweit ich es abschätzen kann.<br> :date: __2021-05-22 00:10:07__
+> Nachdem ich die Übertragung des Testergebnis in die App bisher in den höchsten Tönen gelobt habe, ist heute etwas passiert, dass ich mir nicht erklären kann. Ich habe das Testergebnis wie gewohnt durch anklicken des Link in der Benachrichtigungsmail in die Corona-App übertragen und in der App auch angesehen. Als ich den Test am selben Tag in einer Außengastronomie nachweisen wollte, war er über die App nicht mehr abrufbar. Eine erneute Integration über den Link war nicht möglich. Ärgerlich.<br> :date: __2021-05-30 12:42:49__
 
-> Vor 3 Stunden einen Schnelltest registriert und gefreut, wie einfach und schnell alles ging. Beim erneuten Aufrufen (bei einer Veranstaltung) war das Ergebnis nicht mehr da. Super!<br> :date: __2021-05-21 18:57:12__
+> Es wäre wünschenswert wenn man mit dieser App seinen aktuellen Impf Status aktualisieren könne, somit den Status dem Gastwirt oder Geschäft vorzuzeigen, sowie den QR-CODE der Luca App mit nutzen könnte. Würde die Sache um einiges leichter machen. Leider musste ich feststellen das dies nicht möglich ist beim Gastwirt mit der Corona App einen Luca QR-CODE zu lesen schade in der heutigen Zeit.<br> :date: __2021-05-30 12:18:24__
 
-> App öffnet sich seit Update nicht mehr ?<br> :date: __2021-05-21 15:23:15__
+> Testergebnisse werden nicht angezeigt! bzw nicht übernommen SCHLECHT.<br> :date: __2021-05-30 10:50:19__
 
-> Weiterentwicklung ist schon ok, aber mir fehlen da noch sachen. Wie die Eingabe der Impfung zum Beispiel. Wenn wirklich nachgeimpft werden muss, wäre das doch sinnvoll. Und auch zur Ermittlung von Ansteckungsrisiken.<br> :date: __2021-05-21 13:47:51__
+> Falls es jeder 2. so wie beschrieben ist nutzen würde um Ketten herauszufinden, wäre es zur Zeit nach meiner Meinung nicht wichtig. Nütlich wäre diese App, wenn mal ein Virus/Mutation kommt, die wirklich gefährlich ist.<br> :date: __2021-05-29 20:46:58__
 
-> Der QR Code der Teststelle liess sich nicht in die Corona-Warn-App einpflegen<br> :date: __2021-05-21 13:20:55__
+> Grunde ist die App eine gute Idee. Leider löscht man den eingescanntrn QR-Code für einen Test direkt wenn man versucht ihn ein zweites Mal zu scannen. Da er dann ungültig ist, ist ein Abrufen des Testergebnisses über die App leider nicht mehr möglich und man muss auf den Anruf durch den Arzt oder das Gesundheitsamt warten. Eine Funktion, die verbesserungswürdig ist. Dadurch entsteht leider nur noch mehr Verunsicherung.<br> :date: __2021-05-29 16:03:25__
 
-> Ein aktuelles Testergebnis kann nicht einfach so in der App hinzugefügt werden. Zuerst ist man gezwungen, Google Chrome zu nutzen. Dann braucht man entweder einen Ausdruck vom QRC, oder muss diesen an ein anderes Smartphone senden, um von dort abzuscannen. In meinem Fall wurde auch das abgelehnt, da der QRC angeblich ungültig sei. In einer anderen App (Luca) war dies alles spielend leicht möglich. Weiter funktioniert die Risiko- Aktualisierung häufig nicht, und muss manuell angestoßen werden.<br> :date: __2021-05-21 11:58:44__
+> Die Updates wurden verbessert. Positiv ist, dass auch die Inzidenz- und R-Werte angezeigt werden. Es sollte aber ortsgenau möglich sein. Kann die Check-in-Funktion auch für eine Chorprobe oder einen Gottesdienstbesuch verwendet werden?<br> :date: __2021-05-29 14:43:15__
 
-> Finde die App super und nutze sie auch, seitdem sie verfügbar ist. Toll auch, dass man seit Anfang Mai per QR-Code zum Test einchecken und das Testergebnis einlesen kann - theoretisch. ABER: Was nützt mir das im richtigen Leben, wenn ich am 19.5. zum DRK-Testzentrum in MR komme und da erfahre: "Check-In mit CWA geht bei uns nicht." Und: "QR-Code zum Testergebnis haben wir nicht." Wie soll ich hier 5 Sterne für die App vergeben, wenn die Funktionalität in der Praxis teilweise nicht nutzbar ist???<br> :date: __2021-05-21 07:40:10__
+> Wenn mann jetzt noch die QR Codes der luca Locations einlesen könnte... mich nervt der indirekte luca app Zwang (entweder luca oder location fern bleiben). Ich möchte so eine risikoreiche und Datenschutzverachtende app wie luca nicht nutzen, würde mich also über Nachbesserung der corona warn app freuen<br> :date: __2021-05-29 11:38:35__
 
-> Man weiß leider nicht bei Meldungen wo örtlich bzw.auch räumlich die Gefährdungen waren. Eine sog.Hot Spot Meldung fehlt einfach nach so vielen Tests die bisher gemacht wurden.<br> :date: __2021-05-21 06:52:23__
+> Nun ja, allmählich scheint die App ja zu funktionieren, nachdem monatelang rudimentäre Funktionen schlichtweg nicht vorhanden waren. Jedoch frage ich mich nach wie vor, was Entwicklungskosten von eingangs rund 20 Mio. € rechtfertigen würden, welche ja wenig später (kurz nach Launch der App im vergangenen Jahr) bereits auf 70 Mio. €uro gestiegen sind. Als Fachinformatiker und Mediengestalter verstehe ich wohl scheinbar zu wenig von Programmierung, Entwicklung diverser Applikationen, etc...<br> :date: __2021-05-29 10:36:07__
 
-> Kann ich an den Orten wo ich mich mit der Luca App einchecke mit der Corona Warn App das selbe tun?<br> :date: __2021-05-20 22:01:10__
+> Seit geraumer Zeit wird geimpft. Wieso ist die App nicht schon lange so geändert, dass man seine Impfung eintragen kann? Das müsste längst passiert sein. Kein Wunder das die App nicht angenommen wird!!!<br> :date: __2021-05-29 10:04:06__
 
-> Und wo ist bitte dieser Impfpass in der App?<br> :date: __2021-05-20 21:43:08__
+> Leider kann ich meinen QR Code vom Schnelltest nicht erfassen<br> :date: __2021-05-29 08:59:07__
 
 
 
@@ -238,25 +238,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> 30.12.: funktioniert prima, das Tagebuch finde ich sehr sinnvoll. Update 21.05.21: neuerdings stellt sich die Risikoermittlung andauernd aus. Warum? Das war vorher nicht, als Einstellungen im Handy sind korrekt. Bitte beheben, sonst macht das keinen Sinn. Und gleich vorweg - Bluetooth, WLAN und /oder mobile Daten sind permanent an... 22.05. Auch ein weiterer Neustart bringt nichts.<br> :date: __2021-05-22 17:21:50__
+> Ich schaue jeden Tag in die App trotzdem muss ich sie alle 3-4tage deinstallieren da sich die Risiko Überprüfung automatisch abstellt das ist echt nervig<br> :date: __2021-05-30 13:17:29__
 
-> Es ist zu schwierig andere zu warnen! Und bei einer Nutzerzahl von im Schnitt 3000 Mann am Tag sinnlos zu installieren<br> :date: __2021-05-22 16:09:55__
+> PCR Test von meiner Tochter in die App bei meiner Tochter eingetragen. Ergebnis positiv. Übertragung an die App hat einwandfrei funktioniert. Nur gewarnt wird keiner in der Nähe. Da ich ja nun in der Nähe bin sollte doch die App mich informieren. Offensichtlich klappt das wohl nicht. Daher nur zwei Sterne.<br> :date: __2021-05-30 10:24:12__
 
-> Ziemlich nutzlos, da die Datenauswertung nicht konsequent automatisch erfolgt.<br> :date: __2021-05-22 16:08:38__
+> Ich würde gerne mal erfahren, wie ich einen Schnelltest in die App bekomme, wenn ich diesen online beantragen muss und die gesamte Kommunikation per Email erfolgt. Ein Ausdruck des qrcode um ihn dann abzuscannen ist wohl nicht im Sinne des Erfinders.<br> :date: __2021-05-29 21:47:47__
 
-> Hat bei mir einmal ewig geladene<br> :date: __2021-05-22 15:18:55__
+> Problem wie bei der luca app auch da lassen sich keine weiteren Familienmitglieder, gerade Kinder die noch kein Handy haben, hinzufügen was einfach blöd ist, wenn man solche test macht.....<br> :date: __2021-05-29 19:37:10__
 
-> Leider enttäuschend! Nicht mal die dafür vorgesehenen QR Codes werden erkannt!<br> :date: __2021-05-22 13:44:06__
+> Eine kleine Aufgabe zum rechnen. Am 01.01. werden 100 person auf das covid19 Virus getestet, davon haben 20 Personen einen covid-19 positiv Befund. Am 01.02. Werden 10.000 Personen getestet und davon haben 2.000 Personen covid-19. Frage 1. Wie hoch ist die ausbreitung des Virus in Prozent. Frage 2. Ist ein lockdown zu erwarten? Frage 3. Wie sinnvoll ist die app für dich.<br> :date: __2021-05-29 13:48:17__
 
-> Trotz abschalten der Benachrichtigung werde ich zugetextet. Glaube ich werde Deinstallation durchführen Wenn ich zu Hause bin und da bin ich fast immer, schalte ich BT aus um Strom zu sparen. Trotz Benachrichtigung aus in der App und Android kommt die nervige Meldung das meine Kontakte nicht ermittelt werden können. Wie ich bereits erwähnte ist das nicht möglich. Einstellungen werden ignoriert. Sei es in der App oder unter Android. Selbst wenn ich die App stoppen kommt der Müll<br> :date: __2021-05-22 12:08:14__
+> Der qr Code vom Schnelltest lässt sich seit Wochen nicht einpflegen. Beim ersten Mal hatte es geklappt, danach nicht mehr. Code ist ungültig oder schon einmal benutzt, sagt die App. - Schade<br> :date: __2021-05-29 09:38:45__
 
-> Die Idee mit dem Scanner für Veranstaltung und Geschäft ist ja keine schlechte Idee nur das man für jeden scann sein 📱 neu starten muss kann nicht im Sinne des Nutzers sein<br> :date: __2021-05-22 11:07:51__
+> Nahezu nutzlos für mich<br> :date: __2021-05-28 22:22:08__
 
-> Ok, konnte die App installieren. Meine Frau aber nicht: Die App funktionierte plötzlich nicht mehr, sie konnte durch nichts aktiviert werden. Also wurde sie deinstalliert. Die Neuinstallation funktionierte nicht. Sie war auf googleplay einfach nicht verfügbar. Eine Neuinstallation war somit nicht möglich. Ist bereits öfter passiert, Fehler konnte aber durch Neuinstallation behoben werden. Diesmal nicht. Da die App nun mehrmals unbemerkt ihren Dienst einstellte wird sie sie nicht mehr nutzen.<br> :date: __2021-05-21 19:01:56__
+> Seit zwei Tagen aktualisiert sich meine App nicht mehr und taucht seit dem auch in meiner Akku Laufzeit Warnung auf. Habt ihr beim letzten Update was in der Art verändert? Kann man die Aktualisierung des grünen Feldes manuell anstoßen? Danke! Handy Neustart hat den Fehler der Aktualisierung behoben.<br> :date: __2021-05-28 20:19:10__
 
-> Leider lassen sich Ergebnisse (negatives Testresultat) von Schnelltest-Zentren, trotz QR-Code, nicht einspielen. Wenig mehr nutzen gegenüber Start der APP. Seit Anfang habe ich diese APP installiert aber leider wenig Entwicklung...<br> :date: __2021-05-21 14:36:31__
+> App an sich ok, allerdings kommt jedes Mal beim Scannen "QR Code ungültig"<br> :date: __2021-05-28 19:34:55__
 
-> Kein einlesen von Luca - Codes, kein einlesen von Schnelltests, keine lokalen Inzidenzen, kein Impfnachweis... Momentan für mich relativ nutzlos. Update: Standart - Antwort auf JEDE kritische Anmerkung ist ebenfalls recht nutzlos und sinnfrei.<br> :date: __2021-05-21 13:27:14__
+> Denke immer noch das durch die Gesundheitsreform das Volk Weltweit benutzt wird<br> :date: __2021-05-28 17:37:36__
 
 
 
@@ -266,24 +266,24 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> Bin momentan beruflich in Bahrain, die dortige app funktioniert 10mal besser und vor allen Dingen einfacher. Die deutsche app wieder deinstalliert. Schande für solch ein Schrott made in Germany<br> :date: __2021-05-22 15:36:21__
+> Nur einen Stern seit heute ist die Riskoermittlung nicht mehr aktiv, sie lässt sich auch nicht mehr aktivieren<br> :date: __2021-05-30 13:17:12__
 
-> Der QR-Code meiner Schnelltests wird immer als ungültig gemeldet.<br> :date: __2021-05-22 15:28:45__
+> Schön, dass man Testergebnisse importieren kann, um den negativen Test in einem Laden schnell zeigen zu können. Wie bei allem in der Pandemie werden die Kinder komplett vergessen. Ich muss doch als Vater auch das Ergebniss meiner 6-jährigen Tochter zusätzlich zu meinem abspeichern können. Geht aber nicht, da ich sie nicht zusätzlich zu mir in meiner App mit anlegen kann. Soll ich ihr jetzt ernsthaft deswegen ein Handy kaufen?<br> :date: __2021-05-30 10:56:13__
 
-> Die App hat mir das Testergebnis des PCR Tests nicht angezeigt. Da erschien immer, Ergebnis liegt noch nicht vor. Ich bekam das Ergebnis dann per Post.<br> :date: __2021-05-22 14:40:18__
+> Eine Änderung der Kontaktdaten im Schnelltestprofil ist nicht möglich, sodass immer alle Daten komplett zurückgesetzt und neu erfasst werden müssen (zu umständlich über Einstellungen + Anwendung zurücksetzen). Nach Deinstallion + Neuinstallation der App wird der aktuelle Schnelltest nicht mehr über den QR-Code erkannt und kann nicht erneut gespeichert werden (... QR-Code ist ungültig oder wurde bereits auf dem Smartphone verwendet). Für die wenigen Funktionen ist die App nicht ausgereift.<br> :date: __2021-05-30 09:20:33__
 
-> Zu wenig Möglichkeiten und zu ungenau<br> :date: __2021-05-22 14:20:16__
+> Geht leider nicht auf mein huawei p40 pro. Also sinnlos.<br> :date: __2021-05-30 09:16:14__
 
-> Schrott! Der "Nutzen" dieser App ist hinlänglich bekannt und diskutiert. Wenn man in einer Pandemie den Datenschutz vor die Kontaktnachverfolgung stellt, dann kommt eben ein zahnloser Tiger raus! Da bringt eine Luca-App für eine Kontaktnachverfolgung wesentlich größeren Nutzen! Und wenn man sein positives Ergebnis nicht mal einstellen kann, nur weil es bereits über die App Laborergebnis abgerufen wurde, dann kann man die App getrost dahin stellen wo sie hingehört - auf den Datenfriedhof!<br> :date: __2021-05-22 13:38:55__
+> Haha sehr lustig schönen Gruss an Corona 🤨<br> :date: __2021-05-30 08:57:45__
 
-> QR Ungültig :/<br> :date: __2021-05-22 12:17:54__
+> Unter den Voraussetzungen, Tests, Termin, nur geimpft, genesen, werde ich auch in Zukunft bis auf LM mein Geld lieber Amazon, Netflix und Co geben, als dem stationären Einzelhandel, Kino und Restaurant und das auch nach Impfen. Meine Freundin ist positiv seit Dienstag und keiner wurde gewarnt. Daher gibt's mehr positive, als sein müsste. Als Erkrankter hat man andere Sorgen, als tan besorgen o App füttern. Gesundheitsamter arbeitet lieber mit Luca App. Sagt ja schon alles<br> :date: __2021-05-30 06:51:22__
 
-> Wäre eine gute App....wenn sie funktionieren würde, hab 4 Tage auf mein Ergebniss PCR- Test gewartet. Danach beim Gesundheitsamt angerufen die sagten Deinstalieren und alles noch einmal Instalieren da Fehlermeldung kam. Danach ging nichts mehr da der Code nicht erneut gescannt werden konnte.<br> :date: __2021-05-22 11:46:44__
+> Minus 3 Sterne, kann die App nicht weiterempfehlen, da alle 3 Tage die Risikiermittlung sich automatisch abschaltet und sich manuell nicht wieder einschalten lässt. Erst nach erneuter Installation ist die Risikiermittlung wieder aktiviert<br> :date: __2021-05-30 06:30:56__
 
-> Wenn ich den Barcode meines Schnelltests einlesen will, erscheint die Fehlermeldung, dass dieser Code bereits anderweitig verwendet wurde. Obwohl ich mir den Code mit dem Testergebnis erst vom Testanbieter am PC anzeigen lasse. Für komme ich nicht an den Code heran.<br> :date: __2021-05-22 11:31:44__
+> Die App funktioniert. Nach positiven Tests bei Kollegen schaltete sie brav auf rot. Update 29.05.21: Seit dem heutigen Android 11 Update lässt sich die Risiko-Ermittlung nicht mehr einschalten. Trotz aller Berechtigungen in den App-Einstellungen.<br> :date: __2021-05-29 21:47:21__
 
-> Für was brauch ich das wenn das Testergebnis nicht angezeigt wird. PCR test<br> :date: __2021-05-22 11:25:11__
+> Da unser Datenschutz die richtige Anwendung der App.verhindert ist sie nutzlos. Hat das von den Verantwortlichen noch keiner kapiert? Eigentlich müsste doch bei einer pandvmie der Datenschutz ausgesetzt werden. Aber das ist halt die deutsche Regierung. Planlos u zu nichts fähig. Das ist bekannt.<br> :date: __2021-05-29 18:05:09__
 
-> Ich fühle mich unwohl mit der App auf dem Handy. Die niedrige Bewertung und die bekannte Unzuverlässigkeit der Applikation, das ganzen löchrige System das dahintersteht fördert nicht das Vertrauen in die Stabilität, Sicherheit und Zuverlässigkeit dieser Applikation. Selbstverständlich wird versucht die hohe Investition zu rechtfertigen und die mangelhafte Struktur durch tägliches Flickwerk am Leben zu halten. Hoffen wir auf Besserung und sind allzeit vorsichtig und vorausschauend.<br> :date: __2021-05-22 11:13:50__
+> Sie ist unbrauchbar<br> :date: __2021-05-29 17:15:18__
 
 

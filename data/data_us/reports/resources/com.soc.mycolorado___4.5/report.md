@@ -186,25 +186,25 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
-> Kool back up ID<br> :date: __2021-05-21 23:36:00__
+> Great way entering the digital age<br> :date: __2021-05-28 08:20:59__
 
-> I love Colorado made this app!!!! Thank you!!!<br> :date: __2021-05-21 00:44:46__
+> Fantastic<br> :date: __2021-05-27 20:15:19__
 
-> Super happy I can have my drivers license on my phone..<br> :date: __2021-05-20 11:08:30__
+> Has areas to put registrations, insurance, parks passes, permits, even your MMJ Card, more stuff added, a great Colorado app.<br> :date: __2021-05-27 13:45:17__
 
-> Nothing less of awesome!!!!!!<br> :date: __2021-05-19 01:50:38__
+> Super awesome! Very glad to see this come together and work SO well!! My new go to!<br> :date: __2021-05-27 03:49:05__
 
-> Excellent<br> :date: __2021-05-18 02:38:38__
+> Well made app and useful for storing other important documents.<br> :date: __2021-05-27 01:06:01__
 
-> You must allow app to record video and take pictures from your phone. Big brother is watching!<br> :date: __2021-05-14 17:21:16__
+> Good<br> :date: __2021-05-26 14:32:06__
 
-> Works great!<br> :date: __2021-05-14 00:07:08__
+> Having this app saved me time and heartache when I lost my ID and needed to prove my identity! It was easy to set up but I had no idea how incredible it would be in my future! Thank you My Colorado!<br> :date: __2021-05-26 04:40:54__
 
-> Easy to use<br> :date: __2021-05-13 19:48:06__
+> Very good but still have not received my ID since 4/4/2021<br> :date: __2021-05-24 22:00:50__
 
-> Great app helps out a lot thanks man!<br> :date: __2021-05-13 04:14:42__
+> Easy to use minimum facts needed pleased overall<br> :date: __2021-05-24 06:43:16__
 
-> Excellent<br> :date: __2021-05-11 19:41:16__
+> This app is great, no idea what the others are saying. Easy to add vaccine card, insurance cards, fishing licenses. I can't wait until this gets more adoption across the state (and nation).<br> :date: __2021-05-22 22:40:55__
 
 
 
@@ -213,6 +213,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> Fixed the camera issue with an update, works fine now. Lots of redirects but otherwise great.<br> :date: __2021-05-28 23:27:06__
+
+> Won't upload my fishing license<br> :date: __2021-05-26 19:11:27__
 
 > Quick and Easy<br> :date: __2021-05-20 05:21:48__
 
@@ -230,10 +234,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > Awesome.<br> :date: __2021-04-24 14:37:05__
 
-> Handy app. But why is the CCW permit not included? All other Colorado ID is.<br> :date: __2021-04-17 15:18:52__
-
-> Great App! But, periodically wont let me log in.<br> :date: __2021-04-09 00:38:49__
-
 
 
 #### 3-star reviews
@@ -241,6 +241,8 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
+
+> It's cool works 50/50 some people take it some dont<br> :date: __2021-05-25 22:10:37__
 
 > Confusing to use. It wanted me to center my face in an oval, but then just hung.<br> :date: __2021-05-12 05:46:10__
 
@@ -259,8 +261,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Keeps crashing when I try to upload an insurance ID card. Everything else is awesome!<br> :date: __2021-02-01 20:44:35__
 
 > pretty 🆒<br> :date: __2021-01-14 19:25:48__
-
-> THIS APP IS HARD TO SET UP AND IT KEEPS REDIRECT ME .BUT NOT LETTING ME LOG IN<br> :date: __2020-12-21 09:32:36__
 
 
 
@@ -298,6 +298,18 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> Worst app ever. Forgot my user name and password now I can't retrieve it because I don't remember my user name it should be under your email or the app should keep you logged in if you check that box and I did thanks for making this app not user friendly<br> :date: __2021-05-29 21:44:54__
+
+> I have had only about 1/8 success getting the app to work...<br> :date: __2021-05-29 03:59:15__
+
+> This ping sso must have been implemented by a 5-year-old! Constant problems sucks that I have to use this app...<br> :date: __2021-05-28 18:28:54__
+
+> Useless piece of poop.<br> :date: __2021-05-26 16:34:49__
+
+> It won't let me access it or send me the verification text code... Frustrating<br> :date: __2021-05-25 22:01:14__
+
+> Now it has a big BUG.. it does not log you back in after the update..<br> :date: __2021-05-24 18:45:00__
+
 > Licenses won't load, call service is awful<br> :date: __2021-05-21 20:58:58__
 
 > Can't login<br> :date: __2021-05-20 15:43:49__
@@ -305,17 +317,5 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Garbage app<br> :date: __2021-05-20 03:13:54__
 
 > "We're sorry, we cannot match your selfie with your DMV picture." Meaning we didn't get a full facial map for our data mining endeavors.<br> :date: __2021-05-19 23:20:43__
-
-> They can keep up or get back to you on time or even give you call to help you answer your questions especially with you unemployment<br> :date: __2021-05-19 08:03:20__
-
-> No longer recognizes my face so can't access my Digital ID. The popup message mentions trying another method but that does nothing but activate my phone's camera. Useless in current form.<br> :date: __2021-05-18 18:24:34__
-
-> I don't care about the app one way or another. I'm pissed that I had to get it in the first place because CO used the worst material I've ever seen an ID card made out of. Seriously, use a small bit of intelligence, and make the ID durable enough to at least have a chance of lasting until its expiration. Never in the 3 other states I've lived in have I had an ID card that has taken even a bit of damage before, let alone one that breaks as soon as you sit on your wallet. Get it together, CO!<br> :date: __2021-05-18 17:14:04__
-
-> It will not recognize my selfie, therefore it will not let me in. Frustrating.<br> :date: __2021-05-18 16:16:55__
-
-> Simply doesn't work, you'll just need to pay for a new one. Ive tried this on 3 different devices, 2 Android and an iphone, it doesn't work. Borderline Scam<br> :date: __2021-05-16 17:34:24__
-
-> no longer works now that "PingID" was implemented - I've been "authenticated" more than 10 times in the last few mins and still can't access any of my digital documents. Keeps asking me to log in again (never actually logs me in after authentication - just takes me back to the home screen) I even tried resetting my password in case my account was locked. NOPE. same results -- if you want us to use this, MAKE IT RELIABLE!!!!!!!!!!<br> :date: __2021-05-13 18:51:06__
 
 

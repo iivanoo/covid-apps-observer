@@ -167,6 +167,8 @@ The CoronaCheck app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 4 reviews"/>
 </p>
 
+> Doet wat ie moet doen, namelijk het testbewijs aanmaken. Dat gezeur over de vaccinatie begrijp ik niet zo goed; staat toch duidelijk vermeld dat aan die optie nog wordt gewerkt?! Niet alles is de schuld van Dhr. De Jonge.<br> :date: __2021-05-29 12:06:39__
+
 > Was een beetje angstig na het lezen van wat slechte reviews. Maar eigenlijk ging alles zoals het hoort. Heel vlot, geen problemen met scannen. Top!<br> :date: __2021-04-25 20:09:22__
 
 
@@ -189,6 +191,8 @@ The CoronaCheck app has been installed by more than **50000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 2 reviews"/>
 </p>
 
+> Waardeloze app, er wordt nieteens de vaccinatie in mee genomen<br> :date: __2021-05-28 22:55:00__
+
 > Werkt één keer goed, daarna niet meer. Donderdag negatieve test, omgezet in qr code, vrijdag verdwenen. Gister negatieve test, vanochtend omgezet in qr code, vanavond verdwenen en niet opnieuw om te zetten. Gelukkig werd de email ook geaccepteerd<br> :date: __2021-04-19 23:29:00__
 
 > Werkt dus weer niet op Android 10 met tablet samsung galaxy tab 9.helaas maar waar.<br> :date: __2021-04-10 08:56:30__
@@ -201,24 +205,24 @@ The CoronaCheck app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 1 reviews"/>
 </p>
 
+> Een aflevering die je aan het kijken bent, herstart (met de benodigde reclames) regelmatig midden in de aflevering. Doorspoelen naar waar je gebleven was duurt ook weer een eeuwigheid omdat daar ook reclames aan voorafgaan.<br> :date: __2021-05-28 20:32:34__
+
+> Hier heb je niks aan.. ben je gevaccineerd moet je nog testen..<br> :date: __2021-05-28 19:38:08__
+
+> Dat eeuwige gezeur over privacy Ik wil deze app gewoon gebruiken zonder die tests. Heb al corona gehad...<br> :date: __2021-05-28 13:43:14__
+
+> 2x gevaccineerd. Kan geen code krijgen.Volslagen nutteloze app.<br> :date: __2021-05-26 19:30:23__
+
+> Ben tweemaal gevaccineerd en heel voorzichtig geweest het afgelopen anderhalf jaar. Voel mij top met mijn 72e jaar. Dus wil gewoon kunnen inloggen met mijn vaccinatiebewijs van het Rode Kruis.<br> :date: __2021-05-26 19:20:11__
+
+> Belachelijk dat je vaccinatie er nog steeds niet in kan staan. Al dat gezeur over privacy. Laat mensen gewoon wel of geen toestemming geven.<br> :date: __2021-05-25 22:53:48__
+
+> Alleen geschikt voor test nog niet voor vaccinatie. Maar weer verwijderd<br> :date: __2021-05-24 12:44:09__
+
+> Kan nog niet bij vaccinatiegegevens.<br> :date: __2021-05-24 12:04:07__
+
 > Ik ben 2 keer gevaccineerd en nu ??? Kan ik nu ook een af code krijgen? Deze app is van Hugo het als hij werkt het natuurlijk niet Ik zal deze app verwijderen, het enige wat deze app doet is nutteloze ruimte in nemen, net als Hugo<br> :date: __2021-05-22 12:25:56__
 
 > Vraag me af de overheid kennende of de vacinatie op tijd er bij staat voor zo lang 1 ster<br> :date: __2021-05-22 10:51:01__
-
-> Je hebt geen DigiD nodig, hoezo bescherming?<br> :date: __2021-05-22 06:12:13__
-
-> In de corona blog bij de nos wordt geopperd dat je kunt inloggen met je digi d en dat je gegevens dan bij de RIVM bekend zijn. App op telefoon gezet, geopend maar niks van dit alles. Ben benieuwd of het allemaal voor 1 juli klaar is, vandaar 1 ster. App dan ook maar weer verwijderd, zorg eerst maar eens dat jullie waarmaken wat je zegt.<br> :date: __2021-05-21 23:06:39__
-
-> CoronaTESTcheck moet naam app zijn. (CoronaCheck wordt al op andere plekken door Rijksoverheid (en Lumc/OLVG Luscii app) en CovidRADAR gebruikt! Bovendien dekt anders de appnaam de lading niet.<br> :date: __2021-05-01 08:07:54__
-
-> Door mee te werken aan de testsamenleving krijg je niet meer vrijheden maar je levert ze juist in, de eerste stap naar vrijheid is burgerlijkeongehoorzaamheid. Binnenkort punten systeem<br> :date: __2021-04-28 01:53:41__
-
-> Omhandig<br> :date: __2021-04-27 11:43:55__
-
-> Waardeloos, liet de app open staan nadat ik mijn code had laten zien. Binnen 2 uur was mijn telefoon leeg. Daarnaast een waardeloze manier om het gepeuppel in bedwang te houden.<br> :date: __2021-04-26 18:34:43__
-
-> ben de hele dag bezig en geeft telkens aan app sluiten enz<br> :date: __2021-04-25 00:56:44__
-
-> Van de 3 keer dat ik getest ben heb ik alleen de eerste keer 40 uur lang een bruikbare QR-code gehad. De keren daarna was die eenmalig te zien na het importeren en vervolgens verdwenen (melding: QR code verlopen). En omdat ie maar 1 keer te importeren is zit je vervolgens zonder! Als dit de toekomst wordt hoop ik wel dat de app nog wat verbeterd wordt.<br> :date: __2021-04-25 00:41:31__
 
 

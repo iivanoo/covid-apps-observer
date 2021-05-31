@@ -215,6 +215,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 1 reviews"/>
 </p>
 
+> So far all I can say is that in my estimation technology can be a real turn off. 📴<br> :date: __2021-05-26 02:18:01__
+
 > Passed all the connection test, but I couldn't log in. Error "needs a stable connection". I'm using a private wifi, even tried cellular data. Gave permissions, closed background apps, same issue. Not user friendly at all<br> :date: __2021-04-02 14:53:00__
 
 > It gives general problem statements and the techs can't help. VERY UNRELIABLE SYSTEM.<br> :date: __2021-01-22 18:44:48__
@@ -232,7 +234,5 @@ No recent reviews available with 2 stars.
 > A necessary app for me, but doesn't accept any information that I enter into it<br> :date: __2020-05-24 00:41:33__
 
 > It's not even downloading. Glad I waisted my time with it<br> :date: __2020-04-08 18:08:02__
-
-> Could not download.<br> :date: __2020-03-31 05:56:36__
 
 

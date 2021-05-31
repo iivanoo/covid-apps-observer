@@ -147,25 +147,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> For Your own safe, just follow the rules.<br> :date: __2021-05-22 16:09:45__
+> Love, Love this app especially checkin at venues that I travel, only downside I can't add my mother's results etc. and unable to download the app on my phone for my mother so having to enter her results in my app which I'm sure isn't correct<br> :date: __2021-05-30 10:24:33__
 
-> very good service just what I needed<br> :date: __2021-05-22 13:57:40__
+> they are observing all the rules here<br> :date: __2021-05-29 19:09:13__
 
-> very good and very easy to understand<br> :date: __2021-05-22 12:26:54__
+> Simple, easy to use and most of all we remain anonymous with regards to data, just how it should be! If only more places had track and trace, it should be mandatory at every pub for those who have a smart phone and able to do so.<br> :date: __2021-05-29 18:55:10__
 
-> very useful and helpful and easy to use<br> :date: __2021-05-22 12:21:58__
+> very helpful<br> :date: __2021-05-29 18:41:01__
 
-> Lovely cafe in Renishaw Hall. very clean, great Covid practices. Good food and great coffees. Decor very civilised! Plenty of outdoor space - if only it would stop raining! Renishaw Gardens are well worth a visit<br> :date: __2021-05-22 11:55:45__
+> I cannot use this app because I am not from any of the choices of regions/places, but I have heard that it is a great app from a friend so I'll just kindly give a full-on review ig, okay bye.<br> :date: __2021-05-29 16:57:06__
 
-> works well and saves us lots of time<br> :date: __2021-05-22 11:30:39__
+> Very good aop,<br> :date: __2021-05-29 15:16:28__
 
-> Always aware --and tested every other week<br> :date: __2021-05-22 10:30:10__
+> This is an excellent app and is very easy to use.<br> :date: __2021-05-29 15:01:06__
 
-> good app<br> :date: __2021-05-22 10:21:19__
+> Well done NHS and Government for trying to protect the public.<br> :date: __2021-05-29 13:37:54__
 
-> works great.<br> :date: __2021-05-22 09:25:18__
+> lovely place. All protocols followed and very good fare with options for vegan as well.<br> :date: __2021-05-29 13:27:18__
 
-> Helps keep the country safe<br> :date: __2021-05-22 09:14:42__
+> great app<br> :date: __2021-05-29 13:10:50__
 
 
 
@@ -175,25 +175,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
 
+> it's OK.<br> :date: __2021-05-30 11:39:04__
+
+> Usually able to scan in at venues<br> :date: __2021-05-30 11:36:11__
+
+> Working so far<br> :date: __2021-05-29 12:11:24__
+
+> Possibly forwarding my location to my assigned FBI agent, probably.<br> :date: __2021-05-26 13:34:21__
+
+> easy to use<br> :date: __2021-05-24 21:35:31__
+
+> This app is OK but I would like an option to activate it when I leave my house. It keeps sending me reminders because I've turned Bluetooth off, but I don't want to have my BT on all the time when I'm working from home and not going anywhere. Could you have an option to set a home location and then have it automatically activated when I'm not at that location?<br> :date: __2021-05-24 17:14:44__
+
+> if we all play our part we will beat covid<br> :date: __2021-05-24 14:53:05__
+
+> I have heard I can now enter my vaccine status but can't find out how to do that. Otherwise seems ok.<br> :date: __2021-05-23 11:09:06__
+
+> Won't work on my phone, says it is a tablet. It's not, it is a Galaxy Fold. It will work with the phone closed. Edit- it does work now.<br> :date: __2021-05-22 18:22:37__
+
 > Good app but needs to include if you have had the vaccine<br> :date: __2021-05-22 13:35:44__
-
-> Does'nt always work<br> :date: __2021-05-22 00:09:37__
-
-> Easy to use and provides excellent information.<br> :date: __2021-05-21 16:57:45__
-
-> BBC news have said covid: test and trace failure helped Indian variant spread, report says if this is true then so why waste £37bn on making this app.<br> :date: __2021-05-21 05:58:13__
-
-> you have to scan in and put hand cream on then you wait till you are shown to a table, next you order a drink and your meal. very polite and friendly you are called up for your meal you tell the chef that you want then you return to wait for your meal and your drinks are brought to you. when you have eaten you leave bye a top door back to the carparck<br> :date: __2021-05-20 17:11:57__
-
-> When the little symbol comes up on my phone, telling me it's loading, sometimes it doesn't go away for days. I've had that loading symbol on my phone now for three days, so I uninstalled and reinstalled. Had it there for a week before, then I got bored of it. Other than that, seems a good little app.<br> :date: __2021-05-20 09:24:12__
-
-> Good app,.does what it does NHS why not add the ability to book a vaccination on the home page,.also vaccination history, this to bolster any future vaccination passport info if required<br> :date: __2021-05-19 12:58:04__
-
-> Needs to be opened to Scotland. I don't see the point in have 2 apps... This makes more sense it is even named correctly.<br> :date: __2021-05-19 12:13:48__
-
-> Hi when are you going to update to show proof of vaccination<br> :date: __2021-05-18 16:10:50__
-
-> easy to use once you know how. There are no clear instructions.<br> :date: __2021-05-18 15:46:00__
 
 
 
@@ -203,25 +203,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
-> big brother is watching us😂<br> :date: __2021-05-22 12:05:31__
+> We are being asked to take lateral flow tests 2 times a week but the app does not accept home lateral flow test strip code so cannot report result<br> :date: __2021-05-30 12:42:43__
 
-> As the restrictions change, the app doesn't always update to changes..... it's still saying we're in lockdown, but there are changes coming on 17th May...umm its nearly June now. Urgh. Other than that it seems ok for checking into venues etc.<br> :date: __2021-05-22 11:52:38__
+> Why isnt it compatible with the Scotland QR codes? :( Also why is is not loaded with a way to book a vaccine? Or at least links to where the closest centre is?<br> :date: __2021-05-29 15:50:08__
 
-> won't let me put my information into it so can be my personal information ie passport<br> :date: __2021-05-20 20:53:06__
+> The contract tracing part worked for me (had an alert, and know who triggered it) but there are still issues: I've had two tests (both at test centres, both negative) but could not enter the results as the app wouldn't recognise any codes I got; as others have mentioned there's still no way to check out of a venue having checked in; finally, it's not clear to me how vaccinations are going to be recorded for proof of status - batch and NHS number (so much for not identifying users)?<br> :date: __2021-05-28 08:20:51__
 
-> When will app be updated to show vaccination status for android phones?<br> :date: __2021-05-20 19:20:27__
+> Im not sure I trust this applications security as having to leave your Bluetioth open is generally a big risk. The apps usage is reletively easy.<br> :date: __2021-05-26 10:37:22__
 
-> it's fine<br> :date: __2021-05-19 20:09:53__
+> Drains phone battery very fast<br> :date: __2021-05-25 19:16:20__
 
-> sometimes it goes wrong and don't let me get into it<br> :date: __2021-05-19 13:51:32__
+> Should be able to manually enter location.<br> :date: __2021-05-25 13:56:08__
 
-> When will the app show vaccine record ?<br> :date: __2021-05-18 19:05:16__
+> Works, but drains my battery, my charging time is really long when this app is installed. After uninstalling, my charging went back to normal.<br> :date: __2021-05-25 12:30:07__
 
-> Why is the shortcut no longer available in my apps? It's been fine until this week (when ironically I've used it more!)<br> :date: __2021-05-18 16:42:54__
+> The app used to work great. But recently no matter what codes I try, the app doesn't seem to register them.<br> :date: __2021-05-25 09:43:46__
 
-> 2 days after the May 17th restrictions easing and the app still hadn't updated.<br> :date: __2021-05-18 11:29:05__
+> OK<br> :date: __2021-05-24 15:02:10__
 
-> I was under the impression you could keep your vaccination data within this app due to the reports of fraudulent vaccination documents on the rise, could do with enhancing so you could input other relevant data.<br> :date: __2021-05-16 21:00:03__
+> It doesn't always work.<br> :date: __2021-05-24 10:07:34__
 
 
 
@@ -231,25 +231,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
-> not great! not worth £37b<br> :date: __2021-05-22 13:21:28__
+> very busy<br> :date: __2021-05-29 15:56:41__
 
-> It is for keeping updated in my area. It isn't updated very often.<br> :date: __2021-05-22 12:07:01__
+> Keeps wanting to reload, ok after deleting and reinstalling but off it goes again after a few days. Update it's still doing it, twice now in the last 7:days<br> :date: __2021-05-29 09:08:51__
 
-> Annoying<br> :date: __2021-05-20 21:27:52__
+> When is the app going to record you've had both vaccine injections ??? Or is this going to be recorded using a different method<br> :date: __2021-05-27 19:11:06__
 
-> Annoying. Get pop ups "alerts" on my phone that disappear as soon as tap to look at them. Next door got Covid-19, app told me I was infected, despite never being in contact with them other than by text. Waste of NHS resources tbh ..<br> :date: __2021-05-20 20:16:05__
+> Ur app is kinda stupid I get texts to isolate yes I've covid caught it from my pharmacy! U send texts I put in the code & part of post code, few days later saying my isolation is over get phone call from Track n Trace asking me strange questions i.e the runs, rash! She didn't know the 3main symptoms. Pointless! Soon isolation will be over but I'm still suffering flu symptoms, all my bones hurt, 10days is not enough time to recover. Bombarded with texts& phone calls outrageous, I've mental health<br> :date: __2021-05-27 04:40:39__
 
-> Was very cross today when the app had disappeared off my tablet what's point of track and trace when you come to use it and it's gone had to reput it on<br> :date: __2021-05-20 12:09:32__
+> this app is so useful and very helpful<br> :date: __2021-05-26 16:33:35__
 
-> Recently relocated quite a distance to discover there's no way to change your postcode on this app when you move house. Now the location information is out of date and useless.<br> :date: __2021-05-19 20:16:26__
+> Waste of tax payers money, doesn't do what the government said it would do.<br> :date: __2021-05-26 15:34:42__
 
-> Had to uninstall as every I switched on it crashed my phone!<br> :date: __2021-05-19 07:58:09__
+> seems stupid if get orderd to quarantine from this if I go I to a venue but don't get within 10 feet of someone and why an I not be told who I have been in contact with<br> :date: __2021-05-26 14:12:31__
 
-> Now does not allow me to stop scanning for an indefinite period, max 12 hrs. I live alone, I do not go near people, I might go into the local village or a shop once a week. I don't need it on very often I have blocked all notifications.<br> :date: __2021-05-18 19:09:58__
+> having to use location and Bluetooth means it eats your battery and data. otherwise, quite easy to use<br> :date: __2021-05-26 13:59:02__
 
-> When you try to scan the app, while checking in at a venue, it doesn't respond<br> :date: __2021-05-18 15:18:31__
+> The app does what it's meant to ok but honestly, what a fuss to do a simple check in. Must have bluetooth and location on before it will even let you in. Surely this could be optional as I'm never anywhere close enough to anyone to worry about catching this thing these days!<br> :date: __2021-05-26 12:02:03__
 
-> Others, like me, have been confused about which app to use to show your vaccination record. NOTE: You need the standard NHS app, linked to your medical records, to show that, NOT this one. My vaccination records show clearly in the NHS app.<br> :date: __2021-05-18 11:25:44__
+> Notifications that do not go away meaning that I need to quite often uninstall / reinstall.<br> :date: __2021-05-26 10:12:39__
 
 
 
@@ -259,24 +259,24 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> Inconsistent dates, track and trace tell you to of igore them on the phone, huge delay between registering a positive test and your contacts actually receiving a notification (even if they've been in the same room all day)<br> :date: __2021-05-22 17:13:48__
+> Horrifically made<br> :date: __2021-05-30 11:32:34__
 
-> The app wouldn't even recognise the letter l meaning that the test results were impossible to put in. And considering we had to buy a new phone to get the app. The app is downright useless for us<br> :date: __2021-05-22 17:07:06__
+> Uninstalling right now. Useless, stops other apps from working, endless notifications to turn Bluetooth and location on, which drains battery at light speed. Nowhere to enter my jab details and hasn't alerted me to at least 3 different recent outbreaks I didn't know about. Useless faff, read enough reviews which state the same issues as I, and the replies from the department of health are shockingly ignorant and insulting. Terrible app<br> :date: __2021-05-30 10:56:59__
 
-> rubbish<br> :date: __2021-05-22 16:39:55__
+> The idea of the app is fantastic, the advise given is very poor. Wouldn't book a slot that was available despite being half hour before the slot time. Spike to 119 who said it was too short notice. Why display and have slots available that you cannot book. Also if you have been contacted by track and trace and have to self isolate, why does a negative test not superseed this advise<br> :date: __2021-05-30 10:46:43__
 
-> App is awful and I can't use it, turned it on and in 15 minutes the Bluetooth used almost 40 percent of phones power. So unless my Bluetooth is broken somehow that's not a workable amount of power drain<br> :date: __2021-05-22 16:03:03__
+> OK I'm prepared to accept using this app for the benefit of helping defeat covid. However it needs to allow you to read notifications without having to turn on location and Bluetooth. I won't turn on location at home since I don't wish to share Edit 18.03.21. Now down to 2* since you seem totally incapable of answering the question above. Turned on BT but app won't open unless location is turned on. Cannot receive any notifications. Useless.<br> :date: __2021-05-30 09:02:39__
 
-> doesn't even work on my phone what a joke<br> :date: __2021-05-22 14:16:36__
+> The app won't work. Just a black screen and then it crashes!<br> :date: __2021-05-30 00:39:48__
 
-> Worst use of taxpayers money- wasting battery of users ALL THE TIME<br> :date: __2021-05-22 12:37:34__
+> Dirt Pure Dirt<br> :date: __2021-05-29 21:39:10__
 
-> Doesn't scan the QR codes<br> :date: __2021-05-22 10:06:59__
+> Despite our area being level 4 for over a year, this app never notified us, not even once of any confirmation of diagnosis, we even tried it when a friend contracted covid... The app didn't work if this response is correct, the app did not work...<br> :date: __2021-05-29 18:35:10__
 
-> Not worth the £35 million it cost us to produce<br> :date: __2021-05-22 00:15:54__
+> Waste of time does not work most of the time<br> :date: __2021-05-29 18:04:48__
 
-> Rubbish app, have had both jabs an can't show IV had them.<br> :date: __2021-05-21 20:48:39__
+> useless<br> :date: __2021-05-29 17:45:42__
 
-> App will no longer open for the last week or so, just hangs on the black nhs covid loadscreen. Had no issues until recently. Samsung S21 ultra.<br> :date: __2021-05-21 15:24:52__
+> Crashed my Samsung A71 then my Huawei p30. Lost all photos and data. I do not recommend<br> :date: __2021-05-29 14:55:00__
 
 

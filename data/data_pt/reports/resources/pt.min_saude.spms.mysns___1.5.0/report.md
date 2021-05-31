@@ -283,6 +283,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Demasiado mau. Esperemos que esta coisa seja extinta e substituída por uma app do estado dirigida por profissionais capazes<br> :date: __2021-05-27 20:18:14__
+
+> Péssimo<br> :date: __2021-05-26 08:32:19__
+
+> Péssima APP! Sempre que tentamos efectuar o login, tem que se colocar os dados outra vez. Eu como fiz pelo número de utente, o espaço para data de nascimento é pelo calendário e temos que passar página a página até nesse caso a minha 1977. Não leva zero porque o mínimo é uma estrela. Vou já desinstalar !<br> :date: __2021-05-24 16:37:57__
+
 > Inútil e app desatualizado.<br> :date: __2021-05-19 08:41:10__
 
 > O SNS sugere a instalação da ap MySNS carteira para ter acesso às receitas médicas. Recebi uma mensagem com uma receita que não solicitei, Instalei a ap, mas não está lá receita nenhuma. Fui ao computador e entrei com o cartão de cidadão, também não está nada<br> :date: __2021-05-13 15:43:25__
@@ -296,11 +302,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Não me parece ser grande coisa<br> :date: __2021-04-29 20:54:29__
 
 > Minha educação não me pemite comentar!!<br> :date: __2021-04-27 15:35:19__
-
-> Má<br> :date: __2021-04-20 15:39:52__
-
-> Perdi tudo do sns e nao da para recuperar<br> :date: __2021-04-17 13:00:01__
-
-> As dificuldades em entrar, encontrar o que queremos. É muita coisa e pouca funciona na perfeição.<br> :date: __2021-04-13 18:27:28__
 
 

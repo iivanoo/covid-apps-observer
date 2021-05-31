@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Love it? Easy to use and very helpful in this pandemic. I would highly recommend it. 💯🎯😜Stay Safe Everyone😷<br> :date: __2021-05-26 06:58:45__
+
 > Great<br> :date: __2021-04-24 22:09:23__
 
 > Very informative and helpful.<br> :date: __2021-04-09 01:04:49__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > I don't live in Nevada I live in Michigan<br> :date: __2021-02-03 19:28:11__
 
 > At Circus Circus...chk out 11 am...no home but a longtime friend to help...Pres Biden says to remain vigilant..ab( alxenia) 🧓👵😷<br> :date: __2021-02-01 18:14:47__
-
-> At Circus Circus...chk out 11 am...no home but a long time friend to help..Pres Biden says remain vigilant• alxenia👵🤕😷<br> :date: __2021-02-01 18:12:34__
 
 
 
@@ -221,6 +221,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Installed communist tyranny for math illiterate diaper face cult.<br> :date: __2021-05-29 11:48:29__
+
 > Ibhave never been notified even though people in my Sun city community have been infected. Worthless app.<br> :date: __2021-03-19 19:51:02__
 
 > No evidence of covid-19 at all send back home to mom only. Nothing else anded.<br> :date: __2021-03-14 01:39:12__
@@ -238,7 +240,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > NV advised everyone to get this app but the only thing that it does that I can tell is whine when bluetooth is turned off. Being an associate of the healthcare industry this just appears to be another government advertised strawman app that nobody really has any use for....though its tempting to kick this on near the COVID wing and see if it goes off like a four alarm fire.....I'm highly doubtful it would.<br> :date: __2021-02-10 08:34:36__
 
 > I tried to use this to notify that I had a positive test while sitting in the urgent care that gave me the results. They had no verification code to give me. What good is the app if I can't actually use it for it's intended purpose?<br> :date: __2021-02-06 18:40:50__
-
-> Dreadfully non-functional software.<br> :date: __2021-02-05 14:20:38__
 
 

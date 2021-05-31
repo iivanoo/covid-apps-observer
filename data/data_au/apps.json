@@ -4,7 +4,7 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "2.6",
-        "latest_crawl": 1621702120
+        "latest_crawl": 1622378504
     },
     {
         "id": "org.who.infoapp",
@@ -18,14 +18,14 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "1.4.10",
-        "latest_crawl": 1621702258
+        "latest_crawl": 1622378639
     },
     {
         "id": "com.myaus",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "48",
-        "latest_crawl": 1621702266
+        "latest_crawl": 1622378644
     },
     {
         "id": "de.xikolo.openwho",
@@ -39,14 +39,14 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "1.9.0",
-        "latest_crawl": 1621702274
+        "latest_crawl": 1622378743
     },
     {
         "id": "au.gov.nsw.service",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "6.10.0 (269419)",
-        "latest_crawl": 1621702483
+        "latest_crawl": 1622378745
     },
     {
         "id": "mycc.cic.bupaconnect",
@@ -72,7 +72,7 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "3.2.0.2641",
-        "latest_crawl": 1621703071
+        "latest_crawl": 1622379117
     },
     {
         "id": "au.gov.vic.premiersactiveapril",

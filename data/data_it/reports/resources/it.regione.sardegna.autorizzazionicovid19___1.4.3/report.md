@@ -288,24 +288,24 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
+> Ho inserito tutti i dati correttamente, ma dopo il salvataggio LE DATE SONO STATE CAMBIATE!!! Sono sicurissimo di averle inserite correttamente. Mai vista una cosa così.<br> :date: __2021-05-29 21:04:25__
+
+> Se Solinas vuole affossare la principale fonte di reddito della Sardegna ci sta riuscendo! App inutile assurda coi certificati vaccinali alla mano. Un casino nei porti. Il download che nn parte mai mai Tanta burocrazia e tecnologia da terzo mondo.<br> :date: __2021-05-28 19:23:11__
+
+> Non funziona su Sony Xperia xz1 compact, lo scorso anno funzionava.<br> :date: __2021-05-26 14:54:17__
+
+> Buongiorno, ho inserito la data di arrivo nel portale ( 29-05-21) ma una volta inserita la sposta al giorno successivo, ho effettuato diversi tentativi ( 3 tentativi quindi dubito fortemente di aver commesso errori 3 volte di seguito), ho provato a chiamare il numero verde, inviato email all'urp.emergenza, non ho ricevuto alcun tipo di aiuto. Non accetto risposte quali "provi ad inserire i dati corretti" , sono SICURA di aver fatto tutto giusto<br> :date: __2021-05-26 13:24:17__
+
+> Buongiorno,siamo alla quarta richiesta di risoluzione del problema ma ancora non avete capito la situazione,come faccio a riprovare con la registrazione se da cellulare l'applicazione non si apre nemmeno?inoltre ho già scritto alla mail che mi avete indicato senza avere nessuna risposta<br> :date: __2021-05-24 14:12:00__
+
+> Una pagliacciata. Quando lo avrete compreso sarà già troppo tardi.<br> :date: __2021-05-22 22:58:19__
+
+> Funziona da fare pena<br> :date: __2021-05-22 21:54:42__
+
+> Male troppo complicata<br> :date: __2021-05-22 17:31:21__
+
 > Ho scaricato e disinstallato l'app diverse volte ma niente non funziona ,cosa posso fare ?<br> :date: __2021-05-22 07:39:04__
 
-> Buonasera,sono ormai passati 16 giorni dalla prima segnalazione sul non funzionamento dell'applicazione, quando si risolverà il problema?<br> :date: __2021-05-21 19:30:04__
-
 > Ho necessità di resettare la password, ma non mi arriva l'email per completare la procedura. Una app inutile al pari di queste inutili misure anticovid che non servono a limitare i contagi, ma solo a complicare la vita alle persone<br> :date: __2021-05-21 05:34:48__
-
-> Negative<br> :date: __2021-05-20 20:54:51__
-
-> Ovviamente non funziona. Nemmeno con l'ultimo aggiornamento. Complimenti 🔝<br> :date: __2021-05-19 08:45:52__
-
-> Fatta con i piedi. Piena di Bug e soppratutto inutilee!!!!!!! Che pena...<br> :date: __2021-05-16 21:53:31__
-
-> Semplicemente NON funziona.<br> :date: __2021-05-16 08:33:20__
-
-> Buongiorno, ho inserito la data di arrivo nell'app (giorno 22) ma una volta completata la registrazione la data comunicata nella mail risulta essere il 23.<br> :date: __2021-05-16 00:10:31__
-
-> Buon giorno, sono giorni che cerco d'aprire l'applicazione con scarsi successi ,vedo solo la schermata bianca con il logo di Sardegna sicura e nient'altro .Disinstalla e installata di nuovo e ogni tanto ci provo con scarsi successo, visto che sono Sarda e tra poco verrò in Sardegna come ogni anno. Prego aggiornare l'APP<br> :date: __2021-05-05 17:18:32__
-
-> L'ho scaricata ma non si apre.<br> :date: __2021-04-20 15:45:28__
 
 

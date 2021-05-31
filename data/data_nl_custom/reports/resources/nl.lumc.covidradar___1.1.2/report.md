@@ -168,6 +168,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 4 reviews"/>
 </p>
 
+> Vind dat zolang corona nog niet onder controle is ,se radar essentieel blijft<br> :date: __2021-05-25 19:02:23__
+
 > Bij mogelijk Covid-19Besmetting (bijv. door CoronaMelder app gemeld): Met covid19Radar kan men na een patientstatus-verandering, dit doorgeven. Men zou ook Griep- en Covid19-VACCinnaties-met xxx moeten kunnen registreren, later eventuele bijwerkingen Als men last van HooiKoorts of andere onderliggendeZiektes heeft, kan men wel Zelf beoordelen of iets al-of-niet toch een Covid-19Symptoom is. CovidRadar en CoronaCheck (Luscii OLVG): Incontinentie (via hersensignaal al-of-niet telaat)?<br> :date: __2021-04-09 10:34:36__
 
 > Goed.<br> :date: __2021-03-05 01:50:28__
@@ -185,8 +187,6 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Laatste vraag over hoeveel mensen er te dicht bij kwamen invullen lukr niet altijd daar de versturen balk ervoor zit en een antwoord blokkeert.<br> :date: __2020-04-26 15:25:04__
 
 > Sommige schuiven zijn nogal aanraakgevoelig, geeft onbedoeld verkeerde waarden. Sinds de laatste update valt de Versturen knop over de laatste schuif heen en is niet meer bereikbaar.<br> :date: __2020-04-24 21:18:13__
-
-> Laatste vraag kan niet worden ingevuld, het veld "Versturen" staat ervoor en dus in de weg. Verder een onzinnige vraag over 5 meter afstand. Als je alleen al aan het fietsen bent, komt iedereen die je tegenkomt binnen die 5 meter....<br> :date: __2020-04-24 08:12:08__
 
 
 

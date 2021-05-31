@@ -89,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxbfHZgH3_YPOjvDpHnp7IG8MPmrsLsz3RExPBa=mo",
         "content": "\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f,\u0441\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u043c\u0435\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0448\u044c \u0438 \u043e\u043d\u0438 \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f. \u041f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f.\u0412 \u0447\u0435\u043c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043c\u0430?",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.0.9",
         "at": "2021-03-23 17:57:33",
         "replyContent": null,
@@ -3944,18 +3944,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.9",
         "at": "2020-05-10 19:13:41",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGP6WllKCSBE3isOUmRkV-lZlaLOORFxbWOQGagXssJ4s9MPgUT18_VQMf9ONoYehMktfq6uC_SpF5FBw",
-        "userName": "\u0418\u0433\u043e\u0440\u044c \u0414\u0435\u043c\u0438\u043d",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzabSQSJDhQZUP5LNX6KplYkYG6iCLpWBdcroCa=mo",
-        "content": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u0435, \u043c\u043d\u0435 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.0.9",
-        "at": "2020-05-10 18:02:04",
         "replyContent": null,
         "repliedAt": null
     },
@@ -11996,6 +11984,18 @@
         "thumbsUpCount": 5,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-04-21 22:28:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFi-30YNHV0Yk2FKqV5E-E9q9WJhadLtJcMLqxCld5qdav8IN7kSZKIPZaBfqPB53_yPa8B-EK48Hy9Jw",
+        "userName": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFTZrD2MKiO_TVCNU9gPBopcqbhdTRtc6T4uvppw",
+        "content": "\u0423\u0436\u0430\u0441\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.0.6",
+        "at": "2020-04-21 21:45:15",
         "replyContent": null,
         "repliedAt": null
     }

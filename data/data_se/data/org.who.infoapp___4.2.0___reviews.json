@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOF1-P6Fn-fksUIYJYbPHfkCQjXGnCQm_s6_vzFNQG-0iyWE3vrABmfnBTD2VAwu3qNQ6rbXPwdEoUTQyjA",
+        "userName": "Stacy John",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwVwwnCFCZ2tQO2A4zrpOJ7JPBIdqlFEtHn3FRr=mo",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-24 14:42:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEmbXET2_O0qkjWPynPUiLqpldijgqHoshQYfix2A1QsU_RxsF2vJO_nT45l6_QQHNQtIEsVFu_XlR2nco",
         "userName": "Kamal Sharma",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzlJudRIlXUEtrKLQKJ1f-hrSt4CWBk3g4O72TT=mo",
@@ -24,18 +36,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOE4rVpQgka0QVFWUo28zEP7yPcw4h9--ZAukfKTGs-c-GU0EqHZbDA0OzuCA0EKIb7rBwzemYy2pGS2_E8",
-        "userName": "Gi Gi",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxzPyY2hvzInleW07oKtAXTWTxerR-6F-v6a9nh=mo",
-        "content": "Thanks you.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-05-13 13:33:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOHcMUrLdFDv54UE7VCkQw720jmJM2wZe-TzAyr85DSboLBNBXebqx52I_VciWnGfSHT2b9kX0Y3HLFPBEQ",
         "userName": "LEGEND GAMER",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghs_rYa-jUQBp5h-z8FFB543Avlk-8NisHSSLdo",
@@ -53,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgA5vLBTF_4MzkhbRc302cBQ-rvuRfDJbo49yN5w",
         "content": "Overall good app with simple, easy to use design. I would suggest to implement a section dedicated to covid 19 variants, giving a map overview of how they spread and list how effective different vaccines are against them. Also I think the statistics found at worldometer could give some ideas for improvement or even be adopted. (specially the \"sources\" section and the customizable list of nations)",
         "score": 4,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 19,
         "reviewCreatedVersion": "4.2.0",
         "at": "2021-05-05 06:52:10",
         "replyContent": null,
@@ -125,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4vw0TzmJvebUmcO93PlYWzDAvclgCAVuzaTX2=mo",
         "content": "I had the app only a few seconds. I was wondering if we can use it to track vaccination. I am wondering. The EU develop a digital vaccination pass. Why does this app got not simply enhanced. The old yellow books were also from the WHO. Can you add such a feature? I think it would make really sense if the WHO had this feature in it and it can be globally used.",
         "score": 2,
-        "thumbsUpCount": 37,
+        "thumbsUpCount": 42,
         "reviewCreatedVersion": "4.1.0",
         "at": "2021-04-04 23:04:57",
         "replyContent": null,
@@ -137,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7cKqZkTIq9aZwPI_IGK2hPXCpfq0qCND4uu_6=mo",
         "content": "This app is as is the definition of w.h.o. it barely works, it ccp funded, and is late with useless information.",
         "score": 1,
-        "thumbsUpCount": 47,
+        "thumbsUpCount": 53,
         "reviewCreatedVersion": "4.1.0",
         "at": "2021-03-31 11:03:41",
         "replyContent": null,
@@ -281,7 +281,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyOnXRfga81s3rsHRZdu7XpcfY7D8P-nwH9DdEJ=mo",
         "content": "Very nice app for health.",
         "score": 5,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "4.0.1",
         "at": "2020-12-12 06:15:46",
         "replyContent": null,
@@ -398,7 +398,7 @@
     {
         "reviewId": "gp:AOqpTOHTzFHwNBfezT_CttQ1tRs42VTfb9sPBpMdPKbg_pv2gBMQl5YuUaT0-_dWNnmTOfoWJ5VtthKZ4khSN8I",
         "userName": "Haj Saeid",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzkIhHj0Fq7ZGne_c_sNZoHmDBi9E2la3digpDM=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhIbRO18Dg0lxMClIlgMBRv8lNnS4aWFOBWe4fC",
         "content": "Very scammers",
         "score": 1,
         "thumbsUpCount": 1,

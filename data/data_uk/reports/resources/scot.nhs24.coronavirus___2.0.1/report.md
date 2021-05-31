@@ -127,6 +127,8 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 5 reviews"/>
 </p>
 
+> Gives confidence back although it can't prevent the Covidiots!<br> :date: __2021-05-24 16:34:13__
+
 > Just get this app on my phone please<br> :date: __2021-05-22 15:09:52__
 
 > Have symptoms.<br> :date: __2021-02-04 02:33:24__
@@ -191,6 +193,8 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="1_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 1 reviews"/>
 </p>
 
+> Does not answer my question about Covid19 vaccination records<br> :date: __2021-05-28 12:58:38__
+
 > I dont live in scotland, why would I want this?<br> :date: __2021-01-28 14:01:16__
 
 > There is no track and trace, if this isn't it then where is it?<br> :date: __2020-12-18 17:52:56__
@@ -208,7 +212,5 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 > no use at all<br> :date: __2020-09-27 20:36:00__
 
 > This is for Scotland not England<br> :date: __2020-09-24 22:04:32__
-
-> Not sure I've got the right app I wanted the track and trace one<br> :date: __2020-09-24 19:30:42__
 
 

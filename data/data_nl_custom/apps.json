@@ -10,15 +10,15 @@
         "id": "at.roteskreuz.stopcorona",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "2.1.2.1239-QA_263-2-gcc633a7",
-        "latest_crawl": 1621688555
+        "latest_crawled_version": "2.1.4.1247-QA_266",
+        "latest_crawl": 1622361723
     },
     {
         "id": "nl.rivm.lciapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1621688564
+        "latest_crawl": 1622361756
     },
     {
         "id": "org.who.infoapp",
@@ -46,21 +46,21 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.5.0",
-        "latest_crawl": 1621688979
+        "latest_crawl": 1622362304
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1621689058
+        "latest_crawl": 1622362305
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.3",
-        "latest_crawl": 1621689062
+        "latest_crawl": 1622362309
     },
     {
         "id": "nl.rijksoverheid.en",

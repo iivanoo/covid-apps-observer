@@ -287,6 +287,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 2 reviews"/>
 </p>
 
+> Needs work. Waited multiple times for Drs to either cancel or that we're no longer available. This should be figured out before a patient has to wait. I also tried to make another apt for my infant, waited over 30 mins to finally be told by a Dr that virtual visits are not available for patients under 2. I could have avoid waiting if that would have been started at the beginning.<br> :date: __2021-05-29 17:30:06__
+
 > This app used to be great now it sux i have insurance seems that good ole Cleveland Clinic is out for the mighty dollar i used this app fine before now they want to charge 55 dollars then reimburse me i dont have no damn money on my card i live on SSI and have insurancs best add Caresource to your list<br> :date: __2020-12-13 19:51:21__
 
 > Medicare is not listed Didn't have enough money<br> :date: __2020-07-25 18:16:48__
@@ -304,8 +306,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > unable to transfer my chart to newer phone. can not access my chart from previous phone.<br> :date: __2019-03-22 13:21:20__
 
 > I had connection issues a couple minutes after the appointment started. I disconnected and tried to reconnect, but the app wouldn't let me do that. I ended up just doing the appointment over a phone call, much simpler and more reliable that way.  It's also annoying that it makes you fill out payment info and other forms right when you're supposed to have your appointment, instead of letting you do that in advance.<br> :date: __2017-09-02 05:19:50__
-
-> I have yet to be able to contact anyone on this app and there is no phone number to get help with this app<br> :date: __2016-03-14 15:21:44__
 
 
 

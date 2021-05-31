@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGTvqDYzUUBkCjejATi7E8zqZ1G-gk_fujD5XGiIYEwholpXy9iLUqJmnpfaU2DmHMEmAnudsfATmqbsw",
+        "userName": "Alan Magnus-Bennett",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy7xfK1UDC8-vI7N1Dn7uHHoFuizfoHrJw4o53S=mo",
+        "content": "Does not answer my question about Covid19 vaccination records",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.1",
+        "at": "2021-05-28 12:58:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEf9FM4EttCOBN2YCqlC4r1m9s9uaTM8R_j4qFNwlsePW9dIzK0YGbR1Pf4-_wwVNJY56JRlL7spi_PFw",
+        "userName": "Malcolm Carlisle",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhilyYm4ql0-Msn5wkVvdYgCEcGgv4RaW7dQqPRROs",
+        "content": "Gives confidence back although it can't prevent the Covidiots!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-24 16:34:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOElrISYzpKttD_M6NIJ05K_uuKCmvSJSkvZvDng5-8PJF4nD2G1shZV0fYFPofYlsMUi57hIbMaUQBplQ",
         "userName": "Heath Askham",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzO3W-3vg3CT2ayOhYxYduwVeYOJ3iQOwwsIv2D=mo",
@@ -233,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinolNIBkIO_BhzDbMEvIq_Qn4WFngLPbk6xPfeqw",
         "content": "This is an excellent app with key information relating to coronavirus. Everyone should download it. However, for all of the clueless wonders out there who cannot read and have left it One Star reviews because it doesn't trace, it's not supposed to trace. There is a specific, dedicated app for 'Test & Protect' in Scotland, and that is the new Scottish tracking app. Learn to read, and you may well have a better chance of doing what you need to do in order to avoid coronavirus.",
         "score": 5,
-        "thumbsUpCount": 103,
+        "thumbsUpCount": 104,
         "reviewCreatedVersion": "1.0.4",
         "at": "2020-09-24 18:39:42",
         "replyContent": null,

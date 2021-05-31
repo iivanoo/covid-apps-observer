@@ -271,6 +271,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
 
+> Why is out of date 2020 aged care news top news article? This federal government has failed Australia. What a joke.<br> :date: __2021-05-30 06:46:46__
+
 > Dont use green zone<br> :date: __2021-04-17 03:23:44__
 
 > ins<br> :date: __2021-04-09 07:40:10__
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Best government statement ever, "if every Australian downloads this app we will open the pubs and clubs". What a waste of money<br> :date: __2020-12-24 12:04:31__
 
 > Gay<br> :date: __2020-12-21 00:32:03__
-
-> Useless. Very outdated notification feed. This app has life in my phone less than 5 minutes. Wish the government does more research for what citizens needs before watst the public money.<br> :date: __2020-12-19 21:25:15__
 
 

@@ -213,6 +213,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Fast and easy. No long wait at urgent care<br> :date: __2021-05-25 18:32:01__
+
 > The app was very straightforward and easy to use. The doctor was very professional and .out important, he provided excellent treatment options.<br> :date: __2021-05-22 14:38:15__
 
 > Easy to use<br> :date: __2021-05-20 00:52:33__
@@ -230,8 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > What a wonderful and easy access to help with mental health solutions<br> :date: __2021-05-05 15:55:28__
 
 > I saw Dr. Seema Gupta. She listened carefully to my symptoms, asked pertinent questions, explained the treatment and what to do if not feeling better within 2-3 days. I would definitely recommend her to my family & friends.<br> :date: __2021-05-03 17:49:05__
-
-> Excellent and prompt. Shows concern for patients and great diagnosis.<br> :date: __2021-04-30 18:06:30__
 
 
 
@@ -325,6 +325,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> Terrible service, DR's push you thru as fast as they can to get onto the next patient and the next pay check!<br> :date: __2021-05-29 00:47:49__
+
 > Initially I really liked amwell, it was simple and easy to use, and made seeing a doctor during the pandemic a lot easier. However, their mobile app makes it impossible to see receipts/charges/important records, and you can't log in to their website if you're not on a computer. I haven't used their sevices in MONTHS and yet I still receive significant charges that I have to dispute with their customer support team. If you are going to use Amwell, just make sure they are only charging you for the amount you're supposed to pay, and remove your debit card information from your account IMMEDIATELY after you stop using the service, or just don't save it at all.<br> :date: __2021-05-11 14:26:13__
 
 > When the app opens it now says that their services are not available in my state of Florida. But it is available....just for 'better insurance' such as Blue Cross Blue shield and the like.<br> :date: __2021-04-20 23:42:21__
@@ -342,7 +344,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > I HATE THIS APP!! It constantly crashes, won't load, or won't even stay open. I got kicked out of another appointment and that's not good. Especially for people who are paying their hard earned money for the services provided. Please fix.<br> :date: __2021-03-03 20:12:02__
 
 > Got someone who allegedly graduated from NYU School of Med, but had no idea bacteria grew in the large intestine. Not even exaggerating this. Don't use this app unless you have no other options. I'd better not be charged the copay for this.<br> :date: __2021-03-03 02:15:31__
-
-> Sucks<br> :date: __2021-02-27 22:23:22__
 
 

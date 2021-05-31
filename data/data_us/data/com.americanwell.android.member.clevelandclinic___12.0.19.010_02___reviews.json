@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEiS5RmH3OyAp1dhf_hdW1sIdBmRYazQCMrT2Fx2oOCwhon7UOSe37F0BHjeuA9ZsoIs6kk7UOFm5ew3FU",
+        "userName": "Michelle Stern",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzarUBywpcw8VOthsNBTtqENk0F5ArrXQBcapbZ=mo",
+        "content": "Needs work. Waited multiple times for Drs to either cancel or that we're no longer available. This should be figured out before a patient has to wait. I also tried to make another apt for my infant, waited over 30 mins to finally be told by a Dr that virtual visits are not available for patients under 2. I could have avoid waiting if that would have been started at the beginning.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.0.19.010_02",
+        "at": "2021-05-29 17:30:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFxkNbChv8Wp4DMu_nXlfK2yi3yZJB8U3d8__jYnka2fTlcLBoSFj4J56XaarrA18-upXrKsmTJnjIYOV8",
         "userName": "Linda Llew",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxpGmwF20doJdy8Qs6n6GEvRS44Icg8ne51uxSJ=mo",
@@ -305,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzYwgug-qET1jeDHQxKbDacJ-LSwe6W6oJW-mPq=mo",
         "content": "I had to fill out quite a bit of info so be ready with your insurance and payment so you don't get timed out. Was great to talk face to face with a provider when my primary care doctor wasn't available for several more days! Will definitely use this service again!",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-01-05 02:04:15",
         "replyContent": null,

@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
-> Easy to use. Work well with no issues.<br> :date: __2021-05-19 23:08:29__
+> Quick.<br> :date: __2021-05-29 21:10:56__
 
-> Awesome<br> :date: __2021-05-19 02:48:40__
+> Easy & I was taken care of without waiting :)<br> :date: __2021-05-29 20:24:29__
 
-> It took me a while to find a prescriber I liked, but once I did I found this app to be very easy to operate. It's wonderful that you can log in at any time and see who is available. You always have the option to speak with someone.<br> :date: __2021-05-18 22:46:04__
+> First time using<br> :date: __2021-05-29 20:22:07__
 
-> Loved my Doctor Leslie! Very easy to talk to and the app is great!!!<br> :date: __2021-05-15 20:35:13__
+> It was great<br> :date: __2021-05-26 22:57:58__
 
-> Awesome Service<br> :date: __2021-05-15 02:33:16__
+> Amazing!!!<br> :date: __2021-05-25 14:30:01__
 
-> Great experience. I love this app. Dr was very experienced<br> :date: __2021-05-14 22:31:57__
+> Therapist is awesome.<br> :date: __2021-05-25 05:58:59__
 
-> Great<br> :date: __2021-05-14 17:59:05__
+> This is great you can see a Dr anytime of day and they are very helpful<br> :date: __2021-05-25 05:30:16__
 
-> Great service! Doctor was super nice.<br> :date: __2021-05-14 16:43:22__
+> Convenient and easy to use!<br> :date: __2021-05-25 02:11:36__
 
-> Was easy to use and gave good care<br> :date: __2021-05-14 00:32:36__
+> Works great. My Dept offered it instead of office visits. Far cheaper and Rx are sent straight to my local CVS for same day pick up. I don't like going in to the Dr unless I have too.<br> :date: __2021-05-24 01:32:20__
 
-> Very professional experience. The app is easy to use!<br> :date: __2021-05-11 02:56:27__
+> Very convenient<br> :date: __2021-05-23 17:05:41__
 
 
 
@@ -213,6 +213,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> I couldn't find a way to switch to the back camera of the phone. Since Dr needed to look at my feet, using front facing camera was difficult. I had to guess where I was aiming.<br> :date: __2021-05-28 23:17:00__
+
+> kept cutting off<br> :date: __2021-05-23 19:22:14__
 
 > Ok. Difficult to tell if the other person is not talking our that the audio has cut out. Consider a visual clue? (Doctor's mouth not always visible.)<br> :date: __2021-05-15 16:16:46__
 
@@ -229,10 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > The app is convenient but the doctor I had was rude, didn't really listen to my issues and kept interrupting me.<br> :date: __2021-03-11 02:42:13__
 
 > Great<br> :date: __2021-03-08 20:12:22__
-
-> I set up a doctor appointment for my sleep, waited 16 minutes in the waiting room after the set appointment time, only to be told that he's unavailable. I would rate him but so far I'm unable to find his information or even asked why he's declined to see me as a patient today. So far this app has been the worse to appointments, I'm giving it one more chance with a therapist to see if it's any better this round.<br> :date: __2021-02-22 20:40:24__
-
-> Good doctor, hard to hear at times but overall great experience in short matter of time.<br> :date: __2021-01-29 15:34:50__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> I registered on this app tells me my email is in use, so I go to sign in with same email, the app tells me it doesnt have my email on file. Wasted effort since I want to talk to a Dr about the side effects Im experiencing from 2nd Covid vaccine. Anthem BCBS "pretends" to have a patients interest at heary but sets up roadblocks making it difficult to see a doctor online. If I get charged for trying to register or attempting to sign on, I'll contact the insurance commissioner.<br> :date: __2021-05-24 22:04:09__
+
 > Unable to complete a simppe video call appointment. Appointments randomly cancelled and rescheduled. KICKED OUT OF APPOINTMENTS IN THE MIDDLE WITH NO WAY TO ACCESS THEM AGAIN. CONSISTENTLY OVERCHARGED BY HUNDREDS OF DOLLARS FOR VISITS EVEN IF THEY WEREN'T COMPLETED. THIS APP CANNOT HANDLE A SIMPLE VIDEO CALL.<br> :date: __2021-05-19 16:08:11__
 
 > I download the put my info in logged in and the only doctor that they put with is psychology and I just want to see a doctor for my allergies this app is stupid<br> :date: __2021-05-05 03:09:30__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > 30 minutes and waiting for a doctor .. so no, this app is in no way even a tiny bit of replacement for a good old call to a hospital. If you have a cold, a sneeze or anything insignificant to get checked, something that you didn't get checked wouldn't make a difference.. rely on this app.. anything more than that and you're rolling a dice and taking your chances.<br> :date: __2021-04-10 08:38:40__
 
 > If I could give them -47 stars I would. This is by far the absolute worst company every. They know that I am fully covered to use their services with no co pay. My insurance company cannot stop them from charging me. I have been on 3 way calls with my insurance and them and livehealth online still cannot fix the system issue. I have to paid for services that are supposed to be free and they still have not refunded my money. I think this is the best scam on the planet. Run Fast!!<br> :date: __2021-04-06 04:06:00__
-
-> This app is useless since the doctors can only give you prescriptions for medicafio s and a covid test! Other than that they cannot order any ultrasounds or chest xrays!.....it did not meet my needs at all....will uninstall and just go to my doctors office!!! By the way the doctors can cancel your appointment while you wait on them....causing you to have to find another one!<br> :date: __2021-03-30 22:03:17__
 
 

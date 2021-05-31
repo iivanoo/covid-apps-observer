@@ -244,7 +244,7 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
 
-> Der Ansatz der App ist eigentlich gut, die Umsetzug finde ich leider nicht sehr gelungen. Regelmäßig erscheint beim Start eine Fehlermeldung und die App wird geschlossen. In der Regel lässt sie sich dann erst wieder nach ein paar Stunden, manchmal gar nach ein paar Tagen öffnen. Am meisten interessieren mich die aktuellen Meldungen. Diese erhalte ich auch immer wieder per Push-Benachrichtigung. Tippe ich dann darauf wird die App zwar geöffnet, die Nachricht aber nicht angezeigt. Schade!<br> :date: __2021-04-13 15:02:46__
+> An sich eine gute Idee die App mit den angedachten Funktionen und Informationen. Leider funktioniert sie nach der Installation nur eine begrenzte Zeit. Eine neu Installation behebt das Problem. Nur hat man auf immer wieder neu installieren irgendwann keinen nerv mehr dazu. Daher bleibt sie nun deinstalliert.<br> :date: __2021-05-23 09:24:47__
 
 > Geht so. Stürzt andauernd ab. Sehr oft keine Verbindung zum Server. Ansonsten OK<br> :date: __2021-03-13 08:43:37__
 
@@ -272,6 +272,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
 
+> Wenig interessante Informationen und ständig Störungen. Mit so etwas muss sich unser OB nicht brüsten@<br> :date: __2021-05-27 18:44:39__
+
 > Runtergeladen, hängt sich sofort auf,direkt wieder deinstalliert<br> :date: __2021-04-09 21:01:24__
 
 > Die App funktioniert nicht!<br> :date: __2021-03-26 12:56:23__
@@ -289,7 +291,5 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > nach Installation geht leider nichts mehr, kann man vergessen, schade<br> :date: __2021-01-10 11:33:16__
 
 > Neuste Version installiert, app stürzt dennoch immer ab.<br> :date: __2020-12-17 11:57:58__
-
-> Eigentlich eine gute Idee, nur öffnet sich die App nicht mehr<br> :date: __2020-12-16 12:55:28__
 
 

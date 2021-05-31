@@ -147,25 +147,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-05-22 17:09:17__
+> Good<br> :date: __2021-05-30 10:21:04__
 
-> Good<br> :date: __2021-05-22 15:33:54__
+> THANKYOU AND VERY SHUKRAN TO ALHOS APP. BEING GOOD BE BETTER FOR HELPING [AID] US.<br> :date: __2021-05-30 07:24:39__
 
-> Good<br> :date: __2021-05-22 15:08:05__
+> so good....so cool....<br> :date: __2021-05-30 06:13:55__
 
-> good<br> :date: __2021-05-22 13:24:56__
+> This is very good app<br> :date: __2021-05-30 05:47:17__
 
-> Super<br> :date: __2021-05-22 12:39:06__
+> Not working in my phone Samsung not9 show keeps stopping<br> :date: __2021-05-30 05:02:41__
 
-> Very good<br> :date: __2021-05-22 10:43:29__
+> Like<br> :date: __2021-05-29 13:04:20__
 
-> Good<br> :date: __2021-05-22 09:29:03__
+> Good<br> :date: __2021-05-29 10:31:13__
 
-> Great<br> :date: __2021-05-21 22:27:50__
+> Very good<br> :date: __2021-05-29 02:41:49__
 
-> Perfect, doesn't hang or take a lot of ram, doesn't work in background a lot like it used to be and very light app.<br> :date: __2021-05-21 21:51:15__
+> Goooooood<br> :date: __2021-05-28 17:56:37__
 
-> Good<br> :date: __2021-05-21 20:23:53__
+> Dear team, Kindly update my alhosn app vaccination dose taken dates, it's 1st May 2021 and 2nd dose taken on 22nd May. Thanks & regards<br> :date: __2021-05-28 16:53:40__
 
 
 
@@ -174,6 +174,12 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Cool<br> :date: __2021-05-28 18:13:18__
+
+> If it's offline so much help full r all<br> :date: __2021-05-25 15:40:31__
+
+> Why not work on cellular data?<br> :date: __2021-05-24 05:15:24__
 
 > Good<br> :date: __2021-05-20 21:45:32__
 
@@ -189,12 +195,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Truly grateful to Dubai, UAE for the vaccine and for prioritizing public health and safety. Had my 2nd dose in Grand Hyatt, doctor/medical and staff were kind, accommodating and truly helped and assisted to locate my record so I can have to my 2nd dose. Thank you.<br> :date: __2021-05-18 05:12:44__
 
-> My covid vaccine 1st dose showed sputnik then I take my 2nd vaccine with sputnik why it shown here in alhosn my 2nd which turn another first dose vaccine as sinopharm. How it turn out like this.??<br> :date: __2021-05-17 16:28:44__
-
-> It is working properly. Please implement an offline feature with "vaccinted" QR code validity for 24 hours, or something similar, as app is not working without wifi. Thanks.<br> :date: __2021-05-16 11:43:16__
-
-> Very good app to get vaccine report and test result quickly<br> :date: __2021-05-15 20:21:50__
-
 
 
 #### 3-star reviews
@@ -202,6 +202,8 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> Super aps<br> :date: __2021-05-25 10:20:38__
 
 > The app doesn't open anymore 😕<br> :date: __2021-05-20 19:41:10__
 
@@ -221,8 +223,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > The application is good but not working outside UAE.<br> :date: __2021-05-11 03:46:27__
 
-> I am vaccinated with 2nd dose on 25th jan 2021 and had covid test also on 4th april 21 which was negative . But still exemption (E) is not showing in Al hosn app kindly support to update the status E<br> :date: __2021-05-06 13:02:55__
-
 
 
 #### 2-star reviews
@@ -230,6 +230,16 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
+
+> I'm already vaccinated,last Feb 7 2021,until now the letter E for my app still not appear,I called already the hotline,they told me after 1hour that letter E is appear,<br> :date: __2021-05-28 18:02:48__
+
+> abid Hussain nomi<br> :date: __2021-05-27 12:51:12__
+
+> Plz change colur sceme to make it user friendly and eseaiar to read<br> :date: __2021-05-24 06:57:16__
+
+> My first dose is not updated in alhosn app.I take vaccine in 3rd February. But still not update please update my first dose.<br> :date: __2021-05-23 17:44:17__
+
+> Mashallah Allah<br> :date: __2021-05-22 19:49:31__
 
 > The app is not opening when connected via cellular data. I only get a screen with ALHOSN written. But it opens and connects well when connected via WiFi, why?? At the health center we have to use cellular data and that where the problem starts. Tried everything but still it doesn't work via cellular data connection.<br> :date: __2021-05-22 09:36:24__
 
@@ -241,16 +251,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > The test result has not come<br> :date: __2021-05-18 03:26:16__
 
-> This working very bad please check<br> :date: __2021-05-17 18:58:21__
-
-> My reports are not going to the app<br> :date: __2021-05-14 09:12:10__
-
-> Not open<br> :date: __2021-05-12 08:07:58__
-
-> Until the moment my vaccination is not mentioned in app Two months and more now and still nothing Hotline is not answering<br> :date: __2021-05-11 20:21:01__
-
-> Needs improvements. Results for tests done in private facilities get updated faster than the ones done at any of SEHA facilities.<br> :date: __2021-05-11 11:25:01__
-
 
 
 #### 1-star reviews
@@ -259,24 +259,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Not working<br> :date: __2021-05-22 16:54:25__
+> Very bad App and very bad customer service I downloaded and I finished my 2 shots of vaccine and now more then 2 months waiting them to get E and still I didn't and when I'm calling them they not replying and not even care about the customer which showed bad feed back from the government<br> :date: __2021-05-30 11:29:56__
 
-> Worst App just Stuck on Welcome Screen tried on Different Phones IOS and Android Both nothing Happened....need Vaccination Certificate Download to Travel but Its worst app made....<br> :date: __2021-05-22 13:33:03__
+> Me and my family did PCR tests 27/05/2021 to go celebrate my birthday in Dubai, results came the 28/05/2021 all negative so then on the 29/05/2021 we returned home to al ain by the border my app never updated so they said go back to Dubai , my family had to go because their apps updated now im stuck here in dubai, we called for hours help desk, customers care no response im a visitor here is this how visitors are treated ?<br> :date: __2021-05-30 11:01:45__
 
-> The app doesn't open. I re-installed twice but it doesn't work<br> :date: __2021-05-22 12:11:02__
+> I can't access the system outside UAE<br> :date: __2021-05-30 10:21:49__
 
-> this aplication is not working in my phone<br> :date: __2021-05-22 10:53:15__
+> Not good<br> :date: __2021-05-29 14:35:50__
 
-> App is down . No updates, not customer service<br> :date: __2021-05-22 09:58:01__
+> I am fully vaccinated and it is not updated in this garbage hosn app<br> :date: __2021-05-29 13:49:22__
 
-> My vaccination report in not getting updated bcoz of that i am unable to travel. My pcr is not valid for 7 days as it e or vaccinated is not showing.<br> :date: __2021-05-22 09:38:55__
+> It's not working in my device how to get result<br> :date: __2021-05-28 23:28:44__
 
-> doesn't work on android. tested it on 2 phones same result. only works on ios.<br> :date: __2021-05-22 08:27:36__
+> I need open this app<br> :date: __2021-05-28 19:03:32__
 
-> But its app I can't open why I don't know why please checked<br> :date: __2021-05-22 08:25:24__
+> It's not working properly most of the time and technical support team are not responding<br> :date: __2021-05-28 18:26:17__
 
-> app not working<br> :date: __2021-05-22 07:36:11__
+> Stuck often<br> :date: __2021-05-28 18:11:29__
 
-> This is very bad app it doesn't work on my mobile my mobile is samsung s8 plus Pls fix this problem<br> :date: __2021-05-22 00:16:55__
+> Not good... This not working . I finished both my vaccines... Only showing 1 vaccines poor<br> :date: __2021-05-28 16:12:49__
 
 

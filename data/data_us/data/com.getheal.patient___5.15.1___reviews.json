@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOGxzhDSTSVCNxKyCWkLH0kp6PqwHvzmWdaafxvQol1VLw6r9HY2YJvmDnbLrt5Q9OKZPZuWv_wIftLuVw",
+        "userName": "Josh Brinson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijqaTS_lrJsi55cCkupyCUUX44mnn9ib_G0qM33A",
+        "content": "Wish I could give zero stars. Doctor orders tests as part of the visit, which means you'll then have to schedule follow up phone calls at $100 a piece. In my case, two such calls already (why couldn't the call happen after all of the results were in???) plus a 3 month follow up to rerun more tests which I'm sure will require more telemedicine appointments to review. Scammy even by medical field standards",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.15.1",
+        "at": "2021-05-28 21:46:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFTyOAAZ5caEimmodMfmGxtoB0_rfe8WOD_DSwNn7wJA48YtMwCPvHqZZ1ng6gLYPvk05zILnUJH-ayLA",
         "userName": "Isaac boateng",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwzvWIxw6dWALkPo0y2SITTOAh9NA90G5tBeGUN=mo",
         "content": "Excellent service, straightforward and very respectful and knowledgeable doctors \ud83d\udc4f",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "5.15.1",
         "at": "2021-05-18 15:42:16",
         "replyContent": null,
@@ -1454,7 +1466,7 @@
     {
         "reviewId": "gp:AOqpTOGAQDv7mX4eAAio77V5BLOBQeygPBl1RGIaq5i4MQq5meA04_Wz9_JGpVW9S_UDuTIWIKpV5GIFrWngdQ",
         "userName": "Byron Gilbert",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjeIwjKUTCRPy9jMcr7ZZ__s0rYfGyhGioyzfYZrg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi3d4rMgZ6oTdhFb0V5p2fjvD-HgKIrgL3OHQXG7w",
         "content": "day after the 4th an Internal Medicine doctor and nurse were in my home in less than 2 hours from my contact. My doctor was on vacation and they stepped perfectly to solve my immediate need. AND THEY CAME TO ME. Problem solved in 3 hrs total. Outstanding.",
         "score": 5,
         "thumbsUpCount": 0,

@@ -1,5 +1,233 @@
 [
     {
+        "reviewId": "gp:AOqpTOG9gud8sqe9BUxvPqYWlxFzt8HQ-uv8Rxhs4NwJ0z4ls5tSOCcDEOUIbp5fBkP8Fnwf_x5EObtpsaMXmg",
+        "userName": "Robert Evans",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwLWbVOMeG-GOTiBM5RYAz_SbkN3ywP6HaemDKW=mo",
+        "content": "Worst app ever. Forgot my user name and password now I can't retrieve it because I don't remember my user name it should be under your email or the app should keep you logged in if you check that box and I did thanks for making this app not user friendly",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-29 21:44:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG6Gnoi1XFy5NbQUXNiP2dK8tzg37aN4gwMMQPX3eUCxCeIgOQ0hN9SsexzDnhJHWVnzJplgh6lSBbS5A",
+        "userName": "David Thomas",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzSaKH9rnwJKYgiCZEs1MFm7vmEuDMVzdTCmsI9=mo",
+        "content": "I have had only about 1/8 success getting the app to work...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-29 03:59:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEpQSjHeJm51bx5OIsRcTkXrk-OUk01DRvsh3uwaDV8mHXzymv2SFjUQhAILS99KwDr8iU4qea5_KP_OQ",
+        "userName": "Cosmic Ringpiece",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOWDhOCdutw5wojad0LEwuGIkJxBlTCfJ_HtADtg",
+        "content": "Fixed the camera issue with an update, works fine now. Lots of redirects but otherwise great.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-28 23:27:06",
+        "replyContent": "Hello, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:44:15"
+    },
+    {
+        "reviewId": "gp:AOqpTOG-t_y5US_2hZX4Cuv8ADgt8Ox7c8AsbNPEonD8uaQr8fgByBoi96m_UBDH--8WKlI6t3cxqWgpT7u3Hg",
+        "userName": "Vince Espinoza",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw23yQBBMkGwuCd3uB1NS-opqvSa5JZyozbfUfJ=mo",
+        "content": "This ping sso must have been implemented by a 5-year-old! Constant problems sucks that I have to use this app...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-28 18:28:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF1myKqalGtbLAJye3gPDISKOJpLWID9Q6qgrXNwsoIFlhUCQaciNirEwtIe18o1tG2QIt62EWw26JpNA",
+        "userName": "Techknotic",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiiJg04OLRFY128yalHCJhNMe5auSzYmMrdSG4W",
+        "content": "Great way entering the digital age",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-28 08:20:59",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGYd2qq0bR323RJY2RnIODw1p4FKTQjqSVxfdZ4Dig58zeXyPMraL2i7vR-c-EDDhyl4qnnGM3qwpkRyg",
+        "userName": "Simone Castro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhAfwnpJ5WLTXe5hR-L-ApHTfxuEtVTct_3LK7aaQ",
+        "content": "Fantastic",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-27 20:15:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGad5GhAFsCUyukbWYEnchshhsd3axTDjd2UZW7VEqcpbkMzGlZBpvFN3h0gHyVIxzcb7S3hZPd-bysbA",
+        "userName": "American Reefer",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDwtYdcrsJVHEttaE8v3rtWSM8u2Hwm3TFjovh",
+        "content": "Has areas to put registrations, insurance, parks passes, permits, even your MMJ Card, more stuff added, a great Colorado app.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-27 13:45:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFSO_-R37mA3HCWsdQMdpga7lVI7JLgYUhVrIGWgsdxwTxjpaKibCofo8Cal1Qfz7PO1UZCuf4K0u7nTA",
+        "userName": "Max Wisdom",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7NjBc5dvbY7SafFC-2a7RohfcguNquB4MOFgV",
+        "content": "Super awesome! Very glad to see this come together and work SO well!! My new go to!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-27 03:49:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFpnasRXqbvZXKIC4DO2DzZRTJhsIJnD_g0T-R8aNZX5i43X2-_7NC0tQaJhpWDkmTcypYTIDvHBElUKQ",
+        "userName": "Chad Smith",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxjifkBVgFNKE4Zvb8dHf5kuZOQBhTCJROC-m730M",
+        "content": "Well made app and useful for storing other important documents.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-27 01:06:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGQaznEYhQy1Mu_LtHnBV8RUFxyMcgeL8YGYWgna10TTzKSG2XwVD3djhtHdzL5fZGOfAy9iiMRrBQPVg",
+        "userName": "Jon Thiessen Sr",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNgikDoTEk2tvQs1cO5Cv2gq2xNxQGxEULavoLcCM",
+        "content": "Won't upload my fishing license",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-26 19:11:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGNDnO9dwJGEBaEq3QVA5En24U0-OGomYnGw33rAtRRCC_K8l4jtiVzBevJ4003VWUUYC677BSuk9X5nQ",
+        "userName": "Mike O'Keefe",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzTbsv-xxlL7udiPY8L7FsGar7u0HEg5aWpJh1N=mo",
+        "content": "Useless piece of poop.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-26 16:34:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGZIYTtPgx_tbT4r6YG6shsGutbKkm9le-zu8c-43X3-9-BxWgGUJ7K1R8vr2B0W91HAtO6BYcIaoA7vA",
+        "userName": "Miguel Leal",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgrHAG9kpFF-83aEyfo1ifYVPTelqg0tKFTsJZf",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-26 14:32:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH-vnMlhk1KOeTWxw5RzDo6OXfJCQq-2XtIXsUD0KkgJFC-rSg5rTOOO67nNQA1ju6PS86g1KQ8w36hAA",
+        "userName": "Amanda Cathleen Licon-Carrigan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNxC_sWbgSbXnlTSrNIx2eF5jpSgIXCqzP_EERgw",
+        "content": "Having this app saved me time and heartache when I lost my ID and needed to prove my identity! It was easy to set up but I had no idea how incredible it would be in my future! Thank you My Colorado!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-26 04:40:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOErpvUWf9ezyYg_sCnHKT6CQcAKNTAhdFQBp5D9Od3sXJGUk9XtKQJTUwMfREW_iZV_7Y_n2CGVE-AI-g",
+        "userName": "Joe Mama",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDVUbmjWbkLWKhocbradaR9j-HS_WC7ZlTSHxe=mo",
+        "content": "It's cool works 50/50 some people take it some dont",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-25 22:10:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE-SzomRKzNAa5qBiBJCC4dB-m8E6BBMr0Q_khRl_KgM_px23Ox4Ro083bF4ipD87go9-yYOwAawgyroQ",
+        "userName": "Daniel Lucero",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitlXPS33RRnhF80It9v6GPQmFC_PKl8OutU8rJ7A",
+        "content": "It won't let me access it or send me the verification text code... Frustrating",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-25 22:01:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHnGE_I-27ZZ7WfFQldnL0F_LISR9Ms_f5SgcY4rHz-Mq2oG8q5hbSc1pznab6c9Md3QhGHBOAB95fjFA",
+        "userName": "Doug Phillips",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaQ284IBZhxCxquC0BoIObG_VnzzXS6doyaRm_JPM",
+        "content": "Very good but still have not received my ID since 4/4/2021",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-24 22:00:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFxTiPzoBynlasr0tg9hdg7WyNisDJeFfK8fwtcrMgH3T1S9XIqSxtPecS6bp9ZwGeTqg7l2-ISb2H5yw",
+        "userName": "Roy Garcia",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhUYyq8UX3L5_jAfZMVxbI1eQwjsKrY4wBIYSuBtA",
+        "content": "Now it has a big BUG.. it does not log you back in after the update..",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-24 18:45:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG_EJHuV047d-qjTE8qYe3FA4LToHgZWQG1p5pko4ETwnhM0rvstbS0rke6BU9f4iE330uaBTf4saf7HQ",
+        "userName": "dawn michelle johnson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gicm4r45A-nrXRkU_W5QNlHMGjrzqakeApcqhfbCA",
+        "content": "Easy to use minimum facts needed pleased overall",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-24 06:43:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGwynglJIs8u0L-0tccIyH136SZ8nRx5hqRmsSs6Py74nCflNhm2K4xbBOW5EvgSA7HUt3qAkz0XRZLAw",
+        "userName": "Nicholas Wolf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyjDg5mwcSTHcY6UvZ24DZ-hmsi7IedZGdKuvGEQ",
+        "content": "This app is great, no idea what the others are saying. Easy to add vaccine card, insurance cards, fishing licenses. I can't wait until this gets more adoption across the state (and nation).",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-05-22 22:40:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEJf7JbnKZKLaaWPwztBXknRrf_sdE-vAB5qTmiSKHG3y4wK7qvpyqziDY6062bOT-CSnlw7LpgEkafdA",
         "userName": "Omar Israel",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwigkTtaM6ubKTdfJc4nDftrRD8-mUiQg7vhZEtA",
@@ -149,7 +377,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyg8WkqI9qEWPkSz-uUjRvIkhW8jK2y4-kdlE7H=mo",
         "content": "I don't care about the app one way or another. I'm pissed that I had to get it in the first place because CO used the worst material I've ever seen an ID card made out of. Seriously, use a small bit of intelligence, and make the ID durable enough to at least have a chance of lasting until its expiration. Never in the 3 other states I've lived in have I had an ID card that has taken even a bit of damage before, let alone one that breaks as soon as you sit on your wallet. Get it together, CO!",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-18 17:14:04",
         "replyContent": null,
@@ -245,7 +473,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSF6UXzNNk279MCvGLCzHVC8FPpyeYeT4wveJkCg",
         "content": "no longer works now that \"PingID\" was implemented - I've been \"authenticated\" more than 10 times in the last few mins and still can't access any of my digital documents. Keeps asking me to log in again (never actually logs me in after authentication - just takes me back to the home screen) I even tried resetting my password in case my account was locked. NOPE. same results -- if you want us to use this, MAKE IT RELIABLE!!!!!!!!!!",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-13 18:51:06",
         "replyContent": null,
@@ -788,8 +1016,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-21 20:55:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Calan, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:55:35"
     },
     {
         "reviewId": "gp:AOqpTOFEp4r4ON__H2w6qA-lMZMVXfXVutPOrunLoA9k6FClOySbTzjXmO_oVMpV-cpJjDKzNDlDPJWyma8Ogg",
@@ -800,8 +1028,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-21 03:07:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello David, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:55:26"
     },
     {
         "reviewId": "gp:AOqpTOHeU-Z6rzt6n-T0DqQ3D6POXtiMVubdu122wu74Gm3MTms3XvU-BAokQlt9olpRZ7iFsg1CeuPuDmQWQA",
@@ -812,8 +1040,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.2",
         "at": "2021-04-21 02:26:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Michael, thank you for your review. We have released a new build to the Play Store, please proceed to install the latest software 4.4. If you are continuing to see this issue persist please contact our support team at myColorado@state.co.us or 303-562-9855.",
+        "repliedAt": "2021-05-27 22:55:14"
     },
     {
         "reviewId": "gp:AOqpTOFXDTDyoH-uEkkUJKfwhD9UYv38mGs6BjAZ-qZushc__1j0sla_uqkECb2rAefRXrxG_uGfb4R5dqhT_A",
@@ -824,8 +1052,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.2",
         "at": "2021-04-21 00:52:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Demarius, thank you for your review. We have released a new build to the Play Store, please proceed to install the latest software 4.4. If you are continuing to see this issue persist please contact our support team at myColorado@state.co.us or 303-562-9855.",
+        "repliedAt": "2021-05-27 22:55:03"
     },
     {
         "reviewId": "gp:AOqpTOEeJm7sWzb9-rqfPsu5jkKnquawOWIkBta1z2uYFQedyqsPaBhQVxyG1m1UCth3p4Dhm4SxM0FHCt-vfw",
@@ -836,8 +1064,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-20 21:13:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jae, thank you for your review!",
+        "repliedAt": "2021-05-27 22:54:54"
     },
     {
         "reviewId": "gp:AOqpTOH4XJ8GFGBvnlYfWgxMAcf58sSXkQv_Pfiy-vec-voEcMn4AoMcpcwYkUtyZJHhsWBtoPMh1bJaafgkJw",
@@ -845,11 +1073,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhV7mM2_A10QbbVeS2Ky97IO9VnInrYFQot4_VgYQ",
         "content": "Definitely one star it does recognize or unable to match my selfie with my pic at the DMV I took earlier today. At least it got the Qvr code and the verification by phone (sms) matched. But I cant access my digital copy of my drivers license. Please do something and fix this. I noticed the other recent comments are having the same problem. My phones to nice for this malarkey.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-20 06:47:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Michael, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:54:41"
     },
     {
         "reviewId": "gp:AOqpTOGUcT_Fz8uYRobn_1CUsmb9ds7FY1E47Fw3xbDtglG6YPPDt578NTm4pVvgAzN2VI88ACAxIRhfInAsTA",
@@ -860,8 +1088,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-20 04:02:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Jarrod, our apologies for the inconvenience and we hope to see the combo licenses on myColorado in the near future!",
+        "repliedAt": "2021-05-27 22:53:41"
     },
     {
         "reviewId": "gp:AOqpTOEKO-5lhCuBGLnBW1bgbQB_gVcJ1XpoCfrlPv31X3grUssb64Bxeh5N4udjy0o89c75_prfzvMY8QU4jA",
@@ -872,8 +1100,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-19 22:26:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Mary, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:53:27"
     },
     {
         "reviewId": "gp:AOqpTOE98TY3LCaxa5FN7z7HhGo3yRxJLvHAB2_yLwO7VRRJ4YX517a3NA7bCukMWRkT37pGzCAwKjm-pNQs0A",
@@ -884,8 +1112,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-18 05:29:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We agree, we're glad to see your digital wallet is working for you on myColorado!",
+        "repliedAt": "2021-05-27 22:53:08"
     },
     {
         "reviewId": "gp:AOqpTOGOYfwlbv33YFgldrqvumfpUfeOC044lvJJgjp1nRz3jgGA_ishg2WI4Y9H09r0fXt6m6dZ2r9Mv-juGQ",
@@ -896,8 +1124,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-18 05:05:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for your positive review!",
+        "repliedAt": "2021-05-27 22:52:56"
     },
     {
         "reviewId": "gp:AOqpTOFCKbGeeV95IlYQd-ZRa9lDFGVoXAToM8DphaPSqNsNbVmcUPw9Z8rBfNK0b20RrBrczvDs3yvhyMfGbw",
@@ -908,8 +1136,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-18 03:19:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Bart, we're glad to see myColorado is working for you!",
+        "repliedAt": "2021-05-27 22:52:22"
     },
     {
         "reviewId": "gp:AOqpTOF9o_9JZ18meh-_3RXGLt7O-3qXlo74l2kuPL-qECxBPsprehxUFpCNOR36qcr3dUfHmRzfvxzrOjuDMg",
@@ -932,8 +1160,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-17 15:18:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Mark, thank you for your review, I was relay this on to our development team for consideration!",
+        "repliedAt": "2021-05-27 22:51:59"
     },
     {
         "reviewId": "gp:AOqpTOGrqM8A0foAhH3QT0P1II06vcTHl11aMeyX-FDT6Cvgdj4mRU1u76Omphysp8qumNLw2t97PHDYOhtxdA",
@@ -944,8 +1172,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-16 19:26:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Gordon, please contact our support team at myColorado@state.co.us or 303-562-9855 and they will be glad to take suggestions on how we can improve myColorado!",
+        "repliedAt": "2021-05-27 22:51:41"
     },
     {
         "reviewId": "gp:AOqpTOEr2xkwCXOZMvnXjV-TGuNXvykE4sA956IBswOl9g3p4gurVdRulREvjRKi_iY8cM7B7o0AaHVfZH6zfg",
@@ -968,8 +1196,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-16 01:00:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Maryjane, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:50:55"
     },
     {
         "reviewId": "gp:AOqpTOEGbp9BCTKCCIxGNxXRy8rD7KeP5e1RbRyMprsyInhHqRNzhW-pm0fONfigBfiNzNrBxcrZRuvsXCO3NA",
@@ -980,8 +1208,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-15 22:12:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Richard myColorado is only available to Coloradans.",
+        "repliedAt": "2021-05-27 22:50:40"
     },
     {
         "reviewId": "gp:AOqpTOFozMhiiUEqnbK16aTzl0PKHpHSaFvQd5YL8KO43wkWMJimE9DtFZk00iUwp26b9F6TD4R8wEvPB-Ts0w",
@@ -992,8 +1220,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-15 12:07:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Dylan, thank you for your review. Are you still unable to scan that back of your barcode? If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855 and they can assist you with troubleshooting.",
+        "repliedAt": "2021-05-27 22:50:17"
     },
     {
         "reviewId": "gp:AOqpTOEXzD1h0AHAUmmMjpHReyMGJEAUovfS-F_AffOc7vIu5BmZP8AubXT3PV40jxAm8XCGy1JQlM44CuqvXw",
@@ -1004,8 +1232,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-15 06:27:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jimmy, please contact our support team at myColorado@state.co.us or 303-562-9855.",
+        "repliedAt": "2021-05-27 22:50:03"
     },
     {
         "reviewId": "gp:AOqpTOGTyo2LV74iLNQ8BY79w38fZcDHpuoDWReHI0YjJKkWIYpXK6STSI-ZOgNr7Y6ccSSQdYM5POwSjAJUZg",
@@ -1028,8 +1256,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-14 21:46:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi James, we find your review rather cool too :)",
+        "repliedAt": "2021-05-27 22:49:04"
     },
     {
         "reviewId": "gp:AOqpTOElQFoCRe_uYzKwdk79M_q-g9QwuNC7HbX0JsO6oSwr6QhMlfjM462nAfoGXrGQpvGIjNrjGhm4AoMkYg",
@@ -1040,8 +1268,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-14 00:42:03",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Zach, thank you for your review. Please check out our partners where myColorado is accepted as a form of identification https://mycolorado.gov/partners.",
+        "repliedAt": "2021-05-27 22:48:52"
     },
     {
         "reviewId": "gp:AOqpTOHA8PpODor5ghKrdG_yD5o3TihMfFlKS7kcKrkQJf7vHNhQNqYtgNTSx5g6dVFtlHkSw33fm-we5pbmkQ",
@@ -1064,8 +1292,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-13 20:58:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi William, thank you for your positive review!",
+        "repliedAt": "2021-05-27 22:47:51"
     },
     {
         "reviewId": "gp:AOqpTOH0zGGcc7iMweIF-N4jsJH9vz8dKCh7SCKOeehhltFFSp1SR8qX4nb2F5rHu7PdGK3zI4QzDxY-C-2vKA",
@@ -1076,8 +1304,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-13 04:16:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Maggie, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:47:35"
     },
     {
         "reviewId": "gp:AOqpTOEdrBLkTb6FV5ekJq0M2x4oYmTcfng9gh5bQz2-NxT7DMKTalxGV0IHs9Rw9wiN6Qy-3HgfcLGWEejiHQ",
@@ -1100,8 +1328,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-13 02:21:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for your positive review, and have a great fishing season.",
+        "repliedAt": "2021-05-27 22:45:34"
     },
     {
         "reviewId": "gp:AOqpTOGGBoFHLez2q45v5-goNBKKC8OFev8tjOj297AZfjB9VJujK8ZWTzPPFKE7NKy6iALlav1DQ1VdWRwveA",
@@ -1112,8 +1340,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-12 22:03:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Adrian, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:45:19"
     },
     {
         "reviewId": "gp:AOqpTOHdfL-YgdWKn296-1rk4yXft7XfA7bNj34dTu0lNuehPMj93aurhAMP7wSM-IZ3_5LMCsmwi9znvgiXIQ",
@@ -1124,8 +1352,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-12 18:41:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:44:59"
     },
     {
         "reviewId": "gp:AOqpTOE3lqWnHH2nobRsRV-SSodK_F5R3c-9x5-JrSARNWJ0XdiwSfc_FY9hBvmxXXcehmvLjMPv-mOUVFn_CQ",
@@ -1136,8 +1364,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-11 00:52:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Ryan, we are happy to hear you are enjoying myColorado!",
+        "repliedAt": "2021-05-27 22:44:42"
     },
     {
         "reviewId": "gp:AOqpTOHcw4JDSzfyPljQk_HLBqimZNOmIDwkAxZpfIiuwUnZ4WmQYUAVUtDI3V9nsbzMrPLApiqlNQAJU2Xgsw",
@@ -1148,20 +1376,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-10 03:27:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEpQSjHeJm51bx5OIsRcTkXrk-OUk01DRvsh3uwaDV8mHXzymv2SFjUQhAILS99KwDr8iU4qea5_KP_OQ",
-        "userName": "Cosmic Ringpiece",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjOWDhOCdutw5wojad0LEwuGIkJxBlTCfJ_HtADtg",
-        "content": "S21Ultra. App is unable to use appropriate camera, resulting in an inability to take a picture of my ID, rendering the app useless to me.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.3",
-        "at": "2021-04-09 16:46:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Jake, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:44:30"
     },
     {
         "reviewId": "gp:AOqpTOFCcV94WXzE6QDJZ_ZOsFO9uAxRRV3mBsM9N-iFgG8AAjpSeXA_HyjWQatk-pCd7jOW-VEAaiNyQ6smoQ",
@@ -1172,8 +1388,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-09 15:41:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for your review. We have a new software update available, please upload it. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:43:59"
     },
     {
         "reviewId": "gp:AOqpTOGgbUui3_g3K1rxRgOaxkRXZo71PQZKcNFthDQTytDlkVEDvommkaJhma-dwfPhekqtw26dDp-lGwioZw",
@@ -1184,8 +1400,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-09 14:23:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Bill, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:43:37"
     },
     {
         "reviewId": "gp:AOqpTOEN1pEWonVdfO17AmttiOzNt58dm-b15bB7qawUOC5vfrtKb379rbZwKfy-wPo5F-tETJFMrm7hN9RuOQ",
@@ -1196,8 +1412,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-09 11:33:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Sam, please review our security and data protection act https://mycolorado.gov/faqs",
+        "repliedAt": "2021-05-27 22:43:26"
     },
     {
         "reviewId": "gp:AOqpTOHAA5MdRaMh8Y9TCmedwR0rK--f2-8Og6Xat3kY-f65JZQjEP-Mb0Q6bybgJgkeXvB2DXM6jefD43soJg",
@@ -1208,8 +1424,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-09 10:02:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jimmy, thank you for your review.",
+        "repliedAt": "2021-05-27 22:42:59"
     },
     {
         "reviewId": "gp:AOqpTOGeOf8bL2OwjfP01uNzCEMjnmnN04XXV0A4j09f1iRGLHWy4AZcXuDZMLmfXoSuZuRUfJGNKFQEh_yUIg",
@@ -1220,8 +1436,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-09 04:37:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for your review. You will need a Colorado Driver's License or Identification to create a myColorado account.",
+        "repliedAt": "2021-05-27 22:42:34"
     },
     {
         "reviewId": "gp:AOqpTOEz5sWMbKrCHHrQfvH2HwVkQC5zGvlbU4Gxnjtot73V0ssXpxLDMG9co8gzz2okgWowHX7WfE-h_ermwA",
@@ -1232,8 +1448,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-09 02:27:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Kyle, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:42:04"
     },
     {
         "reviewId": "gp:AOqpTOHIquWYwa14YWYr5n398nzmzXbdmHmlN5CqJVrBV5bFDLnrkUVPBnPeur3KOL4v0zcOGfTqFxOysq8cSw",
@@ -1244,8 +1460,8 @@
         "thumbsUpCount": 6,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-09 01:43:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Larry, thank you for your review. We have a new software update available, please upload. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-05-27 22:41:46"
     },
     {
         "reviewId": "gp:AOqpTOE09CYME6HfLy__R_Z2eb3WMyLLYUE5CNXxtI4GeA0vJlm04oDQgyHHkJwsm-ZUWypcSqPlRQKqHWkjtQ",
@@ -1256,8 +1472,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-09 00:38:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Aaron, thank you for your review. We have released a new build to the Play Store, please proceed to install the latest software 4.5. If you are continuing to see this issue persist please contact our support team at myColorado@state.co.us or 303-562-9855.",
+        "repliedAt": "2021-05-27 22:41:03"
     },
     {
         "reviewId": "gp:AOqpTOGKpdT01VJ4Xw1miPIyzDWV7fwhTyxNI9PVBt9-UfB6qkXsV-6MveUIytjXopgktkIlPqft2uDe5dd68Q",
@@ -1268,8 +1484,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-08 23:58:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Jason, thank you for your review. We have released a new build to the Play Store, please proceed to install the latest software 4.5. If you are continuing to see this issue persist please contact our support team at myColorado@state.co.us or 303-562-9855.",
+        "repliedAt": "2021-05-27 22:40:46"
     },
     {
         "reviewId": "gp:AOqpTOFqIxdlIfnpmf_P88xJuH-4YfuEaO38FtDKJ-QTIU5rDjoRYAHcOsn2lINCXkvZygZwnyMCbEKWRsH0rQ",
@@ -1280,8 +1496,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-08 23:57:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Brian, thank you for your review. We have released a new build to the Play Store, please proceed to install the latest software 4.5. If you are continuing to see this issue persist please contact our support team at myColorado@state.co.us or 303-562-9855.",
+        "repliedAt": "2021-05-27 22:40:09"
     },
     {
         "reviewId": "gp:AOqpTOET56tAOiLKBFVk47KzfVJdbh4zSEgY7XtEZvEvnIpnfzfm0e5NHHrXF5NG9AZCC2-2IWddTdJ5M93aCA",
@@ -1292,8 +1508,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-08 20:20:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Rebecka, thank you for your review. We have released a new build to the Play Store, please proceed to install the latest software update 4.5. If you are continuing to see this issue persist please contact our support team at myColorado@state.co.us or 303-562-9855 and they will assist you with troubleshoot your issue with facial recognition.",
+        "repliedAt": "2021-05-27 22:39:36"
     },
     {
         "reviewId": "gp:AOqpTOFKpoVjibUh7WiTFwWzKnXWMAeR8GY5PAyoLaNmG3-eqwemQz7oEvbQOfwJeVw7yvlVs-Cp4XIJGbwpCg",
@@ -1304,8 +1520,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-08 03:17:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for your review. If you are continuing to see any issue persist please contact our support team at myColorado@state.co.us or 303-562-9855 and they can help you troubleshoot",
+        "repliedAt": "2021-05-27 22:38:31"
     },
     {
         "reviewId": "gp:AOqpTOHMNzJN7syE23G7EuBtHv4NDX7OIrSe6rasNMRWYM2O4patkgZ3kvHvqQj1WUuLKFtRlUwFKXaLZvZ-HA",
@@ -1316,8 +1532,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-08 02:30:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for your review. If you are continuing to see any issue persist please contact our support team at myColorado@state.co.us or 303-562-9855 and they can help you troubleshoot",
+        "repliedAt": "2021-05-27 22:37:41"
     },
     {
         "reviewId": "gp:AOqpTOFlJEhJBEf9EEyOGjWMF1K_rMlcCZyjL_cqAjH01mspt9gGINoq2nhZyXlrL7z945VqrHzxP1eYQWWZRg",
@@ -1328,8 +1544,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-07 22:32:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you Max for your review, we're glad you find Colorado great!",
+        "repliedAt": "2021-05-27 22:37:25"
     },
     {
         "reviewId": "gp:AOqpTOGRhEDv1mHzrOR2TxNfR7khFOBGIyk5xHO2eYO72iEtLT3bIVy9b5tMsxS8I1A6bAgWWGm0v0eZHaggrA",
@@ -1340,8 +1556,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.3",
         "at": "2021-04-07 00:35:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Chad, thanks for the review, we find that rather sweet as well. :)",
+        "repliedAt": "2021-05-27 22:36:24"
     },
     {
         "reviewId": "gp:AOqpTOH3OD-i26pLH2oCnFLAFnRJW33MT25yJOfFO4C_BHZtFwC2pwQ_08zbl4R20NY21OQxa1c50ZYu7bkv1w",
@@ -2042,7 +2258,7 @@
     {
         "reviewId": "gp:AOqpTOHC8iQIyPR7BBF6d2txZ-2llC3Yl-kC44Lz90bcG-N59OJCuueXMb9v5FbhqivFvKucmYbpmvQmkIpfBQ",
         "userName": "Ganya",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggg0FUeJKI6SV26SpCS_A3a87beFUM4fHxxGSpT",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCxZBdeAocZskSg4U4OJmNY1I3hsjmyqZ3LdSL",
         "content": "Horrible. I'd give you negatives if I could.",
         "score": 1,
         "thumbsUpCount": 0,

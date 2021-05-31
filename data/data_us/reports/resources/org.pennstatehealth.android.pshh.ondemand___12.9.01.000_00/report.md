@@ -201,6 +201,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Easy, smooth.<br> :date: __2021-05-27 15:44:21__
+
 > Telehealth appt went very smoothly today.<br> :date: __2021-05-21 20:55:29__
 
 > Wonderful<br> :date: __2021-05-20 16:42:32__
@@ -218,8 +220,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Very nice<br> :date: __2021-04-14 15:41:28__
 
 > Great overall experience as this being my first time doing a virtual video Doctors appointment.<br> :date: __2021-04-12 20:32:26__
-
-> Good<br> :date: __2021-04-01 20:56:49__
 
 
 

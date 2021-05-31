@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGKxjW-0RUXXR8uAQBIhZ25mVDcz7QlQZ-m9pz80_pJ63VDB4PvcHsvIoQLOocQHd_jO8roZStl8-PMBwA",
+        "userName": "Baerbel Hoffmann",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFkq-5B3NgXeo1Z_2tZsWNt60epAhDgxh6kINGsQ",
+        "content": "Wenig interessante Informationen und st\u00e4ndig St\u00f6rungen. Mit so etwas muss sich unser OB nicht br\u00fcsten@",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.27",
+        "at": "2021-05-27 18:44:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHOM_U-Klt64YSPPrdJIlMJy5ztDrAmbyVIOcHu7ycDwD9U1v5hvNhQxfYg7Eu9gaPI_nW4GptiAHT7UHE",
+        "userName": "Don Koro",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw3jG3q4DdZA4Q0H_CVVZoLfPFVYqZZ0CrmCjsN=mo",
+        "content": "An sich eine gute Idee die App mit den angedachten Funktionen und Informationen. Leider funktioniert sie nach der Installation nur eine begrenzte Zeit. Eine neu Installation behebt das Problem. Nur hat man auf immer wieder neu installieren irgendwann keinen nerv mehr dazu. Daher bleibt sie nun deinstalliert.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.27",
+        "at": "2021-05-23 09:24:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGUbGmsjVc024JItH3qZ-x6iHy0jftXBeLibkeyTp59oyCgCb9_y5-Eb3CG0rZW_cGNW94G8gXsXqeHwvg",
         "userName": "Ralf A.",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxo3EsvwIvkhyqO4m2Hjp8nNAav0pcl0Aa9K_sHJg=mo",
@@ -46,18 +70,6 @@
         "at": "2021-04-16 15:39:59",
         "replyContent": "Hallo codecyclist, danke f\u00fcr das Feedback! Die Positivtestrate gibt die Anzahl in Prozent wieder, wir nehmen den Hinweis aber dankend auf, da dies in der App nicht deutlich genug wird. Die Angabe der durchgef\u00fchrten Tests ist nicht vorgesehen, nehme ich aber gerne als Anregung mit. Und wir k\u00fcmmern uns um die defekte Wetterstation. Ihr Team SG App",
         "repliedAt": "2021-04-19 16:59:19"
-    },
-    {
-        "reviewId": "gp:AOqpTOGPR0RdNgzQaTzKu9qf9fSAX-SiICKTuJCve7acyClVuCl05rr1FWS5g-SAjrLMM814Y4bImrjSUELF3H4",
-        "userName": "Kai Mummert",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSg_tGwbYdw3TGtLp3rPvpFoNL0MpSO9BmHFit-A",
-        "content": "Der Ansatz der App ist eigentlich gut, die Umsetzug finde ich leider nicht sehr gelungen. Regelm\u00e4\u00dfig erscheint beim Start eine Fehlermeldung und die App wird geschlossen. In der Regel l\u00e4sst sie sich dann erst wieder nach ein paar Stunden, manchmal gar nach ein paar Tagen \u00f6ffnen. Am meisten interessieren mich die aktuellen Meldungen. Diese erhalte ich auch immer wieder per Push-Benachrichtigung. Tippe ich dann darauf wird die App zwar ge\u00f6ffnet, die Nachricht aber nicht angezeigt. Schade!",
-        "score": 2,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "2.2.24",
-        "at": "2021-04-13 15:02:46",
-        "replyContent": "Hallo Kai Mummert, vielen Dank f\u00fcr das Feedback. K\u00f6nnen Sie uns an appdev@solingen.de mitteilen, welche Fehlermeldung Ihnen angezeigt wird? Dann sehen wir uns das Problem an, ebenso die Weiterleitung von den Push-Benachrichtigungen an die entsprechende Stelle innerhalb der App. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
-        "repliedAt": "2021-04-19 16:46:18"
     },
     {
         "reviewId": "gp:AOqpTOG8pUbLJ4OMcrV2Lez0T9uVaB0gqS-dudf0U3C1lUnRIoYc-fe18CJEFK0JM0lGvDaitRjeM53CBp1w4-o",

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGTPKg6p0u4V_LpIQWXt1L_HQfYv6FihvRZ8808QsB4iE98FRJXZExmUSO6yD0cNQNymOWaDqxZ2v9Egg",
+        "userName": "Lucy Arias",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzk9Yc_ZItE5oJny_LQT-vqH_e6CO56-qCQwF4G=mo",
+        "content": "So far all I can say is that in my estimation technology can be a real turn off. \ud83d\udcf4",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.04",
+        "at": "2021-05-26 02:18:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOED8mc45M-j0R_WiUmVC3diT2uRIF8LaZc4J9yutiHUe_qZJEuiCYAKumnEhNRGndHRPxv5BwTsJRPg2w",
         "userName": "Gloria Lewis",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhMZ289oyZAm4Ec83Q5VGW7JgPhRsqkzWkIjNgsFQ",
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvLvolhlmCI9oHp4i0i08P_fWfMRcYw0NpwD0GZg",
         "content": "The app forces uses to use cameras. This may be efficient for most situations but for people using the app for therapy, some users are very self conscious about their appearance on camera and it makes users, such as myself, extremely uncomfortable.",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.97",
         "at": "2021-01-08 05:58:29",
         "replyContent": null,

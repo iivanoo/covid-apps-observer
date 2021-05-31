@@ -140,6 +140,10 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Great App. Highly encourage it. Not just for COVID Times. Very awsome tools!<br> :date: __2021-05-28 21:01:20__
+
+> Great app for those with PTSD and sleep issues.<br> :date: __2021-05-28 01:55:12__
+
 > This is an amazing app because it has so many mental health resources available whenever you need them. I've often thought about putting together an "emergency toolbox" for my mental health, and that's pretty much what this is. I hope it will continue to be available after the pandemic. My therapist recommended it as a handy tool.<br> :date: __2021-05-12 00:14:58__
 
 > I am a Veteran and this app is simply amazing. It is very easy to navigate. I like it!! 👌🏽❤<br> :date: __2021-05-11 23:58:23__
@@ -156,10 +160,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 
 > Good resource<br> :date: __2021-03-22 15:04:11__
 
-> Great ideas on ways to relieve stress. Love the variety of tools and resources.<br> :date: __2021-03-11 00:41:07__
-
-> Nice app...works well<br> :date: __2021-03-01 17:11:35__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 4 reviews"/>
 </p>
+
+> Find this app helpful for mood check and ptsd assessment.<br> :date: __2021-05-26 01:51:00__
 
 > Good in balancing my life.<br> :date: __2021-03-11 21:42:58__
 
@@ -185,8 +187,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Great app. Lots of information to learn about your mental health.<br> :date: __2020-11-01 01:34:40__
 
 > Haven't had to use it but it appears to have resources that would help someone in need<br> :date: __2020-10-10 19:35:22__
-
-> Not a meditatong person but Wow! Body scan leaves me fresh as having a two hour nap.<br> :date: __2020-08-03 20:12:13__
 
 
 

@@ -3,8 +3,8 @@
         "id": "at.roteskreuz.stopcorona",
         "store_country": "at",
         "store_lang": "de",
-        "latest_crawled_version": "2.1.2.1239-QA_263-2-gcc633a7",
-        "latest_crawl": 1621703133
+        "latest_crawled_version": "2.1.4.1247-QA_266",
+        "latest_crawl": 1622379223
     },
     {
         "id": "org.who.infoapp",

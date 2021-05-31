@@ -155,7 +155,15 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
-> If it helps, why not<br> :date: __2021-05-21 07:56:33__
+> If it helps, why not<br> :date: __2021-05-27 09:29:19__
+
+> Thanks for paying it forward !!!<br> :date: __2021-05-26 06:25:37__
+
+> Cool idea, so easy to use<br> :date: __2021-05-24 05:43:37__
+
+> Charge away !!!<br> :date: __2021-05-23 07:45:10__
+
+> Nice to see our contribution. Supporting research.<br> :date: __2021-05-22 23:49:58__
 
 > No problems.<br> :date: __2021-05-21 04:13:16__
 
@@ -167,14 +175,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > It just works. What else is there to say!😀<br> :date: __2021-05-17 18:39:54__
 
-> Practical, real-world use<br> :date: __2021-05-16 14:35:21__
-
-> Great to be able to contribute in a small way. But the %age completed doesn't update automatically on my phone.<br> :date: __2021-05-16 11:54:14__
-
-> Great app and great initiative Vodafone!<br> :date: __2021-05-14 07:54:36__
-
-> Good<br> :date: __2021-05-11 14:31:18__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> This is working on a Chromebook. There should be some kind of setting to reduce performance when the device gets too hot.<br> :date: __2021-05-24 04:28:34__
 
 > Sometimes the number of calculations is zero. Uninstalling and reinstalling usually works. Otherwise worthwhile app.<br> :date: __2021-05-20 10:08:34__
 
@@ -201,8 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Dreamlab works fine on Galaxy tab no overheating no problem no worries can leave on all day better still if worked without having to be on charge all the time thank you can you please fix this please Vodafone now working on Galaxy A50 fine 🙂 🥰😆<br> :date: __2021-03-25 23:23:18__
 
-> Works away on my phone overright while charging. If, as occassionally happens the phone gets too hot, it takes a break till the phone cools down. Good for me<br> :date: __2021-03-22 12:32:11__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> The idea is great, but the app could be better: it should automatically start every time the supply is pugged in, instead with my xiaomi I have to manually start the computation every time...<br> :date: __2021-05-22 20:36:56__
 
 > Seems to resort back to the covid 2 project but hasnt completed any calcs in the last few months (Amazon Fire left on charge). Selection of other projects seems to get overwritten. Uninstalled, sorry.<br> :date: __2021-05-18 19:46:21__
 
@@ -229,8 +231,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Em L. Ioukk ka. Kaivva ae tae, kkmL<br> :date: __2021-03-31 14:09:42__
 
-> Great idea but the app is not open source, would be great to see it in github and let this app driven by the community<br> :date: __2021-03-25 11:56:00__
-
 
 
 #### 2-star reviews
@@ -238,6 +238,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
+
+> Won't stay working on Android 11<br> :date: __2021-05-25 13:42:18__
 
 > Reset my phone and 29k solved gone. This app needs an account you can log into so you can store your progress at least.<br> :date: __2021-05-20 05:47:23__
 
@@ -257,8 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Needs more settings. 1. Pause if screen is on. 2. Max processor %. 3. Min % battery to begin processing. For some reason the jobs become stuck with no processing occuring while clock continues - maybe a download issue, it doesn't retry though. Needs a % & time counter per job counter so we can see if it's stuck or just a long job. Phone also slows when it's processing, the % processor option may help with this. Update: now it says Ive reached my monthly data limit which I can't increase over 1gb<br> :date: __2021-02-27 00:17:45__
 
-> You are trying to download the free ringtones for my phone but it won't let you<br> :date: __2021-02-20 06:33:56__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> Useless as the app stops working for no good reason. It now does appear to work. But for some reason Dreamlab restricts data download to 1gb per month. Many have Unlimited data plans so why won't Dreamlab facilitate any amount of data a donor wishes to donate?? I could if allowed donate 1000gb per month on my mobile tariff. Instead it gets to mid-month and my data donation is blocked because I have used 1gb!! It costs Dreamlab nothing to receive any amount of data from individual donors<br> :date: __2021-05-26 08:18:07__
 
 > The App came pre installed. It's supposedly using my phone to tackle Covid whilst on charge. It seemed petty to uninstall. I was not aware that the App served any other function. I don't appreciate the little 'Well done' messages. They come over as being a bit patronising, considering that I am not actually doing anything. My self esteem isn't that low, yet 😄<br> :date: __2021-05-17 09:19:17__
 
@@ -284,7 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Great idea, app badly done. We do free work for the company, but the app isn't FOSS. There is no option to disable dreamlab, sometimes I just want to charge my phone and not run the app. It frequently gets stuck on 1 job and doesn't do anything all night. Finally it needs a way to disable Amber alerts so I can sleep and run dreamlab without being awoken by gov.<br> :date: __2021-03-21 04:16:27__
 
 > Used it for a few years. Was a good app. Then for 2 months in a row it claimed I'd used all my data allocation on the first day. Uninstalled and reinstalled and was considered a new user.<br> :date: __2021-03-05 12:20:49__
-
-> Stop and start, changes what youve sekected rubbish<br> :date: __2021-02-26 01:19:42__
 
 

@@ -190,6 +190,8 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 3 reviews"/>
 </p>
 
+> -- m0,k .mmka 390s w as a ASK A Re nh l0ord79 66 rd<br> :date: __2021-05-26 21:26:02__
+
 > Quick question, does this work with every state?<br> :date: __2021-05-14 05:28:43__
 
 > Trying to figure out how this at work<br> :date: __2021-04-01 04:10:03__
@@ -207,8 +209,6 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > It was working and put date of checking very often. Now it hasn't did anything since feb 10.<br> :date: __2021-02-26 21:46:45__
 
 > I am safe.<br> :date: __2021-02-26 12:22:10__
-
-> Yikes! I wish I saw the reviews before. It's a good idea but either the VDH doesn't have the resources to handle reporting for this app or something else is going on. Damn this gives me a false sense of security, which is bad since I'm both a retail essential worker, and I also reside with my older in laws.<br> :date: __2021-02-16 11:51:01__
 
 
 
@@ -246,6 +246,12 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> It hasn't checked exposures in months. Not very effective that way. Doubt it is even logging the tokens correctly<br> :date: __2021-05-27 04:15:05__
+
+> Corona is not real<br> :date: __2021-05-26 08:38:26__
+
+> App was not even worth the time it took to download it! Stop wasting our time abd yours with this fakery!! Thanks but, No Thanks !!<br> :date: __2021-05-22 19:09:03__
+
 > Spyware<br> :date: __2021-05-19 04:09:47__
 
 > Does not work. No offense to your response but your QA process stinks. It is not hard to code in a weekly check into any app so it fires in a given time. My did not have a check in over 2 months.<br> :date: __2021-05-12 18:41:53__
@@ -259,11 +265,5 @@ The COVIDWISE app has been installed by more than **100000** times. At this time
 > The app used to check for exposures twice a day, no Im lucky if I get an exposure check once every other week.....plus if no location is needed, why wont it check for exposures without location turned on? Also it keeps turning off my location.<br> :date: __2021-04-24 06:27:45__
 
 > It's stopped checking exposures. I followed the instructions to troubleshoot, still snake eyes. Deleting and using the dc app.<br> :date: __2021-04-22 03:11:32__
-
-> Doesn't update and check for exposures. What's the point of this app? Uninstalling.<br> :date: __2021-04-21 18:34:54__
-
-> Contact tracing is unscientific and a vehicle for evil. This is a narc database for communist Karen's. Grow a pair and live your lives. Quit destroying our society with your fear mongering.<br> :date: __2021-04-20 04:51:14__
-
-> Stopped checking exposure in January<br> :date: __2021-04-19 05:48:10__
 
 

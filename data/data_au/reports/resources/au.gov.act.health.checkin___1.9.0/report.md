@@ -142,6 +142,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 5 reviews"/>
 </p>
 
+> It was simple and obvious to use, collected only basic, necessary information; worked intuitively and correctly the first time, and wasted none of my time.<br> :date: __2021-05-27 01:21:01__
+
 > Logs in with all my details<br> :date: __2021-05-19 11:21:59__
 
 > Great App<br> :date: __2021-04-17 10:51:50__
@@ -160,8 +162,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > Excellent and safety<br> :date: __2021-03-23 16:46:48__
 
-> Best contact tracing app out of all the States and Territories 👍<br> :date: __2021-03-23 12:57:15__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 4 reviews"/>
 </p>
+
+> Very apropiate<br> :date: __2021-05-29 09:38:36__
 
 > It would be great if you could provide a frequent places option. I go to the same coffee shop every day and have to scan each time. If I could add it to my favourites and check in from there it would be much easier.<br> :date: __2021-05-05 09:35:10__
 
@@ -188,8 +190,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 
 > The app wasn't working since the 25 Feb update, but it was fixed this morning (2 March 2021). At least it now works ok for my Samsung Galaxy S7 android phone.<br> :date: __2021-03-02 12:16:28__
 
-> App working again since update 1/3/2021.<br> :date: __2021-03-02 02:19:18__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
+
+> When i opened it this morning it suddenly uninstalled itself and now playstore wont reinstall it as it says it is installed. It is nit on the list of apps in settings. Greg<br> :date: __2021-05-27 11:38:53__
 
 > I constantly have to delete it and reload it as it tends to stop working<br> :date: __2021-05-12 05:26:59__
 
@@ -215,8 +217,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > The graphics are too dark under some lighting.<br> :date: __2021-02-08 01:44:49__
 
 > Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
-
-> Seems to work ok. Slow to load, requiring data connection to do so. Cannot access QR code scanner without data connection. Suggest allowing access to QR code scanner without needing data connection to allow check in, uploading locations when data becomes available.<br> :date: __2020-12-05 21:58:59__
 
 
 

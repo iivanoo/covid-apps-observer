@@ -167,6 +167,8 @@ No recent reviews available with 4 stars.
 <img src="2_star_reviews_wordcloud.png" alt="edu.yale.fas.hunala 2 reviews"/>
 </p>
 
+> Good concept, but-- no feedback or comments, no updates to questions based on personal vac status. Risk results sometimes weird.<br> :date: __2021-05-27 03:11:43__
+
 > No data for my area.<br> :date: __2020-12-29 21:39:47__
 
 > Sorry, a fail out of the gate: I enter my phone; they send a text; I switch to my SMS app to get the code; I switch back to Hunala. It restarts the app and asks for my phone Basic Android event-flow<br> :date: __2020-11-27 19:57:06__

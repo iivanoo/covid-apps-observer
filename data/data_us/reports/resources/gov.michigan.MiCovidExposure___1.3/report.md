@@ -126,6 +126,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> I'm very happy with the app and yes I have uninstalled it because I have been working on getting my second shot 💉 for the covid-19 I've been tested for it 7 times now and been negative for it every time !<br> :date: __2021-05-25 21:32:18__
+
+> I am vancited<br> :date: __2021-05-24 12:43:57__
+
 > So far it's good.<br> :date: __2021-05-01 08:13:57__
 
 > It hasn't up dated sentence Feb. ?<br> :date: __2021-04-29 18:52:27__
@@ -142,10 +146,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > Good to know<br> :date: __2021-04-04 05:01:49__
 
-> GREAT!!!!!!! GOT MY FIRST INJECTION FROM TWO BEAUTIFUL NURSE'S AT BLUEWATER CONVENTION CENTER MARCH 2, 2021. HAD A COVID TEST MARCH 9, 2021 AND IT WAS NEGATIVE. I HAD THE SECOND INJECTION MARCH 30, 2021. NURSE'S FROM SCCHD GAVE ME THE INJECTIONS AND THEY WERE ABSOLUTELY WONDERFUL!!! THEY WERE CLEAN, THE PLACE CLEAN, A LADY WAS CONSTANTLY CLEANING, THEY WERE EXTREMELY KNOWLEDGEABLE ABOUT EVERYTHING. I WAS SO RELIEVED AND GRATEFUL TO THEM!!!!!!!!<br> :date: __2021-04-03 00:42:20__
-
-> Feeling more confident & safe!! Thank You!!!<br> :date: __2021-04-01 03:55:10__
-
 
 
 #### 4-star reviews
@@ -153,6 +153,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
+
+> Good app i relly have fun but laggy<br> :date: __2021-05-28 19:33:44__
 
 > Today is 2/24, the last scan was on 1/24. Leave it to the government to create a useless app. Once the problem was fixed, it's working good now!<br> :date: __2021-04-28 22:16:18__
 
@@ -171,8 +173,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I installed it to do my part. I'll uninstall it once this pandemic passes. That's freedom.<br> :date: __2020-11-21 18:55:35__
 
 > I'm glad to have this, but the map doesn't work correctly. When I tap on a county, it just shows a blank page.<br> :date: __2020-11-21 16:50:48__
-
-> Just checking it out<br> :date: __2020-11-20 08:58:10__
 
 
 
@@ -210,6 +210,12 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 2 reviews"/>
 </p>
 
+> Getting information 3-4 weeks old on whether I was near someone that tested positive.<br> :date: __2021-05-29 02:25:34__
+
+> The government was able to track me everywhere I went, for "safety" 😉<br> :date: __2021-05-27 17:11:31__
+
+> Don't know how to feel about this one.<br> :date: __2021-05-23 07:59:45__
+
 > The last time the Exposure Notification updated was on April 18, it should update more often.<br> :date: __2021-05-01 06:13:25__
 
 > You need a pin number to report a positive Covid result. I called and left a message, but they never called me back. So... that renders this app useless, aside from Covid news & numbers.<br> :date: __2021-04-30 07:10:17__
@@ -224,12 +230,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 
 > I tested positive for COVID-19. I wanted to share it in the app so I could alert others. When you test positive, the DoH gives you a PIN that you then enter into the app to verify your positive test result, which should broadcast it on the app. But here's the major problem: it didn't recognize the TWO PINs they sent me. I tried phoning someone, but had no idea who to contact. I was desperate to get the word out, because I work in a busy location. Nothing worked. I tried the codes again and again, but the app kept rejecting them, saying that it wasn't a valid code. I called the admin office-- I think???-- of the local health department, because I had no idea who else to contact to help me. All I did was call the number the app gave me. No responses from anyone. I'm starting to think this is happening with other positive testers as well, and that's why exposures aren't properly updated. Because of this, this app is LITERALLY. POINTLESS. Please do something about this. I tried to inform as many people as possible, but I can't reach out to everyone.<br> :date: __2021-04-18 15:45:58__
 
-> I tried the app but have to uninstall and re install every couple of days because it stops working.<br> :date: __2021-04-06 22:46:51__
-
-> The app is ON but has not done an exposure check since Jan 24. Today is Mar 18.<br> :date: __2021-03-19 16:34:13__
-
-> Good idea, but app stops updating/checking from time to time and won't refresh or reconnect. Tried turning bluetooth off/on, restarting phone, but couldn't make it active again. Last check was over a month ago. Is COVID over?<br> :date: __2021-03-19 01:17:23__
-
 
 
 #### 1-star reviews
@@ -237,6 +237,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
+
+> App never does anything when i turm off bluetooth it says "turn on bluetooth to recieve exposure notifications" Just having the bluetooth feature ON absolutley DRAINS my battery. Fix you r godamn app your moron.<br> :date: __2021-05-28 17:06:36__
+
+> Doesn't work. Today I open it, only to find it has turned itself off and hasn't checked exposure since December. What good is that. I am vaccinated now so I may as well uninstall if this thing won't work.<br> :date: __2021-05-24 17:43:18__
 
 > Hail Whitless, can't wait until she's voted out<br> :date: __2021-05-21 00:45:12__
 
@@ -253,9 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I have deleted and reinstalled the app several times. I had it set to run in the background, to never sleep, and it still won't update the last time it checked for exposure; it's been weeks. Instead of blaming everyone's problems on their phones or settings, how about taking ownership and just fixing the app? You know multiple people with different phones have the same issues...FIX IT.<br> :date: __2021-05-15 19:40:15__
 
 > I checked the app and it hadn't updated its info since March 14th (I checked early May).<br> :date: __2021-05-15 07:44:56__
-
-> Doesnt track common cold and social delinquents. How is dictator Whitless suppose to monitor undesireables and political opponents with this?<br> :date: __2021-05-14 16:24:12__
-
-> Can't get a pin even tho one was requested. Unable to use this app without pinpp<br> :date: __2021-05-12 01:55:45__
 
 

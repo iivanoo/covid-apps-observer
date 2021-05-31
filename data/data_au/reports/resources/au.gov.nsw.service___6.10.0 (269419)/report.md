@@ -209,25 +209,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> Ugh love it<br> :date: __2021-05-22 11:32:38__
+> It's a great idea for everything with my license and to things for covid so<br> :date: __2021-05-29 18:03:22__
 
-> I felt bad about all the unreasonable 1 star reviews<br> :date: __2021-05-20 13:49:30__
+> Great<br> :date: __2021-05-29 13:10:59__
 
-> Is really good only the I keep forgetting my password and I frustrated is a different pasword for everything and is very difficult to remember all of them when you are old.<br> :date: __2021-05-18 14:23:40__
+> Excellent App...So useful.<br> :date: __2021-05-29 08:14:45__
 
-> Good app<br> :date: __2021-05-18 10:05:52__
+> Love it. So easy to use especially with adding another guest.<br> :date: __2021-05-29 05:44:44__
 
-> Quick and easy to use.<br> :date: __2021-05-18 00:43:27__
+> It is very useful<br> :date: __2021-05-28 12:53:02__
 
-> Love how easy Service NSW is to find information and the support available<br> :date: __2021-05-16 21:42:10__
+> Switched phones and the license does not load on new phone. Working now.<br> :date: __2021-05-28 10:46:00__
 
-> Services are occasionally unavailable, but this app is very easy to use and great to have these services in one central location<br> :date: __2021-05-16 20:10:37__
+> Very good service, easy to use.<br> :date: __2021-05-28 06:29:35__
 
-> I love having an electronic licence<br> :date: __2021-05-16 13:17:10__
+> Easy to navigate.<br> :date: __2021-05-28 05:17:45__
 
-> Championing artificial intelligence helps mankind to survive cure and explore further<br> :date: __2021-05-15 01:28:55__
+> Happy to use the app to sign into different venues<br> :date: __2021-05-28 03:14:54__
 
-> So many good features and so we'll designed<br> :date: __2021-05-12 03:42:07__
+> Works well<br> :date: __2021-05-27 09:41:25__
 
 
 
@@ -237,25 +237,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
+> Excellent<br> :date: __2021-05-28 10:45:57__
+
+> Effective and convenient app to keep us in this state safe.<br> :date: __2021-05-27 12:40:15__
+
+> Simple to use<br> :date: __2021-05-27 10:39:45__
+
+> Ok so I think I've figured out the add dependent for covid check-in but I'll have to wait til I need to use it again to see if it works. Fingers crossed.<br> :date: __2021-05-27 04:02:57__
+
+> Easy to register<br> :date: __2021-05-26 21:44:39__
+
+> Directions easy to follow<br> :date: __2021-05-26 03:15:41__
+
+> Great app all over, very useful. However I don't get notifications to remind me to check out of a venue unless I go back into the app itself first, which defeats the purpose. Also, I've noticed many places have difficulty scanning the Dine & Discover vouchers when the app is set to dark mode. Easily fixed by switching back to light, but worth mentioning for possible fixes.<br> :date: __2021-05-23 12:50:50__
+
 > It's a great app<br> :date: __2021-05-21 11:53:39__
 
 > Good<br> :date: __2021-05-21 08:54:31__
 
 > Stable app but why does it require login after you unlock your phone?<br> :date: __2021-05-19 03:44:34__
-
-> I can login using a mobile browser but not the app. My email and password is correct and its not letting me log in. Any suggestions, its really frustrating<br> :date: __2021-05-17 23:21:53__
-
-> Fails unexpected<br> :date: __2021-05-07 03:24:12__
-
-> HI MY NAME IS EVELINE MACDONALD AND I'VE GOT THE SERVICE NSW APP ON MY PHONE, BUT I'VE HAD TO GO THROUGH THE GOOGLE PLAY APP TO UPDATE EVERYTHING..<br> :date: __2021-05-05 08:17:24__
-
-> painful does not register gmail phone number password bloody disgrace 5/5/21 update appears to work as it should will maybe increase to 5 star wait and see.<br> :date: __2021-05-05 04:20:41__
-
-> Reminded me up at busy RTA some 40 years ago. Howeverin all fairness it is a great idea to have all services for New South Wales Under One roof. Well done services New South.<br> :date: __2021-04-29 12:47:16__
-
-> kimkinandandandandand<br> :date: __2021-04-29 01:42:35__
-
-> Easy to use<br> :date: __2021-04-28 12:58:49__
 
 
 
@@ -265,7 +265,9 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
-> Very annoying that every time I want to use the covid check-in I have to keep adding the info for the same dependent every time. Why can't we have the option to add a dependent from a saved list.<br> :date: __2021-05-19 04:22:12__
+> Easy way to carry your licence credentials, however getting them can be a little difficult.<br> :date: __2021-05-25 22:08:17__
+
+> The information on page is half covered over and hard to read top part can not be read<br> :date: __2021-05-24 05:06:35__
 
 > Hi Service NSW Development Team, Will be great if you can add the login details inside the app, so we can view our email and mobile number that we use. Thanks!<br> :date: __2021-05-16 16:06:32__
 
@@ -283,8 +285,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Can't login with my correct credentials recently, including fingerprint. I can login to the Service NSW website though. Clearly the app is broken at the moment. Reinstall did not fix. EDIT: Make sure your time and date is set to automatic on your phone or the login won't work even if the time is correct.<br> :date: __2021-04-29 10:37:03__
 
-> Nothing to tell<br> :date: __2021-04-27 22:18:21__
-
 
 
 #### 2-star reviews
@@ -292,6 +292,10 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
+
+> Password reset, when trying to reset password, i change my password, save and log in button, It then says wrong password? What do i do?<br> :date: __2021-05-25 12:32:17__
+
+> Can't the process take any longer!! Want to register my license and after 5 mints of waiting on a dead screen of loading gives me error 🤷‍♂️.<br> :date: __2021-05-24 10:29:34__
 
 > Tried to log in and it keeps saying my code is wrong when it isn't. I have the latest version and still the same<br> :date: __2021-05-18 09:35:00__
 
@@ -309,10 +313,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Qcode reader for Covod 19 no working<br> :date: __2021-04-26 18:58:43__
 
-> Red www<br> :date: __2021-04-26 04:26:26__
-
-> DINE VOUCHERS i cant find it on the app.. i registered and the email said to go to the app to access the vouchers. I cant find them. Also tried to update the app and it just keeps sitting wth the spinning circle (common problem)<br> :date: __2021-04-25 01:54:08__
-
 
 
 #### 1-star reviews
@@ -321,24 +321,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Password randomly stopped working (I know it's right because I wrote it down), then when I try to reset it keeps going back to the login screen with "wrong password".<br> :date: __2021-05-22 10:03:15__
+> works brilliantly... except now for some dumb reason it makes me enter my PIN in every time. when 99.9% of the time I just want to make a check in, what's the point in protecting the whole app with a PIN? it's been amazingly user-friendly thus far in covid times, let's hope that continues<br> :date: __2021-05-30 03:13:33__
 
-> Stops after 89%. Not happy jan<br> :date: __2021-05-22 08:49:33__
+> I have had the app running for about a year or so with no complaints. Today I have been booted off the app for no standard softwear. What ever that means. Don't look like I'll be using it again. Completely blocked even online and my email addresses does not exist anymore.<br> :date: __2021-05-30 01:01:50__
 
-> Very bad<br> :date: __2021-05-22 02:22:27__
+> Doesn't recognise password. I just tried using this on Samsung S21 and reset my password 3 times. It works on the Web browser. Looks like I won't be able to go anywhere as most places require a check in using this app. Please fix!!!<br> :date: __2021-05-29 09:24:16__
 
-> Does not allow login on Android 12 Beta.<br> :date: __2021-05-21 15:51:22__
+> Can't sign in, login details correct on web app. Terrible mobile app development.<br> :date: __2021-05-29 05:24:46__
 
-> Already given feedback. Hope you take notice.<br> :date: __2021-05-21 11:44:59__
+> how can i install this app on my microsoft surface pro?<br> :date: __2021-05-29 03:55:59__
 
-> It was all working fine till yesterday, digital licence and other cards then it locked me out and my password was wrong(been using same one for months) tried to re set but didnt work. Trying to re load app now frustrating to say the least<br> :date: __2021-05-21 05:33:32__
+> Wont work keeps asking for add name and address but wont accept anything<br> :date: __2021-05-28 07:53:50__
 
-> Not designed for tablets. Titles obscured on front page. Four months later and still no improvement. Update claiming to improve large screen readability made no difference.<br> :date: __2021-05-21 02:08:23__
+> Trying to reset password, doesn't seem to work ! Sends you to a website then app doesn't recognise new one. Rubbish and slow<br> :date: __2021-05-28 07:26:10__
 
-> Latest update doesnt recognise my username or password, completely useless now for check ins. I have version 6.9.0<br> :date: __2021-05-19 13:16:11__
+> Continuously tries to check you back into the last place you visited again when opening, instead of allowing you to check into somewhere new or check out of the place you left<br> :date: __2021-05-27 12:33:55__
 
-> Qr codes are designed to control. You can say no<br> :date: __2021-05-18 15:22:52__
+> Has decided to declare my device is running non-standard software so I can no longer log in. Beyond the fact that I am running standard android on a pixel device, which is about as standard software as you can get, to arbitrarily lock me out of using the app is ridiculous. I used to be a big fan of this app but if a bug or policy change declaring pixels are no longer standard can do this then I really can't recommend it anymore and will advise people stay away to avoid being caught out like me.<br> :date: __2021-05-27 04:05:14__
 
-> This app is unreliable.<br> :date: __2021-05-18 02:16:20__
+> Not working<br> :date: __2021-05-26 04:22:46__
 
 

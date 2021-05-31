@@ -178,6 +178,12 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Very good<br> :date: __2021-05-29 14:20:18__
+
+> I'm outta of town and I've seen a doctor twice and the experience has been amazing.<br> :date: __2021-05-26 18:18:28__
+
+> I love this option, it just like veing at the doctors but at home and fast.<br> :date: __2021-05-25 18:03:22__
+
 > Pretty easy and clear to use<br> :date: __2021-05-21 22:33:57__
 
 > Very easy to use much better than waiting at urgent Care to see doctor!!<br> :date: __2021-05-20 23:39:40__
@@ -191,12 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Great<br> :date: __2021-05-13 22:18:02__
 
 > Super easy and effective<br> :date: __2021-05-13 19:11:24__
-
-> Is convenient when you can't find a doctors appointment right away<br> :date: __2021-05-12 17:20:25__
-
-> Great app!!👍<br> :date: __2021-05-10 20:57:16__
-
-> Great program, changes how I do my medical visits especially when I can't get in to my regular DR Updated review 5/7/21... Actual Android app continues to have issues loading so I end up uninstalling and reinstall to use it<br> :date: __2021-05-08 21:44:13__
 
 
 

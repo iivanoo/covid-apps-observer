@@ -134,25 +134,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-05-22 10:53:34__
+> Easy peace of mind is great<br> :date: __2021-05-30 11:04:21__
 
-> No concerns<br> :date: __2021-05-22 07:50:50__
+> It's not just good but it is essential to have in the fight to get this virus under control.<br> :date: __2021-05-30 09:43:46__
 
-> Great<br> :date: __2021-05-22 06:58:35__
+> Easy to use and add people. Done in seconds. Excellent app<br> :date: __2021-05-30 05:41:06__
 
-> Works very well with scanning the codes<br> :date: __2021-05-22 00:49:26__
+> Good all good<br> :date: __2021-05-29 01:19:57__
 
-> Very good<br> :date: __2021-05-22 00:15:19__
+> Easy to use<br> :date: __2021-05-28 13:11:30__
 
-> Easy to install and update.<br> :date: __2021-05-21 23:35:37__
+> IT'S EASY TO USE AND IT DOESN'T MUCK AROUND<br> :date: __2021-05-28 13:05:00__
 
-> Havnt got The VID19 yet so Its working!!<br> :date: __2021-05-21 05:05:39__
+> All good thankyou<br> :date: __2021-05-28 11:38:40__
 
-> Good to use<br> :date: __2021-05-21 02:47:23__
+> Image test 😷👍<br> :date: __2021-05-28 11:31:49__
 
-> Good to get updated, no cashes and is very light.<br> :date: __2021-05-20 06:17:19__
+> Easy to use. Very helpful<br> :date: __2021-05-28 09:59:24__
 
-> Easy to follow and see updated numbers per state.<br> :date: __2021-05-20 00:28:17__
+> Tells me my phone number is not correct !!<br> :date: __2021-05-28 09:43:48__
 
 
 
@@ -162,25 +162,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
+> Easy to use<br> :date: __2021-05-28 10:58:03__
+
+> Best options<br> :date: __2021-05-26 06:59:52__
+
+> Depends on WiFi where ever you go<br> :date: __2021-05-26 05:24:01__
+
+> It does what it says with no hassles so happy days<br> :date: __2021-05-24 16:29:19__
+
+> All good<br> :date: __2021-05-24 09:37:08__
+
+> Hangs when no internet available, possibly resolved by now.<br> :date: __2021-05-24 06:44:11__
+
+> una me to get this app to work<br> :date: __2021-05-23 03:24:04__
+
 > Operates ok but not uncommon, to stop working. All settings correct on Note10+ but constantly getting warning that app has stopped working. Update Mar 2021- Issue appears fixed.<br> :date: __2021-05-22 17:15:15__
 
 > Easy to use. Scan and go . No typing.<br> :date: __2021-05-22 10:39:14__
 
 > Has been so long and seemed to be a good move to protect people's privacy. However, every states have their own QR scanning now, and I only have one question: has this app ever helped in contact tracing?<br> :date: __2021-05-21 12:37:12__
-
-> Easy<br> :date: __2021-05-21 04:31:38__
-
-> N.a. ww<br> :date: __2021-05-21 00:35:01__
-
-> Its there but not sure what it would be like if needed in outbreaks.<br> :date: __2021-05-21 00:17:04__
-
-> Easy to use and accurate figures.<br> :date: __2021-05-20 11:18:05__
-
-> Good and easy<br> :date: __2021-05-20 10:01:42__
-
-> All OK<br> :date: __2021-05-20 09:41:39__
-
-> Very good.<br> :date: __2021-05-20 06:33:01__
 
 
 
@@ -190,6 +190,18 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
+> YOUR A DAY BEHIND ITS 30TH TODAY AND COVIDSAFE SAYS 29TH<br> :date: __2021-05-30 03:50:15__
+
+> Nothing has happened to experience. I would like to know if it has been useful to contact tracers?<br> :date: __2021-05-29 11:38:35__
+
+> Cannot find clear statistics for regional Victoria. Like many Victorians I do not reside in Greater Melbourne. I had expected clear information pertinent to me. I do have a vote!<br> :date: __2021-05-29 05:58:20__
+
+> Its a little slow to react but over all it does work.<br> :date: __2021-05-29 05:56:12__
+
+> Why can't the Covid safe app "handshake" with a device at venues where currently a QR scan us required?<br> :date: __2021-05-26 22:25:19__
+
+> Not the easiest to open when trying to check in all ways trys to go web site frist<br> :date: __2021-05-26 09:36:08__
+
 > Why are there always 2 of them? Can I delete it now?<br> :date: __2021-05-20 05:55:03__
 
 > Maybe it's just because it has been so long since I installed this app, but I'm not noticing as many issues with battery life. Still drains fast, but I'm lasting through the day, and that's all anyone can really ask for.<br> :date: __2021-05-20 05:12:32__
@@ -198,18 +210,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Who would know if it is working?<br> :date: __2021-05-19 10:54:28__
 
-> when will it trace COVID?<br> :date: __2021-05-19 02:34:17__
-
-> I have m o t a clue as to what I have achieved here seems to be a colmplete waste of esffort.<br> :date: __2021-05-18 13:56:10__
-
-> Not as useful as QR Codes<br> :date: __2021-05-16 17:39:40__
-
-> N/A<br> :date: __2021-05-16 09:50:04__
-
-> I don't think it is as good as the Tasmanian app.<br> :date: __2021-05-16 08:05:02__
-
-> Sometimes unreliable<br> :date: __2021-05-16 06:19:00__
-
 
 
 #### 2-star reviews
@@ -217,6 +217,16 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
+
+> What a waste<br> :date: __2021-05-30 09:27:22__
+
+> If this app worked we wouldn't be doing QR code scans. Go figure.<br> :date: __2021-05-29 01:36:48__
+
+> Ever since the update it drops out whenever I'm in town. Works best at home on my wifi, but as soon as I switch to data, it drops out at random times. Not very safe.<br> :date: __2021-05-28 04:12:29__
+
+> Im hoping that this update is going to work, my covid app , wouldn't scan, kept coming up with the red alert,this started last friday, switching phone off didnt do a thing,.<br> :date: __2021-05-24 06:27:02__
+
+> Latest update of May is causing phone battery drainage. It is responsible for 50% of battery usage and phone needs charging twice everyday. I have a brand new Samsung phone.<br> :date: __2021-05-24 02:34:47__
 
 > It says the app isn't working because battery optimization is on & it isn't & I updated it & put blue tooth on & it still says the app isn't working! Why? It let's me know when I have blue tooth on or off so it must be working to a certain degree.<br> :date: __2021-05-18 23:51:34__
 
@@ -228,16 +238,6 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 
 > Uses far too much battery power<br> :date: __2021-05-17 05:38:44__
 
-> Clumsy, does not update efficiently even if the phone is re- started .<br> :date: __2021-05-16 08:17:20__
-
-> Very ordinary<br> :date: __2021-05-16 07:35:25__
-
-> I have not really seen it do anything other than sit in the background of my phone or request updates from time to time<br> :date: __2021-05-16 05:39:27__
-
-> App doesn't include QR code scanning.<br> :date: __2021-05-16 05:37:33__
-
-> Keeps turning itself off<br> :date: __2021-05-16 05:36:56__
-
 
 
 #### 1-star reviews
@@ -246,24 +246,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> WA State app appears to have more relevance<br> :date: __2021-05-22 07:38:07__
+> Consume 50% of my phone's battery... and don't really get any updates if this really works. I may just keep doing social distancing and contact check in.<br> :date: __2021-05-30 13:39:54__
 
-> The latest version drains my battery faster than before.<br> :date: __2021-05-22 05:14:07__
+> This app is a heavy battery user.<br> :date: __2021-05-30 12:41:47__
 
-> Just got in from NZ told to download the Aussie app, Did so and went to log in and get a message that my number is already registered to many times and I need to delete the app in order to re use it. I'm using the NZ tracer app and manually entering in the locations as I go<br> :date: __2021-05-22 04:59:01__
+> Running android 7. Won't run for more than a few hours before stopping. Rubbish.<br> :date: __2021-05-30 10:54:44__
 
-> The how to get to the scan option us a bloody mystery. There is no link for this Nore info on alternatives<br> :date: __2021-05-21 05:28:20__
+> Just doesn't report what it's doing Little impact on tracing<br> :date: __2021-05-30 10:14:41__
 
-> Govt propagander that does not work<br> :date: __2021-05-21 04:38:32__
+> No experience.<br> :date: __2021-05-30 07:32:27__
 
-> Can't use it to check in what's app can I use in South Australia<br> :date: __2021-05-21 03:55:51__
+> Seems like a recent update has significantly impacted battery usage. My battery drained in 4 hrs, not interacting with it at all, with battery usage stats claiming it was 64% the covid safe app. Next highest app was 4%.<br> :date: __2021-05-30 05:15:04__
 
-> This is the beginning of the end<br> :date: __2021-05-20 20:06:45__
+> With the upgrade the app hasn't worked at all<br> :date: __2021-05-29 11:38:31__
 
-> Won't work properly<br> :date: __2021-05-20 19:08:01__
+> Hopeless and expensive<br> :date: __2021-05-29 00:20:02__
 
-> think this app is good to have but hear that should you be near a contact of covid 19 one is not being contacted by covid safe<br> :date: __2021-05-20 10:59:22__
+> Badly run<br> :date: __2021-05-28 13:39:38__
 
-> clunky<br> :date: __2021-05-20 10:24:37__
+> On Note 10, I don't have any of the problems others mention about bluetooth drop outs to car or Senheisser headphones or Samsung Watch. Edit:The version of the app in March 2021 has been the highest battery drainer in my apps list, battery that used to last 14 hours is lucky to make 10 hours now. April 2021 even worse, phone doesn't appear to go into low use standby, it is linearly draining the battery with Covidsafe app #1 on drain list.This app is killing my and wife battery in May 2021 <7Hrs.<br> :date: __2021-05-28 13:30:37__
 
 

@@ -226,6 +226,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> Nice idea, but ultimately served little purpose due to lack of any real functionality. Good source of data regarding state and local case numbers but served zero purpose otherwise. App didn't know when an individual was positive or not so exposure alert was useless.<br> :date: __2021-05-22 16:26:48__
+
 > Works great when I first installed it but now I can't even get on it<br> :date: __2021-03-29 22:20:37__
 
 > I received a contact tracing covid alert on 3.11.2021. It did not tell me when this happened so i had no idea what to do. Got tested, Negative, but no clear time line to quarantine since no date of exposure was given<br> :date: __2021-03-16 13:14:29__
@@ -244,8 +246,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Where's the question of have you been vaccinated? Let's see the important info and show how PA is lagging behind.<br> :date: __2021-01-22 18:14:18__
 
-> Not info I need. Where are vaccination sites? What are age requirements? Who is now eligible?, etc.<br> :date: __2021-01-19 18:11:05__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
+
+> The numbers for total cases, hospitalizations and deaths given in this app are incorrect. This should be investigated and rectified. The Commonwealth itself is spreading misinformation. Shame on them. Remain vigilent and know your source information. Don't waste your time with this app. It's useless.<br> :date: __2021-05-29 23:04:50__
+
+> Why is there no obvious way to designate if I've received a COVID positive test to propntly warn the people I've possibly exposed to the disease?! If this is a feature, it's hidden deep in the app. I would have put that at the top of the home page. What exactly is the utility of this app? :(<br> :date: __2021-05-24 22:27:42__
+
+> This was pointless. I was in contact with someone who tested positive, but no one ever gave them a code to enter and I never got an alert<br> :date: __2021-05-23 02:04:07__
 
 > Pointless app.<br> :date: __2021-05-22 02:53:46__
 
@@ -267,11 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > This app just had a huge data breach<br> :date: __2021-05-03 15:16:08__
 
 > WARNING DATA BREACH HAS OCCURED WITH THIS APP!!!!! DO NOT USE!!!! I WAS RIGHT ABOUT THIS APP LAST YEAR!!!! Sorry, don't trust it. Your data is uploaded to the Amazon cloud and location is obviously monitored. If you come in contact with a covid carrier that has their location on that data is sent. Governor wolf's mandates have been ruled unconstitutional. Big brother is watching now! This app is just enslavement to tyranny. Encouraging fearful interactions with other Americans. Do you trust Wolf and his obscure "covid" team that decided what they considered life sustaining services? NOPE.<br> :date: __2021-04-30 21:03:21__
-
-> No alert good app<br> :date: __2021-04-28 19:12:14__
-
-> How helpful can it be, today is 4/27/21, the info was last updated 4/18/21. Good thing I'm not depending on it letting me or others know about exposures. Or maybe PA has stopped using it?<br> :date: __2021-04-27 12:07:53__
-
-> Don't use<br> :date: __2021-04-26 04:16:04__
 
 

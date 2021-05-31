@@ -146,6 +146,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 4 reviews"/>
 </p>
 
+> Creo qué es una aplicación muy buena para mantener informado a Osakidetza del estado de tu salud respecto al covid, por ponerle algún pero diría que desde que nos vacunamos debería haber un apartado en el que apareciera que vacuna te han puesto y cuando.<br> :date: __2021-05-28 14:32:43__
+
 > Buena<br> :date: __2021-04-13 17:49:11__
 
 > Tengo un dispositivo Android sin play store y no funciona esta App. Tengo un Huawei, si pueden resolver, me gustaría seguir usándola<br> :date: __2020-10-25 20:40:51__
@@ -163,8 +165,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Para que esta app funcione o cumpla el objetivo lo debiera instalar toda la poblacion. No sirve para nada con los que estamos. A mi me marca que la ultima actualizacion de datos es del 04 de abril. Estoy a favor de un control mas estricto incluso que por numeros de telefono sepan como nos juntamos y donde para poder hacer un rastreo mas eficaz. No hay otra, mientras una parte de la poblacion sea tan irresponsable. Esto no es broma.<br> :date: __2020-08-01 11:35:39__
 
 > Esta Aplicación está bien que informa del coronas virus<br> :date: __2020-07-25 21:40:43__
-
-> Me ha aparecido un mensaje que la sesión ha expirado, que desinstale y vuelva a instalar. Y sigue apareciendo ese mensaje que imposibilita un uso correcto. Se rogaría un arreglo o, al menos, una explicación en la ayuda de la app. Nota añadida: se ha arreglado sin que yo interviniera.<br> :date: __2020-07-12 00:54:07__
 
 
 

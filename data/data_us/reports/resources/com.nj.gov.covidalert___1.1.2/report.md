@@ -146,6 +146,10 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Helps by putting all information in one place, THANK YOU!<br> :date: __2021-05-28 22:14:51__
+
+> Awesome!🕋<br> :date: __2021-05-24 07:04:50__
+
 > Easy to used. Informative and relevant; also reliable<br> :date: __2021-05-08 10:55:14__
 
 > Great<br> :date: __2021-05-01 20:19:48__
@@ -161,10 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > THIS STATE HAS A FANTASTIC GRIP ON ORGANIZING & RESPONDING FAST WITH LITTLE TIME TO WORRY! LOVE IT! I'M THE ONLY ONE IN MY FAMILY WITHOUT THE VACCINE & I'M FROM Philly!! Using my storehouse of 26yrs I'm signed up! Great Job Joisey!!!<br> :date: __2021-04-08 11:14:16__
 
 > No se que quieres que aga no veo ninguna muchacha en mi casa boy a seguir borrando con tu oermiso o no o nesecitas tiempo te digo son tontos yo estoy ase rrato viendo que les estan avisando que yo estoybmolesto y no entienden a que lo bielbo a desactibar en un rrato aver donse esta<br> :date: __2021-03-27 19:08:26__
-
-> Good<br> :date: __2021-03-24 13:23:22__
-
-> In the year of the begin stroke and stage of covid it hands down help to get information and clear image a covid 19 wear and tear Thank you for the strong verification Ps Sylvester J Ali<br> :date: __2021-03-21 08:20:22__
 
 
 
@@ -230,6 +230,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 2 reviews"/>
 </p>
 
+> Talk about a lost opportunity. Please update this app to capture and present vaccination stats. Stop asking me how I feel since I've been fully vaccinated, or integrate with the CDC's vsafe.<br> :date: __2021-05-26 18:36:12__
+
 > useless<br> :date: __2021-05-12 01:04:01__
 
 > Jj d<br> :date: __2021-04-29 05:42:11__
@@ -247,8 +249,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > Wish it was more helpful<br> :date: __2021-03-09 03:21:42__
 
 > THIS IS NOT A VACCINE APP. IT IS A CONTACT TRACING APP- THAT'S IT (for everyone complaining that it won't help them find a vaccine distribution center)<br> :date: __2021-03-08 21:30:57__
-
-> For the elderly or those who cannot walk long distances, there is no information on which site is best; I am in category 1b. Everytime I search for a location. I am re-routed back to this site which I have already registered.<br> :date: __2021-01-26 23:12:35__
 
 
 

@@ -187,6 +187,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
+> It's ok, but if people don't report anything, the rest of us don't know. Besides, South Carolina, as of today, is almost fully open and the mask mandate is pretty much history, except places like medical and schools.<br> :date: __2021-05-23 21:57:27__
+
 > Haven't used it very much.<br> :date: __2021-04-24 16:29:23__
 
 > Nice idea, but way too few total downloads to make the app effective.<br> :date: __2021-03-29 22:56:49__
@@ -204,8 +206,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > I have a situation much like the previous commenter. My last check was January 12 and I have a google phone, I tried looking into the android setting to avoid snoozing but no luck. It would also be nice to have an in app feedback troubleshooting resource. Overall it's a good idea and keeps personal data safe<br> :date: __2021-01-23 18:46:57__
 
 > None<br> :date: __2021-01-19 22:29:47__
-
-> Would love to tell people I've tested positive. app requires jumping through hoops my sick brain doesn't feel up to. Not useful. State already knows, plug the damned info in.<br> :date: __2021-01-19 20:53:15__
 
 
 
@@ -243,6 +243,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> In a place where people think freedom and masks are related, do we expect people to use this and honestly report? Now with the mask mandate lifted for those who vaccinate, those who do not now have an excuse. In concept this app is fantastic, but I doubt any actual results.<br> :date: __2021-05-28 00:54:50__
+
 > Why would anyone submit their private medical information to these corrupt government bureaucrats makes no sense. This app allows all your information to be collected and stored. Also, it's pathetic that you lemmings think downloading this dysfunctional app will protect you from being exposed. All of you that were exposed in the comments are probably 100% recovered by now<br> :date: __2021-05-17 16:46:18__
 
 > 5/15/21 My wife was tested positive a week ago, my whole family has the app running, no notifications. Tried to "notify others" but it has so many steps and is intentionally difficult to prevent misinformation to the point that when you're sick you give up. In the end, this app is worthless.<br> :date: __2021-05-16 14:35:55__
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Worthless. I have been in bed sick, sick with Covid for a week. Still tells me no exposures detected. Getting ready to remove it.<br> :date: __2021-03-11 17:28:50__
 
 > I was positive with COVID. I was never able to enter results in this app. I was never contacted for contact tracing. I am an essential worker. This app is a tracking mechanism only and is NOT uses for COVID.<br> :date: __2021-03-10 12:30:11__
-
-> Never contacted me!!!<br> :date: __2021-03-04 19:53:10__
 
 

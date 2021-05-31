@@ -4,7 +4,7 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1621689520
+        "latest_crawl": 1622362952
     },
     {
         "id": "org.who.infoapp",
@@ -39,21 +39,21 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1621689666
+        "latest_crawl": 1622363615
     },
     {
         "id": "com.umcutrecht.covapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.9.0",
-        "latest_crawl": 1621689672
+        "latest_crawl": 1622363616
     },
     {
         "id": "com.everywhereim.cocorico",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "0.0.13",
-        "latest_crawl": 1621689681
+        "latest_crawl": 1622363618
     },
     {
         "id": "com.HetAmsterdamsFilmbedrijf.VRGorillaMobile360App",
@@ -65,7 +65,7 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.3.0",
-        "latest_crawl": 1621689700
+        "latest_crawl": 1622363624
     },
     {
         "id": "nl.rijksoverheid.ctr.verifier",

@@ -129,9 +129,15 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
-> Estoy harta de tener que vivir encerada 1año, y que el butanero no llevaba ni mascarilla, un saludo<br> :date: __2021-05-22 00:32:50__
+> El coronavirus<br> :date: __2021-05-29 00:09:41__
 
-> Lagraf.Ahmed<br> :date: __2021-05-21 17:03:02__
+> ¡¡¡¡Muy buena la app!!!!<br> :date: __2021-05-26 13:34:54__
+
+> La aplicación es inmejorable, para que funcione tienes que instalarla, activarla, activar el bluetooth y estar cerca de un positivo en Covid19 que lleve el teléfono encendido con la aplicación instalada y activada, con el bluetooth abierto y que haya informado que es positivo en Covid19. Solo funciona en estas circunstancias, protege el anonimato y es 100% efectiva. Gracias por su eficacia!<br> :date: __2021-05-24 16:13:16__
+
+> ME PARECE EXCELENTE PORQUE CADA VEZ HAY MENOS PERSONAS INFECTADA Y NUNCA ME SUENA LA NOTIFICACION. HASTA YA PUEDO SALIR SIN MASCARILLA PORQUE NO HAY NADIE INFECTADO EN MI COMUNIDAD<br> :date: __2021-05-23 07:13:48__
+
+> Estoy harta de tener que vivir encerada 1año, y que el butanero no llevaba ni mascarilla, un saludo<br> :date: __2021-05-22 00:32:50__
 
 > El rada covi es nesesario<br> :date: __2021-05-19 18:14:36__
 
@@ -143,12 +149,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > ❗👍🏼🤗👏🏼❗<br> :date: __2021-05-11 13:04:33__
 
-> Muy bueno<br> :date: __2021-05-10 21:56:14__
-
-> Muy bien<br> :date: __2021-05-09 23:43:01__
-
-> Muy buena<br> :date: __2021-05-09 20:17:08__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.radarcovid 4 reviews"/>
 </p>
+
+> Pocaexpefiencia<br> :date: __2021-05-25 22:55:36__
+
+> Es un adelanto estar adelantado k sin solicitarlo ya hay app k detecte problemas d x igual indole pal resto d la humanidad k da tiempo a ponerce a salvo, gracias...<br> :date: __2021-05-25 08:23:11__
 
 > Bamos.amirar.sida.resultado.. Esperemos.que.trabaje.vien. Nosenada.de.la.aplicacion.<br> :date: __2021-05-20 17:02:26__
 
@@ -173,10 +177,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Esta muy bien<br> :date: __2021-03-29 10:06:36__
 
-> Buena aplicación, como la mayoría de las dedicadas al fin del control de la epidemia. Su problema, la dejadez e ineptitud de una gran mayoría de la población.<br> :date: __2021-03-28 15:04:45__
-
-> es intere sante<br> :date: __2021-03-26 04:33:17__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
+
+> Nunca me dijo nada o me.mostro algo.<br> :date: __2021-05-28 13:22:06__
 
 > Desde que me la descargué en septiembre no me ha avisado de ningún contacto estrecho. Es más, de lo único que me avisa es del error del ahorro de batería, pero aun cambiándolo me sigue dando ese fallo. Una de dos, o he tenido mucha suerte todos estos meses o no funciona.<br> :date: __2021-05-15 17:00:54__
 
@@ -202,8 +204,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 > Me parecería muy útil si desde sanidad se dieran los códigos a la gente positiva. No conozco a nadie a quien le hayan dado un código,; y algunos que han preguntado por el código, no sabían ni de qué les hablaban<br> :date: __2021-04-30 16:56:19__
 
 > Nunca he debido de estar el tiempo suficiente con un positivo con la app para que me avisara. Si que es muy cansina, creo que su función era recordarte constantemente que te podías infectar.<br> :date: __2021-04-25 10:16:36__
-
-> Esto habría q haberlo hecho obligatorio para que sirviese para algo. Si nos han obligado a confinarnos, cerrar empresas y luego a toque de queda podrían haber obligado a descargarse una app q es mucho menos problemático. Para eso estamos en estado d alarma.<br> :date: __2021-04-22 22:12:42__
 
 
 
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> No funciona<br> :date: __2021-05-21 21:07:47__
+> Inútil aplicación, que es un símbolo de la penosa gestión del Covid por parte de nuestro país. Otros, como Corea del Sur, nos han dado una lección con respecto al uso de la tecnología para atajar la pandemia. Nadie asumirá responsabilidades, pero deberían depurarse y hacerlo de forma pública.<br> :date: __2021-05-30 10:37:29__
 
-> Mala, mala<br> :date: __2021-05-21 17:52:50__
+> IDEAL PARA CONTROLARTE, NI LA INSTALÉ, SÓLO PUSE DESCARGAR Y LO PARÉ INMEDIATAMENTE SOLO PARA PONER 1*, SI SE PUDIERA POMER 0 TENDRÍA 0 O INCLUSO - 2<br> :date: __2021-05-30 01:54:22__
 
-> Una lástima, pero esta app ha resultado completamente inútil...<br> :date: __2021-05-21 15:17:59__
+> Me parece basura siempre me sale la primera cuando quiero instalar vpn Hub<br> :date: __2021-05-30 01:38:36__
 
-> Lamentable funcionamiento de la aplicación y su falta de utilidad. Los profesionales de la salud pública ni se molestan en darte código o si quiera mencionarte la app.<br> :date: __2021-05-21 13:39:28__
+> Varios positivos, ni dieron código ni la APP sirvió para nada<br> :date: __2021-05-29 01:30:50__
 
-> Película de Hollywood! Meteos vuestro covid x el ano!<br> :date: __2021-05-21 04:11:15__
+> No deja activarlo en un Xiaomi redmi note 10 5g<br> :date: __2021-05-28 09:38:07__
 
-> Esta app esta hecha solo para controlar a las masas y vigilae nuestro comportamiento.<br> :date: __2021-05-19 16:55:14__
+> Edit: ¿Esta porquería todavía existe?<br> :date: __2021-05-27 23:01:20__
 
-> Si no dan códigos a los positivos te va a notificar de tantos contactos como la app del Burger King.<br> :date: __2021-05-19 16:31:36__
+> Es imposible conseguir el Código de Diagnóstico para informar del contagio. He escrito al soporte de la app y me remiten a la comunidad autónoma y en la comunidad autónoma me remiten al soporte de la app. En resumen ... un fracaso. Ahora ya estoy vacunado y supongo que da igual. Lo mejor es que la retiren.<br> :date: __2021-05-27 16:37:04__
 
-> Se instala sola. Deberian bloquearla por malware.<br> :date: __2021-05-19 08:45:23__
+> Contol y venta de datos personales.<br> :date: __2021-05-26 19:13:48__
 
-> No tiene sentido<br> :date: __2021-05-18 22:19:20__
+> Sinceramente qué les hace pensar que las personas con COVID lo avisarán en la app cuando hay tanto irresponsable por ahí con el asunto de la mascarilla, cosa aún más fácil de llevar que decir que tienes COVID. Como idea no es mala, el asunto es que la gente suda de ayudar a los demás y ahí ya está app no funciona.<br> :date: __2021-05-26 14:40:39__
 
-> Pongo 1 estrella porque, aunque el desarrollo es muy bueno, no sirve si Sanidad no envía el código para acreditar que eres positivo. Sin código, la aplicación no da mensajes porque ella no sabe si wres posiyivo en covid o no<br> :date: __2021-05-18 20:23:56__
+> Me obligaron a instalarla cuando hice check in en un hotel. Tuve que firmar el consentimiento. No me hizo la más mínima gracia.<br> :date: __2021-05-26 09:39:49__
 
 

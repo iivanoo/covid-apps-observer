@@ -207,6 +207,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 3 reviews"/>
 </p>
 
+> I give it 3 stars because you do not have any way to show that the person has had inoculation against Covid-19.<br> :date: __2021-05-27 05:43:51__
+
 > I don't know, I haven't been around enough people to make sure. Even though, how would I know if they have the app?<br> :date: __2021-05-04 04:55:17__
 
 > This application worked fine however, I found it to be very intrusive. It requires Bluetooth to function. I use Bluetooth to remotely manage my computer, every time the app needed to take a reading I would lose my connection with my computer and then have to physically establish connection again between phone and computer.<br> :date: __2021-04-16 18:37:30__
@@ -224,8 +226,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > The app has not sent since November 26. Devs, please advise<br> :date: __2021-01-21 17:55:40__
 
 > I just wish more people used it. I kinda feel like it is not useful since people have to opt in for each aspect... BUT I will keep using it as long as this pandemic drags on. Update: This app is a fail. :( Very disappointed but not surprised at this point. It just stopped updating early Dec. Then 2 days ago it locked my phone up downloading. I had to force close & uninstall to stop it from locking up my phone. I wish this worked better.<br> :date: __2021-01-01 15:38:52__
-
-> Why hasn't it updated since December 13th!?<br> :date: __2020-12-19 00:11:33__
 
 
 

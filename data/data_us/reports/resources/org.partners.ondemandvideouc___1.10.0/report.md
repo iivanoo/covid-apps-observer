@@ -163,10 +163,12 @@ No recent reviews available with 5 stars.
 #### 4-star reviews
 
 <p align="center">
-
+<img src="4_star_reviews_wordcloud.png" alt="org.partners.ondemandvideouc 4 reviews"/>
 </p>
 
-No recent reviews available with 4 stars.
+> Wasn't able to add my children<br> :date: __2021-05-26 02:41:36__
+
+
 
 #### 3-star reviews
 

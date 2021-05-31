@@ -243,6 +243,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Deinstalliert,Funktioniert nicht,stürtzt ab👎👎👎👎👎👎👎<br> :date: __2021-05-28 22:53:57__
+
+> Kann diese App auf meinem Handy nicht warum wird diese dann in den Medien angeboten wenn man keinen Zugang<br> :date: __2021-05-28 11:11:16__
+
+> Einfach nur schlecht, QR-Code scannen geht überhaupt nicht, ID händisch eingeben, geht auch nicht da sich die Tastatur zur Eingabe nicht öffnet, traurig.<br> :date: __2021-05-27 11:36:44__
+
 > Öffnet sich nicht... Und das bei einer so wichtigen app super<br> :date: __2021-05-18 11:28:45__
 
 > Lässt sich nichtmal öffnen<br> :date: __2021-05-07 17:23:45__
@@ -256,11 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Funktioniert nicht.<br> :date: __2021-04-24 00:09:46__
 
 > Bei mir wird die App direkt wieder zu gemacht<br> :date: __2021-04-19 13:44:22__
-
-> Klappt nicht. Note 6!<br> :date: __2021-04-17 09:50:56__
-
-> lässt sich nicht öffnen<br> :date: __2021-04-15 08:40:40__
-
-> Die App lässt sich nicht einmal öffnen, da funktioniert etwas nicht...<br> :date: __2021-04-15 08:39:19__
 
 
