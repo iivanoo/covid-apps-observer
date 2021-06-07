@@ -1,0 +1,38 @@
+[
+    {
+        "reviewId": "gp:AOqpTOE1xZtlk8zwtVzge5-9kmLSpDfZPBpu_qcDAWexdQ3SDrdy92aeZD0cT5zzEIgSVMlz5B-PliYdP6BXuFU",
+        "userName": "David Strachan",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyL9t8p18xZ7HcVfyBkGDtIQh7MSrvDtts_CFfg=mo",
+        "content": "Very useful app.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.1",
+        "at": "2021-03-28 20:12:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGQACqR04IksVditRO6gyiVrhArZYWr1Yg9jAmDervXazd6yG7m2oNPis558zNTSWEMhjH8N96IceruuQ0",
+        "userName": "David Hickle",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwzftMVZ_W9f9YBumOnnLT_yXdjGu_sOmzx-Y2A=mo",
+        "content": "Love it",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.2",
+        "at": "2021-01-05 00:10:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHd4pVv75-6hS6WY--ubTOLVL2a-ecY9ezcwoQIZR8pgTxgOTcDxUhU1zc1yVzZAud8LobaF7Y5w6hCQ-U",
+        "userName": "Gordon Sturdy",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjrSXLKxKxSpU-_gMtA5Rw8shG_9Uo4NOYKXX_MLg",
+        "content": "Not very up to date with information during the Corana virus crisis. Not the easiest site to navigate",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2020-09-17 17:41:27",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

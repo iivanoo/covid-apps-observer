@@ -188,6 +188,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Excellent<br> :date: __2021-06-02 14:58:59__
+
 > Assist needed they salfasin, thorazine me<br> :date: __2021-05-12 21:59:09__
 
 > Relevant information right where I need it. Thanks for the great App. !!<br> :date: __2021-05-09 21:11:00__
@@ -206,8 +208,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 
 > (Teaches us to stop the spread of germs by washing our hands)!<br> :date: __2021-03-10 14:45:32__
 
-> Great<br> :date: __2021-03-08 23:09:32__
-
 
 
 #### 4-star reviews
@@ -217,6 +217,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 </p>
 
 > Very usefull with their inforationabout covid.<br> :date: __2021-04-30 02:09:38__
+
+> Good for info<br> :date: __2021-02-21 03:33:26__
 
 > Decent app with lots of good info.<br> :date: __2021-01-27 05:17:53__
 
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > Provides clear and factual science on COVID-19 developments<br> :date: __2020-07-31 23:53:35__
 
 > Sarahlandry ex sex here<br> :date: __2020-06-11 01:25:36__
-
-> Too many notifications about the virus made me depressed. Good app for a free one, just need better notification options.<br> :date: __2020-05-31 20:08:18__
 
 
 

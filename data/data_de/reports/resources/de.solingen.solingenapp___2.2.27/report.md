@@ -224,6 +224,12 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 3 reviews"/>
 </p>
 
+> Eigentlich eine schöne und sinnvolle App. Leider läuft sie nicht stabil. Bei der Eingabe meiner Adresse unter dem Punkt Abfall stürzt sie ab. 🤔<br> :date: __2021-06-06 08:16:04__
+
+> Schöne App mit vielen nützlichen Informationen. Leider hat sie sich letzte Woche nicht mehr geöffnet. (Fehler 100!?) Nach Neuinstallation öffnet sie wieder, stürzt aber jetzt beim Öffnen des Müllkalenders ab.<br> :date: __2021-06-04 08:23:03__
+
+> Im Großen und Ganzen finde ich die App gut. Allerdings: Mir werden News in der Benachrichtigungszeile angekündigt, die aber in meiner App dann nicht auftauchen. Trotz Verbindung zum Server habe ich veraltete News. Heute zum Beispiel, 2.6.21 kann ich nur News bis zum 28.5. sehen. Cache ist geleert. Seite aktualisiert. Nichts passiert. Schade. Warte auf Verbesserung.<br> :date: __2021-06-02 13:42:33__
+
 > Leider schließt sich seit Tagen die App sofort, nachdem die Verbindung zum Server erfolgreich angezeigt wurde. Habe die App bereits gelöscht und neu installiert, es ändert sich nix. Sehr schade, habe sie gerne genutzt.<br> :date: __2021-04-17 20:14:23__
 
 > Schöne Umsetzung, toll was alles mit React Native geht! Meine Wünsche: - Corona Positivtestrate bitte in Prozent im Bezug auf die gesamte Testmenge - Anzahl der aufgeführten Tests mit angeben - Die Ladeanimation nervt. Weg damit. - Manuelle Anwahl der Wetterstation- keine Daten<br> :date: __2021-04-16 15:39:59__
@@ -244,6 +250,10 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
 
+> Sinnlose App. Macht von einem Tag auf den anderen was sie will. Gestern ging noch diese oder jene Funktion. Heute schließt sie sich sofort, wenn man den gleichen Punkt anwählt, z.B. Mülltermine abrufen. Straße eingeben, Hausnummer wählen... App beendet sich von alleine. Bereits diverse solche Eingenheiten gemeldet. Geändert (durch Updates) hat sich nichts. Cache geleert. De-/Neuinstalliert. Keine Änderung. Anderes Handy. Gleiches Verhalten. Endgültig deinstalliert. Was nicht funkt. ist sinnlos.<br> :date: __2021-06-04 10:16:14__
+
+> Funktioniert nur bedingt.stützt immer wieder ab<br> :date: __2021-05-30 20:57:39__
+
 > An sich eine gute Idee die App mit den angedachten Funktionen und Informationen. Leider funktioniert sie nach der Installation nur eine begrenzte Zeit. Eine neu Installation behebt das Problem. Nur hat man auf immer wieder neu installieren irgendwann keinen nerv mehr dazu. Daher bleibt sie nun deinstalliert.<br> :date: __2021-05-23 09:24:47__
 
 > Geht so. Stürzt andauernd ab. Sehr oft keine Verbindung zum Server. Ansonsten OK<br> :date: __2021-03-13 08:43:37__
@@ -259,10 +269,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Lässt sich nicht öffnen.....<br> :date: __2020-12-08 13:59:14__
 
 > App öffnet kurz und schließt dann sofort wieder. Mittendrin steht...Verbindung zum Server erfolgreich ❓❓❓ Ja🙂 jetzt funktioniert die App. Aber nur einmal, beim zweiten öffnen dreht nur der gelbe Mensch Solingen Punkt.<br> :date: __2020-11-26 18:10:56__
-
-> Eigentlich eine tolle App lässt sich aber nicht mehr starten, nur noch kreisenden Mensch Solingen.<br> :date: __2020-11-26 18:03:07__
-
-> Nach der Installation ließ sich die App normal bedienen. Jedoch nach erneutem Start komme ich nur bis zum Logo. Dann schließt die App wieder. Hab das Gerät neu gebootet. Bleibt so. Hab die App erstmal deinstalliert.<br> :date: __2020-11-24 10:40:40__
 
 
 

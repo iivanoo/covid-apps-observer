@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOGiKu40hVVXT9D_KjPlaYomLq6hMAthKzp-nCCB3XE-ABhekzDl7f4qwOYF-HJMBgRhlGEmJFzMugmobxI",
+        "userName": "john crowley",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3a6Nx2CeWrjC_UDiuJQT4lnobURXX8OfXT9Fk=mo",
+        "content": "Great in theory, useless in action.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-06 13:16:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG0eSstmDGA_5MDFXNYMAIMiPZB7GiQjqwRgyevFNXm0m2YClxOb1XnOpbXpbLHtefP2ZvlJP_uU5FgXRI",
+        "userName": "Brad Henderson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj0kRVCSUItk8capqO9WaqYSdw5NK4uG3EwvGF5",
+        "content": "After being vaccinated I feel like a milestone was reached allowing me to uninstall this. I hope we never have to use this again, but I'm glad this excellent approach is available for us.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-05-31 01:08:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGs89SUusV8ethlTNRJDcJsUG6F-Eujw1tJl6T02f-YeLY8g_iyiJU8YTv56bG6ZC6JbzzHeBS_aSjxKK0",
         "userName": "Virginia Bluehorse",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuDhh-3FB6-PlslEOmgJQVjpadXSuAE9Aerw94zc4",
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgoIrt1JTFrPNax0a4QxmXPwyH45c-1Jl1sx1y1",
         "content": "At this time I'm giving WA Notify 2 stars. I'm not understanding why the \"Record of recent check-ins for possible exposure\" is only being checked one to three times daily. And most of the \"check-ins\" are when I'm at home, I rarely see that there are any check-ins while I'm in public\ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f I feel it is important for us to have an app like this, but if the app is not checking for exposures while I'm out of my home then it seems almost useless. I'll change my review once I see a change in the app.",
         "score": 2,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "minted800003",
         "at": "2021-05-20 08:39:53",
         "replyContent": null,
@@ -149,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxGgLFt21sO_SWOyAoydbYfsyNiol5SmDInoXp",
         "content": "Keeps me abreast of WA covid news and gets my post-vaccination input. Secure and trusted, makes me part of the tracking solution.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "minted160013",
         "at": "2021-04-23 04:34:26",
         "replyContent": null,
@@ -3205,7 +3229,7 @@
     },
     {
         "reviewId": "gp:AOqpTOH9VB50UotyKNAXz3CuRjEX-iz14sgxGJYcOqG1OJRzciLFbsXVyVSyOgnO9bDyxcLlzwd4VygmGsjG_eQ",
-        "userName": "Virginia Jasmin",
+        "userName": "Jinx Jasmin",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi2Uoowf3eOeBfxPmjVKiVfkODneLiigaGVTcBXYAA",
         "content": "I appreciate the clarity on how the app will work and am interested to see if enough people download that it can help people know when to get tested and self-quarantine!",
         "score": 5,

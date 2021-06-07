@@ -222,6 +222,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gov.de.covidtracker 1 reviews"/>
 </p>
 
+> This app was fine until June 2nd then it started checking for "exposure keys" constantly which is draining my phone! I have to do a force stop.<br> :date: __2021-06-04 13:20:27__
+
 > Does not open after last update<br> :date: __2021-03-24 13:18:08__
 
 > This app completely screwed up my phone<br> :date: __2021-03-10 03:49:08__
@@ -239,7 +241,5 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 > Wow makes you turn on bluetooth and is a complete invasion of privacy. Stay home and hide if you are scared of COVID<br> :date: __2020-09-28 03:50:29__
 
 > Would like to use the app, but the app always hangs when I get to the data page and click on Continue. I' using a Pixel 3 phone, Android 11.<br> :date: __2020-09-24 16:20:30__
-
-> Perpetually stuck waiting for download from Play Store.<br> :date: __2020-09-16 15:17:02__
 
 

@@ -129,6 +129,12 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
+> Es una aplicación muy buena (te informa de todo y es eficaz en la lucha contra el virus)q…La información que viene en la aplicación es excelente y da todo tipo de consejos avalados por la Comunidad Científica (es como si te acompañará un médico o enfermera las 24h del día). Si te surge cualquier pregunta siempre tienes los teléfonos del SERGAS a tú disposición. A pesar de que digan que puede no ser adecuada para mí dispositivo yo me quedé con una impresión tan buena que la he vuelto a instalar.<br> :date: __2021-06-03 23:41:09__
+
+> HTC TRABAJO de recibidogracias tt<br> :date: __2021-06-03 19:03:49__
+
+> Excelente App para avisarte cuando el Bluetooth de tu celular está apagado, le doy 5 estrellas porque no hay más y además soy fun de la Mahou 5 estrellas. Desde que la instalé no puedo vivir sin ella.<br> :date: __2021-06-03 11:32:29__
+
 > El coronavirus<br> :date: __2021-05-29 00:09:41__
 
 > ¡¡¡¡Muy buena la app!!!!<br> :date: __2021-05-26 13:34:54__
@@ -143,12 +149,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > perfecto<br> :date: __2021-05-18 19:16:45__
 
-> Muy eficaz todos los días agradezco su información y les doy las gracias por su trabajo excelente y eficaz sin ellos moriríamos todos<br> :date: __2021-05-13 22:14:30__
-
-> Esta mui bien<br> :date: __2021-05-11 19:56:53__
-
-> ❗👍🏼🤗👏🏼❗<br> :date: __2021-05-11 13:04:33__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.radarcovid 4 reviews"/>
 </p>
+
+> En resumen: Estaria bien que se pudiese jugar con amigos en batallas multijador así más competividad. El modo historia de lo mejor bastante entretenido y con muchos momentos épicos que le dan el toque. Y molaria que metiesen eventos como el sida, ébola, covid1234 nueva plaga, etc<br> :date: __2021-06-04 22:57:48__
 
 > Pocaexpefiencia<br> :date: __2021-05-25 22:55:36__
 
@@ -175,8 +177,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Buena Si<br> :date: __2021-04-09 21:55:34__
 
-> Esta muy bien<br> :date: __2021-03-29 10:06:36__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
+
+> En su tiempo fue echa con muy buena intención pero no creo que halla servido de mucho para frenar la pandemia<br> :date: __2021-06-03 15:50:25__
+
+> Muy buenas<br> :date: __2021-06-02 21:12:28__
 
 > Nunca me dijo nada o me.mostro algo.<br> :date: __2021-05-28 13:22:06__
 
@@ -201,10 +205,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Si se supone que usa el Bluetooth y no la localización, así que no debería de estar constantemente dando señales de alerta para activar localización. Si no quieres hacerlo. Incluso con modo avión, o de noche, molesta. Si no quiero activar localización, no debería de estar todo el tiempo avisando.<br> :date: __2021-05-06 09:05:40__
 
-> Me parecería muy útil si desde sanidad se dieran los códigos a la gente positiva. No conozco a nadie a quien le hayan dado un código,; y algunos que han preguntado por el código, no sabían ni de qué les hablaban<br> :date: __2021-04-30 16:56:19__
-
-> Nunca he debido de estar el tiempo suficiente con un positivo con la app para que me avisara. Si que es muy cansina, creo que su función era recordarte constantemente que te podías infectar.<br> :date: __2021-04-25 10:16:36__
-
 
 
 #### 2-star reviews
@@ -212,6 +212,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.radarcovid 2 reviews"/>
 </p>
+
+> Consume toda mi batería. La idea era muy buena, pero teniendo que usar GPS y bluetooth de esa manera no me dura nada. Demasiado esfuerzo para llevarla activa.<br> :date: __2021-06-04 16:45:38__
+
+> La aplicación está bien, pero la veo algo limitada para la situación actual, sería conveniente añadir una opción para declarar si tienes síntomas, ya que la aplicación solo sirve si oficialmente has dado positivo (cosa que está perfecto) pero hay muchas personas que aún no se han hecho una pcr y padecen síntomas de covid, pues opino que por prevención, sería útil añadir esta opción<br> :date: __2021-06-02 15:12:57__
 
 > Antes me funcionaba bien. Pero hace unos 10 días me dice que no funciona correctamente, la llevo usando desde el principio y nunca me había pasado. La desistalé y volví a instalar. Pero me sigue pasando.<br> :date: __2021-05-21 21:38:41__
 
@@ -229,10 +233,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Funcionaría mejor si todo el mundo la tuviera. No todos saben de su existencia<br> :date: __2021-05-02 18:19:27__
 
-> No es muy buena app. No notifica NADA. Esto no va.<br> :date: __2021-05-01 13:18:25__
-
-> Solo vale para ocupa espacio en el teléfono...Así q no merece la pena tenerla<br> :date: __2021-04-26 17:58:14__
-
 
 
 #### 1-star reviews
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> Inútil aplicación, que es un símbolo de la penosa gestión del Covid por parte de nuestro país. Otros, como Corea del Sur, nos han dado una lección con respecto al uso de la tecnología para atajar la pandemia. Nadie asumirá responsabilidades, pero deberían depurarse y hacerlo de forma pública.<br> :date: __2021-05-30 10:37:29__
+> Para imbéciles<br> :date: __2021-06-06 05:00:11__
 
-> IDEAL PARA CONTROLARTE, NI LA INSTALÉ, SÓLO PUSE DESCARGAR Y LO PARÉ INMEDIATAMENTE SOLO PARA PONER 1*, SI SE PUDIERA POMER 0 TENDRÍA 0 O INCLUSO - 2<br> :date: __2021-05-30 01:54:22__
+> No ha servido para nada, llevo meses con ella, nunca avisa.<br> :date: __2021-06-05 10:09:22__
 
-> Me parece basura siempre me sale la primera cuando quiero instalar vpn Hub<br> :date: __2021-05-30 01:38:36__
+> la apk inútil del año.<br> :date: __2021-06-05 03:44:56__
 
-> Varios positivos, ni dieron código ni la APP sirvió para nada<br> :date: __2021-05-29 01:30:50__
+> En ningún momento se me notificó de algún positivo cercano, aún sabiendo que lo había y que usamos ambos la app. Una falsedad<br> :date: __2021-06-05 02:57:00__
 
-> No deja activarlo en un Xiaomi redmi note 10 5g<br> :date: __2021-05-28 09:38:07__
+> Malo<br> :date: __2021-06-04 18:29:25__
 
-> Edit: ¿Esta porquería todavía existe?<br> :date: __2021-05-27 23:01:20__
+> Basura, como todo lo que hace este gobierno.<br> :date: __2021-06-04 18:26:30__
 
-> Es imposible conseguir el Código de Diagnóstico para informar del contagio. He escrito al soporte de la app y me remiten a la comunidad autónoma y en la comunidad autónoma me remiten al soporte de la app. En resumen ... un fracaso. Ahora ya estoy vacunado y supongo que da igual. Lo mejor es que la retiren.<br> :date: __2021-05-27 16:37:04__
+> 👎👎👎👎<br> :date: __2021-06-03 15:23:37__
 
-> Contol y venta de datos personales.<br> :date: __2021-05-26 19:13:48__
+> Yo no estoy enfermo<br> :date: __2021-06-03 05:10:07__
 
-> Sinceramente qué les hace pensar que las personas con COVID lo avisarán en la app cuando hay tanto irresponsable por ahí con el asunto de la mascarilla, cosa aún más fácil de llevar que decir que tienes COVID. Como idea no es mala, el asunto es que la gente suda de ayudar a los demás y ahí ya está app no funciona.<br> :date: __2021-05-26 14:40:39__
+> No identifica<br> :date: __2021-06-01 08:19:44__
 
-> Me obligaron a instalarla cuando hice check in en un hotel. Tuve que firmar el consentimiento. No me hizo la más mínima gracia.<br> :date: __2021-05-26 09:39:49__
+> Gasto de batería a lo tonto porque no funciona, lo descargué para notificar positivo y fue imposible, lo desinstalo no sirve<br> :date: __2021-06-01 00:19:30__
 
 

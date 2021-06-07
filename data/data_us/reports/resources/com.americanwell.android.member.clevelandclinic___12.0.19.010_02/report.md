@@ -231,6 +231,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 4 reviews"/>
 </p>
 
+> Quick precise nice lady<br> :date: __2021-06-05 17:06:44__
+
 > Great app.<br> :date: __2021-04-13 20:17:08__
 
 > life saver<br> :date: __2020-10-26 10:37:41__
@@ -248,8 +250,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > The doctor was good. The issue I have is if you take too long inputting information after you choose a provider, it will kick you off and say that the provider is no longer available and you have to start over again.<br> :date: __2020-07-06 21:44:07__
 
 > It's a touch laggy but it works.<br> :date: __2020-06-24 16:33:45__
-
-> Ok<br> :date: __2020-06-22 17:45:00__
 
 
 

@@ -301,6 +301,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> keeps saying the user and password are incorrect. I change the password=>get access. Close app. Next time says the same thing=>change password again....in a loop.<br> :date: __2021-06-02 20:22:56__
+
 > Not able to even sign up as freezes on biometrics page. Ridiculous.<br> :date: __2021-05-16 13:13:38__
 
 > Hardly ever works properly nowadays, all i want is to order a repeat prescription.<br> :date: __2021-05-16 10:31:12__
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > unable to order medication<br> :date: __2021-04-04 10:39:47__
 
 > Does not work properly on my Samsung s21 I cannot access my medical record at all.<br> :date: __2021-03-25 01:04:29__
-
-> Cannot get on the app, click forgotten password, get emailed code, enter code, and it asks security question, answer question and get message too many failed attempts, account temporarily suspended, come back a month later, and get same message on first security question answer, so just how long is your idea of temporary?<br> :date: __2021-03-13 20:15:59__
 
 

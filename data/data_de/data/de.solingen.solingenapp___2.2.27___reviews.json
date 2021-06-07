@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOGV8wqr4Ai3chPLPQHyzmBoslUICXsuU4yk2nqI1c7VJk7Pqr8gEVxZTnRK5JL9LV7eFMuMD06UCdPnPCc",
+        "userName": "Hammer TC",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzGSD8O6eF2Hzw6xhfPVCrfv6U19l8R6UAkyF0F=mo",
+        "content": "Eigentlich eine sch\u00f6ne und sinnvolle App. Leider l\u00e4uft sie nicht stabil. Bei der Eingabe meiner Adresse unter dem Punkt Abfall st\u00fcrzt sie ab. \ud83e\udd14",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.27",
+        "at": "2021-06-06 08:16:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFkBOMDvNGQ2RBqJ-2nSPrWVM0_YgrcZS3XS_V4cBQ6lvlEdb0VYI4eqoYM1H0winydGwnDHsdy9_z-iGg",
+        "userName": "Leachim Mol",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgX1mtGRmUi5dFi0wrCwLUkumChUUmMHNrvtJlAkA",
+        "content": "Sinnlose App. Macht von einem Tag auf den anderen was sie will. Gestern ging noch diese oder jene Funktion. Heute schlie\u00dft sie sich sofort, wenn man den gleichen Punkt anw\u00e4hlt, z.B. M\u00fclltermine abrufen. Stra\u00dfe eingeben, Hausnummer w\u00e4hlen... App beendet sich von alleine. Bereits diverse solche Eingenheiten gemeldet. Ge\u00e4ndert (durch Updates) hat sich nichts. Cache geleert. De-/Neuinstalliert. Keine \u00c4nderung. Anderes Handy. Gleiches Verhalten. Endg\u00fcltig deinstalliert. Was nicht funkt. ist sinnlos.",
+        "score": 2,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "2.0.7",
+        "at": "2021-06-04 10:16:14",
+        "replyContent": "Hallo Leachim Mol! Vielen Dank f\u00fcr Ihr Feedback, es freut uns sehr, das zu h\u00f6ren! Das ist richtig, es folgt noch Einiges ;-) Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
+        "repliedAt": "2020-09-17 15:15:35"
+    },
+    {
+        "reviewId": "gp:AOqpTOGYHUATKY1mRFU6FECfIwOBzUN4qdnhwFUv2tsVqI4s-4oGeiQ1Ct9mS2HBff7J7v8TOUZEVSSpAwK77Ks",
+        "userName": "James Bond",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwVWxuPZFTSRLH2-GuewPzhcYl9bdxZl8MmoQLu=mo",
+        "content": "Sch\u00f6ne App mit vielen n\u00fctzlichen Informationen. Leider hat sie sich letzte Woche nicht mehr ge\u00f6ffnet. (Fehler 100!?) Nach Neuinstallation \u00f6ffnet sie wieder, st\u00fcrzt aber jetzt beim \u00d6ffnen des M\u00fcllkalenders ab.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.27",
+        "at": "2021-06-04 08:23:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG5QF3u69s-SEyYvMhkcN3lNHk_IEOhYPZpUUe72kfw_XX-Q8F9GJXJFjXSFKF-ZuZpun4HcmDOzy7TtJg",
+        "userName": "Tanja Halas",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7L_rG2QC3KKoX-4CUJEUIZf6bw1kdurnyyUn4RSE",
+        "content": "Im Gro\u00dfen und Ganzen finde ich die App gut. Allerdings: Mir werden News in der Benachrichtigungszeile angek\u00fcndigt, die aber in meiner App dann nicht auftauchen. Trotz Verbindung zum Server habe ich veraltete News. Heute zum Beispiel, 2.6.21 kann ich nur News bis zum 28.5. sehen. Cache ist geleert. Seite aktualisiert. Nichts passiert. Schade. Warte auf Verbesserung.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.27",
+        "at": "2021-06-02 13:42:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG1jsnHKSEAoq3uyMpmEYH6N7YHL8k01tfyBvwZYHkoI6nvIb6Y3pt5oE5sdBXsfnYotkBGxaE4EOQN7F4",
+        "userName": "Marianna Baiamonte",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFzOgpXdk9UT6-xvIR7eR-hJ_yEh8R27f_Gpvu",
+        "content": "Funktioniert nur bedingt.st\u00fctzt immer wieder ab",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.27",
+        "at": "2021-05-30 20:57:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGKxjW-0RUXXR8uAQBIhZ25mVDcz7QlQZ-m9pz80_pJ63VDB4PvcHsvIoQLOocQHd_jO8roZStl8-PMBwA",
         "userName": "Baerbel Hoffmann",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFkq-5B3NgXeo1Z_2tZsWNt60epAhDgxh6kINGsQ",
@@ -17,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw3jG3q4DdZA4Q0H_CVVZoLfPFVYqZZ0CrmCjsN=mo",
         "content": "An sich eine gute Idee die App mit den angedachten Funktionen und Informationen. Leider funktioniert sie nach der Installation nur eine begrenzte Zeit. Eine neu Installation behebt das Problem. Nur hat man auf immer wieder neu installieren irgendwann keinen nerv mehr dazu. Daher bleibt sie nun deinstalliert.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.2.27",
         "at": "2021-05-23 09:24:47",
         "replyContent": null,
@@ -718,18 +778,6 @@
         "at": "2020-10-24 23:25:13",
         "replyContent": "Hallo Matthes Irgendwer! Sie m\u00fcssen den Standort grunds\u00e4tzlich nicht freischalten. Es hilft allerdings bei mehreren Funktionen, wie beispielsweise dem Wetterassistenten oder den gelben Punkten, genauere Informationen zu Ihrer unmittelbaren Umgebung zu erhalten. Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
         "repliedAt": "2020-11-23 16:10:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOFkBOMDvNGQ2RBqJ-2nSPrWVM0_YgrcZS3XS_V4cBQ6lvlEdb0VYI4eqoYM1H0winydGwnDHsdy9_z-iGg",
-        "userName": "Leachim Mol",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgX1mtGRmUi5dFi0wrCwLUkumChUUmMHNrvtJlAkA",
-        "content": "Update: Mit Version 2.0.7 sind die bisherigen Fehler schnell behoben worden. Sehr gut. Die zuk\u00fcnftige Abwicklung von Verwaltungsdienstleistungen und Zahlfunktion hin zum mobilen \"B\u00fcrgerb\u00fcro\" ist ja das Ziel. Bin mal gespannt. Der 5. Stern wartet schon...",
-        "score": 4,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "2.0.7",
-        "at": "2020-08-30 10:57:21",
-        "replyContent": "Hallo Leachim Mol! Vielen Dank f\u00fcr Ihr Feedback, es freut uns sehr, das zu h\u00f6ren! Das ist richtig, es folgt noch Einiges ;-) Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
-        "repliedAt": "2020-09-17 15:15:35"
     },
     {
         "reviewId": "gp:AOqpTOFUBqo_5qO8boxD7mvFFyA28bJoFRuO8g6J0N2K12alagBwD3nbcHWQLOyTby-DkQ77HeGpFdUkQaAwNTQ",

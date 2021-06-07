@@ -1,0 +1,29 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "nl.rijksoverheid.ctr.holder.HolderMainActivity",
+        "net.openid.appauth.RedirectUriReceiverActivity",
+        "nl.rijksoverheid.ctr.qrscanner.QrCodeScannerActivity",
+        "net.openid.appauth.AuthorizationManagementActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://localhost/",
+        "http://www.example.com",
+        "https://login.ggdghor.nl/coronitacc",
+        "https://coronacheck.nl/nl/testaanbieders-fieldlab-in-de-app",
+        "https://coronacheck.nl/nl/faq-in-app.html",
+        "https://coronacheck.nl/nl/privacy-in-app",
+        "https://play.google.com/store/apps/details?id=",
+        "https://holder-api.coronacheck.nl/v2/"
+    ]
+}

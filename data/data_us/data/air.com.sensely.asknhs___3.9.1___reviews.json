@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOHU1zyN6yKjeR_XStPcC45W_Sl_qMe4lVOQnrZyyWktwoXGBFO79WOi9c-vVmTEiqBpFQllH8IASviUuTA",
+        "userName": "Ackeem Brown",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw3aL1NDx4hqSg6baNf6d-hxeD0JlYlqWBzE6aq=mo",
+        "content": "Good app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-06-06 14:12:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH0ao6zTMXbWdPj5h1jKXXSuQOzvyQzR8uCQPe8fTi0v0b-pTQ2Vd2NL5yWH_AksplPDspouqVuUV4r_Z0",
+        "userName": "Davinia Darch",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw01peiM4HSDZxB0htEuL2iQEYF7XIIZarOXwoV=mo",
+        "content": "It was, easy to use but yesterday it said I had booked, an appointment and didn't go through, so I was waiting all day.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-06-02 09:09:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFeDoHs3u_dggb4QDKTKn-ENGdrrEVugjghRr0kZf4Hu3v55WD9AtzBVoEXLU_7cEB7-4xHousjNj8-M1k",
+        "userName": "Helen Ringsell",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwwdv-DAKy72Mq0ELSnpBSxQ-icRPnhB5AzfWsh=mo",
+        "content": "Great but only took one symptom into account at a time.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-06-01 09:46:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGZXbOkZLbV9Q2rkjeeH-5bq_QgmjQO-DXdZyOanWF5iCQxzsI_UbDJckKmhKTMYBZgu9ERUaW_CuoMkxQ",
+        "userName": "Richard Harvey",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJywLQOPMspY9OCl3G8BqlVdRmQKEa3QdIj2HhwV=mo",
+        "content": "Fast.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-05-31 09:36:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFf4lGx1yBxqooqnXanYvTWGkAUWwPiWPCS__kya1TkRYC7l3L4HMywnh_g3SD5SnS7MsO6LgP-ZZwP0OY",
         "userName": "Johnson Aigbokie",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxLVftUfk_U4aKHCN1V6Yvyy9mwn8DBnvdBK8zV=mo",
@@ -149,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjuNYwOYCyj-bib80xruH5RRW6eDgQU8YoqYYpipw",
         "content": "Horrible the assistants look weird as they attempt to talk as their mouths are not in sync with the words. I can't find my way around the app",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-05-18 16:47:50",
         "replyContent": null,
@@ -197,7 +245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz3k8FM0LDY2ZPb-6J0u43tb_SMUECl74sM6Pmk=mo",
         "content": "Based on a single use of the app (I was invited to rate the app at the end of the 'session') I think the IT is good, well executed and easy to use. I am less convinced about the quality of the diagnosis which was to ring 111. In its defence I would say I am experiencing high blood pressure which is sometimes called the silent killer as symptoms are various and sometimes nill. Inviting me to talk to a clinician is the right answer so 5 stars.",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-05-11 12:14:04",
         "replyContent": null,
@@ -293,7 +341,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZAoNZBxtGmeTCj3vgFxLm5rYohinmqELZwwyd=mo",
         "content": "Got an appointment booked in minutes after wasting 30 minutes on hold to the doctors only to be told no appointments left. Much more convenient and easy to use.",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-05-05 10:29:17",
         "replyContent": null,
@@ -305,7 +353,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyGs30-bc-RpYV-suUfQ3nIKz4kmvfs95W1ZtNv=mo",
         "content": "Only used this app once so far. It appears quite comprehensive and asks lots of questions. My GP surgery said I could book an appointment via the app but the app wouldn't let me. I had to wait for a phone call from my surgery.",
         "score": 4,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-05-05 10:25:00",
         "replyContent": null,
@@ -1553,7 +1601,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwlPbm49JXe05dtHvW32fnSKv3OHwwAIZiBZ3IT=mo",
         "content": "Very frustrating to have to click through answering all the questions only to be told there are no appointments. Could it not work the other way round - display the available appointments, then ask someone to answer all the risk questions after they have selected one, to be able to confirm it?",
         "score": 3,
-        "thumbsUpCount": 24,
+        "thumbsUpCount": 25,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-01-15 08:49:13",
         "replyContent": null,
@@ -6218,7 +6266,7 @@
     {
         "reviewId": "gp:AOqpTOF6XDEYfrGWq_JGhAdVGsqI7hyf4KiRBfHDAAxXZGO0tk9QLvhJCvaAUdAX8q6mziEEMQKzUVU1L6q5iHk",
         "userName": "Martin Wells",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijJZmsgeu2wmf5z-IXO2mBgfvRcKIBBBuUfSXZ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYX0JWACF9pSXaeJ2elPzKf88fSiuvYl0uqdOQaQ",
         "content": "Very detailed & great symptom checker. Easy to use and very reassuring outcome if need to see a doctor or A&E. Also tries to book appointment at your GP, but don't expect miracles booking anything through the back door of your GP as still has to go through the their system. But at least they have the symptom conclusion upfront will speed up help. Good work Olivia",
         "score": 5,
         "thumbsUpCount": 4,
@@ -7454,7 +7502,7 @@
     {
         "reviewId": "gp:AOqpTOGu9u4yv4-8bqZ9H9e-dAcKiG1aY4yzAlWpYylzef_9uJtbCBJkDC4Q2XaIaaSQv4kSuBulmUIow2G-N8E",
         "userName": "Jan-Michael Jansan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6K-S3cgVUAC4OSoy6ozdbARsMYDBtbKHSit5bYw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5W2sHXzolUqPW-sYJzK-Gxdu0X5QSpnatHM6M-gc",
         "content": "very straight forward !!!!!",
         "score": 4,
         "thumbsUpCount": 0,
@@ -8761,7 +8809,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF1ITHlqNFYYPwXwAoSxb2TQT0YfU3rGv2EVhwCT_FS1xLbPBpVf3dWMFFE_c8c_p0RDnjF0szaHe2h1Bg",
-        "userName": "Paul Taylor",
+        "userName": "Frankley Talking",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gif29HI2bx_GF7ZP3JaCTTxZHrfmvLu0gQb392EBP8",
         "content": "brilliant tool",
         "score": 5,
@@ -9370,18 +9418,6 @@
         "at": "2018-12-29 09:49:54",
         "replyContent": "Thank you for the positive feedback Dan!",
         "repliedAt": "2019-01-03 23:30:33"
-    },
-    {
-        "reviewId": "gp:AOqpTOHso2UlyKgpekU_o4necZq4DiGWl1Fpgk-P8Aic6ms9UI3qwSpWylMCQpK3VInED2k5ef1nQI0NK5NXpWA",
-        "userName": "Alison Garrett",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZngRvgpHysS_Pi7NXgT4Lyw0NTBX2vSnEuLH_",
-        "content": "best app I have used",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.1.24",
-        "at": "2018-12-27 22:45:46",
-        "replyContent": "Alison - Thank you for the positive feedback. We are so happy you found Ask NHS useful and hope you continue to come back for your health related needs.",
-        "repliedAt": "2018-12-29 01:39:18"
     },
     {
         "reviewId": "gp:AOqpTOG_47PUWIEoNaCvTeitWMpxykJYsM8YZ3psiLyC1QxKC_fGB2GA84_PxrTAMH8WaBqvf2M8kCUYo9L9m2E",
@@ -11962,41 +11998,5 @@
         "at": "2018-05-24 19:00:34",
         "replyContent": "Emma,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
         "repliedAt": "2018-05-25 00:57:56"
-    },
-    {
-        "reviewId": "gp:AOqpTOHFeMxrqudbef-ZzBvfFyEBbZVLH1VRCOgonBcXVm1SExkyJOuTMT173zlcGqo8AFbyMa51kXwb9ZgV7-Q",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "I found this really good they have patients with you and they have the time",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.4.3",
-        "at": "2018-05-24 09:47:21",
-        "replyContent": "Hello,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-05-16 04:11:03"
-    },
-    {
-        "reviewId": "gp:AOqpTOHqohx5CJKFhN1BPe0nq4WTkSp-DVn4d7OxDspQsJ82tZeDC_ZsKiH8clT63JoSaKpZbPKWK8uhvr2M3wE",
-        "userName": "Claire Lagus",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrUyu7P5eM0jmmuahH11HT-KL6gH1bXJZ3lNXc=mo",
-        "content": "Great advice",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.4.3",
-        "at": "2018-05-22 21:52:57",
-        "replyContent": "Claire,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  \n\nPlease come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-05-23 05:38:44"
-    },
-    {
-        "reviewId": "gp:AOqpTOEpeB0qB2Fwy_tMEr6Qw39uyT2dg8Yis9t7PpcOmbhNp5SvfG3lWg-c2M9v3u3ZHTujLDUmdd8FaP95vTA",
-        "userName": "LadyHitch21",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiG6bpvGDMg-VDP_9Cp_yNLeVZ49YRNxFenMnf5",
-        "content": "Very helpful",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.4.3",
-        "at": "2018-05-21 18:59:50",
-        "replyContent": "Hello,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  \n\nPlease come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-05-23 05:38:44"
     }
 ]

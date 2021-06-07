@@ -137,6 +137,12 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Otimo<br> :date: __2021-06-05 22:21:51__
+
+> Estaapp é maravilhoso.<br> :date: __2021-06-03 12:07:53__
+
+> Boa app<br> :date: __2021-05-30 17:56:26__
+
 > Manuel António Ribeiro de Oliveira<br> :date: __2021-05-29 20:32:28__
 
 > Muito bom deteta mesmo o covid !<br> :date: __2021-05-27 23:29:47__
@@ -150,12 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Simples e eficaz se as pessoas a usassem e não criticassem<br> :date: __2021-05-16 21:41:02__
 
 > Ok 👌<br> :date: __2021-05-16 00:31:32__
-
-> Muito fixe a app period ;)<br> :date: __2021-05-09 19:09:48__
-
-> É uma boa ideia...se funcionar bem e for eficas... Porque nao , instalar...é mais uma forma de nos protejer-mos...A TODOS DESEJO MUITA SORTE E SAÚDE... OBRIGADA PELA AJUDA...<br> :date: __2021-05-05 19:46:02__
-
-> AMEI, ÓTIMO TRABALHO, COMO SEMPRE!<br> :date: __2021-05-02 15:13:32__
 
 
 
@@ -193,6 +193,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
 
+> Não tenho como ficar a saber se é mesmo necessário mas é muito bom á tempos soube que que uma pessoa estava contaminada através da aplicação<br> :date: __2021-06-02 21:16:52__
+
 > Falta reunir nesta mesma app, mais dados como: número utente sns e cartão europeu de saúde, relatórios da situação epidemiológica nacional e local, medidas especiais por niveis de combate por local, números nacionais de doses de vacinas administradas, agendamento pessoal da vacinação, agendamento e resultados de testes de despistagem, períodos de quarentena, número de dias imune após Contágio ou Vacinação, Declaraçao Pessoal de Recusa de Vacinação, Certificado Digital Verde de Vacinação<br> :date: __2021-05-27 01:56:51__
 
 > Esperava mais comentários engraçados 😔<br> :date: __2021-04-27 01:08:27__
@@ -210,8 +212,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Desde há semanas que está a mostrar erro de acesso ao servidor: falha a carregar dados de infeção.<br> :date: __2021-02-20 18:05:03__
 
 > Não entendo porque motivo me serve a aplicação<br> :date: __2021-02-19 12:55:52__
-
-> Estão sempre a pedir para eu ter a ligada mas não tenho pois se estou m casa para quê ter sempre ligada?....<br> :date: __2021-02-12 03:17:19__
 
 
 
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Perda de tempo absoluta. E quem nao usa app e tem covid? As pessoas ficam sem saber de igual forma se estiver perto de um positivo ou não. Torna se obsoleta a app em várias situações. Já para nao falar que nem todas as pessoas têm smartphones android ou ios e nem sequer dados.<br> :date: __2021-06-05 03:01:40__
+
+> Nao houve utilizadires suficientes a usar, e quem usou muitos deles nao informaram que estavam infetados.<br> :date: __2021-06-04 09:43:25__
+
+> Não tem como objetivo de promover uma vez<br> :date: __2021-06-04 09:26:22__
+
+> Que decepção....já estive em contacto com uma pessoa com covid ( já está curado) e a aplicação nem piou.... Fiz o teste deu negativo.<br> :date: __2021-06-01 23:51:14__
+
+> Aplicação inútil tive covid no início do ano e o médico nem sabia como me poderia dar o código. E ainda disse que "isso não vale de nada não se preocupe" ainda tentei pela saúde 24 saber o código porque desde início tinha a app instalada e como sou fã das TI queria usar, mas nem assim consegui, logo acabei por desinstalar automaticamente e nem me chatiei mais.<br> :date: __2021-06-01 16:01:25__
+
+> Odiei, nunca instalei, não gostei das imagens<br> :date: __2021-06-01 14:18:27__
+
+> 1 estrela pois o governo decide fazer uma aplicação sem nexo e funcionalidade. Ganham dinheiro ao enganar os portugueses a dizer que a app funciona para nossa segurança, quando não faz sentido nenhum.<br> :date: __2021-06-01 11:27:05__
+
+> Orrivel literalmente para que se podemos ter outras pessoas ao lado com covid e nao sabemos porque não marcou<br> :date: __2021-05-30 18:24:55__
+
 > Nao vale nada, para dar dinheiro a alguem.<br> :date: __2021-05-29 09:11:51__
 
 > A aplicação mais inútil que já tive...<br> :date: __2021-05-29 00:08:53__
-
-> Um lixo, isto não devia existir<br> :date: __2021-05-28 11:15:29__
-
-> Não serve para nada. Só gasta bateria...<br> :date: __2021-05-25 00:49:44__
-
-> Simplesmente lixo, não serve para nada.<br> :date: __2021-05-22 19:12:21__
-
-> De que serve ter a APP instalada se a maior parte dos laboratórios não emite código em casos positivos???? Tenho conhecimento de vários casos positivos, em que nenhum código foi emitido para as pessoas colocarem na APP e, essas pessoas, usam a APP desde que saiu..<br> :date: __2021-05-21 14:44:15__
-
-> Meus senhores instalei logo nos primeiros dias e desde então esteve sempre activa a minha app. O maior fiasco de todos os tempos estive exposto dezenas de vezes, estive em isolamento profilático e nunca mas nunca recebi um único alerta daqui... Podia ter sido uma ferramenta útil mas muito sinceramente...Nao resultou... Hoje dia de limpeza e a app vai deixar de estar no meu telefone...<br> :date: __2021-05-19 03:37:12__
-
-> Muitos boomers e pessoas sem conhecimento do que estão a usar, acho que a app podia ser muito melhor a nível de otimização porque é preciso demasiadas mariquices para que seja utilizável...<br> :date: __2021-05-16 18:47:32__
-
-> Tão útil como quem a mandou fazer<br> :date: __2021-05-16 01:07:55__
-
-> Que vergonha não queiram fazer testes unitários para a próxima....<br> :date: __2021-05-12 12:25:15__
 
 

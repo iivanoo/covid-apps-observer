@@ -146,6 +146,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 5 reviews"/>
 </p>
 
+> App works on my phone. Did not notice any impact on battery life. Infographic with stats was a nice touch.<br> :date: __2021-06-06 01:26:02__
+
 > Love the stats you can view as they r updated daily.<br> :date: __2021-05-14 17:47:55__
 
 > Very good app.<br> :date: __2021-05-13 21:18:22__
@@ -163,8 +165,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Great reduced rates<br> :date: __2021-04-16 23:16:33__
 
 > Fantastic improvements on the battery life. Great application to track everything and one source for updates. Thank You Government of Alberta.<br> :date: __2021-04-16 15:46:13__
-
-> I didn't catch covid.<br> :date: __2021-03-25 06:41:38__
 
 
 
@@ -202,6 +202,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 3 reviews"/>
 </p>
 
+> No warnings for updates<br> :date: __2021-05-30 20:55:37__
+
 > N/A<br> :date: __2021-05-15 22:19:33__
 
 > No concerns seems to work<br> :date: __2021-05-11 17:05:27__
@@ -220,8 +222,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > I have uninstalled this app. I was the early adopter of this app but now that the national app is available, I want to switch over to that one. I have uninstalled it to voice my option and hopefully my Alberta government will see the drop-off installment of this app to take appropriate action.<br> :date: __2020-11-02 16:52:14__
 
-> Huge drain on battery esp after first installing and after installing a recent update update. After first install it sorted itself out after about a week. Hope it does the same after this update (it is draining my battery completely after a few hours and normally I can go all day without dropping below 40 per cent). Great idea just needs to be optimized a bit more.<br> :date: __2020-10-08 06:33:13__
-
 
 
 #### 2-star reviews
@@ -229,6 +229,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 2 reviews"/>
 </p>
+
+> I have had this app for over a year and so far not once have I had an elert. Is it because I have not come into close contact with someone ( which I have) or is it because those people may of not had the app?<br> :date: __2021-06-03 15:32:02__
 
 > I haven't had the same problems with crashes that many people describe but after the last update battery usage has greatly increased. In the last week or so that has greatly accelerated and it uses over 25% even when I'm actively using my phone. I have an iPhone for work and the same thing is now happening there. I suspect malware. Whatever, neither phone now makes it through a day. Uninstalling<br> :date: __2021-05-29 16:52:49__
 
@@ -248,8 +250,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 
 > With this software installed, my phone will be dead by morning, every night. This has been my experience- nearly every morning this past month I have missed my alarms from my phone because even on a full charge at the time i go to sleep, it will have expired by the time i want to get up. I never was exposed to covid in the duration that I had this software installed, so i can't attest to its functionality, other than that it consumed a lot of resources on my phone such that i had to remove it.<br> :date: __2021-04-27 18:20:46__
 
-> Recent changes made my battery life worst. Background battery usage jumped dramatically where it would drain battery overnight while I sleep. This was not happening in past. In my opinion I think the new additions from last update are causing drain. Maybe it is constantly hitting servers to grab statistics.<br> :date: __2021-04-18 18:34:09__
-
 
 
 #### 1-star reviews
@@ -257,6 +257,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
+
+> Worst parody app ever.<br> :date: __2021-06-04 03:07:55__
+
+> Drained my battery, diagnostic showed the app used over 35% of the battery and all background use<br> :date: __2021-05-31 06:32:41__
 
 > I was tested COVID + and had the Berta App running. Through the contact tracing and phone calls I received from AHS, not one person asked if I used the App nor did anyone assign or share the code I needed to use the AB Trace App abilities. So why were we ever encouraged to download if it's purpose isn't followed through?<br> :date: __2021-05-29 22:19:59__
 
@@ -273,9 +277,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > It has never even been used for information. Totally useless. I didnt intend to give it a star I just can't remove it from when I finger brushed against it.<br> :date: __2021-05-14 19:35:56__
 
 > I will not leave my location on due to battery usage. I was an advocate of this app until this last update.<br> :date: __2021-05-14 07:32:27__
-
-> Doesn't work.<br> :date: __2021-05-14 06:57:32__
-
-> Haven't been able to get the app to do anything. If it is operating correctly it hasn't told me I have been in contact with a Covid positive person, even though I know that I have. Waste of phone memory. The email address you have given for support also doesn't work.<br> :date: __2021-05-14 03:15:10__
 
 

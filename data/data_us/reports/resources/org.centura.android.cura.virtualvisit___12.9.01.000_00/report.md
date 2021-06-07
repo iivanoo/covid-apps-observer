@@ -199,6 +199,8 @@ The Centura Health Virtual Care app has been installed by more than **10000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.centura.android.cura.virtualvisit 5 reviews"/>
 </p>
 
+> Awesome!!!!!<br> :date: __2021-06-01 03:52:14__
+
 > Easy and straightforward. Works well for connecting with medical professionals.<br> :date: __2021-04-28 23:10:49__
 
 > Tele-visits are a great option for prescription refills that don't require an in-person visit. This app saves time and helps anyone who has a hard time leaving their office or home for a 1-2 hr. doctor's appt.<br> :date: __2021-04-26 17:58:11__
@@ -216,8 +218,6 @@ The Centura Health Virtual Care app has been installed by more than **10000** ti
 > Excellent!<br> :date: __2021-01-07 20:17:58__
 
 > Easy to communicate<br> :date: __2021-01-05 22:01:46__
-
-> Clear screen, clear voice, love this new way of Doctors visits.<br> :date: __2020-12-10 22:08:22__
 
 
 

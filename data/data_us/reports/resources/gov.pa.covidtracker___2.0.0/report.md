@@ -142,6 +142,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Thank you<br> :date: __2021-06-04 18:27:53__
+
 > I love receiving The Worldwide updates of what's going on in the world of covid-19<br> :date: __2021-04-28 08:05:52__
 
 > Ok<br> :date: __2021-04-23 15:32:32__
@@ -159,8 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > It's very easy to understand and to follow Thank You very much.<br> :date: __2021-03-30 00:17:42__
 
 > Ih<br> :date: __2021-03-24 19:07:31__
-
-> I randomly saw this on the app store and Installed it. This app can be useful thankyou.<br> :date: __2021-03-24 11:37:13__
 
 
 
@@ -254,6 +254,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Junk app.. get it off my screen I'm tired of seeing it<br> :date: __2021-05-30 20:23:30__
+
 > The numbers for total cases, hospitalizations and deaths given in this app are incorrect. This should be investigated and rectified. The Commonwealth itself is spreading misinformation. Shame on them. Remain vigilent and know your source information. Don't waste your time with this app. It's useless.<br> :date: __2021-05-29 23:04:50__
 
 > Why is there no obvious way to designate if I've received a COVID positive test to propntly warn the people I've possibly exposed to the disease?! If this is a feature, it's hidden deep in the app. I would have put that at the top of the home page. What exactly is the utility of this app? :(<br> :date: __2021-05-24 22:27:42__
@@ -271,7 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Tt Is<br> :date: __2021-05-05 22:18:12__
 
 > This app just had a huge data breach<br> :date: __2021-05-03 15:16:08__
-
-> WARNING DATA BREACH HAS OCCURED WITH THIS APP!!!!! DO NOT USE!!!! I WAS RIGHT ABOUT THIS APP LAST YEAR!!!! Sorry, don't trust it. Your data is uploaded to the Amazon cloud and location is obviously monitored. If you come in contact with a covid carrier that has their location on that data is sent. Governor wolf's mandates have been ruled unconstitutional. Big brother is watching now! This app is just enslavement to tyranny. Encouraging fearful interactions with other Americans. Do you trust Wolf and his obscure "covid" team that decided what they considered life sustaining services? NOPE.<br> :date: __2021-04-30 21:03:21__
 
 

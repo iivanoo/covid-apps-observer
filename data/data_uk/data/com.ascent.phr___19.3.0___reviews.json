@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGBvSLnXgsWQERrHrMsmf-OiIOiH67yRLscyjUF2aWGdtMKENmQZoDm5RCGIK8LHiG4iGfaMZQGhUr52Q",
+        "userName": "Bogdan Popa",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxZN79fxARkdr-IqpcK6XdKyePyeL4MP_jkIGUB=mo",
+        "content": "keeps saying the user and password are incorrect. I change the password=>get access. Close app. Next time says the same thing=>change password again....in a loop.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-06-02 20:22:56",
+        "replyContent": "Hi Bogdan, our customer support team are here to help with any login issues you may have. You can contact them on 0161 768 6063 or email them at hello@evergreen-life.co.uk. We look forward to providing help and support.",
+        "repliedAt": "2021-06-03 11:34:22"
+    },
+    {
         "reviewId": "gp:AOqpTOGQHSOM6sxLwDBVafRZMcqM1A_bTBHmmFH_Fis89xMhGq5cumjIBitmbhsd_KsxToidth32H4Z8VzJMAQ",
         "userName": "Ata Miri",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx631rmg1KXdWGno5e2a5hXRP9nQX8vH02U8aEr=mo",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-05-30 09:25:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for the great review! We love to hear from our happy users.",
+        "repliedAt": "2021-06-01 11:39:14"
     },
     {
         "reviewId": "gp:AOqpTOGOf1zQSgAS8vEqfbcXGhX4tsLf7FkUomx9s9KDqWFKm2zR5C5M8dsjKJ_4xvqcwil4ejHl4aJ_3xodpg",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-05-28 21:04:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Please let our Customer Support Team know about any login issues you are having. You can email hello@evergreen-life.co.uk or call on 0161 768 6063 - the team will be able to check on your account status and advise on the best steps to take.",
+        "repliedAt": "2021-06-01 11:39:00"
     },
     {
         "reviewId": "gp:AOqpTOHPNcD2cf-OIkvpV4JboFgt-Th7LUmVymC6iz7dKUgvk58L4_W1Gd_vjYWLZtrmfFb7W8LwWY8EKqJPkQ",
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjalJRm9LKo1-hOhB2tZPGJMNANCH9nE09OojRcYA",
         "content": "Works very well for me. Useful for ordering repeat prescription. Records, including vaccinations, easy to check.",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-05-24 16:47:31",
         "replyContent": "We love to hear that our users are finding the app both useful and easy to use, thanks for the great review!",
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwYMrYAOy0vGgb7YGgClJVtLg3FGd9LBR9EQRN4=mo",
         "content": "Can be glitchy. Biometric login often doesn't work.",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "19.2.3",
         "at": "2021-05-18 15:06:02",
         "replyContent": "Please let our Customer Support Team know about any issues you are having with the biometric login. You can email hello@evergreen-life.co.uk or call on 0161 768 6063. Certain action (password resets, updating the app) may cause the biometric login to fail, you can reset the biometric settings within the 'Security Centre' of the app if needed.",
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggw3xkWwXjK-xo7N8NSciVVqDlr85Z1zfE0vmjWEg",
         "content": "quick and easy to use not like other providers which are hit and miss with log in very good service",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "19.2.3",
         "at": "2021-05-18 13:17:07",
         "replyContent": "Thanks for taking the time to leave us a great review, we really appreciate the positive feedback.",
@@ -8030,7 +8042,7 @@
     {
         "reviewId": "gp:AOqpTOGkPQskyRvdU0mnku2GLvH12obYmXYvtjLdXhjfBTUgcJR0k6SbGZ4hRwWI3ZZrGnhrHUHwLUmqANwgaw",
         "userName": "M Morad",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4KVjSuJXEVsdv3Pnbwev7ffx7A7wribEm8dyqTA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1VmJEtiOgo1vW-zfqfJCcxLFAuymEvDYDR_caLw",
         "content": "Cluttered and confusing with a fragmented, poorly designed interface.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -11986,17 +11998,5 @@
         "at": "2019-06-03 08:55:00",
         "replyContent": "Thank you so much for your review!",
         "repliedAt": "2019-06-07 10:58:10"
-    },
-    {
-        "reviewId": "gp:AOqpTOGQE74P15Ed2RPNXZc3v4GipKHP-uPo7FGjT3fggusmTGJgNrbaxspbG7DgBC7ZfHlLBYzWC9iMhnLpXg",
-        "userName": "sue powell",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhv2vEA7AY5neua6tdzPPOzvjLGlXz_A7nq8PZ=mo",
-        "content": "Brilliant, saves time and is very convenient. Thank you",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-02 21:31:47",
-        "replyContent": "We're always working hard to improve the app. Thanks for your download and feedback.",
-        "repliedAt": "2019-06-07 10:58:31"
     }
 ]

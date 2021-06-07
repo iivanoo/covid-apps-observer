@@ -178,6 +178,18 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Excellent experience<br> :date: __2021-06-05 05:40:11__
+
+> Love it<br> :date: __2021-06-04 17:40:34__
+
+> Glad I didn't have to go to Dr. Dr. Jerry Nesbit was awesome and ty for this amazing ap Had to use again today. So happy NOW is available.<br> :date: __2021-06-04 17:04:11__
+
+> Was different but glad I did it<br> :date: __2021-06-01 22:03:18__
+
+> On June 1, 2021 I spoke with a Nurse, Laura Gandy and she greeted me, let me talk and tell her my concerns, Laura was very pleasant to talk to and her advice was very clear and she kept the conversation professional and yet she was tenderly kind. Thank you for keeping this arrangement. 🙂😊🙂 My visit with Brenna Benas is what I need. Brenna is always kind, really kind and I leave with thoughts that are good. So Thank you, Brenna Benas for being here to help me.<br> :date: __2021-06-01 18:55:28__
+
+> Very good and helpful<br> :date: __2021-05-31 22:38:28__
+
 > Very good<br> :date: __2021-05-29 14:20:18__
 
 > I'm outta of town and I've seen a doctor twice and the experience has been amazing.<br> :date: __2021-05-26 18:18:28__
@@ -185,18 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > I love this option, it just like veing at the doctors but at home and fast.<br> :date: __2021-05-25 18:03:22__
 
 > Pretty easy and clear to use<br> :date: __2021-05-21 22:33:57__
-
-> Very easy to use much better than waiting at urgent Care to see doctor!!<br> :date: __2021-05-20 23:39:40__
-
-> Helpful and convenient.<br> :date: __2021-05-18 22:33:27__
-
-> Pleasant.<br> :date: __2021-05-17 17:21:02__
-
-> Used several times all Dr. able to help with issues very convenient to do it from home<br> :date: __2021-05-16 20:49:04__
-
-> Great<br> :date: __2021-05-13 22:18:02__
-
-> Super easy and effective<br> :date: __2021-05-13 19:11:24__
 
 
 
@@ -274,6 +274,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> Tried to get help for mental illness. Cancelled the call and left a note to go to the UC. Not helpful at all.<br> :date: __2021-06-04 03:43:10__
+
 > They hung up on me after waiting an hour<br> :date: __2021-05-19 00:27:34__
 
 > Flustrating<br> :date: __2021-04-26 23:58:42__
@@ -291,7 +293,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Didn't cancel appointment I canceled, cannot maneuver to find covid test results, but liked my physician on 3/31<br> :date: __2020-08-03 21:55:38__
 
 > No longer connects well. Since the update it says you are connected, waiting for the physician to connect...then it doesn't connect and the doctor cancels<br> :date: __2020-07-31 18:04:15__
-
-> Always technical issues. I have the newer smart phone and I pay for the internet. It always kicks me out.<br> :date: __2020-07-04 16:50:39__
 
 

@@ -229,6 +229,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Easy to see past and upcoming appointments, schedule in visits and, best of all, the video visits are immediately available for urgent or late night concerns.<br> :date: __2021-06-05 17:28:09__
+
 > Really convenient health care<br> :date: __2021-05-25 17:42:23__
 
 > Great service and the app is improving all the time, thank you<br> :date: __2021-05-25 05:00:31__
@@ -246,8 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Best all in one medical app!<br> :date: __2021-04-18 22:25:10__
 
 > Excellent service!<br> :date: __2021-04-16 23:32:52__
-
-> This is how healthcare should be delivered! Thank you for the great experience<br> :date: __2021-04-15 02:33:52__
 
 
 

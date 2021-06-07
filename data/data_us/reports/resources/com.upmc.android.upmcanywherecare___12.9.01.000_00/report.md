@@ -191,6 +191,8 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="com.upmc.android.upmcanywherecare 5 reviews"/>
 </p>
 
+> Fast easy from the comfort of my home<br> :date: __2021-05-30 18:29:01__
+
 > An absolute Godsend. I live alone, no longer drive, and my trusted PCP's office is located out of town. Having the opportunity to have the medication delivered is a huge help also.<br> :date: __2021-05-29 19:58:45__
 
 > Amazing people care is wonderful.<br> :date: __2021-05-17 22:20:33__
@@ -208,8 +210,6 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 > Very fast, convenient, and efficient!<br> :date: __2021-04-19 13:11:56__
 
 > Super easy, convenient way to be seen!<br> :date: __2021-04-04 14:21:56__
-
-> This app has offered so much help and understanding. I would 100% reccomend to any pregnant woman<br> :date: __2021-03-19 17:06:37__
 
 
 

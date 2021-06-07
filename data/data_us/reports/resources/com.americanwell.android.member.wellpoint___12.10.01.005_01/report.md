@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Great experience<br> :date: __2021-06-05 18:22:35__
+
+> Surprised how easy and great this app is!!!!! Making everyone on my plan download it asap<br> :date: __2021-06-04 18:57:22__
+
+> Game changer love this app and tool provided by my provider!!<br> :date: __2021-06-04 01:34:29__
+
+> For anyone struggling through anything, remember that every single person on the other side of this app wants to help you, and all you have to do is talk to them.<br> :date: __2021-06-02 01:30:50__
+
+> Great!<br> :date: __2021-06-01 21:53:42__
+
+> Super easy<br> :date: __2021-06-01 09:24:58__
+
+> Convenience times 10. I absolutely love it!! Please try it you won't regret it<br> :date: __2021-06-01 05:03:09__
+
+> Great App<br> :date: __2021-06-01 03:48:38__
+
+> Great experience. Fast and better than going to urgent care.<br> :date: __2021-06-01 01:24:13__
+
 > Quick.<br> :date: __2021-05-29 21:10:56__
-
-> Easy & I was taken care of without waiting :)<br> :date: __2021-05-29 20:24:29__
-
-> First time using<br> :date: __2021-05-29 20:22:07__
-
-> It was great<br> :date: __2021-05-26 22:57:58__
-
-> Amazing!!!<br> :date: __2021-05-25 14:30:01__
-
-> Therapist is awesome.<br> :date: __2021-05-25 05:58:59__
-
-> This is great you can see a Dr anytime of day and they are very helpful<br> :date: __2021-05-25 05:30:16__
-
-> Convenient and easy to use!<br> :date: __2021-05-25 02:11:36__
-
-> Works great. My Dept offered it instead of office visits. Far cheaper and Rx are sent straight to my local CVS for same day pick up. I don't like going in to the Dr unless I have too.<br> :date: __2021-05-24 01:32:20__
-
-> Very convenient<br> :date: __2021-05-23 17:05:41__
 
 
 
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> The therapist that I have is excellent but the connection is not so good. The lenghty "book" that you have to write before you can even see the therapist I think is unnecessary and should be optional<br> :date: __2021-06-02 20:57:38__
 
 > I couldn't find a way to switch to the back camera of the phone. Since Dr needed to look at my feet, using front facing camera was difficult. I had to guess where I was aiming.<br> :date: __2021-05-28 23:17:00__
 
@@ -231,8 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Sometimes there are glitches like loss of volume ,or one day we couldn't connect at all but over all I like it.<br> :date: __2021-03-18 16:53:31__
 
 > The app is convenient but the doctor I had was rude, didn't really listen to my issues and kept interrupting me.<br> :date: __2021-03-11 02:42:13__
-
-> Great<br> :date: __2021-03-08 20:12:22__
 
 
 
@@ -270,6 +270,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="2_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 2 reviews"/>
 </p>
 
+> It loses connection alot. Sometimes my provider has to call me to continue or finish our session. We upgraded our internet thinking that was the problem but it continues to happen almost every session. Frustrating!<br> :date: __2021-06-05 17:08:13__
+
 > I've tried to use this app twice in the last 3 years. Both times my account was already locked. The phone number they give you for assistance said they didn't know why it was locked but they would create a ticket and somebody would email me. No timeline. Not the level of support you want from an oncall medical service. It's been 1 hour so far and no email.<br> :date: __2021-04-29 13:52:04__
 
 > App was useful for a couple of months but it hasn't had available providers for months now. I scheduled an appt with a doctor a month in advance and was cancelled with no notice the day of. Useless and demeaning.<br> :date: __2021-02-05 05:16:50__
@@ -287,8 +289,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > I really wish it was easier to schedule an appointment with my same therapist. There should be an option to schedule my next appointment when I've finished my session. It's frustrating to have to pick dates and find my therapist's name<br> :date: __2020-08-22 14:46:16__
 
 > Trying to see a doctor all day but the system won't verify my insurance. It wants me to pay full price then wait for reimbursement. Customer service was no help. Just told me there was no ETA to have the system running correctly. Just told me to keep trying back. Poor form LiveHealth.<br> :date: __2020-08-09 23:39:36__
-
-> I have full covrage insurance and they tryed to tell me they cant find my provider... And all information i did twice just to be sure it was not messed up i dont have the money and nore should i pay for it when i have insurance..<br> :date: __2020-06-20 17:20:03__
 
 
 

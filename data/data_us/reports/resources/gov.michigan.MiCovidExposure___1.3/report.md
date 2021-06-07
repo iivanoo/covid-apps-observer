@@ -154,6 +154,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 4 reviews"/>
 </p>
 
+> Well it's because it's good to have something to let you know about the spread of the covid 19 OK OK I'll let you know has it gotten better or worse As far as I think<br> :date: __2021-05-31 13:56:53__
+
 > Good app i relly have fun but laggy<br> :date: __2021-05-28 19:33:44__
 
 > Today is 2/24, the last scan was on 1/24. Leave it to the government to create a useless app. Once the problem was fixed, it's working good now!<br> :date: __2021-04-28 22:16:18__
@@ -171,8 +173,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > So far I havent seen anything about exposures. It would be good if they told me how my county and town is doing.<br> :date: __2020-11-26 16:31:22__
 
 > I installed it to do my part. I'll uninstall it once this pandemic passes. That's freedom.<br> :date: __2020-11-21 18:55:35__
-
-> I'm glad to have this, but the map doesn't work correctly. When I tap on a county, it just shows a blank page.<br> :date: __2020-11-21 16:50:48__
 
 
 
@@ -238,6 +238,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> First of all the design and structure of your app is of extremely poor integration with user functionality. That's just the tip of the iceberg though. There is a lot of misinformation in this app and there's no other way to say it. What is being used here is a theory with no proven scientific fact or foundation other than slight amounts here and there that don't prove anything specific, but appear to be what is used to give support to this misinformation as some how being valid. Bad app!<br> :date: __2021-06-01 18:42:54__
+
+> Compromised by hacker<br> :date: __2021-05-31 08:57:09__
+
 > App never does anything when i turm off bluetooth it says "turn on bluetooth to recieve exposure notifications" Just having the bluetooth feature ON absolutley DRAINS my battery. Fix you r godamn app your moron.<br> :date: __2021-05-28 17:06:36__
 
 > Doesn't work. Today I open it, only to find it has turned itself off and hasn't checked exposure since December. What good is that. I am vaccinated now so I may as well uninstall if this thing won't work.<br> :date: __2021-05-24 17:43:18__
@@ -253,9 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Just another big brother app. Whitmer has lost her mind right along with every other democrat. B.iggest I.diot D.emocrats E.ver N.ominated Way to screw the world over with your ignorance.<br> :date: __2021-05-18 22:55:12__
 
 > Last exposure check was 2/9/21 and it now May 16.<br> :date: __2021-05-16 19:30:21__
-
-> I have deleted and reinstalled the app several times. I had it set to run in the background, to never sleep, and it still won't update the last time it checked for exposure; it's been weeks. Instead of blaming everyone's problems on their phones or settings, how about taking ownership and just fixing the app? You know multiple people with different phones have the same issues...FIX IT.<br> :date: __2021-05-15 19:40:15__
-
-> I checked the app and it hadn't updated its info since March 14th (I checked early May).<br> :date: __2021-05-15 07:44:56__
 
 

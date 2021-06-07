@@ -160,6 +160,12 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <img src="5_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 5 reviews"/>
 </p>
 
+> This app is really encouraging me to get out and walk every day, and I'm already feeling the benefits on my general health & wellbeing!<br> :date: __2021-06-06 08:18:57__
+
+> Great to get a quick visual check on progress<br> :date: __2021-05-31 16:43:28__
+
+> I've found it really helpful<br> :date: __2021-05-30 20:46:57__
+
 > I only use it to measure brisk walking. Really useful for that. Has other features I can't comment on.<br> :date: __2021-05-29 11:23:31__
 
 > Great!<br> :date: __2021-05-28 18:55:50__
@@ -174,12 +180,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 
 > Great way to train yourself on brisk walking<br> :date: __2021-05-24 22:42:00__
 
-> Good reminder<br> :date: __2021-05-24 18:06:44__
-
-> Very useful app works well. Would be very useful though if the app measured change in altitude over time and could determine when the user is walking uphill. This would mean that times when walking uphill, which are necessarily slower, could be recorded as brisk walking. At the moment they are not recorded as such even though you are breathing heavily with the uphill effort.<br> :date: __2021-05-24 08:06:56__
-
-> Useful, I like to know I have done some brisk walking<br> :date: __2021-05-21 22:52:13__
-
 
 
 #### 4-star reviews
@@ -187,6 +187,8 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 4 reviews"/>
 </p>
+
+> Shows the total length of my walk and how many 10 minutes worth were 'brisk' which counts towards getting a reward, shows 'hat tricks' for 3 x 10 minutes in a day, 100 - 3000 club shows you ow many minutes from the day you downloaded the app, you get a high five for how many days in 7 you have taken a brisk walk. It's helping me see how much I do or don't move in a day and for me I've got start somewhere.<br> :date: __2021-06-01 12:58:17__
 
 > Useful little app. Spurs you on to do more.<br> :date: __2021-05-27 21:43:09__
 
@@ -206,8 +208,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 
 > Useful to track walking activity which counts towards exercise targets<br> :date: __2021-05-01 18:23:41__
 
-> This is a good app<br> :date: __2021-05-01 14:37:10__
-
 
 
 #### 3-star reviews
@@ -215,6 +215,10 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 3 reviews"/>
 </p>
+
+> It stopped working<br> :date: __2021-06-04 13:57:28__
+
+> Brisk walk is debatable. Sometimes you almost need to run to clock up minutes. I walk on the flat as going up hill is slower and does not register brisk minutes. I do like the rewards as trophies and these are a good motivator.<br> :date: __2021-05-30 17:39:05__
 
 > Doing the same circuit in the same time (30 minutes) gives different minutes of brisk walks eg from 30 mins down to 22. That's the same distance in the same time give or take 20 seconds. Forces you to adopt an unhealthy posture in order to walk fast enough to register a brisk walk.<br> :date: __2021-05-30 01:28:05__
 
@@ -232,10 +236,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 
 > Would be nice to have a step counter and distance built in<br> :date: __2021-04-16 16:57:08__
 
-> It started really well, and I would have scored higher, but for some reason over the past couple of weeks it is recording my car journeys too. ( And not showing up as brisk during this time😂) I've checked to see if there is anything I need to change in settings, but nothing. Shame asvi was really enjoying it, but can't rely on the data any more. So frustrating.<br> :date: __2021-04-15 15:07:55__
-
-> stopped working, reinstalled twice, still not working, Have reinstall after a while. Working much better<br> :date: __2021-04-14 08:44:45__
-
 
 
 #### 2-star reviews
@@ -243,6 +243,8 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="uk.ac.shef.oak.pheactiveten 2 reviews"/>
 </p>
+
+> It's ok<br> :date: __2021-05-30 15:42:56__
 
 > The app counts cycling as walking... It's just not right. Hope it get fixed. Only useful for brisk, not hfor normal walk.<br> :date: __2021-05-25 16:49:12__
 
@@ -261,8 +263,6 @@ The One You Active 10 Walking Tracker app has been installed by more than **1000
 > Really good idea in theory but the measurement of brisk is not accurate in my opinion, which negates the whole idea of the app. Think I'd need to be practically sprinting for brisk to register.<br> :date: __2021-04-07 22:56:03__
 
 > Not reliable, I do the same walk each week in the same time sometimes it records 100 brisk minutes other times like today 8 minutes<br> :date: __2021-03-18 17:45:18__
-
-> It just doesn't register much of my brisk walking. Seems completely random, some days all is fine, other days only about 10% registers.<br> :date: __2021-03-06 17:09:46__
 
 
 

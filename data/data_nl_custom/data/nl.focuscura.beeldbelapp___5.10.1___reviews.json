@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOHcvyLz8A8tbxftcjmj2ONC2jek3o3HcX8bF25RxFke640mlvxXxlWITB34guBJ1YWHEliI3Rz5tpE6fQ",
+        "userName": "Arie Fun",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-GKTesjqQ4_czemBVHyZwoJ_bCjmEebdiuDYCaQ",
+        "content": "Werkt heel goed",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.10.1",
+        "at": "2021-06-02 09:25:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHnpYzChixpmTShx1LWbZbwyvFCwBa2ewsimwdiTvIW5FJ2LrP3Is1qEh4PUt9NK0NlIgeB8r-5b3oE_g",
+        "userName": "Emmie Bos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZ7DOGx2V0jCuhOmbqYAFmohTcoTkkLviUDIzVyg",
+        "content": "Eenvoudig en goed in te vullen.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.10.1",
+        "at": "2021-05-31 11:14:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEAh6yZesUISlBrkn9lwefQEKhPr8_uF5OTl-OTTmHcrlAyD6W41UJVhqpJ9tZGDwKdz2UmOM5kUrjY1w",
+        "userName": "Janny Boot",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz1JHGsvq4jbXjeNltTc2rxe_85DMgVqnvd4FzY=mo",
+        "content": "Vond het fijn dat ik bewust kan zijn met mijn gezondheid",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.10.1",
+        "at": "2021-05-30 14:18:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE1VQSFl6tNxaLrO7iGXpCmKhhUuk2FHL7ORUxL3gVoWm5CM5ukZck9Z7z-le3c4PpqiliPn6DKxUOHpQ",
         "userName": "Koos van Wijk",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy264CP-wwDfsvrvkWjtIaedi_2ixCJL_QmE-ZB=mo",
@@ -104,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "5.9.1",
         "at": "2021-05-24 09:02:33",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Beste Leo,\nVervelend om te horen dat het wegwijs worden in de app even duurde. Mocht u behoefte hebben aan meer uitleg, dan kunt ook terecht op deze website voor stap voor stap instructies: www.luscii.com/hulp\nGroeten,\nEsther",
+        "repliedAt": "2021-05-31 17:00:47"
     },
     {
         "reviewId": "gp:AOqpTOHFSe4syyw7TZKUL2wGa76TnJ36xSOKWhLDmgZC-YnaIOy230yHj6QJVcsMv8y4Yajwurmxhb2VrjlgYg",
@@ -140,8 +176,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "5.9.1",
         "at": "2021-05-22 09:20:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Beste Annette,\nAls je gevaccineerd bent kan ik me zeker voorstellen dat het gebruik van De Corona Check app overbodig is geworden. Je kunt in de app uitloggen en daarnaast ook de app in zijn geheel van je telefoon verwijderen. Binnenkort stopt De Corona Check app ook als dienst. Hierover is eerder een bericht gestuurd.\nGroeten,\nEsther",
+        "repliedAt": "2021-05-31 17:03:57"
     },
     {
         "reviewId": "gp:AOqpTOG3NRcNGEToz2H-Jd3yQD7ajwMOWs6rQub-QzSIf7yPWC6NnzUd_bqvw1t3gZuO4HVWUh1POiTIvLQSFA",
@@ -458,7 +494,7 @@
     {
         "reviewId": "gp:AOqpTOE1aopsVv3xMr-x8CylkkEuzRc9zNARgpra7F7U3LW4Lelqv5x26gOL2HssC0Co2HyLqvLi8BfiUP5eXg",
         "userName": "Annie Djaswadi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4miZ7w31B1B1HBfit9HXsknWNLV8pM6NB3TaoNLw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNEBvTV7_yrE8856YaOmDaD84wG-MD63TXLrYFH24",
         "content": "Supper",
         "score": 5,
         "thumbsUpCount": 1,
@@ -497,7 +533,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykG7Oww4ZMbmqiJnnAvsNw8-LTGICb_LF2H6UD=mo",
         "content": "De hartslagmeting die werkt niet maakt niet uit hoe je zit of ligt",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "5.9.1",
         "at": "2021-05-03 10:37:52",
         "replyContent": "Beste Yvonne,\nWat vervelend dat het meten van de hartslag bij u niet goed werkt! Misschien is het apparaat niet juist gekoppeld aan uw telefoon. Onze support heroes kunnen u daarbij helpen! Als u een email stuurt naar support@luscii.com dan nemen zij contact met u op!\nGroeten,\nEsther",
@@ -1740,18 +1776,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHcvyLz8A8tbxftcjmj2ONC2jek3o3HcX8bF25RxFke640mlvxXxlWITB34guBJ1YWHEliI3Rz5tpE6fQ",
-        "userName": "Arie Fun",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh-GKTesjqQ4_czemBVHyZwoJ_bCjmEebdiuDYCaQ",
-        "content": "Vindt het jammer dat ik de stappen van gisteren niet kan invullen",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "5.6.0",
-        "at": "2021-03-05 09:17:05",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOECHaojbvdDgqf_p0DaukYyQzEketsxwCxIdurjS3zVP6dPlnPlIUTzZ9EUSJglQuKEVYZ58PKPVe6lyA",
         "userName": "RJ van den Dool",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhabPXmBE8klT61KRig1h9odkC3DXbwkGX0Xhx=mo",
@@ -2522,7 +2546,7 @@
     {
         "reviewId": "gp:AOqpTOHjv4lUuH0vQPUcxGOhhvDLex2tcTQNAv0kSWZprvyxnyuPb5_z2NNHkWC0nfeEcp0zSJ0V238r0Ns3lQ",
         "userName": "Derk Duit",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhO-aqIZyCwpN1QboJX28F0M6genbk9xZvWdvEOKcU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi8yORAFAT5dmbqPO73ITE7n_eMk78OqYW97QrYogw",
         "content": "Ter info...vanaf nu werkt de app niet bij mij. Ook na de update niets...start niet op.Heb de app verwijderd en opnieuw gedownload. Nu krijg ik melding dat hij niet werkt op Android. Hoop op een berichtje van u.",
         "score": 3,
         "thumbsUpCount": 5,
@@ -5222,7 +5246,7 @@
     {
         "reviewId": "gp:AOqpTOFd1lSx0mGJn7pm5vS3-f-5-EWnLHPdJdehDs0jpHNN_fORX7Hz7iMe8xzuXA5zFp4PMaRgqzBNnjRIwA",
         "userName": "Richard Post",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjajZkLFFhzlDTpuSYfiw3RG-68e_SrP6_6DRE4IQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi19KJqAQczc9ztnRhKCdzvp8a0MxJjXVaafkxZXA",
         "content": "Goede app",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.21.6",
         "at": "2020-05-03 10:00:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHxxmaChpWB8aHMZLEgjbR43m3qQFionZ8oz5AGmDf3U73DklPyeq7GWFKWhygh3VafrPTHwR_nSzxG0Q",
-        "userName": "Ted Wesselius",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz_qSoXL8ZhJ0kJ0fquM7kpVRTzGazYjUDl0D_Z=mo",
-        "content": "Interessant maar het heeft m\u00ednder zin voor mij gegevens dagelijks in te vullen nu ik na dubieus gevoel bij begin verder volstrekt stabiel \"nul\" ben op alle indicatoren.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-03 09:51:28",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFLg1t3I74KM9Ifx2oteDC1sqcc3oY5zmhHJD7uHepvbcMQgXaADEGqcpE6_4H6k8uoFZRMd5Kwd6ytPw",
-        "userName": "Anita Piek",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzI-vfbVVL131QB2kArzUeRiwbiPfgrquEXKAUY=mo",
-        "content": "Voor een leek voelt het veilig. Vragen zijn standaard. Met een beetje kennis van gezondheid weet jezelf ook wel wat je moet doen.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-03 09:47:55",
         "replyContent": null,
         "repliedAt": null
     }

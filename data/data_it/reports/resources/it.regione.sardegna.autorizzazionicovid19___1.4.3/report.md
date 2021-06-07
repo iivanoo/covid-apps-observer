@@ -176,6 +176,12 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 5 reviews"/>
 </p>
 
+> La Sardegna è la migliore😘<br> :date: __2021-06-04 13:34:45__
+
+> Buongiorno, app funzionale e rapida. Una domanda: in caso di coppia con figli è chiaro che i figli debbano essere registrati sulla prenotazione di un genitore. L'altro genitore deve fare altra prenotazione identica con altra registrazione? Non è quindi possibile fare un unica prenotazione per l'intero nucleo famigliare? Grazie<br> :date: __2021-06-03 23:29:58__
+
+> Io devo recarmi in Sardegna insieme alla mia consorte il giorno 18 giugno c.a. siamo entrambi vaccinati con due inoqulazioni dobbiamo per forza compilare il modulo oppure basta mostrare l'avvenuta vaccinazione all'atto dell'embargo in nave? Attendo vostra chiarificazione.Nella compilazione del modulo non trova la voce"VACINAZIONI EFFETTUATE" Dove posso trasciverle ? Grazie.<br> :date: __2021-06-01 14:50:27__
+
 > COBRA 11<br> :date: __2021-05-06 14:43:22__
 
 > Ok<br> :date: __2021-05-02 22:18:05__
@@ -189,12 +195,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > La.trovonun po' difficile da gestire<br> :date: __2021-03-20 00:30:41__
 
 > Sa Sardinnya deppi essi segura<br> :date: __2021-03-19 15:02:53__
-
-> Ben fatta! E speriamo che tra un pò non serva più....<br> :date: __2021-03-18 20:31:38__
-
-> Io la ho installata ed utilizzata e funziona benissimo<br> :date: __2021-03-18 09:26:44__
-
-> Ottima<br> :date: __2021-03-09 10:09:31__
 
 
 
@@ -260,6 +260,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 2 reviews"/>
 </p>
 
+> Buongiorno ho scaricato l'applicazione, ho seguito tutti i passi, ma quando mi arriva la mail per convalidare il tutto, cliccando sul link non mi porta da nessuna parte, cosa devo fare?<br> :date: __2021-06-03 14:37:14__
+
 > Non c'è la possibilità di modificare i dati appena inseriti e occorre rifare registrazione arrivo<br> :date: __2021-05-16 15:48:22__
 
 > Ciao, parlo da pendolare e quindi devo compilare tale dichiarazione ogni volta, sarebbe utile: LOGIN con impronta digitale o memorizzazione password ( ad oggi ancora non memorizza la Poter richiamare una registrazione precedente e cambiare solo le date ( pensate ad uno che fa spesso lo stesso viaggio)<br> :date: __2021-04-14 09:42:37__
@@ -278,8 +280,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Non si apre più, nonostante mi ero già registrato mi fate sapere come fare ?<br> :date: __2020-09-02 18:35:42__
 
-> Scaricato l'applicazione,ma continua a caricare (buffering) e purtroppo non posso accedere perché non posso inserire le credenziali.<br> :date: __2020-08-28 12:19:09__
-
 
 
 #### 1-star reviews
@@ -288,24 +288,24 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
 
+> Confermo problema spostamento date un giorno avanti. Alcuni leggo che stanno risolvendo inserendo una data antecedente: è una FALSA dichiarazione questa, attenzione. Attendiamo (poco) fiduciosi che risolvano il problema, segnalato già da tempo e suggerimenti proposti imbarazzanti.<br> :date: __2021-06-06 12:04:02__
+
+> Non sono riuscito a caricare la data di nascita<br> :date: __2021-06-05 09:35:30__
+
+> Buonasera,quinta volta che vi scrivo,da cellulare l'applicazione non si apre,va bene che posso farlo da internet ma se c'è un'applicazione perché non deve funzionare?<br> :date: __2021-06-04 19:17:47__
+
+> Io e la mia compagna abbiamo inserito due registrazioni con ingresso in Sardegna il 05.06.2021.. Ad entrambi é arrivata la mail con ingresso il 06.06.2021.. Abbiamo controllato bene che i dati fossero corretti prima di confermare.. In più dopo circa un'ora effettuo un'altra registrazione a mio nome controllando altre 100 volte i dati prima di dare conferma, da sempre come data di ingresso 06.06.2021 invece del 05.06.2021 da me inserito. Giá mandato la mai all'indirizzo indicato..<br> :date: __2021-06-04 17:13:55__
+
+> Meno di uno non si può dare. Confermo come detto da un altro utente, che la app sfalsa le date un giorno in avanti. Per compilare corretto bisogna mettere il volo con la data di un giorno prima e l'ingresso nella struttura o casa con la data corretta. Ora però mi trovo con circa 6/7 registrazioni.<br> :date: __2021-06-03 13:15:10__
+
+> Vergognosa, pessima, allucinante<br> :date: __2021-06-02 18:40:47__
+
+> Per chi ha Huaweii nuovi è impossibile scaricare qlc App Google ha sospeso la licenza a Huaweii O si ha un altro cell o un Huaweii anche di 2anni fa cm ho fatto io. Credo non garantisco dal sito si riesca, io ho provato ma ad esempio alla fine nn compare l avviso di confermare la partenza 48h prima. Quasi andrei in Grecia.....<br> :date: __2021-05-30 16:28:50__
+
+> Non mi fa nemmeno registrare. Ho provato 5 volte, anche disinstallato etc... Mi da sempre 'codice fiscale invalido'.. Mentre invece è correttisimo... Per tutte e 5 le volte.. Come pensate di fare??<br> :date: __2021-05-30 13:39:34__
+
 > Ho inserito tutti i dati correttamente, ma dopo il salvataggio LE DATE SONO STATE CAMBIATE!!! Sono sicurissimo di averle inserite correttamente. Mai vista una cosa così.<br> :date: __2021-05-29 21:04:25__
 
-> Se Solinas vuole affossare la principale fonte di reddito della Sardegna ci sta riuscendo! App inutile assurda coi certificati vaccinali alla mano. Un casino nei porti. Il download che nn parte mai mai Tanta burocrazia e tecnologia da terzo mondo.<br> :date: __2021-05-28 19:23:11__
-
 > Non funziona su Sony Xperia xz1 compact, lo scorso anno funzionava.<br> :date: __2021-05-26 14:54:17__
-
-> Buongiorno, ho inserito la data di arrivo nel portale ( 29-05-21) ma una volta inserita la sposta al giorno successivo, ho effettuato diversi tentativi ( 3 tentativi quindi dubito fortemente di aver commesso errori 3 volte di seguito), ho provato a chiamare il numero verde, inviato email all'urp.emergenza, non ho ricevuto alcun tipo di aiuto. Non accetto risposte quali "provi ad inserire i dati corretti" , sono SICURA di aver fatto tutto giusto<br> :date: __2021-05-26 13:24:17__
-
-> Buongiorno,siamo alla quarta richiesta di risoluzione del problema ma ancora non avete capito la situazione,come faccio a riprovare con la registrazione se da cellulare l'applicazione non si apre nemmeno?inoltre ho già scritto alla mail che mi avete indicato senza avere nessuna risposta<br> :date: __2021-05-24 14:12:00__
-
-> Una pagliacciata. Quando lo avrete compreso sarà già troppo tardi.<br> :date: __2021-05-22 22:58:19__
-
-> Funziona da fare pena<br> :date: __2021-05-22 21:54:42__
-
-> Male troppo complicata<br> :date: __2021-05-22 17:31:21__
-
-> Ho scaricato e disinstallato l'app diverse volte ma niente non funziona ,cosa posso fare ?<br> :date: __2021-05-22 07:39:04__
-
-> Ho necessità di resettare la password, ma non mi arriva l'email per completare la procedura. Una app inutile al pari di queste inutili misure anticovid che non servono a limitare i contagi, ma solo a complicare la vita alle persone<br> :date: __2021-05-21 05:34:48__
 
 

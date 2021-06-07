@@ -185,6 +185,8 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Hay que descargar las 2 aplicaciones juntas sino no funcionan y hay que tener encendido el Bluetooth (o no funciona otra vez). A mí me funcionó tan bien mlsientras la tuve un el móvil que sólo por estar al tanto de las últimas novedades me la instalo. Ya os diré qué tal me va .…..…...…Enhorabuena¡!¡!¡!!!👍<br> :date: __2021-06-03 23:59:02__
+
 > Muy bien yo la utilizo<br> :date: __2021-04-28 13:01:04__
 
 > Buena app, muy recomendable. Gracias por la app<br> :date: __2021-03-20 20:59:24__
@@ -202,8 +204,6 @@ The PassCOVID.gal app has been installed by more than **50000** times. At this t
 > Quizás debería ser un poco mas sencilla su forma de uso<br> :date: __2021-01-03 10:23:05__
 
 > Después de esta actualización funciona muy bien. Gracias.<br> :date: __2021-01-02 18:50:17__
-
-> Buena<br> :date: __2020-12-09 00:02:20__
 
 
 

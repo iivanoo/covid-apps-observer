@@ -131,6 +131,10 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Sehr gut<br> :date: __2021-06-03 20:19:19__
+
+> Perfekt ist sehr schnell und einfach zu bedienen<br> :date: __2021-06-01 06:07:58__
+
 > Also mein tesy Inder Düsseldorfer Flughafen gemacht worden. Jetzt habe ich Bescheid bekommen. NEGATIV. Dankeschön an alle Test bearbeiteten de liebe Leute. Sie waren sehr nett hilfsbereit und freundlich .<br> :date: __2021-03-01 08:00:18__
 
 > Alles super , scannt, benachrichtigt,21.45uhr grün.<br> :date: __2020-12-03 23:08:28__
@@ -146,10 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Bei mir hat alles super funktioniert. Am nächsten Tag die Push-Benachrichtigung bekommen und das Ergebnis war da. Super !!<br> :date: __2020-10-15 08:51:22__
 
 > Die App hat (in meinem Fall) alles getan, was sie tun soll: QR Code gescannt, am nächsten Morgen kam die Push Benachrichtigung mit dem Befund. Alles sehr übersichtlich.<br> :date: __2020-10-13 09:22:48__
-
-> War nach all den negativen Rezensionen skeptisch aber bei mir hat die App super funktioniert - inkl. Push Nachricht innerhalb von 12/18 Stunden. Kurzum: Super App! 🙂<br> :date: __2020-10-13 07:59:37__
-
-> Macht was Sie soll! Binnen 18 h Ergebnis per push Nachricht erhalten!<br> :date: __2020-10-06 12:30:26__
 
 
 
@@ -243,6 +243,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Wie so vieles in Deutschland bezogen auf die Pandemie Note 6- ! App bzw. QR Code funktioniert seit Monaten nicht.....<br> :date: __2021-06-01 15:14:16__
+
 > Deinstalliert,Funktioniert nicht,stürtzt ab👎👎👎👎👎👎👎<br> :date: __2021-05-28 22:53:57__
 
 > Kann diese App auf meinem Handy nicht warum wird diese dann in den Medien angeboten wenn man keinen Zugang<br> :date: __2021-05-28 11:11:16__
@@ -260,7 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Die App funktioniert nicht. Scan geht nicht. Ich habe meine Anmeldedaten über eine andere Scan App gescannt, dann meinen persönlichen Code extrahiert. Dann wurde mir angezeigt, es läge noch kein Ergebnis vor. Ich habe die Push Funktion aktiviert. Ob ich jemals eine Nachricht bekomme?........ Die App ist für den normalen Gebrauch nicht geeignet!<br> :date: __2021-04-27 08:32:48__
 
 > Funktioniert nicht.<br> :date: __2021-04-24 00:09:46__
-
-> Bei mir wird die App direkt wieder zu gemacht<br> :date: __2021-04-19 13:44:22__
 
 

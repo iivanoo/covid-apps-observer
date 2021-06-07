@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Extremely Useful After CCDC VISIT Listen To Athority of LAW Protection Helps Community LOVE<br> :date: __2021-06-06 08:27:44__
+
 > Love it? Easy to use and very helpful in this pandemic. I would highly recommend it. 💯🎯😜Stay Safe Everyone😷<br> :date: __2021-05-26 06:58:45__
 
 > Great<br> :date: __2021-04-24 22:09:23__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Just get the app so you can keep you, your family, your friends, community safer. Contact tracing is one of the best ways to help stop the spread of this virus. So download the app and wear a mask when your out and about for just a little bit longer and we will be on the other side of this whole ordeal in no time. Have a safe and happy day.<br> :date: __2021-02-16 09:44:48__
 
 > I don't live in Nevada I live in Michigan<br> :date: __2021-02-03 19:28:11__
-
-> At Circus Circus...chk out 11 am...no home but a longtime friend to help...Pres Biden says to remain vigilant..ab( alxenia) 🧓👵😷<br> :date: __2021-02-01 18:14:47__
 
 
 

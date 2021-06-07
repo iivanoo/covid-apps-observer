@@ -202,6 +202,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="5_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 5 reviews"/>
 </p>
 
+> The Doctor was awesome he took the time to answer any question I had. Gave me the best advice and help with my needs.<br> :date: __2021-06-03 23:47:52__
+
 > It was easy to use. Used coupon code to lower payment of visit and barely even waited 5 mins to be assisted by a doctor via video call. The doctor was pleasant and heard all of my concerns. At the end, the doctor sent my prescriptions to my selected pharmacy. It was an easy and pleasant experience. 10/10 would recommend again.<br> :date: __2021-03-05 16:32:27__
 
 > Very quick and accurate<br> :date: __2021-01-24 19:50:29__
@@ -219,8 +221,6 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Excellent<br> :date: __2020-11-07 13:16:46__
 
 > Great after I was at the Emergency for 2 hour's and the refused to do the text on me<br> :date: __2020-10-29 17:10:42__
-
-> Good doctors and good health professionals<br> :date: __2020-10-25 05:38:09__
 
 
 
@@ -257,6 +257,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 3 reviews"/>
 </p>
+
+> By there name i repect them bastist, i dont want cause no conflict mount sinia and bastist is number but bastist they staff have a warm heart Bravo<br> :date: __2021-06-03 02:19:07__
 
 > App does not allow you a final review so if your DOB or address is incorrect, good luck at the pharmacy.<br> :date: __2020-07-04 22:02:14__
 

@@ -148,6 +148,10 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Funktioniert<br> :date: __2021-06-03 22:59:08__
+
+> Tut was es soll. Redmi Note 10 Pro.<br> :date: __2021-05-31 19:57:40__
+
 > Super App<br> :date: __2021-05-26 17:48:10__
 
 > bin seht froh über diese app da ich beruflich mit vielen leuten in kontakt stehe<br> :date: __2021-05-21 08:08:44__
@@ -163,10 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Sehr gut<br> :date: __2021-04-29 07:12:59__
 
 > Diese App gibt mir bis zu einem gewissen Grad Sicherheit.<br> :date: __2021-04-26 09:24:06__
-
-> Zufriedenstellend<br> :date: __2021-04-24 07:53:03__
-
-> Tolle einrichtu ng<br> :date: __2021-04-22 08:35:20__
 
 
 
@@ -204,6 +204,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Macht was es soll. Jedoch belegt die App über 700 MB an internem Speicherplatz und muss daher demnächst deinstalliert werden, um wertvollen Speicherplatz zu gewinnen. Die Möglichkeit, die Daten auf die SD Karte zu verschieben, wäre ein guter Grund für mich, die App weiterhin zu nutzen.<br> :date: __2021-06-03 23:03:26__
+
 > Sammelt 1.6 GB Daten und belegt auf älteren Smartphone zu viel Speicher! Wie kann man das reduzieren? Ich bin mittlerweile voll geimpft, was macht diese App Sinn? Aktiviere sie nur wenn ich unter fremde Personen gehe. Will BlueTooth nicht immer offen halten!<br> :date: __2021-05-21 05:49:38__
 
 > Hat bisher funktioniert<br> :date: __2021-05-10 21:35:57__
@@ -221,8 +223,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Von 5* zu 2*. Die mit Sicherheit langweiligste App der Welt von der man nicht mal weiß ob sie funktioniert weil sie einfach nichts tut. Könnt ihr bitte die DEUTSCHE APP kaufen?!?! Ich denke, dass der App Entwickler keine Ahnung von der Zielgruppe hat. Dass es einen spielerischen Charakter braucht für Akzeptanz. Überlege den langweiligen Ressourcen Fresser zu löscheb die App nun funktioniert oder nicht kann ich nicht sagen. Sie macht auf jeden Fall keine Probleme und hält sich an den Datenschutz.<br> :date: __2021-04-20 18:19:20__
 
 > Zu wenige Nutzer.<br> :date: __2021-03-21 11:52:32__
-
-> Hab sie jetzt nach langer Zeit deinstalliert... bisher nie eine Meldung bekommwn, kein einziger Kontakt.. da weiß man nicht mal ob sie funktioniert 😑 und solangs fast keiner verwendet is es ziemlich sinnfrei<br> :date: __2021-02-03 11:46:28__
 
 
 
@@ -260,6 +260,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Nach mehreren Wochen Betrieb habe ich fast 1 GB Speicherplatz verbraucht... ursprünglich werden rd 50 MB angezeigt .. völlig unbrauchbar wie Kaufhaus Österreich<br> :date: __2021-06-05 18:01:40__
+
 > Update: Bis heute Nacht keine einzige Erkennung. Dafür heute Nacht fast 15000 mögliche Kontakte. Ich bin mir aber ganz sicher, daß nicht annähernd so viele Leute in meinem Schlafzimmer waren. Leider erkennen unsere Handys sich nicht. Meine LG und ich sind auch nach 24 Stunden zusammen keine Kontaktpersonen. Auch die Handys meiner Arbeitskollegen werden nicht gefunden, auch wenn die Handys die ganze Zeit am selben Tisch liegen. So bringt die App eigentlich gar nichts, ausser Akkuverbrauch.<br> :date: __2021-05-22 12:06:20__
 
 > Auch im Infektionsfall eher unbrauchbar. Will jeden Tag das ich meine Kontakte der letzten Tage benachrichtige auch wenn ich schon Tage in Quarantäne bin. Muss dann jeden Tag den Beginn der Symptome neu setzen. Hab die App jetzt vorerst deinstalliert und installiere sie erst wieder wenn ich und meine Familie wieder raus sind.<br> :date: __2021-05-18 10:31:07__
@@ -277,7 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Kann mir jemand erklären, warum müssen wir in Österreich eine "eigene" warn app entwickeln und vom steuergeld bezahlen, wo doch die warn app der brd viel besser ist, mehr kann, zb für qr codes der testungen und grünem pass bereits vorbereitet ist? Ist das stolze österreich in europa?<br> :date: __2021-04-25 10:05:39__
 
 > Warum verbraucht die App etwa 1,2GB/Monat? .... lässt sich seit etwa einer Woche nicht aktualisieren<br> :date: __2021-04-23 11:34:53__
-
-> Habe die App sehr lange,bin in Wien täglich in der U6 unterwegs hatte noch keine Meldung habe ständig Updateaufforderung wenn ich mehr wissen will. Standort und Bluetooth frisst Datenverbrauch und Akkuleistung. Hauptsache Google hat die Daten.<br> :date: __2021-04-21 21:00:19__
 
 

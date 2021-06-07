@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEnUGCv-OB7zH-NLyeonsysSiwgb4aNC1xddAC6Xxg4n2yHWd_p57khN6io2lSbq3canlL4cZ7Ajp2ybQ",
+        "userName": "Nurse Pilot",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxpXgD1L-dfhfjEh_jB0nse45loL6FF34MFBQeU=mo",
+        "content": "This app was fine until June 2nd then it started checking for \"exposure keys\" constantly which is draining my phone! I have to do a force stop.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.2",
+        "at": "2021-06-04 13:20:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF897VtE4E9bED_VpCXLStYBTEWTQ9fXTbmOq5BCJXF0FklzQusOhntUuGL6qqZM6J2709l4kgb8lUrsA",
         "userName": "Debbi Cantoni",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiJ8aAgvx22h6jicD-Gz19XCkKRabku2t0S0WpJeg",
@@ -313,7 +325,7 @@
     },
     {
         "reviewId": "gp:AOqpTOElFw1-652E34Li9qEk1j9SpUBeJpVNu1hEsODw-qak4s69iuJlo4YzCChQ9qNgvBSlRlawUdKEyDSAJQ",
-        "userName": "ana e Cruz nazario",
+        "userName": "Anabella Cruz",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqUJOgO-MiMACfNlq1bLPQWthKmW2tWf_DflStOeA",
         "content": "COVIDAlert, Delaware Division of Public Health helps reduce the spread of COVID With your help, the COVID Alert DE app can help reduce the spread of coronavirus. The Division of Public Health of the State of Delaware is asking everyone to help tackle coronavirus by downloading and using the COVID Alert DE app every day. If you use the app you will \u2022 Be alerted if you have been in close contact with another user who has tested positive for coronavirus. \u2022",
         "score": 5,

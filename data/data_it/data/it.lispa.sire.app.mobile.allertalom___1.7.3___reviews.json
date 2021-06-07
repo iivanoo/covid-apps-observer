@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFyhj_AUBWtXmKAaAQgd5a9OtWdwUMLpG-vWga6nv2-ZtMItTVUcdIG2jEcFj_lm2IKvCpX8sirpVjXnQ",
+        "userName": "Gepps Mora",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxj4g7UM31TI8ABS5ir5jEf-jkGOfTP8gTGX0XO=mo",
+        "content": "Si poteva fare meglio",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-06 11:48:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGG0puJdYsP-JkcZALK3f9W7Q-HSK2KPTg9u3QVpy8AgbHEotUV8MdMrJ2FjDpHn6BXxvDkLSYtmAEWEw",
         "userName": "Paolo Ghiro",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmK-dfgE7h8bBmYBpSMblu8fxgO4v9pU00M3DZ",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-05-23 14:03:25",
-        "replyContent": "Ciao Paolo, stiamo verificando quanto da te segnalato!",
-        "repliedAt": "2021-05-27 09:57:16"
+        "replyContent": "Ciao Paolo, aggiorna l'app all'ultima versione in quanto alcune problematiche sono state risolte. Se hai bisogno di ulteriore assistenza scrivici a info.allertalom@ariaspa.it.",
+        "repliedAt": "2021-06-04 09:33:30"
     },
     {
         "reviewId": "gp:AOqpTOFhNLNVZ0xdFWrAbDUIlnPcCjRgsDWw_13urJP4QtCcW-jH5XWn8-KUjomGtOclDlyDthZcI79Q4uev7Q",
@@ -32,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-05-19 15:05:39",
-        "replyContent": "Ciao Carlo, stiamo verificando quanto da te segnalato!",
-        "repliedAt": "2021-05-27 09:47:41"
+        "replyContent": "Ciao Carlo, aggiorna l'app all'ultima versione in quanto alcune problematiche sono state risolte. Se hai bisogno di ulteriore assistenza scrivici a info.allertalom@ariaspa.it trasmettendo print screen dell'errore riscontrato.",
+        "repliedAt": "2021-06-04 09:35:26"
     },
     {
         "reviewId": "gp:AOqpTOHNgJwyoUaDFWh6QnWEBUfAoniTfgAjY5rzVwQg0-cj67DKKEFi_GT9PVHqtWT-r_El4kbcspF_E4c1FQ",
@@ -2497,7 +2509,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEwqoATKRnH8iu6H6xspyiBn9Meta8K2dP8yUD559bDw4f_OLuILm1Xv6lLGdYD9rr7ZSGISkU5Yq9kJQ",
-        "userName": "GFrancoB",
+        "userName": "GFranco B",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4a6jRKFSEVMt557bxsnfw-MvCVt39nqSPxo0W",
         "content": "Ottima",
         "score": 5,
@@ -4190,7 +4202,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXXr4nj2xa7I2i-403zDjO7jnF9rfyxGUdYLLHxQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSe64mAZV8yVVDyjM0xOquYkwg1E5PRQknQABq2A",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4874,7 +4886,7 @@
     {
         "reviewId": "gp:AOqpTOF2qn_FzV5n8_xDvoTtJsZyiN0UnJ0W3fIVDElxpsYdv-pOjwGj7ubJhe5DOP9BBm2RXJkhvbuNUjQi2A",
         "userName": "R. de L.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5-z6bAvxQcMtXGMP8V8sszR0Fs6rskvoFiVJsZyc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6Aq_0sCZ5BA_6Ip_MzPVFbwAOdp2fzAornGFx3L0",
         "content": "Non si capisce lo scopo, scarsa utilita'.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -6362,7 +6374,7 @@
     {
         "reviewId": "gp:AOqpTOGzudL5384KLkH-W1ryQ8nDrKG0uSbBWGqgy0R-26bkOeIwXXTHThGf5m13A8od9rfmifC6tTJKXE1WYA",
         "userName": "Massimo Moltoni",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4txVBwbvs7fGBb__jalXEBNNZKCofvmEEP_cxQQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gib9sO-himNQLfJEI4YH0VT0wkBpdbwiG1sv2n1jQ",
         "content": "ORRENDA: oltre a non capire bene a cosa serve (e questo potrebbe essere un mio limite), \u00e8 \"complicata\" da usare: tutte le volte che la si apre occorre \"accedere\" accettando in 4 passi distinti le condizioni di privacy. Inoltre chiede sempre di \"aggiornare\" i propri dati partendo sempre da zero, ovvero NON riproponendo quelli salvati l'ultima volta... La trovo un esempio di burocratismo ottuso.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8090,7 +8102,7 @@
     {
         "reviewId": "gp:AOqpTOHkk8rkgLPFfJdw9YU_8op3p5Bit6_bi_tLVcJ3Jd6Nb9A9-nCgBkiqsw7v9zJdRPbjy7ybjJCO1oKLxQ",
         "userName": "Hikko",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvewwRmp97hzHqLWAjQlfH5AOaDgx7nS3h1kiO7R4",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlJSz5SUr5YVfDmArjSH7D3vutKsry4aw9mPhjgcQ",
         "content": "Per adesso funziona tutto a meraviglia.Comunque...bella idea quella di fare un'applicazione di questo genere. Sono soddisfatto : )",
         "score": 4,
         "thumbsUpCount": 0,
@@ -10405,8 +10417,8 @@
     },
     {
         "reviewId": "gp:AOqpTOG-SGu3Wbt7S0allFhvIPlEo87bUkDQur1rDMU1IkGPFnF3rzxB3RmwiDWsPqpzGyqWCGEDQWoswQ35pw",
-        "userName": "Un utente Google",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "userName": "Asia Ferrante",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi8W8_Qlk7eS8ISx_o5U4heIols1UKbWbP7ReV1Rg",
         "content": "Manca la possibilit\u00e0 di inserire lo stato di salute dei bambini che ovviamente non posseggono un cellulare ma in alcuni casi i malati sono loro..",
         "score": 3,
         "thumbsUpCount": 0,
@@ -11378,7 +11390,7 @@
     {
         "reviewId": "gp:AOqpTOFqa4XZ1qHoYgRdiqNoufvdjllsIGGkWr_Z7HOfvm97NJg22OBukgXHpWIQER-CXo6tnc7uZTM8bWWKKw",
         "userName": "Nadia Sol",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjmaIUyhPyWAx_oMmEJ4p9SisDe9TRWfB74gzqIgQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghw81x6jHtoVv2PtyICZaXWWGu7oA10or1-HlcOUg",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11986,17 +11998,5 @@
         "at": "2020-04-16 15:01:50",
         "replyContent": "Ciao Gianni, grazie per aver aggiornato la tua recensione, e grazie per aver apprezzato la nostra disponibilit\u00e0!lavoriamo quotidianamente per fornire a tutti uno strumento utile, recensioni come questa ci fanno particolarmente piacere!",
         "repliedAt": "2020-04-16 15:36:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOFuGRpDpMnbcvRKqPCK3EcmU7rrwdpZSr9EH_HK5uafCQGXnkJpYsk1CEyL3VGmTqtvlooSXYQ0UKKFSw",
-        "userName": "carmen spreafico",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghi2e4GJFB5zWNfIaukGC7Zq41iRgtjVe7blwFa",
-        "content": "Inutile app.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-16 13:01:07",
-        "replyContent": "Ciao Carmen, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
-        "repliedAt": "2020-04-16 14:14:26"
     }
 ]

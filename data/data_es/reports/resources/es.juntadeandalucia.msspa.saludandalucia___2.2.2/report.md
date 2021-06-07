@@ -140,6 +140,12 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Una página donde puedes consultar tus datos de salud ,como si tienes citas médicas pendientes, muy buena<br> :date: __2021-06-05 23:01:33__
+
+> Buena<br> :date: __2021-06-03 23:20:36__
+
+> Muy FACIL TODO<br> :date: __2021-05-31 15:52:27__
+
 > Muy buena, una apps que ayuda a la ciudadanía a estar mejor informado y modo más rápido dé interactuar con la Administración.<br> :date: __2021-05-30 10:27:05__
 
 > Muy rápido y facil<br> :date: __2021-05-27 12:38:07__
@@ -153,12 +159,6 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 > Pocitiba<br> :date: __2021-05-22 18:54:16__
 
 > Buena<br> :date: __2021-05-21 20:11:52__
-
-> Es estupenda<br> :date: __2021-05-18 14:11:20__
-
-> Es perfecto<br> :date: __2021-05-15 12:02:00__
-
-> Yo entro con clave pin y va de maravilla. Muy útil, puedes ver tu historia clínica, tu tratamiento de farmacia....y el certificado de vacunación covid.<br> :date: __2021-05-14 16:49:43__
 
 
 
@@ -193,6 +193,8 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 3 reviews"/>
 </p>
+
+> Es buena, pero no da opcion donde pone AN a poner los dos primeros números de la tarjeta sanitaria<br> :date: __2021-06-03 16:38:27__
 
 > Sería de agradecer que al identificarse, los datos introducidos se viesen más oscuros. Actualmente el texto se transparenta y a veces cuesta verlo.<br> :date: __2021-05-06 16:42:17__
 
@@ -236,24 +238,24 @@ The Salud Andalucía app has been installed by more than **50000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> Que Caos con esta Aplicación. No lo podéis hacer un poco mas facil para los Mayores?<br> :date: __2021-05-30 13:22:11__
+> Mala, anula el altavoz. Después de descargarla me anuló el sonido como si hubiera conectado unos auriculares, incluso salía el icono de los mismos, hasta que la borré y se solucionó el problema.<br> :date: __2021-06-06 09:25:03__
 
-> No vale para nada..me dice que mi dni es erróneo!!!!... y no me deja acceder para descargar el certificado de vacunación covid<br> :date: __2021-05-29 21:09:28__
+> Da error todo el rato, lo suficiente para que no te deje hacer nada<br> :date: __2021-06-05 14:26:03__
 
-> Novale para nada<br> :date: __2021-05-29 12:00:28__
+> Aplicación...... inexistente.<br> :date: __2021-06-05 13:30:19__
 
-> Después de escribir la clave de validación que te da el propio sistema, se cierra la aplicación y perdiste el tiempo. movil xiaomi mi A2 android 10. Y esta aplicación habrá costado una pasta gansa.<br> :date: __2021-05-28 19:36:24__
+> Inútil para obtener certificado de vacunación COVIP, Otro gasto mas a nuestros bolsillos que no funciona y que nadie se responsabiliza, como se ve en el historial de reseñas no es un fallo puntual ya lleva tiempo sin funcionar como debe. Tal vez tenga que pedir disculpa, porque esta aplicación la haya hecho alguien que no ha cobrado nada.<br> :date: __2021-06-05 07:45:35__
 
-> No te deja acceder a la pagina de certficado de vacunación.<br> :date: __2021-05-28 18:32:13__
+> Esta app no funciona es más mala que una escopeta de caña<br> :date: __2021-06-04 19:15:08__
 
-> No funciona. Es perder el tiempo.<br> :date: __2021-05-27 10:55:27__
+> Horrible no carga y no hay manera de que de él certificado digital de estar vacunado. Contra el covid. Piensa, piensa y no sale de ahí. Por aburrimiento lo cierras.<br> :date: __2021-06-04 16:36:28__
 
-> No funciona correctamente, haces Log In pero si quieres consultar algo te dice que tienes que hacer Log In, como hacerlo sí ya tengo la sesión iniciada. Y porque tengo que poner siempre mis datos cada vez que hay que acceder y hacer alguna consulta. No merece la pena que la instaléis.<br> :date: __2021-05-26 22:58:58__
+> Es una aplicación que le queda aún mucho por mejorar.De momento no sirve absolutamente para nada.<br> :date: __2021-06-04 16:29:07__
 
-> Una mi.....a<br> :date: __2021-05-26 18:56:23__
+> Aplicación repleta de fallos, da varios avisos falsos al abrirla. Luego, no se puede configurar porque no contempla tarjetas antiguas y dice que mi número de SS es incorrecto. No voy a renovar mi tarjeta mientras la anterior funcione, no voy a generar un gasto porque sí.<br> :date: __2021-06-04 15:20:30__
 
-> Una auténtica basura<br> :date: __2021-05-26 17:14:28__
+> Bajarse el certificado de vacunación covid, misión imposible<br> :date: __2021-06-04 13:28:13__
 
-> Me han dado en mi centro de salud el certificado y me dicen que tengo que validarlo en la app salud Andalucía pero es imposible hacerlo Tanto es así que mi dni no lo valida por incorrecto así como mi número de tarjeta de la seguridad social Increíble pero cierto, un desastre de aplicación<br> :date: __2021-05-26 13:17:07__
+> He instalado la aplicación y no hay manera humana de registrarse,¿para que sirve esta aplicación pués?<br> :date: __2021-06-04 12:03:39__
 
 

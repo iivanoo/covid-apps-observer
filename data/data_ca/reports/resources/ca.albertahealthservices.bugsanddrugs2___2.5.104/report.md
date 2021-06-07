@@ -127,10 +127,12 @@ The Bugs & Drugs 2.0 app has been installed by more than **1000** times. At this
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="ca.albertahealthservices.bugsanddrugs2 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Excellent antimicrobial reference for health practitioner.<br> :date: __2021-06-03 20:45:10__
+
+
 
 #### 4-star reviews
 

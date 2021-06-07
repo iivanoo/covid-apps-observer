@@ -172,6 +172,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> As a GoodSAM 'verified responder' (St John Ambulance), the Responder app has been an amazing community tool for assisting East Midlands Ambulance Service with cardiac arrests and other similar incidents. Ambulance crews have all been happy for assistance during these calls. - Working together, this is a lifesaving app. I did notice that prior to being a verified responder for St John that if you just have a first aid certificate, it's very unlikely that you'll get a call out, but this is down to the policy of your local ambulance provider and not the app.<br> :date: __2021-06-05 12:26:07__
+
+> Great app everyone should be on it<br> :date: __2021-06-04 12:00:12__
+
 > Great idea the only problem k have at the moment is there's no buttons when I'm running a simulation<br> :date: __2021-05-20 20:18:20__
 
 > Easy to use<br> :date: __2021-05-11 09:28:33__
@@ -188,10 +192,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Because of this app i have been able to give people a second chance at life, i have attended many life changing calls and confirmed succesfull resusitation outcomes on a number of calls<br> :date: __2021-04-03 01:37:22__
 
-> Not going to leave a rating yet, I want to wait and see if my issue gets resolved and that this actually works first. Issue: No Email received!! Now that everything is sorted, the app works fine for me.<br> :date: __2021-03-24 05:33:31__
-
-> Excellent & is developed continuously.<br> :date: __2021-03-08 15:15:54__
-
 
 
 #### 4-star reviews
@@ -199,6 +199,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
+
+> Well designed and simple. Great work. For future tasks I would love to save a filter on date, or day of week. I would be more likely to find a steward shift I can attend.<br> :date: __2021-06-02 15:01:30__
 
 > Can we have a filter option by day of the week or time under future tasks, please? Sometimes with more than several hundreds on that list it is very difficult to find the relevant ones for VSS roles. Many thanks.<br> :date: __2021-05-21 10:00:55__
 
@@ -218,8 +220,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 
 > Sometimes I wonder if anyone knows that I have logged on "duty" to the controllers. I have logged on for a mere 180 hours and in that time I have had just four "shouts" three of which didn't pick up and the fourth just needed a "chat. How do I know, that you know, that I am here ready to go? Many thanks Alan Hobbs<br> :date: __2021-02-11 20:30:35__
 
-> The app works ok most of the time. One problem I get is the location side, I've had to reject quite a few alerts that have been 12 miles away even though my app is set at 5 miles.<br> :date: __2021-01-23 09:57:46__
-
 
 
 #### 3-star reviews
@@ -227,6 +227,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.goodsam.responder 3 reviews"/>
 </p>
+
+> App was working really well for me until about a week ago. Suddenly started eating data and won't display the part of my profile that allows me to go on and off duty. I have tried updating and reinstalling but still isn't working properly.<br> :date: __2021-06-05 23:34:06__
 
 > It's hanging. Neither accept nor reject is possible. Update. I installed on a different phone and exactly the same problem exists on that. Therefore it's my account that is locked, not the app. How can I get my account working again? Uninstalled and restarted but the uninstall process is incomplete as when I reinstall and open it goes immediately to the same hanging task screen. I've Uninstalled it as its unuseable for me now.<br> :date: __2021-05-26 14:07:57__
 
@@ -245,8 +247,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > This app worked very well with my previous Android 10. Since upgrading my phone to a new Android 10, I stopped getting sound notifications. I followed your FAQs, allowed all permissions, but I still don't get them as sound alert. I used to have a sound notification for a simulated task, but I don't get it now. Can you help please as I may miss request if I don't look on the screen...<br> :date: __2021-02-11 11:50:54__
 
 > Always crashes for no apparent reason. Had no alerts in thousands of hours. Crash report sent<br> :date: __2021-01-29 09:28:59__
-
-> The app tells me my certificate/ID is out of date but when I log onto the website it states it's valid until next year. Please help!<br> :date: __2021-01-29 07:30:57__
 
 
 
@@ -284,6 +284,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
+> I don't receive any volunteer marshall opportunities which is frustrating to do Your response would make sense if I wasn't in the same household who has their phone pinging with opportunities all day ..<br> :date: __2021-06-05 20:45:54__
+
 > Been stuck on the loading screen for 4 days now...<br> :date: __2021-05-27 18:40:24__
 
 > Doesn't pick up shifts within 25. Only when I'm in a big city and not from home base! Even though I live closer to the shifts being offered! Live in Skelton (North East Yorkshire). Don't get anything at all even for shifts at Redcar - though can see shifs at Redcar when I'm in Middlesbrough!<br> :date: __2021-05-19 17:05:11__
@@ -301,7 +303,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > When ever I click on future tasks it turns off so I am unable to check or book any task<br> :date: __2021-03-19 23:36:28__
 
 > I sign on and then think it'll send notification but it hasn't been so someone sends a request I haven't received it so goes to the next responder I'll make sure I have it loaded more often now<br> :date: __2021-03-12 19:36:31__
-
-> I still haven't had a Volunteering alert for the Vaccination Centre in my area where I live, patiently waiting!<br> :date: __2021-03-02 15:26:33__
 
 

@@ -146,6 +146,8 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="com.nj.gov.covidalert 5 reviews"/>
 </p>
 
+> Use it everyday, how ever when I am in a store and a person does not have the app you can't anything. So I thought it was worthless and deleted it.<br> :date: __2021-05-30 19:52:04__
+
 > Helps by putting all information in one place, THANK YOU!<br> :date: __2021-05-28 22:14:51__
 
 > Awesome!🕋<br> :date: __2021-05-24 07:04:50__
@@ -163,8 +165,6 @@ The COVID Alert NJ app has been installed by more than **100000** times. At this
 > I wanted this informational because I'm thinking of visiting my brother in Springfield, New Jersey. I thought that this app might help me to decide if it's safe or not. I would be coming from England.<br> :date: __2021-04-20 21:00:59__
 
 > THIS STATE HAS A FANTASTIC GRIP ON ORGANIZING & RESPONDING FAST WITH LITTLE TIME TO WORRY! LOVE IT! I'M THE ONLY ONE IN MY FAMILY WITHOUT THE VACCINE & I'M FROM Philly!! Using my storehouse of 26yrs I'm signed up! Great Job Joisey!!!<br> :date: __2021-04-08 11:14:16__
-
-> No se que quieres que aga no veo ninguna muchacha en mi casa boy a seguir borrando con tu oermiso o no o nesecitas tiempo te digo son tontos yo estoy ase rrato viendo que les estan avisando que yo estoybmolesto y no entienden a que lo bielbo a desactibar en un rrato aver donse esta<br> :date: __2021-03-27 19:08:26__
 
 
 

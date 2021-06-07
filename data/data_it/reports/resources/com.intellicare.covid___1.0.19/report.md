@@ -142,6 +142,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.intellicare.covid 5 reviews"/>
 </p>
 
+> Funziona perfettamente. Sei in contatto in tempo reale con il tracking centre. 5 stelline meritate.<br> :date: __2021-06-02 11:16:59__
+
 > Ottima<br> :date: __2021-05-19 19:42:51__
 
 > Ottimo servizio, sempre gentili e disponibili<br> :date: __2021-05-16 14:17:52__
@@ -159,8 +161,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Applicazione per fatta. Utilissima ed indispensabile.<br> :date: __2021-01-18 15:11:07__
 
 > Ottima<br> :date: __2020-11-11 19:16:16__
-
-> Credo che sia unottima protezione.<br> :date: __2020-10-24 15:02:19__
 
 
 
@@ -198,6 +198,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="com.intellicare.covid 3 reviews"/>
 </p>
 
+> Buona, da implementare con green pass e altre info riguardo alle vaccinazioni x età<br> :date: __2021-06-06 11:01:09__
+
 > Da migliorare: lenta nel caricamento dei dati e altri dettagli<br> :date: __2021-05-17 16:57:38__
 
 > Fatta la seconda dose di vaccino non ha l'upgrade che consenta di scansionare il qr code per ottenere il passaporto vaccinale.. Al numero verde non risponde nessuno!<br> :date: __2021-01-26 16:18:58__
@@ -215,8 +217,6 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Buona l'idea...peccato sia solo x il Lazio...ogni Regione dovrebbe averne una simile, da integrare con Immuni a livello nazionale...tutti i cittadini dovrebbero utilizzarla x tenere sotto controllo la propria salute e stare più tranquilli...<br> :date: __2020-06-16 11:10:30__
 
 > Correggo la sottostante recensione, credo sia stato un malfunzionamento temporaneo, mi ha dato la possibilità di accedere e funziona. "Pessimo funzionamento. Avevo già installato l'applicazione ed avevo anche inserito i miei dati, ad un certo punto all'accesso (fase invio SMS di verifica) usciva un messaggio di errore che diceva che mi ero registrato con un altro numero (impossibile) e quindi non mi ha più consentito l'accesso. Sarebbe utile se funzionasse!!!"<br> :date: __2020-05-13 18:20:22__
-
-> Un po' complicato<br> :date: __2020-05-10 17:47:50__
 
 
 

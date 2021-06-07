@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEFJ1keGOi2xz2XDZjDbEywE-3BXli_mgmdgPnrAc_Ag5DJ_yA69Rcqh3LCvgEYUIZl1alSl4IypnbutQ",
+        "userName": "Odd Roar Adolfsen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxIBfyTv6J7WWfXqA2n1KEpaARWrhfg2uoF3RAb=mo",
+        "content": "Smittestopp er vel grei \u00e5 ha, har ikke hatt behov for \u00e5 bruke den.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2021-06-05 20:11:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFD75WKFcZHWy4ykOxEn31kmZQtRxX6VtlJK5iF5ncailr7KBdpzHNT135Sk3S3E2oA4zSlqRSbLVgs6Q",
+        "userName": "Svein Magne Ekroll",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHKMnD91TiWmZu5qDrf8sdv40CY5JPMNHr3AxU=mo",
+        "content": "Nyeste versjon (3.0) virker fint. Merker ikke noe til den. Batteri forbruket er lavt.",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0",
+        "at": "2021-06-02 13:34:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGqRqcl4C0lrNvtLRpZ5rBuQddZsxSNrca1X9-fBRXt-nj8DVZk0G0M-3H1M8YleFx1KRh5FoaU3qtaQA",
         "userName": "Mixed Worlds",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhbtipaoJwXZWp99vPjr_GIvqWul0BkdOZIAB32Xw",
@@ -17,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxt4fJbCEwq4u-oq8e_0R0aYJF6wvs0WIwV1SIu=mo",
         "content": "Oppdatering 26.05.21: Feil vedr\u00f8rende push-notification er rettet i ny utgave av appen. N\u00e5 gj\u00f8r den lite ut av seg, og varsler kun ved eksponering.",
         "score": 4,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "3.0",
         "at": "2021-05-26 18:13:58",
         "replyContent": "Hei takk for tilbakemelding, feil vedr\u00f8rende push varsling har blitt l\u00f8st i en av de siste versjonene.",
@@ -41,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz6YlX9nJCOJKlnzpPbpTW17K4knnQYuTFx8sw_=mo",
         "content": "Jeg blir tryggere med smitte appen n\u00e5r jeg f\u00e5r beskjed etter f.eks. butikkhandling.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.0",
         "at": "2021-05-26 13:15:45",
         "replyContent": null,
@@ -242,7 +266,7 @@
     {
         "reviewId": "gp:AOqpTOHnmrJPEW0lVwutoejRsn_7TfxrxsmlUXcs53OZtB_lAovOIOJ3pMiasBrf0hSn29KtFcUAwmSvA5mH2g",
         "userName": "H\u00e5vard Fossen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSpROPayaJxRZ9dofZaPylk-iCRZnQxzunJIml",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1bnfkmwfxMwZ_WrjTKuY_gaG4uQWSoDSYuMAfMw",
         "content": "Trekker str\u00f8m",
         "score": 1,
         "thumbsUpCount": 0,

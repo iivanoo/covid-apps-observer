@@ -245,6 +245,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Si poteva fare meglio<br> :date: __2021-06-06 11:48:57__
+
 > Dice di aggiornare ma non me la fa aggiornare, dice 19/03/2021 ma non c'è nessun aggiornamento grazie Gigio<br> :date: __2021-04-22 16:59:09__
 
 > Mediocre<br> :date: __2021-04-22 16:22:23__
@@ -262,8 +264,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Con l'ultimo aggiornamento mi chiede di compilare il questionario che ho già fatto ma non va più avanti. Mi chiede di inserire un parente<br> :date: __2021-03-07 14:22:52__
 
 > Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.<br> :date: __2021-01-10 11:16:37__
-
-> Poco efficente e con descrizioni e annunci che sono copia di quelli ministeriali. Era meglio potenziare di più Immuni invece di farne una simile.<br> :date: __2020-12-10 17:45:49__
 
 
 

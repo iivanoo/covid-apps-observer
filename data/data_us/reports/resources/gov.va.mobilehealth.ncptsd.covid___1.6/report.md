@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Very relaxing and it helps me stay relaxed.<br> :date: __2021-06-02 19:52:02__
+
 > Great App. Highly encourage it. Not just for COVID Times. Very awsome tools!<br> :date: __2021-05-28 21:01:20__
 
 > Great app for those with PTSD and sleep issues.<br> :date: __2021-05-28 01:55:12__
@@ -157,8 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Great app. Simple, easy to apply every day.<br> :date: __2021-03-28 19:58:29__
 
 > It's very useful on how to cope and helping recognize moods. Only used one day so far.<br> :date: __2021-03-24 02:32:55__
-
-> Good resource<br> :date: __2021-03-22 15:04:11__
 
 
 

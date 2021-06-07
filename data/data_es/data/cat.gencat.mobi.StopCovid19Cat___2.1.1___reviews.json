@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOE_kIaHQ_IesueWs5PtkguK1avKBnSEp_RY5n4pZFbpcVDIKJC9mH5gGgLlTVE8BDjj1ExanU5u28ksjwE",
+        "userName": "Koala Naranjo",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxzpHBUaoq8tXPh78TLOjXgXDcRMUh4amij-X8N=mo",
+        "content": "Me dice que mi NIE no es valido. Llam\u00e9 al 061 y ellos no se encargan de esto. Alguien que sepa del tema??",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-06-03 07:55:30",
+        "replyContent": "Puede llamar al 061 Salut Respon para que resuelvan la incidencia con su NIE.",
+        "repliedAt": "2020-11-14 12:13:47"
+    },
+    {
         "reviewId": "gp:AOqpTOFf5dlm29c586SU_Weq52FOHd_MFfgrHMGrE-9XTGQCOwKWWKPZrCO3r4Jt_VQxeX7w-rUzXVAL1FWvZwA",
         "userName": "Mariano Asensio",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXHIbvyiAZTI2nyVB9rDosulRPWHye2P8c-HGOlFs",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-09 21:47:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentem la mala exper\u00ec\u00e8ncia amb l'aplicaci\u00f3.",
+        "repliedAt": "2021-06-03 18:09:26"
     },
     {
         "reviewId": "gp:AOqpTOG1rmxUvzODJBEshba08XajZMsyBpXD998F0L2dzQCpoK8LDly1R0B0tcVxVFOjTyxZ_bbru-8bG6nhRCo",
@@ -20,8 +32,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-05 23:05:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Lamentem la mala experi\u00e8ncia",
+        "repliedAt": "2021-06-03 18:10:07"
     },
     {
         "reviewId": "gp:AOqpTOGjM7pDdNsX0kAfwDEehOZZhaaAQyZoqMFWCJj7WtDvvPCTYD8eGb656V0JftMp8j99eOMpyc_AFkeZiEY",
@@ -554,7 +566,7 @@
     {
         "reviewId": "gp:AOqpTOE9LJXnFnIHMyCk1USKb2RAe8E3zXZNpJjxWkrZVtptIbjb9a5MCunsCIkvWiZSYc5P80JUxFr1IlDynhI",
         "userName": "DAVID DIEGO",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZg3RWKxIujXK0V8f0ZaPqTW-riP3mI37nOs-f",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiozeyynU4g5q2iRNBm13AV26gt7I4KpsrtlzhQ",
         "content": "Soy positivo, tengo sintomas y la app dice que no tengo sintomas. Ser\u00eda mucho mejor que dijera que no tengo sintomas graves y que continue haciendo los test para cuando aparezca algo grave seguir con el procedimiento adecuado. De esta forma al \"no tener sintomas\" pierdo las ganas de hacer el seguimiento de los tests, aunqu\u00e9 tenga los sintomas.",
         "score": 1,
         "thumbsUpCount": 30,
@@ -4670,7 +4682,7 @@
     {
         "reviewId": "gp:AOqpTOFVbyNLFZiFY4PxEZCPIisWgBHZFEgglmQsoRFK7y4Bet_7kx6_bjLkK5V1AOpMgZbIEEq9ZofSy6NiShA",
         "userName": "Francesc Martinez Vilaseca",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPNsurlq6rTTkmmCcd1cHg2IW75umLOdCAaFQe6JM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg92wClDlIYAq5hnodmFXM6IUTn04nUhrUzv_jory0",
         "content": "Ho guanyarem!!!7",
         "score": 4,
         "thumbsUpCount": 0,

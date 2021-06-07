@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGAxneGq-OvGiuhZrvfEw6rzLzynoP0X6CaKG85Y5heLkLDh2OaYbx0aUcXAv1_hyYzf_tcKMx1SYxKLw",
+        "userName": "Josef Gerhard Hoffmann",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjiNBxMYz0qAMSv59J4LCBnbJfWSdwHSIoCtql=mo",
+        "content": "Der gr\u00f6\u00dfte Dreck \u00fcberhaupt! \"Tagebuch f\u00fcr die Gesundheit aller.\" So ein Quatsch! Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und \u00fcberfl\u00fcssig! Ich habe sie wieder gel\u00f6scht. Gro\u00dfes Indianer-Ehrenwort. Ich hoffe, da\u00df diese Schwachsinns-App nicht mehr fortgef\u00fchrt wird und sich die bisherigen Nutzer\\*innen dann in dauernde Selbstisolation begeben. Das erh\u00f6ht den IQ-Durchschnitt im Freien, aber leider nur minimal.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.1",
+        "at": "2021-06-06 15:10:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH7CQ6wcZGVrd6FKV4LoccqaPYohkvjZNOaQTom-R0O9IEVDRvUs_JEZUHLQW5rodLlMmhTpgzDQk2WMA",
         "userName": "Hans Maiser",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz_LvaLaIg-JOSJ_NQUssCY0V5Q_tyoQYAdejbi=mo",
@@ -8,18 +20,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-29 18:26:31",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGAxneGq-OvGiuhZrvfEw6rzLzynoP0X6CaKG85Y5heLkLDh2OaYbx0aUcXAv1_hyYzf_tcKMx1SYxKLw",
-        "userName": "Josef Gerhard Hoffmann",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjiNBxMYz0qAMSv59J4LCBnbJfWSdwHSIoCtql=mo",
-        "content": "Der gr\u00f6\u00dfte Mist \u00fcberhaupt! \"Tagebuch f\u00fcr die Gesundheit aller.\" So ein Unsinn! Hoffentlich kennen sie alle, denen sie begegnen. Diese App ist sinnlos und \u00fcberfl\u00fcssig! Ich habe sie wieder gel\u00f6scht. Gro\u00dfes Indianer-Ehrenwort. Ich hoffe, da\u00df diese Schwachsinns-App nicht mehr fortgef\u00fchrt wird und sich die bisherigen Nutzer\\*innen dann in dauernde Selbstisolation begeben. Das erh\u00f6ht den IQ-Durchschnitt im Freien, aber leider nur minimal.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.1.1",
-        "at": "2021-05-28 00:03:32",
         "replyContent": null,
         "repliedAt": null
     },
@@ -65,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCEJJ-P0wP7eMPtbAXgXxeIqCAcBytB9o7vCMOjQ",
         "content": "Die App ist bis auf die wichtige Export-Funtkion wirklich toll! Ein Mitarbeiter beim Gesundheitsamt sagte mir, dass er die Informationen, die man in der App angibt (gel\u00fcftet, Abstand, Maske etc.), gut h\u00e4tte gebrauchen k\u00f6nnen, um individuelle Quarant\u00e4ne Ma\u00dfnahmen anzuordnen. Ich f\u00e4nde es daher super, wenn das auch im Export angegeben werden w\u00fcrde. Man m\u00fcsste dann wahrscheinlich jede Begegnung einzeln abbilden (\u00e4hnlich wie es bei der Export-Funktion der Corona-Warn-App der Fall ist).",
         "score": 3,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "2.1.1",
         "at": "2021-04-17 01:40:42",
         "replyContent": null,
@@ -865,7 +865,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFPZ92QU-iKDl92zBfINn6wnYf8Y32AyB5MlQXQJooNvzhGL1EJTbZrRuj8cBcJBYj7jOChLq0q_fxkvQ",
-        "userName": "Carolin Kohrt",
+        "userName": "Caro Kohrt",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxpelknevVOOyUyKisAa3fLS18dLRG5gw0MZe_W=mo",
         "content": "Perfekte App! Kein unn\u00f6tiger Schnickschnack, sondern tut genau, was sie soll! Danke",
         "score": 5,
@@ -2245,7 +2245,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHAn8u3OdebpM-fniQJCaUIWRbqkVrqTFVJmiSGf0jndLElsmyGPE7OUjMfO_UwXpiSNuDe1dWMHg5sCA",
-        "userName": "Dein Vater",
+        "userName": "Deine Mutter",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZK05EyV7fVrG1xw_spkvVWgJSUpUkDETk1_FWlPs",
         "content": "Gute App, leicht zu handhaben",
         "score": 5,

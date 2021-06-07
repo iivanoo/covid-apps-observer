@@ -276,6 +276,8 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 1 reviews"/>
 </p>
 
+> No respect to patient' appointment and time<br> :date: __2021-06-01 02:50:30__
+
 > Doesn't connect. Horrible tech support<br> :date: __2020-06-24 23:08:49__
 
 > My doctor was Test Provider? Shouldn't be test data in an app, it's bad practice.<br> :date: __2020-04-22 22:41:45__
@@ -293,7 +295,5 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 > The app is a great idea, but they do charge you for talking to the doctor most of them dont even know alot and for that i can take the time and go to the clinic<br> :date: __2019-11-13 07:59:07__
 
 > Overpriced. Classist. Our doctor's office plugs them. I downloaded the app and immediately deleted it when I saw there's a $59 copay even with insurance! Ridiculous.<br> :date: __2019-11-09 00:23:06__
-
-> I would much rather go in office.<br> :date: __2019-10-06 17:26:45__
 
 

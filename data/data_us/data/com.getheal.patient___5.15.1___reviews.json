@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOF4Ag0WuQltc87c99eRckRd4kDAwDDXw88-HKFDMcgQHRijbOtDLFvwue3lo4AN9j3ETBOcha6UhfAIJA",
+        "userName": "mary mak",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyldQ9eEmSFfvWXlsGoNQro0ZR0tZaJ3Z2COzGi=mo",
+        "content": "I just had my 1st home visit from Heal. It was wonderful. The staff was very kind and professional. I will definitely be using this service again. \ud83d\ude00\ud83d\udc4d",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.15.1",
+        "at": "2021-06-01 01:35:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGxzhDSTSVCNxKyCWkLH0kp6PqwHvzmWdaafxvQol1VLw6r9HY2YJvmDnbLrt5Q9OKZPZuWv_wIftLuVw",
         "userName": "Josh Brinson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GijqaTS_lrJsi55cCkupyCUUX44mnn9ib_G0qM33A",
@@ -266,7 +278,7 @@
     {
         "reviewId": "gp:AOqpTOELaome9OJot-FFH0i_UOdNGXK_cvF1gOJJ-7AinoGJvV3qjUL2DDJfuP0xyDQ6U5XzTYmSmZMi8IIowg",
         "userName": "S. Horigan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjG8aChCE7s1JKQWrzMGuKKZTMDdebFpKVk7Xe7kJU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjXF0bR06BbVMNTU4fkjJWF0I6Ehvn9zeIBLRfxvyk",
         "content": "When trying to schedule, it takes forever trying to reach the screen and then displays a non-English-readable (i.e. system code) error.",
         "score": 1,
         "thumbsUpCount": 5,
@@ -914,7 +926,7 @@
     {
         "reviewId": "gp:AOqpTOGhjwsSOArw0_Qg0qXRn7c4SwVLWcZweppvqXb-eB7Yuc5_4zynGExh7Xg51zR85zJZ6WZe8Pf6ctTkIA",
         "userName": "Justine Miller",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjR3V2UBTVT9138ipxqDN_X9NMXOpnQcRFIichc3Q",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2Z_V1DxCY95YNRg0yIQ2fYyCL-P4GQTXJWzKQeg",
         "content": "My experience with the app was very smooth, the quality of my video call was excellent no skipping or technical issues. The physician was great and very attentive. He was not in a rush, and very thorough.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -1268,18 +1280,6 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "5.0.10",
         "at": "2019-11-25 19:59:34",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHdC_lPccg8CuIcL5sNo1WeXX5K4U4Qt-hXmKF3aH0Dc2ByvrNjKcDmYAV6Ky_1F7k4o0y2QCBKQsQO9w",
-        "userName": "Aleksandr Sigalov",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gge-qe6i8BZRpzxWKhwDXnKbxfeXlhZaBkh5vlMgzU",
-        "content": "Absolutely amazing services. This is the future of health care. All heal doctors are very caring and have fantastic bed side manners. It's almost unbelievable how great this company is compared to your typical insurance doc who don't care or have time for you. Thanks Heal. You really helped me to get proper healthcare finally.",
-        "score": 5,
-        "thumbsUpCount": 5,
-        "reviewCreatedVersion": "5.0.10",
-        "at": "2019-11-18 18:33:27",
         "replyContent": null,
         "repliedAt": null
     },
@@ -1681,8 +1681,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEEUbrhjPLaOHyHGM0OvYe683ReLmQk65mR6hrjc6SQ-n2hx-tmKIHK8a09CeUDfp0gIjyO8T3UQ32BIg",
-        "userName": "Diana Barraza",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinezjtVzzhcp2huaD4S_i_D7rGTnaNq7IfESNHWt0",
+        "userName": "diana barraza",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gif6H6MQm-nY4RleSHGsy5dFaVJiLUsOYyuD18U9q8",
         "content": "Great experience and my doctor was fantastic! I'll be recommending Heal to all my friends and family.",
         "score": 5,
         "thumbsUpCount": 1,

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOF2EjLjwTnpjCby6V0OYp2iMzcpW4OYai-ug7w6l6-Vxa-80Ab3i-tx-6Fkj0HGHCleG8b_8usK3txYCRE",
+        "userName": "Joshua Mogal",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWh91kblsZzGfHqTysQrIUflv5JPrNY7GZN8RM6g",
+        "content": "Easy to see past and upcoming appointments, schedule in visits and, best of all, the video visits are immediately available for urgent or late night concerns.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.27",
+        "at": "2021-06-05 17:28:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGILyKrDkad5YBShxLnk951seY6F5luTiBQWdmmjKKt4C62MOL5Qs4YSuffqqFYxmcdt_TKlMCifCxip-M",
         "userName": "Helen Cregger",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixWgwDBQ4V3Kk-Aot1UFZ8-Vuo8FcyjLuuvzKD4Q",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhF0LLodZiaxlugqwyAgIEyoPtbNi2cKKr1MaE5Pw",
         "content": "Medical scam. They charged me $540 for Zoom calling my doctor for 10 min to refill a birth control prescription that I had already been using for two years with no problem. Unbelievable.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.16.24",
         "at": "2021-05-26 17:44:59",
         "replyContent": null,
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPypoK8gJZPTGUgmxcLdeNQJXSnNjkOETWA9rjN4A",
         "content": "The app and the service are amazing. I tried one medical after being put on the wait list to find a GP! With one medical I could go the next day and it's really close to my house. Walk in lab work is amazing too.",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.16.24",
         "at": "2021-05-07 00:46:47",
         "replyContent": null,
@@ -3253,7 +3265,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHU6gIdzZFDtzv3YUvU9nkxnkxfA7q3m3x2EL9wYnyQ5hAUlBGEnRV0uFLfL77clM2I2NbD-Te5XfmmCXo",
-        "userName": "Pawe\u0142 Pszty\u0107",
+        "userName": "Pawe\u0142 Uchida-Pszty\u0107",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiUioYSZjPW5qAOCO7qWCGl_NmwTxH8HVWI44x49p4",
         "content": "Apparently I had a minor account. I don't even want to get into how that happened. App is finally working. You should work on an error messages because sometimes it can be very confusing.",
         "score": 4,

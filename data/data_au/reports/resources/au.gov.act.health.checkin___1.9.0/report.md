@@ -198,6 +198,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 3 reviews"/>
 </p>
 
+> Hey, you need to update this app so check in time is accurate. It is still checking in to locations at Daylight Saving Time which is not good if you are trying contact trace. Thought you might want to know that's all.<br> :date: __2021-06-05 12:23:35__
+
 > When i opened it this morning it suddenly uninstalled itself and now playstore wont reinstall it as it says it is installed. It is nit on the list of apps in settings. Greg<br> :date: __2021-05-27 11:38:53__
 
 > I constantly have to delete it and reload it as it tends to stop working<br> :date: __2021-05-12 05:26:59__
@@ -215,8 +217,6 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > Sometimes app won't open<br> :date: __2021-02-28 00:56:16__
 
 > The graphics are too dark under some lighting.<br> :date: __2021-02-08 01:44:49__
-
-> Takes ages to open the camera scanner function.<br> :date: __2020-12-09 09:13:41__
 
 
 

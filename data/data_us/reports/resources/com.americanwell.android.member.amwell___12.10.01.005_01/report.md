@@ -213,6 +213,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Such a convenient way to receive urgent care from the comfort of your home or while at work. Very easy to use. All that's needed is good lighting and a steady wifi connection.<br> :date: __2021-06-04 11:45:28__
+
+> Very quick and efficient<br> :date: __2021-05-30 17:17:52__
+
 > Fast and easy. No long wait at urgent care<br> :date: __2021-05-25 18:32:01__
 
 > The app was very straightforward and easy to use. The doctor was very professional and .out important, he provided excellent treatment options.<br> :date: __2021-05-22 14:38:15__
@@ -228,10 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Super quick and easy video visit with a Dr for a straight forward, common issue. So much cheaper and easier than an in office visit. It's after 9 pm, so I'll be able to pick up my prescription in the morning. The app struggled to confirm my insurance, probably because it's after hours, so I'll have to submit this to them, in case I over paid. Still it was pretty cheap, and the Dr was nice!<br> :date: __2021-05-10 06:07:02__
 
 > Amazing! I found the perfect therapist. We just click so well, making lots of progress in my mental health. :)<br> :date: __2021-05-05 16:46:45__
-
-> What a wonderful and easy access to help with mental health solutions<br> :date: __2021-05-05 15:55:28__
-
-> I saw Dr. Seema Gupta. She listened carefully to my symptoms, asked pertinent questions, explained the treatment and what to do if not feeling better within 2-3 days. I would definitely recommend her to my family & friends.<br> :date: __2021-05-03 17:49:05__
 
 
 
@@ -286,8 +286,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Disappointed off the bat. was sent an email from uhc to click and register to get an amazon gift card for registering. nada. its a good idea for doctors... help people out by making it cheaper and more accessible during the times of day when people actually get sick. so 3 stars.<br> :date: __2019-05-25 22:29:37__
 
 > 1 doctor online and 8 people in line.<br> :date: __2019-04-03 12:16:45__
-
-> Not impressed. The doctor was nice enough. felt very rushed. Diagnosed pink eye but had an issue with my prescription and no way to follow up on it. Probably wont use again.<br> :date: __2019-03-23 17:12:25__
 
 
 

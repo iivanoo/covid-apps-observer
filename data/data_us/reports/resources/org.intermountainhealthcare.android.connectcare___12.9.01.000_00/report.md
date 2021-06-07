@@ -189,6 +189,12 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Well done<br> :date: __2021-06-02 13:40:36__
+
+> Easy, quick and convenient<br> :date: __2021-05-31 17:04:56__
+
+> Great and easy to use<br> :date: __2021-05-31 16:44:40__
+
 > Very easy to use.<br> :date: __2021-05-23 17:24:48__
 
 > Provider was knowledgeable and kind. And she was very helpful and quick. She gave me all the follow up advice and answered my questions. She prescribed me a medication that should help me to get better soon. Thank you!<br> :date: __2021-05-02 06:08:11__
@@ -202,12 +208,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Did not have any problems with this app.<br> :date: __2021-04-04 22:37:15__
 
 > Very on top of things and easy to use!<br> :date: __2021-04-01 21:23:59__
-
-> Excellent communication with my provider using this app.<br> :date: __2021-03-22 00:39:41__
-
-> Awesome Experience! Will use in the future if a problem arises.<br> :date: __2021-03-18 22:33:42__
-
-> Intermountain Healthcare is awesome.<br> :date: __2021-03-11 22:46:59__
 
 
 
@@ -273,6 +273,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="2_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 2 reviews"/>
 </p>
 
+> Ok idea, but I remain uncomfortable with it<br> :date: __2021-06-03 08:55:06__
+
 > This app always freezes up. So hard to get to everything you need to see.<br> :date: __2021-03-21 03:13:16__
 
 > Not do happy with some things<br> :date: __2021-01-26 03:57:34__
@@ -290,8 +292,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Never connected with doctor. Totally a waste of an hour and half.<br> :date: __2020-05-25 05:37:12__
 
 > Not able to connect - no video<br> :date: __2020-05-18 18:38:55__
-
-> Freezes a lot.<br> :date: __2020-05-06 00:20:16__
 
 
 

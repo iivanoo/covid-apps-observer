@@ -182,25 +182,25 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> This is the best thing in Healthcare. Highly qualified Dr with great recommendations and even can send a prescription if needed.<br> :date: __2021-06-05 12:31:28__
+
+> It's so convenient because sometimes trying to get to be seen in person it's so hard or there's never soon appointmens and for this app to provide this service and for the drs to be available 24/7 is awesome! The drs are very quick to answer your questions and determine what is going on and give really good information thank you for this!<br> :date: __2021-06-04 23:26:48__
+
+> Was able to disclose my symptoms and a detailed diagnosis was given.<br> :date: __2021-06-04 18:08:40__
+
+> Always a great experience!<br> :date: __2021-06-03 03:54:33__
+
+> My first visit was awesome. User friendly, easy to use and understand. I can't tell you how much I appreciate how simple and self explanatory it was to use and helped ease my rising anxiety. It was awesome it could be done through text so I didn't wake sleeping roommates. 10/10 Will definitely use again.<br> :date: __2021-06-02 07:32:12__
+
+> App worked well.<br> :date: __2021-06-02 04:43:42__
+
+> Dr Jacob was very thorough and pleasant.<br> :date: __2021-05-31 21:04:12__
+
+> This is great<br> :date: __2021-05-31 04:25:56__
+
+> Great!<br> :date: __2021-05-31 01:58:45__
+
 > Great care, incredibly convenient<br> :date: __2021-05-29 20:00:05__
-
-> Wonderful app and doctors.<br> :date: __2021-05-28 18:54:48__
-
-> Very helpful and convenient app with knowedgable medical professionals to assist you<br> :date: __2021-05-25 17:46:51__
-
-> Love this app! So easy to use and so helpful to have qualified medical advise at your fingertips<br> :date: __2021-05-24 15:13:11__
-
-> Great first experience. I'll definitely be using this service again. Doctor was very caring and thorough. Thank you Dr. Snyder!<br> :date: __2021-05-23 20:40:00__
-
-> Doctor was very helpful<br> :date: __2021-05-23 02:50:03__
-
-> Very convenient!<br> :date: __2021-05-22 21:32:39__
-
-> This app is very intuitive to use. It's also incredibly fast to be able to speak with a doctor. My experience has been great!<br> :date: __2021-05-21 23:31:22__
-
-> This has been so helpful! The doctors I have worked with have been kind and ask follow-up questions to make sure they have the best understanding of what I'm feeling.<br> :date: __2021-05-21 11:03:32__
-
-> Fast, easy and reassuring.<br> :date: __2021-05-20 01:32:56__
 
 
 
@@ -294,6 +294,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> Didn't get a satisfactory resolution so I will go to a clinic tomorrow. Disappointed at the lack of concern for the tick bite. Lyme's disease is a serious concern and I was told to put a topical antibiotic on it and that's it.<br> :date: __2021-06-01 01:14:34__
+
 > Worthless. Don't waste your time. Toothache? You got covid. Fell down, scrapped your leg? You got covid. Smash your thumb? You guessed it. You got covid. Exactly what Max Kaplan said.<br> :date: __2021-05-28 17:21:11__
 
 > Doc ended session before I had a chance to respond<br> :date: __2021-05-27 05:00:23__
@@ -311,7 +313,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Doctors won't order regular check up or lab work if you ask for. They will tell you to go for an in person consultation. Also it's only for adults, if you have children, they won't help you.<br> :date: __2021-04-28 14:00:38__
 
 > Horrific experience. I filled out the application and once I got connected (after almost and hour) the doctor said he couldn't help without a single question asked. We won't use it again.<br> :date: __2021-04-27 03:49:21__
-
-> The doctor just copied and pasted stuff at me and didn't listen.<br> :date: __2021-04-22 18:50:24__
 
 

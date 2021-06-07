@@ -252,6 +252,8 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="1_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 1 reviews"/>
 </p>
 
+> Früher konnte ich die App super nutzen. Leider kann sie seit Anfang lfd. Quartals nicht mehr geöffnet werden. Kataloge können nicht geladen werden. Nutzung nicht mehr möglich. Schade<br> :date: __2021-05-30 19:26:38__
+
 > Die App schließt sich sofort wieder automatisch, ich habe keine Chance sie zu öffnen!<br> :date: __2021-04-15 15:59:37__
 
 > Scheinbar ist die App nicht für mein Tablet geeignet. Ich habe das Tablet auf eine größere Schrift eingestellt und finde in der App (dadurch?) noch nicht einmal eine Suchfunktion.<br> :date: __2021-03-09 06:49:16__
@@ -269,7 +271,5 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 > Schrott kann kein Notdienst suchen was soll ich damit 0Sterne<br> :date: __2020-04-04 08:55:38__
 
 > Dauerhafte Fehlermeldung: Netzwerk getrennt. Kann keine Kataloge oder Nachrichten laden.<br> :date: __2020-03-29 13:33:04__
-
-> Ständige Fehlermeldung : Netzwerk getrennt.<br> :date: __2020-02-07 09:57:28__
 
 

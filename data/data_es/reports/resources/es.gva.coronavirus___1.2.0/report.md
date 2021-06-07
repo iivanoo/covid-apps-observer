@@ -165,6 +165,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="es.gva.coronavirus 3 reviews"/>
 </p>
 
+> Me la he bajado para ver si me entero de la 2a dosis...!!!<br> :date: __2021-06-05 18:45:23__
+
 > Lo que no me gusta es que no está agregada a nivel nacional para el Covid 19 ni salud en general. Aun no la he usado así que no se si cumple con los minimos objetivos. Las estrellas es para pider poner la reseña.<br> :date: __2020-09-01 21:21:19__
 
 

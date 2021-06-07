@@ -255,6 +255,8 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 1 reviews"/>
 </p>
 
+> Discontinued your service to move over to Summit Health before you were ready with an Android app? Brilliant work. Way to exclude every android owner seeking Healthcare with you.<br> :date: __2021-06-04 02:12:05__
+
 > Who the hell do you think you are telling me that I need wifi to use video conferencing? This is pathetic BS. You have no idea how fast my wifi is and how fast my mobile data is. My mobile data is 5G and performs VERY well. I do NOT need wifi to use video. Don't you ever force users to do BS like this. Now I have to walk around and find some inferior wifi spot that will be slower than my 5G, and the main medical issue here is that after COVID, I cannot walk around too much. PATHETIC!!!!!!<br> :date: __2021-03-28 20:41:01__
 
 > Wasted time filling everything out and the doctor cancelled the visit...<br> :date: __2021-03-13 10:17:15__
@@ -272,7 +274,5 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Took Covid19 test<br> :date: __2020-07-06 23:04:39__
 
 > As of July 02, 2020 at 5:30pm, there is a problem with the app. If you create an account thru the web using your computer, or by responding to the "patient portal" e-mail first, the app will not recognize your username or password chosen thru the web. Until they get this glitch worked out, I'd stay away from the app. Using the web based versus app based patient portal seems way more functional. If you must use your phone or tablet to access the patient portal via this app, you may currently need to delete the account set up through the web and re-sign-up via the app. I'm no IT guy, but this shouldn't be so hard. :-(<br> :date: __2020-07-02 23:56:39__
-
-> Log in fail! I keep entering my username and password and it tells me it's wrong. I know it's not because I can log in through the web patient portal.<br> :date: __2020-07-02 16:01:20__
 
 

@@ -253,6 +253,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> die App funktioniert seit einiger zeit nicht mehr . Löschen kann ich mich auch nicht keine Verbindung zum Server<br> :date: __2021-06-05 14:42:23__
+
+> 1. Schade um die Steuergelder für diese Entwicklung 2. Nur mit Wearable nutzbar, also 2 Klassengesellschaft auch hier. 3. Keinerlei Reaktion des RKI auf Kommentare hier. 4. App wieder deinstalliert.<br> :date: __2021-06-01 08:47:48__
+
 > Leider kann ich meine Mi fit nicht damit verbinden.<br> :date: __2021-05-19 19:28:43__
 
 > Ich kann noch keine Bewertung abgeben, da ich Samsung Health nicht damit verbinden kann. Es wird mir immer gemeldet, dass ich keine Berechtigungen zwischen den beiden Apps freigeben kann. Bitte löst das Problem! Android 11<br> :date: __2021-05-14 10:25:07__
@@ -268,9 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Funktioniert nicht mit MiBand, obwohl das ziemlich häufig sein dürfte. Ist halt nur "der" Einstiegstracker in dem Bereich..<br> :date: __2021-04-21 10:39:18__
 
 > Schwach - ganz schwach Wenn es möglich wäre würde ich sogar den einen Stern streichen. Wozu schreibt man hier was? Nach einem Jahr - Glückwunsch an mich für 365 Tage (unnütze?) Datenspende - ist meine Uhr Huawei Watch GT2 immer noch nicht dabei. Nur andere komische Dinger. Mann, Mann, Mann Leider nicht möglich Huawei Watch GT2.... Rest gelöscht<br> :date: __2021-04-14 09:54:04__
-
-> Leider kann ich das nicht mehr unterstützen und muss die App entfernen, da die Daten des RKI meiner Meinung nach nur noch geschätzt werden und keine Realität darstellen.<br> :date: __2021-04-05 16:15:31__
-
-> Geht so. Mi Fit wird nicht unterstützt. So auch nicht Notify for Mi oder Sleep as Android.<br> :date: __2021-04-02 07:09:33__
 
 

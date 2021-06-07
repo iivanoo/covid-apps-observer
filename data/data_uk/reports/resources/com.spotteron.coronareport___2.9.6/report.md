@@ -194,6 +194,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.spotteron.coronareport 1 reviews"/>
 </p>
 
+> West<br> :date: __2021-06-01 10:58:06__
+
 > Not good<br> :date: __2021-05-12 19:43:36__
 
 > Useless<br> :date: __2021-05-03 13:53:43__

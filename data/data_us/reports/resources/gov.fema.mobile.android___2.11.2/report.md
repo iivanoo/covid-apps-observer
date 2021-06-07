@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-06-06 11:47:17__
+
+> Is accurate<br> :date: __2021-06-04 22:03:27__
+
 > I feel secure knowing the alert system works!<br> :date: __2021-05-24 21:50:00__
 
 > Through the good job in USA<br> :date: __2021-05-23 18:41:57__
@@ -178,10 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Thank God for Fema<br> :date: __2021-04-18 18:16:07__
 
 > We need every supply we order from the app for the job.<br> :date: __2021-04-09 06:54:04__
-
-> Gives me all the alerts I need.<br> :date: __2021-04-01 06:13:00__
-
-> Just wonderful<br> :date: __2021-03-28 14:51:53__
 
 
 

@@ -187,6 +187,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
+> Well there you go another tracking app to watch where you go, I'll get this app when I get tge vac.... NEVER!!!!!!!!!!!!!!<br> :date: __2021-06-05 03:25:45__
+
 > It's ok, but if people don't report anything, the rest of us don't know. Besides, South Carolina, as of today, is almost fully open and the mask mandate is pretty much history, except places like medical and schools.<br> :date: __2021-05-23 21:57:27__
 
 > Haven't used it very much.<br> :date: __2021-04-24 16:29:23__
@@ -204,8 +206,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > It isn't being used by everyone. So I was exposed by a nurse who was positive. I am immunosuppressed. I am a physician. I am around most of the time<br> :date: __2021-01-26 05:50:29__
 
 > I have a situation much like the previous commenter. My last check was January 12 and I have a google phone, I tried looking into the android setting to avoid snoozing but no luck. It would also be nice to have an in app feedback troubleshooting resource. Overall it's a good idea and keeps personal data safe<br> :date: __2021-01-23 18:46:57__
-
-> None<br> :date: __2021-01-19 22:29:47__
 
 
 
@@ -243,6 +243,14 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> No use!.I had covid and couldn't even get a PIN when I talked to the trackers! Total waste of time and space.<br> :date: __2021-06-04 13:53:15__
+
+> When I found myself getting less than 99 Push Notifications an hour to my cellphone, this app came in and saved the day by getting those useless push notifications up enough to display (99+) notifications. Since my sense of self worth is directly tied to the number of notifications I receive per hour, it immediately became an invaluable tool for increasing tMood, we ent ckkhat number by 1. It may actually have had another function, but whatever that function was- IT matters less than a of a hor<br> :date: __2021-06-04 06:38:17__
+
+> Seems pretty useless...<br> :date: __2021-05-31 09:41:00__
+
+> We already past a year of when the virus posed a threat.<br> :date: __2021-05-30 22:49:25__
+
 > In a place where people think freedom and masks are related, do we expect people to use this and honestly report? Now with the mask mandate lifted for those who vaccinate, those who do not now have an excuse. In concept this app is fantastic, but I doubt any actual results.<br> :date: __2021-05-28 00:54:50__
 
 > Why would anyone submit their private medical information to these corrupt government bureaucrats makes no sense. This app allows all your information to be collected and stored. Also, it's pathetic that you lemmings think downloading this dysfunctional app will protect you from being exposed. All of you that were exposed in the comments are probably 100% recovered by now<br> :date: __2021-05-17 16:46:18__
@@ -254,13 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Horrible and doesn't work at all. I am guessing the app developer is Slow, like the apps name. Google should remove this from the store. It does not look to be supported or updated any longer. Worst app I have ever downloaded!<br> :date: __2021-04-09 15:32:54__
 
 > Statistics no longer working, back to political misrepresentation and hiding of details.<br> :date: __2021-04-03 15:00:45__
-
-> The app is not working, it has not checked for exposure since January 9th. I keep seeing where they are telling people to go to Device Care > Battery ..... That does not exist on my phone, they must be giving instructions for an iPhone. \*\*\*\*\*\*\*\** Update still is showing January 9th as my last exposure check. This app has not worked since then. I guess that I may as well uninstall.<br> :date: __2021-03-25 21:14:28__
-
-> Stupid thing doesn't work. Someone has covid and two stores have been closed due to having covid 19. This app never alerted me I found out via facebook.<br> :date: __2021-03-18 22:21:55__
-
-> Worthless. I have been in bed sick, sick with Covid for a week. Still tells me no exposures detected. Getting ready to remove it.<br> :date: __2021-03-11 17:28:50__
-
-> I was positive with COVID. I was never able to enter results in this app. I was never contacted for contact tracing. I am an essential worker. This app is a tracking mechanism only and is NOT uses for COVID.<br> :date: __2021-03-10 12:30:11__
 
 

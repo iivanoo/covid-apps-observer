@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> It's nice to be able to help research without having to lift a finger!<br> :date: __2021-06-06 07:31:11__
+
+> This is an excellent app. It works while the phone is charging. It is good to know that this app is helping to save lives.<br> :date: __2021-06-05 10:35:18__
+
+> Easy & worthwhile!<br> :date: __2021-06-04 21:01:20__
+
+> Please try to include these features for people who have devices that are in no use (at least for now). - Include an option to run it without thermal throttling. - Include an option to run it without charging. - Include an option where we can use 100% of CPU or GPU if it uses it (if this is really possible and/or if it only uses small amount of CPU/GPU). I have an old device that can have a use with this app.<br> :date: __2021-06-04 11:58:41__
+
+> Excellent app, makes you feel like you are doing your bit to help, but with no hassle, simply put your device on charge the app does the rest, good to go to bed knowing in some way I am helping with research, on a device which would otherwise be dormant.<br> :date: __2021-06-03 07:53:50__
+
+> Also. I run the app on an old phone that i charge continuously. It has used less than 25 cents of electricity over many months and has done 300,000 calculations using wifi without mobile data. Great concept to do useful calculations at negible cost or effort on tbe part of the phone owner.<br> :date: __2021-06-01 11:24:35__
+
+> Use this app to help science while you sleep. This app is good, clean, easy to use and doesn't interrupt my phone usage but let's me do a little bit to help someone while I sleep. It has that "feel good about yourself" factor.<br> :date: __2021-06-01 08:23:15__
+
 > If it helps, why not<br> :date: __2021-05-27 09:29:19__
 
 > Thanks for paying it forward !!!<br> :date: __2021-05-26 06:25:37__
 
 > Cool idea, so easy to use<br> :date: __2021-05-24 05:43:37__
-
-> Charge away !!!<br> :date: __2021-05-23 07:45:10__
-
-> Nice to see our contribution. Supporting research.<br> :date: __2021-05-22 23:49:58__
-
-> No problems.<br> :date: __2021-05-21 04:13:16__
-
-> More people should download this. It's for a good cause.<br> :date: __2021-05-19 20:31:07__
-
-> What's not to like. Leave it calculating when charging and you are helping the world.<br> :date: __2021-05-19 07:51:57__
-
-> Wonderful way to do good while you sleep!<br> :date: __2021-05-18 06:20:44__
-
-> It just works. What else is there to say!😀<br> :date: __2021-05-17 18:39:54__
 
 
 
@@ -182,6 +182,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> It's good to put idle resources to use. Id like the stats updated more frequently<br> :date: __2021-06-06 00:07:35__
+
+> It's not too clear whether it's actually running in the background or not.<br> :date: __2021-06-04 16:03:53__
 
 > This is working on a Chromebook. There should be some kind of setting to reduce performance when the device gets too hot.<br> :date: __2021-05-24 04:28:34__
 
@@ -198,10 +202,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Fantastic idea and use of spare computing capacity, for great causes. Much needed! Minus 1 star, because the app keeps changing from Corona Phase 3 to Demystify. It should continue with my chosen project every time I plug in!<br> :date: __2021-04-15 03:45:17__
 
 > I have used this for a while now. Curently supporting Imperial College it runs for over a hour but complets 0 calculations.<br> :date: __2021-04-08 17:14:29__
-
-> I sometimes forget it's there, since it runs in the background. Is simple, and great premise. Help cure diseases by simply plugging in your phone. The one nitpick I have with it, is if I optimize my phone with the Device Care, I will have to open the app manually next time to get it to work. After that one time, I do t have to touch it again until the next optimization.<br> :date: __2021-03-26 19:24:48__
-
-> Dreamlab works fine on Galaxy tab no overheating no problem no worries can leave on all day better still if worked without having to be on charge all the time thank you can you please fix this please Vodafone now working on Galaxy A50 fine 🙂 🥰😆<br> :date: __2021-03-25 23:23:18__
 
 
 
@@ -239,6 +239,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
+> The app increase the heat on the device!!<br> :date: __2021-06-04 00:29:33__
+
 > Won't stay working on Android 11<br> :date: __2021-05-25 13:42:18__
 
 > Reset my phone and 29k solved gone. This app needs an account you can log into so you can store your progress at least.<br> :date: __2021-05-20 05:47:23__
@@ -256,8 +258,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > App doesn't start up when plugged in, even on manual start, just keeps saying data will restart the following month, even though setting is for wifi.<br> :date: __2021-03-03 02:00:52__
 
 > What's the reason for rarely updating users on progress % of research project? It's really irritating to dedicate hours of your devices power for weeks and still not see the percentage budge.<br> :date: __2021-02-28 08:51:42__
-
-> Needs more settings. 1. Pause if screen is on. 2. Max processor %. 3. Min % battery to begin processing. For some reason the jobs become stuck with no processing occuring while clock continues - maybe a download issue, it doesn't retry though. Needs a % & time counter per job counter so we can see if it's stuck or just a long job. Phone also slows when it's processing, the % processor option may help with this. Update: now it says Ive reached my monthly data limit which I can't increase over 1gb<br> :date: __2021-02-27 00:17:45__
 
 
 

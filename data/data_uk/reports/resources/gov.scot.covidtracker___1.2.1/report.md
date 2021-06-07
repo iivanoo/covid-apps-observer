@@ -195,6 +195,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
 </p>
 
+> App appeared fine until a few days ago - now appears to be perpetually hung on 'checking exposure keys'<br> :date: __2021-06-01 22:19:34__
+
 > App appears Okay on the Samsung TvPhone<br> :date: __2021-05-23 06:18:35__
 
 > Not sure if this app actually does anything. Only seems to do a check when I open it. App can go days with no checking for contacts according to the fingerprint checking Google summary page.<br> :date: __2021-04-24 18:55:23__
@@ -213,8 +215,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > It says it is unable to check for exposures as Bluetooth is turned off, but it's on.<br> :date: __2021-03-16 03:27:16__
 
-> Seems ok<br> :date: __2021-03-09 20:15:55__
-
 
 
 #### 2-star reviews
@@ -222,6 +222,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
+
+> Keeps telling me a new version is available - go to app store, no update option, just uninstall or open<br> :date: __2021-06-06 13:29:11__
 
 > Absolute rubbish no information whatsoever NHS app for England far superior<br> :date: __2021-05-16 13:59:20__
 
@@ -241,8 +243,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > There is no way of knowing if it iseven working. Updates saying everything is fine you haven't been in contact with a positive person would be nice.<br> :date: __2021-02-12 13:30:55__
 
-> Never had an alert no idea if that's working and there's no way to take two phones and do a diagnostic safe proximity test between them for reassurance. I simply don't trust this or the NHSEngland equivalent and I use both.<br> :date: __2021-02-12 04:20:30__
-
 
 
 #### 1-star reviews
@@ -250,6 +250,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> It didn't even notify me when I was in close contact with someone who had tested positive<br> :date: __2021-06-03 18:58:04__
 
 > This app was supposed to be a tool to get us out of lockdown faster. Turns out it was just a publicity stunt by the Scottish Government. No point in having it draining my battery and slowing down my phone when we're not allowed go anywhere.<br> :date: __2021-05-29 09:26:48__
 
@@ -268,7 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Truly ridiculous that there is a different app for Scotland. I need to have the England one as well and deactivate the other one every time I cross the border. Proof that devolution is a total waste of time and money.<br> :date: __2021-04-20 11:47:01__
 
 > Useless app as it is no good if you are travelling to other parts of the UK and you need to scan a QR code on the NHS app.<br> :date: __2021-04-18 23:45:17__
-
-> The app didn't work well with my phone as it drained the battery alot quicker than usual. Come late in the afternoon my phone would be dead so no option but to uninstall. Update:- Its been a few months since this app was released and everyone I've talked to has ether uninstalled the app already or never installed it in the first place. Waste of space and battery.<br> :date: __2021-04-11 05:07:15__
 
 
