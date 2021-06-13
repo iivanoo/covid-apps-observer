@@ -188,6 +188,10 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 5 reviews"/>
 </p>
 
+> Very convenient<br> :date: __2021-06-08 00:10:35__
+
+> I think the doctor was really good she walked me threw what i had to do the app did not glitch at all an she really put my mind to ease and made me not worry as much<br> :date: __2021-06-07 21:59:06__
+
 > Awesome Quick. Very accurate. Love it.<br> :date: __2021-05-25 00:34:25__
 
 > Excellent!<br> :date: __2021-05-19 23:04:10__
@@ -203,10 +207,6 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 > Y'all did a wonderful job with my kids<br> :date: __2021-05-04 21:03:30__
 
 > Great app. Quick and convenient!<br> :date: __2021-05-04 02:14:17__
-
-> Very easy to use and mind easy convinience .<br> :date: __2021-04-30 03:36:28__
-
-> This is the first time I used the app. It's having a doctor visit in the comfort of the home. I'll definitely be using this way more often from now on.<br> :date: __2021-04-20 19:11:54__
 
 
 

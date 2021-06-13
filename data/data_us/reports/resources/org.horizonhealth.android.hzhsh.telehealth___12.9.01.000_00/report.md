@@ -263,11 +263,13 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 1 reviews"/>
 </p>
 
+> App sucks<br> :date: __2021-06-10 18:37:42__
+
+> Connection is terrible and every time I have to update it gives me problems with my phone<br> :date: __2021-06-09 19:56:49__
+
 > 12/2/2020 Really doesn't deserve even One Star!! WORSE TeleHealth App EVER!! Drops video often then will say trying to reconnect only to log-out completely. Today App sent me an email saying appt was cancelled after I signed in; now I know Kayla would make sure I waa called if appt gad to be cancelled. Then today App ended session for both of us. WORSE Video App in Virtual Formats. If we can do Groups on Zoom we can do 1:1 with Zoom or just get a REAL TeleHealth App!! 😡😡😡😡<br> :date: __2020-12-02 19:55:12__
 
 > App continuously crashes before opening to join appointment.<br> :date: __2020-08-28 18:33:55__
-
-> I can never see the person Im supposed.to be talking to.<br> :date: __2020-06-24 17:36:49__
 
 > This app doesnt work with 4g data... Only Wifi and i have an appt in 2 mins and it says i cant get to my appt unless i update the app<br> :date: __2020-04-30 17:41:51__
 

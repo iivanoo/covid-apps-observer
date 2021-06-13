@@ -243,8 +243,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covid19 2 reviews"/>
 </p>
 
-> Thanks to covid, father, the Vic Police Ringwood and the Au government I'm now nothing, thanks a lot. My death is all on your heads and I can't do this any more. Keep kicking me while I'm down when I'm unwell and did nothing wrong. I'm now shattered, disgusted and broken. Nothing left :(<br> :date: __2021-05-22 01:20:17__
-
 > 3rd app installed, I hope this check in works<br> :date: __2021-02-06 04:14:58__
 
 > This app works however the information shown in it is no longer being updated daily nor is the information on numbers as detailed as it once was. I write this review on 3rd Jan, the CoVid numbers shown on the app were last updated 21st Dec. Pretty worthless if you can't rely on it to show up to date information.<br> :date: __2021-01-03 04:57:49__
@@ -263,6 +261,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Confusing<br> :date: __2020-05-04 09:43:14__
 
+> Will not download on my phone<br> :date: __2020-05-01 08:18:24__
+
 
 
 #### 1-star reviews
@@ -270,6 +270,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
+
+> Since I've been destroyed for no reason by senile father, my brothers, covid and Vic Police. You've made another innocent person suicidal, thanks Melbourne. Don't care no more🖕<br> :date: __2021-06-10 00:52:38__
 
 > Why is out of date 2020 aged care news top news article? This federal government has failed Australia. What a joke.<br> :date: __2021-05-30 06:46:46__
 
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Stupid, useless app. Uninstalled cos Greg Hunt sux!<br> :date: __2021-01-04 19:07:54__
 
 > Best government statement ever, "if every Australian downloads this app we will open the pubs and clubs". What a waste of money<br> :date: __2020-12-24 12:04:31__
-
-> Gay<br> :date: __2020-12-21 00:32:03__
 
 

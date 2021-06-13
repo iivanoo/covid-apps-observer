@@ -149,25 +149,25 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 5 reviews"/>
 </p>
 
+> Come scaricare il green pass da immuni<br> :date: __2021-06-11 09:31:11__
+
+> Bella<br> :date: __2021-06-11 05:57:30__
+
+> Ottima<br> :date: __2021-06-10 23:27:33__
+
+> Fa il suo dovere..<br> :date: __2021-06-09 23:46:33__
+
+> Molto utile! Peccato che non sia stata molto usata, ma è molto ben fatta. Confido di trovarci il certificato verde digitale europeo prossimamente...<br> :date: __2021-06-09 16:24:03__
+
+> Io la ho istallata è mi sono avvicinato a uno col covid. Ora perchè sto per morire di covid?<br> :date: __2021-06-08 15:49:05__
+
+> Ok.<br> :date: __2021-06-07 23:40:03__
+
+> Contatti con 2 positivi sicuri e nessun avviso.vi pagano anche ? 😁😁😁😁😁😁😁😁<br> :date: __2021-06-07 15:37:26__
+
+> App che non si sente nel telefono e che avrebbe avuto una utilità straordinaria per conoscere lo sviluppo dell'epidemia. L'intelligenza dell'uomo che fa quadrato contro un virus globale. Purtroppo, a causa di inconsistenti minacce alla privacy, forse a precise scelte politiche sovranazionali e quasi certamente per l'assenza della citata intelligenza colllettiva (aggiunto dopo aver letto le recensioni) , è stato preferito combattere l'epidemia con l'incognita dei vaccini, peccato davvero.<br> :date: __2021-06-06 14:22:27__
+
 > tanta roba un gran bel gioco open world, boss un po' difficili, ma molto divertente. Lo consiglio vivamente<br> :date: __2021-06-06 11:55:38__
-
-> Sono passivo al contatto per averegia fatto due dose di vaccino c.a.etc.<br> :date: __2021-06-05 16:07:06__
-
-> E un paytowin ma si può giocare anche free se i boss fossero di più sarei più giocondo<br> :date: __2021-06-04 15:05:21__
-
-> Buongiorno io ho fatto entramb le dosi di vaccino deve arrivare la green pass si l'App Immuni?<br> :date: __2021-06-04 12:18:06__
-
-> Ho scaricato l'app ma posso ancora prendere il covid, com'è possibile dato che l'app si chiama immuni?<br> :date: __2021-06-02 21:12:12__
-
-> Spiega molte cose contro il covid-19<br> :date: __2021-06-02 18:24:53__
-
-> Belissimo gioco dopo averci giocato un oretta uccidendo dei vecchietti, sono uscito di casa e alcune persone credenti nella resurezzione di hittler mi hanno cominciato ad insegiure e mi hanno dato 2 eulo schis...<br> :date: __2021-06-01 08:20:40__
-
-> Ottima<br> :date: __2021-05-31 13:05:36__
-
-> Ok,la utilizzo da sempre ma dire che funziona è troppo,o la si rende obbligatoria,o si sospende.<br> :date: __2021-05-31 11:05:42__
-
-> Funzionante<br> :date: __2021-05-31 02:31:14__
 
 
 
@@ -176,6 +176,16 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 4 reviews"/>
 </p>
+
+> Io ho già fatto i due vaccini OK<br> :date: __2021-06-10 20:14:19__
+
+> Dov'è il green. Sono stanco di girare con un figlio di a4 che dice che ho fatto le due dosi. Ci diamo una mossa col Green pass europeo?<br> :date: __2021-06-10 17:06:51__
+
+> La ritengoutile al cospetto delle criticità riscontrate...speriamo migliori se nn dovesse più servire fatela cancellare<br> :date: __2021-06-10 13:10:02__
+
+> Devo dire che lap mi ha "salvato" ero uscita e mi ha avvisato che ciera una famiglia positiva è io ero adue passi da loro<br> :date: __2021-06-10 10:56:20__
+
+> Affidabile.<br> :date: __2021-06-09 13:18:29__
 
 > Ma le leggete le recensioni o non ve ne importa una sega? 4 stelle per l'impegno e i nuovi contenuti 🤫<br> :date: __2021-06-05 00:22:57__
 
@@ -187,16 +197,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Inutile purtroppo però bella idea<br> :date: __2021-05-29 14:36:29__
 
-> Certi dicono che non segna la positività, ma è ovvio! Se quella persona non ha quell app è palese che non segna<br> :date: __2021-05-28 18:18:11__
-
-> Nobile scopo. Non sempre quando disconnetti il Bluetooth mi chiede se voglio riattivarla e non capisco il perché.<br> :date: __2021-05-26 21:28:46__
-
-> La trovo utile<br> :date: __2021-05-24 08:33:39__
-
-> L'app in sé non è malvagia ma le direttive d'uso date dal governo la hanno resa sostanzialmente inutile. La disinstallo, ma la valutazione resta positiva<br> :date: __2021-05-22 17:31:57__
-
-> L'ho sempre tenuta attiva e quindi penso sia stata efficace, anche se non ho mai ricevuto avvisi di alcun tipo. Chiedo agli sviluppatori: perché non si può integrare l'avvenuta vaccinazione? Sarebbe un bel risparmio di tempo e di soldi.<br> :date: __2021-05-20 07:33:44__
-
 
 
 #### 3-star reviews
@@ -204,6 +204,14 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 3 reviews"/>
 </p>
+
+> Inutile per numero di persone che l'hanno scaricata<br> :date: __2021-06-10 21:48:17__
+
+> Al momento tutto bene a quando si avrà il green pass<br> :date: __2021-06-10 18:55:25__
+
+> Hanno finalmente aggiunto la possibilità di segnalare la possibilità in autonomia, per chi chiede il motivo dell' abilitazione del GPS serve ad identificare i dispositivi vicini usando sempre il Bluetooth.<br> :date: __2021-06-10 16:51:03__
+
+> Decisamente noioso, introducendo la variabile vaccini vediamo se diventa più giocabile. Attendo l'upgrade per riservarmi di dare una stella in più.<br> :date: __2021-06-10 06:30:44__
 
 > Perche' non compare l'attestato di vaccinazione?<br> :date: __2021-06-04 19:38:17__
 
@@ -217,14 +225,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Non funziona non si notifica<br> :date: __2021-05-25 16:46:46__
 
-> Si potrebbero inserire i dati sulle proprie vaccinazioni von un promemoria per eventuali richiami<br> :date: __2021-05-20 07:49:31__
-
-> L'ho scaricata da subito. Non capisco se serve a qualcosa o meno, ma fiducioso la tengo sul telefono, in attesa di un riscontro.. che forse è meglio non ricevere mai<br> :date: __2021-05-18 09:40:31__
-
-> Sono uno sviluppatore, conosco come funzionano le app e questa è imprecisa, esistono un sacco di SDK che potevate usare per migliorarla, da un lato è troppo deotimizzata e dal altro è troppo complesso per alcuni utenti segnalare la positività e questo è inaccettabile. Se usata così app inutile Però grafica ottima ⭐⭐⭐<br> :date: __2021-05-18 08:42:12__
-
-> Mi sono Vaccinato con prima e seconda dose<br> :date: __2021-05-15 16:46:04__
-
 
 
 #### 2-star reviews
@@ -232,6 +232,16 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 2 reviews"/>
 </p>
+
+> Come posso avere il Green Pass.<br> :date: __2021-06-11 10:19:20__
+
+> Be, questa applicazione serve a poco, quando sarà operativa per scaricare certificato di vaccinazione allora sarà stata utile, parlano parlano, e l applicazione ancora non c'è. In Romania, che non è certo un paese ricco, consegnano il certificato covid, in 2 lingue, in inglese e in romeno. Qui in Italia, niente nemmeno cartaceo, ma!!!!<br> :date: __2021-06-09 10:23:18__
+
+> Questa app potrebbe servire anche come green pass. Basterebbe ampliare le funzioni.<br> :date: __2021-06-08 20:24:26__
+
+> App buona ma purtroppo poco scaricata forse se obbligatoria in alcuni casi avrebbe aiutato la ricerca dei casi<br> :date: __2021-06-07 14:32:13__
+
+> Inutile<br> :date: __2021-06-06 18:43:30__
 
 > Grande occasione mancata! All'inizio con grande ottimismo, al contrario di tanti che si dicevano preoccupati per la privacy (anche quelli che sono capaci di pubblicare sui social le più stupide notizie personali) credevo nella sua efficacia e, quando possibile, raccomandavo l'uso ad amici e conoscenti. Via via, grazie alle sempre più numerose notizie ed inchieste giornalistiche che ne hanno dimostrato la sua inutilità, ho dovuto ricredermi: qualcuno risponderà mai delle risorse sperperarate?<br> :date: __2021-06-04 13:15:06__
 
@@ -243,16 +253,6 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 
 > Devo essere disonesto con voi quest app non mi è piaciuta molto, volevo giocare ad un gioco sul calcio appena entro però non c'è nulla che mi fa entrare in una partita. Voglio giocare forza ragasi siuummm<br> :date: __2021-05-28 12:03:23__
 
-> Utilizzata da pochi, non serve a nulla<br> :date: __2021-05-24 06:46:00__
-
-> Più che l'app vorrei recensire il servizio. Siamo d'accordo che per diversi mesi i numeri non hanno consentito il tracciamento, ahimè. Ma ora siamo sotto i 5.000 nuovi casi al giorno a livello nazionale, e sotto i 50 casi per 100.000 abitanti a settimana in diverse regioni... Vogliamo ricominciare a fare questo benedetto tracciamento, o no? Grazie!<br> :date: __2021-05-18 17:59:01__
-
-> secondo me non funziona quindi la tolgo<br> :date: __2021-05-15 14:42:18__
-
-> Ho avuto il covid 19 o coronavirus ma questa app. Non mi ha avvisato. Perche?<br> :date: __2021-05-08 15:16:29__
-
-> Sarà perché poco diffusa ma la trovo inutile. Sono stato in ambienti con persone positive senza alcuna segnalazione.<br> :date: __2021-05-02 21:07:05__
-
 
 
 #### 1-star reviews
@@ -261,24 +261,24 @@ The Immuni app has been installed by more than **5000000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="it.ministerodellasalute.immuni 1 reviews"/>
 </p>
 
-> Gameplay poco scorrevole.<br> :date: __2021-06-06 10:45:52__
+> Non so a cosa serva non ha mai se segnalato nulla. Installato subito fino ad ora è inesistente.Non so nemmeno se si aggiorna sui vaccinati. Io ho fatto tutte le due dosi.<br> :date: __2021-06-11 10:00:40__
 
-> Qualche mese fa un mio amico è risultato positivo e non mi hanno mai avvertito nonostante avessi l'app installata<br> :date: __2021-06-06 10:23:21__
+> Pessima praticamente inutile , ditemi dove si scarica il green pass 🤣<br> :date: __2021-06-11 06:47:34__
 
-> Scusate, una domanda, ma che serve questa applicazione ? 🤣<br> :date: __2021-06-06 09:44:18__
+> Difficile da capire ,come funziona ?<br> :date: __2021-06-11 06:38:54__
 
-> Mai una segnalazione! Ce l'ho dal primo giorno e mi muovo parecchio e ovunque. Ma, evidentemente, non la usa nessuno. Utile come gli occhiali da sole di notte!<br> :date: __2021-06-05 23:49:04__
+> INUTILE..scaricata fin da subito con ottimismo..privacy a parte della quale non mi interessa (1. tanto già ci tracciano in tutto, almeno questa volta sarebbe stato per uno scopo utile davvero e 2. per come la penso io la segnalazione di positività dovrebbe essere obbligatoria non su base volontaria), non ha mai funzionato..persino in piena zona rossa (lavoro con il pubblico) da attiva tutto il giorno non mi ha M A I segnalato un caso..possibile con tutta la gente che incontro quotidianamente?<br> :date: __2021-06-11 03:43:03__
 
-> Non voglio essere crudele con il ministro Speranza, è un bravo ministro, peró quest'app alla fine non mi ha segnalato niente, neanche se per caso ero a contatto con qualcuno positivo. Preciso che non ho avuto il Covid, tuttavia nel caso qualcuno lo aveva L'app non mi ha proprio usato. Non sono arrabbiato con lo Stato, ma sono molto deluso e sono rinato pure male ad essere deluso da un applicazione il quale avevo molta fiducia🥺😢....<br> :date: __2021-06-05 23:12:01__
+> Si arresta quando clicco x andare in altri paesi europei! !!!<br> :date: __2021-06-10 21:32:19__
 
-> Assolutamente inutile non installatela potrebbe contenere virus<br> :date: __2021-06-05 19:38:35__
+> App scaricata per senso del dovere ma non mi ha mai dato la sensazione che sia stata utile per tracciare i contatti con i contagiati dal coronavirus. Non mi ha mai segnalato alcun contatto, nemmeno quando sapevo di essere stato in prossimità di persona contagiata. Ho la sensazione che non funzioni o che non riesca a configurarsi in modo corretto sul mio smartphone.<br> :date: __2021-06-10 18:21:50__
 
-> INUTILE A GENOVA<br> :date: __2021-06-05 19:27:09__
+> Non funziona, abito a Roma, e la giro in largo e lungo... Possibile mai nessuna prossimità con un caso? Ma va la..<br> :date: __2021-06-10 17:51:45__
 
-> Dopo un anno di utilizzo posso dire che sia completamente inutile<br> :date: __2021-06-05 19:11:32__
+> Mi sembra un servizio inutile... Inoltre non ce nessuna indicazione sul gree pass<br> :date: __2021-06-10 17:13:01__
 
-> Inutile<br> :date: __2021-06-05 12:53:27__
+> Inutile<br> :date: __2021-06-10 16:53:44__
 
-> Inutile.<br> :date: __2021-06-05 10:34:12__
+> Sono stato circondato da positivi al virus .. pre e post ricoverati.. mai un avviso o altro..... un flop pazzesco.... domanda con una onesta risposta ... è mai entrata in funzione?<br> :date: __2021-06-10 16:36:57__
 
 

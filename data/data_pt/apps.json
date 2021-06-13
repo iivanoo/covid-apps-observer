@@ -11,7 +11,7 @@
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.7.0",
-        "latest_crawl": 1622991761
+        "latest_crawl": 1623418875
     },
     {
         "id": "de.xikolo.openwho",
@@ -25,13 +25,13 @@
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.1.3",
-        "latest_crawl": 1622991888
+        "latest_crawl": 1623418966
     },
     {
         "id": "pt.cmpesoregua.app",
         "store_country": "pt",
         "store_lang": "pt",
         "latest_crawled_version": "1.1",
-        "latest_crawl": 1622991897
+        "latest_crawl": 1623418968
     }
 ]

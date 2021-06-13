@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEv8nZOn3G6Cyuenl99ApcZL34TqAyixyQU1tvBkEvURUdtC9VNJwCSJtDJkHfATDrg5z0Mh_-FXBU1tA",
+        "userName": "Adrian Booth",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggqxuk1ppEgjBaW9znbiduJQ8XPrP-sLDF1AIYXlw",
+        "content": "Uses mobile data like it's going out of fashion. 2 6 hour shift's and I have used 80 percent of my monthly allocation.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "14.7",
+        "at": "2021-06-07 16:37:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEgB4MHgc1dy-PMoQxl5-XUkUUZHE8QlFKPyQiURSK3j51ieCObQbBY1lwagO9JgP1t8jHcjnkm7ZTYgw",
         "userName": "wendy ling",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxbBDmLKY7sYg5wC16Krm8qe8AQ0agqTxxqlszT=mo",
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJywKLv6RVPRZqUoriz5Dwk9wMkY0OEKgtcA5b6a=mo",
         "content": "I was doing fine with this app, getting messages and ringing people (I only do chats as I have no transport) but now I'm having problems. On my messages it's telling me I didn't accept tasks so they were passed on. I didn't know there were tasks waiting as I'm getting no alerts. I've checked all my settings etc and all are switched on, so not sure how to solve this. I'm still willing to call people who need it, but with no alerts coming in, I don't know tasks are waiting. Please advise.",
         "score": 3,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "14.5",
         "at": "2021-05-26 11:27:51",
         "replyContent": "Hi Glenis, recently RVS has changed the parameters on the platform. You now have 5 minutes to accept the task instead of 30 minutes when notified. If you open the app when notified within the 5 minute window, you would be able to see the Accept/Reject buttons. You can also login to the website and send yourself a test push notification. thanks!",
@@ -1406,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOGNyF2wf0pY-OLi4lXKd2lcjPsX00nVw4HfrVAFLAaWvgmqoW7U2uA5kNy_tX3qTli9lcIMX35ks9NeIA",
         "userName": "Sian Jones",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgreNAZYrnpprHLKYI_2a-ofzJ-UKcByO0ac7VnCw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBbNOyIh_k_7j-VkDNC_PGaLJBciJAeaTzKMt2Ig",
         "content": "I used to get push notifications but don't anymore, I click on the app and there is a task waiting for me! I have checked all of my settings and they are fine, its just suddenly stopped working and I only see tasks when I open the app. I have tried sending a test notification but it didn't work and I have gone through all settings but can't see why it doesn't work.",
         "score": 2,
         "thumbsUpCount": 0,
@@ -5532,18 +5544,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOECx7_1NMtD_liclLU6CHYgBLIZEmrHe2UBeb80j3PbiHxXiT_8_qNkQmZPTf3Lw9NHPLHLHvRnzIewfQ",
-        "userName": "Majid Al-Sadoon",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSbxTb157HB9YREeCuB2OQvVeZgayNGA9qXGMwqA",
-        "content": "This app has not worked even once. I've uninstalled, reinstalled, and restarted my phone many times but the app still crashes as soon as I start it. Please can you use a more stable/reliable platform, like posting jobs on your website.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "10.6",
-        "at": "2020-04-13 17:26:43",
-        "replyContent": "Hi Majid, Sorry to hear this, when installing the app, did you allow it to have access to your location services? \n\nAlso when it crashes, it should allow you to report the issue, if you do we can pick it up and fix it for the next update!",
-        "repliedAt": "2020-04-13 21:52:36"
-    },
-    {
         "reviewId": "gp:AOqpTOHoMmYwT9OgZHVhtznThCfttM2l5e7JKodevDBVeEg4I6_XTLladqMZibHYPQscZ3QeL2-uYHRJloMujA",
         "userName": "HAP PY",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgGAXSefIXINhUagx75ln4XSLByp5FVjefK5hNo5Q",
@@ -5822,7 +5822,7 @@
     {
         "reviewId": "gp:AOqpTOGU-lw6uR2xxnQkGLPlUIY4yOmNMBnsa7cbH5dNyOFURBjVpHRRkI4VdniTGSrZFJPAVdzUMK30aIPyUQ",
         "userName": "Nigel Turton",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgeAEN-mSNA53MZGYNsBBON9EEF-Ek5Y4rZIEgfDAc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPiww8rTQYGGbZ0GDACjxov_xm4qe3WAc8HxKlYQo",
         "content": "Would like the ability to 'copy' any phone number that appears to make it easier and more accurate to phone the caller",
         "score": 3,
         "thumbsUpCount": 0,
@@ -8390,7 +8390,7 @@
     {
         "reviewId": "gp:AOqpTOE2fbzq3BhFbRKyFWP2FovF2pSjfFOoNu-C_4NzBZRokHEe8Yn6VeHoBJQOlMZI-VjQpjTfwoVmneRdMA",
         "userName": "David Davidson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4ArJW4_EvpLQTyox6BL8_-FESeAME-Qu9IaQdsg",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrUcYe4BTED9CHaoDc6ya-K-gBaVGbvQABUx7foAU=mo",
         "content": "Could you add a system tray icon so that we know it's still running in the background? Might also be worth adding turn off battery optermisation for this app as that disables background data.",
         "score": 4,
         "thumbsUpCount": 2,

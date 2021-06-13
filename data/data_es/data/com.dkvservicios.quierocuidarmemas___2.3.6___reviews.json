@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEAoZAHC3kI__AUNysvTugd4TjFHSdGiF1q2RUMRWfIHtiZz-oayWbP0HVcCHs_bXFcoZcSSHNdbZtg8A",
+        "userName": "Luis fernando Gonzalez Santana",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiV7CRxBjBI3MuBU2Nrf9quEMeC-f2yWN5_a92pNQ",
+        "content": "Todo genial \ud83d\ude0a",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-06-10 11:59:15",
+        "replyContent": "Hola Luis Fernando. Muchas gracias por tu comentario. Nos alegra mucho saber que est\u00e1s contento con el servicio prestado a trav\u00e9s de esta aplicaci\u00f3n. Un saludo.",
+        "repliedAt": "2021-06-10 14:50:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOFRC2kdgoOuqRK_jSnEfBtym_2jbShbOfeVfreeBcAq7YCV_9YnzJg9FJ6R6V6esD53z2RqVQS7nUkJSw",
+        "userName": "Irene DP",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6OYZ7mKJEiXp8KNonLr7hEwirvv_hg8dKm7TF3g",
+        "content": "Atenci\u00f3n al cliente NEFASTA. Te tienen de un tel\u00e9fono de pago a otro como un bobo, con unos tiempos de espera RIDICULOS y despu\u00e9s ENCIMA te cuelgan ellos y te dejan hablando SOLO.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-06-08 19:20:28",
+        "replyContent": "Hola Irene, t\u00fa comentario no est\u00e1 relacionado con la app Quiero cuidarme M\u00e1s. Nos gustar\u00eda conocer t\u00fa caso particular para ayudarte. Por favor, para consultas sobre t\u00fa seguro cont\u00e1ctanos gratis por whatsapp +34 960160602 o por tfno.976579000. Para problemas t\u00e9cnicos de la app, escr\u00edbenos a soporte@dkvservicios.com. Buscaremos una soluci\u00f3n. Gracias",
+        "repliedAt": "2021-06-10 09:34:50"
+    },
+    {
+        "reviewId": "gp:AOqpTOHsjYec18jO-4GysU1OCOsTy5RsrsId4IKuBI8nQ4MUa8ZmkklWC70cbZyeGN0GJA_HrwIIZsuZjJ3gWg",
+        "userName": "David San martin entiquez",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwJP6jXElyrp3Oz-VtiyRwmsSzqxeh02Nz9yAe=mo",
+        "content": "Me encanta seguros DKV",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-07 18:01:22",
+        "replyContent": "Hola David. Muchas gracias por tu comentario; nos alegra saber que est\u00e1s contento con el servicio prestado a trav\u00e9s de la aplicaci\u00f3n. Un saludo.",
+        "repliedAt": "2021-06-08 14:25:35"
+    },
+    {
         "reviewId": "gp:AOqpTOEmP0W6qebtb4T9a7iSgxmrbqTgH0M3e-n-o65CExGbZeP7eXx6ljEoc60hYjQJOZGBw_6AhlYGryC__w",
         "userName": "Paco Gracia Tamayo",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHCpBX4I6WwiXhl7d353iQpOKGn29DSdKYVZw=mo",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.3.6",
         "at": "2021-06-05 17:35:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Paco. Muchas gracias por tu comentario; nos alegra saber que est\u00e1s contento con el servicio prestado a trav\u00e9s de la aplicaci\u00f3n. Un saludo.",
+        "repliedAt": "2021-06-07 14:20:38"
     },
     {
         "reviewId": "gp:AOqpTOGLYXoieY7KuF-d7vdB5mVVZYHGnhTFyZIZmoEDAC8Fs5NHVbO11VT-xa-F8F0vMQEqAVLyCvByiOWEJg",
@@ -41,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIgKFY69vLubto32PdTGSisPYICQloJqf8Bam91Q",
         "content": "La peor APP que he usado. Me voy a dar de baja como asegurado. No consigo cita nunca ni me atienden, s\u00f3lo se pasan el bal\u00f3n de uno a otro. Busquen otra aseguradora, se los recomiendo.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.3.4",
         "at": "2021-05-31 13:32:24",
         "replyContent": "Hola Pablo!! Lamentamos que haya tenido una mala experiencia con la APP. Nuestro equipo de soporte@dkvservicios.com contactar\u00e1 contigo por tel\u00e9fono o correo electr\u00f3nico para revisar tu caso. Tambi\u00e9n puedes escribirles a esta misma direcci\u00f3n para comentar en profundidad el problema y encontrar soluciones. Un saludo!!!",
@@ -137,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy8Cyeo4rbhHqQEiql8j59JJ6qbd7tbSIXDNAbW=mo",
         "content": "No tiene tarjetero digital? No es cierto por m\u00e1s que lo he buscado no aparece el la app y est\u00e1 llena de fallos t\u00e9cnicos y lo mismo la p\u00e1gina web que se cuelga constantemente o est\u00e1 hackeada con un malware. Una hora intentando firmar dos documentos que adem\u00e1s deber\u00edan borrarse y llevan ah\u00ed desde 2017, ni se molestan en tener una opci\u00f3n para borrar documentos desfasados o antiguos. Adem\u00e1s s\u00e9 bien de lo que hablo, soy t\u00e9cnico inform\u00e1tico y vuestro sitio web es una aut\u00e9ntica patata y las app",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-05-18 21:08:10",
         "replyContent": null,

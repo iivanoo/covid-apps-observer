@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGLL1ZQQ18brQB91Im4TaAlQB8FIqE045tPUGi3IomGY6BJXi_UWDxAz6xlZjI43UT8uLuOy6L7f_lOUA",
+        "userName": "sam fischer",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_GKXiskSUEw3tIYC1D0CCUndBDZvL-vXiBzc",
+        "content": "Not flexible",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.0",
+        "at": "2021-06-10 00:56:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFA_XZucS4Kl9D1KcssiPd2H3uDwPiMkqDLJem0WKjTUM4i4CfRoIet1v7RhvrGRiP7o50YA5OBFRgVaA",
         "userName": "November Me",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw_4XiYd3cdDcqgotHPYcbiyvnDMUj3f0s7_TIG=mo",
@@ -101,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gin9PcEmhIPFBS3SEiHE4bsV67uc_ZkZD8MU2zybg",
         "content": "It often does not refresh the location when I use QR codes through my phone. I have often found myself checking in to the last location I went to instead of my current location. Please fix this bug so it refreshes to the new location as there are many inaccurate entries which would not help with tracking.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-05-19 02:42:36",
         "replyContent": null,
@@ -149,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxYDLg-KsOWamYD1ydvJkXBZDBJvqAtc_QbL2BJ=mo",
         "content": "....not working. Installed latest version for my SamsungS7 when I arrived in Canberra today. Absolutely nothing when I tried at the NGA. Cannot see the code as displayed...zero response. My partners S9 worked fine though...",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "1.9.0",
         "at": "2021-05-14 10:29:36",
         "replyContent": null,

@@ -235,12 +235,10 @@ The Virtual Care The Iowa eClinic app has been installed by more than **5000** t
 #### 2-star reviews
 
 <p align="center">
-<img src="2_star_reviews_wordcloud.png" alt="com.iowaclinic.android.iowa.eclinic 2 reviews"/>
+
 </p>
 
-> Once I figured it out my appt. Had passed so doctor called.<br> :date: __2020-04-13 22:42:06__
-
-
+No recent reviews available with 2 stars.
 
 #### 1-star reviews
 

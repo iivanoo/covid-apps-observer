@@ -172,25 +172,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 5 reviews"/>
 </p>
 
-> Easy to operate & has your covid vaccine history plus downloaded pdf verification to assist with travel. Well done NHS!!<br> :date: __2021-06-06 14:44:28__
+> Cool<br> :date: __2021-06-11 12:36:11__
 
-> Awesome access, great app.<br> :date: __2021-06-06 11:28:16__
+> Good app. Very informative 👏<br> :date: __2021-06-11 11:26:06__
 
-> Easy to set up.<br> :date: __2021-06-05 20:19:47__
+> Brilliant<br> :date: __2021-06-11 10:39:47__
 
-> Excellent<br> :date: __2021-06-05 19:02:18__
+> Personally I think this is awesome, if a long time coming. Time to up those stars!<br> :date: __2021-06-10 20:28:51__
 
-> Nice<br> :date: __2021-06-05 17:49:01__
+> Downloaded the app just for the purpose of getting a record of my full vaccination. It was tedious and took around 15 minutes to proof my identity but it worked. I received my Covid vaccination certificate in less than 30 minutes since I downloaded the app. Perfect, job done.<br> :date: __2021-06-10 17:37:17__
 
-> Really easy to use<br> :date: __2021-06-05 14:43:18__
+> Have only just installed this app but so far so good. The only problem I have is getting the icon installed onto my dashboard.<br> :date: __2021-06-10 16:23:58__
 
-> Very easy to download and seems straightforward to use. Am pleased to be able to confirm my Covid vacc status easily.<br> :date: __2021-06-05 12:19:10__
+> After reading all those bad reviews for a few weeks, I was in two minds as to download the app, but finally decided to go for it and found it the easiest app to download! All the information is there and only took 2 minutes to do so. Maybe it was so easy because I linked my GP surgery details to this app and nothing further was required ie no picture upload s, no video clip, no face scans etc...... just need to get in touch with my surgery to allow me to view my medical history<br> :date: __2021-06-10 01:48:40__
 
-> Took a couple of days to complete registration but I imagine they are getting ALOT of new users at the moment. No problem using the app now it's set up, it's really handy and easy to use for things like repeat prescriptions too!<br> :date: __2021-06-04 17:29:54__
+> Very good experience<br> :date: __2021-06-09 21:58:58__
 
-> Brilliant<br> :date: __2021-06-04 16:12:01__
+> Very easy to set up and to quickly get using it. Have your NHS number ready to make it faster. Accurate information and easy to use, very impressed<br> :date: __2021-06-09 19:04:06__
 
-> Very good<br> :date: __2021-06-04 15:40:35__
+> They've fixed the issue that wouldn't let you log in. The app is actually quite useful.<br> :date: __2021-06-09 18:27:17__
 
 
 
@@ -200,25 +200,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 4 reviews"/>
 </p>
 
+> Easy to set up...just a few minutes. Works perfectly...don't understand all the bad reviews.<br> :date: __2021-06-10 08:35:18__
+
+> Big improvement from a few months ago..hopefully able to use as vaccine passport for travel<br> :date: __2021-06-09 16:01:01__
+
+> After initial issues connecting to my GP the app now works, albeit with limited access to information (which my GP can presumably enable). Would benefit from following some basic design standards/ expected behaviours though, e.g. the back button going back a page, as opposed to leaving the app.<br> :date: __2021-06-08 23:27:18__
+
+> People complaining about verification face scanning - well the scan of my face worked after I tried to copy how I looked in the photo ID that I had uploaded. All went smoothly, and I can now view my record, order repeat prescriptions, view my Covid-19 & flu vaccinations, etc. App is quick and works well on my 3-year old phone, no sign of clunkiness as some have suggested.<br> :date: __2021-06-07 17:43:42__
+
+> It really good service and thank u nhs for your help<br> :date: __2021-06-07 17:39:23__
+
+> So far so good all seems to work ok and it knows who I am. Just need to check for vaccine #2 that I've had today.<br> :date: __2021-06-07 16:04:12__
+
+> Stops downloading at 98% so obviously cannot install, how I'm supposed to show my vaccine status ? Has now installed and working fine, thank you<br> :date: __2021-06-07 15:31:17__
+
+> So far so good, logged in fine with my existing NHS credentials. Small request. When using the back button on my phone the app offers to log me out rather than just return to the previous screen. Bit annoying.<br> :date: __2021-06-07 12:48:10__
+
 > App works well up having to upload the camcorder section ,then left in limbo<br> :date: __2021-06-05 14:56:45__
 
 > I managed to register myself and my wife separately, as didn't realise I would be able to get her linked to mine, with a few problems with proving ID. Works ok, though sometimes seems to have a glitch. I wanted full access, so have contacted my GP. It has been set up from their end, with me also having proxy access to my wife. I am able to get the full proxy access to my wife but no full access for either of us in own accounts. not sure where problem is though.<br> :date: __2021-06-04 20:27:06__
-
-> Works pretty well for me...<br> :date: __2021-06-03 15:42:57__
-
-> Very easy to join, maybe because already knowing NHS number, very straightforward. No need to add passport details etc as mentioned on other reviews. Hopefully we will be able to use it as proof of vaccinations when travelling without having to download any other app.<br> :date: __2021-06-02 17:31:41__
-
-> Very good. Takes a bit of time to set up if you don't have all the required details but easy if you do have them.<br> :date: __2021-06-02 09:33:07__
-
-> Took sometime to sort I.D...managed to print off covid paperwork..but why is it valid for only 3 weeks ????<br> :date: __2021-06-01 19:40:55__
-
-> Understand you need to verify, can be fidly to get right<br> :date: __2021-05-31 15:01:13__
-
-> Great application. I managed to get my GP to approve a continuous order for my medication Through the app. without me having to call the GP or book an appointment. Very useful app. I'll give 5 stars if this app will give me the chance to get Covid-19 Vaccine certificate as proof for travel and for any other required reason. I wonder if this app will be approved to use as a green pass to travel.<br> :date: __2021-05-30 21:56:41__
-
-> WINDOWS 10. OPEN GOOGLE PLAY FOR NHS APP. ADVISED THAT APP IS INSTALLED. UNABLE TO FIND IT. CHECKED "DOWLOADS" NOT THERE. SELECTED "INSTALLED" . SELECTED "INSTALL" just in case. NO RESPONSE. ANY IDEAS? HAVE DOWNLOADED IT ONTO MY PHONE SUCCESSFULLY.<br> :date: __2021-05-30 15:28:40__
-
-> The app works really well. My only issue is that I can't fully utilise it as my doctor does not have the online appointment facility. Otherwise, I really like it.<br> :date: __2021-05-30 09:55:54__
 
 
 
@@ -228,25 +228,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 3 reviews"/>
 </p>
 
+> When I get to Open Camcorder to record numbers and face as part of the registration orocess, the app opens my Files application to view photos etc and not the Camcorder / camera app<br> :date: __2021-06-10 23:28:43__
+
+> OK, but only reason I downloaded was for sharing details for travel. Comes up with "unexpected error" and won't download a pdf file either...... Any pointers?<br> :date: __2021-06-10 11:44:34__
+
+> I tried to install the app several months ago and gave up after 2 hours because it wouldn't accept either my passport or licence on the scan. However, yesterday, I tried again and was able to import a previous photo of my passport. Much easier than trying to scan it while filling in the form on the same phone. The app looks quite useful now I've done it.<br> :date: __2021-06-10 10:38:44__
+
+> Difficult to get all Medication put on NHS App.to order repeats.<br> :date: __2021-06-10 09:19:13__
+
+> Once you get in great but it keeps saying password not right even when you reset and that says it is alright am running out of passwords soon at this rate<br> :date: __2021-06-09 19:55:19__
+
+> Not sure<br> :date: __2021-06-08 09:41:24__
+
+> Hi I tried to upload with camcorder but unfortunately camera not on I allowed permission but I don't know why.<br> :date: __2021-06-07 22:51:17__
+
 > Tried to register for the app. Will not recognise either my NHS number or address details perhaps its because I live I Scotland and this is only for NHS England.<br> :date: __2021-06-06 12:48:46__
 
 > If you know your NHS number you should be abke to register. The app is essentially only web browser with no extra features.<br> :date: __2021-06-05 21:26:04__
 
 > Difficult to use. ☹️<br> :date: __2021-06-04 16:44:40__
-
-> This app has no close option. I have to close it by using close all option. It needs a proper close or exit option in app. Otherwise it is excellent<br> :date: __2021-06-03 12:17:46__
-
-> Just the camcorder section don't confirm things<br> :date: __2021-06-02 10:48:13__
-
-> Setup was flawless, however and it's a big however it is only displaying my records from my new GP surgery! This is a bit silly as I hardly have any records here and most are at my old surgery... Also I was kind of expecting to see all my NHS hospital records in the APP which I can't see anywhere.<br> :date: __2021-06-01 20:20:11__
-
-> Not very easy to use and set up the same issues with my GPS e consult service. I am above average with technology and I really struggled to set it all up. I understand the NHS is so pushed to the limit but the service made me want to give up if it wasn't so important.<br> :date: __2021-06-01 18:48:18__
-
-> Surprised how little information was required to access my medical details. I used different email address than the surgery knows about, but might have used the same phone as I've given the surgery, so perhaps they have taken the opportunity to validate that the phone details I entered in the app match what the surgery holds. The surgery has emailed me to say I can now use the NHS app, but has failed to warn me what I should do if it was not me that has attempted access my details with the app.<br> :date: __2021-06-01 02:49:50__
-
-> Don't expect or need this to do much except to prove I've had the covid jabs. So frustrating that it won't allow Google to remember log in. Why?<br> :date: __2021-05-28 20:31:01__
-
-> This app is not very good. My husband downloaded the app so that he would have access to his covid status. On checking his vaccination details are completely wrong. Have sent details, still waiting for a reply. Also my doctors don't use this app....have now taken advice as given by NHS and problem has been sorted.<br> :date: __2021-05-28 10:39:25__
 
 
 
@@ -256,25 +256,25 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 2 reviews"/>
 </p>
 
+> Would not open the camera or camcorder to verify. Very frustrating. App deleted will try again when the problem has been fixed.<br> :date: __2021-06-10 21:27:14__
+
+> Log in was a bit long winded. Cannot get full access as the app won't open the camcorder on my phone.<br> :date: __2021-06-10 14:52:00__
+
+> What is the point of the covid status if it expires on 20th June? Why it expires? I need it for travel after that. Also, cannot see any of my records, apart from a few of my allergies and medicines, despite I have permission several times for the detailed record. This is my record, I am the one should access to it the most.<br> :date: __2021-06-09 12:38:30__
+
+> Easy app to use until you have to upload your I'd as the camera won't open and can't record a video. And when I come out of it to record the video the numbers have change<br> :date: __2021-06-08 18:49:37__
+
+> Uploaded video but did not work<br> :date: __2021-06-08 18:04:07__
+
+> I can no longer log into the app, it comes up with an error and to try again later. It use to work<br> :date: __2021-06-08 16:39:51__
+
+> Will not update so useless<br> :date: __2021-06-07 17:27:08__
+
+> It takes 5secs to record a video of me saying four numbers, yet I was never able to upload thanks to the video being too small. After multiple attempts, including a nice long rant, I gave up. Who comes up with this stuff.<br> :date: __2021-06-07 09:26:29__
+
+> Tried numerous times and keeps saying not recodnised<br> :date: __2021-06-06 21:43:10__
+
 > Tried to sign up, I've input my mobile number a dozen times, and still waiting for a 6 digit code but no joy.<br> :date: __2021-06-06 14:17:09__
-
-> After 3 days have still been unable to complete registration!!<br> :date: __2021-06-06 12:19:50__
-
-> Waste of time and effort badly thought out and poorly executed<br> :date: __2021-06-04 13:30:23__
-
-> Nr<br> :date: __2021-06-04 12:06:51__
-
-> Managed to register and the rest OK, but keep getting error message "An unexpected error has occurred" on mobile and laptop when trying to access share proof of my Covid-19 status for travel. Am I doing something wrong?<br> :date: __2021-06-03 20:46:30__
-
-> It will not install<br> :date: __2021-06-03 09:27:36__
-
-> Not very up to date had my 2nd AstraZeneca jab 2 weeks ago still shows me as only having the 1st one.<br> :date: __2021-06-02 16:10:34__
-
-> Worked great initially but after a week it now fails to allow me to log in (with a '3a' error code). Repeated failed attempts over 24 hours have led me to conclude it's not fit for purpose. Update for the Devs: I've submitted two reports and both have simply come back with the (automated) reply that I should give it 30 mins or so. Since then I have had no response.<br> :date: __2021-06-02 14:24:36__
-
-> I registered no problem but proving your identity it is very hard ,it always go back to step 1,do i need to prove my identity every time i logged in ?thanks<br> :date: __2021-06-01 17:28:17__
-
-> (at the time of my original review it was possible to book a vaccination through the app) Booking a COVID jab is impossible, everyone is booking the same appointments concurrently which makes it impossible to complete a booking, and if there is no second appointments available why show the original appointments, same issue with the arrival times. It seems to be also not handling the volume of requests either as it keeps going down. You'd think for a critical gov tech infrastructure you'd think about handling spikes in traffic better. I have a few smaller gripes with the ui also.<br> :date: __2021-06-01 15:09:49__
 
 
 
@@ -284,24 +284,24 @@ The NHS App app has been installed by more than **1000000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.nhs.online.nhsonline 1 reviews"/>
 </p>
 
-> Unless. Only just downloaded but it constantly freezes and crashes....sure the government can get a simple app to work!!!??? 1 star as I couldn't give it zero<br> :date: __2021-06-06 15:01:43__
+> Not robust. Fails to order repeat prescriptions. Fails to supply C19 Vax travel proof. No obvious use as yet. Generic replies from tech support essentially advise not using the NHS app. Update: as you see the generic reply to my review advises against the NHS app rather than offer an app improvement. Down to one star from two.<br> :date: __2021-06-11 12:09:32__
 
-> Took 30 mins to try & check details then said error. Hopeless!!! God help us if that's the vaccine status app for foreign travel!<br> :date: __2021-06-06 14:59:58__
+> a nightmare to log into ...why it correctly shows the last 4 digits of the phone number to send an access code to, previously successfully used, which doesn't arrive this time, but when "re-request" is pressed a few times it locks the user out ...when taking the "change number option" hoping to get a switch it then says it will be up to 24 hrs before a confirmation email will be sent ...still waiting ...what a joke ...private enterprise would be out of business with such a rubbish APP<br> :date: __2021-06-11 11:49:41__
 
-> Doesnt work<br> :date: __2021-06-06 13:52:34__
+> During set up it works until I reach the open camcorder part I press open camcorder and it takes me off the app and into my photo albums with no option to get back into the app so I have to go back to the start this has happened 4 times I've just tried another 2 times and the same happens the camcorder wont open I'm not wasting anymore time on it its not worth it.<br> :date: __2021-06-11 11:19:16__
 
-> Won't load<br> :date: __2021-06-06 13:41:34__
+> Does not open camcorder unable to video to confirm identity.<br> :date: __2021-06-11 10:48:10__
 
-> Did Matt write this? Flawed, clunky, won't confirm ID, uninstalled.<br> :date: __2021-06-06 11:57:04__
+> Log on then it just keeps asking to log into my GP. Rubbish especially as Government want you to use the Covid passport bit.<br> :date: __2021-06-11 10:20:18__
 
-> Needs big improvement<br> :date: __2021-06-06 11:48:19__
+> Version 1.51.1 (1.48.7)on android, I can no longer access my gp health records.<br> :date: __2021-06-11 08:54:09__
 
-> Poor. Can't even create a login.<br> :date: __2021-06-06 11:11:35__
+> Neither camera nor camcorder function work. Therefore can't verify identity. Therefore useless.<br> :date: __2021-06-11 00:03:01__
 
-> The app does not work properly, when asked to prove your identity the function to open camera doesn't do anything and then when prompted to record a short video the same thing happens.<br> :date: __2021-06-06 11:01:24__
+> App will not open the camcorder to record the video, so the app is useless.<br> :date: __2021-06-10 23:06:49__
 
-> Gone through all the setting up process to be told it doesn't work in Wales so a total waste of time<br> :date: __2021-06-06 10:54:46__
+> Far too fusy and complicated, simplify it and it may be worthwhile...<br> :date: __2021-06-10 20:59:05__
 
-> Stops downloading at 98% so obviously cannot install, how I'm supposed to show my vaccine status ?<br> :date: __2021-06-06 10:37:22__
+> I can't even get past the initial blue NHS screen on my iphone nor my tablet so I haven't got a hope in hell finding my vaccination details.<br> :date: __2021-06-10 20:17:11__
 
 

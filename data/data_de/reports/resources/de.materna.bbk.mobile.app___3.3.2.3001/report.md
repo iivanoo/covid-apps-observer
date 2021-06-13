@@ -154,6 +154,18 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="5_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 5 reviews"/>
 </p>
 
+> Sehr gute app<br> :date: __2021-06-10 09:27:44__
+
+> Die App funktioniert wieder super! Bin begeistert! Danke<br> :date: __2021-06-10 07:04:35__
+
+> Ich finde die Inhalte gut, und die Aufarbeitung der Coronaregeln sehr hilfreich. Allerdings werden die Informationen nur geladen, wenn ich mein WLAN abschalte. Habe ich mein WLAN an, lädt nichts, und nach einer Weile werde ich gebeten, sicherzustellen, dass ich eine Internetverbindung habe. Das ist vermutlich nicht so gedacht ;) Update: Vielen Dank für Ihre Antwort. Das Problem besteht nun nicht mehr.<br> :date: __2021-06-09 20:02:12__
+
+> Sehr zuverlässig .<br> :date: __2021-06-09 18:51:30__
+
+> Ist nicht kompliziert und sehr verständlich<br> :date: __2021-06-07 13:45:17__
+
+> Warnt vor Unwetterwarnungen und anderen Katastrophen und bietet nebenbei einen guten Überblick über die aktuell geltenden Coronabestimmungen auf Landkreisebene<br> :date: __2021-06-06 19:20:06__
+
 > Warum auch immer es funktioniert wieder. Aber das muss auch mal gesagt werden: Danke für ihre schnelle und ausdauernde Hilfe👍👏<br> :date: __2021-06-06 10:17:37__
 
 > App funktioniert noch immer nicht. Sanduhr läuft und läuft. Orte, Corona etc. anklicken ohne Ergebnis. Die App bringt so nichts. Lt. anderer Bewertungen offensichtlich schon längere Zeit so. 06.06.2021 Die App funktioniert wieder und macht was sie soll.<br> :date: __2021-06-06 09:05:41__
@@ -161,18 +173,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 > Seit dem letzten Update(?) funktioniert gar nichts mehr. Das Nina-Warn-App-Logo dreht und dreht und..... aber es können keinerlei Warnungen gelesen werden. Ich habe die App neu installiert, alle Prozesse (auch im Hintergrund) erlaubt...nichts geht. Handy neu gestartet....nichts..... Ich korrigiere die Bewertung, der Fehler konnte durch die Lösungsvorschläge des Betreibers behoben werden. Auf meine Rezension hin kümmerte er sich sofort und die App funktioniert in gewohnt guter Weise. Vielen Dank<br> :date: __2021-06-05 09:45:15__
 
 > Leider keine Funktion mehr, nur die Sanduhr im Dauereinsatz. App wurde deinstalliert und neu installiert. S10, Android 11, S-Update Mai 2021 App funktioniert wieder wie gewohnt unter WLAN und auch Mobilen Daten. Danke<br> :date: __2021-06-05 06:00:13__
-
-> Ich hatte mal eine Frage. Wie spricht man den Namen der app aus also ,,Nina" so wie den namen von Menschen oder wie sonst?<br> :date: __2021-06-04 19:31:40__
-
-> Zeitlich genau und aktuell<br> :date: __2021-06-04 15:21:03__
-
-> Top und belastbar informiert aus erster Hand.<br> :date: __2021-06-04 14:58:56__
-
-> Im Gegensatz zu Katwarn (scheint abgeschaltet und verwaist zu sein), erhalte ich hier REGELMÄSSIG Warnungen auf mein Handy. Bewerte die App daher zur Zeit mit 5 Sternen.<br> :date: __2021-06-03 19:47:49__
-
-> Muss man jetzt Angst haben das es die Nina Warn App bald nicht mehr gibt bei Google Play ? BIWAPP ist auch nicht mehr verfügbar leider.<br> :date: __2021-06-03 11:33:07__
-
-> Sie ist bis jetzt Punkt genau sehr gut<br> :date: __2021-06-02 14:26:11__
 
 
 
@@ -182,6 +182,18 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="4_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 4 reviews"/>
 </p>
 
+> Warnungen sind super. Leider versucht die App als erstes den Standort zu bestimmen. Wenn das aber, wie bei mir, abgeschalten ist, muss man unnötig lange warten bis die Warnungen für die gespeicherten Städte geladen werden!<br> :date: __2021-06-10 13:05:53__
+
+> Mittlerweile funktionieren die push-meldungen gut, schön wäre es in der Push auch den Standort der Warnung zu sehen.<br> :date: __2021-06-09 16:22:21__
+
+> die Coronastufen werden nicht zeitnah aktualisiert.<br> :date: __2021-06-09 08:30:28__
+
+> Gute App, alle Informationen schnell ersichtlich. Ich habe einen Verbesserungsvorschlag für die Benachrichtigungen: es wäre schön, wenn man einstellen könnte, für welche Orte man Meldungen bekommen möchte oder wenn wenigstens der Ort in der Benachrichtigung mit drin stehen würde. Ich habe Orte hinterlegt, bei denen ich nur bei Bedarf Informationen nachschauen möchte. für die benötige ich keine Benachrichtigung für Gewitter etc.<br> :date: __2021-06-09 05:56:16__
+
+> Ich finde die App wichtig und gut! Wie jede App hat sie Vor- & Nachteile. Was mich nervt ist, dass die App ganz Deutschland flächenmäßig in Orange darstellt. Vermutlich in Bezug auf den Gefahrenschutz. K.A. Leider werden alle anderen Warnungen weitestgehend auch mit oranger Farbe hervorgehoben. Im aktuellen Fall eines Bombenfunds bedeutet das, dass ich den Radius auf der Karte dadurch nicht erkennen kann. Das macht wenig Sinn bzw ist kontraproduktiv.<br> :date: __2021-06-08 11:56:27__
+
+> sehr aktuell und ortsbezogen, besonders während Corona<br> :date: __2021-06-07 20:22:08__
+
 > Die App zeigt gar nichts mehr an - nur noch dauerhafte Sanduhr. Das lief mal gut. Sehr schade - an und für sich eigentlich eine sinnvolle App. Sobald WLAN aktiviert ist. Funktioniert wieder nach Router-Neustart - obwohl alle anderen Apps auf vorher im WLAN funktionierten. Danke für die prompte Hilfe<br> :date: __2021-06-05 14:11:01__
 
 > Seit einigen Tagen lädt die App keine Daten mehr. Sie hat für mich keinen Nutzen mehr. Auch nach Neuinstallation funktioniert die App nicht. Wenn sie läuft, ist die App super. Ich werde mal das nächste Update abwarten und nochmal installieren. Nachtrag: Nach mehrmaligen löschen und installieren funktioniert Nina wieder. Nun weiß ich wieder Bescheid. Mir hat die wichtige Information, die mir die App liefert sehr gefehlt. Daher nun 4 Sterne.<br> :date: __2021-06-05 10:00:17__
@@ -190,18 +202,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > An sich fand ich die App bisher gut; sie versorgte mich mit den gewollten Informationen. Leider ist sie seit kurzem nicht mehr nutzbar. Es kommen Push-Mitteilungen, in der App kann allerdings nichts Informatives angewählt werden... 🤷🏼‍♂️ Motorola Moto G8 plus mit Android 10 (Patch vom 01.04.2021) Edit: Nach Befolgen des Tipps mit Routerneustart funktioniert die App mit WLAN als auch Mobilen Daten nicht mehr, erst nach Handyneustart beides wieder. Danke für die Unterstützung!<br> :date: __2021-06-04 22:31:08__
 
-> Werde es versuchen wenn das Internet wieder geht. Vermutlich abgesoffen, war recht heftig<br> :date: __2021-06-04 21:43:38__
-
-> Bis letztes Jahr war alles super. Jetzt funktioniert nicht Aktualisierung über WLAN nicht mehr.. Warnungen sind super! :)<br> :date: __2021-06-04 15:27:11__
-
-> Hatte eigentlich lange funktioniert unter LineageOS 16.0. Jetzt auf dem neuen Handy mit LineageOS 17.1 plötzlich nicht mehr. Es wird beim Start immerhin eine EMail-Adresse zum Kontaktieren angezeigt. PS: Die Fehlermeldung kam, weil die Google-Registrierung für Push-Nachrichten abgeschaltet war. Eine detailliertere Fehlermeldung wäre hier angenehm.<br> :date: __2021-06-04 11:11:37__
-
-> Für mein Ort Keine Ausgangbeschränkung. Lese ich weiter. Ausgangssperre zw. 22:00 und 5:00 Uhr.<br> :date: __2021-06-02 05:37:51__
-
-> Es wird mir angezeigt, dass die App meinen Standort nicht finden kann, daher werden mir gar keine Informationen angezeigt. Wie schon geschrieben, obwohl ich aber meinen Standort im Smartphone angeschaltet habe und es ja die letzten Monate bisher sehr gut funktioniert hat.<br> :date: __2021-06-01 16:51:01__
-
-> Feine Sache! Funktioniert zum Glück auf ohne Zugriff auf den eigenen Standort, indem man bestimmte Orte fest vorgibt.<br> :date: __2021-05-26 22:48:01__
-
 
 
 #### 3-star reviews
@@ -209,6 +209,10 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 3 reviews"/>
 </p>
+
+> Läuft aktuell etwas besser.<br> :date: __2021-06-10 19:10:10__
+
+> Eine Anmerkung: Ich weiss, es ist schwierig, bei der Größe z.B. unseres Landkreises Göttingen (Höhe 150 m bis 865 m, Ost/West- Ausdehnung 80 km) eine detaillierte Wettervoraussage oder Unwetterwarnung zu geben. Aber wenn Nina sich den ganzen Tag mit Warnungen meldet, im Harz könnte ein Gewitter mit Orkanböen auftreten, kann das für Bewohner in Ortschaften kurz vor Kassel bei schönstem Wetter nur Kopfschütteln hervorrufen. Deshalb wäre es schön, wenn Gebiete noch regionaler unterteilt werden.<br> :date: __2021-06-09 19:25:50__
 
 > Aktuell warnt sie(noch) aber ich kann nicht sehen in für welchen Ort/PLZ, da es nicht in der App angezeigt wird...ein Update wäre super damit alles wieder funktioniert wie es soll...<br> :date: __2021-06-05 15:37:07__
 
@@ -226,10 +230,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Die App lässt sich nicht mehr über WLAN aktualisieren. Bekomme da leider gar nichts mehr angezeigt, außer meine Orte.<br> :date: __2021-06-04 15:59:31__
 
-> App öffnet sich nicht .Nur Anzeige der Städtenamen.<br> :date: __2021-06-04 14:39:14__
-
-> Nutze die App von Anfang an. Die letzten drei Tage, trotz Warnug, keine Reaktion der App. Man kann die gewählten Orte nicht abrufen. :(<br> :date: __2021-06-04 13:59:45__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,14 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 2 reviews"/>
 </p>
+
+> Ich bin momentan ziemlich enttäuscht. Eigentlich eine gute Idee. Aber seit Wochen läuft es unrund und ich fühle mich alteingesessen. Ich kriege Meldungen aber die App ist dann ohne Ende am Laden und nichts passiert.<br> :date: __2021-06-09 22:04:29__
+
+> Seit Monaten bekomme ich keine Benachrichtigungen mehr. Egal ob Coron oder Sonstiges. Also da kann ich sie gleich Deinstalieren.<br> :date: __2021-06-09 16:14:41__
+
+> Die App warnt immer vor Gewitter und das kommt gar keins oder manchmal so ein ganz kleines davor muss man doch nicht immer gleich übertrieben warnen<br> :date: __2021-06-09 15:50:01__
+
+> 8 GB Speichernutzung, das schafft keine andere App und das mit imensem Abstand. Womit müllt ihr den Speicher so voll. Doch mehr Überwachung als Warnung...<br> :date: __2021-06-07 18:24:47__
 
 > Die App war mal gut. Seit kurzem kommen aber nur noch Push-Nachrichten - sobald man die Details dazu anschauen möchte, landet man bei einer Dauer-Sanduhr und es geht gar nichts mehr. sehr schade<br> :date: __2021-06-04 22:28:41__
 
@@ -250,14 +258,6 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 
 > Leider im Bereich Corona Regel fehlerhafte Angaben. Ich beziehe mich auf den LK Kaiserslautern.<br> :date: __2021-05-28 19:34:29__
 
-> Bitte das Datum der Inzidenzen ergänzen, damit man sieht ob sie aktuell, oder wie zur Zeit veraltet sind. Zeitung lesen ist mindestens genauso aktuell.<br> :date: __2021-05-24 01:45:34__
-
-> 7 Tages Inzidenz ist oft 1-2 Tage hinterher. Passt nicht. Man sollte das Datum der angegeben Inzidenz eintragen, dann weiß man ob, man lieber woanders gucken soll!<br> :date: __2021-05-23 09:52:42__
-
-> Nach dem Update geht gar nix mehr.. es Läd und Läd. Popups kommen aber noch. (Android/galaxy s9+)<br> :date: __2021-05-21 20:30:18__
-
-> Hilft nicht weiter, wenn die Informationen nicht aktuell sind.<br> :date: __2021-05-21 11:07:52__
-
 
 
 #### 1-star reviews
@@ -266,24 +266,24 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="1_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 1 reviews"/>
 </p>
 
-> Hat bislang keine Warnung angegeben. Die Testläufe waren ein Flop. Schade, die Idee ist ja gut.<br> :date: __2021-06-05 23:49:07__
+> Es wird mir angezeigt, dass die App meinen Standort nicht finden kann, daher werden mir gar keine Informationen angezeigt. Wie schon geschrieben, obwohl ich aber meinen Standort im Smartphone angeschaltet habe und es ja die letzten Monate bisher sehr gut funktioniert hat. NT: Ich kann jetzt seit mindestens einer Woche keine Informationen mehr erhalten, daher bin ich ziemlich ratlos. Und das obwohl ich schon wegen der Corona App meinen Standort ständig angeschaltet habe.<br> :date: __2021-06-11 07:44:59__
 
-> Corona-Warnungen vom Oktober und Anfang Januar werden als aktuell angezeigt. Statt amtlicher Bekanntmachungen von der Stadt Leipzig wird der Landkreis angezeigt.<br> :date: __2021-06-05 17:56:22__
+> Corona Informationen vom 17.12.2020? Leider sind wir schon im Juni 2021... habe sie wieder deinstalliert!!<br> :date: __2021-06-10 21:31:32__
 
-> Heute kam eine Unwetterwarnung nachdem das vorbei war. Das war mal wieder typisch. Habe den Quatsch nun deinstalliert.<br> :date: __2021-06-05 15:10:20__
+> Leider ist die App für mich nicht mehr nutzbar, weil sie alle Orte grundsätzlich als Ort außerhalb Deutschlands definiert, die dann nicht hinzugefügt werden können.<br> :date: __2021-06-10 18:34:07__
 
-> Funktioniert leider nicht mehr. Warnungen werden nicht angezeigt. Auch nach Neuinstallation nicht! Mit mobilen Daten funktioniert sie. Nach wiederholtem Ausschalten des Phones funktioniert sie nun wieder!<br> :date: __2021-06-05 13:16:04__
+> Leider ständige Meldung über: Standorteinstellungen fehlerhaft. Ich bekomme aber Standortspezifische Warnungen - hä??? Deinstalliert und zu Katwarn gewechselt. Die läuft ohne Probleme!<br> :date: __2021-06-10 09:12:01__
 
-> Man kann sich auf diese App absolut nicht verlassen! Heutiger Warntag - Push Notification? Fehlanzeige! Warnung vor Sturm (markantes Wetter)? Fehlanzeige! Man muss proaktiv die App öffnen um an Informationen zu kommen. Bevor der Verdacht aufkommt - nein, alle Einstellungen an meinem Smartphone sind korrekt. Gebiet: NRW (Mönchengladbach) Update 05.06.: Wieder keine Push Notification (Probealarm). Beim iPhone meiner Frau auch nicht.<br> :date: __2021-06-05 11:04:08__
+> Die Meldungen kommen unzuverlässig<br> :date: __2021-06-10 08:06:30__
 
-> Die App verbraucht nur Strom. Unter CAT S62pro, sowie unter CAT S41 und S61 meldet die App nur Fehler. Standorte werden nicht aktualisiert, Warnmeldungen werden nicht angezeigt.<br> :date: __2021-06-04 23:13:43__
+> Andauernd werden Warnmeldungen heraus gegeben, aber die App lässt sich nicht öffnen. Das kann nicht Sinn der Sache sein!<br> :date: __2021-06-09 15:34:27__
 
-> Piepst ab und zu, zeigt aber nichts an<br> :date: __2021-06-04 22:53:07__
+> Beim Öffnen der App "zittert" alles und sonst passiert nichts<br> :date: __2021-06-09 07:03:16__
 
-> Zwar gibt es immer wieder Push-Meldungen der App, diese lassen sich aber nicht öffnen. App funktioniert seit Tagen nicht mehr, signalisiert (ewig lange) ein Laden der Informationen und bemängelt eine Internetverbindung. Seltsam, denn alle anderen Apps haben Internetzugang. Lösung: App deinstallieren!<br> :date: __2021-06-04 22:46:25__
+> Kann doch nicht sein das alle 10min Alarm kommt für selben Kreis. Seit Tagen ständig Alarm für bisschen Regen? Klar woanders Land unter, aber das +/- 50km???<br> :date: __2021-06-08 19:37:55__
 
-> Schlecht! Trotz erneutem (De)installieren, funktioniert die App nur ein paar Tage, danach sagt NINA keinen Piep mehr!<br> :date: __2021-06-04 21:21:49__
+> War einmal richtig gut,jetzt jedoch völlig unnötig. Keinerlei Wetterwarnungen mehr nur noch das Coronageschwurbel. Zudem werden Warnungen ohne Ende angezeigt aber es passiert nichts, man möchte meinen das die ganzen Meldungen überhaupt nicht stimmen<br> :date: __2021-06-08 18:13:46__
 
-> Die App rödelt und rödelt , aber keine Nachricht obwohl eine angekündigt wurde. Kann man vergessen WLAN und Router neu gestartet. App neu installiert. Alles beim Alten. Siehe oben<br> :date: __2021-06-04 21:00:44__
+> Ich nutze diese App schon seid ein paar Jahren und fand sie sehr praktisch. Allerdings geht es in dieser App fast nur noch um Corona... Obwohl ich die Push Mitteilungen bezüglich Corona Deaktiviert habe kommen diese weiterhin. Da ich alles um Corona nicht mehr sehen , hören usw. kann habe ich diese App erstmal Deinstalliert . Wenn der ganze Irrsinn mal vorbei ist werde ich mir diese App mal wieder ansehen . Update: Heute nochmal installiert und wie gehabt es geht nur noch um C..... Nein Danke<br> :date: __2021-06-08 10:56:42__
 
 

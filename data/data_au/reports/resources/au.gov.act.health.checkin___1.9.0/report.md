@@ -254,6 +254,8 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.act.health.checkin 1 reviews"/>
 </p>
 
+> Not flexible<br> :date: __2021-06-10 00:56:43__
+
 > Horrible<br> :date: __2021-05-21 12:23:17__
 
 > It often does not refresh the location when I use QR codes through my phone. I have often found myself checking in to the last location I went to instead of my current location. Please fix this bug so it refreshes to the new location as there are many inaccurate entries which would not help with tracking.<br> :date: __2021-05-19 02:42:36__
@@ -271,7 +273,5 @@ The Check In CBR app has been installed by more than **100000** times. At this t
 > It doesn't have QR scanner. Doesn't work. Useless. Can't find the location after entering the code.<br> :date: __2021-05-08 06:45:04__
 
 > Very poor design - does not have a check out function. No way to tell how long person has been in the venue.👎 Still no option to check out.<br> :date: __2021-05-05 23:44:36__
-
-> Download and checked in to the war memorial not too long after started receiving calls from marketing companies. App uses data collected to give to marketing companies and you have to check otherwise you can receive a fine.<br> :date: __2021-05-03 02:50:04__
 
 

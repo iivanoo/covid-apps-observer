@@ -1,0 +1,274 @@
+# Protect Scotland
+App version ``1.2.2``
+
+Analyzed with [covid-apps-observer](http://github.com/covid-apps-observer) project, version ``0.1``
+
+<img src="icon.png" alt="Protect Scotland icon" width="80"/>
+
+## App overview
+| | |
+|-------------------------|-------------------------| 
+| **Name**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Protect Scotland |
+| **Unique identifier** | gov.scot.covidtracker |
+| **Link to Google Play** | [https://play.google.com/store/apps/details?id=gov.scot.covidtracker](https://play.google.com/store/apps/details?id=gov.scot.covidtracker) |
+| **Summary**  | Help stop the spread of Covid-19 in Scotland by using the Protect Scotland app. |
+| **Privacy policy** | [https://protect.scot/privacy-policy-app](https://protect.scot/privacy-policy-app) |
+| **Latest version** | 1.2.2 |
+| **Last update** | 2021-06-04 12:27:35 |
+| **Recent changes** | Minor text updates |
+| **Installs**  | 500,000+ |
+| **Category** | Medical |
+| **First release** | Sep 4, 2020 |
+| **Size**  | 107M |
+| **Supported Android version**  | 6.0 and up |
+
+### Description
+> Help Scotland keep the spread of coronavirus under control by downloading and using the free Protect Scotland app from NHS Scotland’s Test and Protect service. 
+<br>Using the app is entirely voluntary.  When you use the app, you will be alerted if you have been in close contact with another app user who has tested positive for coronavirus. If you test positive and you enter the unique code sent to you into the app, it will anonymously warn other app users whom you have been in close contact with.
+<br>Using Bluetooth, the app will search for other devices with the Protect Scotland app installed, which are within 2m of your phone. You don’t need to have a WiFi connection. The app uses a very small amount of your mobile phone data.  
+<br> Once you’ve downloaded the app, encourage your friends, family and colleagues to do so too. The more people who download and use the Protect Scotland app, the more likely we are to keep coronavirus under control. . The benefits of using the app are:  Speeds up the process of identifying and notifying people that have been at risk of catching coronavirus, particularly of unknown contacts Slows the spread of the virus Reduces the likelihood of further lockdowns Helps protect the health service, your family and friends, yourself and the people of Scotland
+<br>Ultimately, you can help to stop the spread of coronavirus in Scotland by downloading and using the Protect Scotland app.
+<br>Privacy and Data
+<br>The Protect Scotland app is designed to protect the privacy of all users. It doesn’t store or share any personally identifiable information, like your name or address. Nobody can track your location by using the app or tell who you are.
+<br>You can remove the app from your device at any time, and all the data stored on your phone will be deleted.
+
+
+### User interface
+The developers of the app provide the following screenshots in the Google play store.
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+ | <img src="screenshot_1.png" alt="screenshot" width="300"/>  | <img src="screenshot_2.png" alt="screenshot" width="300"/>  | <img src="screenshot_3.png" alt="screenshot" width="300"/>  | 
+ | <img src="screenshot_4.png" alt="screenshot" width="300"/>  | <img src="screenshot_5.png" alt="screenshot" width="300"/> 
+
+## Development team
+In the following we report the main information provided by the development team in the Google play store.
+
+| | |
+|-------------------------|-------------------------|
+| **Developer**  | NHS Education for Scotland |
+| **Website**  | [https://protect.scot/index.html](https://protect.scot/index.html) |
+| **Email** | testandprotect@nhs.scot |
+| **Physical address**  | [NHS Education for Scotland Knowledge Services 2 Central Quay 3rd Floor 89 Hydepark Street Glasgow G3 8BW ](https://www.google.com/maps/search/NHS%20Education%20for%20Scotland%20Knowledge%20Services%202%20Central%20Quay%203rd%20Floor%2089%20Hydepark%20Street%20Glasgow%20G3%208BW%20) (Google Maps) |
+| **Other developed apps**  | [https://play.google.com/store/apps/developer?id=NHS+Education+for+Scotland](https://play.google.com/store/apps/developer?id=NHS+Education+for+Scotland) |
+
+## Android support
+
+| | |
+|-------------------------|-------------------------|
+| **Declared target Android version**  | Android10, version 10 (API level 29) |
+| **Effective target Android version**  | Android10, version 10 (API level 29) |
+| **Minimum supported Android version**  | Marshmallow, version 6.0 (API level 23) |
+| **Maximum target Android version**  | - |
+
+The larger the difference between the minimum and maximum supported Android versions, the better. A larger difference means a wider audience. For example, old phones have a very low Android version, so a high minimum supported Android version means that the app cannot be used by users with old phones, thus leading to accessibility problems. 
+
+## Requested permissions
+
+In the following we report the complete list of the permissions requested by the app. 
+
+| **Permission** | **Protection level** | **Description** | 
+|-------------------------|-------------------------|-------------------------|
+ **android.permission<br>ACCESS_NETWORK_STATE** | Normal | Allows applications to access information about networks. 
+ **android.permission<br>ACCESS_WIFI_STATE** | Normal | Allows applications to access information about Wi-Fi networks. 
+ **android.permission<br>BLUETOOTH** | Normal | Allows applications to connect to paired bluetooth devices. 
+ **android.permission<br>INTERNET** | Normal | Allows applications to open network sockets. 
+ **android.permission<br>RECEIVE_BOOT_COMPLETED** | Normal | Allows an application to receive the Intent.ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting. 
+ **android.permission<br>VIBRATE** | Normal | Allows access to the vibrator. 
+
+
+## Mentioned servers
+
+| **Server** | **Registrant** | **Registrant country** | **Creation date** | 
+|-------------------------|-------------------------|-------------------------|-------------------------|
+ | android.com | Google LLC | :us: US | 1997-06-23 04:00:00 |
+ | google.com | Google LLC | :us: US | 1997-09-15 04:00:00 |
+ | expo.io | See PrivacyGuardian.org | :us: US | 2011-05-01 21:26:50 |
+
+
+## Security analysis 
+
+Below we report the main security warnings raised by our execution of the [Androwarn](https://github.com/maaaaz/androwarn) security analysis tool.
+
+**Telephony identifiers leakage**
+> - This application reads the numeric name (MCC+MNC) of current registered operator<br>
+> - This application reads the operator name<br>
+
+**Connection interfaces exfiltration**
+> - This application reads details about the currently active data network<br>
+> - This application tries to find out if the currently active data network is metered<br>
+
+**Suspicious connection establishment**
+> - This application opens a Socket and connects it to the remote address ' returned no addresses for  ; port is out of range' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address '' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ljava/lang/StringBuilder;->toString()Ljava/lang/String;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'Ljava/net/Proxy;->type()Ljava/net/Proxy$Type;' on the 'N/A' port <br>
+> - This application opens a Socket and connects it to the remote address 'timeout' on the 'N/A' port <br>
+
+**Pim data leakage**
+> - This application accesses data stored in the clipboard<br>
+
+**Code execution**
+> - This application loads a native library<br>
+> - This application executes a UNIX command<br>
+
+
+
+## User ratings and reviews
+
+Below we provide information about how end users are reacting to the app in terms of ratings and reviews in the Google Play store.
+
+### Ratings
+
+The Protect Scotland app has been installed by more than **500000** times. At this time, **3040** rated the app and its average score is **3.7922077**. Below we show the distribution of the ratings across the usual star-based rating of Google Play
+
+:star::star::star::star::star:: 1738
+
+:star::star::star::star:: 286
+
+:star::star::star:: 266
+
+:star::star:: 148
+
+:star:: 602
+
+### Reviews 
+
+#### 5-star reviews
+
+<p align="center">
+<img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
+</p>
+
+> a good company with personal information.<br> :date: __2021-06-08 17:01:15__
+
+> Excellent<br> :date: __2021-05-30 12:22:39__
+
+> No issues. Runs in the background. My Bluetooth always on for car anyway. Its never going to be perfectly accurate but it's one tool not a complete solution.<br> :date: __2021-05-22 14:11:17__
+
+> Clever, simple app, it helps fight Covid while protecting your privacy<br> :date: __2021-05-19 08:23:31__
+
+> A bit of a pain to drain battery keeping bluetooth/location on constantly, but a small price to pay for public health & safety!<br> :date: __2021-05-17 06:42:30__
+
+> but yea m<br> :date: __2021-05-13 02:04:43__
+
+> Easy to use, watch you don't have your VPN switched on or it doesn't take any readings, wouldn't know it was working behind the scenes to help protect Scotland<br> :date: __2021-05-01 22:05:02__
+
+> Great app 1st thing I added to my account well done,🌞🌈<br> :date: __2021-04-29 00:06:05__
+
+> Good<br> :date: __2021-04-21 09:37:24__
+
+> Great<br> :date: __2021-04-17 15:13:50__
+
+
+
+#### 4-star reviews
+
+<p align="center">
+<img src="4_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 4 reviews"/>
+</p>
+
+> Good app<br> :date: __2021-03-29 22:40:54__
+
+> Good helpful app<br> :date: __2021-02-23 17:24:21__
+
+> Very good.<br> :date: __2021-02-22 14:00:38__
+
+> The problem I have is police access but I'm using as the place is drowning in COVID19<br> :date: __2021-02-21 21:56:07__
+
+> Good app but think you need everybody to sign up. Next door neibour had covid 19 but didnt know until a few weeks later.<br> :date: __2021-02-20 21:24:16__
+
+> Had no interactions<br> :date: __2021-02-17 14:29:32__
+
+> Notified<br> :date: __2021-02-14 15:57:22__
+
+> Useful<br> :date: __2021-02-12 16:43:23__
+
+> Very important app very good<br> :date: __2021-02-07 17:27:01__
+
+> Excellent. Many thanks for making this app which keeps us all safer and aware.<br> :date: __2021-01-27 22:28:42__
+
+
+
+#### 3-star reviews
+
+<p align="center">
+<img src="3_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 3 reviews"/>
+</p>
+
+> App appeared fine until a few days ago - now appears to be perpetually hung on 'checking exposure keys'<br> :date: __2021-06-01 22:19:34__
+
+> App appears Okay on the Samsung TvPhone<br> :date: __2021-05-23 06:18:35__
+
+> Not sure if this app actually does anything. Only seems to do a check when I open it. App can go days with no checking for contacts according to the fingerprint checking Google summary page.<br> :date: __2021-04-24 18:55:23__
+
+> As people from other area's in the UK visit Scotland I don't believe the app syncs with other apps from other locations in the UK but only Scotland. If this is the case then it won't work unless someone in Scotland develops covid and others have this same version.<br> :date: __2021-04-18 14:37:32__
+
+> Huawei 30pro. It doesn't recognize that my Bluetooth is on and so does not activate.<br> :date: __2021-04-07 11:02:15__
+
+> This might just be the most effective software to be Bluetooth turned on all the time to enable almost everyone in Scotland to track&trace possible SARS/covid carriers,..<br> :date: __2021-04-04 11:33:48__
+
+> Early version seemed fine, sat happily in background, but now app complains when I don't have Bluetooth or location on at home.<br> :date: __2021-03-25 11:07:01__
+
+> Couldn't add my positive code to the app.<br> :date: __2021-03-22 01:02:01__
+
+> Of questionable usability. Stay at home, and this app will still keep nagging you to switch on location - presumably the vision of the Covid hordes invading your dwelling makes spending battery power on satellite navigation worthwhile. Now, I remember The Omega Man from the first time around (1971 film), but did the designer of this really do so too? 🤔 I'd rather not be nagged at home to turn this on, thanks.<br> :date: __2021-03-19 19:13:23__
+
+> It says it is unable to check for exposures as Bluetooth is turned off, but it's on.<br> :date: __2021-03-16 03:27:16__
+
+
+
+#### 2-star reviews
+
+<p align="center">
+<img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
+</p>
+
+> not willing for a computer to tell me to isolate so i cannot use this app. how does a computer know if i might have/have not got covid 19 bug?????<br> :date: __2021-06-09 09:38:36__
+
+> Keeps telling me a new version is available - go to app store, no update option, just uninstall or open<br> :date: __2021-06-06 13:29:11__
+
+> Absolute rubbish no information whatsoever NHS app for England far superior<br> :date: __2021-05-16 13:59:20__
+
+> Newest version no longer available for my phone. This means lower protection as lockdown is ending. very angry at this.<br> :date: __2021-05-01 01:13:48__
+
+> Too slow to react. The app is only as good as the data it has to work with. I got a notification I should isolate for -6 days (yes minus 6 days) it took that long for the data to be made available to the app...<br> :date: __2021-04-13 11:47:25__
+
+> It doesn't provide any live longer Information.<br> :date: __2021-04-06 11:13:28__
+
+> Twice in three days I was contacted to isolate for 10 days despite never being in anyone's company inside or out within two meters I haven't even been near my own family. If passing someone on a pavement within seconds triggers the app for you to isolate then what's the point? They sell coffee at a door where people congregate on a pavement less than two meters to get past?<br> :date: __2021-03-13 10:03:34__
+
+> Gave me a notification saying I had been in contact with someone with covid and had to self isolate....10 days AFTER I had been in contact with them and I only had to isolate for 1 day?? Not convinced it works or it is very slow to update you.<br> :date: __2021-02-19 14:05:01__
+
+> When I first got the App I thought it was great to have it but now I am convinced it doesn't work giving people false confidence they've not been in contact with Covid, I have been in close contact with covid infected people yet never had notification. I think its flawed by requiring people to self input if they have it. Yet reading other reviews such as people in same household both entering details and none being informed that they've been in close contact? Raises suspension app authenticity<br> :date: __2021-02-14 10:44:35__
+
+> I was quite naive and feeling safe because I hwe receuved zero contact alerts, so was blissfully confident that I was OK. Until today that is, when I discovered that a) there was an update that was not automatically applied, b) there are so many criticisms of the app and c) so many complaint communucations to the developer remain unanswered.... Is the app a complete con? Is it just to calm the naive and stupid like me. I had not encountered any issues, but then I didn't expect to.. I was safe???<br> :date: __2021-02-14 01:07:48__
+
+
+
+#### 1-star reviews
+
+<p align="center">
+<img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
+</p>
+
+> 100% useless for me, as a truck driver i am in England more during the week and there is no sync with anything in England, needs a vaccination status as more will need proof of status in the coming months, I have 3 events in October that require status yet the Scottish government deem this not necessary, if I am not allowed in these events due to the Scottish NHS not being any use whatsoever in providing DIGITAL PROOF AT WILL then I expect the Scottish government to refund my monetary losses...<br> :date: __2021-06-10 16:31:31__
+
+> Constantly checks for exposure and flattens phone battery.<br> :date: __2021-06-07 20:43:20__
+
+> It didn't even notify me when I was in close contact with someone who had tested positive<br> :date: __2021-06-03 18:58:04__
+
+> This app was supposed to be a tool to get us out of lockdown faster. Turns out it was just a publicity stunt by the Scottish Government. No point in having it draining my battery and slowing down my phone when we're not allowed go anywhere.<br> :date: __2021-05-29 09:26:48__
+
+> Tested positive unable to upload code given. No way to report that I could see that all my contacted people were warned. Nothing showed on my app. No advice was given. I did my duty but there is no evidence to me that the app is functioning.<br> :date: __2021-05-21 08:42:03__
+
+> Totally unclear whether it is doing anything<br> :date: __2021-05-20 23:53:37__
+
+> I've never been able to use this app, as it's incompatible with phones made before ~2017, which is quite disgusting given the reason for its existence.<br> :date: __2021-05-13 17:33:32__
+
+> Don't think this app works as good as it does any more. When I used to switch off Bluetooth I got a notification now it doesn't do anything<br> :date: __2021-04-28 18:13:57__
+
+> Waste of time<br> :date: __2021-04-27 14:25:19__
+
+> Truly ridiculous that there is a different app for Scotland. I need to have the England one as well and deactivate the other one every time I cross the border. Proof that devolution is a total waste of time and money.<br> :date: __2021-04-20 11:47:01__
+
+

@@ -179,6 +179,8 @@ No recent reviews available with 4 stars.
 <img src="1_star_reviews_wordcloud.png" alt="uk.ac.cam.cl.covid19sounds 1 reviews"/>
 </p>
 
+> Why i shoukd wait for research?<br> :date: __2021-06-07 17:15:16__
+
 > Broken... Doesn't work<br> :date: __2021-01-10 17:21:19__
 
 > I cant open it<br> :date: __2020-10-20 00:37:26__

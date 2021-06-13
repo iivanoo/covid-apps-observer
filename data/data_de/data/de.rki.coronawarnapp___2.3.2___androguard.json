@@ -1,0 +1,34 @@
+{
+    "permissions": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.CAMERA",
+        "android.permission.BLUETOOTH",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "activities": [
+        "de.rki.coronawarnapp.ui.launcher.LauncherActivity",
+        "de.rki.coronawarnapp.ui.main.MainActivity",
+        "de.rki.coronawarnapp.ui.onboarding.OnboardingActivity",
+        "com.journeyapps.barcodescanner.CaptureActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity",
+        "com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity",
+        "com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "http://schemas.android.com/apk/res-auto",
+        "https://developer.android.com/reference/com/google/android/play/core/assetpacks/model/AssetPackErrorCode.html",
+        "https://localhost",
+        "https://s.coronawarn.app?v=1#",
+        "https://s.coronawarn.app/?v=1#",
+        "https://e.coronawarn.app?v=1#",
+        "https://play.google.com/store/apps/details?id=de.rki.coronawarnapp",
+        "https://e.coronawarn.app",
+        "https://s.coronawarn.app"
+    ]
+}

@@ -155,6 +155,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Include an option to run it without charging<br> :date: __2021-06-10 09:12:51__
+
+> Easy to use and nice to help.<br> :date: __2021-06-09 16:19:23__
+
 > It's nice to be able to help research without having to lift a finger!<br> :date: __2021-06-06 07:31:11__
 
 > This is an excellent app. It works while the phone is charging. It is good to know that this app is helping to save lives.<br> :date: __2021-06-05 10:35:18__
@@ -171,10 +175,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > If it helps, why not<br> :date: __2021-05-27 09:29:19__
 
-> Thanks for paying it forward !!!<br> :date: __2021-05-26 06:25:37__
-
-> Cool idea, so easy to use<br> :date: __2021-05-24 05:43:37__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Easy to use and good it's good to help<br> :date: __2021-06-10 11:39:23__
 
 > It's good to put idle resources to use. Id like the stats updated more frequently<br> :date: __2021-06-06 00:07:35__
 
@@ -200,8 +202,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > A great opportunity to contribute.<br> :date: __2021-04-19 00:09:11__
 
 > Fantastic idea and use of spare computing capacity, for great causes. Much needed! Minus 1 star, because the app keeps changing from Corona Phase 3 to Demystify. It should continue with my chosen project every time I plug in!<br> :date: __2021-04-15 03:45:17__
-
-> I have used this for a while now. Curently supporting Imperial College it runs for over a hour but complets 0 calculations.<br> :date: __2021-04-08 17:14:29__
 
 
 
@@ -239,6 +239,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
+> I've been using this app for a while but recently it has been overheating my Nokia 5.3 too much to the point the battery is draining and I've woken up a few times to a phone that has turned itself off! This has now been uninstalled.<br> :date: __2021-06-08 04:34:42__
+
 > The app increase the heat on the device!!<br> :date: __2021-06-04 00:29:33__
 
 > Won't stay working on Android 11<br> :date: __2021-05-25 13:42:18__
@@ -256,8 +258,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > I was so excited to contribute to a worthy cause, but it makes my phone unusable when charging. It just needs to have some more settings.<br> :date: __2021-03-07 18:17:45__
 
 > App doesn't start up when plugged in, even on manual start, just keeps saying data will restart the following month, even though setting is for wifi.<br> :date: __2021-03-03 02:00:52__
-
-> What's the reason for rarely updating users on progress % of research project? It's really irritating to dedicate hours of your devices power for weeks and still not see the percentage budge.<br> :date: __2021-02-28 08:51:42__
 
 
 

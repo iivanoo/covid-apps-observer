@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> Several different ways to deal with stress<br> :date: __2021-06-09 16:45:30__
+
 > Very relaxing and it helps me stay relaxed.<br> :date: __2021-06-02 19:52:02__
 
 > Great App. Highly encourage it. Not just for COVID Times. Very awsome tools!<br> :date: __2021-05-28 21:01:20__
@@ -158,8 +160,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 
 > Great app. Simple, easy to apply every day.<br> :date: __2021-03-28 19:58:29__
 
-> It's very useful on how to cope and helping recognize moods. Only used one day so far.<br> :date: __2021-03-24 02:32:55__
-
 
 
 #### 4-star reviews
@@ -167,6 +167,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 4 reviews"/>
 </p>
+
+> Alot of good info<br> :date: __2021-06-07 08:50:16__
 
 > Find this app helpful for mood check and ptsd assessment.<br> :date: __2021-05-26 01:51:00__
 
@@ -185,8 +187,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > Great app jas measures features and you can chart your progress<br> :date: __2020-11-08 18:29:04__
 
 > Great app. Lots of information to learn about your mental health.<br> :date: __2020-11-01 01:34:40__
-
-> Haven't had to use it but it appears to have resources that would help someone in need<br> :date: __2020-10-10 19:35:22__
 
 
 

@@ -169,6 +169,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
 
+> Lauft mit Garmin Fenix 5. Verbesserungsideen: Integration zur Corona Warn App.<br> :date: __2021-06-07 21:42:28__
+
 > Schade, gute Idee! Ich habe die App sofort installiert. Leider ist auch nach dem Update die Samsung Fitness App noch immer nicht dabei.....und ich glaube das liegt bestimmt nicht an Samsung. Ein wenig warte ich noch...nun nach einem Jahr wird neu installiert. Nun geht es auch mit Samsung<br> :date: __2021-04-22 10:39:34__
 
 > Die App muss einfach Effektiver werden. Ja, ich bin für Datenschutz, aber bin der Meinung das dieser auch unter solchen Umständen Grenzen haben muss.<br> :date: __2021-01-31 14:46:39__
@@ -186,8 +188,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich gebe erstmal nur 4 Sterne, weil ich die Idee oder den Hintergrund ansich sehr gut finde. Ich möchte auch sehr gerne helfen. Leider habe ich mein Band (Honor Band 5-e28) nicht gefunden. Ich hoffe, das mein Band bald dabei ist. Dann gibt es auch den 5. Stern. Bleibt alle gesund! Nach 7 Monaten.... Von Ende April bis Ende November ist es noch immer nicht möglich, Huawei zu wählen. Sehr schade, da diese Marke ja doch von vielen genutzt wird.<br> :date: __2020-11-30 18:13:48__
 
 > Gute Einsichten in die Forschungsergebnisse. Aber jetzt bekomme ich eine neue Uhr, die ich hier nicht auswählen kann um weiter teilzunehmen.<br> :date: __2020-11-29 11:18:53__
-
-> Installiert vor 3 Tagen, verbunden mit POLAR. Datenspende 0 Tage? Edit am 14.11.20: endlich werden die gesendeten Tage angezeigt.<br> :date: __2020-11-14 08:12:25__
 
 
 
@@ -253,6 +253,14 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Huawei wird leider nicht unterstützt<br> :date: __2021-06-11 13:32:56__
+
+> Mi fit wird nicht unterstützt<br> :date: __2021-06-11 08:23:08__
+
+> Schade, Xiaomi Mi Fitness-Tracker lassen sich nicht auswählen ... Schon wieder ein Fehl, genau wie die Corona-APP Version 2.3.2, was soll ich sagen, mir fehlen nur noch die Worte.<br> :date: __2021-06-10 09:45:05__
+
+> Über 1 Jahr später und immer noch nichts für Samsung. Dann halt nicht..<br> :date: __2021-06-10 09:17:24__
+
 > die App funktioniert seit einiger zeit nicht mehr . Löschen kann ich mich auch nicht keine Verbindung zum Server<br> :date: __2021-06-05 14:42:23__
 
 > 1. Schade um die Steuergelder für diese Entwicklung 2. Nur mit Wearable nutzbar, also 2 Klassengesellschaft auch hier. 3. Keinerlei Reaktion des RKI auf Kommentare hier. 4. App wieder deinstalliert.<br> :date: __2021-06-01 08:47:48__
@@ -264,13 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Kann ich nicht nutzen mit MiFit also wieder gelöscht, hätte gerne geholfen aber App unterstützt nicht meine Uhr.<br> :date: __2021-04-24 13:37:27__
 
 > Die App ist völlig wertlos. Erst nach der Installation erfuhr ich, dass die App nur mit Datenarmband etc. funktioniert. Man kann nirgendwo manuell Daten eingeben. Also völliger Datenschrott.<br> :date: __2021-04-24 11:18:29__
-
-> Was soll das? Hat man nicht berücksichtigt, dass es Menschen gibt, die *kein* Fitness-Armband ihr Eigen nennen, aber trotzdem die Erfahrung weitergeben möchten? Schwach, ganz schwach.<br> :date: __2021-04-24 07:59:52__
-
-> kann neue version2. 0 nicht installieren<br> :date: __2021-04-22 09:32:37__
-
-> Funktioniert nicht mit MiBand, obwohl das ziemlich häufig sein dürfte. Ist halt nur "der" Einstiegstracker in dem Bereich..<br> :date: __2021-04-21 10:39:18__
-
-> Schwach - ganz schwach Wenn es möglich wäre würde ich sogar den einen Stern streichen. Wozu schreibt man hier was? Nach einem Jahr - Glückwunsch an mich für 365 Tage (unnütze?) Datenspende - ist meine Uhr Huawei Watch GT2 immer noch nicht dabei. Nur andere komische Dinger. Mann, Mann, Mann Leider nicht möglich Huawei Watch GT2.... Rest gelöscht<br> :date: __2021-04-14 09:54:04__
 
 

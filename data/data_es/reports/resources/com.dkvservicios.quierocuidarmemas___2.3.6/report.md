@@ -217,6 +217,10 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Todo genial 😊<br> :date: __2021-06-10 11:59:15__
+
+> Me encanta seguros DKV<br> :date: __2021-06-07 18:01:22__
+
 > Perfecto<br> :date: __2021-06-05 17:35:43__
 
 > Me parecía complicada pero no lo es. Es facil<br> :date: __2021-05-31 13:33:33__
@@ -232,10 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Espectacular la aplicación y todos los servicios<br> :date: __2021-05-18 18:38:04__
 
 > La atención por video llamada es muy puntual, cómoda y práctica. Gracias!<br> :date: __2021-05-17 12:24:34__
-
-> Todo perfecto<br> :date: __2021-04-22 12:13:29__
-
-> Buenísima médicos buenísimos<br> :date: __2021-04-16 19:14:47__
 
 
 
@@ -321,6 +321,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Atención al cliente NEFASTA. Te tienen de un teléfono de pago a otro como un bobo, con unos tiempos de espera RIDICULOS y después ENCIMA te cuelgan ellos y te dejan hablando SOLO.<br> :date: __2021-06-08 19:20:28__
+
 > La aplicación tiene muchos usos, está muy bien planificado pero cuando uno está en las citas médicas las llamadas se cortan, esta es la 2vez que me pasa y no es problema de mi Internet, porque justo para evitar esa situación tengo el módem a mi lado literalmente a mi lado, luego sale conectando por buen rato, voy a la carpeta médica y el médico pone que me ha llamado 3 veces y que no he contestado y yo en shock, porque el sms que sale es que "el profesional a terminado la llamada. Entonces???<br> :date: __2021-06-01 17:47:08__
 
 > La peor APP que he usado. Me voy a dar de baja como asegurado. No consigo cita nunca ni me atienden, sólo se pasan el balón de uno a otro. Busquen otra aseguradora, se los recomiendo.<br> :date: __2021-05-31 13:32:24__
@@ -338,7 +340,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > La aplicación le tenéis que dar un arreglo falla más que una escopeta de caña<br> :date: __2021-05-13 18:07:02__
 
 > Pésimo entras tarda en cargar, o da contraseña errónea termino bloqueada, nada fácil, no logro hacer nada<br> :date: __2021-05-10 07:41:05__
-
-> Muy mal, no me deja introducir mis datos y acceder a mi perfil, me da error y dice que los datos introducidos no existen.<br> :date: __2021-05-10 01:46:50__
 
 

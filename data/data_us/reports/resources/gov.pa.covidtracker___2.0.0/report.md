@@ -254,6 +254,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> This app is worthless. They dont use actual hospital or govt med records to create the database. My neighbor had covid, went to the hospital, it never alerted. So what's the point? Less than 1M people used it. Philly 7M people, PA over 20M. It's worthless. I can get the same alerts from Philly's OEM text service. Even Citizen app. This has no reliable functionality other than giving current Covid numbers. It can't warn you effectively.<br> :date: __2021-06-07 14:12:29__
+
+> Biggest hoax!<br> :date: __2021-06-06 20:23:45__
+
 > Junk app.. get it off my screen I'm tired of seeing it<br> :date: __2021-05-30 20:23:30__
 
 > The numbers for total cases, hospitalizations and deaths given in this app are incorrect. This should be investigated and rectified. The Commonwealth itself is spreading misinformation. Shame on them. Remain vigilent and know your source information. Don't waste your time with this app. It's useless.<br> :date: __2021-05-29 23:04:50__
@@ -269,9 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Old data. The paper has more current numbers. How is that even possible?<br> :date: __2021-05-12 15:15:20__
 
 > Privacy concerns - after all the promises of privacy and safeguards, 70,000 people had their private information from the company doing contact tracing leaked online. Pass on the government Spyware.<br> :date: __2021-05-12 13:35:48__
-
-> Tt Is<br> :date: __2021-05-05 22:18:12__
-
-> This app just had a huge data breach<br> :date: __2021-05-03 15:16:08__
 
 

@@ -178,6 +178,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
 
+> Si eres de edad avanzada tienes que ir mes a mes lo que se hace aburrido a la hora de tener que poner tu fecha de nacimiento si es antigua. Aún así muy buena app<br> :date: __2021-06-09 11:27:27__
+
 > No la preciso porque casi no me ralaciono con nadie y estoy vacunado. Pero es una ayuda el tener una app que evalúe mi situación. Gracias.<br> :date: __2021-06-04 20:00:18__
 
 > App intuitiva fácil de manejar e imprescindible en los tiempos que corren.<br> :date: __2021-05-20 01:27:36__
@@ -195,8 +197,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Buena<br> :date: __2020-07-01 16:28:31__
 
 > Muy util<br> :date: __2020-06-23 17:50:47__
-
-> Esta bien la aplicación para hacerte autotest de coronavirus pero espero que mejore más está aplicación<br> :date: __2020-05-29 01:23:56__
 
 
 
@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Una tontería de aplicación<br> :date: __2021-06-06 22:09:40__
+
 > La experiencia ha sido desastrosa. Pese a haber introducido la sintomatología, la aplicación me decía que estaba todo en orden y hemos tardado más tiempo en avisar a sanidad para que nos hagan los test. Y en nuestro caso la tos no ha sido seca, sino productiva...<br> :date: __2021-04-30 09:40:26__
 
 > Imposible introducir la fecha nacimiento escribiendo los datos. Solo sale un desplegable. Hay que ir pasando, nes a mes. ¿Cuántas veces tengo que ir pasando hasta alcanzar mi año de nacimiento de 1943? He desistido de registrarme<br> :date: __2021-04-14 13:13:52__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Leo que están retrasando la introducción de Radar Covid por culpa de esta app.<br> :date: __2021-02-02 13:13:29__
 
 > Desistalarla es lo unico positivo que tiene la APP.<br> :date: __2021-01-27 13:45:34__
-
-> En esto se gasta el dinero la sra presidenta. En app absurdas que encima no funcionan. Le pongo una estrella porque no deja poner menos.😡<br> :date: __2021-01-27 13:42:20__
 
 

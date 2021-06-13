@@ -202,6 +202,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="5_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 5 reviews"/>
 </p>
 
+> Fast and easy to use<br> :date: __2021-06-10 15:11:41__
+
 > The Doctor was awesome he took the time to answer any question I had. Gave me the best advice and help with my needs.<br> :date: __2021-06-03 23:47:52__
 
 > It was easy to use. Used coupon code to lower payment of visit and barely even waited 5 mins to be assisted by a doctor via video call. The doctor was pleasant and heard all of my concerns. At the end, the doctor sent my prescriptions to my selected pharmacy. It was an easy and pleasant experience. 10/10 would recommend again.<br> :date: __2021-03-05 16:32:27__
@@ -219,8 +221,6 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Ok<br> :date: __2020-11-08 23:28:44__
 
 > Excellent<br> :date: __2020-11-07 13:16:46__
-
-> Great after I was at the Emergency for 2 hour's and the refused to do the text on me<br> :date: __2020-10-29 17:10:42__
 
 
 

@@ -182,6 +182,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 3 reviews"/>
 </p>
 
+> I havent Used It But It's A Utilities Type App & I Can Tell You Why It' s Not Working Right I'm The W.D.A.G. Human Overhead Admin & The Source Laptop Was Hacked & Not Enough Systems Files Remain To Repair The Hackers Are Called Anonomous & Use MININT- Named Laptops & Computers & For The Record I have To Sign On A Printed Out Version Of Owner Rights Being Recourded In Real Time With Witnesses Or There Void The Origanal Copy's Are Still Valid & Mean My Copy's Not Google & Boost Mobile<br> :date: __2021-06-09 23:03:24__
+
 > App is so-so. For some reason it stopped checking data back in February (three months ago) without notifying me. Going to uninstall and reinstall to reset it. Regardless, it should notify every few days if the last check exceeds two weeks.<br> :date: __2021-05-21 23:56:28__
 
 > Even though the app does it's intended job, there is a serious flaw in the fact that most of the people that I've introduced this app to, have said that it is useless. People don't understand the value of self reporting that well. A better approach is if the app presented some updated infection numbers and link to the Local Health Department Vaccine Information website and vaccines.gov to entice people to install this app as their one stop shop for COVID information and vaccination in order to make reporting a no brainer rather than something people have to be cognizant about independently.<br> :date: __2021-05-16 04:51:51__
@@ -199,8 +201,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > L pi pl om 0<br> :date: __2021-02-03 15:23:00__
 
 > Old information<br> :date: __2021-01-26 12:54:59__
-
-> Might work but having to call in to get a PIN is way too much effort. Literally nobody has time for that<br> :date: __2021-01-21 17:15:25__
 
 
 
@@ -238,6 +238,12 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Glad our great state is so great at throwing away our hard earned money. Please explain how the developers name is "State of Michigan". The State of Michigan is not just a person or a government.<br> :date: __2021-06-07 22:32:19__
+
+> MADE FOR POPULATION CONTROL<br> :date: __2021-06-06 19:07:04__
+
+> You have to be insane to give health information to the state. Edit, it's not the app I'm concerned about. It's lying bureaucrats who would use this info for political ends.<br> :date: __2021-06-06 15:04:54__
+
 > First of all the design and structure of your app is of extremely poor integration with user functionality. That's just the tip of the iceberg though. There is a lot of misinformation in this app and there's no other way to say it. What is being used here is a theory with no proven scientific fact or foundation other than slight amounts here and there that don't prove anything specific, but appear to be what is used to give support to this misinformation as some how being valid. Bad app!<br> :date: __2021-06-01 18:42:54__
 
 > Compromised by hacker<br> :date: __2021-05-31 08:57:09__
@@ -251,11 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Stops checking for exposure and doesn't start again. Yes, I've fixed all the settings.<br> :date: __2021-05-20 15:02:27__
 
 > Stopped checking back in February. Luckily I am now fully vaccinated.<br> :date: __2021-05-19 20:05:56__
-
-> App not checking exposure since 3rd April. I have the latest version of the app with battery optimization turned off.<br> :date: __2021-05-18 23:25:55__
-
-> Just another big brother app. Whitmer has lost her mind right along with every other democrat. B.iggest I.diot D.emocrats E.ver N.ominated Way to screw the world over with your ignorance.<br> :date: __2021-05-18 22:55:12__
-
-> Last exposure check was 2/9/21 and it now May 16.<br> :date: __2021-05-16 19:30:21__
 
 

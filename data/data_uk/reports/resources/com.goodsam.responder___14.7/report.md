@@ -284,6 +284,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
+> Uses mobile data like it's going out of fashion. 2 6 hour shift's and I have used 80 percent of my monthly allocation.<br> :date: __2021-06-07 16:37:09__
+
 > I don't receive any volunteer marshall opportunities which is frustrating to do Your response would make sense if I wasn't in the same household who has their phone pinging with opportunities all day ..<br> :date: __2021-06-05 20:45:54__
 
 > Been stuck on the loading screen for 4 days now...<br> :date: __2021-05-27 18:40:24__
@@ -301,7 +303,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Even though I have turned on notifications and location but the crash when ever I click on tasks.<br> :date: __2021-03-20 10:06:46__
 
 > When ever I click on future tasks it turns off so I am unable to check or book any task<br> :date: __2021-03-19 23:36:28__
-
-> I sign on and then think it'll send notification but it hasn't been so someone sends a request I haven't received it so goes to the next responder I'll make sure I have it loaded more often now<br> :date: __2021-03-12 19:36:31__
 
 

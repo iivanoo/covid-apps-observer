@@ -159,25 +159,25 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
-> Very accurate great for tracking parcels ect...<br> :date: __2021-06-04 22:51:57__
+> First time used it and will use again love it.<br> :date: __2021-06-11 11:50:46__
 
-> brilliant<br> :date: __2021-06-04 21:18:54__
+> Great for when expecting parcel<br> :date: __2021-06-11 09:52:17__
 
-> This App is way, way better now since all the extras were added. Being able to buy postage and track it on the same app is brilliant. I couldn't do without it now.<br> :date: __2021-06-04 18:02:37__
+> good<br> :date: __2021-06-11 09:16:53__
 
-> brilliant info<br> :date: __2021-06-04 16:05:27__
+> I always get a smile and I have a little chat when they.<br> :date: __2021-06-11 08:41:10__
 
-> I always use this to track my oackages and its always helpful<br> :date: __2021-06-04 12:59:51__
+> excellent service, well done.<br> :date: __2021-06-10 21:16:36__
 
-> Great for tracking you post or parcels reccomend using this app<br> :date: __2021-06-04 12:44:25__
+> Great service<br> :date: __2021-06-10 12:53:20__
 
-> brilliant<br> :date: __2021-06-04 09:23:42__
+> great service<br> :date: __2021-06-10 11:55:21__
 
-> Royal Mail inform me exactly when it will arrive give or take an hour. excellent service<br> :date: __2021-06-04 08:35:34__
+> great service all the time<br> :date: __2021-06-10 10:05:09__
 
-> Smooth Operation.<br> :date: __2021-06-04 04:23:54__
+> Good communication<br> :date: __2021-06-10 09:13:28__
 
-> super app<br> :date: __2021-06-03 12:09:07__
+> So easy to get parcels redelivered now<br> :date: __2021-06-09 23:13:23__
 
 
 
@@ -186,6 +186,8 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 4 reviews"/>
 </p>
+
+> Was working fine. The new app however just crashes when I go to the track packages tab which was the the main reason I used the app<br> :date: __2021-06-10 16:28:17__
 
 > Seems good for UK postage and would like it to extend to be able to buy stamps for overseas delivery<br> :date: __2021-06-04 16:33:04__
 
@@ -200,8 +202,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 > Great app to use<br> :date: __2021-05-26 11:48:39__
 
 > good to send or track parcels<br> :date: __2021-05-25 11:21:56__
-
-> Was working fine. The new app however just crashes when I go to the track packages tab which was the the main reason I used the app<br> :date: __2021-05-24 18:06:01__
 
 > Royal mail have been the main UK postal service since Time began! and have always been reliable! l don't think they have the public faith that they used to have Year's ago! but they've coped admirably during this Pandemic and most likely clawed back some of that missing public faith! Well done Royal Mail!<br> :date: __2021-05-24 15:47:43__
 
@@ -271,24 +271,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> if tracking says will be delivered sat.means nothing.and can not call them.so very annoying.stayed in all day.for nothing.<br> :date: __2021-06-05 20:47:22__
+> Worst experience.... spend all day for a parcel and it is 3:30 pm and didn't received it....<br> :date: __2021-06-10 16:30:47__
 
-> Worst app and service 8v ever experienced. Next day by 1pm is over a week late and the app is just completely non responsive. No way to talk to a person and our local office has closed. This company needs to die and save the British people the embarrassment of have to deal with them<br> :date: __2021-06-05 12:09:09__
+> not great also that spent 4 days waiting for a sim card getting delivered by Royal mail other delivery company's delivered in 1 day Royal mail is the Worst delivery service in the UK totally Rubbish royal mail you deserve NO STARS<br> :date: __2021-06-10 13:46:02__
 
-> Like the rest of it, the '"Royal" Mail', barely satisfies minimum requirement.<br> :date: __2021-06-05 10:15:36__
+> hate wasting time‼️ they leave you many hours between potential delivery, so have you waiting in alllll day, to just not show up and claim they couldn't get access to the property for an already redelivery. so annoyed with this service, ruined my entire day. wish me luck someone with a brain tries to re re deliver today<br> :date: __2021-06-10 08:13:51__
 
-> Was working great but not now. Wouldn't open kept crashing so i uninstalled the app, and now it won't download to reinstall<br> :date: __2021-06-05 06:44:33__
+> Crashes upon opening. (Google Pixel 3a, Android 11)<br> :date: __2021-06-09 21:37:36__
 
-> Not really getting anywhere!<br> :date: __2021-06-03 14:23:43__
+> 0/5 Stars Long running customer this app is NO LONGER WORKING. A week ago they apologised said they had trouble a couple of days. Today same thing. Put all details in (as I have for ages) paid.... unable to print. Now I will have to wait 7-10 days for a refund (I haven't received any refund for the 2 parcels last week. until this is fixed. DO NOT USE... OR AT LEAST DO NOT RELY ON IT WORKING.<br> :date: __2021-06-09 20:24:13__
 
-> The app doesn't support letters in the house number for example 56b when you register, why is this?<br> :date: __2021-06-03 14:16:03__
+> Absolutely shocking I ordered for next day delivery an they tried to order it to the wrong house really wound up about this poor still haven't got it got to collect it tomo from my local post office but timing is terrible for me as work long days 🤬not happy at all Won't be ordering through royal mail postage again<br> :date: __2021-06-08 22:49:47__
 
-> Most of the time the tracking number you've got cant be tracked as it's not recognised 😡😡<br> :date: __2021-06-03 12:01:53__
+> lost my parcel and don't seem v bothered to be honest .foundcustomer care incompetent and uncaring<br> :date: __2021-06-08 19:55:54__
 
-> Just takes you to the website, not much you can do other than track (which is not updated anyway)<br> :date: __2021-06-02 20:41:11__
+> I can't get the app to print at home so I have to go to a delivery office to get them to print it, but they're shut most of the time. Amazingly this has actually made the time consuming process of sending a letter....even more time consuming!<br> :date: __2021-06-08 16:39:22__
 
-> my order status online says ready to delivery since 26.05.2021 but i have not received it yet. i have been trying to contact Royal mail ever since but there ia no way that I could get in touch. Seems like ai need to just forget about my delivery. This is not what I was looking forward!!!<br> :date: __2021-06-02 17:26:24__
+> Tried to install the app on Samsung Edge but got a message saying my mobile wssn't compatible, What does this mean? Do I need a brick mobile to be sccepted? poor show Royal Mai. Now I just track via the website<br> :date: __2021-06-08 00:42:52__
 
-> App is useless what's the point in having an app if it does not work properly some one needs to sort it out it's a joke of an app<br> :date: __2021-06-02 15:36:12__
+> Royal Mail very often do not deliver the package but seem happy to lie by claiming they have. This very unprofessional and unethical action has left me out of pocket on more than one occasion. I now do my best to avoid buying anything that is being delivered by Royal Mail.<br> :date: __2021-06-07 19:56:50__
 
 

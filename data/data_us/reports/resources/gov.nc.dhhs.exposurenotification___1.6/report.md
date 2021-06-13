@@ -159,6 +159,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 4 reviews"/>
 </p>
 
+> We are going to be in the same room<br> :date: __2021-06-09 19:55:27__
+
 > Hope that helps to minimize Covid.<br> :date: __2021-02-27 01:30:59__
 
 > New to this so far.<br> :date: __2021-02-18 18:16:51__
@@ -176,8 +178,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Very good<br> :date: __2021-01-08 19:37:31__
 
 > My SlowCOVIDNC app is working great now. Thank you Governor Cooper, Dr. Mandy Cohen, and everyone working to slow COVID in NC!<br> :date: __2021-01-08 19:13:14__
-
-> Good app.<br> :date: __2021-01-08 18:26:37__
 
 
 

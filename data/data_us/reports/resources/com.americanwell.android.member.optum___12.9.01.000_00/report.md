@@ -178,6 +178,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Nice and easy<br> :date: __2021-06-06 23:26:06__
+
 > Excellent experience<br> :date: __2021-06-05 05:40:11__
 
 > Love it<br> :date: __2021-06-04 17:40:34__
@@ -196,8 +198,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > I love this option, it just like veing at the doctors but at home and fast.<br> :date: __2021-05-25 18:03:22__
 
-> Pretty easy and clear to use<br> :date: __2021-05-21 22:33:57__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Great. To the point<br> :date: __2021-06-06 18:10:19__
 
 > Very efficient and great medical staff.<br> :date: __2021-05-03 23:07:17__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Easy set up. So easy that I forget the password or where I put it but once I was in clear instructions and timely visit. Less than one hour overall.<br> :date: __2021-01-13 22:51:34__
 
 > Except for freezing a little , it was usefull<br> :date: __2020-12-30 20:40:03__
-
-> Great app<br> :date: __2020-12-03 23:06:26__
 
 
 

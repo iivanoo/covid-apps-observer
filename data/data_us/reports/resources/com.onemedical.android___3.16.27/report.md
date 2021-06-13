@@ -229,6 +229,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> It's a great app! Just wish the office check-in for Covid was not an external PDF download.<br> :date: __2021-06-09 13:05:31__
+
 > Easy to see past and upcoming appointments, schedule in visits and, best of all, the video visits are immediately available for urgent or late night concerns.<br> :date: __2021-06-05 17:28:09__
 
 > Really convenient health care<br> :date: __2021-05-25 17:42:23__
@@ -246,8 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Great<br> :date: __2021-04-26 20:29:01__
 
 > Best all in one medical app!<br> :date: __2021-04-18 22:25:10__
-
-> Excellent service!<br> :date: __2021-04-16 23:32:52__
 
 
 
@@ -341,6 +341,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.onemedical.android 1 reviews"/>
 </p>
 
+> cannot log in to app on Android/pixel 3. password works fine on website.<br> :date: __2021-06-11 01:40:34__
+
 > John Muir sent follow-up instructions after a mammogram and no one at One Medical bothered to read or act on them for 8 months.<br> :date: __2021-05-27 18:24:56__
 
 > Medical scam. They charged me $540 for Zoom calling my doctor for 10 min to refill a birth control prescription that I had already been using for two years with no problem. Unbelievable.<br> :date: __2021-05-26 17:44:59__
@@ -358,7 +360,5 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Really frustrating. Impersonal. Lots of flaws. They cancelled my Covid Vaccination appointment when I went inquire about it. I scheduled my Covid Vaccine over a week ago for an appointment a week later. I tried to call to make sure I had everything I would need to verify my occupation, I waited on hold for almost 20 minutes and finally had to leave a message. They never called me back like they said they would. Then I left another message. No call back. I had to use their chat service. Their representative was impersonal, wasn't aware of Los Angeles guidelines, and was no help. I inquired using their message service and was told that the facility I made the appointment at isn't where they are doing vaccinations (despite the fact that that's what I specifically made the appointment for). Rather than trying to help me, the representative cancelled my appointment and basically said, "good luck." I can't believe they are charging $200 a year for this.<br> :date: __2021-02-24 22:30:10__
 
 > The app does not even open and immediately crashes<br> :date: __2021-02-01 15:50:40__
-
-> Horrible, steer away at all costs<br> :date: __2021-01-30 21:06:27__
 
 

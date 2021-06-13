@@ -240,8 +240,6 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 
 > Die angebotenen Downloads funktionieren nicht!<br> :date: __2020-03-27 11:27:29__
 
-> Katalog nicht verfügbar !  Tolle App, neu installiert und erste Message: Katalog nicht verfügbar. Gleich wieder gelöscht - unzuverlässig.<br> :date: __2017-10-16 19:01:18__
-
 > Kann mir jemand helfen, es steht immer da Server kann sich nicht verbinden. Ich habe kein Katalog.  Danke<br> :date: __2016-08-01 08:38:36__
 
 

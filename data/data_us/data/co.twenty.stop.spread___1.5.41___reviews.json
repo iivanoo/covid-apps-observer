@@ -1,5 +1,101 @@
 [
     {
+        "reviewId": "gp:AOqpTOHzD3pi7-gn_D6VU5si2ZQ4WMyM6ETXoaaBv32djUQg0xnK3XDpZz7yLjKHmoY5H1s6xaPGXc8lUEoZ8qg",
+        "userName": "Melvin Loyola",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinD4MofCK4LVCUh-FYRVVG4mFradS3KyBCol1brrE",
+        "content": "Everytime I try and log in. It doesn't work.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-10 15:01:36",
+        "replyContent": "Hello Melvin, thank you for reaching out. I would love to assist further - please email us at support@healthytogether.zendesk.com with additional information about what you are experiencing so we can look into this for you. Thank you!",
+        "repliedAt": "2021-06-10 22:53:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOGhEl-W3PXc-5UqGwmTAjEyFYAqT6wJgA1VfJHxHyhjQB4PDqadcdQuQ-r9H3QJUvW6hAr17MkWBZypJ0c",
+        "userName": "Robert Schroeder Jr.",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwcopvoJCVWmR-VbEEeScRTeZK3MOPbB4RqkQ83bw=mo",
+        "content": "Works well",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.41",
+        "at": "2021-06-10 01:47:24",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHZSsTQ3GOPqScWGRLLbcR8uxauL2g0IygfBVkq2uPhPjIsl0qFGGxDz4zllpPd2dPOgeP_FrXxS5nzNug",
+        "userName": "silvia giovanna picasso-knorr",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiPZfcpsJeO6ZQWKBSga_KoXXk7MWM0I1DuL_Wf",
+        "content": "Awesome",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-08 21:32:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGi3ylkRNpK1NG51dNzdUEidPxyQI5-YmiZGPhISXpbHEHsWyZRTEX7wstnDj2jeD4tWxERkZju5X6YQoQ",
+        "userName": "M LEW",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gin1Zr59PNHOgxxEl5_HG374Vu6OvbBsVrhwnL7cQ",
+        "content": "Very Professional and Private",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.41",
+        "at": "2021-06-08 15:00:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGrwjXrzdN7OTwpXnMmn6veHGKtfjISMnHg0knQreZrI5KJlKv_TpgN5t7B4fkk5cxeSVR_uNzrG92SI98",
+        "userName": "magnell lee",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwqghj2PRYoWl2M8MGtre5B97Q_uziec9LJxzyk=mo",
+        "content": "Fast and effective",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.41",
+        "at": "2021-06-07 18:17:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHzTqLOEzvi5ahY_msm28ojG5Xlkt1xp_Y69ycTnk2cnXfVGif4ihUfFZPP3ac4ApooWMZduGOkh0DvPEY",
+        "userName": "Atef Youssef",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjMU6R9n3HgYqDNnvYhq1hl55QY8fyzmqsusVoItw",
+        "content": "good job, thanks",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.41",
+        "at": "2021-06-07 17:53:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGO2AJEqScWVrKb8FaM4DPmhT2xS255FAEIq34_Yj7G_RNS9kpKiBNsf0ljX48Uv5kvfH809tUKITtYR2U",
+        "userName": "Leigh Foglia",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-e0ztOXd290R4gx0qoteC8j4v_6jJRVz2NsDRXpg",
+        "content": "Terrible app . Doesn't work. Why is it like trying to unlock king Tutts Tomb To get to Covid 19 test results through a text message. This app did not get me the results after many attempts.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-06 23:28:47",
+        "replyContent": "Hello Leigh, thank you for reaching out. I would love to assist further - please email us at support@healthytogether.zendesk.com with additional information about what you are experiencing so we can look into this for you. Thank you!",
+        "repliedAt": "2021-06-07 16:30:48"
+    },
+    {
+        "reviewId": "gp:AOqpTOEuc68Sq1UOrCJMwBJsafeikesf4ER86xcjfq-gwkAsTGwnIcTZzk75PacIy-Y17jB_l8CTvUyag1jidhI",
+        "userName": "Jose Augusto Soto Martinez",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzmJt5OECdfFLxTzdrWTgsBy-iK1iv57bVNsUJ4=mo",
+        "content": "Great App & very confidential",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.41",
+        "at": "2021-06-06 21:54:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOG_tfmJlr3mbqyrSABrgQfE7N66QSjxYPcOVERTC90GacNcYVw3cWtxVhbhO03XMrrjoy2dxRL8qq6h-Ik",
         "userName": "Dennis Anderson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gij-4o4Vq9lfizyqKxI-VU2SACdzIkLpxaR84Ha",
@@ -8,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.41",
         "at": "2021-06-05 20:18:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Dennis. Healthy Together has been contracted by your state to expedite the secure delivery of test results. You also have the option of calling your testing center directly. You can read more about your privacy policy here: https://www.healthytogether.io/legal/privacy - thank you",
+        "repliedAt": "2021-06-07 16:27:16"
     },
     {
         "reviewId": "gp:AOqpTOE5QjSDcaoUSiSt41nPXqkxOu57Zzvja3vw_9QZY8unqWzXFmfd6ZFa7T95gdQWK7tCFWGCC6YNeuzO5OY",
@@ -50,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOEy9sk0BwZlzW4FIT2trnMoDs-6226GbXp0uvGd8GopB5PNaaZBFB_JhboB9Y5ra-qmLjbQzB6PBp1RczA",
         "userName": "Gloria McNeal",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxZIgt4uz5340KEKLm75Wzzql5wfGVFEJdUR7eh=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtiJ7-MWFpBPFf31JnyWE_5W2HA9RC33kY6LBI-w",
         "content": "I Love having a remote place to keep my results.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -80,8 +176,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.41",
         "at": "2021-06-04 18:34:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Kathleen. Please send us an email to support@healthytogether.zendesk.com so we can try to help you access your results. Thanks!",
+        "repliedAt": "2021-06-07 16:29:59"
     },
     {
         "reviewId": "gp:AOqpTOGYv9DBImI0AO_aOawEklbi7MjFuKB3PI1gBrPo-ZF8F7AF2kpNbX5K3e6Svfh15ukmjKfc0lHyxC7e0AU",
@@ -104,8 +200,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-04 01:25:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Tenorio. Healthy Together asks for your phone number, name and DOB so the Department of Health in your state can associate the correct test results to your account. You also have the option of calling your testing facility directly. You can read more information in our privacy policy here: https://www.healthytogether.io/legal/privacy",
+        "repliedAt": "2021-06-07 16:34:38"
     },
     {
         "reviewId": "gp:AOqpTOFdtMVPhl73uj6-JycpGXi7QdqNqkJasTFN9IBaFyvLKvrcYegTTRdCRRdAT4_NtzhwQklJgUj_HMmhqrs",
@@ -116,8 +212,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.41",
         "at": "2021-06-03 22:02:12",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Christine. If you have any specific questions or thoughts, please email us at support@healthytogether.zendesk.com so we can discuss further. Thank you!",
+        "repliedAt": "2021-06-07 16:36:33"
     },
     {
         "reviewId": "gp:AOqpTOE94NC7zb3d1OxghCn0Pj99YkBqIzeBS9jv4cjAORutwisWcYAP2R_paKzOi8D68ZHPoClDNk4KwgIYoc0",
@@ -245,7 +341,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYeDjdh9w5PEDWH0M96jW8_8KC8rnGIQLuCgciaNE",
         "content": "all the staff at the site was easy to talk to, line was long but it flows quite quickly. did a rapid test on my daughter and the other for me I got a call in the afternoon with the result, early the next morning I got mine via the app.",
         "score": 5,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 31,
         "reviewCreatedVersion": "1.5.41",
         "at": "2021-05-28 15:54:38",
         "replyContent": null,
@@ -308,8 +404,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.5.41",
         "at": "2021-05-27 15:30:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Esther, thank you for reaching out. I would love to assist further - please email us at support@healthytogether.zendesk.com so we can look into this for you. Thank you!",
+        "repliedAt": "2021-06-07 16:38:30"
     },
     {
         "reviewId": "gp:AOqpTOGZy5UALQc47s-V3cSShGSP--Cr3yNJ04EVB4Av1541yEY6NAp_EDKVc4Z6xv5H8y_2Ev_8aLSphaPp-uw",
@@ -905,7 +1001,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMs-8pOJ90C008JsEDU8O6mQcALG1qpyJXaBa0Vg",
         "content": "Overcomplicated for no reason. Can't believe I had to install an app to get test results. My quick test results can be emailed or texted but the PCR results are somehow special and needed an extra level of security. Someone got paid for making this useless app. What a waste of resources.",
         "score": 1,
-        "thumbsUpCount": 99,
+        "thumbsUpCount": 110,
         "reviewCreatedVersion": "1.5.41",
         "at": "2021-05-13 21:31:43",
         "replyContent": null,
@@ -1145,7 +1241,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz2rrZ_TwAuw1-ci4sDL5PmpFszojGIQwdaYptv=mo",
         "content": "Test results. Horrible. I got a text message at 9:18 am on Saturday 5/8/2021. It said my test results were ready. I had to go download the app. Then when I finally got in there. I have no test results. And it states to wait 5 days to contact the place where I got tested. I want to get my results. NOW..",
         "score": 1,
-        "thumbsUpCount": 200,
+        "thumbsUpCount": 212,
         "reviewCreatedVersion": "1.5.41",
         "at": "2021-05-08 16:27:16",
         "replyContent": "Hello Michael, Please send us an email to support@healthytogether.zendesk.com with this information so we can look into this further. Thank you!",
@@ -1457,7 +1553,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh9ljVM1E7f9YwftWDjulhl6zEcUp5Lp4glnWM-Dw",
         "content": "For anyone who happens to have a cellphone number with an area code of one of the territories of the US, remember to change your region to that territory. Keeping your region as United States will result in the app being unable to accept your number. This minor frustration aside, the app was sleek and easy to use. Nicely done.",
         "score": 5,
-        "thumbsUpCount": 74,
+        "thumbsUpCount": 80,
         "reviewCreatedVersion": "1.5.21",
         "at": "2021-05-03 17:26:02",
         "replyContent": null,
@@ -1620,18 +1716,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOEQUD6BNNFtCNzyqBBkk9VabFG6S5o_HCwUkG_BAPGNaATddgL4OW2ZZSaLAQQEyuoCxaMpOePDFGmLemI",
-        "userName": "Luis A Lopez",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz99EHGqdc5bHxYgv3S9rbhYBgqvx9eUOFxJ7pY=mo",
-        "content": "I can't even request my PIN# using my phone number.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.21",
-        "at": "2021-04-30 23:37:39",
-        "replyContent": "Hello, thank you for reaching out. I would love to assist further - please email us at support@healthytogether.zendesk.com with additional information about what you are experiencing with your pin so we can look into this for you. Thank you!",
-        "repliedAt": "2021-05-03 19:26:00"
-    },
-    {
         "reviewId": "gp:AOqpTOExzIF5zKGx2COgldxpi1raUmvBQaAzv9WBC7Gj5xph5fW7RpfGw9aHm6PUm7xHJKjgfB6CCiEluER9R6s",
         "userName": "Bridget Sawka",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyrXKY7ZNmRATxyos8Pa44JiJ75XdvHpNkgZSrT=mo",
@@ -1757,7 +1841,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjuvv25fBk2DHTLQVW2SBj6oiXsruFjRk6VU1F_kQ",
         "content": "Worthless app, this should just be a website. No I have to download a application just to get my test results when I could just be sent a simple url to view them... Everything does not need to be an app!",
         "score": 1,
-        "thumbsUpCount": 116,
+        "thumbsUpCount": 118,
         "reviewCreatedVersion": "1.5.21",
         "at": "2021-04-28 15:45:46",
         "replyContent": "Hello Lawrence, thank you for your feedback. If you have any specific questions or thoughts, please email us at support@healthytogether.zendesk.com so we can discuss further. Thank you!",
@@ -4142,7 +4226,7 @@
     {
         "reviewId": "gp:AOqpTOHkTPbhL5vU8OSVOpHDZTXY4uSszyz8gqFKwiEojS6a0zlGyLOEBwuQWGxQQR7WES-6alszEEl-qd4ygg0",
         "userName": "Waiyan Nyunt",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_lbrEtsN2f2FFm-BwdnNONfxtiqEc-6tjej94src",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-77QVZ41jh61WEOM2uIxVB-keLQEdTJXVF_aDiGU",
         "content": "Can't confirm birthday",
         "score": 1,
         "thumbsUpCount": 1,
@@ -4274,7 +4358,7 @@
     {
         "reviewId": "gp:AOqpTOGV_aKH1FldYGFny8whHO-NkgS7BRWkUTAu3mCsespC9J2wNlYRD1EwHmexXvVNxXi07jBz48c-oX2dGHI",
         "userName": "Elizabeth Shelton",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSg95V5fiXQsuKVkM1kQSvQiqWpGjDzdpB7iblog",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEFhcXpuCGO2kXsAteFW3rkczIHkbCsoRb3n6rIQ",
         "content": "Fast and friendly!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6170,7 +6254,7 @@
     {
         "reviewId": "gp:AOqpTOG2r4Hi03TLr_4rqLKRSCN_p8SyZFVXFnrnAl6d2OJ0fyY-BoKuCQ8-1IBtSoiA1TkLeUoavUrLDC4xg1k",
         "userName": "Gary Craig",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GirDKvs318j-HuZBu_lWDikRE0588DxfR7YGO-OBBU",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOEhH141_SwLIVvlHvyp0zwYxvr8xOlA3im-BoMFA",
         "content": "Excellent service",
         "score": 5,
         "thumbsUpCount": 0,
@@ -6761,7 +6845,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy0mKozRczlU5YMJDgnBau93v0rce38vCMbJikw=mo",
         "content": "This experience has been very helpful & easy. I am grateful for your wonderful efforts and talents! This app. ROCKS!!!",
         "score": 5,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.4.80",
         "at": "2021-02-18 02:13:35",
         "replyContent": null,
@@ -10277,7 +10361,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgaOyNwn_Whpt-zAacsfqrmK6vh2As78fAX7YTW0w",
         "content": "Very secure but easy to use.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.4.56",
         "at": "2021-01-26 14:41:02",
         "replyContent": null,
@@ -10490,7 +10574,7 @@
     {
         "reviewId": "gp:AOqpTOEKJLIRCvjIYOKnf-an1NUgM-QZpu0UAEzigbZjYAOgRyrUSTs2XzdrL7wkD-zwFSNUmlTGJBsyBtBZYPU",
         "userName": "Mark Hammond",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjAxC5TFZOoHhTcxytLafMvjwM9vWXJSOV21kSGRpg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfUhefFcv9vK13Pdc3sAgQnq3YGtE5ktlBYQGZmbI",
         "content": "Why doesn't this app use the exposure notifications API in Android?",
         "score": 3,
         "thumbsUpCount": 1,
@@ -11914,89 +11998,5 @@
         "at": "2021-01-13 21:53:56",
         "replyContent": "Hello Valerie! It looks as though you were able to fully install Healthy Together. If you are experiencing issues, please email us at support@healthytogether.zendesk.com so we can look into this for you. Thank you!",
         "repliedAt": "2021-01-14 05:11:50"
-    },
-    {
-        "reviewId": "gp:AOqpTOEDXCXpucr9YkzaCtcWCEE4I16RuW6vyp0s8JUnHqgFZp5kCkh6wVnE2VCA6Tod5TPfChfrloJBzerz2QI",
-        "userName": "Bug 2000",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzaphc5283ldNbnJMSIigb2JW9BngqnSzaZt8y9=mo",
-        "content": "Only downloaded it so that I could get my results, and I ended up having to delete it and reinstall it to see my results because it kept telling me the pin it had just given me was wrong. Very annoying considering I provided my number so that I could have my results sent to me, not so I could be told to download another app to get my results.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": null,
-        "at": "2021-01-13 21:34:08",
-        "replyContent": "Hello! Thank you for reaching out. We're so sorry you are experiencing issues signing up. I would love to assist further - please email us at support@healthytogether.zendesk.com with additional details so I can help resolve this. Thank you!",
-        "repliedAt": "2021-01-14 05:13:46"
-    },
-    {
-        "reviewId": "gp:AOqpTOGw78ymRu0KKQSuBAlGWmcvsF0lM9wmZKo26uAhEJcVz6Rh5-4R7LR0IO8Ws6qUxh8WnFEUCejEVfQiA3U",
-        "userName": "Florence Harris",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXusqluLIOlkHNN1hRpnN841aHRfKJvJBK9TL8Ax4",
-        "content": "this is \ud83d\udc4d easy to use and show others",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.4.35",
-        "at": "2021-01-13 19:34:49",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGSpelAWhW7_U8ucbMXXPf9Qm1NZ4mmqVI9Dv1TsELH2UQVIsIrUTtnYXwIp4-OH1TxKTopc3AQebx-6oo",
-        "userName": "coach fabio",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzAdwOgYmIWp7reh0a1slHZE6bcTqtV6cN0jhwOrGw=mo",
-        "content": "Globohomo art. Not trustworthy. Asks for phone pin.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-01-13 17:30:57",
-        "replyContent": "Hello! Thank you for reaching out. I would love to assist further - please email us at support@healthytogether.zendesk.com with what you are experiencing so we can look into this for you. Thank you!",
-        "repliedAt": "2021-01-14 05:12:46"
-    },
-    {
-        "reviewId": "gp:AOqpTOFIe20OgCd08uT_BCWqlFYRyjwQHZqqMLhFRTFFcI4DzyktHlWm99tHqaCEEkxtw_Nd1HiQzHNvvOBUGk4",
-        "userName": "Janice Watson",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzNfA8Ug4FLNgLGzQ3xuVHRvbFA9juiXh9hCUmE=mo",
-        "content": "All of a sudden the app switched to a foreign language and I can't read any notifications.",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "1.4.44",
-        "at": "2021-01-13 17:00:54",
-        "replyContent": "Hello Janice. Thank you for reaching out. I'm sorry to hear you are experiencing issues with Healthy Together. Please email us at support@healthytogether.zendesk.com with additional information and screenshots of what you are experiencing so we can help fix this. Thank you!",
-        "repliedAt": "2021-01-13 17:30:00"
-    },
-    {
-        "reviewId": "gp:AOqpTOHiBpWGRH4P3k319H9KZERGcwrQAuJfUAM67ipmH7KcnsPsiursTECJgeRMxM_v2K41kVsKMWKvLT88FaE",
-        "userName": "Gayle Kidwell",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwcn_atAqkRvvnkxtdrqNrqBdWZXblxlwLUCUT9=mo",
-        "content": "Very good and fast. Less than 24 hours. 16 hr. turn around test ordered by hospital. Very satisfied!",
-        "score": 5,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "1.4.46",
-        "at": "2021-01-13 15:46:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH3EvIUDwjo4MswKiXRrHDrA1wUsQ0ivuQ9dmZ0lqqHyyJEx2bXvfi3I6f26UP67EFc_YvSoojuFnyqi0E",
-        "userName": "Thomas Millward",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz6rzEFrR31ZNTfxduZ_1M_Uqfdg1qsmotkcONc=mo",
-        "content": "Where is my pin",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.4.35",
-        "at": "2021-01-13 14:19:10",
-        "replyContent": "\nHello Thomas, thank you for reaching out. You will receive a pin via SMS text message to your mobile phone number during the onboarding process. Use this pin when signing up for the app. If you are experiencing issues logging in, please email us at support@healthytogether.zendesk.com so we can assist further. Thank you!",
-        "repliedAt": "2021-01-13 17:28:46"
-    },
-    {
-        "reviewId": "gp:AOqpTOEhwu1pK65LugWLRPDwnPS_-MXRlGe51rOYQcopptEoCKWbL4Y_XgoArUodMHdkLOJJckkwZEDNjqZ7zEE",
-        "userName": "Thelma Davis",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxzK3tBcdgowx5m-gObk_gID7UBhXPnQ1RG0fQ1=mo",
-        "content": "It was easy and ok.",
-        "score": 4,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.4.35",
-        "at": "2021-01-13 02:18:02",
-        "replyContent": null,
-        "repliedAt": null
     }
 ]

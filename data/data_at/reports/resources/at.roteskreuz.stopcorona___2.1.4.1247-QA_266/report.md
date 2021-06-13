@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Probleme wurden behoben, danke! 5 Sterne.<br> :date: __2021-06-09 17:53:44__
+
 > Funktioniert<br> :date: __2021-06-03 22:59:08__
 
 > Tut was es soll. Redmi Note 10 Pro.<br> :date: __2021-05-31 19:57:40__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > ICH LASSE MICH IMPFEN,AMEN<br> :date: __2021-05-05 08:39:22__
 
 > Sehr gut<br> :date: __2021-04-29 07:12:59__
-
-> Diese App gibt mir bis zu einem gewissen Grad Sicherheit.<br> :date: __2021-04-26 09:24:06__
 
 
 
@@ -204,6 +204,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Zukunft? Wird die App auch Antikörper-Tests und Impfungen berücksichtigen? Mit dem grünen Pass braucht man die App dann eigentlich nicht mehr, oder?<br> :date: __2021-06-09 07:02:56__
+
 > Macht was es soll. Jedoch belegt die App über 700 MB an internem Speicherplatz und muss daher demnächst deinstalliert werden, um wertvollen Speicherplatz zu gewinnen. Die Möglichkeit, die Daten auf die SD Karte zu verschieben, wäre ein guter Grund für mich, die App weiterhin zu nutzen.<br> :date: __2021-06-03 23:03:26__
 
 > Sammelt 1.6 GB Daten und belegt auf älteren Smartphone zu viel Speicher! Wie kann man das reduzieren? Ich bin mittlerweile voll geimpft, was macht diese App Sinn? Aktiviere sie nur wenn ich unter fremde Personen gehe. Will BlueTooth nicht immer offen halten!<br> :date: __2021-05-21 05:49:38__
@@ -222,8 +224,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > Von 5* zu 2*. Die mit Sicherheit langweiligste App der Welt von der man nicht mal weiß ob sie funktioniert weil sie einfach nichts tut. Könnt ihr bitte die DEUTSCHE APP kaufen?!?! Ich denke, dass der App Entwickler keine Ahnung von der Zielgruppe hat. Dass es einen spielerischen Charakter braucht für Akzeptanz. Überlege den langweiligen Ressourcen Fresser zu löscheb die App nun funktioniert oder nicht kann ich nicht sagen. Sie macht auf jeden Fall keine Probleme und hält sich an den Datenschutz.<br> :date: __2021-04-20 18:19:20__
 
-> Zu wenige Nutzer.<br> :date: __2021-03-21 11:52:32__
-
 
 
 #### 2-star reviews
@@ -231,6 +231,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
+
+> Die Einwilligung funltioniert nicht.<br> :date: __2021-06-07 07:40:34__
 
 > kenn ich nicht<br> :date: __2021-05-10 19:57:51__
 
@@ -249,8 +251,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > warum kommt nach dem aufrufen der app zuerst die frage nach dem "handschake" , anstelle die frage "symptome" prüfen? das verwirrt viele. und warum kommt nach der frage 1, keine frage 2 (falls ich mich gesund fühle, wähle?) das verwirrt zum 2. mal. haben die entwickler irgendwann die user gefragt wie es ihnen mit der app geht.<br> :date: __2021-03-03 09:18:03__
 
 > Offensichtlich sinnlos und lässt den User im Regen stehen. Ich bekam heute eine Warnung eines möglichen Kontaktes. Dieses nicht ausgereifte Stück Software zeigt nicht mal an, an welchem Tag der Kontakt statt gefunden hat. Erst eine Kontaktaufnahme der betroffenen Person bestätigte die offensichtliche Quelle des Kontakts (Gott sei Dank alles negativ). Seit dem nervt die App im ca 30min. Takt mit Warnmeldungen. Lt. App hatte ich jetzt schon 5 weitere Kontakte. Stümperhaft. Schade ums Geld.<br> :date: __2021-02-07 11:27:25__
-
-> Ist das gleiche wie mit Lockdown: App ist nur sinnvoll, wenn alle mitmachen.<br> :date: __2021-02-07 10:49:50__
 
 
 

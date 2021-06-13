@@ -177,6 +177,8 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <img src="5_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 5 reviews"/>
 </p>
 
+> Doc had great beside manner. Love the virtual option! As a nursing mother it was great to not have to worry about bringing my pump to a clinic. My insurance covers in full so that's even better!!<br> :date: __2021-06-11 02:07:48__
+
 > Very easy to use and has never let me down<br> :date: __2021-06-03 20:06:16__
 
 > Fabulous!<br> :date: __2021-05-07 16:29:33__
@@ -194,8 +196,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 > Quick and easy the Doctors are extremely nice and helpful!<br> :date: __2021-03-07 21:56:52__
 
 > It's so easy and the providers are compassionate!<br> :date: __2021-03-05 16:33:18__
-
-> I had good luck with this app.<br> :date: __2021-02-23 16:21:26__
 
 
 

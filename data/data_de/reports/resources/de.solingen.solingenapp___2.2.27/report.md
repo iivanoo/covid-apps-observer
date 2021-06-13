@@ -168,6 +168,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 5 reviews"/>
 </p>
 
+> Eigentlich eine schöne und sinnvolle App. Leider läuft sie nicht stabil. Bei der Eingabe meiner Adresse unter dem Punkt Abfall stürzt sie ab. 🤔 Edit :Fehler wurde behoben.<br> :date: __2021-06-07 13:06:03__
+
 > In den letzten Wochen ist die App sehr stabil geworden und funktioniert wirklich gut. An den Inhalten gibt es nix zu meckern. Weiter so.<br> :date: __2021-04-30 17:19:35__
 
 > Eine wirklich gute und informative App!<br> :date: __2021-03-28 10:27:14__
@@ -185,8 +187,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Tolle Idee. Gut umgesetzt. Schönes Design. Funktioniert bei meinem S9+ prima. Kira könnte noch was zum Grill-, Jogging-, Wander- oder Radfahrwetter sagen.<br> :date: __2020-11-13 16:35:42__
 
 > Guter Einstieg, weiter so!<br> :date: __2020-08-16 14:50:32__
-
-> Tolle übersichtliche App! Viele nützliche Funktionen.... Sehr zu empfehlen!<br> :date: __2020-08-15 14:43:26__
 
 
 
@@ -223,8 +223,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 3 reviews"/>
 </p>
-
-> Eigentlich eine schöne und sinnvolle App. Leider läuft sie nicht stabil. Bei der Eingabe meiner Adresse unter dem Punkt Abfall stürzt sie ab. 🤔<br> :date: __2021-06-06 08:16:04__
 
 > Schöne App mit vielen nützlichen Informationen. Leider hat sie sich letzte Woche nicht mehr geöffnet. (Fehler 100!?) Nach Neuinstallation öffnet sie wieder, stürzt aber jetzt beim Öffnen des Müllkalenders ab.<br> :date: __2021-06-04 08:23:03__
 

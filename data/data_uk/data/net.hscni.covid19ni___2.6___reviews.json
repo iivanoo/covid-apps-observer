@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOFoZOv12hvGSlDqhLUKwHEaC9PsI7ZQrAwYC7g4hJnVyRGmplY2CEtTzwpnH0Kn6FhqNbILkdggxkococg",
+        "userName": "Mike",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxxBVjLEQ_zq9XuSHaHAr0heE797KQ4433_VzgV=mo",
+        "content": "No updates all week, uninstalled.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.6",
+        "at": "2021-06-10 20:23:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHC2Nd56HeXNl0DOULdU1AIwnKGEvKf0dLuUOZNr4apTadAsLwIsd_Gv4cWsRcQ-XHgYH1vE1GmQ9qtl_Y",
         "userName": "libby mcfarlane",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwTfugWvzbScHmAWlgfDgtPCUbpl9jFoVBq4EZk=mo",
         "content": "Since the update it no longer works",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.6",
         "at": "2021-06-05 18:19:30",
         "replyContent": null,
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTONpxCQwwE-y5hKWk2kX2yok46rnxCMQkxGsg=mo",
         "content": "Usless NI HSC app. There is still no vaccination certificate added.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.6",
         "at": "2021-06-01 21:28:01",
         "replyContent": null,
@@ -1129,7 +1141,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEa8FzDCqdisEuZ0_SusXyy4DzjhsP9_xpy5gK6aDqTJ3QbpaqUWPWlTnW32zNGRP-ElR-bOMB264zUV-Q",
-        "userName": "Adrien",
+        "userName": "Adrien Joubert",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggrtv-vPfgSIn41sL9KmeKMtvxou2l-4PqSU1_49Q",
         "content": "Random NI postcode: BT1 1AA. Don't restrict to NI you imbecile... Just limit functionalities / reporting for outsiders if any... Those are vital informations and there is absolutely no technical reason for doing so. I think NI's people proudly supporting the restriction don't get the point of internet and should instead go back to stoneage where many selfish of them belong as their smartphone is not made in NI nor is 90 percent of anything they use - including medications",
         "score": 1,
@@ -1406,7 +1418,7 @@
     {
         "reviewId": "gp:AOqpTOG0m74LgvulTsktCNVGgxxH_ArnXKe9Rh78gE663IRuujf6nYTiiYA27m3evbW2Gn4GxF0pabIZI_gmuMM",
         "userName": "Vee Bee",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxSVTNFNRfRZijITPNDaACYE4LqJye3zoXJnkSs=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwbnCRxx9D7KXD9qBpAoGeT9q5SK6Ad2XQa74Zv08",
         "content": "Hopefully this could be a very powerful way of identifying cv19 hotspots.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1789,7 +1801,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGTSiqyVEGU4ZmktO54_Z4CIKrFqZp89Fs2Tj6ahn3uadjtfuq3VDx7dR0Zm7HLzNsj1bPe2gnWeq-OQwM",
-        "userName": "Shadia Abdulatif",
+        "userName": "Shadz",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-aoa2kTEasWxL--CptZt-k-4qn6HHT1R3ODDy=mo",
         "content": "Can't move past the postcode request as I do not live in N.Ireland. Definite glitch, hope it gets resolved as this is actually a very good idea to track the virus or at least its presenting symptoms.",
         "score": 1,

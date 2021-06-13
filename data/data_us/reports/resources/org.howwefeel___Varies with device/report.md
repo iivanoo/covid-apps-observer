@@ -176,6 +176,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> My husband thought this was a bad idea. Big brother in your business!? I don't know, at the time everyone was concerned with the covid-19 pandemic and I didn't see the harm?<br> :date: __2021-06-06 21:11:33__
+
 > I like this app<br> :date: __2021-05-17 12:40:14__
 
 > I enjoy using the app because it allows me to stay in tune with myself.<br> :date: __2021-05-13 20:51:36__
@@ -193,8 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Great!<br> :date: __2021-04-09 02:23:17__
 
 > Great<br> :date: __2021-04-06 05:30:57__
-
-> I love that its a small way to help. Great app just wish A. A different quote occasionally because I'm tired if dolly Parton and B. The statistics no longer shows and I liked it a lot. Everyone should use this! Not for yourself but for others to have food!<br> :date: __2021-03-27 04:08:55__
 
 
 
@@ -232,6 +232,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="3_star_reviews_wordcloud.png" alt="org.howwefeel 3 reviews"/>
 </p>
 
+> Works well enough. Usage bit confusing especialy the use of same icon on first screen that's just for show and one needs touch the Start button. The questions are inconsistently asked. Location by zip code is asked but device location service should be used if available. There's little meaningful feedback as to results. The new questions regarding mental and emotional questions are just to much and too many.<br> :date: __2021-06-11 08:07:59__
+
 > app refuses to open for me, but when it did it was a really nice app👍👍<br> :date: __2021-05-23 05:44:23__
 
 > Helpful, for the most of it<br> :date: __2021-01-30 09:30:46__
@@ -249,8 +251,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > I had the exact same experience as Elizabeth. I was almost up to 150 check ins & then suddenly the app wouldnt open. I helped as long as I could by giving my data... I liked it when it worked .<br> :date: __2020-10-13 06:49:26__
 
 > App hasn't worked in days. Won't even open. I haven't had an OS update or an app update.<br> :date: __2020-10-11 06:07:05__
-
-> Updated App today and now I keep on getting error messages that the App is continuing to close. I uninstalled then installed the App and am still having issues<br> :date: __2020-10-09 05:36:17__
 
 
 

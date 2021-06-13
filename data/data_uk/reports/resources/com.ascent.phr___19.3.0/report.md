@@ -189,6 +189,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> great service<br> :date: __2021-06-07 23:24:04__
+
 > Excellent service.<br> :date: __2021-05-30 09:25:40__
 
 > so easy to use. Wonderful.<br> :date: __2021-05-26 18:48:25__
@@ -207,8 +209,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > quite easy to do<br> :date: __2021-05-12 14:58:22__
 
-> very useful<br> :date: __2021-05-09 23:15:13__
-
 
 
 #### 4-star reviews
@@ -216,6 +216,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ascent.phr 4 reviews"/>
 </p>
+
+> Had an issue beforehand regarding logging in but customer service was excellent and can now use the app. Wish I could have access to more of my records like test results but I'm happy overall x<br> :date: __2021-06-11 12:18:04__
 
 > App is now working again. And I'm happy again.😁 But apprehensive...<br> :date: __2021-05-14 13:26:14__
 
@@ -235,8 +237,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Lots of functionality doesnt work because GP hasn't signed up to provide it but was does work is quite good. Most annoying aspect is when there is an upgrade due and you cannot log in and use it until you upgrade...but it doesnt tell you that it just makes out you got you credentials wrong.<br> :date: __2021-01-02 10:15:46__
 
-> All good<br> :date: __2020-12-30 21:24:23__
-
 
 
 #### 3-star reviews
@@ -244,6 +244,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
+
+> Unimpressive<br> :date: __2021-06-09 10:11:22__
 
 > Been working great until today and now won't take password to log in<br> :date: __2021-05-28 21:04:14__
 
@@ -263,8 +265,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Wont let me get on to log in<br> :date: __2021-03-09 18:33:29__
 
-> fairly easy to use but the app is a bit unstable - slow at times and some screens don't load on 1st or 2nd attempt<br> :date: __2021-03-05 21:46:12__
-
 
 
 #### 2-star reviews
@@ -272,6 +272,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
+
+> biometrics not working and keeps logging me out<br> :date: __2021-06-10 09:38:20__
+
+> I can't get past the GP registration system i have entered my details correctly but it is saying, "There was a problem with your sign up. Check the information is correct and try again". I have tried 7 times to get past this and nothing . I'm fed up with it.<br> :date: __2021-06-07 14:21:51__
 
 > I only use this app to order prescriptions. I can't book appointments through the app. Ordering prescriptions is quick and easy though.<br> :date: __2021-05-13 21:50:17__
 
@@ -289,10 +293,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > login makes you go crazy and doesn't let you in<br> :date: __2021-01-22 13:09:48__
 
-> ok App doesn't really do much in the way of looking at your medical records or being able to book appointments at the doctors etc. not really sure why I still have it installed tbh<br> :date: __2021-01-14 22:26:48__
-
-> only for ordering prescription nothing else works<br> :date: __2021-01-05 20:39:32__
-
 
 
 #### 1-star reviews
@@ -300,6 +300,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
+
+> Frustrating and going round in circles. Being told my email is invalid (total nonsense) and being sent numbers to my mobile then means starting to register all over again. And uninstalling and installing again I met the same problems. The app is poorly designed and not fit for purpose and instead of saving my time has wasted it. I shall not bother again.login is a nightmare.<br> :date: __2021-06-08 17:36:26__
 
 > keeps saying the user and password are incorrect. I change the password=>get access. Close app. Next time says the same thing=>change password again....in a loop.<br> :date: __2021-06-02 20:22:56__
 
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Biometrics constantly failing<br> :date: __2021-04-12 04:09:11__
 
 > unable to order medication<br> :date: __2021-04-04 10:39:47__
-
-> Does not work properly on my Samsung s21 I cannot access my medical record at all.<br> :date: __2021-03-25 01:04:29__
 
 

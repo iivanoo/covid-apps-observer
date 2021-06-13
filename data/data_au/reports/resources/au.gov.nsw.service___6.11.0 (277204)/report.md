@@ -209,25 +209,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> User friendly.<br> :date: __2021-06-06 11:29:59__
+> Good<br> :date: __2021-06-11 08:24:16__
 
-> Very easy to use<br> :date: __2021-06-06 00:19:28__
+> Very impressed with staff and their willingness to help older customers.<br> :date: __2021-06-11 07:41:39__
 
-> Help your common person<br> :date: __2021-06-05 06:05:58__
+> My drivers licence disappeared after last update. Won't be updating again.<br> :date: __2021-06-11 03:10:04__
 
-> Makes everything a lot easier<br> :date: __2021-06-04 10:08:25__
+> Working well<br> :date: __2021-06-11 02:42:39__
 
-> Very GAY<br> :date: __2021-06-04 06:26:45__
+> Best<br> :date: __2021-06-10 08:03:43__
 
-> Great<br> :date: __2021-06-04 03:54:47__
+> Great app, looks good, very easy navigation and all services easy to find<br> :date: __2021-06-09 15:04:11__
 
-> Updating my review ... issue was with the device deregister ... old device was still registered... was fixed in less than a week<br> :date: __2021-06-03 02:39:37__
+> Very simple to use when I visited NSW recently.<br> :date: __2021-06-09 08:23:58__
 
-> Good service<br> :date: __2021-06-02 22:25:30__
+> It is Great for me. Just wondering what Samsung (or I Phone) 'operating system' is needed for the App, mainly for covid sign in/ out? My phone works great (S10) but both my parents have older smart phones. What running/ operating system will they need?<br> :date: __2021-06-09 07:31:58__
 
-> Good<br> :date: __2021-06-02 12:27:05__
+> Always ready to help an old bloke like me<br> :date: __2021-06-09 06:15:44__
 
-> EASY & PEACE OF MIND!!!<br> :date: __2021-06-02 08:37:11__
+> Great app easy to use. I like the idea of being g able to check out of the venue.<br> :date: __2021-06-09 04:13:47__
 
 
 
@@ -237,25 +237,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
-> Its way better than Service Victoria App. Requires a bit of improvement though.<br> :date: __2021-06-05 04:47:40__
+> Definitely a bonus during the covid year<br> :date: __2021-06-11 08:58:36__
 
-> Easy to use<br> :date: __2021-06-02 04:08:24__
+> User friendly<br> :date: __2021-06-10 09:10:28__
 
-> Excellent<br> :date: __2021-05-28 10:45:57__
+> Easy to use, no problems<br> :date: __2021-06-09 21:43:08__
 
-> Effective and convenient app to keep us in this state safe.<br> :date: __2021-05-27 12:40:15__
+> Good<br> :date: __2021-06-09 07:30:49__
 
-> Simple to use<br> :date: __2021-05-27 10:39:45__
+> Easy to use, all good from me.<br> :date: __2021-06-09 01:48:24__
 
-> Ok so I think I've figured out the add dependent for covid check-in but I'll have to wait til I need to use it again to see if it works. Fingers crossed.<br> :date: __2021-05-27 04:02:57__
+> Very good<br> :date: __2021-06-08 21:34:01__
 
-> Easy to register<br> :date: __2021-05-26 21:44:39__
+> Better than the useless services vic app.<br> :date: __2021-06-08 08:10:22__
 
-> Directions easy to follow<br> :date: __2021-05-26 03:15:41__
+> Easy to use<br> :date: __2021-06-08 07:02:47__
 
-> Great app all over, very useful. However I don't get notifications to remind me to check out of a venue unless I go back into the app itself first, which defeats the purpose. Also, I've noticed many places have difficulty scanning the Dine & Discover vouchers when the app is set to dark mode. Easily fixed by switching back to light, but worth mentioning for possible fixes.<br> :date: __2021-05-23 12:50:50__
+> Very good in reliability. Fairly easy to use too.<br> :date: __2021-06-08 05:50:04__
 
-> It's a great app<br> :date: __2021-05-21 11:53:39__
+> Works well<br> :date: __2021-06-08 04:32:42__
 
 
 
@@ -265,25 +265,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
-> The app seems to have stopped working. The last 3 or 4 times I have tried to use, it said that it was unable to check in at that time. The QR code seemed to have as the venue name has appeared. Also, the vouchers do not always appear.<br> :date: __2021-06-05 02:07:55__
+> Won't let me check in<br> :date: __2021-06-11 03:03:50__
 
-> Whenever i have to add my partner i have to type the whole thing is there a way it can remember him<br> :date: __2021-06-05 01:01:52__
+> Great facility but too many steps to check in and out. Please use it and seek it to be streamlined It is vital.<br> :date: __2021-06-10 11:49:10__
 
-> Is there a app to check tolls I looked and can only find the service nsw app and nothing in there is to help check my tolls<br> :date: __2021-05-31 00:40:57__
+> Seems a little clumpsy to use. Qld App much easier to use. Cannot view history apart from the previous use. As an interstater, it has a lot of functionality that just gets in the way of an easy to use covid app.<br> :date: __2021-06-08 11:37:59__
 
-> Easy way to carry your licence credentials, however getting them can be a little difficult.<br> :date: __2021-05-25 22:08:17__
+> Was very clunky when compared to ACT and South Australia app.<br> :date: __2021-06-08 05:33:59__
 
-> The information on page is half covered over and hard to read top part can not be read<br> :date: __2021-05-24 05:06:35__
+> N/A<br> :date: __2021-06-08 04:38:39__
 
-> Hi Service NSW Development Team, Will be great if you can add the login details inside the app, so we can view our email and mobile number that we use. Thanks!<br> :date: __2021-05-16 16:06:32__
+> Not a resident of NSW, but it does not distinguish clearly for me, between the features I must use when visiting and those for which I am not eligible.<br> :date: __2021-06-08 02:44:48__
 
-> It works great then after a month it won't focus on code, I have uninstall the install to get it to work again??<br> :date: __2021-05-12 11:43:49__
+> Not include every thing<br> :date: __2021-06-08 02:39:43__
 
-> Functional improvements needed * login: takes a lot longer than it should because keypad doesn't immediately pop up. Makes people in lines impatient, and I bet some people don't checkin because of this hassle * Manual edits for check-in Covid Safe function: occasionally I need to update my checkin/out times but I can't seem to. This would give more accuracy to Health contact tracers.<br> :date: __2021-05-11 04:08:27__
+> See how the new update goes.<br> :date: __2021-06-08 02:22:50__
 
-> Generally ok, constant issues with covid-19 check-ins as well as inconvenient de-linking of my driver's license.<br> :date: __2021-05-08 06:14:23__
+> Don't know enough about it<br> :date: __2021-06-08 01:40:05__
 
-> Gr8 app for checkin when rego due ,demerits an vouchers available etc an digital license if u forget ya wallet<br> :date: __2021-05-07 03:35:16__
+> Just updated and now my license and white card have disappeared. Tried to re-add my license and it just says 'checking your details' and times out.<br> :date: __2021-06-08 01:32:19__
 
 
 
@@ -292,6 +292,8 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
+
+> Licence was on the app untill update now it just sits there trying to link my account which is linked because the vouchers are shown. Churned through 50%of my phones battery and made phone super hot trying to do this.<br> :date: __2021-06-08 01:25:56__
 
 > The app keeps rejecting my login details when I'm adding my license. Frustrating! I know my details are correct and have reset my phone (samsung A52) and still no luck.<br> :date: __2021-06-05 03:25:33__
 
@@ -311,8 +313,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > The app has generally been good to use, however it is slow to recognise a fingerprint or pin & it also has an abnormally high battery usage, draining around 17% each day after just a check-in or two.<br> :date: __2021-05-12 13:47:35__
 
-> never stays on my phone<br> :date: __2021-05-02 07:59:50__
-
 
 
 #### 1-star reviews
@@ -321,24 +321,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Won't save my password. Won't log in when I use the correct one.<br> :date: __2021-06-06 05:43:56__
+> this app is absolutely a waste of tax payers money - it gives u no opportunity to go bavk & fotth on different sites to be able to read the code submitted by Service NSW then return to page seeking the verification code - & round & around u go being cut off for hours after resubmision of code not accepted! Big mistake in not allowing code acceptance after leaving page - no other way to get code but to leave site asking for code!! Very stupid setup!! - typical govt rubbish made to lock users OUT!<br> :date: __2021-06-11 05:26:30__
 
-> Doesn't work<br> :date: __2021-06-05 09:31:46__
+> Terrible<br> :date: __2021-06-11 03:23:34__
 
-> I can't get into it. I keep getting the message "your device is not using standard software" I have reinstalled it which worked for a couple of seconds then went again.<br> :date: __2021-06-05 06:52:08__
+> The "Simple login" feature is rubbish. If it misreads your finger print a couple of times at the beginnig, the authentication server comes up with the standard error message that it isn't available at this time. So I have turned the stupid thing off. You would think that the developers would have tested this.<br> :date: __2021-06-10 11:35:39__
 
-> Won't allow me to sign-in.<br> :date: __2021-06-04 10:19:27__
+> Unusable with latest version. Password reset doesn't work. And stop telling people to use the the network provided time cos that's not the root cause. Fix your back-end system. Guess what everything was working until your latest update can't out<br> :date: __2021-06-08 14:02:12__
 
-> It is always down and and off line, unresponsive and difficult to use<br> :date: __2021-06-04 02:18:57__
+> Tried to update the app and it went on and one gave up.<br> :date: __2021-06-08 08:29:32__
 
-> Used to be good now can't check out that will help a lot with tracking when it shows you at the pub for 4 days and you can't check in anywhere else<br> :date: __2021-06-03 08:26:58__
+> Government scum! A lot of 3rd world human garbage work here.<br> :date: __2021-06-08 07:18:28__
 
-> Unable to get licence on app, keeps going to a home screen. Have been into branch and they made sure phone number and email address were correct as that is sometimes the problem, but that wasn't it. Have uninstaller and re installed.<br> :date: __2021-06-02 22:16:33__
+> Is there a problem with this app, went to update, still waiting after 15 mins<br> :date: __2021-06-08 05:42:34__
 
-> The developers and project managers who worked on this app should feel embarrassed and consider a career change to something involving crayons.<br> :date: __2021-06-01 06:31:21__
+> Very poor app told to use this app for D&E vouchers after THREE months am still awaiting would rate this app minus if possiable<br> :date: __2021-06-08 05:00:20__
 
-> NSW health Croydon Oral clinic does not use this app but it's part of nsw government health. They using their own and you need iphone. Oral clinic which is part of nsw health wasting public money on new app?,unbelievable. This is crazy,every business uses service nsw app but government health doesnt. Nowhere to complain or talk to anyone,receptionist doesnt know why and check in manually.<br> :date: __2021-06-01 01:32:40__
+> has been admitted its NOT secure,<br> :date: __2021-06-08 01:55:20__
 
-> Trying to reset password, doesn't seem to work ! Sends you to a website then app doesn't recognise new one. Rubbish and slow 31 05 21 - it's noted the response doesn't relate to the issue !<br> :date: __2021-05-31 10:47:33__
+> Useless and keeps halting<br> :date: __2021-06-08 01:41:07__
 
 

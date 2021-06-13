@@ -121,6 +121,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.coronavirus 5 reviews"/>
 </p>
 
+> Eficacia eficiente e innovadora<br> :date: __2021-06-08 19:47:51__
+
 > Estupenda. Si además la combinas con la de pedir cita con tu médico habitual en cuanto la usas te aparece una cita telefónica con una enfermera, que te dará cita para la pcr por teléfono. A mí me funcionó estupendamente, rápida y sencilla de usar. De hecho, la estoy recomendando a casi todos mis amigos y conocidos por si acaso tienen que solicitar una pcr al estar los ambulatorios desbordados.<br> :date: __2021-02-01 17:04:58__
 
 > Muy útil en estos momentos de pandemia.<br> :date: __2021-01-29 19:39:51__
@@ -138,8 +140,6 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > Me parece una aplicación muy útil. Es fácil de usar, informativa y lo más importante: te atienden rápido.<br> :date: __2020-10-07 09:42:29__
 
 > No se resien la aplico<br> :date: __2020-09-23 21:44:49__
-
-> Todavía no probé está actividad pero me parece lo mejor de todo<br> :date: __2020-09-22 20:21:44__
 
 
 
@@ -189,6 +189,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Complicada<br> :date: __2021-06-09 08:55:05__
+
 > Podría estar incluida la opción en la app gva salud<br> :date: __2021-02-05 11:04:54__
 
 > Me parece un fallo muy grande no poder ver el resultado de la prueba PCR, y tener que esperar el sms o que un médico te diga el resultado, pienso que se agilizaría mucho el trámite si se pudiera consultar en la APP<br> :date: __2021-01-30 19:54:46__
@@ -206,7 +208,5 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > Me dice q los datos son erroneos y no me permite abrirla<br> :date: __2020-10-02 23:55:51__
 
 > No tengo ni idea de por qué no funciona la nacional Y además porqué , no informan de esta nueva aplicación y para que sirve Vergüenza siento de sus protocolos<br> :date: __2020-09-28 19:50:34__
-
-> Que pasa con los que no tienen SIP?<br> :date: __2020-09-21 23:45:39__
 
 

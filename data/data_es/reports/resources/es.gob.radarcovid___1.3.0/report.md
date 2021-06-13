@@ -129,6 +129,16 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
+> Está bien de pende pero aceptable<br> :date: __2021-06-11 09:55:04__
+
+> No me gusta el covid<br> :date: __2021-06-10 19:18:28__
+
+> Muy buena<br> :date: __2021-06-09 12:58:07__
+
+> X m.c u 900i £ mj<br> :date: __2021-06-08 22:00:15__
+
+> Maximo<br> :date: __2021-06-07 08:14:32__
+
 > Es una aplicación muy buena (te informa de todo y es eficaz en la lucha contra el virus)q…La información que viene en la aplicación es excelente y da todo tipo de consejos avalados por la Comunidad Científica (es como si te acompañará un médico o enfermera las 24h del día). Si te surge cualquier pregunta siempre tienes los teléfonos del SERGAS a tú disposición. A pesar de que digan que puede no ser adecuada para mí dispositivo yo me quedé con una impresión tan buena que la he vuelto a instalar.<br> :date: __2021-06-03 23:41:09__
 
 > HTC TRABAJO de recibidogracias tt<br> :date: __2021-06-03 19:03:49__
@@ -138,16 +148,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 > El coronavirus<br> :date: __2021-05-29 00:09:41__
 
 > ¡¡¡¡Muy buena la app!!!!<br> :date: __2021-05-26 13:34:54__
-
-> La aplicación es inmejorable, para que funcione tienes que instalarla, activarla, activar el bluetooth y estar cerca de un positivo en Covid19 que lleve el teléfono encendido con la aplicación instalada y activada, con el bluetooth abierto y que haya informado que es positivo en Covid19. Solo funciona en estas circunstancias, protege el anonimato y es 100% efectiva. Gracias por su eficacia!<br> :date: __2021-05-24 16:13:16__
-
-> ME PARECE EXCELENTE PORQUE CADA VEZ HAY MENOS PERSONAS INFECTADA Y NUNCA ME SUENA LA NOTIFICACION. HASTA YA PUEDO SALIR SIN MASCARILLA PORQUE NO HAY NADIE INFECTADO EN MI COMUNIDAD<br> :date: __2021-05-23 07:13:48__
-
-> Estoy harta de tener que vivir encerada 1año, y que el butanero no llevaba ni mascarilla, un saludo<br> :date: __2021-05-22 00:32:50__
-
-> El rada covi es nesesario<br> :date: __2021-05-19 18:14:36__
-
-> perfecto<br> :date: __2021-05-18 19:16:45__
 
 
 
@@ -213,6 +213,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.radarcovid 2 reviews"/>
 </p>
 
+> Gavilan<br> :date: __2021-06-07 10:30:33__
+
 > Consume toda mi batería. La idea era muy buena, pero teniendo que usar GPS y bluetooth de esa manera no me dura nada. Demasiado esfuerzo para llevarla activa.<br> :date: __2021-06-04 16:45:38__
 
 > La aplicación está bien, pero la veo algo limitada para la situación actual, sería conveniente añadir una opción para declarar si tienes síntomas, ya que la aplicación solo sirve si oficialmente has dado positivo (cosa que está perfecto) pero hay muchas personas que aún no se han hecho una pcr y padecen síntomas de covid, pues opino que por prevención, sería útil añadir esta opción<br> :date: __2021-06-02 15:12:57__
@@ -231,8 +233,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Nunca he tenido nadie cerca desde que lo instalé, me parece muy raro<br> :date: __2021-05-05 17:52:53__
 
-> Funcionaría mejor si todo el mundo la tuviera. No todos saben de su existencia<br> :date: __2021-05-02 18:19:27__
-
 
 
 #### 1-star reviews
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> Para imbéciles<br> :date: __2021-06-06 05:00:11__
+> Una patata de aplicación, no ha funcionado nunca.<br> :date: __2021-06-11 07:04:12__
 
-> No ha servido para nada, llevo meses con ella, nunca avisa.<br> :date: __2021-06-05 10:09:22__
+> He dado positivo quiero ponerlo pero no me deja. No tengo ningún código de positivo ni nada. Debería de haber una función para enviar los papeles para que los verifiquen si falla la otro<br> :date: __2021-06-10 16:30:04__
 
-> la apk inútil del año.<br> :date: __2021-06-05 03:44:56__
+> El bajo nivel en la IA de los npcs de este juego me desespera. queremos mejores actualizaciones, con giros argumentales de calidad.<br> :date: __2021-06-10 04:05:56__
 
-> En ningún momento se me notificó de algún positivo cercano, aún sabiendo que lo había y que usamos ambos la app. Una falsedad<br> :date: __2021-06-05 02:57:00__
+> Gasta batería en exceso, esta App es horrible. Buena idea pero muy mal llevada a la práctica. Un fracaso, y según vi en una noticia ha costado un pastón crearla y mantenerla, lamentable.<br> :date: __2021-06-09 23:52:30__
 
-> Malo<br> :date: __2021-06-04 18:29:25__
+> La app de pena, mi mujer positiva y dio la alerta en la app. Yo con su móvil y en mi app no detecta que estoy cerca de alguien con covid. De vergüenza<br> :date: __2021-06-09 11:33:52__
 
-> Basura, como todo lo que hace este gobierno.<br> :date: __2021-06-04 18:26:30__
+> No sé porque hay que ir todo el tiempo con la ubicación activa, me fUnde la batería por eso la desistalo<br> :date: __2021-06-09 09:11:47__
 
-> 👎👎👎👎<br> :date: __2021-06-03 15:23:37__
+> La vida molaba mas cuando cazabamos pokemons y no infectados<br> :date: __2021-06-09 03:31:24__
 
-> Yo no estoy enfermo<br> :date: __2021-06-03 05:10:07__
+> Una auténtica basura que ha costado casi 2 millones de euros a todos los españoles, que vergüenza<br> :date: __2021-06-09 01:33:10__
 
-> No identifica<br> :date: __2021-06-01 08:19:44__
+> No sirve de nada<br> :date: __2021-06-08 22:05:44__
 
-> Gasto de batería a lo tonto porque no funciona, lo descargué para notificar positivo y fue imposible, lo desinstalo no sirve<br> :date: __2021-06-01 00:19:30__
+> Pene de plàstico<br> :date: __2021-06-08 16:02:47__
 
 

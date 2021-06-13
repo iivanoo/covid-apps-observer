@@ -137,6 +137,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Excelente<br> :date: __2021-06-09 04:05:46__
+
+> Não vou<br> :date: __2021-06-07 18:30:32__
+
 > Otimo<br> :date: __2021-06-05 22:21:51__
 
 > Estaapp é maravilhoso.<br> :date: __2021-06-03 12:07:53__
@@ -152,10 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Muito bom aconselho<br> :date: __2021-05-20 08:59:08__
 
 > Sem experiencia, espero que seja util,obrigado.<br> :date: __2021-05-19 10:12:25__
-
-> Simples e eficaz se as pessoas a usassem e não criticassem<br> :date: __2021-05-16 21:41:02__
-
-> Ok 👌<br> :date: __2021-05-16 00:31:32__
 
 
 
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Nojento!!! É engraçado vêr cada vez mais este lixo NÃO funcional a cair nas avaliações 🤣🤣🤣🤣<br> :date: __2021-06-10 20:18:49__
+
+> A intenção é boa, mas a aplicação prática falha redondamente. O pior é que ainda chateia pela quantidade de notificações a lembrar para ligar a localização e o Bluetooth. (Sim eu sei que precisa dessas funções ligadas para funcionar)<br> :date: __2021-06-10 18:09:19__
+
+> Uma tanga<br> :date: __2021-06-10 13:34:53__
+
+> QQ eors dew BH. ar na n<br> :date: __2021-06-10 10:46:24__
+
+> Spam<br> :date: __2021-06-08 15:44:28__
+
+> Sem funcionalidade prática. Fracasso.<br> :date: __2021-06-07 22:59:03__
+
+> Chupapi Munhanho<br> :date: __2021-06-06 19:08:49__
+
 > Perda de tempo absoluta. E quem nao usa app e tem covid? As pessoas ficam sem saber de igual forma se estiver perto de um positivo ou não. Torna se obsoleta a app em várias situações. Já para nao falar que nem todas as pessoas têm smartphones android ou ios e nem sequer dados.<br> :date: __2021-06-05 03:01:40__
 
 > Nao houve utilizadires suficientes a usar, e quem usou muitos deles nao informaram que estavam infetados.<br> :date: __2021-06-04 09:43:25__
 
 > Não tem como objetivo de promover uma vez<br> :date: __2021-06-04 09:26:22__
-
-> Que decepção....já estive em contacto com uma pessoa com covid ( já está curado) e a aplicação nem piou.... Fiz o teste deu negativo.<br> :date: __2021-06-01 23:51:14__
-
-> Aplicação inútil tive covid no início do ano e o médico nem sabia como me poderia dar o código. E ainda disse que "isso não vale de nada não se preocupe" ainda tentei pela saúde 24 saber o código porque desde início tinha a app instalada e como sou fã das TI queria usar, mas nem assim consegui, logo acabei por desinstalar automaticamente e nem me chatiei mais.<br> :date: __2021-06-01 16:01:25__
-
-> Odiei, nunca instalei, não gostei das imagens<br> :date: __2021-06-01 14:18:27__
-
-> 1 estrela pois o governo decide fazer uma aplicação sem nexo e funcionalidade. Ganham dinheiro ao enganar os portugueses a dizer que a app funciona para nossa segurança, quando não faz sentido nenhum.<br> :date: __2021-06-01 11:27:05__
-
-> Orrivel literalmente para que se podemos ter outras pessoas ao lado com covid e nao sabemos porque não marcou<br> :date: __2021-05-30 18:24:55__
-
-> Nao vale nada, para dar dinheiro a alguem.<br> :date: __2021-05-29 09:11:51__
-
-> A aplicação mais inútil que já tive...<br> :date: __2021-05-29 00:08:53__
 
 

@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Nutzung der App unmöglich. Funktionalität der App schlichtweg eine Katastrophe !!! Absolut unsinnige App !!!<br> :date: __2021-06-11 10:53:47__
+
+> Diese App ist Müll! Sie lässt sich nicht öffnen. Direkt wieder deinstalliert...😒😒<br> :date: __2021-06-11 04:12:07__
+
+> Sie Startet seit Android 11 nicht mehr weder Pixel 2 noch Pixel 3a oder Pixel5. Trotz Anruf bei dem Unternehmen null Veränderungen. Die App ist somit nutzlos. Weiterhin nicht zu benutzen und den Support interessiert es nicht auch nicht wenn man Telefonisch Nachfragen tut.<br> :date: __2021-06-10 22:55:38__
+
+> Einscannen des Codes geht nicht. Mal wieder eine ordentlich schief gelaufene App - deutsche Entwickler sind da wirklich führend...<br> :date: __2021-06-10 21:56:12__
+
+> nicht zu gebrauchen, geht nach öffnen gleich wieder zu<br> :date: __2021-06-10 21:21:21__
+
+> Diese App ist halt Schrott nicht verwertbar<br> :date: __2021-06-10 13:56:28__
+
+> Funktioniert nicht, schließt automatisch ohne Funktion<br> :date: __2021-06-10 11:40:07__
+
+> Schrott geht noch nicht mal zu öffnen<br> :date: __2021-06-10 08:49:23__
+
+> Für mich unbrauchbar<br> :date: __2021-06-09 19:53:45__
+
 > Wie so vieles in Deutschland bezogen auf die Pandemie Note 6- ! App bzw. QR Code funktioniert seit Monaten nicht.....<br> :date: __2021-06-01 15:14:16__
-
-> Deinstalliert,Funktioniert nicht,stürtzt ab👎👎👎👎👎👎👎<br> :date: __2021-05-28 22:53:57__
-
-> Kann diese App auf meinem Handy nicht warum wird diese dann in den Medien angeboten wenn man keinen Zugang<br> :date: __2021-05-28 11:11:16__
-
-> Einfach nur schlecht, QR-Code scannen geht überhaupt nicht, ID händisch eingeben, geht auch nicht da sich die Tastatur zur Eingabe nicht öffnet, traurig.<br> :date: __2021-05-27 11:36:44__
-
-> Öffnet sich nicht... Und das bei einer so wichtigen app super<br> :date: __2021-05-18 11:28:45__
-
-> Lässt sich nichtmal öffnen<br> :date: __2021-05-07 17:23:45__
-
-> Funktioniert nicht. Ich soll mich anmelden, habe aber keinen IDCode oder einen Barcode zum auslesen<br> :date: __2021-05-05 16:38:00__
-
-> App funktioniert nicht. Lässt sich nicht öffnen<br> :date: __2021-04-28 14:14:30__
-
-> Die App funktioniert nicht. Scan geht nicht. Ich habe meine Anmeldedaten über eine andere Scan App gescannt, dann meinen persönlichen Code extrahiert. Dann wurde mir angezeigt, es läge noch kein Ergebnis vor. Ich habe die Push Funktion aktiviert. Ob ich jemals eine Nachricht bekomme?........ Die App ist für den normalen Gebrauch nicht geeignet!<br> :date: __2021-04-27 08:32:48__
-
-> Funktioniert nicht.<br> :date: __2021-04-24 00:09:46__
 
 

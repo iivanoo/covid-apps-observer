@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOEEUlQp2hYC75H9l9jKfnZ2CCG7aA5ktULsXRvb6bhSVXXCz08weLmhbOqMXu6pcAfD1qZg4pDzisKNh0Y",
+        "userName": "Amy C",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYAMheh1dZ7XCTHfnC3SvNkkabFg0DOPH3ieNgSw",
+        "content": "cannot log in to app on Android/pixel 3. password works fine on website.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.27",
+        "at": "2021-06-11 01:40:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEwQeJNcgfCAXLORgaIX0zqy9C5-AGR1aitRmvdag4cHWzfvk3FAwumlCsiLcsPGzqS-bFpVROtCDtFOkk",
+        "userName": "Caio Porto",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjg_OR0-o7PgPrsHRCyTUf2g4PUJ-VsdOZslbSHTNk",
+        "content": "It's a great app! Just wish the office check-in for Covid was not an external PDF download.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.27",
+        "at": "2021-06-09 13:05:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOF2EjLjwTnpjCby6V0OYp2iMzcpW4OYai-ug7w6l6-Vxa-80Ab3i-tx-6Fkj0HGHCleG8b_8usK3txYCRE",
         "userName": "Joshua Mogal",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjWh91kblsZzGfHqTysQrIUflv5JPrNY7GZN8RM6g",
@@ -173,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwRO0fgNMQ1_l_GoCJqD2tp0SoD3iU4BvWJc0wx=mo",
         "content": "Money-grabbing company. They require you to book an appointment for literally everything, so that they can bill your insurance. A few days after an appointment, they told me to schedule another visit just to get a prescription for a medication I've been taking for ~2 years without issues. What's the point of paying for this service when they can't help on demand?",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "3.16.21",
         "at": "2021-04-17 06:00:47",
         "replyContent": null,
@@ -3089,7 +3113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjHKTQZA_msZ97g2nqnDPGDa19MqXehAafz8hEBOvo",
         "content": "app is works verry well for a single user but if you have a family it it seems to fall short I have a 2 year old and I need to get her an email and separate login ...seems like a huge over look for a \"family\" doctors office!",
         "score": 2,
-        "thumbsUpCount": 10,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "3.12.1",
         "at": "2019-01-15 19:17:50",
         "replyContent": null,

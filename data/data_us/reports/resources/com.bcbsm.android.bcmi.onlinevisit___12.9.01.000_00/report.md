@@ -197,6 +197,10 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Perfect<br> :date: __2021-06-10 18:03:25__
+
+> Great tool<br> :date: __2021-06-08 19:16:13__
+
 > Quick and easy<br> :date: __2021-06-02 14:36:21__
 
 > Very easy to use. Will definitely use it again.<br> :date: __2021-05-25 23:10:54__
@@ -212,10 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Great and professional service<br> :date: __2021-04-27 03:41:25__
 
 > Awesome. Doc took time to listen to me unlike my regular doc<br> :date: __2021-04-26 18:01:10__
-
-> Great it was quick and very efficient<br> :date: __2021-04-23 01:28:19__
-
-> The main Blue Cross app is a flaming dumpster fire, but this works great. I was able to get an account created and see a doctor within twenty minutes.<br> :date: __2021-04-19 18:20:19__
 
 
 
@@ -291,6 +291,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 1 reviews"/>
 </p>
 
+> Look up numbers, lose place and have to start over. Worthless.<br> :date: __2021-06-08 16:39:17__
+
 > Terrible and extremely disappointing. I had a skin issue and sent photo ahead of time to clinician I selected. She didn't seem to know why I was needing help despite my stating it on questionnaire nor did she receive photo sent. We got cut off within about a minute, and she never called me back. It was a one hour waste of my time loading app, signing up account and filling out medical info, and waiting for appt to begin.<br> :date: __2021-04-08 00:11:27__
 
 > I did not have a very good experience, I barely got out what was wrong before he told me I probably have pneumonia, which I do not. Was on the call less than 3 minutes, it literally was a waste of time.<br> :date: __2021-03-22 21:16:00__
@@ -308,7 +310,5 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Took a while to connect with the doctor. The appointment was really rushed and I was prescribed a medicine that didn't make sense. I called customer support to try to get info on why I was prescribed the certain medicine and was told I had to "take it or leave it or call a different doctor". Tried calling a different physician and the physician declined my call. I would rather go to ready care.<br> :date: __2020-07-03 21:36:58__
 
 > This tool has failed me twice now, trying again tomorrow. Your tech support said my end was fine, it on yours. It is not conducive to ones mental health to experience these failures when trying to get better. I could lose my job if I don't get to speak to a doctor soon.<br> :date: __2020-06-17 13:37:42__
-
-> If I ever wanted my medical information shared with marketers, advertising networks and "services that can provide me options" I'd just post it on Facebook because that's easier and just about as secure.<br> :date: __2020-06-11 16:25:44__
 
 

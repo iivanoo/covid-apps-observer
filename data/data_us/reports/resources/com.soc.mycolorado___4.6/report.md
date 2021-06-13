@@ -187,6 +187,18 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Awesome<br> :date: __2021-06-11 02:04:47__
+
+> Really easy to use app. Thanks.<br> :date: __2021-06-11 00:39:09__
+
+> Easy to upload/photos various documents<br> :date: __2021-06-10 06:14:42__
+
+> Saves a lot of effort.<br> :date: __2021-06-09 16:53:11__
+
+> Very easy to use and upload information. Wish all agencies along with TSA accepted the digital documents. Still solid after 6 months.<br> :date: __2021-06-09 03:42:27__
+
+> Great idea and very very user friendly....<br> :date: __2021-06-08 20:58:30__
+
 > Im so releaved to have found this app it has been a life saver<br> :date: __2021-06-04 21:40:37__
 
 > It's just awesome<br> :date: __2021-06-03 03:27:58__
@@ -195,18 +207,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > Has all the information that you need about DMV in Colorado<br> :date: __2021-05-30 17:26:39__
 
-> Great way entering the digital age<br> :date: __2021-05-28 08:20:59__
-
-> Fantastic<br> :date: __2021-05-27 20:15:19__
-
-> Has areas to put registrations, insurance, parks passes, permits, even your MMJ Card, more stuff added, a great Colorado app.<br> :date: __2021-05-27 13:45:17__
-
-> Super awesome! Very glad to see this come together and work SO well!! My new go to!<br> :date: __2021-05-27 03:49:05__
-
-> Well made app and useful for storing other important documents.<br> :date: __2021-05-27 01:06:01__
-
-> Good<br> :date: __2021-05-26 14:32:06__
-
 
 
 #### 4-star reviews
@@ -214,6 +214,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> The scanning took forever to get right but once you get it working it's good.<br> :date: __2021-06-11 00:54:00__
+
+> Quick and just what I needed Thanks.<br> :date: __2021-06-08 07:45:01__
 
 > After some initial troubles the app is now stable and very efficient. More features are being added and it is a useful tool for residents.<br> :date: __2021-06-04 23:26:39__
 
@@ -230,10 +234,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Its helpful I just wish more ppl accepted it.<br> :date: __2021-05-12 14:37:19__
 
 > This is a life saver app in just a swipe for verification purposes. Just wish we can use this "now" to travel legally since everything are electronic based... but i can wait.<br> :date: __2021-05-10 20:26:49__
-
-> I saw other comments about the digital ID not recognizing them the same day they went to the DMV. I gave it a try after I went in yesterday and got the same error message as everyone else. I gave it another try today and it worked! Looks like it takes a bit of time for their system to update, which is understandable. A government app that kinda works... what a nice surprise! 4 stars!<br> :date: __2021-04-28 02:33:45__
-
-> I finally got the app to work for me. The devs should really make this app less difficult to use.<br> :date: __2021-04-27 09:38:45__
 
 
 
@@ -271,6 +271,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
 
+> Nine out of 10 times I'm unable to log in. On the few times I've been able to get to the authentication page afterwards I get an error message. I thought this app would be a game changer having everything in one place but I can't even get it to open<br> :date: __2021-06-10 22:22:06__
+
+> Works for drivers license. Fishing and hunting licenses dont show up.<br> :date: __2021-06-10 00:42:26__
+
 > It does not make any situation more convenient and when prompted, the information doesn't open. A screenshot won't work and signal is needed to open the necessary information. Unfortunately trails and streams don't have wifi yet.<br> :date: __2021-06-03 17:40:14__
 
 > When it wants to verify me by taking a picture the oval frame is black and wont take a picture. The app is useless to me if i cant use it for its intended purpose.<br> :date: __2021-05-11 16:14:20__
@@ -287,10 +291,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > To verify the first time it requires you to use facial recognition by framing your face in an oval. After three attempts, each time the app just sits there, no way to verify the facial recognition, no way to do over, just nothing. Frustrating.<br> :date: __2021-04-09 01:43:26__
 
-> Terrible third-party software for text verification and face ID.<br> :date: __2021-03-19 02:33:43__
-
-> The app says I have no internet connection. Eventhough I am connected to wi-fi or cellar. When toggling my wi-fi off then on, when the app is open, it crashes. Also, when trying to open the insurance cards, the app crashes. I believe it is due to Lookout security app safe browsing VPN. When this service is disabled, the app is able to connect. I believe this app should work with lookout security app where I'm not forced to disable it if I want to use this app.<br> :date: __2021-03-18 19:30:27__
-
 
 
 #### 1-star reviews
@@ -299,6 +299,18 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> It's absolutely useless. The image recognition tool simply does not work. Surely there is a better way to verify identity.<br> :date: __2021-06-11 01:07:58__
+
+> Won't accept my password to sign-in, and won't accept my existing password to let me change my password. So, it's completely useless. You wouldn't want to rely on this for ID.<br> :date: __2021-06-10 21:41:36__
+
+> Just created a new account only to get to the login page for it tell me it doesn't recognize my password or username. Waste of an app.<br> :date: __2021-06-10 16:08:01__
+
+> Created an account and can't log in plus no way to recover account. Trouble logging in button does nothing : (<br> :date: __2021-06-10 06:17:46__
+
+> My app was working just fine and I was using it constantly then about a month ago it stopped working. When I would log in it would go back and forth to the pingid and login screen. It will not properly work. I also sent an email about it and never received a response back. This app needs to work properly!<br> :date: __2021-06-09 16:32:52__
+
+> Can even get the app to scan my ID. So many other people are having the same issue. would not give any stars for the Shyte quality CO wants to make their ID's from.<br> :date: __2021-06-08 03:23:37__
+
 > Would be cool if it worked. Camera worked the first day and then never again. Can't verify or upload anything. Sweet app. Can I have my info back please!<br> :date: __2021-06-05 20:03:40__
 
 > Went to the DMV literally TODAY, and it will not authenticate me. Says it can't match my photo. I look exactly like i did 3 hours ago, hairstyle, clothes and all. This is absurd.<br> :date: __2021-06-04 23:46:20__
@@ -306,17 +318,5 @@ The myColorado app has been installed by more than **50000** times. At this time
 > This is what happens when the government is tasked with make a app that works. It doesn't, And just like the government it probably never will!!<br> :date: __2021-06-03 23:50:43__
 
 > If I could give it a zero star i would. Tryed to face scan an it didnt even reconize me. So i tried again an its just a black oval to scan ur face even in the brightest light. I will just wait for my id to come in the mail. This app is a pain in the you know what.<br> :date: __2021-06-02 04:44:08__
-
-> Unable to upload. pdf files from Dropbox. App cfasbes.<br> :date: __2021-06-01 09:38:47__
-
-> The app is poorly designed. Will not even bring up my fishing license that is current. Not worth using.<br> :date: __2021-05-31 06:49:53__
-
-> Worst app ever. Forgot my user name and password now I can't retrieve it because I don't remember my user name it should be under your email or the app should keep you logged in if you check that box and I did thanks for making this app not user friendly<br> :date: __2021-05-29 21:44:54__
-
-> I have had only about 1/8 success getting the app to work...<br> :date: __2021-05-29 03:59:15__
-
-> This ping sso must have been implemented by a 5-year-old! Constant problems sucks that I have to use this app...<br> :date: __2021-05-28 18:28:54__
-
-> Useless piece of poop.<br> :date: __2021-05-26 16:34:49__
 
 

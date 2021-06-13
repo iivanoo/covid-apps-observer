@@ -163,6 +163,8 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Is there a way you could add an EWS system in this to where when there is a Flash flood warning or something of greater threat it gives a Dialog Alert and plays an alarm sound to alert you before it happens? I just think it would be pretty useful and cool.<br> :date: __2021-06-11 03:58:32__
+
 > Good<br> :date: __2021-06-06 11:47:17__
 
 > Is accurate<br> :date: __2021-06-04 22:03:27__
@@ -180,8 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Good<br> :date: __2021-04-29 00:11:19__
 
 > Thank God for Fema<br> :date: __2021-04-18 18:16:07__
-
-> We need every supply we order from the app for the job.<br> :date: __2021-04-09 06:54:04__
 
 
 

@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOE-vcU9B7n7tzB-uxYDp1Lbt1H3TeOYzxoTC8Ka3ZHZG5uua_rmHFnOjHW1mXueFbhGHc7xdHd141hZOg",
+        "userName": "Lauren Camino",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgOjU-8glIYccptSPUJijcTXgHQCXZdyTqoUqexeg",
+        "content": "Nice and easy",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-06-06 23:26:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGjB-_5hQNROQPy3WIxnoycqk-morrq7EC9vilJ6nGB5iwmmAUws-MXz-TbAXhl1Zti4GsXrMdVf-esKA",
+        "userName": "Lenny Ancheta",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwuMVlAGs5BfIS-JyOMbOxrY35vwlZvwpTicAHs=mo",
+        "content": "Great. To the point",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-06-06 18:10:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGa3ejjpz4jcLWoxtA1ZXe6lu_Pr51sgoS4CetERsnnIYl9aH7-t2pc5Ipdx3VXqVjxo5PoFOyDPowBRA",
         "userName": "Katherine Blake",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_r3PJdY1Kk6qF1rE4U38S_bm6nR45GNI-A4lIgg",
@@ -497,7 +521,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyXaU-eYXDWak-3jxKatY7k_9EYhzmmlHORQMIXg",
         "content": "Everything was very good except that the video cut out 3 or 4 times in about 8 minutes! This must be remedied! Otherwise, it's an excellent option if a clinic visit isn't at that time. *Update: Today's appointment via NowClinic was perfect. App did not cut out at all. Easy interface, with excellent quality video and crystal clear audio. Thanks, devs, for a job well done!\ud83d\udc4d\ud83d\ude01",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-04-13 22:25:56",
         "replyContent": null,
@@ -1478,7 +1502,7 @@
     {
         "reviewId": "gp:AOqpTOFFOriB06DpSoEMbZQ2pdfc6mgWGrkgmlifo2T1iM2WTRCBZc4Yj9Vp8foq17c3EjZluUuk3wjPXQjj6g",
         "userName": "Linda Martin",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9nLAO1Y4r1YbIwx8gk9M0Sdyyv4S0ukcSCX4N=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjk5UKPg2ZA_dsDinj0J-KjQXtAe6UaYOcDf-GyqQ",
         "content": "It was important to set up an account before the visit in order for it to run seamlessly. Had a failed appointment yesterday because I ran into glitches and could not fix them in time. But I used it today on my cellphone (after setting up my account yesterday) and it went very well.",
         "score": 5,
         "thumbsUpCount": 10,
@@ -3037,7 +3061,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGaSjWXSSI_3m0EKh30xLsdvEUIy2JwxgihDIyz0-4rSjg9a5yGqBwHlgkSun6HXwoQvgTIUjtY3-Unpg",
-        "userName": "Randi Baker",
+        "userName": "Not Taking Any BS Anymore",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwvcpI4Ne5ZP154ArUTuCjNLlcPb2ajZ3eAB3CC=mo",
         "content": "Saved me hundreds in emergency room costs.",
         "score": 5,
@@ -4058,7 +4082,7 @@
     {
         "reviewId": "gp:AOqpTOGdF7zn75GNJBsLGxHvf2IkP20vnoEPlxbmHPu1SKdIjVvEaldP8G3Z6hapHWhiWMU3zCBmkh7PaWCVqA",
         "userName": "John W Rumfield",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgboFHJ-eLlFJtyhoGUPdfbYeHaJNZrnFvD1PwQgg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhyGHPoy_D9g7wOV2OLXjUroxYZ2z92KZjd6w9Rdw",
         "content": "Excellent used it before great",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5821,8 +5845,8 @@
     },
     {
         "reviewId": "gp:AOqpTOERgfMqeLbV9zfHK5Lr3lnSH7vHrZ8NxpRR3ZNKV4JKpRCdlKESmvH5ROKPmZqEskd2JPJw6K3qv7JLsA",
-        "userName": "K Br",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjM3zDkV8oGYoB3h4QCW909-xaqpyS5XfNH49mLTg",
+        "userName": "Kim Brooksey",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicXCeXYjot6wqECiHwoFE0JIN75suGm5luELemsQ",
         "content": "So easy to use.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7142,7 +7166,7 @@
     {
         "reviewId": "gp:AOqpTOF9hP3yLJ19RLxb18Znq4j1lTRTT8q3MUE3VHuCJqW0C19A8jxKrOVj0ZCvDkW1YgkT3jOoKz2vp5SEew",
         "userName": "Sue Meroni",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0z6Y2ykeu0eFY2k6PzNJWYjuzTZhRNJMlFfK9=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj70uTp3LymdZvJpa6A-q1vrvfX0D2mHmFPhcTcMQ",
         "content": "A wonderful",
         "score": 5,
         "thumbsUpCount": 0,
@@ -9601,7 +9625,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF4dFnzMzSFbUDwl7-8rar-Ye5JrCl-RW1zIJM4MSJ9QO9f2lwr-XMl0VWAzVrXw6gaBtd6S-yuilTwJg",
-        "userName": "Lashia Fowlers",
+        "userName": "LaShia Crayton",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyeWRJGhV8h5okpa4G0kXmHXKGefn9KOREJv6YV=mo",
         "content": "Awesome. So easy. Dr. Chow was professional and courteous.",
         "score": 5,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "11.3.1.002_10",
         "at": "2019-05-13 21:49:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHBqd3SnrFsQsct3RWkrBgNzQ5u_13wgFlxxO73qFiN06oNM8wiv4VWlzj4w4tOfyH8tUJWJwIRO-NA0A",
-        "userName": "Brian anderson",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyOKPggpHuhVnQ9yh6_MEq8EXjVoj9mcdqbxYYN=mo",
-        "content": "Not going to urgent care was great. Doctor was great.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.3.1.002_10",
-        "at": "2019-05-13 20:53:20",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFG8JEPt9HjExD9AI63Otb2D-9NCLBTmR2Q2AEWVIkvjUbeFeeQ1FsQh-UvKgAIPuhEjyE8KKoy7WuvSw",
-        "userName": "Mary Lu Horkay",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggq9KXRBz_E4XouLJYeaeMRxHKVF5MemSmEQbCqkQ",
-        "content": "very easy to use..",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.3.1.002_10",
-        "at": "2019-05-13 19:52:52",
         "replyContent": null,
         "repliedAt": null
     }

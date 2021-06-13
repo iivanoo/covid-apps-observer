@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> now this virus I strongly 100% believe what was told to me when it when I got into the in-depth decals of the virus and haven't been manipulated and when I got to say is I know what they did and if you don't believe it look into it yourself and quit being silly and led like a bunch of sheep<br> :date: __2021-06-09 08:51:25__
+
 > Extremely Useful After CCDC VISIT Listen To Athority of LAW Protection Helps Community LOVE<br> :date: __2021-06-06 08:27:44__
 
 > Love it? Easy to use and very helpful in this pandemic. I would highly recommend it. 💯🎯😜Stay Safe Everyone😷<br> :date: __2021-05-26 06:58:45__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > It works like is was advised.<br> :date: __2021-03-05 18:21:36__
 
 > Just get the app so you can keep you, your family, your friends, community safer. Contact tracing is one of the best ways to help stop the spread of this virus. So download the app and wear a mask when your out and about for just a little bit longer and we will be on the other side of this whole ordeal in no time. Have a safe and happy day.<br> :date: __2021-02-16 09:44:48__
-
-> I don't live in Nevada I live in Michigan<br> :date: __2021-02-03 19:28:11__
 
 
 
@@ -221,6 +221,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Not effective disturving annoying ruthless app .<br> :date: __2021-06-10 16:19:14__
+
 > Installed communist tyranny for math illiterate diaper face cult.<br> :date: __2021-05-29 11:48:29__
 
 > Ibhave never been notified even though people in my Sun city community have been infected. Worthless app.<br> :date: __2021-03-19 19:51:02__
@@ -238,7 +240,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > It doesnt work. I have 2 positive people at home it said nobody is sick.😥<br> :date: __2021-02-12 02:33:23__
 
 > NV advised everyone to get this app but the only thing that it does that I can tell is whine when bluetooth is turned off. Being an associate of the healthcare industry this just appears to be another government advertised strawman app that nobody really has any use for....though its tempting to kick this on near the COVID wing and see if it goes off like a four alarm fire.....I'm highly doubtful it would.<br> :date: __2021-02-10 08:34:36__
-
-> I tried to use this to notify that I had a positive test while sitting in the urgent care that gave me the results. They had no verification code to give me. What good is the app if I can't actually use it for it's intended purpose?<br> :date: __2021-02-06 18:40:50__
 
 

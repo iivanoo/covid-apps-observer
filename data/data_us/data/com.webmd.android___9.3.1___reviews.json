@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOHXg6_lgm1pYGpeQhC0ndVr28soilWa8vpPU9nKwXxn2MvxjySSJvvEqJMy0hvx9caNtKZs4-ra-lQxFhE",
+        "userName": "Ashlee Nicholls",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxh4Hu8kIr0iSq4pYxNT4yPjWmGn8LW17EBexDP=mo",
+        "content": "Stop trying to push a vaccine that isn't approved... it's disgusting. Get away from the agenda",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "9.3.1",
+        "at": "2021-06-09 17:53:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFv_pWmOTWC0uRnw73IGrgA7aYUTX5nWePBaMijnvYgY8eI68BXrj7LNtRahOju-Lxq9CnfBs1r_KLdC2I",
+        "userName": "Dee Smith",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgO29byyfEXPA6E5YMb9aR5JqMj6ZSGiAuJLtpR",
+        "content": "App is broken",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-07 06:23:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHYcIT_jbskmKx9pG5Yd961hF7MD0AETkVlHgqJ_2aDvX7M0PCJ2Wwi6ef7v725YJAPWi957x8067Ac1ZY",
         "userName": "Candy Moore",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggls--awv7LM-UdF2lzbrlTcdnH6tUpiiTu9zYkbA",
@@ -89,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzLA5owdF3sBPQAcB86gZIiIJPAw4R0PXwZQ0K_=mo",
         "content": "Useless Symptom checker is completely broken and does not load any symptoms even when searching including for the word headache. This continues after restarting both the app and the phone. This was the only thing I use this app for so I guess I'm uninstalling it.",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "9.3.1",
         "at": "2021-05-21 04:28:43",
         "replyContent": null,
@@ -113,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxQzViQdPm7OnEPKxrTlimNLeb-Kn67uusGUAMMjg=mo",
         "content": "App was so glitchy I never got the chance to use it! Can't type. Can't click on things. No way to add or change information on your profile. It's like I was trying to use screenshots!",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "9.3.1",
         "at": "2021-05-19 18:48:05",
         "replyContent": null,
@@ -494,7 +518,7 @@
     {
         "reviewId": "gp:AOqpTOEQLzRvNYX11qsCyr0rbXrL8kLS58zr7uY_bcSLClBibK9EEC48WEHYdVFBIYi533Q_LoVBU_Zh8sXyKtI",
         "userName": "Allison Crooks",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gje1enXm8BQNsEtKoiZn8_W1s73-VzOMjMvcjte4og",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8zgCAcDAda3Bey6vpnhnFFsm1twzhpo3DgGCxevI",
         "content": "I like the option to add current medications and conditions with the symptom checker, but the majority of my medications and diagnosis don't come up when I write them in the search box so I'm not sure how reliable that feature is, or the app as a whole (though we know it's not meant for a medical diagnosis).",
         "score": 3,
         "thumbsUpCount": 36,
@@ -11497,7 +11521,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHNzLrsBDpe6qF0zPh6RSeYbT8eaDmxtHEwZd3w8dbTT5FX4MP87MLtDgXU7sYpRrQW96CC04Vw_jaUYr8",
-        "userName": "William Coviello",
+        "userName": "William C",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhleesmgiP1S53CxgWRsR1bbK1Ad8Pn2QclMkmR",
         "content": "Good app. Very informative and easy to use. I recommend it highly.",
         "score": 4,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.3.4",
         "at": "2018-10-23 04:29:41",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFZqSj_kZzJURsXwWnOiKvOy3G48l0ujf6zKhTO1OcPrhNx_yDVJyxe3kNqgkfrQRjuRRg-WOFu4znJbBU",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Great stuff",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2018-10-22 23:29:41",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFcnUghCfrugfCOTMRdWf6PTfk9ZTwyYdNhh97AFVkE57Jm2kb6dFR61_owAYSo6UY16-rkTm_z84vfOfY",
-        "userName": "Abobakr Madyan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5A3iYsXcRx9aQTkXA15EtB8DVS_WiE8CFvOYBkQ",
-        "content": "Excellent",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.0.1",
-        "at": "2018-10-21 16:31:09",
         "replyContent": null,
         "repliedAt": null
     }

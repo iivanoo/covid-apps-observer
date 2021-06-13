@@ -204,6 +204,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 4 reviews"/>
 </p>
 
+> Mi sono iscritto a sardegna sicura,sono stato accettato ,ma non mi fa entrare mi da sempre erroreho password, ho imail<br> :date: __2021-06-07 11:34:37__
+
 > Concreta<br> :date: __2021-03-24 14:26:54__
 
 > Oggi dopo vari tentativi falliti, sono registrata Purtroppo per il formulario compilato più volte trova sempre difetti inesistenti!Parto domani mattina presto Malpensa-Alghero Risiedo a Lugano. Svizzera ho il treno delle ore 06,00 senza formulario con codice ,sono due giorni che provo in continuazione anche dal sito indicato dalla regione sardegna niente ho spedito diverse email nessuna risposta. Incomprensibile .La causa era un mio errore nella compilazione.!Grazie per la risposta<br> :date: __2020-09-21 16:26:56__
@@ -222,8 +224,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Sono rientrata mercoledì sera da Torino, scaricato app,compilata in tutti i campi obbligatori, arrivate mail di conferma e codice CQ ma nessuno a controllato ne all'aeroporto di Torino e meno che mai a Cagliari, una signora accanto a me non ha nemmeno effettuato la registrazione!tutto ciò e un po deludente!e parliamo di sicurezza? Mah🤔🤔<br> :date: __2020-08-01 13:48:13__
 
-> Non tiene la password<br> :date: __2020-07-30 08:29:48__
-
 
 
 #### 3-star reviews
@@ -231,6 +231,10 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 3 reviews"/>
 </p>
+
+> Non riesco a registrarmi, cosa faccio? Va o non va<br> :date: __2021-06-08 08:00:08__
+
+> ma se non ho ancora tutte le prenotazioni perché forse vengo ospitata da amici,cosa scrivo?<br> :date: __2021-06-06 20:58:37__
 
 > per venire giù in Sardegna verso fine agosto primi di settembre servirà ancora scaricare l'applicazione!?<br> :date: __2021-05-13 19:07:00__
 
@@ -248,10 +252,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Salve, viaggio con mia moglie e figlia di 13 anni, devono scaricare anche loro l'applicazione per comunicare ciò che chiedete per il soggiorno? Per ora 3 perché sn riuscito ad usarla<br> :date: __2020-09-12 19:10:10__
 
-> Ridicola la traduzione in sardo, io sono sardo DOCG ma non capisco alcuni termini per altri la traduzione è ridicola. Perché usare la email per autenticarsi, meglio il numero di telefono.<br> :date: __2020-08-23 23:29:49__
-
-> Nella compilazione dei dati per potersi registrare e usare la app si è costretti a inserire i dati relativi alla residenza in Sardegna nonostante il box per la residenza in Sardegna non sia stato spuntato. È bastato inserire "--“ in ogni campo per i dati dei residenti in Sardegna per poter proseguire. Non esiste la possibilità per stranieri e/o residenti all'estero di dichiararlo esplicitamente. Anche in questo caso è bastato scrivere il nome del paese estero alla voce "provincia". Etc...<br> :date: __2020-08-17 12:40:16__
-
 
 
 #### 2-star reviews
@@ -268,8 +268,6 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Non siete riusciti a trovare il modo di procedere ai controlli in entrata x combattere il covid 19. Mi dispiace x i Sardi che devono subire questa mancanza. Sinceri saluti da un Sardo che ha tanta nostalgia della Sardegna.<br> :date: __2021-03-23 20:54:01__
 
-> Non riesco a registrarmi, cosa faccio?<br> :date: __2021-03-15 18:17:46__
-
 > Devo rientrare oggi e non mi lascia andare avanti per completare la registrazione<br> :date: __2021-03-13 07:37:07__
 
 > Non riesco ad accedere agli spostamenti non capisco perche.<br> :date: __2020-11-13 17:35:04__
@@ -280,6 +278,8 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 
 > Non si apre più, nonostante mi ero già registrato mi fate sapere come fare ?<br> :date: __2020-09-02 18:35:42__
 
+> Scaricato l'applicazione,ma continua a caricare (buffering) e purtroppo non posso accedere perché non posso inserire le credenziali.<br> :date: __2020-08-28 12:19:09__
+
 
 
 #### 1-star reviews
@@ -287,6 +287,16 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.regione.sardegna.autorizzazionicovid19 1 reviews"/>
 </p>
+
+> Pessima, ho provato ben due volte ad inserire la pratica e in entrambe le volte mi ha inserito il giorno successivo alla data di arrivo. Ho dovuto rifare la procedura dal portale web e lì ha funzionato. Invito gli sviluppatori a verificare il campo data volo, sicuramente c'è un problema in fase di salvataggio.<br> :date: __2021-06-10 12:50:45__
+
+> Non mi carica neanche la schermata iniziale<br> :date: __2021-06-10 07:30:25__
+
+> Fate un' app per il fascicolo sanitario come altre regioni hanno fatto<br> :date: __2021-06-09 10:12:24__
+
+> Come ad altri utenti hanno segnalato anche a me l'applicazione ha spostato di un giorno l'arrivo. Ho bisogno di sapere che devo fare per risolvere questo problema. Urgentemente. Grazie<br> :date: __2021-06-07 23:02:00__
+
+> Non riesco ad accedervi<br> :date: __2021-06-07 20:12:27__
 
 > Confermo problema spostamento date un giorno avanti. Alcuni leggo che stanno risolvendo inserendo una data antecedente: è una FALSA dichiarazione questa, attenzione. Attendiamo (poco) fiduciosi che risolvano il problema, segnalato già da tempo e suggerimenti proposti imbarazzanti.<br> :date: __2021-06-06 12:04:02__
 
@@ -297,15 +307,5 @@ The Sardegna Sicura app has been installed by more than **100000** times. At thi
 > Io e la mia compagna abbiamo inserito due registrazioni con ingresso in Sardegna il 05.06.2021.. Ad entrambi é arrivata la mail con ingresso il 06.06.2021.. Abbiamo controllato bene che i dati fossero corretti prima di confermare.. In più dopo circa un'ora effettuo un'altra registrazione a mio nome controllando altre 100 volte i dati prima di dare conferma, da sempre come data di ingresso 06.06.2021 invece del 05.06.2021 da me inserito. Giá mandato la mai all'indirizzo indicato..<br> :date: __2021-06-04 17:13:55__
 
 > Meno di uno non si può dare. Confermo come detto da un altro utente, che la app sfalsa le date un giorno in avanti. Per compilare corretto bisogna mettere il volo con la data di un giorno prima e l'ingresso nella struttura o casa con la data corretta. Ora però mi trovo con circa 6/7 registrazioni.<br> :date: __2021-06-03 13:15:10__
-
-> Vergognosa, pessima, allucinante<br> :date: __2021-06-02 18:40:47__
-
-> Per chi ha Huaweii nuovi è impossibile scaricare qlc App Google ha sospeso la licenza a Huaweii O si ha un altro cell o un Huaweii anche di 2anni fa cm ho fatto io. Credo non garantisco dal sito si riesca, io ho provato ma ad esempio alla fine nn compare l avviso di confermare la partenza 48h prima. Quasi andrei in Grecia.....<br> :date: __2021-05-30 16:28:50__
-
-> Non mi fa nemmeno registrare. Ho provato 5 volte, anche disinstallato etc... Mi da sempre 'codice fiscale invalido'.. Mentre invece è correttisimo... Per tutte e 5 le volte.. Come pensate di fare??<br> :date: __2021-05-30 13:39:34__
-
-> Ho inserito tutti i dati correttamente, ma dopo il salvataggio LE DATE SONO STATE CAMBIATE!!! Sono sicurissimo di averle inserite correttamente. Mai vista una cosa così.<br> :date: __2021-05-29 21:04:25__
-
-> Non funziona su Sony Xperia xz1 compact, lo scorso anno funzionava.<br> :date: __2021-05-26 14:54:17__
 
 
