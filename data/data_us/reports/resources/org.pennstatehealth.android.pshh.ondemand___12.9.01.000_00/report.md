@@ -289,6 +289,8 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="1_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 1 reviews"/>
 </p>
 
+> App wouldn't open when it was time for my appointment<br> :date: __2021-06-16 17:04:06__
+
 > Keeps crashing. After I enter login and password, app closes. When it does open, unable to book appointment. After I select the available time slot, an error message pops up stating that "time is no longer available".<br> :date: __2021-02-16 01:17:04__
 
 > Very unsatisfied, how can you see a child's throat through a damn phone camera, I'll never even go to that doctor's office again<br> :date: __2020-10-29 11:47:46__
@@ -306,7 +308,5 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Worked fine for me, until I added my kids. Now when I log in, it becomes a slow strobe light. Uninstalled and reinstalled, same thing, app chokes and tech support cannot see why.<br> :date: __2020-06-08 15:47:48__
 
 > Crashed my phone, even when not using ....it runs in background.<br> :date: __2020-05-15 13:58:40__
-
-> The app itself is fine but the issue is which insurance companies they accept. They ONLY except High Mark and not Aetna which is the health insurance provided by Penn State University. Bizarre, Penn State Health does not accept PSU health insurance. They don't accept Medicare as well.<br> :date: __2020-04-01 12:38:17__
 
 

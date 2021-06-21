@@ -141,6 +141,10 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Cool<br> :date: __2021-06-16 11:22:19__
+
+> Datenschutz ist nicht kritisch.<br> :date: __2021-06-11 22:41:10__
+
 > Bitte Huawei Health hinzufügen für huawei wearables. Das wäre fein.<br> :date: __2021-05-19 20:39:53__
 
 > Sars-Cov-2 ist eine Krankheit die uns schon 83.000 Menschen getötet hat. Wir müssen jede Infektion aufdecken. Super App Danke liebes RKI !<br> :date: __2021-05-15 16:18:33__
@@ -157,10 +161,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Ich habe keine Probleme mit der App. Ich nutze eine WearOS SmartWatch über Google Fit. Über die Menge der gespendeten Daten wurden aus meiner Sicht interessante Ergebnisse erzielt. S. dazu den in der App verlinkten Blog.<br> :date: __2021-04-15 13:07:04__
 
-> Funktioniert bestens.<br> :date: __2021-03-26 12:51:48__
-
-> Sehr großartige App sehr gut weiter verbessern und entwickeln vielen Dank. Könnt ihr bitte antworten vielen Dank.<br> :date: __2021-03-10 21:40:03__
-
 
 
 #### 4-star reviews
@@ -168,8 +168,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
-
-> Lauft mit Garmin Fenix 5. Verbesserungsideen: Integration zur Corona Warn App.<br> :date: __2021-06-07 21:42:28__
 
 > Schade, gute Idee! Ich habe die App sofort installiert. Leider ist auch nach dem Update die Samsung Fitness App noch immer nicht dabei.....und ich glaube das liegt bestimmt nicht an Samsung. Ein wenig warte ich noch...nun nach einem Jahr wird neu installiert. Nun geht es auch mit Samsung<br> :date: __2021-04-22 10:39:34__
 
@@ -188,6 +186,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich gebe erstmal nur 4 Sterne, weil ich die Idee oder den Hintergrund ansich sehr gut finde. Ich möchte auch sehr gerne helfen. Leider habe ich mein Band (Honor Band 5-e28) nicht gefunden. Ich hoffe, das mein Band bald dabei ist. Dann gibt es auch den 5. Stern. Bleibt alle gesund! Nach 7 Monaten.... Von Ende April bis Ende November ist es noch immer nicht möglich, Huawei zu wählen. Sehr schade, da diese Marke ja doch von vielen genutzt wird.<br> :date: __2020-11-30 18:13:48__
 
 > Gute Einsichten in die Forschungsergebnisse. Aber jetzt bekomme ich eine neue Uhr, die ich hier nicht auswählen kann um weiter teilzunehmen.<br> :date: __2020-11-29 11:18:53__
+
+> Installiert vor 3 Tagen, verbunden mit POLAR. Datenspende 0 Tage? Edit am 14.11.20: endlich werden die gesendeten Tage angezeigt.<br> :date: __2020-11-14 08:12:25__
 
 
 
@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Mi Fit ?? Nicht verfügbar...<br> :date: __2021-06-11 21:52:35__
+
 > Huawei wird leider nicht unterstützt<br> :date: __2021-06-11 13:32:56__
 
 > Mi fit wird nicht unterstützt<br> :date: __2021-06-11 08:23:08__
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich kann noch keine Bewertung abgeben, da ich Samsung Health nicht damit verbinden kann. Es wird mir immer gemeldet, dass ich keine Berechtigungen zwischen den beiden Apps freigeben kann. Bitte löst das Problem! Android 11<br> :date: __2021-05-14 10:25:07__
 
 > Kann ich nicht nutzen mit MiFit also wieder gelöscht, hätte gerne geholfen aber App unterstützt nicht meine Uhr.<br> :date: __2021-04-24 13:37:27__
-
-> Die App ist völlig wertlos. Erst nach der Installation erfuhr ich, dass die App nur mit Datenarmband etc. funktioniert. Man kann nirgendwo manuell Daten eingeben. Also völliger Datenschrott.<br> :date: __2021-04-24 11:18:29__
 
 

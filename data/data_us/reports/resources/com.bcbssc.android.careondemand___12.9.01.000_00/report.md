@@ -203,6 +203,8 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbssc.android.careondemand 5 reviews"/>
 </p>
 
+> Quick and easy to use. Great doctors at a rate much less than an actual office visit.<br> :date: __2021-06-17 18:01:08__
+
 > Qui k response. From install to consult in less than 10 minutes. I felt the consulting doctor knew what he was talking about.<br> :date: __2021-06-02 00:48:15__
 
 > So far a great experience! I would highly recommend it to anyone<br> :date: __2021-06-01 18:54:04__
@@ -220,8 +222,6 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 > Loved it! Didn't have to leave the house and was seen after a wait of no more than 5 minutes.<br> :date: __2021-04-14 14:30:29__
 
 > Quick, professional exam for minor complaint<br> :date: __2021-04-06 15:55:24__
-
-> The future is finally here get real time results...<br> :date: __2021-04-06 00:07:06__
 
 
 
@@ -277,6 +277,8 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="com.bcbssc.android.careondemand 2 reviews"/>
 </p>
 
+> It took forever to get a doctor online. But doctor Sheehan was great! He deserves 5 stars. The app is horrible.<br> :date: __2021-06-19 12:26:02__
+
 > Isn't clear about how much they will charge<br> :date: __2020-11-23 18:50:35__
 
 > I have had numerous problems with getting the prescriptions prescribed during my and my husband's visits. I was on hold with the prescription health line for 50 mins, with an expected wait time 55 mins when it changed my wait time 65 additional minutes! I had to check in to the app and see another doctor, paying more money to get my prescription sent to the right pharmacy. My husband's prescription information is not in the email they sent, the phramacy doesn't have it, on hold for 25mins now...<br> :date: __2020-05-27 16:37:58__
@@ -294,8 +296,6 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 > Lose the calendar! It would me 732 presses to enter my DOB !!!!!<br> :date: __2017-03-13 21:18:04__
 
 > It's been over an hour and my prescription has yet to be called it.<br> :date: __2017-02-22 02:37:36__
-
-> It keeps telling me my connection is being interrupted. Please fix this.<br> :date: __2016-06-14 20:05:42__
 
 
 

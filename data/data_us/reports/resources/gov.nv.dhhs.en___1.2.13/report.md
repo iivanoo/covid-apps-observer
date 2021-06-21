@@ -121,6 +121,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Surbete<br> :date: __2021-06-19 17:33:36__
+
+> Great app<br> :date: __2021-06-15 04:04:13__
+
 > now this virus I strongly 100% believe what was told to me when it when I got into the in-depth decals of the virus and haven't been manipulated and when I got to say is I know what they did and if you don't believe it look into it yourself and quit being silly and led like a bunch of sheep<br> :date: __2021-06-09 08:51:25__
 
 > Extremely Useful After CCDC VISIT Listen To Athority of LAW Protection Helps Community LOVE<br> :date: __2021-06-06 08:27:44__
@@ -137,10 +141,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 
 > Elpata<br> :date: __2021-03-06 05:30:43__
 
-> It works like is was advised.<br> :date: __2021-03-05 18:21:36__
-
-> Just get the app so you can keep you, your family, your friends, community safer. Contact tracing is one of the best ways to help stop the spread of this virus. So download the app and wear a mask when your out and about for just a little bit longer and we will be on the other side of this whole ordeal in no time. Have a safe and happy day.<br> :date: __2021-02-16 09:44:48__
-
 
 
 #### 4-star reviews
@@ -148,6 +148,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 4 reviews"/>
 </p>
+
+> The one I got<br> :date: __2021-06-20 02:37:54__
 
 > Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see. They updated it...it works now.<br> :date: __2021-04-11 03:40:23__
 

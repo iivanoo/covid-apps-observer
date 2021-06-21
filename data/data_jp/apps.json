@@ -18,13 +18,13 @@
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "2.1.0",
-        "latest_crawl": 1623415878
+        "latest_crawl": 1624274091
     },
     {
         "id": "jp.go.mhlw.covid19radar",
         "store_country": "jp",
         "store_lang": "jp",
         "latest_crawled_version": "1.2.4",
-        "latest_crawl": 1623416537
+        "latest_crawl": 1624274100
     }
 ]

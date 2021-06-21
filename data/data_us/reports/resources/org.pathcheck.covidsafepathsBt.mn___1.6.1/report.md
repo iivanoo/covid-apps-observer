@@ -249,6 +249,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> Tracking app.<br> :date: __2021-06-12 07:48:08__
+
 > Because this app is state specific, it does little good since I am traveling out of state about half the time. When I am in MN I live alone and would prefer to turn the Bluetooth off when home or out of state since there is zero chance of exposure but that is not an option without frequent notice that I need to turn Bluetooth on.<br> :date: __2021-05-24 23:30:09__
 
 > Tired of the constant notifications that it's checking for exposures with no option to turn that notification off without turning off exposure notifications. This is getting deleted.<br> :date: __2021-05-07 17:05:14__
@@ -266,7 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Full of adds<br> :date: __2021-04-05 20:25:30__
 
 > Wasn't able to enter my code for a positive test. Boyfriend entered his code and I was never alerted about coming into contact with him? ?<br> :date: __2021-04-01 00:24:15__
-
-> Buggy and annoying. The "checking exposures" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen. Edit: uninstalling because still no fix and just got 20 notifications in a row.<br> :date: __2021-03-31 19:32:39__
 
 

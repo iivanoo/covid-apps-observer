@@ -243,6 +243,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> Now that song that app was showed up on the other phone and then you showed up on this phone I don't know if they going by my namethey are hacking me and they are really getting on my nerves and I'm trying to buy a house and a car whoever is doing this they have my credit score below 600 I need help with this situation could you please help<br> :date: __2021-06-17 04:58:35__
+
 > No use!.I had covid and couldn't even get a PIN when I talked to the trackers! Total waste of time and space.<br> :date: __2021-06-04 13:53:15__
 
 > When I found myself getting less than 99 Push Notifications an hour to my cellphone, this app came in and saved the day by getting those useless push notifications up enough to display (99+) notifications. Since my sense of self worth is directly tied to the number of notifications I receive per hour, it immediately became an invaluable tool for increasing tMood, we ent ckkhat number by 1. It may actually have had another function, but whatever that function was- IT matters less than a of a hor<br> :date: __2021-06-04 06:38:17__
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > App is a peice of trash. Trying to sign up and use it is a pain in the butt. It shouldn't be this complicated to use an app that essentially only needs to notify you of other users around you. Many apps have this function. Hell, even dating apps notify you if a match is nearby. The devs need to learn how the hell to code an app before trying to capitalize on everyone's fear with this useless junk during a pandemic.<br> :date: __2021-04-19 15:13:12__
 
 > Horrible and doesn't work at all. I am guessing the app developer is Slow, like the apps name. Google should remove this from the store. It does not look to be supported or updated any longer. Worst app I have ever downloaded!<br> :date: __2021-04-09 15:32:54__
-
-> Statistics no longer working, back to political misrepresentation and hiding of details.<br> :date: __2021-04-03 15:00:45__
 
 

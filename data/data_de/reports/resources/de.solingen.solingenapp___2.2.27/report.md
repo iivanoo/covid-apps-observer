@@ -196,6 +196,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 4 reviews"/>
 </p>
 
+> Eine echt klasse App für Solingen, viele Informationen und sinnvolle Funktionen. Da macht Solingen vieles richtig. Leider Funktioniert die App dann plötzlich alle paar Wochen nicht mehr. Man muss Sie deinstallieren und neu installieren. Das geht leider auf Dauer gar nicht ) - : . Viele Solinger machen das nur ein Mal, obwohl Sie die App auch super finden! Da muss der Entwickler sehr stark dran arbeiten! Ansonsten hat demnächst kein Solinger mehr dieses App installiert, obwohl Sie super ist!!!<br> :date: __2021-06-13 15:00:45__
+
 > App startet nicht? So geht man dann vor... Eigenschaften der App aufrufen, Cache und Daten löschen. Dann klappt es wieder falls kein Serverproblem vorliegt.<br> :date: __2021-05-17 23:46:50__
 
 > Sie stürzt zum mindestens immer bei Mängel ab, aber sonnst top die app<br> :date: __2021-03-11 08:45:04__
@@ -213,8 +215,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Kann die App gar nicht öffnen nach dem letzten Update Eher 0 Sterne, geht aber nicht Edit 16.12.20 Vielen Dank für die Rückmeldung. Ich habe die App mittlerweile neu installiert und verschiedene Benachrichtigungen abgestellt. Jetzt läuft sie wieder.<br> :date: __2020-12-16 08:18:12__
 
 > Ich bekomme regelmässig die Nachricht, dass die App zu langsam läuft. Es könnte vielleicht zusätzlich aufgenommen werden Müllgefässe zu bestellen bzw. zu ändern. Die Rubrik Baustellen scheint nicht aktuell. Unsere Strasse ist durch Kanalbauarbeiten schon seit 1 Jahr eine Dauerbaustelle und ist nicht einmal erwähnt.<br> :date: __2020-11-29 09:37:31__
-
-> Vielen Dank, läuft jetzt wieder einwandfrei. Eigentlich eine schöne App aber seit dem letzten Update nur noch einmal zu öffnen (Samsung M21, Android 10).<br> :date: __2020-11-22 02:39:48__
 
 
 

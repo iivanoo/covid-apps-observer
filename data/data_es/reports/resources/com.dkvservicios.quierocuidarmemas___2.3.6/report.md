@@ -217,6 +217,12 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Fue muy buena la consulta virtual, muy aclaratoria y continuaré con pruebas sugeridas por la Dra. para tener seguimiento de mi mejora posteriormente.<br> :date: __2021-06-17 11:23:38__
+
+> Muy buena<br> :date: __2021-06-14 18:36:10__
+
+> Muy rapidos en contestar<br> :date: __2021-06-14 10:43:52__
+
 > Todo genial 😊<br> :date: __2021-06-10 11:59:15__
 
 > Me encanta seguros DKV<br> :date: __2021-06-07 18:01:22__
@@ -230,12 +236,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Excelente app<br> :date: __2021-05-25 09:34:12__
 
 > La visita telepática genial. Un doctor encantador<br> :date: __2021-05-20 12:07:14__
-
-> Es un buen seguro pero a veces las clínicas con cobertura no dicen que hay que pagarle algo aparte de la mensualidad .contenta<br> :date: __2021-05-20 11:19:35__
-
-> Espectacular la aplicación y todos los servicios<br> :date: __2021-05-18 18:38:04__
-
-> La atención por video llamada es muy puntual, cómoda y práctica. Gracias!<br> :date: __2021-05-17 12:24:34__
 
 
 
@@ -272,6 +272,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 3 reviews"/>
 </p>
+
+> La aplicación debería poder instalarse en el PC para ser más funcional pq desde el movil la conexión no es estable, hasta que se efectúa la llamada necesitas estar entrando continuamente pq la pantalla del movil se pierde y se desconecta.<br> :date: __2021-06-16 11:57:57__
 
 > No puedo ver en la aplicación mis datos de la poliza, tengo q meterme en área de clientes por fuera y se me olvida la contraseña, cuando quiero restablecerla no me llega ningún email<br> :date: __2021-04-30 10:55:46__
 

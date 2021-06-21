@@ -213,6 +213,16 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> I suggest anybody using this it works very well very quick and the doctor was phenomenal. I would rate it a 10 if I could.☝️👍<br> :date: __2021-06-19 22:45:56__
+
+> Quick and easy<br> :date: __2021-06-18 19:12:03__
+
+> Was great quicker than waiting in an office and the doctor was awesome!<br> :date: __2021-06-18 18:45:10__
+
+> Very beneficial and professional and fast no long wait time.<br> :date: __2021-06-17 17:28:46__
+
+> Esst to use, doctors are friendly and efficient<br> :date: __2021-06-13 19:37:35__
+
 > Very fast telephone visit. Had a call from a provider in less than 5 minutes of completing my online registration! Definitely easier and faster than previously using MDLIve. Thanks to my employers insurance, it was $5 instead of $100+ from an Urgent Care facility.<br> :date: __2021-06-09 04:30:26__
 
 > Such a convenient way to receive urgent care from the comfort of your home or while at work. Very easy to use. All that's needed is good lighting and a steady wifi connection.<br> :date: __2021-06-04 11:45:28__
@@ -222,16 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Fast and easy. No long wait at urgent care<br> :date: __2021-05-25 18:32:01__
 
 > The app was very straightforward and easy to use. The doctor was very professional and .out important, he provided excellent treatment options.<br> :date: __2021-05-22 14:38:15__
-
-> Easy to use<br> :date: __2021-05-20 00:52:33__
-
-> Very easy to navigate and communicate to professionals through the app.<br> :date: __2021-05-17 20:47:32__
-
-> Easy<br> :date: __2021-05-17 01:05:04__
-
-> Very helpful and knowledgeable drs on staff. Always know what to prescribe to make me feel better.<br> :date: __2021-05-11 00:45:09__
-
-> Super quick and easy video visit with a Dr for a straight forward, common issue. So much cheaper and easier than an in office visit. It's after 9 pm, so I'll be able to pick up my prescription in the morning. The app struggled to confirm my insurance, probably because it's after hours, so I'll have to submit this to them, in case I over paid. Still it was pretty cheap, and the Dr was nice!<br> :date: __2021-05-10 06:07:02__
 
 
 
@@ -323,6 +323,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> Bs!! Doesn't take my insurance!! I really need help<br> :date: __2021-06-18 04:45:48__
+
+> Kept crashing<br> :date: __2021-06-12 02:30:35__
+
 > My psychologist never showed up for our scheduled appointment. I waited 17 mins into the appointment before I was notified "provider declined visit", even though it was scheduled for over 24 hours<br> :date: __2021-06-06 18:30:31__
 
 > Terrible service, DR's push you thru as fast as they can to get onto the next patient and the next pay check!<br> :date: __2021-05-29 00:47:49__
@@ -338,9 +342,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Every update makes the app worse. Can't find insurance, can't see or hear doctor, can't leave doctor reviews anymore, doctors seem to be rood a lot. Very frustrating.<br> :date: __2021-04-03 22:49:08__
 
 > Doc canceled video chat mid meeting w/o reason-she couldn't be seen or heard at 1st, then I could barely her even tho my Galaxy Note 20 Ultra 5G was on the highest volume. She said she was typing so she couldn't turn on the camera at the same time. Mina Rizwan was found under Women's Health and her profile stated it is her profession. I had uploaded images of my health report since I was looking for a 2nd opinion, all she told me was to go to my OBGYN n hung up on me. POINTLESS APP!RUDE DOCTOR!<br> :date: __2021-04-03 18:17:37__
-
-> Doesn't have healthfirst so beware.<br> :date: __2021-03-07 09:51:03__
-
-> I HATE THIS APP!! It constantly crashes, won't load, or won't even stay open. I got kicked out of another appointment and that's not good. Especially for people who are paying their hard earned money for the services provided. Please fix.<br> :date: __2021-03-03 20:12:02__
 
 

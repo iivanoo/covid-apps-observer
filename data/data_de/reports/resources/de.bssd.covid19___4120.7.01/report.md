@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> zop app<br> :date: __2021-06-18 18:31:05__
+
 > Sehr gut<br> :date: __2021-06-03 20:19:19__
 
 > Perfekt ist sehr schnell und einfach zu bedienen<br> :date: __2021-06-01 06:07:58__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Toller Service. Unkomplizierte Nutzung mittels QR Code. Durch die Push Nachricht ploppt das Ergebnis sogar auf dem Display auf. Großartig.<br> :date: __2020-10-20 18:22:03__
 
 > Bei mir hat alles super funktioniert. Am nächsten Tag die Push-Benachrichtigung bekommen und das Ergebnis war da. Super !!<br> :date: __2020-10-15 08:51:22__
-
-> Die App hat (in meinem Fall) alles getan, was sie tun soll: QR Code gescannt, am nächsten Morgen kam die Push Benachrichtigung mit dem Befund. Alles sehr übersichtlich.<br> :date: __2020-10-13 09:22:48__
 
 
 
@@ -215,6 +215,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="de.bssd.covid19 2 reviews"/>
 </p>
 
+> Leider ist diese App für genesene und geimpfte Personen nicht geeignet da der Status"genesen&geimpft " nicht berücksichtigt wird.<br> :date: __2021-06-14 17:52:32__
+
 > Die App lässt sich leider nicht öffnen. Stürzt immer ab.<br> :date: __2021-01-21 01:17:36__
 
 > Funktioniert nicht mit Android 11 mit Android 10 funktionierte die App gut.<br> :date: __2020-12-17 10:09:37__
@@ -233,8 +235,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 
 > Die app ist blöd weil man sich registrieren muss und ich habe keine Handy Nummer<br> :date: __2020-05-15 19:55:38__
 
-> Also aktuell warte ich auf mein ergebnis und komme seit heute morgen gar nicht mehr im die app. Error, server, überprüfen Sie ihren benutzernamen. Hab ja nur nen code. Also leute, wenn ihr schon ne app raus bringt, dann solltest ihr die auch regelmäßig abdaten. Sowas geht gar nicht. Wir medizinisches personal sind an forderster front und sollten schon wissen, was für ergebnisse wir haben.<br> :date: __2020-05-09 17:50:57__
-
 
 
 #### 1-star reviews
@@ -243,24 +243,24 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
-> Nutzung der App unmöglich. Funktionalität der App schlichtweg eine Katastrophe !!! Absolut unsinnige App !!!<br> :date: __2021-06-11 10:53:47__
+> App lässt sich nicht mal öffnen nach dem runter laden.<br> :date: __2021-06-20 11:09:43__
 
-> Diese App ist Müll! Sie lässt sich nicht öffnen. Direkt wieder deinstalliert...😒😒<br> :date: __2021-06-11 04:12:07__
+> Irgendwie ist der Wurm drin<br> :date: __2021-06-20 10:24:51__
 
-> Sie Startet seit Android 11 nicht mehr weder Pixel 2 noch Pixel 3a oder Pixel5. Trotz Anruf bei dem Unternehmen null Veränderungen. Die App ist somit nutzlos. Weiterhin nicht zu benutzen und den Support interessiert es nicht auch nicht wenn man Telefonisch Nachfragen tut.<br> :date: __2021-06-10 22:55:38__
+> Die geht gleich wieder zu sobald man sie startet. Samsung s10 Android<br> :date: __2021-06-19 17:27:09__
 
-> Einscannen des Codes geht nicht. Mal wieder eine ordentlich schief gelaufene App - deutsche Entwickler sind da wirklich führend...<br> :date: __2021-06-10 21:56:12__
+> Absolute Schrott App. Funktioniert nicht, wie so vieles hier in diesem Land<br> :date: __2021-06-19 12:43:10__
 
-> nicht zu gebrauchen, geht nach öffnen gleich wieder zu<br> :date: __2021-06-10 21:21:21__
+> Guter Witz, funktioniert nicht. Hätte vor der Veröffentlichung mal getestet werden sollen.<br> :date: __2021-06-18 18:27:14__
 
-> Diese App ist halt Schrott nicht verwertbar<br> :date: __2021-06-10 13:56:28__
+> Total unnütz für Android 11 Nutzer. Meine Filiale hat mir die Unfähigkeit der Programmier Dilettanten bestätigt.<br> :date: __2021-06-18 15:36:50__
 
-> Funktioniert nicht, schließt automatisch ohne Funktion<br> :date: __2021-06-10 11:40:07__
+> Die App funktioniert nicht. Man kann sich nicht anmelden, wenn man es mit dem QR Code macht☹️<br> :date: __2021-06-18 12:16:55__
 
-> Schrott geht noch nicht mal zu öffnen<br> :date: __2021-06-10 08:49:23__
+> Die App ist mist. Beim Starten schließt sich sich laufend. Nutzung nicht möglich<br> :date: __2021-06-17 18:14:25__
 
-> Für mich unbrauchbar<br> :date: __2021-06-09 19:53:45__
+> Die App schließt sich beim starten laufend und kann nicht genutzt werden.<br> :date: __2021-06-17 18:11:21__
 
-> Wie so vieles in Deutschland bezogen auf die Pandemie Note 6- ! App bzw. QR Code funktioniert seit Monaten nicht.....<br> :date: __2021-06-01 15:14:16__
+> Funktioniert nicht man kann die app gar nicht öffnen<br> :date: __2021-06-17 15:06:36__
 
 

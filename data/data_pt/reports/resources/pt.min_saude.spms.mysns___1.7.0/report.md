@@ -154,6 +154,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-06-17 11:34:57__
+
+> Sem experiência efetiva.<br> :date: __2021-06-14 16:36:45__
+
 > Gosto<br> :date: __2021-05-16 12:35:06__
 
 > Muito burocrática tds os itens deviam estar disponíveis automaticamente sem ter que recorrer assiduamente á chave digital,imagine- se para para o cidadão comum o transtorno.....<br> :date: __2021-04-24 21:46:43__
@@ -169,10 +173,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Top<br> :date: __2021-02-22 22:33:34__
 
 > Muito útil. OBRIGADO<br> :date: __2021-02-21 10:56:18__
-
-> Muito util<br> :date: __2021-02-05 18:48:15__
-
-> Opcional<br> :date: __2021-02-02 17:13:25__
 
 
 
@@ -238,6 +238,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> Depois de instalar a aplicação e de uma enorme perda de tempo não consigo aceder à receita médica qual é a utilidade desta aplicação<br> :date: __2021-06-13 22:47:50__
+
 > Funcionou durante algum tempo mudei de telefone e inexplicavelmente deixou de funcionar. Enquanto Funcionou reparei que era muito complicada e pouco amigável para o utilizador no entanto com maior ou menor dificuldade sempre servia. Agora não consigo utilizar.<br> :date: __2021-05-18 23:11:57__
 
 > Sinceramente não compreendo que esta APP não seja compatível com o SO Android mais recente. Há vontade de acompanhar a evolução o que facilita a vida a toda a gente. Mas ela não estando em conformidade vou desinstalá-la.<br> :date: __2021-05-08 21:34:07__
@@ -256,8 +258,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Não abre, quer dizer abrir até abre, mas não aparece nada.<br> :date: __2021-01-20 15:59:14__
 
-> A aplicação direciona sempre para o browser para fazer o login, por isso torna-se inútil instalar.<br> :date: __2020-11-04 14:58:20__
-
 
 
 #### 1-star reviews
@@ -266,24 +266,24 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Simplesmente miserável, aplicação deve ter sido idealizada por boys de algum partido cuja única competência era a falta dela.<br> :date: __2021-06-21 08:14:32__
+
+> Nao sei para que serve a app..abre sempre o browser para login e tem que se introduzir dados de registo novos. Completamente obsoleta e sem mais valia.<br> :date: __2021-06-19 13:18:29__
+
+> Eu só pergunto, mas alguém testou a App? Se tentar validar o acesso pelo número do utente, tem de definir a sua data de nascimento, espero que tenha nascido há poucos anos porque senão... Desejo-lhe muita paciência. Não pode introduzir a data, tem de recuar até ao seu ano através do calendário! Conclusão, já desinstalei.<br> :date: __2021-06-18 10:03:41__
+
+> Ni ideia<br> :date: __2021-06-17 14:07:40__
+
+> Porcos incompetentes. Vão masturbar-se para a PQP.<br> :date: __2021-06-17 13:40:34__
+
+> Uma aplicação péssima.<br> :date: __2021-06-17 11:25:52__
+
+> Muito fraco<br> :date: __2021-06-12 12:38:13__
+
 > É a algum tempo que nao entro no meu my sns agora ia entrar nao me deixa entrar nada.mas no entanto continuam a ver a minha ficha medica,porque sai me a menssagem quando a minha medica entra para ver.senao conseguir entrar desinstalo,e quero ver se continuam a entrar!!!!!.<br> :date: __2021-06-01 14:26:00__
 
 > Demasiado mau. Esperemos que esta coisa seja extinta e substituída por uma app do estado dirigida por profissionais capazes<br> :date: __2021-05-27 20:18:14__
 
 > Péssimo<br> :date: __2021-05-26 08:32:19__
-
-> Péssima APP! Sempre que tentamos efectuar o login, tem que se colocar os dados outra vez. Eu como fiz pelo número de utente, o espaço para data de nascimento é pelo calendário e temos que passar página a página até nesse caso a minha 1977. Não leva zero porque o mínimo é uma estrela. Vou já desinstalar !<br> :date: __2021-05-24 16:37:57__
-
-> Inútil e app desatualizado.<br> :date: __2021-05-19 08:41:10__
-
-> O SNS sugere a instalação da ap MySNS carteira para ter acesso às receitas médicas. Recebi uma mensagem com uma receita que não solicitei, Instalei a ap, mas não está lá receita nenhuma. Fui ao computador e entrei com o cartão de cidadão, também não está nada<br> :date: __2021-05-13 15:43:25__
-
-> Nao serve para nada... perda de tempo. Receitas? Tenham vergonha em gastar dinheiro em apps mal feitas, pagas pelos contribuintes.<br> :date: __2021-05-08 19:45:06__
-
-> Não funciona.<br> :date: __2021-05-07 13:50:54__
-
-> Não funciona<br> :date: __2021-05-07 04:33:08__
-
-> Não me parece ser grande coisa<br> :date: __2021-04-29 20:54:29__
 
 

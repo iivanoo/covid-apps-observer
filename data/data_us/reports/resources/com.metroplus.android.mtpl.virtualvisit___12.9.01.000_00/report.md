@@ -207,6 +207,8 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="com.metroplus.android.mtpl.virtualvisit 5 reviews"/>
 </p>
 
+> Considering its after 5 am and I just got seen and taken care of in a matter of minutes I absolutely love this service saved me a visit of possibly two hours or more in a E.R or urgent care. Thank you so much<br> :date: __2021-06-14 11:54:52__
+
 > It is good app to use it<br> :date: __2021-06-08 00:43:43__
 
 > This app is incredible! Please spread the word to encourage more people to take advantage of the services.<br> :date: __2021-05-29 19:47:46__
@@ -224,8 +226,6 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 > The doctors on this app are amazing and informative saved my life<br> :date: __2021-03-20 16:50:24__
 
 > Works very well<br> :date: __2021-03-18 14:37:05__
-
-> Very convenient<br> :date: __2021-03-07 23:23:05__
 
 
 

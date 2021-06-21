@@ -199,6 +199,8 @@ The Virtual Care Anywhere app has been installed by more than **10000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="org.chifranciscan.android.chih.virtualcare 5 reviews"/>
 </p>
 
+> I have nothing but good things to say about this app. Yes it's $35 copay which to some might seem outrageous, however, I've used it countless times now, for a variety of reasons, for my entire family. I've never had to wait any length of time to see a provider, of my choice, of whom which have always been very thorough and professional. I'm very appreciative to have access to something like this!<br> :date: __2021-06-14 03:47:08__
+
 > Way better than going into the doctor office.<br> :date: __2021-05-14 02:50:42__
 
 > Fast and straight forward<br> :date: __2021-04-26 23:36:13__
@@ -216,8 +218,6 @@ The Virtual Care Anywhere app has been installed by more than **10000** times. A
 > I had a good experience, my wait time was very short and I appreciated my doctors professionalism.<br> :date: __2020-10-11 16:32:44__
 
 > Loved the app.<br> :date: __2020-10-06 09:28:10__
-
-> Was able to talk to a doctor about a minor issue while at work and my medication was ready for me to pickup on my way home! Saved me SO MUCH time.<br> :date: __2020-10-05 19:38:27__
 
 
 

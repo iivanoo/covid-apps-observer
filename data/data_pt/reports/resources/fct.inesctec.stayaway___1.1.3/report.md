@@ -137,6 +137,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> Ajuda muito<br> :date: __2021-06-19 09:43:45__
+
 > Excelente<br> :date: __2021-06-09 04:05:46__
 
 > Não vou<br> :date: __2021-06-07 18:30:32__
@@ -154,8 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Estao a fazer um otimo trabalho grata parabens<br> :date: __2021-05-23 15:43:29__
 
 > Muito bom aconselho<br> :date: __2021-05-20 08:59:08__
-
-> Sem experiencia, espero que seja util,obrigado.<br> :date: __2021-05-19 10:12:25__
 
 
 
@@ -193,6 +193,12 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
 
+> Não acho eficaz porque estive em contacto com muitos doentes com covid e não registou<br> :date: __2021-06-17 21:56:00__
+
+> Pelo esforço de quem a criou... Infelizmente a introdução e atualização dos dados ou não existe ou tem atraso de várias semanas<br> :date: __2021-06-15 20:34:42__
+
+> A ideia é boa, mas não funciona corretamente, depende muito dos utilizadores<br> :date: __2021-06-13 00:54:03__
+
 > Não tenho como ficar a saber se é mesmo necessário mas é muito bom á tempos soube que que uma pessoa estava contaminada através da aplicação<br> :date: __2021-06-02 21:16:52__
 
 > Falta reunir nesta mesma app, mais dados como: número utente sns e cartão europeu de saúde, relatórios da situação epidemiológica nacional e local, medidas especiais por niveis de combate por local, números nacionais de doses de vacinas administradas, agendamento pessoal da vacinação, agendamento e resultados de testes de despistagem, períodos de quarentena, número de dias imune após Contágio ou Vacinação, Declaraçao Pessoal de Recusa de Vacinação, Certificado Digital Verde de Vacinação<br> :date: __2021-05-27 01:56:51__
@@ -206,12 +212,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Dou 3 estrelas pelo esforço, porque estou decepcionada.A app apresentq mtos bugs, é necessário estar-se on-line E com o bluetooth ligado, e quem tem covid tem de informar (claro que é necessário informar, mas à pessoas que não o fazem). Não vejo a questão do bluetooth como um problema, já o ter de se estar sempre on-line é um problema.<br> :date: __2021-04-05 04:31:45__
 
 > Boa ideia, mas para funcionar a 100% temos de ter GPS e BT sempre ligados, e existe uma coisa chamada bateria que viciam facilmente depois de algum tempo<br> :date: __2021-03-19 03:07:52__
-
-> Não discuto o mérito desta app. Mas o que gostava era de saber qual o impacto que ela já teve no controlo da pandemia. Estatísticas sérias sobre a sua real utilidade.<br> :date: __2021-02-25 08:59:25__
-
-> Desde há semanas que está a mostrar erro de acesso ao servidor: falha a carregar dados de infeção.<br> :date: __2021-02-20 18:05:03__
-
-> Não entendo porque motivo me serve a aplicação<br> :date: __2021-02-19 12:55:52__
 
 
 
@@ -249,24 +249,24 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
-> Nojento!!! É engraçado vêr cada vez mais este lixo NÃO funcional a cair nas avaliações 🤣🤣🤣🤣<br> :date: __2021-06-10 20:18:49__
+> O VERDADEIRO Tacho.. Fazer uma app que não serve para nada e roubar uns milhares de euros aos portugueses à base de cunhas no governo<br> :date: __2021-06-21 09:32:46__
 
-> A intenção é boa, mas a aplicação prática falha redondamente. O pior é que ainda chateia pela quantidade de notificações a lembrar para ligar a localização e o Bluetooth. (Sim eu sei que precisa dessas funções ligadas para funcionar)<br> :date: __2021-06-10 18:09:19__
+> A app seria otima se todo o resto funcionasse<br> :date: __2021-06-19 16:59:14__
 
-> Uma tanga<br> :date: __2021-06-10 13:34:53__
+> Uma inutilidade para se gastar dinheiro na criação da aplicação e tido o sistema que se criou para a sua gestão.<br> :date: __2021-06-18 23:22:09__
 
-> QQ eors dew BH. ar na n<br> :date: __2021-06-10 10:46:24__
+> Teria sido útil se fosse o SNS a introduzir os infectados no sistema.<br> :date: __2021-06-18 19:54:52__
 
-> Spam<br> :date: __2021-06-08 15:44:28__
+> A hahahaha que fiasco brutal, parabéns aos desenvolveres que conseguiram dinheiro para isto! 🤣<br> :date: __2021-06-18 19:35:38__
 
-> Sem funcionalidade prática. Fracasso.<br> :date: __2021-06-07 22:59:03__
+> Uma bo@#a<br> :date: __2021-06-18 12:43:46__
 
-> Chupapi Munhanho<br> :date: __2021-06-06 19:08:49__
+> Nada util não funciona<br> :date: __2021-06-17 23:52:45__
 
-> Perda de tempo absoluta. E quem nao usa app e tem covid? As pessoas ficam sem saber de igual forma se estiver perto de um positivo ou não. Torna se obsoleta a app em várias situações. Já para nao falar que nem todas as pessoas têm smartphones android ou ios e nem sequer dados.<br> :date: __2021-06-05 03:01:40__
+> App sem utilidade prática.<br> :date: __2021-06-17 22:12:49__
 
-> Nao houve utilizadires suficientes a usar, e quem usou muitos deles nao informaram que estavam infetados.<br> :date: __2021-06-04 09:43:25__
+> Só mesmo para descer as estrelas do app<br> :date: __2021-06-17 21:50:40__
 
-> Não tem como objetivo de promover uma vez<br> :date: __2021-06-04 09:26:22__
+> Ninguém usa<br> :date: __2021-06-17 10:33:29__
 
 

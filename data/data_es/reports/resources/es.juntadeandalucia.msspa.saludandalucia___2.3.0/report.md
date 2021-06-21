@@ -140,25 +140,25 @@ The Salud Andalucía app has been installed by more than **100000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
-> Muy bueno<br> :date: __2021-06-11 13:45:07__
+> Buena<br> :date: __2021-06-20 08:55:41__
 
-> estupenda<br> :date: __2021-06-11 12:46:58__
+> No tengo<br> :date: __2021-06-19 21:22:56__
 
-> Gracias por estos momentos 💯💯❤️🇪🇸<br> :date: __2021-06-11 09:57:22__
+> Ok<br> :date: __2021-06-19 14:18:08__
 
-> Buenas<br> :date: __2021-06-10 18:54:05__
+> La app funciona perfectamente siempre y cuando tengas el certificado digital instalado en el dispositivo antes. Todo lo que necesitas es eso.<br> :date: __2021-06-18 19:09:12__
 
-> Muy comodo todo<br> :date: __2021-06-10 17:41:48__
+> Funciona de forma correcta. Sin problemas. El certificado lo pude ver al siguiente día de vacunarse. Si abres el pdf con una aplicación adecuada se puede guardar por ejemplo en drive. Buen trabajo.<br> :date: __2021-06-18 18:22:51__
 
-> Perfecta para mi...y creo para todos los usuarios.<br> :date: __2021-06-10 17:28:01__
+> Buena app para todos!!!!<br> :date: __2021-06-18 14:18:50__
 
-> Arreglados los problemas con una actualización. Gracias.<br> :date: __2021-06-10 13:02:59__
+> Funciona perfectamente excelente, a aquellos que al introducir el número de seguridad social les da error, decirles que si tienen la app de Salud Responde viene el numero correcto para poner, digo esto porque cuando metes el numero que viene en tu tarjeta sanitaria da error y eso es x que tu numero de seguridad social es otro, o llamar a seguridad social para que te digan tu numero.<br> :date: __2021-06-18 13:44:45__
 
-> Buena<br> :date: __2021-06-10 12:33:36__
+> Estoy perfectamente de acuerdo con todo y espero que todos el mundo la tenga muchas gracias<br> :date: __2021-06-18 10:38:10__
 
-> Ok<br> :date: __2021-06-10 11:53:00__
+> Muy bien<br> :date: __2021-06-17 17:37:37__
 
-> Estupenda<br> :date: __2021-06-09 19:55:45__
+> La app está muy bien certificado de vacunación historial clínico medicación analíticas<br> :date: __2021-06-17 12:15:46__
 
 
 
@@ -168,6 +168,18 @@ The Salud Andalucía app has been installed by more than **100000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 4 reviews"/>
 </p>
 
+> Toda la información sanitaria en un click. Aunque presenta fallos de vez en cuando.<br> :date: __2021-06-19 12:29:27__
+
+> Algunos errores al intentar acceder, pero tras obtener el código de identificación, todo perfecto.<br> :date: __2021-06-18 00:30:37__
+
+> Le doy por buena<br> :date: __2021-06-15 22:24:55__
+
+> Buena<br> :date: __2021-06-13 22:27:06__
+
+> Perfecta.En Andalucía ya puedes tener tu certificado de vacunación covid en tu móvil. Es fácil de usar y tienes acceso a tus datos. Contiene noticias también sobre salud.Sigan así<br> :date: __2021-06-12 14:16:52__
+
+> Buena<br> :date: __2021-06-11 19:39:20__
+
 > Buena<br> :date: __2021-06-10 19:30:29__
 
 > App muy buena y completa<br> :date: __2021-06-10 13:59:57__
@@ -175,18 +187,6 @@ The Salud Andalucía app has been installed by more than **100000** times. At th
 > En la nueva versión ya no aparece el lector QR que te ofrecía la posibilidad de verificar el certificado de otro usuario.<br> :date: __2021-06-09 23:13:58__
 
 > La verdad que es una app útil, lo de poder descargarse el certificado COVID es una pasada, no le doy 5 estrellas porque aún hay que mejorar muchas cosas.<br> :date: __2021-06-09 21:13:17__
-
-> Me resultó muy facil conseguir el certificado de covid, creo q es útil esta aplicación<br> :date: __2021-06-09 21:09:27__
-
-> Ha mejorado bastante a lo largo del tiempo, eso sí requiere un móvil medio decente<br> :date: __2021-06-09 19:54:18__
-
-> Un buzón de sugerencias, consultas, quejas y felicitaciones estaría bien.<br> :date: __2021-06-09 12:38:04__
-
-> Satisfecho<br> :date: __2021-06-09 07:50:10__
-
-> Mala noerecr la pena da errored por todos no vale para nada como casi todo lo que hacen<br> :date: __2021-06-08 15:25:59__
-
-> En general esta muy bien y facil de usar, referente a las vacunas covid tiene muchos fallos, no reconoce que la vacuna de Janssen es monodosis, en consequencia no de permite tener el certificado covid. Con la vacuna de Pfizer despues de la primera dosis te dice que la segunda toca en tres meses y es a las 3 semanas. Si esto se puede rectificar seria ya para dar las 5 estrellas.<br> :date: __2021-05-29 15:51:03__
 
 
 
@@ -216,6 +216,16 @@ The Salud Andalucía app has been installed by more than **100000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 2 reviews"/>
 </p>
 
+> Pongo todos mi datos y en el apartado teléfono me sale un circulo verde i como información y no me sale cuadro para poner el numero de teléfono. Espero que lo arregleis q tengo prisa para sacar mi certificado de vacuna.<br> :date: __2021-06-18 14:25:59__
+
+> No hay forma de entrar con DNIe,imposible ,en el ordenador regular , en el.movil un bodrio<br> :date: __2021-06-16 18:25:40__
+
+> No funciona correctamente y quiero sacar el serteficado de la vacuna ya la tengo las dos puestas y no me deja<br> :date: __2021-06-16 13:31:55__
+
+> A mi no me deja introducir mi DNI completo, que puedo hacer?<br> :date: __2021-06-14 14:04:07__
+
+> No deja entrar a las tarjetas naranjas (12 digitos sin letras), es decir sino tienes el famoso AN que aparece en la nueva tarjeta verde y que aquí se marca por defecto en la aplicación no deja identificarse.<br> :date: __2021-06-12 04:00:00__
+
 > Muy mala.No acepta los datos que pide<br> :date: __2021-06-10 18:53:16__
 
 > Falla mucho la aplicacion o llo no la entiendo<br> :date: __2021-06-09 10:50:17__
@@ -226,16 +236,6 @@ The Salud Andalucía app has been installed by more than **100000** times. At th
 
 > Da bastantes errores. El certificado de vacunación lo he podido descargar en Clic Salud pero, luego me he descargado esta APP para validar el QR, y no escanea. No sé qué ocurre.<br> :date: __2021-06-07 22:45:43__
 
-> No va. Vuelvo a instalar a ver que....<br> :date: __2021-06-07 13:39:45__
-
-> No puedo obtener certificado ya que cuando introduzco mi n.seguridad social de la tarjeta sanitaria no puedo ponerlo entero (( tarjeta naranja )) como puedo solucionarlo??<br> :date: __2021-06-06 19:22:58__
-
-> Parece que ahora ya funciona pero, EN SERIO OTRA APP MAS DE SALUD ANDALUCIA?????? CUANTAS PIENSAN HACER??? 2000 o 3000?? Reunifiquen todas las apps en una sola app que lo incluya todo y unifique recursos. DEJEN DE TIRAR EL DINERO Y LOS RECURSOS!!!<br> :date: __2021-05-27 13:08:55__
-
-> De pena, es imposible obtener el certificado COVID con los datos personales. tras introducir un monto de datos te manda a solicitar presencialmente un certificado digital. ..<br> :date: __2021-05-19 23:42:53__
-
-> Estoy intentando obtener el certificado. He rellenado lis datos una y otra vez y no se conecta.<br> :date: __2021-05-14 12:04:31__
-
 
 
 #### 1-star reviews
@@ -244,24 +244,24 @@ The Salud Andalucía app has been installed by more than **100000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> No se puede guardar los datos personales no abajo la pajina del todo para aceptar<br> :date: __2021-06-11 13:19:19__
+> Me pasa lo que a muchos usuarios, no me reconoce la clave permanente pero tampoco me da opción a registrarme con los datos personales porque se me queda fija la pantalla en el campo teléfono y no puedo seguir. El certificado me lo han tenido que sacar desde otro dispositivo. No es entendible ...<br> :date: __2021-06-21 09:45:52__
 
-> He intentado muchas veces sacar mi certificado de vacunación y se queda la aplicación comida y no me permite dar para arriba y poder rellenar los campos de mis datos personales, así que no me sirve para nada más que ver algunas noticias...<br> :date: __2021-06-11 13:14:17__
+> Una auténtica basura, al igual que otro usuario pones los datos y dice que la tarjeta sanitaria no es correcta, y con la clave permanente tampoco va, basura,basura,basura<br> :date: __2021-06-21 09:38:47__
 
-> Otra aplicación que vende humo como radar covid....intento sacar el certificado de haber pasado el covid y no se puede....otro rollo propagandístico político....<br> :date: __2021-06-11 13:07:53__
+> Sencillamente no funciona, da error constante<br> :date: __2021-06-21 09:37:38__
 
-> Error al intentar iniciar sesión vía cl@ve<br> :date: __2021-06-11 12:47:32__
+> Me da erro en el proceso de autenticación, constantemente.<br> :date: __2021-06-20 21:42:47__
 
-> No me deja introducir el número de tarjeta sanitaria<br> :date: __2021-06-11 12:12:22__
+> A mi no me funciona,no me deja abrir sección<br> :date: __2021-06-20 19:28:45__
 
-> No se para qué se gastan el dinero en una nueva APP que NO FUNCIONA. IMPOSIBLE ACCEDER AL CERTIFICADO DE VACUNACIÓN. En Salud Responde, sin problema<br> :date: __2021-06-10 21:46:00__
+> La página para el certificado de vacunación está mal hecha, no deja darle a aceptar. De hecho, está tan mal hecha que ni siquiera en vuestras capturas para las instrucciones podéis ver la opción de aceptar completa...<br> :date: __2021-06-20 16:12:33__
 
-> Tan mala, como los gestores de la pandemia en la Junta de Andalucia. App borrada y listo.<br> :date: __2021-06-10 19:53:40__
+> Cuando pongo el número de la seguridad social me da inválido<br> :date: __2021-06-20 13:42:15__
 
-> Imposible entrar en la app porque da error de parámetros, así es imposible obtener el certificado digital de vacunación. Una basura<br> :date: __2021-06-10 18:48:38__
+> Como funcionan los organismos aquí en Andalucía, te exigen para iniciar sesión, una cl@ve pin PRESENCIAL, si no se molestan en descolgar el teléfono de los centros de salud, van a darte cita para la clave..... En fin, suma y sigue.<br> :date: __2021-06-20 10:02:55__
 
-> Malisima esto no hsy quien habra esta aplicacion<br> :date: __2021-06-10 18:06:23__
+> No puedo acceder<br> :date: __2021-06-20 00:22:15__
 
-> Es malísima, no se puede ingresar a la app, continuamente te dice:error, así por horas. Por favor mejoren la app. Es muy necesaria.<br> :date: __2021-06-10 17:19:27__
+> No abre ninguna opción para poder descargar el certificado de vacunacion. Ni ninguna otra. La App no sirve para nada.<br> :date: __2021-06-19 22:53:14__
 
 

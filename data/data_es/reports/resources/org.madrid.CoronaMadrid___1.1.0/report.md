@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Excelente, si hubiese más estrellas os las daba. Puse mis datos y síntomas en la App y me han llamado todos los días para saber como estoy y cómo va mi cuarentena. Esa llamada diaria me hizo sentir menos sola y que le importo a alguien. También sugerir alguna opción dentro de la App dónde se pueda detallar la mejoría o reportar el comienzo del seguimiento del centro de salud para dejarla libre y que otros se puedan beneficiar del sistema. Muchísimas gracias❤️<br> :date: __2021-06-21 01:52:56__
+
 > App muy útil para los residentes de Madrid!!<br> :date: __2021-05-27 00:33:27__
 
 > Buena aplicación, muy útil.<br> :date: __2021-05-16 04:38:48__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Una interfaz muy limpia. Aplicación intuitiva. Es una buena forma de saber si puedes tener covid-19 o si deberías hacerte una prueba. Estoy encantado con la aplicación!<br> :date: __2021-02-20 06:00:19__
 
 > Me ha gustado mucho la APP, es justo lo que necesitaba, además es muy fácil de usar.<br> :date: __2021-02-19 12:37:16__
-
-> Buena aplicación muy util con esta maldita enfermedad<br> :date: __2021-02-10 15:04:35__
 
 
 

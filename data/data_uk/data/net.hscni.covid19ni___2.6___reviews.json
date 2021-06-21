@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEjUtN0tja3EFjDJHhllhcYnussTW_Bc9BGBdHwjTPE9x-nz7wFEhWFKNg1CGE0nE5EOTi6qt9wy5C0-y0",
+        "userName": "David Craig",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwKupMT5Nkp9hpvHrTk4UvJ5B0uQ5kbn7RqL9YLA",
+        "content": "You dont want this app, I live in Belfast, and mines wont woke, so everyone should just wake up",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.6",
+        "at": "2021-06-15 08:56:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEpQVJQivIosg0oBWAnMSWWMa6kLPaBcq46xzyBXKnRwVG1VybCLPq8EQ0dXsYrEh7yYL-fShZMlcmkiFs",
+        "userName": "DAVID MCCOUBREY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYe4dyhKVSiGtM7yz1jUslqM7f5kxxZtLbbn0TBqw",
+        "content": "Has stopped working this last week there's been no updates",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.6",
+        "at": "2021-06-11 20:16:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHWMiuOq9wYvpx-G7Tfmg2xf66eff6uij-vyPu6dqWZJINooR_HAWnxRDzWpAgcf3IWAsyU82lcf-jIDow",
+        "userName": "Connor Campbell",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghl6j0bDOckBVQkb05iOSB_IneGalWaG_vAtpOWrQ",
+        "content": "Used to be great for a daily update now it gets updated once a week. Not much point in this app if its not updated with figures.",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.6",
+        "at": "2021-06-11 16:08:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFoZOv12hvGSlDqhLUKwHEaC9PsI7ZQrAwYC7g4hJnVyRGmplY2CEtTzwpnH0Kn6FhqNbILkdggxkococg",
         "userName": "Mike",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxxBVjLEQ_zq9XuSHaHAr0heE797KQ4433_VzgV=mo",
@@ -41,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GimGpp022RZuWiE1zMlOq62F4Pw11R3oZKZs2fd8w",
         "content": "The program used to work fine, though it was very slow. After I installed the latest version, the program has continually failed to start, but locks up. I've uninstalled and installed the program many times, hoping that it would work. It always goes to a white screen after entering my name. From there on, it never loads up. I would like to continue to use it, but can't. I'm very disappointed.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.6",
         "at": "2021-05-29 22:44:50",
         "replyContent": null,
@@ -973,7 +1009,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFFHRNT_8QaqrdpbPygwtHtbSQOruwgCOMVX9r0d3wktYnI43CzmrJgxp9uU-m8MgJRc5XZKr-uLq7cE_M",
-        "userName": "Ivan Vrabac",
+        "userName": "Anonimno Ime",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz2JCMEnhoG5O--z6Rr7H8DO_Ls7SmUvP8Ldsot=mo",
         "content": "bad",
         "score": 1,
@@ -2429,7 +2465,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQHA1LxMP8kgIKDcZkbuvD9kFzSm0NB2Vty8eRXqU",
         "content": "Great app and easy to use. Do not read the one star reviews as they are false. To people complaining it literally says NI in the title and is to be used by people in Northern Ireland. Because you can't use it is no reason to give it 1 star. Stan is only available in Australia so are you all going to give it 1 star and say should work in UK?",
         "score": 5,
-        "thumbsUpCount": 298,
+        "thumbsUpCount": 299,
         "reviewCreatedVersion": "1.0",
         "at": "2020-03-27 14:33:16",
         "replyContent": null,

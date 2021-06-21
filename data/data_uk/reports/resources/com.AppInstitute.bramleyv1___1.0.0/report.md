@@ -195,10 +195,12 @@ The Bramley Health App app has been installed by more than **1000** times. At th
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="com.AppInstitute.bramleyv1 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Pleased with it but now using NHS app<br> :date: __2021-06-17 08:40:12__
+
+
 
 #### 4-star reviews
 

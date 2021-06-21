@@ -195,6 +195,8 @@ The UW Health Care Anywhere - Video Visit app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="org.uwhealth.android.uhuw.videovisit 5 reviews"/>
 </p>
 
+> Was so helpful and quick. Thank you<br> :date: __2021-06-20 22:48:05__
+
 > Easy, convenient, if your insurance allows for it, use it. 9/10 times is a lot quicker than going in-person especially during business hours<br> :date: __2021-06-01 20:52:06__
 
 > Clear enough to understand professional approach very helpful<br> :date: __2021-04-28 18:01:26__
@@ -212,8 +214,6 @@ The UW Health Care Anywhere - Video Visit app has been installed by more than **
 > Easy!<br> :date: __2020-10-05 18:24:58__
 
 > Was fast to get in and provider was just as helpful online as in person!<br> :date: __2020-08-28 20:54:19__
-
-> This was amazing. It was the first time we used this. We live 45 minutes away from the nearest urgent care and this took 10 minutes total!!!<br> :date: __2020-06-21 15:50:57__
 
 
 

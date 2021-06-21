@@ -1,5 +1,605 @@
 [
     {
+        "reviewId": "gp:AOqpTOH0NyUxCFixaprwWnXF6PdPfkG1rROo1bmeCHM8dpIbwoN3mlHAdwS3RgYP_GFczEhup6-InMaMnSUeDA",
+        "userName": "Joseph DeMent",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzn_ZoCWL1uY3V1HqMrnRQP-LCG4J4-Dy4VaUt3=mo",
+        "content": "This app worked perfectly for a while, but now I'm met with \"certificate errors\" and am unable to view my ID or even get to the login page.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-21 06:47:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEvRNx1Ls8fO_fd2CcbAzLuy9K-IZScxw3QBWOs9Fv6dPwFNo-UJgBcTLhn2QTnphOupVjxiBkM3p7PxA",
+        "userName": "Travis Brock",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6FnykplsVGk4AZcT3nP7EBNZ2xYe_5kEeHdWL0A=mo",
+        "content": "Developers let their certificates expire. Impossible to log in. All I can do is report the error via email which I have done. Can't believe it hasn't been resolved already.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-21 06:17:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEA3Ue7MOgMlCnbnU8s-34-84CaAOO0mOokkFR3uzgVj7JyUQfmW7xG8HDt0q4KDYqVPhrB3Fimf7n1iQ",
+        "userName": "And Stu",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwqXpEI77Qygv6Nl69R5NZx-TEz5O7GHoLg9Wg=mo",
+        "content": "App crash and doesn't work. I email about the issue and get no response back.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-21 06:06:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOExMn00DPsfH1Wy4i1FBaeu9G_0-75mUQbNBvIHyiyyLtXstOT3wZ89GrBfKKVvVlQOkosBkiSPvRvM3g",
+        "userName": "Rebecca Bogart",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyOtre25eJ4gHACncQvpPYDb9INPxtBPTyYnDGO=mo",
+        "content": "Very positive. Lke ID on my phone!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-21 02:43:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE0nq0IZJZJfx_LbfHcbOIStZe416f2MTX68q4lW8Si5mWNx0ZW-b6KuiuPH_4gDsE4BJJX6Mmj1moVbA",
+        "userName": "Paul Packard",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyUGAcOMEmhSUO64BHbu1JjBPxZkaVKLF2syWFK=mo",
+        "content": "Shittttttttiest appvever",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-21 02:31:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGiS3ZqZT-FZvYWs9Ag-QoWAP2rmRFZXrBurh3KSMkY-9UU5alDTVjVpRF-q1x9yG1mub06HPKoAwNUrA",
+        "userName": "Jose Guijarro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjL16rako4WlJ3SHYGH5LvfsvqW8sLlvDjiIB4AKg",
+        "content": "Sucks always having issues when I most need it",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-21 01:27:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG_2AbM64Wdi_ckK4VBFpf-kP8659OY2R1g77TQcSbCwkYoXppQmzkd72Rzyyc492qkakzAhSedXW41WQ",
+        "userName": "Daryl Branson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhE2LJxiq_JLirCSjZSc7mUI7W3xZAHej1HeUsAXg",
+        "content": "Worked for a while, but now it won't open my ID, registration, or insurance card. This app is useless if it's not reliable.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-21 00:42:16",
+        "replyContent": "Hi Daryl, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:43:46"
+    },
+    {
+        "reviewId": "gp:AOqpTOEVnNnN-XvbyLI4pTW32MsqZ3WS1C-9r2XuwFGpwSxcxKJfsf5sc-4iSn0lYQ6Bc3EmgrRHSYx5zBaaPw",
+        "userName": "captain khronick",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzZKxBWSHtBrtFNdKZcK6baR2T-QyACABzNtK0B=mo",
+        "content": "Very helpful app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.5",
+        "at": "2021-06-20 22:51:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGL3UiTi_tLKjvvAxt-cSI8kAutC1eYQHjtGDpChqiO-VzS5gZqzNj8EeLfckeEZtpDG83SzNrYyfdK6Q",
+        "userName": "Gary Davis",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjBZsys8YhvlSvzA4aBYdjHLAN4rPJyxVzi1k81_g",
+        "content": "Tried to access and app wouldn't work. Otherwise would give it a 5",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-20 05:10:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGGfxPxnpQECayaOgE4Pd8Gg-1LwCqVJL3NGYERFs1f_dw4oDaoxCfC_0HF2jY87esKuw9cgEop7t_5Qw",
+        "userName": "Steve G",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhAuqLJubFOlesyrpqw86Gq-MqQQzheUoVHUlokWg",
+        "content": "App keeps crashing when opening insurance section.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-19 22:00:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGoDb0z4fV1idOXNoyEhOpUXgKr9By_33TpExrv-f_Ne9rs5mV2U_flm_UyuA5SRzHMIB9hNHGvj101HA",
+        "userName": "A. B.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyBvbNfGMCyg-XYfALTe2aUTjBYLExMe2punSegw",
+        "content": "Not for use in any situation where speed or proof of insurance is necessary. Alot of layers of security just to open the app, then I'd get kicked completely out of the app when I tried to open the proof of insurance. Then of course all the security again. I ended up using the paper documents anyway. And didn't we fight a war or something to avoid apps like this anyway?",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-19 04:59:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFeXs14kYpmqmXeXWU2FRYQNGsBTrMx5BVZKCMIY0PgKbewJIsXyhjKCfe8kBP3tp78Bt9lroHO2BE63Q",
+        "userName": "Ryan Staples",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghQRBn6LToTFhS5gGXaYytLRZQa-8UryUt0W8L",
+        "content": "Left my wallet at home before a night of drinking. When all hope was lost, the bouncer at a bar downtown recommended that I download this app and get my ID virtual because it works scanning-wise. One family member at home and a quick set up later, and I was good to go starting my saga of belligerence. 10/10 wingman this app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-19 00:24:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHrMHWpwvBcdCPo3rO-78dU3-rPpFdqI0MtU65ztCQBPVF8XbaanM-cTjes8SzX_KlR9N7Bfdacl5x8mw",
+        "userName": "Sarah Seibold",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiifeSjBs-33m9CNISYJTswRPa5BikfL0Cxa6ykUg",
+        "content": "Can't recognize my face against my license.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-18 08:11:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF0O0sCDbnMFE1YV6Z5lkAZRFozsWcGb1B94srXblfUhVZdnZWJEWNbd9jNKcHD6XOkeLaVVcLtRMsIvA",
+        "userName": "Daniel McCue",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhbCoJYEpxfLG25EotKQtGbYaHHEw_7XMhiKhd5Ww",
+        "content": "Great way to have a backup of your fishing license and ID in one spot. Bars are starting to accept it as valid ID!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-18 04:40:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEHFRuqNMEerPdOlB7wBQ3AssOIeZnsCVTfPudQptZ-BNLRxugltFQSlD3agQPSu-9p_4Gen1mOBs_KLg",
+        "userName": "Kevin Gonzales",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh44N3FHV_z5MEikkM49_p50wAKkbJL2Y63x3s63g",
+        "content": "This app worked fine until april/may 2021. Now the app just crashes. The app is a good idea and nice especially if on a bike so you dont need to carry as much, problem is the app does not and will not stay open. It crashes constantly and some features will not open at all and when tried, it causes the app to crash as well. I wish the powers at be could get this app to actually work. Ride safe, Kg",
+        "score": 3,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-17 23:40:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEGmZXhI7ruRuqb0s7rha6xaJlJasS5V27GWpTGT48zzb1e4a3hwnGiBptSTDh3OGyCKdXm4vI9DgpiLg",
+        "userName": "Callie Lovee",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GismjrDIm4UJu7nVH7DPDQjBqXHoEGD7M-SwPogEA",
+        "content": "I think the digital ID is nice and helps a lot if you need it on the go",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-17 19:10:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFDN3kkeNL7KX4NgeNyRYzx37VijyTzZ2gTaVkX8NRrFhau62O8KhNwfEOc_kz5fDmfLOiQBlrj_vtGhw",
+        "userName": "Bryan Whalen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhN9y2oFL8q6rYV3lbXYw9AanUMq4RFWYqmhvOjzQ",
+        "content": "This app continues to be rather useless. Login process repeatedly kicks you back to the login page after entering a two factor code.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-16 20:44:01",
+        "replyContent": "Hi Bryan, thank you for letting us know. I have forwarded this problem to our developers.",
+        "repliedAt": "2020-04-07 21:13:20"
+    },
+    {
+        "reviewId": "gp:AOqpTOHkMGR8gt-AVpMUCstZYjd3fRvHGo11VIanPBU_G2_qlAiTjxVqcAcEmPTfuHSiaYYYdID0YMl4ByZ1Ew",
+        "userName": "matthew murphy",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjRciE98Dla9O8rHtfWRAvYUa4a5SXW-I35et6g",
+        "content": "Unable to change my phone number from my old number to my new number in the app because it asked for a verification code every time I'm trying to log in which is sent to my old phone number which I don't have access to because it's my old phone number so I don't know how I'm going to access my information because I can't access the account with my old number so this is kind of dumbUnable to change my phone number from my old number to my new number in the app because it asked for a verification",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0",
+        "at": "2021-06-16 00:19:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFhGgg2xw5sZROqt1FYwH6UkdjFk04QjNM2s-PMrbwP9uA8ENtL7FQF5mMcjAa_jUFXCtyznRr9hyoOGQ",
+        "userName": "Wadi Muhaisen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giy2FhA9vJzdMb5rQI1fKNInYmZnX17rQm9LI51_Q",
+        "content": "Tried to sign up when the servers were down. It works now and is great. Really glad Colorado developed this.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-15 20:27:31",
+        "replyContent": "Hi Wadi, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:44:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOGAUEOTPAyTaTJEXdFpa606Doni5oigzFWH6tqIPuKrn_iTZvZs9zdh_OydfbvTOvPSd6lZytAZtCLuFQ",
+        "userName": "Josh Morrison",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZriFWLaXpRwgxkF4zwfJziO6zRp3EShZDwHtH=mo",
+        "content": "Doesn't work, just get an error code upon trying to log in.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-15 16:53:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHX8ALoXm_bVPdeLxfrCmJ2mP8rxiztUO4BS29ld3MKqn7wBtBMX1CG5GFRNao6svQDuClRp6c4Q8lRKQ",
+        "userName": "Kent Lindner",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggse0mZdQU8MhKdQd7mUiHLU9GrpZn1bRet52Sj0A",
+        "content": "Was once brilliant. Now I can't sign in. I called and was on hold, person answered, then hung up. I called again, left my phone number for a customer service rep to call me back, got the call, answered, then they hung up. Just incompetent and unprofessional. Get it together.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-15 04:18:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHXsTWE1meyOmRPjUequucclT5l64JuljDk5RQ7EvamPuZfXzCFusOQLkQA1CNeI8WOYEFrpfecnJOHlA",
+        "userName": "Jude E",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgigJ37ddHMrsc_C2OyCgYLEse57XNEA77WxiWLw",
+        "content": "Buggy for now but it's still new. Very useful when you've forgotten or lost your ID or wallet.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-14 17:04:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHSOr5OgCmhkBxBprGQStZ8Wbpwe2intHYrKQD2AIZ31hFaX3Pf8qsz8TPHwf_rvXgmPPVl3Njm6-_rmw",
+        "userName": "Dave Probert",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiB9_FLaRkCJdVOVZ3dOB4_A_PvYN30GMriNbxg-Q",
+        "content": "Can't log in, can't create an account, the most useless app in the store!! \ud83d\udd95\ud83e\udd2c\ud83d\udd95\ud83e\udd2c\ud83d\udd95",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-14 02:01:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHJbdLjOv7yRlP2qq8kHvjsoC5b9wqAsLKMBU-Hen_5EvGlA-WZIEiw3fPdXKfociGihDR2nL23XAblXQ",
+        "userName": "Christian Saint",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwOtxhDQsUpjuD7kLTv8csP577rBtcspqnBp7Ju=mo",
+        "content": "Doesn't even work!! Such a waste of time.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-14 01:50:19",
+        "replyContent": "Hi Christian, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:46:02"
+    },
+    {
+        "reviewId": "gp:AOqpTOF0eQ0ewzcUnTjZ_-BNvDtfVaL3kudjKdFVQgaASNwUAwZ4g46a45_yYwOPeAPwxmd9zStvANT5b0BjeA",
+        "userName": "Ricky Bond",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNmpqOKiaCLYrVwYctzDjyDsdzUluYoUOHQAa7",
+        "content": "App is not working, it gets stuck at the ping screen.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-14 00:37:42",
+        "replyContent": "Hi Ricky, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:45:45"
+    },
+    {
+        "reviewId": "gp:AOqpTOG1JQLd-8NJIPCPql7FJYto9HwS4x9bv4wSaHS0yFg1iobUkmkqVxtV8NGW5UO7wvBg4uDHejgcWkgKrA",
+        "userName": "Anthony Martinez",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyILLoMmwN9K5r7fy_dhPlHZ1Z2avKXdonZMVH6=mo",
+        "content": "Just stopped working. I try to login and it says page ain't available. Please fix issue.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-14 00:04:11",
+        "replyContent": "Hi Anthony, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:45:33"
+    },
+    {
+        "reviewId": "gp:AOqpTOFa2iMuAxwoO1b4yHda4fVPFZ47osI6gmfGYQuJeQ7WeIUtQTlygigGjPAxd72BbajzjVULV3ySnJvKUA",
+        "userName": "Daniel Floyd",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbuuIiL-TKvSlDIdi4ubDyrOMy9lInd7jXWVScdg",
+        "content": "Not great experience. Cannot seem to link digital fishing license to app. Very sluggish app.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-14 00:02:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHAl4wcHKtvcGqyL9x08EpwVGx7jNM6Yzt7H8R1RWEGy4O7ZFzIbvCE5Ky7RkUWgsoyehIiBMDsvNwAIQ",
+        "userName": "nickea Stroud",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJztnA7M3jWyn-Pss4RG04VUTmsNQiPiQdyLJQsC=mo",
+        "content": "It doesn't work",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-13 22:41:56",
+        "replyContent": "Hi Nickea, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:45:18"
+    },
+    {
+        "reviewId": "gp:AOqpTOGlFILcJAjIimz0cd5qbZvW6nXtuS0gYkCORJiCOjmjZS7QmPfmdS2m8Vf8-FcpNn8od1rAvaYZn4oPeA",
+        "userName": "Lucas Sanchez",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwOaut866eRrhayGT179F1CkGusrOO6jLZH5DtM=mo",
+        "content": "I can't log in. It was a great app while I could accsess it. Please fix this problem.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 22:38:58",
+        "replyContent": "Hi Lucas, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:45:08"
+    },
+    {
+        "reviewId": "gp:AOqpTOFExYNecY119nzCrSdRzl4Qb3du-pcYAx6auw4j_U1j8SHwCsogCxcX_WVU8NIqDr1vaHQOhrvJWL2clg",
+        "userName": "Roman Peek",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg3Fw6YFuE-X0kej2foLC9Y7YvLE6DNuNp3Rdnf2A",
+        "content": "Digital ID is not working from the home screen, have to go into services then it pulls up.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 22:31:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFx0KGijcu4wJ7ncE1mGKIB60jEMF2f8gblKjrl5A2DoLiT8Tew27fflXVQAhmJS-lUpDj37kzQw3qp3A",
+        "userName": "Bayodd",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-e2JNF81DTiqDxbJAm3o9aVjaLwS3FeZmMe_SRg",
+        "content": "this app is absolute garbae it stops working conatstantly and wont ever open your digital id seriously mine works 1 out of every 20 times at this point. if you lose your id like i did just hope you gwt a new one fast bc this app us a joke",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-13 21:15:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF6v-eaIh4-17hhfmCKODWQUiOKp1rJmtNvDX9pgWSNpL-uIBeCKdgkNFIwT-eafwWvcS2dg5bJmcrNtw",
+        "userName": "H2O LABS",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwoOpgwXMbv_kGmZ4diMYLDXk168AbWO-YiDPax=mo",
+        "content": "Was a great app till they updated something and it's doesn't let you log in anymore , also doesn't send the recovery password to email?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 20:57:01",
+        "replyContent": "Hi, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:44:20"
+    },
+    {
+        "reviewId": "gp:AOqpTOHdIdGVTAdRxA3TfFqU1iIhOh0rPyKkZJRhmbibzPaHX4FQi5qlvdOhzJAHjE9edEZwHQZanizkI-fsVg",
+        "userName": "Travis Brockington",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJze9eHOj74ZFLpaaXyVE1fB9_zsm-Mm63yqb4E5=mo",
+        "content": "The app has been down for 2 days and still has not been fixed.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 20:45:12",
+        "replyContent": "Hi Travis, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:44:04"
+    },
+    {
+        "reviewId": "gp:AOqpTOGlmiDfBZaP1rFNhw8vMVKM3bDoamStA4MOovI7SIuZo8cN31tiTqpl8LqzUPZjqhpk83j0u0exVWlp9g",
+        "userName": "Co Beer",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gji-2QHUaEcrDU5kzSr88rDG91-c9vNi1NJq5C-Og",
+        "content": "Horrible. The stupid app locks up constantly, if you can even get it sign on",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 20:05:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGfNWfcy5Lg_4Hqhc7qAKMavwoJddCy32QB3S6ps5e2OWEQJxuQvmDcW2H9aPOEs4az1icU5gDwt57CbQ",
+        "userName": "John Blanchette",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyA6tOYCzLRW4StBcyIoEq0tP7OuEkLQp4K-a6sQ",
+        "content": "I created an account and the page was down. I thought it might just be doing maintenance so I waited 24 hours and tried again; it still doesn't work. I'm starting to wonder if that app is legit and who I sent a copy of my ID to",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 17:51:11",
+        "replyContent": "Hi John, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:42:57"
+    },
+    {
+        "reviewId": "gp:AOqpTOH9pEuopeytwroZSbEEunXxiR9_XTpL_4ohb00OvQ0uvTUM1hI7u3w4eQajDpFi9UZ99c4kkmw12YKp4w",
+        "userName": "Bradley Hall",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmMiEiceMIp_fIw7GOEaK7zd3p_E_F-TYPxAgWwA",
+        "content": "I've used the app twice. Now it won't even open well it opens but when I hit log in nothing happens some warning sign pops up saying it's down. Lies lies lies lies good Ole Colorado",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 16:11:19",
+        "replyContent": "Hi Bradley, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:42:41"
+    },
+    {
+        "reviewId": "gp:AOqpTOGdr5DPyy0HJvvCMxOSF5Rvy3MmE4o2FA0lft2lV7lkiv7ZDUh23sFsurtTKdV-3kM1M3r1zwx_-GGEKg",
+        "userName": "Scottrik1",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx-xk4QqJz-P9qD9M4JoO9HqHDUsLZ6_HZCTybq=mo",
+        "content": "Worked great at first now it just gives me an error code and says it will be fixed soon. It has been a month now and still wont work",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 14:11:25",
+        "replyContent": "Hello, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:42:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOFNvnmZybuYE-eGQePYE9bQmizTL-vsu0I8bF2cFnvY-VsfvzTkI0pjWpoX62twLA1VXG67gkfR5HEweg",
+        "userName": "Richard Whitaker",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgyQZiuo9i1la3S8Ab_6h0yjr8OMTrEm_Auvzz1xD4",
+        "content": "Useless. You can't even log in.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-13 03:05:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH_jtlrTv7s9_h_tR3TboSBDorRh3tyFGWsGS5EuAnkrkFY7Z1xSRd-k-U4wM7Lr34IhjMo8qY2KnJK-w",
+        "userName": "Kirsten Nelson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjgur8sU3GsJvQAw8-Y7A2aleJ5H8Xgcz-RWDE2H9M",
+        "content": "App not user friendly - doesn't accept correct password. Reset password link fails to generate verification email /code. Login brings up PingIdentification page with error code 400 badurl. That's on my Android. On my daughter's apple phone the app won't even load - just sits on login page constantly loading. Be nice if it would get better instead of worse over time. Did CO State Gov give up on this and forget to tell everyone?",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-12 23:21:44",
+        "replyContent": "Hi Kristen, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:42:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOEr1UaN50Nw8hfK0UuRavVJ6BWj4hC6SfiD1qx_iKxPVPnhbq_mDoeIlgyBvECXjiiYEPbcvgzS-XitsA",
+        "userName": "John Annear",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjexI3Dm9CbCcJL7dWZaSkcbeYEg1JbxBx2ixmDpg",
+        "content": "Doesn't work. Hangs on Authenticated",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-12 17:35:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEVNmbbOdsdrCi2FXPuX6ULzSoF8GNvA0Dcfu0v9tHfO6NKBeSfW4AQ25mlQhNbyWV4-Z5Fz2lkJhHw6A",
+        "userName": "kenneth sutter",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2Cw_oqIommmHK_nom7XX4P94n36c4Os3eCsVm",
+        "content": "Doesn't even work every action inside app requires an account and everything i make an account it just resets",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-12 16:33:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHdE8CGGOGqsJGOPCVDvdoQ2mQFoeIQLGvw3cRuHtlf8RlywFBUfbobsVT2LlrFblS6JWp1UbxhmQznHA",
+        "userName": "Todd Ruelle",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh_PJpnVr7l8Ihg1SHfvjla5lbA4OzNxAwv02jZfQ",
+        "content": "Doesn't work. Scans and then says I need a license which it scanned.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-12 15:44:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFygvZX27jxc_IcaMJeRj59pJPds4Ay_AoT2F-p0npwNlKWAuYG9qE14dN_KiabC_RqOl3_VDA0Y1oH4A",
+        "userName": "Josh B",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjneFAAOEjUyFpKnof06RFzL_LUfwbZn-iXY1-1Eg",
+        "content": "Can't create an account. The app will scan my ID and let me go all the way through the username and password creation and then when I click okay, it pops an error message saying null",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-12 06:08:37",
+        "replyContent": "Hi Josh, we\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:41:04"
+    },
+    {
+        "reviewId": "gp:AOqpTOFmrXkAfgYbS0eRjByerXmasCd4-EEENEXDMBljxSnUzuYvBfHIoISliZslwutcd8cJx35B_FkcKnTbDg",
+        "userName": "Jon Weimer",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyslLPz2e2vba6qQ16Eg11N1LtfEr_h1PQGriOK=mo",
+        "content": "The app isn't working for me. I tried signing in then it went to and error screen.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-12 04:36:08",
+        "replyContent": "Hi Jon, We\u2019re sorry you\u2019re experiencing difficulties with the app. Our server was down for maintenance, however all services and features in the app are back up and running. We sincerely apologize for the inconvenience. If you are still having any issues with the app or your Digital ID please email us at mycolorado@state.co.us.",
+        "repliedAt": "2021-06-15 19:40:24"
+    },
+    {
+        "reviewId": "gp:AOqpTOE-SzomRKzNAa5qBiBJCC4dB-m8E6BBMr0Q_khRl_KgM_px23Ox4Ro083bF4ipD87go9-yYOwAawgyroQ",
+        "userName": "Daniel Lucero",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitlXPS33RRnhF80It9v6GPQmFC_PKl8OutU8rJ7A",
+        "content": "It won't let me access it or send me verification code, but thank you for at least responding to my issues here! I just thought it was never going to be addressed, I appreciate that!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-12 01:05:14",
+        "replyContent": "Thanks for your feedback, Daniel. We're sorry you experienced an issue with the login process. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:22:09"
+    },
+    {
+        "reviewId": "gp:AOqpTOF_cpv0IBQIMTzGxXLnK_msxAUUZiWDWwLmgOd3ZQRJCPeW_Dpi-_K59Y-N8QgoST1ReO8p4bVt4g8xFw",
+        "userName": "David DeCesare",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihZbKhOFuRxZ3MrFDRGLhsyIlqj4vzzD1GHYjz",
+        "content": "Seems like every update you have to re-register. Could be a decent, it's just not reliable. Maybe you could try to architect it so that you reuse the user data after each update??",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-11 22:31:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFXlrJL_YnNo2jOzj2gMqWmoQTAk_4unWHNX8CTMQMuZlJRuWhwg_ha71V93PvRX4aTtmvvWjOc6WBmBQ",
+        "userName": "Thomas Stovicek",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhjuTfxfMQGLENqdILqOAuvV2MCNmZD_KTrp_f2WQg",
+        "content": "Login issues resolved great app!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-11 22:21:15",
+        "replyContent": "Hi Thomas, I am sorry about the problems with logging in. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:19:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOFhfs3sWdC9HqrHw_KfzbtKvUdqeGBa5lvDVYtxUWuDgdbYdVGXGERNcm7aPvlc5jh8LFejgFeMzAtFEg",
+        "userName": "Jennifer Cook",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxoIM3gCRsDLeULRXOjP7RYFWgznCIYDPbytoRC=mo",
+        "content": "Went to the DMV literally TODAY, and it will not authenticate me. Says it can't match my photo. I look exactly like i did 3 hours ago, hairstyle, clothes and all. This is absurd.",
+        "score": 5,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-11 21:27:41",
+        "replyContent": "Hi Jennifer, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 21:26:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOFcTYElpQwNhPX8WPYPS79ZN-trcM1w40D-uv1nKWjveIgpj1y_gKQVzVu0fOHQrgTuCWS9XbuYSgkzAQ",
+        "userName": "Jorden Gallegos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggnjj-pe85EZAu_7gV8G4yrqcXP1tY281AiIa8qFw",
+        "content": "Lifesaver",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-11 19:15:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGEtFGARE4YTM5pH2jwHaXBUnX62nyQzk2ZJko3d6QIh1hb5fE2PXUIDMMijFhIUVg7suCjkFyH_Bf8Mg",
+        "userName": "Trinh Tran",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GioYIoR0L8k_sloYgRggWYAwHfwYe2g7N4cTxXg",
+        "content": "It was working awhile ago but now I can't log in. I've tried verifying my user ID and reseting my password. It tells me a message will be emailed, multiple requests and no message sent.",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "4.6",
+        "at": "2021-06-11 17:31:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFoiV_HPGFFiPY3jwBgtcpfkXjUtsQ8U-ke9FCWzBm8uwnV3R_1_f8SJ4IDZ7M8JsSGyjocQTPEvypEGQ",
         "userName": "Robert McGuire",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4yMMka2kxEm0MbfetMfNfC3d_AYoUw1ZDawifoQI",
@@ -17,7 +617,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgQy_IdlZ6GgBrCs2WehrmCjqI1iVge4e0La1Sz",
         "content": "It's absolutely useless. The image recognition tool simply does not work. Surely there is a better way to verify identity.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-11 01:07:58",
         "replyContent": null,
@@ -53,7 +653,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg7RWOcvPWXGGETQm8zJ3EHm0wkTRkc2ljN-HGUjg",
         "content": "Nine out of 10 times I'm unable to log in. On the few times I've been able to get to the authentication page afterwards I get an error message. I thought this app would be a game changer having everything in one place but I can't even get it to open",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-10 22:22:06",
         "replyContent": null,
@@ -65,7 +665,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghn2Dq6vhBQpwFECYFnA_h4RXx-EpJs4QGFoAn04g",
         "content": "Won't accept my password to sign-in, and won't accept my existing password to let me change my password. So, it's completely useless. You wouldn't want to rely on this for ID.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-10 21:41:36",
         "replyContent": null,
@@ -137,7 +737,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgF2vZxCCx8XYl1PQ45bFubHgAn2um3shOISOkTpg",
         "content": "My app was working just fine and I was using it constantly then about a month ago it stopped working. When I would log in it would go back and forth to the pingid and login screen. It will not properly work. I also sent an email about it and never received a response back. This app needs to work properly!",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-09 16:32:52",
         "replyContent": null,
@@ -176,8 +776,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-08 07:45:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Dee. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:26:59"
     },
     {
         "reviewId": "gp:AOqpTOGLCD7TokPB7IFPHIt_bJ-DbFYV6X4NgrE4JYec9v5mxDcTSUXokt_Tak_0co7jatq94xyNtX97jh4kGQ",
@@ -185,11 +785,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzlxyCxsvU0y4sdlu5B0eOqMrU3qBfwYzttsZAn=mo",
         "content": "Can even get the app to scan my ID. So many other people are having the same issue. would not give any stars for the Shyte quality CO wants to make their ID's from.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-08 03:23:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "I am sorry about the problems you experienced with the myColorado app. The support desk at mycolorado@state.co.us is always available to help.",
+        "repliedAt": "2021-06-11 21:26:50"
     },
     {
         "reviewId": "gp:AOqpTOGsIHDV6xZN-ZB_vlfWwAZeaBymxs_hIm2qzTbHyHODV1JSCokmqUp5XZUxEN1Q0kfDFSH182sTY4tbLw",
@@ -200,8 +800,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-06 07:30:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Harry, thanks for your feedback.",
+        "repliedAt": "2021-06-11 21:26:41"
     },
     {
         "reviewId": "gp:AOqpTOEscIN-qLn7PLSRrWfUuM4upWrUMPa56pjVSGFQdHjVB1hmdp9GuyK8CyzdCS4fIaYjnQfbyx48tbyJ7g",
@@ -212,20 +812,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-05 20:03:40",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFhfs3sWdC9HqrHw_KfzbtKvUdqeGBa5lvDVYtxUWuDgdbYdVGXGERNcm7aPvlc5jh8LFejgFeMzAtFEg",
-        "userName": "Jennifer Cook",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxoIM3gCRsDLeULRXOjP7RYFWgznCIYDPbytoRC=mo",
-        "content": "Went to the DMV literally TODAY, and it will not authenticate me. Says it can't match my photo. I look exactly like i did 3 hours ago, hairstyle, clothes and all. This is absurd.",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "4.6",
-        "at": "2021-06-04 23:46:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "I am sorry about the problems you experienced with the myColorado app. The support desk at mycolorado@state.co.us is always available to help.",
+        "repliedAt": "2021-06-11 21:26:31"
     },
     {
         "reviewId": "gp:AOqpTOGgLobeqJds9nZYU-AVpVr6kieR6Gu_Mz1fK-5tlT8Wb4CUmrAW3QPEaPUzT_r-Q4GHjdRSmxSKjgXdfg",
@@ -248,8 +836,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.6",
         "at": "2021-06-04 21:40:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Jamie. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:26:06"
     },
     {
         "reviewId": "gp:AOqpTOHJqVGF-qY3fPoImFvggona9yaucv6qeGGhldJQX-o9DwMju-cxL1JAau54f5HMD5onMrxjRqqaVdkrWA",
@@ -272,8 +860,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.5",
         "at": "2021-06-03 17:40:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Stephen, thank you for your feedback. I am sorry about the problems you experienced. We appreciate the feedback.",
+        "repliedAt": "2021-06-11 21:25:40"
     },
     {
         "reviewId": "gp:AOqpTOGcxn_cRWWUzmrwpFN4V3CCGmI8YUOhrfuyIS0tuuBezpVPodhck2N9uI2--Ku3l160kHkGqgAsLTaNUw",
@@ -284,8 +872,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-06-03 03:27:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Badr. Thank you for the 5-star review!",
+        "repliedAt": "2021-06-11 21:25:25"
     },
     {
         "reviewId": "gp:AOqpTOG16QWali_S-UEvavhUZUXbV5eWPXKWmDfbqbKuROrniW5odYT979yBM_AdygkZA6HMfVeF-7kqiMWbew",
@@ -296,8 +884,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-06-02 23:42:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi James. Thank you for the positive review. It is very much appreciated!",
+        "repliedAt": "2021-06-11 21:25:17"
     },
     {
         "reviewId": "gp:AOqpTOHu6o9TOc50bClYUs6gSTxc10Iia0_72-6xmhIbuXOuOneKUliz-2m4SvxoAdAw6G2r6egmyggFgeAdoA",
@@ -308,8 +896,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-02 04:44:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Eric, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 21:25:09"
     },
     {
         "reviewId": "gp:AOqpTOGTKQ_mpDq272rkLxDLNKe10frGXLx1hW1UPK-2SwzoQvhRjF2Q6-rC2tF-Rz7NY8NCYEA9X9pq8ImZgA",
@@ -320,8 +908,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-06-01 09:38:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're sorry the app crashes when uploading a PDF. Our development team is working on this issue and expects to resolve it shortly. We are continuously trying to improve our app and we hope you'll try it again soon.",
+        "repliedAt": "2021-06-11 21:25:00"
     },
     {
         "reviewId": "gp:AOqpTOGmMn5_yJXLvw8E-tV9-3chKYa0WjtHgG68y1xw7-6TgaalwwZJ_3eW-7Ouva0LsOKFGBPZIoDREY3-Xw",
@@ -332,8 +920,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-31 06:49:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Mike. I am sorry about the problems you experienced with the myColorado app. The support desk at mycolorado@state.co.us is always available to help.",
+        "repliedAt": "2021-06-11 21:24:42"
     },
     {
         "reviewId": "gp:AOqpTOHhT1W96NomJ5JoySEggt73k7D2q0UHxwNjV1t6gavdefzJBATATEKv_5N120g_oIJRlPgWGThWiQztOQ",
@@ -344,8 +932,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-30 17:26:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Martin. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:24:34"
     },
     {
         "reviewId": "gp:AOqpTOG9gud8sqe9BUxvPqYWlxFzt8HQ-uv8Rxhs4NwJ0z4ls5tSOCcDEOUIbp5fBkP8Fnwf_x5EObtpsaMXmg",
@@ -356,8 +944,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-29 21:44:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Robert, I am so sorry to hear you are having problems with logging in. If you need assistance, please email the support team at mycolorado@state.co.us. We will be happy to help.",
+        "repliedAt": "2021-06-11 21:24:20"
     },
     {
         "reviewId": "gp:AOqpTOG6Gnoi1XFy5NbQUXNiP2dK8tzg37aN4gwMMQPX3eUCxCeIgOQ0hN9SsexzDnhJHWVnzJplgh6lSBbS5A",
@@ -368,8 +956,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-29 03:59:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi David, I am sorry about the problems with the app. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:24:11"
     },
     {
         "reviewId": "gp:AOqpTOEpQSjHeJm51bx5OIsRcTkXrk-OUk01DRvsh3uwaDV8mHXzymv2SFjUQhAILS99KwDr8iU4qea5_KP_OQ",
@@ -404,8 +992,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-28 08:20:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for the positive review. It is very much appreciated!",
+        "repliedAt": "2021-06-11 21:23:58"
     },
     {
         "reviewId": "gp:AOqpTOGYd2qq0bR323RJY2RnIODw1p4FKTQjqSVxfdZ4Dig58zeXyPMraL2i7vR-c-EDDhyl4qnnGM3qwpkRyg",
@@ -416,8 +1004,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-27 20:15:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Simone, glad you like the app and thank you for the 5 star review!",
+        "repliedAt": "2021-06-11 21:23:49"
     },
     {
         "reviewId": "gp:AOqpTOGad5GhAFsCUyukbWYEnchshhsd3axTDjd2UZW7VEqcpbkMzGlZBpvFN3h0gHyVIxzcb7S3hZPd-bysbA",
@@ -428,8 +1016,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-27 13:45:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:23:41"
     },
     {
         "reviewId": "gp:AOqpTOFSO_-R37mA3HCWsdQMdpga7lVI7JLgYUhVrIGWgsdxwTxjpaKibCofo8Cal1Qfz7PO1UZCuf4K0u7nTA",
@@ -440,8 +1028,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-27 03:49:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Max. Thank you so much for your positive feedback!",
+        "repliedAt": "2021-06-11 21:23:32"
     },
     {
         "reviewId": "gp:AOqpTOFpnasRXqbvZXKIC4DO2DzZRTJhsIJnD_g0T-R8aNZX5i43X2-_7NC0tQaJhpWDkmTcypYTIDvHBElUKQ",
@@ -452,8 +1040,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-27 01:06:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Chad. Thank you so much for the positive feedback. We strive to make myColorado useful for all Coloradans. Please help us spread the word and tell a friend or two about the myColorao App!",
+        "repliedAt": "2021-06-11 21:23:22"
     },
     {
         "reviewId": "gp:AOqpTOGQaznEYhQy1Mu_LtHnBV8RUFxyMcgeL8YGYWgna10TTzKSG2XwVD3djhtHdzL5fZGOfAy9iiMRrBQPVg",
@@ -464,8 +1052,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-26 19:11:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Jon. I am sorry about the problems you experienced with the fishing license. The support desk at mycolorado@state.co.us is always available to help.",
+        "repliedAt": "2021-06-11 21:23:08"
     },
     {
         "reviewId": "gp:AOqpTOGNDnO9dwJGEBaEq3QVA5En24U0-OGomYnGw33rAtRRCC_K8l4jtiVzBevJ4003VWUUYC677BSuk9X5nQ",
@@ -488,8 +1076,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-26 14:32:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for the 5 star review!",
+        "repliedAt": "2021-06-11 21:22:53"
     },
     {
         "reviewId": "gp:AOqpTOH-vnMlhk1KOeTWxw5RzDo6OXfJCQq-2XtIXsUD0KkgJFC-rSg5rTOOO67nNQA1ju6PS86g1KQ8w36hAA",
@@ -500,8 +1088,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-26 04:40:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for the positive review. It is very much appreciated! We would love it if you could help us spread the word. Tell a friend or family member about myColorado App!",
+        "repliedAt": "2021-06-11 21:22:41"
     },
     {
         "reviewId": "gp:AOqpTOErpvUWf9ezyYg_sCnHKT6CQcAKNTAhdFQBp5D9Od3sXJGUk9XtKQJTUwMfREW_iZV_7Y_n2CGVE-AI-g",
@@ -512,20 +1100,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-25 22:10:37",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE-SzomRKzNAa5qBiBJCC4dB-m8E6BBMr0Q_khRl_KgM_px23Ox4Ro083bF4ipD87go9-yYOwAawgyroQ",
-        "userName": "Daniel Lucero",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitlXPS33RRnhF80It9v6GPQmFC_PKl8OutU8rJ7A",
-        "content": "It won't let me access it or send me the verification text code... Frustrating",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.5",
-        "at": "2021-05-25 22:01:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback!",
+        "repliedAt": "2021-06-11 21:22:18"
     },
     {
         "reviewId": "gp:AOqpTOHnGE_I-27ZZ7WfFQldnL0F_LISR9Ms_f5SgcY4rHz-Mq2oG8q5hbSc1pznab6c9Md3QhGHBOAB95fjFA",
@@ -536,8 +1112,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-24 22:00:50",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Doug. Thank you for the 5-star review!",
+        "repliedAt": "2021-06-11 21:22:00"
     },
     {
         "reviewId": "gp:AOqpTOFxTiPzoBynlasr0tg9hdg7WyNisDJeFfK8fwtcrMgH3T1S9XIqSxtPecS6bp9ZwGeTqg7l2-ISb2H5yw",
@@ -548,8 +1124,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-24 18:45:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Roy, I am sorry about the problems with the app. Please contact us at mycolorado@state.co.us if you are still experiencing login issues.",
+        "repliedAt": "2021-06-11 21:20:32"
     },
     {
         "reviewId": "gp:AOqpTOG_EJHuV047d-qjTE8qYe3FA4LToHgZWQG1p5pko4ETwnhM0rvstbS0rke6BU9f4iE330uaBTf4saf7HQ",
@@ -560,8 +1136,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-24 06:43:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Dawn. Thank you so much for your positive feedback!",
+        "repliedAt": "2021-06-11 21:20:25"
     },
     {
         "reviewId": "gp:AOqpTOGwynglJIs8u0L-0tccIyH136SZ8nRx5hqRmsSs6Py74nCflNhm2K4xbBOW5EvgSA7HUt3qAkz0XRZLAw",
@@ -572,8 +1148,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-22 22:40:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Nicholas, Thank you so much for the positive feedback. We strive to make myColorado useful for all Coloradans. Please help us spread the word and tell a friend or two about the myColorao App!",
+        "repliedAt": "2021-06-11 21:20:02"
     },
     {
         "reviewId": "gp:AOqpTOEJf7JbnKZKLaaWPwztBXknRrf_sdE-vAB5qTmiSKHG3y4wK7qvpyqziDY6062bOT-CSnlw7LpgEkafdA",
@@ -584,8 +1160,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-21 23:36:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Omar. Thank you for the review! I am so glad you're finding the Digital ID convenient.",
+        "repliedAt": "2021-06-11 21:19:53"
     },
     {
         "reviewId": "gp:AOqpTOHerv6qz0bHSsoOAcuy6E9IJj9y_JXHxpj-SOqruR9aayzS2-QZSuSndTqPdMe8PrllyV2q8nxLsifYQQ",
@@ -596,8 +1172,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-21 20:58:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Brad, we are so sorry to hear you've been experiencing these issues! We have increased our support staff in order to assist our growing myColorado app users! We truly hope you will give us another try.",
+        "repliedAt": "2021-06-11 21:19:46"
     },
     {
         "reviewId": "gp:AOqpTOHr1kVyJO0hKq9BhDc6jMJvqzBM_3fAp_W2K4ZMWtuih6TgwWlAcQ9apW2vQ0is_qYyWvfbgrQWwIQYGw",
@@ -608,20 +1184,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-21 00:44:46",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFXlrJL_YnNo2jOzj2gMqWmoQTAk_4unWHNX8CTMQMuZlJRuWhwg_ha71V93PvRX4aTtmvvWjOc6WBmBQ",
-        "userName": "Thomas Stovicek",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhjuTfxfMQGLENqdILqOAuvV2MCNmZD_KTrp_f2WQg",
-        "content": "Can't login",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.5",
-        "at": "2021-05-20 15:43:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Billie. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:19:38"
     },
     {
         "reviewId": "gp:AOqpTOFlq0E2pl6vmQKUxoyDymZRIQmh04_QCMbWF4ChA2CbI3WiUbKvReM2ginWiDIiuVKVXKnah3c6fvlm5Q",
@@ -632,8 +1196,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-20 11:08:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Amie. Thank you so much for the positive feedback. We strive to make myColorado useful for all Coloradans. Please help us spread the word and tell a friend or two about the myColorao App!",
+        "repliedAt": "2021-06-11 21:19:20"
     },
     {
         "reviewId": "gp:AOqpTOGXnUzt6ibU0z4CO_nLthHqQRsmBAsL4yAi6R2g1qMnNgHSbvv1dE1zHY9z8Hk9pInVVHBPHFQgAZupNA",
@@ -644,8 +1208,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-20 05:21:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for the positive feedback!",
+        "repliedAt": "2021-06-11 21:19:10"
     },
     {
         "reviewId": "gp:AOqpTOEuLrh-lJzHMvyk4ymnxoqoPdWR22xy9QE0WKf8w5exEuExrU9YEGxa_z1j33F9-dCzgyLOAID_nIsoOQ",
@@ -668,8 +1232,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-19 23:20:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jeffery, the facial recognition is used for your security. Please know that security is a top priority for both the DOR database and the myColorado app.",
+        "repliedAt": "2021-06-11 21:18:57"
     },
     {
         "reviewId": "gp:AOqpTOEMS8jHiYJyIuH1wrEaeGWfS-zMcSq0raRT05ebhplEH_SOVf8Y6l945OoYAqagqBUnDpwRGPvw6IBZ6A",
@@ -680,8 +1244,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-19 16:30:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Jean. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:18:45"
     },
     {
         "reviewId": "gp:AOqpTOFADmY0kxJmNc7ofH-y07HQIvsY3uN_QPwUjb3NJTLaPBNjB88nmFs3fJOgKN1gKH67PyNyuXDWTT0gAA",
@@ -692,8 +1256,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-19 08:03:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Robert, we are so sorry to hear you've been experiencing these issues! We have increased our support staff in order to assist our growing myColorado app users! We truly hope you will give us another try.",
+        "repliedAt": "2021-06-11 21:18:30"
     },
     {
         "reviewId": "gp:AOqpTOGxQZM9v5WMuj_Sqp0cH5MIdA_4upVy_mZVfIhZPKTJ4cdGiy6tdMPSuuj8oGfYZD-QuVQL_xwWnQGI3A",
@@ -704,8 +1268,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-19 01:50:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Darren. Thank you so much for your positive feedback! We are as excited as you are about myColorado!",
+        "repliedAt": "2021-06-11 21:18:18"
     },
     {
         "reviewId": "gp:AOqpTOGLyjs4JpZ__8G4PfXsQTJyGsCyu1W7a0OELqnKxt2SyAHjC4oVA5UrRO79Boh6jarzeBDzaTLfqx-xZw",
@@ -716,8 +1280,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-18 18:24:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jason, I am sorry about the problems with the app. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:18:10"
     },
     {
         "reviewId": "gp:AOqpTOFnwvCCEH1VsnQDtNkV7RinSe12AynadkIWrneHN5w_71DImufXGLezrx7Pu_OLhLpiWA6xgP8-KmY3mA",
@@ -740,8 +1304,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-18 16:16:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Christine, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 21:17:59"
     },
     {
         "reviewId": "gp:AOqpTOGjdypO08K8fXTKJQb0gvi5FCsFoAqncTHjgwZgVyQ-K7jgM5Ql18E6CBJhJIAGx02RR4NqVPBEEv3BsA",
@@ -752,8 +1316,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-18 02:38:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Abraham. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:17:52"
     },
     {
         "reviewId": "gp:AOqpTOH0GnTEQa_oaivRGxPG2kQvxHUfoe5TZ5-R6LxVxApIAfsFDYsCCNAyW8irwQfxbZpAAG4M2WgAjZBlOA",
@@ -764,8 +1328,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-17 21:47:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Del. Thank you for the review! I am so glad you're finding the app convenient.The development team is continually making updates and improvements.",
+        "repliedAt": "2021-06-11 21:17:43"
     },
     {
         "reviewId": "gp:AOqpTOGpRbPc6Mks58eXtKw4jFI5fzFHAc2e1GKp7CbgScsxK8xGikzL_KVpu0E1eheihxOkp9MX-4TvyrQT4w",
@@ -776,8 +1340,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-16 17:34:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, I am sorry about the problems with the app. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:17:33"
     },
     {
         "reviewId": "gp:AOqpTOFruJwAJrESTQza0MGakP7a-pMK45EVXlmHf2SA_x1ySfU_x45UxqaEAGJk75-TThiZ5lVScz2ml-tISw",
@@ -788,8 +1352,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-14 17:21:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Carl and thank you for your review. Please know that security is a top priority for both the DOR database and the myColorado app. For more information about the app's security, please visit https://mycolorado.state.co.us/faqs.",
+        "repliedAt": "2021-06-11 21:17:22"
     },
     {
         "reviewId": "gp:AOqpTOGS-g9EHbE8VfZ6pLW3fNK5F87MBDU8c8FSQA9wVCwqQ8Di2TGeB8l8BODtDMBJjpRrg5joTjWot6EoSg",
@@ -800,8 +1364,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-14 00:07:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Lance, thank you so much for your positive feedback!",
+        "repliedAt": "2021-06-11 21:17:14"
     },
     {
         "reviewId": "gp:AOqpTOEfbvfpa08PMyiZeoynrL5x9jsxnrNSAwmycaHg8Mo-UIbbLJvL1PM4YSk80ms4S0VT9TSnFcC-TYeIxA",
@@ -812,8 +1376,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-13 19:48:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Hoyt. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:17:03"
     },
     {
         "reviewId": "gp:AOqpTOE6wjcuGFrEervQ79AjCRKRh_fpTN7v6pU7So3m8Y2e7iP8ID0Aoi435wtkjsd9E4ZQ9wY2d-JspdztjQ",
@@ -821,11 +1385,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSF6UXzNNk279MCvGLCzHVC8FPpyeYeT4wveJkCg",
         "content": "no longer works now that \"PingID\" was implemented - I've been \"authenticated\" more than 10 times in the last few mins and still can't access any of my digital documents. Keeps asking me to log in again (never actually logs me in after authentication - just takes me back to the home screen) I even tried resetting my password in case my account was locked. NOPE. same results -- if you want us to use this, MAKE IT RELIABLE!!!!!!!!!!",
         "score": 1,
-        "thumbsUpCount": 9,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-13 18:51:06",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Becky, I am sorry about the problems with the app. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:16:52"
     },
     {
         "reviewId": "gp:AOqpTOFU4yewJsbPazx1HWxW7nDZO76dO5FWPXL7pR0ngIZRFjgJMCuVAwB1V_h-8-dfAJmZ1kAQtjCJ8tFjtg",
@@ -836,8 +1400,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-13 04:14:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Tim. Thank you so much for your positive feedback! We are as excited as you are about myColorado!",
+        "repliedAt": "2021-06-11 21:16:42"
     },
     {
         "reviewId": "gp:AOqpTOFgrB8WFiOMVvt0zLzvsRx779xvpehsr5jTMKwSBkJ8RN--d_yjK80KjBnT-ByJwYiHzFqorzpzk2NGaQ",
@@ -848,8 +1412,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-13 03:34:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jeff. We're sorry you experienced issues with the lifetime fishing license not showing. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:15:42"
     },
     {
         "reviewId": "gp:AOqpTOGUntEzh3xcnmjGcvfrgBre8VWOQJ5j1dNvMv40K4bNRAsSaDtjW5KkGNZK9HGkZQOLAzgAUoNWPRViMQ",
@@ -860,8 +1424,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-12 14:37:19",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Brandon. Thank you so much for the positive feedback. We strive to make myColorado useful for all Coloradans. Please help us spread the word and tell a friend or two about the myColorado App!",
+        "repliedAt": "2021-06-11 21:15:33"
     },
     {
         "reviewId": "gp:AOqpTOHmZSwdVnnlPOvEpzI7XHYeoVsg9WBDX3Q0G-NKMxF1n-zobRhOrsCnA1rRRzoLtX3Ctvt_W0ZTc3xY_Q",
@@ -872,8 +1436,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-12 05:46:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're sorry you experienced issues with the facial recognition part of the setup. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:14:56"
     },
     {
         "reviewId": "gp:AOqpTOF9g0wvzNcDlpAeWjVV9nOx2BcZfTmnCUGqT3kcs8pYbZjaHnoSNeS7lSaRBe40TlfyJBU332dHftf7Hw",
@@ -884,8 +1448,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-11 22:01:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Hernan, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 21:14:46"
     },
     {
         "reviewId": "gp:AOqpTOGzgHppcnIaFQsGzs5cg71r1cxDU52VZU30ZctR8L4JAUBu2cA55xmf44VrH9ktZL6U3XfsdNUx-1G7_A",
@@ -896,8 +1460,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-11 19:41:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Raj. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:14:38"
     },
     {
         "reviewId": "gp:AOqpTOFb0jWGpAAOenBs7ZnQ_wdNKhINiJRnc6RFX8Ry3LnbFTD8DZi0Fxn-ZA0QG-Jmc3KqK5gw0P_pMLl7gA",
@@ -908,8 +1472,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-11 16:14:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're sorry you experienced issues with the facial recognition part of the setup. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:14:29"
     },
     {
         "reviewId": "gp:AOqpTOG5MEhXqUnW6dPzTM0PpRSSor6FiS5UqLFB4KLjbk6p7pcjrUGOs_Ti7TUjO5MBdf9Hq2nYGTozlYoYbg",
@@ -920,20 +1484,20 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-11 05:08:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Julius, I am sorry about the problems with logging into your account. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:14:19"
     },
     {
         "reviewId": "gp:AOqpTOFBrvNCPAylomGq3-7T9wxsgqP3lUyRmEkpPOmpb1-fQqz63-Q-QI5KdZFx66ky38tllS9YxXgjByRFAA",
-        "userName": "Tslim X2 Dexcom user",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzZEtrVNq1q74hNrfHfjYw7EJc6Mi9NgV2GA00D=mo",
+        "userName": "Rica Tslim X2 & Dexcom user",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhEufqeY7Ayr6OrRZPnmgVp9YAwU8_RoO7JIRQiKA",
         "content": "This is a life saver app in just a swipe for verification purposes. Just wish we can use this \"now\" to travel legally since everything are electronic based... but i can wait.",
         "score": 4,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-10 20:26:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for using the myColorado app. myColorado is the State of Colorado's new digital platform, and the Digital ID is just the first of many services that will be available via the app for Coloradans. It is a convenient complement to physical ID at this time.",
+        "repliedAt": "2021-06-11 21:14:06"
     },
     {
         "reviewId": "gp:AOqpTOEOYrxU_UiDoMgSUKY01Pe6pwU_ftT5BM3reGxFvwTIfp81ll75T8nmc1lqsqWW-1OUlHfqpbO643m3XA",
@@ -944,8 +1508,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-10 14:02:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 21:13:48"
     },
     {
         "reviewId": "gp:AOqpTOF6fPtuQkT_KWhgsKSbkuOct3GchDqjFxcMhFNzEWXiM0pZ7WAoRnMHqcoUjQyvAW2qv-ZWofxiyhNKTw",
@@ -956,8 +1520,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-10 07:14:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Michael. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:13:33"
     },
     {
         "reviewId": "gp:AOqpTOFyPxUOZYn3B_sCAKUPqETVGzdC3-CDBT6af8zihfBL_8cR9cqE8EwGXu1Tv18VRb73ZEmLpTCFRrlI9g",
@@ -968,8 +1532,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-08 21:16:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Kobe, I am sorry about the problems with logging into your account. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:13:24"
     },
     {
         "reviewId": "gp:AOqpTOFc9cKgb8ob5k219VaeCkYstWvjIdJEfMz4koNsso_FneynEdjwxnp2OBFK92jVpEEwlTJwES3HfaSALA",
@@ -980,8 +1544,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-08 02:28:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Cody, I am sorry about the problems with the app. Please contact our support team at myColorado@state.co.us and they'll help to troubleshoot.",
+        "repliedAt": "2021-06-11 21:13:16"
     },
     {
         "reviewId": "gp:AOqpTOGrNeljhEeIltIuV099rUuV3h-8cHaE3pJQYjARtFdT-MpM7In9LJyuszUaQpRBRUukxZV1jY8heumeUw",
@@ -992,8 +1556,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-06 18:04:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Chris. Thank you for your feedback. We're sorry you experienced issues when creating your account. Our development team is looking into this and we expect to have a resolution soon. We hope you'll try it again in the near future.",
+        "repliedAt": "2021-06-11 21:13:05"
     },
     {
         "reviewId": "gp:AOqpTOE2Xsty1tYRlH0VamMdkIN-DBv9uUICqrwLW25t2iOeVI2KUh49fDUciHxbdVjfA1WSYuetvUsRWTKBww",
@@ -1004,8 +1568,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-05 18:22:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Anthony. Thank you for the positive review. It is very much appreciated!",
+        "repliedAt": "2021-06-11 21:12:51"
     },
     {
         "reviewId": "gp:AOqpTOHExL24kdFBcW4q3FCTa-euPtPASG0yXoG992fClB5ZSdTIWiQhf1BlsAzFEr_9I4mjgxBpJjyWYCBVyg",
@@ -1016,8 +1580,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-05 11:51:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Bry. Thank you so much for the positive feedback. We strive to make myColorado useful for all Coloradans. Please help us spread the word and tell a friend or two about the myColorado App!",
+        "repliedAt": "2021-06-11 21:12:42"
     },
     {
         "reviewId": "gp:AOqpTOEIppU7gO3oZYJhM-I2_068HxOOnANdwtl71mBz-al76PmQ1KLGhoEHjJhrDGHMtpneV0Vs66NZSpYxIA",
@@ -1028,8 +1592,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-05 00:07:32",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Anthony. Thank you for the 5-star review! Combo licenses will be coming soon.",
+        "repliedAt": "2021-06-11 21:12:33"
     },
     {
         "reviewId": "gp:AOqpTOFGnjch7GsVNLZAhShqsJWe2_tvvo3DjgYprQPlgEYLAcHoAfYBMdOQ4Qyc0Eg8_DYE4LEpc-JX4w4W0A",
@@ -1040,8 +1604,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-03 21:38:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Hsi, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 21:12:25"
     },
     {
         "reviewId": "gp:AOqpTOE-Hu0MZqqYL7F3-AvX9qicErcjtFvbma16JomezI1znQw6vE8gapL2-J6_kv2icUcbIoOiRfMoQzep5g",
@@ -1052,8 +1616,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-05-03 17:38:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Darryl and thanks for your feedback. Please know that security is a top priority for both the DOR database and the myColorado app.",
+        "repliedAt": "2021-06-11 21:12:13"
     },
     {
         "reviewId": "gp:AOqpTOHIUxmRZLIswV2ty1-LVym2Xa90Ql426OVv0YdgBibhvKxWtwSUshBt5M7pXLqGuYCSHMIDla_KTVNI1A",
@@ -1064,8 +1628,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.5",
         "at": "2021-05-02 17:20:41",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Rob. We're sorry about the problems you experienced scanning the barcode. We are continuously trying to improve our app and we hope you'll try it again soon.",
+        "repliedAt": "2021-06-11 21:11:56"
     },
     {
         "reviewId": "gp:AOqpTOHA17qo-tVDgSdcuKf6wxERoiOQtBF2WI7jthm4QIYBiIL_hVIlBEO5mJL8Lj4sGGko5vBTr45CHgsTLw",
@@ -1088,8 +1652,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-29 17:27:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Bob, I am sorry about the problems you experienced with the app. We are continuously making improvements and hope you will try again.",
+        "repliedAt": "2021-06-11 21:11:38"
     },
     {
         "reviewId": "gp:AOqpTOFKGTyZo4FU9yFBQbfGDavMqhZTXszy8rG4TFS2-sgFp6huhTlVkK4PmHFnkTrOWObP-zFrYNhJr-JDWg",
@@ -1100,8 +1664,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-29 14:41:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. We're sorry you experienced issues when creating your account. Our development team is continuously trying to improve the app. We hope you'll try it again in the near future.",
+        "repliedAt": "2021-06-11 21:10:59"
     },
     {
         "reviewId": "gp:AOqpTOGshTmXlVl3vOmmhrM03ZN-Bzch2JIPuG5z4cLBj0uoccBKQBEhHp_Z4l9DECJggQ-zJb0wybyqlBIxPw",
@@ -1112,8 +1676,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-29 14:02:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:10:45"
     },
     {
         "reviewId": "gp:AOqpTOE3kg4nBaBeFSRakFbifCnujvz78xHZp-wWzOHC1ulGKeWjSUagcIibJZpNGFLMfP7u9F4fc3wu-ttZrg",
@@ -1124,8 +1688,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-29 03:07:48",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Stephan. Thank you so much for your positive feedback! We are as excited as you are about myColorado!",
+        "repliedAt": "2021-06-11 21:10:35"
     },
     {
         "reviewId": "gp:AOqpTOHJObwX4sc7DVqlWDfqJbuLc5aSqEzWLYlRDNMJDefzjso56kDxalQ3RX-QslqbjcB1ZqOqi8GaW1l5dA",
@@ -1136,8 +1700,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-28 20:01:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Daniel. We're sorry about the problems you experienced scanning the barcode. We are continuously trying to improve our app and we hope you'll try it again soon.",
+        "repliedAt": "2021-06-11 21:10:23"
     },
     {
         "reviewId": "gp:AOqpTOFFj0YIbQ9hhzj6g43pLWCW6Rl2aWMTHrdu5NUPX8jL40bxj01vYQ74WZJeuY6jS4OXDsf02dRZjcB1kw",
@@ -1148,8 +1712,8 @@
         "thumbsUpCount": 6,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-28 02:33:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Christine, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 21:10:09"
     },
     {
         "reviewId": "gp:AOqpTOFHdw9xlH3ObTzjngSlj_Vsgvqoh3F1cWHW_c84-hoiaqPaAMdiB3RzuIZjRDAXenL09Fnr2bfuxc3bWA",
@@ -1160,8 +1724,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-27 22:57:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Devita. Thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 21:09:52"
     },
     {
         "reviewId": "gp:AOqpTOGwHSITutA0HL9_v9D6g5txEHBQPPAUuO8yiheuJqkckKdPWOcXTENvywcVwb7FHKLmHwibpN8q3dkRCA",
@@ -1184,8 +1748,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-27 09:38:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We're sorry about the problems you have experienced with the app. We are continuously trying to improve our app and we hope you'll try it again soon.",
+        "repliedAt": "2021-06-11 19:55:28"
     },
     {
         "reviewId": "gp:AOqpTOGHVGeB0LtKWyOI9Cyx6J4MrSiGFCOzNwIHSZXOS_dhtVXNynJ_MSWlPQwRJGe5bTyjynGNhPA7aG95yQ",
@@ -1196,8 +1760,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-27 03:44:40",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Sharon, thank you so much for the positive feedback. We strive to make myColorado useful for all Coloradans. Please help us spread the word and tell a friend or two about the myColorao App!",
+        "repliedAt": "2021-06-11 19:54:52"
     },
     {
         "reviewId": "gp:AOqpTOFCdxccalYvy1xUyry6SaKMHvZd-mKv53FcRXdg6qIM2yWU8HIM6ppj6klzv-hZqXmQu0YyxQMNoB_iCw",
@@ -1208,8 +1772,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-27 03:27:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Fernando, thank you for the review! I am so glad you're finding the Digital ID convenient!",
+        "repliedAt": "2021-06-11 19:54:40"
     },
     {
         "reviewId": "gp:AOqpTOEZX9HDWXw2s3ky45VK4rzSaZjLtS-AY_yMoU-inVraiLpI7HnRej3gzX7IasbloG14rDjTEaw3gFSfLQ",
@@ -1220,8 +1784,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-27 00:59:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Graham, we are so sorry to hear you've been experiencing these issues! We have increased our support staff in order to assist our growing myColorado app users! We truly hope you will give us another try.",
+        "repliedAt": "2021-06-11 19:54:23"
     },
     {
         "reviewId": "gp:AOqpTOEaVRe83tAlCkQGkbdCgaRa-dC1s--ZA3qLclJwcQI8xSAQgxjxdOTiNYFxQXT1CxEkjXMy2HBRNI9IRA",
@@ -1232,8 +1796,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-26 11:36:49",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jason, thank you so much for your positive feedback! We are as excited as you are about myColorado!",
+        "repliedAt": "2021-06-11 19:54:04"
     },
     {
         "reviewId": "gp:AOqpTOEDB-myuCjSqg9e2SZ6tceG8zr822R8UzrfvlCNyLX31ri2bohCItGsKoEox-CFUZgj82k1Xrv29kD-Dw",
@@ -1244,8 +1808,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-25 16:06:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jostyn, I am sorry about the problems you experienced with the myColorado app. The support desk at mycolorado@state.co.us is always available to help.",
+        "repliedAt": "2021-06-11 19:53:53"
     },
     {
         "reviewId": "gp:AOqpTOEJjynjNNjjQ3kKM8BO43eFhmiFFw5BHRTn8XSjx9uk8hITrohG0D06Cd_qtFOiRnSssEUXff67_Fyxcw",
@@ -1256,8 +1820,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-24 22:24:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Daya, thank you for the review! I am so glad you're finding the Digital ID convenient.The development team is continually making updates and improvements.",
+        "repliedAt": "2021-06-11 19:53:31"
     },
     {
         "reviewId": "gp:AOqpTOHrrfZAshC5_ildOfdUb125C220oGLnJl5ozQbRSRY4iJiRDPCwWyK8Ij7FFW0PbZfhjg8vmoZN1DfHIw",
@@ -1268,8 +1832,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-24 21:18:07",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, I am sorry about the problems you experienced with the myColorado app. The support desk at mycolorado@state.co.us is always available to help.",
+        "repliedAt": "2021-06-11 19:53:12"
     },
     {
         "reviewId": "gp:AOqpTOEENrngzzIXLioqrNKIwH8b5igp8NyxvhXQGi2DaIWyeRSWpYTue8gFpxloFAMiPPT7zYQ5U6bI6DMUBg",
@@ -1280,8 +1844,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-24 16:57:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Antonio, thank you for the positive review. It is very much appreciated!",
+        "repliedAt": "2021-06-11 19:52:12"
     },
     {
         "reviewId": "gp:AOqpTOF-SluwkOmSKf_qv6MkSN2CX2I7qL8qND96KG4o5yAFic3R37i_lpCtlrZb0bK-hG0bvqPDnuioJ-ZRUA",
@@ -1292,8 +1856,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-24 14:37:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Samuel, thank you for the 5-star review! Glad it is working for you!",
+        "repliedAt": "2021-06-11 19:52:01"
     },
     {
         "reviewId": "gp:AOqpTOEcBfrsSd_Cir3oPugRZ4mWf8pP-X8Qg8AXE0iIeiceg7uc3NpdYBOX6CM0YwQP_aYCJrMX0yktlODBKw",
@@ -1304,8 +1868,8 @@
         "thumbsUpCount": 4,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-24 14:29:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback. We're sorry you experienced issues when creating your account and taking pictures of your license. If you are still having trouble, please contact our support team at myColorado@state.co.us or 303-562-9855",
+        "repliedAt": "2021-06-11 19:51:47"
     },
     {
         "reviewId": "gp:AOqpTOFfh5iCZPIuXVgDA0O2eLIJcJtAiQXPVo8GowpvGIC9K2gQ-ZwIUv59QOVyOc2qn2s9FHQoGiztoZpwfQ",
@@ -1316,8 +1880,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-24 11:16:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Ignacio and thanks for the positive review! Check out our list of partners who are already accepting the Digital ID. More are joining every day. https://mycolorado.state.co.us/partners",
+        "repliedAt": "2021-06-11 19:51:30"
     },
     {
         "reviewId": "gp:AOqpTOFw27JrINbmi_e4qFVBVeGO74VNDKI9O8Z7AcaTvkVbjNVlWzmcCBoPNW4fkAlTELL6IovwKwkTK2E2PQ",
@@ -1328,8 +1892,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-23 01:26:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Art, thank you for your feedback. I am sorry about the problems you experienced with the digital fishing license. The myColorado support team is always willing to help and can be reached at mycolorado@state.co.us",
+        "repliedAt": "2021-06-11 19:51:11"
     },
     {
         "reviewId": "gp:AOqpTOGCeIZk3Z6phg5TY-O0kk7wujk0bBSmCzevs74j2ww0IaIzSk6k2_b9YhyCNjKoTKbCHMn3auSuVbp5_w",
@@ -1340,8 +1904,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "4.4",
         "at": "2021-04-23 00:00:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Sulenda, if you recently received your Colorado driver license, it can take up to 72 hours for the DMV photo to update to myColorado. Please try it again, if you still experience issues email us at mycolorado@state.co.us or call at 303-562-9855. We appreciate your feedback.",
+        "repliedAt": "2021-06-11 19:50:53"
     },
     {
         "reviewId": "gp:AOqpTOE_8Dvo6kKnt8FBidjgoQZs9cqbeZgdK7m9I-afaTDjTQcFV1arfUHe08-N7cZs-DYBZ1ZppA-cH2A-LA",
@@ -1352,8 +1916,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-04-22 22:51:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello, thank you for the review. If you are having problems with the app, please contact our support team at myColorado@state.co.us.",
+        "repliedAt": "2021-06-11 19:50:31"
     },
     {
         "reviewId": "gp:AOqpTOHbKqSi6SIN8nifQ7j1yrCyKXFszbof9qoi0X2bQlGd5LDhB1YZqkZ9EDG_oHukpoN-4tF63kQOpy1gVg",
@@ -4762,18 +5326,6 @@
         "at": "2020-04-07 00:17:06",
         "replyContent": "Hi Stephen, we had a small problem yesterday afternoon and it has been fixed. If you still experience the problem, please contact our support team at myColorado@state.co.us.",
         "repliedAt": "2020-04-07 21:15:16"
-    },
-    {
-        "reviewId": "gp:AOqpTOFDN3kkeNL7KX4NgeNyRYzx37VijyTzZ2gTaVkX8NRrFhau62O8KhNwfEOc_kz5fDmfLOiQBlrj_vtGhw",
-        "userName": "Bryan Whalen",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhN9y2oFL8q6rYV3lbXYw9AanUMq4RFWYqmhvOjzQ",
-        "content": "Custom ID display settings constantly reset, and is not the default view. Notifications about Colorado news open the app but do not display anything useful or related to the notification.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.6",
-        "at": "2020-04-07 00:04:12",
-        "replyContent": "Hi Bryan, thank you for letting us know. I have forwarded this problem to our developers.",
-        "repliedAt": "2020-04-07 21:13:20"
     },
     {
         "reviewId": "gp:AOqpTOF5NwLPvHcMguQffNwuwaAz7WVIbWQ_tVef67kPFrOAb6O6pdEwiXcC6IsLsrQgzXRAoZn6z7IQfnTu4A",

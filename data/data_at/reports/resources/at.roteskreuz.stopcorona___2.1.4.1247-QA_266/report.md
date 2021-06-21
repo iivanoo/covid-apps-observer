@@ -204,6 +204,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Im letzten halben Monat 200 MB Mobilfunk-Daten verbraucht. Zusätzlich belegt die App mittlerweile 1,5 GB Speicherplatz. Ist das normal?<br> :date: __2021-06-15 07:36:48__
+
 > Zukunft? Wird die App auch Antikörper-Tests und Impfungen berücksichtigen? Mit dem grünen Pass braucht man die App dann eigentlich nicht mehr, oder?<br> :date: __2021-06-09 07:02:56__
 
 > Macht was es soll. Jedoch belegt die App über 700 MB an internem Speicherplatz und muss daher demnächst deinstalliert werden, um wertvollen Speicherplatz zu gewinnen. Die Möglichkeit, die Daten auf die SD Karte zu verschieben, wäre ein guter Grund für mich, die App weiterhin zu nutzen.<br> :date: __2021-06-03 23:03:26__
@@ -221,8 +223,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Wie schaut's aus mit der Integration von erfolgten Impfungen, Testergebnissen, Registrierung z. B. in der Gastronomie? Ich hoffe, das ist alles bereits in Arbeit und wird umgehend veröffentlicht.<br> :date: __2021-04-24 17:17:57__
 
 > Die APP ist in Ordnung.<br> :date: __2021-04-23 06:44:33__
-
-> Von 5* zu 2*. Die mit Sicherheit langweiligste App der Welt von der man nicht mal weiß ob sie funktioniert weil sie einfach nichts tut. Könnt ihr bitte die DEUTSCHE APP kaufen?!?! Ich denke, dass der App Entwickler keine Ahnung von der Zielgruppe hat. Dass es einen spielerischen Charakter braucht für Akzeptanz. Überlege den langweiligen Ressourcen Fresser zu löscheb die App nun funktioniert oder nicht kann ich nicht sagen. Sie macht auf jeden Fall keine Probleme und hält sich an den Datenschutz.<br> :date: __2021-04-20 18:19:20__
 
 
 

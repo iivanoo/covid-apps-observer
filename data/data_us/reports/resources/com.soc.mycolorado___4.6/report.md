@@ -187,25 +187,25 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
-> Awesome<br> :date: __2021-06-11 02:04:47__
+> Very positive. Lke ID on my phone!!<br> :date: __2021-06-21 02:43:52__
 
-> Really easy to use app. Thanks.<br> :date: __2021-06-11 00:39:09__
+> Very helpful app<br> :date: __2021-06-20 22:51:46__
 
-> Easy to upload/photos various documents<br> :date: __2021-06-10 06:14:42__
+> Left my wallet at home before a night of drinking. When all hope was lost, the bouncer at a bar downtown recommended that I download this app and get my ID virtual because it works scanning-wise. One family member at home and a quick set up later, and I was good to go starting my saga of belligerence. 10/10 wingman this app<br> :date: __2021-06-19 00:24:27__
 
-> Saves a lot of effort.<br> :date: __2021-06-09 16:53:11__
+> Great way to have a backup of your fishing license and ID in one spot. Bars are starting to accept it as valid ID!<br> :date: __2021-06-18 04:40:57__
 
-> Very easy to use and upload information. Wish all agencies along with TSA accepted the digital documents. Still solid after 6 months.<br> :date: __2021-06-09 03:42:27__
+> I think the digital ID is nice and helps a lot if you need it on the go<br> :date: __2021-06-17 19:10:55__
 
-> Great idea and very very user friendly....<br> :date: __2021-06-08 20:58:30__
+> Tried to sign up when the servers were down. It works now and is great. Really glad Colorado developed this.<br> :date: __2021-06-15 20:27:31__
 
-> Im so releaved to have found this app it has been a life saver<br> :date: __2021-06-04 21:40:37__
+> Buggy for now but it's still new. Very useful when you've forgotten or lost your ID or wallet.<br> :date: __2021-06-14 17:04:01__
 
-> It's just awesome<br> :date: __2021-06-03 03:27:58__
+> Login issues resolved great app!<br> :date: __2021-06-11 22:21:15__
 
-> Awesome app<br> :date: __2021-06-02 23:42:48__
+> Went to the DMV literally TODAY, and it will not authenticate me. Says it can't match my photo. I look exactly like i did 3 hours ago, hairstyle, clothes and all. This is absurd.<br> :date: __2021-06-11 21:27:41__
 
-> Has all the information that you need about DMV in Colorado<br> :date: __2021-05-30 17:26:39__
+> Lifesaver<br> :date: __2021-06-11 19:15:14__
 
 
 
@@ -214,6 +214,12 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> Worked for a while, but now it won't open my ID, registration, or insurance card. This app is useless if it's not reliable.<br> :date: __2021-06-21 00:42:16__
+
+> Tried to access and app wouldn't work. Otherwise would give it a 5<br> :date: __2021-06-20 05:10:13__
+
+> Digital ID is not working from the home screen, have to go into services then it pulls up.<br> :date: __2021-06-13 22:31:11__
 
 > The scanning took forever to get right but once you get it working it's good.<br> :date: __2021-06-11 00:54:00__
 
@@ -229,12 +235,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > A bit complicated to set up due to security items, but I really like having my drivers license, fishing license, etc, easily avaliable<br> :date: __2021-05-19 16:30:54__
 
-> Love the app however it's kind of a pain to get a verification every time you need to use it<br> :date: __2021-05-17 21:47:54__
-
-> Its helpful I just wish more ppl accepted it.<br> :date: __2021-05-12 14:37:19__
-
-> This is a life saver app in just a swipe for verification purposes. Just wish we can use this "now" to travel legally since everything are electronic based... but i can wait.<br> :date: __2021-05-10 20:26:49__
-
 
 
 #### 3-star reviews
@@ -242,6 +242,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
+
+> This app worked fine until april/may 2021. Now the app just crashes. The app is a good idea and nice especially if on a bike so you dont need to carry as much, problem is the app does not and will not stay open. It crashes constantly and some features will not open at all and when tried, it causes the app to crash as well. I wish the powers at be could get this app to actually work. Ride safe, Kg<br> :date: __2021-06-17 23:40:36__
+
+> It won't let me access it or send me verification code, but thank you for at least responding to my issues here! I just thought it was never going to be addressed, I appreciate that!<br> :date: __2021-06-12 01:05:14__
 
 > Authentication does not work if cell phone service is not available. May make app useless.<br> :date: __2021-06-06 07:30:23__
 
@@ -259,10 +263,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > 2 factor authentication not working. I've been waiting for 15 mins for the code to be text to me so I can buy a lighter and nothing! It's a waste of energy. ---Sure, thanks for the acknowledgement. 👍When this app is working, its amazing.<br> :date: __2021-03-25 05:22:11__
 
-> Can't get it to scan my id in????<br> :date: __2021-02-26 21:16:20__
-
-> Keeps crashing when I try to upload an insurance ID card. Everything else is awesome!<br> :date: __2021-02-01 20:44:35__
-
 
 
 #### 2-star reviews
@@ -271,25 +271,25 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
 
+> This app worked perfectly for a while, but now I'm met with "certificate errors" and am unable to view my ID or even get to the login page.<br> :date: __2021-06-21 06:47:57__
+
+> App keeps crashing when opening insurance section.<br> :date: __2021-06-19 22:00:54__
+
+> Not for use in any situation where speed or proof of insurance is necessary. Alot of layers of security just to open the app, then I'd get kicked completely out of the app when I tried to open the proof of insurance. Then of course all the security again. I ended up using the paper documents anyway. And didn't we fight a war or something to avoid apps like this anyway?<br> :date: __2021-06-19 04:59:48__
+
+> Unable to change my phone number from my old number to my new number in the app because it asked for a verification code every time I'm trying to log in which is sent to my old phone number which I don't have access to because it's my old phone number so I don't know how I'm going to access my information because I can't access the account with my old number so this is kind of dumbUnable to change my phone number from my old number to my new number in the app because it asked for a verification<br> :date: __2021-06-16 00:19:38__
+
+> Not great experience. Cannot seem to link digital fishing license to app. Very sluggish app.<br> :date: __2021-06-14 00:02:32__
+
+> Doesn't work. Scans and then says I need a license which it scanned.<br> :date: __2021-06-12 15:44:47__
+
+> Seems like every update you have to re-register. Could be a decent, it's just not reliable. Maybe you could try to architect it so that you reuse the user data after each update??<br> :date: __2021-06-11 22:31:46__
+
 > Nine out of 10 times I'm unable to log in. On the few times I've been able to get to the authentication page afterwards I get an error message. I thought this app would be a game changer having everything in one place but I can't even get it to open<br> :date: __2021-06-10 22:22:06__
 
 > Works for drivers license. Fishing and hunting licenses dont show up.<br> :date: __2021-06-10 00:42:26__
 
 > It does not make any situation more convenient and when prompted, the information doesn't open. A screenshot won't work and signal is needed to open the necessary information. Unfortunately trails and streams don't have wifi yet.<br> :date: __2021-06-03 17:40:14__
-
-> When it wants to verify me by taking a picture the oval frame is black and wont take a picture. The app is useless to me if i cant use it for its intended purpose.<br> :date: __2021-05-11 16:14:20__
-
-> Have had 2021 fishing lic for 3 weeks and it's still not available on myColo????<br> :date: __2021-04-23 01:26:14__
-
-> I'm sure it's a great site, but it does not let me create a site with my California DL.<br> :date: __2021-04-15 22:12:39__
-
-> Damn camera will not scan the barcode on back of i.d. really frustrating if only I could use this it would save me alot of stress and help me alot at the moment<br> :date: __2021-04-15 12:07:20__
-
-> It keeps showing error all the time I try to upload my insurance cards<br> :date: __2021-04-09 15:41:45__
-
-> In my house and put that in your house In<br> :date: __2021-04-09 10:02:00__
-
-> To verify the first time it requires you to use facial recognition by framing your face in an oval. After three attempts, each time the app just sits there, no way to verify the facial recognition, no way to do over, just nothing. Frustrating.<br> :date: __2021-04-09 01:43:26__
 
 
 
@@ -299,24 +299,24 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
-> It's absolutely useless. The image recognition tool simply does not work. Surely there is a better way to verify identity.<br> :date: __2021-06-11 01:07:58__
+> Developers let their certificates expire. Impossible to log in. All I can do is report the error via email which I have done. Can't believe it hasn't been resolved already.<br> :date: __2021-06-21 06:17:18__
 
-> Won't accept my password to sign-in, and won't accept my existing password to let me change my password. So, it's completely useless. You wouldn't want to rely on this for ID.<br> :date: __2021-06-10 21:41:36__
+> App crash and doesn't work. I email about the issue and get no response back.<br> :date: __2021-06-21 06:06:02__
 
-> Just created a new account only to get to the login page for it tell me it doesn't recognize my password or username. Waste of an app.<br> :date: __2021-06-10 16:08:01__
+> Shittttttttiest appvever<br> :date: __2021-06-21 02:31:32__
 
-> Created an account and can't log in plus no way to recover account. Trouble logging in button does nothing : (<br> :date: __2021-06-10 06:17:46__
+> Sucks always having issues when I most need it<br> :date: __2021-06-21 01:27:20__
 
-> My app was working just fine and I was using it constantly then about a month ago it stopped working. When I would log in it would go back and forth to the pingid and login screen. It will not properly work. I also sent an email about it and never received a response back. This app needs to work properly!<br> :date: __2021-06-09 16:32:52__
+> Can't recognize my face against my license.<br> :date: __2021-06-18 08:11:55__
 
-> Can even get the app to scan my ID. So many other people are having the same issue. would not give any stars for the Shyte quality CO wants to make their ID's from.<br> :date: __2021-06-08 03:23:37__
+> This app continues to be rather useless. Login process repeatedly kicks you back to the login page after entering a two factor code.<br> :date: __2021-06-16 20:44:01__
 
-> Would be cool if it worked. Camera worked the first day and then never again. Can't verify or upload anything. Sweet app. Can I have my info back please!<br> :date: __2021-06-05 20:03:40__
+> Doesn't work, just get an error code upon trying to log in.<br> :date: __2021-06-15 16:53:02__
 
-> Went to the DMV literally TODAY, and it will not authenticate me. Says it can't match my photo. I look exactly like i did 3 hours ago, hairstyle, clothes and all. This is absurd.<br> :date: __2021-06-04 23:46:20__
+> Was once brilliant. Now I can't sign in. I called and was on hold, person answered, then hung up. I called again, left my phone number for a customer service rep to call me back, got the call, answered, then they hung up. Just incompetent and unprofessional. Get it together.<br> :date: __2021-06-15 04:18:57__
 
-> This is what happens when the government is tasked with make a app that works. It doesn't, And just like the government it probably never will!!<br> :date: __2021-06-03 23:50:43__
+> Can't log in, can't create an account, the most useless app in the store!! 🖕🤬🖕🤬🖕<br> :date: __2021-06-14 02:01:05__
 
-> If I could give it a zero star i would. Tryed to face scan an it didnt even reconize me. So i tried again an its just a black oval to scan ur face even in the brightest light. I will just wait for my id to come in the mail. This app is a pain in the you know what.<br> :date: __2021-06-02 04:44:08__
+> Doesn't even work!! Such a waste of time.<br> :date: __2021-06-14 01:50:19__
 
 

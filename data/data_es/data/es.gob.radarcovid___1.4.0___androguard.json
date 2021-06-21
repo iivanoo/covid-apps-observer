@@ -1,0 +1,31 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+    ],
+    "activities": [
+        "es.gob.radarcovid.features.splash.view.SplashActivity",
+        "es.gob.radarcovid.features.onboarding.view.OnboardingActivity",
+        "es.gob.radarcovid.features.main.view.MainActivity",
+        "es.gob.radarcovid.features.covidreport.form.view.CovidReportActivity",
+        "es.gob.radarcovid.features.exposure.view.ExposureActivity",
+        "es.gob.radarcovid.features.covidreport.confirmation.ConfirmationActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://tools.ietf.org/html/rfc7518#section-3.2 for more information.",
+        "https://tools.ietf.org/html/rfc7518#section-3.4 for more information.",
+        "https://tools.ietf.org/html/rfc7518#section-",
+        "http://schemas.android.com/apk/res-auto",
+        "https://play.google.com/store/apps/details?id=",
+        "https://radarcovid.covid19.gob.es/",
+        "https://radarcovid.covid19.gob.es/dp3t/"
+    ]
+}

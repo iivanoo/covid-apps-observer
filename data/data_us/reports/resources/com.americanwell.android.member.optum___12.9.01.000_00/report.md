@@ -178,6 +178,16 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Wonderful!!<br> :date: __2021-06-18 00:25:13__
+
+> Very easy to use<br> :date: __2021-06-16 22:27:52__
+
+> Was very easy to use and it was a short wait time to see the Dr. The Dr was very friendly, knowledgeable, and took the time to listen and address my concerns. Definitely will be using this service over going to a quick care.<br> :date: __2021-06-15 21:04:51__
+
+> I have an active tooth abscess flaring up and dint want to go to the ER or urgent care center just for antibiotics. Then I remembered my insurance covers telemedicine! So I downloaded the app, put in my insurance & other info and within a few minutes I was seen by a dr and had my antibiotics called in to my pharmacy. 10/10 recommend this app<br> :date: __2021-06-15 03:11:14__
+
+> Excellent experience don't have to leave home and be around more sick people<br> :date: __2021-06-12 02:34:24__
+
 > Nice and easy<br> :date: __2021-06-06 23:26:06__
 
 > Excellent experience<br> :date: __2021-06-05 05:40:11__
@@ -188,16 +198,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > Was different but glad I did it<br> :date: __2021-06-01 22:03:18__
 
-> On June 1, 2021 I spoke with a Nurse, Laura Gandy and she greeted me, let me talk and tell her my concerns, Laura was very pleasant to talk to and her advice was very clear and she kept the conversation professional and yet she was tenderly kind. Thank you for keeping this arrangement. 🙂😊🙂 My visit with Brenna Benas is what I need. Brenna is always kind, really kind and I leave with thoughts that are good. So Thank you, Brenna Benas for being here to help me.<br> :date: __2021-06-01 18:55:28__
-
-> Very good and helpful<br> :date: __2021-05-31 22:38:28__
-
-> Very good<br> :date: __2021-05-29 14:20:18__
-
-> I'm outta of town and I've seen a doctor twice and the experience has been amazing.<br> :date: __2021-05-26 18:18:28__
-
-> I love this option, it just like veing at the doctors but at home and fast.<br> :date: __2021-05-25 18:03:22__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Everything was fine talking to my doctor until the end when the screen froze up a couple of times.<br> :date: __2021-06-15 16:57:53__
 
 > Great. To the point<br> :date: __2021-06-06 18:10:19__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Great service. Provider excellent. The only improvement I would suggest is to have a better idea of wait time or having app phone us when we are 5 minutes away from seeing doctor<br> :date: __2021-01-25 00:18:37__
 
 > Easy set up. So easy that I forget the password or where I put it but once I was in clear instructions and timely visit. Less than one hour overall.<br> :date: __2021-01-13 22:51:34__
-
-> Except for freezing a little , it was usefull<br> :date: __2020-12-30 20:40:03__
 
 
 
@@ -274,6 +274,12 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
+> It cost me $60 and I have medicaid. And they did nothing. "It's their policy to not prescribe medication for a UTI or infection." It took me 4 months to pick up the app and talk to a doctor and I got nothing. I can't go to a doctor's office, so that's it. I will either get better on its own or kill me. $60 and I'm on SSI.<br> :date: __2021-06-19 01:56:24__
+
+> State required for teledoc with state mandated insurance, service sucks<br> :date: __2021-06-16 10:44:50__
+
+> You just for them to tell you to go to the hospital or urgent care. There really is no point to call unless you need ibuprofen. They can't even refill your normal daily meds. There is no point to call you already know if you need to go to the hospital or your Dr office. I've used this at least 20x and they always tell me just to go to the ER even though every time I had just gotten out of the ER from being admitted. I'm just tired of hurting I just need one DR to help me but ill die b4<br> :date: __2021-06-14 20:16:41__
+
 > Tried to get help for mental illness. Cancelled the call and left a note to go to the UC. Not helpful at all.<br> :date: __2021-06-04 03:43:10__
 
 > They hung up on me after waiting an hour<br> :date: __2021-05-19 00:27:34__
@@ -287,11 +293,5 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Dr leslie remedies is very rude<br> :date: __2021-02-26 02:18:56__
 
 > This app is terrible. I didnt used to have problems with it but the last 2 times have been a nightmare. The doctors werent able to connect, 1 had to call me and for the other the app stated that my appointment had finished even though it never connected me to the doctor.<br> :date: __2021-02-22 22:33:48__
-
-> Worst app that I have ever used. It can't connect properly to my insurance on every visit and their personnel don't seem to actually know how to fix the situation each time that I have tried to use it. Also, the damn thing will suddenly kick you off of the appointment while you're waiting once you give up on getting a free appointment and pay for it. Don't use this unless they fix their massive problems. This thing is a mess!<br> :date: __2020-12-06 17:44:15__
-
-> Didn't cancel appointment I canceled, cannot maneuver to find covid test results, but liked my physician on 3/31<br> :date: __2020-08-03 21:55:38__
-
-> No longer connects well. Since the update it says you are connected, waiting for the physician to connect...then it doesn't connect and the doctor cancels<br> :date: __2020-07-31 18:04:15__
 
 

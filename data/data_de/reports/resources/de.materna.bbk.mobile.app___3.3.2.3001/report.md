@@ -154,25 +154,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="5_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 5 reviews"/>
 </p>
 
-> Sehr gute app<br> :date: __2021-06-10 09:27:44__
+> Bis vor einigen Wochen wr die App sehr zuverlässig. Leider funktioniert die Warnung nicht mehr. Damit ist sie eigentlich unnütz. Alle Berechtigungen sind erteilt. Woran liegt es? Bitte behebt den Fehler schnell! Ich war immer zufrieden mit der App und habe sie fleißig weiter empfohlen. Wenn ich die App öffne kann ich Warnungen sehen. Ich bekomme leider keine Benachrichtigung mehr...<br> :date: __2021-06-20 22:47:15__
 
-> Die App funktioniert wieder super! Bin begeistert! Danke<br> :date: __2021-06-10 07:04:35__
+> Super App, die Warnungen sind immer sehr hilfreich. Sollte jeder installiert haben.<br> :date: __2021-06-19 23:22:02__
 
-> Ich finde die Inhalte gut, und die Aufarbeitung der Coronaregeln sehr hilfreich. Allerdings werden die Informationen nur geladen, wenn ich mein WLAN abschalte. Habe ich mein WLAN an, lädt nichts, und nach einer Weile werde ich gebeten, sicherzustellen, dass ich eine Internetverbindung habe. Das ist vermutlich nicht so gedacht ;) Update: Vielen Dank für Ihre Antwort. Das Problem besteht nun nicht mehr.<br> :date: __2021-06-09 20:02:12__
+> Ich erhalte z. Zt. zwar keine Meldungen, aber ich hoffe drauf, dass - wenn es für mich wichtige Informationen gibt - die Alarmierung funktioniert.<br> :date: __2021-06-19 11:22:33__
 
-> Sehr zuverlässig .<br> :date: __2021-06-09 18:51:30__
+> Tut was es soll. Danke! ich finde es super, dass es diese App gibt.<br> :date: __2021-06-18 16:43:24__
 
-> Ist nicht kompliziert und sehr verständlich<br> :date: __2021-06-07 13:45:17__
+> Gut.<br> :date: __2021-06-17 17:52:53__
 
-> Warnt vor Unwetterwarnungen und anderen Katastrophen und bietet nebenbei einen guten Überblick über die aktuell geltenden Coronabestimmungen auf Landkreisebene<br> :date: __2021-06-06 19:20:06__
+> Gut<br> :date: __2021-06-17 06:31:10__
 
-> Warum auch immer es funktioniert wieder. Aber das muss auch mal gesagt werden: Danke für ihre schnelle und ausdauernde Hilfe👍👏<br> :date: __2021-06-06 10:17:37__
+> Funktioniert! Danke!<br> :date: __2021-06-16 20:54:25__
 
-> App funktioniert noch immer nicht. Sanduhr läuft und läuft. Orte, Corona etc. anklicken ohne Ergebnis. Die App bringt so nichts. Lt. anderer Bewertungen offensichtlich schon längere Zeit so. 06.06.2021 Die App funktioniert wieder und macht was sie soll.<br> :date: __2021-06-06 09:05:41__
+> Immer rechtzeitig aktuell<br> :date: __2021-06-16 20:49:45__
 
-> Seit dem letzten Update(?) funktioniert gar nichts mehr. Das Nina-Warn-App-Logo dreht und dreht und..... aber es können keinerlei Warnungen gelesen werden. Ich habe die App neu installiert, alle Prozesse (auch im Hintergrund) erlaubt...nichts geht. Handy neu gestartet....nichts..... Ich korrigiere die Bewertung, der Fehler konnte durch die Lösungsvorschläge des Betreibers behoben werden. Auf meine Rezension hin kümmerte er sich sofort und die App funktioniert in gewohnt guter Weise. Vielen Dank<br> :date: __2021-06-05 09:45:15__
+> Gute und sichere Warnung App ,sehr aktuell<br> :date: __2021-06-16 17:02:26__
 
-> Leider keine Funktion mehr, nur die Sanduhr im Dauereinsatz. App wurde deinstalliert und neu installiert. S10, Android 11, S-Update Mai 2021 App funktioniert wieder wie gewohnt unter WLAN und auch Mobilen Daten. Danke<br> :date: __2021-06-05 06:00:13__
+> Suppi, ist gut.<br> :date: __2021-06-16 16:26:31__
 
 
 
@@ -182,25 +182,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="4_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 4 reviews"/>
 </p>
 
-> Warnungen sind super. Leider versucht die App als erstes den Standort zu bestimmen. Wenn das aber, wie bei mir, abgeschalten ist, muss man unnötig lange warten bis die Warnungen für die gespeicherten Städte geladen werden!<br> :date: __2021-06-10 13:05:53__
+> Ganz im Anfang war es eine tolle Sache, aber eine Warn App, die keine Warnung anzeigt, ist wenig hilfreich. Über die aktuelle Trinkwasser Verunreinigung in meinem Kreis habe ich die Info erst über Facebook gelesen, dann bei Nina geschaut, wo sie schlummernd und still stand. Trotz aller aktivierten Benachrichtigungsoptionen. Hier muss dringend nachgebessert werden. UPDATE: Nachdem ich die App deinstalliert und dann wieder neu installiert habe, funktioniert sie wieder wie sie soll.<br> :date: __2021-06-20 15:22:10__
+
+> Neue Bewertung: Die App an sich scheint gut zu funktionieren. Die eingepflegten Daten sind nicht immer so gut. Bsp: Meldung: "Amtliche Warnung vor extremer Hitze" Handlungsempfehlung: "Heute ist der dritte Tag in Folge". Bin kein Linguist, aber nach meinen Verständnis sollte da sowas wie viel trinken und im Schatten laufen stehen. Ansonsten werden Die Daten ganz gut Angezeigt.<br> :date: __2021-06-19 17:28:01__
+
+> Alle eigentlich ganz geil so mit Wetterwarnung und Überflutungswarnungen, was jetzt aber nachmal richtig gut währe währe auch eine Option für Brandgefahr. Grad bei so heißem Wetter nicht grade Unnütz. Kommt n Reiter für Brandgefahr kommt hier auch der fünfte Stern.<br> :date: __2021-06-18 12:48:12__
+
+> Hat funktioniert ....Danke<br> :date: __2021-06-18 12:03:26__
+
+> Informativ,<br> :date: __2021-06-17 17:17:05__
+
+> Soweit ganz gut. Wäre schön wenn in der Push-Nachricht gleich mit angeben wäre für welchen gespeicherten Ort oder ob sie Warnung für den aktuellen Standort gültig ist<br> :date: __2021-06-14 16:29:57__
+
+> Ich finde die App wichtig und gut! Wie jede App hat sie Vor- & Nachteile. Was mich nervt ist, dass die App ganz Deutschland flächenmäßig in Orange darstellt. Vermutlich in Bezug auf den Gefahrenschutz bzw. wgn. Corona. Leider werden alle anderen Warnungen weitestgehend auch mit oranger Farbe hervorgehoben. Im aktuellen Fall eines Bombenfunds bedeutet das, dass ich den Radius auf der Karte dadurch nicht erkennen kann. Das macht wenig Sinn bzw ist kontraproduktiv. Neu: schön zu hören! Danke!<br> :date: __2021-06-12 12:25:32__
 
 > Mittlerweile funktionieren die push-meldungen gut, schön wäre es in der Push auch den Standort der Warnung zu sehen.<br> :date: __2021-06-09 16:22:21__
 
 > die Coronastufen werden nicht zeitnah aktualisiert.<br> :date: __2021-06-09 08:30:28__
 
 > Gute App, alle Informationen schnell ersichtlich. Ich habe einen Verbesserungsvorschlag für die Benachrichtigungen: es wäre schön, wenn man einstellen könnte, für welche Orte man Meldungen bekommen möchte oder wenn wenigstens der Ort in der Benachrichtigung mit drin stehen würde. Ich habe Orte hinterlegt, bei denen ich nur bei Bedarf Informationen nachschauen möchte. für die benötige ich keine Benachrichtigung für Gewitter etc.<br> :date: __2021-06-09 05:56:16__
-
-> Ich finde die App wichtig und gut! Wie jede App hat sie Vor- & Nachteile. Was mich nervt ist, dass die App ganz Deutschland flächenmäßig in Orange darstellt. Vermutlich in Bezug auf den Gefahrenschutz. K.A. Leider werden alle anderen Warnungen weitestgehend auch mit oranger Farbe hervorgehoben. Im aktuellen Fall eines Bombenfunds bedeutet das, dass ich den Radius auf der Karte dadurch nicht erkennen kann. Das macht wenig Sinn bzw ist kontraproduktiv.<br> :date: __2021-06-08 11:56:27__
-
-> sehr aktuell und ortsbezogen, besonders während Corona<br> :date: __2021-06-07 20:22:08__
-
-> Die App zeigt gar nichts mehr an - nur noch dauerhafte Sanduhr. Das lief mal gut. Sehr schade - an und für sich eigentlich eine sinnvolle App. Sobald WLAN aktiviert ist. Funktioniert wieder nach Router-Neustart - obwohl alle anderen Apps auf vorher im WLAN funktionierten. Danke für die prompte Hilfe<br> :date: __2021-06-05 14:11:01__
-
-> Seit einigen Tagen lädt die App keine Daten mehr. Sie hat für mich keinen Nutzen mehr. Auch nach Neuinstallation funktioniert die App nicht. Wenn sie läuft, ist die App super. Ich werde mal das nächste Update abwarten und nochmal installieren. Nachtrag: Nach mehrmaligen löschen und installieren funktioniert Nina wieder. Nun weiß ich wieder Bescheid. Mir hat die wichtige Information, die mir die App liefert sehr gefehlt. Daher nun 4 Sterne.<br> :date: __2021-06-05 10:00:17__
-
-> Es hat die letzten zwei Tage nicht funktioniert, jetzt geht es plötzlich wieder. Auch im WLAN.<br> :date: __2021-06-05 05:55:05__
-
-> An sich fand ich die App bisher gut; sie versorgte mich mit den gewollten Informationen. Leider ist sie seit kurzem nicht mehr nutzbar. Es kommen Push-Mitteilungen, in der App kann allerdings nichts Informatives angewählt werden... 🤷🏼‍♂️ Motorola Moto G8 plus mit Android 10 (Patch vom 01.04.2021) Edit: Nach Befolgen des Tipps mit Routerneustart funktioniert die App mit WLAN als auch Mobilen Daten nicht mehr, erst nach Handyneustart beides wieder. Danke für die Unterstützung!<br> :date: __2021-06-04 22:31:08__
 
 
 
@@ -210,25 +210,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="3_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 3 reviews"/>
 </p>
 
+> An sich gute App, man wuselt aber mit Google-Maps rum. Was das Öffnen der Karte für mich zu nichte macht. Ist mit Blokada blockiert. Bitte stellt auf Opemstreetmap um. Danke<br> :date: __2021-06-21 05:00:20__
+
+> Leider werden alle Unwetterereignisse nur in den Benachrichtigung angezeigt (PopUp), die App Oberfläche selbst zeigt die üblichen, meist unveränderten Corona Hinweise an. Ich kann nicht erkennen, ob es alte Wetterhinweis sind, die shcin wieder obsolet sind, ober ob die App diese einfach gar nicht anzeigt. Bitte fixen, nervt ungemein und bringt Verunsicherung!<br> :date: __2021-06-20 08:49:03__
+
+> Ich bekomm seit Wochen keine Benachrichtigung mehr (Huawei P30pro)<br> :date: __2021-06-19 23:57:57__
+
+> Trotz expliziter Einstellung der Orte Hamburg,Köln,Berlin kommen Warnmeldungen auch für den Aachener Raum, Ostsee, Stuttgart.... Version ist aktuell, ebenso alle WLAN und Routerelemente....Was ja oft als Fehlerquelle angesagt wurde. Muss man das verstehen??<br> :date: __2021-06-19 22:35:04__
+
+> 6,7GB Speicherplatz benötigt die NINA app bei mir! Warum?<br> :date: __2021-06-18 11:42:18__
+
+> Die App ist eine gute Idee und auch eigentlich ganz übersichtlich. Was ich nicht verstehe, sind die genannten 'infektionsgefahr Stufen' . Es ist leider nirgends eine Legende dazu und somit ist diese Information nicht sonderlich hilfreich - obwohl die farbliche Unterscheidung und die Zahlen wohl zum Ausdruck bringen sollen, dass 1 niedrig ist. Der diesbezügliche Verweis auf das RKI läuft irgendwie auch ins Leere....<br> :date: __2021-06-15 19:16:30__
+
+> Manchmal tut man es missbrauchen um das Volk zu manipulieren.<br> :date: __2021-06-14 11:03:41__
+
+> Die Anzeige der lokalen Corona-Informationen ist systematisch falsch. So zeigt die App z.B. für den Ort Warendorf heute (13.06.2021) eine InfektionsGefahr Stufe 2 an, obwohl die Gemeinde bereits seit dem 26.05. die Coronainzidenzstufe mit 1 angibt. Dies gilt auch für weitere Orte, die ich überprüfen konnte. Entweder verstehen ich etwas total falsch, oder das betreffende Modul ist völlig unbrauchbar. Schade, es wäre so einfach gewesen, aktuell nachzuschauen, welche Verhaltensregeln gelten.<br> :date: __2021-06-13 14:51:50__
+
+> Die corona warnstufe wird nicht korrekt angezeigt. Unter 35 ist Stufe 1 und nicht 2. Unter 50 bis 35 ist 2 und nicht 3 usw.<br> :date: __2021-06-13 11:37:52__
+
 > Läuft aktuell etwas besser.<br> :date: __2021-06-10 19:10:10__
-
-> Eine Anmerkung: Ich weiss, es ist schwierig, bei der Größe z.B. unseres Landkreises Göttingen (Höhe 150 m bis 865 m, Ost/West- Ausdehnung 80 km) eine detaillierte Wettervoraussage oder Unwetterwarnung zu geben. Aber wenn Nina sich den ganzen Tag mit Warnungen meldet, im Harz könnte ein Gewitter mit Orkanböen auftreten, kann das für Bewohner in Ortschaften kurz vor Kassel bei schönstem Wetter nur Kopfschütteln hervorrufen. Deshalb wäre es schön, wenn Gebiete noch regionaler unterteilt werden.<br> :date: __2021-06-09 19:25:50__
-
-> Aktuell warnt sie(noch) aber ich kann nicht sehen in für welchen Ort/PLZ, da es nicht in der App angezeigt wird...ein Update wäre super damit alles wieder funktioniert wie es soll...<br> :date: __2021-06-05 15:37:07__
-
-> Eine Warnung ist als Notification zu hören und kurz zu sehen, verschwindet nach Entriegeln des Geräts aber sofort wieder. Antwort: Das bezog sich auf eine Unwetterwarnung gestern in Trier, Gerät war nur mit WLAN verbunden. Mehr kann ich nicht testen, bisher gabs keine weiteren Meldungen.<br> :date: __2021-06-05 15:08:44__
-
-> Den Alarmton habe ich in den Einstellungen runter geladen, jedoch bis heute nicht gehört. Es wird lediglich der Standard-benachrichtigungston benutzt. Bei wichtigen Meldungen schlecht, da dieser schnell überhört wird. Unter Android 9 funktionierte der Alarmton noch.<br> :date: __2021-06-05 11:39:39__
-
-> In der aktuelle Version bug: die App verbindet sich mit server nicht in wifi Netz. Bei ausgeschaltem wifi alles ok.<br> :date: __2021-06-04 21:08:07__
-
-> Hat bei mir die ganze zeit super funktioniert und ich hab sie für auch immer für die Corona Regeln in meinem Ort verwendet. Jetzt funktioniert garnix mehr... mega schade<br> :date: __2021-06-04 19:43:57__
-
-> Die App aktualisiert sich nur noch im Handynetz, im Wlan funktioniert es nicht.<br> :date: __2021-06-04 19:36:47__
-
-> Nutze ein Samsung A90 und auch ich muss das WLAN ausschalten damit ich Anzeigen bekomme. Wie kann ich das ändern?<br> :date: __2021-06-04 19:21:39__
-
-> Die App lässt sich nicht mehr über WLAN aktualisieren. Bekomme da leider gar nichts mehr angezeigt, außer meine Orte.<br> :date: __2021-06-04 15:59:31__
 
 
 
@@ -238,25 +238,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="2_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 2 reviews"/>
 </p>
 
-> Ich bin momentan ziemlich enttäuscht. Eigentlich eine gute Idee. Aber seit Wochen läuft es unrund und ich fühle mich alteingesessen. Ich kriege Meldungen aber die App ist dann ohne Ende am Laden und nichts passiert.<br> :date: __2021-06-09 22:04:29__
+> Nicht mehr zu empfehlen. Am Anfang war sie ja noch ganz gut, aber jetzt nervt sie nur noch mit Corona-Meldungen. Die Wetter-Warnungen erscheinen als Pop-Up, aber nicht mehr als Hinweis in der App. Ich wünsche mir, dass ich die Warnungen auch rückverfolgen kann. Den Corona-Überbau, kann man unter einem Info-Ordner verschwinden lassen. Wofür gibt es eigentlich die Corona App? Und dass Meldungen verschwinden, wenn sie nicht mehr aktuell sind halte ich für einen Witz.<br> :date: __2021-06-21 10:20:55__
 
-> Seit Monaten bekomme ich keine Benachrichtigungen mehr. Egal ob Coron oder Sonstiges. Also da kann ich sie gleich Deinstalieren.<br> :date: __2021-06-09 16:14:41__
+> Grundsätzlich gute App. Leider werde ich nicht mehr gewarnt. Weder durch ein Signal, noch durch eine entsprechende Nachricht. Dies ist meiner Meinung nach nicht Sinn der Sache...<br> :date: __2021-06-20 11:42:24__
 
-> Die App warnt immer vor Gewitter und das kommt gar keins oder manchmal so ein ganz kleines davor muss man doch nicht immer gleich übertrieben warnen<br> :date: __2021-06-09 15:50:01__
+> Sie hat zwar gestern bei dem Unwetter gewarnt und das wars. Keine Anzeigen auf Gefahren, sie läd und läd. Nur es tut sich nichts. Habe sie neu installiert, das gleiche<br> :date: __2021-06-20 07:53:50__
 
-> 8 GB Speichernutzung, das schafft keine andere App und das mit imensem Abstand. Womit müllt ihr den Speicher so voll. Doch mehr Überwachung als Warnung...<br> :date: __2021-06-07 18:24:47__
+> Seit Mai keine Aktualisierung bei Corona, andere Warnungen (zB Unwetter) werden gar nicht angezeigt. Eine Reaktion auf meine Mail erfolgt nicht. Schade. So nutzt die App = 0. Das war mal besser. Nur deshalb noch 2 Sterne.<br> :date: __2021-06-20 07:46:07__
 
-> Die App war mal gut. Seit kurzem kommen aber nur noch Push-Nachrichten - sobald man die Details dazu anschauen möchte, landet man bei einer Dauer-Sanduhr und es geht gar nichts mehr. sehr schade<br> :date: __2021-06-04 22:28:41__
+> Schade ich bekomme überhaupt keine Benachrichtigungen. Weder vom Ton her noch von der Anzeige. Schade... :(<br> :date: __2021-06-19 23:22:18__
 
-> Die App ist auf meinem Samsung S10 installiert. Seit Beginn der Nutzung wurde ich nicht einmal gewarnt. Ich habe alle Einstellungen überprüft, die App auch schon de- und neu installiert, alle möglichen Tipps gelesen, aber das bringt alles nix. So ist sie nutzlos!<br> :date: __2021-06-04 15:11:43__
+> Ansich gute App und gute Übersicht aber ich habe in den letzten 3 Stunden über 10 Benachrichtigungen erhalten über das gleiche nur das immer die Gebiete geändert wurden einfach sinnlos das immer wieder eine Benachrichtigung kommt.<br> :date: __2021-06-19 18:31:06__
 
-> Leider keine Informationen abrufbar (mehr). Samsung S10, Android 11.<br> :date: __2021-06-04 14:34:23__
+> Wetterwarnungen sind ja gut, aber man sollte in Zukunft doch besser zwischen Unwetter und harmlosen Wetterleuchten unterscheiden. Ja, auf dem Niederschlagsradar meiner WetterApp sah es auch übel aus, aber das darf so nicht bleiben. Da liest man etwas von Wassermassen und 2 cm Hagelkörnern und in Wirklichkeit fällt nicht ein Tropfen, sondern nur leuchtende Wolken und etwas Donner... Ändern sie wenigstens die Texte zu den Gefahren, wenn schon die Warnung bleiben muss.<br> :date: __2021-06-19 14:30:23__
 
-> Leider immer noch keine Warnung. Nicht eine einzige. Beim Öffnen der App findet man sie, aber keine Push. Diverse Einstellungen vorgenommen, anscheinend noch nicht die Richtige gefunden. Schade....<br> :date: __2021-06-03 19:07:16__
+> Ich finde die app eigentlich sehr hilfreich aber erstens werde ich selten sehr selten gewarnt vor Besonderheiten und zweitens irritiert mich due Kennzeichnung von der infektionsgefahrenstufe da finde ich muss eine Einigkeit her den wenn ihr schreibt 2 und wir im Radio hören 1 Stimmen die Anweisungen mit Veränderungen ja nicht überein und das ist schon sehr irreführend. Der nur 2 Sterne<br> :date: __2021-06-19 10:18:27__
 
-> An sich ist die App ganz gut und verständlich nur was mein Problem ist die App zeigt die 7 Tage Inzidenz aber nicht die Werktage der Inzidenz. Bedeutet im endeffekt das die Corona Regeln überhaupt garnicht gelten die da stehen. Z.B. da stand es gelten keine Ausgangsbeachränkungen weil die Inzidenz unter 100 war also war ich nach 22 Uhr noch draußen und Polizisten halten mich an und sagen es gilt ausgangsperre als ich ihnen die App vorgezeigt habe sagten sie die Ausgangsperre besteht trotzdem.<br> :date: __2021-05-31 23:21:01__
+> Leider hat sie mir eine akute Trinkwasser Warnung nicht angezeigt 😕<br> :date: __2021-06-18 16:16:42__
 
-> Leider im Bereich Corona Regel fehlerhafte Angaben. Ich beziehe mich auf den LK Kaiserslautern.<br> :date: __2021-05-28 19:34:29__
+> Warum verbraucht dieses App 1,5 GB ?? Für ein paar Warnmeldungen??<br> :date: __2021-06-15 23:23:56__
 
 
 
@@ -266,24 +266,24 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="1_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 1 reviews"/>
 </p>
 
-> Es wird mir angezeigt, dass die App meinen Standort nicht finden kann, daher werden mir gar keine Informationen angezeigt. Wie schon geschrieben, obwohl ich aber meinen Standort im Smartphone angeschaltet habe und es ja die letzten Monate bisher sehr gut funktioniert hat. NT: Ich kann jetzt seit mindestens einer Woche keine Informationen mehr erhalten, daher bin ich ziemlich ratlos. Und das obwohl ich schon wegen der Corona App meinen Standort ständig angeschaltet habe.<br> :date: __2021-06-11 07:44:59__
+> Typisch unsere Behörden. Viel Stress, viel Bürokratie und möglichst hohe Kosten bei Minimalisten Nutzen. Gestern Sturm und Überflutung und was sagt die App? Corona vom Oktober 2020. Fast ein Jahr null Update. Kann man nicht Mal ein Haftungsgesetz für Behörden erlassen, das die strafen direkt an die Bürger auszahlen muss?<br> :date: __2021-06-21 10:31:54__
 
-> Corona Informationen vom 17.12.2020? Leider sind wir schon im Juni 2021... habe sie wieder deinstalliert!!<br> :date: __2021-06-10 21:31:32__
+> Was nützt so eine App wenn sie dann auf älteren Android Versionen auf einmal nicht mehr zu gebrauchen ist. Jetzt nur noch auf Android 6 und höher. Ich habe 4.4 und sie hat da mal funktioniert. Deswegen ein neues Gerät zu kaufen und ein funktionierendes zu entsorgen finde ich keinesfalls nachhaltig. Da sollt man schon auch bissel umdenken.<br> :date: __2021-06-21 09:35:17__
 
-> Leider ist die App für mich nicht mehr nutzbar, weil sie alle Orte grundsätzlich als Ort außerhalb Deutschlands definiert, die dann nicht hinzugefügt werden können.<br> :date: __2021-06-10 18:34:07__
+> Monatelang keine Warnungen! Habe die App seit über einem Jahr, egal ob Probealarm, Gewitter, Corona, Bombenfund. Lebe mitten im Ruhrgebiet und habe mehrere Städte hinzugefügt, aber erst einmal eine Warnung bekommen, kurz nachdem ich die App mal wieder gestartet habe. Jetzt klappt das wenigstens, dafür neue Probleme: Ich bekomme 9 mal die gleiche Hitzewarnung, vermutlich einmal für jede Stadt. Folge: Benachrichtigungen deaktiviert (nervt vor allem auf der Smartwatch auf der Arbeit).<br> :date: __2021-06-21 08:36:26__
 
-> Leider ständige Meldung über: Standorteinstellungen fehlerhaft. Ich bekomme aber Standortspezifische Warnungen - hä??? Deinstalliert und zu Katwarn gewechselt. Die läuft ohne Probleme!<br> :date: __2021-06-10 09:12:01__
+> Die App war einmal gut, die Betonung liegt auf war. Seit langer Zeit warnt die App nur noch vor Corona, andere Meldungen gibt es anscheinend nicht mehr. Heute gibt es z. B. Unwetterwarnungen vor schweren Gewittern, in der App Fehlanzeige. Deshalb von mir keine Sterne. Aha, ohne Stern kann man wohl nicht posten, dann halt einen.<br> :date: __2021-06-20 17:57:36__
 
-> Die Meldungen kommen unzuverlässig<br> :date: __2021-06-10 08:06:30__
+> diese app ist einfach nur schrottig. corona aktualisierung vom 20.10.2020 sagt alles....minus 1 sternchen<br> :date: __2021-06-20 13:00:25__
 
-> Andauernd werden Warnmeldungen heraus gegeben, aber die App lässt sich nicht öffnen. Das kann nicht Sinn der Sache sein!<br> :date: __2021-06-09 15:34:27__
+> Diese App zeigt keine Katastrophen. Es ist eine<br> :date: __2021-06-20 12:57:22__
 
-> Beim Öffnen der App "zittert" alles und sonst passiert nichts<br> :date: __2021-06-09 07:03:16__
+> Das einzige was ich sehe, sind Coronainformationen. Oben in der Leiste bekomme ich amtliche Unwetterwarnungrn und wenn ich in der App nachschaue: Nur Corona. Uralte Meldungen.<br> :date: __2021-06-20 08:41:20__
 
-> Kann doch nicht sein das alle 10min Alarm kommt für selben Kreis. Seit Tagen ständig Alarm für bisschen Regen? Klar woanders Land unter, aber das +/- 50km???<br> :date: __2021-06-08 19:37:55__
+> Leider bekomme ich überhaupt keine Meldungen mehr angezeigt. Gerade diese Teinkwasserwarnung für Oberhausen wäre wichtig gewesen. Aber Nina schläft. Hab gerade extra alle Einstelungen überprüft. Laut denen soll die Warnung aufpoppen. Aber leider nichts.... So ist die App sinnlos.<br> :date: __2021-06-20 07:33:32__
 
-> War einmal richtig gut,jetzt jedoch völlig unnötig. Keinerlei Wetterwarnungen mehr nur noch das Coronageschwurbel. Zudem werden Warnungen ohne Ende angezeigt aber es passiert nichts, man möchte meinen das die ganzen Meldungen überhaupt nicht stimmen<br> :date: __2021-06-08 18:13:46__
+> Draußen geht die Welt unter und diese App spielt das Schweigen im Walde. Keine einzige Warnung ⚠ wieder mal nicht ausgelöst. Die App ist absoluter Müll !! Gut das es verlässlicher gibt sonst wäre man verraten und verkauft. Selbst der eine Stern ist übertrieben. 5 Minussterne wäre zutreffend.<br> :date: __2021-06-20 03:18:30__
 
-> Ich nutze diese App schon seid ein paar Jahren und fand sie sehr praktisch. Allerdings geht es in dieser App fast nur noch um Corona... Obwohl ich die Push Mitteilungen bezüglich Corona Deaktiviert habe kommen diese weiterhin. Da ich alles um Corona nicht mehr sehen , hören usw. kann habe ich diese App erstmal Deinstalliert . Wenn der ganze Irrsinn mal vorbei ist werde ich mir diese App mal wieder ansehen . Update: Heute nochmal installiert und wie gehabt es geht nur noch um C..... Nein Danke<br> :date: __2021-06-08 10:56:42__
+> Schrott! Wie fast alles, wo der Staat und die Deutsche Bürokratie ihre Finger im Spiel haben! Im Staat und vom Staat leben, lässt es sich gut für diese Leute. Was schaffen muss man fast nie! Die App ist Ausdruck dessen! Nicht mal einfachste Standortsuche bekommt dieser Müll von Applikation auf die Kette! Sucht ewig und findet nix! Völlig unbrauchbar... Zum kotzen, dieses Land und seine Ministerien...<br> :date: __2021-06-20 01:29:15__
 
 

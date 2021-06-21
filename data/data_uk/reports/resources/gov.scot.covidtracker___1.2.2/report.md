@@ -167,6 +167,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="4_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 4 reviews"/>
 </p>
 
+> Not good<br> :date: __2021-06-12 12:34:36__
+
 > Good app<br> :date: __2021-03-29 22:40:54__
 
 > Good helpful app<br> :date: __2021-02-23 17:24:21__
@@ -184,8 +186,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Useful<br> :date: __2021-02-12 16:43:23__
 
 > Very important app very good<br> :date: __2021-02-07 17:27:01__
-
-> Excellent. Many thanks for making this app which keeps us all safer and aware.<br> :date: __2021-01-27 22:28:42__
 
 
 
@@ -223,8 +223,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
-> not willing for a computer to tell me to isolate so i cannot use this app. how does a computer know if i might have/have not got covid 19 bug?????<br> :date: __2021-06-09 09:38:36__
-
 > Keeps telling me a new version is available - go to app store, no update option, just uninstall or open<br> :date: __2021-06-06 13:29:11__
 
 > Absolute rubbish no information whatsoever NHS app for England far superior<br> :date: __2021-05-16 13:59:20__
@@ -243,6 +241,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > I was quite naive and feeling safe because I hwe receuved zero contact alerts, so was blissfully confident that I was OK. Until today that is, when I discovered that a) there was an update that was not automatically applied, b) there are so many criticisms of the app and c) so many complaint communucations to the developer remain unanswered.... Is the app a complete con? Is it just to calm the naive and stupid like me. I had not encountered any issues, but then I didn't expect to.. I was safe???<br> :date: __2021-02-14 01:07:48__
 
+> There is no way of knowing if it iseven working. Updates saying everything is fine you haven't been in contact with a positive person would be nice.<br> :date: __2021-02-12 13:30:55__
+
 
 
 #### 1-star reviews
@@ -250,6 +250,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> Doesn't work in England. Total waste of time.<br> :date: __2021-06-16 08:36:42__
+
+> Got my test results as( -) Negative and got sms with some code to enter in app but there is no option in the app that I can punch in as tested negative I guess app is only ppl who has positive test results<br> :date: __2021-06-15 15:34:06__
+
+> You do not need location on for Bluetooth to work this app is a con.<br> :date: __2021-06-15 06:27:31__
 
 > 100% useless for me, as a truck driver i am in England more during the week and there is no sync with anything in England, needs a vaccination status as more will need proof of status in the coming months, I have 3 events in October that require status yet the Scottish government deem this not necessary, if I am not allowed in these events due to the Scottish NHS not being any use whatsoever in providing DIGITAL PROOF AT WILL then I expect the Scottish government to refund my monetary losses...<br> :date: __2021-06-10 16:31:31__
 
@@ -264,11 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Totally unclear whether it is doing anything<br> :date: __2021-05-20 23:53:37__
 
 > I've never been able to use this app, as it's incompatible with phones made before ~2017, which is quite disgusting given the reason for its existence.<br> :date: __2021-05-13 17:33:32__
-
-> Don't think this app works as good as it does any more. When I used to switch off Bluetooth I got a notification now it doesn't do anything<br> :date: __2021-04-28 18:13:57__
-
-> Waste of time<br> :date: __2021-04-27 14:25:19__
-
-> Truly ridiculous that there is a different app for Scotland. I need to have the England one as well and deactivate the other one every time I cross the border. Proof that devolution is a total waste of time and money.<br> :date: __2021-04-20 11:47:01__
 
 

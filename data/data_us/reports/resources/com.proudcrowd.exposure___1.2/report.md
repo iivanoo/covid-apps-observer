@@ -144,6 +144,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
+> Tivoli<br> :date: __2021-06-19 17:33:27__
+
 > Cool<br> :date: __2021-06-08 13:33:56__
 
 > I could not understand in minute meet me super 8 in brooklyn center today at we 12:00pm my phone rrquyqo are yqw if you done now I can he lol p you.<br> :date: __2021-03-17 11:00:37__
@@ -161,8 +163,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Love it<br> :date: __2021-01-13 23:48:06__
 
 > Helpful💕⁦♥️⁩👏🙏👏🤗<br> :date: __2021-01-08 05:16:19__
-
-> Good<br> :date: __2021-01-02 23:36:05__
 
 
 

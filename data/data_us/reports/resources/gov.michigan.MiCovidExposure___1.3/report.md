@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Thank you for being alert on this particular virus that's been going around. But now I also see it over there in Hong Kong as well. Please keep things updated as much as possible for this virus thank you<br> :date: __2021-06-15 15:46:38__
+
 > I'm very happy with the app and yes I have uninstalled it because I have been working on getting my second shot 💉 for the covid-19 I've been tested for it 7 times now and been negative for it every time !<br> :date: __2021-05-25 21:32:18__
 
 > I am vancited<br> :date: __2021-05-24 12:43:57__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I like better than first one.<br> :date: __2021-04-18 14:29:40__
 
 > Very good 👍 love it<br> :date: __2021-04-11 16:43:36__
-
-> Good to know<br> :date: __2021-04-04 05:01:49__
 
 
 
@@ -238,6 +238,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Doesn't work anymore. Says it hasn't checked for exposure in over 4 months, despite that option being always enabled and my Bluetooth being always on.<br> :date: __2021-06-20 14:05:45__
+
 > Glad our great state is so great at throwing away our hard earned money. Please explain how the developers name is "State of Michigan". The State of Michigan is not just a person or a government.<br> :date: __2021-06-07 22:32:19__
 
 > MADE FOR POPULATION CONTROL<br> :date: __2021-06-06 19:07:04__
@@ -255,7 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Hail Whitless, can't wait until she's voted out<br> :date: __2021-05-21 00:45:12__
 
 > Stops checking for exposure and doesn't start again. Yes, I've fixed all the settings.<br> :date: __2021-05-20 15:02:27__
-
-> Stopped checking back in February. Luckily I am now fully vaccinated.<br> :date: __2021-05-19 20:05:56__
 
 

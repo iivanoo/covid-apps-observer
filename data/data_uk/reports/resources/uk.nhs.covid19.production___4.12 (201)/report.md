@@ -147,25 +147,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> Overall great with a few teething issues. At the moment the one-off questionnaire is preventing me from logging anything - I don't believe I've ever had Covid, but none of the options are tailored for this.<br> :date: __2021-06-11 12:54:15__
+> Fantastic app a lots of support and caring<br> :date: __2021-06-21 10:06:25__
 
-> This is very helpful<br> :date: __2021-06-11 12:47:31__
+> easy to use<br> :date: __2021-06-21 09:30:56__
 
-> Brilliant app, does the business<br> :date: __2021-06-11 11:21:23__
+> Does what it neefs to.<br> :date: __2021-06-20 19:08:04__
 
-> Convenient hope the spoons waiter stops pestering me now<br> :date: __2021-06-11 11:10:35__
+> I like it. It does the job it's suppose to do. Mini-Covid-protection in your pocket. No need to sign-in in the pub.<br> :date: __2021-06-20 16:10:08__
 
-> Quick and simple<br> :date: __2021-06-10 16:21:50__
+> very well controlled service and very good with the disinfecting.<br> :date: __2021-06-20 15:24:37__
 
-> easy to use<br> :date: __2021-06-10 15:17:09__
+> easy and simple<br> :date: __2021-06-20 15:07:16__
 
-> Lighting fast scan...I mean..ZOUNDS!.. Couldn't believe the speed..whooooosh!!!!!;;!<br> :date: __2021-06-10 14:38:20__
+> works as expected<br> :date: __2021-06-20 15:06:57__
 
-> good app all should have<br> :date: __2021-06-10 14:16:37__
+> works well<br> :date: __2021-06-20 14:54:13__
 
-> covid is a scam<br> :date: __2021-06-10 13:45:28__
+> So good<br> :date: __2021-06-19 17:53:55__
 
-> Good<br> :date: __2021-06-10 13:07:27__
+> Let's hope it works!<br> :date: __2021-06-19 17:14:20__
 
 
 
@@ -175,25 +175,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
 
-> Much improved although still sucks the life out of my battery.<br> :date: __2021-06-10 18:17:40__
+> The barcode stopped working.<br> :date: __2021-06-20 13:13:16__
 
-> scared to be check wrong place and take me crazy.thanks<br> :date: __2021-06-07 19:28:40__
+> OK app, sometimes I get random messages<br> :date: __2021-06-19 18:51:38__
 
-> Excellent<br> :date: __2021-06-07 17:02:26__
+> Easy-to-use, turn Bluetooth on, point at QR code and it's done. Using Bluetooth is a bit of a power drain but, if it helps in the fight against Covid-19 it's a small price to pay (a battery charge). Tip: To conserve power, turn Bluetooth off once home and only restart it when next entering an establishment with the QR code check-in or enclosed public area.<br> :date: __2021-06-19 05:51:41__
 
-> Easy to use and useful for reference<br> :date: __2021-06-06 13:15:22__
+> great<br> :date: __2021-06-17 14:18:15__
 
-> Simple to use, but can't see my jab record!<br> :date: __2021-06-06 11:10:58__
+> Sound guidance<br> :date: __2021-06-15 16:47:37__
 
-> If everyone acted responsibly this app is a wonderful tool to enable us to return to some form of normality!<br> :date: __2021-06-06 10:53:39__
+> not bad<br> :date: __2021-06-15 14:41:47__
 
-> There is always room for improvement.<br> :date: __2021-06-05 21:06:11__
+> Terribly confusing<br> :date: __2021-06-15 14:29:19__
 
-> can drain the battery but important to use<br> :date: __2021-06-05 16:01:52__
+> A VERY USEFUL App!<br> :date: __2021-06-14 18:39:27__
 
-> The bee's knees<br> :date: __2021-06-05 13:42:09__
+> Seems to work fairly well. which is a first for an NHS it system<br> :date: __2021-06-13 23:22:41__
 
-> works a lot better now<br> :date: __2021-06-05 13:11:31__
+> Good as far as it goes, no facility to indicate whether vaccines have been received, would be useful to be able to register this as when 2nd vaccine was given I was told I could log it on the app.<br> :date: __2021-06-13 17:53:36__
 
 
 
@@ -203,25 +203,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
-> Freezing, I'm getting the app trying to open but shows its frozen on loading in a notification. Edit: after taking the steps carried out, the app is still putting the loading notification on the home screen at the top of my phone. I've now sent an email off as its still not fixed after the update.<br> :date: __2021-06-10 23:26:21__
+> Notification -> click -> nothing<br> :date: __2021-06-20 23:49:21__
 
-> Not related to certification! Few venues display QR codes<br> :date: __2021-06-09 12:19:41__
+> I do regular lateral flow tests, but I don't get a reference number to enter on this app, so what is the point of having the app to report a result?<br> :date: __2021-06-20 19:43:23__
 
-> Seems good. Does a good job at the QR<br> :date: __2021-06-08 18:10:50__
+> Can we *please* have an option to turn off the 'Exposure notifications'? I don't need to have the app scanning when I'm sat at my home office desk for 14 hours every day! EDIT: Thanks for not reading my post. Waste of time<br> :date: __2021-06-19 22:05:25__
 
-> Hi Both my partner and I have downloaded this app. Mine is good, but my partner keeps getting the message " incorrect security number"! and then receives numerous security numbers one after the other Any help would be good. Jackie<br> :date: __2021-06-08 11:46:23__
+> I've just read an article saying that the uptake of this app increased when the option to record your vaccination was introduced, but I can't find it anywhere. Its an obvious addition as the little paper card is easily damage or lost.<br> :date: __2021-06-19 09:47:34__
 
-> Great staff..Appointments easy enough when you can get through..just don't agree shouting your information through the intercom at the door, while other patients or public are also waiting around you. personal information should remain personal, maybe a booking in system outside whilst we're not allowed in during these times.<br> :date: __2021-06-08 10:29:33__
+> Hardly use it now..No one checks if you use it now .<br> :date: __2021-06-18 18:02:11__
 
-> More people need to take time to check in.<br> :date: __2021-06-07 13:30:04__
+> Still will not let me upload test results. Hopeless.<br> :date: __2021-06-17 16:06:39__
 
-> doesn't always pick up, very annoying 🙄<br> :date: __2021-06-07 12:37:13__
+> Great app it has saved a lot of people but I'm 12 and do lateral flow tests for school and this app said pegi 3 but when I open the app it says are you over 16? But it is a good app i think<br> :date: __2021-06-16 21:15:45__
 
-> Hello - is it me you're looking for?<br> :date: __2021-06-07 09:05:13__
+> requires an English postcode which means those travelling from Scotland or other home nation unable to sign up. if the 2 covid apps could be compatible that would be much more sensible.<br> :date: __2021-06-16 12:46:30__
 
-> it's ok<br> :date: __2021-06-06 20:55:03__
+> helpful is the server speaks English which ours didn't . very difficult to understand<br> :date: __2021-06-15 19:17:24__
 
-> Only used once.<br> :date: __2021-06-06 15:37:12__
+> I have just uninstalled the App after having installed when it originally became available. My phone was running short of storage space and affecting the function of other Apps. It seems to be telling me via my laptop that it is still installed although it is not visible on my phone and all other Apps are now working again. Maybe the online system is not sync with phone software.<br> :date: __2021-06-15 17:42:49__
 
 
 
@@ -231,25 +231,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
-> Got an alert yesterday that I have been in close contact with someone with Covid but doesn't tell me where or when. This would be helpful information so I know whether to isolate just myself or others as well who may have been with me. It would also let me know if I was at the same venue at the same time as the person. If it was just the same day, not time, I wouldn't need to isolate<br> :date: __2021-06-11 10:20:02__
+> Keeps loading and notifying me its loading. Havent really had any use out of it<br> :date: __2021-06-20 13:36:28__
 
-> Do question how accurate the 2 metre limit is. Have been told to self isolate and the only potential positive contact is a neighbour who would be more likely to be 3 metres plus away<br> :date: __2021-06-10 08:09:34__
+> Not designed for tourism, won't let tourists not resident in England and Wales from using. See update from NHS England, however perhaps if the app gave this advice, as opposed to baulking at non English or Welsh post codes. This might be better. OK put in the first part of my holiday post code, still didn't accept that as being a rural area the post code covered 3 council areas, so had to follow link to .gov.uk site and plug in the full postcode to find which applied to me.<br> :date: __2021-06-19 20:21:14__
 
-> You can only use if you live in the UK<br> :date: __2021-06-09 17:41:13__
+> Having to turn on Bluetooth and location constantly is such a hassle. Prefer the Spanish system!<br> :date: __2021-06-19 14:08:17__
 
-> Just a general question: I started going casual working and yhe company requires to take rapid covid test and record it on this app. But I can only add lateral flow test, but not the rapid test. Could someone explain this to me?<br> :date: __2021-06-07 00:09:10__
+> Well it worked to a degree. But too many users just turn off blue tooth. It also told me to isolate this last week. I walked along a river bank and sat in a pub garden metres away from anyone. The claim that it can detect presence under 2 metres is not factual. It's dodgy science and best guess. It also doesn't take into account where you are and surroundings. These issues are why it's getting turned off or uninstalled by many.<br> :date: __2021-06-19 01:04:56__
 
-> Rubbish to many issue's registering driving license plus vedio should not need all that. Won't bother now<br> :date: __2021-06-06 21:52:46__
+> I've just updated my app and now I'm missing the section that allowed you to access the daily deaths, infection, and vaccination information which I found useful<br> :date: __2021-06-18 11:07:26__
 
-> After an update on 4 June the app constantly indicated "App Loading". Uninstall+re-install fixed this. However all of my location tracing has been lost.....not good<br> :date: __2021-06-06 21:20:11__
+> scanning keeps turning it self off<br> :date: __2021-06-17 12:38:23__
 
-> Why doesn't the app show my vaccine status?<br> :date: __2021-06-06 11:47:13__
+> My partner other day went on the app to check it and said had to isolate for 8 days but 2 day which makes it 10 days he didn't know about it until looking so made him do a lateral flow test thank god was negative how on earth do it do that if my partner has been following the guidelines hands face space<br> :date: __2021-06-16 23:48:39__
 
-> doesn't work properly<br> :date: __2021-06-05 10:17:14__
+> I and many friends have received numerous alerts throughout the pandemic, all isolated multiple times without a single positive case across over 20 self isolation notifications! It's ludicrous that if you visit a venue at 10am and someone who later tests positive visits at 11pm you're asked to isolate - many do not know this is GUIDANCE and have had to take time off work for a significant financial penalty<br> :date: __2021-06-16 12:47:42__
 
-> needs persistence to use!<br> :date: __2021-06-04 11:17:14__
+> I've been using this on my phone - not available for slightly older tablet. I report results 2x a week for my job but that's not possible - instead it's a separate log in to gov.uk. Advice is poor, and the guidance on symptoms is out of date, failing to cover what we know of the so-called delta variant. Honestly, it looks OK but does so litlle and that not well. This is not the world beating test & trace app promised and paid for - it's primarily a second rate surveillance app and little more.<br> :date: __2021-06-16 00:39:55__
 
-> It worked fine at first but since turning my Bluetooth off at home I'm getting constant error messages saying it's stopped working. Tried uninstall/ reinstall and no change. Can't access the app at all now.<br> :date: __2021-06-03 20:49:46__
+> Only works with an English or Welsh home postcode, so pointless for me and every other person in London on business or holiday<br> :date: __2021-06-15 15:45:00__
 
 
 
@@ -259,24 +259,24 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> It's been 'installing' for over an hour now. My battery is draining and it isn't even up and working yet<br> :date: __2021-06-11 12:24:05__
+> Not working, places not showing scan code, waste of time effort<br> :date: __2021-06-21 06:10:28__
 
-> Without legal backing there's not much point to this. My employer says they know where my ping came from and that I wasn't close enough to need to isolate...... Not risking the rath of my employer to comply the isolation request.<br> :date: __2021-06-11 11:43:43__
+> Annoying and useless<br> :date: __2021-06-21 00:53:02__
 
-> My daughter has tested positive I have to isolate as I was in contact with her but yet t&t isn't showing anything total waste of Money!<br> :date: __2021-06-11 11:05:14__
+> Just another money game for the government.<br> :date: __2021-06-20 21:46:09__
 
-> Great idea but missing so much. I was visiting my partner in hospital mat ward so need to do regular literal flow tests and was told to log the results on the app but you can't it only allows you to log positive tests! If you can scan QR codes for venues why can't this app scan the code on the test, better yet scan the code and take a picture of the negative results as proof. You can log all results on the gov website and get text confirm so the system is in place but not linked to the app why<br> :date: __2021-06-11 07:03:24__
+> Son received positive result, entered unique number and his app told him to self isolate for 10 days. 4 days later and none of the other 3 people in the same house have had a notification, we're all still green. All apps are set to contact trace on, all settings on phones set to allow notifications for covid app. What's the point of this app if it doesn't notify anyone? Even spoke to NHS contact who phoned my son up within 2 hours of inputting the code giving our names and numbers?<br> :date: __2021-06-20 20:52:42__
 
-> 4.5 rating with all these reviews??not to mention all the lies from this so called nhs app.its serco not nhs<br> :date: __2021-06-11 04:38:29__
+> Bluetooth issue everytime I switch this one whether my phone has it switched on or not. What a giant waste of tax payer's money on this app<br> :date: __2021-06-20 20:19:01__
 
-> Did not work<br> :date: __2021-06-10 16:47:56__
+> It's gone downhill - crashes everytime i need to check into a venue despite unistalling and installing.<br> :date: __2021-06-20 20:10:49__
 
-> Horribly buggy, gives me notifications that mean nothing and dissapear without trace when I click on them to see what they are. And the QR code scanner only works in perfect lighting, otherwise it just has a black screen<br> :date: __2021-06-10 15:28:18__
+> Have been told as I have entered restaurants, bars that it doesn't work in Wales so have to leave my details anyway.Please tell me I am not wasting my time scanning QR codes.<br> :date: __2021-06-20 19:00:45__
 
-> Doesn't accept my test result code.. would give this no stars if this option was available!<br> :date: __2021-06-10 15:07:40__
+> This is rubbish can't get the app installed. It's worse than Hampton Court maze<br> :date: __2021-06-20 16:39:19__
 
-> Shite app<br> :date: __2021-06-10 15:07:28__
+> Spyware. It collects data in the background. Do not install with any other apps by same author as potentially could act as binary dropper.<br> :date: __2021-06-20 15:32:59__
 
-> Doesn't tell u if u r next to sum 1 iv been in a building as a carer and 4 ppl had the virus and wasn't notified and covid had been registered<br> :date: __2021-06-10 14:31:18__
+> Alerts in the middle of the night to switch on Bluetooth when I am home sleeping. Had to isolate as my home office shares a wall with neighbours lounge who tested positive.<br> :date: __2021-06-20 15:00:17__
 
 

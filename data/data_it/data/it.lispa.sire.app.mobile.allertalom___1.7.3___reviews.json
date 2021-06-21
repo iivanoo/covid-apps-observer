@@ -1,5 +1,137 @@
 [
     {
+        "reviewId": "gp:AOqpTOHmWgHXf8YNddvMI6fk9XUusQLufcXDMm0t2-whKNwjwKmZZ3lJC-mpJTuc83OFRsTkxukJY8oAh1Ib1Q",
+        "userName": "Rosita",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLZSQEe-K45wJt6CL5kr-lihTem4fCZlzn-0yCxIY",
+        "content": "Non funziona, disinstallata...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-20 09:31:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHSdtRE1Lh9iQz4H4p9q7vLJ8YTrDK0yEOMuLIDGNjphh2BO7csMHr6u8lE40iSlyvSmUX8bFLiKeOz-A",
+        "userName": "Luis Brambilla",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyWuYxd1fHB9b8taqfIjhql9N5S1vc1mSFX7V-z=mo",
+        "content": "Arrivano le notifiche e quando si tenta di aprirle dice servizio non disponibile",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-06-19 14:10:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEq1b6j2xU7lmOX15IVp3EQdiztUxR8XI_Pbqq1xHHuD3i--_flNLQcYTsDGsLUrlafg2YfetVHLkkJMA",
+        "userName": "Mauro A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPizKW_V6b4nb44-Cjpn0xMW5TZw7hBdZ-01MOGA",
+        "content": "Sempre stata un po' zoppicante ma adesso nn si apre nemmeno pi\u00f9. Mi \u00e8 arrivata una notifica, la avvio e... servizio attualmente nn disponibile, riprova pi\u00f9 tardi!! Penosa.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-19 13:56:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFWnFSvMBLdt5s7X9FVwYGXdHbThsIhi7D-07UlzpOzM8QQS9WlJXCUMBm09ZZDXbXhxhSmCeaf0qZX5w",
+        "userName": "roby bra",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjnjrrsktezHb5KRCI2ZLTyuncG9XcriHMWkZMZ",
+        "content": "Arrivano le notifiche di allerta e quando si clicca sulla notifica non mostra niente solo pagina bianca",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-19 13:40:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGk0_0oAVCRVT5pF15F_v32Mbvg2EpbZdVAt2WKh1htVZHws2RvsW7lm_t50yTqtgnDQuv8ur5s2EA_xA",
+        "userName": "Elena Oliva",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz3KcyCkWgpQVWEFN_WCOWPGhgFKmXb65f3dbe-=mo",
+        "content": "Sistematela!! O non si apre o quando si apre \u00e8 poco chiara...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-19 13:40:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGkCdOT9Y7K0I21pP1g_qyuyRTYLwJPFLyoyLjmsDAYuFnAUO103OeUzpH0ZmQguRbkTlUpeXJMwW8SoA",
+        "userName": "Io Me",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx2SExyOgK24E_gLo7f3uiBET8YwIDNS0nbc4Ct=mo",
+        "content": "App pessima e lentissima. Dati covid ormai inutili, nessuna possibil\u00e1 di teacciamento. Perch\u00e9 non c'\u00e8 la possibilit\u00e0 di segnalare un luogo dove se ne fregano di rispettare le norme? Parte allerta neteo ira che si apre e uno sta a leggere la pappardella da addetti ai lavori si \u00e9 gi\u00e0 beccato la grandinata sull'auto",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-06-19 13:37:51",
+        "replyContent": "Ciao,l\u2019obiettivo del CercaCovid \u00e8 calcolare il grado di rischio di contagio incrociando l\u2019analisi dei dati raccolti con altri dati a disposizione di Regione Lombardia, rafforzando cos\u00ec le tutele per tutti i cittadini!Porteremo il tuo suggerimento all'attenzione del gruppo di ricerca di medici e ricercatori che ha ideato il questionario.",
+        "repliedAt": "2020-04-29 15:40:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOGXsUo50i2wB8YkvWxI78QYVpwvNpviEoA_Ull5braZfcEz1aEpnwX8iDIz_1BEOp-3Gp9Bn4cIGL15og",
+        "userName": "Constantin Tino",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjGuSWwW2qoSPTM2rmC_Kn1AcN2V233ZD21A=mo",
+        "content": "Ottimo per informazioni sul pandemia",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.2",
+        "at": "2021-06-19 09:52:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHopeA5cziUXE6JAnJbS_Hf-jKxcSg8egW828WhrMz-eMo-oWRcOT_K2Ri_8Op-C9jUism4mgpe7EmD-Q",
+        "userName": "fausto lecobrestole",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyD-mpdH66_cxV10nOlji2yQfKCIrl3p5Va9XI3=mo",
+        "content": "Ciaet",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-16 10:40:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH65hliR69uv1jyGQ9VNMH7JvJI-XTlQto5pU4cxr55ePlpDEiHtIB02gowLFTQarv7Ui3xEglo5Yvd9Q",
+        "userName": "Federico Velludini",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxeSafnEbctXsrZQ97I5dQiegxM7gs5fBAUbkk=mo",
+        "content": "Non funziona, disinstallata e reinstallata ma non cambia nulla. Non mi da aggiornamenti disponibili. Mistero.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-15 21:45:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH-oG3ma827kVz8FhFHOYLNgheY5vyVrdLx5GGTY5M0YkWrs4r7Nxcy1x75URocDj6dVkKkYFyvFwg1RQ",
+        "userName": "loredana Oliva",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-5BAqpZQ10ApOl15ZN4xxSktBtPIJ71IMRWmH=mo",
+        "content": "Forse un anno fa andava bene, fare la domanda (hai fatto il tampone?) La app andrebbe aggiornata, visto che molte persone hanno gi\u00e0 avuto almeno la prima dose di vaccino.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-12 13:06:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFkSYpM4gRyViLVTAQ1N994wdeQQTRdg2zHOyAhTjjKKKZHxikX9JrFPhhYmEtlS9rYLPfsWMAE15wX5w",
+        "userName": "Ettore Cusimano",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy5X8RBr-9uQp2PBIKkJLkA_zeEkMzy2m7OqLBz=mo",
+        "content": "Purtroppo devo dire che, cos\u00ec com'\u00e8 impostata, con il discorso tampone, non ha pi\u00f9 senso. Dovrebbe essere aggiornata, vista l'enorme campagna vaccinale in corso, con l'effettuazione del tipo di vaccino somministrato.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-12 13:00:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFyhj_AUBWtXmKAaAQgd5a9OtWdwUMLpG-vWga6nv2-ZtMItTVUcdIG2jEcFj_lm2IKvCpX8sirpVjXnQ",
         "userName": "Gepps Mora",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxj4g7UM31TI8ABS5ir5jEf-jkGOfTP8gTGX0XO=mo",
@@ -533,7 +665,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiwW1e-obdzbwhA7S8Wfi9pph9wYR-7DBD7YceKfKc",
         "content": "Non funziona l'app non si apre e dice ; servizio attualmente non raggiungibile . Ho aggiornato l'applicazione, ma mi da lo stesso errore. Ho provato a disinstallare e reinstallare ma non funziona lo stesso. Forse non \u00e8 ottimizzata per android 11, il mio telefono \u00e8 un Samsung A40. Oggi ho provato ad aprire di nuovo l'applicazione e ha ripreso a funzionare.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-04-21 18:45:10",
         "replyContent": "Ciao Antonio, siamo contenti che l'app ha ripreso la sua regolare attivit\u00e0. Se hai bisogno di ulteriore assistenza scrivici a info.allertalom@ariaspa.it.",
@@ -4202,7 +4334,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg9cIY_bBYrdrkdj6Syz-vcyd_IkmQcHJ8guEvVOA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBjK-N1wbBzr34jJ9tWsV5ST7CzSUPLh5VIlpvzg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4920,18 +5052,6 @@
         "repliedAt": "2020-05-05 17:22:35"
     },
     {
-        "reviewId": "gp:AOqpTOH65hliR69uv1jyGQ9VNMH7JvJI-XTlQto5pU4cxr55ePlpDEiHtIB02gowLFTQarv7Ui3xEglo5Yvd9Q",
-        "userName": "Federico Velludini",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxeSafnEbctXsrZQ97I5dQiegxM7gs5fBAUbkk=mo",
-        "content": "Utile per le allerte meteo, funziona correttamente.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-30 15:58:08",
-        "replyContent": "Ciao Federico, grazie per averci ricontattato, siamo contenti di sapere  che il tuo giudizio sull'app sia migliorato!",
-        "repliedAt": "2020-04-30 16:21:51"
-    },
-    {
         "reviewId": "gp:AOqpTOE1LNXbLh-qEOpTUBvzy5iJgSDRPFUzVw61SeISEHsaOFUl07ZshdwzVlP42nPi2-DlaL_io6kMuNi7kw",
         "userName": "Aldo Galli",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GicCj5hlNgu4_u6yiuIbMr0b87_lJgBwh_ggu09l4A",
@@ -5062,18 +5182,6 @@
         "at": "2020-04-29 14:02:11",
         "replyContent": "Grazie per il feedback!",
         "repliedAt": "2020-04-29 14:45:19"
-    },
-    {
-        "reviewId": "gp:AOqpTOGkCdOT9Y7K0I21pP1g_qyuyRTYLwJPFLyoyLjmsDAYuFnAUO103OeUzpH0ZmQguRbkTlUpeXJMwW8SoA",
-        "userName": "Io Me",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx2SExyOgK24E_gLo7f3uiBET8YwIDNS0nbc4Ct=mo",
-        "content": "Se i dati covid inseritonon variano perch\u00e9 non c'\u00e8 la possibilit\u00e0 che restino memorizzati? Perch\u00e9 non c'\u00e8 la possibilit\u00e0 di segnalare un luogo dove se ne fregano di rispettare le norme di avere mascherine, controllo temperatura e tutto il resto?",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-29 13:56:41",
-        "replyContent": "Ciao,l\u2019obiettivo del CercaCovid \u00e8 calcolare il grado di rischio di contagio incrociando l\u2019analisi dei dati raccolti con altri dati a disposizione di Regione Lombardia, rafforzando cos\u00ec le tutele per tutti i cittadini!Porteremo il tuo suggerimento all'attenzione del gruppo di ricerca di medici e ricercatori che ha ideato il questionario.",
-        "repliedAt": "2020-04-29 15:40:21"
     },
     {
         "reviewId": "gp:AOqpTOGAcXaseGBVjQptmdJF1QFq3IZpuyU2VL7P_mNdGflsP8f26rqu5Q8UAliXwVxFwRdVe6NSbRMHklEbXQ",
@@ -5554,18 +5662,6 @@
         "at": "2020-04-26 21:54:31",
         "replyContent": "Ciao Franco, i dati precedentemente inviati non vengono memorizzati dal sistema, pertanto \u00e8 necessario che vengano compilati tutti i dati ad ogni invio. Per le allerte puoi modificare le notifiche dall'apposita sezione dell'app!",
         "repliedAt": "2020-04-27 10:15:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOGvkbEkfheBcJ_5YB-1oV39lopwbvuST4X7WYzNiNFRo9QyNCZo6DRx2HpieUS8EhPdSLOEDbljVgn5_Q",
-        "userName": "Pier Paolo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzBr-F2x5RzkgWJFbEdQIgoRC3SJvl4KkKoSFZog",
-        "content": "Ho installato l'app, compilato i dati richiesti, dopo qualche tempo ho ricevuto una notifica, provo ad aprire schermo bianco app bloccata, non capisco tutto ci\u00f2.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.6.0",
-        "at": "2020-04-26 20:01:48",
-        "replyContent": "Ciao Pier Paolo, se non riesci ad accedere alle notizie dalle notifiche ti suggeriamo di accedere alla sezione  info coronavirus dall'apposita sezione  avviando l'app!",
-        "repliedAt": "2020-04-27 10:17:55"
     },
     {
         "reviewId": "gp:AOqpTOHeSqnHhEK4EGl7hpsWwuVUKoarl-dzLay6iri15Tjd8mWeKX62n7B0NuG4I0xiguhUOn2g1lgTOoORQg",
@@ -8102,7 +8198,7 @@
     {
         "reviewId": "gp:AOqpTOHkk8rkgLPFfJdw9YU_8op3p5Bit6_bi_tLVcJ3Jd6Nb9A9-nCgBkiqsw7v9zJdRPbjy7ybjJCO1oKLxQ",
         "userName": "Hikko",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlJSz5SUr5YVfDmArjSH7D3vutKsry4aw9mPhjgcQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6tj1S_5F-vNkHEqZgyCKS6weaXIbUgk4ElP6MoIA",
         "content": "Per adesso funziona tutto a meraviglia.Comunque...bella idea quella di fare un'applicazione di questo genere. Sono soddisfatto : )",
         "score": 4,
         "thumbsUpCount": 0,
@@ -10370,7 +10466,7 @@
     {
         "reviewId": "gp:AOqpTOHIXXcKMAOkwvBs9J4e84lFdU5yvQXAEGfAgZc1YoNXS5hhwDMrvTAfJ2vD7YruLr0c6L7udI47ZrTaig",
         "userName": "Saeed Rahmani",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggun7heDOuYznCzjptWbE_rh6MBe6rSNt6jFBTP1ao",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhRx-2L53LRqqk5ZmRekVccIvkxUeRLqXoqJpwY_po",
         "content": "Do zero . \u00e8 pessimo non si pu\u00f2 nemmeno entrare \u00e8 una cavolata .",
         "score": 1,
         "thumbsUpCount": 0,
@@ -10658,7 +10754,7 @@
     {
         "reviewId": "gp:AOqpTOFFT6rwXVFruR8CCnjB07O3j9ggbz2HCMlyAFs8_bAhB6BvqGjycGgIabylNJYHaEEQzrbDnkidNfo4gQ",
         "userName": "Ilario",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh8zpDN3j-QZMzPijWGc4ah2aC4yiSRbFNRVDhoTA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjugMJjZ3PGziihTDcPfgnfkmT-UDbmdoh4CjRbqw",
         "content": "Vi do 4 stelle di incoraggiamento, dato che la parte covid e' una versione 1.0.... nonostante nessun errore apparente, non vengono riportati i valori precedenti (quando effettuato almeno un invio). Sembra una stupidata, ma se volete spingere la gente alla compilazione giornaliera, dovete almeno agevolarla. Altro discorso \u00e8 l'effettiva utilit\u00e0 del questionario, ma non sono un esperto; di certo al di fuori degli ospedali non si misura la febbre tt i gg se non si hanno sintomi!",
         "score": 4,
         "thumbsUpCount": 2,
@@ -11390,7 +11486,7 @@
     {
         "reviewId": "gp:AOqpTOFqa4XZ1qHoYgRdiqNoufvdjllsIGGkWr_Z7HOfvm97NJg22OBukgXHpWIQER-CXo6tnc7uZTM8bWWKKw",
         "userName": "Nadia Sol",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghw81x6jHtoVv2PtyICZaXWWGu7oA10or1-HlcOUg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjYe2cBduwBfTZZ4ZN0tKai-5iTLyGdkf8DeSfQBw",
         "content": "Utile",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11902,101 +11998,5 @@
         "at": "2020-04-16 17:28:14",
         "replyContent": "Ciao Fabio, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
         "repliedAt": "2020-04-27 08:38:57"
-    },
-    {
-        "reviewId": "gp:AOqpTOE6mE-HQJw0MfeG9hh5ouB-4d3piIUKjIfBQn4Bw3SUV5OxIC7bF0CxbCrHSOLGSVOu5mzrt9oRM5_gew",
-        "userName": "Gian Battista Visani",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvNE1ikwU1EvJIICSIqAZMUdPgh0V-KHVPoV_tQg",
-        "content": "Ottima e veloce",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:27:36",
-        "replyContent": "Grazie Gian Battista, le recensioni positive sono una vetrina del lavoro svolto.",
-        "repliedAt": "2020-04-27 08:38:11"
-    },
-    {
-        "reviewId": "gp:AOqpTOGMdhLXCNlc6UPb2SMrGMWhxZwJl2CMVMZlBWRqPV-CQdKInVNfLSxmHj5yHQ7EofD9Y_-E6njFIMOPzQ",
-        "userName": "Stefano Mura",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzU7GafccIcC9-ZjwpZo9SrwY72N9PxNwKFb5bh=mo",
-        "content": "mi da perennemente errore, disinstallata e installata nuovamente, ma continua a non funzionare.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:26:05",
-        "replyContent": "Ciao Stefano, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-27 08:37:34"
-    },
-    {
-        "reviewId": "gp:AOqpTOGHTyOPW4mRcwhTLZm9iqlyHXxyxcafQ8-u3SRMVjFb2kSx6QywQi12fjPWrbYjOGj4mrBdM_Nt1_S0iA",
-        "userName": "Pol Pol",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gig48Ovjxgu0eg1dtaJVfi5GaQc9vN6gWnFjCS27g",
-        "content": "Domande banali, con poca scelta di risposta, che possono essere fraintese facilmente Assolutamente poco seria per la situazione in cui ci si trova Special.ente considerando che molte persone non la utilizzano o non ne conoscono nemmeno l'esistenza Di tutto il mio nucleo famigliare e tra le persone che sento per telefono sono l'unico ad esserne a conoscenza e questo solo perch\u00e8 mi \u00e8 arrivato il messaggio da regione lombardia a cui sono registrato",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:25:38",
-        "replyContent": "Ciao, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
-        "repliedAt": "2020-04-27 08:37:08"
-    },
-    {
-        "reviewId": "gp:AOqpTOF4YlQhRMim7d_sLwtCCKq2UrjN7RFpoTpMECr7mtdWQNmtMY1vx6IvwjWyq_66C1qdNF6GATYd-oEA9g",
-        "userName": "Roberto Cabrini",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhb-c4GIvIxrnDVUijJayMB8eXWCAsX6uL8KxE=mo",
-        "content": "Ho installato la app..e come riceve un aggiornamento va in crash...disinstallata e reintallata e sempre lo stesso problema...qui si gioca con la vita delle persone...spero che venga sistemata e migliorata..grazie",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-04-16 17:24:50",
-        "replyContent": "Ciao Roberto, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it",
-        "repliedAt": "2020-04-27 08:34:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOGdv57C3TPAL0IT2Kv9Nxs4pLxCG5g53xcfL9Oa1mlKzeFBlUa_u1cFgpwWPSjzf5uNgqQQAmq03YmGPw",
-        "userName": "roberto farace",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GixvCIUkj4K2XStb1wXVLTtJv17-fdzawyIKEQyKA",
-        "content": "App utile in questo periodo. Un suggerimento sulle domande riguardanti l uscire di casa: chiedere quante volte si esce, se si esce e per fare cosa perch\u00e8 ,se si chiede solo per il lavoro, la maggior parte risponder\u00e0 no non esco nelle uiltime due settimane \ud83d\ude01",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:21:38",
-        "replyContent": "Ciao Roberto! Grazie della recensione!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
-        "repliedAt": "2020-04-27 08:30:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOH-ZKx-xJ_XKoVN-rGfhSGwfulFqw0FfUwwjaZv2GO8qKT92c84sEIwImYRZAEMoexzLYKd1q0r9my0Gw",
-        "userName": "Federica Orsini",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwKUL5_4Ss6Bc0AmDPQ-c2ArAiMQ8xoPysqvwH1=mo",
-        "content": "Non riesco a scaricarla\ud83d\ude14",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:10:01",
-        "replyContent": "Ciao Federica, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it.",
-        "repliedAt": "2020-04-27 08:29:36"
-    },
-    {
-        "reviewId": "gp:AOqpTOEWOByUJ-nQzf5TUOkzgJiSEM9JRRlc56qWUum482vrrs5HRo38ldeg-eL_frHrJesppOM1p06soNYFLg",
-        "userName": "Isabella Pozzoli",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyB_G9h_3_KpHFtYNPAmZ9mOXCAjipDfUgvk9D8-Q=mo",
-        "content": "Si ho aggiornato e funziona bene!!! Solamente una cosa in questi giorni ho notato che tutte le volte che apro la app mi chiede sempre di accettare e confermare sempre come se fosse la prima volta mentre mio marito Entra subito \u00e8 normale?",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 16:31:13",
-        "replyContent": "Ciao Isabella,  grazie della tua recensione e grazie di tutte le stelline che fanno crescere la nostra valutazione. Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
-        "repliedAt": "2020-04-27 08:22:20"
-    },
-    {
-        "reviewId": "gp:AOqpTOHVTTJfK-8Y0K7i7DGS7Yu1dekzxAl7VYzgCu8VcDOfd5dY0e6SA7TVbkP6ipv89hJlp1Bih4IUlyPZeg",
-        "userName": "gianni gigola",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgC3JELd32icXgpGzRJwlFGZAfAisEk3VZscK_2_Yo",
-        "content": "Nonostante gli sforzi di volerla utilizzare, le volte che ho tentato, rimane inaccessibile senza dare una motivazione. Un vero peccato, dovrebbe esserci d'aiuto... . . . Grazie della risposta, ma \u00e8 probabile che non dipenda dall'app, ma dal server perch\u00e8 proprio non si apriva, ovviamente controllato con speed test tutto a posto il wifi e del resto navigavo tranquillamente. in questi ultimi giorni ho ricevuto notifiche regolarmente e tutto funzionava regolarmente. L'ho installata anche sullo smart phone della moglie. Grazie e buon lavoro. Dimenticavo, la cosa pi\u00f9 incredibile la Tua (o vostra) disponibilit\u00e0, cosa non scontata al giorno d'oggi. Grazie",
-        "score": 5,
-        "thumbsUpCount": 9,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 15:01:50",
-        "replyContent": "Ciao Gianni, grazie per aver aggiornato la tua recensione, e grazie per aver apprezzato la nostra disponibilit\u00e0!lavoriamo quotidianamente per fornire a tutti uno strumento utile, recensioni come questa ci fanno particolarmente piacere!",
-        "repliedAt": "2020-04-16 15:36:30"
     }
 ]

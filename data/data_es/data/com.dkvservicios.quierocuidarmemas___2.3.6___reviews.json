@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOGi5waFnmrBFuDzpxd9dX_MrRTZJurEHLdk6Yy0kqC_cMnURVAgOWGO8js9rqaUPUfUAOFmYTb9s2WtJw",
+        "userName": "Mar\u00eda C Rodriguez",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gigo7sBWb7XTbUlNWe4s0d5LZJ2FTEqKk3o8JaL",
+        "content": "Fue muy buena la consulta virtual, muy aclaratoria y continuar\u00e9 con pruebas sugeridas por la Dra. para tener seguimiento de mi mejora posteriormente.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-06-17 11:23:38",
+        "replyContent": "Hola Mar\u00eda!! Muchas gracias por tu comentario. Nos alegra mucho saber que est\u00e1s contento con el servicio prestado por nuestra aplicaci\u00f3n y nuestros profesionales m\u00e9dicos. Un saludo!!",
+        "repliedAt": "2021-06-17 14:23:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOHNvjvUxk1kkwLxdd3DBx6K6gnIy9jIgErXh_B3fp1DTCKLDe-1VcgCh_rvIuCcxAFPSjGneVxuCBwnLA",
+        "userName": "Laura Santos",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4MOS7-_NFt2X48yBrxLnbYyTVtCcNgimG0V9J=mo",
+        "content": "La aplicaci\u00f3n deber\u00eda poder instalarse en el PC para ser m\u00e1s funcional pq desde el movil la conexi\u00f3n no es estable, hasta que se efect\u00faa la llamada necesitas estar entrando continuamente pq la pantalla del movil se pierde y se desconecta.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.9",
+        "at": "2021-06-16 11:57:57",
+        "replyContent": "Hola Laura! Tomamos nota de tu sugerencia. Por el momento puedes chatear con un m\u00e9dico desde dkv.es/qcmas accediendo con tu mismo usuario y contrase\u00f1a. Para cualquier duda, error o sugerencia, puedes escribirnos a soporte@dkvservicios.com. Un saludo!!!",
+        "repliedAt": "2021-06-17 14:49:24"
+    },
+    {
+        "reviewId": "gp:AOqpTOGCpFzhZCju0twlwdjUgLt6Cdt9atBhjdqdcZDooZxefn3K3bYCEnNLIhDHThT32wfcAe-i8LP9q3r3Gg",
+        "userName": "alejandro marrero",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjbcbvdTmilfOQ6de_86l3ucnc0QKbSDRpFBG8c",
+        "content": "Muy buena",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-06-14 18:36:10",
+        "replyContent": "Hola Alejandro!! Muchas gracias por tu comentario. Nos alegra mucho saber que est\u00e1s contento con el servicio prestado por nuestra aplicaci\u00f3n. Un saludo!!",
+        "repliedAt": "2021-06-15 15:05:25"
+    },
+    {
+        "reviewId": "gp:AOqpTOG-ZyRHYcyLeuMYhQheC2zn0qeSMnzC46LmRO_mcwStMHThuZ8vALOpGVlKvihdVyamTJ90VI6_wAmQYw",
+        "userName": "laura pujol",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9y_DSKiJgo8OTVQ6L0oc2FcL2nGDP7ZGtCHpA=mo",
+        "content": "Muy rapidos en contestar",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-06-14 10:43:52",
+        "replyContent": "Hola Laura!!! Muchas gracias por tu comentario. Nos alegra mucho saber que est\u00e1s contenta con el servicio prestado por nuestro equipo a trav\u00e9s de esta aplicaci\u00f3n. Un saludo!!",
+        "repliedAt": "2021-06-14 14:20:58"
+    },
+    {
         "reviewId": "gp:AOqpTOEAoZAHC3kI__AUNysvTugd4TjFHSdGiF1q2RUMRWfIHtiZz-oayWbP0HVcCHs_bXFcoZcSSHNdbZtg8A",
         "userName": "Luis fernando Gonzalez Santana",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiV7CRxBjBI3MuBU2Nrf9quEMeC-f2yWN5_a92pNQ",
@@ -56,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-06-01 17:47:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Mar\u00eda Alejandra!!! Despu\u00e9s de tu comentario hemos lanzado una nueva versi\u00f3n de la APP en Android que resuelve varios problemas. Si a\u00fan tienes problemas o quieres compartirnos tu experiencia para que podamos mejorar, puedes escribirnos a soporte@dkvservicios.com. Muchas gracias!!!",
+        "repliedAt": "2021-06-11 14:35:25"
     },
     {
         "reviewId": "gp:AOqpTOE082H3lyBlm4A3KArzUXhShbIQGemjV2UAKZeZ9-Ed78oqD3e8B91dgcvLK3PtVFoPcgMIHP16jOLgYQ",
@@ -173,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy8Cyeo4rbhHqQEiql8j59JJ6qbd7tbSIXDNAbW=mo",
         "content": "No tiene tarjetero digital? No es cierto por m\u00e1s que lo he buscado no aparece el la app y est\u00e1 llena de fallos t\u00e9cnicos y lo mismo la p\u00e1gina web que se cuelga constantemente o est\u00e1 hackeada con un malware. Una hora intentando firmar dos documentos que adem\u00e1s deber\u00edan borrarse y llevan ah\u00ed desde 2017, ni se molestan en tener una opci\u00f3n para borrar documentos desfasados o antiguos. Adem\u00e1s s\u00e9 bien de lo que hablo, soy t\u00e9cnico inform\u00e1tico y vuestro sitio web es una aut\u00e9ntica patata y las app",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-05-18 21:08:10",
         "replyContent": null,
@@ -317,7 +365,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwP0N1DjjrvyjsDqDut5zkL0JK4Z6Yzxr3usJ5t=mo",
         "content": "La idea de la App es buena y original, pero est\u00e1 llena de fallos por todos lados: ................................................................. > Se desactiva enseguida el lector de huella dactilar y tienes que reactivarlo constantemente. ................................................> En las citas por videollamada se congela y al final acabas hablando por chat/llamada ------------------> En documentaci\u00f3n si te suben una autorizaci\u00f3n no deja visualizarla ni descargarla, se ve s\u00f3lo como una imagen miniatura (a m\u00ed me subieron una autorizaci\u00f3n de test de antigenos Covid y tuve que pedir que me la mandaran por email) + si subo yo o el m\u00e9dico documentaci\u00f3n, no me aparece en mi men\u00fa privado de la web, no est\u00e1n conectados. -----------------> Al consultar citas nuevas por videollamada/online fallan las citas disponibles porque te pone una fecha y cuando das a la flecha a avanzar ves abajo en resumen de todas que hab\u00eda otra anterior de fecha y tienes que darle desde ah\u00ed ----------------> Al consultar m\u00e9dicos en el cuadro m\u00e9dico, si le das a ver mapa (en general o en un m\u00e9dico concreto) el mapa se carga con Espa\u00f1a en miniatura que tienes que ampliarlo a mano muchas veces hasta que ves la calle y centro................. + estar\u00eda bien poder ver la web del centro por si prefieres pedir cita x web que tel\u00e9fono ..................+ poder ver las subespecialidades del m\u00e9dico concreto (eje en dermatolog\u00eda no es lo mismo uno especializado en herpes, que en eccemas/soriasis, acn\u00e9, etc) y tienes que estar llamando a todo el listado a ver qui\u00e9n conoce tu patolog\u00eda a fondo...",
         "score": 3,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-04-27 21:18:17",
         "replyContent": "Hola \u00c1ngela, estamos revisando todos los aspectos que comentas en tu rese\u00f1a. Por favor, escr\u00edbenos a soporte@dkvservicios.com para comentarlos m\u00e1s en profundidad y ayudarnos a seguir mejorando. Muchas gracias",
@@ -2473,7 +2521,7 @@
     },
     {
         "reviewId": "gp:AOqpTOENiHQIAAQOaVUCAo7IKZE-hdcJNw7AK-2d6VX49SVQnsmemGeJeCpztJKu50mfqNFVNbzvQuuicdIJuA",
-        "userName": "jose maria martin martel",
+        "userName": "josex747",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaqttthlMcsrigJorWX9xRi0GGLkp6JECfJxzP2SU",
         "content": "Tarda mucho en conectar, cuando conecta vuelve a salir, con la huella es mucho peor o directamente no da esa opci\u00f3n",
         "score": 1,

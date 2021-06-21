@@ -243,6 +243,10 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covid19 2 reviews"/>
 </p>
 
+> Good app but it represents coronavirus as actually being real and common sense would prove otherwise<br> :date: __2021-06-16 15:53:51__
+
+> Mother<br> :date: __2021-06-15 05:07:10__
+
 > 3rd app installed, I hope this check in works<br> :date: __2021-02-06 04:14:58__
 
 > This app works however the information shown in it is no longer being updated daily nor is the information on numbers as detailed as it once was. I write this review on 3rd Jan, the CoVid numbers shown on the app were last updated 21st Dec. Pretty worthless if you can't rely on it to show up to date information.<br> :date: __2021-01-03 04:57:49__
@@ -259,10 +263,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Release the source code of both client and server and more of us will install this app... It looks like the app generates and uploads a private/public key pair and uploads one or the other to a central server and associates it directly to a user, other users when testing positive can upload their contact history to the server and matches that data to details of other users they came into contact with directly implicating the contacts, private user data should not be uploaded without consent.<br> :date: __2020-05-04 12:39:48__
 
-> Confusing<br> :date: __2020-05-04 09:43:14__
-
-> Will not download on my phone<br> :date: __2020-05-01 08:18:24__
-
 
 
 #### 1-star reviews
@@ -270,6 +270,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covid19 1 reviews"/>
 </p>
+
+> Dead app, completely forsaken like our country at this point.<br> :date: __2021-06-19 15:43:56__
 
 > Since I've been destroyed for no reason by senile father, my brothers, covid and Vic Police. You've made another innocent person suicidal, thanks Melbourne. Don't care no more🖕<br> :date: __2021-06-10 00:52:38__
 
@@ -288,7 +290,5 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > No alert or information about the current lockdown issued today. Why no alert from this app or COVIDSafe?<br> :date: __2021-01-08 06:58:05__
 
 > Stupid, useless app. Uninstalled cos Greg Hunt sux!<br> :date: __2021-01-04 19:07:54__
-
-> Best government statement ever, "if every Australian downloads this app we will open the pubs and clubs". What a waste of money<br> :date: __2020-12-24 12:04:31__
 
 

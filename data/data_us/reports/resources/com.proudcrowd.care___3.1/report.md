@@ -146,6 +146,8 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.care 5 reviews"/>
 </p>
 
+> Love<br> :date: __2021-06-19 17:33:19__
+
 > ★★★★★<br> :date: __2020-12-03 01:47:39__
 
 > Oh yeah all good<br> :date: __2020-08-27 06:36:26__
@@ -163,8 +165,6 @@ The Care19 Diary app has been installed by more than **10000** times. At this ti
 > Good<br> :date: __2020-06-16 20:33:40__
 
 > Nudes help<br> :date: __2020-06-11 01:24:14__
-
-> Awesome<br> :date: __2020-05-17 11:47:26__
 
 
 

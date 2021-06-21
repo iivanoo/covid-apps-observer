@@ -151,25 +151,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> thi app is not working in my mobile get on screen . repoted .. ok ?<br> :date: __2021-06-11 13:30:51__
+> Good<br> :date: __2021-06-21 11:36:42__
 
-> I like this app my life is save<br> :date: __2021-06-11 13:07:31__
+> 0tp password not coming<br> :date: __2021-06-21 11:29:01__
 
-> Very good<br> :date: __2021-06-11 12:55:08__
+> Ok<br> :date: __2021-06-21 10:16:12__
 
-> Ok<br> :date: __2021-06-11 10:39:43__
+> Not receiving One time password for intial login . Kindly check please<br> :date: __2021-06-21 10:13:53__
 
-> Thank you UAE for keeping us safe!<br> :date: __2021-06-11 09:34:21__
+> OXXMM ❤❤👅<br> :date: __2021-06-21 10:11:20__
 
-> Very good and perfect app<br> :date: __2021-06-11 09:17:29__
+> Nic<br> :date: __2021-06-21 08:37:31__
 
-> 👌<br> :date: __2021-06-11 09:03:24__
+> Important application<br> :date: __2021-06-21 08:20:27__
 
-> Everything is good<br> :date: __2021-06-11 08:20:05__
+> Very very nice super app I like app<br> :date: __2021-06-21 05:15:16__
 
-> 😍🥰🤩<br> :date: __2021-06-11 08:00:45__
+> this India not working<br> :date: __2021-06-21 02:56:31__
 
-> Useful<br> :date: __2021-06-11 05:42:46__
+> Ok. Its easy to use a good spp<br> :date: __2021-06-20 23:57:08__
 
 
 
@@ -179,25 +179,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
 
-> Show the result for good<br> :date: __2021-06-11 07:37:32__
+> I have taken my 2nd dose of Vaccine but i am unable to login. I am not receiving password. Could you help me someone Hlhow i can login?? I have vaccination card<br> :date: __2021-06-20 20:10:28__
 
-> Good<br> :date: __2021-06-10 22:08:02__
+> Fair experienced<br> :date: __2021-06-20 15:55:21__
 
-> Its very useful especially when entering to Abu Dhabi by showing this App only.<br> :date: __2021-06-10 08:24:21__
+> What happen it not working<br> :date: __2021-06-20 09:59:09__
 
-> The idea behind the app is fantastic. In practical terms it has some errors. I've had both vaccine shots but only one shows up on my app. I'm not sure how to change this as I've sent the pdfs to the developer.<br> :date: __2021-06-10 06:30:39__
+> Good<br> :date: __2021-06-20 06:34:13__
 
-> good job<br> :date: __2021-06-10 04:43:44__
+> Good<br> :date: __2021-06-19 11:51:34__
 
-> Good<br> :date: __2021-06-09 17:46:53__
+> Hai hallo why are this alhons app not working this said last updated yesterday can u inform what huppened<br> :date: __2021-06-19 04:24:20__
 
-> Excellent Servic<br> :date: __2021-06-09 15:38:06__
+> Nice<br> :date: __2021-06-18 19:32:20__
 
-> 👍<br> :date: __2021-06-08 21:29:07__
+> Please help me I have a problem of log in I try to login but it seems error all the time time.<br> :date: __2021-06-18 14:56:46__
 
-> The app is good generally , but I had 2 vaccine shots and it only shows 1 , so what should I do with this ?? Please help<br> :date: __2021-06-08 15:45:47__
+> Good<br> :date: __2021-06-18 14:25:30__
 
-> plz update may information<br> :date: __2021-06-08 07:25:52__
+> Hi.. All This app working for all inside 🇦🇪 UAE and also outside when you travel any where. Like green passport showing your results 👍😊<br> :date: __2021-06-18 13:14:35__
 
 
 
@@ -207,25 +207,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
 
-> Nice<br> :date: __2021-06-11 10:11:19__
+> App wasn't working,so I uninstalled and then reinstalled again, now I'm not receiving otp number, please fix<br> :date: __2021-06-21 08:33:11__
 
-> UAE👍BD<br> :date: __2021-06-11 10:04:45__
+> The app says that it has sent the sms to my number but the sms never arrives. Nor sure if this is specifically at this time on the 20th June?<br> :date: __2021-06-20 16:21:21__
 
-> doesnt work out of uae..<br> :date: __2021-06-11 10:00:40__
+> Please note the app is not opening. Even if I uninstalled and installed it does not opens.<br> :date: __2021-06-20 07:41:15__
 
-> I cant open this app from my phone why?<br> :date: __2021-06-10 13:24:38__
+> ok<br> :date: __2021-06-19 21:24:33__
 
-> App not opening in india<br> :date: __2021-06-10 11:45:12__
+> My first dose not updated and my second dose updated as first dose. I am trying to contact but no response<br> :date: __2021-06-19 18:07:53__
 
-> I have been vaccinated for 2 doses first dose was on January 10 2021 and 2nd was on feb 3 2021. but only shows here was feb. 03 abd shows first dose. how come? please help.<br> :date: __2021-06-10 10:18:36__
+> Good<br> :date: __2021-06-19 04:48:16__
 
-> App showing my PCR expire what is this?😡<br> :date: __2021-06-10 05:24:57__
+> App has crash and could not find the user information. And sms verification comes late<br> :date: __2021-06-18 23:29:36__
 
-> Good<br> :date: __2021-06-07 20:19:41__
+> Good<br> :date: __2021-06-18 20:24:45__
 
-> Can I print my vaccine certificate from this app ?<br> :date: __2021-06-07 10:47:44__
+> From yesterday this app is not working i logout and try to login error coming<br> :date: __2021-06-18 15:43:22__
 
-> Not working<br> :date: __2021-06-07 10:17:00__
+> The app has stopped working, it is showing 'an error has occurred (could not load user's information. please try again later or contact customer support). I have tried contacting customer support more than 10 times yesterday. The customer care is not responding, auto cuts the call. Could you please look into this issue and apply a fix immediately or we need an alternative option to show the green status. If the app is not working it is difficult to go anywhere.<br> :date: __2021-06-18 14:08:24__
 
 
 
@@ -235,25 +235,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
 
-> OK<br> :date: __2021-06-11 09:40:25__
+> I uninstall the app and i install again now i cant even login because i cant receieve code on my number i tried severall times already but its still same<br> :date: __2021-06-21 10:34:29__
 
-> Bad<br> :date: __2021-06-10 13:20:54__
+> Zakm<br> :date: __2021-06-21 08:57:52__
 
-> App reports erroneous test results. System doesn't seem to be reliable. Shows vaccine taken three times, while I have only taken two shots only.<br> :date: __2021-06-08 12:11:14__
+> My mobile number is correct.But I'm not getting my OTP. It's very very urgent.<br> :date: __2021-06-21 07:43:21__
 
-> my swab and vaccine is not updated<br> :date: __2021-06-03 17:15:04__
+> It's working before. But now I can't log-in to my account after numerous tries. Please fix all technical issues so that it will not cause any more inconvenience, especially it's a must requirement this time.<br> :date: __2021-06-19 14:25:31__
 
-> It's not working in Pakistan..please check & solve the issue.<br> :date: __2021-06-02 16:45:19__
+> Error not working,,, can't see information<br> :date: __2021-06-19 09:34:51__
 
-> There is no customer care for technical.<br> :date: __2021-06-01 14:36:08__
+> There is a problem with result sharing option, it is not working, kindly resolve it ASAP<br> :date: __2021-06-18 23:25:49__
 
-> I can't update my mobile number on app and tried to send email but it bounce back due to theire inbox was full.<br> :date: __2021-05-30 20:47:34__
+> شو هالأعطال فالبرنامج.. واذا طلعنا ما يدخلنا مره ثانيه.. تخلون الشخص فحالة توتر ليش..<br> :date: __2021-06-18 14:37:54__
 
-> I'm already vaccinated,last Feb 7 2021,until now the letter E for my app still not appear,I called already the hotline,they told me after 1hour that letter E is appear,<br> :date: __2021-05-28 18:02:48__
+> No help line available!<br> :date: __2021-06-18 14:30:03__
 
-> abid Hussain nomi<br> :date: __2021-05-27 12:51:12__
+> My covid 19 results which I have done and came negative result it's not updating in this app. I don't know how to fix this problem.<br> :date: __2021-06-18 13:50:59__
 
-> Plz change colur sceme to make it user friendly and eseaiar to read<br> :date: __2021-05-24 06:57:16__
+> Not open<br> :date: __2021-06-18 12:06:08__
 
 
 
@@ -263,24 +263,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Keeps crashing and cannot reset.. Tried reinstall.. But does not work<br> :date: __2021-06-11 13:23:28__
+> My App is still NOT working until now :(<br> :date: __2021-06-21 11:48:32__
 
-> Alot of errors<br> :date: __2021-06-11 10:59:00__
+> Not open or showing my alhosn app in my mobile<br> :date: __2021-06-21 11:46:09__
 
-> Very bad experience my last three covid test report not update<br> :date: __2021-06-11 07:55:23__
+> I did not receive the OTP<br> :date: __2021-06-21 11:38:22__
 
-> App doesn't work correctly!!!<br> :date: __2021-06-11 06:17:04__
+> This app not working<br> :date: __2021-06-21 11:33:30__
 
-> App is not working on my phone for the past 6 months..Samsung A71..please assist<br> :date: __2021-06-10 19:34:29__
+> Not received otp, tried several times<br> :date: __2021-06-21 11:22:13__
 
-> This app not working in India. Please troubleshoot at the earliest<br> :date: __2021-06-10 18:30:43__
+> Showing wrong vaccination information and NO active customer care number and email..<br> :date: __2021-06-21 11:00:47__
 
-> The app is crashing every time I try opening it. And when trying to get the issue sorted out (the app crashing on my phone and regarding my information not being updated when using the app on another phone) there clearly seems to be no clear cut solution. Tried contacting through WhatsApp, email and the hotline number which clearly was to no avail.<br> :date: __2021-06-10 18:24:59__
+> After re installing the apps why I cant recieved the one time passoword? Please help because ur apps is nowa mandatory in hotels, malls work<br> :date: __2021-06-21 10:51:51__
 
-> Simply does not work! Does not even open with ID<br> :date: __2021-06-10 18:01:37__
+> Not work<br> :date: __2021-06-21 10:33:51__
 
-> The app does not open, just shows the loading screen<br> :date: __2021-06-10 17:38:18__
+> Not working tried re installing still not working tried to contact alhosn number sent message to weqaya tried calling them what should o do!!!!<br> :date: __2021-06-21 10:00:57__
 
-> Very slow working<br> :date: __2021-06-10 17:26:41__
+> Not working new user<br> :date: __2021-06-21 09:22:41__
 
 

@@ -138,6 +138,8 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 5 reviews"/>
 </p>
 
+> Ok.<br> :date: __2021-06-16 23:42:22__
+
 > Helpfull<br> :date: __2020-12-25 13:14:05__
 
 > Good to know<br> :date: __2020-12-23 21:53:24__
@@ -156,8 +158,6 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 
 > The best!<br> :date: __2020-09-15 11:11:33__
 
-> Easy onboarding<br> :date: __2020-09-14 07:47:45__
-
 
 
 #### 4-star reviews
@@ -175,6 +175,8 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 3 reviews"/>
 </p>
+
+> For some reason I can't add my phone number in the app.<br> :date: __2021-06-21 02:35:18__
 
 > HOW WILL I KNOW WHEN SOMEONE IS INFECTED? I ALWAYS HAVE TO KEEP MY BLUETOOTH ON. I WISH THIS APP WILL LET ME KNOW IF SOMEONE NEXT TOO ME IS INFECTED WITH COVID-19.<br> :date: __2020-10-01 11:11:11__
 

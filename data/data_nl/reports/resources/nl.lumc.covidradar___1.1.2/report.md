@@ -252,6 +252,8 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 1 reviews"/>
 </p>
 
+> Waardeloos, kan beroep niet invullen,dus werkt niet<br> :date: __2021-06-15 10:57:32__
+
 > Het heeft even geduurd maar dan krijg je ook wat. Invulergernis na maanden voorbij. Hopen dat de Corona ook gauw voorbij is............................................... Oude review: . Geen handige app. Vooral het invullen van getallen met die schuiven. Vooral de laatste schuif, die zit heel dicht tegen de knop versturen aan. Waarom niet gewoon cijfers ingeven? Ik hoop niet dat er een 2e uitbraak komt. Komt die er wel dan hoop ik dat de app gebruiksvriendelijker wordt.<br> :date: __2020-12-24 19:23:49__
 
 > Geen nut<br> :date: __2020-12-23 11:38:13__
@@ -269,7 +271,5 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 > Slechte app. Instellen van gegevens d.m.v schuifbalkje is niet goed in te stellen, en gaat zomaar van een laag naar hoog getal<br> :date: __2020-06-10 19:16:10__
 
 > Ik heb de app geïnstalleerd en de vragen beantwoord. Er kwam uit dat ik Covid heb zonder koorts. Ik moet gelijk een arts raadplegen en het huis niet verlaten. Ik heb waarschijnlijk zeker geen Covid maar wel astma en longproblemen. En OSAS. Zo kan je van half Nederland zeggen dat ze Covid hebben<br> :date: __2020-06-06 13:38:25__
-
-> Deze radar draagt niks bij aan de weg terug naar een samenleving zonder 1.5m. Hier geef ik mijn privacy niet voor op. App verwijderd.<br> :date: __2020-05-17 10:57:47__
 
 

@@ -174,6 +174,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="4_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 4 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-06-16 16:28:52__
+
 > I don't have any problems with the app, I've had it since it became available and it works fine and I don't have the battery issues that others are experiencing.<br> :date: __2021-05-08 04:40:00__
 
 > Works fine, not noticing battery drain.<br> :date: __2021-01-29 04:53:57__
@@ -191,8 +193,6 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > Seems to work fine. Unfortunately it is set to "Canada only" so my sister cant install it on her US phone despite living here.<br> :date: __2020-09-25 03:29:29__
 
 > It doesn't drain my battery like others say. Not sure why others are having issues...?<br> :date: __2020-08-17 21:50:04__
-
-> No issues with the app (Samsung Note 9).<br> :date: __2020-08-10 04:24:28__
 
 
 
@@ -258,6 +258,8 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> The app doesn't work it always crashes upon opening it !!!! It's not mandatory to use it I guess !<br> :date: __2021-06-11 17:46:29__
+
 > Would have preferred the Canada wide one<br> :date: __2021-06-10 23:49:35__
 
 > I bought a new phone in part so that I could use this app as part of my Covid-19 risk mitigation strategy. I no longer recommend this app. Since the April update it has been drawing enough power to damage my phone through deep discharges. It no longer lasts a full day even after replacing the swollen battery. A lack of news coverage on the change tells me few people actually use the app. You are more likely to get hits with the federal app (not active in AB), which only uses 1% battery per day.<br> :date: __2021-06-08 18:55:59__
@@ -275,7 +277,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > The app is the shats. Get people who know how to do it right.<br> :date: __2021-05-20 21:37:30__
 
 > Drained battery, when I uploadedy data after catching Covid no one got an alert. Does not work.<br> :date: __2021-05-20 21:18:06__
-
-> Um, this thing has never notified me and I've been in contact with several Covid cases. 4 tests and lucky so far, but not because of this app.<br> :date: __2021-05-18 02:22:59__
 
 

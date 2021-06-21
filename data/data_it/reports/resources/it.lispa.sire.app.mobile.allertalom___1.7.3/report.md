@@ -161,6 +161,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ottimo per informazioni sul pandemia<br> :date: __2021-06-19 09:52:09__
+
+> Ciaet<br> :date: __2021-06-16 10:40:21__
+
 > Ottima<br> :date: __2021-05-07 09:15:59__
 
 > App fantastica: sono felicissimo, così si riuscirà a contenere il virus ed evitare che le classi finiscano in quarantena per l'ennesima volta come la mia... non ne potevo più di sentirmi inutile e non servire a niente a parte stare ai regolamenti, invece adesso posso aiutare più di 60 milioni di persone...<br> :date: __2021-04-29 21:38:24__
@@ -176,10 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Ottima<br> :date: __2021-04-22 17:36:37__
 
 > Mi trovo bene<br> :date: __2021-04-22 17:08:33__
-
-> Molto soddisfatto<br> :date: __2021-04-22 16:23:10__
-
-> Buona app, alta affidabilità!<br> :date: __2021-04-22 16:02:44__
 
 
 
@@ -245,6 +245,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Purtroppo devo dire che, così com'è impostata, con il discorso tampone, non ha più senso. Dovrebbe essere aggiornata, vista l'enorme campagna vaccinale in corso, con l'effettuazione del tipo di vaccino somministrato.<br> :date: __2021-06-12 13:00:54__
+
 > Si poteva fare meglio<br> :date: __2021-06-06 11:48:57__
 
 > Dice di aggiornare ma non me la fa aggiornare, dice 19/03/2021 ma non c'è nessun aggiornamento grazie Gigio<br> :date: __2021-04-22 16:59:09__
@@ -263,8 +265,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Con l'ultimo aggiornamento mi chiede di compilare il questionario che ho già fatto ma non va più avanti. Mi chiede di inserire un parente<br> :date: __2021-03-07 14:22:52__
 
-> Non viene mostrato in modo chiaro i vincoli colore delle zone (arancio giallo verde ....) In relazione alle ordinanze anticovid. In pratica non mostra in che zona colore siamo.<br> :date: __2021-01-10 11:16:37__
-
 
 
 #### 1-star reviews
@@ -273,24 +273,24 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> Non funziona, disinstallata...<br> :date: __2021-06-20 09:31:14__
+
+> Arrivano le notifiche e quando si tenta di aprirle dice servizio non disponibile<br> :date: __2021-06-19 14:10:16__
+
+> Sempre stata un po' zoppicante ma adesso nn si apre nemmeno più. Mi è arrivata una notifica, la avvio e... servizio attualmente nn disponibile, riprova più tardi!! Penosa.<br> :date: __2021-06-19 13:56:38__
+
+> Arrivano le notifiche di allerta e quando si clicca sulla notifica non mostra niente solo pagina bianca<br> :date: __2021-06-19 13:40:22__
+
+> Sistematela!! O non si apre o quando si apre è poco chiara...<br> :date: __2021-06-19 13:40:18__
+
+> App pessima e lentissima. Dati covid ormai inutili, nessuna possibilá di teacciamento. Perché non c'è la possibilità di segnalare un luogo dove se ne fregano di rispettare le norme? Parte allerta neteo ira che si apre e uno sta a leggere la pappardella da addetti ai lavori si é già beccato la grandinata sull'auto<br> :date: __2021-06-19 13:37:51__
+
+> Non funziona, disinstallata e reinstallata ma non cambia nulla. Non mi da aggiornamenti disponibili. Mistero.<br> :date: __2021-06-15 21:45:35__
+
+> Forse un anno fa andava bene, fare la domanda (hai fatto il tampone?) La app andrebbe aggiornata, visto che molte persone hanno già avuto almeno la prima dose di vaccino.<br> :date: __2021-06-12 13:06:22__
+
 > Un disastro ormai da 40 giorni inutilizzabile, ma chi l'ha sviluppata non se né accorta che va in crash ??<br> :date: __2021-05-23 14:03:25__
 
 > Spesso è in blocco<br> :date: __2021-05-19 15:05:39__
-
-> Non si apre più da circa una settimana/10 giorni, pur ricevendo le notifiche. La risolvete o raccontate la favola dei troppi utenti collegati?<br> :date: __2021-05-18 12:57:42__
-
-> L'app non funziona più da giorni e non ho aggiornamenti. Dinstallo?<br> :date: __2021-05-16 12:48:17__
-
-> Scusate ma cosa serve!?. Poteva essere usata almeno per tracciare i vaccini o per prenotazioni..<br> :date: __2021-05-09 08:11:35__
-
-> Stesso problema con Matteo Repossi: "aggiorna l'app per avere le ultime notifiche bla, bla, bla..." vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Oggi l'app fa sapere che da domani, senza aggiornamento non si riceveranno più le allerte. vado su play store e l'app è del 19/3 e non ci sono aggiornamenti più recenti. Quindi? Hanno risposto gli sviluppatori?<br> :date: __2021-04-23 14:54:25__
-
-> Come si fa ad aggiornarla? Non compare nulla nè aggiorna nè nuova versione... Anche questa è organizzata da Aria? Quanta incompetenza!!!!!!<br> :date: __2021-04-23 07:58:26__
-
-> Nessun aggiornamento disponibile.... Notizie saltuarie e non sempre dell'ultima ora..<br> :date: __2021-04-22 21:14:34__
-
-> Mi piacerebbe fare l'aggiornamento dell'app prima di domani 23 come richiede, ma non trovo nessun aggiornamento possibile..... Quindi da domani cosa succede che non funzionano più gli aggiornamenti?<br> :date: __2021-04-22 19:47:17__
-
-> Continua a chiedere un aggiornamento che non è disponibile da nessuna parte....che devo fare??<br> :date: __2021-04-22 18:43:44__
 
 

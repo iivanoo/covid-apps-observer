@@ -257,6 +257,8 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 <img src="1_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 1 reviews"/>
 </p>
 
+> All in welsh and no option to become a member. Complete waste of time downloading<br> :date: __2021-06-18 20:44:02__
+
 > When trying to book a gym session on android phone can only book 1 day in advance getting no opportunity to train where as ios users can book 7 days ahead<br> :date: __2021-05-13 21:40:45__
 
 > My first time trying to use the app and most things on there wont work. I tried booking a swimming class but couldn't remember my pin when I click on the option to reset my password the page wouldn't load. I managed to get onto a page to update my details but it kept saying invalid email address even though that's the email I use and it wont let me change it. Gave up in the end.<br> :date: __2021-05-08 12:22:16__
@@ -274,7 +276,5 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 > Just awful<br> :date: __2020-09-02 09:42:44__
 
 > Worked fine until yesterday's update. Now I cant book classes. Can you sort it asap<br> :date: __2020-08-17 20:51:35__
-
-> Unable to book a class....rubbish<br> :date: __2020-08-11 00:04:20__
 
 

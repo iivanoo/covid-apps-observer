@@ -228,6 +228,8 @@ The iBlueButton app has been installed by more than **10000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.humetrix.iBlueButton 2 reviews"/>
 </p>
 
+> Can't put on notes so far on fathers day<br> :date: __2021-06-20 16:18:47__
+
 > Unable to download my VA records or synch other health providers. When I try and synch a pop-up appears that wants me to pay 4 bucks. 👎<br> :date: __2021-05-20 04:53:30__
 
 > Sounds like it would be a good app but not able to get past logg in page. Tried uninstall and reinstall but still nothing. Ugh.<br> :date: __2018-08-21 11:55:40__

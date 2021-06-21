@@ -186,6 +186,16 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Got connected within 5min and great service.<br> :date: __2021-06-20 15:53:00__
+
+> WOW! Great and fast service, I'm very impressed!<br> :date: __2021-06-17 18:46:08__
+
+> So covenient when it is hard to get time to see your PCP<br> :date: __2021-06-16 19:17:06__
+
+> Very helpful<br> :date: __2021-06-16 05:03:51__
+
+> Very fast and super convenient! Dr. Wang was great and very personable, easy to talk to and very friendly.<br> :date: __2021-06-12 03:24:18__
+
 > Wait took a while. Visit was quick. I will pick up script tomorrow since pharmacies are closed today. Fast and easy.<br> :date: __2021-06-11 06:13:06__
 
 > Clear and quick. M.D. was on point.<br> :date: __2021-06-10 23:06:42__
@@ -195,16 +205,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > So convenient<br> :date: __2021-06-08 12:30:27__
 
 > Positive.<br> :date: __2021-06-07 22:09:51__
-
-> Great!<br> :date: __2021-06-07 04:29:29__
-
-> Great experience<br> :date: __2021-06-05 18:22:35__
-
-> Surprised how easy and great this app is!!!!! Making everyone on my plan download it asap<br> :date: __2021-06-04 18:57:22__
-
-> Game changer love this app and tool provided by my provider!!<br> :date: __2021-06-04 01:34:29__
-
-> For anyone struggling through anything, remember that every single person on the other side of this app wants to help you, and all you have to do is talk to them.<br> :date: __2021-06-02 01:30:50__
 
 
 

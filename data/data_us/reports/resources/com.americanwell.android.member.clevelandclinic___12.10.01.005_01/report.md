@@ -203,6 +203,8 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 5 reviews"/>
 </p>
 
+> Very good experience, was able to be seen late at night on a weekend. Brief technical issue but it was quickly resolved so that we could finish our consultation.<br> :date: __2021-06-21 05:51:11__
+
 > Excellent Experience<br> :date: __2021-06-08 13:21:25__
 
 > App is easy to use and was seen quickly by medical professional<br> :date: __2021-04-21 00:47:32__
@@ -220,8 +222,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Convenient... Fast... & the nurse practitioner was knowledgeable and polite<br> :date: __2021-02-28 21:47:30__
 
 > Great it cuts a lot of time out sitting in the doctor's office<br> :date: __2021-02-26 21:03:33__
-
-> Was a great experience. No issues with technology. Dr was clear and no lag issues. Will use it again.<br> :date: __2021-02-23 14:03:16__
 
 
 

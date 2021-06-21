@@ -204,6 +204,8 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="3_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 3 reviews"/>
 </p>
 
+> Does not really know what to say. It says it scans automatically the environment using Bluetooth.. depending on how much users do use it I guess. At least it doesn't impact the battery, does it really work? 🤔<br> :date: __2021-06-18 05:06:27__
+
 > I was getting connection error at the T&C page while I was outside of Japan but once in Japan the app worked fine on my pixel 4a 5g android 11<br> :date: __2021-04-24 21:39:19__
 
 > Not sure if it's working or not so I can't honestly rate after hearing it doesn't work for months<br> :date: __2021-04-22 07:22:11__

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFhQHLeXbOkJjWgfu2LKQVRdf7Nbek9T5tzqq8tDvRwibw-4emItT01gL8j4W6_UOZ1LS07kfpSdUrgSg",
+        "userName": "Gerwin Zondervan",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJztPPatbTgbQ7sG0HdOZ1mE4IuOkn5RB_QrCiJt=mo",
+        "content": "Waardeloos, kan beroep niet invullen,dus werkt niet",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.2",
+        "at": "2021-06-15 10:57:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGTC3b3wVzDgI-FfWbxkLf_AbuQ3Pi4dagFWL2r0_T9KrDZdrtEBxAmhEF5kikdwx3fLUMSFyE6FnLHAg",
         "userName": "Janny Rijnhoud",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwXZnWd8Hu2kUKfEbug3MmQ7AE2mg5eVJsJ8MV=mo",
@@ -401,7 +413,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzOZ26dX8OWc182kebqqRQlv4qKP5s-4xr0rVKi=mo",
         "content": "Ik heb de app ge\u00efnstalleerd en de vragen beantwoord. Er kwam uit dat ik Covid heb zonder koorts. Ik moet gelijk een arts raadplegen en het huis niet verlaten. Ik heb waarschijnlijk zeker geen Covid maar wel astma en longproblemen. En OSAS. Zo kan je van half Nederland zeggen dat ze Covid hebben",
         "score": 1,
-        "thumbsUpCount": 57,
+        "thumbsUpCount": 58,
         "reviewCreatedVersion": "1.1.2",
         "at": "2020-06-06 13:38:25",
         "replyContent": null,

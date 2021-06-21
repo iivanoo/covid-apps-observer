@@ -189,6 +189,18 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> very useful to manage your communication<br> :date: __2021-06-21 12:00:37__
+
+> Fiinally a way to have your medical history at YOUR finger tips rather than EVERYONE else's finger tips, bar you!!!<br> :date: __2021-06-20 17:48:42__
+
+> easy to use unlike some<br> :date: __2021-06-20 10:41:24__
+
+> Best app of its kind on the market.<br> :date: __2021-06-15 09:52:21__
+
+> works very well and is easy to use.<br> :date: __2021-06-14 10:04:04__
+
+> could be easier to change pharmacy<br> :date: __2021-06-11 21:00:24__
+
 > great service<br> :date: __2021-06-07 23:24:04__
 
 > Excellent service.<br> :date: __2021-05-30 09:25:40__
@@ -196,18 +208,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > so easy to use. Wonderful.<br> :date: __2021-05-26 18:48:25__
 
 > Ok<br> :date: __2021-05-25 21:58:19__
-
-> Works very well for me. Useful for ordering repeat prescription. Records, including vaccinations, easy to check.<br> :date: __2021-05-24 16:47:31__
-
-> excellent<br> :date: __2021-05-20 21:40:26__
-
-> Nice app<br> :date: __2021-05-18 15:48:31__
-
-> quick and easy to use not like other providers which are hit and miss with log in very good service<br> :date: __2021-05-18 13:17:07__
-
-> smashing app - can do everything necessary very easily and quickly<br> :date: __2021-05-17 15:23:10__
-
-> quite easy to do<br> :date: __2021-05-12 14:58:22__
 
 
 
@@ -273,6 +273,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
 
+> Slow, Unrealiable<br> :date: __2021-06-18 11:44:19__
+
+> Did like the app, but suddenly it doesn't work at all for the last month. Can't log in with either biometrics or password. So have to use the website. And the worst thing is I have had no response from the company at all.<br> :date: __2021-06-14 23:02:24__
+
 > biometrics not working and keeps logging me out<br> :date: __2021-06-10 09:38:20__
 
 > I can't get past the GP registration system i have entered my details correctly but it is saying, "There was a problem with your sign up. Check the information is correct and try again". I have tried 7 times to get past this and nothing . I'm fed up with it.<br> :date: __2021-06-07 14:21:51__
@@ -289,10 +293,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > Seems to not ever load the prescriptions section which was the main reason I got it.<br> :date: __2021-02-02 00:17:09__
 
-> Not been able to order a prescription for the last 6 months using app. Was fine before that.<br> :date: __2021-01-28 13:02:32__
-
-> login makes you go crazy and doesn't let you in<br> :date: __2021-01-22 13:09:48__
-
 
 
 #### 1-star reviews
@@ -300,6 +300,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
+
+> It doesn't recognise the password anymore, even it just been reseted. And fingerprint scanner is not accepted. If is not solved quickly i will have to use another app. I have diabetes and i need to login often.<br> :date: __2021-06-14 14:23:41__
+
+> GP service not working anymore after this update.<br> :date: __2021-06-12 12:15:48__
 
 > Frustrating and going round in circles. Being told my email is invalid (total nonsense) and being sent numbers to my mobile then means starting to register all over again. And uninstalling and installing again I met the same problems. The app is poorly designed and not fit for purpose and instead of saving my time has wasted it. I shall not bother again.login is a nightmare.<br> :date: __2021-06-08 17:36:26__
 
@@ -316,9 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Too buggy<br> :date: __2021-04-13 09:13:44__
 
 > Terrible! I'm always having issues on this app with accessing my medication and ordering it. It has caused me so much stress and has very negative impact on my mental health!<br> :date: __2021-04-13 00:29:39__
-
-> Biometrics constantly failing<br> :date: __2021-04-12 04:09:11__
-
-> unable to order medication<br> :date: __2021-04-04 10:39:47__
 
 

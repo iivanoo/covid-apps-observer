@@ -204,6 +204,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.lantik.bizkaiup 1 reviews"/>
 </p>
 
+> Es una porquería agan algo mejor<br> :date: __2021-06-13 13:59:13__
+
 > He descargado la aplicación para consultar horarios y no me salen más que anuncios<br> :date: __2021-04-25 13:48:12__
 
 > Un desastre la app de la renta; nos obligan a hacerla por Internet o por teléfono y no les funciona nada, en fin, un auténtico desastre.<br> :date: __2021-04-06 15:24:01__

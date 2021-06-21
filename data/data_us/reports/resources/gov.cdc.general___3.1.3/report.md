@@ -188,6 +188,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Great app<br> :date: __2021-06-16 08:52:32__
+
 > Excellent<br> :date: __2021-06-02 14:58:59__
 
 > Assist needed they salfasin, thorazine me<br> :date: __2021-05-12 21:59:09__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > To me it was filled with useful information, and if necessary I will definitely download the application again for the next update<br> :date: __2021-03-19 12:27:33__
 
 > CDC mobile app needs to make the app interesting. But I like it a little.<br> :date: __2021-03-13 13:14:10__
-
-> (Teaches us to stop the spread of germs by washing our hands)!<br> :date: __2021-03-10 14:45:32__
 
 
 
@@ -300,6 +300,12 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Don't remember checking out<br> :date: __2021-06-20 15:56:29__
+
+> This government is NOT LETIMATE!!! Joe Biden is a COW ad will DOOM US ALL!!! The 5G vacine TRACS YOU (AND IS A FRUAD)!!! DO NOT WAR A MASK!!! DO NOT SUMIT TO THE GOVEENMENT'S LIES!!! THE RACIST BLM MOB WILL NOT SILNCE ME!!! #CANCELCULTURE #TRUMP2024 #ADDZEROSTAROPTION<br> :date: __2021-06-20 05:04:55__
+
+> I have serious complaints about the clinic at upstate family medical health center in Utica New York 1001 Noyse Street they have given me medicine that has made me horribly sick it is tampered with the other medicines that I was using for my blood pressure and they've taken it upon themselves to say that I threatened to them and I will tell you I don't like my body being treated in that way in life and they have made me horribly sick they have made my health horribly worse<br> :date: __2021-06-16 23:30:37__
+
 > lieing S.O.B<br> :date: __2021-05-21 02:12:25__
 
 > Crashes when I try to download a chart.<br> :date: __2021-05-03 18:37:24__
@@ -313,11 +319,5 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > I can't believe this app<br> :date: __2021-03-17 07:24:17__
 
 > Covid19 not real because tree gave free oxygen everyone<br> :date: __2021-03-02 02:32:37__
-
-> I've tried several times to get the app to open. All i get is a white screen. I've uninstalled and installed the app several time and it won't open.<br> :date: __2021-02-26 03:18:05__
-
-> Impossible to find your way around.<br> :date: __2021-02-05 20:15:20__
-
-> Lies and misinformation. Waste of time<br> :date: __2021-01-11 18:28:55__
 
 

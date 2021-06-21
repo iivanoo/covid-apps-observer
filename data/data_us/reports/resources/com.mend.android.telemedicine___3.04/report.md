@@ -143,6 +143,8 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 5 reviews"/>
 </p>
 
+> Excellent<br> :date: __2021-06-16 21:11:37__
+
 > I helps<br> :date: __2021-06-06 18:25:04__
 
 > Very good for your teleconference visits with my doctor's , good connection is very good along with voice and camera , no problems with the total package overall . G. Lewis .<br> :date: __2021-05-06 02:04:50__
@@ -160,8 +162,6 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 > Works good not to hard<br> :date: __2020-10-02 14:15:26__
 
 > It takes a minute to get the information to the doctor. But then u go into video and see a doctor within 5 minutes. I got my prescription fast. I recommend this instead of going to a walk in doctor or your regular provider. During the coronavirus . I know people are scared to go to the doctor right now. This app allows you to see a doctor and not put yourself or your family in jeopardy. I'd give 10 stars or more if that was possible. Great job to all the doctor's and nurses.<br> :date: __2020-07-05 15:04:58__
-
-> It's ok<br> :date: __2020-07-01 03:15:22__
 
 
 

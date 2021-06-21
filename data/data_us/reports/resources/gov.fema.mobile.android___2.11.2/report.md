@@ -163,6 +163,14 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> Just a over all great app<br> :date: __2021-06-21 03:15:28__
+
+> Love this app for quick up to date severe weather updates great during hurricane season.<br> :date: __2021-06-17 21:34:48__
+
+> Excellent<br> :date: __2021-06-15 07:23:37__
+
+> Keeps you informed on natural disasters. Also offers other valuable information.<br> :date: __2021-06-12 00:41:48__
+
 > Is there a way you could add an EWS system in this to where when there is a Flash flood warning or something of greater threat it gives a Dialog Alert and plays an alarm sound to alert you before it happens? I just think it would be pretty useful and cool.<br> :date: __2021-06-11 03:58:32__
 
 > Good<br> :date: __2021-06-06 11:47:17__
@@ -174,14 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Through the good job in USA<br> :date: __2021-05-23 18:41:57__
 
 > Thank you.<br> :date: __2021-05-19 17:22:58__
-
-> Very helpful, especially when there's an emergency.<br> :date: __2021-05-13 07:35:29__
-
-> Excellent<br> :date: __2021-05-05 04:28:55__
-
-> Good<br> :date: __2021-04-29 00:11:19__
-
-> Thank God for Fema<br> :date: __2021-04-18 18:16:07__
 
 
 
@@ -219,6 +219,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 3 reviews"/>
 </p>
 
+> It works great but I finally deleted today after getting 20 of the same alert in less than 7 minutes it gets really annoy really fast<br> :date: __2021-06-12 23:08:07__
+
+> Really need more precise location specification, not county-wide. I don't need daily heat advisories for the desert >50 miles away when it's 75F on the coast where I live!<br> :date: __2021-06-11 22:55:26__
+
 > Haven't had this installed for 24 hours yet however it was easy to install, set which alerts I want/need for the counties I need. I don't get weather alerts for whatever yhe reason (checked settings) and had to depend on others to relay alerts. I can now get the alerts myself and it may be a lifesaver since where I live we get severe weather, tornados and hurricanes regularly.<br> :date: __2021-05-04 22:42:49__
 
 > It's helpful to have the alerts, but they come constantly about the same issue. They need to bundle alerts together and just say it's been updated.<br> :date: __2021-05-01 14:19:12__
@@ -234,10 +238,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > They did not explain what she was asking me about and was real short with me . To me she was rude but I need my house fixed not TVs or other stuff like that but thank you for what you did do.<br> :date: __2020-10-26 19:49:29__
 
 > Also I build homeless shelters and I think this would be the place to add my location make it official<br> :date: __2020-10-06 07:13:34__
-
-> Works but would multiply the same alerts<br> :date: __2020-10-03 19:46:59__
-
-> Sends out alerts as expected, but here's the issue. If I'm in another app (Facebook, e.g.), it won't override it, and there doesn't seem to be a way to get the alert within the actual app, so if you miss it... too bad. Also tried to pull up the app while roaming, and got a "no wifi" connection error. Who the hell has wifi during an emergency??? DO BETTER.<br> :date: __2020-09-13 18:35:21__
 
 
 
@@ -275,6 +275,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 1 reviews"/>
 </p>
 
+> Didn't go there that i remember, maybe passed through.<br> :date: __2021-06-20 15:54:51__
+
+> And once again many false alerts - almost 40% - with warnings that provide no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety. The app is almost completely unreliable because of so many false notifications, and we're just beginning another severe thunderstorm season. I still use it but I have not been able to trust it for a very long time. Sad.<br> :date: __2021-06-19 22:49:04__
+
 > What?! Have you made this so difficult that I will become frustrated and stop? I swear, I have been, somehow poisoned.<br> :date: __2021-04-25 08:24:07__
 
 > My name is DIANE KMIEC (not A Google User)!!! 3/27/21: I MUST UNINSTALL. I have received NO ALERTS or EMERGENCY data since the 1st days. Very alarmed that "FEMA" can't even get through to send me Emergency Alerts! \*\*\*\* I installed this. I hope it works as it should because my phone has been modified to stop me from receiving ANY Emergency alerts. (I believe that's illegal.) I am so desperate to receive Emergency Alerts that I'm downloading an outside app for it!<br> :date: __2021-03-27 23:50:09__
@@ -283,8 +287,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 
 > I am deleting this app. I get 6 or more notifications a day when we are getting 2-4 inches of snow. It wakes me in the middle of the night to update when I have already recieved the same notification before. It's too bad, I liked getting the bitter windchill warning. If the weather was serious it would be fine but I don't consider 4 inches of snow a blizzard.<br> :date: __2021-02-22 00:50:48__
 
-> Into a busy season and it's worse (after weather alert this morning there have been at least 5 false/blank alerts). Even after clearing cache, rebooting phone, etc still getting multiples of same exact alerts and several alerts with little or no lead time and now (once again) many - almost 40% - warnings with no info at all or nothing updated in the alert information. That's probably FEMA but still seriously downgrades usefulness. So problematic that other weather apps are needed for safety.<br> :date: __2021-02-15 23:00:29__
-
 > Why wasn't there an alert when the POTUS called the state of emergency for DC? He even mentioned FEMA for receiving info yet crickets feo FEMA. Z Typical government restrictions. If they block adding Washington D.C. as an area then they are blocking additional information. It will only have the activity they want you to know about. New rule for citizens. See something say nothing. You'll be safer that way.<br> :date: __2021-01-12 21:44:55__
 
 > Stopped working a few days ago. Started sending empty alerts. Reinstallation didn't help. Wouldn't accept location input.<br> :date: __2021-01-04 15:46:26__
@@ -292,7 +294,5 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Can't load location for alerts or risk mitigation<br> :date: __2021-01-03 18:53:48__
 
 > Dumb app. Just go outside and read the weather instead.<br> :date: __2020-12-04 16:24:43__
-
-> NO ALERTS... APP IS A JOKE.<br> :date: __2020-11-14 18:25:33__
 
 

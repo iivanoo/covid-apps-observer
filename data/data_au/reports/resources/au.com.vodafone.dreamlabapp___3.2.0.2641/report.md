@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> This app is an easy way for any one to be a part of something really big. I am glad to see this use of phones to create a super computer to work on crunching computations. I have done this type of thing with my PC before and was excited to be able to use my phone in a similar fasion<br> :date: __2021-06-20 16:29:21__
+
+> Fantastic idea. It's a no brainer to do.<br> :date: __2021-06-20 13:56:48__
+
+> DreamLab app provides huge analytical power for medical research, with no impact on your Vodafone account, by using your phone's processing power while it's on battery charge. It's a fabulous way to help research at no cost to oneself and one of many reasons why I've been a Vodafone user for 30 years.<br> :date: __2021-06-20 01:07:06__
+
+> Keeps quietly in the background, pauses if the is other activity on the phone, really nice, unobtrusive and well designed app<br> :date: __2021-06-19 18:23:01__
+
+> Excellent<br> :date: __2021-06-18 14:07:40__
+
+> Happy to Help<br> :date: __2021-06-16 22:24:27__
+
+> Excellent app - Easy to use.<br> :date: __2021-06-11 19:57:43__
+
 > Include an option to run it without charging<br> :date: __2021-06-10 09:12:51__
 
 > Easy to use and nice to help.<br> :date: __2021-06-09 16:19:23__
 
 > It's nice to be able to help research without having to lift a finger!<br> :date: __2021-06-06 07:31:11__
-
-> This is an excellent app. It works while the phone is charging. It is good to know that this app is helping to save lives.<br> :date: __2021-06-05 10:35:18__
-
-> Easy & worthwhile!<br> :date: __2021-06-04 21:01:20__
-
-> Please try to include these features for people who have devices that are in no use (at least for now). - Include an option to run it without thermal throttling. - Include an option to run it without charging. - Include an option where we can use 100% of CPU or GPU if it uses it (if this is really possible and/or if it only uses small amount of CPU/GPU). I have an old device that can have a use with this app.<br> :date: __2021-06-04 11:58:41__
-
-> Excellent app, makes you feel like you are doing your bit to help, but with no hassle, simply put your device on charge the app does the rest, good to go to bed knowing in some way I am helping with research, on a device which would otherwise be dormant.<br> :date: __2021-06-03 07:53:50__
-
-> Also. I run the app on an old phone that i charge continuously. It has used less than 25 cents of electricity over many months and has done 300,000 calculations using wifi without mobile data. Great concept to do useful calculations at negible cost or effort on tbe part of the phone owner.<br> :date: __2021-06-01 11:24:35__
-
-> Use this app to help science while you sleep. This app is good, clean, easy to use and doesn't interrupt my phone usage but let's me do a little bit to help someone while I sleep. It has that "feel good about yourself" factor.<br> :date: __2021-06-01 08:23:15__
-
-> If it helps, why not<br> :date: __2021-05-27 09:29:19__
 
 
 

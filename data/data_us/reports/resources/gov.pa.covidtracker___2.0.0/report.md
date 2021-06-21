@@ -142,6 +142,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Really appreciated.<br> :date: __2021-06-18 16:05:02__
+
 > Thank you<br> :date: __2021-06-04 18:27:53__
 
 > I love receiving The Worldwide updates of what's going on in the world of covid-19<br> :date: __2021-04-28 08:05:52__
@@ -159,8 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Ok<br> :date: __2021-04-05 04:33:50__
 
 > It's very easy to understand and to follow Thank You very much.<br> :date: __2021-03-30 00:17:42__
-
-> Ih<br> :date: __2021-03-24 19:07:31__
 
 
 
@@ -226,6 +226,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
 
+> Worked ok I think but then it started to check for keys and just kept doing that. That needs to stop. I rebooted too but that didn't reset it.<br> :date: __2021-06-13 22:29:17__
+
 > Nice idea, but ultimately served little purpose due to lack of any real functionality. Good source of data regarding state and local case numbers but served zero purpose otherwise. App didn't know when an individual was positive or not so exposure alert was useless.<br> :date: __2021-05-22 16:26:48__
 
 > Works great when I first installed it but now I can't even get on it<br> :date: __2021-03-29 22:20:37__
@@ -244,8 +246,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Only good if you live in PA. Not valid for anywhere else.<br> :date: __2021-01-24 17:58:17__
 
-> Where's the question of have you been vaccinated? Let's see the important info and show how PA is lagging behind.<br> :date: __2021-01-22 18:14:18__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
+
+> Needs more information on how to use it had difficulties knowing and learning on how it is posed to be used on it.<br> :date: __2021-06-16 16:58:55__
+
+> Was tested positive for COVID 19. Was never give a 6 digit code to put in the app.<br> :date: __2021-06-14 19:57:29__
+
+> What does England have to do with this app? Commonwealth means England's property. This would be more effective if the federal government made the application. Security risk<br> :date: __2021-06-11 19:10:45__
 
 > This app is worthless. They dont use actual hospital or govt med records to create the database. My neighbor had covid, went to the hospital, it never alerted. So what's the point? Less than 1M people used it. Philly 7M people, PA over 20M. It's worthless. I can get the same alerts from Philly's OEM text service. Even Citizen app. This has no reliable functionality other than giving current Covid numbers. It can't warn you effectively.<br> :date: __2021-06-07 14:12:29__
 
@@ -267,11 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > This was pointless. I was in contact with someone who tested positive, but no one ever gave them a code to enter and I never got an alert<br> :date: __2021-05-23 02:04:07__
 
 > Pointless app.<br> :date: __2021-05-22 02:53:46__
-
-> Inaccurate reports. Overall, the order from most cases to least cases by county put the counties in the correct positions. However, daily reports of cases are wrong....FACT...USELESS APP<br> :date: __2021-05-14 21:39:49__
-
-> Old data. The paper has more current numbers. How is that even possible?<br> :date: __2021-05-12 15:15:20__
-
-> Privacy concerns - after all the promises of privacy and safeguards, 70,000 people had their private information from the company doing contact tracing leaked online. Pass on the government Spyware.<br> :date: __2021-05-12 13:35:48__
 
 

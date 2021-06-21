@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEAJwEkwr_0VcutjAvoWM3Ex2Z4kP5Fj1NZENEhEsr-4Ns3Dxyec32iXTYuDA6pqWl4Is87QLujKcRs2mA",
+        "userName": "Joshua G.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZiAvLBRBud3msF7_QnWvWaYcdJ25KJVG7xCgC",
+        "content": "Tracking app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-12 07:48:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFCxbQKFGXEF5FZ_TyBcCm2oCcfrQCQQ6i6hGpkLr3BWNNdOWMA4P6MCN2QP0ssr2T0ELu-MwsrBqcHafc",
         "userName": "Sandra Henke",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyKVAu_vvsUlCVED_Etmk4EBjbkG5YlhGyWy3pw=mo",
@@ -173,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjm2AmL9F1AiSxT9pd4NTp-pmB8b-C_V8vBpCf4S74",
         "content": "Useless. If you have covid you will know by... being sick!",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-04-13 20:00:19",
         "replyContent": null,
@@ -265,7 +277,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFG5YVLROm4RoF1cgI004r4UkDOiQ7Gj-z-OiRNsYR11rQzru2Qx59fH-1QqoM5yF8sAcTmoWbFa0B4q4Y",
-        "userName": "Caroline Jochum",
+        "userName": "Caroline Becker Jochum",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghip1XErcaNVbpwFDz90uDy8aedF80iSG1t_orerg",
         "content": "I don't know yet I just downloaded the app",
         "score": 4,
@@ -317,7 +329,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj3kXZMs9DoEYzcFcod1C07SEqxtmJIysgqJStrQ",
         "content": "Buggy and annoying. The \"checking exposures\" notification will pop up on top of literally everything else even though a background process running is my lowest priority unless I've actually been exposed. And sometimes it gets stuck in a loop causing it to pop up over and over for a period of about 5 minutes. And during that 5 minutes, the app itself won't even open - it gets stuck on the splash screen. Edit: uninstalling because still no fix and just got 20 notifications in a row.",
         "score": 1,
-        "thumbsUpCount": 116,
+        "thumbsUpCount": 117,
         "reviewCreatedVersion": "1.6.1",
         "at": "2021-03-31 19:32:39",
         "replyContent": null,
@@ -485,7 +497,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-UyPZGo_ZdnoCjnVk4qEkQ8hcMLilX1swTJR5=mo",
         "content": "Seems like a great idea, but It sends a push notification everytime it checks to see if your exposed, without any way of changing it to only alert if potentially exposed. It just went off at 4am and all it was doing was checking, which isn't cool. Also, you actually have to add your test results. I've been around several people who tested positive and the app said nothing. Maybe the app should be required for covid tests, and the results should be sent through it so the app actually works.",
         "score": 1,
-        "thumbsUpCount": 154,
+        "thumbsUpCount": 156,
         "reviewCreatedVersion": "1.6.1",
         "at": "2021-02-17 10:50:49",
         "replyContent": null,
@@ -1826,7 +1838,7 @@
     {
         "reviewId": "gp:AOqpTOGpvDENPgRFFlbhper0svmRsweJsRqBh05U6DqSfLjwU3_64PoJc_Htapdqv3vD53tJyxmX5FL2O2KoQ14",
         "userName": "orangeORCHID alisterCrowley",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhaaxsKY_wtMZXpusLQipayL8mFIh6Xg5_gMTgP3g",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhmueE32SMmvNuMh-UmBTO8rfgBZGqZWWn1-Irm-w",
         "content": "Why is aids not as thought of too protect us",
         "score": 1,
         "thumbsUpCount": 4,

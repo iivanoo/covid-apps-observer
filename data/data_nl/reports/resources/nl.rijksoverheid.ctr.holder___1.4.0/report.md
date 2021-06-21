@@ -140,25 +140,25 @@ The CoronaCheck app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 5 reviews"/>
 </p>
 
-> Welkom in Noord Korea<br> :date: __2021-06-10 21:45:50__
+> Al gedownload en vanaf 25 juni kun je de QR downloaden voor NL en vanaf 1 juli voor o.a. de EU<br> :date: __2021-06-21 09:11:30__
 
-> Goede app, werkt goed. Technische problemen zijn er niet.<br> :date: __2021-06-10 07:33:34__
+> App werkt zoals hij moet.<br> :date: __2021-06-21 02:14:34__
 
-> Ziet er strak uit. Hopelijk vanaf 1 juli compleet werkend!<br> :date: __2021-06-10 07:12:19__
+> Veel Forumaanhangers en antivaxers hebben de app alleen geinstalleerd om de app en het vaccinatiepaspoort af te kraken. Op Telegram roepen ze elkaar op om oa met nepaccounts veel reuring en twijfel te zaaien. Het moet dan lijken alsof de halve bevolking tegen het vaccinatiepaspoort is. Handig om te weten bij het lezen van de reviews...<br> :date: __2021-06-20 21:26:35__
 
-> Goed initiatief.<br> :date: __2021-06-07 22:16:09__
+> Prima dat het via deze app straks mogelijk is te reizen. Overheid pakt het goed aan,alleen mensen lezen niet en kraken deze app gelijk af ..zo jammer.<br> :date: __2021-06-20 08:41:08__
 
-> Werkt goed! Iedereen zou de app moeten gebruiken.<br> :date: __2021-06-05 19:49:38__
+> Doet wat het moet doen, en de mensen die zeuren over dat ze nog geen vaccinatie QR kunnen maken/inzien: dit kan pas eind Juni! (Kost je echt maar een paar minuten zoeken, korter dan het schrijven van een onterecht slechte review hahaha).<br> :date: __2021-06-19 16:33:43__
 
-> Ik zie heel veel reacties van waarom je je nog moet laten testen. Ik denk dat het als volgt is: Op dit moment kunnen de mensen na 1987 (volgensmij) nog besmet worden, ook als jij een vaccinatie hebt gehad want corona gaat niet weg. Dit is een goede oplossing totdat iedereen de keuze heeft gehad voor een vaccinatie, als er daarna nog mensen heftige corona krijgen is het aan hun zelf te danken. Maar tot nu toe is dit even een goede manier denk ik.<br> :date: __2021-06-05 11:55:40__
+> Hoe kan k mijn vaccinatie erin zetten?<br> :date: __2021-06-18 21:23:57__
 
-> Mensen gebruiken de reviews om hun mening te uiten over de corona maatregelen. Dit is daar niet de geschikte plek voor en heeft ook niets met de app te maken. Blij dat de app de mogelijkheid biedt mij naar evenementen te laten gaan middels testen. Hopelijk, als ik eenmaal zelf gevaccineerd ben, kunnen die ook worden aangetoond met de app :) beetje geduld daarop kan geen kwaad.<br> :date: __2021-06-05 09:56:44__
+> Goed<br> :date: __2021-06-18 19:30:50__
 
-> Nog weinig mee<br> :date: __2021-06-04 17:35:36__
+> Let op: ben je volledig gevaccineerd en wil je een Nederlands bewijs maken? Dat kan vanaf eind juni!!!<br> :date: __2021-06-18 19:28:15__
 
-> Vakantie<br> :date: __2021-05-31 15:02:52__
+> LET EROP: een QR-code voor gevaccineerde werkt pas op 1 juli. Dus wat andere schrijven, dat het niet werkt, hebben niet goed geluisterd naar Het Rijk.<br> :date: __2021-06-18 13:51:48__
 
-> Bevestigde testafspraak is niet terug te vinden in de app. Gelukkig had ik een screenshot gemaakt. Edit: Bevesting testafspraak kreeg ik alsnog na mijn review via de mail. Test uitslag omzetten naar QR en inchecken voor het pilot evenement ging vlekkeloos, prima app.<br> :date: __2021-04-27 09:33:27__
+> Fantastische app! Vooral heel goed dat hij nog niet werkt. Ik ben zelf al 2 keer gevaccineerd, maar zou het oneerlijk vinden als ik hierdoor (zonder toestanden en tests) eerder op reis zou kunnen dan iemand die minder risico loopt op complicaties.<br> :date: __2021-06-16 09:53:22__
 
 
 
@@ -167,6 +167,20 @@ The CoronaCheck app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 4 reviews"/>
 </p>
+
+> De app is een mooi hulpmiddel om straks weer te kunnen reizen. Nog even wachtten en dan ook je vaccinatie bewijs uploaden. Goed initiatief. Mistroostig om te zien hoe mensen de mogelijkheid tot review op de app ook hier hun eeuwige gal over de overheid moet spuien. Opmerkingen als "tweede wereldoorlog", "mijn vrijheid wordt me afgenomen", "trein naar Polen" zijn walgelijk en misplaatst.<br> :date: __2021-06-21 08:20:23__
+
+> De app doet waar hij voor gemaakt is. Alleen qr code wanneer je getest bent. De rest komt op 1 juli.<br> :date: __2021-06-20 17:37:44__
+
+> Ik begrijp die negatieve reacties niet. Er staat toch duidelijk EIND JUNI..<br> :date: __2021-06-19 22:59:02__
+
+> Werkt goed tot op heden.<br> :date: __2021-06-19 12:18:45__
+
+> Iedereen maar klagen over onze overdreven zorgzame overheid maar als ze zelf iets niet meteen kunnen vinden gaan ze echt niet zelf op zoek! Vaccinatie bewijzen vanaf 23 juni (was ongeveer 5 seconden zoeken)<br> :date: __2021-06-18 21:21:42__
+
+> Ik wacht op bewijs van vaccinatie.<br> :date: __2021-06-17 07:23:36__
+
+> Super dat dit mogelijk is. Wat is de reden dat de app niet in het Engels weergegeven kan worden, bijvoorbeeld voor expats?<br> :date: __2021-06-16 15:18:12__
 
 > Word tijd dat er een update komt ivm de qr code voor mensen die gevaccineerd zijn.<br> :date: __2021-06-08 14:33:14__
 
@@ -182,19 +196,25 @@ The CoronaCheck app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 3 reviews"/>
 </p>
 
-> Hoop wel dat de vaccinatie er eind JUNI in kunnen staan zoals in EU bepaald. Maar in NL is alles veel te traag dus zal wel met een of andere smoes weer veel later worden. We zijn tenslotte in januari gaan vaccineren en dan ga je in mei pas over zoiets nadenken Een beetje meer toekomst gericht vooruit denken kan de politiek hier niet. Waarom kun je nu geen bewijs van vaccinatie downloaden bij de RIVM? Staat wel geregistreerd bij mijn RIVM maar kan niets officieel downloaden Waarom zo moeilijk??<br> :date: __2021-06-06 13:32:55__
+> Deze app kan niet compatible zijn voor de wat oudere mobieltjes... zo komt mijn moeder er net achter dat haar mobiel (zonder abo) van 5 a 6jr oud, niet compatible is met deze app.<br> :date: __2021-06-20 16:51:35__
 
-> Jammer dat je niet kunt zien welke afspraken je hebt. Verder wel een makkelijk app.<br> :date: __2021-06-06 00:10:11__
+> Ik kan er niet veel mee. Pas per 1 juli zal de mogelijkheid voor reizen worden toegevoegd. Waarom dat niet eerder wordt gedaan zoals in Duitsland en Oostenrijk is mij een raadsel. Het EU portaal meldt dat Nederland er klaar voor is. Dit betekent dus dat ik alsnog een pcr test moet doen. Op eigen kosten, want ook pcr tests worden pas vanaf 1 juli gratis aangeboden. Gemiste kans dus<br> :date: __2021-06-20 09:41:40__
 
-> Als ik bij het maken van een afspraak voor testen kom, bij testen voor toegang. Word heel de tekst samengeknepen op mijn scherm. En sommige tekst blokjes vallen buiten beeld.<br> :date: __2021-06-04 21:50:21__
+> Ik heb het idee dat mijn smartphone trager is geworden na installatie van de app. Het lijkt veel geheugen of processorkracht te gebruiken. Na de-installatie werd hij weer een stukje sneller.<br> :date: __2021-06-20 07:14:50__
 
-> *Doet wat hij moet doen: een qr code aanmaken en tonen. *Maar: de routing in de app is voor verbetering vatbaar. Ik moet vier (!) keer klikken op 'maak een afspraak' in even zo veel verschillende schermen voordat ik daadwerkelijk een afspraak kán maken. Én daarvoor wordt ik dan ook nog doorgeleid naar een website buiten de app. Dat kan (véél) beter..<br> :date: __2021-06-03 14:02:21__
+> Volgens mij is er gecommuniceerd dat de app 23 juni wordt uitgebreid met vaccinatie bewijs. Dus als dit nu nog niet werkt, klopt dit. Fakkel de app daar nu dan nog niet op af<br> :date: __2021-06-19 10:18:35__
 
-> Puur gericht op testen, nog niet voór vaccinatie.<br> :date: __2021-06-01 12:59:50__
+> En hoe zit het als je gevaccineerd bent? Dat kan je niet invullen, dan moet je ondanks de vaccinatie nog iedere keer testen.<br> :date: __2021-06-18 19:50:26__
 
-> Wanneer zie ik hier mijn vaccinatie status terug?<br> :date: __2021-05-03 07:20:50__
+> Kreeg de melding dat ik geen internetverbinding zou hebben. Inmiddels start het wel op. Onnavolgbaar én het geeft weinig vertrouwen voor de toekomst. Verder is het wachten tot 1 juli, dan zou meer moeten kunnen. Dat hoop ik dan maar.<br> :date: __2021-06-18 19:35:50__
 
-> Jammer dat er maar voor 1 persoon een QR code kan worden aangemaakt. Zou handig zijn als een heel gezin erin gezet kan worden. Dan hoeft niet iedereen de app te hebben en te tonen. En kan ook een mobielloze partner gewoon een code krijgen.<br> :date: __2021-04-19 15:55:14__
+> Fijn dat de App er is. Ik neem aan dat de Corona melder App hiermee overbodig is geworden en direct verwijderd kan worden. Twee apps voor een zelfde onderwerp ga ik sowieso niet doen.<br> :date: __2021-06-18 19:21:32__
+
+> Kan er nu niet veel mee. Hoe moeilijk is het om een koppeling te maken naar de data van het rivm. Wordt het expres uitgesteld om de mensen in Nederland te houden? Langer dan een jaar in de stress en elende en nog kunnen we niks. Nog steeds moeten we een test betalen ondanks dat je 2 vaccinaties hebt gehad. Test is overigens duurder dan de vlucht zelf. Hopelijk schiet de ontwikkeling van de app op.<br> :date: __2021-06-17 16:38:14__
+
+> Is het wellicht mogelijk dat er een optie bij komt dat je ook kunt aantonen dat je genezen bent van corona?<br> :date: __2021-06-14 19:57:52__
+
+> Ik vraag me af hoelang het duurt van moment van vaccinatie en verwerking van de gegevens in de CoronaCheck app. Daarnaast zie ik in de play store 2 soorten staan ?<br> :date: __2021-06-11 13:50:32__
 
 
 
@@ -204,19 +224,25 @@ The CoronaCheck app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 2 reviews"/>
 </p>
 
-> Jammer: net als de coronamelder kan ook de coronacheck niet op mijn telefoon. Hoop dat er ook een ander officieel bewijs komt van vaccinatie anders moet ik weer een goedwerkende telefoon (slechts uit 2016)vervangen om een app te kunnen instaleren.<br> :date: __2021-06-11 09:50:18__
+> Ik zie mijn inentingen niet<br> :date: __2021-06-20 11:22:40__
 
-> Wat is het nut .ik ben reeds 2x gevaccineerd, moet ik me dan toch weer laten testen.<br> :date: __2021-06-09 21:48:49__
+> Geïnstalleerd maar je kan niet aan geven dat je volledig gevaccineerd bent. Het is maar een halve app en alleen te gebruiken bij een covid-19 test die maar zeer beperkt geldig is. Geen idee wat ik hier mee aan moet.<br> :date: __2021-06-18 20:10:56__
 
-> Bij mij komt een app niet zo sterk over als er over voetbal wordt gesproken. (interland Letland....😕). Er is toch een veel veel betere motivatie aan te geven?<br> :date: __2021-06-06 08:38:50__
+> Kom niet verder dan het invullen van de code van de coronatest. Maar ik heb geen coronatest gehad. Ben ook niet ziek geweest.<br> :date: __2021-06-18 19:24:27__
 
-> Nog steeds geen optie voor reizen in Europa!<br> :date: __2021-06-04 13:17:01__
+> Maakt niet eens verbinding met de wifi. Slecht direct verwijderd.<br> :date: __2021-06-18 19:23:55__
 
-> Waardeloze app, er wordt nieteens de vaccinatie in mee genomen<br> :date: __2021-05-28 22:55:00__
+> Weet het nog niet, blijft bij mij hangen op "we starten de app voor je op" Hierna geeft hij aan dat ik geen internet verbinding heb..<br> :date: __2021-06-18 19:17:49__
 
-> Werkt één keer goed, daarna niet meer. Donderdag negatieve test, omgezet in qr code, vrijdag verdwenen. Gister negatieve test, vanochtend omgezet in qr code, vanavond verdwenen en niet opnieuw om te zetten. Gelukkig werd de email ook geaccepteerd<br> :date: __2021-04-19 23:29:00__
+> Krijg te zien dat mijn vaccinatie bewijs ook zou moeten kunnen. HOE?<br> :date: __2021-06-18 12:15:20__
 
-> Werkt dus weer niet op Android 10 met tablet samsung galaxy tab 9.helaas maar waar.<br> :date: __2021-04-10 08:56:30__
+> Wat moet je hiermee doen dan, ik kan niks van mezelf zien of komt dat nog? Als je gevaccineerd bent heb je hier nog niks aan.<br> :date: __2021-06-18 02:53:32__
+
+> Slecht. Ik wil een Eurooees vaccinatiebewijs en geen corona test.<br> :date: __2021-06-18 01:04:36__
+
+> Nog niet actueel, vraagt nog steeds alleen naar testen. 2 x gevaccineerd kan nog geen qr code aanvragen<br> :date: __2021-06-17 17:42:55__
+
+> Waarom moet het zolang duren voordat je vaccinaties er in kunnen? Hoe moeilijk kan het zijn om via digid een koppeling te maken naar de database van rivm. De overheid en ict, geen gelukkige combinatie.<br> :date: __2021-06-16 00:33:45__
 
 
 
@@ -226,24 +252,24 @@ The CoronaCheck app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="nl.rijksoverheid.ctr.holder 1 reviews"/>
 </p>
 
-> De bekende gele Tag op je borst maar dan digitaal. Ein volk Ein Fu....<br> :date: __2021-06-10 20:33:05__
+> Ik wil ook mijn recente besmetting toe kunnen voegen, ik wil namelijk geen vaccin.<br> :date: __2021-06-21 09:08:05__
 
-> Als ik op mijn android telefoon met android 8 naar coronacheck.nl ga, krijg ik de melding dat de verbinding niet prive is, in de coronacheck app krijg ik de melding, is niet verbonden met internet, waardoor ik de app niet in gebruik kan nemen. Dit aub z.s.m. verhelpen met een update voor android 8.0.0.<br> :date: __2021-06-10 12:02:23__
+> Totalitairian social credit trojan horse<br> :date: __2021-06-21 07:50:11__
 
-> ben gvd 2 keer.vor.gespoten met.pyser en nu weer testen flikermop man onzin<br> :date: __2021-06-10 08:45:04__
+> Ik zie geen gelegenheid mijn vaccinatiegegevens op te halen<br> :date: __2021-06-20 23:33:13__
 
-> Niet doen! Gekkies<br> :date: __2021-06-09 23:22:18__
+> Kan niet inloggenet DigiD, laat staan vaccinatie laden. Waardeloos dus.<br> :date: __2021-06-20 20:20:37__
 
-> Fijn zo een verplichte vaccinatie. Geen vaccinatie? Geen vrijheid. Voelt als de 2e wereldoorlog, een 2-deling tussen "goed" en "slecht". Omdat ik mij niet vaccineer wordt mijn vrijheid ontnomen. Erg gevaarlijke ontwikkeling. Wat is het volgende. De trein naar polen?<br> :date: __2021-06-09 22:44:35__
+> Vreselijk dat het tot dit is gekomen<br> :date: __2021-06-20 18:42:46__
 
-> Onder de 12 jaar waarschijnlijk zonder testen maar hoe gaat het met 12 tot 17 jarigen? Die krijgen geen vaccinatie en vallen dus tussen wal en schip?<br> :date: __2021-06-09 20:41:10__
+> NSB'ers<br> :date: __2021-06-20 17:30:06__
 
-> Kan de vaccinaties nog niet inladen.......<br> :date: __2021-06-09 17:40:21__
+> Je moet eerst getest zijn wil verder gaan in de app maar ik hoef niet getest te worden .jammer hoor ik doe het wel ouderwets via papier. Ik ga de app weghalen<br> :date: __2021-06-20 14:02:27__
 
-> Niet voor de reeds ge ente.mensch..<br> :date: __2021-06-08 22:05:48__
+> Deze app is,geldig als je getest bent,dus niet geldig voor als je bent ingeënt. Waardeloze app.<br> :date: __2021-06-20 13:36:56__
 
-> Hopelijk komt mijn vaccinatie er in te staan mijn rivm geen vaccinaties gevonden is toch al 4 weken geleden dat ik gevaccineerd ben.<br> :date: __2021-06-08 20:28:51__
+> Slecht dat vaccinatie geen voordelen op levert<br> :date: __2021-06-20 10:47:14__
 
-> Beetje onzinnig dat je nog steeds moet testen om ergens binnen te komen, ook na volledige vaccinatie<br> :date: __2021-06-07 20:28:36__
+> Toch waardeloos zo'n app, vakantie komt eraan en we code voor gevaccineerden is er nog steeds niet. Waardeloos<br> :date: __2021-06-20 10:38:44__
 
 

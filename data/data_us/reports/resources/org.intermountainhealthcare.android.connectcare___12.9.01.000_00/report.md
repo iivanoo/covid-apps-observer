@@ -189,6 +189,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Great<br> :date: __2021-06-13 09:38:33__
+
 > Well done<br> :date: __2021-06-02 13:40:36__
 
 > Easy, quick and convenient<br> :date: __2021-05-31 17:04:56__
@@ -206,8 +208,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Very good<br> :date: __2021-04-17 18:46:15__
 
 > Did not have any problems with this app.<br> :date: __2021-04-04 22:37:15__
-
-> Very on top of things and easy to use!<br> :date: __2021-04-01 21:23:59__
 
 
 
@@ -273,6 +273,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="2_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 2 reviews"/>
 </p>
 
+> It's nice when it actually works.<br> :date: __2021-06-14 17:18:30__
+
 > Ok idea, but I remain uncomfortable with it<br> :date: __2021-06-03 08:55:06__
 
 > This app always freezes up. So hard to get to everything you need to see.<br> :date: __2021-03-21 03:13:16__
@@ -290,8 +292,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > The NP's and PA's are the most unhelpful and rude health professionals I've ever spoken with, and I am in healthcare. They jump to conclusions and give misinformation ( adults can't get thrush??). EDIT. The app was fine. That's the only reason I'm giving 2 stars.<br> :date: __2020-06-13 21:52:25__
 
 > Never connected with doctor. Totally a waste of an hour and half.<br> :date: __2020-05-25 05:37:12__
-
-> Not able to connect - no video<br> :date: __2020-05-18 18:38:55__
 
 
 

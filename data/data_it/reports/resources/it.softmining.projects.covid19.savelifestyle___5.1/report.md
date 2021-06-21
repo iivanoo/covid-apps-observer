@@ -185,6 +185,10 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 5 reviews"/>
 </p>
 
+> Santucci fitto<br> :date: __2021-06-20 07:49:26__
+
+> Ok<br> :date: __2021-06-17 13:56:18__
+
 > Ottima app<br> :date: __2021-01-17 03:55:29__
 
 > Affidabile buono<br> :date: __2020-12-10 12:23:55__
@@ -200,10 +204,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Eccezionale<br> :date: __2020-10-13 11:33:09__
 
 > Per sapere se qualcuno in casa ha il VIRUS COME faccio a sapere. ?<br> :date: __2020-10-11 16:34:58__
-
-> Molto interessante<br> :date: __2020-10-11 10:26:42__
-
-> E utile e ti da una certa sicurezza oltre a livello di prevenzione anche un a livello psicologico e un ottima applicazione<br> :date: __2020-10-10 23:22:43__
 
 
 
