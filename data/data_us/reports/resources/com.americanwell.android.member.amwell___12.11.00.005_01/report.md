@@ -213,6 +213,14 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Always great to have a doctor on the internet<br> :date: __2021-06-26 04:46:15__
+
+> Great<br> :date: __2021-06-23 03:18:37__
+
+> Cooler than sliced bread 🤔<br> :date: __2021-06-22 13:17:51__
+
+> great way to c a doc....luv it!<br> :date: __2021-06-22 11:17:57__
+
 > I suggest anybody using this it works very well very quick and the doctor was phenomenal. I would rate it a 10 if I could.☝️👍<br> :date: __2021-06-19 22:45:56__
 
 > Quick and easy<br> :date: __2021-06-18 19:12:03__
@@ -224,14 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Esst to use, doctors are friendly and efficient<br> :date: __2021-06-13 19:37:35__
 
 > Very fast telephone visit. Had a call from a provider in less than 5 minutes of completing my online registration! Definitely easier and faster than previously using MDLIve. Thanks to my employers insurance, it was $5 instead of $100+ from an Urgent Care facility.<br> :date: __2021-06-09 04:30:26__
-
-> Such a convenient way to receive urgent care from the comfort of your home or while at work. Very easy to use. All that's needed is good lighting and a steady wifi connection.<br> :date: __2021-06-04 11:45:28__
-
-> Very quick and efficient<br> :date: __2021-05-30 17:17:52__
-
-> Fast and easy. No long wait at urgent care<br> :date: __2021-05-25 18:32:01__
-
-> The app was very straightforward and easy to use. The doctor was very professional and .out important, he provided excellent treatment options.<br> :date: __2021-05-22 14:38:15__
 
 
 
@@ -323,6 +323,10 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> A joke. Charged me 80 to tell me they can't treat me. I called for a uti and it plainly says they can treat it. They lie and are a joke. FALSE ADVERTISEMENT. They say go to the er. So basically pay us 80.00 to tell you to go spend 3000.00 seriously people it's a joke a wanna be quack in a white robe. Please stay away from this service. They need to be sued for false advertising and Mal Pratice.<br> :date: __2021-06-26 02:53:36__
+
+> It was $125 co-pay with my insurance and it's too expensive for me since I'm on disability. And then all the negative reviews made me to not use this facility.<br> :date: __2021-06-24 21:40:34__
+
 > Bs!! Doesn't take my insurance!! I really need help<br> :date: __2021-06-18 04:45:48__
 
 > Kept crashing<br> :date: __2021-06-12 02:30:35__
@@ -338,9 +342,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Not used<br> :date: __2021-04-19 05:04:06__
 
 > App keeps crashing. I need to see my therapist. This sucks. What if someone was snowballing into a crisis situation and needed to talk? I'm pretty annoyed.<br> :date: __2021-04-09 13:28:51__
-
-> Every update makes the app worse. Can't find insurance, can't see or hear doctor, can't leave doctor reviews anymore, doctors seem to be rood a lot. Very frustrating.<br> :date: __2021-04-03 22:49:08__
-
-> Doc canceled video chat mid meeting w/o reason-she couldn't be seen or heard at 1st, then I could barely her even tho my Galaxy Note 20 Ultra 5G was on the highest volume. She said she was typing so she couldn't turn on the camera at the same time. Mina Rizwan was found under Women's Health and her profile stated it is her profession. I had uploaded images of my health report since I was looking for a 2nd opinion, all she told me was to go to my OBGYN n hung up on me. POINTLESS APP!RUDE DOCTOR!<br> :date: __2021-04-03 18:17:37__
 
 

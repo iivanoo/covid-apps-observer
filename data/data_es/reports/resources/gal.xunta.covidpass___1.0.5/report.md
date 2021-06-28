@@ -187,6 +187,10 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Muy útil. Para poder estar informado.<br> :date: __2021-06-23 20:52:58__
+
+> Trabajan muy bien<br> :date: __2021-06-22 18:13:07__
+
 > Hay que descargar las 2 aplicaciones juntas sino no funcionan y hay que tener encendido el Bluetooth (o no funciona otra vez). A mí me funcionó tan bien mlsientras la tuve un el móvil que sólo por estar al tanto de las últimas novedades me la instalo. Ya os diré qué tal me va .…..…...…Enhorabuena¡!¡!¡!!!👍<br> :date: __2021-06-03 23:59:02__
 
 > Muy bien yo la utilizo<br> :date: __2021-04-28 13:01:04__
@@ -203,10 +207,6 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 
 > Muy buena y útil si vives en Galicia. Lo que más me ha gustado es que están bien explicadas y organizadas las restricciones por concello con datos actualizados y oficiales de la propia Xunta. No hay información más actualizada y veraz que esta. Además si tu resultado es positivo aquí te mostrará tu código para introducir en Radar Covid, a parte de hacer listas con contactos estrechos o declarar un contacto de riesgo para que te hagan la prueba entre otras funciones. Muy buena.<br> :date: __2021-01-07 22:08:33__
 
-> Quizás debería ser un poco mas sencilla su forma de uso<br> :date: __2021-01-03 10:23:05__
-
-> Después de esta actualización funciona muy bien. Gracias.<br> :date: __2021-01-02 18:50:17__
-
 
 
 #### 4-star reviews
@@ -214,6 +214,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
+
+> Hostelería interior al 30% y exterior al 50%. Por favor dar la información correcta. Esto no es verdad. Interior al 50 y exterior al 75. Varias veces que lo actualizan y vuelven a ponerlo mal. Falla en lo básico.<br> :date: __2021-06-26 08:47:11__
 
 > Útil<br> :date: __2021-04-20 16:53:06__
 

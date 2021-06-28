@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGE_e6GjaUtXxacZVQvB4hI0RM0_DMlbG4rdhwpYXrMy8hBJRIov3i5itl0XMyE25I0YGg5mU88GCIGww",
+        "userName": "Michael Rostgaard",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhvMITTxUeuK9O-Fctlnw8teNEf6OOsFgBYPhm5",
+        "content": "I have had this app installed over 1 year. Never have I received 1 notification from it to warn me. I doubt its relevant anymore.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-24 12:12:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEzlWB2-jYQMtXn1y7ILyK8nzzV0Ob696jPDyK8sSSvgUyA9ebqDbfPJCs5F6yurLa9eUNtdk4M74JA-w",
         "userName": "Jannik Maag",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlYCIvcQlVJ9FCbgpyJdZ3Iusz_2s4Y8DP6Sa-=mo",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi0igpVOi2tQtKobVBOQjarZ-eVcKCHu_1uEAUCRGw",
         "content": "Looks like the app is back to not checking for exposures, even if I open it manually. It suddenly struck me that I hadn't see the \"checking for exposure\" notification in a while, and lo and behold, there's 0 checks registered by my phone the last 30 days. Furthermore, the app has used 6mb of data since January (seems too little), and 0mb in all of April. I'm going back to my original rating: absolutely atrocious that THIS has been released to the population, as it's completely useless.",
         "score": 1,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 33,
         "reviewCreatedVersion": "2.3.3",
         "at": "2021-04-17 06:52:29",
         "replyContent": null,
@@ -134,7 +146,7 @@
     {
         "reviewId": "gp:AOqpTOH9ZOZFaYgdE2sPO7kejmjZHGSNKM_D9LOdHSgVi4-f9PMVHR77b8MlTxfEq2G03pWnzGxt_xPiMZRfdA",
         "userName": "Marie Gaarden Bresson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWjpYBZnKeXRrR390rVAVS2EJHK8vKxjjIyAAvH9M",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhAgKtChJzzN_YL1piELKE_mVZJ_Bv-5Rp5sUApQvE",
         "content": "\u00d8nskes: mulighed for at frav\u00e6lge irriterende info-notifikation",
         "score": 4,
         "thumbsUpCount": 0,
@@ -1781,7 +1793,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxCjTX7Y5RUzbaFab8021JrwpEhTsSvFrnQ3Bk=mo",
         "content": "Great solution! I am impressed by how well the app and tracing system was designed. It's impressive how the design allows to both ensure absolute privacy of all users while still being able to track infection chains anonymously. Good work!",
         "score": 5,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "1.0.2",
         "at": "2020-07-08 17:21:06",
         "replyContent": null,

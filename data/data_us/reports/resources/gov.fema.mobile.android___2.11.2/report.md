@@ -163,6 +163,10 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="gov.fema.mobile.android 5 reviews"/>
 </p>
 
+> FEMA IS GREAT N RELIABLE<br> :date: __2021-06-27 02:51:56__
+
+> Not Yet<br> :date: __2021-06-23 05:09:22__
+
 > Just a over all great app<br> :date: __2021-06-21 03:15:28__
 
 > Love this app for quick up to date severe weather updates great during hurricane season.<br> :date: __2021-06-17 21:34:48__
@@ -178,10 +182,6 @@ The FEMA app has been installed by more than **1000000** times. At this time, **
 > Is accurate<br> :date: __2021-06-04 22:03:27__
 
 > I feel secure knowing the alert system works!<br> :date: __2021-05-24 21:50:00__
-
-> Through the good job in USA<br> :date: __2021-05-23 18:41:57__
-
-> Thank you.<br> :date: __2021-05-19 17:22:58__
 
 
 

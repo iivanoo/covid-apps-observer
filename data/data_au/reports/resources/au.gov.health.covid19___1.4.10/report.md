@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Simply an amazing app! You'll laugh, you'll cry, you'll reminisce on rainy days far into the future, just what a great app this is...<br> :date: __2021-06-23 02:36:37__
+
 > Thankfully we are all over again now in the same boat for a while we can chat about what we can do it again tomorrow morning if you need anything else for you so that I could help you out there is anything else I could do with my life in our own country but I am so sorry for the first few days that I am really sorry for the rest of your appointment and I hope you please let me know what time suits you best way to start work tomorrow morning if we are going back in our future and we can do it tom<br> :date: __2021-04-30 15:20:28__
 
 > If it does what it claims, why wouldn't you install it?<br> :date: __2021-04-29 13:21:51__
@@ -177,8 +179,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 
 > Helps you keep in touch with the virus<br> :date: __2021-01-29 22:24:11__
 
-> Goff said he had been doing it for a great time to be able and a lot to be desired of as the idea of a lot to see the new place in which he said that it is a lot of people have<br> :date: __2021-01-03 15:14:47__
-
 
 
 #### 4-star reviews
@@ -186,6 +186,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covid19 4 reviews"/>
 </p>
+
+> Could be better to have restrictions shown on the map<br> :date: __2021-06-23 15:30:27__
 
 > It was a very useful app and did have improvements to it as it has developed<br> :date: __2021-02-17 22:36:04__
 
@@ -204,8 +206,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Would be great if you could also put how many active cases there are.<br> :date: __2020-05-21 00:11:52__
 
 > Works as expected, an information manager, not a source (otherwise the app would need updating daily). Helps to get at relevant, reliable information, without needing to hunt around the web myself to find it.<br> :date: __2020-05-13 10:32:15__
-
-> Good<br> :date: __2020-05-11 11:25:39__
 
 
 

@@ -172,6 +172,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.goodsam.responder 5 reviews"/>
 </p>
 
+> Great app! Got a couple alerts recently and the ambulance service is always happy to see help!<br> :date: __2021-06-26 18:22:22__
+
 > I'm updating my review as all seems to have settled down now, although it took a while. I'm getting more and more tasks now, so it shows how much people need the support. I'm more than happy to be a volunteer, and I get as much out of it as the people I'm ringing and checking up on!<br> :date: __2021-06-18 21:15:25__
 
 > As a GoodSAM 'verified responder' (St John Ambulance), the Responder app has been an amazing community tool for assisting East Midlands Ambulance Service with cardiac arrests and other similar incidents. Ambulance crews have all been happy for assistance during these calls. - Working together, this is a lifesaving app. I did notice that prior to being a verified responder for St John that if you just have a first aid certificate, it's very unlikely that you'll get a call out, but this is down to the policy of your local ambulance provider and not the app.<br> :date: __2021-06-05 12:26:07__
@@ -189,8 +191,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > How do I reinstall this app on my new phone? I The app on Google play just says installed. frustrated.<br> :date: __2021-04-23 20:54:42__
 
 > Goodsam app<br> :date: __2021-04-07 21:41:29__
-
-> Brilliant have been able to help lots of people using this. Would like to know how to turn the volume for the siren down as very loud but other than that I have used it for over a year now with no problems.<br> :date: __2021-04-05 13:29:45__
 
 
 
@@ -284,6 +284,10 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
+> Not happy. This month the app used nearly all my data so had to remove it from my phone. Have just reinstalled it for next month.<br> :date: __2021-06-26 00:07:07__
+
+> App not working properly for me any more. Says the GoodSAM Responder is running. I'm unable to accept any tasks. Another message: We are trying to obtain your location. Please make sure your location services are enabled and our App has access to them. I have uninstalled and reinstalled the App, but made no difference.<br> :date: __2021-06-22 12:18:04__
+
 > Uses mobile data like it's going out of fashion. 2 6 hour shift's and I have used 80 percent of my monthly allocation. Update - thanks for the feedback. It used 460mb in 2 weeks and I was off wi-fi for 15 hours in that time. I've had to turn mobile data off until my next month starts as I've used up my allocation, so will let you know if it's improved in July.<br> :date: __2021-06-14 20:43:06__
 
 > I don't receive any volunteer marshall opportunities which is frustrating to do Your response would make sense if I wasn't in the same household who has their phone pinging with opportunities all day ..<br> :date: __2021-06-05 20:45:54__
@@ -299,9 +303,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Load of rubbish. Was told by emergency Doctor from other side of my Borough to sign up to get a volunteer to collect my prescription. App wouldn't even let me state I was in the UK when registering. Tried several times. Give up. Response to developers: I was told to register by a gp to find a volunteer to collect a prescription/medication last night The App would not let me put the UK as my country! I am already registered with NHS First Responders. I get a call every couple of weeks.<br> :date: __2021-03-26 11:43:35__
 
 > After update app no longer opens. Re installed works once and then does not open again. Now unable to access to log on<br> :date: __2021-03-24 12:12:46__
-
-> Even though I have turned on notifications and location but the crash when ever I click on tasks.<br> :date: __2021-03-20 10:06:46__
-
-> When ever I click on future tasks it turns off so I am unable to check or book any task<br> :date: __2021-03-19 23:36:28__
 
 

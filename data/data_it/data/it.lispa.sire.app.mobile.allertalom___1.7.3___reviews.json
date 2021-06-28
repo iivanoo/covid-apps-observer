@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEwqoATKRnH8iu6H6xspyiBn9Meta8K2dP8yUD559bDw4f_OLuILm1Xv6lLGdYD9rr7ZSGISkU5Yq9kJQ",
+        "userName": "GFranco B",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4a6jRKFSEVMt557bxsnfw-MvCVt39nqSPxo0W",
+        "content": "Da Ottima, ma trascorso pi\u00f9 di un anno, i quesiti proposti sono sempre gli stessi! Manca ad esempio la domanda circa i vaccini e relativi richiami! Se non cambiano sostanzialmente i quesiti, disinstaller\u00f2 l'app ritenendola ora superata e quindi inutile.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-26 19:36:54",
+        "replyContent": "Grazie per la valutazione positiva!",
+        "repliedAt": "2020-06-11 16:09:16"
+    },
+    {
+        "reviewId": "gp:AOqpTOH65hliR69uv1jyGQ9VNMH7JvJI-XTlQto5pU4cxr55ePlpDEiHtIB02gowLFTQarv7Ui3xEglo5Yvd9Q",
+        "userName": "Federico Velludini",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxeSafnEbctXsrZQ97I5dQiegxM7gs5fBAUbkk=mo",
+        "content": "Sembra tornata a funzionare.",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-23 10:19:38",
+        "replyContent": "Ciao Federico! Grazie della recensione e delle stelline!!",
+        "repliedAt": "2021-06-23 11:36:24"
+    },
+    {
+        "reviewId": "gp:AOqpTOFcULd4_Tm2YK0jsb8Wz5L0MtPOlkFgReTkfjApXxHnA05tAR1LHGqjp7TjFfWCgUdJXSrzwad0fJ-5PA",
+        "userName": "Romeo Pozzi",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gig_k4oCWqM7kO7n79shFvovuoDan_YS-95AVDA",
+        "content": "Non si apre",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-06-21 13:41:53",
+        "replyContent": "Ciao Romeo, ti chiediamo di dettagliare l'errore riscontrato scrivendo a info.allertalom@ariaspa.it per fornirti supporto mirato indica anche i dati del dispositivo utilizzato. Grazie!",
+        "repliedAt": "2021-06-23 11:22:47"
+    },
+    {
         "reviewId": "gp:AOqpTOHmWgHXf8YNddvMI6fk9XUusQLufcXDMm0t2-whKNwjwKmZZ3lJC-mpJTuc83OFRsTkxukJY8oAh1Ib1Q",
         "userName": "Rosita",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLZSQEe-K45wJt6CL5kr-lihTem4fCZlzn-0yCxIY",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-06-20 09:31:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Rosita, spiegaci cosa non va scrivendo a info.allertalom@ariaspa.it ti aiutiamo noi!",
+        "repliedAt": "2021-06-23 11:19:55"
     },
     {
         "reviewId": "gp:AOqpTOHSdtRE1Lh9iQz4H4p9q7vLJ8YTrDK0yEOMuLIDGNjphh2BO7csMHr6u8lE40iSlyvSmUX8bFLiKeOz-A",
@@ -20,8 +56,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-06-19 14:10:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Luis, abbiamo inoltrato la segnalazione ai nostri sviluppatori, nel frattempo ti chiediamo di consultare le notifiche avviando direttamente l'app! Grazie per averci scritto!",
+        "repliedAt": "2021-06-23 11:17:24"
     },
     {
         "reviewId": "gp:AOqpTOEq1b6j2xU7lmOX15IVp3EQdiztUxR8XI_Pbqq1xHHuD3i--_flNLQcYTsDGsLUrlafg2YfetVHLkkJMA",
@@ -29,11 +65,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPizKW_V6b4nb44-Cjpn0xMW5TZw7hBdZ-01MOGA",
         "content": "Sempre stata un po' zoppicante ma adesso nn si apre nemmeno pi\u00f9. Mi \u00e8 arrivata una notifica, la avvio e... servizio attualmente nn disponibile, riprova pi\u00f9 tardi!! Penosa.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-06-19 13:56:38",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Mauro, abbiamo inoltrato la segnalazione ai nostri sviluppatori, ti chiediamo maggiori dettagli in merito all'errore riscontrato invia screen e i passaggi seguiti a info.allertalom@ariaspa.it",
+        "repliedAt": "2021-06-23 11:43:20"
     },
     {
         "reviewId": "gp:AOqpTOFWnFSvMBLdt5s7X9FVwYGXdHbThsIhi7D-07UlzpOzM8QQS9WlJXCUMBm09ZZDXbXhxhSmCeaf0qZX5w",
@@ -44,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-06-19 13:40:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, l'errore da te segnalato e collegabile al grande numero di utilizzatori o alla velocit\u00e0 di rete. Ti suggeriamo di accedere alle notifiche avviando l'app! Interverremo per migliorare la tua esperienza utente!",
+        "repliedAt": "2021-06-23 08:47:12"
     },
     {
         "reviewId": "gp:AOqpTOGk0_0oAVCRVT5pF15F_v32Mbvg2EpbZdVAt2WKh1htVZHws2RvsW7lm_t50yTqtgnDQuv8ur5s2EA_xA",
@@ -56,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-06-19 13:40:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Elena, ci piacerebbe aiutarti nell'utilizzo dell'app. Scrivici il dettaglio della difficolt\u00e0 da te riscontrata a info.allertalom@ariaspa.it",
+        "repliedAt": "2021-06-23 08:41:02"
     },
     {
         "reviewId": "gp:AOqpTOGkCdOT9Y7K0I21pP1g_qyuyRTYLwJPFLyoyLjmsDAYuFnAUO103OeUzpH0ZmQguRbkTlUpeXJMwW8SoA",
@@ -80,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.2",
         "at": "2021-06-19 09:52:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Grazie ! Cercheremo instancabilmente di fare in modo che tutti quelli che usano l'app, la apprezzino come te!",
+        "repliedAt": "2021-06-23 11:12:36"
     },
     {
         "reviewId": "gp:AOqpTOHopeA5cziUXE6JAnJbS_Hf-jKxcSg8egW828WhrMz-eMo-oWRcOT_K2Ri_8Op-C9jUism4mgpe7EmD-Q",
@@ -92,20 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-06-16 10:40:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH65hliR69uv1jyGQ9VNMH7JvJI-XTlQto5pU4cxr55ePlpDEiHtIB02gowLFTQarv7Ui3xEglo5Yvd9Q",
-        "userName": "Federico Velludini",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxeSafnEbctXsrZQ97I5dQiegxM7gs5fBAUbkk=mo",
-        "content": "Non funziona, disinstallata e reinstallata ma non cambia nulla. Non mi da aggiornamenti disponibili. Mistero.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.7.3",
-        "at": "2021-06-15 21:45:35",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Fausto grazie per la valutazione positiva. Se hai bisogno di ulteriore assistenza scrivi a info.allertalom@ariaspa.it",
+        "repliedAt": "2021-06-23 10:21:00"
     },
     {
         "reviewId": "gp:AOqpTOH-oG3ma827kVz8FhFHOYLNgheY5vyVrdLx5GGTY5M0YkWrs4r7Nxcy1x75URocDj6dVkKkYFyvFwg1RQ",
@@ -116,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-12 13:06:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Loredana, grazie per averci contattato ogni suggerimento \u00e8 prezioso per noi al fine di poter offrire un servizio che possa rispondere sempre alle esigenze e ai desideri dei cittadini. Cercheremo di soddisfare le tue aspettative!",
+        "repliedAt": "2021-06-23 09:10:06"
     },
     {
         "reviewId": "gp:AOqpTOFkSYpM4gRyViLVTAQ1N994wdeQQTRdg2zHOyAhTjjKKKZHxikX9JrFPhhYmEtlS9rYLPfsWMAE15wX5w",
@@ -128,8 +152,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-12 13:00:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao Ettore, invieremo il tuo suggerimento al gruppo di ricerca di medici e ricercatori dell\u2019Ospedale San Matteo e dell\u2019Universit\u00e0 degli Studi di Pavia che ha ideato il questionario. Ogni contributo degli utenti \u00e8 prezioso!",
+        "repliedAt": "2021-06-23 08:59:30"
     },
     {
         "reviewId": "gp:AOqpTOFyhj_AUBWtXmKAaAQgd5a9OtWdwUMLpG-vWga6nv2-ZtMItTVUcdIG2jEcFj_lm2IKvCpX8sirpVjXnQ",
@@ -140,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-06-06 11:48:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Ciao, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
+        "repliedAt": "2021-06-23 08:55:50"
     },
     {
         "reviewId": "gp:AOqpTOGG0puJdYsP-JkcZALK3f9W7Q-HSK2KPTg9u3QVpy8AgbHEotUV8MdMrJ2FjDpHn6BXxvDkLSYtmAEWEw",
@@ -2640,18 +2664,6 @@
         "repliedAt": "2020-06-11 16:05:40"
     },
     {
-        "reviewId": "gp:AOqpTOEwqoATKRnH8iu6H6xspyiBn9Meta8K2dP8yUD559bDw4f_OLuILm1Xv6lLGdYD9rr7ZSGISkU5Yq9kJQ",
-        "userName": "GFranco B",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4a6jRKFSEVMt557bxsnfw-MvCVt39nqSPxo0W",
-        "content": "Ottima",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.7.0",
-        "at": "2020-06-11 11:09:16",
-        "replyContent": "Grazie per la valutazione positiva!",
-        "repliedAt": "2020-06-11 16:09:16"
-    },
-    {
         "reviewId": "gp:AOqpTOEiaLklpqbnTaQz2IY5erA7orJF0MyQ_2EGuC1NZ17CcgJBf5IvEEu53U2CAFGVOQTUiBpEuhOY1uPsRw",
         "userName": "Francesco Di vittorio",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzcu9rBbh6UqJWo90YMMMbDhPGwnHLYXjnqvDTr=mo",
@@ -4334,7 +4346,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBjK-N1wbBzr34jJ9tWsV5ST7CzSUPLh5VIlpvzg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg84JxdR5mZA4u6WrQCpnIIX0_shlf_zXXf56Defg",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11986,17 +11998,5 @@
         "at": "2020-04-16 17:28:55",
         "replyContent": "Ciao Alessandro, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it",
         "repliedAt": "2020-04-27 08:39:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOHhfgE_fsv-KBL7dNBo7VbPDisg1-Kh1nP3NOlyvjEojI9VrYwsC0BH5kdGxpA0Gm8TCxPL3fjVQNuS4w",
-        "userName": "Fabio Tucci",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7dhLQoXORtIRptmu93kd0UbOWpwBelZUh7aYp6g",
-        "content": "sono un tecnico lavori in diversi comuni se lo compilo cosi non e' esatto.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:28:14",
-        "replyContent": "Ciao Fabio, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
-        "repliedAt": "2020-04-27 08:38:57"
     }
 ]

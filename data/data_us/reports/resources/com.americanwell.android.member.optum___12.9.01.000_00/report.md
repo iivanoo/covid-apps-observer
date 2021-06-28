@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> The best option to handle those non emergency health issues.<br> :date: __2021-06-27 10:35:22__
+
+> My girlfriend had a UTI and had a call with a nurse named cherry Lee, she was amazing and would rate her 5 out of 5 stars for sure, the call took 5 minutes, and was so much easier than going to the emergency room.<br> :date: __2021-06-27 06:18:05__
+
+> Quick and convenient, great Doctors<br> :date: __2021-06-26 22:28:47__
+
+> Southwest medical uses this app. Easy to use and set up!!!<br> :date: __2021-06-26 22:06:26__
+
+> Great experience, professional and caring. Reception and picture was very clear.<br> :date: __2021-06-25 20:48:38__
+
+> Now Clinic has helped our family out in so many ways just by logging into this app. They make it so easy to speak to a specialist for your needs and you get immediate feedback and eassurance about your visit.<br> :date: __2021-06-24 17:36:14__
+
+> Very convienient<br> :date: __2021-06-22 20:42:22__
+
+> Very friendly, knowledgeable. Fast and convenient. She was super nice and concerned for whats best for me.<br> :date: __2021-06-21 18:27:47__
+
 > Wonderful!!<br> :date: __2021-06-18 00:25:13__
 
 > Very easy to use<br> :date: __2021-06-16 22:27:52__
-
-> Was very easy to use and it was a short wait time to see the Dr. The Dr was very friendly, knowledgeable, and took the time to listen and address my concerns. Definitely will be using this service over going to a quick care.<br> :date: __2021-06-15 21:04:51__
-
-> I have an active tooth abscess flaring up and dint want to go to the ER or urgent care center just for antibiotics. Then I remembered my insurance covers telemedicine! So I downloaded the app, put in my insurance & other info and within a few minutes I was seen by a dr and had my antibiotics called in to my pharmacy. 10/10 recommend this app<br> :date: __2021-06-15 03:11:14__
-
-> Excellent experience don't have to leave home and be around more sick people<br> :date: __2021-06-12 02:34:24__
-
-> Nice and easy<br> :date: __2021-06-06 23:26:06__
-
-> Excellent experience<br> :date: __2021-06-05 05:40:11__
-
-> Love it<br> :date: __2021-06-04 17:40:34__
-
-> Glad I didn't have to go to Dr. Dr. Jerry Nesbit was awesome and ty for this amazing ap Had to use again today. So happy NOW is available.<br> :date: __2021-06-04 17:04:11__
-
-> Was different but glad I did it<br> :date: __2021-06-01 22:03:18__
 
 
 
@@ -274,7 +274,7 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 1 reviews"/>
 </p>
 
-> It cost me $60 and I have medicaid. And they did nothing. "It's their policy to not prescribe medication for a UTI or infection." It took me 4 months to pick up the app and talk to a doctor and I got nothing. I can't go to a doctor's office, so that's it. I will either get better on its own or kill me. $60 and I'm on SSI.<br> :date: __2021-06-19 01:56:24__
+> Don't waste your money. It cost me $60 and I have medicaid. As God is my wittness, they did nothing! "It's their policy to not prescribe medication"and "you're going to need lab work done." Then he refered me to an out of buisness quick care. So, I googled to find another. There are places online, like Quest Diag, that charge as little as $20 or free w/ins. AND overnight me the at home lab kit to drop off at the lab. Then call in the script if I need one for no extra fee. No app needed either.<br> :date: __2021-06-23 07:15:20__
 
 > State required for teledoc with state mandated insurance, service sucks<br> :date: __2021-06-16 10:44:50__
 

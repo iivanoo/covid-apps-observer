@@ -183,6 +183,10 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> Excellent app<br> :date: __2021-06-25 00:14:26__
+
+> Easy to use, never have any login or app system problems, 10/10<br> :date: __2021-06-22 15:03:13__
+
 > I really enjoy my sessions with my counselor.<br> :date: __2021-06-01 17:19:31__
 
 > This is the next best thing to face to face! If you need some help and some one to talk to please contact Horizons or another service! I do recommend Horizon but do what's right for you!<br> :date: __2021-05-20 20:20:34__
@@ -198,10 +202,6 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 > Excellent service!!<br> :date: __2021-03-08 16:25:48__
 
 > Great<br> :date: __2021-03-03 16:00:39__
-
-> Very good<br> :date: __2021-02-23 15:51:48__
-
-> Easy to use<br> :date: __2021-02-11 00:07:00__
 
 
 
@@ -252,10 +252,12 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> This app keep closing<br> :date: __2021-06-21 17:33:04__
+
+
 
 #### 1-star reviews
 

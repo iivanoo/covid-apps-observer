@@ -141,6 +141,12 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 5 reviews"/>
 </p>
 
+> Px in Öl ox Pool ll O unsx nicht der Zoo j in bbgs Öffnen pll Öl ppllll OP im LP OP pppppplxxppppppxppxpxppppppppplxppppxpxxpppppppppppppppxpplllplplk. PP liebe llg<br> :date: __2021-06-22 14:05:06__
+
+> Problemlos<br> :date: __2021-06-21 21:12:45__
+
+> Ich bin bereit alle Sensordaten meines Handys und weitere Personenbezogene (anonyme Daten) zu spenden. Es muss eine offizielle App geben, die so etwas macht. Jede Information des einzelnen kann dazu beitragen die Pandemie besser zu kontrollieren! Bitte fügt die Funktion ein, optional alle Sensordaten des Handys zu spenden!<br> :date: __2021-06-21 15:11:54__
+
 > Cool<br> :date: __2021-06-16 11:22:19__
 
 > Datenschutz ist nicht kritisch.<br> :date: __2021-06-11 22:41:10__
@@ -154,12 +160,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Samsung Health funktioniert jetzt.<br> :date: __2021-04-22 11:17:42__
 
 > Gut<br> :date: __2021-04-22 11:12:46__
-
-> Nicht für Samsung-wearables... Das hätte ich gern schon vor der Installation gewusst... Update 16.08.2020: Funktioniert jetzt auch für Samsung-wearables.<br> :date: __2021-04-22 08:25:03__
-
-> Die Datenspende erfolgt anonym, dadurch wird die Datenspende diskreter. Dafür schon 3 Sterne! Die anderen 2 Sterne gibt es durch den ernst genommenen und gut umgesetzten Datenschutz. +1 Stern mehr, da es auch erklärt wird, wie die Daten verwaltet und benutzt werden. 5 Sterne! +1 Zusatzstern!<br> :date: __2021-04-19 10:20:09__
-
-> Ich habe keine Probleme mit der App. Ich nutze eine WearOS SmartWatch über Google Fit. Über die Menge der gespendeten Daten wurden aus meiner Sicht interessante Ergebnisse erzielt. S. dazu den in der App verlinkten Blog.<br> :date: __2021-04-15 13:07:04__
 
 
 
@@ -197,9 +197,11 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 3 reviews"/>
 </p>
 
-> Samsung Health fehlt bisher. Auf Nachfrage sollen auch Samsunguhren demnächst möglich sein. Nach 6 Wochen wird immer noch keine Samsung Smartwatch unterstützt. Viren sind schneller... Samsung Health funktioniert und App werkelt im Hintergrund.<br> :date: __2021-05-03 07:53:55__
+> Eine super Idee. Aber leider kann ich Huawei nicht auswählen und somit nichts beitragen. Sehr schade.<br> :date: __2021-06-22 20:03:13__
 
-> Ich bin bereit alle Sensordaten meines Handys und weitere Personenbezogene (anonyme Daten) zu spenden. Es muss eine offizielle App geben, die so etwas macht. Jede Information des einzelnen kann dazu beitragen die Pandemie besser zu kontrollieren! Bitte fügt die Funktion ein, optional alle Sensordaten des Handys zu spenden!<br> :date: __2021-04-11 14:35:02__
+> App ist einfach zu installieren.<br> :date: __2021-06-22 12:04:16__
+
+> Samsung Health fehlt bisher. Auf Nachfrage sollen auch Samsunguhren demnächst möglich sein. Nach 6 Wochen wird immer noch keine Samsung Smartwatch unterstützt. Viren sind schneller... Samsung Health funktioniert und App werkelt im Hintergrund.<br> :date: __2021-05-03 07:53:55__
 
 > Es werden nicht alle Fidnis Uhren unterstüt zum Beispiel alle Gelexi Uhren Fon Samsung oder iPhone könnte noch etwas mehr gesdaldet werden.<br> :date: __2021-04-02 07:09:48__
 
@@ -214,8 +216,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Vermutlich tut sie was sie soll. Allerdings wäre es mega praktisch, wenn nicht bloß eine reine Fieberkurve in der App angezeigt wird, sondern direkt dazu, ein zuschaltbarer Verlauf der tatsächlichen Coronazahlen und Tests, Maßnahmen etc. Damit ich als interessierter Spender auch sehe, wofür ich das mache, und nicht über Google an erster Stelle Beiträge von April 2020 finde.<br> :date: __2021-02-16 20:02:00__
 
 > Bisher wurden meine Daten mit Garmin übertragen, das hat auch super funktioniert und ich würde auch gerne weiter meine Daten zur Verfügung stellen. Leider funktioniert das mit meiner Huawei Watch nicht, auf die ich mittlerweile umgestiegen bin, da die Daten deutlich genauer sind als bei Garmin. Huawei Health wird leider nicht unterstützt, es wäre super, wenn das geändert werden würde. So muss ich mich leider verabschieden...<br> :date: __2021-01-16 11:59:43__
-
-> Bin mir, auch nach den ganzen Monaten, eigentlich gar nicht sicher, was diese App überhaupt macht.<br> :date: __2020-12-19 14:38:18__
 
 
 

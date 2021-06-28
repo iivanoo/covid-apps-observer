@@ -1,0 +1,40 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.INTERNET",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.android.vending.CHECK_LICENSE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "tuerantuer.app.integreat.MainActivity",
+        "com.facebook.react.devsupport.DevSettingsActivity",
+        "com.proyecto26.inappbrowser.ChromeTabsManagerActivity",
+        "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://www.example.com",
+        "http://schemas.android.com/apk/res/android",
+        "http://%s/%s.%s?platform=android&dev=%s&minify=%s",
+        "http://%s/launch-js-devtools",
+        "http://%s/open-stack-frame",
+        "http://%s/status",
+        "http://%s/%s",
+        "http://%s/symbolicate",
+        "http://%s/inspector/device?name=%s&app=%s",
+        "http://www.android.com/",
+        "https://accounts.google.com",
+        "https://www.facebook.com",
+        "https://accounts.google.com/o/oauth2/revoke?token=",
+        "https://plus.google.com/",
+        "https://%s/%s/%s",
+        "http://schemas.android.com/apk/res-auto",
+        "http://localhost:",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games"
+    ]
+}

@@ -203,6 +203,10 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.clevelandclinic 5 reviews"/>
 </p>
 
+> Very quick and efficient! The telehealth doctor was knowledgeable and experienced. This app was super easy to navigate.<br> :date: __2021-06-25 18:22:49__
+
+> As the husband of a CCF employee, this app is a godsend. I get myself into the dumbest physical situations while taking care of our kids and my work. This service is an asset.<br> :date: __2021-06-22 23:11:56__
+
 > Very good experience, was able to be seen late at night on a weekend. Brief technical issue but it was quickly resolved so that we could finish our consultation.<br> :date: __2021-06-21 05:51:11__
 
 > Excellent Experience<br> :date: __2021-06-08 13:21:25__
@@ -218,10 +222,6 @@ The Cleveland Clinic Express Care® Online app has been installed by more than *
 > Excellent!<br> :date: __2021-03-08 12:39:27__
 
 > Pretty simple to use.<br> :date: __2021-03-04 13:37:25__
-
-> Convenient... Fast... & the nurse practitioner was knowledgeable and polite<br> :date: __2021-02-28 21:47:30__
-
-> Great it cuts a lot of time out sitting in the doctor's office<br> :date: __2021-02-26 21:03:33__
 
 
 

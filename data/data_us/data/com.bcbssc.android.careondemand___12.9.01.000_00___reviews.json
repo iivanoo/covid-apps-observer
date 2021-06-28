@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOE-Bn-HJJMq_mVQiRYq0YUkw0tmQMv7iZm4Mgbg1RmXM54Yyp8KPqmap0LTJvP4NLwNqTigVhli910tcQ",
+        "userName": "Aaron Gribben",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPZ5sWk0FbGsxt7nfj8_fHoT_ZqLhe8u3yUJIEFX4",
+        "content": "This app sucks. It's the same exact app as other telehealth apps except somehow it's slower and more glitchy. They charged me a 40$ missed appointment fee even though I attended my appointment. Now I'm fighting with them to get my money back. Also, they didn't tell me I was seeing someone who's out of my network. Not sophisticated and not cute. Do not recommend.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-06-23 19:49:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE0TrVA2kqIshg9FFvDuqqD6M0gNFXOK4mif_BWyHoXN5EhioAdmpXHw0BKqmS9azAF-F0LG_cHQ63mGQ",
         "userName": "C. Samantha Seawell",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx8UZwfh3xSvQEuOLkKNFWqHS8CiNrX1ar_p5-o2A=mo",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8QFogoQiC8PDIxovBxssSN0Z_1-D4S1JjczQC=mo",
         "content": "Quick and easy to use. Great doctors at a rate much less than an actual office visit.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.9.01.000_00",
         "at": "2021-06-17 18:01:08",
         "replyContent": null,

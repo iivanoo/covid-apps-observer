@@ -146,10 +146,12 @@ No recent reviews available with 3 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="co.uk.healthcreatives.uclhcovid19 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> Qa3 saws and a3aw3aa 323aa3each are 3all a 31<br> :date: __2021-06-26 12:47:53__
+
+
 
 #### 1-star reviews
 

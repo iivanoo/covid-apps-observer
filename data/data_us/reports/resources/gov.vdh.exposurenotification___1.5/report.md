@@ -218,6 +218,8 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> I have to keep swching back and forth between covid notification apps to make this work, despite using processes fir keeping app awake and do on. Just a pain.<br> :date: __2021-06-21 18:30:22__
+
 > Surprisingly useless. I kept the app on 24/7 for almost the entire pandemic and it never notified me, never got local outbreak information, nothing.<br> :date: __2021-05-20 22:30:48__
 
 > Repeatedly stops sending notifications unless I uninstall and reinstall.<br> :date: __2021-05-05 01:27:21__
@@ -235,8 +237,6 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 > Does not scan every day...last scan over a week ago. Only way to fix is uninstall and redo...but then you lose the past 14 days.....for all the money virginia has been given you think they would have spent a little more on this..but no they need to work on gun control instead<br> :date: __2021-03-11 01:20:34__
 
 > Never really got to see how the app worked. Got COVID, but never got a number to enter my positive results in the app. I'm a construction Project Manager and have been on jobsites with lots of COVID cases, and have worked at retirement communities with outbreaks. I never got a notification that I may have been exposed. I assume this is largely due to the barriers in entering positive results. Neat idea, but terrible execution.<br> :date: __2021-02-23 01:09:28__
-
-> Stopped checking for exposures 1 week ago. Is there an update or fix coming? When will it be compatible with the other state apps?<br> :date: __2021-02-11 00:34:09__
 
 
 

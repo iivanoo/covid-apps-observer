@@ -139,6 +139,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> After reading some of these comments I wont bother installing this app seems like they tell you it won't track location so why does it automatically turn it on it only states Bluetooth be on . My location is off permanently and at the start of the pandemic I did install the app and boom location automatically turned on . Having both location and Bluetooth switched on leaves you more at risk of people able to steal data and bank information and anything else personal to you . Don't install this<br> :date: __2021-06-22 19:34:40__
+
 > a good company with personal information.<br> :date: __2021-06-08 17:01:15__
 
 > Excellent<br> :date: __2021-05-30 12:22:39__
@@ -156,8 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Great app 1st thing I added to my account well done,🌞🌈<br> :date: __2021-04-29 00:06:05__
 
 > Good<br> :date: __2021-04-21 09:37:24__
-
-> Great<br> :date: __2021-04-17 15:13:50__
 
 
 
@@ -251,6 +251,10 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Useless - doesn't just scan QR codes so try to enter the numeric code which is rejected. Have to get the venue to book us in which defeats the whole point.<br> :date: __2021-06-27 22:39:08__
+
+> Useless....many QR codes not recognised and advised to use the camera which didn't work either.....it's pointless.<br> :date: __2021-06-25 13:33:39__
+
 > Doesn't work in England. Total waste of time.<br> :date: __2021-06-16 08:36:42__
 
 > Got my test results as( -) Negative and got sms with some code to enter in app but there is no option in the app that I can punch in as tested negative I guess app is only ppl who has positive test results<br> :date: __2021-06-15 15:34:06__
@@ -266,9 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > This app was supposed to be a tool to get us out of lockdown faster. Turns out it was just a publicity stunt by the Scottish Government. No point in having it draining my battery and slowing down my phone when we're not allowed go anywhere.<br> :date: __2021-05-29 09:26:48__
 
 > Tested positive unable to upload code given. No way to report that I could see that all my contacted people were warned. Nothing showed on my app. No advice was given. I did my duty but there is no evidence to me that the app is functioning.<br> :date: __2021-05-21 08:42:03__
-
-> Totally unclear whether it is doing anything<br> :date: __2021-05-20 23:53:37__
-
-> I've never been able to use this app, as it's incompatible with phones made before ~2017, which is quite disgusting given the reason for its existence.<br> :date: __2021-05-13 17:33:32__
 
 

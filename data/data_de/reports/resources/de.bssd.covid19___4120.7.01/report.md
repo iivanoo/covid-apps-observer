@@ -243,6 +243,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Funktioniert nicht. Nach dem öffnen wird die App sofort wieder geschlossen. Android 11 / Samsung S 10e. Null Sterne wäre angebracht.<br> :date: __2021-06-27 09:50:24__
+
 > App lässt sich nicht mal öffnen nach dem runter laden.<br> :date: __2021-06-20 11:09:43__
 
 > Irgendwie ist der Wurm drin<br> :date: __2021-06-20 10:24:51__
@@ -260,7 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Die App ist mist. Beim Starten schließt sich sich laufend. Nutzung nicht möglich<br> :date: __2021-06-17 18:14:25__
 
 > Die App schließt sich beim starten laufend und kann nicht genutzt werden.<br> :date: __2021-06-17 18:11:21__
-
-> Funktioniert nicht man kann die app gar nicht öffnen<br> :date: __2021-06-17 15:06:36__
 
 

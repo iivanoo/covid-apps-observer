@@ -154,25 +154,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 5 reviews"/>
 </p>
 
-> Top<br> :date: __2021-06-21 11:57:58__
+> Sehr gut Empfehlenswert.<br> :date: __2021-06-26 18:33:18__
 
-> Jetzt ist die App endlich auf dem richtigen Weg. Lange hat es gedauert. Zu lange. Update 21.6.: gestern in Kühlungsborn versucht, einen Luca QR Code zu scannen, es kam eine Fehlermeldung, nicht möglich. Mit der Luca App funktionierte es. Sollte das nicht auch hiermit funktionieren?<br> :date: __2021-06-21 10:19:53__
+> Alles gut geklappt...<br> :date: __2021-06-26 17:13:02__
 
-> Wahrscheinlich die einzige App für Android, die tatsächlich keine persönlichen Daten klaut.<br> :date: __2021-06-21 07:06:35__
+> Bisher sehr zufrieden. Kann man auch die Impfzertifikate von unterschiedlichen Personen einscannen?<br> :date: __2021-06-26 15:45:06__
 
-> Meine Erfahrungen sind durchweg positiv. Kontakte mit positiv getesteten wurden mir direkt gemeldet und ich wurde schon vor dem Anruf der Betroffenen über die App gewarnt. Bis auf kleinere Softwarefehler, die in fast jeder App mal prpgrammierseitig auftauchen, kann ich nichts negatives berichten. Tut was sie soll!<br> :date: __2021-06-21 04:42:56__
+> Super App, Test- und Impfungsimplementierung funktionieren perfekt.<br> :date: __2021-06-26 15:37:41__
 
-> Funktioniert bestens und kombiniert alle wichtigen Dinge, wie die Registrierung bei Events, die Speicherung der Impfung und der Kontaktwarnung.<br> :date: __2021-06-21 00:23:48__
+> Von Anfang an Gut gelaufen bis heute plötzlich den 26-6 funktioniert der Risiko Ermittlungen riegel nicht, springt ständig auf gestoppt zurück, und so bringt diese App mir garnichts mehr, ausserdem wäre es von Vorteil wenigstens 2 QR Code darin zu speichern, weil der andere Partner kein mobile besitzt<br> :date: __2021-06-26 14:21:49__
 
-> War in Ordnung<br> :date: __2021-06-20 23:04:15__
+> Ich finde die App prima und möchte mich mal beim RKI ganz herzlich für alle Arbeit bedanken. Viele Grüße, D.F.<br> :date: __2021-06-26 13:41:33__
 
-> Die App kann was sie braucht, tut was sie soll, ist übersichtlich gestaltet und einfach zu bedienen. Ich habe keine Klagen.<br> :date: __2021-06-20 20:29:08__
+> Läuft sehr gut<br> :date: __2021-06-26 12:25:06__
 
-> Alles gut so<br> :date: __2021-06-20 19:31:49__
+> Bisher gute App. Nutze sie seit Beginn. Habe sie heute kurz deinstalliert und dann wieder neu installiert. Kann nur eine Impfung erfassen und zwar die zweite. Hoffe dass das so in Ordnung ist. Der vollständige Impfschutz wird mit Haken ja bestätigt.<br> :date: __2021-06-26 12:20:31__
 
-> Die App funktioniert bisher soweit gut. Als genesener über 6 Monate fehlt mir leider der Nachweis, dass ich trotz einer Impfung, vollständig geimpft bin.<br> :date: __2021-06-20 16:07:43__
+> Bin Nutzer der ersten Stunde. Die App macht was sie soll und die Erweiterungen sind bisher gut. Ich Nutze sie täglich um z.B. das Kontakttagebuch zu führen. Für mich bisher eine der besten "Staats-"App die es gibt. Die App vom DWD ist noch besser.<br> :date: __2021-06-26 12:05:47__
 
-> Bin sehr zufrieden<br> :date: __2021-06-20 16:03:06__
+> Edit: Heute das "Einchecken" probiert. Der QR-Code, der laminiert (geringe (!) Reflexion) und leicht (!) wellig aufgehängt wurde, wurde NICHT erkannt. Vom fremden Handy aus den QR-Code scannen ging problemlos. Edit: Ich habe ewig gebraucht, das Impfzertifikat einzulesen. Problem: Das Feld, auf das man draufklicken soll, ist nicht als "Button" erkennbar.<br> :date: __2021-06-26 11:23:43__
 
 
 
@@ -182,25 +182,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 4 reviews"/>
 </p>
 
-> Die App macht das was sie soll. Ich wurde auch sofort gewarnt als ein Kollege erkrankt war und den positiven Test gescannt hat. Nur scannen der Impfbescheinigung klappt nicht so richtig. Code 1 gescannt, erkannt und eingetragen, Code für die zweite Impfung wird erkannt aber abgewiesen. Begründung: Daten seien nicht identisch mit der Erstbescheinigung. Die Covpass-App akzeptiert beide Codes anstandslos.<br> :date: __2021-06-21 11:45:35__
+> Nach dem neuesten Update ist der bereits eingescannte Impfnachweis verschwunden!!! Korrektur: Der Impfnachweis ist jetzt unter "Zertifikate" zu finden. Alles in Ordnung.<br> :date: __2021-06-26 18:18:57__
 
-> Die Funktion sind kompliziert Schon beim Erhalt meiner Impftermine wollte ich diese eintragen. Jetzt könnte ich ein Impfzertifikat einlesen. Ein kostenpflichtiges Impfzertifikat benötige ich nicht. Warum geht es nicht auch über die erfolgen Termine?<br> :date: __2021-06-21 10:30:31__
+> Das impfzertifikat sollte man schneller zugänglich machen. Als Widget auf dem Start-Screen vielleicht.<br> :date: __2021-06-26 17:35:11__
 
-> Die qr Codes der zertifikate aus der Apotheke lassen sich nicht speichern. Könnte man vielleicht die Möglichkeit einführen, die impfzertifikate auch über die Zahlen und Nummern-Kombi der "eindeutigen zertifikaterkennung" zu speichern? Edit: der Tipp vom Entwicklerteam hat für einen Code funktioniert, vielen Dank dafür! Der andere scheint zu schlecht von der Apotheke gedruckt zu sein. Entsprechend bleibe ich bei meinem Vorschlag, die "eindeutige zertifikaterkennung" eingeben zu können.<br> :date: __2021-06-21 08:34:14__
+> Mir fehlt immer noch, daß die App auch mit dem Gesundheitsamt die Daten weiter gibt.<br> :date: __2021-06-26 12:30:03__
 
-> Die App ist gut und hat ein schönes funktionales Design. Allerdings reagiert der QR-Scanner nicht auf den Code von der Impfung. Der gleiche Code wird von anderen QR-Scannern problemlos erkannt<br> :date: __2021-06-20 21:51:19__
+> Ich finde die App im Prinzip gut und unterstütze diese ausdrücklich. Auch der Datenschutz ist vorbildlich. Also erstmal vielen Dank! In der Android-Version scheint jedoch ein Problem mit der Berechnung des Impfstatus vorzuliegen. \*\** Letzte Impfung: Samstag 12.06.2021 \*\** Vollständiger Impfschutz wird wie folgt angezeigt: \*\** Corona-Warn-App (Android): Samstag 26.06.2021 \*\** Corona-Warn-App (iOS): Sonntag 27.06.2021 \*\** CovPass (Android): Sonntag 27.06.2021 \*\** CovPass (iOS): Sonntag 27.06.2021.<br> :date: __2021-06-26 12:16:45__
 
-> Sinnvoll wäre bei dem Ausdruck für eine Veranstaltung, das das Datum der Veranstaltung auf den Ausdruck erscheint. Wenn eine Veranstaltung öfter stattfindet, kann man dann die QR Codes nicht verwechseln.<br> :date: __2021-06-20 21:22:56__
+> Wird besser, aber bleibt wegen Vorrang Datenschutz unter den Möglichkeiten!<br> :date: __2021-06-26 11:17:33__
 
-> Mittlerweile finde ich die Corona Warnapp gut und bin zufrieden mit der App.<br> :date: __2021-06-20 18:48:09__
+> Muss mich für meine erste Bewertung entschuldigen, lag an der Arztpraxis die den QR Code ausgedruckt hat. Dieser Ausdruck war so schlecht das die App ihn nicht erkannt hat. Habe mir Heute in der Apotheke einen neuen QR Code geholt und gescannt. Funktionierte auf sofort. Orry noch einmal<br> :date: __2021-06-26 10:30:13__
 
-> Auch ich habe den Fehler, dass die App mich täglich erinnert, diese zu öffnen. Leider kann man diese spezielle Push-Nachricht nicht blocken, ohne alle anderen Nachrichten ebenfalls auszublenden. Ich habe einen Fehlerbericht gesendet, da man aber keinen Kommentar hinterlassen kann, bin ich mir nicht sicher, ob dieser Fehler überhaupt erkannt wird. Die App neu installieren möchte ich auch nicht, da man die Daten meines Wissens nach nicht in Form eines Backups speichern kann.<br> :date: __2021-06-20 18:22:01__
+> Mittlerweile immer mehr gute Funktionen, z.B. Impfnachweis und, ganz praktisch, Veranstaltungen. Man generiert QR-Code für eine Veranstaltung (Musikprobe) und alle speichern den Code; sehr einfach und nützlich.<br> :date: __2021-06-26 10:22:02__
 
-> Hallo. Leider kann ich meine 2. Impfung nicht registrieren. Mein Apotheker hat meinen 2 Vornamen vergessen. Die Covpass App nimmt beide. Ixh wünsche mir hier eune Abfrage ob die Personen korrekt sind. Doppelvor ubd Nachnahmen Fallen bei der corona warn app durchs Raster. Ein 2. Zertifikat sehe ich als nicht nötig da die covpass app das kann. Bitte Technik übernehmen.<br> :date: __2021-06-20 16:36:35__
+> Seit dem Update erscheint der Impfnachweis nicht mehr auf der Startseite. Vor dem Update war der Impfnachweis direkt unter der Risikoermittlung das fand ich viel besser.<br> :date: __2021-06-26 10:02:44__
 
-> Na ja ob es wirklich hilft. Warten wir mal ab......<br> :date: __2021-06-20 11:30:26__
+> Tut was es soll<br> :date: __2021-06-26 07:40:46__
 
-> Wollte heute einen Schnelltest in der App registrieren, hat auch funktioniert, allerdings bekomme ich noch jetzt die Meldung, dass noch kein Ergebnis vorliegt. Tut es faktisch aber schon seit 16 Stunden.<br> :date: __2021-06-20 00:25:16__
+> Impfzertifikat eingescannt, 2 Tage später ist es wieder weg? Häh?<br> :date: __2021-06-26 07:30:20__
 
 
 
@@ -210,25 +210,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 3 reviews"/>
 </p>
 
-> Mit der CORONA App kann ich keine Impfnachweise einscannen. Habe die Version 1.14.3.. Eine neue Installation ist mir nicht möglich, weil ich seit geraumer Zeit die App Google Play Store nicht mehr öffnen kann - trotz aller Versuche / Hinweise etc. Komme da nicht weiter. Warum erfolgt eigentlich kein Update durch die CoronaApp selbst? Warum muss eine neue Version neu installiert werden?? Auf jeden Fall stecke ich jetzt erst einmal fest - bis Google weiterhilft.<br> :date: __2021-06-21 10:58:29__
+> Die frisch eingescannten Impfcodes,wurden durch das heutige Update total gelöscht.Extra mir die Mühe gemacht,und die besorgt,und nun sind sie weg.<br> :date: __2021-06-26 17:35:08__
 
-> Danke für Ihren Hinweis mit Neustart. Freundliche Grüße Funktionierte lange Zeit gut. Seit mehreren Wochen wird die Risikoermittlung Immer mal gestoppt. Dies kann ich nicht ändern.<br> :date: __2021-06-21 08:36:19__
+> Das digitale Testzertifikat ist nach über einer Stunde (noch?) nicht abrufbar. Wie lange kann es dauern bis das digitale EU Testzertifikat in der app angezeigt wird?<br> :date: __2021-06-26 17:32:10__
 
-> Wenn ich ihn scannen möchte, passiert nichts. Es handelt sich um einen QR Code für das Impfzertifikat. Ich hatte gerade noch gelesen, dass man das Handy weiter weg halten soll, das habe ich getestet und es hat auch nicht geklappt. Vielen Dank für die schnelle Antwort. Ich habe gerade geschaut und die Apotheke bei der ich war ist dort auch zu finden. Ich habe ein "EU COVID-19 IMPFZERTIFIKAT" erhalten. Das hatte ich gestern schon getestet und klappt leider auch nicht :(<br> :date: __2021-06-21 08:26:00__
+> Meine beiden Impfungen waren eingescannt, nach dem Update sind sie weg und die App akzeptiert auch keine erneuten Scan.<br> :date: __2021-06-26 16:11:33__
 
-> Im Home Office sind die ständigen Warnungen, dass Bluetooth und Standort deaktiviert sind, sehr störend. Es wäre schön, diese Warnung deaktivieren zu können, denn sobald ich unterwegs bin, aktiviere ich es.<br> :date: __2021-06-21 07:30:09__
+> Das Verschieben des Impfnachweises von der Startseite ist ein Griff ins Klo :) Was haltet ihr davon, dass ihr die ganzen Statistikendaten (R-Wert, Inzidenz usw.) Auf eine Seite packt und auf der Startseite die Dinge aufführt, die man jeden Tag braucht? App öffnen, Impfnachweis oder Testergebnis sofort in der Anzeige.<br> :date: __2021-06-26 15:15:19__
 
-> In letzter Zeit kommt immer wieder und viel zu oft die lästige Benachrichtigung: "Ihr Risikostatus. Bitte denken Sie daran, die Corona-Warn-App regelmäßig zu öffnen, um Ihren Risikostatus zu überprüfen." Das tue ich sowieso, aber die ständige Benachrichtigung ist lästig. Deshalb habe ich der Warn-App alle Benachrichtigungen erstmal verboten. Wenn das nicht geändert wird, deinstalliere ich sie.<br> :date: __2021-06-20 21:59:24__
+> Funktionen werden immer wieder ausgeweitet. Warum wird nicht wie in der CovPass App ein QR Code für den Impfschutz angezeigt sondern nur die einzelnen Impfungen?<br> :date: __2021-06-26 11:09:24__
 
-> Das Scannen des QR-Codes funktioniert weder bei der Dokumentation meiner Erst- noch bei der meiner Zweitimpfung. Das war eigentlich der einzige Grund, warum ich mir diese App installiert habe, der Rest ist für mich eher nice to have. Ist das Problem bekannt? UPDATE: Es handelt sich um die Impfdokumentationen des Bayrischen Impfzentrum, welche ich in dem mir zugeilten Impfzentrum erhalten habe. Andere Dokumente habe ich nicht vorliegen.<br> :date: __2021-06-20 19:24:26__
+> Warum kann ich nur mein Impfzertifikat einscannen und nicht zusätzlich das meiner Frau?<br> :date: __2021-06-26 11:03:43__
 
-> vernünftige App, dachte ich zu Beginn. Mittlerweile eher überflüssig......<br> :date: __2021-06-20 18:35:15__
+> Nach Smartphone-Wechsel und Datenübertragung bei Neueinrichtung wird das Tagebuch nicht übernommen.<br> :date: __2021-06-26 09:17:39__
 
-> Ich finde es gut, dass wir damit helfen Corona einzudämmen. Dann wäre ich gern bereit mit zu helfen. Aber was ist mit der neuen Delta Variante??<br> :date: __2021-06-20 14:43:21__
+> Warum gibt es keinen Hinweis durch die App wenn es ein Update gibt? Diese müssen immer manuell durchgeführt werden . Bei der aktuellen Version wird auch keine Update Möglichkeit im Playstore angeboten. Nur Öffnen und deinstallieren ist möglich. PS:Die Funktion "Automatische Updates" ist im Playstore aktiviert<br> :date: __2021-06-26 09:07:19__
 
-> Nach 3 Tagen konnte endlich eine Apotheke den digitalen Impfnachweis erstellen. Einfügen in die App ging ohne Probleme. Der Login in Geschäften funktioniert aber noch immer nicht, weil nicht mit Luca kompatibel.<br> :date: __2021-06-20 13:55:02__
+> Okay, an app muss sein<br> :date: __2021-06-26 09:06:19__
 
-> Hallo, er wäre nicht schlecht, wenn man doppelt oder falsch eingegebene Personen oder Orte im Tagebuch korrigieren könnte.<br> :date: __2021-06-20 11:32:27__
+> 26.06.2021 Leider verschlimmbessert.Impfzertifikat ist nicht gleich sichtbar bei Öffnung der App, muss erst suchen.<br> :date: __2021-06-26 09:05:40__
 
 
 
@@ -238,25 +238,25 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 2 reviews"/>
 </p>
 
-> Es wäre schön den digitalen Impfausweis bei der Rückkehr aus dem Ausland durch die App in die digitalen Einreiseanmeldung zu integrieren. In Dänemark erwartet man ein grünes Symbol für vollständig geimpfte. Wird so nicht akzeptiert.!!!! Schade, das Testen ging deshalb dort wieder los<br> :date: __2021-06-21 11:16:23__
+> Neuerdings nervt es, leider. Seit einiger Zeit meldet sich diese App ständig grundlos und erinnert mich daran, daß es sie gibt. Dabei öffnete ich sie zuletzt schon mehrfach, bloß damit diese dumme Meldung nicht mehr kommt. Sie erscheint trotzdem. Mitzuteilen hatte sie mir in dem knappen Jahr Nutzungsdauer nie etwas anderes, als daß das Risiko gering sei. Habe sie heute deinstalliert. Was sollen diese nervigen Erinnerungen? Die App kann sich doch einfach erst dann melden, wenn ein Risiko besteht.<br> :date: __2021-06-26 18:41:29__
 
-> Wird die App mal länger nicht geöffnet, deaktiviert sich die Erfassung und lässt sich auch nicht wieder aktivieren. Die App funktionierte seit ihrem Start fast problemlos. Nun musste ich bereits zum dritten Male die App löschen und neu installieren um wieder eine Aktivität zu bekommen. An Tagen, die man zuhause verbringt, sollte eine tägliche Kontrolle der App nicht nötig sein. Muss man deshalb gleich die Erfassung anderer Geräte deaktivieren? Bitte um schnelle Bearbeitung dieses Problems.<br> :date: __2021-06-20 23:33:36__
+> Eigentlich sollte man mit der App auch das Zertifikat des Partners einscannen können, wird aber leider von der App verhindert. Auch frage ich mich, warum die Kontakte bereits nach 14 Tagen gelöscht werden. Wer Covid nicht rechtzeitig erkennt und warnt, macht das dann häufig zu spät. Meine Verwandschaft hat die App inzwischen gelöscht, da leider unbrauchbar.<br> :date: __2021-06-26 18:13:48__
 
-> Die ansich sinnvolle AB. Hat woll immer noch Macken, habe nun zum zweiten mal sämtliche Eintragungen vom Tagebuch verloren, also die Eintragungen der lezten 14 Tage sind plötzlich weg.... Was nützt ein täglich penibeles eintragen wenn dann auf einmal alles weg ist.....?<br> :date: __2021-06-20 22:38:11__
+> Habe QR Code vom Impfzertifikat eingesannct jetzt finde ich es nicht mehr.<br> :date: __2021-06-26 16:50:04__
 
-> Im Großen und Ganzen empfinde ich hat sich die App sehr gemacht, aber das nach 48 Stunden der Test entfernt wird finde ich nicht in Ordnung. Wir waren jetzt in Meck-Pomm und Schleswig-Holstein, da ist ein Test 72 Stunden gültig, über eine Überarbeitung sollte man da eventuell mal nachdenken<br> :date: __2021-06-20 19:53:36__
+> leider ist es nicht möglich, mit einem aktuellen Smartphone, OnePlus 8 Pro, den QR-Code auf dem Ersatzformular zur Dokumentation der Durchgeführten Impfung zu scannen.<br> :date: __2021-06-26 16:16:14__
 
-> Unausgereift, man soll Schnelltests einlesen können? Man müsste aber die zugesandten PDFs erst ausdrucken zum einlesen. !!<br> :date: __2021-06-20 19:14:47__
+> Fehler 39508 auf Moto G play! Gerade jetzt wären wir froh, wenn die App funktionieren würde! 1. UPDATE: Jetzt funktioniert sie! Deshalb neue Bewertung. 2. UPDATE: Heute morgen war ich noch "vollständig geimpft", jetzt nicht mehr, "sondern vollständiger Impfschutz in null Tagen", also noch kein Impfschutz. Daher: Runter auf 2 Sterne.<br> :date: __2021-06-26 15:54:13__
 
-> QR-Code scannen funktioniert nicht<br> :date: __2021-06-20 16:12:16__
+> Na ja geht so!!!! Schnelltest kann man nicht den QR Code einlesen. Immer Fehlermeldung! Dann ist die App recht unnütz um jemanden seinen Schnelltest zu zeigen.<br> :date: __2021-06-26 14:11:00__
 
-> Nach so vielen Monaten Entwicklungszeit und Millionen, die dieses Projekt verschlungen hat, kann man nicht einmal die per Mail zugesandten QR-Codes einlesen, ohne die Mail vorher auszudrucken... völlig praxisfremd, es wundert nicht, dass die App so schlecht angenommen wird.<br> :date: __2021-06-20 09:05:50__
+> Ich wurde jetzt geimpft, kann jedoch den kleinen QR-Code in meinem Impfheft nicht einscannen. Ich hoffe, daran wird gearbeitet? Da dies für mich persönlich das Nützlichste an der App wäre, ist meine Bewertung jetzt stark gesunken. Sobald dies funktioniert, gibt's wieder 5 Sterne.<br> :date: __2021-06-26 13:59:08__
 
-> Sollten die Daten hier und bei der andere App denn dikitalen Impfpass nicht zweisprachig stehen? So das wenn jemand in Urlaub fliegt denn dikitalen Impfpass der Behörden dort vorzeigen kann das er geimpft ist? Das ist doch der Sinn der Sache gewesen weshalb es digitalisiert worden ist oder? Aber nirgendwo bei die Daten der Person eine englische Übersetzung. Oder sollen wir die gelben Impfpässe und die Registrierung von die Apotheke in Papier Format immer noch mit schleppen?<br> :date: __2021-06-20 03:20:57__
+> Ich kann mich anderen Bewertungen nur anschließen. Die ständigen Erinnerungen den Status zu überprüfen nerven nur stören beim Kundengesprächen. Und das obwohl ich die Erinnerungen abgeschaltet habe. Das ist Mist<br> :date: __2021-06-26 12:01:00__
 
-> Corona App und Luca App ist eine fehlende Software. Die beide Vertragen sich nicht. Vermehrt kann ich mich nicht Abmelden. Ohne Worte.<br> :date: __2021-06-19 21:42:13__
+> Seit gestern erscheint immer der Hinweis: Risikoermittling gestoppt. Auch nach dem Aktivieren ändert sich das nicht<br> :date: __2021-06-26 09:42:39__
 
-> Kann mich nur über diese app aufregen. Qr Code scan vergebens versucht. Funktioniert null<br> :date: __2021-06-19 18:31:01__
+> Für Schnelltests ungeeignet. Der Test wird nach 48 Stunden automatisch aus der App gelöscht. Für z.B. Grenzpendler werden aber 72 Stunden akzeptiert. Das heißt, wer sich auf die App verlässt steht nach 48 Stunden plötzlich ohne Testergebnis da.<br> :date: __2021-06-26 09:35:15__
 
 
 
@@ -266,24 +266,24 @@ The Corona-Warn-App app has been installed by more than **10000000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronawarnapp 1 reviews"/>
 </p>
 
-> Die App hat wohl ein Student im 1 Semester programmiert. Total fürn a....<br> :date: __2021-06-21 12:00:42__
+> Durch das Update heute morgen ist die Möglichkeit, ein Impfzertifikat zu hinterlegen, verschwunden.<br> :date: __2021-06-26 18:29:53__
 
-> Die App ist Schrott..am 16.06. den PCR Test hinzugefügt ein Ergebnis ist bis jetzt noch nicht da...musste beim Gesundheitsamt anrufen um zu erfahren das ich negativ bin.<br> :date: __2021-06-21 11:40:34__
+> Zu wenig Aussage kräftig. Grad mit Blick auf die Delta Variante! Eigentlich genau wie am Anfang - wenig nützlich.<br> :date: __2021-06-26 18:28:25__
 
-> War zu frieden seit kurzen kommt immer öfters ich soll die Risiko Ermittlung durch führen das beste war 3 mal in Abstand von 6std am Tag jetzt noch einmal am Tag obwohl man vorher rein geschaut habe das nervt bin am überlegen die app zu deinstallieren<br> :date: __2021-06-21 11:31:22__
+> Leider wieder keine Verbesserung nach dem Update: 1.Check- in wird nicht gespeichert, keine History möglich. Der Check-in selbst funktioniert problemlos, aber das war es dann auch schon. Nachverfolgen so nicht möglich. 2. Die Übermittlung der Testergebnisse durch einscannen des Codes ist eher untauglich. Da die Tests online gebucht wurden, liegt der QR Code natürlich digital vor, die App ermöglicht das einlesen aus Dateien aber nicht. Dadurch kann das Ergebnis so nicht abgerufen werden.<br> :date: __2021-06-26 17:40:58__
 
-> Leider lässt sich der QR Code für den Impfnachweis nicht scannen. Weiß nicht was ich noch tun soll....<br> :date: __2021-06-21 11:26:44__
+> Der QR Code des Impfnachweises lässt sich nicht einscannen<br> :date: __2021-06-26 16:20:14__
 
-> Leider besteht seit der Einführung, immer noch keine Kompatibilität zu Luca Check-In QR Code, obwohl dies stark beworben wurde.<br> :date: __2021-06-21 10:53:00__
+> Nach einigen Tagen wird die automatische Risikoermittlung von der App selbst gestoppt und kann auch nicht mehr in der App aktiviert werden. Es hilft nur eine völlige Deinstallation, bei der sämtliche Daten verloren gehen, und eine anschließende Neuinstallation, auch was die durchgeführten Impfungen angelangt. Gräßlich! Nachtrag: Heute morgen funktionierte die App wieder. Ich warte mal ab und werde weiter berichten. 2 Stunden später ist die Risikoermittlung wieder automatisch gestoppt.<br> :date: __2021-06-26 15:37:58__
 
-> Leider kann ich den QR Code nicht scannen an was kann das liegen?<br> :date: __2021-06-21 10:35:31__
+> Keine automatische Aktualisierung, Datenupgrades funktionieren nicht. Eine Katastrophe, wenn man sie nichtbrauchen würde: ....<br> :date: __2021-06-26 15:19:47__
 
-> Warum kann ich den Schnelltest nicht scannen?<br> :date: __2021-06-21 10:16:37__
+> Placebo Die einzigen Gewinner sind App Entwickler, kann jeder Informatikstudent im 1. Semester 68 Mio versenkt Ich hatte die App ueber ein Jahr, hat nicht gewarnt, wo es nachweislich haette sein müssen, mehrfach. Das ist an Dilentatismus nicht mehr zu toppen. Gratulation zu diesem Deal<br> :date: __2021-06-26 14:50:46__
 
-> QR Codes als digitaler Impfnachweis lassen sich nicht scannen. Keine Fehlermeldung, nichts, keine Reaktion. Poco f3 pro<br> :date: __2021-06-21 09:32:15__
+> Macht leider NICHT was sie soll!!!! Ich hatte Kontakt mit jemandem der positiv auf Corona getestet wurde, der über die App das Ergebnis bekommen hat und ich wurde trotzdem NICHT gewarnt!!! So geht das NICHT!!! Und es war keine 14 Tage her und es waren definitiv unter 1 Meter Abstand. Wann kommt der digitale Impfnachweis in der App auf Englisch? Denn auf deutsch ist er in Irland nicht gültig, da ich einen Nachweis auf Englisch brauche zum einreisen ohne PCR- Test.<br> :date: __2021-06-26 13:40:12__
 
-> Für mich nicht gut<br> :date: __2021-06-21 07:59:24__
+> Das Scannen des QR-Code eines Impfnachweises funktioniert sehr schlecht. Grundsätzlich sind die Warnmetriken mit den Möglichkeiten einer App sehr fraglich. 9min. Knutschen mit einer:m Covid-Positiven führt nicht zu einer Warnung, jedoch das 1h'ige Arbeiten im Nachbarbüro. Hab die App nur noch, weil ich keine 2'te für den Impfnachweis wollte<br> :date: __2021-06-26 13:30:46__
 
-> Ich sollte eigentlich hier mein Testergebnis bekommen. Als ich mehrere Wochen ohne Ergebnis gewartet habe, dass etwas kam, hieß es er wäre nun aufgrund der vergangenen Zeit ungültig. Es verfehlt irgendwie den Sinn sich testen zu lassen, wenn man dann nicht einmal ein Ergebnis bekommt.<br> :date: __2021-06-21 06:27:51__
+> Vollkommen nutzlos!<br> :date: __2021-06-26 13:25:28__
 
 

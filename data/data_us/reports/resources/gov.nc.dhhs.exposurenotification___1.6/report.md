@@ -131,6 +131,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> I have had this app on my phone for 8 months. So far it has given me no warnings of COVID-19 exposure. I truly think that is a godsend. Or a blessing. Great app.<br> :date: __2021-06-21 17:44:03__
+
 > Love this app keeps me updated daily without any effort from me<br> :date: __2021-05-18 02:07:36__
 
 > Keep me everybody else safe 🙂 💓♥️♥️♥️♥️♥️♥️♥️♥️<br> :date: __2021-05-02 14:15:56__
@@ -148,8 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > Gives me some peace of mind<br> :date: __2021-03-15 20:02:19__
 
 > I really want 💗💕💕<br> :date: __2021-03-10 05:37:35__
-
-> So far, negative!!!<br> :date: __2021-03-09 00:38:15__
 
 
 
@@ -187,6 +187,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 3 reviews"/>
 </p>
 
+> Nothing reported and I know people that had the Covid that I was in contact with. They had the app and it didn't notify them. Not useful.<br> :date: __2021-06-25 20:42:14__
+
 > Well there you go another tracking app to watch where you go, I'll get this app when I get tge vac.... NEVER!!!!!!!!!!!!!!<br> :date: __2021-06-05 03:25:45__
 
 > It's ok, but if people don't report anything, the rest of us don't know. Besides, South Carolina, as of today, is almost fully open and the mask mandate is pretty much history, except places like medical and schools.<br> :date: __2021-05-23 21:57:27__
@@ -205,8 +207,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > It isn't being used by everyone. So I was exposed by a nurse who was positive. I am immunosuppressed. I am a physician. I am around most of the time<br> :date: __2021-01-26 05:50:29__
 
-> I have a situation much like the previous commenter. My last check was January 12 and I have a google phone, I tried looking into the android setting to avoid snoozing but no luck. It would also be nice to have an in app feedback troubleshooting resource. Overall it's a good idea and keeps personal data safe<br> :date: __2021-01-23 18:46:57__
-
 
 
 #### 2-star reviews
@@ -214,6 +214,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
+
+> Not sure what this is but never used it.<br> :date: __2021-06-25 12:17:18__
 
 > The last time my app worked was 12/27/20, with no exposure detected, it'll be a really good app if it worked.<br> :date: __2021-03-21 19:24:07__
 
@@ -233,8 +235,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 
 > I am confused. I was thinking this app would check for exposures on a routine basis but my last check was back in December and I see no way of manually requesting a check. Am I missing something??<br> :date: __2021-01-21 04:03:05__
 
-> I havent had an update since December 26, 2020. What has happened to this app<br> :date: __2021-01-21 03:02:27__
-
 
 
 #### 1-star reviews
@@ -242,6 +242,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
+
+> I've come into contact with tens of thousands possibly hundreds of thousands of people in crowded bars and restaurants without masks on in a densely populated major metropolitan City, yet have gotten no covid exposure warnings in an entire year using the app. I doubt it works. Even if it does this app is a violation of your privacy. Big Tech spies on you and turns your data over to the police without your consent. We are becoming a police state. Soon the government will have all your health data<br> :date: __2021-06-24 02:11:41__
 
 > Now that song that app was showed up on the other phone and then you showed up on this phone I don't know if they going by my namethey are hacking me and they are really getting on my nerves and I'm trying to buy a house and a car whoever is doing this they have my credit score below 600 I need help with this situation could you please help<br> :date: __2021-06-17 04:58:35__
 
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > 5/15/21 My wife was tested positive a week ago, my whole family has the app running, no notifications. Tried to "notify others" but it has so many steps and is intentionally difficult to prevent misinformation to the point that when you're sick you give up. In the end, this app is worthless.<br> :date: __2021-05-16 14:35:55__
 
 > App is a peice of trash. Trying to sign up and use it is a pain in the butt. It shouldn't be this complicated to use an app that essentially only needs to notify you of other users around you. Many apps have this function. Hell, even dating apps notify you if a match is nearby. The devs need to learn how the hell to code an app before trying to capitalize on everyone's fear with this useless junk during a pandemic.<br> :date: __2021-04-19 15:13:12__
-
-> Horrible and doesn't work at all. I am guessing the app developer is Slow, like the apps name. Google should remove this from the store. It does not look to be supported or updated any longer. Worst app I have ever downloaded!<br> :date: __2021-04-09 15:32:54__
 
 

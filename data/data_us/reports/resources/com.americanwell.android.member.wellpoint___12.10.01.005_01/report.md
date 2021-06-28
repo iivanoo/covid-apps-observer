@@ -186,6 +186,18 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> The doctors are very helpful. They have answers for all my questions.<br> :date: __2021-06-27 03:22:53__
+
+> Best mental help I've had for depression<br> :date: __2021-06-25 18:56:01__
+
+> This app is great because it works with your insurance company to get you fast medical opinions and prescriptions. the doctors are very professional and thorough. They send all meds directly to your pharmacy and if there is a problem with coverage they quickly fix it. I would definitely recommend this app for anyone who does not want to go to the hospital and sit in the e.r. waiting for hours on end. With the app it takes less than 5 minutes and they send your prescriptions off right away.<br> :date: __2021-06-23 12:45:43__
+
+> Wow i mean who doesnt like this. ... ... No . one thats who.<br> :date: __2021-06-23 04:41:22__
+
+> Awesome, I didn't have to wait very long. My insurance was accepted so it was free. My doctor was very pleasant and understanding.<br> :date: __2021-06-22 12:13:58__
+
+> Great experience<br> :date: __2021-06-21 18:52:39__
+
 > Got connected within 5min and great service.<br> :date: __2021-06-20 15:53:00__
 
 > WOW! Great and fast service, I'm very impressed!<br> :date: __2021-06-17 18:46:08__
@@ -193,18 +205,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > So covenient when it is hard to get time to see your PCP<br> :date: __2021-06-16 19:17:06__
 
 > Very helpful<br> :date: __2021-06-16 05:03:51__
-
-> Very fast and super convenient! Dr. Wang was great and very personable, easy to talk to and very friendly.<br> :date: __2021-06-12 03:24:18__
-
-> Wait took a while. Visit was quick. I will pick up script tomorrow since pharmacies are closed today. Fast and easy.<br> :date: __2021-06-11 06:13:06__
-
-> Clear and quick. M.D. was on point.<br> :date: __2021-06-10 23:06:42__
-
-> Excellent<br> :date: __2021-06-10 20:22:59__
-
-> So convenient<br> :date: __2021-06-08 12:30:27__
-
-> Positive.<br> :date: __2021-06-07 22:09:51__
 
 
 
@@ -242,6 +242,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="3_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 3 reviews"/>
 </p>
 
+> Kinda bigoted not having the option to my name in, being forced to have my legal dead name displayed.<br> :date: __2021-06-26 23:21:04__
+
 > Make sure you enter your health insurance correctly or you'll end up paying full out of pocket<br> :date: __2021-05-07 12:22:02__
 
 > Its a great app and idea 💡 👍 but the video never wants to work and some of the providers will just call 📞 you👍 but some do not Other than the video issues its great would be 5 stars but lame<br> :date: __2021-03-27 00:52:20__
@@ -259,8 +261,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > I'm pleased with the doctors available but the app has given me an issue with the audio each time I've used it. Is there a patch available?<br> :date: __2020-07-20 00:37:19__
 
 > Not great at all. Took three tries to get through. I can't message the Dr. I talked to and I don't think the prescription was called in. Awful experience! It is fixed now after calling the company. They had to call in the script. Been on the phone most of the day.<br> :date: __2020-05-11 21:53:32__
-
-> Pharmacy search didn't work first time. Time out too short. After logging in again, had to repeat same questions, but pharmacy search worked.<br> :date: __2020-04-11 20:48:29__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> App Always needs update. Total garbage<br> :date: __2021-06-22 20:44:57__
+
 > I registered on this app tells me my email is in use, so I go to sign in with same email, the app tells me it doesnt have my email on file. Wasted effort since I want to talk to a Dr about the side effects Im experiencing from 2nd Covid vaccine. Anthem BCBS "pretends" to have a patients interest at heary but sets up roadblocks making it difficult to see a doctor online. If I get charged for trying to register or attempting to sign on, I'll contact the insurance commissioner.<br> :date: __2021-05-24 22:04:09__
 
 > Unable to complete a simppe video call appointment. Appointments randomly cancelled and rescheduled. KICKED OUT OF APPOINTMENTS IN THE MIDDLE WITH NO WAY TO ACCESS THEM AGAIN. CONSISTENTLY OVERCHARGED BY HUNDREDS OF DOLLARS FOR VISITS EVEN IF THEY WEREN'T COMPLETED. THIS APP CANNOT HANDLE A SIMPLE VIDEO CALL.<br> :date: __2021-05-19 16:08:11__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Big scam I have a sinus infection I know what allergies feels like this is not allergies doctor didn't listen to a thing I said told them I have tried nasal sprays, sudafed, and one of the meds I had listed was zytec and ill be damned if the idiot didn't turn around and tell me to use afrin nasal spray and zytec all I needed was antibiotics I have had this for 4 or 5 days and it is getting worse dont waste your money on this big scam all they want is for you to come back in a week<br> :date: __2021-04-10 19:37:11__
 
 > 30 minutes and waiting for a doctor .. so no, this app is in no way even a tiny bit of replacement for a good old call to a hospital. If you have a cold, a sneeze or anything insignificant to get checked, something that you didn't get checked wouldn't make a difference.. rely on this app.. anything more than that and you're rolling a dice and taking your chances.<br> :date: __2021-04-10 08:38:40__
-
-> If I could give them -47 stars I would. This is by far the absolute worst company every. They know that I am fully covered to use their services with no co pay. My insurance company cannot stop them from charging me. I have been on 3 way calls with my insurance and them and livehealth online still cannot fix the system issue. I have to paid for services that are supposed to be free and they still have not refunded my money. I think this is the best scam on the planet. Run Fast!!<br> :date: __2021-04-06 04:06:00__
 
 

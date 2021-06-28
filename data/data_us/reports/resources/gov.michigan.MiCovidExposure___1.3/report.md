@@ -126,6 +126,12 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Did it's job well while it was needed. Kudos to MI for trusting the science and saving lives instead of letting those poor Conservatives die of their own stupidity<br> :date: __2021-06-24 21:36:11__
+
+> Thankfully I didn't get an alert<br> :date: __2021-06-23 02:02:47__
+
+> Grrrreat<br> :date: __2021-06-22 04:42:31__
+
 > Thank you for being alert on this particular virus that's been going around. But now I also see it over there in Hong Kong as well. Please keep things updated as much as possible for this virus thank you<br> :date: __2021-06-15 15:46:38__
 
 > I'm very happy with the app and yes I have uninstalled it because I have been working on getting my second shot 💉 for the covid-19 I've been tested for it 7 times now and been negative for it every time !<br> :date: __2021-05-25 21:32:18__
@@ -139,12 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > I check everytime I go out. It makes me feel safe and secure.<br> :date: __2021-04-28 15:30:42__
 
 > This is benifica<br> :date: __2021-04-25 14:17:17__
-
-> This is probably the best way to get information on whether you may have been exposed to the 22nd century plague - Sars COVID - 19. A must for all in this day and age. I applaud the creators of this app.<br> :date: __2021-04-22 14:25:16__
-
-> I like better than first one.<br> :date: __2021-04-18 14:29:40__
-
-> Very good 👍 love it<br> :date: __2021-04-11 16:43:36__
 
 
 
@@ -238,6 +238,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Stops working. I install it and it works for a period of time then stops. This is the 3rd time I installed it. Today I checked it and said last checked June 3, today is June 25<br> :date: __2021-06-23 15:42:42__
+
+> Covids a hoax the state developers should work on fixing actual issues. Like the unemployment systems that have been overwhelmed and need optimization from the influx caused by terrible policy decisions. Also the app doesn't even work.<br> :date: __2021-06-21 18:40:42__
+
 > Doesn't work anymore. Says it hasn't checked for exposure in over 4 months, despite that option being always enabled and my Bluetooth being always on.<br> :date: __2021-06-20 14:05:45__
 
 > Glad our great state is so great at throwing away our hard earned money. Please explain how the developers name is "State of Michigan". The State of Michigan is not just a person or a government.<br> :date: __2021-06-07 22:32:19__
@@ -253,9 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > App never does anything when i turm off bluetooth it says "turn on bluetooth to recieve exposure notifications" Just having the bluetooth feature ON absolutley DRAINS my battery. Fix you r godamn app your moron.<br> :date: __2021-05-28 17:06:36__
 
 > Doesn't work. Today I open it, only to find it has turned itself off and hasn't checked exposure since December. What good is that. I am vaccinated now so I may as well uninstall if this thing won't work.<br> :date: __2021-05-24 17:43:18__
-
-> Hail Whitless, can't wait until she's voted out<br> :date: __2021-05-21 00:45:12__
-
-> Stops checking for exposure and doesn't start again. Yes, I've fixed all the settings.<br> :date: __2021-05-20 15:02:27__
 
 

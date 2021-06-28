@@ -305,6 +305,8 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbssc.android.careondemand 1 reviews"/>
 </p>
 
+> This app sucks. It's the same exact app as other telehealth apps except somehow it's slower and more glitchy. They charged me a 40$ missed appointment fee even though I attended my appointment. Now I'm fighting with them to get my money back. Also, they didn't tell me I was seeing someone who's out of my network. Not sophisticated and not cute. Do not recommend.<br> :date: __2021-06-23 19:49:27__
+
 > log in difficulties every time<br> :date: __2020-10-06 14:08:15__
 
 > Experiencing unusually high call volumes.<br> :date: __2020-07-26 02:39:12__
@@ -322,7 +324,5 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 > 0 stars This app is a joke. You wait 40 minutes to see a doctor then get kicked out (doctor is no longer avaliable) then try to make another appointment and are told you must finish the first appointment before continuing. Not to mention when you finally do get an appointment the app doesn't work with your speaker.<br> :date: __2020-02-09 15:52:24__
 
 > Horrible experience trying to get app to work on phone and on two computers. Never had issues with Teladoc.<br> :date: __2019-12-28 20:11:27__
-
-> A $40 waste of time just to have a video call with Interne Amanda Mueller to go to an urgent care while you're in a big semi truck over the road having a yearly bronchitis attack that you're familiar with! From the looks of the reviews all people of color are having negative results!<br> :date: __2018-12-21 19:56:03__
 
 

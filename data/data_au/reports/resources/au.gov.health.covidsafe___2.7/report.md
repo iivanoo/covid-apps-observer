@@ -134,25 +134,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Very easy using this app<br> :date: __2021-06-21 09:48:08__
+> So easy to use.😁<br> :date: __2021-06-28 03:32:30__
 
-> Works silently in the background.<br> :date: __2021-06-21 08:36:53__
+> Handy to have updated info at my fingertips!<br> :date: __2021-06-27 13:43:49__
 
-> Had no problem with my Samsung and it's great to know we're keeping WA safe<br> :date: __2021-06-21 08:22:45__
+> Mesmerised how amazing this app is. Gushing as a matter of fact<br> :date: __2021-06-27 12:36:40__
 
-> All good. Easy to use app. Great job, thanks. Keep up the good work.<br> :date: __2021-06-21 03:53:17__
+> Easy to understand and reliable.<br> :date: __2021-06-27 08:31:01__
 
-> Keeps me informed and safe.<br> :date: __2021-06-20 10:41:37__
+> My cat and I love the Covid app and would highly recommend it to everyone in Australia.<br> :date: __2021-06-26 09:23:06__
 
-> Hopefully protects me like the Australian government should have.<br> :date: __2021-06-20 04:54:33__
+> Excellent<br> :date: __2021-06-26 05:11:37__
 
-> Good info<br> :date: __2021-06-19 22:07:09__
+> It has been a non problem, easy going, and non envaceive to everyday activities<br> :date: __2021-06-26 00:22:59__
 
-> Very good<br> :date: __2021-06-19 08:30:04__
+> Works good.<br> :date: __2021-06-25 11:45:30__
 
-> Works well<br> :date: __2021-06-19 05:40:01__
+> Great what Australia government ,app to warn an help us all ...keep us all safe too.<br> :date: __2021-06-25 10:01:45__
 
-> Keeping up to date with latest Covid hotspots.<br> :date: __2021-06-19 03:41:11__
+> Good<br> :date: __2021-06-25 08:40:48__
 
 
 
@@ -162,25 +162,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
+> Would be good if it could cache its operational info if 4G data coverage is not available. With Vodafone this can happen anywhere, any time, it seems but also some places eg Bannister River roadhouse on the Albany Highway, do not have mobile access. Surely it should be possible to store the info and upload it when back within range of a tower?<br> :date: __2021-06-26 17:48:06__
+
+> Seems to work okay for those that do use it .. sadly ignorance is still there so the virus will still spread because of the selfish people who will not use app and expect will not get vaccinated either .. its the way of the people and how we all live now with too many "don't have to do " syndrome which is being taught to our children from a very early age and supported in our education system . Not all the teachers fault they have to do what is set for them . coming right back to bite us now ..<br> :date: __2021-06-26 09:20:52__
+
+> Excellent , sometimes doesn't clear previous contact so you are unable to do your next contact<br> :date: __2021-06-25 08:13:25__
+
+> Excellent as my wife has treatment for cancer each fortnight and it has simplified everything for us.Thank you.<br> :date: __2021-06-25 00:47:32__
+
+> It had good informatiom for the area I live in.<br> :date: __2021-06-23 11:27:56__
+
+> Very helpful. Not intrusive and I think it gives an added avenue of reliable information.<br> :date: __2021-06-23 06:02:49__
+
+> Positive<br> :date: __2021-06-22 09:42:54__
+
 > good<br> :date: __2021-06-19 16:01:11__
 
 > I feel it is not 100% yet but necessary.<br> :date: __2021-06-18 07:58:16__
 
 > App now gives up to date local COVID restrictions depending on which state or territory you're in. Really fantastic so you don't have to trawl through the web for the most up to date information. Would be even better if they can show a tally of close contacts your phone has detected in the past fortnight or month, so you can check if it's working with close contacts<br> :date: __2021-06-18 07:43:16__
-
-> Very good<br> :date: __2021-06-17 06:45:41__
-
-> Have to update details occasionally but better than the virus<br> :date: __2021-06-17 06:15:44__
-
-> All good so far<br> :date: __2021-06-15 05:37:38__
-
-> Good<br> :date: __2021-06-14 14:00:16__
-
-> ezez<br> :date: __2021-06-13 06:47:34__
-
-> Keeps dropping bluetooth<br> :date: __2021-06-13 04:01:22__
-
-> This app is useful to find out up to date information on COVID restrictions. I am looking forward to the the display of my vaccination certificate. That will make it really useful assuming that those people who have done the right thing will be subject to reduced restrictions.<br> :date: __2021-06-11 11:29:16__
 
 
 
@@ -190,25 +190,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
+> dont think it works<br> :date: __2021-06-27 04:12:40__
+
+> Can't complain about this App. Does what it's supposed to do ,I suppose. Check ins are simple.<br> :date: __2021-06-25 11:09:02__
+
+> Too slow to enter shops<br> :date: __2021-06-25 06:09:26__
+
+> The Covid App uses from 17% and often 20% of battery capacity. If I use internet and calls during the day, then my battery life fails - I need to recharge the phone in the afternoon to maintain any call capacity. Battery life is a major problem with the Covid App. I will turn the Covid App off from today - I will rely upon the QR Code scans to track potential exposures from today.<br> :date: __2021-06-23 22:46:11__
+
+> Gobbles up the battery.<br> :date: __2021-06-22 23:14:31__
+
+> O loo loll<br> :date: __2021-06-22 08:23:32__
+
+> Uses too much battery<br> :date: __2021-06-21 23:34:51__
+
 > Seems redundant<br> :date: __2021-06-21 12:07:40__
 
 > How do you rate an app when no-one publishes data on how useful it is ???<br> :date: __2021-06-21 07:43:59__
 
 > Not sure how well it works, yet it alone consumes more than 10% of my 4500 mAh battery overnight... Always the top-1 on the battery usage list.<br> :date: __2021-06-21 03:30:39__
-
-> I would give this app five stars. However, no one seems to know about it. I went to get my first vaccine today, and it's either the MyGov app, or manual sign in, which is always the case. More people need to be aware of its existence, and that it's a legitimate alternative.<br> :date: __2021-06-20 06:01:24__
-
-> The updates are always after the breaking news.<br> :date: __2021-06-19 22:57:32__
-
-> Not sure<br> :date: __2021-06-19 07:17:26__
-
-> Should have a log out option from this APP immediately after logging into new premises. Not request codes etc. What is that about. It makes me angry everytime I log into venues. I am there to socialise not play on my phone. What the hell is "real-time following".<br> :date: __2021-06-18 14:22:04__
-
-> Recently started using ridiculous amounts of battery of my S8 which already doesn't have the greatest battery life. Not sure what's changed as I've had it installed for roughly a year.<br> :date: __2021-06-16 07:18:04__
-
-> Don't use it much only when I go out 😜<br> :date: __2021-06-15 09:45:16__
-
-> Good<br> :date: __2021-06-14 11:35:27__
 
 
 
@@ -218,25 +218,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> Not impressed with delays in updates. In a time of a potentially big outbreak in NSW from Eastern Sydney of the Delta strain, the app promoted as helping with information and tracing is 24hrs, or even more behind, on case numbers, locations and current restrictions.<br> :date: __2021-06-21 02:48:17__
+> sucks battery life far too much<br> :date: __2021-06-27 13:13:48__
 
-> Finally gave up on this after 14 months use. Battery use is now very high & uninstalling it has given me back an extra 4 - 6 hours battery life per day. COVIDSafe battery usage in a busy cinema (where it should be most useful) was so high it drained my phone from 100% to 25% in just hours, barely leaving enough battery to hail an Uber home. I'm embarrassed to have recommended COVIDsafe to family & friends when this started, they were right to be skeptical.<br> :date: __2021-06-19 12:47:46__
+> Think designed to trigger after 15 mins close contact - should be changed to 15 seconds . 15 minutes in a shopping queue ? It's just wrong .<br> :date: __2021-06-27 08:51:51__
 
-> Badly run<br> :date: __2021-06-18 10:14:14__
+> Almost useless<br> :date: __2021-06-27 07:51:36__
 
-> Not good<br> :date: __2021-06-17 12:30:46__
+> I still haven't got the Covid scan screen on my phone. It disappeared a few days ago!!!!! How do I get it back on again?<br> :date: __2021-06-27 06:33:09__
 
-> I'm not sure that this app actually does anything. Has it actually been used for any contact tracing? I'll keep it on the phone for now, as it's fairly harmless (If you're worried about Big Brother tracking you on your phone, he's had that ability for more than 20 years now and with better technology than this app.).<br> :date: __2021-06-15 10:07:10__
+> But 88 ofLLn.n M<br> :date: __2021-06-27 03:02:48__
 
-> What does this app even do for the amount of battery it drains?<br> :date: __2021-06-15 07:39:14__
+> Cant select state<br> :date: __2021-06-26 13:46:35__
 
-> Ineffective during ourbreaks<br> :date: __2021-06-15 01:10:49__
+> Doesn't work on old phones 26/6 still hit and miss!!!<br> :date: __2021-06-26 08:09:36__
 
-> We get no information about how the app is being used, hard to believe it is of any use - give us some facts<br> :date: __2021-06-14 11:31:42__
+> Burns through battery<br> :date: __2021-06-23 08:06:41__
 
-> In theory the app is a good idea, but completely pointless if you have to check in everywhere with a QR code, which is the primary data contact tracers use. The data from this app has barely been used for tracing purposes.<br> :date: __2021-06-14 09:05:07__
+> It's slow on updates..I check covid safe on a regular basis. I have a family gathering for a funeral today and tomorrow. I only just found out via the news which was released 630am this morning. But the updated information does not reflect on the covid safe app.<br> :date: __2021-06-23 05:28:09__
 
-> Don't understand it's use or if it actually works.<br> :date: __2021-06-13 13:29:22__
+> Not enough uptake for it to be useful<br> :date: __2021-06-23 05:02:42__
 
 
 
@@ -246,24 +246,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> I hear the police now use this app for servalance just another big brother app. Uses to much battery.<br> :date: __2021-06-21 07:44:01__
+> I wanted the virus 😭😭😭😭<br> :date: __2021-06-28 01:46:50__
 
-> police are using as tracing app<br> :date: __2021-06-21 05:48:44__
+> Worst app ever<br> :date: __2021-06-26 14:52:55__
 
-> I have to use multiple state government QR code based apps to check in everywhere I go.<br> :date: __2021-06-21 00:59:34__
+> Dud from the start. Great idea very poorly (yet skilfully) implemented. Would have been better to give us all personal electronic trackers. THAT would have worked for everyone, even those who don't have smart phones! DUH!!!<br> :date: __2021-06-26 11:16:46__
 
-> Is this app still of any use? I'm asked to check in using a QR code almost everywhere I go & even when I explain I have the covidsafe app installed and chewing through my battery (Bluetooth always on) I'm still required to check in. Can you please clarify for me if there is any benefit to me checking in using those common QR codes while using the app or vice versa? I thought the app was a great idea I'm the beginning. I'll look to change my stars and review if I get a response Thankyou :)<br> :date: __2021-06-20 08:05:26__
+> Not useful<br> :date: __2021-06-26 09:52:32__
 
-> What is it good for?<br> :date: __2021-06-19 09:38:34__
+> Following the latest update the battery issue is worse than ever. It accounts for more than 50% of my battery usage even when I spend limited time away from home. Operating on a Samsung s9+<br> :date: __2021-06-26 09:37:30__
 
-> Don't know if this even works. Takes up a lot of battery, needs updates all the time, doesn't give real information. Could have been useful if real-time location based info was available rather than general out of date public data. Feel like the government missed an opportunity with this app.<br> :date: __2021-06-19 09:01:17__
+> I had this app from its introduction until three days ago. I finally gave up because of its excess battery usage. On the last day my phone was 100% charged at midnight and 20% at 8.00am the next morning. I cannot support an app that uses that much.<br> :date: __2021-06-26 09:23:49__
 
-> I turned off permission to access location info. Still waiting for promised access to source code before re-enabling.<br> :date: __2021-06-19 07:00:03__
+> Useless<br> :date: __2021-06-26 07:29:27__
 
-> I b . M m. Im za N ambucca Bn ? . b Ok<br> :date: __2021-06-19 05:43:51__
+> Does it even work?<br> :date: __2021-06-26 00:27:52__
 
-> Never heard that they have ever traced a thing.<br> :date: __2021-06-18 14:43:24__
+> Totally useless. Would be good if you could use it to scan into locations.<br> :date: __2021-06-25 08:39:20__
 
-> If i could give this app 0 i would. Can't even click on a WA update as its not listed. For an app that states Australian Government its piss pore information that takes up valuable storage space🤔.<br> :date: __2021-06-18 13:03:33__
+> Seems useless to me. QR?<br> :date: __2021-06-25 07:51:35__
 
 

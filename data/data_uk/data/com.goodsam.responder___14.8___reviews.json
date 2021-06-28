@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOGqrwXcKlPelit8UQqpbIsYcaefAjwOPPc0c7NjARBGoM4GzdJou9DOIPS324i-yn76UDEnFqXs3ciCFw",
+        "userName": "Kathryn Gill",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhZAzBkUENB-Fjlup8NJ90L9Ziq4RRzTILzTrG=mo",
+        "content": "Great app! Got a couple alerts recently and the ambulance service is always happy to see help!",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "14.8",
+        "at": "2021-06-26 18:22:22",
+        "replyContent": "Hi Kathryn, sorry for the troubles you have had, have you checked your spam folder aswell? If you wish to resent the code you can do so from the following page: https://www.goodsamapp.org/activate",
+        "repliedAt": "2020-01-12 13:06:30"
+    },
+    {
+        "reviewId": "gp:AOqpTOHvebDaMFz5E83_BjT4Qp9rY_c1uXY13czRMRuCtxOSfghnf7FbOsKhRNzy85BKvget8rS_u1ar8qwYjg",
+        "userName": "Janice Boswell",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzZ0qzSl69MvOFEAd2lJ_tPXuSPuIhLg4ndRGL-=mo",
+        "content": "Not happy. This month the app used nearly all my data so had to remove it from my phone. Have just reinstalled it for next month.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "14.8",
+        "at": "2021-06-26 00:07:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHNRDMgHNPLGz9zYUOQqHgogXe0NLa1aeOTJ5gz_lZtMvWXrN3Hww0JG4RUDgyb2UwEAX-AaZdHcis5gg",
+        "userName": "Karen Hoare",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHR16JGRZx0QLR6osZsyobhsQ-0PROUX90N4MW=mo",
+        "content": "App not working properly for me any more. Says the GoodSAM Responder is running. I'm unable to accept any tasks. Another message: We are trying to obtain your location. Please make sure your location services are enabled and our App has access to them. I have uninstalled and reinstalled the App, but made no difference.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "14.8",
+        "at": "2021-06-22 12:18:04",
+        "replyContent": "Hi Karen, please make sure your location services are turned on and our app has access to them, the above happens if the app can not locate you. We need your location to send you nearby tasks, we have a guide here: https://www.goodsamapp.org/help",
+        "repliedAt": "2021-06-22 12:19:56"
+    },
+    {
         "reviewId": "gp:AOqpTOH52s0JssXknI_f9yl2H__XxZl0zUXXjDUhv_Xs5TJ0moo7cxMc6VhnzPPnZla2WjUpAZImRXIfYEkXuA",
         "userName": "Mark Richards",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxcZAL2UA3Q7vVogc6NqKNxvuR1Y0xfgq2Wzzdj=mo",
@@ -8,8 +44,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "14.8",
         "at": "2021-06-20 02:28:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Mark, sorry to hear this. Could you please make sure you have the latest version of the app installed and turn down your location accuracy from the ID tab. (Please put the slider all the way to the left so the app wont use GPS) Apologies for the inconvenience.",
+        "repliedAt": "2021-06-21 21:50:25"
     },
     {
         "reviewId": "gp:AOqpTOHCvBHRo5DDP0EoGkHMNdoocxc0pMHtVKBKyVsbrpBO6WTJoyLgOS41mS8SaI_i8P8xOGdrfoZZ1q-Z-A",
@@ -41,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggqxuk1ppEgjBaW9znbiduJQ8XPrP-sLDF1AIYXlw",
         "content": "Uses mobile data like it's going out of fashion. 2 6 hour shift's and I have used 80 percent of my monthly allocation. Update - thanks for the feedback. It used 460mb in 2 weeks and I was off wi-fi for 15 hours in that time. I've had to turn mobile data off until my next month starts as I've used up my allocation, so will let you know if it's improved in July.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "14.8",
         "at": "2021-06-14 20:43:06",
         "replyContent": "Hi Adrian, sorry to hear this. Our apps data consumptions should be minimal, unless you are streaming, the app should not use more than a couple of mega bytes. Also we can see that your app is slightly out of date, do you mind updating it and letting us know if the problem persists?",
@@ -329,7 +365,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy3uKjpaKiCO4r_zMDMAD4WWuq5YVBr1kT-bjbY=mo",
         "content": "Attempted to register as a registered responder and 4 weeks later still waiting for it to be reviewed/approved. Nil other way to contact them.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "14.1",
         "at": "2021-04-28 02:32:18",
         "replyContent": "Hi Matthew, sorry to hear this. We are the technology platform used by over 200 organisations. We rely on those organisation to approve and manage their own staff/responders. If you drop us an email at info@goodsamapp.org, we should be able to look up your application and follow it up with the parent organisations. Thank you!",
@@ -5714,7 +5750,7 @@
     {
         "reviewId": "gp:AOqpTOGaTv7_KMo7ZYSabBTpx9TlNxebCqp3KAQeC5efmW7CzVNjzRWmPoh3ne3v5_H2C1Z0la4dF29S9kqAOA",
         "userName": "Stewart Powerhouse Leahy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GieiDn9ZvKsIGX1O7WvWKOIRtitNv4mjVrjHwNYSQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjqZkR9dRoOquMGDUlZNB21VrxJX-F7X_CMAyJy-w",
         "content": "Keeps dropping my settings. I click 'on duty' and it randomly deselects my settings? Update ... despite the developers confirming that the latest update would fix the issues on my android device, alas but 'no' the issue is not fixed in any way!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -10140,18 +10176,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOGqrwXcKlPelit8UQqpbIsYcaefAjwOPPc0c7NjARBGoM4GzdJou9DOIPS324i-yn76UDEnFqXs3ciCFw",
-        "userName": "Kathryn Gill",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhZAzBkUENB-Fjlup8NJ90L9Ziq4RRzTILzTrG=mo",
-        "content": "Have put all my details in to register but no activation email sent and no way to get it to resend so unable to use the app at all. Great idea but not usable",
-        "score": 1,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": "9.6",
-        "at": "2019-12-18 02:26:31",
-        "replyContent": "Hi Kathryn, sorry for the troubles you have had, have you checked your spam folder aswell? If you wish to resent the code you can do so from the following page: https://www.goodsamapp.org/activate",
-        "repliedAt": "2020-01-12 13:06:30"
-    },
-    {
         "reviewId": "gp:AOqpTOEPidCEKpWu4BjGGw_rQPEhwMDItWn5COfBYLncUCQXo8U9W_pURHLheIFBCAqAOqa8M6fziC5bJNq9lQ",
         "userName": "Peter Tomlinson",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghf0SlR1dkU2mKOqnpztFRcDenbY4aMfdyKdIe9Hw",
@@ -10189,7 +10213,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHgEHfjR5Y-y_rIpDEKQf7RuJGRkzTR_5q9klxwzKPH6PG3yY0kL19Cui4aJHSFo5c73OfDF8nVuBRrMw",
-        "userName": "James Shyres",
+        "userName": "James Shires",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhzSLc3P2qNfosZre5IyFTs3agxZbVkUHJinWSWCtg",
         "content": "Recent updates have been causing my settings to periodically reset to 'off' as well as losing the hours sections. I used to be confident in the app and get maybe around 5/6 alerts a month (live in a city) but I'm lucky to get 1 at all now and I have a feeling this is a settings problem. Please update!",
         "score": 3,
@@ -11974,29 +11998,5 @@
         "at": "2017-09-05 19:50:02",
         "replyContent": null,
         "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGDlW3mPsX_KnksVORMIZDYwW7ePAXnXGOFQ0nA0Gx8pvvIQOVaK9pZ01V8uxeaWPVVR86Estyeo0NqDg",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Using Google pixel XL  initially a great app, and worked fine. Emailed tech support to get my admin updated so I could be accredited and activated by my local ambulance trust. Since then, it continuously crashes and won't open at all, despite reinstalling. Please get this fixed.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.8",
-        "at": "2017-08-18 22:40:49",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG5723f6X3OopmKLgtklqNmneXzseNL9Q6CWOzL9G_usFGqW_fQOoQ43FxFnTEwxjDre2UH3To_rUu74A",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Just keeps saying app stopped working. On Samsung J5 with latest Android software.  Thanks for the reply with a fix.  Working much better now. :)",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "6.8",
-        "at": "2017-08-04 13:21:10",
-        "replyContent": "Hi there, have you tried our latest update which was published this weekend? It would hopefully fix your issue!",
-        "repliedAt": "2017-07-30 11:38:10"
     }
 ]

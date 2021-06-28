@@ -149,6 +149,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 4 reviews"/>
 </p>
 
+> Because<br> :date: __2021-06-25 11:44:31__
+
 > The one I got<br> :date: __2021-06-20 02:37:54__
 
 > Won't even get past the 3rd setup page....I hope Nevada did not actually pay somebody to build this. Tried again after update ..still will not set up....3rd update did the trick. set up OK ..upped to 3 stars. We will see. They updated it...it works now.<br> :date: __2021-04-11 03:40:23__
@@ -223,6 +225,10 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> I wouldn't install this because it's asking way too much of my private data activities. Doesn't seem very "privacy" friendly.<br> :date: __2021-06-23 07:47:14__
+
+> This is malware.It installed on my phone without my permission.<br> :date: __2021-06-23 02:37:35__
+
 > Not effective disturving annoying ruthless app .<br> :date: __2021-06-10 16:19:14__
 
 > Installed communist tyranny for math illiterate diaper face cult.<br> :date: __2021-05-29 11:48:29__
@@ -238,9 +244,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > No idea what the idea is behind this when I couldn't enter my info about being infected.<br> :date: __2021-02-19 05:06:10__
 
 > Dark mode support pls<br> :date: __2021-02-16 16:09:20__
-
-> It doesnt work. I have 2 positive people at home it said nobody is sick.😥<br> :date: __2021-02-12 02:33:23__
-
-> NV advised everyone to get this app but the only thing that it does that I can tell is whine when bluetooth is turned off. Being an associate of the healthcare industry this just appears to be another government advertised strawman app that nobody really has any use for....though its tempting to kick this on near the COVID wing and see if it goes off like a four alarm fire.....I'm highly doubtful it would.<br> :date: __2021-02-10 08:34:36__
 
 

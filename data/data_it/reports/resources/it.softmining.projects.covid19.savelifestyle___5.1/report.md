@@ -269,6 +269,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 2 reviews"/>
 </p>
 
+> Non mi fa registrare<br> :date: __2021-06-25 11:17:15__
+
 > Inizialmente tutto ok,adesso non funziona più,premo sullo scudo per aggiornare la percentuale di contagio e rimane a zero,in una sala d'aspetto con 15 persone! così è inutile esattamente come immuni!<br> :date: __2021-04-22 08:52:53__
 
 > Disinstallata troppo invasiva<br> :date: __2021-02-12 14:06:24__
@@ -286,8 +288,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Dam pl v<br> :date: __2020-06-22 09:47:34__
 
 > Cosa significa quando mette 0,e poi un tot di numeri dopo?<br> :date: __2020-06-20 18:27:25__
-
-> Qusta app vale 2 stele<br> :date: __2020-06-17 18:12:17__
 
 
 

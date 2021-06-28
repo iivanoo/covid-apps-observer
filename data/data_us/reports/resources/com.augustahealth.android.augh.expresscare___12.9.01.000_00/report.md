@@ -184,6 +184,8 @@ The Augusta Virtual Care app has been installed by more than **10000** times. At
 <img src="5_star_reviews_wordcloud.png" alt="com.augustahealth.android.augh.expresscare 5 reviews"/>
 </p>
 
+> Very essy to use<br> :date: __2021-06-27 05:33:32__
+
 > The video and sound is clear.<br> :date: __2021-05-28 20:28:14__
 
 > It was professional just as and office appointment but virtual and my provider's did a good job<br> :date: __2021-03-16 21:24:57__
@@ -201,8 +203,6 @@ The Augusta Virtual Care app has been installed by more than **10000** times. At
 > Wonderful<br> :date: __2020-09-24 20:56:55__
 
 > Good app works fine<br> :date: __2020-08-19 15:07:31__
-
-> Excellent<br> :date: __2020-08-18 01:51:33__
 
 
 

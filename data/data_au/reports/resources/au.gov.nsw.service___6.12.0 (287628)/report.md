@@ -209,25 +209,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> Easy to use<br> :date: __2021-06-21 11:19:53__
+> Good<br> :date: __2021-06-26 19:57:57__
 
-> Good and easy<br> :date: __2021-06-21 06:26:38__
+> 👍<br> :date: __2021-06-26 15:40:45__
 
-> Very good<br> :date: __2021-06-21 02:32:11__
+> I didn't know what this service was about, now i know,it helped me a lot<br> :date: __2021-06-26 14:07:58__
 
-> best design. simple use<br> :date: __2021-06-21 00:51:47__
+> App is helpful and good, only problem i have is sometime i wish to sign into a place Im at or look at my notification and it does not sometimes open them.<br> :date: __2021-06-26 13:50:52__
 
-> Teta1981<br> :date: __2021-06-20 23:32:10__
+> VERY GOOD<br> :date: __2021-06-26 13:31:20__
 
-> Wonderful<br> :date: __2021-06-20 00:19:27__
+> Great service to us all. Thank you<br> :date: __2021-06-26 11:52:09__
 
-> It works, what else do you need.<br> :date: __2021-06-19 18:31:38__
+> Excellent, fantastic, awesome, just like my car.<br> :date: __2021-06-26 11:22:59__
 
-> I don't know how to apply for them I am.studying at Charles Sturt University in Wagga Wagga next week for Block Studies ..Do I meet the criteria to receive these vouchers? I am a resident of the A.C.T. and I am in Government Housing<br> :date: __2021-06-19 07:42:56__
+> All good<br> :date: __2021-06-26 09:59:19__
 
-> Great app. Easy to use and vary useful<br> :date: __2021-06-19 05:10:05__
+> Excellent<br> :date: __2021-06-26 08:26:30__
 
-> Have had issues logging into my App. at Westfield Miranda to register my being there. Very annoying!<br> :date: __2021-06-19 03:56:17__
+> Excellent<br> :date: __2021-06-26 08:22:37__
 
 
 
@@ -237,25 +237,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
-> Would give 5 * but changed phone and it changed my whole experience<br> :date: __2021-06-20 02:09:46__
+> easy to sign but at times forget to sign out<br> :date: __2021-06-26 13:37:16__
 
-> Pretty good.<br> :date: __2021-06-18 19:10:01__
+> Ok<br> :date: __2021-06-26 08:39:53__
 
-> I like the fact that all services are in one App. Thankyou<br> :date: __2021-06-18 14:09:41__
+> Fair<br> :date: __2021-06-26 06:24:13__
 
-> Efficient now than it used to be. Helpful & pleasure to get what you need. Barbara Duley.<br> :date: __2021-06-18 09:14:07__
+> Great. Easy to use.<br> :date: __2021-06-26 02:41:31__
 
-> Very good<br> :date: __2021-06-18 02:52:24__
+> Very handy app<br> :date: __2021-06-26 00:15:41__
 
-> Nice app for anything related to service nsw. User friendly interface. Overall impressed.<br> :date: __2021-06-18 02:22:14__
+> Great<br> :date: __2021-06-25 22:53:16__
 
-> A good service, but like everything it can only improve<br> :date: __2021-06-18 01:09:25__
+> Keeps me updated with events<br> :date: __2021-06-25 14:52:39__
 
-> Great, easy to use better than the Victorian app<br> :date: __2021-06-15 06:47:08__
+> Nice mate<br> :date: __2021-06-25 08:20:56__
 
-> Good app with the best of intentions. 5 stars if an option to turn off the authentication screen could be added. Annoying that I have to unlock my phone, then unlock the app before I can Check In/Check Out. The double-authentication is quite redundant considering other "sensitive" apps like PayPal, MyTelstra etc simply retain your credentials between phone restarts.<br> :date: __2021-06-14 01:45:06__
+> Good<br> :date: __2021-06-25 08:15:32__
 
-> Cannot upload license like before.<br> :date: __2021-06-13 23:02:04__
+> Feel like the COVID check out should happen automatically using location data.<br> :date: __2021-06-25 08:00:53__
 
 
 
@@ -265,25 +265,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
-> I keep having login issues with the app and I never have issues when I log in online.<br> :date: __2021-06-20 09:47:42__
+> Taking hour's to update<br> :date: __2021-06-26 18:02:29__
 
-> ok<br> :date: __2021-06-18 01:45:48__
+> Ok<br> :date: __2021-06-26 10:46:00__
 
-> To complicated<br> :date: __2021-06-14 06:02:15__
+> Having trouble with updates<br> :date: __2021-06-26 06:14:23__
 
-> It's a good app but I keep running into issues where if I login with the fingerprint reader on my Samsung S21 Ultra, the fingerprint overlay doesn't disappear and blocks me using the rest of the app. The only way to fix it is to force close the app and re-open which is frustrating.<br> :date: __2021-06-13 05:44:05__
+> Can not get this two old I am 79<br> :date: __2021-06-26 05:43:48__
 
-> No can do<br> :date: __2021-06-12 06:12:48__
+> oko<br> :date: __2021-06-26 04:39:36__
 
-> Update being annoying as it is not going to address straight away but back to app?? Have to scan more than once.<br> :date: __2021-06-12 05:32:08__
+> Not to bad<br> :date: __2021-06-26 03:57:44__
 
-> User friendly<br> :date: __2021-06-12 02:49:31__
+> victorias qr is more user friendly.<br> :date: __2021-06-26 02:17:37__
 
-> Whilst the app has good intentions, I can not get the vouchers on my phone through the app, I also can not do the covid check in with it, it tells me to check the time on my phone.... the time is exactly the same as everybody else's. I think the app was intended for the more common type of phones such as Samsung, nokia and the such.<br> :date: __2021-06-12 01:57:17__
+> Easy enough to use.<br> :date: __2021-06-25 14:22:14__
 
-> Not very user friendly, takes too long to login etc.<br> :date: __2021-06-12 01:51:30__
+> Good<br> :date: __2021-06-25 13:42:53__
 
-> Fair<br> :date: __2021-06-12 01:35:43__
+> Good on basics .. requires more functionality<br> :date: __2021-06-25 13:20:15__
 
 
 
@@ -293,25 +293,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
-> OK<br> :date: __2021-06-20 04:11:14__
+> I have been trying to update for the last hour and all it is doing is spinning and saying pending. I can't even use the app as it telling me it needs upgrading. Catch 22 situation.<br> :date: __2021-06-26 11:38:01__
 
-> More often than not, fails to work. "Unable to check in at this time". Very regular.<br> :date: __2021-06-20 00:33:01__
+> Often will not works<br> :date: __2021-06-26 08:35:55__
 
-> Sometimes it feels like you are going around in circles and don't end up getting a answer for what you are looking for !<br> :date: __2021-06-17 15:21:38__
+> It is taking a very long time for the upgrade to install. The process is arduous Have tried 5 times to install and still no luck. Not happy Gladys:( Still trying to download this app it's been 2 days of frustration, is the system overloaded?<br> :date: __2021-06-26 08:22:38__
 
-> Because I am waiting to update but it won't let me<br> :date: __2021-06-16 09:47:37__
+> Crazy<br> :date: __2021-06-26 05:46:22__
 
-> Every time I have too update app I use more data. So I lose more data . Then Telstra Optus, AGL,my bank all do the same thing. But still charge more for the privalige of using the apps.Thereby saving them sending paper accounts.<br> :date: __2021-06-12 01:14:54__
+> Need to constantly un install other apps to update<br> :date: __2021-06-26 04:47:02__
 
-> Licence was on the app untill update now it just sits there trying to link my account which is linked because the vouchers are shown. Churned through 50%of my phones battery and made phone super hot trying to do this.<br> :date: __2021-06-08 01:25:56__
+> So slow for the update to load. We had finished lunch and it was still going round and round. And all afternoon and the next day. Can't log in anywhere until it sorts itself out. Turned phone off, operating on Wi-Fi and cannot complete upgrade, cannot log on to any site. Facility previously operated perfectly. Now fiddling has ruined it.<br> :date: __2021-06-25 15:25:07__
 
-> The app keeps rejecting my login details when I'm adding my license. Frustrating! I know my details are correct and have reset my phone (samsung A52) and still no luck.<br> :date: __2021-06-05 03:25:33__
+> Difficult to use<br> :date: __2021-06-25 09:10:34__
 
-> Sign in through mobile? Why not posible?<br> :date: __2021-06-03 01:42:14__
+> Slow and hard to use<br> :date: __2021-06-25 04:33:23__
 
-> Annoyed, I CAN'T now find my 4 x $25 vouchers after travelling on QLD, WHY?<br> :date: __2021-06-01 06:40:27__
+> good<br> :date: __2021-06-24 14:28:21__
 
-> Password reset, when trying to reset password, i change my password, save and log in button, It then says wrong password? What do i do?<br> :date: __2021-05-25 12:32:17__
+> Have to update no choice in the matter<br> :date: __2021-06-24 10:12:40__
 
 
 
@@ -321,24 +321,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> This app needs lots of work. Every update i need to re enter my license details.<br> :date: __2021-06-21 07:33:50__
+> App will not update. Went to Q code told to update the app, has been pending for 2 days now 😂 Fix it<br> :date: __2021-06-26 19:21:11__
 
-> I don't need it<br> :date: __2021-06-20 12:17:27__
+> Cannot download app and now Play store won't open either. So much for safe check in on phones. I get a message saying that dynamic links is not correctly configured by the developer.<br> :date: __2021-06-26 16:32:07__
 
-> great<br> :date: __2021-06-20 07:29:38__
+> Did an update now cannot get back on have deleted and tried to download app again but just keeps doing the circle thing this is not good enough when the Gov expects us to check in all the time what is happening?<br> :date: __2021-06-26 15:23:55__
 
-> Absolutley pathetic.. Try to load my boat license and all it does is continue to load.. Typical gov app. Like waiting in line at centerstink<br> :date: __2021-06-20 03:22:01__
+> What! cannot use my qrcode why??<br> :date: __2021-06-26 13:34:05__
 
-> Tells me my details don't match when using the pre-filled information about my drivers license that Service NSW Pre-fill with my license details. I am not the only one having this issue. Its why we cant access our vouchers as well.<br> :date: __2021-06-19 23:07:51__
+> Won't up date<br> :date: __2021-06-26 12:46:32__
 
-> Broken won't let me login<br> :date: __2021-06-19 08:40:16__
+> Won't let me down load the up date keeps coming up error so you can't log on not worth having<br> :date: __2021-06-26 12:38:43__
 
-> Had many issues with this app. Now after some sort of app update it says my phone is not secure and refuses to login. Have done everything the instructions have stated, play store has scanned and found no errors or faults on my phone. App is broken. Pushed by the government to be CoVid safe but they can't run a program to do it.<br> :date: __2021-06-19 03:06:09__
+> Pathetic with all your updates<br> :date: __2021-06-26 11:52:47__
 
-> Hard to log in.. Won't accept my email, or log in details!!<br> :date: __2021-06-18 13:45:06__
+> Stuck in a loop? The update has been circling for 2 days and I can not access the G code facility while it is circling....have rebooted my phone with no change. Not at all happy with this...<br> :date: __2021-06-26 11:43:58__
 
-> If I could give it a 0, I would<br> :date: __2021-06-18 08:43:02__
+> Terrible just want 2 check in<br> :date: __2021-06-26 10:09:37__
 
-> This app is stating my login and password is incorrect however I can login in on a computer with no issue.<br> :date: __2021-06-18 06:03:20__
+> Was working fine until I got a new phone, will not except my email address (keeps telling me it's invalid email) who ever designed this app should work out the bugs.<br> :date: __2021-06-26 08:10:53__
 
 

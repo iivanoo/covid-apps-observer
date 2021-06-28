@@ -140,6 +140,10 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> Take Dam Let Use<br> :date: __2021-06-25 16:54:52__
+
+> It didn't dectect any virus so far.<br> :date: __2021-06-25 07:41:40__
+
 > Told me when that I was exposed when I went to alas<br> :date: __2021-05-23 21:03:53__
 
 > Cvs vaccination for daycare provider to make an appointment<br> :date: __2021-03-24 10:45:53__
@@ -155,10 +159,6 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 > Keeps me in peace of mind.<br> :date: __2021-03-02 03:43:03__
 
 > Awesome.<br> :date: __2021-02-28 04:21:59__
-
-> excellent love it<br> :date: __2021-02-26 22:14:00__
-
-> Love it<br> :date: __2021-02-16 09:25:53__
 
 
 
@@ -207,6 +207,8 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="org.alohasafe.alert 2 reviews"/>
 </p>
+
+> It intermittently gets stuck on checking for exposures.<br> :date: __2021-06-23 16:23:03__
 
 > 1?+AM 1AM a<br> :date: __2021-05-13 02:59:32__
 

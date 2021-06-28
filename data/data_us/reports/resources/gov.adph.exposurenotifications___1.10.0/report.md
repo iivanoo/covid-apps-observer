@@ -151,6 +151,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> Kyle call me please<br> :date: __2021-06-24 17:35:27__
+
 > Informative<br> :date: __2021-05-19 22:10:43__
 
 > great<br> :date: __2021-05-19 03:22:35__
@@ -168,8 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > Great App<br> :date: __2021-03-26 23:19:44__
 
 > Flawless amazing PERFECT $LC.<br> :date: __2021-03-23 18:12:59__
-
-> It's straight forward. I mean. Pleasant experience.<br> :date: __2021-03-18 19:50:49__
 
 
 
@@ -234,6 +234,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 2 reviews"/>
 </p>
+
+> We<br> :date: __2021-06-21 18:34:29__
 
 > Plays a notification tone when checking for exposures, even when it doesn't find any, making you look at your phone for no reason.<br> :date: __2021-05-15 00:22:25__
 

@@ -178,6 +178,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
 
+> Me ha funcionado muy bien aunque la verificación telefónica fue un engorro.<br> :date: __2021-06-24 19:00:05__
+
+> No sirve, si no te han detectado el virus, yo no lo tengo y piden fecha q ye lo detectaron<br> :date: __2021-06-24 16:27:36__
+
 > Si eres de edad avanzada tienes que ir mes a mes lo que se hace aburrido a la hora de tener que poner tu fecha de nacimiento si es antigua. Aún así muy buena app<br> :date: __2021-06-09 11:27:27__
 
 > No la preciso porque casi no me ralaciono con nadie y estoy vacunado. Pero es una ayuda el tener una app que evalúe mi situación. Gracias.<br> :date: __2021-06-04 20:00:18__
@@ -193,10 +197,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Bien, estaba tranquilo y confiado en las pautas, gracias Javier<br> :date: __2020-07-04 11:22:48__
 
 > Parece ser que la aplicación es buena pero cuando introduces o intenta introducir tu fecha de nacimiento no lo puede hacer correctamente por lo menos los que han nacido antes del 2007<br> :date: __2020-07-01 16:59:45__
-
-> Buena<br> :date: __2020-07-01 16:28:31__
-
-> Muy util<br> :date: __2020-06-23 17:50:47__
 
 
 

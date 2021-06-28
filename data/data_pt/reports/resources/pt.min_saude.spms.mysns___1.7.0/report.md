@@ -154,6 +154,14 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Não está a conseguir fazer nada mais quero é que o s lixe tudo<br> :date: __2021-06-26 20:33:04__
+
+> Bom<br> :date: __2021-06-26 16:22:46__
+
+> Muito útil<br> :date: __2021-06-25 15:01:02__
+
+> Boa<br> :date: __2021-06-24 19:15:59__
+
 > Ok<br> :date: __2021-06-17 11:34:57__
 
 > Sem experiência efetiva.<br> :date: __2021-06-14 16:36:45__
@@ -162,17 +170,9 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Muito burocrática tds os itens deviam estar disponíveis automaticamente sem ter que recorrer assiduamente á chave digital,imagine- se para para o cidadão comum o transtorno.....<br> :date: __2021-04-24 21:46:43__
 
-> Excelente<br> :date: __2021-03-27 12:28:23__
-
 > Sem dificuldade.<br> :date: __2021-03-25 16:34:31__
 
 > Bom.<br> :date: __2021-03-15 19:40:57__
-
-> Fundamental. Mas o utente poderia carregar mais dados, eg, os das vacinações antigas.<br> :date: __2021-03-14 16:57:25__
-
-> Top<br> :date: __2021-02-22 22:33:34__
-
-> Muito útil. OBRIGADO<br> :date: __2021-02-21 10:56:18__
 
 
 
@@ -181,6 +181,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> Bom<br> :date: __2021-06-24 17:20:04__
 
 > Bom<br> :date: __2021-04-01 12:35:51__
 
@@ -200,8 +202,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Mais ou menos<br> :date: __2020-11-07 22:46:32__
 
-> Bom<br> :date: __2020-10-31 20:49:08__
-
 
 
 #### 3-star reviews
@@ -209,6 +209,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
+
+> Quero saber o boletim de vacinas do meu filho que não tem número de telemóvel ainda. Não consigo. Não aceita o meu número nem o da mãe, porque já estão registados. Não aceita 0000 porque não é possível. E agora?<br> :date: __2021-06-27 16:01:05__
+
+> Ajustes necessários! A app é feia visualmente e praticamente. Não encontrei forma de iniciar secção na app. As apps MySNS Carteira e MySNS Tempos pode muito bem ser integrado a app MySNS o que faria uma maior simplicidade e unifornidade. Enfim certas apps do governo podiam ser mais simples, uniformes e fáceis de usar, ou seja, TODAS AS APPS RELACIONADAS AO SNS NO RAIO DE UMA APP SÓ, É ASSIM TÃO DIFÍCIL DE IMAGINAR???<br> :date: __2021-06-26 04:09:10__
+
+> Nao consigo fazer certeficado Europeu de vacinas<br> :date: __2021-06-24 21:26:03__
 
 > Muito útil<br> :date: __2021-05-09 16:54:25__
 
@@ -224,12 +230,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Bom<br> :date: __2020-12-05 20:20:44__
 
-> APP pouco útil da forma q está estruturada. Para aceder à área de cidadão remete para o browser o q torna ridícula a utilização da APP. Uma nora.. Dentro da área de cidadão a informação não aparece completa.. há informação em falta... Exemplo infecção covid e acesso a área de registo de sintomas. Acesso a baixas incompleto... Etc<br> :date: __2020-11-21 17:35:55__
-
-> Há muito a melhorar nesta app!!!<br> :date: __2020-10-05 19:42:00__
-
-> A app stayaway Covid-19, tem algum problema em ser instalada? Muito obrigada.<br> :date: __2020-09-01 11:17:30__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
+
+> Instalei a app para ter acesso as minhas receitas e fiquei perdido...<br> :date: __2021-06-23 13:09:00__
 
 > Depois de instalar a aplicação e de uma enorme perda de tempo não consigo aceder à receita médica qual é a utilidade desta aplicação<br> :date: __2021-06-13 22:47:50__
 
@@ -256,8 +258,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Está aplicação nem abre diz que há um problema qual?<br> :date: __2021-01-28 15:29:49__
 
-> Não abre, quer dizer abrir até abre, mas não aparece nada.<br> :date: __2021-01-20 15:59:14__
-
 
 
 #### 1-star reviews
@@ -265,6 +265,16 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> Um nojo autêntico, pelo número de utente não fica nada gravado na app, nasci em 1961 tenho que perder uma enormidade de tempo a passar para trás mês por mês, aprendam a fazer as coisas, não dou zero estrelas porque não dá, desinstalado rápidamente<br> :date: __2021-06-27 12:43:48__
+
+> Péssima<br> :date: __2021-06-26 21:34:00__
+
+> Not user friendly e agora nem sequer funciona<br> :date: __2021-06-26 17:25:01__
+
+> Má<br> :date: __2021-06-24 16:18:04__
+
+> Nao consigo aceder ao boletim de vacinas<br> :date: __2021-06-22 16:15:16__
 
 > Simplesmente miserável, aplicação deve ter sido idealizada por boys de algum partido cuja única competência era a falta dela.<br> :date: __2021-06-21 08:14:32__
 
@@ -275,15 +285,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Ni ideia<br> :date: __2021-06-17 14:07:40__
 
 > Porcos incompetentes. Vão masturbar-se para a PQP.<br> :date: __2021-06-17 13:40:34__
-
-> Uma aplicação péssima.<br> :date: __2021-06-17 11:25:52__
-
-> Muito fraco<br> :date: __2021-06-12 12:38:13__
-
-> É a algum tempo que nao entro no meu my sns agora ia entrar nao me deixa entrar nada.mas no entanto continuam a ver a minha ficha medica,porque sai me a menssagem quando a minha medica entra para ver.senao conseguir entrar desinstalo,e quero ver se continuam a entrar!!!!!.<br> :date: __2021-06-01 14:26:00__
-
-> Demasiado mau. Esperemos que esta coisa seja extinta e substituída por uma app do estado dirigida por profissionais capazes<br> :date: __2021-05-27 20:18:14__
-
-> Péssimo<br> :date: __2021-05-26 08:32:19__
 
 

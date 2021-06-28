@@ -153,25 +153,25 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.phe.couchto5K 5 reviews"/>
 </p>
 
-> Great app. Motivational and superbly constructed.<br> :date: __2021-06-21 10:40:58__
+> Great way to get back into running at 64 after knee ops and tendonopathy's etc and not running for over 6 years. Very gentle runs that increase gradually. Fab and the commentary us great and the feature to use my own music. That was a must.<br> :date: __2021-06-27 20:38:06__
 
-> I am nearly 70 and i thought my running days were over. I really was a couch potatoe, so this app is a real life saver. I am on week seven and run 3 days a week and cant wait to get up and do the next one. Some of the runs are a real killer but i feel so good when i've completed them successfully. This app got me started, and I'm not stopping.<br> :date: __2021-06-21 10:25:44__
+> Fantastic app. I'm over 40 and in 5 weeks I can run for 20min! Try it, you will be surprised and proud of yourself.<br> :date: __2021-06-27 19:13:44__
 
-> Delighted with the app as I'm now running and actually enjoying it 🤣<br> :date: __2021-06-20 21:48:01__
+> Very helpful<br> :date: __2021-06-27 12:02:56__
 
-> Really helped me get going with running. Would recommend<br> :date: __2021-06-20 16:57:25__
+> Great app to get back running<br> :date: __2021-06-27 11:27:32__
 
-> If you've ever wondered where to start getting more fit and active, look no further. This app is full of tips information and that all important support. Anyone can do it!<br> :date: __2021-06-20 13:00:29__
+> easy to use. and shows progress well. also nice to have music and extra tips available.<br> :date: __2021-06-27 11:18:04__
 
-> For a completely non-sport person in her fifties this app has allowed me to train to run 5 k and run in a Park Run in 2019! I've become unfit again in 2020-21 and am starting again on couch to 5k - inspirational and easy to use! Non- judgemental, and you can do it by yourself or with a buddy- just need to start NOW!<br> :date: __2021-06-20 13:00:27__
+> Fabulous system that gets you moving in a very graduated gentle way<br> :date: __2021-06-27 10:58:22__
 
-> Excellent app. Gave me the motivation to leave that couch and keep running. Love the choice of personal trainer, Sanjeev is my favourite, just the right amount of encouragement .<br> :date: __2021-06-20 10:37:44__
+> Loved every minute!<br> :date: __2021-06-27 00:52:44__
 
-> Great<br> :date: __2021-06-20 10:24:20__
+> Very positive and motivational. Love Sanjeev Kholi's voice keeping me going!<br> :date: __2021-06-27 00:36:25__
 
-> It works!!! I hated running on starting this app because I couldn't run! But I needed to change my exercise routine due to injury. Wow! It's hard work but just about to start W9R1. Couldn't be more proud of myself. I recommend to everyone. Download and good luck! You can do it ! Jo Whiley is my mentor and is the best. Knowing she started where I did really helped.<br> :date: __2021-06-20 09:05:01__
+> I really found this incredibly helpful. For me, the increase in pace each week worked just right. However if it hadn't, I always knew I could just redo a previous week. I really recommend this<br> :date: __2021-06-26 21:07:11__
 
-> Worked on me 🤷 Also, tip, if the app keeps shutting down half way through, and turning app launch onto manual hasn't worked, you can go into settings- display and brightness- sleep. Set it to 'never' and your screen won't go black while you're running. That way the app is always open and doesn't shut down. It drains more battery than normal, because the display is always on, but I've still been able to get through the day on one charge.<br> :date: __2021-06-19 23:16:52__
+> Never thought I would be able to run. Thanks to C25K I now can.<br> :date: __2021-06-26 12:02:36__
 
 
 
@@ -181,25 +181,25 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.phe.couchto5K 4 reviews"/>
 </p>
 
-> Didn't think I could do it but I'm so proud of myself<br> :date: __2021-06-18 08:25:11__
+> I have found this app very helpful to get me started running. A friend recommended it and I am making a lot more progress than I had been, increasing my time running in a gradual way. There are links to YouTube videos with other running tips and stretches as well. It would help if the voice reminded you to do your stretches before starting the actual run and at the end too. It is shown in writing on the app, but once your phone is in your running belt, you don't see it!<br> :date: __2021-06-27 11:34:17__
 
-> Easy to use. Let's you play your own music. Love that you get to choose the coach. Good for complete beginners. Michael Johnson seems to have disappeared off the app.<br> :date: __2021-06-17 20:14:49__
+> Highly recommended Crashed sometimes and run would reset sometimes but the program is extremely well done<br> :date: __2021-06-26 22:15:33__
 
-> Really good to get you going if you're a bit of a couch potato. However I think the text could be less repetitive and for instance Sarah Millican could be allowed to add a bit more humour.<br> :date: __2021-06-16 21:20:15__
+> Working for me at 55 yes old<br> :date: __2021-06-26 13:23:01__
 
-> Good app. Has a few glitches like not always lowering to music volume so you can hear the talking, but improving my fitness a lot with this program, it's motivating to see how much you progress.<br> :date: __2021-06-15 13:40:25__
+> It's easy to follow and did with a familiar voice. But annoying that the text is repeated on multiple runs on same week so can be confusing where you're up to.<br> :date: __2021-06-24 15:04:28__
 
-> Really good and encouraging training app, but sometimes if you go off the app to change your music it doesn't record your run<br> :date: __2021-06-15 12:48:25__
+> Good<br> :date: __2021-06-23 11:29:43__
 
-> Good but need better motivators to spur you on<br> :date: __2021-06-14 20:07:31__
+> Great way to start your 5k journey. Love the coaches, they have really helped motivate me and the whole programme has been designed well. Super for beginners to the running world.<br> :date: __2021-06-23 07:03:17__
 
-> Easy to follow app. Keeps you on track with your progress<br> :date: __2021-06-09 18:32:21__
+> Something has got me off the settee, can't believe how running can be so hard after not doing any for 25yrs. Sarah will keep me going though.<br> :date: __2021-06-22 20:15:28__
 
-> Amazed I ran at all, let alone for 30 mins. I actually pushed myself to a full 5k the week after which took 45 mins. Probably need to make clear to users that they probably won't do 5k in the 30 mins time goal unless they are very fast. Should be called Couch to 30 minutes run, really to be more realistic App can also cut out mid run which is very annoying when you are waiting for coach to tell you to slow down etc....Aside from that, it's really good. Thank you. I used Laura.<br> :date: __2021-06-09 07:33:00__
+> The program is really nice. The app however, contains a few bugs. - I have lost some runs on this app. This happens if I open another app after I start my run and send the app to background. My guess is android kills the app, but the sound service stays alive, so I can still listen to what my coach says but the app is not in tracking state. - If you select Jo, on week 3, mid run, it fails to release/grab audio focus on time, which means overlapping sound of audiobook and trainer. Bad experience.<br> :date: __2021-06-22 17:53:05__
 
-> Fantastic. App so well developed that it can make you into a runner in 9 weeks safely, without injury & making you realise you can become a runner. I have continued for one year having started the app in March 2020.<br> :date: __2021-06-05 14:59:50__
+> Of course there could be improvements and it could be intuitive but it's a free app, and for what it is it's great<br> :date: __2021-06-22 10:42:17__
 
-> Wish there was music included in the runs<br> :date: __2021-06-04 10:27:25__
+> Good useful app but crashes on my phone<br> :date: __2021-06-21 22:18:29__
 
 
 
@@ -208,6 +208,8 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.phe.couchto5K 3 reviews"/>
 </p>
+
+> A decent app, well Made except it resets your run if you tab out for more than a few seconds. Not fun if it happens halfway into a workout. Other than that, it's good.<br> :date: __2021-06-23 18:35:41__
 
 > This app would be great if it didn't keep cutting out several times during your run! I have to add a seperate timer to keep track of how long I'm running for which isn't ideal. The advice & encouragement is helpful though and it's great to realise your progression as the weeks add up.<br> :date: __2021-06-11 09:38:58__
 
@@ -227,8 +229,6 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 
 > The instructors talk far too much. It's not a podcast.<br> :date: __2021-04-30 18:14:37__
 
-> Good overall app but it sometimes crashes halfway through a run so you have to make up the rest of your run as an estimate. I am also now struggling to open the app up as I write this review. When the app works it is really good but overall seems a little bit buggy<br> :date: __2021-04-30 14:51:37__
-
 
 
 #### 2-star reviews
@@ -236,6 +236,8 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.phe.couchto5K 2 reviews"/>
 </p>
+
+> Keeps turning off half way through the run.<br> :date: __2021-06-23 20:37:51__
 
 > So far on week 3 going into 4 I feel more confidence on finishing each run. I am hopeful that the next few weeks will be as positive on both my mind and body.<br> :date: __2021-05-25 10:47:42__
 
@@ -254,8 +256,6 @@ The One You Couch to 5K app has been installed by more than **1000000** times. A
 > The programme is good but I wish there were different versions to listen to for each of the week's three runs...I don't want to hear the same tips three times, especially when they interrupt my podcast! But more annoying is the fact that the app keeps silently crashing which completely messes up the workout.<br> :date: __2021-04-14 09:16:09__
 
 > Overall the App works OK. But now I'm on the end of week 6 at 25mins of running, the App decided to NOT save that run. In the previous build it automatically prompted to save the run without worrying about losing the run record. Sadly the "new improvements" have broken it. And there is no automatic save prompt. Not great!! Please fix.<br> :date: __2021-04-13 09:53:37__
-
-> Just started week 2 and the app keeps stopping mid-run.....really annoying when you need it for your run/walk timings<br> :date: __2021-04-12 11:00:30__
 
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOETmiaFHoTWfsfRiiSYQIwfS5_-fOFK-N0MhRFXCdyj_W21Rl1UtS1DpCPirnKZ2xgYX7R8N1dlemPNl8w",
+        "userName": "Iris R",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzOQWdhY42DPCtCFzC5TZKe4IYfCr00LM7LdIVr=mo",
+        "content": "Very convenient and efficient Knowledgeable and helpful. Will look for her again if needing virtual visit again.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.10.01.005_01",
+        "at": "2021-06-23 07:43:16",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEjZYJIgfyWKOFUS8XMwnZFfrsNhys1U-NcgsBqKz1FGxBAY_tA4zhIvA4v64XWoUEIDGGVphwtGqxWZDk",
         "userName": "Dana Labuda",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzKDb-frwT9aZDyX7TuACTK07-HtmJQPRXTW6XS=mo",
@@ -2065,7 +2077,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGqArGh7yT44HNGlS0MlWWz4DUNGfF0GG4cdyWziLJ6_atxRDvpRNcUaEf0NX5sjVvD4ZXjoyELVjCc1Bo",
-        "userName": "Wen Gutreuter",
+        "userName": "Wen G",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhrFA8QZf5U6w-ecEwSYTgdJEyxYH1T44uG8U9janY",
         "content": "This was SO. flippin. easy! My care team is great, but I wouldn't hate it if all med \u2714 appts were virtual! No need for my Glam Squad to come over & work magic on me (As if!!!) \ud83e\udd23 Virtual appts must be easier on your staff, too. Nicholle Hise, NP, is WONDERFUL! I felt heard & cared for. I rolled out of bed 10 mins prior, so I looked like more than a WHOLE hot mess! She was unfazed. I'd love to see her at my 6 mo f/u, if possible? *Can this be shared with her? We all need praise/encouragement \u2764",
         "score": 5,
@@ -4028,18 +4040,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.6.036_07",
         "at": "2020-04-22 16:28:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOETmiaFHoTWfsfRiiSYQIwfS5_-fOFK-N0MhRFXCdyj_W21Rl1UtS1DpCPirnKZ2xgYX7R8N1dlemPNl8w",
-        "userName": "Iris R",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzOQWdhY42DPCtCFzC5TZKe4IYfCr00LM7LdIVr=mo",
-        "content": "Very convenient and efficient",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "12.0.6.036_07",
-        "at": "2020-04-22 12:08:57",
         "replyContent": null,
         "repliedAt": null
     },
@@ -7094,7 +7094,7 @@
     {
         "reviewId": "gp:AOqpTOErlE3TifkUmZ2uABC-Gb4gu_UdfAJybrUcGa8VfCJjz7WYXLIMy713a2TvTR_yec87mFQUKm1zP3_vSRw",
         "userName": "Heather Norris",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhiFgBhtCf5vPVA0z8ok5DHw8WBqDcqWrSa5nCRUA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhfI3PueB2Bhc4lk7dfH7ueu-pTbnIAz_ERq5wrYw",
         "content": "Dr. Robinson is so wonderful!!!",
         "score": 5,
         "thumbsUpCount": 0,

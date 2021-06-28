@@ -216,6 +216,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="4_star_reviews_wordcloud.png" alt="gov.cdc.general 4 reviews"/>
 </p>
 
+> Love the content of the app, but I'm a healthcare worker and need an easier way to access the information.<br> :date: __2021-06-26 05:49:53__
+
 > Very usefull with their inforationabout covid.<br> :date: __2021-04-30 02:09:38__
 
 > Good for info<br> :date: __2021-02-21 03:33:26__
@@ -233,8 +235,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > It's the only coronavirus app, so make it good. Just won't load. This is dangerous!! UPDATE: ok I think they fixed it<br> :date: __2020-09-07 22:40:29__
 
 > Provides clear and factual science on COVID-19 developments<br> :date: __2020-07-31 23:53:35__
-
-> Sarahlandry ex sex here<br> :date: __2020-06-11 01:25:36__
 
 
 

@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Die App funktioniert und ist sehr sicher. Hauptproblem: Viel zu wenige Leute haben sie installiert!! Vorschläge für mehr Attraktivität: Corona-News (Inzidenz, aktuelle Maßnahmen...) als Push-Nachrichten, Einbinden der 3g-Zertifikate.<br> :date: __2021-06-26 06:54:07__
+
 > Probleme wurden behoben, danke! 5 Sterne.<br> :date: __2021-06-09 17:53:44__
 
 > Funktioniert<br> :date: __2021-06-03 22:59:08__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Gut<br> :date: __2021-05-06 13:50:59__
 
 > ICH LASSE MICH IMPFEN,AMEN<br> :date: __2021-05-05 08:39:22__
-
-> Sehr gut<br> :date: __2021-04-29 07:12:59__
 
 
 

@@ -137,6 +137,14 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 5 reviews"/>
 </p>
 
+> À aplicação só n dou mais de 5 estrelas porque n posso. Agora, às pessoas que recebem os códigos e n os inserem dou -5 estrelas, porque é só uma falta de respeito por toda a gente. Mas fiquei particularmente chocado com um dos casos que vi aqui nos comentários. A pessoa em causa tentou por tudo que lhe dessem os códigos e não houve NINGUÉM que lhos entregasse. Aqui o caso é mesmo muito grave, e a todas as entidades responsáveis que n os entregam deviam era de ter vergonha e dou -1000000 estrelas<br> :date: __2021-06-26 11:56:45__
+
+> Gosto<br> :date: __2021-06-25 08:49:02__
+
+> Afinal onde está a aplicação do certificado internacional covid19<br> :date: __2021-06-24 23:06:08__
+
+> Adorei<br> :date: __2021-06-22 13:53:28__
+
 > Ajuda muito<br> :date: __2021-06-19 09:43:45__
 
 > Excelente<br> :date: __2021-06-09 04:05:46__
@@ -148,14 +156,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Estaapp é maravilhoso.<br> :date: __2021-06-03 12:07:53__
 
 > Boa app<br> :date: __2021-05-30 17:56:26__
-
-> Manuel António Ribeiro de Oliveira<br> :date: __2021-05-29 20:32:28__
-
-> Muito bom deteta mesmo o covid !<br> :date: __2021-05-27 23:29:47__
-
-> Estao a fazer um otimo trabalho grata parabens<br> :date: __2021-05-23 15:43:29__
-
-> Muito bom aconselho<br> :date: __2021-05-20 08:59:08__
 
 
 
@@ -249,6 +249,16 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Vergonha, completamente inútil, boa ideia, péssima realização. No mínimo podiam dizer casos de covid na região ou risco da região ou assim para ser minimamente informativa e não completamente irrelevante. Ainda por cima p funcionar tem de ter localização ativa e dados móveis...<br> :date: __2021-06-27 15:21:25__
+
+> Covid All<br> :date: __2021-06-24 13:59:49__
+
+> Uma APP paga pelos contribuintes portugueses uns passam fome outros perderam o emprego outros perderam as casas enquanto o senhor primeiro ministro gasta o dinheiro dos portugueses em coisas que não prestam para nada se todos cumprissem o seu dever Portugal não tinha tantos casos de covid 19 se fechacem os aeroportos e fronteiras a tempo Portugal era um dos países com menos casos desde o princípio do covid 19 mas infelizmente deixam entrar em Portugal tudo e todos e de países que nunca respeitar<br> :date: __2021-06-23 01:32:41__
+
+> Não serve para nada, nunca recebi uma notificação, nem conhece ninguém que tenha recebido. Lamento.<br> :date: __2021-06-22 20:52:18__
+
+> Excelente forma de manipulação!<br> :date: __2021-06-21 17:45:58__
+
 > O VERDADEIRO Tacho.. Fazer uma app que não serve para nada e roubar uns milhares de euros aos portugueses à base de cunhas no governo<br> :date: __2021-06-21 09:32:46__
 
 > A app seria otima se todo o resto funcionasse<br> :date: __2021-06-19 16:59:14__
@@ -258,15 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Teria sido útil se fosse o SNS a introduzir os infectados no sistema.<br> :date: __2021-06-18 19:54:52__
 
 > A hahahaha que fiasco brutal, parabéns aos desenvolveres que conseguiram dinheiro para isto! 🤣<br> :date: __2021-06-18 19:35:38__
-
-> Uma bo@#a<br> :date: __2021-06-18 12:43:46__
-
-> Nada util não funciona<br> :date: __2021-06-17 23:52:45__
-
-> App sem utilidade prática.<br> :date: __2021-06-17 22:12:49__
-
-> Só mesmo para descer as estrelas do app<br> :date: __2021-06-17 21:50:40__
-
-> Ninguém usa<br> :date: __2021-06-17 10:33:29__
 
 

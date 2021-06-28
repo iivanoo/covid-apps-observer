@@ -186,6 +186,8 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 <img src="5_star_reviews_wordcloud.png" alt="com.iuhealth.android.videovisits 5 reviews"/>
 </p>
 
+> Very convenient and efficient Knowledgeable and helpful. Will look for her again if needing virtual visit again.<br> :date: __2021-06-23 07:43:16__
+
 > Very quick and easy<br> :date: __2021-06-15 17:00:07__
 
 > Quick easy perfect<br> :date: __2021-05-17 11:29:52__
@@ -203,8 +205,6 @@ The IU Health Virtual Visits: Online Doctor Visit app has been installed by more
 > Very easy to do enjoyed it<br> :date: __2021-03-12 20:50:49__
 
 > So happy that I no longer have to trigger my anxiety by leaving the house to get treatment for my anxiety.<br> :date: __2021-03-11 17:07:56__
-
-> This is an awesome app and really beats having to go to a office and waiting for an hour or so for your appt. And Catlin was amazinb and very helpful ..<br> :date: __2021-02-25 01:46:35__
 
 
 

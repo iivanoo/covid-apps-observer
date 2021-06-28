@@ -155,6 +155,12 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Worthwhile and clever app<br> :date: __2021-06-27 01:21:52__
+
+> Great feeling to help with this vital research<br> :date: __2021-06-25 23:20:27__
+
+> Beautifully discrete. A pleasure to be part of the 'collective'.<br> :date: __2021-06-23 10:43:35__
+
 > This app is an easy way for any one to be a part of something really big. I am glad to see this use of phones to create a super computer to work on crunching computations. I have done this type of thing with my PC before and was excited to be able to use my phone in a similar fasion<br> :date: __2021-06-20 16:29:21__
 
 > Fantastic idea. It's a no brainer to do.<br> :date: __2021-06-20 13:56:48__
@@ -169,12 +175,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Excellent app - Easy to use.<br> :date: __2021-06-11 19:57:43__
 
-> Include an option to run it without charging<br> :date: __2021-06-10 09:12:51__
-
-> Easy to use and nice to help.<br> :date: __2021-06-09 16:19:23__
-
-> It's nice to be able to help research without having to lift a finger!<br> :date: __2021-06-06 07:31:11__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Positive<br> :date: __2021-06-25 23:48:05__
 
 > Easy to use and good it's good to help<br> :date: __2021-06-10 11:39:23__
 
@@ -201,8 +203,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > A great opportunity to contribute.<br> :date: __2021-04-19 00:09:11__
 
-> Fantastic idea and use of spare computing capacity, for great causes. Much needed! Minus 1 star, because the app keeps changing from Corona Phase 3 to Demystify. It should continue with my chosen project every time I plug in!<br> :date: __2021-04-15 03:45:17__
-
 
 
 #### 3-star reviews
@@ -210,6 +210,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
+
+> spectacular to be able to make a real contribution. If only the Damm app would STOP changing what I'm contributing too. I made my decision but apparently the app knows better.....<br> :date: __2021-06-25 22:49:37__
 
 > The idea is great, but the app could be better: it should automatically start every time the supply is pugged in, instead with my xiaomi I have to manually start the computation every time...<br> :date: __2021-05-22 20:36:56__
 
@@ -220,8 +222,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > It's a fantastic concept. But for all the hours I ran the app I got 3 calculations done in 20 hours I think. I don't feel I'm contributing, more than I'm just destroying the life of my phone.<br> :date: __2021-05-11 01:05:22__
 
 > Not sure, but i think these apps will kill your battery over time .<br> :date: __2021-05-01 21:44:25__
-
-> My covid-19 calculations keep stopping. No idea why. Also the calculations are taking longer and longer, sometimes over 2 hours.<br> :date: __2021-04-27 18:02:04__
 
 > Been supporting the Covid-ai project for some time. No one explains how many stages are planned and stage 3 had those awkward 1 hr long calculations. No wonder Stage 4 only has 6.02% and 29k+ users, across 16 days. If there's even a Stage 5, don't expect much participance.<br> :date: __2021-04-16 17:28:48__
 
@@ -239,6 +239,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
+> It's a shame that a lot of bothersome issues are still present after such a long time. Suggestions: 1. Better tracking of contributions, possibly user-based and with highscore lists (compare Folding) across multiple devices, which motivates additionally. 2. The app is still hardly usable on some devices. LG G8S gets so hot after a few seconds that most mornings show me not a single completed calculation. Just give us an opportunity to run the calculations at 50% of CPU power to avoid this.<br> :date: __2021-06-24 10:21:54__
+
 > I've been using this app for a while but recently it has been overheating my Nokia 5.3 too much to the point the battery is draining and I've woken up a few times to a phone that has turned itself off! This has now been uninstalled.<br> :date: __2021-06-08 04:34:42__
 
 > The app increase the heat on the device!!<br> :date: __2021-06-04 00:29:33__
@@ -248,8 +250,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Reset my phone and 29k solved gone. This app needs an account you can log into so you can store your progress at least.<br> :date: __2021-05-20 05:47:23__
 
 > I think it's a good app and I have supported it for 3-4 years but I was disappointed when I changed my phone twice now and just recently and I lost all the calculations I contributed all over this time AGAIN and they were not forwarded onto my new phone which had the same number which amounted to thousands! This is most annoying and as Dreamlab are obviously NOT concerned and are not gratefull so I am now abandoning your projects. Goodbye.<br> :date: __2021-05-17 07:54:54__
-
-> It's a shame that a lot of bothersome issues are still present after such a long time. Suggestions: 1. Better tracking of contributions, possibly user-based and with highscore lists (compare Folding) across multiple devices, which motivates additionally. 2. The app is still hardly usable on some devices. LG G8S gets so hot after a few seconds that most mornings show me not a single completed calculation. Just give us an opportunity to run the calculations at 50% of CPU power to avoid this.<br> :date: __2021-05-10 11:19:23__
 
 > Keeps stopping. I use a wireless charger which still seems to work but in the morning the app is closed. Over 2 days I've contributed less than 2 hours.<br> :date: __2021-04-20 08:29:26__
 
@@ -267,6 +267,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
 
+> Revised down to one star. App constantly switches to Corona AI (Phase4) rather than the project I wanted to support (Cancer Phase 2). Have raised with DreamLab & Vodafone support. Additionally, Cancer Phase 2 Project is now getting further from completion every day - now showing 18 days to completion. I've lost confidence in what was originally a great idea.<br> :date: __2021-06-26 23:42:52__
+
+> 1* for ethics recently. EVERY time a new release comes, and a new Covid project is added, my choice to support a cancer project is overridden. The time in my phone is changed to what the developers want without even the courtesy of a notification. If you do not wish us to have a choice of projects be honest and don't offer it in the first place. You do a disservice to the projects you divert us away from and mislead people not carefully watching where their donation is sent. Disgraceful.<br> :date: __2021-06-25 00:09:29__
+
 > Useless as the app stops working for no good reason. It now does appear to work. But for some reason Dreamlab restricts data download to 1gb per month. Many have Unlimited data plans so why won't Dreamlab facilitate any amount of data a donor wishes to donate?? I could if allowed donate 1000gb per month on my mobile tariff. Instead it gets to mid-month and my data donation is blocked because I have used 1gb!! It costs Dreamlab nothing to receive any amount of data from individual donors<br> :date: __2021-05-26 08:18:07__
 
 > The App came pre installed. It's supposedly using my phone to tackle Covid whilst on charge. It seemed petty to uninstall. I was not aware that the App served any other function. I don't appreciate the little 'Well done' messages. They come over as being a bit patronising, considering that I am not actually doing anything. My self esteem isn't that low, yet 😄<br> :date: __2021-05-17 09:19:17__
@@ -282,9 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > It causes my phone to dangerously overheat<br> :date: __2021-03-30 22:36:39__
 
 > Earlier it took about 7 minutes to complete a calc. But now even after 40 minutes 0 calculations are done. When I keave the phone for overnight calculations it only did 5 calculations in 8 hours. Is it the calculations are getting complex or there is something wrong with the app<br> :date: __2021-03-22 18:10:14__
-
-> Great idea, app badly done. We do free work for the company, but the app isn't FOSS. There is no option to disable dreamlab, sometimes I just want to charge my phone and not run the app. It frequently gets stuck on 1 job and doesn't do anything all night. Finally it needs a way to disable Amber alerts so I can sleep and run dreamlab without being awoken by gov.<br> :date: __2021-03-21 04:16:27__
-
-> Used it for a few years. Was a good app. Then for 2 months in a row it claimed I'd used all my data allocation on the first day. Uninstalled and reinstalled and was considered a new user.<br> :date: __2021-03-05 12:20:49__
 
 

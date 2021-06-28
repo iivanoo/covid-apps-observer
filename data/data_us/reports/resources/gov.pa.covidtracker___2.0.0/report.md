@@ -142,6 +142,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Good game 10/10 would play again<br> :date: __2021-06-21 10:17:34__
+
 > Really appreciated.<br> :date: __2021-06-18 16:05:02__
 
 > Thank you<br> :date: __2021-06-04 18:27:53__
@@ -159,8 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Awesome<br> :date: __2021-04-05 06:41:20__
 
 > Ok<br> :date: __2021-04-05 04:33:50__
-
-> It's very easy to understand and to follow Thank You very much.<br> :date: __2021-03-30 00:17:42__
 
 
 
@@ -254,6 +254,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Worthless<br> :date: __2021-06-24 15:35:41__
+
 > Needs more information on how to use it had difficulties knowing and learning on how it is posed to be used on it.<br> :date: __2021-06-16 16:58:55__
 
 > Was tested positive for COVID 19. Was never give a 6 digit code to put in the app.<br> :date: __2021-06-14 19:57:29__
@@ -271,7 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Why is there no obvious way to designate if I've received a COVID positive test to propntly warn the people I've possibly exposed to the disease?! If this is a feature, it's hidden deep in the app. I would have put that at the top of the home page. What exactly is the utility of this app? :(<br> :date: __2021-05-24 22:27:42__
 
 > This was pointless. I was in contact with someone who tested positive, but no one ever gave them a code to enter and I never got an alert<br> :date: __2021-05-23 02:04:07__
-
-> Pointless app.<br> :date: __2021-05-22 02:53:46__
 
 

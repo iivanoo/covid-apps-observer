@@ -189,6 +189,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> I signed on and within 2 minutes I was connected with a skilled provider. I was throughly taken care of! Thank you Cody and IHC!<br> :date: __2021-06-25 17:30:02__
+
 > Great<br> :date: __2021-06-13 09:38:33__
 
 > Well done<br> :date: __2021-06-02 13:40:36__
@@ -207,8 +209,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 
 > Very good<br> :date: __2021-04-17 18:46:15__
 
-> Did not have any problems with this app.<br> :date: __2021-04-04 22:37:15__
-
 
 
 #### 4-star reviews
@@ -216,6 +216,8 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 4 reviews"/>
 </p>
+
+> seamless<br> :date: __2021-06-26 08:44:50__
 
 > Great service, you just have to wait a little sometimes.<br> :date: __2020-11-18 05:55:57__
 
@@ -234,8 +236,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Saved me a trip to an urgentcare where they would do multiple tests to diagnose me with something that I already knew I had. Love love this app however they did not have my insurance listed. I am not sure why because I go to Intermountain often enough to know they take my insurance.<br> :date: __2020-06-09 04:13:18__
 
 > Great! We finally connected this time!<br> :date: __2020-06-08 21:24:38__
-
-> It kept glitching in and out but we got through it.<br> :date: __2020-05-05 17:59:53__
 
 
 

@@ -204,6 +204,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="4_star_reviews_wordcloud.png" alt="org.howwefeel 4 reviews"/>
 </p>
 
+> Wondering when the app will be updated? Kind of surprised it isn't asking about being vaccinated.<br> :date: __2021-06-23 19:10:29__
+
 > I got a new phone so this isn't the true amount of times I've checked in. I try to check in at least once a day. I look forward to check in.<br> :date: __2021-05-17 22:43:18__
 
 > It is basic and alliws me to provide a rough description of my health status. But does not allow for individual or personal answers. Not everyone fits into the options provided. Example. I select cough every day. But would like a personalized option of explaining that it is medication induced.the choices are a bit too constraining. Sometimes I am forced to choose one that is not accurate<br> :date: __2021-04-17 18:03:39__
@@ -221,8 +223,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > It was great, but it just froze up on me and I have to reinstall. I will probably have to start over too. Not sure how that helps for COVID...?? Hmmm...<br> :date: __2020-12-14 09:25:34__
 
 > I feel like I am helping fight Covid-19.<br> :date: __2020-11-22 15:53:10__
-
-> Feels good to feed people. Limited responses.<br> :date: __2020-11-17 13:33:44__
 
 
 

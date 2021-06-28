@@ -189,6 +189,16 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> brilliant app<br> :date: __2021-06-27 20:45:15__
+
+> extremely useful app<br> :date: __2021-06-27 07:58:57__
+
+> Easy to use.<br> :date: __2021-06-23 20:58:14__
+
+> Great app, very easy and handy to use. Used to have problems with login but that seems to have been fixed<br> :date: __2021-06-22 23:07:09__
+
+> Excellent service. Easy to use, and convenient<br> :date: __2021-06-22 10:18:48__
+
 > very useful to manage your communication<br> :date: __2021-06-21 12:00:37__
 
 > Fiinally a way to have your medical history at YOUR finger tips rather than EVERYONE else's finger tips, bar you!!!<br> :date: __2021-06-20 17:48:42__
@@ -199,16 +209,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > works very well and is easy to use.<br> :date: __2021-06-14 10:04:04__
 
-> could be easier to change pharmacy<br> :date: __2021-06-11 21:00:24__
-
-> great service<br> :date: __2021-06-07 23:24:04__
-
-> Excellent service.<br> :date: __2021-05-30 09:25:40__
-
-> so easy to use. Wonderful.<br> :date: __2021-05-26 18:48:25__
-
-> Ok<br> :date: __2021-05-25 21:58:19__
-
 
 
 #### 4-star reviews
@@ -216,6 +216,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.ascent.phr 4 reviews"/>
 </p>
+
+> it's just a bit of a pain how they keep asking for me to update my covid jab record when I've already done it (4 times to-date)<br> :date: __2021-06-25 09:41:45__
+
+> Better than others I've tried<br> :date: __2021-06-21 19:18:18__
 
 > Had an issue beforehand regarding logging in but customer service was excellent and can now use the app. Wish I could have access to more of my records like test results but I'm happy overall x<br> :date: __2021-06-11 12:18:04__
 
@@ -233,10 +237,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > I find the app easy to use and so far have not had any issues.<br> :date: __2021-02-11 13:59:39__
 
-> works alright most of the time<br> :date: __2021-01-02 23:03:58__
-
-> Lots of functionality doesnt work because GP hasn't signed up to provide it but was does work is quite good. Most annoying aspect is when there is an upgrade due and you cannot log in and use it until you upgrade...but it doesnt tell you that it just makes out you got you credentials wrong.<br> :date: __2021-01-02 10:15:46__
-
 
 
 #### 3-star reviews
@@ -244,6 +244,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
+
+> not optimised for android accessible settings<br> :date: __2021-06-27 10:29:39__
 
 > Unimpressive<br> :date: __2021-06-09 10:11:22__
 
@@ -262,8 +264,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > hard to log in with biometrics<br> :date: __2021-04-13 19:41:35__
 
 > Good, but the app freezes quite a lot. The full DNA results actually caused more questions that couldn't be answered due to a lack of clarity in the original answers. The questions around daily health involve a community question and if you aren't community minded in their opinion your score hits the floor. People can be happy without being involved in community. I use it daily just to register my covid status. Would I be using it otherwise, probably not.<br> :date: __2021-03-21 11:53:58__
-
-> Wont let me get on to log in<br> :date: __2021-03-09 18:33:29__
 
 
 
@@ -301,6 +301,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> Doesn't go past the loading screen<br> :date: __2021-06-21 17:26:15__
+
 > It doesn't recognise the password anymore, even it just been reseted. And fingerprint scanner is not accepted. If is not solved quickly i will have to use another app. I have diabetes and i need to login often.<br> :date: __2021-06-14 14:23:41__
 
 > GP service not working anymore after this update.<br> :date: __2021-06-12 12:15:48__
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > overly complicated, confusing where and what to tap, biometrics usually does not work. Utter cr*p<br> :date: __2021-04-22 11:35:52__
 
 > Too buggy<br> :date: __2021-04-13 09:13:44__
-
-> Terrible! I'm always having issues on this app with accessing my medication and ordering it. It has caused me so much stress and has very negative impact on my mental health!<br> :date: __2021-04-13 00:29:39__
 
 

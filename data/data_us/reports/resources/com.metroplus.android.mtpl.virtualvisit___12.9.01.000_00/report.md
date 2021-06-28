@@ -207,6 +207,8 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="com.metroplus.android.mtpl.virtualvisit 5 reviews"/>
 </p>
 
+> Wow<br> :date: __2021-06-25 23:34:19__
+
 > Considering its after 5 am and I just got seen and taken care of in a matter of minutes I absolutely love this service saved me a visit of possibly two hours or more in a E.R or urgent care. Thank you so much<br> :date: __2021-06-14 11:54:52__
 
 > It is good app to use it<br> :date: __2021-06-08 00:43:43__
@@ -224,8 +226,6 @@ The MetroPlus Virtual Visit app has been installed by more than **5000** times. 
 > Excellent!!!!<br> :date: __2021-03-25 20:33:41__
 
 > The doctors on this app are amazing and informative saved my life<br> :date: __2021-03-20 16:50:24__
-
-> Works very well<br> :date: __2021-03-18 14:37:05__
 
 
 
@@ -274,6 +274,8 @@ No recent reviews available with 3 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.metroplus.android.mtpl.virtualvisit 1 reviews"/>
 </p>
+
+> This app gives you appointments with doctors that they won't pay for. You will end up receiving a bill in the mail from beacon health. When you call metroplus or beacon they point the fingers at each other and then blame you for choosing someone that is not in network. The issue is you don't even choose the doctor, metroplus does. How does any of this make sense? Now I have to worry about paying this out of pocket expense. 🤑<br> :date: __2021-06-22 00:31:43__
 
 > I'm not able to get on the screen to make appointments. And I'm being told by MetroPlus that "it is what it is" . I should go in person they say. But they keep emailing me to make virtual visits 🤦🏾‍♀️. Poor service MetroPlus<br> :date: __2020-10-31 19:41:16__
 

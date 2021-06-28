@@ -197,6 +197,10 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Quick to get prescription in the comfort of my home!<br> :date: __2021-06-25 23:09:31__
+
+> Trifecta, of Treage Solutions!!!<br> :date: __2021-06-24 22:56:10__
+
 > Worked great, just like an in- person visit<br> :date: __2021-06-16 23:30:04__
 
 > Whereas my issue, I need to be seen by a doctor, anything like a cold, any issue that can be treated online, I very highly recommend.<br> :date: __2021-06-16 20:09:12__
@@ -212,10 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Very easy to use. Will definitely use it again.<br> :date: __2021-05-25 23:10:54__
 
 > Great docs quick and easy best of all its cheaper than urgent care and er because it's free. I highly recommend online visits<br> :date: __2021-05-20 17:57:54__
-
-> I love that someone is always available in case my doctor is closed, like the case was today. The doctor was fast and kind. Great video and audio quality.<br> :date: __2021-05-19 09:25:24__
-
-> But<br> :date: __2021-05-17 17:12:53__
 
 
 

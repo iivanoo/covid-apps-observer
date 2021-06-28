@@ -258,6 +258,10 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="ca.albertahealthservices.contacttracing 1 reviews"/>
 </p>
 
+> No one uses it<br> :date: __2021-06-26 22:47:38__
+
+> Wow, have to charge my phone 3 times a day with this app. Why isn't Alberta using the Canada Covid app? It's not a power hog.<br> :date: __2021-06-24 19:30:09__
+
 > The app doesn't work it always crashes upon opening it !!!! It's not mandatory to use it I guess !<br> :date: __2021-06-11 17:46:29__
 
 > Would have preferred the Canada wide one<br> :date: __2021-06-10 23:49:35__
@@ -273,9 +277,5 @@ The ABTraceTogether app has been installed by more than **100000** times. At thi
 > I wanted this to work. The province spent millions. I've met with thousands of people over the year with this running and not a single notification. App is broken<br> :date: __2021-05-28 18:45:56__
 
 > Recently, the app has been using more and more battery. It used to use less than 1%, now it's around 25-45% depending on the day.<br> :date: __2021-05-26 05:03:02__
-
-> The app is the shats. Get people who know how to do it right.<br> :date: __2021-05-20 21:37:30__
-
-> Drained battery, when I uploadedy data after catching Covid no one got an alert. Does not work.<br> :date: __2021-05-20 21:18:06__
 
 

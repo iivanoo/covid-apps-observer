@@ -217,6 +217,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Rápido y cómodo,sin salir de casa,lo haré así cada vez que pueda<br> :date: __2021-06-21 16:37:53__
+
 > Fue muy buena la consulta virtual, muy aclaratoria y continuaré con pruebas sugeridas por la Dra. para tener seguimiento de mi mejora posteriormente.<br> :date: __2021-06-17 11:23:38__
 
 > Muy buena<br> :date: __2021-06-14 18:36:10__
@@ -235,8 +237,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 
 > Excelente app<br> :date: __2021-05-25 09:34:12__
 
-> La visita telepática genial. Un doctor encantador<br> :date: __2021-05-20 12:07:14__
-
 
 
 #### 4-star reviews
@@ -244,6 +244,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 4 reviews"/>
 </p>
+
+> Un poco inestable, y una pega, si no quiero valorar en google play y doy a la flecha hacia atrás, es para volver a Inicio, no para volver a abrir el chat y volver a molestar al doctor/a. Por otro lado, lo que más me gusta es la consulta super rápida por chat con los médicos, me indican bien a qué especialidad acudir, mil veces mejor que la doctora de pacotilla de la seguridad social. Además, es un chat 24/7, no puede ser mejor. Bueno sí, indicar en detalle las especialidades que cubre mi póliza<br> :date: __2021-06-25 23:58:08__
 
 > Fue rápida y positiva, siendo la hora de madrugada.<br> :date: __2021-05-25 06:48:54__
 
@@ -262,8 +264,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Muy buena, me atendieron puntualmente en el caso de mi hijo<br> :date: __2020-12-17 16:50:03__
 
 > ¿Existe alguna aplicación para instalar en el pc?. Con ésta no me deja, solo en el tlf móvil. Gracias.<br> :date: __2020-12-05 13:57:10__
-
-> Se queda pausada, no hay maceta de iniciar<br> :date: __2020-11-26 07:00:53__
 
 
 
@@ -295,6 +295,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="2_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 2 reviews"/>
 </p>
 
+> Cuando intento entrar en Club de Salud y Bienestar se cierra la aplicación,<br> :date: __2021-06-22 06:16:46__
+
 > Hola, me acabo de asegurar y dar de alta la app, es imposible ver el cuadro médico, cómo puedo acceder? Si no, tendré que darme de baja del seguro<br> :date: __2021-03-09 23:25:53__
 
 > La aplicación tarda mucho en abrirse o se corta usando la video llamada. No aparecen muchos médicos en los listados. En general, no funciona correctamente.<br> :date: __2021-01-20 12:24:10__
@@ -312,8 +314,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Falla, no ser puede cerrar<br> :date: __2020-10-26 20:54:24__
 
 > La agenda no va. Solo me ha permitido poner una cita mía. Al querer poner una de mi hijo da error 7110 todo el rato, que escriba a soporte dkv (al que ya he escrito la semana pasada y no me han hecho ni puñetero caso) o que llame a un teléfono que nunca contestan. Una guasa. Eso por no hablar de que llevo tres semanas para que me cambien en sus bases de datos el nombre, el género y la fecha de nacimiento, que están mal, y el mismo caso que antes . De momento, muy mal con DKV.<br> :date: __2020-10-26 18:03:10__
-
-> No funciona bien la aplicación<br> :date: __2020-10-17 10:09:06__
 
 
 

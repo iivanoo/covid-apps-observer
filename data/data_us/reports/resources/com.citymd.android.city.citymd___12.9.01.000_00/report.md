@@ -187,6 +187,8 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="com.citymd.android.city.citymd 5 reviews"/>
 </p>
 
+> Excellent intetface<br> :date: __2021-06-27 18:30:15__
+
 > I was evaluated by Doctor Jane Avella. She was caring and nice during my visit.<br> :date: __2021-05-24 17:14:54__
 
 > Quick doctor on call.<br> :date: __2021-05-12 19:15:44__
@@ -204,8 +206,6 @@ The CityMD app has been installed by more than **10000** times. At this time, **
 > Great app! Took me only 30 min from downloading to see a doctor!<br> :date: __2021-04-13 21:29:22__
 
 > Excellent!<br> :date: __2021-04-04 01:21:13__
-
-> Awesome experience thanks Maureen<br> :date: __2021-04-03 16:52:03__
 
 
 

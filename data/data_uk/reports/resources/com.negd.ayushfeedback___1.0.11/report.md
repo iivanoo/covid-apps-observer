@@ -179,6 +179,8 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="com.negd.ayushfeedback 3 reviews"/>
 </p>
 
+> Naic<br> :date: __2021-06-23 03:22:46__
+
 > Fair<br> :date: __2020-07-18 19:00:04__
 
 > Problem ke hisab se uska ilaj batane ke liye bhi option dijiye Jab kisi ko koi problem hoga to us option me jake check karega kya chij use kare ki problem thik ho jaye Tab jyada log Aayurved par dhyan denge.<br> :date: __2020-07-02 10:20:19__
@@ -196,8 +198,6 @@ The Ayush Sanjivani app has been installed by more than **500000** times. At thi
 > Good<br> :date: __2020-06-13 08:42:18__
 
 > Good But some Issues..<br> :date: __2020-06-11 03:19:58__
-
-> BeSt<br> :date: __2020-06-10 07:56:36__
 
 
 
