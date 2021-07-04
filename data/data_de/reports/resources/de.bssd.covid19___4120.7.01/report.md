@@ -131,6 +131,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.bssd.covid19 5 reviews"/>
 </p>
 
+> Optimal<br> :date: __2021-07-04 17:17:27__
+
 > zop app<br> :date: __2021-06-18 18:31:05__
 
 > Sehr gut<br> :date: __2021-06-03 20:19:19__
@@ -148,8 +150,6 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Herunter laden und anmelden ging schnell und einfach. Nur die Geduld auf das Testergebniss hab ich nicht so 😔<br> :date: __2020-10-30 20:11:18__
 
 > Toller Service. Unkomplizierte Nutzung mittels QR Code. Durch die Push Nachricht ploppt das Ergebnis sogar auf dem Display auf. Großartig.<br> :date: __2020-10-20 18:22:03__
-
-> Bei mir hat alles super funktioniert. Am nächsten Tag die Push-Benachrichtigung bekommen und das Ergebnis war da. Super !!<br> :date: __2020-10-15 08:51:22__
 
 
 
@@ -243,6 +243,10 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Der gleiche Schrott wie die Warn-App, Man(n) oder Frau kann den Code nicht einscannen.<br> :date: __2021-07-02 14:43:28__
+
+> Funktioniert nicht der Mist<br> :date: __2021-06-29 14:46:26__
+
 > Funktioniert nicht. Nach dem öffnen wird die App sofort wieder geschlossen. Android 11 / Samsung S 10e. Null Sterne wäre angebracht.<br> :date: __2021-06-27 09:50:24__
 
 > App lässt sich nicht mal öffnen nach dem runter laden.<br> :date: __2021-06-20 11:09:43__
@@ -258,9 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Total unnütz für Android 11 Nutzer. Meine Filiale hat mir die Unfähigkeit der Programmier Dilettanten bestätigt.<br> :date: __2021-06-18 15:36:50__
 
 > Die App funktioniert nicht. Man kann sich nicht anmelden, wenn man es mit dem QR Code macht☹️<br> :date: __2021-06-18 12:16:55__
-
-> Die App ist mist. Beim Starten schließt sich sich laufend. Nutzung nicht möglich<br> :date: __2021-06-17 18:14:25__
-
-> Die App schließt sich beim starten laufend und kann nicht genutzt werden.<br> :date: __2021-06-17 18:11:21__
 
 

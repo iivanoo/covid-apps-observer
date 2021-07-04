@@ -254,6 +254,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> Terrible I've never gotten one alert for anything<br> :date: __2021-06-30 00:01:51__
+
+> Just no<br> :date: __2021-06-28 10:03:56__
+
 > Worthless<br> :date: __2021-06-24 15:35:41__
 
 > Needs more information on how to use it had difficulties knowing and learning on how it is posed to be used on it.<br> :date: __2021-06-16 16:58:55__
@@ -269,9 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Junk app.. get it off my screen I'm tired of seeing it<br> :date: __2021-05-30 20:23:30__
 
 > The numbers for total cases, hospitalizations and deaths given in this app are incorrect. This should be investigated and rectified. The Commonwealth itself is spreading misinformation. Shame on them. Remain vigilent and know your source information. Don't waste your time with this app. It's useless.<br> :date: __2021-05-29 23:04:50__
-
-> Why is there no obvious way to designate if I've received a COVID positive test to propntly warn the people I've possibly exposed to the disease?! If this is a feature, it's hidden deep in the app. I would have put that at the top of the home page. What exactly is the utility of this app? :(<br> :date: __2021-05-24 22:27:42__
-
-> This was pointless. I was in contact with someone who tested positive, but no one ever gave them a code to enter and I never got an alert<br> :date: __2021-05-23 02:04:07__
 
 

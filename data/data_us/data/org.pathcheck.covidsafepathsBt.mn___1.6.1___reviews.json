@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFoEMnP074gjBzzBLlg1ZcPIRyGySmOjEMHZZ0MPwChzT5Ur2xp63fWdg-H90b9jm9whr4cSdreGEBckTE",
+        "userName": "Thomas Weaver",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjE-V-bykpt9totIjhvjXc_LBAbPr5oZYUAVY54PQ",
+        "content": "Did its job. I'm now fully vaxed so....uninstalled now",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-03 20:22:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEAJwEkwr_0VcutjAvoWM3Ex2Z4kP5Fj1NZENEhEsr-4Ns3Dxyec32iXTYuDA6pqWl4Is87QLujKcRs2mA",
         "userName": "Joshua G.",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZiAvLBRBud3msF7_QnWvWaYcdJ25KJVG7xCgC",
@@ -29,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx_7sWCBAJkxtihFDSdE6sr4VYDjZwHCOG0TDNF=mo",
         "content": "Because this app is state specific, it does little good since I am traveling out of state about half the time. When I am in MN I live alone and would prefer to turn the Bluetooth off when home or out of state since there is zero chance of exposure but that is not an option without frequent notice that I need to turn Bluetooth on.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "1.6.1",
         "at": "2021-05-24 23:30:09",
         "replyContent": null,
@@ -181,8 +193,8 @@
     },
     {
         "reviewId": "gp:AOqpTOHX8v9ho7gfjzl_HtFsZaZQ5eBmBGMzOziKac2bLnh4fColLbNQu_t2a1Z_qlxUSxMAX8er6EGY4_MWreM",
-        "userName": "Emmit G",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjm2AmL9F1AiSxT9pd4NTp-pmB8b-C_V8vBpCf4S74",
+        "userName": "E G",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyNq3pFgKCgDQAmzDYOmsISWhSrhcjQ9b3hRKVvyMk=mo",
         "content": "Useless. If you have covid you will know by... being sick!",
         "score": 1,
         "thumbsUpCount": 1,
@@ -193,7 +205,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFj34fr6oWiLMNuKQjYF-ejlo6KHKsnQCMAEpIRG3i4AcjWajnaZ_6CiQw3x0k7MoeInTM6yWDDI5Pne10",
-        "userName": "Megan Parks",
+        "userName": "Megan",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy0ptbAY1_u9E5majQgpMpOJ6DvZyWGF9wfK45N=mo",
         "content": "Awesome app",
         "score": 5,
@@ -218,7 +230,7 @@
     {
         "reviewId": "gp:AOqpTOGxD5z6srDpNV57BkJ34OUY9b7QOdtcQRShjHdLqneaMDXUmGT0u5sqOKiQDUHnHs7Ael4OwWiZPQV_IEg",
         "userName": "Joe Garrick",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqLoATW_Ce6AGlJQBSlqTHapKrsQ_UTVux1qirC9I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgDnp8WEwV8YpbedlEeQH46n9tlajeLRUsE9LQeGvM",
         "content": "We're doing better",
         "score": 4,
         "thumbsUpCount": 0,
@@ -497,7 +509,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-UyPZGo_ZdnoCjnVk4qEkQ8hcMLilX1swTJR5=mo",
         "content": "Seems like a great idea, but It sends a push notification everytime it checks to see if your exposed, without any way of changing it to only alert if potentially exposed. It just went off at 4am and all it was doing was checking, which isn't cool. Also, you actually have to add your test results. I've been around several people who tested positive and the app said nothing. Maybe the app should be required for covid tests, and the results should be sent through it so the app actually works.",
         "score": 1,
-        "thumbsUpCount": 157,
+        "thumbsUpCount": 158,
         "reviewCreatedVersion": "1.6.1",
         "at": "2021-02-17 10:50:49",
         "replyContent": null,
@@ -569,7 +581,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GieBVQPzggFwPNE_FyyZJ7SupLgT23ScjhoMJMk4A",
         "content": "This app was making my phone battery drain significantly faster than usual. Uninstalled it and sure enough, I'm back to having plenty of charge left at the end of the day. Also, I'm not sure how useful it was, when it only reports exposures of 15+ minutes, in a world with highly contagious mutations and aerosols lingering after people have moved on. Good idea, but since I'm being extra-careful, I'm uninstalling and having my phone battery function normally.",
         "score": 3,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": null,
         "at": "2021-02-08 18:18:46",
         "replyContent": null,
@@ -1382,7 +1394,7 @@
     {
         "reviewId": "gp:AOqpTOG_5Rkf3NBTcOKPcJrSqX32QfwT_89tzEiIcywQmAOaTEP7jsWLzIqDQpwZLdFY6VaOC7atjzsljuNMC1E",
         "userName": "Lori Robinson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjqVSMpS2b_3E0fmcM_ESLtRQoYcqBJ775KOFVil6I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxBxhHXleFMqcKkrqoZvAyn2uuWwC7v_gGwa5ijC0",
         "content": "Stupid .. dont waste time . Unless a person themselves that downloaded this app tells the app they are a positive tested person .. Then it continues to SPAM ypu in the name of google even AFTER ypu remove it ENTIRELY from your phone as well as google history Funny how.....Suddenly i had to have my ohone reset afterwards. .",
         "score": 1,
         "thumbsUpCount": 5,
@@ -1838,7 +1850,7 @@
     {
         "reviewId": "gp:AOqpTOGpvDENPgRFFlbhper0svmRsweJsRqBh05U6DqSfLjwU3_64PoJc_Htapdqv3vD53tJyxmX5FL2O2KoQ14",
         "userName": "orangeORCHID alisterCrowley",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhmueE32SMmvNuMh-UmBTO8rfgBZGqZWWn1-Irm-w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj06igdyRrBnYFV_kGe6uoF4WwrWoGpUtDCXsN4ww",
         "content": "Why is aids not as thought of too protect us",
         "score": 1,
         "thumbsUpCount": 4,

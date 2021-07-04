@@ -150,6 +150,12 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> App muy sencilla de usar y recomendable en los tiempos que corren<br> :date: __2021-07-03 16:22:52__
+
+> Me parece muy interesante, que se haga un seguimiento y se preocupen por la evolucion del covid. Saber que siempre hay alguien detras velando por tu salud da seguridad,. Gracias<br> :date: __2021-07-03 09:29:03__
+
+> Es una aplicación que funciona muy bien. Siento como si tuviera personal sanitario en casa que me cuida constantemente. Gracias!<br> :date: __2021-06-30 17:40:53__
+
 > Excelente, si hubiese más estrellas os las daba. Puse mis datos y síntomas en la App y me han llamado todos los días para saber como estoy y cómo va mi cuarentena. Esa llamada diaria me hizo sentir menos sola y que le importo a alguien. También sugerir alguna opción dentro de la App dónde se pueda detallar la mejoría o reportar el comienzo del seguimiento del centro de salud para dejarla libre y que otros se puedan beneficiar del sistema. Muchísimas gracias❤️<br> :date: __2021-06-21 01:52:56__
 
 > App muy útil para los residentes de Madrid!!<br> :date: __2021-05-27 00:33:27__
@@ -163,12 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Muy útil, todos deberíamos usarla<br> :date: __2021-03-24 19:24:04__
 
 > Una herramienta sanitaria excelente<br> :date: __2021-03-03 22:26:30__
-
-> App muy recomendada en este momento de pandemia. Además de poder hacer una autoevaluación en función de tus síntomas, te permite ver consejos y medidas de prevencion, asi como la localización de los hospitales más cercanos si los necesitases. Además sirve de ayuda para descongestionar el sistema sanitario. Como punto a añadir, al introducir los datos personales estaría bien que tomase si eres o no persona de riesgo, y variables del estilo.<br> :date: __2021-02-23 18:29:57__
-
-> Una interfaz muy limpia. Aplicación intuitiva. Es una buena forma de saber si puedes tener covid-19 o si deberías hacerte una prueba. Estoy encantado con la aplicación!<br> :date: __2021-02-20 06:00:19__
-
-> Me ha gustado mucho la APP, es justo lo que necesitaba, además es muy fácil de usar.<br> :date: __2021-02-19 12:37:16__
 
 
 
@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> Tomadura de pelo. No tiene nada que ver con el Nombre de la App. Sólo recoje tuhs datos íntimos. Dudo que tenga nada que ver con la Consejeria de Salud.<br> :date: __2021-07-01 15:05:38__
+
 > Una tontería de aplicación<br> :date: __2021-06-06 22:09:40__
 
 > La experiencia ha sido desastrosa. Pese a haber introducido la sintomatología, la aplicación me decía que estaba todo en orden y hemos tardado más tiempo en avisar a sanidad para que nos hagan los test. Y en nuestro caso la tos no ha sido seca, sino productiva...<br> :date: __2021-04-30 09:40:26__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No tiene aviso de zonas confinadas. Entonces no me sirve para nada<br> :date: __2021-02-03 23:09:26__
 
 > Leo que están retrasando la introducción de Radar Covid por culpa de esta app.<br> :date: __2021-02-02 13:13:29__
-
-> Desistalarla es lo unico positivo que tiene la APP.<br> :date: __2021-01-27 13:45:34__
 
 

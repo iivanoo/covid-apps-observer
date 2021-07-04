@@ -245,8 +245,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
-> Da Ottima, ma trascorso più di un anno, i quesiti proposti sono sempre gli stessi! Manca ad esempio la domanda circa i vaccini e relativi richiami! Se non cambiano sostanzialmente i quesiti, disinstallerò l'app ritenendola ora superata e quindi inutile.<br> :date: __2021-06-26 19:36:54__
-
 > Purtroppo devo dire che, così com'è impostata, con il discorso tampone, non ha più senso. Dovrebbe essere aggiornata, vista l'enorme campagna vaccinale in corso, con l'effettuazione del tipo di vaccino somministrato.<br> :date: __2021-06-12 13:00:54__
 
 > Si poteva fare meglio<br> :date: __2021-06-06 11:48:57__
@@ -265,6 +263,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Una cosa aveva di buono: quando arrivavano le allerte meteo, vedevi la cartina della regione coi colori e poi potevi vedere il dettaglio. Ora invece c' Questa recensione è stata utile? Sì No Regione Lombardia 15/03/21 Ciao Emanuele, assicurati di aver selezionato "Mappa" dalle 3 linee in alto a destra dell'app. Per assistenza scrivi a info.allertalom@ariasp ......... Dove sono le tre linee in alto a destra? .......... Galaxy note 20 con ultima UI e ultima versione android<br> :date: __2021-04-05 19:14:35__
 
+> Con l'ultimo aggiornamento mi chiede di compilare il questionario che ho già fatto ma non va più avanti. Mi chiede di inserire un parente<br> :date: __2021-03-07 14:22:52__
+
 
 
 #### 1-star reviews
@@ -272,6 +272,10 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> Non si apre più<br> :date: __2021-07-03 12:40:13__
+
+> Divenuta obsoleta! Da domani la disinstallo se nulla è migliorato<br> :date: __2021-07-01 19:20:56__
 
 > Non si apre<br> :date: __2021-06-21 13:41:53__
 
@@ -288,9 +292,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > App pessima e lentissima. Dati covid ormai inutili, nessuna possibilá di teacciamento. Perché non c'è la possibilità di segnalare un luogo dove se ne fregano di rispettare le norme? Parte allerta neteo ira che si apre e uno sta a leggere la pappardella da addetti ai lavori si é già beccato la grandinata sull'auto<br> :date: __2021-06-19 13:37:51__
 
 > Forse un anno fa andava bene, fare la domanda (hai fatto il tampone?) La app andrebbe aggiornata, visto che molte persone hanno già avuto almeno la prima dose di vaccino.<br> :date: __2021-06-12 13:06:22__
-
-> Un disastro ormai da 40 giorni inutilizzabile, ma chi l'ha sviluppata non se né accorta che va in crash ??<br> :date: __2021-05-23 14:03:25__
-
-> Spesso è in blocco<br> :date: __2021-05-19 15:05:39__
 
 

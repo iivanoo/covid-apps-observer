@@ -1,0 +1,26 @@
+{
+    "permissions": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.CAMERA",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "activities": [
+        "de.rki.covpass.app.main.MainActivity",
+        "com.journeyapps.barcodescanner.CaptureActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://ec.europa.eu/health/documents/community-register/html/",
+        "http://ec.europa.eu/temp/vaccineproductname",
+        "https://spor.ema.europa.eu/v1/organisations",
+        "http://snomed.info/sct",
+        "http://snomed.info/sct/900000000000207008/version/20210131",
+        "http://www.whocc.no/atc",
+        "http://loinc.org",
+        "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
+        "http://schemas.android.com/apk/res-auto"
+    ]
+}

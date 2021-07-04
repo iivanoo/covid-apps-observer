@@ -121,6 +121,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 5 reviews"/>
 </p>
 
+> Noce<br> :date: __2021-07-03 02:20:10__
+
 > Surbete<br> :date: __2021-06-19 17:33:36__
 
 > Great app<br> :date: __2021-06-15 04:04:13__
@@ -138,8 +140,6 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Helpful<br> :date: __2021-04-03 22:47:04__
 
 > Thank you 😊 lt helping me<br> :date: __2021-04-01 19:51:54__
-
-> Elpata<br> :date: __2021-03-06 05:30:43__
 
 
 
@@ -225,6 +225,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> I know I have been exposed at least 2 times. I personally reported one and was too ill to report the second. This app has not reported a thing. I am instinctively certain I've had other exposures. I was in a hospital ER over 8 hours in Jan 2020 with people bed to bed coughing, moaning, gagging, etc. I've received not one notification from this app.<br> :date: __2021-07-02 17:43:27__
+
 > I wouldn't install this because it's asking way too much of my private data activities. Doesn't seem very "privacy" friendly.<br> :date: __2021-06-23 07:47:14__
 
 > This is malware.It installed on my phone without my permission.<br> :date: __2021-06-23 02:37:35__
@@ -242,7 +244,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > Neither UMC nor the Health Department have any idea about the required verification code, so I can't report a positive diagnosis. Which defeats the entire purpose of this app.<br> :date: __2021-02-19 19:20:22__
 
 > No idea what the idea is behind this when I couldn't enter my info about being infected.<br> :date: __2021-02-19 05:06:10__
-
-> Dark mode support pls<br> :date: __2021-02-16 16:09:20__
 
 

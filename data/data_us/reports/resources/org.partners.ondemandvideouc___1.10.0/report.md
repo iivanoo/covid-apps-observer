@@ -155,10 +155,12 @@ The Partners HealthCare On Demand app has been installed by more than **1000** t
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="org.partners.ondemandvideouc 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Faithful and efficient<br> :date: __2021-07-02 01:04:56__
+
+
 
 #### 4-star reviews
 

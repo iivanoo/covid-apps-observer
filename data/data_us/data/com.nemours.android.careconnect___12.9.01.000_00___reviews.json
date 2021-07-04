@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHpnVLOeq_wJqP6fP66DKicZhKlq6O6GpygX3BpP8hgOpb6e54uAx2WcRE_-KqnFqd6U-LhLIy7CVS3BQ",
+        "userName": "Amanda Gallimore",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giu0vrLT_qAC5VQZVMm4CBxh_5DhFYbbf-3Y31TtQ",
+        "content": "Don't waste your time with them they hardly treat anyting. They said they were only treating certain things during the pandemic but are no longer treating those since the pandemic is over, I didn't realize the pandemic was over.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-07-01 08:39:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGup6DUHFnAAYRwFjn--h7G0m5XpwWHbmN6fs3z_gpARHUB6RJfjfH1XDmmFLAmSlCP1ltEe0pE40LYtA",
         "userName": "Kathy Portalatin",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx2dfmwbzOpqboXay8z0O6B7qTtcw4tThSOIjZ3=mo",
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzL19viYbptHrW49Oo3Wh8G_xHHRV032w4ETIWI=mo",
         "content": "Outstanding service on New Year's Day! Dr. Was efficient, knowledgeable, and friendly. I am so happy that this virtual visit was available. Didn't have to leave my home on a cold and rainy day. Prescription sent over to my pharmacy of choice. Have your insurance, Primary care info and pharmacy information in order to register.",
         "score": 5,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2021-01-01 22:04:39",
         "replyContent": null,
@@ -200,18 +212,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "12.0.16.005_01",
         "at": "2020-11-14 18:10:53",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHpnVLOeq_wJqP6fP66DKicZhKlq6O6GpygX3BpP8hgOpb6e54uAx2WcRE_-KqnFqd6U-LhLIy7CVS3BQ",
-        "userName": "Amanda Gallimore",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giu0vrLT_qAC5VQZVMm4CBxh_5DhFYbbf-3Y31TtQ",
-        "content": "They used to be good but now they are absolutely a waste of time, all they do now is tell you to visit their office to have the child seen. Hello!! We don't feel safe taking our kids into an urgent care right now. What's the point of this app if you no longer do anything.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "12.0.16.005_01",
-        "at": "2020-11-08 00:36:36",
         "replyContent": null,
         "repliedAt": null
     },
@@ -1817,7 +1817,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy-xpIn-W7AwqofQlBdCb08yiL6VM9AsNAY7Rql=mo",
         "content": "Would give zero stars if I could. It says online that they treat ear infections, so I booked an appointment. She has an ear pain and a fever. They said she doesnt have an ear infection and even if she did they wouldn't treat her. That means I just wasted $60. Don't waste your time. Go to a real doctor. I know my doctor would've treated her infection because she's my 4th child and I've been through this many times. I'm so upset! This is what I get for trying to take shortcuts!",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "12.0.4.000_00",
         "at": "2020-03-26 23:36:46",
         "replyContent": null,
@@ -2402,7 +2402,7 @@
     {
         "reviewId": "gp:AOqpTOELSkRUv9YUbdx3yoIxS08Y3dDhi_qa5gchJhNZfy7-bBOh1WWxQWLFg7tPPLH_TaY7XAAnWBsDLyqaWQ",
         "userName": "Daniel Chiavaroli",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7MNZ4dz3EIZBZqhtymZUGQe_QriFeGApWNHJl=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBkzxAcQAPYlodc_85ETH_niewJes46IQVqQmo-9c",
         "content": "Great simple experience to get treatment for my daughter without the long wait at the after hours clinic.",
         "score": 5,
         "thumbsUpCount": 3,

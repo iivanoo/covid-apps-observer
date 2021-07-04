@@ -176,6 +176,8 @@ The MyAus COVID-19 app has been installed by more than **5000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="com.myaus 5 reviews"/>
 </p>
 
+> Updates available in time<br> :date: __2021-07-01 02:01:49__
+
 > it is a great app to try and control covid 19<br> :date: __2021-03-18 22:36:26__
 
 > Amazing app well worth downloading<br> :date: __2020-05-31 05:41:12__
@@ -229,6 +231,8 @@ No recent reviews available with 2 stars.
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.myaus 1 reviews"/>
 </p>
+
+> It's broken. Keep getting a connection error<br> :date: __2021-07-02 03:42:56__
 
 > 💉💉💉💉💉💉💉💉💉💉💉💉🤣🤣🤣🤑💩💀<br> :date: __2021-06-01 04:06:20__
 

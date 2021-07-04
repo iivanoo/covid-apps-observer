@@ -233,8 +233,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 <img src="3_star_reviews_wordcloud.png" alt="org.unitypoint.android.upth.virtualcare 3 reviews"/>
 </p>
 
-> App is fine but I was out of town and needed to input a Pharmacy in the town I am visiting. The App did not give me an opportunity to do that. Thankfully I remembered this and told the doctor. i would have been very frustrated if the prescription was sent back to my hometown.<br> :date: __2020-12-23 22:49:27__
-
 > They double charged my card for one visit. Was on hold for 30+ minutes with customer support and still wasn't able to get ahold of anyone. Extremely frustrated. The app itself is a good idea and talking to a doctor was convenient from home. Just dont like being charged twice.<br> :date: __2020-03-19 13:50:21__
 
 > the doctors are knowledgeable and it's wonderful to have an option to see a care provider virtually. my major issue is connectivity. i waited in queue for 30 minutes to see a provider and was kicked out, having to start all over again and wait for even longer to get assistance.<br> :date: __2019-01-10 16:27:45__

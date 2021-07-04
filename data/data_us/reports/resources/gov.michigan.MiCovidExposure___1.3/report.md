@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> -----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v1.4.2.2 (GNU/Linux) mQGiBEnnWD4RBACt9/h4v9xnnGDou13y3dvOx6/t43LPPIxeJ8eX9WB+8LLuROSV lFhpHawsVAcFlmi7f7jdSRF+OvtZL9ShPKdLfwBJMNkU66/TZmPewS4m782ndtw7 8tR1cXb197Ob8kOfQB3A9yk2XZ4ei4ZC3i6wVdqHLRxABdncwu5hOF9KXwCgkxMD u4PVgChaAJzTYJ1EG+UYBIUEAJmfearb0qRAN7dEoff0FeXsEaUA6U90sEoVks0Z wNj96SA8BL+a1OoEUUfpMhiHyLuQSftxisJxTh+2QclzDviDyaTrkANjdYY7p2cq /HMdOY7LJlHaqtXmZxXjjtw5Uc2QG8UY8aziU3IE9nTjSwCXeJnuyvoizl9/I1S5 jU5SA/9WwIps4SC84ielIXiGWEqq6i6/sk4I9<br> :date: __2021-06-30 01:15:01__
+
 > Did it's job well while it was needed. Kudos to MI for trusting the science and saving lives instead of letting those poor Conservatives die of their own stupidity<br> :date: __2021-06-24 21:36:11__
 
 > Thankfully I didn't get an alert<br> :date: __2021-06-23 02:02:47__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > It hasn't up dated sentence Feb. ?<br> :date: __2021-04-29 18:52:27__
 
 > I check everytime I go out. It makes me feel safe and secure.<br> :date: __2021-04-28 15:30:42__
-
-> This is benifica<br> :date: __2021-04-25 14:17:17__
 
 
 
@@ -238,6 +238,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> It was just a drain on my battery<br> :date: __2021-07-02 20:39:15__
+
 > Stops working. I install it and it works for a period of time then stops. This is the 3rd time I installed it. Today I checked it and said last checked June 3, today is June 25<br> :date: __2021-06-23 15:42:42__
 
 > Covids a hoax the state developers should work on fixing actual issues. Like the unemployment systems that have been overwhelmed and need optimization from the influx caused by terrible policy decisions. Also the app doesn't even work.<br> :date: __2021-06-21 18:40:42__
@@ -255,7 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Compromised by hacker<br> :date: __2021-05-31 08:57:09__
 
 > App never does anything when i turm off bluetooth it says "turn on bluetooth to recieve exposure notifications" Just having the bluetooth feature ON absolutley DRAINS my battery. Fix you r godamn app your moron.<br> :date: __2021-05-28 17:06:36__
-
-> Doesn't work. Today I open it, only to find it has turned itself off and hasn't checked exposure since December. What good is that. I am vaccinated now so I may as well uninstall if this thing won't work.<br> :date: __2021-05-24 17:43:18__
 
 

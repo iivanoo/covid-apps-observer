@@ -189,6 +189,10 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> great<br> :date: __2021-06-29 11:41:28__
+
+> Brilliant app so easy to order my medication, been using for a couple of years now and I've never had a problem until yesterday, I contacted customer support via email and they replied very quickly, problem sorted, excellent customer support.<br> :date: __2021-06-29 01:01:51__
+
 > brilliant app<br> :date: __2021-06-27 20:45:15__
 
 > extremely useful app<br> :date: __2021-06-27 07:58:57__
@@ -204,10 +208,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Fiinally a way to have your medical history at YOUR finger tips rather than EVERYONE else's finger tips, bar you!!!<br> :date: __2021-06-20 17:48:42__
 
 > easy to use unlike some<br> :date: __2021-06-20 10:41:24__
-
-> Best app of its kind on the market.<br> :date: __2021-06-15 09:52:21__
-
-> works very well and is easy to use.<br> :date: __2021-06-14 10:04:04__
 
 
 
@@ -301,6 +301,12 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
+> This used to work fine but now passwords don't work, thus making the app pointless.<br> :date: __2021-07-01 10:02:30__
+
+> This is really helpful<br> :date: __2021-06-30 13:22:00__
+
+> Never remembers password have to reset every time<br> :date: __2021-06-29 09:02:52__
+
 > Doesn't go past the loading screen<br> :date: __2021-06-21 17:26:15__
 
 > It doesn't recognise the password anymore, even it just been reseted. And fingerprint scanner is not accepted. If is not solved quickly i will have to use another app. I have diabetes and i need to login often.<br> :date: __2021-06-14 14:23:41__
@@ -314,11 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Not able to even sign up as freezes on biometrics page. Ridiculous.<br> :date: __2021-05-16 13:13:38__
 
 > Hardly ever works properly nowadays, all i want is to order a repeat prescription.<br> :date: __2021-05-16 10:31:12__
-
-> Dreadful. It will let me in on laptop, but not on phone app. Wasted so much time. You could die waiting for the tech. What a dreadful state of affairs<br> :date: __2021-05-04 16:15:41__
-
-> overly complicated, confusing where and what to tap, biometrics usually does not work. Utter cr*p<br> :date: __2021-04-22 11:35:52__
-
-> Too buggy<br> :date: __2021-04-13 09:13:44__
 
 

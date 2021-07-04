@@ -11,7 +11,7 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1624838226
+        "latest_crawl": 1625408659
     },
     {
         "id": "de.xikolo.openwho",
@@ -32,7 +32,7 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1624838355
+        "latest_crawl": 1625408792
     },
     {
         "id": "fr.gouv.android.stopcovid",
@@ -53,14 +53,14 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "0.0.68",
-        "latest_crawl": 1624838493
+        "latest_crawl": 1625408930
     },
     {
         "id": "fr.esantebfc.engage",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.2.8",
-        "latest_crawl": 1624838499
+        "latest_crawl": 1625408936
     },
     {
         "id": "com.sanpsy.kanopee",

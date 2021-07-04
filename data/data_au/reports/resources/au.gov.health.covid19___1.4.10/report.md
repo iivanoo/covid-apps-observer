@@ -243,6 +243,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covid19 2 reviews"/>
 </p>
 
+> I searched for testing place using this app but it only shows drive-trough testing places. What if you do not drive? Very disappointing! And then you are surprised you are missing cases? 🙄<br> :date: __2021-06-28 05:38:13__
+
 > Good app but it represents coronavirus as actually being real and common sense would prove otherwise<br> :date: __2021-06-16 15:53:51__
 
 > Mother<br> :date: __2021-06-15 05:07:10__
@@ -260,8 +262,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > I'm sure it's a great app but there is constantly a reminder in my notifications that I can't get rid of. Very very frustrating.<br> :date: __2020-05-28 18:16:57__
 
 > Not enough real time information I would like to see more statistics especially our Reff number<br> :date: __2020-05-07 11:17:36__
-
-> Release the source code of both client and server and more of us will install this app... It looks like the app generates and uploads a private/public key pair and uploads one or the other to a central server and associates it directly to a user, other users when testing positive can upload their contact history to the server and matches that data to details of other users they came into contact with directly implicating the contacts, private user data should not be uploaded without consent.<br> :date: __2020-05-04 12:39:48__
 
 
 

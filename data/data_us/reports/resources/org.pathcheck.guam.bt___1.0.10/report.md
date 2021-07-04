@@ -188,6 +188,8 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 2 reviews"/>
 </p>
 
+> I really like this app but it doesn't work in the United States improve your app so I'll be able to use it in United States I will give you five stars<br> :date: __2021-06-28 20:47:38__
+
 > I'm just curious as to why Bluetooth has to be turned on<br> :date: __2020-10-08 23:35:34__
 
 > It doesn't open<br> :date: __2020-09-22 13:24:07__

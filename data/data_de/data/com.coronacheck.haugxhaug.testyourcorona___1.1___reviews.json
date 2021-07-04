@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFq4TL1_UW3xI5DAhelGaSWQ_PuaNgrD8KXJlPfVwfjtuKBT0j5YlK4kKhgRxCpBZw1dhJxEGx942DaAQ",
+        "userName": "Achim Fochem",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwUSzfnifx63Km7Y3Bt6F3qZ0Nn9e19cqvyvxBp=mo",
+        "content": "Die App ist sehr gut.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1",
+        "at": "2021-07-04 15:20:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFx4A09ATOfrpc3WoP4H2EM5tnSNPF0Q0p032V6SM3jMfixHMRM68xAPcBcRLQ7ZrzJVxqZ_I_Pz3nzNw",
         "userName": "peer ron",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwGFWO2oCaIOF2Fas5t3L6M_uKj8xSymaPO4g5Q=mo",
@@ -14,7 +26,7 @@
     {
         "reviewId": "gp:AOqpTOGSAIxwdboVOBvsE5EwlkrkatD4oPg-qLqZxAaGofJuj3_OGQy2tiZtV_4dhLyijvN8jFF_atMTJOuaZQ",
         "userName": "Nico D:",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgeGUU46fc9tWRmxYowycFgbf5NXP90dNlnrdZhKw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiepjB983DGwoVKlg23FZRgz47uU7Pu6N2PYpBOFw",
         "content": "Danke! Diese App ist sehr hilfreich! Leute, lasst Euch nicht in die Irre f\u00fchren, wegen der Schulbildung u. S. W.! Diese Angaben sind freiwillig!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -29,7 +41,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWAAT5FNLuGjkuXsggjZuiSK8fsGrYSFoQ2nYu",
         "content": "Die App ist wirklich sehr hilfreich und ehrlich gesagt,einfach nur brauchbar und gut! Vielen lieben Dank und gut,das es solche Menschen die soetwas tolles erfinden,gibt!",
         "score": 5,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.1",
         "at": "2021-04-27 17:42:12",
         "replyContent": null,
@@ -449,7 +461,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjScWkuY6GxllIiFTwW3GdGHB2KZ2hXlNibW2borg",
         "content": "Eine App, die ausdr\u00fccklich nicht zur Erfassung von Bewegungsprofilen gedacht ist, aber gleich als Erstes auf den Standort zugreifen will! Ein Corona Symptom Check, bei dem u.a. Alter und Dauer der Schulbildung abgefragt wird! Echt jetzt?! Einziger Sinn und Zweck der App ist scheinbar Daten anzugreifen. Ansonsten allgemeine Infos, die man auch ohne Installation einer App erhalten kann. Bleibt zu hoffen, dass f\u00fcr diese \u00fcberfl\u00fcssige App nicht auch noch unsere Steuergelder verbrannt wurden!",
         "score": 1,
-        "thumbsUpCount": 302,
+        "thumbsUpCount": 303,
         "reviewCreatedVersion": "1.1",
         "at": "2020-06-13 08:43:39",
         "replyContent": "Lb. Mari, alles aus Eigenmitteln, alles anonym. Standortinformation erfassen wir nur vergr\u00f6bert, d.h. mit 11 km-Genauigkeit, und nur, wenn User zustimmen. Wir wollen f\u00fcr Symptome u. Bewertung der Pr\u00e4ventions-Tipps regionale Unterschiede untersuchen, z.B. zw. L\u00e4ndern, Bezirken o. Landkreisen. Altersunterschiede interessieren uns nur in 10er-Kateg.",

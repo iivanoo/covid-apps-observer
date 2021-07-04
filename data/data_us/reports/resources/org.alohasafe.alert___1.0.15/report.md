@@ -140,6 +140,8 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="org.alohasafe.alert 5 reviews"/>
 </p>
 
+> Gratitude for help<br> :date: __2021-07-03 07:18:19__
+
 > Take Dam Let Use<br> :date: __2021-06-25 16:54:52__
 
 > It didn't dectect any virus so far.<br> :date: __2021-06-25 07:41:40__
@@ -157,8 +159,6 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 > Good<br> :date: __2021-03-05 19:33:27__
 
 > Keeps me in peace of mind.<br> :date: __2021-03-02 03:43:03__
-
-> Awesome.<br> :date: __2021-02-28 04:21:59__
 
 
 
@@ -230,6 +230,14 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
 
+> It requires Bluetooth to be on so it completely drains my phone battery.<br> :date: __2021-07-03 04:06:47__
+
+> I dont remember downloading these...<br> :date: __2021-07-03 03:58:26__
+
+> Can't get it on my phone, or I don't know I have it. It's difficult being old. Is there an icon?<br> :date: __2021-07-03 00:05:15__
+
+> Crashes when you open it<br> :date: __2021-07-01 16:09:27__
+
 > Asinine that a government is mandating a third-party program that tracks health data. Irresponsible and ineffective. This demonstrates a clear lack of understanding of viral transmission.<br> :date: __2021-05-17 17:41:28__
 
 > Waste of state funds<br> :date: __2021-05-14 19:21:06__
@@ -241,13 +249,5 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 > I cant get it to open.<br> :date: __2021-03-30 20:29:43__
 
 > Stupid<br> :date: __2021-02-03 18:15:43__
-
-> Hope it works doesent sound great. Tbh<br> :date: __2021-01-29 19:42:46__
-
-> Force install?!? Goodbye, deleted..<br> :date: __2021-01-29 15:21:42__
-
-> unconstitutional mandatory download of app. infringement of rights. state of hawaii gov will be sued over this. developers of app should be ashamed of themselves.<br> :date: __2021-01-27 23:04:21__
-
-> Horrible. Forced installed. UNSAFE!!!! UNINSTALLED!!! BEWARE<br> :date: __2021-01-24 10:32:51__
 
 

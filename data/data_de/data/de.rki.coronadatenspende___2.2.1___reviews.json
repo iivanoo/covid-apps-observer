@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOHi46HPb9yooDxUxpTDwh0md3S6MQyHkBjK1DYkBCeBnLyouMnuF5nZ7XCKpUWaWa3UIg74h-vmvZkbyOU",
+        "userName": "Stephan M\u00fchlstrasser",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggc8gayHoWdizPbIrCB3bEib4yEtlw3mA7-Q7cNncUpmA",
+        "content": "Login in Google funktioniert nicht. Wenn man versucht, den Benutzernamen \u00fcber die Bildschirmtastatur einzugeben, passiert nichts.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.1",
+        "at": "2021-07-03 09:39:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHnaKMROnGr-7Cm3KqPvuhvtOgxmmVQd8DWuRBH6920LTBDflMgjTIzY08YeWwgFWEBw-Wjde2JsZiOC8w",
+        "userName": "Stefan Benda",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjsu90R3Od4O3R4G2M2idiEgH4Lk46ZQnz0ScuYQA",
+        "content": "Super Idee, l\u00e4uft leider auch nach \u00fcber 400 Tagen nicht mit Huawei Health. Schade vermutlich sind die Daten nicht wichtig.",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "2.2.1",
+        "at": "2021-06-29 12:57:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEI0aS0RWOCasG7q3FKm45_5wNyUyZQf9L6EhaNEgMgqJodgIa7IqAjEMDezxHRMI4YzGQAtXqzJpS_CFU",
         "userName": "Markus Hel",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNFTjuiUkYNPPX8hZu16wQZAchixYI3noF5lEvA0g",
@@ -233,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitWcSZ7MGya0ag3te_7A9uCl4SWA7THmjkwI1BoQ",
         "content": "Samsung Health fehlt bisher. Auf Nachfrage sollen auch Samsunguhren demn\u00e4chst m\u00f6glich sein. Nach 6 Wochen wird immer noch keine Samsung Smartwatch unterst\u00fctzt. Viren sind schneller... Samsung Health funktioniert und App werkelt im Hintergrund.",
         "score": 3,
-        "thumbsUpCount": 37,
+        "thumbsUpCount": 40,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-05-03 07:53:55",
         "replyContent": null,
@@ -257,7 +281,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw-v-FhGBYrCiTnEw90w4iRlKI0sh-6k9fM6eDg=mo",
         "content": "Die App ist v\u00f6llig wertlos. Erst nach der Installation erfuhr ich, dass die App nur mit Datenarmband etc. funktioniert. Man kann nirgendwo manuell Daten eingeben. Also v\u00f6lliger Datenschrott.",
         "score": 1,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-04-24 11:18:29",
         "replyContent": null,
@@ -305,7 +329,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSdY3Y6DefE28XFdnVVkBpR5x8F99sAPCb9Mm6",
         "content": "Schade, gute Idee! Ich habe die App sofort installiert. Leider ist auch nach dem Update die Samsung Fitness App noch immer nicht dabei.....und ich glaube das liegt bestimmt nicht an Samsung. Ein wenig warte ich noch...nun nach einem Jahr wird neu installiert. Nun geht es auch mit Samsung",
         "score": 4,
-        "thumbsUpCount": 21,
+        "thumbsUpCount": 28,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-04-22 10:39:34",
         "replyContent": null,
@@ -313,7 +337,7 @@
     },
     {
         "reviewId": "gp:AOqpTOG9_iiNaxw3JTjhmkFRWCC-rXnev5s4hi4JvbrZPV4i8zvadAp4gB1nNeRkWXGhZeGc6YvcD208Cwp9DRc",
-        "userName": "F\u00fcr Mich",
+        "userName": "EW M\u00dc",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwXRen4G3LVP8av27BhECTxghhZGriIN6_9a1kGiA=mo",
         "content": "kann neue version2. 0 nicht installieren",
         "score": 1,
@@ -569,7 +593,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhttlYiP0UfSXw_n9UnBd86F2RxtZ0t8JQ6ES75rg",
         "content": "Die App funktioniert anscheinend... Ist allerdings nur eine Annahme, weil man nicht viel Feedback \u00fcber die Auswertung der Daten bekommt. Die angezeigte Fieberkurve ist leider nicht wirklich aufschlussreich. Ich w\u00fcrde mir w\u00fcnschen mehr Einsicht \u00fcber die Resultate der Datenspende zu bekommen. Eine Landkarte mit \u00f6rtlicher Auswertung, Korrelation mit tats\u00e4chlichen Covid Statistiken, usw. Da diese Daten sicherlich alle existieren sollte es kein Hexenwerk sein, diese auch innerhalb der App zu zeigen.",
         "score": 3,
-        "thumbsUpCount": 65,
+        "thumbsUpCount": 67,
         "reviewCreatedVersion": "2.2.1",
         "at": "2021-02-19 12:03:34",
         "replyContent": null,
@@ -2306,7 +2330,7 @@
     {
         "reviewId": "gp:AOqpTOHpGwwhad9YyyvzB4c3FLCbIz-QZZPPpJgSqaLP7eYR7si2FQi2O1pMJtMUbcmRvM4AavGtQsK-4RYXPsk",
         "userName": "Ajo Ludwigs",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwBYuXT5M808jGNiD9g6YwDKHJosgXpIaXSKRYl=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjEz-WDTlcBCrp2olC7ozGVK6BnuzQEb1z0h0E88Q",
         "content": "Lief lange Zeit gut (5 Sterne). Nach irgendeinem automatischen Update h\u00e4tte ich mich neu anmelden m\u00fcssen. Bekam leider keine Info und seit dem werden keine Daten mehr gesammelt. App wird deinstalliert!",
         "score": 1,
         "thumbsUpCount": 2,
@@ -5414,7 +5438,7 @@
     {
         "reviewId": "gp:AOqpTOHuuEyyUOczAflQEd2XV0l77VMJqnKKZ-YgzsHezLDUXOeaPMYQCb7Y-Ic2v_nXBq1BQW1FtSKgCWztLMk",
         "userName": "L\u00e9on Klein",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgqnllKxn212DASrKWBWOYA5R8m73CjxhY4kPKAaA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjhOk9bnjRnSz_dreB4KFa9CQIry3Zwtl1_g4eE7Q",
         "content": "Fake App. Die echte kommt noch",
         "score": 1,
         "thumbsUpCount": 1,
@@ -5641,7 +5665,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFesS9LSAK29tBkYQxHrVzHw6a2jIjgJ7rILM1jhBSDLjqPg2iGthuRNWtwp8I7Sz6p-nn4AbY8DGgNM0s",
-        "userName": "Marion Persky",
+        "userName": "M P",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyumKbslUmi6vLa79Q6BCK-HJV5OT-9mhibSAQC=mo",
         "content": "L\u00e4sst sich nicht mit dem Mii Band verbinden nur \u00fcber den Umweg \u00fcber Google Fit",
         "score": 1,
@@ -10286,7 +10310,7 @@
     {
         "reviewId": "gp:AOqpTOEEnEGcNnqq2oZxIMLU2g40cThFkreO834URP0xESTXsIsl03wv9c5UCc3YIgqVATGRgrmr4UCOEbtf2xA",
         "userName": "Tzutzumo",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzfSZOS162wVN67Mdt1Atfs0E_o6I9lBkPNjLHi=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7Q8L8H9IpR-U8OjgcdYcrV0pudhyORiRfU5dj",
         "content": "Mi Band 4 muss mit Google Fit verbunden werden in der Mi Fit App. Generell halte ich es f\u00fcr keine gute Idee, solch eine App von Wearables abh\u00e4ngig zu machen, wo kaum einer sowas besitzt. In meinem Verwandten- Bekannten- und Freundeskreis bin ich zBsp. der Einzige. Es ist halt Deutschland und nicht China. Bei uns kann man schon froh sein flottes Internet zu haben. Ansonsten ist die App gut gemacht. \u00dcbersichtlich und einfach.",
         "score": 3,
         "thumbsUpCount": 16,
@@ -11048,18 +11072,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.8",
         "at": "2020-05-01 17:14:48",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHccCLlz6XWdos7CbihOjeHa5NoatMVDSFDVNG7k8QLUnRTEAY2CIN3Xq4AX2WsrhGl-HJjGt_rfMZvgww",
-        "userName": "Christoph Backhausen",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwp8SJt5sPMRxSrA6mFTJwxUttW2H8wWh4NNgSj=mo",
-        "content": "Edit: Funktioniert seit mittlerweile 11 Tagen einwandfrei. Keine Ahnung, ob die App jetzt \u00fcberhaupt funktioniert. Ich nutze eine Garmin Fenix 6x. Auf meinem Huawei P30 pro stand der Z\u00e4hler tagelang auf 0. Dann hab ich die App stattdessen auf meinem Samsung Tablet installiert. Der Z\u00e4hler funktionierte 2 Tage lang, steht jetzt aber wieder seit ein paar Tagen auf 0.",
-        "score": 4,
-        "thumbsUpCount": 12,
-        "reviewCreatedVersion": "1.0.8",
-        "at": "2020-05-01 17:02:00",
         "replyContent": null,
         "repliedAt": null
     },
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.8",
         "at": "2020-04-28 14:04:49",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGV0ukD0-pH7Jfs0B2FyPyyZO2a16hbnm4VdRePRRd7i5PcT8sjeV40VCE858ogzS50k6r05cMkne7Fev0",
-        "userName": "Adrian Tietjen",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxrfYnkBYrIwjwLnO2LvlO0-0wBQyhxnCNT5uoI=mo",
-        "content": "Ansich eine gute App, allerdings noch zu geringe Kompatibilit\u00e4t. Ich habe seine Galaxy Aktiv 2 und kann mich daher nur \u00fcber Google Fit verbinden. Meine Smartwatch kann sich jedoch nicht mit Google Fit verbinden. Ich f\u00e4nde es sch\u00f6n, wenn weitere gro\u00dfe Hersteller wie Samsung und Apple direkt unterst\u00fctzt werden.",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "1.0.8",
-        "at": "2020-04-28 13:56:36",
         "replyContent": null,
         "repliedAt": null
     }

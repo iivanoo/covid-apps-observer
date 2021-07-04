@@ -1,5 +1,89 @@
 [
     {
+        "reviewId": "gp:AOqpTOFo6XP6dlKaJKl8tOWEMBne4Vh7_D8KBg08po-BzTxDpcFHsEeT6To-2DPqx6GdS-39k67u-ZiUTE4mgoQ",
+        "userName": "Lena",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-gtFKI0mQTDNlL2HtuSukgrXhpeglX2P3vL1Iw-Y",
+        "content": "Bureaucratic app, medical information automatically generated from Not real life person. Fails to book appointment to my GP practice, makes accessing poor NHS service even harder.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-07-03 11:47:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFkWjkp_bLTawiY10fisD41cBZFwFD3vRc4Hk_A7aHtEDiRQJq4sl_ymxpNMGk4NG9S4ofWjUMdSVWAkAw",
+        "userName": "Denise Kelly",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJydibAxnixgMYN1ZZjwWsfsr0kvJrHBUEew4xCb=mo",
+        "content": "Very helpful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-07-02 20:10:07",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG-HH2z5GaiWQE35AfaVGYdWgPIuRwov5AKeQMpr7zr_MJwccHH_kj6fB_G16RQFuqvVCcZ8qqp92szqkc",
+        "userName": "Oliver",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwhCr1fT0DvbEw0rYcOT2xv_zagB0LudZURjTMr=mo",
+        "content": "It's very annoying that GP appointments are now split across 3 different apps/websites. There should be a central pool of appointments that you can book through any method rather than having to check in 3 different places.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-07-02 15:33:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHQ2rGtmgkWYIVbnfLzCarQUYaUEE8-PZCGpwKb-jHmxuhbi0OyA9SGzvrqmyaKiUF0qGWXyyHX4QPXc9w",
+        "userName": "Redis Zaliauskas",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz-DEZBr_RWUCSWM05mon2OAugQ2k4eAVgUQzC_=mo",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-07-01 09:38:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEhEV5FERSpvivKoVNoSdCZ0S1Ub7xqbVbmAP4JJ8uRwae0W5FMrXEN3ovlhlgQ_DdXcMRzTrUNAH0Zwhc",
+        "userName": "Hellcat Jay",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIsfdDwHclzwAMmiCAtfeMJ5m-FNrhprdIMDUjVA",
+        "content": "Decent app as you can book an appointment with the doctor through it-if your symptoms suggest that's what you need (in my case, a telephone appointment initially). The app acts like NHS 111 but easier. I don't particularly like the 'uncanny valley' CGI assistant lady - I would prefer just the questions to pop up, I don't need them to be spoken to me by a fake human...though it does allow me to access services so that's the main thing. You cannot rearrange or cancel appointments through this app",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-06-29 22:14:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFuJjp8SFNgB1GECwma-ZwHGe7-mIw6CGeOUpS5aws4rP5AGeb9msjOFubwAk6CiowZPTJh1_X3PpfgRMg",
+        "userName": "Mumtaz Begum",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwTqZ8NovvLWvHREuoMYCr0Z0q7ujiEbJkqonnl=mo",
+        "content": "Quick and easy",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-06-29 13:09:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFPH-hLC1REHNDpF7M9KJeDIGUUm4ibn146BXt0xffNhw49EPOtsmCEcMQT4LanCEopWPps7e22BU9m5tI",
+        "userName": "Stephen Holdsworth",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDH7ZiyVa9cqnRLkHOqnV0bSvNP8M_zjsP14yB=mo",
+        "content": "Good to have it has all you need to know",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.9.1",
+        "at": "2021-06-28 11:13:34",
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-28 20:01:39"
+    },
+    {
         "reviewId": "gp:AOqpTOF_Ozh94HVz2hkKMNP9nP7VYvDHW09KvzEUhxm2eLjWuMJLwz8VHb8gODoAXO1EoOuMTDAiqHKFB_kfXCg",
         "userName": "Angela Elderton",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw6PF-xR5508_4x026KG3vgY7HXGfBF-lb1D2FL=mo",
@@ -8,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-06-27 22:29:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks a lot for your rating :)",
+        "repliedAt": "2021-06-28 20:01:52"
     },
     {
         "reviewId": "gp:AOqpTOER1wst7Juc-0cRd2VPT88BDZxev_jOEe7NsocU2zlQ4kkOuBSihZFHFw_yKJopeEK3XUrCVSpJIQXINGk",
@@ -20,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-27 18:15:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@asknhs.co.uk!\nHave a wonderful day!",
+        "repliedAt": "2021-06-28 20:02:05"
     },
     {
         "reviewId": "gp:AOqpTOER-rFz4PZGvT5wmKayBC0ejufftsbGI1U1-i1YctbO6YGB3BQxKIIn11qSz1lFbI2XNAiIRytmeAQwdrg",
@@ -32,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-06-26 12:06:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for your feedback! We are always looking at how to improve the experience. We are interested in making our app work inside other NHS apps - feel free to request this here: https://www.nhs.uk/contact-us/nhs-app-contact-us/ - Thank you!",
+        "repliedAt": "2021-06-28 20:04:56"
     },
     {
         "reviewId": "gp:AOqpTOHrpz1l2EAmFtD_rw3vlhKBSrB0qhh-ITjosVrxD3bIe6ZRyDZj5JChrhrWZr4M-T4vkewYdXukvhe0wgE",
@@ -44,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-06-25 11:26:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "We are pleased that you enjoyed the app. If there is anything we can do for you, just let us know at support@asknhs.co.uk!\nHave a wonderful day!",
+        "repliedAt": "2021-06-28 20:05:03"
     },
     {
         "reviewId": "gp:AOqpTOGT0aZ-oAcbT_amzXG0SEFfhrlAKdlUE7T4CXdV6KqmD3Cwrq2QOit1hHkD3Tlo-mPGOGMEe4MfuyLpqkc",
@@ -77,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhmkEGrjbfba8FbsxppeZ7AT_DftllHzW3Rv9gfw",
         "content": "I can't rate or recommend this app unfortunately. None of the hospitals, doctors or pharmacies in my town, or indeed the entire region are participating, save four. There are four participating services in my area (all pharmacies) and the nearest one is 14 miles away. No hospitals, dentists or doctors are displayed for the entire North East! The app is therefore useless and no substitute for 111 or the NHS app or website.",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-06-21 01:16:15",
         "replyContent": null,
@@ -137,7 +221,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz8uOlo4IMXeU23uJ_X7MewPTkikdfyxaRKhuw6Fg=mo",
         "content": "Difficult to have multiple accounts if you need to use this for children. I had to get my husband to register as my child to get him an appointment",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-06-16 09:36:39",
         "replyContent": null,
@@ -221,7 +305,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy8rYTY1ny9w-vsA_SgRIomoxfHNnCItpEy9KvJ=mo",
         "content": "Only given one star at the moment as just used app for first time, I must say though the app organised a telephone consultation with the doctor in about 5 mins of giving symptoms app found 3 different appointment times with my doctor, If I were to phone receptionist in the morning as soon as they plug the phone in, I would probably be waiting a good half hour for them to even consider answering a muted phone will see if doctor calls in the morning",
         "score": 4,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "3.9.1",
         "at": "2021-06-09 22:32:32",
         "replyContent": "Hello - thank you for taking the time to review Ask NHS. We're glad to hear that we were able to save you a half hour waiting on the phone. If you could take the time to update your review to five stars so that other users can find the app and have the same experience, we would really appreciate it! Feel free to contact us at support@asknhs.co.uk.",
@@ -5894,7 +5978,7 @@
     {
         "reviewId": "gp:AOqpTOEixOCcYWhW35mrBJBs79e9MABXVsx4IcJ_Ic8euWCV4bF4pL-fAda-qImP9A1fkwqTz1-tDWquvrJA6N0",
         "userName": "Mandy Speake",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjPv9pNEM-sVOZqMP1I69Ep_C3syqdNYiyrpEFAEQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghjtpxg6uYwM1-S6rnIVRZwONxzrd8C0ekeVkUwQA",
         "content": "Why can't you log in with Facebook",
         "score": 2,
         "thumbsUpCount": 0,
@@ -11914,89 +11998,5 @@
         "at": "2018-06-08 00:40:47",
         "replyContent": "Hello,\n\nWe appreciate you taking the time to investigate the issue. Unfortunately, our responses aren't generic - we are in fact working on resolving this issue, but it is taking longer than expected. We hope you will give the Ask NHS app a try again in the future.\n\nKind Regards,\n\nAsk NHS Support\nsupport@asknhs.co.uk",
         "repliedAt": "2018-06-12 04:40:53"
-    },
-    {
-        "reviewId": "gp:AOqpTOHEW1tgkFPkZEmmQTq75tvwthv5N-pP_jXgFrmPvUrlOccZ3i-rDuh9SJ4bEchVt3jOPayHEPgpgd2uX2o",
-        "userName": "Gemma Louise",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJypIwkBwGQqYqXkvoPzXiaSEor5-H1-nZvDntXg=mo",
-        "content": "This app is good helped me alot",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-06-08 00:23:59",
-        "replyContent": "Gemma,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-06-11 23:11:27"
-    },
-    {
-        "reviewId": "gp:AOqpTOFFRQ2G5c7HmUpvgAm7EaMCvIHxVVAHgZ4968pnbm6Vy-0ptc0Gl-yb7-O10bS80m8r27GNhW30GSMSb_A",
-        "userName": "Rachel Burton",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwrY6Ndps1Ahj5xuG2LRKNtwmew--5oN6SObkiq=mo",
-        "content": "Very convenient and easy to use.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-06-07 12:03:07",
-        "replyContent": "Rachel,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-06-11 23:11:41"
-    },
-    {
-        "reviewId": "gp:AOqpTOHBjRa1ZubpIJAK7V7niTOZ6PrX9aMVKGWwZUdbgvpJfD9sOe2dGlY37EE7hb_RdmG1q7tQr9OQ7EJajEk",
-        "userName": "nigel caine",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyEnoZy7V8x0PI2d_B9NKHozHhfKiNDKQT5-GXU=mo",
-        "content": "Brilliant",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-06-06 20:36:28",
-        "replyContent": "Nigel,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-06-11 23:10:48"
-    },
-    {
-        "reviewId": "gp:AOqpTOG94zJjhA7gVUzfd2pdBVoLWM3c6bDODFrs42L2bguwoMZzc9dxKYd4LsmnknwEYu7H0lzhbdgVPqpswyA",
-        "userName": "Michelle Cavanagh",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjcRaRiBFosjsTSLjtQK4_puSI8sPpJDmP2P85w",
-        "content": "Good app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-06-05 22:58:56",
-        "replyContent": "Michelle,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-06-11 23:10:59"
-    },
-    {
-        "reviewId": "gp:AOqpTOFY91bt1Tp5ACwz3NrwvPH71dvPwzhWlW7hxyd4-EHRyqx5X1rae1jjvXPaH7vZjdNt0R2RyteupNSp08Q",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "A good app to have on your phone",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-06-05 12:05:23",
-        "replyContent": "Hello,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-06-11 23:11:15"
-    },
-    {
-        "reviewId": "gp:AOqpTOGa7mLai4E9TO_l1c9f6UooFmWJq_zInUbLAbIOZItnpLZbCtDQq2zcJR0PL8sUAa1vQVzXuuxQHFugakY",
-        "userName": "Jozilea Faulkner",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYpec-vzj0q1Sghgoit4v_kyZkMhAnjmhfeG0OHg",
-        "content": "It does the job although not very well. As previous posters have said the \nkeyboard doesn't come up when trying to type. I got around this by holding \ndown until the paste option came up and that worked... It took about 15-20 \nminutes to go through the symptom checker because it was slow and glitchy. \nSometimes I wouldn't receive a response and would have to click my answer \nagain a few times for it to connect. Also, fyi, your animated nurse is very \ncreepy and not at all calm and reassuring as it should be for an app of \nthis nature. My gp isn't connected for appointment booking and it would be \nhelpful if in the event of this being the case then being given information \non how to ask your surgery to link to this app would be good. In the end my \nsymptom checker was left with \"call 111\" which I didn't want to do, hense \ntrying this service. It's an uncomfortable wait until morning for me.",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-06-05 00:22:43",
-        "replyContent": "Hello Jozi,\n\n\nYour feedback was invaluable in locating the keyboard error. We are pleased to inform you that we have released an update to the Ask NHS app that addresses the issue. Please visit the Play Store to download the update. We hope you will give the Ask NHS app a try again.\n\nBest Regards,\n\n\nThe Ask NHS Team\n\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-08-09 21:05:24"
-    },
-    {
-        "reviewId": "gp:AOqpTOEDvFvJ8ruZdX5JFyl2UcK56rkBBTVkDSfI97iFFnzZVjDEfyYE1lPLVuBqe2eLZC2BhddMxmUwD7RJreM",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Used many times. With no problems. Has been extremely useful. Saves calling \n111.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-06-04 18:04:41",
-        "replyContent": "Hello,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\n\u2028\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-06-04 19:36:41"
     }
 ]

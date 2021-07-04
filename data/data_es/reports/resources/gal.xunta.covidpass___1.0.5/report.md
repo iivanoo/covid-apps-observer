@@ -187,6 +187,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Facil<br> :date: __2021-07-02 12:04:49__
+
 > Muy útil. Para poder estar informado.<br> :date: __2021-06-23 20:52:58__
 
 > Trabajan muy bien<br> :date: __2021-06-22 18:13:07__
@@ -204,8 +206,6 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 > Quiero protejerme espero que me sirba de algo<br> :date: __2021-02-08 19:41:42__
 
 > Muy buena<br> :date: __2021-01-23 10:05:27__
-
-> Muy buena y útil si vives en Galicia. Lo que más me ha gustado es que están bien explicadas y organizadas las restricciones por concello con datos actualizados y oficiales de la propia Xunta. No hay información más actualizada y veraz que esta. Además si tu resultado es positivo aquí te mostrará tu código para introducir en Radar Covid, a parte de hacer listas con contactos estrechos o declarar un contacto de riesgo para que te hagan la prueba entre otras funciones. Muy buena.<br> :date: __2021-01-07 22:08:33__
 
 
 
@@ -289,6 +289,10 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> Soy funcionario de muface, tengo chave365 y dni electronico, pero siempre que accedo me dice, no disponible, intentelo más tarde. Si la vacuna corresponde al sergas, que menos que me deje descargar el certificado. Por cierto en E-Saude tampoco me deja entrar. Me dice que soy un usuario no autorizado??? Vamos que tengo las 2 vacunas, me voy de viaje y no puedo obtener el certificado. Desinstalando.<br> :date: __2021-07-02 01:26:26__
+
+> No tiene donde poner tus datos para que te reconozca si estás o no vacunado.... Una pérdida de tiempo...<br> :date: __2021-07-01 10:13:56__
+
 > De las peores aplicaciones que he visto, siempre da el mismo mensaje intentelo mas tarde, penosa<br> :date: __2021-06-19 11:13:43__
 
 > Una chapuza, no sirve para nada, ni siquiera para obtener el certificado de vacunacion.<br> :date: __2021-05-28 21:52:11__
@@ -304,9 +308,5 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 > Le daría un 5 si no fallase en lo básico que es mantener correctamente actualizadas las restricciones. En el caso de reuniones entre no convivientes en domicilios la información contradice al DOG, específica "Só conviventes en espacios privados" cuando desde este sábado quedó restaurada esta restricción limitando a 4 personas en espacios cerrados sean públicos o privados. Es bastante problemático estar actualizado con todos los cambios que se producen como para generar más confusión con la app.<br> :date: __2021-04-12 07:56:58__
 
 > Tras a última actualización non funciona o lector QR (quedase en negro) Teléfono PocoX3. A aplicación ten permiso de acceso a cámara. Tendes algunha solución?<br> :date: __2021-04-04 11:35:37__
-
-> De verdad? En estos momentos informa que esperes.<br> :date: __2021-03-31 14:35:16__
-
-> Non podes escanear o qr en sitios sin cobertura, un acceso directo para escanear o qr non viña mal. Para buscar un concello hai que pasar toda a lista.<br> :date: __2021-03-31 04:36:38__
 
 

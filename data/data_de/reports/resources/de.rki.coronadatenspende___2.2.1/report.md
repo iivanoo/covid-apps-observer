@@ -169,6 +169,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 4 reviews"/>
 </p>
 
+> Login in Google funktioniert nicht. Wenn man versucht, den Benutzernamen über die Bildschirmtastatur einzugeben, passiert nichts.<br> :date: __2021-07-03 09:39:05__
+
 > Schade, gute Idee! Ich habe die App sofort installiert. Leider ist auch nach dem Update die Samsung Fitness App noch immer nicht dabei.....und ich glaube das liegt bestimmt nicht an Samsung. Ein wenig warte ich noch...nun nach einem Jahr wird neu installiert. Nun geht es auch mit Samsung<br> :date: __2021-04-22 10:39:34__
 
 > Die App muss einfach Effektiver werden. Ja, ich bin für Datenschutz, aber bin der Meinung das dieser auch unter solchen Umständen Grenzen haben muss.<br> :date: __2021-01-31 14:46:39__
@@ -186,8 +188,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Ich gebe erstmal nur 4 Sterne, weil ich die Idee oder den Hintergrund ansich sehr gut finde. Ich möchte auch sehr gerne helfen. Leider habe ich mein Band (Honor Band 5-e28) nicht gefunden. Ich hoffe, das mein Band bald dabei ist. Dann gibt es auch den 5. Stern. Bleibt alle gesund! Nach 7 Monaten.... Von Ende April bis Ende November ist es noch immer nicht möglich, Huawei zu wählen. Sehr schade, da diese Marke ja doch von vielen genutzt wird.<br> :date: __2020-11-30 18:13:48__
 
 > Gute Einsichten in die Forschungsergebnisse. Aber jetzt bekomme ich eine neue Uhr, die ich hier nicht auswählen kann um weiter teilzunehmen.<br> :date: __2020-11-29 11:18:53__
-
-> Installiert vor 3 Tagen, verbunden mit POLAR. Datenspende 0 Tage? Edit am 14.11.20: endlich werden die gesendeten Tage angezeigt.<br> :date: __2020-11-14 08:12:25__
 
 
 
@@ -253,6 +253,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
 
+> Super Idee, läuft leider auch nach über 400 Tagen nicht mit Huawei Health. Schade vermutlich sind die Daten nicht wichtig.<br> :date: __2021-06-29 12:57:04__
+
 > Mi Fit ?? Nicht verfügbar...<br> :date: __2021-06-11 21:52:35__
 
 > Huawei wird leider nicht unterstützt<br> :date: __2021-06-11 13:32:56__
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > Leider kann ich meine Mi fit nicht damit verbinden.<br> :date: __2021-05-19 19:28:43__
 
 > Ich kann noch keine Bewertung abgeben, da ich Samsung Health nicht damit verbinden kann. Es wird mir immer gemeldet, dass ich keine Berechtigungen zwischen den beiden Apps freigeben kann. Bitte löst das Problem! Android 11<br> :date: __2021-05-14 10:25:07__
-
-> Kann ich nicht nutzen mit MiFit also wieder gelöscht, hätte gerne geholfen aber App unterstützt nicht meine Uhr.<br> :date: __2021-04-24 13:37:27__
 
 

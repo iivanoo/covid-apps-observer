@@ -1,15 +1,87 @@
 [
     {
+        "reviewId": "gp:AOqpTOEODWJ-Vksid7eJM57EX6zQirxE-T6-yD55jyJSsy0szsfz5RQgJ-eOX29YKhjYh4QAX6X1uuVIvYyibg",
+        "userName": "Marta",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyRRCQaZnT7Km7YWEl8QTpJpXRF3_eFwbxGAjMG=mo",
+        "content": "Estar\u00eda bien poder ver tus recibos y el estado de los mismos de las cuotas del seguro",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.1",
+        "at": "2021-07-02 11:10:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGpsB6Z0FXpXeaBN5x3YJMoUPtIvS0XcwopU8fPrf5sSjKKFH88RGchD0ENisBj0NWd55piGeq4bzLOhg",
+        "userName": "MARTA FERRER",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzALsKl7h1vqQ6HrjIxL2qty01nQDD7QeT72ihD=mo",
+        "content": "Muy c\u00f3modo y pr\u00e1ctica y puedes tener tu gesti\u00f3n m\u00e9dica organizada. Te contestan enseguida y te dan una soluci\u00f3n al instante.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-07-01 16:50:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEr7-CR1BzsLcV1o8xIiRnDjPL-2-bdpCd2bP0yjUEOAy5io9KhNpn2OlUvtRThZP6NjUskDf-kZBgNsw",
+        "userName": "nik nikel",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzoa-WoOdtHG11ms7kI5MK1AQRVblrNpN44aCnZ=mo",
+        "content": "La app se cierra sola :(",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-30 10:08:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHr31FGDs7fx-o7FTWoG2yxt0wD85S-u9ItnCOFaAAR7glJoQQ_n7l93LbXxm19JQ9Ro9IAeKhhw4mMqg",
+        "userName": "Fabiana Masetti",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GizzoRGjo4i9TvUOesTf1M1LG8HTk1D-0BNY9FKruQ",
+        "content": "Funciona regular",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.9",
+        "at": "2021-06-29 23:25:16",
+        "replyContent": "Hola Fabiana, est\u00e1s usando una versi\u00f3n antigua de la aplicaci\u00f3n. Por favor, actual\u00edzala y vuelve a probar, si a\u00fan as\u00ed diese problemas, puedes contactarnos en soporte@dkvservicios.com. Gracias",
+        "repliedAt": "2021-07-02 17:41:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOF1uXCgxsTrZY5Lysd3711yTOSWt0WGXXqyL5lfZAjXLTBtUZYcTpvzLrVdScHv579hR_rHHMgBe9PHBQ",
+        "userName": "Javier Cifuentes",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjg1-LbgjlGX5H4lw9wHOv2BRPZS0GeU8_7VI4MyA",
+        "content": "Bueno pero se desconecta de vez en cuando del servidor.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-06-29 10:53:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGosT4Inf34iNdeRYVLQ1_6d2sTMRT9TkZJThOsh1-CTE5kKzMCoeyT_EMQVMqiHH0ik6xCP1n8FnW2TA",
+        "userName": "Francisco Ramos",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgxgpkVOZ_s-ubFRXMlghfcwi94A1ipHDAQteWqQg",
+        "content": "Bien. Los temas dermatol\u00f3gicos on line tiene sus limitaciones.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.6",
+        "at": "2021-06-28 15:24:13",
+        "replyContent": "Muchas gracias Francisco, tomamos nota de tu comentario, ya que estamos trabajando en opciones de mejora para dermatolog\u00eda. Si quieres dejarnos m\u00e1s sugerencias puedes hacerlo en soporte@dkvservicios.com. Un saludo.",
+        "repliedAt": "2021-07-02 17:42:41"
+    },
+    {
         "reviewId": "gp:AOqpTOEMmN8WTbu1JQZb2zwOolBMFWB99QX3ADmTo1B1RUhsrde_7AOxH1f1ZB-p62MoeuD39CxLVCQxEsj_fw",
         "userName": "Killuki Zaoldyeck",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghg1f8pvxaSy6wkBn_ZY8IDReE1Mzi6EJ14lr9pLA",
         "content": "Un poco inestable, y una pega, si no quiero valorar en google play y doy a la flecha hacia atr\u00e1s, es para volver a Inicio, no para volver a abrir el chat y volver a molestar al doctor/a. Por otro lado, lo que m\u00e1s me gusta es la consulta super r\u00e1pida por chat con los m\u00e9dicos, me indican bien a qu\u00e9 especialidad acudir, mil veces mejor que la doctora de pacotilla de la seguridad social. Adem\u00e1s, es un chat 24/7, no puede ser mejor. Bueno s\u00ed, indicar en detalle las especialidades que cubre mi p\u00f3liza",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.3.6",
         "at": "2021-06-25 23:58:08",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Muchas gracias por tu comentario Killuki. Tomamos nota para mejorar la aplicaci\u00f3n, pero nos alegramos de que la encuentres de utilidad. Si pudieras darnos m\u00e1s detalles sobre cu\u00e1ndo has sufrido inestabilidad o m\u00e1s sugerencias de mejora, escr\u00edbenos a soporte@dkvservicios.com. Un saludo",
+        "repliedAt": "2021-07-02 17:43:39"
     },
     {
         "reviewId": "gp:AOqpTOH0qm9ITWHTZQCjf_Qiovx3m6ELogZgzzZCx9jO0w0oEqikPdV8KyLKDdqMact7mNhHjU2zkArggEAv5A",
@@ -20,8 +92,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.3.6",
         "at": "2021-06-22 06:16:46",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hola Mar\u00eda, lamentamos que hayas tenido este problema. Por favor, escr\u00edbenos a soporte@dkvservicios.com indic\u00e1ndonos tus datos de usuario para poder evaluar qu\u00e9 ha podido ocurrir. Muchas gracias.",
+        "repliedAt": "2021-06-30 09:37:48"
     },
     {
         "reviewId": "gp:AOqpTOG2F-eTwheS1CbqeiLPJVEqEO9GFI_qWGC9Ja_DtsmBNAchIkFPIq9b4l2vM66AiN4QRpUtQwjGpS2b3A",
@@ -41,7 +113,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gigo7sBWb7XTbUlNWe4s0d5LZJ2FTEqKk3o8JaL",
         "content": "Fue muy buena la consulta virtual, muy aclaratoria y continuar\u00e9 con pruebas sugeridas por la Dra. para tener seguimiento de mi mejora posteriormente.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.3.6",
         "at": "2021-06-17 11:23:38",
         "replyContent": "Hola Mar\u00eda!! Muchas gracias por tu comentario. Nos alegra mucho saber que est\u00e1s contento con el servicio prestado por nuestra aplicaci\u00f3n y nuestros profesionales m\u00e9dicos. Un saludo!!",
@@ -137,7 +209,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0RojsfOmfwawLgYZOkp7VSB2SHp_E2E7ZlrB7=mo",
         "content": "La aplicaci\u00f3n tiene muchos usos, est\u00e1 muy bien planificado pero cuando uno est\u00e1 en las citas m\u00e9dicas las llamadas se cortan, esta es la 2vez que me pasa y no es problema de mi Internet, porque justo para evitar esa situaci\u00f3n tengo el m\u00f3dem a mi lado literalmente a mi lado, luego sale conectando por buen rato, voy a la carpeta m\u00e9dica y el m\u00e9dico pone que me ha llamado 3 veces y que no he contestado y yo en shock, porque el sms que sale es que \"el profesional a terminado la llamada. Entonces???",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.3.1",
         "at": "2021-06-01 17:47:08",
         "replyContent": "Hola Mar\u00eda Alejandra!!! Despu\u00e9s de tu comentario hemos lanzado una nueva versi\u00f3n de la APP en Android que resuelve varios problemas. Si a\u00fan tienes problemas o quieres compartirnos tu experiencia para que podamos mejorar, puedes escribirnos a soporte@dkvservicios.com. Muchas gracias!!!",
@@ -2714,7 +2786,7 @@
     {
         "reviewId": "gp:AOqpTOF8yYzq2hURR39o2I8KPwiIp90gQuhr_1qUJIkEMl6mrfWNSwQ_6lvGEVRS8YFThjCvg8TSXKdrx5escA",
         "userName": "isabel correa gomez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9WNNyEhSLTm38Sips3EtNy78MKkWLmjubkulxyvI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjmm6BPMHlvXi60LnncBtFnzspxDGFrOZIJWqxSgag",
         "content": "La atenci\u00f3n. De la pediatra fenomenal",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3926,7 +3998,7 @@
     {
         "reviewId": "gp:AOqpTOGZrVEYO3-Qf3VWi3nlpw-ZaTsVq2Je99Ff3JLmSW0Q2y6eEPCppKXMLZ6tF43ZO46_MHCfGculsKnk5A",
         "userName": "Rub\u00e9n Manzano",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjua3uieeudH9PmIej8Imp5ehcwjDcxBuDY7R0t",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhLjFARC090inZqM-iMeFdZyeNJxwfUuAsJCcbLPPE",
         "content": "Apenas funciona. El servicio de coach carga cuando quiere, no se pueden pedir citas online y el dise\u00f1o es p\u00e9simo.",
         "score": 2,
         "thumbsUpCount": 2,

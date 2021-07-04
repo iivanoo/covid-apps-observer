@@ -218,6 +218,10 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> W Bras veel te moeilijk<br> :date: __2021-07-03 17:59:58__
+
+> Wat een k.t app Na dat ik hem downloade werkt mijn afas app niet meer. En die heb ik nodig voor mijn werk.<br> :date: __2021-06-29 22:20:22__
+
 > Dit zijn nu de mensen die het land reageren en Rutte is het Papegaaien. Dat is mijn mening.<br> :date: __2021-04-10 09:39:46__
 
 > Krijg de indruk dat meeste gebruikers van deze App VVD stemmers zijn.<br> :date: __2021-03-16 11:21:58__
@@ -233,9 +237,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Loopt vast in Griekenland. In dit geval Kreta. De app downloaden gaat simpel. Bij het ophalen van gegevens gaat het mis.<br> :date: __2020-08-17 09:27:25__
 
 > werkt niet geen verbinding met netwerk geeft app aan kijk uit email is ook niet actief oplichters actief<br> :date: __2020-07-29 18:46:26__
-
-> Werkt niet. Blijft zeggen dat er geen internet verbinding is. Dit is echter wel het geval.<br> :date: __2020-07-26 20:42:54__
-
-> werkt niet. zoals alles bij de overheid.<br> :date: __2020-07-25 17:03:50__
 
 

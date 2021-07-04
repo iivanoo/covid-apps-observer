@@ -126,6 +126,8 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.coronacheck.haugxhaug.testyourcorona 5 reviews"/>
 </p>
 
+> Die App ist sehr gut.<br> :date: __2021-07-04 15:20:50__
+
 > Danke! Diese App ist sehr hilfreich! Leute, lasst Euch nicht in die Irre führen, wegen der Schulbildung u. S. W.! Diese Angaben sind freiwillig!!!<br> :date: __2021-05-12 06:56:04__
 
 > Die App ist wirklich sehr hilfreich und ehrlich gesagt,einfach nur brauchbar und gut! Vielen lieben Dank und gut,das es solche Menschen die soetwas tolles erfinden,gibt!<br> :date: __2021-04-27 17:42:12__
@@ -143,8 +145,6 @@ The Corona Check Screening app has been installed by more than **5000** times. A
 > Praktisch<br> :date: __2020-07-02 14:52:21__
 
 > hildegard w Sabine orthopadie<br> :date: __2020-06-25 18:19:41__
-
-> Dies ist NICHT die Corona-Warn-App der Bundesregierung, sondern die Corona Check App, die in Kooperation mit dem Landesamts für Gesundheit und Lebensmittelsicherheit entstanden ist! Und sie funktioniert :-)<br> :date: __2020-06-22 14:47:02__
 
 
 

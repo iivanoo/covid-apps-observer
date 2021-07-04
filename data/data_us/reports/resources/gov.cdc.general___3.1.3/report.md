@@ -188,6 +188,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Describes a lot of precautions to use during Pandamic.<br> :date: __2021-07-03 21:05:42__
+
 > Great app<br> :date: __2021-06-16 08:52:32__
 
 > Excellent<br> :date: __2021-06-02 14:58:59__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > this was awesome thank you<br> :date: __2021-03-26 15:53:43__
 
 > To me it was filled with useful information, and if necessary I will definitely download the application again for the next update<br> :date: __2021-03-19 12:27:33__
-
-> CDC mobile app needs to make the app interesting. But I like it a little.<br> :date: __2021-03-13 13:14:10__
 
 
 
@@ -300,6 +300,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> Wear your masks people!!! It's common sense. Delta and Delta Plus variants will soon come. See Dr John Campbell on you tube. Your welcome!<br> :date: __2021-06-30 07:37:29__
+
 > Don't remember checking out<br> :date: __2021-06-20 15:56:29__
 
 > This government is NOT LETIMATE!!! Joe Biden is a COW ad will DOOM US ALL!!! The 5G vacine TRACS YOU (AND IS A FRUAD)!!! DO NOT WAR A MASK!!! DO NOT SUMIT TO THE GOVEENMENT'S LIES!!! THE RACIST BLM MOB WILL NOT SILNCE ME!!! #CANCELCULTURE #TRUMP2024 #ADDZEROSTAROPTION<br> :date: __2021-06-20 05:04:55__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > Doesn't do anything. Blank screen.<br> :date: __2021-03-29 06:02:16__
 
 > I can't believe this app<br> :date: __2021-03-17 07:24:17__
-
-> Covid19 not real because tree gave free oxygen everyone<br> :date: __2021-03-02 02:32:37__
 
 

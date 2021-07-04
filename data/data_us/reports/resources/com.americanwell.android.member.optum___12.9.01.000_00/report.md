@@ -178,6 +178,12 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Great Dr's and Physician assistants! They're very attentive and listen to your concerns. I've had virtual Dr's appointments twice from my bedroom and did not have to get dressed while feeling ill. Great service! I will use it again!<br> :date: __2021-07-02 21:03:43__
+
+> Absolutely LOVE this app! It has been sooo easy to use and is super convenient. Definitely recommend.<br> :date: __2021-07-02 19:12:28__
+
+> I called my nearest urgent care and was told it was a 3 hour wait for a virtual visit. I then logged in to NowClinic and was seen within 10 minutes at almost midnight! The service and care was amazing.<br> :date: __2021-06-30 08:38:40__
+
 > The best option to handle those non emergency health issues.<br> :date: __2021-06-27 10:35:22__
 
 > My girlfriend had a UTI and had a call with a nurse named cherry Lee, she was amazing and would rate her 5 out of 5 stars for sure, the call took 5 minutes, and was so much easier than going to the emergency room.<br> :date: __2021-06-27 06:18:05__
@@ -191,12 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Now Clinic has helped our family out in so many ways just by logging into this app. They make it so easy to speak to a specialist for your needs and you get immediate feedback and eassurance about your visit.<br> :date: __2021-06-24 17:36:14__
 
 > Very convienient<br> :date: __2021-06-22 20:42:22__
-
-> Very friendly, knowledgeable. Fast and convenient. She was super nice and concerned for whats best for me.<br> :date: __2021-06-21 18:27:47__
-
-> Wonderful!!<br> :date: __2021-06-18 00:25:13__
-
-> Very easy to use<br> :date: __2021-06-16 22:27:52__
 
 
 

@@ -228,8 +228,6 @@ The COCOA - COVID-19 Contact App app has been installed by more than **5000000**
 <img src="2_star_reviews_wordcloud.png" alt="jp.go.mhlw.covid19radar 2 reviews"/>
 </p>
 
-> 機能していないことを知って、幻滅しました。汚名返上に期待します。<br> :date: __2021-02-04 03:08:44__
-
 > まわをまめめ!⇉⇈↨⇊⇉↻⇌<br> :date: __2021-01-17 07:01:25__
 
 > Why does this need 103MB?!<br> :date: __2020-09-09 03:26:05__

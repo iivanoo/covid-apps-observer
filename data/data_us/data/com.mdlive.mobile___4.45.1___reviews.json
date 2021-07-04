@@ -1,5 +1,341 @@
 [
     {
+        "reviewId": "gp:AOqpTOFyDdC2zu0manXjBe33RjerGk8GaVvxCfKKjsgz-i1-A-LmgIvTwVKiT-IckJ2UPmG-rbO9uCJ7zvJttbI",
+        "userName": "Tonya Sims",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGh5AYLfirDLsWG75ergJdJwemfipfXTvl0f5c-w",
+        "content": "Easy to use.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-04 08:27:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGe1Wqd_nWx9dUWFq8FCKtRQELreiyxpv3RDQZvyynCULfpebk9pUFC_ii-ySt1Ik7SpfVrKIpokAhncFk",
+        "userName": "John Shannon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gga04iHrdmEYMMsEtpPcaFQ0yh7ccU4QTnvJJK79W8",
+        "content": "Both experiences I've had so far have been outstanding, as far as usability, efficiency and effectiveness\u2014not to mention friendly and comfortable. Thank you!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-03 16:06:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFzW6BL9qUVDPYVfgnKaREqW9Dtr76yZ731qTjhct4IqPzwG9KFSfzsV7m1k-j901g2EEqkAcajG3EL_DI",
+        "userName": "Nicholas Matt",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4IyXV3oLqHC9U8dkexpwpOCwnYH8c3CNYcc5p2Q",
+        "content": "Was able to have a video chat with a doctor in less than a half an hour. Great service for when primary care is not available.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-03 03:02:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFfW_b_zFo2l7GisbOCVs9hB8sygi2sgwabQOMTW6TtVEWyVT790wuP1g6KgcdsoMTVaTBI8Y4X1zgcpwI",
+        "userName": "daniel serrata",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyeo46pSk_n1JAa1QLASMe6alncumlJLQT1gGSM=mo",
+        "content": "Very convenient!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-03 02:32:42",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFV24grJXqsCYblTzJbkdR9njaoui2BYoeZjvSPTEykd8jjc2jFbNT9dgEmrxAB1MXMuYmevUXc338nBqs",
+        "userName": "Vern Reynolds",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5_R0ydxfc4A47-Ur7BLDNByq5YVApmgRI4cHx_k4",
+        "content": "This is the first time I've used MDLive. It's great! My car is in the shop and to go to Urgent Care would have been a problem. Seeing a doctor in this manner is so much more convenient. The doctor was great and was able to assess the problem and gave me instructions. I'll definitely use it again! I highly recommend MDLiive!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-02 23:12:08",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFKTMDdMP42Y6pWRJBLesqnnbjEmWEME2X5seTh-xSrl_HfIABPqBaxQEJUDqtKWVsZfqrrUJGn56tMXIQ",
+        "userName": "Scott Usher",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKY21hGYKuCqhFyDEmOsdzhBZnmfc4z_J2UkO2VyU",
+        "content": "Great service",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-02 17:14:25",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHyQZMZ0HmdQA3ZvXHCWMiwF5hAF4YUjGiGWAo0Mt4RS8tDEgUJLuKRC_8-tdNM4A3_OCZ-ui0yyh7GjMU",
+        "userName": "Michael Johnston",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz4s5at2_DJz4JFVbQa52BR464WR4wuXiEymGYv=mo",
+        "content": "Excellent service",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-02 02:11:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHDJniWkOAb5KERmCKjBNGBjNvjNedOACk96opkNOH370g8SwCorkoopgu4F2GvcKlpVRg_SXc86Dfdovs",
+        "userName": "Aly Ward",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgoSx2tdiJDffII5SfKwWwMZOWoXU9YdXFZotdsYQ",
+        "content": "It has helped me find courage to seek mental professional help. This app is convenient and honestly without it I'd still be struggling a lot.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-02 00:39:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHE072r30a3pbZa1ktb4fITOMCy9HA1uwkGN13IFHs3Ek7UbTsIxIy9W_perqL4rYb9unAYKg-wKOaQeJg",
+        "userName": "LISSA G SMITH",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNNZWxsH3TKHtt5XDW8zS9-NMQCl61ViDC9ohlvg",
+        "content": "MDLIVE has been easy to navigate through, consistently operational and conveniently helpful with minor medical needs...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-01 23:36:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEWZf3-BJck5qCQnMNJ30-4Ei3l3ubYX4xfVYQUTvjIK0XOkNEPY8PrrOj3GSuDr2nBGva5a5wUdzBzvH8",
+        "userName": "Alisha c johnson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghs5whxJsg7ulXK9J-ChAvxec96VR71QWE-WFob",
+        "content": "Love my therapist if ot wasn't for this app I would not have even met her.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.44.3",
+        "at": "2021-07-01 23:27:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGBamy3m-mo2kWqd1dImyQypwc75D97319dgWfTxJAudEy8zvCmU_jTbWGHSsUx-daeEHU3LmMWspESg_k",
+        "userName": "melinda cook",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwSR1xUnjO1psQbEECW6z49DE52N94Cv7QuOpIB=mo",
+        "content": "Very convenient and comfortable",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-01 20:41:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHaB0FNz4LtF6NgRuQl1E-gC2ztnATKx-cNM_5Qdyvnek2kfJosv5AYD_gOzRxAyy377MdGjJ5heJmti10",
+        "userName": "Tyler Frankenstein",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLUMeJGI2KNvNdxZt1fP1wLSPFA7NZOZrMCLL9",
+        "content": "Flipping amazing.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-01 16:09:13",
+        "replyContent": "Thank you so much for your review! We're glad our service has been so useful to you, and we'll be here for you anytime you need us.",
+        "repliedAt": "2021-06-24 18:21:34"
+    },
+    {
+        "reviewId": "gp:AOqpTOEDTORZ3JxPbn8I3JTXfY28HPG8RGrNAF8XyVlLc8gDe1iIn6hPqZvb4RzjMIKEC9FZFkw6OcVwxjCpFZI",
+        "userName": "Cassandra Sparks",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9S8bibOg8D5XOtehtGX8NqldJdrgvsj3k-9aM",
+        "content": "I am incredibly disappointed with MDLive. I would NOT recommend them for therapy, not the providers fault. I spent 5 months in weekly sessions with an amazing therapist. My apt ended as normal, I went to accept the next. MDLIVE is asking a 108$ session fee. Why? Every session was billed to my insurance. I called my insurance, confirmed coverage. I reached out to MDLIVE, and was essentially told there was nothing they could do. I now have to pay the 108 up front and wait 45 days for refund. No.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-01 02:59:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGmJawp60PucR0OGIjHtmAYW4mqf42KpFLXfYQXBKalxsWavRh21IcadTsh7JVLP9gkBB5rZRsqF806kZU",
+        "userName": "Ronnie Lowry",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFNGD7f02x4j5_AAhQasE4dH4JGZXGJZlnyBuIrA=mo",
+        "content": "Excellent way to contact md",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-07-01 00:26:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG7w2MuStWk79YxBlX6X_xB3YI8aHjh_SWXGqigMhwCoLSZ59H8mQwc8spGU4n_kRO1zkDemoHhxTlsPhY",
+        "userName": "Maggie Schroeder",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIROshOq5stlzuje5P44buFnYqQZqDbMdr0K2v=mo",
+        "content": "Top Notch!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-30 23:34:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEq0eD157Qs0UaEnkavM-9xDlU_wx1BZq9P2V-PlN3-bUF05rJYdOqJb21g03E4ZXA71rT7NtVbgBfOt4Y",
+        "userName": "Carl Hall",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiRk4ikUjBgozA-dldFdIMi8Kl3BunG6vrb3fKnEw",
+        "content": "@10 just to enter information. The wait to see someone was quick. Awesome",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-30 17:55:29",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFkcCFkqx3u2dooDJTFmAd7ZUcbl-M961CVQHuJU0FnuO9aOA_lIDP9lZVpYv2cGVpPjouzSJIfHTXr080",
+        "userName": "Sharon Growcock",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8GWRkrjVSfr9pxUQx7QAhed3CEOdnYyAqdrc1=mo",
+        "content": "This has been amazing! To be able to talk with a therapist by video!!! Thank you. Still liking video appointment!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "4.45.0",
+        "at": "2021-06-30 17:55:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFMzmqzEUqfbf_vbvMKNvD4_rL7kmvt6PMAvFZyHeov3rAHkbXQcL97-uzdUSaXaK6iphJsRQQcTT6KCv4",
+        "userName": "Hunter Williams",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0nWFKgDzZl5U4U2g5l7yZJ1S-G_dhPmIqYNeADg",
+        "content": "Not able to use. Clicking open gives error.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-30 15:04:26",
+        "replyContent": "Would like to sincerely apologize on behalf of MDLIVE's support team.\n\nTo resolve this issue:\n1. Go to your app manager\n2. Select the MDLIVE app\n3. Then clear the App Data.\n4. Uninstall/reinstall (if the above 3 steps does not work)\n\nFor detailed instructions, please contact us at android_support@mdlive.com",
+        "repliedAt": "2021-06-30 16:28:27"
+    },
+    {
+        "reviewId": "gp:AOqpTOGGCqubFUE3mM5KtZKN3TEBAJ4ZK3nQDAJJAQB6-aw2rEQqkNEi_YEtQtZSz2fz8NH2_ok-n1n8vpbV7Z0",
+        "userName": "Rachel",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDrL1_yplLTbQmgyFIsLmsT2Gmjk5EdIX5KTAw=mo",
+        "content": "The app works fine. But if you are seeking the service for metal health just go elsewhere. Wish you could leave reviews for the providers on here so I could warn people when someone likes to consistently no show for appointments, prescribe psych meds and then not show up to requested follow ups or refills. TOTALLY healthy and acceptable to start and stop psych meds....",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-30 04:17:35",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFGGkyhKCIoOj0TCwECZy4UOIVw9XukNnRht3kYHuCcxklMpLgbDVcmUOtMhIKWUH1rCP5GG2Kt9RgSIKc",
+        "userName": "Conseula Godley",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyM3p5hoNLjJhqs-Iedn22gHkNzSooQNYLVuDHN=mo",
+        "content": "I was very skeptical at first, but actually had a great experience with both visits",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-30 01:24:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGtG60F1BHlMZuj_jlv84N01Cm-BrKJ1lXTdoYvxiRM3rgBYsICbKn0YEDBHLFpwyRpEj2dfk0wYadcx5E",
+        "userName": "jenny parker",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwCVNBkwiuZrhZXLuJT1g51ADgAA4eZ1K-1nuUK=mo",
+        "content": "Wonderful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-29 20:44:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGG69_bH-NF-ySNP4u77eUbxS5iSSx-diTy2Ng7-FfI7NuCbzvnebbeYV3DUVfiZtBz2kMLQLcFX_ZCnWo",
+        "userName": "Luis A.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gid6Dh7aKv8gXcF64qojzMmQD_-HWuZ-GWe8WCOiw",
+        "content": "Good app overall great experience, however, every time it's time for my appointment it fails and I have to reset my phone.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-29 19:39:05",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG3nYiqVfb7AB54aD-8q5Hi514tR6fxsqUOoM3Mfg_uvBbctOdUZt5XbJrgzKOxGUFsmjm5QtcuAXxtPs0",
+        "userName": "Roxann Turner",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjZsBl_xk0jfqbzUN1WjrZ1V9joZdSxxKZB6IDR8A",
+        "content": "Always helpful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-29 19:30:06",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGOjos7wGad_keADnLvxXdZbavuiZcjTxNpSJ-ZLdK3VNPIUyWZzxKgUYjzpxiJgl7mEhsdk7e_nHO_x0A",
+        "userName": "Elise Gallerno",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwedhcz38q7PoK4aVTlOANP3wi-IRRJw8qXmiEq=mo",
+        "content": "Love this app, have been using it for about 4 years now",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-29 17:00:48",
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:07:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOGr8TUYVYIbJRlysdd85hc5FEX058EMAfOAgRD2PoKWN0rvVxSge0-rUaeRWcEVRkfOFRVucyez35tCJ_g",
+        "userName": "Devia Mosley",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggrr4mjnqKClCf2hjO5Cbw59G3WUQi1KETB9DOGEw",
+        "content": "Helped in so many ways very understanding and caring",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-29 15:21:26",
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:07:57"
+    },
+    {
+        "reviewId": "gp:AOqpTOF18B5_51zYeOpxjoXvtjNlBD1QJ-a-ABWEZhN8jAITpLx0BuX0yu3071hTGcgMKT1J3r6zN15zRushiSk",
+        "userName": "Victoria Powers",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyd7w43X2ca923XkhGSg4vFWamjKdh4z8wf6QXA=mo",
+        "content": "Great service. Works very well. Save time and money.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-29 15:18:07",
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:08:02"
+    },
+    {
+        "reviewId": "gp:AOqpTOF47ydEHniOf4CcXj-x_15iDtOS5BIEprkwiuWCQwFEPFbNIMNFIxQeyRAva9lWqRtCYpBH4w0D02cJrbM",
+        "userName": "Todd Sheaffer, Jr.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNxmNQrkkEHw7ZMg6kumr7pV7ItGFKDIwzb49H",
+        "content": "Fast, doctor was pleasant, listened to my concerns",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-29 00:32:48",
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:10:32"
+    },
+    {
+        "reviewId": "gp:AOqpTOF_bUf_8QHvwnXDKGeGpLbdm2bkJZJOhJuQJxWBJaqAVrKOWB7d0cy2wydk80KPJk1O3bGl41uHYxJWmEQ",
+        "userName": "Erika Laenen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyTU7lXYEM2abjxVCqepM18TM2N9LpCtpbthvGD=mo",
+        "content": "Helpful from start to finish!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.45.1",
+        "at": "2021-06-28 23:12:45",
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:08:07"
+    },
+    {
         "reviewId": "gp:AOqpTOGrEQlX_8CqiCKCNz-iunDSd_EFeZ5aUUkltbJoUeQjkO8xu4sZxvIMwq5gtHhL9GaiihSk6KfnBsy8HxY",
         "userName": "Kat Hibbard",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZDqI9K-yNCUBx5iKio-6pXzkUnoM3KouZbROV=mo",
@@ -8,8 +344,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-27 22:33:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:08:12"
     },
     {
         "reviewId": "gp:AOqpTOGEzkb_po7VfIk1kNLvGBhFzsL6XIGhLAOUuSUjbiuusB2oUtN3R3-pPIry5x7PgQC4ZTAbb69sqjGW9w8",
@@ -20,8 +356,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-27 18:35:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:08:18"
     },
     {
         "reviewId": "gp:AOqpTOGnz5UxPuLuOatqSwDaQyueXTsx0RpEm6ZdFy_e6o5J-N0TtW_fPs82zg2FNUNt5BtKSJ6t7qdnXuGfkLw",
@@ -32,8 +368,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-27 05:36:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hey Alex, would you be so kind to connect with us at\nandroid_support@mdlive.com, we will be more than happy to help, troubleshoot and rectify any issues you might be having.",
+        "repliedAt": "2021-06-28 20:06:22"
     },
     {
         "reviewId": "gp:AOqpTOFSRjeYPdfkP6ez8prCjmECj2DQUE9Z8CmkLPV9vTtxe3kcPTe59Ls2dgcfdXmjyZlTERhLMkRjK3XTsnQ",
@@ -44,8 +380,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-26 22:03:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, Robert. We're so sorry to hear this. If you still need help, please contact MDLIVE customer service at 1-888-632-2738 or customerservice@mdlive.com. Thank you.",
+        "repliedAt": "2021-06-29 17:11:43"
     },
     {
         "reviewId": "gp:AOqpTOF4tf-WJFtz_zOnLZQbob5JRZwyNoSGvhiaDybpNlGO_ciBHaz6NgTpPnBpbchgyvDPhHjpjv_Vy9lBymw",
@@ -53,11 +389,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj9ShZ8QeiTIZLKy4fOrM16lb-427FYYhmKHYIuuA",
         "content": "I received the care I needed at no cost through my insurance. I could search for my pharmacy and doctor instead of entering everything manually. It found my insurance provider through my name and birthday. I saw a video provider immediately. Very good user experience and professional care.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-26 17:27:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience! We're glad we could help and hope you're feeling better.",
+        "repliedAt": "2021-06-29 17:08:56"
     },
     {
         "reviewId": "gp:AOqpTOEdtTf1MWB6kOXMvIShs7YoADeUQfPZEYv8bHGSuSHXDX5CF_BAcx3pty0qNjJ-Eb7qI-nFOvWDy4kVjhY",
@@ -68,8 +404,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-26 16:32:37",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Sorry for the inconvenience caused, if any. Would like to sincerely apologize on behalf of MDLIVE's support team.\n\nWe will look into this as a point of improvement and if there's anything in addition we can do to help, please contact us at android_support@mdlive.com.",
+        "repliedAt": "2021-06-28 20:03:08"
     },
     {
         "reviewId": "gp:AOqpTOFKwRNKslEJmBn5OeQiglHQN5aSyZcVGV15ttkJlUN23unDbj4O_JxXrbQi70IoIyTOsWiUgEIcgC4I-ig",
@@ -80,8 +416,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.0",
         "at": "2021-06-26 02:55:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your feedback. If you have any other suggestions, please contact MDLIVE customer service at 1-888-632-2738 or customerservice@mdlive.com.",
+        "repliedAt": "2021-06-29 17:11:24"
     },
     {
         "reviewId": "gp:AOqpTOGGSYvFslz9uF7Aa8KwgGmleeCz-ESIu821zLEUHhbdRcbI_vmQEsMs580aFQglC7mIsisvh8N2tgSp36E",
@@ -92,8 +428,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.44.3",
         "at": "2021-06-25 21:48:05",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:09:01"
     },
     {
         "reviewId": "gp:AOqpTOHTDILmNWjaRQpqompvaA_P6XGWUl4cyJoJITLkT4T-WB2yJubqUdyzlTj51lj9p34o5mMlHTFIT0mjgIE",
@@ -104,8 +440,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-25 20:37:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:10:40"
     },
     {
         "reviewId": "gp:AOqpTOH7Mkvw_SiPn4yP0kjBogk8EP8J1EP9neA5qsDKVDyv96x4_-p2TIi9D1IucAQVC2KnQPfUb7IQlB_LsE4",
@@ -116,8 +452,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-25 20:05:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:09:07"
     },
     {
         "reviewId": "gp:AOqpTOGgHzPs_Bt0IYT0wbVBzJ0AaVLc2-9LCZ4EHeyPSfRHgtrAFApYhzrRRdbW55ijL9BE741D-PG5v-RL0Cs",
@@ -128,8 +464,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-25 17:02:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:09:20"
     },
     {
         "reviewId": "gp:AOqpTOHhjod2EiiJcdDsogsYqN9b75b0dKRW2mTq8jqa73tL3H3fZ-7AHm26x2LBH6pn5-E49UWbs49cRA1wNhQ",
@@ -140,8 +476,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-25 15:33:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:09:12"
     },
     {
         "reviewId": "gp:AOqpTOECw5diuWemjlaPqEaWgIq0Y4OvBUjZ5S2r_VaalkUzxuXK74pEG2KcRyZlYtzImzyrv2xyno4Xm7ge5s0",
@@ -152,8 +488,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-25 03:53:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:09:26"
     },
     {
         "reviewId": "gp:AOqpTOHIjYYHw0x7goKXVUuXVbu9MDsLSGVwA9YeDI8L1JKCnIu1lnoIadKBwGUOuyvX4HwsSk20_6FGZOpFeog",
@@ -164,8 +500,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-25 01:00:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:09:39"
     },
     {
         "reviewId": "gp:AOqpTOF3OEfGqOIuw-c7QFId4GyQuAJZkSRsqBBuAiTzU-S-BIw7AGFwDdukQZ4EZlVQJo6_yP2ogJbNG_npYjI",
@@ -188,8 +524,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-24 18:53:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:09:33"
     },
     {
         "reviewId": "gp:AOqpTOECx4BZXqVQCXBAwa-8Kg1vq7QRQZ-M_yboAuyzTc0oVEOv6Wi8nEc7tazm6xFipnRepSckDmZ_rD4AFn0",
@@ -197,7 +533,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgVqKo2vB_qwSJDPBHEEZaA-rEc_pkDgYbgJzUG",
         "content": "Super easy to use and typically fine but since the last update, every time I try to sign in, it shuts the application down and says it can't process the request. Now I haven't been able to see my Dr's and I'm running out of medication waiting for it to be fixed.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-24 07:31:15",
         "replyContent": "Ahh, sorry Aysha this definitely sounds strange.\n\nWould you be so kind to connect with us at android_support@mdlive.com to troubleshoot, we'll be more than happy to help!",
@@ -240,18 +576,6 @@
         "repliedAt": "2021-06-24 18:21:42"
     },
     {
-        "reviewId": "gp:AOqpTOHaB0FNz4LtF6NgRuQl1E-gC2ztnATKx-cNM_5Qdyvnek2kfJosv5AYD_gOzRxAyy377MdGjJ5heJmti10",
-        "userName": "Tyler Frankenstein",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLUMeJGI2KNvNdxZt1fP1wLSPFA7NZOZrMCLL9",
-        "content": "I throughly enjoy being able to talk to a doctor of my choosing and in a setting that helps me feel comfortable. Being able to video call and be where I please and work with my schedule is a huuuuuge stress relief. And in all the years I've had to see therapist and psychiatrist (20 years) this has been the over all best experience for me. I'm truly greatful for how far the medical field has come and the tech we have at our disposal.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.45.1",
-        "at": "2021-06-23 18:27:38",
-        "replyContent": "Thank you so much for your review! We're glad our service has been so useful to you, and we'll be here for you anytime you need us.",
-        "repliedAt": "2021-06-24 18:21:34"
-    },
-    {
         "reviewId": "gp:AOqpTOE_aktE5Ef2dEKlnWDrxHL7EB2WFGt-myBb7KCmwW70HUcbVDj94pfeW0LqPpThbMWAOsct4V-C36243n8",
         "userName": "Ben Hewatt",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSkJ373QlNFoBLJI0EPvkOlBq2Tzmupk-73DFRnA",
@@ -262,18 +586,6 @@
         "at": "2021-06-23 16:53:12",
         "replyContent": "Thank you so much for your review! We're glad we were able to help you and hope you're feeling better.",
         "repliedAt": "2021-06-24 18:20:35"
-    },
-    {
-        "reviewId": "gp:AOqpTOGGCqubFUE3mM5KtZKN3TEBAJ4ZK3nQDAJJAQB6-aw2rEQqkNEi_YEtQtZSz2fz8NH2_ok-n1n8vpbV7Z0",
-        "userName": "Rachel",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyDrL1_yplLTbQmgyFIsLmsT2Gmjk5EdIX5KTAw=mo",
-        "content": "Seems sorta messed up to wait AN HOUR after an appointment was to start to cancel it. Meaning the patient sat on hold FOR OVER AN HOUR waiting for the provider. Especially when mental health is involved. App worked fine but no. I will not recommend, nor have I enjoyed the app.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.45.1",
-        "at": "2021-06-23 02:39:49",
-        "replyContent": "Ahh, sorry Sheryl this definitely sounds strange.\n\nWould you be so kind to connect with us at android_support@mdlive.com to review your experience, we'll be more than happy to review!",
-        "repliedAt": "2021-06-23 23:23:09"
     },
     {
         "reviewId": "gp:AOqpTOGqgfVvNe6LrN15lfl4mMtr0ayvt_R7AxKo3RAb9C1V7gVHVpxhc9MbR7ZiFLfF8w_zZqIU7dRu4lBWE0A",
@@ -461,7 +773,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhBPS7eiCKLH_N5IiUXuJSUdZ8er9TUSl1IENDGsA",
         "content": "Fast and easy to use. Just at one point it lock me out due to not using it for a couple of minutes. It would ask me to put my password to continue, which I keep on trying but to no success, when it was the correct one. I had to log out and log back in with the same password I was putting and it did work then. Other than that no other issues.",
         "score": 3,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-19 21:39:19",
         "replyContent": "We sincerely apologize for the troubles you've had with the app. The support team will be looking in to this.\n\nIf you don't mind, please connect with us at\nandroid_support@mdlive.com, so we can provide you with an update once we troubleshoot and rectify the issue.",
@@ -548,8 +860,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-18 03:34:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:09:44"
     },
     {
         "reviewId": "gp:AOqpTOEF8ILFu_UdK57AcAT_4EWfNryes5hIe4qjj3v-i1msOYGl7rL6ZAWqOhS0Int1ycWNIfwd3V1WI7ykqbg",
@@ -560,8 +872,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.0",
         "at": "2021-06-17 16:09:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for sharing your experience!",
+        "repliedAt": "2021-06-29 17:09:49"
     },
     {
         "reviewId": "gp:AOqpTOHpervEP6K9hTBYi5IjstaiSBC31kVQe1iwnWbZ6WTX0Ff536UFptkwQx5y3u2kOtBtSJ258PJ6E_wv6eI",
@@ -584,20 +896,20 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.1",
         "at": "2021-06-16 20:43:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:10:44"
     },
     {
         "reviewId": "gp:AOqpTOGuGGku0H3gN7CLgEJ8rtzPrMN4IwDkABbqs_YAdyBFdXiCkYvMbhw0-6TQZyhgSw9gAbwaz-yoGWfCJUw",
         "userName": "Rob Detrick",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKJ4-2xWOCY54ITPJwh0PgnpQH4jBSG7eyhMPd=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOO7atDZLmtVdK1ML1HRcuTCj9kWZg32imtWc6KZU",
         "content": "Great pat is amazing.",
         "score": 5,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.45.0",
         "at": "2021-06-16 17:43:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:10:03"
     },
     {
         "reviewId": "gp:AOqpTOFDCKExlaAef58dIUTKpgnQJJ97geUOrgOLvYz7mb04SY7Yk4CYK001hfaz-23IQIBEw2JwI2TbpBy2elw",
@@ -608,8 +920,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-16 06:01:51",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-06-29 17:09:56"
     },
     {
         "reviewId": "gp:AOqpTOGw1jCb3WL5QcbuUdKJkE7eYOIWZwxMiy3IuG26TYo-sfO90xSRpbht7w7R1UZ7AbdV8jygJeKabpV6Huw",
@@ -1090,18 +1402,6 @@
         "at": "2021-06-04 05:29:37",
         "replyContent": "Thanks for the kind words, Matthew!",
         "repliedAt": "2021-06-08 05:05:00"
-    },
-    {
-        "reviewId": "gp:AOqpTOEWZf3-BJck5qCQnMNJ30-4Ei3l3ubYX4xfVYQUTvjIK0XOkNEPY8PrrOj3GSuDr2nBGva5a5wUdzBzvH8",
-        "userName": "Alisha c johnson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghs5whxJsg7ulXK9J-ChAvxec96VR71QWE-WFob",
-        "content": "Love my therapist if ot wasn't for this app I would not have even met her.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.44.3",
-        "at": "2021-06-04 03:13:11",
-        "replyContent": null,
-        "repliedAt": null
     },
     {
         "reviewId": "gp:AOqpTOGOY_QGgmpOFuTfKeY_eINlaj4zLdvBJ0_5_AqsiaCjkVnDdgi9CvjClpg_un3h5_E43OnnM4sarlPYfIw",
@@ -2546,7 +2846,7 @@
     {
         "reviewId": "gp:AOqpTOEdZTKv6sVaTWBMmDHGvEwrjQu13fSUpJMLsVCpG0Y5T-u74xPiwC3xFwlnUVZoMH7oL4WsXddaa8LhxxY",
         "userName": "Lisa Shinn-Edgar",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhX8W5asWSabncDGKK0sM5fFRHiig7SGo7u6ksIMyM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi9fGCOPmWTjnvvR11libwKpokSSe3ZI1RsNYjjdtA",
         "content": "Fast EASY convenient & real caring staff & fabulous Dr.!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3766,18 +4066,6 @@
         "at": "2021-04-05 22:50:22",
         "replyContent": "Thanks for your review!",
         "repliedAt": "2021-04-07 03:56:03"
-    },
-    {
-        "reviewId": "gp:AOqpTOFkcCFkqx3u2dooDJTFmAd7ZUcbl-M961CVQHuJU0FnuO9aOA_lIDP9lZVpYv2cGVpPjouzSJIfHTXr080",
-        "userName": "Sharon Growcock",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8GWRkrjVSfr9pxUQx7QAhed3CEOdnYyAqdrc1=mo",
-        "content": "This has been amazing! To be able to talk with a therapist by video!!! Thank you.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.44.3",
-        "at": "2021-04-05 21:26:11",
-        "replyContent": null,
-        "repliedAt": null
     },
     {
         "reviewId": "gp:AOqpTOGC51AUa03UralFLrOSOv04tW56hECntHCKKwamN9CkWkunxvB91UqYlXQ-lJM9B4HGm2k58NUA4CTo5kk",
@@ -5978,7 +6266,7 @@
     {
         "reviewId": "gp:AOqpTOEoEil0w_Xwm5g2u6CXYCyE0h8cdsXiCrCWp5_Jt-QcT-QWuD8hzksLHjKB7TQTF7cVSxCd8qNqN-KDGJs",
         "userName": "Lowana Maxwell",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjdTZQBFsw6wQNAZE7y5HBddxqYJMcr9kRj6SHpSmg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNQHw4jQspI3V0LWgZNSA_C0dr-AkAE0hoJ30Zpyc",
         "content": "I think it is a great way for people who can't get out to get the help that they need there was just a little bit of problem with me camera for me pixel but it fixed itself it was just like being at the office and the provider was very kind and experienced and I enjoyed it very much I clicked difficult to use for only one reason it is difficult to sign into the first few times you use it it is confusing but after you get the hang of it it works very well",
         "score": 5,
         "thumbsUpCount": 2,
@@ -6458,7 +6746,7 @@
     {
         "reviewId": "gp:AOqpTOEPKz96BVMfGdsPwc49Y4YVIwoqfG2cTgZtQX2vmnAlOV99QRIiqo8pgSsJpk1PSPWzG0i1prCAVMJrGjM",
         "userName": "Tony Childs",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_m3Gp3xHxqL2DxGfDHlhQhIKHMTz4tqc7k5BKLw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhTgKc5AryVTRRkg2iYWhKsFkPlMegi1zlCX2rYFg",
         "content": "I'm trying to create an account. Everytime I imput my information,it clears the blocks and I have to start over again. I have uninstalled the app,, installed it three times now. Still no success \ud83d\ude1e",
         "score": 1,
         "thumbsUpCount": 1,
@@ -7202,7 +7490,7 @@
     {
         "reviewId": "gp:AOqpTOHoaVAixNtcdfXxDZ88TPR18a7rUD-x-WSgYWdvSD_dkv_WgEJRCn3a3xXyvT1Ek5bitR_zCWNkW12TQbM",
         "userName": "Sarah O",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJygqit5VHGGbK5gKqxVfHqZJqlno7McrQNYeo9H=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinY1-xlR6vnPHD5Z8zFMCk2MPygNeqF9xb4N2JxCk",
         "content": "Very easy to navigate appointments from start to finish",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11186,7 +11474,7 @@
     {
         "reviewId": "gp:AOqpTOHLO-rZg8SYVNdsgVUyPB-HJ1lfTNftCzTN9Mt_KXKdRWwRPWsV7-KKxJDmbdJemsSdITPnYMY4AGaF76c",
         "userName": "Caroline R.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gga66rGZKJp6erRGTbZqNaZVpXqAr_RLFJtu9jSy5U",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgsoSWTGs3DQx7jatwIyBksx5VBl1X1NumX5ERi2fM",
         "content": "Wonderful, convenient, and easy.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -11305,7 +11593,7 @@
     },
     {
         "reviewId": "gp:AOqpTOG75noRZpXXtwhmIkQv7B6FUo_mZVRjfYWOwzsJtvGeF7FWhV-OfdkyoUakySEk-5nTvZstfSVxJSig9po",
-        "userName": "Kathy Misiak",
+        "userName": "Katherine Misiak",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5JEJcmKFDKGEt0cLXjx7_v8_whYUABV78KdjSew",
         "content": "My Mom passed away in July.. my grief was too, too heavy to carry.. I knew I required/needed help from a Counselor.. Not just any Counselor, but one specializing in grief experienced by those suffering the loss of a loved one. The Doctor I have my Online Visits with has more than met my expectations of helping me through the worst kind of pain,.. pain I never knew that could be as bad as it was and still is at times. I'm healing.. thank you God.. and thank you Doctor.",
         "score": 5,
@@ -11465,7 +11753,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzswZlAVqgOHEgQSweTtVQJVU8j_IWefYE1KSgG=mo",
         "content": "So when are you gonna support android tablets? Been told it's coming soon for 2 years! Your providers have a tablet app, your competitors have a tablet app. Seriously as a dev myself it's not hard",
         "score": 1,
-        "thumbsUpCount": 13,
+        "thumbsUpCount": 14,
         "reviewCreatedVersion": "4.43.1",
         "at": "2020-11-18 15:16:07",
         "replyContent": "Thank you for your feedback. We're always making improvements and will pass your suggestion on to our development team.",
@@ -11710,293 +11998,5 @@
         "at": "2020-11-13 18:43:16",
         "replyContent": "Thank you so much for your review!",
         "repliedAt": "2020-11-19 14:51:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOG6GnRBzZaPmFwEXpaWD_vxr8xc2s76JEAaBlJaDrHE0N0OWD4oEH_07K122XJw39gHmcRG9haNuA1_uVo",
-        "userName": "ADD Dad",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxuA2gMU3mpJD9XcrUKQkilWA9a1Mr4VtyLdRn-=mo",
-        "content": "Very clunky... took me multiple tries/guesses just to sign up. Needs work",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-13 15:53:52",
-        "replyContent": "We are sorry to hear that you did not have a pleasant experience. If you have any suggestions on how we can improve, we'd love to hear them. At your earliest convenience please contact MDLIVE customer service at 1-888-632-2738 or customerservice@mdlive.com.",
-        "repliedAt": "2020-11-13 17:14:57"
-    },
-    {
-        "reviewId": "gp:AOqpTOGqHj6WUhszUXwgQEdn9bLGI2NI3q0fPC-jdNBTyw0wLCeZdjJRFOM6ru17T4jRYWaDbhcfQxX9WWvSpVU",
-        "userName": "Andrew Aliotta",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzfismcIFHTtM9lsIMfxu4Rxqdip7h43ULgvkV4=mo",
-        "content": "*Update- Doc was spot on my daughters issue was resolved using this app A++. Im a paramedic and my wife's a nurse. We woke up this morning to our daughters issue being resolved. Thank you",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-11-13 15:40:08",
-        "replyContent": "Thank you so much for your review! We hope your daughter is feeling better.",
-        "repliedAt": "2020-11-13 17:14:12"
-    },
-    {
-        "reviewId": "gp:AOqpTOES6o-na--bqD4cIokfHNrgaxbUUoq_NRvdpCDKskmh-3czzzWoG7X6IyderJAG0N_uOuRS_56l-ZNTBMY",
-        "userName": "Erik Gilson",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzg7pkixbJAG1ieJ2xNyYBo5Wa1Xr8fdEIEeDmG=mo",
-        "content": "Excellent experience, super fast and professional",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-13 15:30:08",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-19 14:50:59"
-    },
-    {
-        "reviewId": "gp:AOqpTOE3t0sETftHHZK9fO_s8KNh1Dpx8bnTmi1YIkeNpp_fuTF9OETLGGdqeTUPtS-iZXrdchjE_1-rDVz6ohc",
-        "userName": "Ryan Joyce",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitAVjHWPdQApn_aCpw85kH4HZ9ovRRCdSz4wN0",
-        "content": "Great",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-13 15:20:40",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-19 14:50:01"
-    },
-    {
-        "reviewId": "gp:AOqpTOGXK8LYkWrlUqiQvoQczt_gK_VuG-fZ3WiRMtBlnSrb2T4MNFbeQ8PXE6fE2zE7Gaz_ibEvaMyd9S2vUns",
-        "userName": "Andrew Aliotta",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxDyYeJtGIeJ6mv1dIcV-vYkKATk_7F3WQAr25Bhg=mo",
-        "content": "Super fast and very good doc on",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-12 21:12:35",
-        "replyContent": "Thank you for your review!",
-        "repliedAt": "2020-11-13 14:38:50"
-    },
-    {
-        "reviewId": "gp:AOqpTOHc4JsmIStU0KTjm_jvz60Y9JtaBNpU0Cnhha9gI4uCzeInXkrZGpUwrSYHgehSbMYSZG8SUMNiLyolTfk",
-        "userName": "Jeremy Burns",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTomL6OQxbeIS-nUBsjw-TiXhL9XGz-F9vAdbBGWU",
-        "content": "Great experience!",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-12 20:39:45",
-        "replyContent": "Thank you for your review! If you have any suggestions on how we could improve and enhance your user experience, please don't hesitate to share them with us.",
-        "repliedAt": "2020-11-13 14:38:39"
-    },
-    {
-        "reviewId": "gp:AOqpTOHxgMD1QD51DQYCHEAQFs8A4eZu0vomzrRCQP_gq7NV8gCuIkV1k_jiZPd5cQ1KuiFq9iLVc6S_xNwsv_U",
-        "userName": "Jason Davis",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwwJ3kzaXHsoXq8Za4maUdEDo7NUzS_eroOe7ph=mo",
-        "content": "The Dr was great and this app is very convenient my primary care doctor is 2 hours away I can use this for little stuff like sinus infections or colds or flu with out having to get out of the house and deal with waiting rooms",
-        "score": 5,
-        "thumbsUpCount": 16,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-12 20:21:36",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:38:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOHnKJSBRowSdzgv1nxyt-7RGQD7OhOgpOoJUZBTNDrqKNiG0y2pTwwr8n5BKwYBQTkVz8xuOmU_6MvKwbE",
-        "userName": "Sherry Holland",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTvdln6QQod6AfajbcDv3AEh5UYY9OJsa_aqw9=mo",
-        "content": "So easy to use the app...and was able to be seen by a doctor via video almost immediately. Great service.",
-        "score": 5,
-        "thumbsUpCount": 5,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-12 18:17:24",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:38:09"
-    },
-    {
-        "reviewId": "gp:AOqpTOG6Bx1v7o3ZR6tkqvZ67O8twFBmoWiv6RVFoMcsMoGYVfxuJPvGh2fqLUaAKcTq3BscS04YxUm8Az0Et1o",
-        "userName": "Kenley Wigle",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgE1EFetVVH4r81GvPAXZTpHeE5WjP5zc257MUCfg",
-        "content": "My doctor is awesome...",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-12 16:23:58",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:37:57"
-    },
-    {
-        "reviewId": "gp:AOqpTOHDJTwnvKsLiEiaBNEEAEdI6gJ9fokRmryOq49YFaw_0rJUmEDLr-Vl_cwdG-NqawpSdGj8S4HLg9Zh90c",
-        "userName": "Doretha Johnson",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyTFsvNCOqFeA-T_4aLPMIGC1LxHP6z-UPbfFks=mo",
-        "content": "Great experience and very convenient",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-12 02:29:03",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:37:50"
-    },
-    {
-        "reviewId": "gp:AOqpTOHxgoH8BtfZsimG47duZCLFm_PIe5DyeKUnTLlHO1gU3CCj16KaUDQP1NNcJ081FQhxzppcIKLm4RhPHNk",
-        "userName": "Chris Hoffpauir",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_ivWskuV6_Iq6ncmShYBvXasEflB2CrlTwF6Xlw",
-        "content": "I have had great experiences with this so far, used it a number of times now.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-11 21:53:18",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:37:47"
-    },
-    {
-        "reviewId": "gp:AOqpTOHawFWCAjWTUVmapJ8-c243m9jZsm4X7N5QsGFDt8wZKlvmRL2z8urI-HoFAet8L7DWDYMv93E30ar3wvg",
-        "userName": "Rebecca Thomas",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCh002Ay-eqi7jo18WRW6Kw1DfAiyrZhJrODx5hA",
-        "content": "Picture kept pixilating",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.0",
-        "at": "2020-11-11 21:49:47",
-        "replyContent": "Hello, Rebecca. If you can, we'd love to hear more detail about the issue. Please call MDLIVE customer service at +18004006354. It will be very helpful for us to investigate and fix it. Thank you!",
-        "repliedAt": "2020-11-13 14:37:39"
-    },
-    {
-        "reviewId": "gp:AOqpTOGIcWbTFlcqlW0al1qU9rsFDUX_ZF456AIO0LziUTHgc8v9TbFUyCYSA3VNGyUwS-7fY7Gq3maulq5cEEA",
-        "userName": "Lisa Marie Paz",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxAC8aW668qF_C9OdF2x9sqF5QVzKuJO96mnwP2=mo",
-        "content": "Quality, immediate help!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-11 03:54:52",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:36:24"
-    },
-    {
-        "reviewId": "gp:AOqpTOGTHPgolEZ5fbx_xTqdjtIO3Bj8AmspZxbTsL_qi5G7g1KUNKUHltZlGLVLFXXmxyTJuxYCgoFmLImAm5Q",
-        "userName": "Jessica Tuttle",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhVx5TM8qGTmVLIlvndihjLOyypGij514rzjnzaJFk",
-        "content": "I love MDLIVE My Dr. really cares for his patients and gives excellent advice and recommendations for my well being & mental health conditions. Thank you MDLIVE for this service...",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-11 00:36:03",
-        "replyContent": "Thank you so much for your review! We're so glad our doctors have been able to give you the help and support you need.",
-        "repliedAt": "2020-11-13 14:36:17"
-    },
-    {
-        "reviewId": "gp:AOqpTOFkcs7pmjDHLvOBCSN1HWN-Vuf4-6il7ibqZ8M4gM5Sl3lI27suhQ2xsz26OfP_MWYBk2TbVLymRmM46Fk",
-        "userName": "Marco Jax",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyU5Ox-b5zwVa1aLPra5DrUquSForKIsrU3av0L=mo",
-        "content": "I had a nice experience and this app is easy to use.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-10 22:20:15",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:35:57"
-    },
-    {
-        "reviewId": "gp:AOqpTOHuh7466dYKHq3TZfIb1SFtR8-vaFMkLWnLE7QEKXGM7cm_7aPOE9i83LBlXraZOLG90bOO28hKUVYIJgY",
-        "userName": "Ted Doe",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9nezjYiAKeP4g_QA5obCj1J0-yjRrzmF3F2yR=mo",
-        "content": "Very good virtual app for dr visits. Easy to use. Good quality.",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-10 12:51:25",
-        "replyContent": "Thank you so much for your feedback.",
-        "repliedAt": "2020-11-13 14:35:50"
-    },
-    {
-        "reviewId": "gp:AOqpTOFpKCFVNp1Kv4L8qdG9ABTMLPzaru-UOzwGrDvP3ZhgiMnorDgf8vSpCexFpxGg-ogmUO1xh9nLsd011Yk",
-        "userName": "valerie boone",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzimFh0bwnlJEtOZvP19jSfHwOqFDBJH73hZGif=mo",
-        "content": "Quick and simple and helped me after normal dr hours!",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-10 04:25:35",
-        "replyContent": "Thank you for your review!",
-        "repliedAt": "2020-11-13 14:35:42"
-    },
-    {
-        "reviewId": "gp:AOqpTOHdrRVv4Rk6ngmtMkcxz91zcZ6wFvYrYisObsmKDQsTZpR30Sd0sa7LwXFuOTmdGe6mGa5F8s8F3Coj1J4",
-        "userName": "Pankaj Patel",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxgONjc-_GgC2YjRf7taUxLRU2q6jZCa2VZpVdq=mo",
-        "content": "Very good. Suggestion: The alerts, upon go-back to previous screen, could have a better text message.",
-        "score": 4,
-        "thumbsUpCount": 9,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-10 01:28:41",
-        "replyContent": "Thank you for your review and for providing your valuable feedback.",
-        "repliedAt": "2020-11-13 14:35:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOFxCnVFYMtEuMAFMdmphQvVskXoPZ1mV5v-pN4wMDuAoit6WvwYGYYaddLeKRxvbcXQnC2JA-PrJajTO-o",
-        "userName": "Alexandria baez",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNLaABTyQTrWDR0q_I163E81NaQ1Jh6EBHO4LleQ",
-        "content": "Easy to use!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-09 23:08:04",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-13 14:34:52"
-    },
-    {
-        "reviewId": "gp:AOqpTOHjU0PdHF7Do6ANlpSYTlhx6xuQjCT0Ints0RSATLE0Fx7m-336ap0HeuG7uOQm_QsB2iHh1yAowVBO3Hw",
-        "userName": "Brit Para",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjncxWUt2K7-2PnRWf4WXbx2ouFbi81FpR7pzvLIQ",
-        "content": "Dr Washington is awesome she's a psychiatrist there she really listens she's really good I just like all their doctors there they're just they're good they listen and they're just good doctors",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-09 16:48:14",
-        "replyContent": "Thank you so much for your review! We're so glad our doctors have been able to help.",
-        "repliedAt": "2020-11-13 14:34:29"
-    },
-    {
-        "reviewId": "gp:AOqpTOEBr9XeMZJKs-wrOvfYIPeRqdCnUJbnlxf85TXbBacHb29b41kv4g3L1y9sI7DIayKonBzK1xEOCvbW9IY",
-        "userName": "Tony McCarthy",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjbj-UxteMjSJYyVcerviZDilIXuIh_tnOngPq1ng",
-        "content": "Great and fast",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-09 04:40:01",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-09 14:54:52"
-    },
-    {
-        "reviewId": "gp:AOqpTOHuZ1U3ogapobYgpTzys3V7Z5afp3sA3ki-UjrFQ3jDld5McLoopQSutoh0N3Rhdta-bMlTJq7G1__4s7Y",
-        "userName": "Roselaine Samedi",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyK0dIgJEVZbRPBFoTxnmFHshSKBjN7ECXU2Ipp=mo",
-        "content": "I enjoy when my Dr. Try to call me or text messages . So yes I do Love it . And Thanks again.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.0",
-        "at": "2020-11-09 04:05:49",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-09 14:54:46"
-    },
-    {
-        "reviewId": "gp:AOqpTOEOERWPdP3c5E6sRdx66Rs8BZLd8R_vuGVvLoBvSHrbQIDbBwVklhmKHHIvJ_3mHM7QGxenOlq80fCJRcs",
-        "userName": "Angela Gennaro",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgEFmoe9PvSsUCUor2twbZFQl9pvl5_C0CnhEDnad8",
-        "content": "Easy to use, works with my insurance.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-09 03:37:50",
-        "replyContent": "Thank you so much for your review!",
-        "repliedAt": "2020-11-09 14:54:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOFExx42z_zsnJKqDkr2TTVHSSlfs7Id50tZHJ1t3by3_0Gdgd5R_fkPfFVcuAJRDllK9pnFhG6UxASRrNA",
-        "userName": "Russ Walton",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxy3fVxVGTLz8ZgJHfEJe7n_BcCzO4K6VSmAwmI=mo",
-        "content": "App has video built in which I like.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.43.1",
-        "at": "2020-11-08 21:54:24",
-        "replyContent": "Thank you so much for your feedback.",
-        "repliedAt": "2020-11-09 14:54:35"
     }
 ]

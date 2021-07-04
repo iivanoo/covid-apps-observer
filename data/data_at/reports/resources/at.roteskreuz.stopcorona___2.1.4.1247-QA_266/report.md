@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Ist kompplizizirrt<br> :date: __2021-07-03 06:20:28__
+
 > Die App funktioniert und ist sehr sicher. Hauptproblem: Viel zu wenige Leute haben sie installiert!! Vorschläge für mehr Attraktivität: Corona-News (Inzidenz, aktuelle Maßnahmen...) als Push-Nachrichten, Einbinden der 3g-Zertifikate.<br> :date: __2021-06-26 06:54:07__
 
 > Probleme wurden behoben, danke! 5 Sterne.<br> :date: __2021-06-09 17:53:44__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > 😂😂😂<br> :date: __2021-05-17 16:04:26__
 
 > Gut<br> :date: __2021-05-06 13:50:59__
-
-> ICH LASSE MICH IMPFEN,AMEN<br> :date: __2021-05-05 08:39:22__
 
 
 
@@ -232,6 +232,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 2 reviews"/>
 </p>
 
+> Akku wird leer gesaugt, ohne die App hält meine Batterie ca 20h gut durch, mit aktiviertem Tracing sind es nur noch 6-8 Stunden! Das geht so nicht. Habe das Programm wieder gelöscht.<br> :date: __2021-07-01 00:10:07__
+
 > Die Einwilligung funltioniert nicht.<br> :date: __2021-06-07 07:40:34__
 
 > kenn ich nicht<br> :date: __2021-05-10 19:57:51__
@@ -250,8 +252,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 
 > warum kommt nach dem aufrufen der app zuerst die frage nach dem "handschake" , anstelle die frage "symptome" prüfen? das verwirrt viele. und warum kommt nach der frage 1, keine frage 2 (falls ich mich gesund fühle, wähle?) das verwirrt zum 2. mal. haben die entwickler irgendwann die user gefragt wie es ihnen mit der app geht.<br> :date: __2021-03-03 09:18:03__
 
-> Offensichtlich sinnlos und lässt den User im Regen stehen. Ich bekam heute eine Warnung eines möglichen Kontaktes. Dieses nicht ausgereifte Stück Software zeigt nicht mal an, an welchem Tag der Kontakt statt gefunden hat. Erst eine Kontaktaufnahme der betroffenen Person bestätigte die offensichtliche Quelle des Kontakts (Gott sei Dank alles negativ). Seit dem nervt die App im ca 30min. Takt mit Warnmeldungen. Lt. App hatte ich jetzt schon 5 weitere Kontakte. Stümperhaft. Schade ums Geld.<br> :date: __2021-02-07 11:27:25__
-
 
 
 #### 1-star reviews
@@ -259,6 +259,12 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
+
+> Idee ist gut, dürfte aber nicht funktionieren, denn wenn ich auf gespeicherte ID's schaue hab ich oft dann kontakt zu anderen wenn ich a) auf der Autobahn alleine im Auto fahre, b) alleine zu Hause bin und c) auf einem Weg alleine spazieren gehe. Komischerweise erst 2 Kontakte wenn ich einkaufen gehe oder mich im öffentlichen Raum aufhalte zwischen anderen Personen. Kaum bin ich wieder alleine unterwegs kommen wieder vermehrt Kontakte hinzu. zertifikate hochladen fehlt<br> :date: __2021-07-03 10:24:14__
+
+> SINNLOS. Mittlerweile macht so eine App gar keinen Sinn mehr. Und benutzt hat sie sowieso so gut wie niemand.<br> :date: __2021-07-02 14:40:56__
+
+> Heute die Anwendung installiert und gestartet. Diese Version wird nicht mehr unterstützt, gehen Sie zum Play Store! Wer hat geschlampt, Google oder Rotes Kreuz? Kontaktverfolgung wird immer noch gemacht. Diese Anwendung ist nutzlos.<br> :date: __2021-07-02 04:30:13__
 
 > Nach mehreren Wochen Betrieb habe ich fast 1 GB Speicherplatz verbraucht... ursprünglich werden rd 50 MB angezeigt .. völlig unbrauchbar wie Kaufhaus Österreich<br> :date: __2021-06-05 18:01:40__
 
@@ -273,11 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Unbrauchbsr<br> :date: __2021-05-02 09:22:27__
 
 > Rosikokontakt erst nach 8 Tagen gemeldet. Wie kann so was passieren?<br> :date: __2021-05-01 20:39:16__
-
-> 500 MB Datenverbrauch am Tag? Geht gar nicht<br> :date: __2021-04-29 18:52:09__
-
-> Kann mir jemand erklären, warum müssen wir in Österreich eine "eigene" warn app entwickeln und vom steuergeld bezahlen, wo doch die warn app der brd viel besser ist, mehr kann, zb für qr codes der testungen und grünem pass bereits vorbereitet ist? Ist das stolze österreich in europa?<br> :date: __2021-04-25 10:05:39__
-
-> Warum verbraucht die App etwa 1,2GB/Monat? .... lässt sich seit etwa einer Woche nicht aktualisieren<br> :date: __2021-04-23 11:34:53__
 
 

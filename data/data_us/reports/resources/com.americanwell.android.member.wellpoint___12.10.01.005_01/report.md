@@ -186,6 +186,16 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> 36 minutes from download to end of visit!<br> :date: __2021-07-02 18:52:12__
+
+> Managed to get a quick refill on my asthma meds over the weekend before a week of traveling. Made life so easy. Caring, professional. Gotta understand though that somethings are better to be seen in person for new diagnosis. this is an awesome option for maintenance and things we've experienced before.<br> :date: __2021-07-02 02:11:49__
+
+> Great<br> :date: __2021-07-01 19:14:03__
+
+> Veryhelp ful<br> :date: __2021-06-30 22:39:40__
+
+> Extremely easy to use and very helpful<br> :date: __2021-06-28 17:47:37__
+
 > The doctors are very helpful. They have answers for all my questions.<br> :date: __2021-06-27 03:22:53__
 
 > Best mental help I've had for depression<br> :date: __2021-06-25 18:56:01__
@@ -196,16 +206,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > Awesome, I didn't have to wait very long. My insurance was accepted so it was free. My doctor was very pleasant and understanding.<br> :date: __2021-06-22 12:13:58__
 
-> Great experience<br> :date: __2021-06-21 18:52:39__
-
-> Got connected within 5min and great service.<br> :date: __2021-06-20 15:53:00__
-
-> WOW! Great and fast service, I'm very impressed!<br> :date: __2021-06-17 18:46:08__
-
-> So covenient when it is hard to get time to see your PCP<br> :date: __2021-06-16 19:17:06__
-
-> Very helpful<br> :date: __2021-06-16 05:03:51__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> Doctor was very good, the app was a little shaky.<br> :date: __2021-06-29 21:30:31__
 
 > The app has its ups and downs, it is mildly annoying that we have to input the screening questions twice. Once before selecting a physician and then again in a AI chat after selecting the physician. It is convenient to eliminate concerns, or confirm that further treatment is required. Like with most doctors, the bedside manner and their willingness to listen to the person in front of them varies widely like it does in all walks of life. Payment has become more convenient.<br> :date: __2021-06-07 14:06:36__
 
@@ -231,8 +233,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Easy to use<br> :date: __2021-03-30 22:03:02__
 
 > Good service. I would like a better or ore robust user interface.<br> :date: __2021-03-23 21:17:49__
-
-> Sometimes there are glitches like loss of volume ,or one day we couldn't connect at all but over all I like it.<br> :date: __2021-03-18 16:53:31__
 
 
 

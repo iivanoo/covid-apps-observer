@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEDcAPnl4fVzQOToVB_9M4IY-u1psl7SSPcngxk3w_YtMGHQ7aHZ4t8kS3Dt78KWPF47PfFeIgvY4TCrO0",
+        "userName": "Todd Of All Trades",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giq9qvR57MV7v0NdC7ia7bo2baMytWtCcGV6hZv",
+        "content": "Not enough people used the app to make it any good.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-06-29 16:57:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFAgp_dsf5hP7h-3r0IOcFcNYlqs3wNTi6NzzUeMZSP6hwYf96LQVVSN_rYsZaFWL8TprXusuutCbY7v-c",
         "userName": "Alec Snowball",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi4H6qo3Y0Mtm62pcknyAqwlxfXUWodWGLNNeH7XhY",
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjAxPG3s4_wLfGoleWKwu33tkKKgZjS3GAXoVV5",
         "content": "Horrible way to track if you were exposed I allowed all it's permissions & never notified even when I knew I'd been exposed or working on a facility under then current virus lockdown. It failed so badly that had to rely on \"non ISP\" means of tracking exposure & being tested over & over. FAILURE of an app. I'd give it zero stars if I could",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "minted810027",
         "at": "2021-06-17 20:45:25",
         "replyContent": null,
@@ -128,18 +140,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "minted810002",
         "at": "2021-05-30 07:26:01",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH4Mq7WH5bBjh6R5SjxsHtdSzL-lZHN5S6NfTaiyMn4Z9eglL3lgVf1o-mCx98Ci7s-e5MPkEc9rQGnexs",
-        "userName": "Adam Stillman",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgfzEa4Dk3PB6StSUx4mYa4a20mYdAVSkv6MG0PmQ",
-        "content": "I used this tool every time I left home, until I got vaccinated against covid-19.",
-        "score": 5,
-        "thumbsUpCount": 4,
-        "reviewCreatedVersion": null,
-        "at": "2021-05-28 17:28:56",
         "replyContent": null,
         "repliedAt": null
     },
@@ -341,7 +341,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFuk8Tx_3M-fVltmgAlTJ9lLD6oqDgXR42W6jGzQ",
         "content": "DISSAPOINTINGLY USELESS. I'm very supportive of this app in theory, but it's basically rendered entirely useless when users cannot self-report, when many positive users can't get a code, and even if they are called by the health dept you have to ask for one, they don't automatically offer a code or recommend this app. To take the cake, many users report multiple state health staff having NO IDEA about such code when asked about it. So sad, this app could have been so useful.",
         "score": 1,
-        "thumbsUpCount": 48,
+        "thumbsUpCount": 49,
         "reviewCreatedVersion": "minted160013",
         "at": "2021-04-10 22:42:26",
         "replyContent": null,
@@ -565,7 +565,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHuWcWeE43X2Buf04T4Smx77d04vfuT5g0pOeSGttoZA0WrBrkWYkBBlEaJ290aQlfvESKzEC6fi3Xx83Q",
-        "userName": "michele newman",
+        "userName": "M. N.",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzdd9ujKlwljS0Q7GrVGbgRXhFpKLg7URd8uFmh=mo",
         "content": "Perfect job!! Great tool !!!!!!",
         "score": 5,
@@ -617,7 +617,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiUxbayYb__BaRTJfbmWXeQEvFA_6F5xpyTep2W",
         "content": "Got notified today of a possible exposure from last week. I could figure out where I was since I had the date, and go get tested immediately. I wish the app said you SHOULD get tested not only if you have symptoms as the testing center wasn't sure if I met testing criteria. But glad I had the app installed if I can prevent further spread.",
         "score": 4,
-        "thumbsUpCount": 18,
+        "thumbsUpCount": 19,
         "reviewCreatedVersion": "minted142006",
         "at": "2021-02-10 19:24:40",
         "replyContent": "Hi Graham, thank you for sharing. We'd love to hear more about your experience with WA Notify. If you're interested in sharing, feel free to respond to this notification and we'll follow up!\n",

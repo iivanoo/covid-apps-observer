@@ -1,0 +1,95 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    },
+    {
+        "name": "microsoft.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Microsoft Corporation",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1991-05-02 04:00:00",
+        "expiration_date": "2022-05-03 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns1-205.azure-dns.com', 'ns3-205.azure-dns.org', 'ns2-205.azure-dns.net', 'ns4-205.azure-dns.info'}"
+    },
+    {
+        "name": "tealiumiq.com",
+        "registrar": "Amazon Registrar, Inc.",
+        "registrant": "Whois Privacy Service",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2011-02-09 18:33:06",
+        "expiration_date": "2022-02-09 18:33:06",
+        "last_updated": null,
+        "status": "ok https://icann.org/epp#ok",
+        "statuses": [
+            "ok https://icann.org/epp#ok"
+        ],
+        "name_servers": "{'ns-228.awsdns-28.com', 'ns-1302.awsdns-34.org', 'ns-1558.awsdns-02.co.uk', 'ns-1018.awsdns-63.net'}"
+    },
+    {
+        "name": "googleapis.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2005-01-25 17:52:26",
+        "expiration_date": "2022-01-25 17:52:26",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    }
+]

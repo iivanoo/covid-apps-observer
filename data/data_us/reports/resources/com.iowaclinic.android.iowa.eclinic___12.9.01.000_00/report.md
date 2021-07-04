@@ -178,6 +178,8 @@ The Virtual Care The Iowa eClinic app has been installed by more than **5000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.iowaclinic.android.iowa.eclinic 5 reviews"/>
 </p>
 
+> Love that it is an easy way to talk with the doctor about test results, etc, if it is something that s physical exam is needed. I had a CT scan, and needed to talk about the results. Having a tele-visit allowed me to discuss results and next steps, without having to take hours off of work.<br> :date: __2021-06-30 17:43:30__
+
 > Easy to use. Easy to see and hear the dr.<br> :date: __2021-03-26 17:04:24__
 
 > It was great. No issues with the quality of the visit<br> :date: __2021-03-25 18:25:40__
@@ -195,8 +197,6 @@ The Virtual Care The Iowa eClinic app has been installed by more than **5000** t
 > DR. CHENNUPATI IS THE GREATEST FAMILY DOCTOR IN THE WORLD!!!!!!!! My family loves her!!<br> :date: __2020-12-14 17:05:26__
 
 > Great experience!!<br> :date: __2020-12-01 17:44:08__
-
-> Its very easy to use,and it goes quick.<br> :date: __2020-11-19 23:37:12__
 
 
 

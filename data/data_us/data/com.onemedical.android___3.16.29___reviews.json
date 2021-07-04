@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOEEUlQp2hYC75H9l9jKfnZ2CCG7aA5ktULsXRvb6bhSVXXCz08weLmhbOqMXu6pcAfD1qZg4pDzisKNh0Y",
+        "userName": "Amy C",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYAMheh1dZ7XCTHfnC3SvNkkabFg0DOPH3ieNgSw",
+        "content": "App will not let me log in from my Android/ Pixel phone. It takes me back to log in page without erroring out. Please fix this. I can sign into website no problem. I complained over a month ago. Changing my password did not solve it. Reloading app did not solve it.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.16.29",
+        "at": "2021-07-03 06:15:05",
+        "replyContent": "Hi there, sorry to hear this. If you send a message to techsupport@onemedical.com our team can look into what is happening and hopefully get this issue resolved for you.",
+        "repliedAt": "2021-06-16 19:40:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOHdv9bNUQ3sZuCk32-GM9CHM-rgd_BjvTTnBdJTgvRO6S-2WXs5-7Kw-rEsBIp6AR4seLTdWtdm-hblNog",
+        "userName": "Jacob Horowitz",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw_F5qPRaiRNFZIB-uLmzipkOa0Dav6tMrGfpoC=mo",
+        "content": "Great, especially for telehealth.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.29",
+        "at": "2021-06-30 01:40:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGmHS-UaOsKUKPMkjBmvWJHoOYMRoU--6GMlzhOMBTwFXp-Qp2oBsTVIjZJgVeW-kYwG0EzaxtwnYZR72g",
+        "userName": "Brian Sassi",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwN_dc1RxzRDYamgX-1HdL_qEaddzioYcUJFh82=mo",
+        "content": "Not allowing a log on",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.29",
+        "at": "2021-06-28 20:51:44",
+        "replyContent": "So sorry about this, if you message into techsupport@onemedical.com with your experience our team can look into what is happening.",
+        "repliedAt": "2021-06-28 21:50:33"
+    },
+    {
         "reviewId": "gp:AOqpTOHh4f1BQKGvdFCOYLznJ_853OPV17IU4czIsG23yCQPbQi5NS78L_JHnmwyziAhbwwknBkhpa70_Zadbq8",
         "userName": "Stretch Armstrong",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GidE1b-AmwW-mIr8ibEgddnf2urwohUkQTX01w09nM",
@@ -125,7 +161,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz4X4_g_YpWbEP85bve1usQHWsu33Xuwi5j1oXe=mo",
         "content": "It's only a wrapper around Chrome, and one that won't let me log in with my known good password. I'll just open the site with Chrome directly.",
         "score": 1,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "3.16.27",
         "at": "2021-06-14 00:41:36",
         "replyContent": "Hi there, sorry to hear this. If you send a message to techsupport@onemedical.com our team can look into what is happening and hopefully get this issue resolved for you.",
@@ -154,18 +190,6 @@
         "at": "2021-06-11 21:48:42",
         "replyContent": "Hi there, sorry to hear this. If you send a message to techsupport@onemedical.com our team can look into what is happening and hopefully get this issue resolved for you.\n",
         "repliedAt": "2021-06-16 19:40:14"
-    },
-    {
-        "reviewId": "gp:AOqpTOEEUlQp2hYC75H9l9jKfnZ2CCG7aA5ktULsXRvb6bhSVXXCz08weLmhbOqMXu6pcAfD1qZg4pDzisKNh0Y",
-        "userName": "Amy C",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYAMheh1dZ7XCTHfnC3SvNkkabFg0DOPH3ieNgSw",
-        "content": "cannot log in to app on Android/pixel 3. password works fine on website.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.16.27",
-        "at": "2021-06-11 01:40:34",
-        "replyContent": "Hi there, sorry to hear this. If you send a message to techsupport@onemedical.com our team can look into what is happening and hopefully get this issue resolved for you.",
-        "repliedAt": "2021-06-16 19:40:21"
     },
     {
         "reviewId": "gp:AOqpTOEwQeJNcgfCAXLORgaIX0zqy9C5-AGR1aitRmvdag4cHWzfvk3FAwumlCsiLcsPGzqS-bFpVROtCDtFOkk",
@@ -293,7 +317,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjKfHgJjmkWtAZI4n6Dx3DOJ0DJDxs2JviIbY1=mo",
         "content": "A terrible experience. Wanted to get the Pfizer vaccine, so I had to install this app and register for this companies account and on and on. Then despite multiple sites LA County Public Health & others directing me to this company it turns out they aren't in fact giving out the vaccine as described. Avoid this one.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "3.16.23",
         "at": "2021-04-27 20:14:17",
         "replyContent": null,

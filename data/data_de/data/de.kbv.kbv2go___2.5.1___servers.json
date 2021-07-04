@@ -1,0 +1,117 @@
+[
+    {
+        "name": "google.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    },
+    {
+        "name": "youtube.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2005-02-15 05:13:12",
+        "expiration_date": "2022-02-15 05:13:12",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    },
+    {
+        "name": "kbv.de",
+        "registrar": "",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": null,
+        "expiration_date": null,
+        "last_updated": "2021-03-19 15:51:53+01:00",
+        "status": "connect",
+        "statuses": [
+            "connect"
+        ],
+        "name_servers": "{'ns01.kbv.de', 'ns02.kbv.de'}"
+    },
+    {
+        "name": "twitter.com",
+        "registrar": "CSC Corporate Domains, Inc.",
+        "registrant": "Twitter, Inc.",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2000-01-21 16:28:17",
+        "expiration_date": "2022-01-21 16:28:17",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+            "serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited"
+        ],
+        "name_servers": "{'d01-02.ns.twtrdns.net', 'd01-01.ns.twtrdns.net', 'ns3.p34.dynect.net', 'b.r06.twtrdns.net', 'a.r06.twtrdns.net', 'ns4.p34.dynect.net', 'c.r06.twtrdns.net', 'd.r06.twtrdns.net'}"
+    },
+    {
+        "name": "googleapis.com",
+        "registrar": "MarkMonitor Inc.",
+        "registrant": "Google LLC",
+        "registrar_country": "",
+        "registrant_country": "US",
+        "creation_date": "2005-01-25 17:52:26",
+        "expiration_date": "2022-01-25 17:52:26",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)"
+        ],
+        "name_servers": "{'ns3.google.com', 'ns1.google.com', 'ns4.google.com', 'ns2.google.com'}"
+    }
+]

@@ -137,6 +137,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 5 reviews"/>
 </p>
 
+> Did its job. I'm now fully vaxed so....uninstalled now<br> :date: __2021-07-03 20:22:13__
+
 > I just got my j and j shot today<br> :date: __2021-05-22 06:48:25__
 
 > No warning so far!?<br> :date: __2021-05-08 04:20:12__
@@ -154,8 +156,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > I like the fact that this app checks for covid it alerts you to let you know what exactly its doing. Most Recommended<br> :date: __2021-02-16 20:26:02__
 
 > Call V's in your head and what you did in your life will kill you<br> :date: __2021-02-15 05:50:20__
-
-> Good<br> :date: __2021-02-05 23:46:01__
 
 
 

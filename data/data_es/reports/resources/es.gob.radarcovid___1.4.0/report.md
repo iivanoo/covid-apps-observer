@@ -129,25 +129,25 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
+> De momento no la he usado. No puedo opinar.<br> :date: __2021-07-03 22:36:46__
+
+> Ya lo tengo descargado Radar cobid19. Y tengo puesto el Bluetooth y además tengo puesto la primera vacuna pfaiser el día 6 de este mes el martes que viene voy ya para ponerme la segunda vacuna y cómo funciona lo de Radar Cobid19 tengo puesto el Bluetooth y qué es lo que hace Radar cobid19 no lo entiendo<br> :date: __2021-07-02 22:36:31__
+
+> Mi parecer bien está aplicación pois tomando los cuidados debidos com esta aplicación tu puedes salir tranquilo se te acercas a alguien com el virus serás avisado en el momento<br> :date: __2021-07-01 22:23:09__
+
+> Alguno habrá puesto que tiene el covid a mi no me señala nada.<br> :date: __2021-07-01 15:32:15__
+
+> Muy buena aplicación para localizar si hay alguna persona con posibilidad de tener el covi<br> :date: __2021-07-01 00:09:00__
+
+> Parece bastante útil aunque no sé si te puedes fiar de los resultados<br> :date: __2021-06-30 22:38:48__
+
+> Covid mis huesos... комплимент Calcio Ca Cádiz<br> :date: __2021-06-30 20:31:47__
+
+> g7bñ<br> :date: __2021-06-28 10:39:31__
+
 > Necesaria<br> :date: __2021-06-24 23:11:25__
 
 > No ha sido útil<br> :date: __2021-06-24 15:15:17__
-
-> Va bien aunque estaria interesante que, ademas de tener la opncion de indicar que has tenido covid, tambien tuviera la opcion de indicar que estas vacunado. Principalmente para ver los datos en el bigdata<br> :date: __2021-06-24 10:48:26__
-
-> Muy buena<br> :date: __2021-06-24 05:27:57__
-
-> No se poner aplicasiones como debe ser por que no entiendo como hacer estoi perdida en ello.<br> :date: __2021-06-23 06:32:57__
-
-> Rocio Bien Bueno tardé casa Rocio Besós Mucho Gracias Rocio Lloréns Guillén RLl123456<br> :date: __2021-06-21 15:28:43__
-
-> muy buena<br> :date: __2021-06-19 06:15:29__
-
-> Perfecto<br> :date: __2021-06-19 01:22:34__
-
-> Muy buena<br> :date: __2021-06-18 22:24:24__
-
-> Muy buena<br> :date: __2021-06-18 20:05:15__
 
 
 
@@ -156,6 +156,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.radarcovid 4 reviews"/>
 </p>
+
+> Gracias a Dios. El Covid19 NO TUBE NI TENGO ME HICE UNA PRUEVA BIEN.Y TUBE QUE REALIZARME UNA CIRUGIA TUBE DOS VECES MAS .U YO TODAS LAS MEDIDAS HIGIENE POR MI PROPIA SALUD .LAS CUMPLO Y LAS DE MI HIJO.<br> :date: __2021-07-03 15:47:01__
+
+> A mí me funciona a la perfección.Muchas gracias.<br> :date: __2021-06-29 08:29:53__
 
 > Te da una gran tranquilidad<br> :date: __2021-06-20 11:32:02__
 
@@ -173,10 +177,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Bamos.amirar.sida.resultado.. Esperemos.que.trabaje.vien. Nosenada.de.la.aplicacion.<br> :date: __2021-05-20 17:02:26__
 
-> Estaría bien que incorporaseis una función para que el usuario pudiese marcar que ya está vacunado, cuántas dosis y de qué laboratorio.<br> :date: __2021-05-17 17:13:34__
-
-> Muy poco práctica<br> :date: __2021-05-10 14:37:25__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
+
+> Muy poca gente lo lleva activado. 😞<br> :date: __2021-07-02 16:53:49__
+
+> Bastante mejorable. Te da la información de la provincia no del lugar donde te encuentras dentro de ella, a pesar de tener concedido permiso de la ubicación.<br> :date: __2021-07-01 18:11:23__
 
 > El juego no esta mal, la parte del juego que mas me gusta es el modo zen y el modo online. Lo malo es que en el modo historia es que en el nivel 28 el jefe final es demasiado poderoso, es decir ¿2400 de vida ? Eso es IMPOSIBLE DE VENCER. En general no esta mal, 3/5 estrellas.<br> :date: __2021-06-26 16:00:07__
 
@@ -200,10 +204,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 > La he usado muy poco.<br> :date: __2021-06-16 21:35:54__
 
 > En su tiempo fue echa con muy buena intención pero no creo que halla servido de mucho para frenar la pandemia<br> :date: __2021-06-03 15:50:25__
-
-> Muy buenas<br> :date: __2021-06-02 21:12:28__
-
-> Nunca me dijo nada o me.mostro algo.<br> :date: __2021-05-28 13:22:06__
 
 
 
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
+> Esta aplicación ha resultado ser completamente inútil. Nadie la usa, y ni siquiera en los centros de salud te dan los datos para informar de positivos (cosa que tenía que ser prioritaria). Me gustaría que informasen alguna vez de cuántos casos ha detectado. Apuesto que no llegan ni a 10 en toda España. Y creo que me he pasado. Un gasto inútil de dinero del contribuyente, y de recursos del móvil. Tras tenerla desde que la sacaron, la he desinstalado.<br> :date: __2021-07-04 13:30:54__
+
+> Muy mal organizado, difundido y el desarrollo de la app es de un nivel muy facil como si lo hubiera hecho un niño y no un grupo de informáticos. No funciona y para que deberian añadir que estas vacunado cuando no sirve para nada porque te tendras que volver a vacunar y de todos modos aunque estes vacunado no estas protegido del todo y yo pienso vacunarme no soy uno de esos idiotas sin neuronas diciendo chorradas sobre vacunas<br> :date: __2021-07-03 21:40:08__
+
+> Mala<br> :date: __2021-07-03 11:05:18__
+
+> Le daría cero estrellas pero no se puede<br> :date: __2021-07-02 21:13:26__
+
+> No funciona<br> :date: __2021-07-02 08:57:19__
+
+> Cada vez que quitas el modo avión la app se queda colgada teniendo que restaurar los permisos para que vuelva a funcionar<br> :date: __2021-07-01 12:11:15__
+
+> No sirve<br> :date: __2021-06-30 21:27:43__
+
+> Si la gente contagiada no comunica la aplicación no sirve de nada<br> :date: __2021-06-28 20:32:53__
+
 > No sirve para nada, la instalé cuando la sacó el gobierno, la he tenido siempre puesta por si acaso y cuando he estado expuesto no me ha avisado. No funciona, no sirve para nada. No perdais el tiempo instalandola, poneros mascarilla FPP2.<br> :date: __2021-06-27 21:05:49__
 
 > No funciona casi nunca . Ni detecta nada.<br> :date: __2021-06-27 20:06:13__
-
-> Te puede detertar a ti 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔<br> :date: __2021-06-27 20:03:18__
-
-> La tuve y no servía para nada salvo para gastar batería en el Bluetooth conectado día y noche. En el centro médico de salud no dan código alguno a los positivos en el virus por lo tanto no se puede introducir en la app. Es ridículo tenerla.<br> :date: __2021-06-27 19:50:42__
-
-> Nunca avisa de ningún contagio. No sirve absolutamente para nada.<br> :date: __2021-06-27 17:06:39__
-
-> No sirve para nada, sólo para ocupar espacio y gastar batería.<br> :date: __2021-06-27 15:46:26__
-
-> Malísimo<br> :date: __2021-06-27 14:25:38__
-
-> La tengo desde el principio, no vale para nada, eso sí!!!! Para gastar dinero publico, para nada mas<br> :date: __2021-06-27 13:11:34__
-
-> A mi entender: Una vez que se ha padecido del virus hay que entregar el número suministrado por el médico en el app para indicar el hecho. ¿La gente sabe esto, tiene la voluntad en plena enfermedad hacerlo?<br> :date: __2021-06-27 08:58:03__
-
-> Albion online es un MMORPG no lineal, en el que escribes tu propia historia. Que buen dato te aventaste, pero no nadie te pregunto.<br> :date: __2021-06-26 20:33:28__
 
 

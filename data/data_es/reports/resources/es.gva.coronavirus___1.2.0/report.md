@@ -121,6 +121,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="es.gva.coronavirus 5 reviews"/>
 </p>
 
+> La mejor app para informarte de que van las vacunas, que grupo de edades, modificar datos de contacto. Muy completa. La recomiendo.<br> :date: __2021-07-02 12:28:50__
+
 > Eficacia eficiente e innovadora<br> :date: __2021-06-08 19:47:51__
 
 > Estupenda. Si además la combinas con la de pedir cita con tu médico habitual en cuanto la usas te aparece una cita telefónica con una enfermera, que te dará cita para la pcr por teléfono. A mí me funcionó estupendamente, rápida y sencilla de usar. De hecho, la estoy recomendando a casi todos mis amigos y conocidos por si acaso tienen que solicitar una pcr al estar los ambulatorios desbordados.<br> :date: __2021-02-01 17:04:58__
@@ -138,8 +140,6 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > Buena aplcasion<br> :date: __2020-10-22 20:36:42__
 
 > Me parece una aplicación muy útil. Es fácil de usar, informativa y lo más importante: te atienden rápido.<br> :date: __2020-10-07 09:42:29__
-
-> No se resien la aplico<br> :date: __2020-09-23 21:44:49__
 
 
 

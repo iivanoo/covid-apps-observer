@@ -270,7 +270,7 @@ The Nemours CareConnect – See a Pediatrician 24/7 app has been installed by mo
 <img src="1_star_reviews_wordcloud.png" alt="com.nemours.android.careconnect 1 reviews"/>
 </p>
 
-> They used to be good but now they are absolutely a waste of time, all they do now is tell you to visit their office to have the child seen. Hello!! We don't feel safe taking our kids into an urgent care right now. What's the point of this app if you no longer do anything.<br> :date: __2020-11-08 00:36:36__
+> Don't waste your time with them they hardly treat anyting. They said they were only treating certain things during the pandemic but are no longer treating those since the pandemic is over, I didn't realize the pandemic was over.<br> :date: __2021-07-01 08:39:51__
 
 > Lagging. Voice going in and out. Not able to hear what the other person saying. Screen freezing.<br> :date: __2020-08-17 20:07:11__
 

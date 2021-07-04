@@ -151,25 +151,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Its good for us<br> :date: __2021-06-27 23:52:43__
+> Good<br> :date: __2021-07-04 17:05:43__
 
-> Why not come my resolt no come this grean I'm complate Vaccine<br> :date: __2021-06-27 21:14:46__
+> Good<br> :date: __2021-07-04 16:16:52__
 
-> Good<br> :date: __2021-06-27 21:05:30__
+> 😷😷😷<br> :date: __2021-07-04 14:49:14__
 
-> Splendid<br> :date: __2021-06-27 20:18:14__
+> Good<br> :date: __2021-07-04 11:25:52__
 
-> Invasion of privacy... Why does it need location all the time.. If I want to know who is positive around me there should be a separate app for that, but to enter and exit Abu Dhabi, I just need to show my test results and vaccination status at the entry points + the job place. Please give us the option or make a different app. Update: Now it's much better.. Thanks 👌<br> :date: __2021-06-27 19:34:53__
+> Good one<br> :date: __2021-07-04 09:22:44__
 
-> App is not responding how to check<br> :date: __2021-06-27 18:45:04__
+> service<br> :date: __2021-07-03 18:52:08__
 
-> Why not open<br> :date: __2021-06-27 10:48:04__
+> Very useful<br> :date: __2021-07-03 18:39:08__
 
-> Shaikhzyudullah<br> :date: __2021-06-27 09:58:28__
+> Exelance<br> :date: __2021-07-03 17:14:51__
 
-> Very good<br> :date: __2021-06-27 08:22:00__
+> Very easy and quick to use and result of your pcr<br> :date: __2021-07-03 17:13:11__
 
-> Very good and useful app<br> :date: __2021-06-27 07:11:01__
+> Awesome<br> :date: __2021-07-03 14:17:31__
 
 
 
@@ -179,25 +179,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
 
-> Regarding PCR report, if you can add the time of the test, it will be very helpful.<br> :date: __2021-06-27 12:55:18__
+> Helpful apps 👍👍<br> :date: __2021-07-02 14:46:12__
 
-> Result doesn't reflect on the app No response on the phone call assist Mail box is full, can't send them any comments<br> :date: __2021-06-27 09:21:30__
+> Very good app, its very helpful to show the status of vaccinated for everyone<br> :date: __2021-07-01 08:19:10__
 
-> Ok<br> :date: __2021-06-27 04:54:33__
+> ALHOSN<br> :date: __2021-06-30 19:21:53__
 
-> Good<br> :date: __2021-06-27 02:19:50__
+> Good<br> :date: __2021-06-29 19:07:03__
 
-> Good<br> :date: __2021-06-26 04:02:21__
+> Can't we not use this app outside UAE? Even when a resident of UAE travelling outside?<br> :date: __2021-06-29 15:24:50__
 
-> Good<br> :date: __2021-06-24 13:45:42__
+> Can you guys please tell me or help me if why my second DOS vaccination is not showing in my Alhosn app?<br> :date: __2021-06-29 12:31:47__
 
-> Good<br> :date: __2021-06-24 12:01:45__
+> Not opening in india why..? Pl can you explain<br> :date: __2021-06-29 10:47:37__
 
-> I still haven't been able to log in even after the most recent update.<br> :date: __2021-06-22 11:37:31__
+> 😇<br> :date: __2021-06-28 18:46:18__
 
-> Ok<br> :date: __2021-06-22 10:57:38__
+> Bangladesh<br> :date: __2021-06-28 10:44:28__
 
-> Nice<br> :date: __2021-06-21 20:06:48__
+> Good<br> :date: __2021-06-28 08:35:31__
 
 
 
@@ -207,25 +207,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
 
+> My experience this app not opening help me please<br> :date: __2021-07-04 16:26:31__
+
+> This app was not opening<br> :date: __2021-07-03 10:50:07__
+
+> Crashes a lot, slow to start and eats your battery life.<br> :date: __2021-07-03 09:40:28__
+
+> Can't open<br> :date: __2021-06-30 17:40:38__
+
+> Why does my picture not appear?<br> :date: __2021-06-29 15:06:38__
+
+> This app not working<br> :date: __2021-06-29 10:38:32__
+
+> Not update data informations<br> :date: __2021-06-29 08:12:18__
+
+> I want to find my vaccination report but still not showing in my app I want to see my report for my company purposes...<br> :date: __2021-06-28 06:02:06__
+
 > This app it doesn't work on my mobile my mobile is samsung s8 plus Pls fix this problem<br> :date: __2021-06-26 17:23:00__
 
 > If you are outside UAE the app wont work why?<br> :date: __2021-06-25 08:57:38__
-
-> This application not open for me. I had this app in uae, that time is working normally. But now im in india. Now its not working. Please do the needful team<br> :date: __2021-06-25 07:18:02__
-
-> Can't open this app in India.....why<br> :date: __2021-06-24 08:01:40__
-
-> App is not showing my vaccination details, I have done vaccination in Dubai. Kindly guide<br> :date: __2021-06-23 12:28:43__
-
-> Unable to access outside the UAE<br> :date: __2021-06-23 10:40:57__
-
-> اخذت جرعة اللقاح الاولى شهر 1 والجرعة الثانية شهر 2، والى الان في تطبيق الحصن ما يظهر إلا الجرعة الاولى فقط، علماً اني سويت تحليل كورونا بعد اللقاح اكثر من مرة، كيف نعالج الخلل !!!!!!<br> :date: __2021-06-22 18:36:50__
-
-> Why Alhosn app is not working in india?right now i'm in india.!Hope u'll advise..<br> :date: __2021-06-22 17:03:27__
-
-> It's not open out side of UAE. Now I am in india &I have to download my vaccine card,but it's not opening. Please do something'<br> :date: __2021-06-22 13:09:21__
-
-> App wasn't working,so I uninstalled and then reinstalled again, now I'm not receiving otp number, please fix<br> :date: __2021-06-21 08:33:11__
 
 
 
@@ -235,25 +235,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
 
-> Dears, The ALHOSN app is showing the wrong status of my vaccination for COVID-19. See attached printscreen from my mobile which shows wrong info about the first dose only, dated 30/03/2021. Please compare it with the vaccination certificate: 1st dose: 08/03/2021 shj expo center 2nd dose: 30/03/2021shj univercity kalba Could you please correct the info in your ALHOSN app database? Best Regards, Madasamy shanmugaiah<br> :date: __2021-06-24 14:42:53__
+> I am vaccinated but not show on e. Last march I did vaccination. After that 4 pcr, . I called customer no answer . What should I do.?<br> :date: __2021-07-04 06:31:14__
 
-> Results from pvt hospitals are not displayed automatically<br> :date: __2021-06-24 13:55:56__
+> Does not work outside the UAE so useless<br> :date: __2021-07-03 09:41:40__
 
-> abid Hussain nomi<br> :date: __2021-06-24 11:34:47__
+> Application is not working please update<br> :date: __2021-07-03 09:40:14__
 
-> Its not showing any of my PCR results of 2021<br> :date: __2021-06-23 22:06:03__
+> اnot working<br> :date: __2021-07-02 11:48:29__
 
-> Yesterday 20/06/2021 I was took RT PCR almost one day I waited for my result until this time also didn't updated in alhosn<br> :date: __2021-06-21 21:59:39__
+> Open kese ho ga<br> :date: __2021-07-01 18:37:18__
 
-> I am facing issue...now app is not working how to fix this? Pls let me know...I have to enter abudhabi ...when I write my details it is just showing verifying and then showing errore...please help how to fix this..<br> :date: __2021-06-21 20:05:30__
+> My second dose is not there here now 7 day I take<br> :date: __2021-07-01 14:48:39__
 
-> I uninstall the app and i install again now i cant even login because i cant receieve code on my number i tried severall times already but its still same<br> :date: __2021-06-21 10:34:29__
+> Its not working on my phone please what can I do?<br> :date: __2021-07-01 14:31:30__
 
-> Zakm<br> :date: __2021-06-21 08:57:52__
+> Can't open the app<br> :date: __2021-06-29 19:22:00__
 
-> My mobile number is correct.But I'm not getting my OTP. It's very very urgent.<br> :date: __2021-06-21 07:43:21__
+> It not opening the apps , please tell how to be fix it.<br> :date: __2021-06-29 08:09:18__
 
-> It's working before. But now I can't log-in to my account after numerous tries. Please fix all technical issues so that it will not cause any more inconvenience, especially it's a must requirement this time.<br> :date: __2021-06-19 14:25:31__
+> It's okay<br> :date: __2021-06-28 21:39:17__
 
 
 
@@ -263,24 +263,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Not working 😕<br> :date: __2021-06-27 21:59:06__
+> App is nit working and I am stuck at Abu Dhai Dubai Border. Police are not allowing me even I have shown Hospital Printed Report as well<br> :date: __2021-07-04 14:40:34__
 
-> This app not working in India, I want to download vaccination card but I am unable to open this app.<br> :date: __2021-06-27 21:45:58__
+> It needs serious upgrade alot of issues and this is delaying and causing alot of inconveniences to the public.<br> :date: __2021-07-04 14:36:02__
 
-> Not Good, very bad app not work for all mobile.very very very Bad.<br> :date: __2021-06-27 21:34:34__
+> It's not working well<br> :date: __2021-07-04 13:27:47__
 
-> I wonder if anyone is working on all the complaints listed below? The app stopped working after update, and I am, like many others, left without a proof of vaccination. And it si not clear where to raise the issue and who is responsible<br> :date: __2021-06-27 20:41:57__
+> Doesn't work. Hasn't worked for a week. How am I supposed to travel to Abu Dhabi if I can't show my test results!? Terrible.<br> :date: __2021-07-04 10:41:07__
 
-> النتائج لا تظهر<br> :date: __2021-06-27 20:37:11__
+> In my phone this app not working not8 has stopped<br> :date: __2021-07-04 08:47:38__
 
-> Alhosn app no updates status pcr test not update... To much problem Plz help plz plz. Alhosn costumer care call not accepting all time waiting waiting<br> :date: __2021-06-27 14:20:55__
+> The app is installed but not workingfor more than 15 days and keeps giving that there is an error<br> :date: __2021-07-04 07:59:52__
 
-> The app does not show my second dose nor my test results and there is no way to send feedback or request updates :/ how do we get assistance and fix this. Thank you<br> :date: __2021-06-27 12:00:48__
+> I tried to get my vaccination certificate through Alhosn app but it is vain.<br> :date: __2021-07-04 06:31:10__
 
-> App keeps on crashing it doesn't even start it immediately gives the has stopped working msg<br> :date: __2021-06-27 11:24:38__
+> not . working......<br> :date: __2021-07-03 14:39:21__
 
-> app does not load at all!!how come the govt release such an app with so much bugs<br> :date: __2021-06-27 10:57:47__
+> I installed it twice but it won"t open at all<br> :date: __2021-07-03 12:12:58__
 
-> Doesnt open<br> :date: __2021-06-27 08:33:35__
+> Had issues with entries in the app. Showing 4 doses of vaccine instead of 2. Tried to contact all available sources but no response. The hospital from where i took the vaccine said they already sent the Alhosn team the correction updates. Almost 2 weeks, but no updates yet. My booster dosage of vaccine was rejected because of this. Someone please assist..!!!<br> :date: __2021-07-03 11:55:41__
 
 

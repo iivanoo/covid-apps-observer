@@ -151,6 +151,8 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.adph.exposurenotifications 5 reviews"/>
 </p>
 
+> How to my account privacy from public<br> :date: __2021-06-28 19:10:45__
+
 > Kyle call me please<br> :date: __2021-06-24 17:35:27__
 
 > Informative<br> :date: __2021-05-19 22:10:43__
@@ -168,8 +170,6 @@ The GuideSafe app has been installed by more than **100000** times. At this time
 > 🌨️🏌️🐾🤫<br> :date: __2021-04-02 16:15:27__
 
 > Great App<br> :date: __2021-03-26 23:19:44__
-
-> Flawless amazing PERFECT $LC.<br> :date: __2021-03-23 18:12:59__
 
 
 

@@ -65,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwnByFGKRyBWp3yJD5IxXpoQFiYL4cVbJoDwrTN=mo",
         "content": "I got a new phone so this isn't the true amount of times I've checked in. I try to check in at least once a day. I look forward to check in.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.12.2",
         "at": "2021-05-17 22:43:18",
         "replyContent": null,
@@ -1189,7 +1189,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFaoeW7FOnGN_DWCL8yH0SraOnHIsU3kvJx4ErTxJz3jNsRSmoLPVI1K3q_Higx3nzCL-HHt7XRpmINRQk",
-        "userName": "Kodi Cherree Pierce",
+        "userName": "kodi cherree",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4CGWqD0sZt0kH2urKu6LAMfOqaaAnHygNXO5k",
         "content": "I may need some help. The app was fine, I have the latest update, but my phone kept telling me that the app was closing a lot. Now, I can't open it at all. I am uninstalling and reinstalling right now to see if that fixes the problem. What do I do if not?",
         "score": 5,
@@ -1868,18 +1868,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.13.6",
         "at": "2020-10-10 05:19:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFJwxFrGFqJFaQ1spW27-pElJ6Q4vwG-enExgCMQ6hZxYSGo9Cy40dNT8GImooYFobrBOIoxXWBWr6SzMs",
-        "userName": "Shirley Smajd",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgelBxZa9rnv4ec1-SqiqimbepA4POz22Re7fTiuQ",
-        "content": "Been using this app since it was new. Now it won't open, keep getting \"not responding.\" Uninstalled & reinstalled, same thing. Uninstalled for good I guess. \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-10-10 03:18:02",
         "replyContent": null,
         "repliedAt": null
     },
@@ -4322,7 +4310,7 @@
     {
         "reviewId": "gp:AOqpTOF0KxCZ_gNI5TaDC3dzyCDcvmqdUbjv35yqfEznLurZ_ZSTJ-k8Rwow6CbhQWC7hOvehnbp7b0sRlGL5Ck",
         "userName": "Mary Salazar",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0kXz_nKpCDAj7g-906MAQkHV1OCaqJlwAPiXf=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjx9RRNk-EsSIt0Uc_jLdrCJm0t5LFvx0rHJLXA27M",
         "content": "Makes me think about and remembering my activities. Helps me think about my symtoms and feeling",
         "score": 4,
         "thumbsUpCount": 0,
@@ -5294,7 +5282,7 @@
     {
         "reviewId": "gp:AOqpTOFtAFv-shWGA09xNLY_kwm-_lFQ-D1kL0EqDBeAHTo9OvPg1a2jHdqd6e_n61XAR3dj3LY6EDhWjyjPlnw",
         "userName": "Jerry Dingus",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgP0OtojnakkpRcfv6Oo-TXZmEfvK1gMcQA6lW6",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikeOoUpfI_Hzr7njLnIClrtgnWcMs9W7cFkBC8Itk",
         "content": "I'm fully on board with what this app is trying to accomplish that is gathered data about people throughout the country perhaps world. This app is erratic in when it reminds me to log in this app has added features specifically the how do we feel heart portion which is totally useless to me. Also this app does not update where you are and how many people are in your home",
         "score": 3,
         "thumbsUpCount": 0,
@@ -11996,6 +11984,18 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "1.0.20",
         "at": "2020-05-15 01:03:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEw7E-5Zj9EDbgMSQmbOckuOXG6rhG84yNhx0ccTsK0ci9QkLJpfEKUmJ1-I42qe2XtZCI_NpGe9wPs0FE",
+        "userName": "Kim",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjukGII7Aob4Y80gSeooxxjvRKeOsBi_nUTguUfcg",
+        "content": "I have been recording how I feel for 20 days. The app has worked great, has not crashed, is easy to use and it only takes a minute or two to complete. I also feel like I am helping someone whenever I check in because of the meals that are provided to the hungry every time a person checks in with the app. I am also using it with the hope that valuable data can be obtained and understood as we continue with the pandemic.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.20",
+        "at": "2020-05-15 00:51:49",
         "replyContent": null,
         "repliedAt": null
     }

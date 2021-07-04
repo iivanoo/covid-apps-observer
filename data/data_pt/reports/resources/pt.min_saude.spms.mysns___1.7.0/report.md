@@ -154,6 +154,14 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Boa ambiente na app<br> :date: __2021-07-02 19:30:43__
+
+> Excelente<br> :date: __2021-07-01 18:02:48__
+
+> Lenta na sua abertura, e de pouca utilidade. Não serve para consultar nada a não ser o número da saúde 24. Certamente o nome não corresponde à app. O que esperava era inserir o meu número de utente e ter acesso à informação médica pessoal.<br> :date: __2021-06-30 12:53:01__
+
+> Funciona bem e é bastante útil .<br> :date: __2021-06-28 21:17:51__
+
 > Não está a conseguir fazer nada mais quero é que o s lixe tudo<br> :date: __2021-06-26 20:33:04__
 
 > Bom<br> :date: __2021-06-26 16:22:46__
@@ -166,14 +174,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Sem experiência efetiva.<br> :date: __2021-06-14 16:36:45__
 
-> Gosto<br> :date: __2021-05-16 12:35:06__
-
-> Muito burocrática tds os itens deviam estar disponíveis automaticamente sem ter que recorrer assiduamente á chave digital,imagine- se para para o cidadão comum o transtorno.....<br> :date: __2021-04-24 21:46:43__
-
-> Sem dificuldade.<br> :date: __2021-03-25 16:34:31__
-
-> Bom.<br> :date: __2021-03-15 19:40:57__
-
 
 
 #### 4-star reviews
@@ -181,6 +181,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> Muito completa e rápida.<br> :date: __2021-07-04 15:22:16__
 
 > Bom<br> :date: __2021-06-24 17:20:04__
 
@@ -200,8 +202,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Boa experiência.<br> :date: __2020-11-12 09:59:38__
 
-> Mais ou menos<br> :date: __2020-11-07 22:46:32__
-
 
 
 #### 3-star reviews
@@ -209,6 +209,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
+
+> Caros informáticos... pessoalmente gostava mais da APP antiga ou seja a anterior a esta. Possivelmente esta seja mais rápida, mais técnica, não sei, só sei que a antiga a meu ver era mais intuitiva. Convém dizer que faz o que é pretendido mas estruturalmente acho a outra melhor, mais simples. Terei que me adaptar lógico mas é a minha opinião em relação á alteração. Cumprimentos P.S- o cartão ADSE não aparece? Algum defeito na APP?! É possível resolver a questão do cartão ADSE?<br> :date: __2021-06-30 22:43:22__
 
 > Quero saber o boletim de vacinas do meu filho que não tem número de telemóvel ainda. Não consigo. Não aceita o meu número nem o da mãe, porque já estão registados. Não aceita 0000 porque não é possível. E agora?<br> :date: __2021-06-27 16:01:05__
 
@@ -228,8 +230,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Necessita conter mais informação sobre o Utente, não está atualizado de acordo com os movimentos do Utente, faltam consultas, resultados e comunicação com o SNS. Tenho atestado de incapacidade Multiusos e não consta essa informação?!<br> :date: __2021-01-09 10:38:47__
 
-> Bom<br> :date: __2020-12-05 20:20:44__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
+
+> Não entendo a alteração. A mySnsCarteira funcionava sem ser necessário validar tudo vezes sem conta, agora está escondida lá no meio e falta informação. Não gosto.<br> :date: __2021-06-29 18:57:52__
 
 > Instalei a app para ter acesso as minhas receitas e fiquei perdido...<br> :date: __2021-06-23 13:09:00__
 
@@ -256,8 +258,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Não está a trabalhar direito<br> :date: __2021-01-30 18:06:04__
 
-> Está aplicação nem abre diz que há um problema qual?<br> :date: __2021-01-28 15:29:49__
-
 
 
 #### 1-star reviews
@@ -265,6 +265,14 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> Nada funcional. 0 estrelas.<br> :date: __2021-07-03 21:16:02__
+
+> Mala<br> :date: __2021-07-02 16:26:09__
+
+> Não é funcional<br> :date: __2021-07-02 13:12:56__
+
+> Muito má aplicação, nada funcional, registo sucessivo necessário a cada acesso, ano de nascimento de acesso "paleolítico"... Aplicação de utilização horrível, sem arrumação lógica dos assuntos, sem acesso prático ao Certificado Digital COVID-19 na sua forma desmaterializada... Enfim, muito trabalho a fazer aqui!<br> :date: __2021-07-01 10:21:28__
 
 > Um nojo autêntico, pelo número de utente não fica nada gravado na app, nasci em 1961 tenho que perder uma enormidade de tempo a passar para trás mês por mês, aprendam a fazer as coisas, não dou zero estrelas porque não dá, desinstalado rápidamente<br> :date: __2021-06-27 12:43:48__
 
@@ -277,13 +285,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Nao consigo aceder ao boletim de vacinas<br> :date: __2021-06-22 16:15:16__
 
 > Simplesmente miserável, aplicação deve ter sido idealizada por boys de algum partido cuja única competência era a falta dela.<br> :date: __2021-06-21 08:14:32__
-
-> Nao sei para que serve a app..abre sempre o browser para login e tem que se introduzir dados de registo novos. Completamente obsoleta e sem mais valia.<br> :date: __2021-06-19 13:18:29__
-
-> Eu só pergunto, mas alguém testou a App? Se tentar validar o acesso pelo número do utente, tem de definir a sua data de nascimento, espero que tenha nascido há poucos anos porque senão... Desejo-lhe muita paciência. Não pode introduzir a data, tem de recuar até ao seu ano através do calendário! Conclusão, já desinstalei.<br> :date: __2021-06-18 10:03:41__
-
-> Ni ideia<br> :date: __2021-06-17 14:07:40__
-
-> Porcos incompetentes. Vão masturbar-se para a PQP.<br> :date: __2021-06-17 13:40:34__
 
 

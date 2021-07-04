@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Seamless operation<br> :date: __2021-07-04 12:58:11__
+
+> Love the idea of helping with research while I sleep, feels like I'm part of a big team all working together!<br> :date: __2021-07-04 01:31:54__
+
+> Very Good.<br> :date: __2021-07-03 21:05:27__
+
+> 5 🌟 There are very few (virtual) things in life, which makes one happy. This app and the cause it enables are one, thank you!<br> :date: __2021-07-01 23:16:39__
+
+> Easy to use and cuts out if phone gets too warm until it cools, Etc<br> :date: __2021-06-30 04:04:42__
+
+> Opens yours eyes absolutely brilliant<br> :date: __2021-06-28 16:08:25__
+
+> Very great way to help the world.<br> :date: __2021-06-28 14:04:57__
+
 > Worthwhile and clever app<br> :date: __2021-06-27 01:21:52__
 
 > Great feeling to help with this vital research<br> :date: __2021-06-25 23:20:27__
 
 > Beautifully discrete. A pleasure to be part of the 'collective'.<br> :date: __2021-06-23 10:43:35__
-
-> This app is an easy way for any one to be a part of something really big. I am glad to see this use of phones to create a super computer to work on crunching computations. I have done this type of thing with my PC before and was excited to be able to use my phone in a similar fasion<br> :date: __2021-06-20 16:29:21__
-
-> Fantastic idea. It's a no brainer to do.<br> :date: __2021-06-20 13:56:48__
-
-> DreamLab app provides huge analytical power for medical research, with no impact on your Vodafone account, by using your phone's processing power while it's on battery charge. It's a fabulous way to help research at no cost to oneself and one of many reasons why I've been a Vodafone user for 30 years.<br> :date: __2021-06-20 01:07:06__
-
-> Keeps quietly in the background, pauses if the is other activity on the phone, really nice, unobtrusive and well designed app<br> :date: __2021-06-19 18:23:01__
-
-> Excellent<br> :date: __2021-06-18 14:07:40__
-
-> Happy to Help<br> :date: __2021-06-16 22:24:27__
-
-> Excellent app - Easy to use.<br> :date: __2021-06-11 19:57:43__
 
 
 
@@ -211,6 +211,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
 
+> Thought I was doing a good thing, but it keeps defaulting back to tracking Corona and not the Cancer research that I want! Deleted it.<br> :date: __2021-06-28 17:19:01__
+
 > spectacular to be able to make a real contribution. If only the Damm app would STOP changing what I'm contributing too. I made my decision but apparently the app knows better.....<br> :date: __2021-06-25 22:49:37__
 
 > The idea is great, but the app could be better: it should automatically start every time the supply is pugged in, instead with my xiaomi I have to manually start the computation every time...<br> :date: __2021-05-22 20:36:56__
@@ -228,8 +230,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Getting worse. Great premise, but the app is unreliable. Being greeted by a notification saying " well done you powered this for 7 and a half hours and completed zero calculations" makes you wonder what the point is. It used to be much more reliable.<br> :date: __2021-04-06 11:56:46__
 
 > A really good app, shame it doesn't run all the time, using less power and slower processing when not in charge. Not keeping track of overall progress on Samsung S10. I have to clear everything to see how much progress has been made. Reported a while ago but still not fixed<br> :date: __2021-04-03 07:55:06__
-
-> Em L. Ioukk ka. Kaivva ae tae, kkmL<br> :date: __2021-03-31 14:09:42__
 
 
 
@@ -267,7 +267,7 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
 
-> Revised down to one star. App constantly switches to Corona AI (Phase4) rather than the project I wanted to support (Cancer Phase 2). Have raised with DreamLab & Vodafone support. Additionally, Cancer Phase 2 Project is now getting further from completion every day - now showing 18 days to completion. I've lost confidence in what was originally a great idea.<br> :date: __2021-06-26 23:42:52__
+> Revised down to one star. App constantly switches to Corona AI (Phase4) rather than the project I wanted to support (Cancer Phase 2). Have raised with DreamLab & Vodafone support. Additionally, Cancer Research (Phase 2) Project is now getting further from completion every day - now showing 18 days to completion. I've lost confidence in what was originally a great idea. 30/06/2021 - Cancer Research (Phase 2) is now showing 35 days until completion.<br> :date: __2021-06-30 06:27:53__
 
 > 1* for ethics recently. EVERY time a new release comes, and a new Covid project is added, my choice to support a cancer project is overridden. The time in my phone is changed to what the developers want without even the courtesy of a notification. If you do not wish us to have a choice of projects be honest and don't offer it in the first place. You do a disservice to the projects you divert us away from and mislead people not carefully watching where their donation is sent. Disgraceful.<br> :date: __2021-06-25 00:09:29__
 

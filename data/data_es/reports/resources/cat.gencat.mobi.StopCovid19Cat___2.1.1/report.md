@@ -245,6 +245,10 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Sirve para hacer un diagnóstico de síntomas y nada más. Más valdría mantener una app centralizada y funcional y no 20 Apps con escasa función e inconsistentes entre si.<br> :date: __2021-07-02 20:58:56__
+
+> Le puse 1 estrella para poder escribir,ni siqiera sirve,me pide mi num y nisiqiera me envian el codigo. 😨😓<br> :date: __2021-06-30 01:00:32__
+
 > Me dice que mi NIE no es valido. Llamé al 061 y ellos no se encargan de esto. Alguien que sepa del tema??<br> :date: __2021-06-03 07:55:30__
 
 > Las buenas APP, te van dando información (incidencia por 100.000 en tu zona, o algo), esta APP DUERME y no se si hace algo. Podría darme los test que me han hecho, vacunación etc.! A NO que eso es de otro NEGOCIADO! Perdón perdón<br> :date: __2021-05-09 21:47:04__
@@ -260,9 +264,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > pulso para poner el CIP y se cierra reinstalo meses después, por haber sido contacto directo. Se queda colgado al pulsar "hacer test"<br> :date: __2021-03-21 15:07:14__
 
 > Después de poner que tengo problemas para respirar y de rellenar el formulario para que me llamen, no me ha llamado nadie en más de 2 semanas. Es mejor ir en persona al médico porque está aplicación no ayuda en nada. Luego dicen que no hay que ir en persona etc. Pero si los recursos que ponen no funcionan, no quedan más opciones<br> :date: __2021-03-07 23:03:08__
-
-> Patética y no ayuda en nada. Una aplicación más para que te controlen a cambio de nada. Cualquier cosa llama a tu CAP. Esta aplicación es inútil.<br> :date: __2021-03-04 11:59:18__
-
-> Me lo he instalado bastantes veces tanto en castellano, como en catalán y no he conseguido que me dé acceso para el test. No me ha servido de nada. Mi opinión, negativa total.<br> :date: __2021-01-28 15:59:04__
 
 

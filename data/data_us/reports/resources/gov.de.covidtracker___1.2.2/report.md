@@ -146,6 +146,8 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gov.de.covidtracker 5 reviews"/>
 </p>
 
+> This is a w7kooonderful device that we hope and pray never has to be used, but comes in handy if it has to be.<br> :date: __2021-07-02 17:24:53__
+
 > I think every single person with a phone should have this Covid Alert (your state) app and "Check-in" daily! Regardless of your stance on this virus issue or how it came to be is now irrelevant, it's time for us to do our part to help stop the spread. JMO🤷‍♀️ Users will get a heads-up or an ALERT if you've crossed paths with someone else, who's also using this app, that later found out they contracted Covid-19. So now, YOU can be fully aware, prepare, and warn others you've been around! 🙏💞<br> :date: __2021-05-05 20:49:39__
 
 > Informative<br> :date: __2021-04-03 21:03:16__
@@ -163,8 +165,6 @@ The Covid Alert DE app has been installed by more than **10000** times. At this 
 > No I dont have it to day<br> :date: __2020-12-11 11:06:50__
 
 > Thank you for this app.<br> :date: __2020-12-10 21:34:31__
-
-> Very helpful thanks very much...<br> :date: __2020-11-29 15:24:44__
 
 
 

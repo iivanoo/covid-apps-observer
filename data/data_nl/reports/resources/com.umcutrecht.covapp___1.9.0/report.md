@@ -163,6 +163,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.umcutrecht.covapp 1 reviews"/>
 </p>
 
+> Ik kan mijn registratiegegevens niet invullen.<br> :date: __2021-06-28 16:06:18__
+
 > Kan geen account aanmaken... Waar?????<br> :date: __2021-02-17 15:48:39__
 
 

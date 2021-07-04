@@ -213,6 +213,12 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Very slick the way it walks you through set-up, then their own video connection was rocks solid.<br> :date: __2021-07-03 19:01:47__
+
+> The provider I visited with was awesome. She knew what she was doing. I recommend them for you anytime you can't get to the doctor or urgent care.<br> :date: __2021-07-03 01:17:20__
+
+> Quick, efficient. With my insurance, low cost!<br> :date: __2021-06-28 16:33:14__
+
 > Always great to have a doctor on the internet<br> :date: __2021-06-26 04:46:15__
 
 > Great<br> :date: __2021-06-23 03:18:37__
@@ -226,12 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Quick and easy<br> :date: __2021-06-18 19:12:03__
 
 > Was great quicker than waiting in an office and the doctor was awesome!<br> :date: __2021-06-18 18:45:10__
-
-> Very beneficial and professional and fast no long wait time.<br> :date: __2021-06-17 17:28:46__
-
-> Esst to use, doctors are friendly and efficient<br> :date: __2021-06-13 19:37:35__
-
-> Very fast telephone visit. Had a call from a provider in less than 5 minutes of completing my online registration! Definitely easier and faster than previously using MDLIve. Thanks to my employers insurance, it was $5 instead of $100+ from an Urgent Care facility.<br> :date: __2021-06-09 04:30:26__
 
 
 

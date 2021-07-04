@@ -134,6 +134,8 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Lots of good information<br> :date: __2021-06-30 07:17:30__
+
 > Lets me know if ive been incontac with any one with virous<br> :date: __2021-06-11 02:35:47__
 
 > I want to thank Google and all there co workers ,for every app we purchase,we buy, we use. Some have work to be done ,but they get it done. Our phones help us in slot of ways. I am thankful for the covid virus app, tells us what we need to know.Take the time to tell everyone you appreciate what they do. Love the games and everything else. Thank you all for being there even on the feedback. Thank you.<br> :date: __2021-06-10 02:38:53__
@@ -151,8 +153,6 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 > I wanted to pratically keep going thanks<br> :date: __2021-04-20 06:18:10__
 
 > It let's you know if you have been exposed by anyone who has covid-19<br> :date: __2021-04-19 03:45:57__
-
-> Thank you<br> :date: __2021-04-18 12:07:00__
 
 
 

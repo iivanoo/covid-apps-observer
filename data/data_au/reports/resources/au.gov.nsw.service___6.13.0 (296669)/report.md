@@ -209,25 +209,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-06-28 00:39:47__
+> Outstanding<br> :date: __2021-07-04 08:39:45__
 
-> Great<br> :date: __2021-06-27 14:05:20__
+> Good easy for older people<br> :date: __2021-07-04 08:08:15__
 
-> Madd app keeps us up to date where people are dying, great!!<br> :date: __2021-06-27 13:53:01__
+> Very important, helpful and easy to follow up.<br> :date: __2021-07-04 05:46:49__
 
-> I have tried all day to download this app with no result. Any ideas as to how I can get on to comply with covid requirements?<br> :date: __2021-06-27 10:31:15__
+> Good<br> :date: __2021-07-04 04:22:21__
 
-> Very good.<br> :date: __2021-06-27 09:37:29__
+> 👍<br> :date: __2021-07-04 02:42:55__
 
-> Wow<br> :date: __2021-06-27 08:55:15__
+> fair<br> :date: __2021-07-04 02:15:29__
 
-> Services nsw wouldn't work without update. I've tried to update, that didn't work so tried to reinstall. Now it is constantly pending - won't download.<br> :date: __2021-06-27 08:33:46__
+> Upgrade issue, delete and redownload the app. Works fine after that.<br> :date: __2021-07-03 06:51:29__
 
-> good<br> :date: __2021-06-27 08:29:00__
+> Found the summary of current restrictions under Covid Resources tab to be very succinct and far more helpful than attempts to google the same info.<br> :date: __2021-07-03 03:12:17__
 
-> Ok<br> :date: __2021-06-27 05:29:25__
+> good. l trying to improve on phone.<br> :date: __2021-07-02 09:58:51__
 
-> Once I had called my phone data provider and had them enable international roaming it has worked perfectly. Some of the data and verification codes are sent and recievsd from overseas. I hope this helps anyone running into issues. It has been easy to use and is clear once working.<br> :date: __2021-06-27 05:04:11__
+> Excellent service Thank you<br> :date: __2021-07-02 07:34:57__
 
 
 
@@ -237,25 +237,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
-> Won't update. Been pending for hours.<br> :date: __2021-06-28 03:24:36__
+> FTC<br> :date: __2021-07-04 01:00:33__
 
-> Good<br> :date: __2021-06-28 01:22:43__
+> ok<br> :date: __2021-07-03 07:12:47__
 
-> Ok<br> :date: __2021-06-27 22:47:55__
+> Handy for checking in.<br> :date: __2021-07-03 05:08:40__
 
-> It works with me I don't mind using it...<br> :date: __2021-06-27 16:56:51__
+> Excellent<br> :date: __2021-07-03 01:35:20__
 
-> The covid continued longer then I expected<br> :date: __2021-06-27 09:41:34__
+> Not bad or good 2<br> :date: __2021-07-02 11:16:43__
 
-> No longer works<br> :date: __2021-06-27 06:34:36__
+> 4 star but doesn't show my boat licence<br> :date: __2021-07-02 11:06:46__
 
-> easy to sign but at times forget to sign out<br> :date: __2021-06-26 13:37:16__
+> Good<br> :date: __2021-07-02 04:02:58__
 
-> Ok<br> :date: __2021-06-26 08:39:53__
+> As<br> :date: __2021-07-01 23:05:15__
 
-> Fair<br> :date: __2021-06-26 06:24:13__
+> Making life easier at the moment 😂<br> :date: __2021-07-01 12:30:01__
 
-> Great. Easy to use.<br> :date: __2021-06-26 02:41:31__
+> Great! !<br> :date: __2021-07-01 11:03:04__
 
 
 
@@ -265,25 +265,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
-> Well ther r a few apps thats Similar to these one but the more easy and more better of them all acharya<br> :date: __2021-06-28 00:08:40__
+> ERP We/by any by by<br> :date: __2021-07-04 12:05:50__
 
-> Was requested to update still trying for last 2 days to no avail. Have no service app at the moment. ( uninstalled it thinking it might work quicker..I was wrong ) Don't understand my husband had the same request and he had no problem to update the New version<br> :date: __2021-06-27 07:22:43__
+> Confusing<br> :date: __2021-07-04 09:15:12__
 
-> Not always easy<br> :date: __2021-06-27 03:46:30__
+> Ok<br> :date: __2021-07-04 05:01:39__
 
-> Great initiative with the digital drivers and NSW services in one spot. BUT the app has a major bug where it drains your battery in the background. What is it doing in the background?<br> :date: __2021-06-27 02:04:53__
+> All in all an ok app just having excessive troubles uploading licenses onto the system<br> :date: __2021-07-03 05:34:07__
 
-> Taking hour's to update<br> :date: __2021-06-26 18:02:29__
+> Great<br> :date: __2021-07-02 06:40:04__
 
-> Ok<br> :date: __2021-06-26 10:46:00__
+> The app deleted all my data and when I went to input it again would not accept my phone number. Where do I get help!<br> :date: __2021-07-01 07:28:17__
 
-> Having trouble with updates<br> :date: __2021-06-26 06:14:23__
+> It is telling me to update. But it won't let me.<br> :date: __2021-06-30 10:39:37__
 
-> Can not get this two old I am 79<br> :date: __2021-06-26 05:43:48__
+> Soso<br> :date: __2021-06-30 06:37:22__
 
-> oko<br> :date: __2021-06-26 04:39:36__
+> Ok<br> :date: __2021-06-29 03:57:54__
 
-> Not to bad<br> :date: __2021-06-26 03:57:44__
+> I think it is exceptional although have only used it a couple of times.<br> :date: __2021-06-28 09:30:36__
 
 
 
@@ -293,25 +293,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
-> Tried to use my logon at a dental surgery yesterday tried to update the app but it won't let me do it tried several times but it just keeps turning waited an hour but still no update very frustrating.<br> :date: __2021-06-27 00:06:54__
+> This app won't let me login or sign,it tell me I am login before,I never use this app before ,because I don't need at.its so confusing app.So I got other app that works perfect.Fix your app please.Thanks.Cheers<br> :date: __2021-07-03 22:56:01__
 
-> I have been trying to update for the last hour and all it is doing is spinning and saying pending. I can't even use the app as it telling me it needs upgrading. Catch 22 situation.<br> :date: __2021-06-26 11:38:01__
+> I can't check out of a shopping centre after I've checked in and out of businesses within that centre.<br> :date: __2021-07-03 06:44:13__
 
-> Often will not works<br> :date: __2021-06-26 08:35:55__
+> Very bad.id'not get it at all.<br> :date: __2021-07-03 02:22:20__
 
-> It is taking a very long time for the upgrade to install. The process is arduous Have tried 5 times to install and still no luck. Not happy Gladys:( Still trying to download this app it's been 2 days of frustration, is the system overloaded?<br> :date: __2021-06-26 08:22:38__
+> For visitors to NSW, this app is too complicated and frustrating to use. SA and QLD apps are a breeze to use in comparison. Additional info: Tks for reply. What I found is that, despite entering my details, every time I use the QR app it wants to sms me a varification code before accepting my scanned entry. This is frustrating and holds up others wanting to enter their QR. Also I have to shuffle between sms screen and QR screen to enter the validation code. In the end I just gave up.<br> :date: __2021-07-02 06:46:46__
 
-> Crazy<br> :date: __2021-06-26 05:46:22__
+> Doesn't work well<br> :date: __2021-07-01 07:36:02__
 
-> Need to constantly un install other apps to update<br> :date: __2021-06-26 04:47:02__
+> Works once every week maybe<br> :date: __2021-07-01 06:36:39__
 
-> So slow for the update to load. We had finished lunch and it was still going round and round. And all afternoon and the next day. Can't log in anywhere until it sorts itself out. Turned phone off, operating on Wi-Fi and cannot complete upgrade, cannot log on to any site. Facility previously operated perfectly. Now fiddling has ruined it.<br> :date: __2021-06-25 15:25:07__
+> Too many ads. Cant check out easily.<br> :date: __2021-06-30 11:08:50__
 
-> Difficult to use<br> :date: __2021-06-25 09:10:34__
+> It doesn't work easily<br> :date: __2021-06-30 08:38:10__
 
-> Slow and hard to use<br> :date: __2021-06-25 04:33:23__
+> Abysmal.<br> :date: __2021-06-29 05:34:28__
 
-> good<br> :date: __2021-06-24 14:28:21__
+> Update?<br> :date: __2021-06-29 02:13:17__
 
 
 
@@ -321,24 +321,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Ditto with other comments, hopeless with trying to get so today, in update mode... For ever<br> :date: __2021-06-28 03:10:35__
+> It still doesn't remember my details for COVID check in.<br> :date: __2021-07-04 09:37:33__
 
-> Having the same problem.. the app kept telling me to update but wouldn't let me do that. So I uninstalled to start again and now the app keeps telling me that it's still installed and won't let me put it back on again. I have tried restarting the phone but no good<br> :date: __2021-06-28 03:04:02__
+> It keeps saying pending and it does not open at all ,I've turned off and re stared my phone about 10 times, so I can not sign in to say Coles or any where and as of the the 12/07/21 we all have to sign in so I'm Stuffed ,what do I get my house mates to do for the rest of my life ??????<br> :date: __2021-07-04 09:37:07__
 
-> Having the same problem as many others. Told to update which I have done, tells me it is installed but still can't scan. What happens now?<br> :date: __2021-06-28 00:54:24__
+> The app for attendance at places out of resistance is not as it should be. This update information has stopped the app alltogether. Now it is not working at all. I am blaming you at the other end<br> :date: __2021-07-04 06:11:24__
 
-> Unable to update<br> :date: __2021-06-28 00:40:53__
+> I've always found it useful but can no longer use it as I don't have Google and can't update it. Can you tell me how I can use the qr sign in now Update on 3 July. Can now not even sign in using the qr scanner in my phone. Doing well. It just tells me to update using Google play but won't update. July 4 iphones seem to work but androids have problems.<br> :date: __2021-07-04 03:29:17__
 
-> I can't update the app. It just keeps saying "pending" very frustrating as many venues don't have manual forms any more.<br> :date: __2021-06-28 00:17:52__
+> Since the last update came out, I haven't been able to update this app, it has been 'pending' the whole time. Given the app won't work without the update, and we're currently in the middle of a lockdown, I would think this issue would have been fixed by now. I've read multiple other reviews from other users who also haven't been able to download the update.<br> :date: __2021-07-04 02:20:30__
 
-> Bloody hopeless. Won't update<br> :date: __2021-06-27 23:51:31__
+> I have come to the point where the app request me to update but I can't get past this issue I have uninstalled the app and now can't get it back it's so fustrating .<br> :date: __2021-07-03 23:51:54__
 
-> My password not working at all even after reseting it , uninstalling and installing again many times.. no good!!<br> :date: __2021-06-27 23:01:09__
+> Wont update or reinstall been like it for a week now<br> :date: __2021-07-03 11:13:09__
 
-> I downloaded this app but it will not allow me to enable camera why?<br> :date: __2021-06-27 20:18:00__
+> Hopeless. Does not update. I have done as you said. It still does not update.<br> :date: __2021-07-03 11:07:09__
 
-> Doesn't work!<br> :date: __2021-06-27 18:17:26__
+> Couldn't update so uninstalled and can't download now.<br> :date: __2021-07-03 10:34:39__
 
-> This is a week later and I still cannot get it. This all came about from clicking on update the app. Now I am continually told pending. I have removed so many apps to make more space...tonight I had to enter google password etc..tells me it is installed...BUT NO...it is not installed What the ??<br> :date: __2021-06-27 11:55:37__
+> It was working fine until I had to update. What happened, why?<br> :date: __2021-07-03 08:37:29__
 
 

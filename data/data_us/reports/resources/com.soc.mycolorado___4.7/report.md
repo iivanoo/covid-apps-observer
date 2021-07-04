@@ -191,6 +191,14 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> App is amazing but still needs work, went to edit ID for privacy reasons and blank out my address, after hitting save app crashes everytime I try to access my digital ID<br> :date: __2021-07-03 18:21:29__
+
+> Alot better than I would expect of a state app.<br> :date: __2021-06-29 02:08:00__
+
+> Love this!!! Please add the ability to load your Covid 19 shot record or allow a link to the state database(better as jerks are purchasing fake cards)and it would be perfect.<br> :date: __2021-06-29 00:48:10__
+
+> The help was amazing he called back when he said a he did everything to help me it was the best experience thank you 😊<br> :date: __2021-06-29 00:41:45__
+
 > Great app<br> :date: __2021-06-26 21:57:40__
 
 > This is super easy! Now I don't have to carry my driver license or any other license I purchase.<br> :date: __2021-06-26 03:14:17__
@@ -202,14 +210,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > Works as expected, can leave my license and other car documents at home and not risk loosing them.<br> :date: __2021-06-24 18:20:28__
 
 > perfect and is infinately useful.<br> :date: __2021-06-23 14:20:31__
-
-> Easy and fast reliable and trustworthy<br> :date: __2021-06-23 08:45:29__
-
-> Awesome!<br> :date: __2021-06-23 04:46:37__
-
-> Much better than last few days thank u for working on the app i have android and access back today Thank You<br> :date: __2021-06-22 15:57:45__
-
-> Very positive. Lke ID on my phone!!<br> :date: __2021-06-21 02:43:52__
 
 
 
@@ -247,6 +247,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
 
+> Trouble with updating new 21 I.D.<br> :date: __2021-07-01 13:13:21__
+
+> It keeps asking for my location, but otherwise it's awesome and I'm so happy I can keep my driver's license on my phone!<br> :date: __2021-06-29 03:20:49__
+
 > My only problem is why I have it is a lot of places don't consider it valid you know you can't use it to get your ID a lot of motels won't take it I couldn't even get little fireworks from King Soopers with it that's why I only complain about it and it's a legit Colorado government ID so I understand everything is going digital<br> :date: __2021-06-23 11:00:06__
 
 > V id3 22nd f<br> :date: __2021-06-22 22:53:05__
@@ -263,10 +267,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > It's cool works 50/50 some people take it some dont<br> :date: __2021-05-25 22:10:37__
 
-> Confusing to use. It wanted me to center my face in an oval, but then just hung.<br> :date: __2021-05-12 05:46:10__
-
-> Nice but missing alot .. good luck businesses excepting it !<br> :date: __2021-04-24 11:16:20__
-
 
 
 #### 2-star reviews
@@ -274,6 +274,8 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
+
+> Doesn't show any current hunting/fishing licenses or Parks passes regardless of if they were purchased one day ago or 6 months ago<br> :date: __2021-06-28 04:54:39__
 
 > Every time I attempt to get my insurance cards, the application crashes.<br> :date: __2021-06-23 04:06:00__
 
@@ -293,8 +295,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > Nine out of 10 times I'm unable to log in. On the few times I've been able to get to the authentication page afterwards I get an error message. I thought this app would be a game changer having everything in one place but I can't even get it to open<br> :date: __2021-06-10 22:22:06__
 
-> Works for drivers license. Fishing and hunting licenses dont show up.<br> :date: __2021-06-10 00:42:26__
-
 
 
 #### 1-star reviews
@@ -303,24 +303,24 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
+> Camera doesn't work for face match. LG v50. The oval is totally blacked out.<br> :date: __2021-07-03 01:37:47__
+
+> Doesn't even work every action inside app requires an account and everything i make an account it just resets. Update created an account now it won't do anything cause YOU'RE app can't verify my id with my face. What a waste of time.<br> :date: __2021-07-02 16:33:38__
+
+> Won't show my info without selfie, but won't access camera to take selfie. Just black.<br> :date: __2021-07-02 06:51:21__
+
+> I cannot use facial recognition to verify my digital ID on Android. I'm not sure why this isn't working but this needs to be fixed<br> :date: __2021-07-02 01:33:58__
+
+> Does not take your photo no matter what you do<br> :date: __2021-07-01 16:47:12__
+
+> Don't bother with this app. Facemapping does NOT WORK (and it isn't for your security, anyway: it's for facial-recognition databasing) - regardless whether you're on a T3 connection, have a top-tier phone and are standing in broad daylight. Less hassle and faster to actually go in person to whatever governmental office you're trying to get service from. Unusable and worthless.<br> :date: __2021-06-30 05:26:39__
+
+> Doesn't work, used to work fine. Now I can't log in nor will it send the text code to my phone to log in.<br> :date: __2021-06-30 01:12:48__
+
 > Just don't bother. Unfortunately no one reads reviews before installing an app. But this one is beyond useless. Installed it quite a while ago and created an account. Now it won't let me log in using my credentials stored with Google. And no email is ever sent to reset the password. This is the usual outcome when government agencies award the project to the lowest foreign bidder. I own a software development company and we are constantly fixing their problems. Uninstalling.<br> :date: __2021-06-26 19:20:16__
 
 > Not good<br> :date: __2021-06-24 09:52:28__
 
 > Waste of time and data<br> :date: __2021-06-24 00:19:09__
-
-> App won't update or open.<br> :date: __2021-06-23 01:36:40__
-
-> Cool at first now it keeps saying there is an update even after downloading it it just keeps going back and forth from update screen to the app and occasionally it will lete click on the sighm in button but say all certificates need check or remewed<br> :date: __2021-06-23 01:27:40__
-
-> Won't even open!! ... tells me it has an update and sends me to the store....there's no update....typical bureaucratic incompetence...<br> :date: __2021-06-22 23:23:23__
-
-> Unable to log in now, says there is an update but when Ì try to update it says it's up to date.<br> :date: __2021-06-22 22:15:20__
-
-> Update as of June 2021: App is unusable, keeps telling me to update, brings me to the app store, then no update available. Shame because now I can't use the digital fishing license... Old 5 star review: This app is great, no idea what the others are saying. Easy to add vaccine card, insurance cards, fishing licenses. I can't wait until this gets more adoption across the state (and nation).<br> :date: __2021-06-22 20:24:49__
-
-> My app was working just fine and I was using it constantly then about a month ago it stopped working. When I would log in it would go back and forth to the pingid and login screen. It will not properly work. I also sent an email about it and never received a response back. This app needs to work properly! Edit to add even after the new update it still doesn't work. Just does the same login then ping I'd then login again. Very disappointed as I would use this often.<br> :date: __2021-06-22 19:53:43__
-
-> App is tripin<br> :date: __2021-06-22 19:52:01__
 
 

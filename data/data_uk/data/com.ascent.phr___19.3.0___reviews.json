@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOHkFvU_5Rgss2H1w3yqhugRS-z0LuuLLETb0_JcR4Rj_nQFomuD3yQ2kpKvNr9LPhzbXSuw0jaaTDyigg",
+        "userName": "Daniel Malins",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhD9zJfuBFgcrfLT-XFUv4QrSmGi1VMbqj8cO3aaA",
+        "content": "This used to work fine but now passwords don't work, thus making the app pointless.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-07-01 10:02:30",
+        "replyContent": "Please contact our customer support team, either by email: Hello@evergreen-life.co.uk or by phone on: 0161 768 6063. Our support team will be able to advise and assist with any issues you may be experiencing.",
+        "repliedAt": "2021-07-01 11:46:44"
+    },
+    {
+        "reviewId": "gp:AOqpTOFO06zcd55fvHQ9ppPIfuANJGJnt-vAysqpNw0yIJzUX21LAhmstqao-mDZBUtNj8JPKsN9UqWRRQg38Q",
+        "userName": "Sharlene Corringsn",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyuU0O9ZO-hD8JkqYrJoFYDulHbUEV5pYfnkgYu=mo",
+        "content": "This is really helpful",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-06-30 13:22:00",
+        "replyContent": "Thanks for leaving this review, we notice you only rated us 1 star, are you having any issues with the app? If so, you can contact the customer support team by email: Hello@evergreen-life.co.uk or by phone on: 0161 768 6063. Our support team will be able to advise and assist with any issues you may be experiencing.",
+        "repliedAt": "2021-07-01 09:10:08"
+    },
+    {
+        "reviewId": "gp:AOqpTOHrAA8Vli23ecu-poi78Ej-GQwe4F-zYiR8unvCh7tLVJcXjCgsgZHW7Jhc4xn7bU8RIj0HlW9qLtxFpw",
+        "userName": "aaron Pillai",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzqVTnMqUA1LyWhLAPt7whKgOV_JQgDNNawGsEbg",
+        "content": "great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-06-29 11:41:28",
+        "replyContent": "Thanks for taking the time to leave a positive review. We love to hear from our happy users.",
+        "repliedAt": "2021-06-30 09:48:45"
+    },
+    {
+        "reviewId": "gp:AOqpTOEvYfkto7NMtUWt6Okv-SgPvteoPNo1DN_q5_DtTUHWHFMbJCdG6CbuOB3jYSiINhylZ0ML2dKdHOqPQg",
+        "userName": "Loz",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHAvy7y9VjuknaD02MDg006zSx4DVCpol0fVo4=mo",
+        "content": "Never remembers password have to reset every time",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-06-29 09:02:52",
+        "replyContent": "Please inform our customer support team about any login issues you are having with the app. You can contact the team by email: Hello@evergreen-life.co.uk or by phone on: 0161 768 6063. Our support team will be able to advise and assist with any issues you may be experiencing.",
+        "repliedAt": "2021-06-29 11:32:48"
+    },
+    {
+        "reviewId": "gp:AOqpTOFJ-0fqwqFxTlkh1GNu5BPuBKvKBzIhzElaB02KNki-gRpoIRq6jTJBetgJKYhPNAoZe6GhmsxadmEVnw",
+        "userName": "LadyCrusader 1",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyCDR37d9S_TbXX6COAfGICG_rJVww8v8z5qrpp=mo",
+        "content": "Brilliant app so easy to order my medication, been using for a couple of years now and I've never had a problem until yesterday, I contacted customer support via email and they replied very quickly, problem sorted, excellent customer support.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-06-29 01:01:51",
+        "replyContent": "Thanks for the great review, we're happy to hear that our customer support team managed to solve your issue quickly.",
+        "repliedAt": "2021-06-29 11:31:27"
+    },
+    {
         "reviewId": "gp:AOqpTOFPOvLUMWw_88d2jqqgdWyXZ9zfp8Ik6wTL40GR1g0YRzPLANoi8Zw59ByWrZZGM5ZRsCLnlyveinMjpQ",
         "userName": "Julie Connolly",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxo0JUI4tyUyIfT5nw9ylqXylXkifwDoiKA0pdv=mo",
@@ -8,8 +68,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-06-27 20:45:15",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for the great review!",
+        "repliedAt": "2021-06-28 11:56:04"
     },
     {
         "reviewId": "gp:AOqpTOEDmBTkr6lgvo1t5FBWReZOr_gTSfzr8KKyi4OnKOBlZVPL12rLZIr92kXpkm5UMnxfJdzIStgWqqe69Q",
@@ -20,8 +80,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-06-27 10:29:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Please let our customer support team know about any issues you are having with the app. The support team can investigate any problems you may be experiencing. You can contact the team by email: Hello@evergreen-life.co.uk or by phone on: 0161 768 6063.",
+        "repliedAt": "2021-06-28 11:55:54"
     },
     {
         "reviewId": "gp:AOqpTOFCmo3l8EVGwbYS1fI9_nu10ZF8_EcwaGpTXKyVZfhtZrF76i8pJFo6amGbYgAytb-_a9D1UXgJHORpOg",
@@ -32,8 +92,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-06-27 07:58:57",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thanks for the great review! We love to hear that our users are finding the app features useful.",
+        "repliedAt": "2021-06-28 11:54:11"
     },
     {
         "reviewId": "gp:AOqpTOGrTwU9MKN_30pgnu0-et7b-0CfVdCrgOHk1cu-MHhMO3GeUW6unYio1h5cMM-DwV7jQhymvXWPVoaKBQ",
@@ -133,7 +193,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFAUIgQLCaEAJKmsrm0HNc67Blc2Cj0Ppg2fv9LS4yy5NOgAmKoL-EPFKPY_2D3ka6VnVdTR0JKKmXDyw",
-        "userName": "Gillian Ridgley",
+        "userName": "Gill R",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwPevHAH0p2cwI-Q8yzG4S9V9s7bN-oba4NI-or=mo",
         "content": "easy to use unlike some",
         "score": 5,
@@ -173,7 +233,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxu3jvU2Fai8w-oZ72qs_tci4ewt9Dp9Wm-qlGN=mo",
         "content": "Did like the app, but suddenly it doesn't work at all for the last month. Can't log in with either biometrics or password. So have to use the website. And the worst thing is I have had no response from the company at all.",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-06-14 23:02:24",
         "replyContent": "Please get in touch with our customer support team. You can email hello@evergreen-life.co.uk or call 0161 768 6063. I would suggest you open your device's Settings - Apps - Evergreen Life - Storage - Clear both the \"Cached Data\" and \"Storage\", then re-open the app. Please let our support team know if you have any further issues.",
@@ -437,7 +497,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx_uPSztRbiDVU-B2fmmX9-xxrA4M5vNI02uo8g=mo",
         "content": "Fine when it works but frequently requires multiple login attempts, takes too long to load, and I don't love that it is trying to sell me stuff when I just want to use it to interact with my GP surgery. Lots can be improved and would be happy to provide feedback if the product team want to contact me.",
         "score": 3,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "19.2.3",
         "at": "2021-05-17 11:01:12",
         "replyContent": "Please let our customer support team know about any login issue you may be having, the team will be able to investigate and offer any advice regarding this. You can call them on 0161 768 6063 or email hello@evergreen-life.co.uk, the team would also be happy to pass along any feedback suggestions too.",
@@ -3274,18 +3334,6 @@
         "at": "2020-10-19 22:54:17",
         "replyContent": "Hi Ray, Thank you for your 5* review of our app and we are happy to hear you find it useful.",
         "repliedAt": "2020-09-30 10:53:09"
-    },
-    {
-        "reviewId": "gp:AOqpTOHO2O15Wh-udWyrHWKFP8sLvyK6J_HVR4hhKZBClKpGj_exkFLHHDiqbaMuZVMHF9xtSIKI9ivXbFLN0g",
-        "userName": "Gerald Marsden",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwPGo81s1RZkmU6nmIjJRhtNQRMb-I-SbG0sNUV=mo",
-        "content": "Having major problems with your app it keeps logging me out I then have to reset my password this has happened twice in a week it's completely unusable now and I can't order my meds really really bad...",
-        "score": 2,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "17.1.3",
-        "at": "2020-10-17 08:38:12",
-        "replyContent": "Hi Gerald, You may need to update your app with the new update that has happen recently. Can I ask you to do this in the play store. However once you have done this and you are still having issues please get in touch with our dedicated customer support team who will investigate further. Our contact is is Hello@evergreen-life.co.uk & 0161 768 6063",
-        "repliedAt": "2020-10-19 12:38:46"
     },
     {
         "reviewId": "gp:AOqpTOE5Htz8r5OndiJemc6wW1RRtyqd4mYbDZNFP4bGy86U67Y1sgLbJi2qi0lihf1F_RQ2ke4B1ggP3s_NaQ",
@@ -7789,7 +7837,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGeyGgdumSPIS7kwTiHh9IeoNVYBqFyhbJRgC7soVl8DwKgc8NPGXWNTPE93FnEi2hoL3nxidSCJzqtvw",
-        "userName": "John David Maher",
+        "userName": "David Melts-Maher",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giz3gZWmTdovti5U4WQLWP-DZ4D9IuHbp4nUxfqgA",
         "content": "Great app allowing patients to closer monitor their own health and any discrepancies/errors within medical file. Would be great to see further improvements like a traffic light system for example in regards to test results. Certain blood tests have the info i next to it yet I personally am still unable to understand whether it's cause for concern where doctors may miss it or not realise previous results high or low which could effect future tests that may seem normal. I have diabetes so essentia",
         "score": 5,
@@ -8978,7 +9026,7 @@
     {
         "reviewId": "gp:AOqpTOGuJxZCxKstWXs83KRX60xYeBnDjLC6FQLh8eXI7E0p4ZssnmYJqxXFItahwm0EmaUbQaDQ80IJ5b1B-A",
         "userName": "Nicola Jayne",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhHkafsglCKe7eCAKz7LZEKhilF1KH9dfYu-aRUJw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghl3q7Stb8rgOAIY76EHYQnoulraQFt8W1IHLy_Aiw",
         "content": "The prescription ordering function never works - just keep getting the symbol flashing forever. I've tried restarting my phone and reinstalling the app but no difference. Really frustrating!",
         "score": 2,
         "thumbsUpCount": 1,
@@ -11950,53 +11998,5 @@
         "at": "2019-06-15 15:34:41",
         "replyContent": "Thanks a lot for your rating",
         "repliedAt": "2019-06-21 15:23:52"
-    },
-    {
-        "reviewId": "gp:AOqpTOHMMAXEoJjViG50aR8rBHOBs-VhaJHzpFX1As1tM_-o33blcXfzOwBvj0R4-28YNBLbjrxoDo7wDkeqtQ",
-        "userName": "David Dunford",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigQPKsbBp1SUtzJyfiM1CU83OVSSB9CLE1wYsK",
-        "content": "Convenient and easy to use. No down sides experienced.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-15 09:48:31",
-        "replyContent": "Thanks, David!",
-        "repliedAt": "2019-06-21 15:24:03"
-    },
-    {
-        "reviewId": "gp:AOqpTOE8u5khwnkUjmPeZwL3XvIY92oGzSDOVh6xJcITxVgEnI27cXUuNT2Ydk-Z1EwhSsVSX0iQ1hE9s0AsyQ",
-        "userName": "Betty Tait",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz3igWg7vepToqMVwn4gWR_gYE0R6hxJAZf73d1=mo",
-        "content": "excellent app for ordering medicines- just wish it could remind me to pick them up \ud83d\ude02",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-14 20:18:26",
-        "replyContent": "We really appreciate your feedback! I'll pass on your idea for a reminder to pick up your medication to our Developers as I'm sure other users would benefit with a feature like this! If you have any other ideas, feel free to let us know - you can call us on 0161 768 6063 or email us via Hello@Evergreen-Life.co.uk",
-        "repliedAt": "2019-06-21 15:25:29"
-    },
-    {
-        "reviewId": "gp:AOqpTOG-XjTyAVA2pbvlOWXFq1ZJScr4TfXXgnfbN1zvk4gh4vFi5Zj26LOMKOqQfLNDdMX8-mceh2wJQGzX3g",
-        "userName": "Himani Sharma",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgSd6QbIklM6NjzrcoE2Li2TcDdTCrcm0OoDQsGoQ",
-        "content": "Super easy and convenient to order my prescriptions at home and to see medical records, I wish my doctors had used this app from earlier !",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-14 01:20:32",
-        "replyContent": "Great to hear! Thanks for the review, Himani!!",
-        "repliedAt": "2019-06-21 15:25:57"
-    },
-    {
-        "reviewId": "gp:AOqpTOGh5wVaoDXlv1iB2bQ4hRjpQIYowJAiiS7YiEEMzFE6TzO86omLqw8_6F6Beb5u2y_g7EzCINW_H5Pt5A",
-        "userName": "Andrew Ross",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZ8iRRLamL4B5OaJdYdfRDXViqqYoGQrBqtWPw",
-        "content": "helpful to book appointments, order medications and see the gp summary.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-13 21:09:43",
-        "replyContent": "Thanks for taking the time to review us, Andrew!",
-        "repliedAt": "2019-06-21 15:26:18"
     }
 ]

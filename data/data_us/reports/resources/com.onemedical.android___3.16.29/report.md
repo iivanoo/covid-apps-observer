@@ -229,6 +229,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Great, especially for telehealth.<br> :date: __2021-06-30 01:40:15__
+
 > Prefer this over teldoc. If you switch providers you can just update your account with a new sponsor code. Telodoc you have to create a new account and lose access to your medical history. My virtual provider was awesome and put a prescription to my pharmacy.<br> :date: __2021-06-25 03:07:01__
 
 > Excellent care and service<br> :date: __2021-06-23 20:37:37__
@@ -246,8 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Really convenient health care<br> :date: __2021-05-25 17:42:23__
 
 > Great service and the app is improving all the time, thank you<br> :date: __2021-05-25 05:00:31__
-
-> Love the app, and the doctors. Only provider I trust!<br> :date: __2021-05-14 23:55:52__
 
 
 
@@ -341,6 +341,10 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.onemedical.android 1 reviews"/>
 </p>
 
+> App will not let me log in from my Android/ Pixel phone. It takes me back to log in page without erroring out. Please fix this. I can sign into website no problem. I complained over a month ago. Changing my password did not solve it. Reloading app did not solve it.<br> :date: __2021-07-03 06:15:05__
+
+> Not allowing a log on<br> :date: __2021-06-28 20:51:44__
+
 > Every time I launch the app it redirects me to a website.<br> :date: __2021-06-23 21:12:22__
 
 > One Medical billed me $500 because I needed to renew my birth control (which I had been taking for two years) because I switched insurance!!! It was a 10min Zoom call where all the doctor had to do was to order a prescription renewal. Please do not fall for this scam of a service.<br> :date: __2021-06-22 06:17:59__
@@ -353,12 +357,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 
 > Usually love the app, but unable to login for the last 3 days. What's wrong<br> :date: __2021-06-11 21:48:42__
 
-> cannot log in to app on Android/pixel 3. password works fine on website.<br> :date: __2021-06-11 01:40:34__
-
 > John Muir sent follow-up instructions after a mammogram and no one at One Medical bothered to read or act on them for 8 months.<br> :date: __2021-05-27 18:24:56__
 
 > The incompetence of this organization is legendary. Called to schedule blood work. They scheduled me for an appointment at 4pm. Get here to be told I have to see the doctor but that they close at 4pm so I can't get labs done, and insinuate its my fault why they're incompetent. So now I have to travel to another location to get blood work done. Par for the course at one medical. Tldr Called 4 labs got here,labs were closed made me go to another location.<br> :date: __2021-05-12 00:50:29__
-
-> A terrible experience. Wanted to get the Pfizer vaccine, so I had to install this app and register for this companies account and on and on. Then despite multiple sites LA County Public Health & others directing me to this company it turns out they aren't in fact giving out the vaccine as described. Avoid this one.<br> :date: __2021-04-27 20:14:17__
 
 
