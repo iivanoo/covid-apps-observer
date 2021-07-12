@@ -127,6 +127,10 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="5_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 5 reviews"/>
 </p>
 
+> Okay<br> :date: __2021-07-09 19:53:57__
+
+> Very helpful<br> :date: __2021-07-06 17:11:18__
+
 > Keeps you safe.<br> :date: __2021-06-08 18:46:32__
 
 > Gives confidence back although it can't prevent the Covidiots!<br> :date: __2021-05-24 16:34:13__
@@ -195,6 +199,8 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="1_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 1 reviews"/>
 </p>
 
+> Search for digital covid vaccination status impossible<br> :date: __2021-07-07 13:39:19__
+
 > Does not answer my question about Covid19 vaccination records<br> :date: __2021-05-28 12:58:38__
 
 > I dont live in scotland, why would I want this?<br> :date: __2021-01-28 14:01:16__
@@ -212,7 +218,5 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 > I couldn't see anything about contact tracing if I came close to someone who tested positive. Just a lidt of symptoms<br> :date: __2020-09-28 21:45:06__
 
 > no use at all<br> :date: __2020-09-27 20:36:00__
-
-> This is for Scotland not England<br> :date: __2020-09-24 22:04:32__
 
 

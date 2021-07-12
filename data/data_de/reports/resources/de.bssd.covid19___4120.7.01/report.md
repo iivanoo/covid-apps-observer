@@ -243,6 +243,8 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Entwickelt etwas was auch funktioniert 0,0<br> :date: __2021-07-10 19:13:49__
+
 > Der gleiche Schrott wie die Warn-App, Man(n) oder Frau kann den Code nicht einscannen.<br> :date: __2021-07-02 14:43:28__
 
 > Funktioniert nicht der Mist<br> :date: __2021-06-29 14:46:26__
@@ -260,7 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Guter Witz, funktioniert nicht. Hätte vor der Veröffentlichung mal getestet werden sollen.<br> :date: __2021-06-18 18:27:14__
 
 > Total unnütz für Android 11 Nutzer. Meine Filiale hat mir die Unfähigkeit der Programmier Dilettanten bestätigt.<br> :date: __2021-06-18 15:36:50__
-
-> Die App funktioniert nicht. Man kann sich nicht anmelden, wenn man es mit dem QR Code macht☹️<br> :date: __2021-06-18 12:16:55__
 
 

@@ -154,6 +154,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Estou satisfeito<br> :date: __2021-07-10 15:06:18__
+
+> Muito bom<br> :date: __2021-07-08 22:40:04__
+
+> Ok.<br> :date: __2021-07-07 14:42:14__
+
 > Boa ambiente na app<br> :date: __2021-07-02 19:30:43__
 
 > Excelente<br> :date: __2021-07-01 18:02:48__
@@ -168,12 +174,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Muito útil<br> :date: __2021-06-25 15:01:02__
 
-> Boa<br> :date: __2021-06-24 19:15:59__
-
-> Ok<br> :date: __2021-06-17 11:34:57__
-
-> Sem experiência efetiva.<br> :date: __2021-06-14 16:36:45__
-
 
 
 #### 4-star reviews
@@ -181,6 +181,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 4 reviews"/>
 </p>
+
+> SNS24<br> :date: __2021-07-06 19:54:43__
 
 > Muito completa e rápida.<br> :date: __2021-07-04 15:22:16__
 
@@ -199,8 +201,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Confusa<br> :date: __2020-12-14 15:54:31__
 
 > Razoável<br> :date: __2020-12-08 11:57:07__
-
-> Boa experiência.<br> :date: __2020-11-12 09:59:38__
 
 
 
@@ -238,6 +238,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
 
+> Levei a 2a dose da vacina, Pfizer a 31 de maio de 2021. (Há 37 dias) Desde o dia 14 de junho, que tento obter Certificado Digital de Vacinação. Após introduzir dados solicitados,(data nascimento e número de Utente) ao Submeter, aparece a mensagem Aplicacional: "os dados não são válidos ou ainda não é possível obter o certificado"<br> :date: __2021-07-08 23:03:02__
+
 > Não entendo a alteração. A mySnsCarteira funcionava sem ser necessário validar tudo vezes sem conta, agora está escondida lá no meio e falta informação. Não gosto.<br> :date: __2021-06-29 18:57:52__
 
 > Instalei a app para ter acesso as minhas receitas e fiquei perdido...<br> :date: __2021-06-23 13:09:00__
@@ -256,8 +258,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Nao abre no android 10. Para quango atualizacao?<br> :date: __2021-02-01 17:52:50__
 
-> Não está a trabalhar direito<br> :date: __2021-01-30 18:06:04__
-
 
 
 #### 1-star reviews
@@ -265,6 +265,16 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
+
+> Horrível<br> :date: __2021-07-10 11:33:57__
+
+> Para que fazer uma app se apenas o que faz e nos redireccionar para o website? Inútil, complicada, sem design...<br> :date: __2021-07-08 22:15:13__
+
+> Fraquinha, N S<br> :date: __2021-07-08 21:16:43__
+
+> Péssima aplicação!<br> :date: __2021-07-08 18:17:41__
+
+> Péssimo, minha receita foi enviada para este APP que ao abrir não tem opção para receitas. 😤 Tudo que vai fazer pede para refazer o logim<br> :date: __2021-07-05 21:43:54__
 
 > Nada funcional. 0 estrelas.<br> :date: __2021-07-03 21:16:02__
 
@@ -275,15 +285,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Muito má aplicação, nada funcional, registo sucessivo necessário a cada acesso, ano de nascimento de acesso "paleolítico"... Aplicação de utilização horrível, sem arrumação lógica dos assuntos, sem acesso prático ao Certificado Digital COVID-19 na sua forma desmaterializada... Enfim, muito trabalho a fazer aqui!<br> :date: __2021-07-01 10:21:28__
 
 > Um nojo autêntico, pelo número de utente não fica nada gravado na app, nasci em 1961 tenho que perder uma enormidade de tempo a passar para trás mês por mês, aprendam a fazer as coisas, não dou zero estrelas porque não dá, desinstalado rápidamente<br> :date: __2021-06-27 12:43:48__
-
-> Péssima<br> :date: __2021-06-26 21:34:00__
-
-> Not user friendly e agora nem sequer funciona<br> :date: __2021-06-26 17:25:01__
-
-> Má<br> :date: __2021-06-24 16:18:04__
-
-> Nao consigo aceder ao boletim de vacinas<br> :date: __2021-06-22 16:15:16__
-
-> Simplesmente miserável, aplicação deve ter sido idealizada por boys de algum partido cuja única competência era a falta dela.<br> :date: __2021-06-21 08:14:32__
 
 

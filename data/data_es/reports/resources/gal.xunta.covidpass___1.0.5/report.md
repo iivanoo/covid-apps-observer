@@ -261,6 +261,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> He intentado acceder con Chave 365, pero no encuentro la manera de registrarme. Quizá lo hice mal la primera vez que la instalé, pero la he desistalado y vuelto a instalar no sé cuántas veces, y sólo me permite acceder, pero no registrarme. De esa manera, accedo como usuario anónimo, y no puedo descargar el certificado de vacunación (por ejemplo). Hay enlaces que te explican las ventajas de acceder con Chave 365, pero en ninguna parte te explican cómo hacerlo.<br> :date: __2021-07-09 20:20:09__
+
 > Pasa a estado anónimo constantemente.<br> :date: __2021-05-09 20:00:56__
 
 > La aplicación va cuando quiere siempre da problemas para registrarse en los locales<br> :date: __2021-03-26 19:41:21__
@@ -279,8 +281,6 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 
 > Tiene que mejorar No consigo que la app me indique zonas en las que hay brotes de contagios o zonas de riesgo, se limita a dar información sobre restricciones y recomendaciones que ya conozco muy bien. La desinstalo ahora mismo, esta app no me sirve para desplazarme con seguridad. Más adelante le daré una oportunidad<br> :date: __2020-12-01 00:01:22__
 
-> Tuve que desinstalarla se quedaba colgada nada más descargarla.....<br> :date: __2020-11-30 19:20:30__
-
 
 
 #### 1-star reviews
@@ -288,6 +288,16 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
+
+> Unha merda<br> :date: __2021-07-10 00:17:42__
+
+> Para que tantos permisos? Es nuestra privacidad, fotos agenda, contactos, dedicaros a lo que es la aplicación solo para covid, desinstalando.<br> :date: __2021-07-08 22:54:49__
+
+> Pésima, soy de muface con clave365 y no me funcionó jamás. ¿Quien diseñó la aplicación? Porfavor contraten gente competente, que tenemos un 20% de paro....<br> :date: __2021-07-06 21:24:30__
+
+> No soy capaz de entrar para certificar la vacunación<br> :date: __2021-07-05 19:20:00__
+
+> No estoy de acuerdo en tener que dar acceso a todos mis archivos. Esos arcivos(documentos,videos,musica,etc.)son privados. Por este motivo no voy a descargar la aplicación.<br> :date: __2021-07-05 14:04:17__
 
 > Soy funcionario de muface, tengo chave365 y dni electronico, pero siempre que accedo me dice, no disponible, intentelo más tarde. Si la vacuna corresponde al sergas, que menos que me deje descargar el certificado. Por cierto en E-Saude tampoco me deja entrar. Me dice que soy un usuario no autorizado??? Vamos que tengo las 2 vacunas, me voy de viaje y no puedo obtener el certificado. Desinstalando.<br> :date: __2021-07-02 01:26:26__
 
@@ -298,15 +308,5 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 > Una chapuza, no sirve para nada, ni siquiera para obtener el certificado de vacunacion.<br> :date: __2021-05-28 21:52:11__
 
 > A ver si actualizáis bien la info. Hay errores. La hostelería en Vigo cierra a fecha de hoy a las 23:00 no a las 21:00 como indicais en la app. Se supone que debemos instalar la App para tener la información actualizada y lo wue estáis es desinformando.<br> :date: __2021-05-14 21:23:10__
-
-> Ten bastantes errores que o final crean confusión<br> :date: __2021-05-09 08:54:14__
-
-> El contenido de la información está en galego y en inglés... pero en castellano no<br> :date: __2021-05-09 01:15:01__
-
-> non está actualizada, polo cal non sirve para nada, miras ó que podes facer e enganate, hoxe pon que ó horario de cerre na hosteleria é ás 9:00, cando é ás 23:00, e así ó demais, unha pena como casi todo ó que xestiona a xunta<br> :date: __2021-05-08 14:40:40__
-
-> Le daría un 5 si no fallase en lo básico que es mantener correctamente actualizadas las restricciones. En el caso de reuniones entre no convivientes en domicilios la información contradice al DOG, específica "Só conviventes en espacios privados" cuando desde este sábado quedó restaurada esta restricción limitando a 4 personas en espacios cerrados sean públicos o privados. Es bastante problemático estar actualizado con todos los cambios que se producen como para generar más confusión con la app.<br> :date: __2021-04-12 07:56:58__
-
-> Tras a última actualización non funciona o lector QR (quedase en negro) Teléfono PocoX3. A aplicación ten permiso de acceso a cámara. Tendes algunha solución?<br> :date: __2021-04-04 11:35:37__
 
 

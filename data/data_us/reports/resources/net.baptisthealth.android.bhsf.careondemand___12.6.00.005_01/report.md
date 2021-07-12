@@ -202,6 +202,8 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 <img src="5_star_reviews_wordcloud.png" alt="net.baptisthealth.android.bhsf.careondemand 5 reviews"/>
 </p>
 
+> My experience was great! My Doctor was very professional helpful and pleasant.<br> :date: __2021-07-08 01:39:39__
+
 > Waited in the comfort of my home and the doctor was attentive and caring.<br> :date: __2021-06-28 21:05:35__
 
 > Fast and easy to use<br> :date: __2021-06-10 15:11:41__
@@ -219,8 +221,6 @@ The Baptist Health Care On Demand app has been installed by more than **50000** 
 > Worked great love the provider Martha Vega 👍<br> :date: __2020-12-06 20:08:00__
 
 > Very easy and fast<br> :date: __2020-12-05 09:21:06__
-
-> Ok<br> :date: __2020-11-08 23:28:44__
 
 
 

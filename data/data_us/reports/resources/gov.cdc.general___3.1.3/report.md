@@ -188,6 +188,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> Great App!!! On Point!! Relevant! Very Resourceful 🙂<br> :date: __2021-07-06 19:55:20__
+
 > Describes a lot of precautions to use during Pandamic.<br> :date: __2021-07-03 21:05:42__
 
 > Great app<br> :date: __2021-06-16 08:52:32__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > Rate 5<br> :date: __2021-03-28 04:09:19__
 
 > this was awesome thank you<br> :date: __2021-03-26 15:53:43__
-
-> To me it was filled with useful information, and if necessary I will definitely download the application again for the next update<br> :date: __2021-03-19 12:27:33__
 
 
 
@@ -244,6 +244,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="3_star_reviews_wordcloud.png" alt="gov.cdc.general 3 reviews"/>
 </p>
 
+> too many identity thefts and frauds stolen medications from people working inflation and people messing with prescri tions<br> :date: __2021-07-10 22:46:16__
+
 > Like the topics & research<br> :date: __2021-03-07 15:47:54__
 
 > Why R the EyEs not a point of passing 19 to the nose❓🤪🌿<br> :date: __2021-02-01 08:01:46__
@@ -261,8 +263,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > program has good info, does not rotate to horizontal.<br> :date: __2020-06-14 15:51:53__
 
 > I get more information from Bing<br> :date: __2020-06-11 07:46:28__
-
-> Depresing inormationb<br> :date: __2020-06-04 04:00:19__
 
 
 

@@ -168,6 +168,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 5 reviews"/>
 </p>
 
+> Die App ist sehr gut<br> :date: __2021-07-08 13:35:27__
+
 > Eigentlich eine schöne und sinnvolle App. Leider läuft sie nicht stabil. Bei der Eingabe meiner Adresse unter dem Punkt Abfall stürzt sie ab. 🤔 Edit :Fehler wurde behoben.<br> :date: __2021-06-07 13:06:03__
 
 > In den letzten Wochen ist die App sehr stabil geworden und funktioniert wirklich gut. An den Inhalten gibt es nix zu meckern. Weiter so.<br> :date: __2021-04-30 17:19:35__
@@ -186,8 +188,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Tolle Idee. Gut umgesetzt. Schönes Design. Funktioniert bei meinem S9+ prima. Kira könnte noch was zum Grill-, Jogging-, Wander- oder Radfahrwetter sagen.<br> :date: __2020-11-13 16:35:42__
 
-> Guter Einstieg, weiter so!<br> :date: __2020-08-16 14:50:32__
-
 
 
 #### 4-star reviews
@@ -195,6 +195,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 4 reviews"/>
 </p>
+
+> Leider stütz die App nach dem Öffnen immer wieder ab auch nach den neuen Updates war sonst ganz informativ Cornazahlen aktualisieren sich nicht mehr seit Tagen . Nacht Kontakt mit dem Anbieter der App und weiteren Infos von ihm läuft die App wieder Einwand frei .<br> :date: __2021-07-07 08:20:50__
 
 > Eine echt klasse App für Solingen, viele Informationen und sinnvolle Funktionen. Da macht Solingen vieles richtig. Leider Funktioniert die App dann plötzlich alle paar Wochen nicht mehr. Man muss Sie deinstallieren und neu installieren. Das geht leider auf Dauer gar nicht ) - : . Viele Solinger machen das nur ein Mal, obwohl Sie die App auch super finden! Da muss der Entwickler sehr stark dran arbeiten! Ansonsten hat demnächst kein Solinger mehr dieses App installiert, obwohl Sie super ist!!!<br> :date: __2021-06-13 15:00:45__
 
@@ -214,8 +216,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Kann die App gar nicht öffnen nach dem letzten Update Eher 0 Sterne, geht aber nicht Edit 16.12.20 Vielen Dank für die Rückmeldung. Ich habe die App mittlerweile neu installiert und verschiedene Benachrichtigungen abgestellt. Jetzt läuft sie wieder.<br> :date: __2020-12-16 08:18:12__
 
-> Ich bekomme regelmässig die Nachricht, dass die App zu langsam läuft. Es könnte vielleicht zusätzlich aufgenommen werden Müllgefässe zu bestellen bzw. zu ändern. Die Rubrik Baustellen scheint nicht aktuell. Unsere Strasse ist durch Kanalbauarbeiten schon seit 1 Jahr eine Dauerbaustelle und ist nicht einmal erwähnt.<br> :date: __2020-11-29 09:37:31__
-
 
 
 #### 3-star reviews
@@ -223,6 +223,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 3 reviews"/>
 </p>
+
+> Die Informationen und der Service verdient 5 Sterne. Die technischen Probleme (Abfuhrtermine werden nicht angezeigt, App schließt sich, Serverprobleme,..) macht sie jedoch wenig nützlich. Schade<br> :date: __2021-07-11 09:57:31__
 
 > Eigentlich ist die App super! Allerdings muss ich sie alle drei Monate löschen, da sie nicht mehr funktioniert. Wenn ich sie dann neu installiert habe, funktioniert sie wieder. Ansonsten gäbe es fünf Sterne!<br> :date: __2021-07-03 23:00:18__
 
@@ -242,8 +244,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Leider schließt sich seit Tagen die App sofort, nachdem die Verbindung zum Server erfolgreich angezeigt wurde. Habe die App bereits gelöscht und neu installiert, es ändert sich nix. Sehr schade, habe sie gerne genutzt.<br> :date: __2021-04-17 20:14:23__
 
-> Schöne Umsetzung, toll was alles mit React Native geht! Meine Wünsche: - Corona Positivtestrate bitte in Prozent im Bezug auf die gesamte Testmenge - Anzahl der aufgeführten Tests mit angeben - Die Ladeanimation nervt. Weg damit. - Manuelle Anwahl der Wetterstation- keine Daten<br> :date: __2021-04-16 15:39:59__
-
 
 
 #### 2-star reviews
@@ -252,11 +252,13 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
 
+> Stürzt häufig ab. Erst Serververbindung hergestellt, dann Absturz. Schade eigentlich super für Solinger.<br> :date: __2021-07-08 18:28:18__
+
+> Grundsätzlich eine tolle App. Sehr informativ und tolle Funktionen. Aber diese Abstürze sind nervig. Ich bin schonmal frih, dass man sich nicht anmelden muss sonst wäre dieses ganze deinstallieren und neu installieren noch schlimmer und ich würde die App gar nicht mehr nutzen.<br> :date: __2021-07-06 12:00:09__
+
 > Man hat oft keine Verbindung zum Server<br> :date: __2021-07-04 14:35:23__
 
 > Sehr oft Absturz - "Verbindung zum Server erfolgreich" - und dann ist sie wieder weg. Neu installiert dann klappt es wieder. Kein aktuelles Datum bei z.B. den Coronainzidenzen. Bei Müllentsorung wird nur das aktuelle Datum Abholdatum im Kalender eingetragen - Meldung erst am Tag der Abholung wenn die Tonne schon geleert wurde. Trotz Hinweis, dass die Erinnerung am Vortag erfolgen sollte UND Bestätigung dass das aus so sein sollte, keine Änderung. Also - SCHROTT, der wieder deinstalliert wurde !!<br> :date: __2021-07-04 12:12:22__
-
-> Eigendlich eine gute Idee aber in letzter Zeit funktioniert die App nicht. Ich muss sie deinstallieren und wieder installieren. Dann läuft sie wieder aber mit veralteten Daten. Daran sollte man noch arbeiten.<br> :date: __2021-07-01 14:30:28__
 
 > Eigentlich enthält die App viele nützliche Informationen. Leider stürzt sie immer wieder ab. Seit dem 28.06. ändert sich der Stand der Coronazahlen nicht mehr. Habe sie schon mehrfach neu installiert - Problem bleibt!<br> :date: __2021-07-01 09:59:20__
 
@@ -270,8 +272,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Okay, die App läuft mittlerweile und tut was sie soll. Der Funktionsumfang könnte noch was größer sein. Leider klappt das Scaling nich nicht ganz, zum Teil werden Textbereiche bin anderen Boxen überdeckt (Samsung S10) Update: bekam heute die erste Benachrichtigung von der App, und ich bekomme einen dauerhaften Fehler angezeigt... Jetzt deinstalliert, schade<br> :date: __2021-03-05 17:02:32__
 
-> Gibt man bei dem Abfallkalender eine Hausnummer ein die nicht in dem System ist funktioniert die Funktion nicht. Ergo existiert unser Haus nicht und man muss dann eine völlig andere Hausnummer eingeben.Das Haus meiner Eltern gibt es auch nicht aber vielleicht leben wir ja in Bielefeld 😁 Die Wetterstation Eichenstrasse gibt es nicht obwohl sie im System auftaucht. Alles in allem irgendwie sehr unprofessionell und das ganze war wahrscheinlich nicht billig.<br> :date: __2021-01-08 21:17:37__
-
 
 
 #### 1-star reviews
@@ -280,9 +280,13 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
 
-> Es gibt zu viele Fehlermeldungen<br> :date: __2021-07-03 12:07:04__
+> Stürzt nach dem Start sofort ab. Schade!<br> :date: __2021-07-08 22:52:49__
 
-> Leider stütz die App nach dem Öffnen immer wieder ab auch nach den neuen Updates war sonst ganz informativ Cornazahlen aktualisieren sich nicht mehr seit Tagen<br> :date: __2021-07-03 08:21:00__
+> Stürzt nur noch ab...Schrott!!!<br> :date: __2021-07-06 10:22:49__
+
+> App stürzt ab (Galaxy S20 Ultra)<br> :date: __2021-07-05 16:29:20__
+
+> Es gibt zu viele Fehlermeldungen<br> :date: __2021-07-03 12:07:04__
 
 > Wenig interessante Informationen und ständig Störungen. Mit so etwas muss sich unser OB nicht brüsten@<br> :date: __2021-05-27 18:44:39__
 
@@ -295,9 +299,5 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Bisher lief die App gut, doch seit einigen Tagen lässt sie sich nicht mehr öffnen. Erst kommt Fehler 100. Dann wird doch die Verbindung zum Server hergestellt und dann stürzt sie ab.<br> :date: __2021-02-13 15:17:38__
 
 > Derzeit ist keine Info über die App möglich, da es scheinbar zu Fehlern in der Verbindung zum Server gibt.<br> :date: __2021-01-31 11:15:31__
-
-> Lässt sich nicht mehr öffnen - unbrauchbar. Bitte beheben. Samsung Galaxy S10<br> :date: __2021-01-19 18:21:56__
-
-> Update 18.01.2021 Seit mehreren Tagen schon wieder "Verbindung fehlgeschlagen" :-(<br> :date: __2021-01-18 16:36:46__
 
 

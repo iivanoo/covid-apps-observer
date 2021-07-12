@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOH7yTGEdHq8w2fyoZNXmC-ds2blROua37o1RJMpstcEKgzsfVlD6QxYWG1S86qv5mfhYPNkFlpO0aupEA",
+        "userName": "Bob Jeffrey",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgjZ5yDwvPPNc6lWRFmP50KKRLHTbOwQqXqaMr3cw",
+        "content": "App is really useful in telling users their health with just a few simple questions. Also useful for monitoring over a period of time.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-07-09 21:06:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFWcG6Zj3lPgunywtg7WVBUjgfb3OypuPgqGNANL9oN9CU2c5yJMSCtFhu6077_uRtD9uFt8297V5Quvw",
+        "userName": "A Phillips",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzCvb9WT4cRdFf_lW7cvQIQ9CYAW2pJs_6_SP0=mo",
+        "content": "Clunky and issues with passwords/refreshing. If the appointment you selected is taken, the system makes you confirm your password before you can attempt to book another. Causing you to miss out on other appointments. You always need to refresh twice before your results are actually updated. Aware these are just two functions but they are only ones I use. And being able to manage your health care is the point of the app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-07-07 09:09:57",
+        "replyContent": "Have you contacted our customer support about this as we would really like to help? You can email us at hello@evergreen-life.co.uk or call us on 0161 768 6063. We look forward to hearing from you to investigate your issue further.",
+        "repliedAt": "2021-07-07 11:24:17"
+    },
+    {
+        "reviewId": "gp:AOqpTOEeaQSOZwKy0uSx9wz2PsiXI7FbM8NpeyvurncExFNNb5JqqgGOeUttQe9Bl0xK_mp3_iu1FkG8M45ggw",
+        "userName": "Maryam El",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTxxEwTWCII7gpzTrgPvEbBsMp6eKodhREm7rX",
+        "content": "I liked this app. I've been using it for a while with no problems but the latest updates have rendered it useless as I can't even login anymore. It doesn't recognise my credentials at all. It's been like this for a month or 2 now...",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "19.3.0",
+        "at": "2021-07-06 14:50:44",
+        "replyContent": "Please let our customer support team know about any issues you are experiencing. You can contact the team either by email: Hello@evergreen-life.co.uk or by phone on: 0161 768 6063. Our support team will be able to advise and assist with any issues you may be experiencing.",
+        "repliedAt": "2021-07-07 11:10:26"
+    },
+    {
         "reviewId": "gp:AOqpTOHkFvU_5Rgss2H1w3yqhugRS-z0LuuLLETb0_JcR4Rj_nQFomuD3yQ2kpKvNr9LPhzbXSuw0jaaTDyigg",
         "userName": "Daniel Malins",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhD9zJfuBFgcrfLT-XFUv4QrSmGi1VMbqj8cO3aaA",
@@ -53,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyCDR37d9S_TbXX6COAfGICG_rJVww8v8z5qrpp=mo",
         "content": "Brilliant app so easy to order my medication, been using for a couple of years now and I've never had a problem until yesterday, I contacted customer support via email and they replied very quickly, problem sorted, excellent customer support.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "19.3.0",
         "at": "2021-06-29 01:01:51",
         "replyContent": "Thanks for the great review, we're happy to hear that our customer support team managed to solve your issue quickly.",
@@ -625,7 +661,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHuUW-z47vAovEJESCOspiWpTfCk7Ifi5RA3xrWsd7Y7Bmr6RNaARHdg6Cbh-pc3gRh86kiyYvoXMeN5w",
-        "userName": "iam iam",
+        "userName": "Mrs D",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggkX-lroXlPxlc9ChmT_CaQtCJQL02GhFSepymlA",
         "content": "This app is 10 times better than Patient Access. It's very interactive and keeps the user up to date in many areas like health and well being, including your rights as a patient to having access to your records.",
         "score": 4,
@@ -1166,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOHA5--jFU8sF5E8gc48v5HdfMuqUMA0-3UtMWWumTM2nId-dvEqmZls9LRRS60IwovICM6Hyqw2tmRM8g",
         "userName": "Tony Remi Jameson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhDyiaZpN4JTkG-qxqkqJ8UedhykN5T70kB8j4tIx0",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GikAi38a-xPyRsy9fEfRJ91amru_VQ2Sl_ISlY4OHk",
         "content": "great app. essential if you want your GP to update some of your case without having to answer the annoying questions about how much you smoke and drink. tell the truth because they will check",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5869,7 +5905,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEVCwGJtPBNFAl0dFtXSMLcYeOn4PWDY6jcOcQu8Qyg-Ez1TFUeMmRFsh0R6rR20cul4UYFbJX9A4Ox-g",
-        "userName": "C Edwards",
+        "userName": "Celestina Edwards",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwFq-lkuqEQROphtLgIUiMjNsNtJamB1tiRrDWN=mo",
         "content": "The app isn't working. I can't order prescriptions and cannot see any results from recent tests I've had. It's not worth downloading with all these issues",
         "score": 1,
@@ -9170,7 +9206,7 @@
     {
         "reviewId": "gp:AOqpTOERWoGaaXsXLELEh88tqFsqK83t_Tj5diWM2tlepDXjuwF0FJQaCk0DP6wBsi-wT3AwnNxFxedql3v98w",
         "userName": "Maria Birch",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgMkbtm-9rrMDF8dQFVxvPIIe_5foizikZDngWciQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIJck8rwGhRdYROjuKBvD8UjgmEhD0W2swf75QAtI",
         "content": "It has been very good, until I booked a gp appointment via the app this week, when I turned up, the receptionist told me the doctor was not in that day and didn't understand how I was able to book the appointment",
         "score": 4,
         "thumbsUpCount": 0,
@@ -11962,41 +11998,5 @@
         "at": "2019-06-17 15:38:09",
         "replyContent": "We're really sorry to see that you haven't been able to access your information, Robert. Our Support Team should be able to help you with this. You can call us on 0161 768 6063 or email us via Hello@Evergreen-Life.co.uk",
         "repliedAt": "2019-06-21 14:37:33"
-    },
-    {
-        "reviewId": "gp:AOqpTOElnOUuPtRvcXqTcqf7Mt5Zgm5lpdtqaIvLjo5AEQvzE7zvNYYbe-WH-khH6Ok9kXyXiTLHxH6UESLimg",
-        "userName": "julie hughes",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHehRtM82fhZWrGbtsDjIZySyso0w7r45YYyYm=mo",
-        "content": "great for my repeat prescriptions and log",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-16 18:28:58",
-        "replyContent": "Thanks for your review, Julie!",
-        "repliedAt": "2019-06-21 15:22:42"
-    },
-    {
-        "reviewId": "gp:AOqpTOFU4IOa3ryCenORMZlyKQVeB4ux10qMcRZd3E9gvWL_6gZ68EiMb1PV7_w3mI9P4cifYdrxs2KgX2VLtQ",
-        "userName": "Issa Ashhab",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFIK4sjfR2GfESz1pqVQclZbfgvrseCR2n62Y0pg",
-        "content": "very convenient.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-16 12:42:31",
-        "replyContent": "We're always working hard to improve the app. Thanks for your download and feedback.",
-        "repliedAt": "2019-06-21 15:22:52"
-    },
-    {
-        "reviewId": "gp:AOqpTOFH6VMATIlXjjfv-Ggdz_GN117mewQRbpyFXq6zGftQ6YTU0tyPkFvg-trLDvSBmLi5EwSSEWP7cdaMUQ",
-        "userName": "Veena",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhgvJtEXlBV-dVrR75AMoyHOsWnldRHo38586oI31A",
-        "content": "easy to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11.0.11",
-        "at": "2019-06-15 15:34:41",
-        "replyContent": "Thanks a lot for your rating",
-        "repliedAt": "2019-06-21 15:23:52"
     }
 ]

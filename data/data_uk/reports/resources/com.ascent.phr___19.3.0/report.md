@@ -217,6 +217,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="4_star_reviews_wordcloud.png" alt="com.ascent.phr 4 reviews"/>
 </p>
 
+> App is really useful in telling users their health with just a few simple questions. Also useful for monitoring over a period of time.<br> :date: __2021-07-09 21:06:36__
+
 > it's just a bit of a pain how they keep asking for me to update my covid jab record when I've already done it (4 times to-date)<br> :date: __2021-06-25 09:41:45__
 
 > Better than others I've tried<br> :date: __2021-06-21 19:18:18__
@@ -234,8 +236,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > bit slow today - edit: It is thankfully back up to speed today, though it means I'm unable to make a physical recording of it.<br> :date: __2021-03-09 10:40:38__
 
 > Had problems logging in, but Evergreen helped solve that problem. Thanks guys!<br> :date: __2021-02-22 22:56:40__
-
-> I find the app easy to use and so far have not had any issues.<br> :date: __2021-02-11 13:59:39__
 
 
 
@@ -273,6 +273,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="com.ascent.phr 2 reviews"/>
 </p>
 
+> I liked this app. I've been using it for a while with no problems but the latest updates have rendered it useless as I can't even login anymore. It doesn't recognise my credentials at all. It's been like this for a month or 2 now...<br> :date: __2021-07-06 14:50:44__
+
 > Slow, Unrealiable<br> :date: __2021-06-18 11:44:19__
 
 > Did like the app, but suddenly it doesn't work at all for the last month. Can't log in with either biometrics or password. So have to use the website. And the worst thing is I have had no response from the company at all.<br> :date: __2021-06-14 23:02:24__
@@ -291,8 +293,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 
 > The app no longer loads up, I used it to order repeat prescriptions now it won't do anything<br> :date: __2021-02-13 09:41:43__
 
-> Seems to not ever load the prescriptions section which was the main reason I got it.<br> :date: __2021-02-02 00:17:09__
-
 
 
 #### 1-star reviews
@@ -300,6 +300,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
+
+> Clunky and issues with passwords/refreshing. If the appointment you selected is taken, the system makes you confirm your password before you can attempt to book another. Causing you to miss out on other appointments. You always need to refresh twice before your results are actually updated. Aware these are just two functions but they are only ones I use. And being able to manage your health care is the point of the app.<br> :date: __2021-07-07 09:09:57__
 
 > This used to work fine but now passwords don't work, thus making the app pointless.<br> :date: __2021-07-01 10:02:30__
 
@@ -318,7 +320,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > keeps saying the user and password are incorrect. I change the password=>get access. Close app. Next time says the same thing=>change password again....in a loop.<br> :date: __2021-06-02 20:22:56__
 
 > Not able to even sign up as freezes on biometrics page. Ridiculous.<br> :date: __2021-05-16 13:13:38__
-
-> Hardly ever works properly nowadays, all i want is to order a repeat prescription.<br> :date: __2021-05-16 10:31:12__
 
 

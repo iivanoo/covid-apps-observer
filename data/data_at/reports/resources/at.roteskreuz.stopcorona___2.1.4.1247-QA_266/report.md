@@ -260,6 +260,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> Wozu belegt die App mehr als 2GB? Der Support reagiert überhaupt nicht!<br> :date: __2021-07-06 12:20:23__
+
 > Idee ist gut, dürfte aber nicht funktionieren, denn wenn ich auf gespeicherte ID's schaue hab ich oft dann kontakt zu anderen wenn ich a) auf der Autobahn alleine im Auto fahre, b) alleine zu Hause bin und c) auf einem Weg alleine spazieren gehe. Komischerweise erst 2 Kontakte wenn ich einkaufen gehe oder mich im öffentlichen Raum aufhalte zwischen anderen Personen. Kaum bin ich wieder alleine unterwegs kommen wieder vermehrt Kontakte hinzu. zertifikate hochladen fehlt<br> :date: __2021-07-03 10:24:14__
 
 > SINNLOS. Mittlerweile macht so eine App gar keinen Sinn mehr. Und benutzt hat sie sowieso so gut wie niemand.<br> :date: __2021-07-02 14:40:56__
@@ -277,7 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > lt. app hatte ich kontakt mit einem positiven. hab bei 1450 vlbg. angerufen, die kennen die app nicht 😳 geh morgen wieder arbeiten.<br> :date: __2021-05-02 16:22:14__
 
 > Unbrauchbsr<br> :date: __2021-05-02 09:22:27__
-
-> Rosikokontakt erst nach 8 Tagen gemeldet. Wie kann so was passieren?<br> :date: __2021-05-01 20:39:16__
 
 

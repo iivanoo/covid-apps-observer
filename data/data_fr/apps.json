@@ -11,7 +11,7 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "2.0.3",
-        "latest_crawl": 1625408659
+        "latest_crawl": 1625995983
     },
     {
         "id": "de.xikolo.openwho",
@@ -24,15 +24,15 @@
         "id": "fr.aphp.covidom",
         "store_country": "fr",
         "store_lang": "fr",
-        "latest_crawled_version": "1.5.21",
-        "latest_crawl": 1619889693
+        "latest_crawled_version": "1.5.34",
+        "latest_crawl": 1625996119
     },
     {
         "id": "com.ambulis.aphm.covid",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1625408792
+        "latest_crawl": 1625996125
     },
     {
         "id": "fr.gouv.android.stopcovid",
@@ -53,14 +53,14 @@
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "0.0.68",
-        "latest_crawl": 1625408930
+        "latest_crawl": 1625996255
     },
     {
         "id": "fr.esantebfc.engage",
         "store_country": "fr",
         "store_lang": "fr",
         "latest_crawled_version": "4.2.8",
-        "latest_crawl": 1625408936
+        "latest_crawl": 1625996255
     },
     {
         "id": "com.sanpsy.kanopee",

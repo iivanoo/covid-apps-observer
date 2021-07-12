@@ -225,6 +225,8 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="gov.nv.dhhs.en 1 reviews"/>
 </p>
 
+> Says it has no way of tracking my location. I dont live in Nevada but it knew I was here, so it downloaded itself without me knowing. Pretty sure I can tell when I am being lied to.<br> :date: __2021-07-06 20:01:58__
+
 > I know I have been exposed at least 2 times. I personally reported one and was too ill to report the second. This app has not reported a thing. I am instinctively certain I've had other exposures. I was in a hospital ER over 8 hours in Jan 2020 with people bed to bed coughing, moaning, gagging, etc. I've received not one notification from this app.<br> :date: __2021-07-02 17:43:27__
 
 > I wouldn't install this because it's asking way too much of my private data activities. Doesn't seem very "privacy" friendly.<br> :date: __2021-06-23 07:47:14__
@@ -242,7 +244,5 @@ The Covid Trace Nevada app has been installed by more than **50000** times. At t
 > In case you dont realize it is just a way to attach a marker to your cell phone the department of health is using you to get more of a grasp of your lives. To think if you never would be put on an ankle bracelet The government just made you carry one with out due process<br> :date: __2021-02-26 09:06:59__
 
 > Neither UMC nor the Health Department have any idea about the required verification code, so I can't report a positive diagnosis. Which defeats the entire purpose of this app.<br> :date: __2021-02-19 19:20:22__
-
-> No idea what the idea is behind this when I couldn't enter my info about being infected.<br> :date: __2021-02-19 05:06:10__
 
 

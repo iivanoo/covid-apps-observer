@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFlhSncxAG-T9NDMzyEbPWIuAZg6KGxWdXVon1r9By2RFgUOVrzIClDsYcgX-3gEoc_kYJwrJbFYdgFuYI",
+        "userName": "Melinda Martinez",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj111vo7WEwqVkkrjU3J7r2Ul53cy6_au1dbPOMuA",
+        "content": "It's great to have an app like this too bad the New Mexicans don't know how to get on there and use it for the well-being of others but isn't very uncaring state",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "minted160003",
+        "at": "2021-07-09 15:32:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFBwveYCI0YOe8juGGc30Z05IrTLDsk1IsGXgD936tQdKLjJ9AqtIkaQVC4L66rc85rhYpsEMsITri3GGQ",
+        "userName": "Ju Chen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw9-Mtd0QJP2gOa-az5FYg1vJA11JbWVweeW-Ea=mo",
+        "content": "I've installed it for maybe 3 months, almost forgot it, and today all of sudden I got an potential exposure alert for, eh, 5 days ago. I understand it takes time to confirm, but this is just a horrible example that only the app couldn't handle the risk. If the security or entrance of any public place enforce temperature monitoring, it would br much easier to locate the potential cases along with the app. It's too late!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "minted810004",
+        "at": "2021-07-05 07:24:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHn9rDif48Rh7yVRYgOI-mq2f6GWu5Roerug_-NC2ZVOwDPCfd30VY3aDAdEHr4UhtbD23D99B9mOUQJrY",
         "userName": "Davy Lopez",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbvJj_GQQVdVyJG2y9E4NjYgExG9RV2PWKfgE8=mo",
@@ -53,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0Grr0HecCu4wXRlEOva3KBTyRO2QUvuOtsA4QSw",
         "content": "Sure does suck the life out of your battery. Haven't had any notifications for anyone who's tested positive for the virus.",
         "score": 3,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "minted700013",
         "at": "2021-05-10 07:54:41",
         "replyContent": null,
@@ -241,8 +265,8 @@
     },
     {
         "reviewId": "gp:AOqpTOG9DsmJ2tuzCisUf4OFf5KirmTNzWSi5vvr0b6SXs3iZscQ7_W8Qro1fTNCzcKDw7w5DfDaFigUnhooqOs",
-        "userName": "David",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0NbybLNDRvb-MLDKJIdXJyYNXfPK_QP-l6sPBCQ",
+        "userName": "Aqua",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLJgKEIAwVwZactaXtfEhjcubpl2DXp3TgHyViBQ",
         "content": "The app does not work like it should work. For starters, the installation!",
         "score": 1,
         "thumbsUpCount": 3,

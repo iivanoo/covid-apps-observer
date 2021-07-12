@@ -11,14 +11,14 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.1.4.1247-QA_266",
-        "latest_crawl": 1625401701
+        "latest_crawl": 1625988263
     },
     {
         "id": "nl.rivm.lciapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1625401709
+        "latest_crawl": 1625988265
     },
     {
         "id": "org.who.infoapp",
@@ -46,21 +46,21 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "2.5.0",
-        "latest_crawl": 1625402272
+        "latest_crawl": 1625988812
     },
     {
         "id": "nl.lumc.covidradar",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1625402277
+        "latest_crawl": 1625988817
     },
     {
         "id": "jhu.edu.JohnsHopkinsCOVIDControl",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "3.3",
-        "latest_crawl": 1625402277
+        "latest_crawl": 1625988818
     },
     {
         "id": "nl.rijksoverheid.en",

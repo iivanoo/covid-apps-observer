@@ -154,25 +154,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="5_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 5 reviews"/>
 </p>
 
+> Sehr gute und nützliche APP<br> :date: __2021-07-10 18:21:15__
+
+> Immer aktuell<br> :date: __2021-07-10 09:35:21__
+
+> Ich benutze NINA seit der ersten Stunde. Bin zufrieden und macht was sie soll. Benutze NINA für meinen Dienst in der Feuerwehr und im Katastrophenschutz. Für die Leute die alles schlecht reden und machen : Das Wetter macht was es will. BBK in Bonn macht die Warungen nicht, sondern bekommt sie von den Behörden von den Bundesländer , Kreisverwaltung , DWD , etc. Wenn NINA nicht klingeln , Bedienerfehl , Smartphone richtig einstellen. Die Sirene als Warnton muss man sich kostenlos herunterladen.<br> :date: __2021-07-08 17:04:39__
+
+> Der eigentliche Warnton geht auf dem S9 nicht<br> :date: __2021-07-08 10:11:09__
+
+> Super ap<br> :date: __2021-07-07 13:59:15__
+
+> Sehr gut<br> :date: __2021-07-06 13:56:03__
+
+> Immer Top aktuell<br> :date: __2021-07-04 23:46:17__
+
 > Funktioniert bei mir sehr gut!<br> :date: __2021-07-01 13:58:50__
 
 > Gut<br> :date: __2021-07-01 11:53:47__
 
 > Hilfreich<br> :date: __2021-06-30 17:53:36__
-
-> Coole App<br> :date: __2021-06-29 13:53:55__
-
-> Wäre eigentlich gut, aber immer öfter wird mein Standort nicht gefunden, obwohl alle Einstellungen stimmen. Und dann gibt es natürlich auch keine Meldungen. Unzuverlässig und deshalb zur Zeit nutzlos. 29.06.: Problem besteht nach Neuinstallation zur Zeit nicht mehr. Bewertung angepasst. Danke für Support.<br> :date: __2021-06-29 09:25:46__
-
-> Gut<br> :date: __2021-06-27 10:04:34__
-
-> Die Informationen sind zügig auf Rechner. Ist positiv zu bewerten<br> :date: __2021-06-26 19:38:47__
-
-> Hier sind die Daten von offizieller Stelle bereit gestellt und nicht von irgendeinem Meinungsmacher.<br> :date: __2021-06-26 18:29:36__
-
-> Eine sehr gute App<br> :date: __2021-06-24 14:42:15__
-
-> Gute Sache<br> :date: __2021-06-23 20:21:34__
 
 
 
@@ -182,7 +182,7 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="4_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 4 reviews"/>
 </p>
 
-> Beim heutigen Probealarm kam keine Warnung, obwohl alle Berechtigungen eingestellt waren. Funktioniert die App überhaupt?<br> :date: __2021-07-04 14:31:21__
+> Also die Wetterwarnungen sind gut und treffen meistens zu. Bei den Corona Informationen muss aber nochmal nachgebessert werden. Die letzte Aktualisierung ist von Mitte Juni. Mir wird immer noch Infektionsstufe 2 angezeigt. Die Regeln sind andere. Also wenn man es anbietet sollte es auf dem laufenden gehalten werden.<br> :date: __2021-07-08 20:18:50__
 
 > Wenn die App geöffnet wird ( wlan ) sucht und findet sie keine Daten. Bei mobilen Daten keine Probleme.<br> :date: __2021-06-30 08:27:25__
 
@@ -210,25 +210,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="3_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 3 reviews"/>
 </p>
 
+> Seit Monaten werden probealarme nicht mehr mitgeteilt<br> :date: __2021-07-09 18:38:50__
+
+> Irgendwie werden die Stufen falsch angezeigt. Lauter Verordnung andere Stufen der Inzidenzwerte.<br> :date: __2021-07-09 10:14:32__
+
+> Leider muss ich jetzt vorübergehend erst einmal 2 meiner 5 Sterne der Bewertung abziehen. In der letzten Zeit kommen so viele identische Warnmeldungen zum Wetter rein, dass man die App mittlerweile grundsätzlich ignoriert. Bspw. macht es keinen Sinn, dass wenn der aktuelle Ort auch ein gespeicherter Ort unter Beobachtung ist, jede Meldung doppelt per Push ausgegeben wird.<br> :date: __2021-07-08 18:26:54__
+
+> Wieviel Unwetterwarnungen wollt ihr denn noch bei leichtem Regen rausgeben ? 3 in einer Stunde reicht doch. Ihr nervt.<br> :date: __2021-07-08 18:11:53__
+
+> Bis vor zwei Wochen war ich super zufrieden. Nun stelle ich fest, dass sich die App im Wlan nicht mehr aktualisiert. Ich muss erst in die mobilen Daten wechseln, dann bekomme ich z.B. die aus der Benachrichtigung angekündigte Warnung angezeigt. Hab die App schon bereingt, also Cache und Daten gelöscht, aber keine Veränderung. Schade!<br> :date: __2021-07-08 10:33:46__
+
+> Die Wetterwarnungen funktionieren seit dem Update nicht mehr. Nur noch Push Benachrichtigung dazu. Und nein, es liegt nicht an der schnellen Entwarnung. Mittlerweile funktioniert es wieder. Ich verwende ein OnePlus N10, Android 10.<br> :date: __2021-07-04 21:18:34__
+
 > Was bringt mir ne App, die mich erst ne halbe Std. nach dem Express vor der Gefahrenlage warnt?! Hatten hier 2 mal nen Grossbrand und jedesmal wurde ich durch die Presse wesentlich früher gewarnt und darauf hingewiesen die Fenster und Türen zu schließen, als von NINA. DAS SOLLTE DOCH ANDERS HERUM SEIN?!<br> :date: __2021-07-03 18:27:41__
 
 > Die Coronameldung ist leider immer noch da. Andere Fehler sind behoben immer noch. Wäre schön, wenn die mal verschwinden würden. Dann gibt es auch 5 Sterne.<br> :date: __2021-07-02 20:41:57__
 
 > Soweit funktioniert die App gut. Ich musste gerade aber feststellen das die App bei mir 6Gb gross ist?!<br> :date: __2021-07-02 13:03:16__
 
-> Die Wetterwarnungen funktionieren seit dem Update nicht mehr. Nur noch Push Benachrichtigung dazu. Und nein, es liegt nicht an der schnellen Entwarnung.<br> :date: __2021-06-30 06:33:00__
-
 > Bei Einstellung 'Wetterwarnungen' ab 'markantes Wetter' werd' ich irre. Teilweise werden mehrere Meldungen pro Tag ausgegeben, aber das Ereignis tritt nur sehr selten ein. Falls doch, ist es bisher kein Unwetter gewesen, nicht mal markantes Wetter. Lasst das mit den Wettermeldungen bleiben, damit demontiert ihr nur die Glaubwürdigkeit der App.<br> :date: __2021-06-29 16:18:57__
-
-> leider stimmen die angegebenen Infektionsgefahrstufen nicht mehr. Unser Kreis ist seit Wochen in Warnstufe 1,jetzt plötzlich in Stufe 2 eingestuft, obwohl die Inzidenz gesunken ist.<br> :date: __2021-06-28 18:14:13__
-
-> mal abwarten ob die App auch warnt, ansonsten bekommt diese App ein Freiflug Ticket<br> :date: __2021-06-27 15:43:40__
-
-> Ja, beim Probealarm im letzten Herbst hat die App, wie auch alle örtlichen Warnsysteme und Sirenen komplett versagt. Aber die Corona news sind hundertprozentig besser als die der Corona App. Dafür gäbe es glatt 5 Sterne 🌟 Jedoch LK Böblingen, seit Wochen unter Inzidenz 10, Warnstufe 2? Also insgesamt 3 ⭐<br> :date: __2021-06-27 09:04:06__
-
-> Die Corona Warnstufe bei mir im Kreis wird als Stufe 2 angezeigt. Dabei ist die Inzidenz schon seit mehr als 7 Tagen unter 10! Das macht für mich keinen Sinn.<br> :date: __2021-06-27 09:03:23__
-
-> Die Unwetterwarnungen funktionieren mal. Manche Meldungen über Verkehr sieht man nur in Push-Nachricht. Nähere Details in App fehlen dazu dann.<br> :date: __2021-06-25 21:59:02__
 
 
 
@@ -238,25 +238,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="2_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 2 reviews"/>
 </p>
 
+> Nicht so gut<br> :date: __2021-07-11 09:49:12__
+
+> Funktioniert seid 3 Tagen nicht mehr richtig Warnung kommt an aber mein Gebiet wenn ich anklicken will zeigt er fehler<br> :date: __2021-07-08 17:17:41__
+
+> Zu wenig warnungen<br> :date: __2021-07-08 11:37:34__
+
+> Sehr gute Idee, Ausführung auch ganz gut, aber die Aktualisierung der Gefahrinformationen erfolgt trödelig oder überhaupt nicht! Beispiel: Corona-Infos vom Oktober letzten Jahres werden immer noch angezeigt! Da guckt doch keiner mehr hin! Manfred Märtens<br> :date: __2021-07-06 13:35:20__
+
+> Bei Verwendung des aktuellen Standortes tritt immer wieder ein Standortfehler auf. "Die Ortungsfunktionen sind nicht korrekt eingestellt!" Weitere Informationen zu diesem Fehler erhält man nicht.<br> :date: __2021-07-05 15:57:36__
+
+> Bei Verwendung des aktuellen Standortes tritt immer wieder ein Standortefehler auf. "Die Ortungsfunktionen sind nicht korrekt eingestellt!" Weitere Informationen zu diesem Fehler erhält man nicht.<br> :date: __2021-07-05 15:55:01__
+
+> Bekomme Unwetterwarnung aber da steht nichts von. Nur corona ohne Ende. Und löschen kann man die alten Meldungen nicht.<br> :date: __2021-07-04 22:00:09__
+
 > Zwei Punkte stören mich sehr an der App: 1. Ganz Deutschland hat nun bereits seit mehr als einem Jahr und 3 Monaten eine Warnung bzgl. Corona laufen. Das betrifft auch die Kartendarstellung. Um die App korrekt nutzen zu können, muss man die bekannten Coronahinweise, auch in der Karte, deaktivieren können. Dies überschattet sonst jede andere Gefahr. Gerne können neue C.-Meldungen dann wieder auftauchen. 2. Ich bekomme keine Warnungen bzgl. markanten Wetters/Unwetters zugestellt. Mit WO geht es.<br> :date: __2021-07-03 23:43:31__
 
 > Ständig zeigt die app unwetter an. In den letzten 48 Stunden ungefähr 10 mal und es war weder Gewitter noch Starkregen<br> :date: __2021-07-01 16:48:55__
 
 > Die im Grunde nicht schlechte App knallt den Cache zu. 6 GB im Speicher sind einfach zu viel. Cache und App gelöscht, obwohl die App zuverlässig warnt.<br> :date: __2021-07-01 06:45:13__
-
-> die App war am Anfang richtig gut und umfangreich, leider hat sie sehr nachgelassen und ich bin auf eine andere umgestiegen!<br> :date: __2021-06-30 00:40:42__
-
-> * informiert überwiegend träge-zeigt die Erfahrung * vor schwerem Unwetter wird nicht gewarnt, sondern mittels DWD informiert, dass das Unwetter angekommen sei (Treppenwitz) * Animationen erzwingen Wartephasen * Meldet stets zuerst "es liegen keine Gefahren vor" statt "Gefahrensituationen wird abgerufen" bei langsamer Internetverbindung (ggf. alte App) * Gefahrenhinweise haben lange Titelzeilen * Ausgewählte Gefahrenhinweise werden erst konkret bei abon.Orten nach wischen der verdeckenden Karte<br> :date: __2021-06-29 17:30:29__
-
-> Problem immer noch vorhanden.... warnung auf dem screen...angetippt...in der app nix...aber alte corona warnungen vom letzten jahr die man nicht wegbekommt wird deinstalliert ...nicht gerade benutzerfreundlich...allein dieser wirrwarr bei den benachritigungseinstellungen...<br> :date: __2021-06-28 18:39:24__
-
-> Anscheinend ist zur Zeit irgendwas mit der Verbindung nicht in Ordnung. Ich bekomme keine Warnungen mehr und trotz Netzwerkverbindung Netzwerkfehler angezeigt. Bis vor kurzem lief alles tadellos.<br> :date: __2021-06-28 16:43:55__
-
-> Es werden keine Wetter warnungen mehr angezeigt.<br> :date: __2021-06-27 19:11:18__
-
-> Murks<br> :date: __2021-06-27 08:00:16__
-
-> Zu ungenau, nur auf Landkreisebene<br> :date: __2021-06-22 22:17:28__
 
 
 
@@ -266,24 +266,24 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="1_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 1 reviews"/>
 </p>
 
-> Funktioniert nicht bei Meldungen, keine Benachrichtigung, kein Klingelton, samsung galaxy s21plus<br> :date: __2021-07-04 15:59:29__
+> Ich habe seit dem Update ebenfalls das Problem, dass sich der Link zur eigentlichen Warnung nicht mehr öffnen lässt.<br> :date: __2021-07-11 10:59:33__
 
-> Keine Meldung von Warnungen.<br> :date: __2021-07-04 15:53:39__
+> Warnt vor gar nix Völlig unbrauchbar<br> :date: __2021-07-09 20:39:05__
 
-> Eigentlich keine schlechte idee, nur leidet wurde die App nach und nach zu einem schlechten Wetterdienst ausgebaut. Glaubwürdigkeit ist schon längst verfallen. 20 mal am Tag gibts "warnungen" vor "schweren Unwettern" und dann donnert es am ende 2 mal. Überlasst die Wettervorhersagen doch bitte Leuten, die das können und konzipiert die App wieder wofür sie da ist.. Notfälle. Aber getreu nach der Geschichte mit dem Kind und den Wölfen, würde ich mittlerweile gar keinen Notfall mehr mitkriegen<br> :date: __2021-07-04 15:51:38__
+> Leider viele Fehlalarme. Vor Allem in Bezug auf Unwetter.<br> :date: __2021-07-09 18:01:55__
 
-> Sehr schlecht programmiert. Benachrichtigungen sind nach Öffnen der App nicht mehr zu sehen. Bei Alarmen funktioniert sie nicht richtig. Alles in allem wertlos.<br> :date: __2021-07-04 14:24:57__
+> Seit dem letzten Update funktioniert die App nicht mehr richtig. Sie teilt zwar eine Warnung mit, kann sie aber nicht mehr anzeigen.<br> :date: __2021-07-09 16:43:11__
 
-> Keine Push-Warnungen, veraltete Corona-Regeln, also unbrauchbar<br> :date: __2021-07-03 15:10:26__
+> Warnungen kommen viel zu spät! Unwetterwarnungen Nachdem das unwetter bereits durchgezogen ist. Und und und. Für mich ist die App ziemlich sinnfrei.<br> :date: __2021-07-09 14:00:14__
 
-> Keine Meldungen, egal ob Bombenentschärfung, Feuer bei dem man die Fenster schließen soll, Unwetter, es kommt kein Ton, keine Warnung. Gehe ich aktiv in die App, ist die Warnung zu sehen. So nutzt es leider nichs.<br> :date: __2021-07-03 09:03:36__
+> Ich habe seit Monaten keine Alarmmeldung bekommen, nicht mal wegen dem Wetter! Die letzte Meldung kam am 14.10.2020, obwohl ich im Januar aktualisiert habe. Gut gemeint, schlecht gemacht! Unnütze App<br> :date: __2021-07-07 19:39:00__
 
-> Nichts geht trotz Neuinstallation<br> :date: __2021-07-02 16:34:34__
+> Eigentlich ganz nett. Aber da man die sicherlich allgemein bekannte Corona-Maßnahmen-Situation nicht ausblenden kann gehen wichtige (heißt neue, aktuelle) Situationen unter. Damit aktuell unbrauchbar. Wenn Corona interessiert nutzt man auch die Corona-Apps, das hat in dieser App nichts zu suchen.<br> :date: __2021-07-07 15:53:38__
 
-> Ein Jahr später und die Warnsysteme sind nicht in Funktion, sondern der Warntag würde verschoben. m) Katastrophenwarnsysteme kann man ja auch noch eben reparieren, wenn man sie tatsächlich braucht.<br> :date: __2021-07-01 15:54:58__
+> Seitenweise komische Corona Texte, für solchen Quatsch habe ich diese App nicht auf dem Handy. Bitte bereinigt diese App von diesen Virus Informationen im Auftrag der Regierung und Pharmaindustrie. Hier in Rudolstadt ging eben die Sirene 6x und dazu gibt es keine Information in der App? Sinnlos! Sirene 6x heißt Warnung der Bevölkerung vor einer Katastrophe. Sinnlos denn es war nix los!<br> :date: __2021-07-05 23:28:19__
 
-> Die App Benachrichtigt mich nicht bei Unwettern oder anderen wichtigen Sachen für die sie ja da ist. App mehrfach neu installiert, Handy Berechtigungen sind alle gegeben und mehrfach geprüft selbst in der App die Benachrichtigungen sind eingestellt aber kein Ton. Ich hab diese App damit sie mich benachrichtigt wenn was ist nicht das ich selbst prüfen muss ob es was neues gibt. Wird deinstalliert und eine andere gesucht. So macht es keinen Sinn.<br> :date: __2021-07-01 13:04:33__
+> Keine Push-Warnungen, veraltete Corona-Regeln, also unbrauchbar. Galaxy A70, Android 11, Standort immer aktiviert<br> :date: __2021-07-05 14:37:58__
 
-> Bekomme keine Warnmeldungen mehr auf das Handy<br> :date: __2021-06-30 23:30:52__
+> Funktioniert nicht bei Meldungen, keine Benachrichtigung, kein Klingelton, samsung galaxy s21plus,Android11,mobile Daten ist on,trotzdem keine Benachrichtigung bei meinen Einstellungen zur gefahrenlage, wetter,corona,usw.habe den Sirenenton download gemacht und funktioniert auch nicht.<br> :date: __2021-07-05 05:01:31__
 
 

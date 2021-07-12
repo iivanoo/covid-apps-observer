@@ -142,6 +142,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Very helpful to see any trends developing with infections and/or vaccines.too many ads tho!<br> :date: __2021-07-07 11:22:48__
+
+> Awesome application that was released by the gov.. which is pretty dope on their par<br> :date: __2021-07-06 15:57:24__
+
+> Great for keeping track of cases in PA, breaks down each county, also uses Bluetooth to alert you if someone else who has the app downloaded and marked themselves as being sick or having covid, has been in close proximity to you<br> :date: __2021-07-05 14:43:27__
+
 > Good game 10/10 would play again<br> :date: __2021-06-21 10:17:34__
 
 > Really appreciated.<br> :date: __2021-06-18 16:05:02__
@@ -156,12 +162,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Very helpful<br> :date: __2021-04-19 05:39:52__
 
-> Good<br> :date: __2021-04-06 21:16:20__
-
-> Awesome<br> :date: __2021-04-05 06:41:20__
-
-> Ok<br> :date: __2021-04-05 04:33:50__
-
 
 
 #### 4-star reviews
@@ -169,6 +169,10 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 4 reviews"/>
 </p>
+
+> I love this app but for some reason as of today, it won't show anything but a blue screen. It's trying to load, but doesn't. I can't report my daily check-in or see what cases were added within my county. I hope this gets fixed because if isn't working, how is it going to alert me about a possible infected person. Forgot to add.. some are saying too many adds. I haven't had one ad since I've been using this app for over a year.<br> :date: __2021-07-10 18:23:59__
+
+> Nice<br> :date: __2021-07-05 08:08:28__
 
 > Runs fast but not accurate<br> :date: __2021-05-14 04:26:13__
 
@@ -186,10 +190,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Made my phone die dead like go black and never turn on again.<br> :date: __2021-01-07 01:42:27__
 
-> It's the least people can do<br> :date: __2021-01-02 03:38:12__
-
-> Good idea!<br> :date: __2020-12-23 02:40:26__
-
 
 
 #### 3-star reviews
@@ -197,6 +197,12 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
+
+> When you log in to check the app out it go to a black screen where you can not see it<br> :date: __2021-07-11 01:53:17__
+
+> This app worked great on my pixel 2, but will not work at all on look at all on my Galaxy S galaxy S21. I downloaded the latest version.. Can you update please?<br> :date: __2021-07-11 00:30:16__
+
+> I've used this since it launched last September. Today, it starts loading then goes to a blue screen. Uninstalled & reinstalled, restarted phone (Galaxy A20), signed out& back in w/Google, bluetooth is on...totally stumped and frustrated.<br> :date: __2021-07-10 20:43:50__
 
 > Usable. But this app *could* be so much more.<br> :date: __2021-05-01 11:32:47__
 
@@ -212,12 +218,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Bad this app should notify those doctor to go and give those the vacinne that have fill the information out not have people out in large line and groups with this you have better control create job to new nursing school student to help in is fight<br> :date: __2021-01-21 07:21:53__
 
-> Pros: It checks in everyday to review symptoms. It tells you information about what the rest of the app users symptoms were. It keeps up to date on what it is expected to. Con: I had my mom get Covid, and at the time I lived with her. I couldn't figure out how to report that since I tested negative. Not long after my family finished quarantine, my sister tested positive . I got tested again and was still negative, but technically I was exposed.<br> :date: __2021-01-15 09:05:20__
-
-> It says my exposure isd turned of but doesn't allow me to turn it on.<br> :date: __2021-01-13 04:53:18__
-
-> It would be nice if there was a spot on the daily check in section of the app that had a CURRENT LOST OF SYMPTOMS. Just asking if you're okay or not doesn't help people to realize if they may have symptoms or not.<br> :date: __2021-01-11 14:21:29__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
+
+> Worked ok for a while, did it's job, but now Everytime I load in I get a dark blue screen and can't do anything, I even reinstalled and it is doing the same thing.<br> :date: __2021-07-10 16:30:03__
 
 > Worked ok I think but then it started to check for keys and just kept doing that. That needs to stop. I rebooted too but that didn't reset it.<br> :date: __2021-06-13 22:29:17__
 
@@ -244,8 +246,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Exposure alert does not work, or I'll get a call next month that I've been exposed to COVID 6 weeks after it matters. A co-worker, that has the app with the alert ON, tested positive weeks ago. I work side by side with him everyday and found out a week after he was out why he was out. Not through the app though.<br> :date: __2021-01-31 00:01:31__
 
-> Only good if you live in PA. Not valid for anywhere else.<br> :date: __2021-01-24 17:58:17__
-
 
 
 #### 1-star reviews
@@ -254,24 +254,24 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
-> Terrible I've never gotten one alert for anything<br> :date: __2021-06-30 00:01:51__
+> I've had app for about a year. Now it won't open. Must be a problem somewhere. I uninstalled it and reinstalled it. Still won't open.<br> :date: __2021-07-11 02:50:48__
 
-> Just no<br> :date: __2021-06-28 10:03:56__
+> Getting blank screen now<br> :date: __2021-07-11 02:38:39__
 
-> Worthless<br> :date: __2021-06-24 15:35:41__
+> Does not work on my new phone. After a few seconds screen turns dark blue and does not display any information.<br> :date: __2021-07-11 02:35:01__
 
-> Needs more information on how to use it had difficulties knowing and learning on how it is posed to be used on it.<br> :date: __2021-06-16 16:58:55__
+> Screen turns blue obviously it's out of commission for now<br> :date: __2021-07-10 23:32:19__
 
-> Was tested positive for COVID 19. Was never give a 6 digit code to put in the app.<br> :date: __2021-06-14 19:57:29__
+> What happened? I went to check the latest update on the new cases and it goes back off. Please fix! It's not working!<br> :date: __2021-07-10 20:18:48__
 
-> What does England have to do with this app? Commonwealth means England's property. This would be more effective if the federal government made the application. Security risk<br> :date: __2021-06-11 19:10:45__
+> Old data. The paper has more current numbers. How is that even possible? Update: the app no longer works at all. It doesn't even open properly.<br> :date: __2021-07-10 20:11:57__
 
-> This app is worthless. They dont use actual hospital or govt med records to create the database. My neighbor had covid, went to the hospital, it never alerted. So what's the point? Less than 1M people used it. Philly 7M people, PA over 20M. It's worthless. I can get the same alerts from Philly's OEM text service. Even Citizen app. This has no reliable functionality other than giving current Covid numbers. It can't warn you effectively.<br> :date: __2021-06-07 14:12:29__
+> Program crashed today. No Uninstalled and reinstalled 3 times. Still crashes.<br> :date: __2021-07-10 19:56:19__
 
-> Biggest hoax!<br> :date: __2021-06-06 20:23:45__
+> This app no longer works. The app just closes to a blank page.<br> :date: __2021-07-10 19:39:36__
 
-> Junk app.. get it off my screen I'm tired of seeing it<br> :date: __2021-05-30 20:23:30__
+> Doesn't get passed initiating the app.<br> :date: __2021-07-10 19:20:31__
 
-> The numbers for total cases, hospitalizations and deaths given in this app are incorrect. This should be investigated and rectified. The Commonwealth itself is spreading misinformation. Shame on them. Remain vigilent and know your source information. Don't waste your time with this app. It's useless.<br> :date: __2021-05-29 23:04:50__
+> Used the app for a long time but, it now crashes and goes to a blue screen. I've reinstalled it to no effect. Don't know what is happening but, it's not worth fooling with anymore.<br> :date: __2021-07-10 18:22:59__
 
 

@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOEyTU5wr6M_VAEECufgHtnVqwIsN7a0uQJAk4vY41yVI2Sp2IFDyb_53Q9W86f_MqU6Z3ue1cAnfFMMEVc",
+        "userName": "Fran Moreno",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghq64Rj6Bb4s9v5eerg1W8lprHANP4a1CEWql7rww",
+        "content": "Incompetente",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-05 13:40:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGfaYgez07_1Z0qoS0OCdXIkhjuwIPu7EcLdWaTVlAY5J6wzxvJY-7geOZNf5HJiR3TYoabge7DSmzDZlY",
         "userName": "srcphag",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1xUAQioMUlSX4R4A_aKz9_PPx4xRK6nIglu5GzA",
         "content": "Sirve para hacer un diagn\u00f3stico de s\u00edntomas y nada m\u00e1s. M\u00e1s valdr\u00eda mantener una app centralizada y funcional y no 20 Apps con escasa funci\u00f3n e inconsistentes entre si.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-07-02 20:58:56",
         "replyContent": null,
@@ -38,7 +50,7 @@
     {
         "reviewId": "gp:AOqpTOFf5dlm29c586SU_Weq52FOHd_MFfgrHMGrE-9XTGQCOwKWWKPZrCO3r4Jt_VQxeX7w-rUzXVAL1FWvZwA",
         "userName": "Mariano Asensio",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiIj5zVTNgsLfym6ymK9RLWv-OiZZ5hJ-lc9S5SVak",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLpcrvoiOkPBnkS0tTHZTJEvLpcALrst4JD4IfwFk",
         "content": "Las buenas APP, te van dando informaci\u00f3n (incidencia por 100.000 en tu zona, o algo), esta APP DUERME y no se si hace algo. Podr\u00eda darme los test que me han hecho, vacunaci\u00f3n etc.! A NO que eso es de otro NEGOCIADO! Perd\u00f3n perd\u00f3n",
         "score": 1,
         "thumbsUpCount": 0,
@@ -53,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjY_Ke4AmUnL4VZdhpKfy1sbUqZmhMD1uk3v7Ygdw",
         "content": "No sirve para nada. He hecho el test y me sale que no tengo sintomas pero que no me confie. Dando a entender que no tengo el virus. Hace 3 d\u00edas me hicieron la pcr y positiva. As\u00ed que esta app de poco sirve, porque puedes tener el virus y ningun s\u00edntoma",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": null,
         "at": "2021-05-05 23:05:58",
         "replyContent": "Lamentem la mala experi\u00e8ncia",
@@ -698,7 +710,7 @@
     {
         "reviewId": "gp:AOqpTOF9IcbzUHYrTVusH6WyeNSxjGyv_3vYxKJoLnXFsxistlY7DcnCjxsSepGhgevpRHyJNAuthmy6umdL95A",
         "userName": "Antonio flores alcaraz",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjyICqjFmSnl-SUKWnz2lblRsEfwnhf7byx1g-vOg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh0sGejVcaLivBC8gNUA0WuzEdhLIHMl4viQVKWnA",
         "content": "Un tru\u00f1o CAT.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -1586,7 +1598,7 @@
     {
         "reviewId": "gp:AOqpTOFwQXIw9a5TbSy8zZQc1IarGAmFp4SZHcMMhhUTz1j2uVUwyoSumsDFMrfP8O2jLVcmOob__OxmuiI8Cb0",
         "userName": "Maria Rosa Idia\u00f1ez Lasa",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgvuC_0uQcdGUl4KMpG2MRv3fysIpwXIDPRROFEyw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfFJzxDvVcjPo6UrcUkkyHhgsWdaLVvt9o59zdwZo",
         "content": "Esto es muy interesante para todos",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2378,7 +2390,7 @@
     {
         "reviewId": "gp:AOqpTOFYU_3HGnwrR_O42lWT2JlsYQ1gqElInwF74VXQQG5NCSRMYcP9EUrNm5uTEaZPWi35xvfJJSFEjd7BZCg",
         "userName": "Raqu4l",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjwDFUKpfQJoEculxZXGhwQkDiWJu3jzD30Z_Qo-MM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhJnyFG6k6HEtVdLbJHSUVr99XnIFFXeOf2F83jPsk",
         "content": "Llevo muchos d\u00edas sin poder entrar :-( Pasados varios d\u00edas de uso ya se acuerda de tu c\u00f3digo y de todos tus datos. Pero de poco sirve que te env\u00ede recordatorios si luego no puedes entrar ....",
         "score": 1,
         "thumbsUpCount": 4,
@@ -4478,7 +4490,7 @@
     {
         "reviewId": "gp:AOqpTOFlzouHtdosI7Vo7f6sCf0KiOmiH_aDxQ6QzQSqC6V7ulE8Wvs_aquUsJytg8qxLMgOUCeCGD6EiTuMQQo",
         "userName": "Miguel Ortega",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiipCHF2Cps0llAqOnduAatBQogk7OQeWp6W_in1Q",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjXUn6nwWXHkblXuGWY7-_vYWntIJx7tuJokRBWA=mo",
         "content": "No li veig utilita",
         "score": 1,
         "thumbsUpCount": 0,
@@ -6233,7 +6245,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyRbESpKXZco9IMGewpkYnKXacSnOwlxmeiPRwV=mo",
         "content": "Pregunta por tu estado de salud en el instante de completar el test, pero \u00bfy si has tenido s\u00edntomas hace unos d\u00edas y ya te has recuperado de la mayor\u00eda? Acaso no sigues siendo un probable positivo.",
         "score": 3,
-        "thumbsUpCount": 74,
+        "thumbsUpCount": 75,
         "reviewCreatedVersion": "1.0.0",
         "at": "2020-03-18 22:55:25",
         "replyContent": null,

@@ -108,10 +108,12 @@ The Apss CV-19 (operatori sanitari) app has been installed by more than **100** 
 #### 5-star reviews
 
 <p align="center">
-
+<img src="5_star_reviews_wordcloud.png" alt="it.apss.coronavirus.esterni 5 reviews"/>
 </p>
 
-No recent reviews available with 5 stars.
+> Buona<br> :date: __2021-07-08 14:18:17__
+
+
 
 #### 4-star reviews
 

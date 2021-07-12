@@ -1,5 +1,101 @@
 [
     {
+        "reviewId": "gp:AOqpTOEpqmwMiPgV7z9wE5olYEtH1huq4asKgD77nZSWjHMWFST89kgLPanxC1w_qh2qblSRGpaYqVDke3jT3bw",
+        "userName": "Christina Kirk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtnJmLXhkAbhFr3OaGYM3Dx9vSBTQVSeDhQTZTNg",
+        "content": "Die Informationen und der Service verdient 5 Sterne. Die technischen Probleme (Abfuhrtermine werden nicht angezeigt, App schlie\u00dft sich, Serverprobleme,..) macht sie jedoch wenig n\u00fctzlich. Schade",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-11 09:57:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGIyOHB5RTTnjz71PNaSv3zC4X_LGAM1mknnn6y6byNPIKNDleBgO8IJD3ofii2iPb2ZxrrFfuwxa3mln4",
+        "userName": "Philipp Kronenberg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjbZKV5qQ2eUnN0DUq_mx-y2RXBnQPpJATDXwmcWg",
+        "content": "St\u00fcrzt nach dem Start sofort ab. Schade!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-08 22:52:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGhyzVFQDd6nbkNJ2LggvXYVg6Fyp9lfnciPWCLKxBxadcl9MQcvq0D81xsLHhmuUarS7zOJhJ-WCeb_yE",
+        "userName": "Uwe",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjOEcI67z9LSfUgt8i5VFCLP-uhIcd9zgJHiMcJw",
+        "content": "St\u00fcrzt h\u00e4ufig ab. Erst Serververbindung hergestellt, dann Absturz. Schade eigentlich super f\u00fcr Solinger.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-08 18:28:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGFNwLwtyXllcjLYcV2f_87-rGXuuLzNPa3UR0naxKlQ9RxFLEW3gZBm8iurhEPbZTDIM2dbN6EsCElmJA",
+        "userName": "Irene Sigismund",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6EIcN5iUY1v722bdRWg96XIq2krV9S6TvUjW_",
+        "content": "Die App ist sehr gut",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-08 13:35:27",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE-0us7oWCFZ78NAp9nM4BA8zMVuNR11OuWHVxvKGUrHpi6uyqQfEJMy8brfVWBiHw4-kHbwkt16H2Npf8",
+        "userName": "rolf tokarski",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8e5ChC5x3YkROhryy6FzTHCWE7OoQOVeRH_XQfQ",
+        "content": "Leider st\u00fctz die App nach dem \u00d6ffnen immer wieder ab auch nach den neuen Updates war sonst ganz informativ Cornazahlen aktualisieren sich nicht mehr seit Tagen . Nacht Kontakt mit dem Anbieter der App und weiteren Infos von ihm l\u00e4uft die App wieder Einwand frei .",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-07 08:20:50",
+        "replyContent": "Hallo Rolf Tokarski, die Coronazzahlen sollten sich seit dem letzten Update wieder aktualisieren. Bez\u00fcglich der Abst\u00fcrze w\u00fcrden wir uns \u00fcber eine R\u00fcckmeldung an appdev@solingen.de sehr freuen.",
+        "repliedAt": "2021-07-06 18:11:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOFy1a0NRmJs2pIEBmNJF9g0HFeUv1flYwgwFi4W08FOQXlq12ZgICTz8OlOV8NmcvmVj8FP2pThjqGAggc",
+        "userName": "Pi T",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxP7TXT1oRIQ4FNmwiR9hMTDKYKniPZYvtVFCms=mo",
+        "content": "Grunds\u00e4tzlich eine tolle App. Sehr informativ und tolle Funktionen. Aber diese Abst\u00fcrze sind nervig. Ich bin schonmal frih, dass man sich nicht anmelden muss sonst w\u00e4re dieses ganze deinstallieren und neu installieren noch schlimmer und ich w\u00fcrde die App gar nicht mehr nutzen.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-06 12:00:09",
+        "replyContent": "Hallo Pi T, bitte melde Dich doch bei appdev@solingen.de. Wir w\u00fcrden die Abst\u00fcrze gerne nachpr\u00fcfen k\u00f6nnen. F\u00fcr die R\u00fcckmeldungen w\u00e4ren wir sehr dankbar!",
+        "repliedAt": "2021-07-06 18:05:44"
+    },
+    {
+        "reviewId": "gp:AOqpTOH84em4plfWNMiSMMHAfcwkgSeCnwHtD2X8TuecjA1zC0stAg8wdq1EEiJzjFUCk9a69pZURKkhotgnET4",
+        "userName": "Dennis Zastrow",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1pizdn9YjjmUlbobbFUHWS-iAQJ5a1bHqXhnAvw",
+        "content": "St\u00fcrzt nur noch ab...Schrott!!!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-06 10:22:49",
+        "replyContent": "Hallo Dennis Zastrow, bitte melde Dich doch bei appdev@solingen.de. Wir w\u00fcrden die Abst\u00fcrze gerne nachpr\u00fcfen k\u00f6nnen. F\u00fcr die R\u00fcckmeldungen w\u00e4ren wir sehr dankbar!",
+        "repliedAt": "2021-07-06 18:05:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOF22w-ZOyD3G6-NGra49-ERjCKrB_48PYoEWnAVFaLjU1VDVhZngXrshjPUEmWrv17AhM53k1UyzUJGzwA",
+        "userName": "Daniel",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjxo5KcdzhdNuTNRNSGOGmuprsnd5fvK-9R0dYGfg",
+        "content": "App st\u00fcrzt ab (Galaxy S20 Ultra)",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-05 16:29:20",
+        "replyContent": "Hallo Daniel, bitte melde Dich doch bei appdev@solingen.de. Wir w\u00fcrden die Abst\u00fcrze gerne nachpr\u00fcfen k\u00f6nnen. F\u00fcr die R\u00fcckmeldungen w\u00e4ren wir sehr dankbar!",
+        "repliedAt": "2021-07-06 18:05:14"
+    },
+    {
         "reviewId": "gp:AOqpTOG-I-p46uJs9gjDnyJrmPIrONGv-cAJttzVltBhgZ051MGyYrfrdqNfwbeuoQHBVAJKr7w8AE4VbPQC1N0",
         "userName": "Anke M\u00f6ller",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw1Vqjq-7wkHAfFAzhxs41AR3pjdJIWjifW7L6u=mo",
@@ -8,8 +104,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-04 14:35:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Anke, bitte melde Dich doch bei appdev@solingen.de. Wir w\u00fcrden die Verbindungsprobleme gerne nachpr\u00fcfen k\u00f6nnen. F\u00fcr die R\u00fcckmeldungen w\u00e4ren wir sehr dankbar!",
+        "repliedAt": "2021-07-06 18:06:05"
     },
     {
         "reviewId": "gp:AOqpTOGFDARj_UsbtZm9gsIUuRa8cucgqS2gb8VgfTUt5ZDFlqCuzVVKdjjC-lAU_-1GkW5A9rejkQ4h3fhxI6I",
@@ -17,11 +113,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdCoSugyL2dKJTbUna14BsXo3dDwU5T-74aM-H",
         "content": "Sehr oft Absturz - \"Verbindung zum Server erfolgreich\" - und dann ist sie wieder weg. Neu installiert dann klappt es wieder. Kein aktuelles Datum bei z.B. den Coronainzidenzen. Bei M\u00fcllentsorung wird nur das aktuelle Datum Abholdatum im Kalender eingetragen - Meldung erst am Tag der Abholung wenn die Tonne schon geleert wurde. Trotz Hinweis, dass die Erinnerung am Vortag erfolgen sollte UND Best\u00e4tigung dass das aus so sein sollte, keine \u00c4nderung. Also - SCHROTT, der wieder deinstalliert wurde !!",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-04 12:12:22",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo H J L, so soll es definitiv nicht sein. \u00dcber eine R\u00fcckmeldung an appdev@solingen.de w\u00fcrden wir uns sehr freuen. Insbesondere die Abst\u00fcrze und die fehlerhafte Erinnerung w\u00fcrden wir uns gerne anschauen!",
+        "repliedAt": "2021-07-06 18:08:11"
     },
     {
         "reviewId": "gp:AOqpTOEKqqON6wqsaotrwryqSczJslWZ274EnAE8A3VFv1UGqM7KPs_deJjtfnnQsfw3cKM-r9dHdvq9ZVZQlaw",
@@ -32,8 +128,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-03 23:00:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Corinna Fassbender, \u00fcber eine Meldung, wie sich der Fehler genau ausdr\u00fcckt, an appdev@solingen.de w\u00fcrden wir uns sehr freuen!",
+        "repliedAt": "2021-07-06 18:09:06"
     },
     {
         "reviewId": "gp:AOqpTOHDTmnB4rC48aIz3FGgc7D3u0gDxaWbkMPQtpAUhjHLg8zq2Ag0RbFIlUHBJwot67f1UVPWZGP2Dz0FTmk",
@@ -44,8 +140,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-03 18:53:18",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Mandy Meier, die Coronazahlen sollten sich nach dem letzten Update wieder aktualisieren. Bez\u00fcglich der Abst\u00fcrze w\u00fcrden wir uns \u00fcber eine Mail an appdev@solingen.de freuen.",
+        "repliedAt": "2021-07-06 18:10:13"
     },
     {
         "reviewId": "gp:AOqpTOG-XqpcB83pJ54E6tBZO1rEmI2uu8ftdkGArolzqWhf9cLHg8nVcvClDRhBOY8Q8XsCR9kzW0ThA9AszAw",
@@ -56,20 +152,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-03 12:07:04",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE-0us7oWCFZ78NAp9nM4BA8zMVuNR11OuWHVxvKGUrHpi6uyqQfEJMy8brfVWBiHw4-kHbwkt16H2Npf8",
-        "userName": "rolf tokarski",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj8e5ChC5x3YkROhryy6FzTHCWE7OoQOVeRH_XQfQ",
-        "content": "Leider st\u00fctz die App nach dem \u00d6ffnen immer wieder ab auch nach den neuen Updates war sonst ganz informativ Cornazahlen aktualisieren sich nicht mehr seit Tagen",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.2.41",
-        "at": "2021-07-03 08:21:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Doro S. Wagner, so soll es nicht sein. \u00dcber Details zu den Meldungen w\u00fcrden wir uns an appdev@solingen.de freuen.",
+        "repliedAt": "2021-07-06 18:20:46"
     },
     {
         "reviewId": "gp:AOqpTOE1bbNjX-5_IE5KLGrWsdhokTJ5gg4sCTj4gjeJbpdU4lXzSb78URtDqGq2tHyhj7_Wds4TNx84GHKDy4s",
@@ -80,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-02 19:53:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Traumt\u00e4nzer, wir fokussieren uns gerade auf die gemeldeten Fehler. Deswegen w\u00fcrden wir uns f\u00fcr R\u00fcckfragen \u00fcber eine Mail freuen. Unsere Mailadresse lautet appdev@solingen.de",
+        "repliedAt": "2021-07-06 18:22:05"
     },
     {
         "reviewId": "gp:AOqpTOGJDRfEDhfNY0qk1i2f4TAmtaVd6J2G5UpoX5n-RAB_dpfjzb0_2hOJe2FbwRFmt5sOwUw6qpK_2vgXVE4",
@@ -92,8 +176,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-02 11:53:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Thorsten M\u00fcller, so soll es nicht sein. Wir haben seit dem letzten Update zahlreiche Informationen zu dem Fehler bekommen und arbeiten bereits daran.",
+        "repliedAt": "2021-07-06 18:26:49"
     },
     {
         "reviewId": "gp:AOqpTOHu-HVwn02Ye31CmLBQymDZAElahaTZeQvZ1GU5XyCSmiswasD7SyouNtUQrRppZDFFtNLVkuWxGj_c16Q",
@@ -104,8 +188,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.37",
         "at": "2021-07-02 09:09:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Patrick B\u00f6hnchen, die Stabilit\u00e4t der App steht jetzt aktuell im Fokus. Bitte gebe uns noch etwas Zeit um dies zu beheben! Vielen Dank!",
+        "repliedAt": "2021-07-06 18:27:28"
     },
     {
         "reviewId": "gp:AOqpTOGsPATtVKTa8bRRpTTuChhaM3dHgMaR8QFowssfxksHGhHXS-OwFVSR_aiEnCf5YFXAVc8DqyEpn1UMPM0",
@@ -116,20 +200,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.37",
         "at": "2021-07-01 15:41:54",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG9gMTbmw_8nBRsysRtM_c60e3yvjuH34BLfK7Fl7pl2-G8EBLqxW53yMnr8Rcla_LzwEDYVdJfiveFYgo",
-        "userName": "Bettina Horn-Eickhorn",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHwIUOYhMzc3kO0Apwpkg3j9epz1ga3TU8Xbsv=mo",
-        "content": "Eigendlich eine gute Idee aber in letzter Zeit funktioniert die App nicht. Ich muss sie deinstallieren und wieder installieren. Dann l\u00e4uft sie wieder aber mit veralteten Daten. Daran sollte man noch arbeiten.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-07-01 14:30:28",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Rolf Golomjewski, die Stabilit\u00e4t der App steht jetzt aktuell im Fokus. Bitte gebe uns noch etwas Zeit um dies zu beheben! Vielen Dank!",
+        "repliedAt": "2021-07-06 18:27:56"
     },
     {
         "reviewId": "gp:AOqpTOGwEqxg1vKrK-KCAFWZ1qFYThxOnMBfOJcPVDEKhvrEexo0Dj4UgliypsHrHHjzj-NWqwe3-w1E8pfGtp4",
@@ -140,8 +212,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.37",
         "at": "2021-07-01 09:59:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Sabine K., die Coronazahlen sollten sich wieder aktualisieren. Die Abst\u00fcrze analysieren wir derzeit, sind also dran. Das soll so nicht sein!",
+        "repliedAt": "2021-07-06 18:30:44"
     },
     {
         "reviewId": "gp:AOqpTOHydmgKvan5ynBiFTUg-PnztkWgDztfpY0DwPxHdUZDntfYATOw02MvCtzLdCkGq6891yEiLHKVrGq0Y_w",
@@ -277,7 +349,7 @@
     },
     {
         "reviewId": "gp:AOqpTOHt_G4GTZAH8jfxmsGhDYwfpnxyzJp7hBQ4YtKm1zaKQUI08Wui0CcTGp19oH5TOe5Yesk-td1oHxq_Rco",
-        "userName": "codecyclist",
+        "userName": "Manfred D",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgJ9nnceki87D5FQnnkgYYbhYRs29YuRg1wCMc1",
         "content": "Sch\u00f6ne Umsetzung, toll was alles mit React Native geht! Meine W\u00fcnsche: - Corona Positivtestrate bitte in Prozent im Bezug auf die gesamte Testmenge - Anzahl der aufgef\u00fchrten Tests mit angeben - Die Ladeanimation nervt. Weg damit. - Manuelle Anwahl der Wetterstation- keine Daten",
         "score": 3,

@@ -202,6 +202,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="pt.cmpesoregua.app 1 reviews"/>
 </p>
 
+> Doutrinação política<br> :date: __2021-07-07 22:36:33__
+
 > Começou bem mas... estragou-se. Não se consegue ampliar os relatórios diários relativos ao covid o que impossibilita que se consiga ler... Pouca informação de real interesse para a região. App desinteressante e pouco cativante<br> :date: __2020-06-08 20:56:17__
 
 

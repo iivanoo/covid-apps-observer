@@ -191,6 +191,8 @@ The Lafayette General Health Anywhere app has been installed by more than **5000
 <img src="5_star_reviews_wordcloud.png" alt="com.lafayettegeneral.android.lgmc.healthanywhere 5 reviews"/>
 </p>
 
+> The most friendly and welcoming nurse practitioner I have ever encountered. Very much has charm, patients and professionalism. My wife was so very satisfied.<br> :date: __2021-07-08 02:14:56__
+
 > Perfect quick AMAZING<br> :date: __2021-05-04 18:43:17__
 
 > Amazing app very thankful<br> :date: __2021-05-01 23:24:45__
@@ -208,8 +210,6 @@ The Lafayette General Health Anywhere app has been installed by more than **5000
 > Excellent experience.<br> :date: __2020-08-20 16:49:15__
 
 > Love this app. It works really well.<br> :date: __2020-07-31 17:59:57__
-
-> Good<br> :date: __2020-07-31 15:24:04__
 
 
 

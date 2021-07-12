@@ -245,6 +245,8 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.StopCovid19Cat 1 reviews"/>
 </p>
 
+> Incompetente<br> :date: __2021-07-05 13:40:52__
+
 > Sirve para hacer un diagnóstico de síntomas y nada más. Más valdría mantener una app centralizada y funcional y no 20 Apps con escasa función e inconsistentes entre si.<br> :date: __2021-07-02 20:58:56__
 
 > Le puse 1 estrella para poder escribir,ni siqiera sirve,me pide mi num y nisiqiera me envian el codigo. 😨😓<br> :date: __2021-06-30 01:00:32__
@@ -262,7 +264,5 @@ The STOP COVID19 CAT app has been installed by more than **500000** times. At th
 > Hago el test que hay y me dice que no presento síntomas. Entonces los síntomas que tengo son inventados o que??? No sirve de nada esta app.<br> :date: __2021-03-29 09:32:44__
 
 > pulso para poner el CIP y se cierra reinstalo meses después, por haber sido contacto directo. Se queda colgado al pulsar "hacer test"<br> :date: __2021-03-21 15:07:14__
-
-> Después de poner que tengo problemas para respirar y de rellenar el formulario para que me llamen, no me ha llamado nadie en más de 2 semanas. Es mejor ir en persona al médico porque está aplicación no ayuda en nada. Luego dicen que no hay que ir en persona etc. Pero si los recursos que ponen no funcionan, no quedan más opciones<br> :date: __2021-03-07 23:03:08__
 
 

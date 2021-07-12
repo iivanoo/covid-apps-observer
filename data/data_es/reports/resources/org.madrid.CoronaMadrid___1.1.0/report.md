@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> En Madrid es la app a tener en caso de sospecha por algún síntoma de COVID-19 ya que automatiza el contacto con el centro médico más cercano.<br> :date: __2021-07-08 13:48:26__
+
 > App muy sencilla de usar y recomendable en los tiempos que corren<br> :date: __2021-07-03 16:22:52__
 
 > Me parece muy interesante, que se haga un seguimiento y se preocupen por la evolucion del covid. Saber que siempre hay alguien detras velando por tu salud da seguridad,. Gracias<br> :date: __2021-07-03 09:29:03__
@@ -168,8 +170,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 
 > Muy útil, todos deberíamos usarla<br> :date: __2021-03-24 19:24:04__
 
-> Una herramienta sanitaria excelente<br> :date: __2021-03-03 22:26:30__
-
 
 
 #### 4-star reviews
@@ -177,6 +177,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 4 reviews"/>
 </p>
+
+> La app está genial. Es muy fácil de usar y muy intuitiva además de que te ofrece mucha ayuda para la situación que estamos pasando. Espero que ayude a la gente que lo necesite. Para mi va a ser de mucha ayuda.<br> :date: __2021-07-09 01:16:55__
 
 > Me ha funcionado muy bien aunque la verificación telefónica fue un engorro.<br> :date: __2021-06-24 19:00:05__
 
@@ -195,8 +197,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Excelente app que cumple con lo indicado. Fácil de navegar por ella con buen diseño y sobretodo una app que te ayuda a controlar tus síntomas de covid. También da información de los hospitales más cercanos según tu ubicación.<br> :date: __2021-01-10 19:05:33__
 
 > Bien, estaba tranquilo y confiado en las pautas, gracias Javier<br> :date: __2020-07-04 11:22:48__
-
-> Parece ser que la aplicación es buena pero cuando introduces o intenta introducir tu fecha de nacimiento no lo puede hacer correctamente por lo menos los que han nacido antes del 2007<br> :date: __2020-07-01 16:59:45__
 
 
 

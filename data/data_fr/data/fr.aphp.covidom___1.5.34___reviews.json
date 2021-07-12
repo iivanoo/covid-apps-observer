@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGGvPfKFvB9y4feRZEcOJ6IiZvXkKiq566cDxPWxlQo_gOmf9klRuKXJdACsF77AQuB3cv6yqX6nL49gg",
+        "userName": "Isabelle DENIS-VALANCE",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw8QTaurQHXHkMkKTmVfKSiTz2mKYn2EDiJSG27=mo",
+        "content": "Impossible de t\u00e9l\u00e9charger l'application",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.34",
+        "at": "2021-07-08 16:45:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGs2KGsOW8eMbabada4lNF_QVn2vpAiS1AzBtwzVadOea9CIrZNmzS_M6IQA1d0lpm3RRK47MO1cMeVgg",
         "userName": "Butcher Zouzou",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxef7Y83BTU9tZ1nPLPdZH3iTDRvGVzKb2n05Gf=mo",
@@ -113,7 +125,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwcH_EaZDf3z-bdpSD2QspkvCkDDJYjwdyDlifM=mo",
         "content": "Bonjour, sur l'application mon compte est d\u00e9sactiv\u00e9, alors que sur le site web, il est actif. Je ne re\u00e7ois pas de mail lors d'une demande de r\u00e9initialisation de mot de passe (retrouv\u00e9 entre temps)",
         "score": 3,
-        "thumbsUpCount": 20,
+        "thumbsUpCount": 21,
         "reviewCreatedVersion": "1.5.21",
         "at": "2021-03-20 11:15:34",
         "replyContent": null,
@@ -458,7 +470,7 @@
     {
         "reviewId": "gp:AOqpTOE2ngzTe8W5LBJScA5O1vA-2E5vF1aKDpOfhzUbAuOz1lCQNRfa7rjNlgv2tWewZng8eq8QuUjTEv1Haw",
         "userName": "Jacques Schmitt",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjVNyTGzqIXVUF_PPz3sn9qpxkRKTE2sJPh6mJrUBo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GieUtnMsme25plnTnoGswvr9-NlwAffzw9bX8siMGw",
         "content": "C'est nul on ne peut pas changer la date ni quoi que ce soit pas pratique",
         "score": 2,
         "thumbsUpCount": 0,
@@ -1157,7 +1169,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ginbvoo6ZQsNXF3K160jWCpw0yrM5h-ddxEbE_6uw",
         "content": "Pour arriver \u00e0 me connecter sur l'application je suis all\u00e9e sur mon compte AP-HP et j'ai envoy\u00e9 un mail depuis mon espace pour demander l'activation de mon compte, service tr\u00e8s r\u00e9actif dans l'heure j'ai re\u00e7u un SMS avec mon identifiant et un lien de premi\u00e8re connexion. Bravo \u00e0 tous ceux qui \u0153uvrent au quotidien dans la lutte contre le virus. J'esp\u00e8re que mon avis aidera d'autres personnes.",
         "score": 3,
-        "thumbsUpCount": 158,
+        "thumbsUpCount": 159,
         "reviewCreatedVersion": "1.5.20",
         "at": "2020-03-21 21:53:30",
         "replyContent": null,

@@ -161,6 +161,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 5 reviews"/>
 </p>
 
+> Ottima<br> :date: __2021-07-09 15:31:03__
+
 > Ottimo per informazioni sul pandemia<br> :date: __2021-06-19 09:52:09__
 
 > Ciaet<br> :date: __2021-06-16 10:40:21__
@@ -178,8 +180,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Mando soltanto informazioni utile<br> :date: __2021-04-22 20:46:28__
 
 > Ottima<br> :date: __2021-04-22 17:36:37__
-
-> Mi trovo bene<br> :date: __2021-04-22 17:08:33__
 
 
 
@@ -273,6 +273,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> La disinstallo che non é mai servita a niente. Ore 17 grandinata mega, ti arrivata in mattina il solito messaggio che non fa aprire l'app. Ma un servizio cone quello delle assicurazioni che ti avvisa all'istante in base a GPS o impostazioni da scegliere non ce l'avete? Che mi frega se fate una pappardella degli eventi della Lombardia, chi la legge? Poi la parte Covid stendiamo un velo pietoso. Soldi buttati<br> :date: __2021-07-08 17:30:46__
+
 > Non si apre più<br> :date: __2021-07-03 12:40:13__
 
 > Divenuta obsoleta! Da domani la disinstallo se nulla è migliorato<br> :date: __2021-07-01 19:20:56__
@@ -288,8 +290,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Arrivano le notifiche di allerta e quando si clicca sulla notifica non mostra niente solo pagina bianca<br> :date: __2021-06-19 13:40:22__
 
 > Sistematela!! O non si apre o quando si apre è poco chiara...<br> :date: __2021-06-19 13:40:18__
-
-> App pessima e lentissima. Dati covid ormai inutili, nessuna possibilá di teacciamento. Perché non c'è la possibilità di segnalare un luogo dove se ne fregano di rispettare le norme? Parte allerta neteo ira che si apre e uno sta a leggere la pappardella da addetti ai lavori si é già beccato la grandinata sull'auto<br> :date: __2021-06-19 13:37:51__
 
 > Forse un anno fa andava bene, fare la domanda (hai fatto il tampone?) La app andrebbe aggiornata, visto che molte persone hanno già avuto almeno la prima dose di vaccino.<br> :date: __2021-06-12 13:06:22__
 

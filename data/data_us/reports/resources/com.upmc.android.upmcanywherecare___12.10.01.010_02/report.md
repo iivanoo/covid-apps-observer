@@ -191,6 +191,8 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="com.upmc.android.upmcanywherecare 5 reviews"/>
 </p>
 
+> Quick and simple<br> :date: __2021-07-09 15:58:28__
+
 > My doctor was very helpful and polite.<br> :date: __2021-07-03 21:04:08__
 
 > Very easy very helpful. Also very nice to be in your own home speaking with a physician!<br> :date: __2021-06-29 15:34:07__
@@ -209,8 +211,6 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 
 > My provider was extremely helpful, professional, succinct, and to the point, while making sure to asses all of my needs, and concerns, down to the level of detail that I need, for a calmer state of mind. I will absolutely be using this l again in the future. This is everything I've ever wanted in an urgent care experience. 10/10, and will be reccomending.<br> :date: __2021-05-16 08:02:21__
 
-> Kristen is excellent!<br> :date: __2021-05-14 13:50:22__
-
 
 
 #### 4-star reviews
@@ -218,6 +218,8 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.upmc.android.upmcanywherecare 4 reviews"/>
 </p>
+
+> N/A<br> :date: __2021-07-08 23:51:30__
 
 > Wait was long<br> :date: __2020-12-12 23:04:45__
 
@@ -236,8 +238,6 @@ The UPMC AnywhereCare app has been installed by more than **50000** times. At th
 > Other than my phone didnt show video it seemed well for a first time experience.<br> :date: __2019-11-10 11:45:07__
 
 > very good<br> :date: __2019-06-29 21:21:56__
-
-> My first time using this was much more favorable in comparison to leaving my house, waiting for hours, paying a high co-pay at an urgent care, or not getting an appointment at my Drs office for days. My only complaint would be having more than one provider available before work/school in my area.<br> :date: __2019-01-16 13:56:18__
 
 
 

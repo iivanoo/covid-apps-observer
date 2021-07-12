@@ -140,6 +140,14 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
+> Al menos la pandemia ha servido para modernizar la sanidad. Bien.<br> :date: __2021-07-10 09:10:35__
+
+> Buena<br> :date: __2021-07-09 15:01:21__
+
+> Perfecta<br> :date: __2021-07-09 09:54:18__
+
+> Buena<br> :date: __2021-07-06 18:03:56__
+
 > Very good<br> :date: __2021-07-03 15:05:14__
 
 > Perfeta<br> :date: __2021-07-02 19:12:41__
@@ -151,14 +159,6 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 > Descargada, identificación con tarjeta sanitaria AN y num. Nif con letra mayúscula y tlfno móvil que coincida con el del Sas. Recibido código móvil y se loga de manera inmediata. Descarga código QR y descarga en pdf del certificado covid En mi caso proceso rápido y sin problemas<br> :date: __2021-06-29 23:04:22__
 
 > Esto es lo mejor que han sacado para ver si tienes las dos vacunas con este certificado , yo estoy muy orgulloso de tenerlo y de ser andaluz lo cual estamos mas desarrollado en estas fechas que ninguna otra comunidad española , las cuales yo respeto y admiró por su trabajo constante e incasable que hacen con las herramientas que el estado les da . VIVA ANDALUCIA , VIVA ESPAÑA , VIVA EL REY , VIVA VOX . 🇪🇸🇪🇸🇪🇸<br> :date: __2021-06-29 19:21:33__
-
-> En el apartado de la tarjeta sanitaria viene predeterminado AN y mi número empieza por 23, no me deja cambiarlo y me da error. La app no vale<br> :date: __2021-06-29 19:00:19__
-
-> Me ha venido muy bien, para sacar el certificado COVID 19 Gracias<br> :date: __2021-06-28 22:09:47__
-
-> Muy recomendable<br> :date: __2021-06-28 19:48:34__
-
-> Buena<br> :date: __2021-06-28 09:56:24__
 
 
 
@@ -196,6 +196,8 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <img src="3_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 3 reviews"/>
 </p>
 
+> Solo me aparece la fecha de mi primer dosis de la vacuna que pasa con la segunda ?<br> :date: __2021-07-07 01:22:31__
+
 > Mejor hacerlo por web, no es necesario una app.<br> :date: __2021-06-28 09:22:08__
 
 > Parece que va mejorando<br> :date: __2021-06-24 14:43:41__
@@ -220,6 +222,8 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 2 reviews"/>
 </p>
 
+> No puedo acceder.... No functiona.... No logro descargar el cerificato digital... Por que es tan complicado????? Tantos pasos a sequir y en final falla y tienes que enpesar de nuevoo<br> :date: __2021-07-04 21:00:59__
+
 > Va fatal la aplicación,no me deja entrar<br> :date: __2021-07-03 23:40:41__
 
 > Creo k si<br> :date: __2021-07-02 14:43:18__
@@ -238,8 +242,6 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 
 > No hay forma de entrar con DNIe,imposible ,en el ordenador regular , en el.movil un bodrio<br> :date: __2021-06-16 18:25:40__
 
-> No funciona correctamente y quiero sacar el serteficado de la vacuna ya la tengo las dos puestas y no me deja<br> :date: __2021-06-16 13:31:55__
-
 
 
 #### 1-star reviews
@@ -248,24 +250,24 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> No funciona<br> :date: __2021-07-04 10:03:01__
+> La app está fallando<br> :date: __2021-07-11 09:34:52__
 
-> No funciona... No deja confirmar los datos... No deja bajar más allá después de introducir el teléfono 🤦<br> :date: __2021-07-03 23:40:15__
+> Da error continuamente, no te permite introducir los dígitos AN, a quien se le a ocurrido de perder el tiempo con esta aplicación, desinstalada porque no vale para nada<br> :date: __2021-07-10 21:40:22__
 
-> Para registrarse por el método de "datos personales y verificación móvil", no deja meter los dos dígitos de control de la tarjeta sanitaria. Alguien ha probado la aplicación?<br> :date: __2021-07-03 21:29:30__
+> Menuda sarta de subnormales incompetentes, quien es el submormal que ha diseñado esto, probablemente cobrando un pastizal del herario público. Viva la Junta de Andalucía y sus funcionarios.<br> :date: __2021-07-10 20:57:05__
 
-> La aplicación en si es mala pero con ganas. Sobre todo si no tienes certificado digital o cl@ve. Ya que si quieres el certificado COVID al rellenar los datos no te deja escribir entero el número de la seguridad social, ya con eso no puedes hacer nada... Y ojo solo carga la aplicación con datos móviles, con wifi va peor COSA QUE NO ENTIENDO. La verdad es mejor y más sencillo irse al centro médico más cercano, pedirlo y largarte de allí con el papel en las manos.<br> :date: __2021-07-03 20:07:11__
+> No se puede iniciar sesión, arreglen eso porque si no no sirve para nada<br> :date: __2021-07-10 19:42:43__
 
-> No puedo entra para el certificado de vacuna<br> :date: __2021-07-03 18:54:43__
+> Una auténtica porquería, nada funciona, necesito obtener el certificado de vacunación para viajar y no soy capaz de conseguirlo porque la app se queda continuamente colgada, hay 3 maneras de hacerlo y ninguna funciona. Una lastima que con el dinero público pase ésto. En otros países europeos van más adelantados y menos burocracia pero así funciona la administración en España. Una vergüenza<br> :date: __2021-07-10 18:25:37__
 
-> Misión imposible sacar el certificado covid!!<br> :date: __2021-07-03 18:51:02__
+> No conecta para iniciar sesión, no carga apps, no se accede a certificados.......<br> :date: __2021-07-10 12:05:41__
 
-> No me deja iniciar sesión, lo he probado en otros dispositivos y lo mismo, así que no puedo obtener el certificado de la vacuna<br> :date: __2021-07-03 17:09:12__
+> Lo peor no funciona<br> :date: __2021-07-10 10:20:37__
 
-> Una basura absolute, inutil<br> :date: __2021-07-03 13:38:41__
+> Desastre e inoperancia. Es imposible registrarse, lo he intentando de mil maneras y me ha sido imposible. Y lo mismo le ha ocurrido a una compañera de trabajo<br> :date: __2021-07-09 22:07:15__
 
-> He probado a iniciar sesión con Wifi y ni por asomo lo he logrado, sin embargo con "Datos Móvil" a la primera. Ya tengo mi certificado Covid. Mucho que mejorar en esta aplicación<br> :date: __2021-07-03 11:57:12__
+> No funciona<br> :date: __2021-07-09 22:02:16__
 
-> Solo da errores<br> :date: __2021-07-02 15:38:56__
+> Se abre cuando quiere<br> :date: __2021-07-09 18:55:07__
 
 

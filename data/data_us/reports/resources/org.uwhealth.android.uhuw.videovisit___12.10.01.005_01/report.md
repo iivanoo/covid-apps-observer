@@ -223,6 +223,8 @@ The UW Health Care Anywhere - Video Visit app has been installed by more than **
 <img src="4_star_reviews_wordcloud.png" alt="org.uwhealth.android.uhuw.videovisit 4 reviews"/>
 </p>
 
+> Did what it expected this app should do. But all of the form descriptions and autofill boxes are all messed up. Painful to fill out anything.<br> :date: __2021-07-11 04:09:25__
+
 > Talked to a professional and did not have to go to the er or urgent care<br> :date: __2021-04-12 02:00:13__
 
 > Good, but still had to be seen in person for bladder infection<br> :date: __2020-12-27 19:42:36__

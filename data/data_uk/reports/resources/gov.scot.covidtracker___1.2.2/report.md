@@ -139,6 +139,10 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Always seems to work<br> :date: __2021-07-09 19:05:14__
+
+> Very easy if you have all info ready.<br> :date: __2021-07-05 16:48:26__
+
 > Brilliant, makes everyone feel safe<br> :date: __2021-07-04 12:30:41__
 
 > After reading some of these comments I wont bother installing this app seems like they tell you it won't track location so why does it automatically turn it on it only states Bluetooth be on . My location is off permanently and at the start of the pandemic I did install the app and boom location automatically turned on . Having both location and Bluetooth switched on leaves you more at risk of people able to steal data and bank information and anything else personal to you . Don't install this<br> :date: __2021-06-22 19:34:40__
@@ -154,10 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > A bit of a pain to drain battery keeping bluetooth/location on constantly, but a small price to pay for public health & safety!<br> :date: __2021-05-17 06:42:30__
 
 > but yea m<br> :date: __2021-05-13 02:04:43__
-
-> Easy to use, watch you don't have your VPN switched on or it doesn't take any readings, wouldn't know it was working behind the scenes to help protect Scotland<br> :date: __2021-05-01 22:05:02__
-
-> Great app 1st thing I added to my account well done,🌞🌈<br> :date: __2021-04-29 00:06:05__
 
 
 
@@ -223,6 +223,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
+> Should have a code scanner on app for cheak in to pubs restaurants like the English app has<br> :date: __2021-07-09 12:37:02__
+
 > Not working rubbish<br> :date: __2021-07-02 17:52:44__
 
 > Keeps telling me a new version is available - go to app store, no update option, just uninstall or open<br> :date: __2021-06-06 13:29:11__
@@ -241,8 +243,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > When I first got the App I thought it was great to have it but now I am convinced it doesn't work giving people false confidence they've not been in contact with Covid, I have been in close contact with covid infected people yet never had notification. I think its flawed by requiring people to self input if they have it. Yet reading other reviews such as people in same household both entering details and none being informed that they've been in close contact? Raises suspension app authenticity<br> :date: __2021-02-14 10:44:35__
 
-> I was quite naive and feeling safe because I hwe receuved zero contact alerts, so was blissfully confident that I was OK. Until today that is, when I discovered that a) there was an update that was not automatically applied, b) there are so many criticisms of the app and c) so many complaint communucations to the developer remain unanswered.... Is the app a complete con? Is it just to calm the naive and stupid like me. I had not encountered any issues, but then I didn't expect to.. I was safe???<br> :date: __2021-02-14 01:07:48__
-
 
 
 #### 1-star reviews
@@ -251,24 +251,24 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
 
+> Very limited use for those us travel and work in England. Why can't Scottish politicians accept that Covid does not recognise borders. The NHS Covid 19 app has far superior functionality and information. Scottish public services and politicians are blinded by their anti-anglo ideals and are putting the Scottish public at risk. Very disappointed, frustrated and considering a move south of the border.<br> :date: __2021-07-10 12:24:16__
+
+> Not one exposure check in the last fortnight, used to get four or five a day.<br> :date: __2021-07-10 09:37:36__
+
+> Not a chance in hell would I install this...I wear a mask and keep my hands clean..been using public transport through out the pandemic and have NVR tested positive...it's a fkn farce.<br> :date: __2021-07-09 19:03:37__
+
+> Not compatible with English system so complete waste of time using it while on holiday<br> :date: __2021-07-09 18:37:42__
+
+> Total garbage. Apart from the fact that technically the app doesn't work that well, it clearly expects me to walk around all day with an 'open' phone. Surely a wet dream for bureaucracy. It's never going to happen.<br> :date: __2021-07-09 13:43:45__
+
+> Dosent even work, I was sitting next someone who done 2 rapid tests that was then registeredb on the app and nothing all day. No alert saying that the person right next to you positive<br> :date: __2021-07-08 00:13:12__
+
+> Think this is an important app & helps us all do our bit, but considering the importance of this app would have been better if it had been designed to be able to be stored on an SD card for people who mobiles don't have a lot of memory. In my case had to delete due to this.<br> :date: __2021-07-05 17:25:24__
+
+> Just read news article about people in Scotland not using this App anymore. I've been trying to get it to work again for months after it stopped working. Keeps telling me that it's unable to check for exposure. Bluetooth on, all settings correct. Uninstalled and reinstalled several times. Very frustrating as I really want to use this app.<br> :date: __2021-07-04 19:49:39__
+
 > Absolute rubbish, was sitting with both my friends when they got there positive emails. Things never went off yet. Pure joke. Just to see if it was working pure rubbed it across my mates phone earlier to see what would happen and not a thing. Apps a pure waste of time.<br> :date: __2021-07-04 13:13:51__
 
 > Nonsense<br> :date: __2021-07-02 17:53:29__
-
-> Poor quality lack of privacy and hatefully interface<br> :date: __2021-07-02 14:08:28__
-
-> Contact trace gave me a code but doesn't work. App doesn't work.<br> :date: __2021-07-01 21:06:16__
-
-> This is rubbish. I've been given an 8 digit code & it only accepts 6 digits. When I tried the NHS Covid 19 app it was only for English & Welsh postcodes. How am I meant to inform the people I have been in touch with<br> :date: __2021-07-01 19:50:05__
-
-> What is the point of installing an app if then we get lockdowns anyways? Edit 30/06/2021: is anyone still using this? Has this app saved at least one life?<br> :date: __2021-06-30 16:36:34__
-
-> NHS Scotland advised me to install NHS COVID-19 app which is for England and Wales only. NHS Scotland app only accepts a 6 digit test result code, not the 8 I was provided by NHS. Both apps are useless in these respects.<br> :date: __2021-06-30 12:38:27__
-
-> Useless code not accepted!!!<br> :date: __2021-06-29 21:42:09__
-
-> 6 digit space to upload your results code. Results code is 8 digits long<br> :date: __2021-06-29 18:00:06__
-
-> Where do I add a negative result? I was asked to do this.<br> :date: __2021-06-29 14:36:51__
 
 

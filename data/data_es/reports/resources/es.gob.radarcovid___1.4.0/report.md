@@ -129,6 +129,10 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
+> Excelente<br> :date: __2021-07-10 21:44:35__
+
+> Yo lo que quiero es estar informada de los contagios y muertes en Algeciras, yo no tengo ningún tipo de síntomas gracias a Dios y además tengo la vacuna puesta faiser<br> :date: __2021-07-10 11:50:13__
+
 > De momento no la he usado. No puedo opinar.<br> :date: __2021-07-03 22:36:46__
 
 > Ya lo tengo descargado Radar cobid19. Y tengo puesto el Bluetooth y además tengo puesto la primera vacuna pfaiser el día 6 de este mes el martes que viene voy ya para ponerme la segunda vacuna y cómo funciona lo de Radar Cobid19 tengo puesto el Bluetooth y qué es lo que hace Radar cobid19 no lo entiendo<br> :date: __2021-07-02 22:36:31__
@@ -145,10 +149,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > g7bñ<br> :date: __2021-06-28 10:39:31__
 
-> Necesaria<br> :date: __2021-06-24 23:11:25__
-
-> No ha sido útil<br> :date: __2021-06-24 15:15:17__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.radarcovid 4 reviews"/>
 </p>
+
+> @@g<br> :date: __2021-07-06 12:21:39__
 
 > Gracias a Dios. El Covid19 NO TUBE NI TENGO ME HICE UNA PRUEVA BIEN.Y TUBE QUE REALIZARME UNA CIRUGIA TUBE DOS VECES MAS .U YO TODAS LAS MEDIDAS HIGIENE POR MI PROPIA SALUD .LAS CUMPLO Y LAS DE MI HIJO.<br> :date: __2021-07-03 15:47:01__
 
@@ -175,8 +177,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Es un adelanto estar adelantado k sin solicitarlo ya hay app k detecte problemas d x igual indole pal resto d la humanidad k da tiempo a ponerce a salvo, gracias...<br> :date: __2021-05-25 08:23:11__
 
-> Bamos.amirar.sida.resultado.. Esperemos.que.trabaje.vien. Nosenada.de.la.aplicacion.<br> :date: __2021-05-20 17:02:26__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
+
+> Esta mayor<br> :date: __2021-07-07 20:17:49__
 
 > Muy poca gente lo lleva activado. 😞<br> :date: __2021-07-02 16:53:49__
 
@@ -202,8 +204,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 > Podría mejorar con mas info si las personas no la. Usan no sirve de ayuda<br> :date: __2021-06-17 16:47:26__
 
 > La he usado muy poco.<br> :date: __2021-06-16 21:35:54__
-
-> En su tiempo fue echa con muy buena intención pero no creo que halla servido de mucho para frenar la pandemia<br> :date: __2021-06-03 15:50:25__
 
 
 
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> Esta aplicación ha resultado ser completamente inútil. Nadie la usa, y ni siquiera en los centros de salud te dan los datos para informar de positivos (cosa que tenía que ser prioritaria). Me gustaría que informasen alguna vez de cuántos casos ha detectado. Apuesto que no llegan ni a 10 en toda España. Y creo que me he pasado. Un gasto inútil de dinero del contribuyente, y de recursos del móvil. Tras tenerla desde que la sacaron, la he desinstalado.<br> :date: __2021-07-04 13:30:54__
+> No funciona bien. No sincroniza datos y no hay solución.<br> :date: __2021-07-10 14:53:45__
 
-> Muy mal organizado, difundido y el desarrollo de la app es de un nivel muy facil como si lo hubiera hecho un niño y no un grupo de informáticos. No funciona y para que deberian añadir que estas vacunado cuando no sirve para nada porque te tendras que volver a vacunar y de todos modos aunque estes vacunado no estas protegido del todo y yo pienso vacunarme no soy uno de esos idiotas sin neuronas diciendo chorradas sobre vacunas<br> :date: __2021-07-03 21:40:08__
+> Totalmente inservible si no te facilitan el código...<br> :date: __2021-07-08 20:31:19__
 
-> Mala<br> :date: __2021-07-03 11:05:18__
+> Difícil.<br> :date: __2021-07-08 11:28:37__
 
-> Le daría cero estrellas pero no se puede<br> :date: __2021-07-02 21:13:26__
+> No funciona<br> :date: __2021-07-07 20:35:58__
 
-> No funciona<br> :date: __2021-07-02 08:57:19__
+> Se desactiva con el ahorro de energía y no se reactiva automáticamente. Poco usado por la sociedad.<br> :date: __2021-07-07 14:33:36__
 
-> Cada vez que quitas el modo avión la app se queda colgada teniendo que restaurar los permisos para que vuelva a funcionar<br> :date: __2021-07-01 12:11:15__
+> NO LA INSTALÉIS. EL GOBIERNO OS ESPÍA<br> :date: __2021-07-07 12:25:00__
 
-> No sirve<br> :date: __2021-06-30 21:27:43__
+> Se me ha instalado sola<br> :date: __2021-07-07 00:01:11__
 
-> Si la gente contagiada no comunica la aplicación no sirve de nada<br> :date: __2021-06-28 20:32:53__
+> Qué pena que por incapacidad política no se haya desarrollado y desplegado correctamente.<br> :date: __2021-07-06 19:02:43__
 
-> No sirve para nada, la instalé cuando la sacó el gobierno, la he tenido siempre puesta por si acaso y cuando he estado expuesto no me ha avisado. No funciona, no sirve para nada. No perdais el tiempo instalandola, poneros mascarilla FPP2.<br> :date: __2021-06-27 21:05:49__
+> Desde hace un tiempo no se activa el radar, le doy a activar y se desactiva solo. Fatal, porque eso antes no pasaba.<br> :date: __2021-07-06 11:56:35__
 
-> No funciona casi nunca . Ni detecta nada.<br> :date: __2021-06-27 20:06:13__
+> No lo tiene nadie<br> :date: __2021-07-05 11:48:06__
 
 

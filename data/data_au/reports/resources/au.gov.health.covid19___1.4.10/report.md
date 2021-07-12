@@ -215,6 +215,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covid19 3 reviews"/>
 </p>
 
+> I have a brain injury and it's confusing me as to how to use the app<br> :date: __2021-07-09 22:53:11__
+
 > Unless this app is updated it poses a security risk.<br> :date: __2021-04-04 00:34:39__
 
 > No idea if it works and hope I never find out<br> :date: __2020-10-29 09:53:40__
@@ -232,8 +234,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > It hasn't updated. Supposed to update at 9:00 AM daily.<br> :date: __2020-05-14 01:15:17__
 
 > Never have received the pin to open it<br> :date: __2020-05-08 01:20:55__
-
-> Won't download past 97%<br> :date: __2020-05-07 12:21:06__
 
 
 

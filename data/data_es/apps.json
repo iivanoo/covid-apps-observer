@@ -11,21 +11,21 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "4.1",
-        "latest_crawl": 1625414536
+        "latest_crawl": 1626000074
     },
     {
         "id": "cat.gencat.mobi.StopCovid19Cat",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.1.1",
-        "latest_crawl": 1625414542
+        "latest_crawl": 1626000081
     },
     {
         "id": "cat.gencat.mobi.confinApp",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1625414549
+        "latest_crawl": 1626000086
     },
     {
         "id": "es.gva.responde",
@@ -39,14 +39,14 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1625414558
+        "latest_crawl": 1626000095
     },
     {
         "id": "es.gva.coronavirus",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1625414562
+        "latest_crawl": 1626000101
     },
     {
         "id": "es.gob.asistenciacovid19",
@@ -67,35 +67,35 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.6",
-        "latest_crawl": 1625414703
+        "latest_crawl": 1626000241
     },
     {
         "id": "es.gob.radarcovid",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.4.0",
-        "latest_crawl": 1625414706
+        "latest_crawl": 1626000248
     },
     {
         "id": "es.juntadeandalucia.msspa.saludandalucia",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.3.1",
-        "latest_crawl": 1625414710
+        "latest_crawl": 1626000256
     },
     {
         "id": "com.appandabout.defusing",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.9",
-        "latest_crawl": 1625414718
+        "latest_crawl": 1626000263
     },
     {
         "id": "com.dkvservicios.quierocuidarmemas",
         "store_country": "es",
         "store_lang": "es",
-        "latest_crawled_version": "2.3.6",
-        "latest_crawl": 1625414719
+        "latest_crawled_version": "2.3.8",
+        "latest_crawl": 1626000984
     },
     {
         "id": "com.asist.prof.covid19.app",
@@ -107,21 +107,21 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.2.4",
-        "latest_crawl": 1625414799
+        "latest_crawl": 1626001168
     },
     {
         "id": "com.teckelmedical.mediktor",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "6.0.3",
-        "latest_crawl": 1625414803
+        "latest_crawl": 1626001170
     },
     {
         "id": "studiogenesis.es.emergenciatarragona",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.6",
-        "latest_crawl": 1625414805
+        "latest_crawl": 1626001173
     },
     {
         "id": "com.hepitracker.covid19",
@@ -138,27 +138,27 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.7",
-        "latest_crawl": 1625414822
+        "latest_crawl": 1626001187
     },
     {
         "id": "com.lantik.bizkaiup",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.0.1",
-        "latest_crawl": 1625415028
+        "latest_crawl": 1626001192
     },
     {
         "id": "com.app_d45568.layout",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.3",
-        "latest_crawl": 1625415107
+        "latest_crawl": 1626001194
     },
     {
         "id": "gal.xunta.covidpass",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.5",
-        "latest_crawl": 1625415114
+        "latest_crawl": 1626001202
     }
 ]

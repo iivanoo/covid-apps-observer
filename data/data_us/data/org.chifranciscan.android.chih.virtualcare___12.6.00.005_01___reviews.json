@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOER6kirz2OZnMHC8o4vuxK8kFhhsfknPeAPGfQkjDjtpODMce1NJj5clioZ8a_Gtu_FsmCLxRTplYSu-0Q",
+        "userName": "Annette Butler",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgwXAD0futu8HyieKygFHwuYGJvegtEC_H7FBNI",
+        "content": "Fantastic app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.6.00.005_01",
+        "at": "2021-07-07 18:43:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEdIBobBfKvCpxfa7mKtCOLsT0ew6QfphAF5Rta56IFhQbq7CZ5ncjLN6kq2QAB_GVZ4XkojHdNizBulO8",
         "userName": "Bob Radec",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxUJF0eP5zClcg-eOqPOgCnaTwnXo40RF0J1TEdiw=mo",
@@ -449,7 +461,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzccfFvLE6lOvlSaTqdBQhG4v7bbGDGh73Rzrw",
         "content": "The Dr's on here are pretty nice and the fee is reasonable at only $30. I used this when I didn't have health insurance and needed Dr's notes for my work. However, this app has no support email or phone number. They have a \"number\" but when you call its just static. I emailed the developer email when I had an inquiry, and there was no response. On top of that, there's no option to delete your account or your payment info, if you want to stop using the app.",
         "score": 3,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": null,
         "at": "2020-06-19 18:40:42",
         "replyContent": "Hello, we\u2019d like to apologize concerning this experience. If you would like an opportunity to discuss this further, please send an email to experience@chifranciscan.org. Also, if they may be of any help, our FAQs for our virtual care app are also located here: https://www.chifranciscan.org/health-care-services/virtual-care/faq.html.",
@@ -1001,7 +1013,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIoqzqZUPxFSE58OA6vyijxQuAE_tLDRER9kDg=mo",
         "content": "What an absolute waste of time! Waited for 2 hrs to see someone on the virtual call, got prescribed some meds which is great except for the fact that they still haven't been filled. Called back 2 other times(on hold another hour+ each time), and they still cant tell me anything. They dont even know who I talked to and lost my prescription. Now have to wait until tomorrow morning to find out if they found it. Told me it wouldn't be a bad idea to call again and just talk to a different physician..",
         "score": 1,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "11.5.7.000_00",
         "at": "2020-03-19 05:36:31",
         "replyContent": "Hello Brian, we\u2019d like to apologize concerning this experience. We pride ourselves in maintaining high-quality care for our patients, and can assure you we have been implementing updates to reduce wait time issues. If you would like an opportunity to discuss this further, please send an email to experience@chifranciscan.org.",

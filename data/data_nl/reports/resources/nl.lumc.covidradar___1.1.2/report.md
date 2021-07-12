@@ -140,9 +140,9 @@ The COVID Radar app has been installed by more than **50000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="nl.lumc.covidradar 5 reviews"/>
 </p>
 
-> Geweldig idee om Corona mee te kunnen in kaart brengen<br> :date: __2021-04-07 14:43:18__
+> voor Elk gezin zeker bij ZelfQuarantaine en/of VACcinatie: jullie en postcode-gebied kunnen zo nog beter in de gaten worden gehouden door onzeGGD. 1) MILDE-vorm van covid kunnen signaleren 2) covid= bloedpropjes o.a. longen, ook in andere bloedvaten, kunnen soms later ook hersen-infarct veroorzaken?? 3) VACcin bijwerkingen. TraceBack-covid19patient krijgt meerEnMeer vorm. Signaal-checks ook in Luscii(=persoonlijk)<br> :date: __2021-07-09 14:07:42__
 
-> voor Elk gezin zeker bij ZelfQuarantaine en/of VACcinatie: jullie en postcode-gebied kunnen zo nog beter in de gaten worden gehouden door onzeGGD. Antwoorden in welke 1) MILDE-vorm van covid kunnen signaleren 2) VACcin bijwerkingen: zoals Trombose-signalen (tintellen handen en/of voeten en of zwartig worden, vocht vasthouden in kuiten/benen). LOGEES ZONDER-deze-app voer ik in en Wil niet-THUis optie! TraceBack-covid19patient krijgt meerEnMeer vorm. Signaal-checks ook in Luscii(=persoonlijk)<br> :date: __2021-03-21 08:01:31__
+> Geweldig idee om Corona mee te kunnen in kaart brengen<br> :date: __2021-04-07 14:43:18__
 
 > Was al een fijne app, maar is nu nog beter geworden om in te vullen, geeft ook goede en nuttige updates.👌👍<br> :date: __2020-12-24 04:41:24__
 

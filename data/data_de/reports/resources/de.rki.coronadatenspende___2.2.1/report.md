@@ -225,6 +225,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 2 reviews"/>
 </p>
 
+> 1 ANMELDEN Gefragt - Gejagt -- ARD -- Staffel 1 -- Folge 7 -- vom ￼ Gefragt - Gejagt -- ARD -- Staffel 1 -- Folge 11 -- vom 02.06.2015 Q<br> :date: __2021-07-10 15:45:05__
+
 > Eigentlich eine prima Idee. Leider kann ich nicht beitragen, da Huawei nicht unterstützt wird.<br> :date: __2021-02-27 14:19:43__
 
 > Leider mal wieder so eine halbgare und unispirierte Neuland-Anwendung, die so ziemlich alles falsch macht, was man falsch machen kann. Obwohl mit Steuergeldern finanziert nicht Open Source. Nur im Google Store erhältlich und nur mit Google-Diensten zu benutzen. Nur eine Handvoll teurer Tracker werden unterstützt. Der Benutzer erfährt seine Ergebnisse nicht (ja, ich weiss, dass ist noch Forschung... TROTZDEM!) Kurzum: Das gewohnte Elend, wenn Behörden was planen. Schade :-(<br> :date: __2021-02-17 11:56:23__
@@ -243,8 +245,6 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 
 > Leider werden Smartwatches von Samsung nicht unterstützt, daher kann ich leider keine Daten spenden<br> :date: __2020-12-29 13:27:44__
 
-> 'Verbindung nicht möglich. Es ist ein Problem mit dem Server aufgetreten.' Leider kann so auch der willigste nicht helfen.<br> :date: __2020-12-27 11:51:46__
-
 
 
 #### 1-star reviews
@@ -252,6 +252,8 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.coronadatenspende 1 reviews"/>
 </p>
+
+> Keine möglich Daten für huawei Spender beizutragen. Sehr traurig!<br> :date: __2021-07-05 00:21:49__
 
 > Super Idee, läuft leider auch nach über 400 Tagen nicht mit Huawei Health. Schade vermutlich sind die Daten nicht wichtig.<br> :date: __2021-06-29 12:57:04__
 
@@ -270,7 +272,5 @@ The Corona-Datenspende app has been installed by more than **100000** times. At 
 > 1. Schade um die Steuergelder für diese Entwicklung 2. Nur mit Wearable nutzbar, also 2 Klassengesellschaft auch hier. 3. Keinerlei Reaktion des RKI auf Kommentare hier. 4. App wieder deinstalliert.<br> :date: __2021-06-01 08:47:48__
 
 > Leider kann ich meine Mi fit nicht damit verbinden.<br> :date: __2021-05-19 19:28:43__
-
-> Ich kann noch keine Bewertung abgeben, da ich Samsung Health nicht damit verbinden kann. Es wird mir immer gemeldet, dass ich keine Berechtigungen zwischen den beiden Apps freigeben kann. Bitte löst das Problem! Android 11<br> :date: __2021-05-14 10:25:07__
 
 

@@ -163,6 +163,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.umcutrecht.covapp 1 reviews"/>
 </p>
 
+> Ik probeer de gevraagde gegevens in te voeren e.mail en wachtwoord dat ik al bijna 2 jaar gebruik, en krijg het antwoord dar e.e.a. niet klopt. Ik wordt hier niet goed van. Hoe kan dit?<br> :date: __2021-07-04 20:42:54__
+
 > Ik kan mijn registratiegegevens niet invullen.<br> :date: __2021-06-28 16:06:18__
 
 > Kan geen account aanmaken... Waar?????<br> :date: __2021-02-17 15:48:39__

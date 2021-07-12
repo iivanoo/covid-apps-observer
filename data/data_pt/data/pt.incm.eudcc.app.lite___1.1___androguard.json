@@ -1,0 +1,30 @@
+{
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.CAMERA",
+        "android.permission.FLASHLIGHT",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "activities": [
+        "pt.incm.eudcc.app.activities.MainActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://plus.google.com/",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://javax.xml.XMLConstants/feature/secure-processing",
+        "http://apache.org/xml/features/disallow-doctype-decl",
+        "http://apache.org/xml/features/nonvalidating/load-external-dtd",
+        "http://logging.apache.org/log4j/2.x/manual/configuration.html#ConfigurationSyntax",
+        "https://dataprovider-dgc.svd.incm.pt/",
+        "http://localhost/",
+        "http://schemas.android.com/apk/res-auto",
+        "http://www.w3.org/2001/XMLSchema",
+        "http://xml.org/sax/features/external-general-entities",
+        "http://xml.org/sax/features/external-parameter-entities",
+        "http://apache.org/xml/features/xinclude/fixup-language",
+        "http://apache.org/xml/features/xinclude/fixup-base-uris"
+    ]
+}

@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOFlxObl5uDQVgm48IZEFaE55Nhpp8FSqM0ROoyJYufA6kITnjmrTVbBEew_imMtXRg_g49V5noe6znkTA",
+        "userName": "Claire Sherwood",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz40KnEmln6xsQeewa-BltiLedElOsH9wzgxnht=mo",
+        "content": "Keep trying to register, won't accept id ,haven't got a passport or driving licence, tried uploading water bill and p60, took pictue of them side by side and still not accepted",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "15.0",
+        "at": "2021-07-05 00:12:29",
+        "replyContent": "Hi Claire, really sorry to hear this, each organisation is responsible for verifying their own sign-ups, we as GoodSAM provide our technology to over 200 organisations. Your rejection email should have more information allowing you to rectify the error, you are more than welcome to sign up again. Apologies for the inconvenience.",
+        "repliedAt": "2021-07-05 19:12:53"
+    },
+    {
         "reviewId": "gp:AOqpTOGnhl-OSGYVZ6ybJLuPKQna-AoOtN_bZMuhO51M85pQ1J_Zj593n-mqi9Z-uVopVC7qop4DOvwcDOB5iQ",
         "userName": "Bill Lockhart",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwK92YiEVAnjO96Lz-K6lsgQPukrDKQ23v0nu1=mo",
         "content": "Latest version deletes tasks I've accepted from 'future tasks' so map and contact information aren't available. D'Oh! UPDATE- thanks for your response, but no- I received a chat notification under Messages *confirming* that I\u2019d accepted the shift.",
         "score": 2,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "14.9",
         "at": "2021-07-03 21:45:00",
         "replyContent": "Hi Bill, this would happen if the task is cancelled by the referrer (usually due to vaccine delivery issues), you would also receive a push notification to tell you that it has been canceled, this would appear in the messages tab. We hope this helps!",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh1L64FXYBpsF3twgKooKWZc2c_qTjTXBxGodFK",
         "content": "Don't get me wrong here, I use this app to volunteer to assist in vaccination shifts. However lately, you have vaccination centres and pharmacists located in the same area when your volunteering to do these shifts. Wouldn't it have been a better idea to have one area for centres and a separate one for pharmacists. Having all of them in the same area, not only makes this app confusing. It also makes it hard to find out the venues where you volunteer at.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "14.9",
         "at": "2021-07-01 15:01:05",
         "replyContent": "Hi David, thank you for the review, unfortunately us as the technology provider cant distinguish between the venues, anyone eligible can request volunteers through our app. The referrals come from various places and we don't want to limit or discriminate between them, usually the description and number of volunteers requested gives you a good idea.",
@@ -4836,18 +4848,6 @@
         "repliedAt": "2020-04-24 08:18:02"
     },
     {
-        "reviewId": "gp:AOqpTOHG6wVdqk3eFC3w73QJGVXHUB6I1otMqiflGKh-fdCvP4QdxPrWw9GNhRx18dTLxa9AlTsGZOHo25Z4-Q",
-        "userName": "Mick Walters",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwRJ84r5mC9exXLzB8eYpvTsGJbx7EqDfKLDZjS=mo",
-        "content": "Latest update seems to have broken the app on Android, for me anyway. Thank you for the info re. the API.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "11",
-        "at": "2020-04-24 08:18:47",
-        "replyContent": "Hi there, while waiting for Google to fix the issue,  we have patched our app to circumvent their bug.\n\nPlease update the app to version 11.1. Also remember to change your review if this worked for you! cheers",
-        "repliedAt": "2020-04-24 17:13:32"
-    },
-    {
         "reviewId": "gp:AOqpTOH5IDSlALCnBvcK8bNgoREn9Vj9eblH7BJ8YUPmaUh6IZnsN-1O10KJZgBgYm18AUj7-Z0j41vbUOiTkQ",
         "userName": "Iain Davey",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyl0VSafrBYjiUr0xWFeMZdTW5keKOYUJQHaFrP=mo",
@@ -6314,7 +6314,7 @@
     {
         "reviewId": "gp:AOqpTOFKwheI9IvlcD27QF07eGbGNjCX9aCELRS-nqw08_HaDfhSs71RV9E-Q3kD0kS8-eZCQE4D8W27MLSEWg",
         "userName": "Phil Lowney",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0fcv0GTTCRx5vxpZfXXLWusKQ0f1TwzP11a9D=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMwXWl7N3YEcdgIFN4TGSAeQIfPpYEBqXPGLli-d4",
         "content": "The app's notification badge on my phone's desktop shows 8 alerts, but no alerts in the app, no siren, nothing. So why are there 8 alerts on the desktop when I open my phone? No help feature in the app, no information as to its operation, not good considering the importance of it's intended function. Maybe it's just quiet where I live.",
         "score": 2,
         "thumbsUpCount": 3,

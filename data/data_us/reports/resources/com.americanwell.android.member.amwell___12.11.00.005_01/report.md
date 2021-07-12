@@ -213,6 +213,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Pretty awesome!<br> :date: __2021-07-07 02:18:57__
+
 > Very slick the way it walks you through set-up, then their own video connection was rocks solid.<br> :date: __2021-07-03 19:01:47__
 
 > The provider I visited with was awesome. She knew what she was doing. I recommend them for you anytime you can't get to the doctor or urgent care.<br> :date: __2021-07-03 01:17:20__
@@ -230,8 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > I suggest anybody using this it works very well very quick and the doctor was phenomenal. I would rate it a 10 if I could.☝️👍<br> :date: __2021-06-19 22:45:56__
 
 > Quick and easy<br> :date: __2021-06-18 19:12:03__
-
-> Was great quicker than waiting in an office and the doctor was awesome!<br> :date: __2021-06-18 18:45:10__
 
 
 
@@ -323,6 +323,8 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 1 reviews"/>
 </p>
 
+> They take your insurance information and tell you whether or not your insurance is accepted. You book an appointment based on that information, but come appointment time, they charge you full price. Here's the thing. When you're dealing with mental health, a blow like this can set someone back so far in the healing process. People coming to this app are looking for HELP. Stop screwing people over.<br> :date: __2021-07-06 03:21:22__
+
 > A joke. Charged me 80 to tell me they can't treat me. I called for a uti and it plainly says they can treat it. They lie and are a joke. FALSE ADVERTISEMENT. They say go to the er. So basically pay us 80.00 to tell you to go spend 3000.00 seriously people it's a joke a wanna be quack in a white robe. Please stay away from this service. They need to be sued for false advertising and Mal Pratice.<br> :date: __2021-06-26 02:53:36__
 
 > It was $125 co-pay with my insurance and it's too expensive for me since I'm on disability. And then all the negative reviews made me to not use this facility.<br> :date: __2021-06-24 21:40:34__
@@ -340,7 +342,5 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > When the app opens it now says that their services are not available in my state of Florida. But it is available....just for 'better insurance' such as Blue Cross Blue shield and the like.<br> :date: __2021-04-20 23:42:21__
 
 > Not used<br> :date: __2021-04-19 05:04:06__
-
-> App keeps crashing. I need to see my therapist. This sucks. What if someone was snowballing into a crisis situation and needed to talk? I'm pretty annoyed.<br> :date: __2021-04-09 13:28:51__
 
 

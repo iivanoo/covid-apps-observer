@@ -155,6 +155,14 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Awesome app, doesn't kill battery life as I expected it would. Only suggested improvement would be to allow exporting stats to gridcoin<br> :date: __2021-07-09 11:18:10__
+
+> If it helps - do it!<br> :date: __2021-07-08 12:55:26__
+
+> Amazing<br> :date: __2021-07-07 22:09:26__
+
+> So easy to use.<br> :date: __2021-07-04 23:16:36__
+
 > Seamless operation<br> :date: __2021-07-04 12:58:11__
 
 > Love the idea of helping with research while I sleep, feels like I'm part of a big team all working together!<br> :date: __2021-07-04 01:31:54__
@@ -167,14 +175,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Opens yours eyes absolutely brilliant<br> :date: __2021-06-28 16:08:25__
 
-> Very great way to help the world.<br> :date: __2021-06-28 14:04:57__
-
-> Worthwhile and clever app<br> :date: __2021-06-27 01:21:52__
-
-> Great feeling to help with this vital research<br> :date: __2021-06-25 23:20:27__
-
-> Beautifully discrete. A pleasure to be part of the 'collective'.<br> :date: __2021-06-23 10:43:35__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Its working fine on my Android A71. Suggestions: Some way to send info/ad about it to friends. Also an autostart or at least a reminder to start whenever phone is plugged in or at a set-able time every day.<br> :date: __2021-07-10 22:43:47__
+
+> I've used this app for a long time now and was happy to do so but in the last month or so it randomly switches my selected contributions from cancer to Corona. It hadn't finished the phase it was working on, it just switches. I feel quite strongly about this so if it happens again it's getting uninstalled. Otherwise, the app and idea are 5 star. Vodafone and Dreamlab didn't reply to my concerns when I reached out via Twitter.<br> :date: __2021-07-08 13:40:21__
 
 > Positive<br> :date: __2021-06-25 23:48:05__
 
@@ -198,10 +202,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Sometimes, the news doesn't update unless I uninstall Dreamlab and then reinstall Dreamlab. After reinstalling Dreamlab, I see the news updated. I did it before but as of right now, the most recent Dreamlab app news was on 15 December 2020.<br> :date: __2021-05-14 07:53:33__
 
 > WARNING: You would have to literally drain your phone's battery down to 0 percent, if running DreamLab continuously for awhile makes the phone start going into the Usage-Optimisation ('Go Straight to Gaol') mode.<br> :date: __2021-05-10 06:48:02__
-
-> Nice to be able to make a difference<br> :date: __2021-04-19 21:42:48__
-
-> A great opportunity to contribute.<br> :date: __2021-04-19 00:09:11__
 
 
 
@@ -239,6 +239,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
+> This is a very good idea but is buggy and crashes all over. Please fix it<br> :date: __2021-07-05 20:40:59__
+
 > It's a shame that a lot of bothersome issues are still present after such a long time. Suggestions: 1. Better tracking of contributions, possibly user-based and with highscore lists (compare Folding) across multiple devices, which motivates additionally. 2. The app is still hardly usable on some devices. LG G8S gets so hot after a few seconds that most mornings show me not a single completed calculation. Just give us an opportunity to run the calculations at 50% of CPU power to avoid this.<br> :date: __2021-06-24 10:21:54__
 
 > I've been using this app for a while but recently it has been overheating my Nokia 5.3 too much to the point the battery is draining and I've woken up a few times to a phone that has turned itself off! This has now been uninstalled.<br> :date: __2021-06-08 04:34:42__
@@ -257,8 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > I was so excited to contribute to a worthy cause, but it makes my phone unusable when charging. It just needs to have some more settings.<br> :date: __2021-03-07 18:17:45__
 
-> App doesn't start up when plugged in, even on manual start, just keeps saying data will restart the following month, even though setting is for wifi.<br> :date: __2021-03-03 02:00:52__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> Revises to one star because the app is automatically changed twice the project I want to support. It chose Corona-AI (Phase 4) instead Cancer Research (Phase 2). Also no news in the news section for the last 6 months so for me app looks abandoned<br> :date: __2021-07-08 00:22:15__
+
+> Sadly it now jumps from project to project and no longer makes any calculations.<br> :date: __2021-07-06 19:19:36__
 
 > Revised down to one star. App constantly switches to Corona AI (Phase4) rather than the project I wanted to support (Cancer Phase 2). Have raised with DreamLab & Vodafone support. Additionally, Cancer Research (Phase 2) Project is now getting further from completion every day - now showing 18 days to completion. I've lost confidence in what was originally a great idea. 30/06/2021 - Cancer Research (Phase 2) is now showing 35 days until completion.<br> :date: __2021-06-30 06:27:53__
 
@@ -282,9 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Very annoying and intrussive, unwanted marketing headache for those of us who don't want to be looking dozens of times to the same undesired advertisement.<br> :date: __2021-04-12 23:22:33__
 
 > App need update. It is not working well. Users posted many good ideas. Unfortunately no reaction from devs<br> :date: __2021-04-11 18:03:08__
-
-> It causes my phone to dangerously overheat<br> :date: __2021-03-30 22:36:39__
-
-> Earlier it took about 7 minutes to complete a calc. But now even after 40 minutes 0 calculations are done. When I keave the phone for overnight calculations it only did 5 calculations in 8 hours. Is it the calculations are getting complex or there is something wrong with the app<br> :date: __2021-03-22 18:10:14__
 
 

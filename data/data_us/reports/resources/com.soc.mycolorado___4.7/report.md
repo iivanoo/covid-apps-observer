@@ -191,6 +191,16 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Easy and complete for all licenses.<br> :date: __2021-07-11 02:10:05__
+
+> Don't listen to the bad reviews! My experience with this app is amazing and it works perfectly. So nice to not need to carry around my ID. (plus I'm not 21 and don't smoke so haven't had any problems with it not being accepted)<br> :date: __2021-07-08 02:13:48__
+
+> I love it<br> :date: __2021-07-07 14:25:36__
+
+> Easy to set up<br> :date: __2021-07-06 05:24:13__
+
+> Very easy to use and convenient!<br> :date: __2021-07-06 02:50:44__
+
 > App is amazing but still needs work, went to edit ID for privacy reasons and blank out my address, after hitting save app crashes everytime I try to access my digital ID<br> :date: __2021-07-03 18:21:29__
 
 > Alot better than I would expect of a state app.<br> :date: __2021-06-29 02:08:00__
@@ -200,16 +210,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 > The help was amazing he called back when he said a he did everything to help me it was the best experience thank you 😊<br> :date: __2021-06-29 00:41:45__
 
 > Great app<br> :date: __2021-06-26 21:57:40__
-
-> This is super easy! Now I don't have to carry my driver license or any other license I purchase.<br> :date: __2021-06-26 03:14:17__
-
-> The fact it gives you a digital version of your actual drivers license its pretty handy if your happen to forget your actual license<br> :date: __2021-06-26 00:33:55__
-
-> Nice<br> :date: __2021-06-25 22:12:52__
-
-> Works as expected, can leave my license and other car documents at home and not risk loosing them.<br> :date: __2021-06-24 18:20:28__
-
-> perfect and is infinately useful.<br> :date: __2021-06-23 14:20:31__
 
 
 
@@ -247,9 +247,13 @@ The myColorado app has been installed by more than **50000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="com.soc.mycolorado 3 reviews"/>
 </p>
 
-> Trouble with updating new 21 I.D.<br> :date: __2021-07-01 13:13:21__
+> Not accepted everywhere yet ... CSP doesn't even & they're pay off CO govt.<br> :date: __2021-07-10 23:12:45__
 
-> It keeps asking for my location, but otherwise it's awesome and I'm so happy I can keep my driver's license on my phone!<br> :date: __2021-06-29 03:20:49__
+> Ok, but unable to verify my ID info. Whenever I click confirm, it just takes me to a blank screen.<br> :date: __2021-07-10 22:09:56__
+
+> I constantly have issues with the app recognizing my username and password. Resetting the password is quite a chore.<br> :date: __2021-07-06 04:24:49__
+
+> Trouble with updating new 21 I.D.<br> :date: __2021-07-01 13:13:21__
 
 > My only problem is why I have it is a lot of places don't consider it valid you know you can't use it to get your ID a lot of motels won't take it I couldn't even get little fireworks from King Soopers with it that's why I only complain about it and it's a legit Colorado government ID so I understand everything is going digital<br> :date: __2021-06-23 11:00:06__
 
@@ -263,10 +267,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > It won't let me access it or send me verification code, but thank you for at least responding to my issues here! I just thought it was never going to be addressed, I appreciate that!<br> :date: __2021-06-12 01:05:14__
 
-> Authentication does not work if cell phone service is not available. May make app useless.<br> :date: __2021-06-06 07:30:23__
-
-> It's cool works 50/50 some people take it some dont<br> :date: __2021-05-25 22:10:37__
-
 
 
 #### 2-star reviews
@@ -274,6 +274,10 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
+
+> No screenshot? Need easier share.<br> :date: __2021-07-08 23:05:02__
+
+> Waste of time. I've referred so many people to this app too. Then like a month ago useless. I can't open the insurance at all the app just closes. Stupid really. Why bother if I can't store everything in one place. UGH<br> :date: __2021-07-07 14:14:29__
 
 > Doesn't show any current hunting/fishing licenses or Parks passes regardless of if they were purchased one day ago or 6 months ago<br> :date: __2021-06-28 04:54:39__
 
@@ -291,10 +295,6 @@ The myColorado app has been installed by more than **50000** times. At this time
 
 > Doesn't work. Scans and then says I need a license which it scanned.<br> :date: __2021-06-12 15:44:47__
 
-> Seems like every update you have to re-register. Could be a decent, it's just not reliable. Maybe you could try to architect it so that you reuse the user data after each update??<br> :date: __2021-06-11 22:31:46__
-
-> Nine out of 10 times I'm unable to log in. On the few times I've been able to get to the authentication page afterwards I get an error message. I thought this app would be a game changer having everything in one place but I can't even get it to open<br> :date: __2021-06-10 22:22:06__
-
 
 
 #### 1-star reviews
@@ -302,6 +302,16 @@ The myColorado app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
+
+> After initial install app wants to verify identity before first use. I've tried on and off of wifi. It acts like something is loading for a few seconds and then ultimately nothing happens 🤷‍♂️ I like the idea, but it doesn't seem to be working.<br> :date: __2021-07-10 17:50:47__
+
+> Invasive and requires unnecessary permissions. Makes you scan your face for facial recognition database. Avoid it!<br> :date: __2021-07-08 21:53:01__
+
+> This app is not working anymore. It was working before the update now when I try to log in its saying my username and password can't be found. I even created a new account and its still saying the same. Tried to change password even tried to have an email sent with my username and nothing.<br> :date: __2021-07-08 03:00:12__
+
+> I could never even get my Colorado Id to upload and i tried with different phones my id scans fine everywhere else tjat tries to scan the same part idk no good at all for me to each his own however<br> :date: __2021-07-07 20:28:01__
+
+> Terrible. I can't get past the login screen and it's been like this for weeks.<br> :date: __2021-07-04 20:16:36__
 
 > Camera doesn't work for face match. LG v50. The oval is totally blacked out.<br> :date: __2021-07-03 01:37:47__
 
@@ -312,15 +322,5 @@ The myColorado app has been installed by more than **50000** times. At this time
 > I cannot use facial recognition to verify my digital ID on Android. I'm not sure why this isn't working but this needs to be fixed<br> :date: __2021-07-02 01:33:58__
 
 > Does not take your photo no matter what you do<br> :date: __2021-07-01 16:47:12__
-
-> Don't bother with this app. Facemapping does NOT WORK (and it isn't for your security, anyway: it's for facial-recognition databasing) - regardless whether you're on a T3 connection, have a top-tier phone and are standing in broad daylight. Less hassle and faster to actually go in person to whatever governmental office you're trying to get service from. Unusable and worthless.<br> :date: __2021-06-30 05:26:39__
-
-> Doesn't work, used to work fine. Now I can't log in nor will it send the text code to my phone to log in.<br> :date: __2021-06-30 01:12:48__
-
-> Just don't bother. Unfortunately no one reads reviews before installing an app. But this one is beyond useless. Installed it quite a while ago and created an account. Now it won't let me log in using my credentials stored with Google. And no email is ever sent to reset the password. This is the usual outcome when government agencies award the project to the lowest foreign bidder. I own a software development company and we are constantly fixing their problems. Uninstalling.<br> :date: __2021-06-26 19:20:16__
-
-> Not good<br> :date: __2021-06-24 09:52:28__
-
-> Waste of time and data<br> :date: __2021-06-24 00:19:09__
 
 

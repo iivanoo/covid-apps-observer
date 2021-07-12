@@ -178,6 +178,18 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Amazing crew and so easy to use. In this day and time it is nice to be able to handle the little things without venturing out and being exposed to more.<br> :date: __2021-07-10 18:40:04__
+
+> So comfortable and easy love this<br> :date: __2021-07-07 17:17:22__
+
+> First time and worked great<br> :date: __2021-07-07 07:32:04__
+
+> Love this . I get help without leaving my home<br> :date: __2021-07-07 02:45:42__
+
+> Fast and easy to use. I got connected really quickly and the doctor was really professional.<br> :date: __2021-07-05 19:13:39__
+
+> Need to see a doctor but you can't get to the doctors office, this is for you. It is a great app. Very easy to use and it works every time.<br> :date: __2021-07-05 05:37:56__
+
 > Great Dr's and Physician assistants! They're very attentive and listen to your concerns. I've had virtual Dr's appointments twice from my bedroom and did not have to get dressed while feeling ill. Great service! I will use it again!<br> :date: __2021-07-02 21:03:43__
 
 > Absolutely LOVE this app! It has been sooo easy to use and is super convenient. Definitely recommend.<br> :date: __2021-07-02 19:12:28__
@@ -186,18 +198,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 
 > The best option to handle those non emergency health issues.<br> :date: __2021-06-27 10:35:22__
 
-> My girlfriend had a UTI and had a call with a nurse named cherry Lee, she was amazing and would rate her 5 out of 5 stars for sure, the call took 5 minutes, and was so much easier than going to the emergency room.<br> :date: __2021-06-27 06:18:05__
-
-> Quick and convenient, great Doctors<br> :date: __2021-06-26 22:28:47__
-
-> Southwest medical uses this app. Easy to use and set up!!!<br> :date: __2021-06-26 22:06:26__
-
-> Great experience, professional and caring. Reception and picture was very clear.<br> :date: __2021-06-25 20:48:38__
-
-> Now Clinic has helped our family out in so many ways just by logging into this app. They make it so easy to speak to a specialist for your needs and you get immediate feedback and eassurance about your visit.<br> :date: __2021-06-24 17:36:14__
-
-> Very convienient<br> :date: __2021-06-22 20:42:22__
-
 
 
 #### 4-star reviews
@@ -205,6 +205,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 4 reviews"/>
 </p>
+
+> Cherry was very courteous & understanding about my sore throat and fever illness.<br> :date: __2021-07-10 13:46:18__
 
 > Everything was fine talking to my doctor until the end when the screen froze up a couple of times.<br> :date: __2021-06-15 16:57:53__
 
@@ -223,8 +225,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > easy to use app. for quick follow-up appointment with the Dr<br> :date: __2021-02-09 17:30:35__
 
 > Great service. Provider excellent. The only improvement I would suggest is to have a better idea of wait time or having app phone us when we are 5 minutes away from seeing doctor<br> :date: __2021-01-25 00:18:37__
-
-> Easy set up. So easy that I forget the password or where I put it but once I was in clear instructions and timely visit. Less than one hour overall.<br> :date: __2021-01-13 22:51:34__
 
 
 

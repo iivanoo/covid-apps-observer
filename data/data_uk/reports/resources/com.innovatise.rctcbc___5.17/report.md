@@ -259,6 +259,8 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 <img src="1_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 1 reviews"/>
 </p>
 
+> User interface and design of this app is one of the worst I've ever used<br> :date: __2021-07-09 21:09:07__
+
 > All in welsh and no option to become a member. Complete waste of time downloading<br> :date: __2021-06-18 20:44:02__
 
 > When trying to book a gym session on android phone can only book 1 day in advance getting no opportunity to train where as ios users can book 7 days ahead<br> :date: __2021-05-13 21:40:45__
@@ -276,7 +278,5 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 > Terrible just terrible only gives Welsh language with no option to switch no clear signpost to register as a new member. Eventually get to the end of the process and it's corrupted and throws you all the way out Rubbish. Waste of time<br> :date: __2020-09-24 18:33:43__
 
 > Just awful<br> :date: __2020-09-02 09:42:44__
-
-> Worked fine until yesterday's update. Now I cant book classes. Can you sort it asap<br> :date: __2020-08-17 20:51:35__
 
 

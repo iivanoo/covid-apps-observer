@@ -238,6 +238,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Waste of space.<br> :date: __2021-07-08 03:22:29__
+
+> Covid isn't real<br> :date: __2021-07-06 08:02:32__
+
 > It was just a drain on my battery<br> :date: __2021-07-02 20:39:15__
 
 > Stops working. I install it and it works for a period of time then stops. This is the 3rd time I installed it. Today I checked it and said last checked June 3, today is June 25<br> :date: __2021-06-23 15:42:42__
@@ -253,9 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > You have to be insane to give health information to the state. Edit, it's not the app I'm concerned about. It's lying bureaucrats who would use this info for political ends.<br> :date: __2021-06-06 15:04:54__
 
 > First of all the design and structure of your app is of extremely poor integration with user functionality. That's just the tip of the iceberg though. There is a lot of misinformation in this app and there's no other way to say it. What is being used here is a theory with no proven scientific fact or foundation other than slight amounts here and there that don't prove anything specific, but appear to be what is used to give support to this misinformation as some how being valid. Bad app!<br> :date: __2021-06-01 18:42:54__
-
-> Compromised by hacker<br> :date: __2021-05-31 08:57:09__
-
-> App never does anything when i turm off bluetooth it says "turn on bluetooth to recieve exposure notifications" Just having the bluetooth feature ON absolutley DRAINS my battery. Fix you r godamn app your moron.<br> :date: __2021-05-28 17:06:36__
 
 

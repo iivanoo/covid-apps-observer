@@ -1,49 +1,361 @@
 [
     {
-        "reviewId": "gp:AOqpTOGkMlW_TApwRkDyIUKGcxr1TDy6rNhhqclk9z1ndnBWTOJaJ5O_vyxZ6nEMHmIWLYY-HpnS1LqC7SCAzA",
-        "userName": "Falk Warning",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyfRMh9kIHayFjDpQGzKmosMgZrN36494V_i3GA=mo",
-        "content": "Funktioniert nicht bei Meldungen, keine Benachrichtigung, kein Klingelton, samsung galaxy s21plus",
+        "reviewId": "gp:AOqpTOEqZhABvILJUuBes_eUKGEfCwAMkJSSaUl70znPgUI3c--UEWOqgZnObVyztO9YwNDqedPvyTo7FeFEvA",
+        "userName": "Iris Bachmeier",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgC8jB-10oqgPo6V10oB8_H6d0ZDj7Yz1iincXl",
+        "content": "Ich habe seit dem Update ebenfalls das Problem, dass sich der Link zur eigentlichen Warnung nicht mehr \u00f6ffnen l\u00e4sst.",
         "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.3",
+        "at": "2021-07-11 10:59:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHrKcrZR3BQRfi9l5Ik_Nppxw4EaeuCu9JBterKeI2CcQ9HardMcKhOO_C5x53kkOkdCjuyqaQMDXw-nA",
+        "userName": "Eva.w.16",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgBotHFvVBa6WD9-GJNhBCrbHprD3CLFp0cCvzAQg",
+        "content": "Nicht so gut",
+        "score": 2,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
-        "at": "2021-07-04 15:59:29",
+        "at": "2021-07-11 09:49:12",
         "replyContent": null,
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFm0gxczwGvEV9Ozp2AHXYJ39WJOAz3celwy9OENqsar6SU0mdBqTa0uLE4LHBb5E2p9nZdPE70-Lo06A",
-        "userName": "Ralf Thiel",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwx38hkhlj7tXV00krxCygWJLcEALvuMRxavmwz=mo",
-        "content": "Keine Meldung von Warnungen.",
+        "reviewId": "gp:AOqpTOEJV8otTUHObC0yzJ1LqxzRLrOCk9scXyViuPi13Z0VElj_59gsw5jiFEo81OUrruVxkU0M9L2KviRkZg",
+        "userName": "Harry Hacker",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzCIHZh4bWhw3NAGUJLdmGP4fW-NXl3ymoJ2ygS=mo",
+        "content": "Sehr gute und n\u00fctzliche APP",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-10 18:21:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGWxvIjXy3qw9NPopWLNaCir-XQ-1tfxQ9LDGDCPJQdeUVW8TOwpDiQAFtjXMxBtUh5ROFNxrKNCuj1Dw",
+        "userName": "Eisb\u00e4r Knut",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giw-O6LqNF8Hf63i1YhPpbQRHHhS8AXSRwKy-MO2w",
+        "content": "Immer aktuell",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-10 09:35:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEnUgipBfGJN_EvLJz6G84JFgYtD504Hfab14wuIAVgBLqe4kBP_0ojFQMQtDmrqJrX8L0uL3xFf3PRZQ",
+        "userName": "Anni Dave",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyA7IDt_NsNjomdkK6LYUG7dhT1Dq1SXmyRWK1R=mo",
+        "content": "Warnt vor gar nix V\u00f6llig unbrauchbar",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-07-04 15:53:39",
+        "at": "2021-07-09 20:39:05",
         "replyContent": null,
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFL-8JHyUWAEThC97dolHlxXMk_MVDjJ3ZWzDiCm_tI7ZoUEEEYnNV4dm4NxOesZjs4PWqVLvM-ZrhOoQ",
-        "userName": "Lena M.",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyUvbPfbwamZAtu_qGJ_8XYlBn3Hkjm7-8oQbxX=mo",
-        "content": "Eigentlich keine schlechte idee, nur leidet wurde die App nach und nach zu einem schlechten Wetterdienst ausgebaut. Glaubw\u00fcrdigkeit ist schon l\u00e4ngst verfallen. 20 mal am Tag gibts \"warnungen\" vor \"schweren Unwettern\" und dann donnert es am ende 2 mal. \u00dcberlasst die Wettervorhersagen doch bitte Leuten, die das k\u00f6nnen und konzipiert die App wieder wof\u00fcr sie da ist.. Notf\u00e4lle. Aber getreu nach der Geschichte mit dem Kind und den W\u00f6lfen, w\u00fcrde ich mittlerweile gar keinen Notfall mehr mitkriegen",
+        "reviewId": "gp:AOqpTOGh4s9hsyDfCfXZg6lg2jGkBuYplSk4y0BI9dT93CtwtDw2tL1hAWyTX6aOJ-V-TTmHdelhqY2mKAuuvA",
+        "userName": "Marlene Sallads",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxfcgQ-h1JHp4QkRBVUdFQr-xcTOVOaydIN3Uxa=mo",
+        "content": "Seit Monaten werden probealarme nicht mehr mitgeteilt",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-09 18:38:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFhAzm1gSRcllbDatr9HNVwGqX_xvV4THo2pFIZ1Lol3khTPzF_yDN9dOw8Ci5vOmgSW7RfkQj69UP8Dg",
+        "userName": "OLIVER JESKE",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFaoXWzfIDi-y-EMQlFqyoUsX6_ajVEx0g1Hq9=mo",
+        "content": "Leider viele Fehlalarme. Vor Allem in Bezug auf Unwetter.",
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-07-04 15:51:38",
+        "at": "2021-07-09 18:01:55",
         "replyContent": null,
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFg6BPzAllm7n83iNcGBjMXE7f1ZrmxTuYu0aGyRJo4uGsxgw0zDYmuwZ-DQUjrbArOeB1_wtHhDnifuw",
-        "userName": "Tobias Rupp",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzFCInodIPOq2MJ7TMzp6wL3cZZCA3KSF6V8_mf=mo",
-        "content": "Beim heutigen Probealarm kam keine Warnung, obwohl alle Berechtigungen eingestellt waren. Funktioniert die App \u00fcberhaupt?",
+        "reviewId": "gp:AOqpTOED849rVfFYlVqmqiHuj0iJxwyXTAY2paElctb1adpQf75vmykavOGOfcil_R-k3iBNPFknpi0-Gmg0kQ",
+        "userName": "Petra Benkert",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxDeQoZ7g8l0fsrOLtf-ZdYTRAWooa1JU8bOW9t=mo",
+        "content": "Seit dem letzten Update funktioniert die App nicht mehr richtig. Sie teilt zwar eine Warnung mit, kann sie aber nicht mehr anzeigen.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.3.3",
+        "at": "2021-07-09 16:43:11",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHi89sztWqC8R0jx9BDq9kCAdg4FYD9IAtOMQZ4zoME4AvbqlxmIpJJfxOU5xxJcOOzcLnmWUKWq0jxxw",
+        "userName": "Zockverbot",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj35_mBDXaprxu04ec9xfHBXbq3hOi1conoQsj9Xg",
+        "content": "Warnungen kommen viel zu sp\u00e4t! Unwetterwarnungen Nachdem das unwetter bereits durchgezogen ist. Und und und. F\u00fcr mich ist die App ziemlich sinnfrei.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-09 14:00:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH4KI2WvuBX7h0apOrht061_8dHRwj92HZec9FTG1U7W9sAFTuvVLylTX7EjIRHptNDIOnWszgpp7zpcA",
+        "userName": "Gabriele Dryden",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyypHlpMWW7zdHOdBwO5sO0L0czNK1GrR0dgsAW=mo",
+        "content": "Irgendwie werden die Stufen falsch angezeigt. Lauter Verordnung andere Stufen der Inzidenzwerte.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-09 10:14:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHkoWh8ASPOjgyT_QaZVpB9NUYiinVHZ4mLcLnrWCyKsoDgWEmjJ_uf2apT1kvWlZNAgV4_xp7UjTPuIg",
+        "userName": "Bine",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg_ZPhCe_ZJZROWlN0Io-tLnl7Blwe2oG8j8zGFRw",
+        "content": "Also die Wetterwarnungen sind gut und treffen meistens zu. Bei den Corona Informationen muss aber nochmal nachgebessert werden. Die letzte Aktualisierung ist von Mitte Juni. Mir wird immer noch Infektionsstufe 2 angezeigt. Die Regeln sind andere. Also wenn man es anbietet sollte es auf dem laufenden gehalten werden.",
         "score": 4,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-07-04 14:31:21",
+        "at": "2021-07-08 20:18:50",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHrceT-dVS133oCQiIJRDjKn4WNhPfm9rsZqbwWsi786velHPJfzAfwQ6-k2xAUNzJXrLQce_3NCulo0g",
+        "userName": "Oliver Geist",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-Ck1OAUk8o1sK-sgywz-V5-0EnHDl9WTrrjwb1w",
+        "content": "Leider muss ich jetzt vor\u00fcbergehend erst einmal 2 meiner 5 Sterne der Bewertung abziehen. In der letzten Zeit kommen so viele identische Warnmeldungen zum Wetter rein, dass man die App mittlerweile grunds\u00e4tzlich ignoriert. Bspw. macht es keinen Sinn, dass wenn der aktuelle Ort auch ein gespeicherter Ort unter Beobachtung ist, jede Meldung doppelt per Push ausgegeben wird.",
+        "score": 3,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-08 18:26:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEXwMQ3EO_ll_1fhwt1R1tSDOa4IvRzhQ3q8rgSqtVJFMWVG0i5RDf7GZQ3FMFpMm5g6to2GeXvl-KMcA",
+        "userName": "Wormax DerB\u00f6seWolf",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkEtXeir8iC0NtN84YvITE3HXqF8mQmHdNqpd6",
+        "content": "Wieviel Unwetterwarnungen wollt ihr denn noch bei leichtem Regen rausgeben ? 3 in einer Stunde reicht doch. Ihr nervt.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-08 18:11:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEOdxcvIvt8QTaqMrjT-hrkcDaOkzEb9qt06_MnN8aso6w6I5YQDlAyycQlRLhMJUc6469xCgNP-zLz_Q",
+        "userName": "Petra Neubert",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5yqiHtIi2dMUvyBFr8D5sUNfAk4Dvtxovml8pgA",
+        "content": "Funktioniert seid 3 Tagen nicht mehr richtig Warnung kommt an aber mein Gebiet wenn ich anklicken will zeigt er fehler",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-08 17:17:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGwh2sCxjhMOFF8W3X7DuB37uckQdFYwtc-at02qRaMi3HdF2sS1fluFzClhCgcfPwvTGnRkNEzDqv8Lw",
+        "userName": "Ralf R",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxfW4YQaAw_gc3zevTCzVTxw27IvMycTJMWAP8O=mo",
+        "content": "Ich benutze NINA seit der ersten Stunde. Bin zufrieden und macht was sie soll. Benutze NINA f\u00fcr meinen Dienst in der Feuerwehr und im Katastrophenschutz. F\u00fcr die Leute die alles schlecht reden und machen : Das Wetter macht was es will. BBK in Bonn macht die Warungen nicht, sondern bekommt sie von den Beh\u00f6rden von den Bundesl\u00e4nder , Kreisverwaltung , DWD , etc. Wenn NINA nicht klingeln , Bedienerfehl , Smartphone richtig einstellen. Die Sirene als Warnton muss man sich kostenlos herunterladen.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-08 17:04:39",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFpn1gq-TeGn5q0bcJNBezaZJsxP57F7KooDCwwkI7Zcn59QRZMZR93y4Da0CPwMQTVx1HnNB1MA9c11Q",
+        "userName": "Dieter Riebe",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxsf3XAAxqIG0pdLWkc0kqWyQGgp5i6QzdxquJT=mo",
+        "content": "Zu wenig warnungen",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-08 11:37:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHvYOMfhcvHddpiSi6kpVoSFbvbIv_EqDYn6qcs3Q2OF7wSMTD_2KnSBay5OwFfJ0oL4QhqBqdHsi6JWA",
+        "userName": "Gabriele Winkelmann",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXBQTMezBgjvxkJYTjZhkBorkRHotvIV-dONrf=mo",
+        "content": "Bis vor zwei Wochen war ich super zufrieden. Nun stelle ich fest, dass sich die App im Wlan nicht mehr aktualisiert. Ich muss erst in die mobilen Daten wechseln, dann bekomme ich z.B. die aus der Benachrichtigung angek\u00fcndigte Warnung angezeigt. Hab die App schon bereingt, also Cache und Daten gel\u00f6scht, aber keine Ver\u00e4nderung. Schade!",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-08 10:33:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHMNzyOeMIOpT1MEXEW-E587xyulrBi5NbKdvn3wPN7RWH1fPZXoFh9loClDfqDU7f-_eFAJ9zfnLdsjg",
+        "userName": "Dom Toretto",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNqs4Cb-5or2F_sHACitvYL6zt3aovtZK-Y53RIQ",
+        "content": "Der eigentliche Warnton geht auf dem S9 nicht",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-08 10:11:09",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEkbEn182hmJ2Rc9vCsjk9wARONIh2sfmqdR6KG8PkemMYnYCfwQ4KOYDDOniuDQaPS128jMR_UIClRfQ",
+        "userName": "Corinna Laschkowski",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GghUWaOUPVioDMryDSNc_LT8b7tb3_JxJiHzIUtnQ",
+        "content": "Ich habe seit Monaten keine Alarmmeldung bekommen, nicht mal wegen dem Wetter! Die letzte Meldung kam am 14.10.2020, obwohl ich im Januar aktualisiert habe. Gut gemeint, schlecht gemacht! Unn\u00fctze App",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-07 19:39:00",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEMQRAWgw4fmqc2jIh6UHBweQIcgjcm078cx9SErxzg2EU7Umd2bAFs-_km_hWmZGjVqgOtHm4ANWty1Q",
+        "userName": "Dirk von Buchwald",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjkfBkolxTVa2466ib0O_6B1pklhxQofLsS-y0d4g",
+        "content": "Eigentlich ganz nett. Aber da man die sicherlich allgemein bekannte Corona-Ma\u00dfnahmen-Situation nicht ausblenden kann gehen wichtige (hei\u00dft neue, aktuelle) Situationen unter. Damit aktuell unbrauchbar. Wenn Corona interessiert nutzt man auch die Corona-Apps, das hat in dieser App nichts zu suchen.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-07 15:53:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEmwgJVNIZd0K05R2u8L88YYybnOYUEjhcIQrtACoXyZUjVAlSFu5u6MRD_lLxPASBYdTpJ8pu9CaVndA",
+        "userName": "Rudolf Kyvala",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0Sd612qCxjxGgUIZFHQoRQ4Ex9EDNm-RlkHP5=mo",
+        "content": "Super ap",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-07 13:59:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEFritSj7mf6hSGPqv9qcWt2PJeN5P17yyIp2UmDNR3WduVlDqxQF8cu3XEFpq_rH3e7VfZJzyFb7ejcA",
+        "userName": "Klaus Neumann",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxpzH0oPYnEcEQXyQc48S4exZy9ongdj3_VZY0U=mo",
+        "content": "Sehr gut",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-06 13:56:03",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE_0-mlVsGgf-2C31ugEFUe872LQrgFS3X6PhgIIA5_oJuO32Cm-2QCTWOFt087gbFW3pCF25_EjNA3kA",
+        "userName": "Manfred M\u00e4rtens",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy4YV9wIF_VwXYxS4V9ltjWGEsta4ArREyVuXpb=mo",
+        "content": "Sehr gute Idee, Ausf\u00fchrung auch ganz gut, aber die Aktualisierung der Gefahrinformationen erfolgt tr\u00f6delig oder \u00fcberhaupt nicht! Beispiel: Corona-Infos vom Oktober letzten Jahres werden immer noch angezeigt! Da guckt doch keiner mehr hin! Manfred M\u00e4rtens",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-06 13:35:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGxUAYXD_myxloEcc0VXb3EC423QusXUTF-eUlMAtgaHOWTS_wZUhfs7Tipoo4HWbgHKCg6ylkDd3mFGg",
+        "userName": "M. Geb.",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwil27RJbFRc-brSnutooolt5_wYTjvooslzPN7=mo",
+        "content": "Seitenweise komische Corona Texte, f\u00fcr solchen Quatsch habe ich diese App nicht auf dem Handy. Bitte bereinigt diese App von diesen Virus Informationen im Auftrag der Regierung und Pharmaindustrie. Hier in Rudolstadt ging eben die Sirene 6x und dazu gibt es keine Information in der App? Sinnlos! Sirene 6x hei\u00dft Warnung der Bev\u00f6lkerung vor einer Katastrophe. Sinnlos denn es war nix los!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-05 23:28:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFcU4Rk8PNbFivJKXjsBj8wHUaAOM_k60eNQQ7XWnMMWcWS2K2s9lEtJzdqSUZrxRKCFAy8X-G2y_JnXw",
+        "userName": "Tom Schnurr",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx5fOHbrNeG4cDm3MiOanUyB4PfahzL0N-WE6hG=mo",
+        "content": "Bei Verwendung des aktuellen Standortes tritt immer wieder ein Standortfehler auf. \"Die Ortungsfunktionen sind nicht korrekt eingestellt!\" Weitere Informationen zu diesem Fehler erh\u00e4lt man nicht.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-05 15:57:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFwyApF-gdcCgYMp2nM7GEqfgLflHs3urHAkTy_ll0G0dTItMN3126eNx5HWJygvhIvO50PAcDWftDJQg",
+        "userName": "Dietmar Lansen",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFawFdkoGG-c0hn_lEXLBmo7JSF7rxdFqUTkmA",
+        "content": "Bei Verwendung des aktuellen Standortes tritt immer wieder ein Standortefehler auf. \"Die Ortungsfunktionen sind nicht korrekt eingestellt!\" Weitere Informationen zu diesem Fehler erh\u00e4lt man nicht.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-05 15:55:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFZF_x1qzTc9m_vbHWDn68nAptn-rD3q0dWh9_kzbBdkC1ieKEsqfvKsvEi3u-UepPGv_nBzxOHw85WkQ",
+        "userName": "Lars Albrecht",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxvr5TYUcdn7eGhmQKQnW29vbng65sTeCc3f5-m=mo",
+        "content": "Keine Push-Warnungen, veraltete Corona-Regeln, also unbrauchbar. Galaxy A70, Android 11, Standort immer aktiviert",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-05 14:37:58",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:14:24"
+    },
+    {
+        "reviewId": "gp:AOqpTOGkMlW_TApwRkDyIUKGcxr1TDy6rNhhqclk9z1ndnBWTOJaJ5O_vyxZ6nEMHmIWLYY-HpnS1LqC7SCAzA",
+        "userName": "Falk Warning",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyfRMh9kIHayFjDpQGzKmosMgZrN36494V_i3GA=mo",
+        "content": "Funktioniert nicht bei Meldungen, keine Benachrichtigung, kein Klingelton, samsung galaxy s21plus,Android11,mobile Daten ist on,trotzdem keine Benachrichtigung bei meinen Einstellungen zur gefahrenlage, wetter,corona,usw.habe den Sirenenton download gemacht und funktioniert auch nicht.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-05 05:01:31",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:16:55"
+    },
+    {
+        "reviewId": "gp:AOqpTOGeV7G34ctiYPEELA8es3oT7Yv6FuaMklPEiYsOaOVRAm6XWHWU6v8lMoAdEMrlJXJCKycUq_dnnKiBpw",
+        "userName": "Adelgunde Wimmers",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjlEBy4dz1Cl-furntH64QipjA5DZHtnexD4LLRJ28",
+        "content": "Immer Top aktuell",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 23:46:17",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGNSuRJ_sQyMh_x9lzE5BR9kHfd17-Ws19qA_RonQ6mY3SFIB6hKlKXH11t9aWruvTUjtOA74tJECAlMw",
+        "userName": "juergen krueger",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhpwm8WLKIIc5j8RrgOANwsJZL4XlroCkED-P2=mo",
+        "content": "Bekomme Unwetterwarnung aber da steht nichts von. Nur corona ohne Ende. Und l\u00f6schen kann man die alten Meldungen nicht.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 22:00:09",
         "replyContent": null,
         "repliedAt": null
     },
@@ -55,9 +367,93 @@
         "score": 1,
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-07-04 14:24:57",
-        "replyContent": null,
-        "repliedAt": null
+        "at": "2021-07-04 21:47:28",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:14:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOFS9zcVc49s6BbUggwD4eDugUx-TaEBP1fiL3YngvztaFrGdPkPRYBq7PNq4lpx5b3ntVNAmvBLVZU1Fg",
+        "userName": "dejanmilo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6juI8Pr2j1Nnz2DnrL85mQqR_87Qwxj93QP3DXq0",
+        "content": "Meldet nichts mehr im Gegensatz zu Katwarn. Smartphone: Huawei Mate 20 pro Android Version 11",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.0.3",
+        "at": "2021-07-04 21:41:02",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 20:59:19"
+    },
+    {
+        "reviewId": "gp:AOqpTOFM3IcMQGglMXQuj3_nvLKuV7NPyygxCTrcsJOr-O2dKWzlWV6j2hG_n08fgtBtViFf2ApbovpyElgBfg",
+        "userName": "Kathi B.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6IeUedR-XlEqv_bmTv9ib14insOR9bJGxePajSg",
+        "content": "Die App Benachrichtigt mich nicht bei Unwettern oder anderen wichtigen Sachen f\u00fcr die sie ja da ist. App mehrfach neu installiert, Handy Berechtigungen sind alle gegeben und mehrfach gepr\u00fcft selbst in der App die Benachrichtigungen sind eingestellt aber kein Ton. Ich hab diese App damit sie mich benachrichtigt wenn was ist nicht das ich selbst pr\u00fcfen muss ob es was neues gibt. Wird deinstalliert und eine andere gesucht. So macht es keinen Sinn.Ich besitze ein Huawei Pro 20,reagiert sie auch nich",
+        "score": 1,
+        "thumbsUpCount": 13,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 21:20:39",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:12:13"
+    },
+    {
+        "reviewId": "gp:AOqpTOHyQZU7-5ufCeHcbvCUu1hsL9E2vUHM4Jx4MJGFtFePeqI5wC_dwYJN4eMshigUc5VJcC_SNPGaNZDslQ",
+        "userName": "Ein Google-Nutzer",
+        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+        "content": "Die Wetterwarnungen funktionieren seit dem Update nicht mehr. Nur noch Push Benachrichtigung dazu. Und nein, es liegt nicht an der schnellen Entwarnung. Mittlerweile funktioniert es wieder. Ich verwende ein OnePlus N10, Android 10.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 21:18:34",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:05:43"
+    },
+    {
+        "reviewId": "gp:AOqpTOHH7KtJH-HPu7-frAabY-00ULbRz3t2FUmjQ0u3lJgCyKH2AOextKfPRhvM-TweqqorU54iOi9AeduGWQ",
+        "userName": "Christian S.",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOPGL1UA9xgDnilloEaMDlqNNXHQ5ObWE8ARQBbw",
+        "content": "Eigentlich super App, aber ich erhalte keine Benachrichtigungen, was in Anbetracht des Sinnes der App sehr schwierig ist. Android Version: 11 und Handy: Samsung Galaxy A70",
+        "score": 1,
+        "thumbsUpCount": 68,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 21:10:21",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App bei der Nutzung von mobilen Daten? Erhalten Sie hier Warnungen? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:01:25"
+    },
+    {
+        "reviewId": "gp:AOqpTOFkbPXH083QLPPt_9UPnmnrkC3iIDt0wc-M_DT3EP5vl3KCw2Dx8CZoRCdhnEZzW9jqg8kpJX4t4k1l-g",
+        "userName": "sen dilo",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyA3GeCt6mCAuse2NJ7PuHdc_eECdhsbvm-rtEg=mo",
+        "content": "Nicht konfigurierbar!",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 18:01:08",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:17:00"
+    },
+    {
+        "reviewId": "gp:AOqpTOFm0gxczwGvEV9Ozp2AHXYJ39WJOAz3celwy9OENqsar6SU0mdBqTa0uLE4LHBb5E2p9nZdPE70-Lo06A",
+        "userName": "Ralf Thiel",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwx38hkhlj7tXV00krxCygWJLcEALvuMRxavmwz=mo",
+        "content": "Keine Meldung von Warnungen.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 15:53:39",
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:16:51"
+    },
+    {
+        "reviewId": "gp:AOqpTOFL-8JHyUWAEThC97dolHlxXMk_MVDjJ3ZWzDiCm_tI7ZoUEEEYnNV4dm4NxOesZjs4PWqVLvM-ZrhOoQ",
+        "userName": "Lena M.",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyUvbPfbwamZAtu_qGJ_8XYlBn3Hkjm7-8oQbxX=mo",
+        "content": "Eigentlich keine schlechte idee, nur leidet wurde die App nach und nach zu einem schlechten Wetterdienst ausgebaut. Glaubw\u00fcrdigkeit ist schon l\u00e4ngst verfallen. 20 mal am Tag gibts \"warnungen\" vor \"schweren Unwettern\" und dann donnert es am ende 2 mal. \u00dcberlasst die Wettervorhersagen doch bitte Leuten, die das k\u00f6nnen und konzipiert die App wieder wof\u00fcr sie da ist.. Notf\u00e4lle. Aber getreu nach der Geschichte mit dem Kind und den W\u00f6lfen, w\u00fcrde ich mittlerweile gar keinen Notfall mehr mitkriegen",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.3.2.3001",
+        "at": "2021-07-04 15:51:38",
+        "replyContent": "Hallo, zurzeit warnen wir noch auf Kreisebene. Der DWD warnt auf Gemeindeebene. Daher erhalten Sie Warnungen f\u00fcr Ihren Kreis, obwohl nur eine Gemeinde von der Warnung betroffen ist. Hier wird es demn\u00e4chst eine Verbesserung geben und wir werden die Warnungen kleinr\u00e4umiger herausgeben. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:16:26"
     },
     {
         "reviewId": "gp:AOqpTOGu2zxB5GlV4boEyPBRx904Ca-vbvUp--uS1WJ0z4WOZI0O5jSZZC0syT4S_UcTuiT_xs9PfMhWGaO7Ew",
@@ -65,7 +461,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzqFQSJbbtF1NopU2MRbboTuH0a-IYXYeuPe5Vt=mo",
         "content": "Zwei Punkte st\u00f6ren mich sehr an der App: 1. Ganz Deutschland hat nun bereits seit mehr als einem Jahr und 3 Monaten eine Warnung bzgl. Corona laufen. Das betrifft auch die Kartendarstellung. Um die App korrekt nutzen zu k\u00f6nnen, muss man die bekannten Coronahinweise, auch in der Karte, deaktivieren k\u00f6nnen. Dies \u00fcberschattet sonst jede andere Gefahr. Gerne k\u00f6nnen neue C.-Meldungen dann wieder auftauchen. 2. Ich bekomme keine Warnungen bzgl. markanten Wetters/Unwetters zugestellt. Mit WO geht es.",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-07-03 23:43:31",
         "replyContent": null,
@@ -84,18 +480,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFZF_x1qzTc9m_vbHWDn68nAptn-rD3q0dWh9_kzbBdkC1ieKEsqfvKsvEi3u-UepPGv_nBzxOHw85WkQ",
-        "userName": "Lars Albrecht",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxvr5TYUcdn7eGhmQKQnW29vbng65sTeCc3f5-m=mo",
-        "content": "Keine Push-Warnungen, veraltete Corona-Regeln, also unbrauchbar",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-07-03 15:10:26",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOG-guinXL-nHXaEQtroI3O6w2L8Icbn3uV9sJwPbpgWPSvsqqrViv5HQLJUHnjKbCneA-ZkQmQ7GdbWIQ",
         "userName": "Levana Bochum",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhsMc2osFhijRmsrRfXsnb5ezo8TYU39HA0tpvJ",
@@ -104,8 +488,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-07-03 09:03:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:14:15"
     },
     {
         "reviewId": "gp:AOqpTOHMIzcYKVVdWg9nguH1zMWIkXdDVWENTr5_mGQpYAbTaiaREz1tA9h2S3BHOK7gkSXl1-_h9pSZSVej-A",
@@ -128,8 +512,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-07-02 16:34:34",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:13:59"
     },
     {
         "reviewId": "gp:AOqpTOEfQDfmiWxsLFUnJBBdGLGa9CK2YJGOFOZwCUcwpMxTZrOvBSWKZrUg7psUPNCoKcs7l4JB1NvnGqbawg",
@@ -140,8 +524,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-07-02 13:03:16",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, hierzu gibt es demn\u00e4chst ein Update, der Fehler wird dann behoben. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:13:31"
     },
     {
         "reviewId": "gp:AOqpTOEPbKkH4oOlWwyU1XUECpSjBu7iggDB8JHdRz4t5Nr-Po3Rag3aPDdmGh2msH2nQpDgFXTP5WQ2BjYenQ",
@@ -152,8 +536,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-01 16:48:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, zurzeit warnen wir noch auf Kreisebene. Der DWD warnt auf Gemeindeebene. Daher erhalten Sie Warnungen f\u00fcr Ihren Kreis, obwohl nur eine Gemeinde von der Warnung betroffen ist. Hier wird es demn\u00e4chst eine Verbesserung geben und wir werden die Warnungen kleinr\u00e4umiger herausgeben. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:12:51"
     },
     {
         "reviewId": "gp:AOqpTOEloS4V9XlJ_p9ACRsf4e9w8HY955Jrdy3EhXUnjhp8mAxayl1fY9Sqzj1poZlRREnWazZzJr77CVtd9Q",
@@ -180,18 +564,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOFM3IcMQGglMXQuj3_nvLKuV7NPyygxCTrcsJOr-O2dKWzlWV6j2hG_n08fgtBtViFf2ApbovpyElgBfg",
-        "userName": "Kathi B.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6IeUedR-XlEqv_bmTv9ib14insOR9bJGxePajSg",
-        "content": "Die App Benachrichtigt mich nicht bei Unwettern oder anderen wichtigen Sachen f\u00fcr die sie ja da ist. App mehrfach neu installiert, Handy Berechtigungen sind alle gegeben und mehrfach gepr\u00fcft selbst in der App die Benachrichtigungen sind eingestellt aber kein Ton. Ich hab diese App damit sie mich benachrichtigt wenn was ist nicht das ich selbst pr\u00fcfen muss ob es was neues gibt. Wird deinstalliert und eine andere gesucht. So macht es keinen Sinn.",
-        "score": 1,
-        "thumbsUpCount": 10,
-        "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-07-01 13:04:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOEGIlqO7k5F9B2GLbelXGWqwSWm6Stcmkf16woFwKx2HusvTOoeYPRJiJgidyPdfmMOODNdrZFHQjcLiw",
         "userName": "Udo S",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyoJjp3IPZJs3sfesC8ovhZOb9NwuDklb2oclDp=mo",
@@ -212,8 +584,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-01 06:45:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, hierzu gibt es demn\u00e4chst ein Update. Vielleicht warten Sie mit dem L\u00f6schen der App und warten das Update ab. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:11:56"
     },
     {
         "reviewId": "gp:AOqpTOF2b6Jw3zBnFRaFKMktT9HA5tiSg5eIKTNY5j7GMTLTxxRsRUbefuM7EkK367wegn5TvmNHGvMDGH9l7w",
@@ -224,8 +596,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-30 23:30:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:11:15"
     },
     {
         "reviewId": "gp:AOqpTOEYkX2oK8v7IRs_FGjNXh3xPUXQj9I3SNruHwQ0a6ay0P6AoUEjluwxlQLykVl6g14bCzFux-Lutt4v0w",
@@ -236,8 +608,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-30 21:25:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:11:10"
     },
     {
         "reviewId": "gp:AOqpTOHn7sHHJNoE83msy645VO5NvsKXI1snfhMRaqqsNdpqp6npcflj6tmCJwd9BNDx8Y-VPtOlzTy8QnH2Ig",
@@ -260,8 +632,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-30 17:12:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, zurzeit warnen wir noch auf Kreisebene. Der DWD warnt auf Gemeindeebene. Daher erhalten Sie Warnungen f\u00fcr Ihren Kreis, obwohl nur eine Gemeinde von der Warnung betroffen ist. Hier wird es demn\u00e4chst eine Verbesserung geben und wir werden die Warnungen kleinr\u00e4umiger herausgeben. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:11:01"
     },
     {
         "reviewId": "gp:AOqpTOFrHKOiJC7jSR4lywDiSFtsQTlbgGcynJRZ-iXZtpfrzRdf9LuK1AqcjIVnOsU-UnzZiaCIPmDnpnZp_Q",
@@ -272,8 +644,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-30 16:17:20",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welche Warnungen meinen Sie? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:09:31"
     },
     {
         "reviewId": "gp:AOqpTOG2khsF-r41XdZ2giXkDLHHNhWtRknCOPI3AoBpwtAioU-23i6pvZtkWzwAUJQ2P1OflvSV39AjGRBQRg",
@@ -284,8 +656,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-30 14:02:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, was genau funktioniert nicht? Erhalten Sie keine Warnungen oder k\u00f6nnen Sie sich keine Warnungen anzeigen lassen? Welches Smartphone und welche Android-Version nutzen Sie? MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:08:54"
     },
     {
         "reviewId": "gp:AOqpTOHQzk-w6mCY_S36dVmViXarW53s3FzrujrBXZgijJ76cIkS3HU1VaLwlF_ghXAhtol4aDGKGi87-fhXkg",
@@ -296,8 +668,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-30 11:45:56",
-        "replyContent": "Hallo Frau Sonnenschein, beim landesweiten Probealarm NRW haben nicht alle Leitstellen ausgel\u00f6st. Welche Orte haben Sie abonniert? Wir w\u00fcrden hier pr\u00fcfen, ob die jeweilige Stelle ausgel\u00f6st hat und w\u00fcrde mich dann wieder bei Ihnen melden. Bei gruns\u00e4tzlichen Problemen wenden Sie sich bitte unter NINA@bbk.bund.de an uns. MfG NINA-HD",
-        "repliedAt": "2021-03-11 11:46:17"
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:08:00"
     },
     {
         "reviewId": "gp:AOqpTOH54AY7ENlSGyzSdpHUJjoXHTS_g346vjWUjrCkWr53_uLVoqpecUPzu5s2ZLtDL7iXM5uusaTna5DT8A",
@@ -308,8 +680,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-30 08:46:47",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, bitte deinstallieren Sie die Warn-App NINA, warten mindestens 10 Minuten und installieren Sie die Warn-App NINA erneut. Sollte danach weiterhin keine Warnung angezeigt werden, w\u00e4re ich f\u00fcr eine kurze Info sehr dankbar. MfG NINAHD",
+        "repliedAt": "2021-07-04 21:07:37"
     },
     {
         "reviewId": "gp:AOqpTOELPdhx9C86DiD5N5keXp39QrQ9dK--qBTHTSdSIqEwogsiBK8skxJWtCs0UeidEHsTftnwej3suQSgtw",
@@ -320,20 +692,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-30 08:27:25",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHyQZU7-5ufCeHcbvCUu1hsL9E2vUHM4Jx4MJGFtFePeqI5wC_dwYJN4eMshigUc5VJcC_SNPGaNZDslQ",
-        "userName": "Ein Google-Nutzer",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Die Wetterwarnungen funktionieren seit dem Update nicht mehr. Nur noch Push Benachrichtigung dazu. Und nein, es liegt nicht an der schnellen Entwarnung.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-06-30 06:33:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, ja, leider ist es zur Zeit so. Unsere Techniker arbeiten an einer L\u00f6sung. Dies wird noch einige Zeit in Anspruch nehmen, bitte haben Sie noch etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:06:53"
     },
     {
         "reviewId": "gp:AOqpTOFNV-CxMdiWRcRem1edtII6kFeMfoGDcMfW79rR_JHhnCpcjCc2RQlKOX1Xcll-PWQHQvdcVHwS7IySgw",
@@ -368,8 +728,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-29 19:58:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:05:14"
     },
     {
         "reviewId": "gp:AOqpTOF7xwAT_8xshA_vULyj5K7-3R3kxcrG6S9gbfLxlncIHuUlbEum9PMZRueovDyJcu3dJ2e0uRBeU4H5Eg",
@@ -380,8 +740,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-29 19:55:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:05:08"
     },
     {
         "reviewId": "gp:AOqpTOGiEvqotxjJ_RcOOeqdLibyqyOJIc1StArUbz_aCilCQsHWqLRDNU83TVKXOh8n0Z7HaS5g3I8WtPHG7w",
@@ -392,8 +752,8 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-29 17:30:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Wie verh\u00e4lt sich die Warn-App NINA bei der Einstellung mobile Daten? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:00:10"
     },
     {
         "reviewId": "gp:AOqpTOFIBlpndJLWEEHOnWz9mCNLcxjn7cPeXuiP6oqtzH2qTqU68EvUKPbfPv9SGv5TCFRJB03ilpzyjD4VsQ",
@@ -401,21 +761,9 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwIApcJsw_LKzkgz87lWsfVDhMEMMprQE1Y_UcP=mo",
         "content": "Bei Einstellung 'Wetterwarnungen' ab 'markantes Wetter' werd' ich irre. Teilweise werden mehrere Meldungen pro Tag ausgegeben, aber das Ereignis tritt nur sehr selten ein. Falls doch, ist es bisher kein Unwetter gewesen, nicht mal markantes Wetter. Lasst das mit den Wettermeldungen bleiben, damit demontiert ihr nur die Glaubw\u00fcrdigkeit der App.",
         "score": 3,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 11,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-29 16:18:57",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFS9zcVc49s6BbUggwD4eDugUx-TaEBP1fiL3YngvztaFrGdPkPRYBq7PNq4lpx5b3ntVNAmvBLVZU1Fg",
-        "userName": "dejanmilo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6juI8Pr2j1Nnz2DnrL85mQqR_87Qwxj93QP3DXq0",
-        "content": "Meldet nichts mehr im Gegensatz zu Katwarn.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.0.3",
-        "at": "2021-06-29 15:35:48",
         "replyContent": null,
         "repliedAt": null
     },
@@ -428,8 +776,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-29 15:19:21",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 20:57:44"
     },
     {
         "reviewId": "gp:AOqpTOFN7v-NtAxh0B6l2-acEz57OdQ5H6gdDTUlTrpdf8W8c6kPFc555teMm1I736hI01vMp7YFhz0N8crVqA",
@@ -464,20 +812,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-29 08:31:19",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHH7KtJH-HPu7-frAabY-00ULbRz3t2FUmjQ0u3lJgCyKH2AOextKfPRhvM-TweqqorU54iOi9AeduGWQ",
-        "userName": "Christian S.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOPGL1UA9xgDnilloEaMDlqNNXHQ5ObWE8ARQBbw",
-        "content": "Eigentlich super App, aber ich erhalte keine Benachrichtigungen, was in Anbetracht des Sinnes der App sehr schwierig ist.",
-        "score": 1,
-        "thumbsUpCount": 68,
-        "reviewCreatedVersion": "3.3.2.3001",
-        "at": "2021-06-28 23:27:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:00:24"
     },
     {
         "reviewId": "gp:AOqpTOHalVA6GoA4Gp1lUyBuG3y2AKvLabapVl9YA07Wh2EF8ETMp7WbvkmU7pWEfXRNZIgbMypKW9jAYKCCMw",
@@ -512,8 +848,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-28 18:14:13",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, wir zeigen die Inzidenzstufen des RKI auf. Die Warnstufen der Bundesnotbremse werden demn\u00e4chst in der Warn-App NINA ebenfalls angezeigt. Bitte haben Sie hier noch etwas Geduld. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:02:31"
     },
     {
         "reviewId": "gp:AOqpTOHM6yVb6HQemDrYU8V_mCEj57seuZtqhYrB7bY5C1deBUONG5qw4ChsclDdaaM_XjHfbOy9qX2TLsSG8w",
@@ -536,8 +872,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-28 16:43:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo, bitte versuchen Sie folgendes: entfernen Sie die WLAN-Verbindung aus Ihrem Handy, starten den Router neu und aktivieren Sie danach die WLAN-Verbindung in Ihrem Handy wieder. Sollte danach weiterhin die Anzeige kommen, w\u00e4re ich f\u00fcr eine kurze Info sehr dankbar. MfG NINA-HD",
+        "repliedAt": "2021-07-04 21:04:21"
     },
     {
         "reviewId": "gp:AOqpTOEvX-KEORZh46R4H-WLmy37rEdLA94X6bDiQEsq0d_1ZnDcVNcM-IS0PhIJo8PZWaK8tsqXKJUIwfvsUA",
@@ -1073,7 +1409,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgT4cTj159_7zwM2AR85-kVzaaMksvZUkKfr8pJ",
         "content": "Ich habe heute (am 30.10.20 !) erstmalig Meldungen von dieser App erhalten: 3 Corona-Warnungen, bzw. -Entwarnungen, die f\u00fcr meinen Kreis nicht nur viel zu sp\u00e4t kamen, sondern sich auch widersprachen und mich mit einem gro\u00dfen Fragezeichen zur\u00fccklie\u00dfen, Die App ist m. E. nicht zu gebrauchen, ich werde sie deinstallieren und mich lieber auf die schnellere und verst\u00e4ndlichere Tageszeitung verlassen. Erg\u00e4nzung: habe die App versuchsweise wieder installiert, die erste Warnung war eine Corona-Warnung vom 14.10.2020, sie ging ein am 20.06.2021! Nun verzichte ich endg\u00fcltig auf die App.",
         "score": 1,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-21 12:44:49",
         "replyContent": null,
@@ -1373,7 +1709,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgepcJxZ4SQj9Sk43uvtXXSrXFdq40htadOZM9DQA",
         "content": "Neue Bewertung: Die App an sich scheint gut zu funktionieren. Die eingepflegten Daten sind nicht immer so gut. Bsp: Meldung: \"Amtliche Warnung vor extremer Hitze\" Handlungsempfehlung: \"Heute ist der dritte Tag in Folge\". Bin kein Linguist, aber nach meinen Verst\u00e4ndnis sollte da sowas wie viel trinken und im Schatten laufen stehen. Ansonsten werden Die Daten ganz gut Angezeigt.",
         "score": 4,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 10,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-19 17:28:01",
         "replyContent": "Vielen Dank f\u00fcr Ihre Bewertung und Ihre Anmerkungen. Was den Inhalt der Wetterwarnungen betrifft, k\u00f6nnen wir diese leider nicht ver\u00e4ndern, da wir sie vom Deutschen Wetterdienst (DWD) und sonst keinerlei Einfluss darauf haben. MfG NINA HelpDesk",
@@ -1745,7 +2081,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbUi9DkJrlongTT3GOpK7tCfJTJXAv2xl2N-qS=mo",
         "content": "Leider ist die App f\u00fcr mich nicht mehr nutzbar, weil sie alle Orte grunds\u00e4tzlich als Ort au\u00dferhalb Deutschlands definiert, die dann nicht hinzugef\u00fcgt werden k\u00f6nnen. Nach Deinstallation und Neuinstallation kommt nun eine Fehlermeldung unmittelbar nach der Sprachauswahl Deutsch. Hat die App ein Problem mit Deutschland?",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "3.3.2.3001",
         "at": "2021-06-12 12:42:03",
         "replyContent": "Hallo Herr H\u00e4rtelt, bitte kontaktieren Sie uns einmal \u00fcber unseren NINA HelpDesk per E-Mail \u00fcber nina@bbk.bund.de. Auf diesem Weg helfen wir Ihnen gerne weiter. \u00dcber eine Meldung von Ihnen freuen wir uns.",
@@ -7034,7 +7370,7 @@
     {
         "reviewId": "gp:AOqpTOGV5TVaugvB4ytRyD4hR7JhliYQCGVNjw528kMU6-C8ltgTTfElpUjIbpYc_s7w8A5oPiPmh3m5S-axAQ",
         "userName": "Kensington March",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitabLAVqUGN1oDjtyizHDCtCq3WuWXbSmvlMnq",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjfuk66csr8GVg8gX67eqqdLzU-SXhjvetdGNxU6A",
         "content": "Warnt zuverl\u00e4ssig und ist leicht zu bedienen! \ud83d\udc4d",
         "score": 5,
         "thumbsUpCount": 0,
@@ -7886,7 +8222,7 @@
     {
         "reviewId": "gp:AOqpTOHaxS6wp5Iuo_yyHlCMyGWBe8IXb6bRZIg-Ts_7dHYTkGPfnFCI3pjvwVn9_z4MMIEXae9yL2Yj1n_AFw",
         "userName": "Werner Siemiona",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjsTWP9ZGBixxguef8itCHW4qYsV1dCExKgI7SaDw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj-x2gXUizZje-bVe2mRtZOtPT2sPpxFETXnbmsGA",
         "content": "Bin zufrieden.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -9840,18 +10176,6 @@
         "repliedAt": "2021-01-12 18:30:43"
     },
     {
-        "reviewId": "gp:AOqpTOGfjvSWdAVQ59GGgBRlOEPqy6Pcmp9KOaoWUzVbQ17mu9nbgQrQdzsMomH6IN1D1bzVI9-DuDeHuLU9bQ",
-        "userName": "Askan Hesse",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiaEMydGIp9EDj12tmkcQ8Lec2esnbum0utdUJ2Gg",
-        "content": "Einen Stern Abzug, weil ich mir etwas mehr Selektierm\u00f6glichkeiten der Art der Benachrichtigungen auf bestimmte Zonen und nicht nur Landkreise/St\u00e4dte w\u00fcnschen w\u00fcrde. In einer riesigen Gro\u00dfstadt/Stadtstaat ist halt nicht alles was am anderen Ende der Stadt passiert wirklich f\u00fcr die eigene Zone interessant, f\u00fcr mich vibriert das Handy nur unn\u00f6tig jede halbe Stunde. Ein weiterer Stern f\u00fcr das Probetag Disaster. Diesen Stern gibt es zur\u00fcck, sobald sich da Verbesserung bewiesen hat.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2021-01-13 08:49:12",
-        "replyContent": "Hallo Herr Hesse, Sie haben die M\u00f6glichkeit, ein kleinr\u00e4umiges Gebiet als Warnbereich einzustellen - ca. 1 qkm. Dies gilt f\u00fcr Bev\u00f6lkerungsschutzwarnungen - die Wetterwarnungen werden demn\u00e4chst auch auf Gemeindeebene herausgegeben - hier bitte ich noch um etwas Geduld. MfG NINA-HD",
-        "repliedAt": "2021-01-18 18:17:46"
-    },
-    {
         "reviewId": "gp:AOqpTOGnBimIS_dM5a3IYb-zu-Bu_Ilcs9yqtW04H6DjTBHJEI2Ydyfr3hAK1rnZQgnrKbBw8Odw0u29ngLhQQ",
         "userName": "Manja Kleibrink",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxl-D5H5nZhwWTkTyG71rTL7_srtZKMCkCEqaPn=mo",
@@ -11672,330 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.3.0.2980",
         "at": "2020-12-15 20:59:11",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEKuAVkLr50jmePyDb22txW-3OxRQnItJbwya9JtQxwkqH_NzfFVgrW6rtArEBAsMbGABOcMDaAqV8bQA",
-        "userName": "R. Matthes",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyqeQNHi-Uq9AFZYF8mUxdR3q3wvsVM46u1Iwty=mo",
-        "content": "Toll, das endlich auch aktuelle Infos kurzfristig verteilt werden. Das neue Layout finde ich auch sehr gut. Wenn jetzt noch lokale Infos wie in der v\u00f6llig unbrauchbaren App Biwapp dazukommen w\u00e4re es perfekt.",
-        "score": 4,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-15 18:43:39",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOF9pulW9-r8ROVy7Zm6N1yEb2Q8KW3SN-DL0CGG0XTSGIF2WZm7hcEMe_RkW_fSO6BiNbOxWax5E4ygDg",
-        "userName": "Matze",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxFI7qV5KWkTbfDuqkvVaQqmGLTLPd1Z-xjKp6m=mo",
-        "content": "Das neue Update hat eine sehr gute \u00dcbersicht \u00fcber die aktuelle Corona Lage gebracht. Genauso w\u00fcrde ich mir das f\u00fcr alle Warnungen w\u00fcnschen..Es ist alles wichtige drauf und kein drum herum was sowieso niemand versteht und wissen will.",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-15 17:46:38",
-        "replyContent": "Der bundesweite Warntag diente der Erprobung der technischen Warnsysteme und der vorhandenen Schnittstellen. Die bundesweite Probewarnung wurde \u00fcber MoWaS planm\u00e4\u00dfig herausgegeben. Die zeitgleiche Ausl\u00f6sung einer Vielzahl von Warnmeldungen f\u00fchrte zu einer Unterbrechung der Ausl\u00f6sung. Die gestrigen Ereignisse lieferten uns wichtige Erkenntnisse.",
-        "repliedAt": "2020-09-11 09:36:30"
-    },
-    {
-        "reviewId": "gp:AOqpTOEhUmXzyRg-8putGt380qIF13AOPYG3b3aljEnIuAUyNxBllp3NpairQeRIbsL_iFIYExIg9ooijBYS-g",
-        "userName": "Henry",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy3SrVOb1gOEv8wKk3OYkFoP9Tj_-5CZc1UlMwMovk=mo",
-        "content": "Sagt mal, welcher Vollidiot stellt jeden 2ten Tag ne Warnung rein und 20 Minuten sp\u00e4ter wieder Entwarnung?! Seit Anfang des Jahres jede Woche das Gleiche. Oder sind das mehrere Leute weil einer alleine nicht so bl\u00f6de sein kann?",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-15 17:38:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGZpHFlB4Aj31NG4__Iu4ooXPT44I1ustOKPeZu8gHTzMOMG_tXBET7zZBUOa2KeTNTZv_FtYnk30PAng",
-        "userName": "Ralf Thelen",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxkGv0hZI2E7iw8y3WBzPtBJoKZ5dLKP3rirW4R=mo",
-        "content": "Schlecht, typisch deutsch, sie bekommen nichts auf die Kette. Gesetze und Verordnungen lassen sich nach dem herunterladen nicht \u00f6ffnen. Z.B. vom 13.12.2020.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-15 11:44:32",
-        "replyContent": "Hallo, um welche Verordnungen aus welchem Bundesland/Kreis handelt es sich hier. Ich w\u00fcrde dies gerne an unsere Fachkollegen weiterleiten, damit der Fehler behoben wird. F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
-        "repliedAt": "2020-12-15 17:30:08"
-    },
-    {
-        "reviewId": "gp:AOqpTOGfF7A27MD2GVqPJ-hmQT74_GKSb66Y3D5gIM7l0y6wWqw1ONFcPuVLmfqxPNskBRmIVgDp3Ks2Zi2D6w",
-        "userName": "M. O.",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxLBT8s9kOA9Zh41m0_1aX39MW_5rewj7w_r3FJ=mo",
-        "content": "Eine relativ gute App. Manchmal ist sie aber ein wenig un\u00fcbersichtlich.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-15 11:03:50",
-        "replyContent": "Hallo, vielen Dank f\u00fcr Ihr Lob. Ich w\u00fcrde gerne erfahren, was wir anders machen k\u00f6nnen. Wir nehmen die Hinweise unserer Nutzer auf, vielen haben wir auch schon umsetzen k\u00f6nnen. F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
-        "repliedAt": "2020-12-15 17:31:02"
-    },
-    {
-        "reviewId": "gp:AOqpTOEQvwiRhOaBeCf7vcOvygFC4dzrFp4itbmYs7dJQNZirifdB0gWjGQzSbN1TkOjlwkfXgsG0lxpFD97Lw",
-        "userName": "Bernd J\u00e4nick",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giy0wbdTLlYBOMOGqOQMKyJNacAYcsynJ-9oWv7",
-        "content": "Sehr informativ",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-15 08:45:13",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGOQn_2xpRM-Hkzg6Fh39nYIQjw0v-CltgCHHY8vFvMHQAtB3yHYpm6eXOi750tJ1xn08ZjTdbBi-tytw",
-        "userName": "Daniel Horstmann",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzSSiJXCVdHvfv1deuz1Z56Nv9PrHmulIOAEzi2=mo",
-        "content": "Die Warunungen werden auf meinem Huawei fast nie angezeigt. Zudem immer noch kein Dark Mode verf\u00fcgbar.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-15 02:44:59",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFSufBvjndAGNrRRESs0EU5mp-jd-ZjHTMWiAa27du6gWy6ttSyMhnBcNSE4YN_KtQLazVjpICAkCf6-A",
-        "userName": "Skyliner Abakus",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj43r6YVOWhDb4HPDeJXUQ2XECeq_i3tcnW3BB-",
-        "content": "Leider ist die App nicht in der Lage, den aktuellen Standort festzustellen. Eigentlich ist sie \u00fcberfl\u00fcssig. Standortbezogene Warnmeldungen bekomme ich zuverl\u00e4ssiger mit jeder beliebigen Wetter-App. 14.12.20: Wird immer \u00fcberfl\u00fcssiger und nutzloser.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 21:28:52",
-        "replyContent": "Hallo, welches Smartphone und welche Android-Version nutzen Sie? Haben Sie ein Cleanerprogramm und/oder Energiesparmodus aktiviert? Diese Daten helfen uns bei der Fehlersuche. F\u00fcr eine kurze Info, gerne \u00fcber NINA-HD w\u00e4re ich Ihnen dankbar. MfG NINA-HD",
-        "repliedAt": "2018-05-29 17:12:41"
-    },
-    {
-        "reviewId": "gp:AOqpTOFupyCENJYelCSoqd4eU3xuXpf8z6BGkKZ6mKzpeOBG4_pErfY2Zx_uCwIcZDgpMiyr5Bfw-HLtS3_FIQ",
-        "userName": "Karsten Blocksdorff",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg2JSeckdbvpePNjsv44_35XtE3Ba2FihIJ6qbcPQ",
-        "content": "H\u00e4ngt sich dauernd auf",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 21:00:20",
-        "replyContent": "Hallo, wobei h\u00e4ngt sie sich auf: beim Aufrufen der Karte, beim Eingeben von Orten oder beim Einrichten? Diese Angaben helfen uns, den Fehler besser eingrenzen zu k\u00f6nnen. F\u00fcr eine kurze Info w\u00e4re ich Ihnen sehr dankbar. MfG NINA-HD",
-        "repliedAt": "2020-12-15 17:33:13"
-    },
-    {
-        "reviewId": "gp:AOqpTOGMbhkeGSL_obXgXMBFQy6AVzHZ5jZDywUc-q5t9p5KIYolgmhVLT1XCWeaCZk3Ip5d4b4H1mAvlWrVGg",
-        "userName": "Fred Knabe",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyjVYWOAjHMOueabepLmjcQF7z15aVQXCTM4a4k=mo",
-        "content": "Bei den Corona-Regeln wird durch die Zahlen (1, 2, 3, ...) angezeigt durch WELCHE Verordnung (Kreis, Land, Bund) diese Regel angeordnet wird. Aus meiner Sicht w\u00e4re es sinnvoll, diese Zahlen fest zuzuordnen. Derzeit ist es so, dass die Kreisverordnung auf Nummer 1 steht, Land und Bund dann auf 2 und 3. Wenn nun aber kein Bezug auf eine Kreisverordnung besteht, rutschen Landes- und Bundes-Verordnung auf 1 und 2. Das ist verwirrend und sicherlich leicht besser zu machen. Ich bitte darum",
-        "score": 3,
-        "thumbsUpCount": 8,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 20:48:53",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOENt_oxIIR57Nxq1FexrMnp326A0FtVytf5NzjufmCYeqf5cTFyOMb5Nj_P1TimuD9FR8vqKJIwNVcbgQ",
-        "userName": "Thomas Hennecke",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GihupeHFfUHCeufLCFI5poE0wH_BHc7tDrpCC_SuXg",
-        "content": "corona regeln und zahlen von Oktober, sehr aktuell und hilfreich im Dezember \ud83d\ude20. Bl\u00f6dsinn die App",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-14 20:17:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGVu8k_8zQEZuDG2cvYuXGSj1VPOrIavSP0XgsysgX96jX5ReTazruX0IMjvksbMO2Rg9N-nlpzenmKlw",
-        "userName": "Bernd Lienemann",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggh5hcrtLhYMX3gYQ5VKZ9h_K0UwK4qPLIpTKpeTw",
-        "content": "Honor 9lite. App startet nach Update nicht mehr",
-        "score": 4,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.3.0.2978",
-        "at": "2020-12-14 19:26:08",
-        "replyContent": "Hallo, mittlerweile wurde festgestellt, dass eine technische St\u00f6rung bei Google vorliegt. Wir melden uns, sobald der Fehler von Google behoben wurde. MfG NINA-HD",
-        "repliedAt": "2020-04-24 07:58:59"
-    },
-    {
-        "reviewId": "gp:AOqpTOFUiIcQrWJ--Et-626bscohPEORZe07j8-3Ay3H6gQg1KVHUm0woAwIcFXsLPqKEZ_cK4hTOfOVMu7-Gg",
-        "userName": "Chr1881",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyEp1krBXKRcE1hR36m7saq5BGQkr2K9RYCIAHb=mo",
-        "content": "Bin schwer begeistert, wie sich diese App die letzten Monate entwickelt hat. Vorallem die sehr gute Zusammenstellung der Corona Verordnungen auf Bundes, Landes ind Kreisebene sind wikrlich sehr durchdachte Funktionen in dieser Zeit. Nicht nur diese neuen Funktionen sind sehr positiv zu erw\u00e4hnen. Ich nutze die App seit vielen Jahren. Die App warnt \u00e4hnlich wie HessenWarm oder Katwarn vor verschiedenen Gefahrensituationen ziemlich zuverl\u00e4ssig aus meiner Erfahrung.",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 19:20:10",
-        "replyContent": "Hallo Chr1881, vielen Dank f\u00fcr die positive Bewertung. Wenn Sie R\u00fcckfragen haben oder Anregungen, unsere Kolleginnen und Kollegen aus dem NINA-HelpDesk-Team stehen Ihnen gerne unter NINA@bbk.bund.de zur Verf\u00fcgung. MfG NINA-HD",
-        "repliedAt": "2020-12-15 17:34:01"
-    },
-    {
-        "reviewId": "gp:AOqpTOEVAkq13dCckzv0td8tmQr0yOOS0w03QvNzGWoZzQ8phal6Z1R7nPywSHjU7R0Emiw_P1CQz9n579UsMg",
-        "userName": "Cody N. - Nana",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgWzwXQydnvnwUu-HAR_EcqILia91auLzLnq6A4oA",
-        "content": "Cooole Top Super Gut Good Nice !!!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.2.1.2720",
-        "at": "2020-12-14 19:11:56",
-        "replyContent": "Hallo Cody N., vielen Dank f\u00fcr die positive Bewertung. Wenn Sie R\u00fcckfragen haben oder Anregungen, unsere Kolleginnen und Kollegen aus dem NINA-HelpDesk-Team stehen Ihnen gerne unter NINA@bbk.bund.de zur Verf\u00fcgung. MfG NINA-HD",
-        "repliedAt": "2020-12-15 17:34:14"
-    },
-    {
-        "reviewId": "gp:AOqpTOFbTBjmc2OHoYZOhLfKTgPNEDrwcjIlNEbAHvqJcKkqHoup8SH4s7E8n1ZGf6QqZBa5kEnKGAGGMUOOXQ",
-        "userName": "Marlon Meese",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykRDd-EXTZDmn2Sd_MWkN92kCKKnq8Y0Us-FjB=mo",
-        "content": "Vielleicht noch \"Offlinemodus\" hinzuf\u00fcgen & Dunklen Bildschirm als Einstellung hinzuf\u00fcgen, dann perfekte App.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 17:38:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFhpCgIwhRPadhn0u7fyGy0laDy65OAN4BE6cE-NoF94WpQL1oBXwSmvlqYLDTuMuU4wCJJ7X1Y5zy9rQ",
-        "userName": "Daisy Kitten",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuILTJ972dzDWiI6LJgKsNJmS4okqjbMZp2tFE0Ks",
-        "content": "Ist hinsichtlich der Coronaregeln nicht topaktuell und bringt mir damit nichts",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-14 17:19:36",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHr-V3PU-4LBT2LBPo7V0jvShIHLDuOHytI-bUuCoiO4C6mG27McDRs-tNmT_WEBR3CrSPrhwf4EX2rug",
-        "userName": "Wol Sti",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJystvdsxxA1h8w0v60niLTPjkWoCyKCe5fKbDC5=mo",
-        "content": "Worte: Drau\u00dfen bzw \u00f6ffentlicher Bereich, Drinnen bzw privater Bereich! Was ist der Unterschied? Der bundweite Warntag wurde nicht, bzw still und heimlich im Hintergrund angezeigt. Keine Sirene oder so????? Ansonsten: Einfach gut und informativ. Leider sind die Unwetter immer richtig vorausgesagt.",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 16:23:59",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFjT2EwRN-eA4oxV0i2B7VPViv0vCqC3mj5ndVngJRYZ0x-jIKQtZsKHqIaqMKOq-1X2oGdJXk1hIN5Zw",
-        "userName": "Silvi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhHL3moq0Dajm3M6OGo85b3OpfGRxeuZZaOtLuo4g",
-        "content": "Bin sehr zufrieden",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2978",
-        "at": "2020-12-14 15:48:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHoAKBwCo5bi5T2w6SkVm8ZlvmoznKSvYvZDR6b4LhnH1360ZS-iF1PeGBYMr3o6DZdZ1hUfRRSaDi6Mg",
-        "userName": "Thomas Voi\u00df",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjbgcA2W6w-nC78T5R2xgU_GD10uahhBMasp5yKdfo",
-        "content": "Ich finde die App zweckm\u00e4\u00dfig, gelungen und informativ. Die Integration der Infos zum Thema Corona ist ebenfalls gut gelungen.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 15:42:23",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEh9gXhp2k_PHjQyZ5l7vdpyxfvzN47leeDU0_rOqh4rH8wx0A5WdMlY354zTbvc-O3-hyUdxTB7mKe5A",
-        "userName": "Lutz Gl",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigaAdjfqWOdcsi4q-LvhNrkF5qhEL5VeSoLVuIzA",
-        "content": "Android 6 oder h\u00f6her? \u00dcberleben wird immer mehr eine Frage des Geldbeutels!",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 15:31:06",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHzJRx8HTiUeuDLwIxONmR2Zauy6UUooEsXsLDOWHdtfVTQtp0BZgXc0LMcuGEubQAkNZXxb9w9yCC_QA",
-        "userName": "Timo Schrader",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiOeg96E2KuMGVAmAUzqZ11ZaEFWUu8BitiyO1CVA",
-        "content": "Mit dem neuen Update sind jetzt auch die Corona-Regeln f\u00fcr meine Stadt bzw. meinen Landkreis \u00fcbersichtlich dargestellt. Das ist eine echte Hilfe bei den ganzen unterschiedlichen Regeln von Stast zu Stadt gelten. Super!!!!",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 15:26:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE8jJwZkQT28joke21sI33jsLXlYCmVPdAhZERP6OnoDdOKnpqHoUaDnmWRMeiRUVphK4_A-HKPrWwRZA",
-        "userName": "Andy R.",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiNTZzC3EezfefmhaWwnAVW3AmGtO6yUqjZjbRzZQ",
-        "content": "Warnt zuverl\u00e4ssig",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 14:36:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEmO2rPODgvvdXg5pjvafLl2Dc4JYTbO4YkX1CdX0UG739ubujrguJJEd6JdIdDNGuZSDzBj2RbDz36Fw",
-        "userName": "Kodon Frost",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw2s2rdkvsqYNxjiY4oOpIXkA6u_smWrhiKKrQw=mo",
-        "content": "Super \u00dcbersicht zu Corona-Regeln! Bundes-, Landes- und sogar Kreisebene vorhanden. Bitte immer flei\u00dfig aktuell halten. Der Warntag lief nicht so doll, aber als Corona-Informationsquelle echt n\u00fctzlich.",
-        "score": 5,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "3.3.0.2980",
-        "at": "2020-12-14 13:50:17",
-        "replyContent": "Hallo, vielen Dank f\u00fcr die Info. Wir arbeiten im Hintergrund an der Verbesserung der Warn-App. Sollten Sie R\u00fcckfragen oder Anregungen haben, ich stehe Ihnen gerne unter NINA@bbk.bund.de. MfG NINA-HD",
-        "repliedAt": "2020-10-14 18:11:18"
-    },
-    {
-        "reviewId": "gp:AOqpTOGtkz1NGO3me62Ey5XYkFmTVow4G40ntJDWUu_1F808QdA3f3ZfpfZIBswQ0USibZgV8ltHdNiPWKRUHQ",
-        "userName": "H.-G. Kuehnel",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgA6hw3q27nxMftlDagzAjPsrrH1ux_sqMKSqg9",
-        "content": "Trotz Update veraltete Daten vom 14.10.2020",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2978",
-        "at": "2020-12-14 12:23:53",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEhuBcIsE-seU4bNhBfQcAYlH2_R5WgbOXKeYbbm_VEt41ZZzmTk0-Xi6jiTIfwODQo42ndIFH8BjwC8A",
-        "userName": "harald reich",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjRFKSAE5oHCZAhPxRlachGDCGzAAXIlIneY_RjGQ",
-        "content": "Drecks Corona mit drin",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-14 12:08:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGlH5sspQ0GL6MxlOVMxFyR1F57Kzl7P8I5ApSCBMtEJeExO_c-v_eIGQNoVDu9yWTX9JQsiZNdZipW0Q",
-        "userName": "Meggy Barthelt",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwkfhNUxp-COx_6NfsJu6c6GZySG-9AfU26o5Yh=mo",
-        "content": "Alles Mist",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.3.0.2978",
-        "at": "2020-12-14 11:16:06",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG3tAaw_BLoPPfiFYLwKHY4dGrunlU9VfdZ5wBnW6UI2TYarxX-l7OH1QuCbwV_01E0qORJqu3W0sQXOw",
-        "userName": "Daniel Sonnentag",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzpiUEOA4JVLG5IFxvJN21Tq6N_oK-SqrPbW0qK=mo",
-        "content": "App \u00f6ffnet st\u00e4ndig selbstt\u00e4tig den Appstore und will installiert werden!",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-12-14 08:40:57",
         "replyContent": null,
         "repliedAt": null
     }

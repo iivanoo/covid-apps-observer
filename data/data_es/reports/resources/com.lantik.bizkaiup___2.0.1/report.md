@@ -203,6 +203,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.lantik.bizkaiup 1 reviews"/>
 </p>
 
+> 5 de julio a las 4 de la tarde en Barinatxe. Media hora buscando aparcamiento por toda la zona, la playa hasta arriba de gente. Según la app, la playa con aforo bajo y el parking con baja ocupación. De que sirve esto?<br> :date: __2021-07-05 16:37:07__
+
 > 29 de mayo. Playas cerradas y yo me entero por amigos. En la App no dicen nada del tema. Si la información no se actualiza no sirve para nada. Y me responden con un año e retraso!!!<br> :date: __2021-06-30 14:17:07__
 
 > Es una porquería agan algo mejor<br> :date: __2021-06-13 13:59:13__

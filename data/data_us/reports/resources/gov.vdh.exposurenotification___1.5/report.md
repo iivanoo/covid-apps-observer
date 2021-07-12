@@ -218,6 +218,8 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> Doesn't scan for exposures every day.<br> :date: __2021-07-05 02:56:26__
+
 > I have to keep swching back and forth between covid notification apps to make this work, despite using processes fir keeping app awake and do on. Just a pain.<br> :date: __2021-06-21 18:30:22__
 
 > Surprisingly useless. I kept the app on 24/7 for almost the entire pandemic and it never notified me, never got local outbreak information, nothing.<br> :date: __2021-05-20 22:30:48__
@@ -235,8 +237,6 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 > Since a recent update I get alert after alert after alert if I don't have BT or GPS enabled. One alert is enough. I don't want to have this on when I'm at home and I don't want to be constantly spammed with alerts. It is enough to make me consider deleting the app, which is counter productive, Virginia.<br> :date: __2021-03-16 10:56:08__
 
 > Does not scan every day...last scan over a week ago. Only way to fix is uninstall and redo...but then you lose the past 14 days.....for all the money virginia has been given you think they would have spent a little more on this..but no they need to work on gun control instead<br> :date: __2021-03-11 01:20:34__
-
-> Never really got to see how the app worked. Got COVID, but never got a number to enter my positive results in the app. I'm a construction Project Manager and have been on jobsites with lots of COVID cases, and have worked at retirement communities with outbreaks. I never got a notification that I may have been exposed. I assume this is largely due to the barriers in entering positive results. Neat idea, but terrible execution.<br> :date: __2021-02-23 01:09:28__
 
 
 

@@ -1,0 +1,44 @@
+{
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "android.permission.INTERNET",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_BACKGROUND_LOCATION",
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "activities": [
+        "ca.albertahealthservices.contacttracing.SplashActivity",
+        "com.worklight.wlclient.ui.UIActivity",
+        "ca.albertahealthservices.contacttracing.RestartActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.OnboardingActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.HowItWorksActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.PreOnboardingActivity",
+        "ca.albertahealthservices.contacttracing.onboarding.WebViewActivity",
+        "ca.albertahealthservices.contacttracing.MainActivity",
+        "ca.albertahealthservices.contacttracing.PeekActivity",
+        "ca.albertahealthservices.contacttracing.PlotActivity",
+        "pub.devrel.easypermissions.AppSettingsDialogHolderActivity",
+        "com.google.android.gms.auth.api.signin.internal.SignInHubActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android",
+        "https://accounts.google.com",
+        "https://www.facebook.com",
+        "https://accounts.google.com/o/oauth2/revoke?token=",
+        "https://plus.google.com/",
+        "https://stackoverflow.com/q/5189914/28465",
+        "https://groups.google.com/d/msg/guava-announce/zHZTFg7YF3o/rQNnwdHeEwAJ",
+        "http://schemas.android.com/apk/res-auto",
+        "https://www.alberta.ca/ab-trace-together.aspx",
+        "https://www.googleapis.com/auth/games_lite",
+        "https://www.googleapis.com/auth/games",
+        "http://play.google.com/store/apps/details?id=ca.albertahealthservices.contacttracing"
+    ]
+}

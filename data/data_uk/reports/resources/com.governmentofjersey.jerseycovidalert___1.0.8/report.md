@@ -145,6 +145,8 @@ The Jersey COVID Alert app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.governmentofjersey.jerseycovidalert 5 reviews"/>
 </p>
 
+> Friday funkin<br> :date: __2021-07-06 17:06:38__
+
 > Very simple to use and accurate up-to-date data.<br> :date: __2021-06-17 10:42:00__
 
 > Nd u jb want k j u mji u u I ice hhol.. ..<br> :date: __2021-04-23 18:09:53__

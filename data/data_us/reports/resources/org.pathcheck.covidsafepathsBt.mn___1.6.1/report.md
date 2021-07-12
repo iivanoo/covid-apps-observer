@@ -193,6 +193,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="3_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 3 reviews"/>
 </p>
 
+> Have not had a single alert. Even in crowded restaurant and shopping in June. Does anyone actually enter their assigned number when they have had covid-19? I keep my Bluetooth on for this app alone, otherwise I never use Bluetooth.<br> :date: __2021-07-07 16:41:49__
+
 > HogWash<br> :date: __2021-04-12 18:39:53__
 
 > I got sick today again all day getting I'm not giving you and single drop!!!!!!!!!!<br> :date: __2021-04-08 01:12:55__
@@ -210,8 +212,6 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Broken! The checking exposure notification doesn't ever go away. This is completely unacceptable as it will cause people to delete the app.<br> :date: __2021-01-13 06:56:40__
 
 > Virus control<br> :date: __2021-01-08 00:06:45__
-
-> So far, I can't tell, but tomorrow I go to hospital. I expect it will go off like crazy there. Not sure what the range is...6'? 20'? For airborne virus, 6' is no where near enough distance. I surmized that in January 2020, based on YouTube reports of medical analyst Dr. John Campbell. Check his channel out.<br> :date: __2020-12-29 19:44:24__
 
 
 
@@ -249,6 +249,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> Yall need to wake up to the truth yall sheep downloading this app and believeing this pandemic<br> :date: __2021-07-10 15:24:05__
+
 > Tracking app.<br> :date: __2021-06-12 07:48:08__
 
 > Because this app is state specific, it does little good since I am traveling out of state about half the time. When I am in MN I live alone and would prefer to turn the Bluetooth off when home or out of state since there is zero chance of exposure but that is not an option without frequent notice that I need to turn Bluetooth on.<br> :date: __2021-05-24 23:30:09__
@@ -266,7 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Got a positive result through the city of mpls' testing site at the convention center today. To report my positive to the app I need a code. My results didn't come with a code.<br> :date: __2021-04-06 05:35:57__
 
 > Full of adds<br> :date: __2021-04-05 20:25:30__
-
-> Wasn't able to enter my code for a positive test. Boyfriend entered his code and I was never alerted about coming into contact with him? ?<br> :date: __2021-04-01 00:24:15__
 
 

@@ -185,25 +185,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Finally somebody doing something open, intelligent and useful with population level data<br> :date: __2021-07-04 15:20:28__
+> Reassuring to have sensible accurate information based on facts<br> :date: __2021-07-11 07:36:42__
 
-> Simple and Clear<br> :date: __2021-07-04 14:24:22__
+> Very informative<br> :date: __2021-07-10 22:02:22__
 
-> Informative and easy to use<br> :date: __2021-07-04 12:35:03__
+> Authoritative.<br> :date: __2021-07-10 21:43:02__
 
-> Very gòod and easy to use. Information about covid cases very useful.<br> :date: __2021-07-04 12:28:08__
+> Excellent<br> :date: __2021-07-10 14:31:26__
 
-> Glad to be helping<br> :date: __2021-07-04 12:16:35__
+> Simple to use and gives good info on local prevalence<br> :date: __2021-07-10 13:34:52__
 
-> Easy to use. Happy to be if some use.<br> :date: __2021-07-04 09:23:54__
+> Fantastic App. Loads of useful information and an opportunity to support the fight against Covid.<br> :date: __2021-07-10 12:49:50__
 
-> Really useful and helpful app. Brilliant explanations in simple language.<br> :date: __2021-07-04 00:13:31__
+> Very informative app<br> :date: __2021-07-10 12:26:27__
 
-> Great way to understand what is happening across the country and a wealth of useful data for the app owners and for government and to help us in the longer term too.<br> :date: __2021-07-03 23:59:40__
+> Exceptionally helpful<br> :date: __2021-07-10 10:26:32__
 
-> a brilliant aide in these difficult days<br> :date: __2021-07-03 21:55:29__
+> Excellent app that's helps all of us<br> :date: __2021-07-10 10:01:31__
 
-> Does what it is supposed to.<br> :date: __2021-07-03 16:14:50__
+> Easy to use, hope it proves useful. A constant source of reliable information and advice.<br> :date: __2021-07-10 08:01:31__
 
 
 
@@ -213,25 +213,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
-> Important App. Giving almost real time guidance to authorities. Request the authors of app start monitoring injury by Vaccine among active workers. A third dose of the Pfizer vaccine will be disastrous. I estimate 10% of workers in their 40s and 50s will be semi permanently damaged by this vaccine. I live in a residence for disabled people. 3% were damaged by second dose of the Pfizer vaccine at my Home. Please refer to Byram Bridle PhD Robert Malone, Brett Weinstein Steve Kirsch gary null show<br> :date: __2021-07-04 07:39:31__
+> Easy to use and quick<br> :date: __2021-07-09 20:41:51__
 
-> Easy to use to report symptoms and record tests and vaccination data. An excellent source of data driven information. Would be great if the NHS and Government advice reflected the Zoe app data more rapidly. It would be really helpful if the Zoe app could link to the NHS Covid apps, for example reporting test results during a period of self-isolation.<br> :date: __2021-07-03 16:08:36__
+> Good app.educational and informative<br> :date: __2021-07-09 17:37:22__
 
-> Not sure it us fully geared to including long Covid symptoms kthough you say you are doing long Covid survey as well.<br> :date: __2021-07-03 14:32:51__
+> Good app easy to use, helps the fight against covid. Full of useful information. Still using it to log daily a year after installing. I would like to see a feature that allows you to log if you have been told to isolate due to contact with a positive case as is the current case for myself. I have no symptoms but currently isolating and taking tests but nowhere to log this.<br> :date: __2021-07-09 15:16:59__
 
-> Plenty of information here..<br> :date: __2021-07-02 21:58:40__
+> Easy to use app. Useful for reporting symptoms not thought to be typical, according to government information.<br> :date: __2021-07-09 14:05:39__
 
-> The app is easy to use.<br> :date: __2021-07-01 15:55:48__
+> Easy to use<br> :date: __2021-07-09 12:54:48__
 
-> Would be a 5 star but for the fact when entering the antibody test results there's not the appropriate criteria to select. Only the positive, negative, etc, there should be an antibodies present or antibodies not present to select<br> :date: __2021-07-01 10:34:29__
+> Great app, could be a bit more intuitive<br> :date: __2021-07-09 12:43:59__
 
-> Easy to use App. I like the fact that it keeps track of your vaccinations & test results. The daily updates for my area are interesting too<br> :date: __2021-07-01 10:32:54__
+> Useful to give feedback as to your symptoms, although it doesn't give the option of a blocked/snotty nose or head!<br> :date: __2021-07-09 12:39:41__
 
-> Good app do find useful and easy to deal with<br> :date: __2021-06-30 07:43:15__
+> Recommended - useful app.<br> :date: __2021-07-09 07:26:38__
 
-> Shame that I can't update my email address<br> :date: __2021-06-29 20:26:42__
+> Makes me feel I'm helping<br> :date: __2021-07-09 03:06:09__
 
-> A very simple and easy to use app - however, it would be really good if test results could be listed with the most recent first and have the 'this list is correct' button at the top alongside the 'enter a new test' button so that you don't have to spend time every day scrolling all the way to the bottom of your list of test results that, for some of us, go back over a year in order to progress to the next section.<br> :date: __2021-06-29 17:20:11__
+> In general app is OK but unable to add previous symptoms. When installed only basic information was required. There was not, and still isn't, a way of adding possible previous contracting the SARS-COV-2 COVID-19 virus which in my case was in January 2020.<br> :date: __2021-07-08 23:10:34__
 
 
 
@@ -240,6 +240,14 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
+
+> Had some hiccups when it wouldn't accept my normal standard answer. But hey, up and running when needed, so worth persevering. And the data is priceless<br> :date: __2021-07-09 18:41:36__
+
+> I wanted to take part, but after 3 days its already forgotten all the info I already put in about my vaccine ans stuff. I can spare 1 minute but I can't be bothered to resubmit the same info over and over.<br> :date: __2021-07-09 06:05:19__
+
+> Unable to update details after PCR.test<br> :date: __2021-07-07 15:31:52__
+
+> Useful app, usability could be improved to reduce number of times I have to scroll to see the button I need to press. Instead of three screens I navigate every day, why not just have a single button to say no change from yesterday?<br> :date: __2021-07-05 11:37:45__
 
 > Long questionnaire on eating, but worthwhile.<br> :date: __2021-06-29 18:36:19__
 
@@ -253,14 +261,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Have used this app for a long time until now. Its been stuck for a few days since my 2nd jab. When asked about symptoms near injection site the next button goes grey and I can't move forward so no longer able to report.<br> :date: __2021-06-13 12:26:18__
 
-> A very worthwhile app in the current situation but now having issues with app saying I didnt report the day before when I did. Also cannot report today as it doesn't get beyond the screen 'Are you experiencing any symptoms near the injection site'. I click Next which greys out and then nothing happens. Not any Internet issue as everything else is working.<br> :date: __2021-06-12 18:15:50__
-
-> I had my 2nd jab last week. I didn't have any reactions afterwards? But when I try to enter no symptoms from jab , the app freezes??<br> :date: __2021-06-12 14:06:46__
-
-> Can't report as of today 12/06/21. In general app is OK but unable to add previous symptoms. When installed only basic information was required. There was not, and still isn't, a way of adding possible previous contracting the SARS-COV-2 COVID-19 virus.<br> :date: __2021-06-12 12:58:38__
-
-> I haven't been able to report for days because I can't get past the long Covid questionnaire. Please can you offer the option to say I haven't had Covid and close it, or allow me to skip the survey altogether so that I can tell you how I am.<br> :date: __2021-06-11 17:50:29__
-
 
 
 #### 2-star reviews
@@ -268,6 +268,10 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
+
+> Please add a small script to this app so that if I have already logged my symptoms, the app doesn't send a notification to do it. It's intrusive and very annoying.<br> :date: __2021-07-08 12:08:59__
+
+> I've had to re-load this app four times since I started. If I hadn't been so determined, I would have given up long ago. I have an Android phone. Other than that- great app guys. I hope that better statistical science will be the result of your efforts.<br> :date: __2021-07-06 12:23:07__
 
 > The app stuck on a questionnaire about covid and covid symptoms of which I have none but I can't get out of it. If I close the app and reopen it is back at the questionnaire with no option to say I haven't had covid and I've not had any symptoms.<br> :date: __2021-06-10 14:56:18__
 
@@ -293,6 +297,10 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
 
+> Crashes continually since android update unusable<br> :date: __2021-07-08 07:38:05__
+
+> Gets stuck at recording a test stage.<br> :date: __2021-07-07 23:10:49__
+
 > Uninstalled after a year in protest at Tim Spector advocating vaccines for children.<br> :date: __2021-07-02 19:28:36__
 
 > Completely freezes on start up screen<br> :date: __2021-06-14 12:46:15__
@@ -308,9 +316,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > Guys, you added questionnaire about long Covid which doesn't allow option to say you never had Covid. And you cannot complete your daily data entry without completing long Covid Fix it!!<br> :date: __2021-06-10 08:59:40__
 
 > Doesnt differ from long covid symptoms as a reporting app<br> :date: __2021-06-08 18:24:45__
-
-> Oh dear it's really gone to pot. I constantly have to enter my postcode and now can't report as the added questionnaire won't let me past question 1 as I can't enter a 'No' Please sort this out.<br> :date: __2021-06-02 09:38:00__
-
-> Has up to date info but I'm unable to log my vaccination, told to ensure I have latest updates etc. so even reinstalled app to ensure this, but still can't. Disappointing. Update 30th May, tried reinstalling app yet again and still unable to log vaccination so think I'll give up with it.<br> :date: __2021-05-30 15:41:22__
 
 
