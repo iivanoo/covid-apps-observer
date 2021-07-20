@@ -232,6 +232,10 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.myaus 1 reviews"/>
 </p>
 
+> Will not open<br> :date: __2021-07-16 04:49:41__
+
+> Doesn't work<br> :date: __2021-07-15 02:48:52__
+
 > It's broken. Keep getting a connection error<br> :date: __2021-07-02 03:42:56__
 
 > 💉💉💉💉💉💉💉💉💉💉💉💉🤣🤣🤣🤑💩💀<br> :date: __2021-06-01 04:06:20__

@@ -1,0 +1,15 @@
+{
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CAMERA",
+        "android.permission.INTERNET"
+    ],
+    "activities": [
+        "gr.gov.dgc.MainActivity",
+        "io.flutter.plugins.urllauncher.WebViewActivity",
+        "com.journeyapps.barcodescanner.CaptureActivity"
+    ],
+    "urls": [
+        "http://schemas.android.com/apk/res/android"
+    ]
+}

@@ -196,6 +196,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="4_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 4 reviews"/>
 </p>
 
+> Nach dem xten Update jetzt wieder lauffähig ohne permanente Abstürze. Hoffe, das bleibt jetzt so.<br> :date: __2021-07-14 06:57:49__
+
 > Leider stütz die App nach dem Öffnen immer wieder ab auch nach den neuen Updates war sonst ganz informativ Cornazahlen aktualisieren sich nicht mehr seit Tagen . Nacht Kontakt mit dem Anbieter der App und weiteren Infos von ihm läuft die App wieder Einwand frei .<br> :date: __2021-07-07 08:20:50__
 
 > Eine echt klasse App für Solingen, viele Informationen und sinnvolle Funktionen. Da macht Solingen vieles richtig. Leider Funktioniert die App dann plötzlich alle paar Wochen nicht mehr. Man muss Sie deinstallieren und neu installieren. Das geht leider auf Dauer gar nicht ) - : . Viele Solinger machen das nur ein Mal, obwohl Sie die App auch super finden! Da muss der Entwickler sehr stark dran arbeiten! Ansonsten hat demnächst kein Solinger mehr dieses App installiert, obwohl Sie super ist!!!<br> :date: __2021-06-13 15:00:45__
@@ -214,8 +216,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Wegen des Problems mit dem Öffnen der App wurde mir geraten, diese zu löschen und neu zu installieren. Jetzt klappt das Öffnen wieder.<br> :date: __2020-12-16 09:50:02__
 
-> Kann die App gar nicht öffnen nach dem letzten Update Eher 0 Sterne, geht aber nicht Edit 16.12.20 Vielen Dank für die Rückmeldung. Ich habe die App mittlerweile neu installiert und verschiedene Benachrichtigungen abgestellt. Jetzt läuft sie wieder.<br> :date: __2020-12-16 08:18:12__
-
 
 
 #### 3-star reviews
@@ -223,6 +223,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 3 reviews"/>
 </p>
+
+> Nach der (Mal wieder) Neuinstallation funktioniert die grad Mal wieder. Gerade als jetzt die Notfall Infos kamen, wäre eine funktionierende App klasse gewesen. Wenn sie Mal funktioniert ist sie echt nützlich<br> :date: __2021-07-15 19:16:51__
 
 > Die Informationen und der Service verdient 5 Sterne. Die technischen Probleme (Abfuhrtermine werden nicht angezeigt, App schließt sich, Serverprobleme,..) macht sie jedoch wenig nützlich. Schade<br> :date: __2021-07-11 09:57:31__
 
@@ -242,8 +244,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Im Großen und Ganzen finde ich die App gut. Allerdings: Mir werden News in der Benachrichtigungszeile angekündigt, die aber in meiner App dann nicht auftauchen. Trotz Verbindung zum Server habe ich veraltete News. Heute zum Beispiel, 2.6.21 kann ich nur News bis zum 28.5. sehen. Cache ist geleert. Seite aktualisiert. Nichts passiert. Schade. Warte auf Verbesserung.<br> :date: __2021-06-02 13:42:33__
 
-> Leider schließt sich seit Tagen die App sofort, nachdem die Verbindung zum Server erfolgreich angezeigt wurde. Habe die App bereits gelöscht und neu installiert, es ändert sich nix. Sehr schade, habe sie gerne genutzt.<br> :date: __2021-04-17 20:14:23__
-
 
 
 #### 2-star reviews
@@ -251,6 +251,10 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 2 reviews"/>
 </p>
+
+> Die App funktioniert überhsupt nicht zufriedenstellend. Entweder Sie startet und beendet sich direkt wieder oderSie zeigt keine Inhalte .Weder Coronazahlen noch inhalte vom Rathsus oder anderen Menupunkten. Ihr solltet die App mal gründlich testen bevor Ihr Sie rausgebt, denn so nützt sie nichts<br> :date: __2021-07-16 10:11:13__
+
+> Nette kleine App. Leider nach wie vor mit Macken (Server nicht erreichbar).<br> :date: __2021-07-12 20:07:37__
 
 > Stürzt häufig ab. Erst Serververbindung hergestellt, dann Absturz. Schade eigentlich super für Solinger.<br> :date: __2021-07-08 18:28:18__
 
@@ -262,15 +266,11 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 
 > Eigentlich enthält die App viele nützliche Informationen. Leider stürzt sie immer wieder ab. Seit dem 28.06. ändert sich der Stand der Coronazahlen nicht mehr. Habe sie schon mehrfach neu installiert - Problem bleibt!<br> :date: __2021-07-01 09:59:20__
 
-> Sinnlose App. Macht von einem Tag auf den anderen was sie will. Gestern ging noch diese oder jene Funktion. Heute schließt sie sich sofort, wenn man den gleichen Punkt anwählt, z.B. Mülltermine abrufen. Straße eingeben, Hausnummer wählen... App beendet sich von alleine. Bereits diverse solche Eingenheiten gemeldet. Geändert (durch Updates) hat sich nichts. Cache geleert. De-/Neuinstalliert. Keine Änderung. Anderes Handy. Gleiches Verhalten. Endgültig deinstalliert. Was nicht funkt. ist sinnlos.<br> :date: __2021-06-04 10:16:14__
-
 > Funktioniert nur bedingt.stützt immer wieder ab<br> :date: __2021-05-30 20:57:39__
 
 > An sich eine gute Idee die App mit den angedachten Funktionen und Informationen. Leider funktioniert sie nach der Installation nur eine begrenzte Zeit. Eine neu Installation behebt das Problem. Nur hat man auf immer wieder neu installieren irgendwann keinen nerv mehr dazu. Daher bleibt sie nun deinstalliert.<br> :date: __2021-05-23 09:24:47__
 
 > Geht so. Stürzt andauernd ab. Sehr oft keine Verbindung zum Server. Ansonsten OK<br> :date: __2021-03-13 08:43:37__
-
-> Okay, die App läuft mittlerweile und tut was sie soll. Der Funktionsumfang könnte noch was größer sein. Leider klappt das Scaling nich nicht ganz, zum Teil werden Textbereiche bin anderen Boxen überdeckt (Samsung S10) Update: bekam heute die erste Benachrichtigung von der App, und ich bekomme einen dauerhaften Fehler angezeigt... Jetzt deinstalliert, schade<br> :date: __2021-03-05 17:02:32__
 
 
 
@@ -279,6 +279,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 1 reviews"/>
 </p>
+
+> Wenn man als Stadt schon so eine App raus bringt, dann sollte man auch dafür sorgen, das die auch funktioniert.<br> :date: __2021-07-16 10:03:34__
 
 > Stürzt nach dem Start sofort ab. Schade!<br> :date: __2021-07-08 22:52:49__
 
@@ -297,7 +299,5 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Der letzte Mist. Bricht entweder direkt zusammen oder Verbindung zum Server schlägt fehl. Deinstalliert.<br> :date: __2021-03-16 08:36:17__
 
 > Bisher lief die App gut, doch seit einigen Tagen lässt sie sich nicht mehr öffnen. Erst kommt Fehler 100. Dann wird doch die Verbindung zum Server hergestellt und dann stürzt sie ab.<br> :date: __2021-02-13 15:17:38__
-
-> Derzeit ist keine Info über die App möglich, da es scheinbar zu Fehlern in der Verbindung zum Server gibt.<br> :date: __2021-01-31 11:15:31__
 
 

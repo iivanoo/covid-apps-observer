@@ -208,6 +208,8 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 <img src="2_star_reviews_wordcloud.png" alt="org.alohasafe.alert 2 reviews"/>
 </p>
 
+> Bluetooth is enabled on my phone, but the app will not allow me to enable exposure notifications!.....any ideas on how to fix this?<br> :date: __2021-07-11 17:34:56__
+
 > It intermittently gets stuck on checking for exposures.<br> :date: __2021-06-23 16:23:03__
 
 > 1?+AM 1AM a<br> :date: __2021-05-13 02:59:32__

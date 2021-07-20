@@ -142,6 +142,18 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> It Keeps Everybody Ahware of The Virous<br> :date: __2021-07-19 00:02:15__
+
+> It worked fine until yesterday; Blue screen others mentioned. Will re install once you give a news worthy all clear, Til then.<br> :date: __2021-07-18 10:23:47__
+
+> I cant get into the website to tell you how I am feeling What can I do to get on it?<br> :date: __2021-07-18 04:25:11__
+
+> 😁 good staying up on the current SCIENCE. hard to believe there are still alott of people who have access to vaccinations, but CHOOSE not to get vaccinated. I guess you can lead a horse to water, but you can't force them to drink. Maybe a stay in the ICU on ventilator will have an effect.<br> :date: __2021-07-17 01:03:55__
+
+> I gave a 5 star rating because I believe this app is a very necessary source of protection.<br> :date: __2021-07-14 04:05:38__
+
+> I give it a great rating for vast amount of information it opens me to. I got my Vax notice as to availability through this. Good work.<br> :date: __2021-07-11 14:08:55__
+
 > Very helpful to see any trends developing with infections and/or vaccines.too many ads tho!<br> :date: __2021-07-07 11:22:48__
 
 > Awesome application that was released by the gov.. which is pretty dope on their par<br> :date: __2021-07-06 15:57:24__
@@ -149,18 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Great for keeping track of cases in PA, breaks down each county, also uses Bluetooth to alert you if someone else who has the app downloaded and marked themselves as being sick or having covid, has been in close proximity to you<br> :date: __2021-07-05 14:43:27__
 
 > Good game 10/10 would play again<br> :date: __2021-06-21 10:17:34__
-
-> Really appreciated.<br> :date: __2021-06-18 16:05:02__
-
-> Thank you<br> :date: __2021-06-04 18:27:53__
-
-> I love receiving The Worldwide updates of what's going on in the world of covid-19<br> :date: __2021-04-28 08:05:52__
-
-> Ok<br> :date: __2021-04-23 15:32:32__
-
-> I am trying to a vaccine appointment.<br> :date: __2021-04-22 04:29:52__
-
-> Very helpful<br> :date: __2021-04-19 05:39:52__
 
 
 
@@ -198,6 +198,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 3 reviews"/>
 </p>
 
+> Please fix the blue screen bug. Last few days it loads then goes directly to blue screen. I even uninstalled and reinstalled.<br> :date: __2021-07-18 03:49:04__
+
 > When you log in to check the app out it go to a black screen where you can not see it<br> :date: __2021-07-11 01:53:17__
 
 > This app worked great on my pixel 2, but will not work at all on look at all on my Galaxy S galaxy S21. I downloaded the latest version.. Can you update please?<br> :date: __2021-07-11 00:30:16__
@@ -216,8 +218,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > I suggest adding PA stats about vaccinations....as well as info on or even ability to make a vaccine appointment...and current phase status<br> :date: __2021-01-22 05:24:51__
 
-> Bad this app should notify those doctor to go and give those the vacinne that have fill the information out not have people out in large line and groups with this you have better control create job to new nursing school student to help in is fight<br> :date: __2021-01-21 07:21:53__
-
 
 
 #### 2-star reviews
@@ -225,6 +225,14 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 2 reviews"/>
 </p>
+
+> Used to work. Now it starts up and for a second it shows the screen asking if you have any symptoms, but then the screen turns to a blank blue screen.<br> :date: __2021-07-18 08:01:19__
+
+> Stopped working after latest security update. It's just a blue screen as many others are also reporting. They don't seem to be inspired to fix it.<br> :date: __2021-07-17 15:05:07__
+
+> Stopped working and bogged my phone way down after latest ATT OS upgrade. Before that it was ok but its numbers never matched the numbers published in the news media. Uninstalled. Samsung A11<br> :date: __2021-07-11 15:06:08__
+
+> Screen goes blue after initial startup an wont do anything else. I tried uninstalling an reinstalling 2 see if it would fix it an it won't 😡<br> :date: __2021-07-11 12:21:30__
 
 > Worked ok for a while, did it's job, but now Everytime I load in I get a dark blue screen and can't do anything, I even reinstalled and it is doing the same thing.<br> :date: __2021-07-10 16:30:03__
 
@@ -238,14 +246,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 
 > Forces you to page back through EVERY month of EVERY year to get to your date of birth, rather than either just typing it or selecting the year from a list. I just don't have enough time to page back that far.<br> :date: __2021-03-09 15:51:30__
 
-> Had to go back 73yrs just to get to your site with a arrow one by one.<br> :date: __2021-03-04 18:57:57__
-
-> So introverted I was never around anyone long enough to set it off, but I was around people who contracted covid<br> :date: __2021-02-25 14:50:54__
-
-> Same old info every day. Got name in 5-6 places. Much more vaccine than Delivery<br> :date: __2021-02-07 23:49:49__
-
-> Exposure alert does not work, or I'll get a call next month that I've been exposed to COVID 6 weeks after it matters. A co-worker, that has the app with the alert ON, tested positive weeks ago. I work side by side with him everyday and found out a week after he was out why he was out. Not through the app though.<br> :date: __2021-01-31 00:01:31__
-
 
 
 #### 1-star reviews
@@ -253,6 +253,16 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
+
+> #a11y fail. Check in and all other screens no longer work with talkback running. App is uninstalled. You have a fiend in Pennsylvania!<br> :date: __2021-07-18 04:50:16__
+
+> App was fine now just blue screen after a nrief display of the first screen.<br> :date: __2021-07-18 01:41:08__
+
+> I'm giving 1 star right now hoping the devs see this. I haven't been able to use the app the last couple days. Uninstalled/reinstalled, but keeps freezing—can't do daily check-in or anything. Please fix this! Just read other reviews and saw I'm not the only person with the dark blue frozen screen. My problem just started yesterday, but other ppl were frozen since 7/10/21, so it's been a week already. 😢<br> :date: __2021-07-17 22:51:02__
+
+> Broke blue screen will not load any data...<br> :date: __2021-07-17 17:56:07__
+
+> Was a solid 5 stars, but now it refuses to do more than show a blue screen. Uninstalled and reinstalled only to get the same issue. I guess I have to take my chances without contract tracing or being able to make informed choices based on the illness and death rates in PA... When this is fixed, I will update my rating accordingly.<br> :date: __2021-07-17 16:05:59__
 
 > I've had app for about a year. Now it won't open. Must be a problem somewhere. I uninstalled it and reinstalled it. Still won't open.<br> :date: __2021-07-11 02:50:48__
 
@@ -263,15 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Screen turns blue obviously it's out of commission for now<br> :date: __2021-07-10 23:32:19__
 
 > What happened? I went to check the latest update on the new cases and it goes back off. Please fix! It's not working!<br> :date: __2021-07-10 20:18:48__
-
-> Old data. The paper has more current numbers. How is that even possible? Update: the app no longer works at all. It doesn't even open properly.<br> :date: __2021-07-10 20:11:57__
-
-> Program crashed today. No Uninstalled and reinstalled 3 times. Still crashes.<br> :date: __2021-07-10 19:56:19__
-
-> This app no longer works. The app just closes to a blank page.<br> :date: __2021-07-10 19:39:36__
-
-> Doesn't get passed initiating the app.<br> :date: __2021-07-10 19:20:31__
-
-> Used the app for a long time but, it now crashes and goes to a blue screen. I've reinstalled it to no effect. Don't know what is happening but, it's not worth fooling with anymore.<br> :date: __2021-07-10 18:22:59__
 
 

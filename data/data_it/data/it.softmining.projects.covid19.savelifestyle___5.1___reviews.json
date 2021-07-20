@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGv27NLXnMOEjy8gCXKlPMmX7ngFUKtz5bzbpNnw1XsSU9gvjHQiLBLi_cAsfpB0Pga2gjXiyjvR8BgZ14",
+        "userName": "Ugo Donini",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxUHgysFQn4r86Uau6fMXkbdEq28-prYBAQjyM=mo",
+        "content": "Non rileva presenze e vibra sempre",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.1",
+        "at": "2021-07-16 07:39:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEdqndUwqXFaYHqxqnzUFQvEdD5wMeaAyK8RtkxEVHak-DLeE280rpbyIQaVSArUM1Sk7xhrz-MJ839Nkg",
         "userName": "Desy Siciliano",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTav7NQzuSlD-dFD7wK3jSE8ehC3yUzImZ2e3yA0o",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQ2evBoNPCP8qGim5dsulBnGFYNd1ulhSK6ITRVg",
         "content": "Inizialmente tutto ok,adesso non funziona pi\u00f9,premo sullo scudo per aggiornare la percentuale di contagio e rimane a zero,in una sala d'aspetto con 15 persone! cos\u00ec \u00e8 inutile esattamente come immuni!",
         "score": 2,
-        "thumbsUpCount": 12,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "5.1",
         "at": "2021-04-22 08:52:53",
         "replyContent": null,
@@ -1190,7 +1202,7 @@
     {
         "reviewId": "gp:AOqpTOEKdzUT8Ed_dJONnUK-MZRYdlCWHARTQqlwCawiPZf52-Rh8kHytB6BBgLoK793yEjyCECW3yc0I6aTaaQ",
         "userName": "Lisa Giarda",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjFKoMk8-89npII2M9joFwxUDLGGEYbeHccRGVU5LY",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj2NGGWTMoUwqlOrmdNwMzaANgMdFkGpxPC7MN9q5g",
         "content": "Cosa significa quando mette 0,e poi un tot di numeri dopo?",
         "score": 2,
         "thumbsUpCount": 1,
@@ -1466,7 +1478,7 @@
     {
         "reviewId": "gp:AOqpTOH_Rd1sqAvGM1exvdYSMh2RsJm_17MG6tmToWdyFdyeMkVRhrxL8ZOHUirPhV1SUNC4tYpbND3vvbZpq3c",
         "userName": "Vincenzo Corvo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhISPyZV4foYv21sOrCdxeOic_66_kRMxNNqxsIpVk",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLFLN8QPmeLIGrbxuEQV1Z6iH1vRo55QuOkeCwrHg",
         "content": "Non la scaricate e un virus",
         "score": 1,
         "thumbsUpCount": 1,
@@ -2450,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7QCvbvpcz-DescdkFnrwl3WyceFuP2yqZEjuM_w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiReTeA9A2KzQXLnZg9CgewGFZKK9RhDh2hYIBJxw",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -3881,7 +3893,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg5GPseo5AX3K9feW4W7rOQF4F3R3l1JDTS9-tlVQ",
         "content": "Ottima iniziativa e ottima app. Funziona perfettamente e non impatta minimamente sulle prestazioni del telefono. Funzionamento trasparente e assolutamente intuitivo anche per chi \u00e8 poco avvezzo alla tecnologia. Speriamo che il progetto di questa app alternativa resti in piedi e funzionante per il futuro. Come sempre l'iniziativa privata arriva prima di quella pubblica. Grazie per il vostro lavoro.",
         "score": 5,
-        "thumbsUpCount": 63,
+        "thumbsUpCount": 64,
         "reviewCreatedVersion": "2.6",
         "at": "2020-04-21 14:12:38",
         "replyContent": null,
@@ -4769,7 +4781,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4D2R5f34kxU3-jU1OpTg_2E2fDv1vfWGNHB-IoA",
         "content": "Ottima e semplice, ci vorrebbe un collegamento con la sede della protezione civile nella provincia in cui si usa l'applicazione, ed essere geolocalizzati in continuo. Cos\u00ec nessuno pu\u00f2 fare il furbo, e solo chi ha l'autorizzazione prefettizia per lavorare viene escluso. Questa applicazione dovrebbe essere obbligatoria, ma tanto si sa, siamo italiani, e ognuno pensa per s\u00e9 e non agli altri.",
         "score": 5,
-        "thumbsUpCount": 81,
+        "thumbsUpCount": 84,
         "reviewCreatedVersion": "2.3",
         "at": "2020-04-13 09:15:06",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. \nI tuoi suggerimenti sono ben accetti. Stiamo infatti collaborando con le autorit\u00e0 competenti per integrare nuove funzionalit\u00e0. A breve rilasciamo una versione aggiornata con nuova grafica. \nStay tuned!\nIl team SM-COVID-19",
@@ -4814,7 +4826,7 @@
     {
         "reviewId": "gp:AOqpTOHOY5rj_KtMNqzDvpXScnqlY-XUvbF0TOeWW8ykx6SpDTIlBTxkw_iZ1tmR3xDzjZaZQqN9x1YHKEpYuq4",
         "userName": "Andrea Romano",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjL86mQYeiKOCJ1CN8ChqYIsBLkqwrwiOa41lY1bNg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjLdvyNtUUHwjoiaUsGb2pICckvF3LeLmlMw2jXzng",
         "content": "Ottima Interessante e Fatta Bene",
         "score": 5,
         "thumbsUpCount": 6,

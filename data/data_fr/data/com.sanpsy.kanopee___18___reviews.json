@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOHIyicH6Cgy0OhOUw1ufEcHsT4YisWg6iOTwBVdHuGxgVk65dEukn4w08X6emLZn0RN6PfBmP2ek5viI60",
+        "userName": "Emilie T",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJycHHV79zZ8S0wvcXZDS4t47EZ9ithBvu14CbCT=mo",
+        "content": "Les questions pour \u00e9valuer les consommations sont beaucoup trop impr\u00e9cises. Les premi\u00e8res questionnent sur les 12 derniers mois (il s'en passe des choses en 1 an). Ex: j'ai deux consommations qui ont drastiquement chang\u00e9, dont une qui a \u00e9t\u00e9 compl\u00e8tement arr\u00eat\u00e9e depuis plus de 6mois et pourtant, l'application me dit que j'ai un probl\u00e8me avec ces deux consommations alors que pour la question du nombre/jour j'ai r\u00e9pondu 0. C'est dommage, cette application est int\u00e9ressante.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "18",
+        "at": "2021-07-16 09:38:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGOWQzeUHG_w2B0aeCzD58qpFw3a8XuYK5SA21IX6RD1TuWWiIxnICCHy43mq64NATyvyuvt7pJen1gDUk",
         "userName": "Alain Juliard",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzgSDjwu7-Z3KGHGHIT3Wlm2UxeYJYz40vxGvQ=mo",
@@ -41,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi3rt-bW723mjbbR5YHIr7l7OGw7UuXTE4femmI",
         "content": "Pour le tabagisme, peut-\u00eatre faudrait-il prendre en compte le sevrage tabagique, par exemple, c'est mon cas depuis plus d'un an, je vape avec nicotine et je ne cesse d'augmenter le taux. Je sais que c'est le tabac et la fum\u00e9e qui sont nocifs, mais je suis tr\u00e8s souvent sur ma vape pour avoir \"ma dose\"",
         "score": 2,
-        "thumbsUpCount": 8,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "6",
         "at": "2021-03-28 13:29:52",
         "replyContent": "Merci pour votre bonne remarque ! Nous essaierons de la prendre en compte dans les prochaines mises \u00e0 jour de l'application ! Bonne continuation !!",

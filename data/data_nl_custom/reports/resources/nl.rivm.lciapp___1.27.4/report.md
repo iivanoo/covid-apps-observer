@@ -218,6 +218,8 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 <img src="1_star_reviews_wordcloud.png" alt="nl.rivm.lciapp 1 reviews"/>
 </p>
 
+> Corona check geopend en geen informatie gevonden over mijn vacinaties<br> :date: __2021-07-15 14:18:57__
+
 > W Bras veel te moeilijk<br> :date: __2021-07-03 17:59:58__
 
 > Wat een k.t app Na dat ik hem downloade werkt mijn afas app niet meer. En die heb ik nodig voor mijn werk.<br> :date: __2021-06-29 22:20:22__
@@ -235,7 +237,5 @@ The RIVM LCI-richtlijnen app has been installed by more than **50000** times. At
 > Downloaden lukt niet.<br> :date: __2020-10-11 12:21:38__
 
 > Loopt vast in Griekenland. In dit geval Kreta. De app downloaden gaat simpel. Bij het ophalen van gegevens gaat het mis.<br> :date: __2020-08-17 09:27:25__
-
-> werkt niet geen verbinding met netwerk geeft app aan kijk uit email is ook niet actief oplichters actief<br> :date: __2020-07-29 18:46:26__
 
 

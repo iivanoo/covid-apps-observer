@@ -176,6 +176,8 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 <img src="5_star_reviews_wordcloud.png" alt="org.howwefeel 5 reviews"/>
 </p>
 
+> I like the fact that they donate meals every time I sign in<br> :date: __2021-07-11 20:24:59__
+
 > very good 🙏👍👍👍👍👍<br> :date: __2021-07-09 18:08:27__
 
 > My husband thought this was a bad idea. Big brother in your business!? I don't know, at the time everyone was concerned with the covid-19 pandemic and I didn't see the harm?<br> :date: __2021-06-06 21:11:33__
@@ -193,8 +195,6 @@ The HowWeFeel: The How We Feel Project app has been installed by more than **100
 > Great app, it helps you realize how you feel and gives you perspective<br> :date: __2021-05-02 01:24:31__
 
 > great covid pandemic-related daily symptom, activity, & mood tracker. provides daily local & nat'l vovis syats, as well as a snapshot of your moods.<br> :date: __2021-04-29 20:08:40__
-
-> Great!<br> :date: __2021-04-09 02:23:17__
 
 
 

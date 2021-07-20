@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOHs4mTcjwxTinymnWO91IVEgF2DEcPsRdlkZ2gFZYB_2TAdP5_ETT5aTKNUZPLOOJKq8MpNzrpR5ytufg",
+        "userName": "claud 955",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyk5Bm-b-vP0g43hklaRC-imnNiNklbGhVbon2Y=mo",
+        "content": "Fantastic",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-07-13 19:32:55",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEkwbTjqhPXVQH7r5M_RzxFcytaWYcyPqnr2pdjCm4vkOKe2_GjPnYkQgoV6cSPzdByWTbSS1Pwisjz8Q",
+        "userName": "Daniel Goble",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyZ6Ejr0W4c6ZIgnhwSjn0QAHdhvPuPodnC-K8=mo",
+        "content": "Great experience. Very fast. Better than seeing a doctor in person.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.9.01.000_00",
+        "at": "2021-07-11 19:10:41",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFW3NlDA1bnQGf08Du00guk5Eo8KJ2DSgreY9xY04wR6qpfKzXqFcP_lWfO8CvbCkk_DmJgkym5jHoedw",
         "userName": "Amy Smith Huff",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg1K2BY5DgZ0P3znP5sWgvdjyhGXYf4ahIu78Fl",
@@ -1298,7 +1322,7 @@
     {
         "reviewId": "gp:AOqpTOE-3s4BTcOVNL6zWQaJ95o_zn3SZ3cA2bdOd56U1ARF8ANCL4NK7l4XEUeEf3scDBES_0jTBlKbl90QxQ",
         "userName": "Renelda Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdmpiKMQ-0QiXSz__Uv-ReBpN8Lm9DyQQMlqHnYQ=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzYzC3D6YFPr_MPZENcBc0N2UXGMbRLHHEKr_XWRQ=mo",
         "content": "The the answers to my problems to go to the hospital something I didn't want to hear but thank you.",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1526,7 +1550,7 @@
     {
         "reviewId": "gp:AOqpTOEkxX9WMmq96kRxzWexNUwYZdBLg1YI-G5nj94QqOIg51jUp1oIJEeAE_FS7uGa8wXUGz8FyONyxOy2mw",
         "userName": "Brittabug",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh4L-viRKElD0cDzP5Is62YME4zpdN0NOQpwFCvEFA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEq4dDZ5oWkLD8Ifu_9eUcc6PveI4TOp3xI4gfCBQ",
         "content": "Took a while to connect with the doctor. The appointment was really rushed and I was prescribed a medicine that didn't make sense. I called customer support to try to get info on why I was prescribed the certain medicine and was told I had to \"take it or leave it or call a different doctor\". Tried calling a different physician and the physician declined my call. I would rather go to ready care.",
         "score": 1,
         "thumbsUpCount": 4,
@@ -2329,7 +2353,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFuh_mW3uZ8O6UFZqc3dqWa9c7iU7od1QAH8lMMV8cgoaZnOji16ej26eq3ybKZ9_ZR3T60eRQ9gSBtmg",
-        "userName": "K Adamz",
+        "userName": "K Adams",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzhfX-1qJoQwZ7AoUYZy13VLzQQwdHKEI-Q2X1-=mo",
         "content": "I really have not used online visits, but did one elsewhere and it worked very well!! I wonder how they are going to test our blood?",
         "score": 5,
@@ -3470,7 +3494,7 @@
     {
         "reviewId": "gp:AOqpTOEXQyMk5szIO58DXlraUmetSMj5lxQOnmL5-EJauqTKojkLMtBO9V2d5IVqDMlnaf1Uqz0O43ab0UfTRg",
         "userName": "Tina Golding-Jewett",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQcrKzQ8KXV9DXzqok_3d8R1TwBDCJ6AH-TJda",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYS_b1rbSt3iBMvy55uy1VXtG_YbcSTlJ_bhJ320U",
         "content": "I would have given it 4 or 5 stars but it can never verify my insurance so I have to manually submit.",
         "score": 3,
         "thumbsUpCount": 4,
@@ -5354,7 +5378,7 @@
     {
         "reviewId": "gp:AOqpTOEGz7wJ4-xFwYK6f2C54izkAivxoBnHwMD_FnvatOF2p2g-dRTaVxMPPciu3I1sGi0SM5JVO_kOE_seqw",
         "userName": "Danielle North",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gga4kbWSb48wc0wRQGH_vKWOc980P9IVv-Rzpxvgw",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxqqhRYz5ACh8p9M6U339lBP7u4GmQ5xoKE0lz_AQ=mo",
         "content": "edit 7/31/19 The counselors on this app have been amazing! Billing dept, no. Continuously miss bill me and I have to get it refunded which takes the rest of the month. They overdrew my account once doing this. Not worth the hassle. Can't afford all that every month. I've been having really bad problems with anxiety and this was the best option for me. I was so happy when I found I could go this route rather than the exhaustion of trying to get to the doctor",
         "score": 3,
         "thumbsUpCount": 1,

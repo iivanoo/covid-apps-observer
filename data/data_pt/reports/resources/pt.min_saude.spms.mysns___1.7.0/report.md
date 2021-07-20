@@ -154,6 +154,12 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
+> Gostava de activar o certificado como ja levei as vacinas O<br> :date: __2021-07-12 17:36:14__
+
+> Tudo ok ! Até conta as vacinas que já tomou antes!<br> :date: __2021-07-12 17:25:29__
+
+> Tenho pouca experiência, mas estou a gostar e vai-me útil<br> :date: __2021-07-12 16:47:06__
+
 > Estou satisfeito<br> :date: __2021-07-10 15:06:18__
 
 > Muito bom<br> :date: __2021-07-08 22:40:04__
@@ -167,12 +173,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Lenta na sua abertura, e de pouca utilidade. Não serve para consultar nada a não ser o número da saúde 24. Certamente o nome não corresponde à app. O que esperava era inserir o meu número de utente e ter acesso à informação médica pessoal.<br> :date: __2021-06-30 12:53:01__
 
 > Funciona bem e é bastante útil .<br> :date: __2021-06-28 21:17:51__
-
-> Não está a conseguir fazer nada mais quero é que o s lixe tudo<br> :date: __2021-06-26 20:33:04__
-
-> Bom<br> :date: __2021-06-26 16:22:46__
-
-> Muito útil<br> :date: __2021-06-25 15:01:02__
 
 
 
@@ -210,6 +210,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> O programa falha muitas vezes a leitura da impressão digital o que é necessário para mostrar o certificado covid etc.<br> :date: __2021-07-12 22:13:25__
+
 > Caros informáticos... pessoalmente gostava mais da APP antiga ou seja a anterior a esta. Possivelmente esta seja mais rápida, mais técnica, não sei, só sei que a antiga a meu ver era mais intuitiva. Convém dizer que faz o que é pretendido mas estruturalmente acho a outra melhor, mais simples. Terei que me adaptar lógico mas é a minha opinião em relação á alteração. Cumprimentos P.S- o cartão ADSE não aparece? Algum defeito na APP?! É possível resolver a questão do cartão ADSE?<br> :date: __2021-06-30 22:43:22__
 
 > Quero saber o boletim de vacinas do meu filho que não tem número de telemóvel ainda. Não consigo. Não aceita o meu número nem o da mãe, porque já estão registados. Não aceita 0000 porque não é possível. E agora?<br> :date: __2021-06-27 16:01:05__
@@ -228,8 +230,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Como consigo extrair a minha receita em papel ?<br> :date: __2021-01-15 17:35:08__
 
-> Necessita conter mais informação sobre o Utente, não está atualizado de acordo com os movimentos do Utente, faltam consultas, resultados e comunicação com o SNS. Tenho atestado de incapacidade Multiusos e não consta essa informação?!<br> :date: __2021-01-09 10:38:47__
-
 
 
 #### 2-star reviews
@@ -237,6 +237,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 2 reviews"/>
 </p>
+
+> É prática mas não funciona a 100% numas funciona ,noutras não,e para se obter o certificado digital da covid 19 está diferente dos outros países da união europeia, não aparece com o símbolo da união europeia.<br> :date: __2021-07-15 18:16:40__
 
 > Levei a 2a dose da vacina, Pfizer a 31 de maio de 2021. (Há 37 dias) Desde o dia 14 de junho, que tento obter Certificado Digital de Vacinação. Após introduzir dados solicitados,(data nascimento e número de Utente) ao Submeter, aparece a mensagem Aplicacional: "os dados não são válidos ou ainda não é possível obter o certificado"<br> :date: __2021-07-08 23:03:02__
 
@@ -256,8 +258,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 
 > Está sempre a parar de funcionar. Era bom actualizar esta app.<br> :date: __2021-03-12 12:33:48__
 
-> Nao abre no android 10. Para quango atualizacao?<br> :date: __2021-02-01 17:52:50__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,18 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Darei melhor classificação quando a aplicação me permitir entrar(fazer logg um) aparentemente não podemos mudar de número de telemóvel, diz que o meu número está errado, quando inclusive para a vacinação covid19 é este número que consta para o meu número de utente, tenho sido contactado por este número...!!!<br> :date: __2021-07-19 11:31:32__
+
+> Funciona mas para chegar até á data de nascimento é um massacre e mais não digo...<br> :date: __2021-07-17 21:34:32__
+
+> Completamente inutil<br> :date: __2021-07-16 11:17:32__
+
+> Sinceramente não consigo perceber a utilidade desta aplicação....<br> :date: __2021-07-14 23:12:10__
+
+> Ao apagarem a APP Mysns carteira pioraram a aplicação SNS24. Na parte dos acessos à APP no tlm e muito pior nas receitas. E a falha de não se saber (as farmácias sabem) quantas embalagens já foi aviadas e o prazo de validade não foi resolvida. Melhorem não estraguem...<br> :date: __2021-07-13 19:56:53__
+
+> Puro lixo...<br> :date: __2021-07-11 23:38:12__
+
 > Horrível<br> :date: __2021-07-10 11:33:57__
 
 > Para que fazer uma app se apenas o que faz e nos redireccionar para o website? Inútil, complicada, sem design...<br> :date: __2021-07-08 22:15:13__
@@ -273,17 +285,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Fraquinha, N S<br> :date: __2021-07-08 21:16:43__
 
 > Péssima aplicação!<br> :date: __2021-07-08 18:17:41__
-
-> Péssimo, minha receita foi enviada para este APP que ao abrir não tem opção para receitas. 😤 Tudo que vai fazer pede para refazer o logim<br> :date: __2021-07-05 21:43:54__
-
-> Nada funcional. 0 estrelas.<br> :date: __2021-07-03 21:16:02__
-
-> Mala<br> :date: __2021-07-02 16:26:09__
-
-> Não é funcional<br> :date: __2021-07-02 13:12:56__
-
-> Muito má aplicação, nada funcional, registo sucessivo necessário a cada acesso, ano de nascimento de acesso "paleolítico"... Aplicação de utilização horrível, sem arrumação lógica dos assuntos, sem acesso prático ao Certificado Digital COVID-19 na sua forma desmaterializada... Enfim, muito trabalho a fazer aqui!<br> :date: __2021-07-01 10:21:28__
-
-> Um nojo autêntico, pelo número de utente não fica nada gravado na app, nasci em 1961 tenho que perder uma enormidade de tempo a passar para trás mês por mês, aprendam a fazer as coisas, não dou zero estrelas porque não dá, desinstalado rápidamente<br> :date: __2021-06-27 12:43:48__
 
 

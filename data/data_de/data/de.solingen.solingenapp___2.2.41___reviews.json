@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOFJRK1fpc4aLShgAxZyUdMNBJTcS9ghCiFz-I75ArDz1eQLsCDIq7z2bEPoBcCkiuQuHVVMQ7OkQX1jwlA",
+        "userName": "Stefan Keuenhoff",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy5WPp3EnuI3ZN1YEhfN7nYRV8HXu58ICVNsdmu=mo",
+        "content": "Die App funktioniert \u00fcberhsupt nicht zufriedenstellend. Entweder Sie startet und beendet sich direkt wieder oderSie zeigt keine Inhalte .Weder Coronazahlen noch inhalte vom Rathsus oder anderen Menupunkten. Ihr solltet die App mal gr\u00fcndlich testen bevor Ihr Sie rausgebt, denn so n\u00fctzt sie nichts",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-16 10:11:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF0bW8NLn01OhnW2io5bY48JOLYi-3YK2RuBmovuDklKtMpJKvVGcDnzhjMMd4HJv1FVHsPL8n3eNMTInQ",
+        "userName": "Alessandro Pisaniello",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw4tMA5e3-JKE8wRFmwA3poyWN-jjC1HHjLPBPt=mo",
+        "content": "Wenn man als Stadt schon so eine App raus bringt, dann sollte man auch daf\u00fcr sorgen, das die auch funktioniert.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-16 10:03:34",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFl3a5n_oT4ZGYBg7VmGu4S9VIot4NhNCGTVr4JcwKdCK-RDHTdMgqO7nQpNdWTNZqO_iYd6DvzAxUrzwQ",
+        "userName": "Susann Katzinski",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhcONlpzH8lamRQN_-SL-7YNYStG3PaDyIJ3NlnCA",
+        "content": "Nach der (Mal wieder) Neuinstallation funktioniert die grad Mal wieder. Gerade als jetzt die Notfall Infos kamen, w\u00e4re eine funktionierende App klasse gewesen. Wenn sie Mal funktioniert ist sie echt n\u00fctzlich",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-15 19:16:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFkBOMDvNGQ2RBqJ-2nSPrWVM0_YgrcZS3XS_V4cBQ6lvlEdb0VYI4eqoYM1H0winydGwnDHsdy9_z-iGg",
+        "userName": "Leachim Mol",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgX1mtGRmUi5dFi0wrCwLUkumChUUmMHNrvtJlAkA",
+        "content": "Nach dem xten Update jetzt wieder lauff\u00e4hig ohne permanente Abst\u00fcrze. Hoffe, das bleibt jetzt so.",
+        "score": 4,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-14 06:57:49",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGaeVfHbTXphkakPV4IKmOPdWwin_2qQTO8E-jpVuKVJhxoduVAiEm5P9dHAD9sq5bwUMo_ouW7FMdtJ1I",
+        "userName": "Peter Eberhard",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzVJgjWNl6VjF7Mu9Zr9SN1CZHBrwv94jU7-MPR=mo",
+        "content": "Nette kleine App. Leider nach wie vor mit Macken (Server nicht erreichbar).",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-12 20:07:37",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEpqmwMiPgV7z9wE5olYEtH1huq4asKgD77nZSWjHMWFST89kgLPanxC1w_qh2qblSRGpaYqVDke3jT3bw",
         "userName": "Christina Kirk",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgtnJmLXhkAbhFr3OaGYM3Dx9vSBTQVSeDhQTZTNg",
@@ -113,7 +173,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdCoSugyL2dKJTbUna14BsXo3dDwU5T-74aM-H",
         "content": "Sehr oft Absturz - \"Verbindung zum Server erfolgreich\" - und dann ist sie wieder weg. Neu installiert dann klappt es wieder. Kein aktuelles Datum bei z.B. den Coronainzidenzen. Bei M\u00fcllentsorung wird nur das aktuelle Datum Abholdatum im Kalender eingetragen - Meldung erst am Tag der Abholung wenn die Tonne schon geleert wurde. Trotz Hinweis, dass die Erinnerung am Vortag erfolgen sollte UND Best\u00e4tigung dass das aus so sein sollte, keine \u00c4nderung. Also - SCHROTT, der wieder deinstalliert wurde !!",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-04 12:12:22",
         "replyContent": "Hallo H J L, so soll es definitiv nicht sein. \u00dcber eine R\u00fcckmeldung an appdev@solingen.de w\u00fcrden wir uns sehr freuen. Insbesondere die Abst\u00fcrze und die fehlerhafte Erinnerung w\u00fcrden wir uns gerne anschauen!",
@@ -238,18 +298,6 @@
         "at": "2021-06-07 13:06:03",
         "replyContent": "Hallo Hammer TC, danke f\u00fcr das Feedback. Der Abfallkalender steht wieder zur Verf\u00fcgung. Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
         "repliedAt": "2021-06-07 12:56:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOFkBOMDvNGQ2RBqJ-2nSPrWVM0_YgrcZS3XS_V4cBQ6lvlEdb0VYI4eqoYM1H0winydGwnDHsdy9_z-iGg",
-        "userName": "Leachim Mol",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgX1mtGRmUi5dFi0wrCwLUkumChUUmMHNrvtJlAkA",
-        "content": "Sinnlose App. Macht von einem Tag auf den anderen was sie will. Gestern ging noch diese oder jene Funktion. Heute schlie\u00dft sie sich sofort, wenn man den gleichen Punkt anw\u00e4hlt, z.B. M\u00fclltermine abrufen. Stra\u00dfe eingeben, Hausnummer w\u00e4hlen... App beendet sich von alleine. Bereits diverse solche Eingenheiten gemeldet. Ge\u00e4ndert (durch Updates) hat sich nichts. Cache geleert. De-/Neuinstalliert. Keine \u00c4nderung. Anderes Handy. Gleiches Verhalten. Endg\u00fcltig deinstalliert. Was nicht funkt. ist sinnlos.",
-        "score": 2,
-        "thumbsUpCount": 5,
-        "reviewCreatedVersion": "2.0.7",
-        "at": "2021-06-04 10:16:14",
-        "replyContent": "Hallo Leachim Mol! Vielen Dank f\u00fcr Ihr Feedback, es freut uns sehr, das zu h\u00f6ren! Das ist richtig, es folgt noch Einiges ;-) Freundliche Gr\u00fc\u00dfe Ihr Solingen App-Team",
-        "repliedAt": "2020-09-17 15:15:35"
     },
     {
         "reviewId": "gp:AOqpTOGYHUATKY1mRFU6FECfIwOBzUN4qdnhwFUv2tsVqI4s-4oGeiQ1Ct9mS2HBff7J7v8TOUZEVSSpAwK77Ks",

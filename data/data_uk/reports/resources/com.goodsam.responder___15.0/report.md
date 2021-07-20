@@ -201,9 +201,9 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="4_star_reviews_wordcloud.png" alt="com.goodsam.responder 4 reviews"/>
 </p>
 
-> Not sure who can help me but I am getting alarms about community task but there is some issue with app. It is just showing running logo but so not let me accept or reject task.<br> :date: __2021-06-17 13:36:49__
+> App keeps stopping, despite setting the two "don't kill me" optimization settings under Battery. Symptom is on-duty persistent notification disappears, then no tasks until I re-run the app.<br> :date: __2021-07-18 11:48:22__
 
-> Finally getting tasks. Whatever you did to fix the problem, thanks.<br> :date: __2021-06-13 12:11:47__
+> Not sure who can help me but I am getting alarms about community task but there is some issue with app. It is just showing running logo but so not let me accept or reject task.<br> :date: __2021-06-17 13:36:49__
 
 > Well designed and simple. Great work. For future tasks I would love to save a filter on date, or day of week. I would be more likely to find a steward shift I can attend.<br> :date: __2021-06-02 15:01:30__
 

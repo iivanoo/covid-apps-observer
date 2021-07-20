@@ -259,6 +259,8 @@ The Blue CareOnDemand – See a Doctor Online app has been installed by more tha
 <img src="3_star_reviews_wordcloud.png" alt="com.bcbssc.android.careondemand 3 reviews"/>
 </p>
 
+> As I finished entering all my info for the days visit it expired and lost all my info. I was late for my appointment even though I started 15 minutes early. Me<br> :date: __2021-07-11 21:37:31__
+
 > I love this insurance. The offers they gave need to be easier to use like money back for checkupsand flu shots<br> :date: __2019-07-26 19:14:05__
 
 > I had to log in twice, enter my ID twice, and enter my credit card info three times. Other than glitching out when entering info it was ok.<br> :date: __2019-01-22 02:22:16__

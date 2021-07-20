@@ -151,25 +151,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Good<br> :date: __2021-07-11 09:17:17__
+> Is good<br> :date: __2021-07-19 09:56:30__
 
-> Verey good<br> :date: __2021-07-11 08:15:35__
+> Good<br> :date: __2021-07-18 21:34:02__
 
-> Nic<br> :date: __2021-07-11 05:58:15__
+> adnan ashraf<br> :date: __2021-07-18 18:49:27__
 
-> Nice<br> :date: __2021-07-11 05:43:36__
+> Amazing app for UAE government<br> :date: __2021-07-18 16:16:40__
 
-> Nice app and so helpful,easy to use and save our time, but some times mobile number varification taking long time- while trying to add multiple account showing ocourd eror please pix this -<br> :date: __2021-07-11 05:24:05__
+> Good<br> :date: __2021-07-18 13:47:10__
 
-> Excellent 👌🏻😊<br> :date: __2021-07-10 19:09:28__
+> Become slow now, please rectified<br> :date: __2021-07-18 04:12:34__
 
-> Excellent service<br> :date: __2021-07-10 13:27:09__
+> Best<br> :date: __2021-07-18 02:15:09__
 
-> May application not working plz check<br> :date: __2021-07-09 18:06:56__
+> Uae<br> :date: __2021-07-17 20:14:32__
 
-> Good<br> :date: __2021-07-09 16:56:06__
+> Useful and informative.<br> :date: __2021-07-17 13:08:48__
 
-> satisfied<br> :date: __2021-07-09 15:54:46__
+> Nic<br> :date: __2021-07-17 11:35:09__
 
 
 
@@ -178,6 +178,12 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Very slow 😑😣<br> :date: __2021-07-14 20:49:47__
+
+> Nice<br> :date: __2021-07-13 13:48:20__
+
+> وايد زين<br> :date: __2021-07-12 03:58:08__
 
 > Great<br> :date: __2021-07-10 18:08:59__
 
@@ -193,12 +199,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Good<br> :date: __2021-06-29 19:07:03__
 
-> Can't we not use this app outside UAE? Even when a resident of UAE travelling outside?<br> :date: __2021-06-29 15:24:50__
-
-> Can you guys please tell me or help me if why my second DOS vaccination is not showing in my Alhosn app?<br> :date: __2021-06-29 12:31:47__
-
-> Not opening in india why..? Pl can you explain<br> :date: __2021-06-29 10:47:37__
-
 
 
 #### 3-star reviews
@@ -206,6 +206,18 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="doh.health.shield 3 reviews"/>
 </p>
+
+> My Vaccination status not updated in this app. Please help.<br> :date: __2021-07-19 07:30:29__
+
+> Both vaccine completed shows only the 2 date and reads as First Dose. Is not linking the completed vaccination<br> :date: __2021-07-18 12:04:29__
+
+> Not updating latest covid 19 result report....<br> :date: __2021-07-16 12:20:38__
+
+> Not working on samsung N8<br> :date: __2021-07-16 05:04:45__
+
+> 🤭😅 h<br> :date: __2021-07-15 11:31:09__
+
+> Faster and easy to use<br> :date: __2021-07-15 06:11:55__
 
 > Not updating.. okay... However I tried everything : uninstall/install , Logged in /out Called 800 ( 15min listening machine) WhatsApp (no reply ) Email ( not delivered).<br> :date: __2021-07-09 16:43:34__
 
@@ -215,18 +227,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 
 > Colours are not matching with results<br> :date: __2021-07-05 14:18:00__
 
-> The QR is not readable by normal QR readers which created big problems in Dubai Airport and in other international airports. Please solve the problem<br> :date: __2021-07-05 05:40:16__
-
-> My experience this app not opening help me please<br> :date: __2021-07-04 16:26:31__
-
-> This app was not opening<br> :date: __2021-07-03 10:50:07__
-
-> Crashes a lot, slow to start and eats your battery life.<br> :date: __2021-07-03 09:40:28__
-
-> Can't open<br> :date: __2021-06-30 17:40:38__
-
-> Why does my picture not appear?<br> :date: __2021-06-29 15:06:38__
-
 
 
 #### 2-star reviews
@@ -235,25 +235,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="doh.health.shield 2 reviews"/>
 </p>
 
-> I cannot open the app<br> :date: __2021-07-10 14:13:23__
+> I hadmy pcr test and though the result is updated from the clinic, it is not being updated in the app<br> :date: __2021-07-18 20:15:32__
 
-> Good<br> :date: __2021-07-08 16:00:50__
+> How are you frend to<br> :date: __2021-07-18 12:25:25__
 
-> I had a issue of login onetime password i did not receve the password plzzz solve my issue<br> :date: __2021-07-08 08:07:22__
+> فكرة ممتازة لكن طريقة تطبيقها ضعيفة، يوجد تأخير في رصد النتائج. لماذا لا يمكن النسخ واللصق لتسهيل الكتابة مثل باقي البرامج الذكية !!<br> :date: __2021-07-18 12:03:49__
 
-> Not open app why<br> :date: __2021-07-07 09:00:19__
+> The app refuse to lnstall and download<br> :date: __2021-07-17 17:12:20__
 
-> Can't add children<br> :date: __2021-07-06 09:58:53__
+> I have already taken both doses but it shows only one dose.. And that too taken on the day i got my 2nd dose.<br> :date: __2021-07-16 16:33:25__
 
-> I am trying to open this App from India, but it's not opening at all. It's still in the home page. Is there any geo restrictions for accessing the app. I tried to uninstall and install many times but still facing the same issue. Pls advise..<br> :date: __2021-07-05 06:15:16__
+> There is no option to report issues. Some PCR test results are not showing in this application.<br> :date: __2021-07-16 08:52:06__
 
-> The app is not Working properly<br> :date: __2021-07-05 06:12:40__
+> I had a issue of login onetime password i did not receve the password plzzz solve my issue<br> :date: __2021-07-13 21:32:46__
 
-> It's not accurate, and keeps making errors.<br> :date: __2021-07-04 20:12:56__
+> It has change my photo on reports which could be problematic for me.<br> :date: __2021-07-12 19:35:25__
 
-> I am vaccinated but not show on e. Last march I did vaccination. After that 4 pcr, . I called customer no answer . What should I do.?<br> :date: __2021-07-04 06:31:14__
+> I'm trying to open this application but everytime saying that Al hosan app stopping...i uninstalled and installed many times but it's same...please fix this issue as soon as possible Thanks<br> :date: __2021-07-12 19:32:37__
 
-> Does not work outside the UAE so useless<br> :date: __2021-07-03 09:41:40__
+> Not showing test status for two months, support numbers are always busy, support email inbox full and keep bouncing<br> :date: __2021-07-11 14:52:39__
 
 
 
@@ -263,24 +263,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> I can't open after successfully download, reinstalled 4 times also same issue<br> :date: __2021-07-11 11:41:26__
+> Vaccination details not updated properly, tried to reach call center,gets disconnected everytime i select technical support. Tried to contact through email, it says recepient inbox is full. Please help to resolve this issue.<br> :date: __2021-07-19 11:26:48__
 
-> QR code not working, you can't travel without scanning QR code at borders so you end up doing PCR because ALHosn doesn't display QR code properly<br> :date: __2021-07-11 10:36:05__
+> I m tring to submit but it show me tri agn ltr<br> :date: __2021-07-19 10:00:24__
 
-> QR code is not working , can't use the report for travel.<br> :date: __2021-07-11 10:35:26__
+> I am facing issue. My latest PCR report came but not shown on this Aap . Don't know how to fix this<br> :date: __2021-07-18 22:53:06__
 
-> Not working at all,my vaccine shows 4 doses instead of 2 only ,and when trying to scan the QR code ,the message appears as no data found, I logged a complaint with Al Hosn toll free with no success at all,I was given a mobile phone where to send a message explaining my issue with no response up to date.<br> :date: __2021-07-11 08:30:39__
+> It doesn't show my test results .<br> :date: __2021-07-18 22:41:37__
 
-> Excellent Servic<br> :date: __2021-07-11 08:04:58__
+> Greetings. I am trying to use ALHOSN app but it's showing my number is not registered. Please assist me with this. Regards<br> :date: __2021-07-18 09:27:06__
 
-> I DONT KNOW WHY I KEEP HAVING THE SAME ERROR MESSAGE WHEN MY NUMBERS ARE CORRECT IN DHA SYSTEM AND WHEN I LOG IN TO THIS APP. SO FRUSTRATING<br> :date: __2021-07-11 07:39:23__
+> Doesn't show my results even though the results has been sent to me via text, it still doesn't appear on the app<br> :date: __2021-07-17 14:25:20__
 
-> does not even allow me to open at all after entering all my details. I want my vaccination certificate because the company demands so but I cannot log in<br> :date: __2021-07-11 03:21:56__
+> Bad<br> :date: __2021-07-17 06:22:16__
 
-> It doesn't show my test results .<br> :date: __2021-07-11 01:11:53__
+> I am not able to add my son details ,please advice for solution...<br> :date: __2021-07-16 18:00:09__
 
-> Bad , its being 2 days since i took the PCR and got a text saying is negative, but the app is not updated.<br> :date: __2021-07-10 13:10:27__
+> worst app ever !!!!!even the otp is not accepting<br> :date: __2021-07-16 17:32:31__
 
-> The barcode doesn't work<br> :date: __2021-07-10 12:48:45__
+> I make test yesterday... the results negative until now no any update on mobile app 🤔<br> :date: __2021-07-16 11:01:38__
 
 

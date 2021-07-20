@@ -192,6 +192,8 @@ The Baptist Health - Virtual Care app has been installed by more than **10000** 
 <img src="5_star_reviews_wordcloud.png" alt="com.baptisthealth.android.bark.virtualcare 5 reviews"/>
 </p>
 
+> Now i can keep up with both facilities i have visited and I'm so glad they merged charts<br> :date: __2021-07-12 01:39:33__
+
 > Absolutely amazing!<br> :date: __2021-06-05 18:46:56__
 
 > Easy and convenient<br> :date: __2021-01-21 04:55:01__
@@ -209,8 +211,6 @@ The Baptist Health - Virtual Care app has been installed by more than **10000** 
 > This new way to visit with physicians is becoming new normal.<br> :date: __2020-04-15 16:28:57__
 
 > Wonderful! Dr. Gartman is the best!!<br> :date: __2020-04-07 21:53:58__
-
-> Very nice visit with my doctor while I'm sitting at home. Thank you so much for all your help.<br> :date: __2020-04-03 21:07:10__
 
 
 

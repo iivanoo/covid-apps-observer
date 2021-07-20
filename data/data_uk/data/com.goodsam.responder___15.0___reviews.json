@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGlVy4jQe34fG2obTQDalBOxvwuRdyMeabMmwHpZF3wC2Hhzl9Za4vw3fKsOWMeMhqe1YXSGJO2qW5KTg",
+        "userName": "Richi Jennings",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQZCxjdAjp4sqHkpxshY86IWzne3ELDUBMs2fLZg",
+        "content": "App keeps stopping, despite setting the two \"don't kill me\" optimization settings under Battery. Symptom is on-duty persistent notification disappears, then no tasks until I re-run the app.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "15.0",
+        "at": "2021-07-18 11:48:22",
+        "replyContent": "Dear Richi, whether you are alerted/tasked or not depends on the roles you have applied for, the organisation which you have choose to be under and the nearby tasks/needs. There isn't much we can do as the technology provider to please you in this case, sorry about that.",
+        "repliedAt": "2020-12-30 13:21:25"
+    },
+    {
         "reviewId": "gp:AOqpTOFlxObl5uDQVgm48IZEFaE55Nhpp8FSqM0ROoyJYufA6kITnjmrTVbBEew_imMtXRg_g49V5noe6znkTA",
         "userName": "Claire Sherwood",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz40KnEmln6xsQeewa-BltiLedElOsH9wzgxnht=mo",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxwK92YiEVAnjO96Lz-K6lsgQPukrDKQ23v0nu1=mo",
         "content": "Latest version deletes tasks I've accepted from 'future tasks' so map and contact information aren't available. D'Oh! UPDATE- thanks for your response, but no- I received a chat notification under Messages *confirming* that I\u2019d accepted the shift.",
         "score": 2,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "14.9",
         "at": "2021-07-03 21:45:00",
         "replyContent": "Hi Bill, this would happen if the task is cancelled by the referrer (usually due to vaccine delivery issues), you would also receive a push notification to tell you that it has been canceled, this would appear in the messages tab. We hope this helps!",
@@ -77,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHR16JGRZx0QLR6osZsyobhsQ-0PROUX90N4MW=mo",
         "content": "App not working properly for me any more. Says the GoodSAM Responder is running. I'm unable to accept any tasks. Another message: We are trying to obtain your location. Please make sure your location services are enabled and our App has access to them. I have uninstalled and reinstalled the App, but made no difference.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "14.8",
         "at": "2021-06-22 12:18:04",
         "replyContent": "Hi Karen, please make sure your location services are turned on and our app has access to them, the above happens if the app can not locate you. We need your location to send you nearby tasks, we have a guide here: https://www.goodsamapp.org/help",
@@ -125,23 +137,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ggqxuk1ppEgjBaW9znbiduJQ8XPrP-sLDF1AIYXlw",
         "content": "Uses mobile data like it's going out of fashion. 2 6 hour shift's and I have used 80 percent of my monthly allocation. Update - thanks for the feedback. It used 460mb in 2 weeks and I was off wi-fi for 15 hours in that time. I've had to turn mobile data off until my next month starts as I've used up my allocation, so will let you know if it's improved in July.",
         "score": 1,
-        "thumbsUpCount": 2,
+        "thumbsUpCount": 3,
         "reviewCreatedVersion": "14.8",
         "at": "2021-06-14 20:43:06",
         "replyContent": "Hi Adrian, sorry to hear this. Our apps data consumptions should be minimal, unless you are streaming, the app should not use more than a couple of mega bytes. Also we can see that your app is slightly out of date, do you mind updating it and letting us know if the problem persists?",
         "repliedAt": "2021-06-14 18:44:58"
-    },
-    {
-        "reviewId": "gp:AOqpTOGlVy4jQe34fG2obTQDalBOxvwuRdyMeabMmwHpZF3wC2Hhzl9Za4vw3fKsOWMeMhqe1YXSGJO2qW5KTg",
-        "userName": "Richi Jennings",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQZCxjdAjp4sqHkpxshY86IWzne3ELDUBMs2fLZg",
-        "content": "Finally getting tasks. Whatever you did to fix the problem, thanks.",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "14.8",
-        "at": "2021-06-13 12:11:47",
-        "replyContent": "Dear Richi, whether you are alerted/tasked or not depends on the roles you have applied for, the organisation which you have choose to be under and the nearby tasks/needs. There isn't much we can do as the technology provider to please you in this case, sorry about that.",
-        "repliedAt": "2020-12-30 13:21:25"
     },
     {
         "reviewId": "gp:AOqpTOEgB4MHgc1dy-PMoQxl5-XUkUUZHE8QlFKPyQiURSK3j51ieCObQbBY1lwagO9JgP1t8jHcjnkm7ZTYgw",
@@ -374,7 +374,7 @@
     {
         "reviewId": "gp:AOqpTOHCJetRUj7Z8sSRhUGj3KzuDG-S_74kLkDGCYgDb91pX50HCXLk6kj0g1zg-YuGQZtEqvs9VJ6PsND-Pw",
         "userName": "Tom Durkin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Giz7eTr8BFb-jZTIOjbr_VXPPom96UjAGoMhu4JRiQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYHlH4hbzXORUiJJk5-P-VWcCpPhhtCfBtd3Kwr9g",
         "content": "Please allow filtering of future tasks by day",
         "score": 4,
         "thumbsUpCount": 0,
@@ -626,7 +626,7 @@
     {
         "reviewId": "gp:AOqpTOGrctyPhm-rq8JZZt7-pL098o7LVjxS6bKXljnuetBCpYpBcV-ukH9yV9US554b0nyzNwBphQDUiNqZig",
         "userName": "Barbara Cass",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgGQBsAwJM5VoGOmwVE5okIHXrdGbWCOkCz22RB_A",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GinPuQpUzDwzfQEJqVZTevEyC-imFiA6MmV4pD5WQ",
         "content": "Since the update, this is a good app. I still haven't had a volunteering alert for the vaccination centres yet, here's hoping!",
         "score": 4,
         "thumbsUpCount": 1,
@@ -3408,18 +3408,6 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHIPcHN4CnHvCDplzemEsLv8psc-ZlVwf5R-JmpJzbbRf2GbRg9Q83Lb_Ro7SI_3LdtcuwZx-1P0V1rhA",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Update: hours total has suddenly updated, adding 5 hours. (?) Volunteering Hours frozen since last update, even though On Duty toggle is \"On\", so no idea if I'm on or off duty. Almost irrelevant anyway as not had a single alert in over 300 hours standing by. I know that isn't the developers fault - they only provide the app - but the whole idea has been badly thought through. A huge waste of manpower, resources and people's good intentions when there are obviously people out there needing help.",
-        "score": 3,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "11.2",
-        "at": "2020-05-13 14:21:17",
-        "replyContent": "Hi there, the voluntary hours is an estimate, it in no way affect any of the functionalities within the app. \n\nNHS and RVS are working hard to increase the awareness and referrals, number of tasks are increasing day by day... sorry it takes some time.\n\nHope that helps!",
-        "repliedAt": "2020-05-15 22:41:46"
-    },
-    {
         "reviewId": "gp:AOqpTOESwRjLORUauB4svZut2nJwBlb9AYZ4Fu-x3ddA-04Hd1NyeXNubYKAvHTH2Yrrt_55NU_lC-i0EKnmkA",
         "userName": "John Francois van Schalkwyk",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiTOu64CGRoZAcaUOHlKesWmkvTnIeair6oZkDz9Qw",
@@ -4250,7 +4238,7 @@
     {
         "reviewId": "gp:AOqpTOE2rkoXY8BFt0jDkovsqm5Rx8GNjlBHKvvih0JFJjM3htVUmocMZxiKjfmNZQPm_HCC8HU1ziX3gTI7mA",
         "userName": "Susan",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh437nnLWr0vAvgA3yPEi_78UzSOR-ttnA_pitBVIc",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj7je46c9mYCRPOOkpNYFaUI3Y_fOrVRwxLJUZPyIU",
         "content": "My app is not responding at all. This is for Nhs Response please advise I have reported to Google.. Unfortunately no change..",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4682,7 +4670,7 @@
     {
         "reviewId": "gp:AOqpTOGSHxIRQ5Wd9dhHXGtIiRxhzFPjLMYmJoLJdVxHE2qU02--n8XWaEFduBQo7enptUw9bM62EdZA7HbbWA",
         "userName": "Ian Parker",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhSfG1FPmFCJhHhU4ROiPoQCDRhXc6q9R1XJNwSJxQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCceUPwh4WTapQ8iNYCAtZ1MPYMRrH1u8velJG0n0",
         "content": "Has the app changed? It wouldn't open for me this morning. After uninstalling and reinstalling it opens however I am not seeing the defibrillator or report options?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -5330,7 +5318,7 @@
     {
         "reviewId": "gp:AOqpTOFf9IW1jhafJI5-YdX8SR7-fhF92FoVTvcS_nMC8Uys1faR-ACV1bQOZ9zyFRQjUPJUhiBqXFqpaOJaCg",
         "userName": "Kerry Pettitt",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJycAXEpT3Rkl_koy3qgiGQCOtmvCWhrnqvPN6Zh=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjGYF97jMrAgIB_lwyMuM5TM8IBmgxkEIFZhC_wMg",
         "content": "Easy to use",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8054,7 +8042,7 @@
     {
         "reviewId": "gp:AOqpTOF1ELese_-sjHCwzPNInXgi0KWu15cjwZof_NhbL1oW-GcpBswzh5ZKew18CeaZv1dfL84nRrfDe9_Q3A",
         "userName": "Jeanie Keena",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxzyxYdGjGsF_9qxQFgncLKNkvYXr3pwdy74iJ9=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiE4IGMoTKqmdYJebNiF1A2JKZ2W2Jcvl54Lh4LlA",
         "content": "Could not register been trying for approx 2 hours. Ready to help so fustration. What do I do now?",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8557,8 +8545,8 @@
     },
     {
         "reviewId": "gp:AOqpTOE-lNHT4RFEood_QRs-BcnSlYzsWBLlSs3dLZYoVkymDwTHiR5MrCsEZCyL4qGbRmgjFeN-GR8XcYKfIg",
-        "userName": "JP Blagburn",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GitxGZB17p8fk196I6IU0tc2rpjgLYl45vvT1obUw",
+        "userName": "Jaye Blagburn",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPj4nwhNAqNPZNZmvFuN-UMxAeipWFGXMK6NDzvQ",
         "content": "I was pleased to have the chance to be of use but sadly, this app doesn't work on my Samsung mobile phone so I had to install this on a tablet which didn't make much sense of the app when I first tried to log in. And that was as far as it was possible to get. An amazing response to a global crisis, shame our chance to make some difference is effectively inaccessible to some of us. \ud83d\ude1e",
         "score": 3,
         "thumbsUpCount": 13,
@@ -11996,6 +11984,18 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "6.9",
         "at": "2017-11-24 18:16:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFz98PZ0Jy4eOKmfiVxwLUdEqVc8TywTt_EqYne58T9_nSzUfq4nBFhjLYdawS3zhAAxUcOKCvlsfgZvg",
+        "userName": "David Hogan",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQraIHTxdwXq52iUMd3loM04ONZf3K_vtnAMIE=mo",
+        "content": "Still very buggy unfortunately",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "6.9",
+        "at": "2017-09-24 14:45:13",
         "replyContent": null,
         "repliedAt": null
     }

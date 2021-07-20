@@ -1,0 +1,48 @@
+{
+    "permissions": [
+        "com.google.android.c2dm.permission.RECEIVE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.INTERNET",
+        "android.permission.VIBRATE"
+    ],
+    "activities": [
+        "ru.covid19.droid.presentation.splash.SplashActivity",
+        "ru.covid19.droid.presentation.main.MainActivity",
+        "ru.covid19.droid.presentation.main.scanner.ScannerActivity",
+        "ru.covid19.droid.presentation.main.updateApp.UpdateAppActivity",
+        "ru.covid19.core.presentation.dev.DevActivity",
+        "ru.covid19.core.deeplink.DeeplinkActivity",
+        "com.gun0912.tedpermission.TedPermissionActivity",
+        "com.journeyapps.barcodescanner.CaptureActivity",
+        "com.google.android.gms.common.api.GoogleApiActivity"
+    ],
+    "urls": [
+        "https://firebaseremoteconfig.googleapis.com/v1/projects/%s/namespaces/%s:fetch",
+        "http://schemas.android.com/apk/res/android",
+        "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+        "https://plus.google.com/",
+        "https://google.com/search?",
+        "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=%s&rdid=%s&bundleid=%s&retry=%s",
+        "https://app-measurement.com/a",
+        "https://e.crashlytics.com/spi/v2/events",
+        "https://settings.crashlytics.com/spi/v2/platforms/android/apps/%s/settings",
+        "http://schemas.android.com/apk/res-auto",
+        "https://esia.gosuslugi.ru/",
+        "https://www.gosuslugi.ru/",
+        "https://lk.gosuslugi.ru/",
+        "https://geocode-maps.yandex.ru/",
+        "http://esia.gosuslugi.ru/usr_inf?mode=w",
+        "https://%s/%s/%s",
+        "https://www.google.com"
+    ]
+}

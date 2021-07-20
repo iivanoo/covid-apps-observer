@@ -1,5 +1,41 @@
 [
     {
+        "reviewId": "gp:AOqpTOGQm0nF-azXRm71SFId1oSPoUwPW0LtHHibTU0YfKCf8JVrwZLznpi7-GibxYbWz10Rb8UuEIX4jtr4zz0",
+        "userName": "Rong Yuan",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjEWfCDUms2186aAwWz_m52lG1GBseNWvZsGsbtA",
+        "content": "available 24hrs a day. detailed care plan",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.54.0",
+        "at": "2021-07-17 05:20:21",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE9Cky1vi7-iR7JfOFLcKt3XMh4BawvncdYzR8AIbwUqGGpuIcFqU-4f0W6JST2RF4JBPLQxyuYQ71Mz0s",
+        "userName": "Chon Pugh",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxacnP6GARqwDoVZthm75jLcLCVUywXNwIy15N6=mo",
+        "content": "This was a great way to get the care I needed.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.54.0",
+        "at": "2021-07-15 18:07:36",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGl3Dxvlt4wS0MDuz3WE6G4txC6Fkm86LVvdjKDsS0c3cWOvLnfBrnEmpYBJk4v-PxEXZ-491yHDVfVqSg",
+        "userName": "Matthew Cowan",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9glvNJPvaPoyywghCioK14MZR7gNrDuuO6Sma=mo",
+        "content": "Works great. Can't speak to cost, it's free as a work benefit.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.54.0",
+        "at": "2021-07-13 17:41:13",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEiJ89Y4k3kXYyZ9RYgmT0e790dIcJm3j4V4WoNFAnzhvI2_22K9Pbye2tU0ZPxDpRL76BSQfNVFYhGtHE",
         "userName": "LeeAnn Nguyen",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj6RbHlXZ9PBYcaUZlmAwjjUoUfVBJi8TEbsXq3zg",
@@ -365,7 +401,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiGLZYsMm5Y0pEM34yTbZqGarReqR5jSsMe-WiokQ",
         "content": "Love this app! So happy my insurance provides this service 24/7, free of charge. Currently in the middle of traveling from AZ to FL for a beach vacay, and just realized I had this awful fungal rash in a spot visible in my swimsuit! I was able to sign in for a visit while waiting to board my red-eye flight at midnight, and have my RX sent to a pharmacy at my destination to pick up on my way from the airport! Couldn't gave done this before the pandemic...so glad medicine is catching up.",
         "score": 5,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.51.0",
         "at": "2021-06-13 08:13:11",
         "replyContent": null,
@@ -3950,7 +3986,7 @@
     {
         "reviewId": "gp:AOqpTOGqdfGAwbRi0lODIWrKBVdX0tiBTTBHhxbk5uvzKY3DYAZfyqwqd53PR3jmKyAVUKskviSHwgjHEwaVCBw",
         "userName": "Kayla Slocum",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghm-r9i94pEqUCvQnmrNjInKFvK5r2IeH874OtQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjSgEv5BfSjglTl5nzOEoZJjfN4S-1A7m67sQaRYg",
         "content": "Easy to use and quick, they answer questions and give results. For me the service is free due to the plan I have.",
         "score": 5,
         "thumbsUpCount": 1,
@@ -8317,7 +8353,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF5FhT4nNuUn9yYMyh_CNpWJcE2SyRbrlsSlGpn9T9KmRED4FeaVtrOKCaL4SPQfppfhODe3D9yMunOWYQ",
-        "userName": "Diana Windham",
+        "userName": "Ivan Alexander",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwWhA4wTuOkBk094oVfiHsBG1qKPW8qgzx9w4uT=mo",
         "content": "Same rigid and dogma, same low efficiency with other doctors, but good attitude. This is why American average lives are less than Japan, South Korea and Taiwan.",
         "score": 2,
@@ -11162,7 +11198,7 @@
     {
         "reviewId": "gp:AOqpTOHCnP3YphWgdMGYYTBpmH2ZB-tVX_t7kJn81-wrWqxqGvCvGCR6iVjsufjDB2zFsoqL-cqxar0TK1EAgQ0",
         "userName": "Danielle Hayescountee",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjjMu9dBoaq40Lbts71HeEHP81gQIuyZ1OmrRbd",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh5WoImkbi87JbCqqnrD4G8uU9Oe3mZ4gQpkbaA6a4",
         "content": "Not helpful and slow",
         "score": 3,
         "thumbsUpCount": 2,
@@ -11962,41 +11998,5 @@
         "at": "2020-03-08 07:33:57",
         "replyContent": "Thank you for your sharing your experience. We are very sorry for any confusion. Please reach out to our customer support team at https://bit.ly/2sLb8on. They will be happy to assist you.",
         "repliedAt": "2020-03-16 16:38:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOFv96iJ0qs6vyYOHdFv4vDqX-TXZPy8H8PMmVohYPHibckXHf0zc_IVqjO58HgZGn_kqf4zWj8Fn3SCNs0",
-        "userName": "Jeffrey Liles",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GipR1ktTZ_mcTg2mmtHCVk3Nm1SHgBdyBvyIzKo",
-        "content": "Greatest thing ever. You can see a doctor and get an RX without leaving your home, even outside of business hours.",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "2.17.0 (2693)",
-        "at": "2020-03-08 00:49:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFNBmxjnxdiehbC5IqS7D0TJGIhZ-aM57Mqyq4tFTIHqn_HmVMXvXsoO2y6tlgvv8rRcolXEJ91hfEXuKs",
-        "userName": "Melissa Kostecki",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy5R0gvjLCT4sn6O2H0FiLao80-YkFF-ry5EUVG=mo",
-        "content": "Love using this app. It has saved me countless trips to the doctor. I'm able to chat with doctors live and upload pictures. I've used this app at 2am and someone was available. They offer doctors notes post visit so if you need to go back you can. Super helpful with 2 young kids.",
-        "score": 5,
-        "thumbsUpCount": 15,
-        "reviewCreatedVersion": "2.17.0 (2693)",
-        "at": "2020-03-07 13:54:36",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE25Q8_RD3XcqknNEf9DYq7AiCswlG1_y9xiB7V52MdVEq_0VZ0xJ10GrsMKD-yu7xoIByBzTNCwmOmCzU",
-        "userName": "miguel churropa",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxP4sRO1iJCe2XezRe_Bwdm160gwP72ZC3yQRkD=mo",
-        "content": "Legit doctors, fast results, decent app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2020-03-06 22:49:43",
-        "replyContent": null,
-        "repliedAt": null
     }
 ]

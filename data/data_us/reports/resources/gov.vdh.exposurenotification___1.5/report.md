@@ -218,6 +218,8 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 <img src="2_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 2 reviews"/>
 </p>
 
+> I would recommend avoiding this app now. When I first installed last year it worked great. Updating twice a day at regular intervals. As us Virginians got the covid shots it's performance has gotten more sporadic. Like they are now throttling notifications. When they release the mandatory mask requirement it just stopped updating period. So now I would classify this app as a movement tracking app and spyware. Please avoid it. Even there responces on Google Play are automated.<br> :date: __2021-07-15 04:08:31__
+
 > Doesn't scan for exposures every day.<br> :date: __2021-07-05 02:56:26__
 
 > I have to keep swching back and forth between covid notification apps to make this work, despite using processes fir keeping app awake and do on. Just a pain.<br> :date: __2021-06-21 18:30:22__
@@ -235,8 +237,6 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 > My exposures haven't been checked since March 3. I've followed the instructions in the FAQs, but it still won't update. I even uninstalled and reinstalled the app. 🤷<br> :date: __2021-03-26 00:48:24__
 
 > Since a recent update I get alert after alert after alert if I don't have BT or GPS enabled. One alert is enough. I don't want to have this on when I'm at home and I don't want to be constantly spammed with alerts. It is enough to make me consider deleting the app, which is counter productive, Virginia.<br> :date: __2021-03-16 10:56:08__
-
-> Does not scan every day...last scan over a week ago. Only way to fix is uninstall and redo...but then you lose the past 14 days.....for all the money virginia has been given you think they would have spent a little more on this..but no they need to work on gun control instead<br> :date: __2021-03-11 01:20:34__
 
 
 

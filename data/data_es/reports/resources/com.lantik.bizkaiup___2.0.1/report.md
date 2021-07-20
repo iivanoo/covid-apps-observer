@@ -155,8 +155,6 @@ The BizkaiUp – Bizkaia en tu móvil. Playas, agenda... app has been installed 
 
 > Amazing!<br> :date: __2021-06-03 10:42:12__
 
-> Lo ke veo es interesante y cuenta todo tipo de temas . Y playas . Muy importante . Muy completa<br> :date: __2020-06-20 11:29:39__
-
 > Información útil sobre las playas<br> :date: __2020-06-18 15:38:27__
 
 > Buena aplicación<br> :date: __2020-06-17 13:08:50__

@@ -217,6 +217,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="cat.gencat.mobi.confinApp 1 reviews"/>
 </p>
 
+> No ,funciona y actualmente tenemos que sacar certificado los que trabajamos de noche<br> :date: __2021-07-18 17:13:28__
+
+> Actualizar app no deja hacer certificados de movilidad de trabajo y nos han puesto de nuevo toque de queda<br> :date: __2021-07-16 17:40:36__
+
 > No actualiza la información. Llevamos dos días sin estado de alarma, pero allí sigue indicado como si todavía estuviera en vigor.<br> :date: __2021-05-11 09:22:27__
 
 > Se bloquea cada vez que intento entrar...<br> :date: __2021-05-07 00:55:49__
@@ -227,14 +231,10 @@ The CONFINAPP app has been installed by more than **10000** times. At this time,
 
 > Cada poco tiempo tienes que crear el perfil de nuevo y se borran los certficados que tengas preparados. No funciona nada bien.<br> :date: __2021-03-16 05:17:31__
 
-> Actualizar app<br> :date: __2021-03-15 11:57:45__
-
 > Basura,como cualquier cosa que venga del gobierno<br> :date: __2021-02-25 21:27:42__
 
 > Sólo para p*""" catalanes<br> :date: __2021-02-22 01:00:35__
 
 > Porque no se puede poner 0 estrellas. Ni siquiera se inicia la aplicación. Actualicenla, estamos esperando, año 2021<br> :date: __2021-02-17 07:57:20__
-
-> Sólo en catalán<br> :date: __2021-02-14 13:21:11__
 
 

@@ -144,6 +144,8 @@ The El Cabildo en tu móvil app has been installed by more than **100** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.osh.lagomeracomunica 5 reviews"/>
 </p>
 
+> La calidad es buena gracias<br> :date: __2021-07-19 10:06:51__
+
 > Bienn<br> :date: __2020-04-12 00:13:50__
 
 

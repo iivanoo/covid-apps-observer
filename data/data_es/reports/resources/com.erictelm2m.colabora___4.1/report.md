@@ -174,6 +174,8 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 <img src="3_star_reviews_wordcloud.png" alt="com.erictelm2m.colabora 3 reviews"/>
 </p>
 
+> Bere garaian erabilgarria izan zen, baña zergatik ez da 2020tik eguneratu? Oraintxertatuta gaudela azaldu egin beharko litzateke eta pasaporte civid bezela balio izan. Nere inguruan oso jende gutxik erabili du, gehiago ezagutarazi beharko litzateke<br> :date: __2021-07-19 08:37:13__
+
 > Comparto mis datos por sentimiento de responsabilidad, aún a la espera del contacto con los rastreadores.<br> :date: __2021-04-24 12:58:48__
 
 > Porque pone con riesgo bajo el 14-11-2020 cuando estamos a 12-02-2021. Que quiere decir que ya no funciona???<br> :date: __2021-02-12 09:48:04__
@@ -191,8 +193,6 @@ The COVID-19.eus app has been installed by more than **50000** times. At this ti
 > Estaría bien que lo anunciaran en castellano, yo he llegado aquí por un anuncio en daylimotion y nos seguimos empeñando en que todo el mundo sabe euskera cuando no es así, castellano si que sabemos todos. Esto es de interés general, por favor, ponedle sentido y permitidnos enterarnos a la primera. Edito! Mirad la respuesta, me refería a la publicidad de la app, para contestar eso la verdad es que no se para que pagan a un community manager.<br> :date: __2020-07-01 11:20:50__
 
 > He tenido el mismo problema de que pide reinstalar y no funciona. Hay que ir a aplicaciones, buscar esta aplicación, y en almacenamiento, borrar todos los datos del usuario. Después de esto funciona y mantiene los contactos<br> :date: __2020-06-30 11:39:10__
-
-> Tenía instalada la aplicación, pero me avisa de que debo descargarla otra vez porque ha expirado, lo hago pero sigue diciéndome lo mismo.<br> :date: __2020-06-28 14:42:08__
 
 
 

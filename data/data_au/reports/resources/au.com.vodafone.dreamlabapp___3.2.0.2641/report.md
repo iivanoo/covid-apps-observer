@@ -155,6 +155,14 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> Very Good. What more can one say!<br> :date: __2021-07-14 09:23:01__
+
+> Number crunching for good causes whilst you sleep is great karma. Just be warned that all that processing does mean your battery won't charge as quick or even at all if using a low power charger.<br> :date: __2021-07-14 08:24:40__
+
+> Great app, there's just one problem I have to mention; on the Galaxy S20 when 120hz is enabled and a project is being powered, the app seems to force 60hz while my phone is plugged in, which is a little irritating. Would appreciate a fix.<br> :date: __2021-07-14 03:22:04__
+
+> Unobtrusive. Does good.<br> :date: __2021-07-13 22:13:47__
+
 > Awesome app, doesn't kill battery life as I expected it would. Only suggested improvement would be to allow exporting stats to gridcoin<br> :date: __2021-07-09 11:18:10__
 
 > If it helps - do it!<br> :date: __2021-07-08 12:55:26__
@@ -167,14 +175,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Love the idea of helping with research while I sleep, feels like I'm part of a big team all working together!<br> :date: __2021-07-04 01:31:54__
 
-> Very Good.<br> :date: __2021-07-03 21:05:27__
-
-> 5 🌟 There are very few (virtual) things in life, which makes one happy. This app and the cause it enables are one, thank you!<br> :date: __2021-07-01 23:16:39__
-
-> Easy to use and cuts out if phone gets too warm until it cools, Etc<br> :date: __2021-06-30 04:04:42__
-
-> Opens yours eyes absolutely brilliant<br> :date: __2021-06-28 16:08:25__
-
 
 
 #### 4-star reviews
@@ -182,6 +182,10 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 4 reviews"/>
 </p>
+
+> Edit: since a past update, it doesn't always turn itself on when charging at 80%+. Easy to turn on manually *if* you notice. Original: Had it running fine on Android 6 & 7. Unfortunately had to change both phone and tablet! It's running equally well on 8.1 & 9. Currently using it for Covid project but will swap when it's over. If anyone used SETI@home, or uses BOINC on their PCs, it's exactly the same principle. If it stalls it's probably due to overheating so turn off & it'll be okay.<br> :date: __2021-07-19 14:03:37__
+
+> Not 100% sure how the app actually works but I use it most days while charging my phone<br> :date: __2021-07-15 05:10:44__
 
 > Its working fine on my Android A71. Suggestions: Some way to send info/ad about it to friends. Also an autostart or at least a reminder to start whenever phone is plugged in or at a set-able time every day.<br> :date: __2021-07-10 22:43:47__
 
@@ -198,10 +202,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > This is working on a Chromebook. There should be some kind of setting to reduce performance when the device gets too hot.<br> :date: __2021-05-24 04:28:34__
 
 > Sometimes the number of calculations is zero. Uninstalling and reinstalling usually works. Otherwise worthwhile app.<br> :date: __2021-05-20 10:08:34__
-
-> Sometimes, the news doesn't update unless I uninstall Dreamlab and then reinstall Dreamlab. After reinstalling Dreamlab, I see the news updated. I did it before but as of right now, the most recent Dreamlab app news was on 15 December 2020.<br> :date: __2021-05-14 07:53:33__
-
-> WARNING: You would have to literally drain your phone's battery down to 0 percent, if running DreamLab continuously for awhile makes the phone start going into the Usage-Optimisation ('Go Straight to Gaol') mode.<br> :date: __2021-05-10 06:48:02__
 
 
 
@@ -239,6 +239,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 2 reviews"/>
 </p>
 
+> Seems to spawn multiple copies of itself and kicks off even when the battery is still low, so phone gets hot and fails to charge properly. There seems to be no way to set a minimum battery level for it to start.<br> :date: __2021-07-12 00:14:28__
+
 > This is a very good idea but is buggy and crashes all over. Please fix it<br> :date: __2021-07-05 20:40:59__
 
 > It's a shame that a lot of bothersome issues are still present after such a long time. Suggestions: 1. Better tracking of contributions, possibly user-based and with highscore lists (compare Folding) across multiple devices, which motivates additionally. 2. The app is still hardly usable on some devices. LG G8S gets so hot after a few seconds that most mornings show me not a single completed calculation. Just give us an opportunity to run the calculations at 50% of CPU power to avoid this.<br> :date: __2021-06-24 10:21:54__
@@ -257,8 +259,6 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 
 > Was great, now causing issues. Now causing my phone to overheat and not charge above 86%<br> :date: __2021-03-30 08:52:27__
 
-> I was so excited to contribute to a worthy cause, but it makes my phone unusable when charging. It just needs to have some more settings.<br> :date: __2021-03-07 18:17:45__
-
 
 
 #### 1-star reviews
@@ -266,6 +266,8 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 1 reviews"/>
 </p>
+
+> I've just lost mum to cancer , this App is brilliant. Using your data while you're sleeping. It's a WAY better contribution to search than hearts on a page. I'm actually doing something. Plug in charge and start the App, do it. 💗 Please stop hijacking my dream lab project. When I want to support corona virus research, I'll do it. I should be able to choose who I want to support and when.<br> :date: __2021-07-15 11:02:56__
 
 > Revises to one star because the app is automatically changed twice the project I want to support. It chose Corona-AI (Phase 4) instead Cancer Research (Phase 2). Also no news in the news section for the last 6 months so for me app looks abandoned<br> :date: __2021-07-08 00:22:15__
 
@@ -284,7 +286,5 @@ The DreamLab app has been installed by more than **500000** times. At this time,
 > Infringement.<br> :date: __2021-04-28 17:54:55__
 
 > Very annoying and intrussive, unwanted marketing headache for those of us who don't want to be looking dozens of times to the same undesired advertisement.<br> :date: __2021-04-12 23:22:33__
-
-> App need update. It is not working well. Users posted many good ideas. Unfortunately no reaction from devs<br> :date: __2021-04-11 18:03:08__
 
 

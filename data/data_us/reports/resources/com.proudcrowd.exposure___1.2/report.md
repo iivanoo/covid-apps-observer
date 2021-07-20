@@ -144,8 +144,6 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 5 reviews"/>
 </p>
 
-> Tivoli<br> :date: __2021-06-19 17:33:27__
-
 > Cool<br> :date: __2021-06-08 13:33:56__
 
 > I could not understand in minute meet me super 8 in brooklyn center today at we 12:00pm my phone rrquyqo are yqw if you done now I can he lol p you.<br> :date: __2021-03-17 11:00:37__
@@ -163,6 +161,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Love it<br> :date: __2021-01-13 23:48:06__
 
 > Helpful💕⁦♥️⁩👏🙏👏🤗<br> :date: __2021-01-08 05:16:19__
+
+> Good<br> :date: __2021-01-02 23:36:05__
 
 
 
@@ -214,6 +214,8 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.proudcrowd.exposure 1 reviews"/>
 </p>
 
+> False information.<br> :date: __2021-07-12 02:56:16__
+
 > It goes days, sometimes months without checking for exposures. I have to remember to open it for it to work for a few days and then it lapses again until I remember to open it again. Thank goodness it didn't detect any exposures in my bedroom this morning, its first check in who knows how long *rolls eyes*. I feel safer already.<br> :date: __2021-03-21 14:20:52__
 
 > Wrong app<br> :date: __2021-02-05 07:34:11__
@@ -231,7 +233,5 @@ The Care19 Alert app has been installed by more than **10000** times. At this ti
 > Shouldn't have any sort of tracker like this. If there isn't one for the flu or any other virus we shouldn't have it for this.<br> :date: __2020-12-01 08:59:39__
 
 > App has stopped checking for recent exposures .<br> :date: __2020-11-23 04:34:00__
-
-> Doesn't do what it should. Just takes up space on your phone or tablet<br> :date: __2020-11-21 15:36:41__
 
 

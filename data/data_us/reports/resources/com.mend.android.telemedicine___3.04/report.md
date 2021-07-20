@@ -143,6 +143,8 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 5 reviews"/>
 </p>
 
+> So clear and self explanatory<br> :date: __2021-07-13 19:51:44__
+
 > Excellent<br> :date: __2021-06-16 21:11:37__
 
 > I helps<br> :date: __2021-06-06 18:25:04__
@@ -160,8 +162,6 @@ The Mend Telemedicine app has been installed by more than **50000** times. At th
 > This had made doctors appointments a breeze<br> :date: __2020-10-10 23:07:26__
 
 > Works good not to hard<br> :date: __2020-10-02 14:15:26__
-
-> It takes a minute to get the information to the doctor. But then u go into video and see a doctor within 5 minutes. I got my prescription fast. I recommend this instead of going to a walk in doctor or your regular provider. During the coronavirus . I know people are scared to go to the doctor right now. This app allows you to see a doctor and not put yourself or your family in jeopardy. I'd give 10 stars or more if that was possible. Great job to all the doctor's and nurses.<br> :date: __2020-07-05 15:04:58__
 
 
 
@@ -215,6 +215,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 1 reviews"/>
 </p>
 
+> All of a sudden it freezes constantly even on a solid internet connection please fix it was working perfect whatever you did in an update affected functionality<br> :date: __2021-07-12 23:00:45__
+
 > FRAUDULENT!!!!!!<br> :date: __2021-06-25 19:22:49__
 
 > So far all I can say is that in my estimation technology can be a real turn off. 📴<br> :date: __2021-05-26 02:18:01__
@@ -232,7 +234,5 @@ No recent reviews available with 2 stars.
 > To call this app awful is an understatement. I spent an hour trying to login and get the camera feature to work. Eventually I just called my Doctor and canceled the appointment due to this app being less helpful than a book of wet matches.<br> :date: __2020-06-29 17:17:21__
 
 > Have only gotten this to work once on my end, or it not working on there end. It tells me invited email, or password all the time even when I try to reset. Feeling like this is a waste of time. Doesn't work<br> :date: __2020-06-18 17:11:48__
-
-> A necessary app for me, but doesn't accept any information that I enter into it<br> :date: __2020-05-24 00:41:33__
 
 

@@ -181,6 +181,12 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> available 24hrs a day. detailed care plan<br> :date: __2021-07-17 05:20:21__
+
+> This was a great way to get the care I needed.<br> :date: __2021-07-15 18:07:36__
+
+> Works great. Can't speak to cost, it's free as a work benefit.<br> :date: __2021-07-13 17:41:13__
+
 > So simple and easy to use! Ask just the right questions to help with numerous situations!<br> :date: __2021-07-10 21:41:40__
 
 > Easy and effective. Glad to have the app.<br> :date: __2021-07-09 15:53:10__
@@ -194,12 +200,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > I have used this service a few times and it has always been helpful. I was surprised because I'm not seeing doctor in person BUT they are actually very personable and very helpful<br> :date: __2021-07-06 04:41:31__
 
 > Easy to use better than going in person<br> :date: __2021-07-05 19:49:27__
-
-> Cyberpunk future is already here<br> :date: __2021-07-05 17:38:54__
-
-> Convenient and expedient. Revolutionary technology.<br> :date: __2021-07-04 05:25:08__
-
-> This system is so convenient and easy to use.<br> :date: __2021-06-30 22:36:21__
 
 
 

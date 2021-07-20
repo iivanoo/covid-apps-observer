@@ -297,6 +297,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
 
+> Non rileva presenze e vibra sempre<br> :date: __2021-07-16 07:39:47__
+
 > Mi hanno detto di scaricare questa applicazione per vedere l'esito del tampone,ma non riesco.come si fa??<br> :date: __2021-02-05 13:58:01__
 
 > 🔴 Aumentate invece posti letto, posti per medici e infermieri. Garantite un servizio sanitario DEGNO di essere umani. Invece di "tracciare i contatti" inutilmente.<br> :date: __2021-01-30 17:19:36__
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Poco attendibile visto che 2 cell. stessa marca stessa persona stesso ambiente,risultati molto diversi.<br> :date: __2020-11-11 09:55:51__
 
 > Come faccio entrare se ultimontasto rosso non si ttasforma in verde clicco ok ma non succede nulla cosa è un bidone?<br> :date: __2020-11-04 16:36:37__
-
-> Ottimo<br> :date: __2020-10-20 16:15:04__
 
 

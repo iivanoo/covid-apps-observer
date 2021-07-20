@@ -145,6 +145,8 @@ The Jersey COVID Alert app has been installed by more than **10000** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="com.governmentofjersey.jerseycovidalert 5 reviews"/>
 </p>
 
+> Put color back in all apps now<br> :date: __2021-07-18 14:47:12__
+
 > Friday funkin<br> :date: __2021-07-06 17:06:38__
 
 > Very simple to use and accurate up-to-date data.<br> :date: __2021-06-17 10:42:00__

@@ -130,6 +130,8 @@ The COVID AP-HM app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.ambulis.aphm.covid 5 reviews"/>
 </p>
 
+> Bonne maniabilité du jeu ça donne envie de gagner<br> :date: __2021-07-18 19:38:58__
+
 > Très bien<br> :date: __2020-07-28 11:28:23__
 
 > Troger noel<br> :date: __2020-07-05 14:03:49__

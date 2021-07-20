@@ -159,6 +159,8 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covid19 5 reviews"/>
 </p>
 
+> Good<br> :date: __2021-07-12 04:13:56__
+
 > Simply an amazing app! You'll laugh, you'll cry, you'll reminisce on rainy days far into the future, just what a great app this is...<br> :date: __2021-06-23 02:36:37__
 
 > Thankfully we are all over again now in the same boat for a while we can chat about what we can do it again tomorrow morning if you need anything else for you so that I could help you out there is anything else I could do with my life in our own country but I am so sorry for the first few days that I am really sorry for the rest of your appointment and I hope you please let me know what time suits you best way to start work tomorrow morning if we are going back in our future and we can do it tom<br> :date: __2021-04-30 15:20:28__
@@ -176,8 +178,6 @@ The Coronavirus Australia app has been installed by more than **500000** times. 
 > Needed<br> :date: __2021-02-03 09:43:03__
 
 > This app is very good and all information that is within gives brilliant info on Covid19-firstly info on Covidsafe app to download,then Information -to upload all Government-issued to download News and to receive,keep updated on what's happening concerning the Australian People , Coronavirus Australia.There's alot of reading and research.<br> :date: __2021-02-02 15:46:51__
-
-> Helps you keep in touch with the virus<br> :date: __2021-01-29 22:24:11__
 
 
 

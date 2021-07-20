@@ -148,6 +148,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 5 reviews"/>
 </p>
 
+> Bluetooth deaktiviert Leider schaltet die App das Bluetooth bon meinem Handy aus, weswegen meine anderen Apps (Smartwatch u.a.) mir regelmäßig Probleme machen. Sonst super!<br> :date: __2021-07-13 12:18:22__
+
 > Ist kompplizizirrt<br> :date: __2021-07-03 06:20:28__
 
 > Die App funktioniert und ist sehr sicher. Hauptproblem: Viel zu wenige Leute haben sie installiert!! Vorschläge für mehr Attraktivität: Corona-News (Inzidenz, aktuelle Maßnahmen...) als Push-Nachrichten, Einbinden der 3g-Zertifikate.<br> :date: __2021-06-26 06:54:07__
@@ -165,8 +167,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > In Zeiten wie diesen ein muss👍<br> :date: __2021-05-18 08:15:28__
 
 > 😂😂😂<br> :date: __2021-05-17 16:04:26__
-
-> Gut<br> :date: __2021-05-06 13:50:59__
 
 
 
@@ -204,6 +204,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 3 reviews"/>
 </p>
 
+> Man kann hier keine QR Codes der Digitalen Impfzertifikate scannen und speichern.<br> :date: __2021-07-14 12:43:04__
+
 > Im letzten halben Monat 200 MB Mobilfunk-Daten verbraucht. Zusätzlich belegt die App mittlerweile 1,5 GB Speicherplatz. Ist das normal?<br> :date: __2021-06-15 07:36:48__
 
 > Zukunft? Wird die App auch Antikörper-Tests und Impfungen berücksichtigen? Mit dem grünen Pass braucht man die App dann eigentlich nicht mehr, oder?<br> :date: __2021-06-09 07:02:56__
@@ -221,8 +223,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Ich finde die App nicht schlecht, falls sie funktioniert und wenn sie mehr Menschen nutzen würden. Aber warum verbraucht diese App in 1 Monat 2,3 GB Daten?<br> :date: __2021-04-28 10:27:01__
 
 > Wie schaut's aus mit der Integration von erfolgten Impfungen, Testergebnissen, Registrierung z. B. in der Gastronomie? Ich hoffe, das ist alles bereits in Arbeit und wird umgehend veröffentlicht.<br> :date: __2021-04-24 17:17:57__
-
-> Die APP ist in Ordnung.<br> :date: __2021-04-23 06:44:33__
 
 
 
@@ -260,6 +260,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 1 reviews"/>
 </p>
 
+> deaktiviert sich ohne meldung wegen update..toll<br> :date: __2021-07-16 07:27:12__
+
 > Wozu belegt die App mehr als 2GB? Der Support reagiert überhaupt nicht!<br> :date: __2021-07-06 12:20:23__
 
 > Idee ist gut, dürfte aber nicht funktionieren, denn wenn ich auf gespeicherte ID's schaue hab ich oft dann kontakt zu anderen wenn ich a) auf der Autobahn alleine im Auto fahre, b) alleine zu Hause bin und c) auf einem Weg alleine spazieren gehe. Komischerweise erst 2 Kontakte wenn ich einkaufen gehe oder mich im öffentlichen Raum aufhalte zwischen anderen Personen. Kaum bin ich wieder alleine unterwegs kommen wieder vermehrt Kontakte hinzu. zertifikate hochladen fehlt<br> :date: __2021-07-03 10:24:14__
@@ -277,7 +279,5 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Die app macht meiner Meinung nach garnix aber verbraucht 856MB Speicherplatz!? Finde ich extrem übertrieben!!!!<br> :date: __2021-05-11 06:03:46__
 
 > lt. app hatte ich kontakt mit einem positiven. hab bei 1450 vlbg. angerufen, die kennen die app nicht 😳 geh morgen wieder arbeiten.<br> :date: __2021-05-02 16:22:14__
-
-> Unbrauchbsr<br> :date: __2021-05-02 09:22:27__
 
 

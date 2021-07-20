@@ -126,6 +126,8 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 5 reviews"/>
 </p>
 
+> Thank you<br> :date: __2021-07-18 16:35:56__
+
 > -----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v1.4.2.2 (GNU/Linux) mQGiBEnnWD4RBACt9/h4v9xnnGDou13y3dvOx6/t43LPPIxeJ8eX9WB+8LLuROSV lFhpHawsVAcFlmi7f7jdSRF+OvtZL9ShPKdLfwBJMNkU66/TZmPewS4m782ndtw7 8tR1cXb197Ob8kOfQB3A9yk2XZ4ei4ZC3i6wVdqHLRxABdncwu5hOF9KXwCgkxMD u4PVgChaAJzTYJ1EG+UYBIUEAJmfearb0qRAN7dEoff0FeXsEaUA6U90sEoVks0Z wNj96SA8BL+a1OoEUUfpMhiHyLuQSftxisJxTh+2QclzDviDyaTrkANjdYY7p2cq /HMdOY7LJlHaqtXmZxXjjtw5Uc2QG8UY8aziU3IE9nTjSwCXeJnuyvoizl9/I1S5 jU5SA/9WwIps4SC84ielIXiGWEqq6i6/sk4I9<br> :date: __2021-06-30 01:15:01__
 
 > Did it's job well while it was needed. Kudos to MI for trusting the science and saving lives instead of letting those poor Conservatives die of their own stupidity<br> :date: __2021-06-24 21:36:11__
@@ -143,8 +145,6 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > So far it's good.<br> :date: __2021-05-01 08:13:57__
 
 > It hasn't up dated sentence Feb. ?<br> :date: __2021-04-29 18:52:27__
-
-> I check everytime I go out. It makes me feel safe and secure.<br> :date: __2021-04-28 15:30:42__
 
 
 
@@ -238,6 +238,10 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> This app and all who are interested in it. Pure Freaks.<br> :date: __2021-07-17 18:37:02__
+
+> Ran by woke racist<br> :date: __2021-07-14 20:29:11__
+
 > Waste of space.<br> :date: __2021-07-08 03:22:29__
 
 > Covid isn't real<br> :date: __2021-07-06 08:02:32__
@@ -253,9 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Glad our great state is so great at throwing away our hard earned money. Please explain how the developers name is "State of Michigan". The State of Michigan is not just a person or a government.<br> :date: __2021-06-07 22:32:19__
 
 > MADE FOR POPULATION CONTROL<br> :date: __2021-06-06 19:07:04__
-
-> You have to be insane to give health information to the state. Edit, it's not the app I'm concerned about. It's lying bureaucrats who would use this info for political ends.<br> :date: __2021-06-06 15:04:54__
-
-> First of all the design and structure of your app is of extremely poor integration with user functionality. That's just the tip of the iceberg though. There is a lot of misinformation in this app and there's no other way to say it. What is being used here is a theory with no proven scientific fact or foundation other than slight amounts here and there that don't prove anything specific, but appear to be what is used to give support to this misinformation as some how being valid. Bad app!<br> :date: __2021-06-01 18:42:54__
 
 

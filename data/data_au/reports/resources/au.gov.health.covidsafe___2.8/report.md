@@ -134,25 +134,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 5 reviews"/>
 </p>
 
-> Easy to use and quite quick, once its through and pings tho it would be great if it goes out automatically, not manually which is another step again.<br> :date: __2021-07-11 12:54:21__
+> eccellent<br> :date: __2021-07-19 13:08:51__
 
-> I don't know<br> :date: __2021-07-11 10:07:38__
+> I am happy with this system<br> :date: __2021-07-19 12:08:13__
 
-> Updated covid app<br> :date: __2021-07-11 09:22:29__
+> Easy to use, wish there was consistency with Check In / Check Out rather than Check in / Done.<br> :date: __2021-07-19 11:37:48__
 
-> Seems to work well<br> :date: __2021-07-11 09:02:01__
+> Best government app. Hope they start including passport, vaccination certificate and national identity number.<br> :date: __2021-07-19 08:56:55__
 
-> Great if every body did it.<br> :date: __2021-07-11 08:56:42__
+> very good. we can get the information right away.<br> :date: __2021-07-19 06:15:59__
 
-> The app us working fine for me<br> :date: __2021-07-11 08:04:22__
+> Easy to use<br> :date: __2021-07-18 16:07:47__
 
-> Everything is perfect<br> :date: __2021-07-11 07:43:59__
+> We're all in this together<br> :date: __2021-07-18 05:47:04__
 
-> Excellent<br> :date: __2021-07-11 07:26:37__
+> Very informative,simple to navigate.<br> :date: __2021-07-18 02:23:04__
 
-> Always good no threat to privacy<br> :date: __2021-07-11 07:20:05__
+> Handy to have details re restrictiions. Ty<br> :date: __2021-07-17 09:29:53__
 
-> Very simple to use, always have the app in standby mode, so it's quick to login to any store.<br> :date: __2021-07-11 07:00:18__
+> No problems<br> :date: __2021-07-17 08:19:46__
 
 
 
@@ -162,25 +162,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 4 reviews"/>
 </p>
 
-> Keeps you informed and aware of Covid up ticks.<br> :date: __2021-07-11 13:12:27__
+> Blue tooth keeps dropping out<br> :date: __2021-07-19 06:55:32__
 
-> Does not always read QR codes frustrating<br> :date: __2021-07-11 08:59:33__
+> Use to check daily<br> :date: __2021-07-19 05:52:33__
 
-> We are all sacrificing our privacy and security and security for the sake of our society's survival. Hopefully there are no pervs in the agencys which has our data and misuses them.<br> :date: __2021-07-10 04:45:13__
+> It's set and forget...although Google maps tracks me better from my side.....<br> :date: __2021-07-18 04:41:24__
 
-> I get how important this app has become. I try to be diligent and have it running in the background. However, for some reason it keeps shutting down. I have to frequently check it's status and I'll often need to re-start it.<br> :date: __2021-07-10 01:51:24__
+> Unable to figure out how to indicate messages are read.<br> :date: __2021-07-17 11:40:43__
 
-> Useful information but would be better if had relevant vaccination details ie where you can get vaccinated how when etc. Also updated for variant spreads and timespan.<br> :date: __2021-07-10 01:29:44__
+> Not too bad for novice.<br> :date: __2021-07-17 10:18:52__
 
-> Good clear information.<br> :date: __2021-07-09 21:16:20__
+> The Vic app is really good it is faster which saves time at each venue<br> :date: __2021-07-17 06:52:40__
 
-> All good<br> :date: __2021-07-09 14:18:38__
+> Not to bad setting up.<br> :date: __2021-07-17 02:34:16__
 
-> Good<br> :date: __2021-07-09 13:43:07__
+> You need to wait until 11 am before you get the days tally<br> :date: __2021-07-15 22:44:03__
 
-> not sure if it has worked well or not. Has this done anything?Always have it on when I'm wondering around the shops aimlessly.Would be nice if it said "Ooh Darren your mask is on your Chin"<br> :date: __2021-07-09 13:23:48__
+> Happy with how the QR works for my wife and myself<br> :date: __2021-07-15 11:08:39__
 
-> It's very important for everyone.<br> :date: __2021-07-09 12:25:13__
+> Good<br> :date: __2021-07-15 09:28:27__
 
 
 
@@ -190,25 +190,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 3 reviews"/>
 </p>
 
-> Not update hourly<br> :date: __2021-07-11 08:54:13__
+> Good<br> :date: __2021-07-19 06:09:15__
 
-> Mb<br> :date: __2021-07-11 07:58:07__
+> One thing seems to be missing and that's some idea of how it effects the deaf community! I sign AUSLAN the Australian Deaf Language we rely on facial expressions and body language. How can I express emotion while my face is covered? How can my lips be read if my face is covered? Also it needs to allow more than one place at a time or when in a shopping complex one sign in, into the complex as I'm mixing with all inside. If I clock into the complex I have to log out and into another store.<br> :date: __2021-07-18 00:48:19__
 
-> The app needs to be capable of installation on a phone' s SD card, not just limited to internal storage.<br> :date: __2021-07-11 05:32:36__
+> No issues.<br> :date: __2021-07-18 00:01:47__
 
-> I have 2 issues with the app. To be effective, everyone around needs the app and to have Bluetooth enabled constantly. It relies on brutal honesty and battery life that supports having Bluetooth enabled for hours at a time. This is not always possible. Otherwise the app appears to work as intended.<br> :date: __2021-07-11 01:49:54__
+> Power hungry, reliably uses 60% of my battery a day.<br> :date: __2021-07-16 14:38:56__
 
-> No alerts received since having this app., only updates on number of cases.<br> :date: __2021-07-10 23:47:58__
+> Doesn't tell me hotspots or dates<br> :date: __2021-07-16 00:10:52__
 
-> I can't sign out. Sometimes I'm logged into places for days.<br> :date: __2021-07-09 23:49:38__
+> Seems to use up battery quickly.<br> :date: __2021-07-14 02:32:47__
 
-> Not sure if this app is just there to drain my battery or does it actually work? I sometimes question the efficiency of this app because if it was so effective in tracing, it wouldn't have been a nightmare for contact tracers to connect the dots and get over this COVID outbreak.<br> :date: __2021-07-09 05:58:13__
+> Unsure really of what benefit this app has.<br> :date: __2021-07-13 14:17:32__
 
-> Could be much better.<br> :date: __2021-07-09 05:38:30__
+> Chews up battery time<br> :date: __2021-07-12 09:23:31__
 
-> Nothing to see here. This app seems to be as useful as a hip pocket on a singlet.<br> :date: __2021-07-09 05:30:35__
+> The rate at which information is updated is appalling. Faster more reliable info from YouTube<br> :date: __2021-07-12 08:38:46__
 
-> Pretty ordinary. And drains battery severely<br> :date: __2021-07-09 05:05:21__
+> Who would know if it is working?<br> :date: __2021-07-11 23:36:10__
 
 
 
@@ -218,25 +218,25 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 2 reviews"/>
 </p>
 
-> I never use the app and I am not encouraged to research the app<br> :date: __2021-07-11 12:59:51__
+> I'm not sure that this app actually does anything. Has it actually been used for any contact tracing? I'll keep it on the phone for now, as it's fairly harmless (If you're worried about Big Brother tracking you on your phone, he's had that ability for more than 20 years now and with better technology than this app.). Just applied another update (19/7/21). Still think it's useless.<br> :date: __2021-07-19 06:14:45__
 
-> I cannot believe that the number of daily new cases for NSW shown in the app is different from the NSW government media release on TV news. We should use the UTC Time as the cut off time to report the daily new cases in the nation to avoid the different time zones.<br> :date: __2021-07-11 11:30:47__
+> Guys I hate this app real bad<br> :date: __2021-07-18 10:01:53__
 
-> Please stop bring peoples from overseas to Australia delta coronavirus government faults, government never think Australians, because thier get money from government and getting rich, I feel sorry for poors peoples. I don't think get my vote in this year..<br> :date: __2021-07-10 04:39:49__
+> Am unable to access western australia info. An info bar at the bottom of the page is still in the way. Im surprised it has'nt been noted before now.<br> :date: __2021-07-17 08:21:20__
 
-> I was reluctant to install the app but it seems to have become a fizzer.<br> :date: __2021-07-10 02:14:17__
+> Qr codes appear to be more reliable<br> :date: __2021-07-15 20:40:31__
 
-> Sometimes it works and sometimes it doesn't.<br> :date: __2021-07-09 14:34:05__
+> Poor design. You could use GPS and maintain 100% privacy. Contact me to ask how. Victoria just locked down over 2 cases. How much by is that costing?<br> :date: __2021-07-15 09:32:44__
 
-> Have never had my details saved for next access.<br> :date: __2021-07-09 06:19:40__
+> Please stop popping up minor update notification. Or I'll disable it and make it useless.<br> :date: __2021-07-15 06:35:16__
 
-> News article said it is inafective<br> :date: __2021-07-09 05:57:14__
+> this is about the most confusing appbever used<br> :date: __2021-07-13 19:33:43__
 
-> Not really sure what this app does any more, but I keep it on just in case. Has it actually helped in contact tracing ever?<br> :date: __2021-07-09 05:50:45__
+> Like most govt websites easier to go to 7 news or abc news<br> :date: __2021-07-13 05:46:12__
 
-> Unreliable<br> :date: __2021-07-09 05:26:55__
+> No idea how successful (or relevant) this App really is? It would be great is the Federal Government took REAL leadership and used Fiscal measures to force ALL States to follow one set of rules for all matters relating to Masks, Lockdowns, Hot Spots etc.<br> :date: __2021-07-12 10:03:45__
 
-> Not that easy to use or understand<br> :date: __2021-07-09 05:19:41__
+> Jmummm<br> :date: __2021-07-12 05:22:23__
 
 
 
@@ -246,24 +246,24 @@ The COVIDSafe app has been installed by more than **1000000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.health.covidsafe 1 reviews"/>
 </p>
 
-> Does this app actually do anything?<br> :date: __2021-07-11 12:15:15__
+> Terrible<br> :date: __2021-07-19 14:00:13__
 
-> Doesn't seem to do anything<br> :date: __2021-07-11 10:39:18__
+> It obviously doesn't work. Never heard of it ever being used to trace anyone.<br> :date: __2021-07-19 13:24:51__
 
-> Usually has me waiting up to 10 minutes from starting the app until finally scanning a code. No difference for the last two updates at least. I don't understand why there is no option to just manually type in the location. And no, writing your phone number on a publicly accessible piece of paper is no option, as it opens the door for scammers.<br> :date: __2021-07-11 08:19:15__
+> This app is complete junk! Is everyone aware that it does not work without bluetooth on! Please explain why it needs bluetooth to operate? Because of that.. i will delete this ap right now!<br> :date: __2021-07-19 11:23:50__
 
-> Uses up battery ridiculously fast, haven't heard of a single occassion it has been useful to contact tracers.<br> :date: __2021-07-11 06:51:58__
+> How is this app helping?<br> :date: __2021-07-19 08:33:01__
 
-> Hasn't been done or rolled out effectively.<br> :date: __2021-07-11 06:43:13__
+> What? An update? Will this make it work? If this app worked as it should the states wouldn't be chasing their arses when contact tracing. As usual it's another of ProMo's flops.<br> :date: __2021-07-19 08:10:54__
 
-> The State apps are far more useful and user friendly<br> :date: __2021-07-11 06:34:35__
+> Doesn't do anything. Waste of space.<br> :date: __2021-07-19 05:40:34__
 
-> Useless<br> :date: __2021-07-11 06:28:33__
+> It never did what it was supposed to. It cost millions and now in Sydney we have the Service NSW app that does everything<br> :date: __2021-07-19 02:26:03__
 
-> Hopeless<br> :date: __2021-07-11 06:13:05__
+> Useless water of tax payer money. Would rate 0 stars if possible.<br> :date: __2021-07-19 01:54:16__
 
-> Chews up phone battery. Does it really provide any useful info to contact tracers<br> :date: __2021-07-11 05:22:14__
+> Cant understand at many places i have to tap in numbers manually and minimum few other places i can just hold phone to APP<br> :date: __2021-07-18 12:42:45__
 
-> Why do I even have this app? It's always running in the background. The only notifications I get is to update it. Does it even work? Is it of use? I'm debating whether I should uninstall it but I want to do the right thing.<br> :date: __2021-07-11 04:57:01__
+> Thought I'd give it another go to help with contact tracing. App still kills my battery. Unfortunately I can't have an app that will drain most of my battery when I haven't seen a single instance in the news that it's actually helping contact tracing efforts.<br> :date: __2021-07-18 09:15:16__
 
 

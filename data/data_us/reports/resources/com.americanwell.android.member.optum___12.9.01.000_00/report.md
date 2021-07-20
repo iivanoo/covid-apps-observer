@@ -178,25 +178,25 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Was great, doctor was pleasant, listened and got us done quickly.<br> :date: __2021-07-18 02:44:14__
+
+> Awsome so much better than going to thr er the doctors are great very polite very efficent best dr appointment ive ever had now i have to go get my perscriptions so easy so convient i love this app.<br> :date: __2021-07-16 21:10:19__
+
+> Awesome<br> :date: __2021-07-15 01:42:27__
+
+> Smooth and easy<br> :date: __2021-07-14 19:20:42__
+
+> Very good<br> :date: __2021-07-14 16:56:55__
+
+> So better than going into the doctor's office not that I don't like my doctor. Thank goodness for this app it was really clear video<br> :date: __2021-07-13 16:45:06__
+
+> I love this app it is amazing 5stars no doubt<br> :date: __2021-07-12 22:13:46__
+
+> Quick and easy. Was done in 10 mins from the comfort of my home. Definitely recommend anyone who needs a quick doctor's visit.<br> :date: __2021-07-12 01:13:09__
+
 > Amazing crew and so easy to use. In this day and time it is nice to be able to handle the little things without venturing out and being exposed to more.<br> :date: __2021-07-10 18:40:04__
 
 > So comfortable and easy love this<br> :date: __2021-07-07 17:17:22__
-
-> First time and worked great<br> :date: __2021-07-07 07:32:04__
-
-> Love this . I get help without leaving my home<br> :date: __2021-07-07 02:45:42__
-
-> Fast and easy to use. I got connected really quickly and the doctor was really professional.<br> :date: __2021-07-05 19:13:39__
-
-> Need to see a doctor but you can't get to the doctors office, this is for you. It is a great app. Very easy to use and it works every time.<br> :date: __2021-07-05 05:37:56__
-
-> Great Dr's and Physician assistants! They're very attentive and listen to your concerns. I've had virtual Dr's appointments twice from my bedroom and did not have to get dressed while feeling ill. Great service! I will use it again!<br> :date: __2021-07-02 21:03:43__
-
-> Absolutely LOVE this app! It has been sooo easy to use and is super convenient. Definitely recommend.<br> :date: __2021-07-02 19:12:28__
-
-> I called my nearest urgent care and was told it was a 3 hour wait for a virtual visit. I then logged in to NowClinic and was seen within 10 minutes at almost midnight! The service and care was amazing.<br> :date: __2021-06-30 08:38:40__
-
-> The best option to handle those non emergency health issues.<br> :date: __2021-06-27 10:35:22__
 
 
 

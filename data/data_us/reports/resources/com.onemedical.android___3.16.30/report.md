@@ -229,6 +229,12 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> Access to super helpful medical help, fast and easy<br> :date: __2021-07-17 12:22:15__
+
+> Friendly, helpful, efficient, quick<br> :date: __2021-07-16 19:13:37__
+
+> Very convenient. Quick access to excellent Medical care.<br> :date: __2021-07-15 07:08:50__
+
 > Excellent in every way<br> :date: __2021-07-08 06:08:09__
 
 > Great, especially for telehealth.<br> :date: __2021-06-30 01:40:15__
@@ -242,12 +248,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > I actually downloaded the app to get my Covid Vaccine. I ended up really enjoying the service at the One Medical office in Beaverton, Oregon so much that I booked an appt the next month for birth control. It is easy to book on the app, read through documents if needed, cancel the appointment, reschedule, there's notification for reminders of your appointment day(s) ahead of time. I will also get an email and text message if I want. Super useful, and easy to use!<br> :date: __2021-06-22 08:42:45__
 
 > Love this service<br> :date: __2021-06-19 08:18:34__
-
-> It's a great app! Just wish the office check-in for Covid was not an external PDF download.<br> :date: __2021-06-09 13:05:31__
-
-> Easy to see past and upcoming appointments, schedule in visits and, best of all, the video visits are immediately available for urgent or late night concerns.<br> :date: __2021-06-05 17:28:09__
-
-> Really convenient health care<br> :date: __2021-05-25 17:42:23__
 
 
 
@@ -341,6 +341,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.onemedical.android 1 reviews"/>
 </p>
 
+> I was suddenly logged out of the app and can't login despite going so far as resetting password and uninstall/reinstalling. I've restarted my phone as well. I just get the login screen with no messages to fix. I've contacted tech support and will update. Before this issue, I loved using the app.<br> :date: __2021-07-13 04:06:12__
+
 > App will not let me log in from my Android/ Pixel phone. It takes me back to log in page without erroring out. Please fix this. I can sign into website no problem. I complained over a month ago. Changing my password did not solve it. Reloading app did not solve it.<br> :date: __2021-07-03 06:15:05__
 
 > Not allowing a log on<br> :date: __2021-06-28 20:51:44__
@@ -358,7 +360,5 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Usually love the app, but unable to login for the last 3 days. What's wrong<br> :date: __2021-06-11 21:48:42__
 
 > John Muir sent follow-up instructions after a mammogram and no one at One Medical bothered to read or act on them for 8 months.<br> :date: __2021-05-27 18:24:56__
-
-> The incompetence of this organization is legendary. Called to schedule blood work. They scheduled me for an appointment at 4pm. Get here to be told I have to see the doctor but that they close at 4pm so I can't get labs done, and insinuate its my fault why they're incompetent. So now I have to travel to another location to get blood work done. Par for the course at one medical. Tldr Called 4 labs got here,labs were closed made me go to another location.<br> :date: __2021-05-12 00:50:29__
 
 

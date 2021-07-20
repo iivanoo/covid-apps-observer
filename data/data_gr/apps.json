@@ -19,5 +19,12 @@
         "store_lang": "gr",
         "latest_crawled_version": "2.0.2",
         "latest_crawl": 1606740359
+    },
+    {
+        "id": "gr.gov.dcc.mini",
+        "store_country": "gr",
+        "store_lang": "gr",
+        "latest_crawled_version": "1.8.4",
+        "latest_crawl": 1626694333
     }
 ]

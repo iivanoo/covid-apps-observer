@@ -201,6 +201,10 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 <img src="5_star_reviews_wordcloud.png" alt="org.pennstatehealth.android.pshh.ondemand 5 reviews"/>
 </p>
 
+> Combine this with a great doctor, and you're on your way to holistic care. Goodluck on your medical journey<br> :date: __2021-07-13 18:56:41__
+
+> East to use.<br> :date: __2021-07-12 19:52:33__
+
 > Very easy to use<br> :date: __2021-06-29 15:50:03__
 
 > Great for telehealth visits. Must have good internet connection.<br> :date: __2021-06-28 15:53:58__
@@ -216,10 +220,6 @@ The Penn State Health OnDemand app has been installed by more than **10000** tim
 > Easy, smooth.<br> :date: __2021-05-27 15:44:21__
 
 > Telehealth appt went very smoothly today.<br> :date: __2021-05-21 20:55:29__
-
-> Wonderful<br> :date: __2021-05-20 16:42:32__
-
-> Really better than spending 6 hours in a car for a follow up.<br> :date: __2021-05-14 21:19:52__
 
 
 

@@ -186,25 +186,25 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Time saving faster relief for common ailments<br> :date: __2021-07-16 17:11:47__
+
+> Great experience<br> :date: __2021-07-15 21:10:23__
+
+> Fast service, friendly doctors and affordable.<br> :date: __2021-07-15 01:40:36__
+
+> Excellent care, easy access and didn't have to miss work<br> :date: __2021-07-14 19:44:31__
+
+> Total lifesaver!<br> :date: __2021-07-14 07:45:51__
+
+> Love this app<br> :date: __2021-07-13 14:16:57__
+
+> I have never used the app before. The first time. They are very friendly and easy and fast. I love it.<br> :date: __2021-07-13 13:16:01__
+
+> Easy, convenient, and fast access to doctors to treat minor illnesses. I wish I had access to my own primary care doctor in this manner. Takes the anxiety, commute, and hassle to sit in the office.<br> :date: __2021-07-11 17:05:12__
+
 > So far I like this app because I can get the help any time during the day or night the doctors are very good and help you with any concern.<br> :date: __2021-07-08 14:14:10__
 
 > Great Dr in a major time of need! Very polite! Thank you!!<br> :date: __2021-07-05 17:54:53__
-
-> I loved it the doctor!! He gave me the peace of mind, helped me and listen to all my concerns( normally the other doctors always rush at the doctor's office), but he really took his time to understand my concerns. He is amazing!!!<br> :date: __2021-07-05 07:28:16__
-
-> Doctor was very nice and easy no problems<br> :date: __2021-07-05 03:04:47__
-
-> 36 minutes from download to end of visit!<br> :date: __2021-07-02 18:52:12__
-
-> Managed to get a quick refill on my asthma meds over the weekend before a week of traveling. Made life so easy. Caring, professional. Gotta understand though that somethings are better to be seen in person for new diagnosis. this is an awesome option for maintenance and things we've experienced before.<br> :date: __2021-07-02 02:11:49__
-
-> Great<br> :date: __2021-07-01 19:14:03__
-
-> Veryhelp ful<br> :date: __2021-06-30 22:39:40__
-
-> Extremely easy to use and very helpful<br> :date: __2021-06-28 17:47:37__
-
-> The doctors are very helpful. They have answers for all my questions.<br> :date: __2021-06-27 03:22:53__
 
 
 
@@ -213,6 +213,10 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> Really good. Had a little trouble with the app finding the available provider, but otherwise really beneficial. Prevented a trip to urgent care.<br> :date: __2021-07-19 02:39:18__
+
+> Always a great experience with the platform and the providers I've chosen... my only issue is that the app warns me that it's optimized for Wi-Fi, and I usually leave home to do my appts on a 5G phone, so there are sometimes connectivity challenges.<br> :date: __2021-07-17 20:51:49__
 
 > Getting any assistance with mental help is almost impossible in my area for adults. Having this app has been a lifesaver.<br> :date: __2021-07-08 00:34:57__
 
@@ -230,10 +234,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > Ok. Difficult to tell if the other person is not talking our that the audio has cut out. Consider a visual clue? (Doctor's mouth not always visible.)<br> :date: __2021-05-15 16:16:46__
 
-> Looking for a health coach.<br> :date: __2021-05-09 19:45:45__
-
-> This is almost perfect. I would suggest everyone keep in mind the importance of being as thorough as possible with interaction. If you have a temperature and blood pressure gauge use it during visit.<br> :date: __2021-04-03 20:19:38__
-
 
 
 #### 3-star reviews
@@ -241,6 +241,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 3 reviews"/>
 </p>
+
+> I haven't used it much yet.<br> :date: __2021-07-16 16:29:03__
 
 > Kinda bigoted not having the option to my name in, being forced to have my legal dead name displayed.<br> :date: __2021-06-26 23:21:04__
 
@@ -259,8 +261,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > I had a good experience with this I was impressed with it, real simple, easy after I stared at for a minute but I'm not good with this internet stuff. I just wish they had a psychiatrist a doctor of psychology. I need a therapist as well as a doctor, I'm in need of medicine & need to vent a well.<br> :date: __2020-07-28 19:00:33__
 
 > I'm pleased with the doctors available but the app has given me an issue with the audio each time I've used it. Is there a patch available?<br> :date: __2020-07-20 00:37:19__
-
-> Not great at all. Took three tries to get through. I can't message the Dr. I talked to and I don't think the prescription was called in. Awful experience! It is fixed now after calling the company. They had to call in the script. Been on the phone most of the day.<br> :date: __2020-05-11 21:53:32__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Can't load my insurance information. Once I filled in my insurance information and click submit it got stuck.<br> :date: __2021-07-16 18:11:54__
+
 > App Always needs update. Total garbage<br> :date: __2021-06-22 20:44:57__
 
 > I registered on this app tells me my email is in use, so I go to sign in with same email, the app tells me it doesnt have my email on file. Wasted effort since I want to talk to a Dr about the side effects Im experiencing from 2nd Covid vaccine. Anthem BCBS "pretends" to have a patients interest at heary but sets up roadblocks making it difficult to see a doctor online. If I get charged for trying to register or attempting to sign on, I'll contact the insurance commissioner.<br> :date: __2021-05-24 22:04:09__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > keeps crashing!<br> :date: __2021-04-23 05:07:19__
 
 > Big scam I have a sinus infection I know what allergies feels like this is not allergies doctor didn't listen to a thing I said told them I have tried nasal sprays, sudafed, and one of the meds I had listed was zytec and ill be damned if the idiot didn't turn around and tell me to use afrin nasal spray and zytec all I needed was antibiotics I have had this for 4 or 5 days and it is getting worse dont waste your money on this big scam all they want is for you to come back in a week<br> :date: __2021-04-10 19:37:11__
-
-> 30 minutes and waiting for a doctor .. so no, this app is in no way even a tiny bit of replacement for a good old call to a hospital. If you have a cold, a sneeze or anything insignificant to get checked, something that you didn't get checked wouldn't make a difference.. rely on this app.. anything more than that and you're rolling a dice and taking your chances.<br> :date: __2021-04-10 08:38:40__
 
 

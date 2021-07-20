@@ -221,10 +221,12 @@ No recent reviews available with 3 stars.
 #### 2-star reviews
 
 <p align="center">
-
+<img src="2_star_reviews_wordcloud.png" alt="com.AppInstitute.bramleyv1 2 reviews"/>
 </p>
 
-No recent reviews available with 2 stars.
+> So much easier to just call them.<br> :date: __2021-07-12 16:33:39__
+
+
 
 #### 1-star reviews
 

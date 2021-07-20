@@ -138,6 +138,10 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="org.pathcheck.guam.bt 5 reviews"/>
 </p>
 
+> Helps people all over the he world to keep us safe and alive in the USA<br> :date: __2021-07-13 16:27:24__
+
+> Awsome<br> :date: __2021-07-11 14:19:35__
+
 > Ok.<br> :date: __2021-06-16 23:42:22__
 
 > Helpfull<br> :date: __2020-12-25 13:14:05__
@@ -153,10 +157,6 @@ The Guam Covid Alert app has been installed by more than **5000** times. At this
 > 💙💙💙<br> :date: __2020-10-05 02:24:55__
 
 > It does what's it supposed to. I feel better knowing this app is available to help If the need arises.<br> :date: __2020-09-28 09:47:53__
-
-> Cool, whatever helps, even if the app isn't what everybody expected, atleast it's a value and can probably get you started on preperation.<br> :date: __2020-09-27 02:44:47__
-
-> The best!<br> :date: __2020-09-15 11:11:33__
 
 
 

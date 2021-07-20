@@ -205,6 +205,8 @@ The Genesis Convenient CareNow app has been installed by more than **5000** time
 <img src="4_star_reviews_wordcloud.png" alt="com.genesishealth.android.gens.carenow 4 reviews"/>
 </p>
 
+> Very convenient, sound quality is low otherwise it would be 5 star<br> :date: __2021-07-12 22:25:34__
+
 > Really simple to use<br> :date: __2021-01-06 16:53:43__
 
 > It was positive<br> :date: __2020-11-18 21:36:28__

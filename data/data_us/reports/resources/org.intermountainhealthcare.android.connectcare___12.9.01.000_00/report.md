@@ -189,6 +189,10 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 <img src="5_star_reviews_wordcloud.png" alt="org.intermountainhealthcare.android.connectcare 5 reviews"/>
 </p>
 
+> Wonderful. I was out of state and got in touch with a doctor who was able to help me in just a few minutes.<br> :date: __2021-07-18 20:38:55__
+
+> Easy to use, quick, professional<br> :date: __2021-07-17 14:59:53__
+
 > I signed on and within 2 minutes I was connected with a skilled provider. I was throughly taken care of! Thank you Cody and IHC!<br> :date: __2021-06-25 17:30:02__
 
 > Great<br> :date: __2021-06-13 09:38:33__
@@ -204,10 +208,6 @@ The Intermountain Connect Care app has been installed by more than **100000** ti
 > Provider was knowledgeable and kind. And she was very helpful and quick. She gave me all the follow up advice and answered my questions. She prescribed me a medication that should help me to get better soon. Thank you!<br> :date: __2021-05-02 06:08:11__
 
 > Very useful app! Would recommend if you need a quick chat with a specialist! Much love to all the male/women doctors helping those in desperate need of medical advice as well as helping cope with there medical issues!! It's a must download so people what ever it is that's keeping you from using this app forget about it and download this fantastic app!!!! ❤️<br> :date: __2021-04-26 11:06:07__
-
-> Quick and easy. Great experience. Thanks<br> :date: __2021-04-24 19:15:14__
-
-> Very good<br> :date: __2021-04-17 18:46:15__
 
 
 

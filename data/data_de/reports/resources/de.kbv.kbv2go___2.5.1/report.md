@@ -249,6 +249,8 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 <img src="1_star_reviews_wordcloud.png" alt="de.kbv.kbv2go 1 reviews"/>
 </p>
 
+> Völlig sinnlos. Ich bin Hausarzt und möchte für meine Patienten recherchieren, wie zB Krankengymnastik nach Unterschenkelamputation budgetfrei verordnet werden kann. Stattdessen werden mir nur erneut die bekannten Kataloge zur Verfügung gestellt. Die habe ich aber eh schon in meiner Praxissoftware. Wie gesagt, völlig sinnlos und schade um die Beitragsgelder, die für diese Softwareentwicklung geflossen sind...<br> :date: __2021-07-17 12:39:30__
+
 > Früher konnte ich die App super nutzen. Leider kann sie seit Anfang lfd. Quartals nicht mehr geöffnet werden. Kataloge können nicht geladen werden. Nutzung nicht mehr möglich. Schade<br> :date: __2021-05-30 19:26:38__
 
 > Die App schließt sich sofort wieder automatisch, ich habe keine Chance sie zu öffnen!<br> :date: __2021-04-15 15:59:37__
@@ -266,7 +268,5 @@ nützlich und sehr informationreich! Habt vielen dank. Herzliche Grüße Achim!<
 > Kein Heilmittelkatalog zu finden,obwohl zu 2021 angekündigt von KBV.<br> :date: __2021-01-02 11:45:04__
 
 > Schrott kann kein Notdienst suchen was soll ich damit 0Sterne<br> :date: __2020-04-04 08:55:38__
-
-> Dauerhafte Fehlermeldung: Netzwerk getrennt. Kann keine Kataloge oder Nachrichten laden.<br> :date: __2020-03-29 13:33:04__
 
 

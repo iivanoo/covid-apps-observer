@@ -188,6 +188,14 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 5 reviews"/>
 </p>
 
+> This is the best app! Awesome to know you can get a Dr on your call.<br> :date: __2021-07-16 22:37:09__
+
+> Informative<br> :date: __2021-07-14 04:28:32__
+
+> Great app...made things so easy<br> :date: __2021-07-13 22:19:51__
+
+> I love the app<br> :date: __2021-07-12 11:57:16__
+
 > Fast and easy. The way of the future.<br> :date: __2021-07-07 22:08:51__
 
 > Good<br> :date: __2021-07-03 20:18:24__
@@ -200,14 +208,6 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 
 > Great service!<br> :date: __2021-06-29 02:11:38__
 
-> Awesone app! Very helpful.<br> :date: __2021-06-28 17:17:02__
-
-> Very good👍<br> :date: __2021-06-17 20:55:39__
-
-> Great place for your child's care.<br> :date: __2021-06-16 02:11:02__
-
-> Great experience<br> :date: __2021-06-14 19:14:29__
-
 
 
 #### 4-star reviews
@@ -215,6 +215,8 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 4 reviews"/>
 </p>
+
+> Sound was really low.<br> :date: __2021-07-15 06:50:49__
 
 > Good<br> :date: __2021-04-16 16:39:50__
 
@@ -233,8 +235,6 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 > The app works well. I do feel the camera capabilities could be better. I could not focus the image even though I know my phone is capable of doing so.<br> :date: __2020-04-07 13:46:28__
 
 > Have used this app 3 times already and really like the convenience of telemedicine. One thing I would suggest to the App developers is if they could make this app work on top of other apps for multitasking. Then I would rate 5 stars.<br> :date: __2020-03-12 13:37:10__
-
-> Very convenient<br> :date: __2020-03-12 03:57:53__
 
 
 

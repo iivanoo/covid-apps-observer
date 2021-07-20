@@ -243,6 +243,12 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.bssd.covid19 1 reviews"/>
 </p>
 
+> Wenn cose und grafik nicht akzeptiert werden bringt diese app auch nix. Bitte löschen sie meine daten. Scheint ein fake zu sein oder Schrott. Ich kotze !!!<br> :date: __2021-07-18 14:18:42__
+
+> Die App könnte dem Nutzer wenigstens Mitteilen das sie erst ab Andr. 6.0 funktionieren soll. Statt dessen gaukelt sie ein Funktionieren vor und dann geht hinterher noch nicht einmal mehr die Kamera vom Handy. Akku rausgenommen neu gestartet und als erstes die App deinstalliert. ... So etwas kann man auf die Menschheit nicht loslassen. Keine Ehre für die Entwickler!<br> :date: __2021-07-15 18:39:39__
+
+> Mist...geht nicht<br> :date: __2021-07-11 14:21:47__
+
 > Entwickelt etwas was auch funktioniert 0,0<br> :date: __2021-07-10 19:13:49__
 
 > Der gleiche Schrott wie die Warn-App, Man(n) oder Frau kann den Code nicht einscannen.<br> :date: __2021-07-02 14:43:28__
@@ -256,11 +262,5 @@ The COVID-19 app has been installed by more than **100000** times. At this time,
 > Irgendwie ist der Wurm drin<br> :date: __2021-06-20 10:24:51__
 
 > Die geht gleich wieder zu sobald man sie startet. Samsung s10 Android<br> :date: __2021-06-19 17:27:09__
-
-> Absolute Schrott App. Funktioniert nicht, wie so vieles hier in diesem Land<br> :date: __2021-06-19 12:43:10__
-
-> Guter Witz, funktioniert nicht. Hätte vor der Veröffentlichung mal getestet werden sollen.<br> :date: __2021-06-18 18:27:14__
-
-> Total unnütz für Android 11 Nutzer. Meine Filiale hat mir die Unfähigkeit der Programmier Dilettanten bestätigt.<br> :date: __2021-06-18 15:36:50__
 
 

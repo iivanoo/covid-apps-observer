@@ -165,6 +165,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="es.gva.coronavirus 3 reviews"/>
 </p>
 
+> En esta app, puedo pedir el pasaporte covid, si no me pueden decir dónde??gracias<br> :date: __2021-07-17 15:28:40__
+
 > Por favor poned la opción de conseguir el certificado de vacunación del Covid, o forma de facilitar la descarga para tenerlo offline.<br> :date: __2021-06-24 11:16:56__
 
 > Me la he bajado para ver si me entero de la 2a dosis...!!!<br> :date: __2021-06-05 18:45:23__
@@ -178,6 +180,8 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gva.coronavirus 2 reviews"/>
 </p>
+
+> Kiero un justificante de vacunacion<br> :date: __2021-07-11 17:38:15__
 
 > Si tengo que esperar a que me llamen después de poner los datos en está aplicación paso el covid antes de recibirla, sólo me apuntaron a la lista de PCR después de llamar al ambulatorio, por cierto, utilicé está app por qué si llamas al teléfono 900 del covid te salta un mensaje qué directamente te dice qué están ocupados y que lo hagas por la aplicación.<br> :date: __2021-01-29 09:31:15__
 

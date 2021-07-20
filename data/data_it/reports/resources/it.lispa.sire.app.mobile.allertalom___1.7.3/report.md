@@ -189,6 +189,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="4_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 4 reviews"/>
 </p>
 
+> Dall'ultima versione non mi arrivano più gli avvisi di allarme. Devo entrare io nell'app e verificare<br> :date: __2021-07-13 10:26:13__
+
 > Perché non si riesce a cambiare l'età....e bisogna rifare tutto....è logico che anno con anno si cambia....dovrebbe esserci la possibilità di farlo senza dover disinstallare e reinstallare....almeno io non riesco...se c'è un modo ....grazie<br> :date: __2021-05-22 09:02:31__
 
 > Non mi fa modificare la mia età è rimasta quella dell anno scorso ma per il resto funziona benissimo<br> :date: __2021-05-16 22:10:43__
@@ -206,8 +208,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Perché continua a dirmi di aggiornare e non me lo permette?<br> :date: __2021-04-22 16:38:14__
 
 > Non continuate a mandare messaggi del tipo: se non aggiorni non riceverai più le notifiche......aggiornamento al 19/ 3<br> :date: __2021-04-22 15:59:03__
-
-> 👍<br> :date: __2021-04-19 21:35:04__
 
 
 
@@ -245,6 +245,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 2 reviews"/>
 </p>
 
+> Con l'ultimo aggiornamento si verifica un bug con "lista zone" e "mappa": Quando arriva un'allerta di qualisiasi entità (giallo rossa ecc, idro, vento ecc) l'app mostra sempre prima la lista zone e se voglio vedere la mappa questa risulta non visibile fino a quando mi sposto su un'altra categoria, a quel punto ricompare la mappa e tornando indietro viene caricata anche quella iniziale in allerta.(es allerta gialla per temporali>mappa bianca>mi sposto su allerta vento>torno su temporali>mappa)<br> :date: __2021-07-15 12:48:38__
+
 > Purtroppo devo dire che, così com'è impostata, con il discorso tampone, non ha più senso. Dovrebbe essere aggiornata, vista l'enorme campagna vaccinale in corso, con l'effettuazione del tipo di vaccino somministrato.<br> :date: __2021-06-12 13:00:54__
 
 > Si poteva fare meglio<br> :date: __2021-06-06 11:48:57__
@@ -263,8 +265,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 
 > Una cosa aveva di buono: quando arrivavano le allerte meteo, vedevi la cartina della regione coi colori e poi potevi vedere il dettaglio. Ora invece c' Questa recensione è stata utile? Sì No Regione Lombardia 15/03/21 Ciao Emanuele, assicurati di aver selezionato "Mappa" dalle 3 linee in alto a destra dell'app. Per assistenza scrivi a info.allertalom@ariasp ......... Dove sono le tre linee in alto a destra? .......... Galaxy note 20 con ultima UI e ultima versione android<br> :date: __2021-04-05 19:14:35__
 
-> Con l'ultimo aggiornamento mi chiede di compilare il questionario che ho già fatto ma non va più avanti. Mi chiede di inserire un parente<br> :date: __2021-03-07 14:22:52__
-
 
 
 #### 1-star reviews
@@ -272,6 +272,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
+
+> Non mi arrivano le notifiche di allert<br> :date: __2021-07-11 09:47:58__
 
 > La disinstallo che non é mai servita a niente. Ore 17 grandinata mega, ti arrivata in mattina il solito messaggio che non fa aprire l'app. Ma un servizio cone quello delle assicurazioni che ti avvisa all'istante in base a GPS o impostazioni da scegliere non ce l'avete? Che mi frega se fate una pappardella degli eventi della Lombardia, chi la legge? Poi la parte Covid stendiamo un velo pietoso. Soldi buttati<br> :date: __2021-07-08 17:30:46__
 
@@ -290,7 +292,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Arrivano le notifiche di allerta e quando si clicca sulla notifica non mostra niente solo pagina bianca<br> :date: __2021-06-19 13:40:22__
 
 > Sistematela!! O non si apre o quando si apre è poco chiara...<br> :date: __2021-06-19 13:40:18__
-
-> Forse un anno fa andava bene, fare la domanda (hai fatto il tampone?) La app andrebbe aggiornata, visto che molte persone hanno già avuto almeno la prima dose di vaccino.<br> :date: __2021-06-12 13:06:22__
 
 

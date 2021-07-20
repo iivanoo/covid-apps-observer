@@ -215,6 +215,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
 
+> Buena<br> :date: __2021-07-18 18:49:51__
+
 > Hostelería interior al 30% y exterior al 50%. Por favor dar la información correcta. Esto no es verdad. Interior al 50 y exterior al 75. Varias veces que lo actualizan y vuelven a ponerlo mal. Falla en lo básico.<br> :date: __2021-06-26 08:47:11__
 
 > Útil<br> :date: __2021-04-20 16:53:06__
@@ -289,9 +291,13 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
-> Unha merda<br> :date: __2021-07-10 00:17:42__
+> Bastante inútil<br> :date: __2021-07-18 00:11:15__
 
-> Para que tantos permisos? Es nuestra privacidad, fotos agenda, contactos, dedicaros a lo que es la aplicación solo para covid, desinstalando.<br> :date: __2021-07-08 22:54:49__
+> Poucas veces vin app máis inútil. E o de conseguir o certificado covid a través dela, simplemente mentira.<br> :date: __2021-07-13 13:11:41__
+
+> Mala no, lo siguiente<br> :date: __2021-07-13 12:02:43__
+
+> Unha merda<br> :date: __2021-07-10 00:17:42__
 
 > Pésima, soy de muface con clave365 y no me funcionó jamás. ¿Quien diseñó la aplicación? Porfavor contraten gente competente, que tenemos un 20% de paro....<br> :date: __2021-07-06 21:24:30__
 
@@ -304,9 +310,5 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 > No tiene donde poner tus datos para que te reconozca si estás o no vacunado.... Una pérdida de tiempo...<br> :date: __2021-07-01 10:13:56__
 
 > De las peores aplicaciones que he visto, siempre da el mismo mensaje intentelo mas tarde, penosa<br> :date: __2021-06-19 11:13:43__
-
-> Una chapuza, no sirve para nada, ni siquiera para obtener el certificado de vacunacion.<br> :date: __2021-05-28 21:52:11__
-
-> A ver si actualizáis bien la info. Hay errores. La hostelería en Vigo cierra a fecha de hoy a las 23:00 no a las 21:00 como indicais en la app. Se supone que debemos instalar la App para tener la información actualizada y lo wue estáis es desinformando.<br> :date: __2021-05-14 21:23:10__
 
 

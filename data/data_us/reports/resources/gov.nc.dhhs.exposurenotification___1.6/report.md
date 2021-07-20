@@ -131,6 +131,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 5 reviews"/>
 </p>
 
+> Good So Far<br> :date: __2021-07-15 02:00:34__
+
 > Hhhhhere<br> :date: __2021-07-04 18:41:06__
 
 > Love it awesome app<br> :date: __2021-07-01 11:28:55__
@@ -148,8 +150,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > I for one think it's a great idea; yes, it is a bit of a battery drain, but, c'mon people... Can we get our priorities in line please?<br> :date: __2021-04-09 14:16:14__
 
 > Now this app is SO smart!<br> :date: __2021-03-21 19:16:45__
-
-> This comes in handy when it comes to finding out where to go and where not to go to catch covid-19<br> :date: __2021-03-21 11:58:48__
 
 
 
@@ -243,7 +243,7 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
-> Go away n a z i s<br> :date: __2021-07-10 18:46:31__
+> A waste!!<br> :date: __2021-07-16 15:32:55__
 
 > Propogandas<br> :date: __2021-07-02 09:49:41__
 

@@ -249,8 +249,6 @@ The UnityPoint Health Virtual Care app has been installed by more than **10000**
 
 > Pick a path and stick to it; MyCharts is already in use.<br> :date: __2020-05-03 04:02:48__
 
-> Not what i wanted<br> :date: __2020-02-21 13:58:46__
-
 
 
 #### 1-star reviews

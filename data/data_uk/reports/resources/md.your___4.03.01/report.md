@@ -240,6 +240,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="4_star_reviews_wordcloud.png" alt="md.your 4 reviews"/>
 </p>
 
+> Awesome.<br> :date: __2021-07-15 13:54:36__
+
 > Still learning<br> :date: __2021-02-01 18:10:39__
 
 > This is a really good app. I think it could use some more features like pain location and number scale.<br> :date: __2021-01-29 20:37:49__
@@ -257,8 +259,6 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > nice app<br> :date: __2020-11-08 15:30:38__
 
 > I feel pain and weak today. thinking of going to the E.R. the past few days.<br> :date: __2020-10-27 03:39:59__
-
-> good app<br> :date: __2020-10-21 15:36:15__
 
 
 

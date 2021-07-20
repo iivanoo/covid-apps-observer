@@ -249,6 +249,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> The app just doesn't work very well and doesn't have a friendly user interface. Don't get if around 60+ years old.<br> :date: __2021-07-17 03:20:55__
+
+> i dont get notifications<br> :date: __2021-07-16 17:28:52__
+
 > Yall need to wake up to the truth yall sheep downloading this app and believeing this pandemic<br> :date: __2021-07-10 15:24:05__
 
 > Tracking app.<br> :date: __2021-06-12 07:48:08__
@@ -264,9 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > It does not work<br> :date: __2021-04-13 21:23:16__
 
 > Useless. If you have covid you will know by... being sick!<br> :date: __2021-04-13 20:00:19__
-
-> Got a positive result through the city of mpls' testing site at the convention center today. To report my positive to the app I need a code. My results didn't come with a code.<br> :date: __2021-04-06 05:35:57__
-
-> Full of adds<br> :date: __2021-04-05 20:25:30__
 
 
