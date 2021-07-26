@@ -150,25 +150,25 @@ The CovPass app has been installed by more than **5000000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="de.rki.covpass.app 5 reviews"/>
 </p>
 
-> Super schnell und unkompliziert. Kann die 1Sterne Rezensionen überhaupt nicht nachvollziehen. Selbst bei meiner Mutter ihrem 4Jahre alten Handy war das einscannen des QR Codes ein Klacks.<br> :date: __2021-07-19 11:05:55__
+> okay<br> :date: __2021-07-23 21:11:58__
 
-> Sehr gut funktioniert, sehr einfach. Ich weiss nicht wie andere Impfzentren verfahren, aber ich wurde darüber aufgeklärt, dass diese App nur im Inland gilt. Im Ausland braucht man Impfpass bzw. Einlegeblätter.<br> :date: __2021-07-19 10:51:13__
+> Sehr gut!<br> :date: __2021-07-23 19:55:36__
 
-> Installieren, scannen fertig alles super<br> :date: __2021-07-19 08:57:13__
+> Android 11: Installation und Zertifikate per QR-Codes einlesen lief schnell und problemlos.<br> :date: __2021-07-23 19:15:19__
 
-> Tut was sie soll, nutze sie um meinen impfstatus vorzuzeigen.<br> :date: __2021-07-19 05:50:41__
+> Sehr gut. Eingescannt und wird sofort alles angezeigt.tut was es soll :))<br> :date: __2021-07-23 18:57:47__
 
-> Nichts zu bemängeln. Impfnachweis für die ganze Familie in einer App. 🙂<br> :date: __2021-07-18 22:05:35__
+> Eine schöne Erleichterung<br> :date: __2021-07-23 17:56:44__
 
-> Praktisch für die Reise. Europa lässt sich damit händeln.<br> :date: __2021-07-18 21:48:20__
+> Sehr schnell auf das Handy aufgespielt.<br> :date: __2021-07-23 17:37:12__
 
-> Einfach im Aufbau, leichtestes Einlesen des QR Codes,extrem leichte Handhabung,bestmögliche ImpfpassApp<br> :date: __2021-07-18 21:13:49__
+> QR-Code: Einscannen hat bei mir zuerst überhaupt nicht geklappt. Irgendwann habe ich den QR Code von der 1. Impfung genommen, der ging sofort und danach ging auch der QR Code von der 2. Impfung.<br> :date: __2021-07-23 16:40:16__
 
-> Die aktuelle Version vom 18.07 2021 funktioniert ganz einwandfrei. Ich bin begeistert.<br> :date: __2021-07-18 20:24:43__
+> Einfache Handhabung. App öffnen und der QR Code wird angezeigt.<br> :date: __2021-07-23 15:22:57__
 
-> Alles bislang gut und keine Probleme.<br> :date: __2021-07-18 19:24:02__
+> In Ordnung<br> :date: __2021-07-23 14:49:00__
 
-> Funktioniert super einfach und schnell mit Xiaomi Note 8 Smartphone.<br> :date: __2021-07-18 19:12:39__
+> YES ALMOST MASS WE HELP INFORMATIO WORLD THANK YOU 🌎🌐🌏🇩🇪🇩🇪🇩🇪🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸❤❤❤👍👍<br> :date: __2021-07-23 14:17:16__
 
 
 
@@ -178,25 +178,25 @@ The CovPass app has been installed by more than **5000000** times. At this time,
 <img src="4_star_reviews_wordcloud.png" alt="de.rki.covpass.app 4 reviews"/>
 </p>
 
-> Geht schlecht<br> :date: __2021-07-19 06:57:05__
+> hat beim 2. Versuch geklappt!<br> :date: __2021-07-23 12:16:54__
 
-> Gut strukturierte App, QR Codes lassen sich problemlos einlesen,<br> :date: __2021-07-19 02:48:06__
+> So an sich eigentlich eine gute App, nur das Scannen erwies sich schwer. Hier glaube ich aber, lag es bei mir an der Druckqualität des Codes, von daher halb so wild. Ich habe letztendlich den QR-Code übrr die Luca-App gescannt (hat super funktioniert), einen Screenshot gemacht und dann über den PC das Bild des klaren QR-Codes aufgerufen. Daraufhin funktionierte das Scannen auch super schnell und unkompliziert. Vondaher meiner Meinung nach wirklich akzeptabel. :-)<br> :date: __2021-07-23 12:02:42__
 
-> Die App hatte meine Impfung erst nach 13 Tagen am Abend nach mehrmaligem neu einscannen als Vollständig erkannt, ansonsten hatte ich bis jetzt keine Probleme damit.<br> :date: __2021-07-18 23:58:13__
+> Die App macht das was sie machen soll. Aber in ganz Europa (ich glaube sogar auf der ganzen Welt} wird das als "Green Pass" bezeichnet und die App Farbe ist auch grün. Nur in Deutschland ein helles blau. Sollte man das nicht ändern?<br> :date: __2021-07-23 11:08:46__
 
-> Kann bislang nichts Negatives berichten. App zeigt problemlos den Code und den Namen an. Wenn bei der Überprüfung durch Dritte der Name nicht überprüft wird, dafür kann die App ja nichts. Für Menschen mit z.B. älteren Angehörigen finde ich die Funktion sinnvoll, dass Codes anderer Menschen gespeichert werden können. Edit: -1* es sollte vielleicht das Gerätedatum mit angezeigt werden, da bei umstellen des Datums der Vollschutz früher ermogelt werden kann, als er tatsächlich vorhanden ist.<br> :date: __2021-07-18 20:34:55__
+> Bin am testen.<br> :date: __2021-07-23 07:24:42__
 
-> Ist für Ausland-Deutsche im PlayStore (fast) unerreichbar zu installieren; Hotline hat an dem Installationsproblem kein Interesse, antwortet auf Mail mit FAQ-Links. Habe nachträglich doch noch eine hilfreiche Antwort bekommen. (deshalb "Aufwertung der *-Zahl").<br> :date: __2021-07-18 16:38:26__
+> Diese App ist soweit ganz gut. Aber sie hat einen Fehler. Sie kann den QR-Code nur aus einer einzigen Richtung scannen. Damit is sie eigentlich nicht konform mit dem QR Standard.<br> :date: __2021-07-22 20:52:23__
 
-> Finde die App super, scannen war easy und es läuft auch alles. Ich würde mir aber wünschen, dass man verschiedene Sprachen einstellen kann. Schließlich soll das Zertifikat ja auch im Ausland nützlich sein.<br> :date: __2021-07-18 12:38:38__
+> Ein Widget wäre angebracht, um schnellzugriff zu erhalten!<br> :date: __2021-07-22 19:46:33__
 
-> Geht oft nicht auf<br> :date: __2021-07-18 11:21:31__
+> Scan hat einwandfrei geklappt. Schade, dass man keine weitere Person verwalten kann.<br> :date: __2021-07-22 19:04:20__
 
-> Hab mehrmals versucht zu scannen. Bis ich das nur ganz leicht gewölbte Blatt (war zum Transport gefaltet) mit dem Code flach auf den Tisch drückte (1-2mm), und siehe da. Es hat dann sofort funktioniert.<br> :date: __2021-07-18 10:57:33__
+> Hallo. Ich habe mir die CovPass App am 21.7.21 runtergeladen. Habe eine Weile hin und her überlegt diese App oder Corona Warn App. Lese mir immer die letzten 4 Rezensionen durch. Bei mir ging alles 1a. Habe ein Samsung Galaxy A42 5g. Den QR-Code von dem A4 Zettel aus der Apotheke gescannt. Hatte es mir bischen komplizierter vorgestellt. Ist doch praktischer, den Impfausweis auf dem Handy zu haben. Handy hat man immer dabei.<br> :date: __2021-07-22 13:34:03__
 
-> Wäre hilfreich, wenn Englisch unterstützt wird. Man braucht es nicht nur in Deutschland, wenn man in Urlaub ist.<br> :date: __2021-07-18 01:15:32__
+> Muss nicht bei beide Zertifikate grüne Haken sein?<br> :date: __2021-07-22 11:49:42__
 
-> 😀<br> :date: __2021-07-17 22:43:29__
+> Schade das die APP nur in Deutsch ist. Ich finde das die Weltsprachen Englisch und Französisch fehlen.<br> :date: __2021-07-22 08:30:58__
 
 
 
@@ -206,25 +206,25 @@ The CovPass app has been installed by more than **5000000** times. At this time,
 <img src="3_star_reviews_wordcloud.png" alt="de.rki.covpass.app 3 reviews"/>
 </p>
 
-> Grundsätzlich einfache App und macht was sie soll. Aber: Warum kann ich den Impfnachweis nicht für die Einreiseanmeldung exportieren? Screenshots sind nicht erlaubt und auch sonst gibt es diesbezüglich keine Funktion. Also doch wieder den Impfpass fotografieren. Das ginge besser.<br> :date: __2021-07-19 11:22:53__
+> Ein Nachweis vom Impfzentrum wird nicht auf einem Huawei P8 akzeptiert. Benutze ich die App auf einem anderen P20 Handy klappt alles.<br> :date: __2021-07-23 17:42:12__
 
-> Ist von der Bedienung ok. Aber warum zum Henker wird die komplette Immunisierung nicht mit GRÜNEM HINTERGRUND angezeigt???<br> :date: __2021-07-18 14:59:39__
+> Man hat eine App, die wir leider nur einmal nutzen konnten. Nirgendwo wird sie verwendet bzw. kann sie genutzt werden. 2 Mal wurden wir nach der Luka App gefragt. Was soll ein digitaler Corona Nachweis, wenn er im eigenen Land nicht verwendbar ist. Weiterhin Zettel ausfüllen. Armes Deutschland. 🙄<br> :date: __2021-07-23 11:00:35__
 
-> Eigentlich ist die App eine tolle Sache, funktioniert bei mir auch problemlos. ABER leider war es dem Personal in Italien nicht möglich das Dokument zu lesen, weil naja sprachprobleme und kein Qr Scanner zur Hand war. Außerdem ist es kein anerkanntes Reisedokument nochmal schade. ALSO IMPFBUCH ODER DIE PAPIERFORM MITNEHMEN dann klappt es auch überall problemlos.<br> :date: __2021-07-18 00:27:25__
+> Läuft genauso super, wie alle Corona Maßnahmen, die man mit Hilfe der EU erarbeitet hat. Siehe aktuelle Nachrichten, dass aufgrund von Sicherheitsmängeln, momentan keine digitalen Zertifikate mehr ausgestellt werden können. Hatte also gestern vormittag noch Glück. Falls die jetzt aber während meines Urlaubs auf die Idee kommen sollten, dass dieser Nachweis nicht mehr gültig wäre, dann gibt's wohl schöne Schadensersatzforderungen.<br> :date: __2021-07-22 18:00:50__
 
-> an sich eine gute App... leider nur auf deutsch...<br> :date: __2021-07-17 20:10:17__
+> Das Scannen funktionierte bei mir anfangs auch nicht, aber durch die Einstellung des Energiesparmodus auf "Keine Beschränkungen" und somit "Energiesparen schränkt App-Aktivitäten nicht ein" konnte ich es dann doch noch innerhalb von wenigen Sekunden einscannen.<br> :date: __2021-07-22 12:03:37__
 
-> Bitte den angezeigten Text in Englisch übersetzen damit es an ausländischen Flughäfen anerkannt wird<br> :date: __2021-07-17 18:13:00__
+> Tut was er soll wenn man beide Impfungen hochgeladen hat. Bei Johnson&Johnson unnötig, da auch nach den 14 Tagen weiterhin der Status unvollständiger Impfschutz angezeigt wird.<br> :date: __2021-07-22 09:50:59__
 
-> Na ja, doll ist diese App nun nicht, aber sie erfüllt ihren Zweck. Man muss beim Scannen der QR-Codes auf jeden Fall sehr viel Geduld mitbringen. Ab dann ist alles gut.<br> :date: __2021-07-17 16:09:28__
+> 3 öU2d x de c na<br> :date: __2021-07-22 09:31:38__
 
-> Funktion wird geradeso erfüllt. Zusatzleistungen wie "Häufige Fragen" sind nicht abrufbar. Warum auch, bin ja nur ein User.<br> :date: __2021-07-17 15:12:32__
+> Macht was sie soll, aber nicht mehr... Weshalb ist die app for Screenshots gesperrt? Erfahrungsgemäß wollen die meisten hotels o.ä. eine Email mit dem qr Code, was ohne Screenshotfunktion sehr umständlich ist.<br> :date: __2021-07-21 22:42:18__
 
-> Ich vermute, das hilft für den Urlaub gleich Null. Vorab: scan der QR codes ging prima. Die Anzeige des Impfschutz in Deutsch hilft im Ausland nichts! Der angezeigte QR Code in der App zeigt beim Scannen nur Hyroglyphen. Im Ausland haben die Zollbeamten natürlich bessere Lesegeräte, die das lesen können 🤔😂...vergesst es. Da gibt es sicher keinen internationalen Standard. Eine Anzeige in Englisch wäre wünschenswert.<br> :date: __2021-07-17 11:29:00__
+> Funktioniert alles. Nur das QR-Code erkennen geht etwas schwierig! 10 Versuche minimum.<br> :date: __2021-07-21 21:57:57__
 
-> Auch hier wie bei der Corona Warnapp: Zertifikate nach Update verschwunden. Was soll das, wenn nach jedem Update alles neu eingescannt werden muss und ich im Zweifel deshalb die Zertifikate immer in Papierform dabei haben muss. Klasse vor allem, wenn man unterwegs ist! Ergänzung: Zertifikate sind jetzt plötzlich wieder sichtbar. Evtl. muss man die App nach dem Update nochmals etwas später neu starten<br> :date: __2021-07-17 09:22:52__
+> Blockiert unter Android 9 die Tastatur der Enpass Passwort App. Daher habe ich CovPass wieder deinstalliert.<br> :date: __2021-07-21 15:18:36__
 
-> Der Bildschirm ist beim Scannen sehr dunkel, dadurch klappte es erst nach vielen Versuchen doch noch. Wenn ich lese, dass nach Updates alle gescannten Daten weg sind, lässt es vermuten, dass die Entwickler dieser App wahre Profis sind. Mal sehen, wie das bei mir mit der App läuft...<br> :date: __2021-07-16 18:42:21__
+> Hat die App wirklich eine scan Funktion? Bei mir, huawei p8 jedenfalls nicht. Aber nach mehrstündigen Pause und neuem Versuch.<br> :date: __2021-07-21 14:09:44__
 
 
 
@@ -234,25 +234,25 @@ The CovPass app has been installed by more than **5000000** times. At this time,
 <img src="2_star_reviews_wordcloud.png" alt="de.rki.covpass.app 2 reviews"/>
 </p>
 
-> Kann meinen qr Code nicht laden<br> :date: __2021-07-19 12:01:59__
+> Liess sich nicht herunterladen.<br> :date: __2021-07-23 18:17:56__
 
-> Andere Apps scannen das Zertifikat schon beim ersten Versuch und nicht erst nach dem 40.<br> :date: __2021-07-19 11:56:21__
+> AN Alle der Code geht nicht aufgrund des Papiers und der Druckqualität. Ladet euch die Luca app herunter dort geht der scan, dann per Screenshot an anderes Gerät wie Handy oder PC senden und dort abscannen... Dann geht es direkt!! Bitte an alle teilen<br> :date: __2021-07-23 17:08:28__
 
-> Eigentlich war alles ok bis ich jetzt hier im Urlaub das Einreiseformular für Deutschland ausfüllen wollte ! Warum kann man von seinem eigenen Daten keinen Screenshot machen würde alles viel leichter machen sind doch meine Daten und nicht die vom Robert Koch Institut kotzt mich echt an !<br> :date: __2021-07-18 15:04:00__
+> Hatte die App herunter geladen und alles war ok. Dokumente haben sich einfach scannen lassen. Von heute auf morgen hat die App nicht mehr funktioniert. Nach dem Öffnen war der Bildschirm bis auf die blaue Kopfzeile nur noch weiss und man konnte nichts mehr machen. Habe sie deinstalliert<br> :date: __2021-07-23 17:04:21__
 
-> Nette App, nur niemand hat bisher den Code eingescannt. Und das obwohl ich in vielen Restaurants war und quer durch Europa geflogen bin. Die meisten gucken nur nach den Barcode und dem Datum. Der Qr-Code könnte genauso gut zu einem Youtube Video führen, bemerken würde das niemand. Ein EU einheitliches Impfzertifikat existiert nur in der Theorie.<br> :date: __2021-07-18 12:20:26__
+> Bei mir hat nur die luca app die Codes von der Apotheke gescannt. Covpass und coronawarn keine Chance. Durch einen Tipp bin ich drauf gekommen, den Code aus luca zu screenshoten und auf ein anderes Gerät zu schicken. Von dort aus hab ichs dann mit Covpass und coronawarn gescannt, dann hats geklappt. 2 Sterne weils nicht so umständlich sein sollte, aber im Endeffekt jetzt doch funktioniert!<br> :date: __2021-07-23 14:40:36__
 
-> Erste Rezension wurde gelöscht! Zuerst wurde der QR Code nicht gescannt. Es ist notwendig, dass das Zertifikat flach auf dem Tisch liegt.<br> :date: __2021-07-18 08:12:28__
+> Nur Deutsch als Spracheinstellung. Englisch wird seit Wochen angekündigt (FAQ) aber nichts passiert. Folgt das RKI hier vielleicht dem Wunsch der Bundesregierung für uns alle Auslandsreisen möglichst schwer zu machen... ein Schelm wer böses hierbei denkt...<br> :date: __2021-07-23 09:50:20__
 
-> .. Z<br> :date: __2021-07-18 07:34:17__
+> Impzertifikate ließen sich ohne Probleme einlesen. Ich finde nicht gut, dass die Bemerkung "vollständiger Impfschutz" in Minischrift versteckt ist. Sollte Groß und Grün sein! Unmöglich ist, dass man nicht auf die wichtigsten Sprachen umschalten kann. Macht das Reisen beschwerlich.<br> :date: __2021-07-22 20:34:14__
 
-> Naja, an sich eine sehr gute App, jetzt kommt aber leider das aber, und zwar hat es wirklich verdammt lange gebraucht bis der Qr Code Scanner mal den QR mal gescannt hat, also wer wirklich viel, wirklich sehr viel Zeit hat, kann sich das einrichten.. Leider haben die keine 2€ mehr dafür rein gesteckt das es besser funktioniert..<br> :date: __2021-07-17 23:25:42__
+> Habe die App installiert ohne Probleme hab Huawei P30 wollte den QR-Code scannen beim 1. Blat hat es doch es hat lange gedauert beim 2. Blat auf Teufel komm raus es will einfach nicht gehen ich bin fertig mit meinem Latein man weiß einfach nicht genau wie man das QR-Code stellen soll es gibt kein Zeichen ich weiß gar nicht mehr wie ich das erste Mal es geschafft habe mann bewegt links rechts oben unten doch es tut sich nichts die Frage ist warum hat es beim 1. funktioniert um beim 2. nicht<br> :date: __2021-07-22 18:28:17__
 
-> Mm, Look loo LLP . OK.l L s aus qsqs odeO Tel >πzmjlp<br> :date: __2021-07-17 17:35:14__
+> Impfung für Genesene ist erst nach zwei Wochen gültig. Sollte eigentlich sofort gültig sein laut RKI<br> :date: __2021-07-22 18:14:53__
 
-> Hallo. Ich habe die App schon des öfteren gebraucht hat auch super geklappt,bis auf heute ich musste sie öffnen und alles ist gelöscht nichts mehr da ,was ist da los? Und nein ich habe nichts an meinen Einstellungen geändert und habe auch kein altes Handy.<br> :date: __2021-07-17 16:06:20__
+> Aus irgendwelchen Gründen konnte die App den QR-Code nicht vom Blatt abscannen. Weder auf meinem S7 noch auf dem S9 meines Freundes. Ich habe dann den Code über die Luca-App gescannt, einen Screenshot gemacht und diesen dann auf dem PC in voller Helligkeit angezeigt. Darüber konnte er dann gescannt werden. Es kann aber nicht sein, dass die App es selbst nicht auf die Reihe bekommt, vom Blatt zu scannen, wenn man nur dieses Blatt zur Verfügung gestellt bekommt.<br> :date: __2021-07-22 16:45:15__
 
-> QR Code Scanner katastrophal.<br> :date: __2021-07-17 12:17:51__
+> Leider funktioniert der QR Code Scanner nicht so wie er soll es fehlt schlicht ein Feld Zum reinhalten des QR Codes. Man sitzt fast 10 Minuten oder länger da um die Codes zu scannen sorry aber das muss echt verbessert werden<br> :date: __2021-07-22 15:33:12__
 
 
 
@@ -262,24 +262,24 @@ The CovPass app has been installed by more than **5000000** times. At this time,
 <img src="1_star_reviews_wordcloud.png" alt="de.rki.covpass.app 1 reviews"/>
 </p>
 
-> Empfindlichkeit eurer Scannfunktion ist mangelhaft, kein Einscannen möglich.<br> :date: __2021-07-19 12:53:23__
+> Konnte den ersten qr code nur sehr sehr schwer scannen (60 sek) . Viel zu dunkel . Lag an der App. Den Zweien hat die App nicht mehr verarbeitet. Huawei p30pro<br> :date: __2021-07-23 19:28:56__
 
-> Ich konnte meinen QR Code nicht einscannen.<br> :date: __2021-07-19 12:43:25__
+> Leider kann Mein Xiaomi Note 11 Pro nichts mit der App anfangen weder funktioniert der QR Code Reader noch sonst etwas, bitte behebt den Fehler in der App.<br> :date: __2021-07-23 18:08:01__
 
-> Alles sehr tolle Gedanken☝️. Wenn die App auch funktionieren würde‼️ der Code lässt sich nicht scannen. Dasselbe Problem gibt es bei der App Covid Check. Was nach dem Impressum vor dem selben Hersteller ist. 🤔🤔🤔.<br> :date: __2021-07-19 12:29:54__
+> Schmutz app sinnlos<br> :date: __2021-07-23 16:44:43__
 
-> App funktioniert, ist aber irgendwie sinnfrei... Im Grunde fotographiert die App nur den QR Code des Impfzertifikats und speichert den zum vorzeigen ab, kann eigendlich jedes Handy von selbst.<br> :date: __2021-07-19 12:25:50__
+> Die App erkennt die QR-Codes nicht.<br> :date: __2021-07-23 16:21:48__
 
-> Habe über die Apotheke die Impfzertifikate erhalten und in der CovPass erfolgreich eingelesen. In der CovPass Check App erhalte ich die Mitteilung, dass das Zertifikat ungültig sei und der QR-Code nicht zu einem digitalen Covid Zertifikat der EU gehöre.<br> :date: __2021-07-19 11:31:52__
+> Meine Kamera kann das Zertifikat einfach nicht erkennen. Egal was ich mache und wie ich mein Smartphone halte , der QR Code wird nicht gelesen. Mein Android ist 7.0 Was mache ich falsch ?<br> :date: __2021-07-23 16:03:59__
 
-> Nach jeder Aktualisierung ist der impfausweis/ qr Code weg. Nicht zu empfehlen.<br> :date: __2021-07-19 11:15:37__
+> Ich würde auch 0 Sterne geben.<br> :date: __2021-07-23 15:16:29__
 
-> Keine Screenshots erlaubt - Sinnlose App.<br> :date: __2021-07-19 11:15:36__
+> Es war zu erwarten das nichts geht. 3 Menschen wurden gleichzeitig zum 2ten mal geimpft. Person 1 Status unvollständig nur eine Impfung Person 2 OR Code falsch Person 3 hat funktioniert Ganz großes Kino<br> :date: __2021-07-23 13:37:33__
 
-> QR Codes eingescannt. Nach ca. 2 Wochen alle Daten weg. Den Bewertungen nach zu Urteilen leider kein Einzelfall.<br> :date: __2021-07-19 10:41:17__
+> Plötzlich funktioniert die App nicht mehr bzw meine Impfungen werden nicht mehr angezeigt<br> :date: __2021-07-23 12:58:04__
 
-> Wie bei Andra. Anfangs alles okay. Doch heute musste ich feststellen, dass nichts mehr geht. Was ist da los?<br> :date: __2021-07-19 10:35:20__
+> Der Scan funktioniert nicht.<br> :date: __2021-07-23 12:50:44__
 
-> So richtig cool wäre, wenn denn der Scanner auch funktionierte! Alles träumt von Automatisierung und KI und dann arbeitet noch nicht einmal die Eingabefunktion...<br> :date: __2021-07-19 10:25:15__
+> Scannt Code nicht<br> :date: __2021-07-23 12:26:44__
 
 

@@ -139,6 +139,12 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 5 reviews"/>
 </p>
 
+> Keeps switching off<br> :date: __2021-07-23 08:34:43__
+
+> 😷🤒🤧💉If you test positive, please use this app and tell the app you tested positive by using the code you get with your positive results, if no code call the number on the app. Don't be selfish and not use the app properly. Keep safe 😷🤒🤧🤬💉<br> :date: __2021-07-22 20:29:03__
+
+> Good<br> :date: __2021-07-21 22:56:30__
+
 > Verry good<br> :date: __2021-07-16 10:49:06__
 
 > Always seems to work<br> :date: __2021-07-09 19:05:14__
@@ -152,12 +158,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > a good company with personal information.<br> :date: __2021-06-08 17:01:15__
 
 > Excellent<br> :date: __2021-05-30 12:22:39__
-
-> No issues. Runs in the background. My Bluetooth always on for car anyway. Its never going to be perfectly accurate but it's one tool not a complete solution.<br> :date: __2021-05-22 14:11:17__
-
-> Clever, simple app, it helps fight Covid while protecting your privacy<br> :date: __2021-05-19 08:23:31__
-
-> A bit of a pain to drain battery keeping bluetooth/location on constantly, but a small price to pay for public health & safety!<br> :date: __2021-05-17 06:42:30__
 
 
 
@@ -223,6 +223,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
+> Can't get it to connect with my phone<br> :date: __2021-07-19 15:54:03__
+
 > I have used this app for almost a year now and it was working perfectly, until i had to replace my phone now it will not work anymore. Unfortunately i now find that the app is now useless as it will not allow access to the exposure check's so i have no idea if i have been in contact with someone who may have put info on about a positive covid test. So i now find the app a total pain and now worth having anymore.<br> :date: __2021-07-14 11:15:28__
 
 > Should have a code scanner on app for cheak in to pubs restaurants like the English app has<br> :date: __2021-07-09 12:37:02__
@@ -241,8 +243,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > Twice in three days I was contacted to isolate for 10 days despite never being in anyone's company inside or out within two meters I haven't even been near my own family. If passing someone on a pavement within seconds triggers the app for you to isolate then what's the point? They sell coffee at a door where people congregate on a pavement less than two meters to get past?<br> :date: __2021-03-13 10:03:34__
 
-> Gave me a notification saying I had been in contact with someone with covid and had to self isolate....10 days AFTER I had been in contact with them and I only had to isolate for 1 day?? Not convinced it works or it is very slow to update you.<br> :date: __2021-02-19 14:05:01__
-
 
 
 #### 1-star reviews
@@ -250,6 +250,10 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> Absolute Garbage<br> :date: __2021-07-22 16:05:11__
+
+> Used to give weekly exposure checks now nothing since june. Worked perfectly before so I don't know if it works anymore<br> :date: __2021-07-21 13:37:39__
 
 > I didn't download this app yet it ended up on my phone. I'm a BUPA season ticket holder and I'll be voting tory in the next election as I hate r NHS and want it to die.<br> :date: __2021-07-19 00:53:22__
 
@@ -266,9 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Not a chance in hell would I install this...I wear a mask and keep my hands clean..been using public transport through out the pandemic and have NVR tested positive...it's a fkn farce.<br> :date: __2021-07-09 19:03:37__
 
 > Not compatible with English system so complete waste of time using it while on holiday<br> :date: __2021-07-09 18:37:42__
-
-> Total garbage. Apart from the fact that technically the app doesn't work that well, it clearly expects me to walk around all day with an 'open' phone. Surely a wet dream for bureaucracy. It's never going to happen.<br> :date: __2021-07-09 13:43:45__
-
-> Dosent even work, I was sitting next someone who done 2 rapid tests that was then registeredb on the app and nothing all day. No alert saying that the person right next to you positive<br> :date: __2021-07-08 00:13:12__
 
 

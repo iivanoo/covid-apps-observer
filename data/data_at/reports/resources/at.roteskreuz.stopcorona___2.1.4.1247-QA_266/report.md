@@ -176,6 +176,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
+> Bringt halt nix, wenns keiner nutzt<br> :date: __2021-07-20 06:33:16__
+
 > Habs die App nicht installiert und werds auch nicht tun bis es nicht zuverlässig funktioniert! Quarantäne gehen nur auf Vermutung will keiner!<br> :date: __2021-05-13 18:19:38__
 
 > Also die Idee dahinter war gut<br> :date: __2021-05-11 14:37:10__
@@ -193,8 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Warum muss plötzlich der Standort aktiviert werden? Ich bekomme mehrmals täglich den Hinweis dass es sonst nicht funktioniert...<br> :date: __2021-03-26 06:24:26__
 
 > An sich gute App, leider benutzt das fast niemand<br> :date: __2021-03-24 11:52:48__
-
-> Alles im grünen Bereich<br> :date: __2021-03-20 10:41:39__
 
 
 

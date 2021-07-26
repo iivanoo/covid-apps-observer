@@ -185,25 +185,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="5_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 5 reviews"/>
 </p>
 
-> Easy to use and good to feel you are adding to the data helping us fight the pandemic<br> :date: __2021-07-19 09:08:46__
+> Simple to use and informative<br> :date: __2021-07-23 17:15:42__
 
-> I RECOMMEND THIS APP UP UNTIL TOMORROW 19 JULY 2021. From lifting of MAJORITY OF restrictions BY UK GOVERNMENT I HOPE IT CAN CONTINUE TO HELP WITH THE FIGHT AGAINST THE VIRUS AND VARIANTS. IT GIVES NEWS BUT HOW I AM UNCLEAR. Thank you for making this app and CARING.<br> :date: __2021-07-19 00:08:27__
+> Simple and very quick to fill in every day. Good to get infection figures for my location any time.<br> :date: __2021-07-23 16:26:59__
 
-> Very easy to use, seems very worthwhile. Very happy with it and the info it provides.<br> :date: __2021-07-18 22:09:55__
+> Its a brilliant informative app for this pandemic<br> :date: __2021-07-23 15:34:41__
 
-> Well worth downloading, inform yourself with information<br> :date: __2021-07-18 22:02:11__
+> Easy to use and takes just a few minutes to enter details.<br> :date: __2021-07-23 14:53:12__
 
-> App is very straight-forward, user interface is good. It is easy to move quickly through prompts and reporting.<br> :date: __2021-07-18 19:58:06__
+> Everyone should be doing this app every day. It is such a valuable source of data to monitor the virus.<br> :date: __2021-07-23 09:51:30__
 
-> Brilliant research and up to date information<br> :date: __2021-07-18 19:45:41__
+> Quick and easy to use. Great to be able to contribute in a small way to help during this pandemic. Easy to log for my children too. No adverts and I've found the upto date info I can access because of this app very informative and useful<br> :date: __2021-07-23 09:24:01__
 
-> An excellent app for Covid reporting<br> :date: __2021-07-18 15:38:55__
+> Professional service<br> :date: __2021-07-23 08:08:51__
 
-> It keeps me informed and allows me to contribute to the overall picture.<br> :date: __2021-07-18 14:51:25__
+> I was already following Tim's work before COVID so was happy to help him and the team with this project. The app is very simple to use and I've never had any issues with it.<br> :date: __2021-07-22 21:25:54__
 
-> Useful and easy to use.<br> :date: __2021-07-18 13:52:48__
+> Easy to use. Well explained<br> :date: __2021-07-22 21:23:46__
 
-> very good and very helpful in checking gotcour symptoms<br> :date: __2021-07-18 13:51:45__
+> Quick, simple and collecting really useful information to advise government and others. Government should listen!<br> :date: __2021-07-22 20:11:26__
 
 
 
@@ -213,25 +213,25 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <img src="4_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 4 reviews"/>
 </p>
 
+> Useful for recording test results and additional symptoms<br> :date: __2021-07-23 18:58:21__
+
+> Very easy to use.<br> :date: __2021-07-22 12:45:29__
+
+> its ok except when it tries to make you report irrelevant things. eg Long Covid.. which I don't have.<br> :date: __2021-07-21 18:32:07__
+
+> Very quick to open and report.<br> :date: __2021-07-21 00:49:40__
+
+> Good and simple<br> :date: __2021-07-20 23:12:42__
+
+> It was difficult to move past the initial page for a while - as having 2 jabs but not a recordable covid test - just the self test - l couldn't move on. I now just ignore it to record my state of health. I hope that makes sense.lt's a bit confusing.<br> :date: __2021-07-20 10:25:47__
+
+> Works well<br> :date: __2021-07-20 03:30:14__
+
+> Seems to work well<br> :date: __2021-07-19 12:43:46__
+
 > Having changed my phone found it difficult to find the app. I am old and not tech savvy.<br> :date: __2021-07-18 14:13:37__
 
 > Good to be part of the research into Covid. The additional info they share on what is being learnt through these studies is also interesting, useful and obviously a lot more reliable than much of the info out there.<br> :date: __2021-07-18 09:48:35__
-
-> Very informative topic's of interest<br> :date: __2021-07-18 07:36:20__
-
-> Fine<br> :date: __2021-07-17 13:58:40__
-
-> easy to use<br> :date: __2021-07-17 13:05:25__
-
-> Good and the more data the better<br> :date: __2021-07-17 13:03:01__
-
-> Seems to work well. Feature Request: Please list previous tests in descending order with confirmation button at top.<br> :date: __2021-07-15 15:56:05__
-
-> Easy to use and very needed<br> :date: __2021-07-15 13:10:56__
-
-> It's OK it's good for background info and questions we would like to be asked by our GPS are asked here about vaccine etc. we can give the answers to on the app....<br> :date: __2021-07-14 17:07:51__
-
-> Good<br> :date: __2021-07-13 18:22:51__
 
 
 
@@ -240,6 +240,10 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 3 reviews"/>
 </p>
+
+> UPDATED REVIEW FOR 22nd JULY 2021: the Covid map for my regional area of Perth & Kinross, for the past year is blank.<br> :date: __2021-07-22 21:14:41__
+
+> I'm reporting every day but the app keeps saying I've missed 1, 2, 3 or more days! I haven't! If this is happening to lots of app users it's distorting the data. Please fix this error. 22/7/21 this is happening again. What's going wrong?<br> :date: __2021-07-22 10:04:07__
 
 > Easy to use and non invasive. Top marks. 7 months later...UPDATE. Down to 3 stars! As the input of unvaccinated persons (we are getting few) is pretty useless to compile charts according to Tim, it has become an app for the vaccinated only. So if you are unvaccinated I would not bother with this app, your data input is insignificant. I am going to delete it.<br> :date: __2021-07-18 10:21:19__
 
@@ -257,10 +261,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > A great thing to do to help research the epidemic. App itself is not that easy to use. I had to load it and try to sign in several times before I got going with it. First time I have up but then it came back to it.<br> :date: __2021-06-25 20:44:00__
 
-> Great app, seem to be having issues recently with logging in, resolved by uninstalling and reinstalling hence 3*<br> :date: __2021-06-24 16:23:34__
-
-> Fairly easy to use<br> :date: __2021-06-23 12:00:22__
-
 
 
 #### 2-star reviews
@@ -268,6 +268,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 2 reviews"/>
 </p>
+
+> Suddenly stopped working. No functionality since 19 July 2021<br> :date: __2021-07-22 09:30:20__
 
 > Cases projections are now very out of step with official figures. App says 30k per day new cases reducing, reality is 50k per day and growing. False security is dangerous!!<br> :date: __2021-07-17 15:36:16__
 
@@ -287,8 +289,6 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 
 > Not very helpful<br> :date: __2021-05-18 17:28:00__
 
-> This app has suddenly started misbehaving. It says it is offline when it is not. Even after reinstalling it will not open- it crashes. Annoying.<br> :date: __2021-05-11 12:01:50__
-
 
 
 #### 1-star reviews
@@ -296,6 +296,8 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.joinzoe.covid_zoe 1 reviews"/>
 </p>
+
+> Gets stuck when trying to update my ethnicity so I can't use the app to report. Sent email to support.<br> :date: __2021-07-23 12:14:47__
 
 > Really good app, easy to fill the survey but I don't receive the daily reminders anymore... So I tend to forget<br> :date: __2021-07-12 19:37:39__
 
@@ -314,7 +316,5 @@ The COVID Symptom Study app has been installed by more than **1000000** times. A
 > Won't open. Constant message saying offline.<br> :date: __2021-06-11 22:25:57__
 
 > Guys, you added questionnaire about long Covid which doesn't allow option to say you never had Covid. And you cannot complete your daily data entry without completing long Covid Fix it!!<br> :date: __2021-06-10 08:59:40__
-
-> Oh dear it's really gone to pot. I constantly have to enter my postcode and now can't report as the added questionnaire won't let me past question 1 as I can't enter a 'No' Please sort this out.<br> :date: __2021-06-02 09:38:00__
 
 

@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGM_FQY9W1sf00POUalEjR_hlI9yfGFb1-xFz--_-vjaEPDzNwfeFGlG-FAo-FH-YP6v3kpi8huatHbmOQ",
+        "userName": "tiffany knight",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgdpYi83Z5JUPgXl6rzAMeTDojH8l9r0nyt1JsPYw",
+        "content": "Wasnt into it",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-19 20:53:28",
+        "replyContent": "Hi Tiffany, we're sorry to hear you didn't find the app useful. We're always improving the app, so if you could please provide any more feedback to support@livehealthily.com, that would be greatly appreciated. Thank you.",
+        "repliedAt": "2021-07-20 15:53:20"
+    },
+    {
         "reviewId": "gp:AOqpTOH8NQJvbHDCzP36SpjaahnI45zBxyddxUihY94CHu4mwDFcl5Z12W8G2TM1nYa-rTpgzTS98fYz53L3ZXo",
         "userName": "Clement Iyebor",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHLBw9Qn8wUlPFKfct4lbqahQ2HsAQtoJHC4v1=mo",
@@ -8,8 +20,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-15 13:54:36",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review, Clement! Great to hear you are enjoying the app.",
+        "repliedAt": "2021-07-20 15:51:44"
     },
     {
         "reviewId": "gp:AOqpTOFuYryTsCupQON7rZh7kC0n0OyqSzyw2mUOFetDj8MgPH_YXOhi5BwoYvR6Q8xiuO3sD7czT4r0HPUvtNI",
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxGpnvZWxgLLTzrSvcx8SH-JRxinHFY9JxowtjP=mo",
         "content": "There could be more choices as to things to track. More importantly, I've had notes that I've written disappear. I know if I get here and record things about my condition, I write a note and there aren't always notes.",
         "score": 3,
-        "thumbsUpCount": 4,
+        "thumbsUpCount": 5,
         "reviewCreatedVersion": "4.01.03",
         "at": "2021-02-24 16:46:44",
         "replyContent": "Thanks for your feedback about the trackers, we recommend to keep an eye out for future product updates. To save notes, tap \u2018X - Save & close\u2019 button at the top left corner, it should then appear in the Health Journal. Make sure you\u2019re also using the latest version of the app, please contact support@livehealthily.com if you need further assistance.",
@@ -1241,7 +1253,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg4iGJm09Fo3Lz4YJwuMVYRbpn2Br4Ve1k1dLFo",
         "content": "Hello! I can't open the app after updating, it just shows blank page and then closes. I'm still on android version 5.1 if it helps. I really like this app as a health checker, hope it gets a fix soon.",
         "score": 3,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "4.01.03",
         "at": "2020-09-12 21:18:27",
         "replyContent": "Hi Rhea, we're sorry to hear you're having difficulties with the app. So we can investigate further, can you please email feedback@your.md with more information, including your account type (Google, Facebook, Email etc.), the app version you upgraded from and your device specifications (brand, type, carrier). Thank you!",
@@ -1442,7 +1454,7 @@
     {
         "reviewId": "gp:AOqpTOHUgZFX1wGjZaHDlfCQyCgE444yNnogetGTzEi4SZA61HK8joau3EXJjDM8B2uno-wNtjHSihszwMFuehg",
         "userName": "Amal Ks",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiN-CV7QsoIhsqk-EJsrGroKDkXYucgD9XK3lzPpA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbRiopdN9SMt-I4-eD7F9gx3J0_gGPxU1pog4VBw",
         "content": "good one",
         "score": 5,
         "thumbsUpCount": 0,
@@ -2021,7 +2033,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjxTmaJAA69hrcfyUUDVGaJshopEHpNcUdNChE7FA",
         "content": "I rarely review apps but this app i just had to. The chatbot was phenomenal and gave me advise with what i should do. The only problem i had on this app is when only male and female was there when you start, I understand that you are trying to make this app better but it would be appreciated if you fix this sooner then later. Thank you.",
         "score": 5,
-        "thumbsUpCount": 50,
+        "thumbsUpCount": 51,
         "reviewCreatedVersion": "3.5.6",
         "at": "2019-12-30 21:19:20",
         "replyContent": "Hi there. We're thrilled you like the app and find it useful. Thanks for your review!",
@@ -2441,7 +2453,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi7Rfq0Az43jUECilhyEAleDPySNpvkbbBslre5ug",
         "content": "So far this app is fairly good. I like that it's free and pretty simple and gives links to places which give more information on what you need. I feel like the chat bot shouldn't straight away diagnose you with a condition only after you answer a few easy questions, but overall I don't mind this app at all and it's good for keeping track of day to day life :)",
         "score": 4,
-        "thumbsUpCount": 241,
+        "thumbsUpCount": 242,
         "reviewCreatedVersion": "3.4.9",
         "at": "2019-08-06 17:35:54",
         "replyContent": null,
@@ -2837,7 +2849,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiWVI3TxWqsvBZwRYJDW3AnRotghUDSG2N8SnKR",
         "content": "Thanks but improve it",
         "score": 2,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "3.4.6",
         "at": "2019-06-17 10:05:55",
         "replyContent": "Hi Leonard! Thank you for taking the time to leave us a review. If you can spare a little more time, please provide more feedback on how you think the app can be improved further via care@your.md. We always value feedback.",
@@ -7142,7 +7154,7 @@
     {
         "reviewId": "gp:AOqpTOHJ5t9tkxCKWGKXrrwSLBJT5L4scMOBIYJv24EA9MD4PH2WUqlA13k4aOxjZ5HZihaRLkchDFmOgJj-uZI",
         "userName": "Aman Saraswat",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhGMjGdnbWb-AJK8_Qt3SEAxKJwd0fZpNmHjt29rg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNHyuMBwN6GQMXAdISMcdJYBcfEoTn2iENXI_DdAw",
         "content": "Worst app",
         "score": 1,
         "thumbsUpCount": 7,
@@ -8173,8 +8185,8 @@
     },
     {
         "reviewId": "gp:AOqpTOFpYHpjPtQ2pnce7zUd413jzqxzmc2KSAQhE7pkrN_Ct4Fk3Bwy-ysg6g2EmTG6oIwGap0dDd3Kb_TmJaI",
-        "userName": "mW",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg0qPU5uYXXam7UxubfnLexHaM525CYhUJLw4s1oYE",
+        "userName": "Iraasha Rasheed",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgUOSrSawOSNAYWksC4BgQpA4qAIyJfb_1ale9eWmM",
         "content": "Cool",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11930,7 +11942,7 @@
     {
         "reviewId": "gp:AOqpTOHePuZvgJ5aRVitHaggJJv1za09q3dxQJdwAnhpQ1B8qXU_AToT0T7ogCnxtI71dGk_4ID_dDunjLpuDoI",
         "userName": "Imelda Castuera",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDQOMBjPSTcThA88BGlgcWvC0iZkKcmGNq2vhZ6w",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6Bs7J6HMQBWkJLwf3j4pT_8aNzPP2cjf-wAy2qg",
         "content": "The best medical guide ever!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2017-03-20 18:20:14",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGqU2Lz4Zu0juYvCSf76rhyf9rLn4pCEDIAcTHWLvBfhSNk224K3C-ceVi717rC4v6-_v2MVDo-bt1aW6g",
-        "userName": "Jacob Dangkat",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzjwVFU7cS8nqnHe-rjDl9_zUV00IH0jrcT68l",
-        "content": "Just too good",
-        "score": 4,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "2.8.1",
-        "at": "2017-03-20 16:45:32",
         "replyContent": null,
         "repliedAt": null
     }

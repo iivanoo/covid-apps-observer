@@ -259,6 +259,8 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 <img src="1_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 1 reviews"/>
 </p>
 
+> All in Welsh (what happened to equal language status?) and most of the functions don't work.<br> :date: __2021-07-22 15:03:33__
+
 > All in Welsh. Can't change it. Bookings seemingly not appearing until 24 hours before.<br> :date: __2021-07-12 13:50:13__
 
 > User interface and design of this app is one of the worst I've ever used<br> :date: __2021-07-09 21:09:07__
@@ -276,7 +278,5 @@ left hand corner and select new club with. +<br> :date: __2018-08-01 10:43:48__
 > No option to book as just public I dont want a membership<br> :date: __2020-10-17 05:45:37__
 
 > No option for this is English?! We're not all Welsh speakers!<br> :date: __2020-09-28 11:03:54__
-
-> Terrible just terrible only gives Welsh language with no option to switch no clear signpost to register as a new member. Eventually get to the end of the process and it's corrupted and throws you all the way out Rubbish. Waste of time<br> :date: __2020-09-24 18:33:43__
 
 

@@ -224,6 +224,8 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="de.solingen.solingenapp 3 reviews"/>
 </p>
 
+> Wenn sie funktioniert eine super App. Man erhält schnell viele Informationen. Sehr übersichtlich. Leider muss ich die App ca. alle 2 Wochen deinstallieren und neu installieren, da sie sich nicht mehr öffnen lässt. Meine Eltern haben auch immer wieder das gleiche Problem!<br> :date: __2021-07-20 16:17:43__
+
 > Nach der (Mal wieder) Neuinstallation funktioniert die grad Mal wieder. Gerade als jetzt die Notfall Infos kamen, wäre eine funktionierende App klasse gewesen. Wenn sie Mal funktioniert ist sie echt nützlich<br> :date: __2021-07-15 19:16:51__
 
 > Die Informationen und der Service verdient 5 Sterne. Die technischen Probleme (Abfuhrtermine werden nicht angezeigt, App schließt sich, Serverprobleme,..) macht sie jedoch wenig nützlich. Schade<br> :date: __2021-07-11 09:57:31__
@@ -241,8 +243,6 @@ The Mensch, Solingen app has been installed by more than **5000** times. At this
 > Hängt sich öfters auf und muss dann neu installiert werden, ansonsten ist sie sehr gut.<br> :date: __2021-07-01 15:41:54__
 
 > Schöne App mit vielen nützlichen Informationen. Leider hat sie sich letzte Woche nicht mehr geöffnet. (Fehler 100!?) Nach Neuinstallation öffnet sie wieder, stürzt aber jetzt beim Öffnen des Müllkalenders ab.<br> :date: __2021-06-04 08:23:03__
-
-> Im Großen und Ganzen finde ich die App gut. Allerdings: Mir werden News in der Benachrichtigungszeile angekündigt, die aber in meiner App dann nicht auftauchen. Trotz Verbindung zum Server habe ich veraltete News. Heute zum Beispiel, 2.6.21 kann ich nur News bis zum 28.5. sehen. Cache ist geleert. Seite aktualisiert. Nichts passiert. Schade. Warte auf Verbesserung.<br> :date: __2021-06-02 13:42:33__
 
 
 

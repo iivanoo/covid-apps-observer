@@ -1,11 +1,23 @@
 [
     {
+        "reviewId": "gp:AOqpTOHHhDAjiXsrd4ynEklCTO__tTUiT1zVGLUu-jRsicpzLAxaILVO_iVA6Z7BOpewiXwpEy_BLt22Mjv8nCE",
+        "userName": "Dagmar Sax",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx1ejioFBzbn_DTRSiSmKh64a6J-5Cb3L1kSEEp=mo",
+        "content": "Wenn sie funktioniert eine super App. Man erh\u00e4lt schnell viele Informationen. Sehr \u00fcbersichtlich. Leider muss ich die App ca. alle 2 Wochen deinstallieren und neu installieren, da sie sich nicht mehr \u00f6ffnen l\u00e4sst. Meine Eltern haben auch immer wieder das gleiche Problem!",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.41",
+        "at": "2021-07-20 16:17:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFJRK1fpc4aLShgAxZyUdMNBJTcS9ghCiFz-I75ArDz1eQLsCDIq7z2bEPoBcCkiuQuHVVMQ7OkQX1jwlA",
         "userName": "Stefan Keuenhoff",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy5WPp3EnuI3ZN1YEhfN7nYRV8HXu58ICVNsdmu=mo",
         "content": "Die App funktioniert \u00fcberhsupt nicht zufriedenstellend. Entweder Sie startet und beendet sich direkt wieder oderSie zeigt keine Inhalte .Weder Coronazahlen noch inhalte vom Rathsus oder anderen Menupunkten. Ihr solltet die App mal gr\u00fcndlich testen bevor Ihr Sie rausgebt, denn so n\u00fctzt sie nichts",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-16 10:11:13",
         "replyContent": null,
@@ -104,8 +116,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-08 13:35:27",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hallo Irene Sigismund, Danke f\u00fcr das super Feedback! Viele Gr\u00fc\u00dfe Ihr Team Solingen App",
+        "repliedAt": "2021-07-22 15:41:18"
     },
     {
         "reviewId": "gp:AOqpTOE-0us7oWCFZ78NAp9nM4BA8zMVuNR11OuWHVxvKGUrHpi6uyqQfEJMy8brfVWBiHw4-kHbwkt16H2Npf8",
@@ -125,7 +137,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxP7TXT1oRIQ4FNmwiR9hMTDKYKniPZYvtVFCms=mo",
         "content": "Grunds\u00e4tzlich eine tolle App. Sehr informativ und tolle Funktionen. Aber diese Abst\u00fcrze sind nervig. Ich bin schonmal frih, dass man sich nicht anmelden muss sonst w\u00e4re dieses ganze deinstallieren und neu installieren noch schlimmer und ich w\u00fcrde die App gar nicht mehr nutzen.",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-06 12:00:09",
         "replyContent": "Hallo Pi T, bitte melde Dich doch bei appdev@solingen.de. Wir w\u00fcrden die Abst\u00fcrze gerne nachpr\u00fcfen k\u00f6nnen. F\u00fcr die R\u00fcckmeldungen w\u00e4ren wir sehr dankbar!",
@@ -173,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdCoSugyL2dKJTbUna14BsXo3dDwU5T-74aM-H",
         "content": "Sehr oft Absturz - \"Verbindung zum Server erfolgreich\" - und dann ist sie wieder weg. Neu installiert dann klappt es wieder. Kein aktuelles Datum bei z.B. den Coronainzidenzen. Bei M\u00fcllentsorung wird nur das aktuelle Datum Abholdatum im Kalender eingetragen - Meldung erst am Tag der Abholung wenn die Tonne schon geleert wurde. Trotz Hinweis, dass die Erinnerung am Vortag erfolgen sollte UND Best\u00e4tigung dass das aus so sein sollte, keine \u00c4nderung. Also - SCHROTT, der wieder deinstalliert wurde !!",
         "score": 2,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 8,
         "reviewCreatedVersion": "2.2.41",
         "at": "2021-07-04 12:12:22",
         "replyContent": "Hallo H J L, so soll es definitiv nicht sein. \u00dcber eine R\u00fcckmeldung an appdev@solingen.de w\u00fcrden wir uns sehr freuen. Insbesondere die Abst\u00fcrze und die fehlerhafte Erinnerung w\u00fcrden wir uns gerne anschauen!",

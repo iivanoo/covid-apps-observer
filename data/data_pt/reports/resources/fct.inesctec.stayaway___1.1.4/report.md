@@ -193,6 +193,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="3_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 3 reviews"/>
 </p>
 
+> Dificuldade em baixar<br> :date: __2021-07-22 09:20:19__
+
 > Gostava de saber porque raio o estado gasta recursos e dinheiro, quando as coisas são tão simples. Esta aplicação nunca teve a utilização devida por várias falhas nomeadamente a manual introdução dos códigos, mas havia agora uma oportunidade de a por a funcionar sendo ela o veículo para a apresentação do certificado de vacinação, mas não criaram mais uma app inútil e infuncional e uma outra que embora seja para outra coisa também apresenta o certificado. Esta era a App natural para o certificad<br> :date: __2021-07-08 09:38:18__
 
 > Não acho eficaz porque estive em contacto com muitos doentes com covid e não registou<br> :date: __2021-06-17 21:56:00__
@@ -211,8 +213,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > A app não esta a funcionar correctamente podem ver o que se passa<br> :date: __2021-04-13 13:11:29__
 
-> Dou 3 estrelas pelo esforço, porque estou decepcionada.A app apresentq mtos bugs, é necessário estar-se on-line E com o bluetooth ligado, e quem tem covid tem de informar (claro que é necessário informar, mas à pessoas que não o fazem). Não vejo a questão do bluetooth como um problema, já o ter de se estar sempre on-line é um problema.<br> :date: __2021-04-05 04:31:45__
-
 
 
 #### 2-star reviews
@@ -220,6 +220,8 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 2 reviews"/>
 </p>
+
+> Ninguém utiliza<br> :date: __2021-07-22 10:57:20__
 
 > Pedi o Certificado de vacina e preenchi os dados... PARA ONDE FOI O CERTIFICADO QUE NAO ENCONTRO...OBRIGADA<br> :date: __2021-07-16 19:37:46__
 
@@ -239,8 +241,6 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 
 > Nada de especial. Estive em contato com covid positivo e não alertou<br> :date: __2021-03-18 08:53:37__
 
-> Não cheguei a perceber o que se trata<br> :date: __2021-03-11 15:26:03__
-
 
 
 #### 1-star reviews
@@ -248,6 +248,10 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
+
+> Horrível<br> :date: __2021-07-21 11:08:36__
+
+> Apareceu me que teve em contacto com um caso positivo ainda bem que era só o telemóvel e não eu<br> :date: __2021-07-19 18:31:51__
 
 > Vamos ver se os governantes se responsabilizam pelo quantia absurda gasta nesta app inútil<br> :date: __2021-07-18 20:04:01__
 
@@ -264,9 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Não funciona<br> :date: __2021-07-09 18:43:55__
 
 > Esta aplicação é INÚTIL. Se permitisse o tratamento do certificado digital, possivelmente mereceria 2*. Vou desinstalar esta inutilidade que tem valor zero.<br> :date: __2021-07-09 11:24:37__
-
-> Que treta!<br> :date: __2021-07-09 10:36:06__
-
-> Inútil pois quem apanha covid não coloca e não é obrigado a fazê-lo. Por esse motivo não está a ter utilidade nenhuma na última atualização fala em certificado dá para o ver?<br> :date: __2021-07-09 00:48:54__
 
 

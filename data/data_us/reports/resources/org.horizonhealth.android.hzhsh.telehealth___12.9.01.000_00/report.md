@@ -183,6 +183,10 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 5 reviews"/>
 </p>
 
+> Awesome people work at horizon<br> :date: __2021-07-21 19:46:14__
+
+> She's very helpful I visit when very well and thank you<br> :date: __2021-07-20 15:15:43__
+
 > Top notch<br> :date: __2021-07-15 19:23:46__
 
 > Communication was good. Conversation was allowed to be heard. Very Appropdiate App.<br> :date: __2021-07-08 20:19:21__
@@ -199,10 +203,6 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 
 > Very efficient and great to see and communicate<br> :date: __2021-05-05 21:24:41__
 
-> Good connection and if you are home bound perfect!<br> :date: __2021-04-29 23:37:57__
-
-> Perfect app for my counseling appointments<br> :date: __2021-04-14 19:32:31__
-
 
 
 #### 4-star reviews
@@ -210,6 +210,8 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="org.horizonhealth.android.hzhsh.telehealth 4 reviews"/>
 </p>
+
+> It's a really nice and convenient App. Let's me see my appointment's on the calendar, tells me if staff are available and allows me to communicate with staff through messages as well. Every so often I encounter an issues but most Apps do. I love this App❤️<br> :date: __2021-07-20 19:28:51__
 
 > Great service thru this whole pandemic & before<br> :date: __2021-01-11 15:01:43__
 
@@ -228,8 +230,6 @@ The Horizon Telehealth app has been installed by more than **5000** times. At th
 > Works well<br> :date: __2020-06-25 21:28:27__
 
 > Honestly love the App, it really helps during this time of pandemic and keeping people in touch with there team. Also it's great for when this pandemic is over bc its easier to actually talk about what I need to talk about instead of being distracted by the chaos of waiting rooms and Medicaid Cabs and stress. Just the comfort of your own home is nice when it comes to Mental Health. Only bad this is my video calls have dropped and there's no way to get back into your appointment if it glitch out.<br> :date: __2020-04-22 21:28:11__
-
-> Depends on if someone else in the house is using WiFi or not on how well the video goes.<br> :date: __2020-04-17 20:09:33__
 
 
 

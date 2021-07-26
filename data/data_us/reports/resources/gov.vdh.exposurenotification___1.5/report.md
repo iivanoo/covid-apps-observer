@@ -134,6 +134,8 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> This app gives me peace of mind. HE used it since July of 2020.<br> :date: __2021-07-21 16:11:06__
+
 > Lots of good information<br> :date: __2021-06-30 07:17:30__
 
 > Lets me know if ive been incontac with any one with virous<br> :date: __2021-06-11 02:35:47__
@@ -151,8 +153,6 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 > Works in the background with no performance issues. Gives periodic updates regarding ongoing monitoring.<br> :date: __2021-04-22 20:07:07__
 
 > I wanted to pratically keep going thanks<br> :date: __2021-04-20 06:18:10__
-
-> It let's you know if you have been exposed by anyone who has covid-19<br> :date: __2021-04-19 03:45:57__
 
 
 
@@ -246,6 +246,10 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 1 reviews"/>
 </p>
 
+> It doesn't update. It used to update but stopped. I wish I knew why.<br> :date: __2021-07-23 01:16:39__
+
+> I have nearly identical problems with the app. I emailed VDH who replied with some tips. Uninstalled & reinstalled. No difference. I'm guessing VDH thinks it's a waste of time to get the app working.<br> :date: __2021-07-20 03:35:20__
+
 > They call it the China Virus because it comes from china.<br> :date: __2021-06-18 05:36:48__
 
 > Big Brother and Brave New World whether you want it or not. The AOG is becoming. Noticed that one positive reviewer cannot spell. The idiots give themselves willingly to the beast.<br> :date: __2021-06-16 03:47:58__
@@ -261,9 +265,5 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 > It hasn't checked exposures in months. Not very effective that way. Doubt it is even logging the tokens correctly<br> :date: __2021-05-27 04:15:05__
 
 > Corona is not real<br> :date: __2021-05-26 08:38:26__
-
-> App was not even worth the time it took to download it! Stop wasting our time abd yours with this fakery!! Thanks but, No Thanks !!<br> :date: __2021-05-22 19:09:03__
-
-> Spyware<br> :date: __2021-05-19 04:09:47__
 
 

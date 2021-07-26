@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEQ5UH7VXD0r_eOy_uPObSF-RUdFVeoB8IRXlvEF608F62NRye6pS4DLqGU2gwq9ihVm0liCrlRYF56KJ4",
+        "userName": "Rino Olivieri",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQ2evBoNPCP8qGim5dsulBnGFYNd1ulhSK6ITRVg",
+        "content": "Inizialmente tutto ok,quando mi trovavo in ambiente con pi\u00f9 persone la percentuale di rischio si aggiornava in automatico,adesso non funziona pi\u00f9,anche se premo sullo scudo per aggiornare la percentuale di contagio e rimane a zero,in una sala d'aspetto con 15 persone! cos\u00ec \u00e8 inutile esattamente come immuni! l'aggiornamento l'ha resa ridicola,non serve assolutamente a niente,ne sto cercando un'altra valida,questa \u00e8 solo da disinstallare.pessimo anche lo sviluppatore,che non interagisce.",
+        "score": 1,
+        "thumbsUpCount": 16,
+        "reviewCreatedVersion": "5.1",
+        "at": "2021-07-21 11:47:18",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGv27NLXnMOEjy8gCXKlPMmX7ngFUKtz5bzbpNnw1XsSU9gvjHQiLBLi_cAsfpB0Pga2gjXiyjvR8BgZ14",
         "userName": "Ugo Donini",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxUHgysFQn4r86Uau6fMXkbdEq28-prYBAQjyM=mo",
@@ -44,18 +56,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-06-17 13:56:18",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEQ5UH7VXD0r_eOy_uPObSF-RUdFVeoB8IRXlvEF608F62NRye6pS4DLqGU2gwq9ihVm0liCrlRYF56KJ4",
-        "userName": "Rino Olivieri",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhQ2evBoNPCP8qGim5dsulBnGFYNd1ulhSK6ITRVg",
-        "content": "Inizialmente tutto ok,adesso non funziona pi\u00f9,premo sullo scudo per aggiornare la percentuale di contagio e rimane a zero,in una sala d'aspetto con 15 persone! cos\u00ec \u00e8 inutile esattamente come immuni!",
-        "score": 2,
-        "thumbsUpCount": 15,
-        "reviewCreatedVersion": "5.1",
-        "at": "2021-04-22 08:52:53",
         "replyContent": null,
         "repliedAt": null
     },
@@ -2441,7 +2441,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxjw3RFS1ZB2kQnlr-WNi6Bkine1j3vnfYv8QUX=mo",
         "content": "Per ora due stelle. Piuttosto invadente, \u00e8 una notifica continua! Se si chiude arriva subito una notifica e si riapre. Non pu\u00f2 lavorare in background come tutte le altre senza sostituirsi alla schermata principale? E usare solo la geolocalizzazione senza dover tenere acceso anche il bluetooth, sia per il risparmio energetico della batteria sia per evitare inavvertitamente di concedere l'accesso al telefono ad un dispositivo sconosciuto? Aggiornamento: Ok per le notifiche, non ci sono pi\u00f9 ma KO per la whitelist perch\u00e9 non pu\u00f2 e non deve prosciugare la batteria.",
         "score": 2,
-        "thumbsUpCount": 302,
+        "thumbsUpCount": 303,
         "reviewCreatedVersion": "3.6",
         "at": "2020-05-21 09:34:47",
         "replyContent": null,
@@ -2462,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOHnycKutDu-WzdKclNqE2mXJCO9-AynWCGagbXporeCuDbhwyPw0RFqsFGijj6YHSLDm1Yw2_RPVFyZgsk",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiReTeA9A2KzQXLnZg9CgewGFZKK9RhDh2hYIBJxw",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgL_wB7W87DZICw-mqeZ4uYI7ok0l0fFwo2zgVcDQ",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -4781,7 +4781,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4D2R5f34kxU3-jU1OpTg_2E2fDv1vfWGNHB-IoA",
         "content": "Ottima e semplice, ci vorrebbe un collegamento con la sede della protezione civile nella provincia in cui si usa l'applicazione, ed essere geolocalizzati in continuo. Cos\u00ec nessuno pu\u00f2 fare il furbo, e solo chi ha l'autorizzazione prefettizia per lavorare viene escluso. Questa applicazione dovrebbe essere obbligatoria, ma tanto si sa, siamo italiani, e ognuno pensa per s\u00e9 e non agli altri.",
         "score": 5,
-        "thumbsUpCount": 84,
+        "thumbsUpCount": 88,
         "reviewCreatedVersion": "2.3",
         "at": "2020-04-13 09:15:06",
         "replyContent": "Grazie per aver scaricato SM-COVID-19. \nI tuoi suggerimenti sono ben accetti. Stiamo infatti collaborando con le autorit\u00e0 competenti per integrare nuove funzionalit\u00e0. A breve rilasciamo una versione aggiornata con nuova grafica. \nStay tuned!\nIl team SM-COVID-19",

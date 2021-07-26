@@ -11,7 +11,7 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.2.1",
-        "latest_crawl": 1626694439
+        "latest_crawl": 1627069388
     },
     {
         "id": "ca.gc.hcsc.canada.covid19",
@@ -65,7 +65,7 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "2.0.32",
-        "latest_crawl": 1626694921
+        "latest_crawl": 1627069855
     },
     {
         "id": "ca.albertahealthservices.bugsanddrugs2",
@@ -86,13 +86,13 @@
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.1.3",
-        "latest_crawl": 1626695159
+        "latest_crawl": 1627070095
     },
     {
         "id": "com.mostrarium.sjd",
         "store_country": "ca",
         "store_lang": "en",
         "latest_crawled_version": "1.0.0-34",
-        "latest_crawl": 1626695166
+        "latest_crawl": 1627070100
     }
 ]

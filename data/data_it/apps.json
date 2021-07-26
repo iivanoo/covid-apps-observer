@@ -4,21 +4,21 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "5.1",
-        "latest_crawl": 1626682430
+        "latest_crawl": 1627059900
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.7.3",
-        "latest_crawl": 1626682431
+        "latest_crawl": 1627059910
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.19",
-        "latest_crawl": 1626682436
+        "latest_crawl": 1627059915
     },
     {
         "id": "com.siciliasicura.app",
@@ -32,7 +32,7 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1626682442
+        "latest_crawl": 1627059924
     },
     {
         "id": "org.who.infoapp",
@@ -67,28 +67,28 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.6",
-        "latest_crawl": 1626682789
+        "latest_crawl": 1627060266
     },
     {
         "id": "eu.fbk.trec.apps.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "0.4.15",
-        "latest_crawl": 1626682792
+        "latest_crawl": 1627060271
     },
     {
         "id": "it.adilife.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.1.5",
-        "latest_crawl": 1626682797
+        "latest_crawl": 1627060278
     },
     {
         "id": "it.pagopa.io.app",
         "store_country": "it",
         "store_lang": "it",
-        "latest_crawled_version": "1.23.0.6",
-        "latest_crawl": 1618233022
+        "latest_crawled_version": "1.30.0.2",
+        "latest_crawl": 1627060280
     },
     {
         "id": "com.salvagente.info",
@@ -110,13 +110,13 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.0.0",
-        "latest_crawl": 1626682939
+        "latest_crawl": 1627060299
     },
     {
         "id": "it.oikos.pcaltalanga",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1626682940
+        "latest_crawl": 1627060301
     }
 ]

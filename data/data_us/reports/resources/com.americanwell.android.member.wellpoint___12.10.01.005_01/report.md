@@ -186,6 +186,16 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> I found the app simple and easy to use.<br> :date: __2021-07-23 19:54:08__
+
+> Good advice good advice and easy-to-follow knowledgeable<br> :date: __2021-07-23 12:54:24__
+
+> Great experience enjoyed the session loved that I could get a session early morning before work<br> :date: __2021-07-22 15:01:14__
+
+> Feels good<br> :date: __2021-07-20 16:13:13__
+
+> Great app with a wide variety of healthcare providers<br> :date: __2021-07-19 19:59:24__
+
 > Time saving faster relief for common ailments<br> :date: __2021-07-16 17:11:47__
 
 > Great experience<br> :date: __2021-07-15 21:10:23__
@@ -195,16 +205,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Excellent care, easy access and didn't have to miss work<br> :date: __2021-07-14 19:44:31__
 
 > Total lifesaver!<br> :date: __2021-07-14 07:45:51__
-
-> Love this app<br> :date: __2021-07-13 14:16:57__
-
-> I have never used the app before. The first time. They are very friendly and easy and fast. I love it.<br> :date: __2021-07-13 13:16:01__
-
-> Easy, convenient, and fast access to doctors to treat minor illnesses. I wish I had access to my own primary care doctor in this manner. Takes the anxiety, commute, and hassle to sit in the office.<br> :date: __2021-07-11 17:05:12__
-
-> So far I like this app because I can get the help any time during the day or night the doctors are very good and help you with any concern.<br> :date: __2021-07-08 14:14:10__
-
-> Great Dr in a major time of need! Very polite! Thank you!!<br> :date: __2021-07-05 17:54:53__
 
 
 

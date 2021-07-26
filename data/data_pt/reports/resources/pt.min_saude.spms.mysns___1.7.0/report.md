@@ -210,6 +210,10 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="3_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 3 reviews"/>
 </p>
 
+> Opcional<br> :date: __2021-07-21 22:12:07__
+
+> Ainda tenho muitas dúvidas...<br> :date: __2021-07-19 22:39:37__
+
 > O programa falha muitas vezes a leitura da impressão digital o que é necessário para mostrar o certificado covid etc.<br> :date: __2021-07-12 22:13:25__
 
 > Caros informáticos... pessoalmente gostava mais da APP antiga ou seja a anterior a esta. Possivelmente esta seja mais rápida, mais técnica, não sei, só sei que a antiga a meu ver era mais intuitiva. Convém dizer que faz o que é pretendido mas estruturalmente acho a outra melhor, mais simples. Terei que me adaptar lógico mas é a minha opinião em relação á alteração. Cumprimentos P.S- o cartão ADSE não aparece? Algum defeito na APP?! É possível resolver a questão do cartão ADSE?<br> :date: __2021-06-30 22:43:22__
@@ -225,10 +229,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Ao tentar utilizar pela primeira vez deu mensagem: mysns falhou<br> :date: __2021-04-23 13:39:55__
 
 > Parece-me que tudo o que é possível fazer nesta app é também possível fazer através do site do SNS. Não vejo vantagem da app em relação ao site. Aliás, algumas das "funções" da app funcionam por reencaminhamento para o site.<br> :date: __2021-04-16 21:41:18__
-
-> Não tem actualizações para a versão Android do meu P30 pro<br> :date: __2021-03-31 21:38:03__
-
-> Como consigo extrair a minha receita em papel ?<br> :date: __2021-01-15 17:35:08__
 
 
 
@@ -266,6 +266,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Não percebo. Que aconteceu às receitas? Como saber quantas caixas são? Pela repetição do medicamento? Aparece o número de embalagens? Onde? E já não se recebem as receitas por email? Não percebo. A app foi alterada? Parece diferente. Antes não tinha estas dúvidas.<br> :date: __2021-07-19 23:31:20__
+
 > Darei melhor classificação quando a aplicação me permitir entrar(fazer logg um) aparentemente não podemos mudar de número de telemóvel, diz que o meu número está errado, quando inclusive para a vacinação covid19 é este número que consta para o meu número de utente, tenho sido contactado por este número...!!!<br> :date: __2021-07-19 11:31:32__
 
 > Funciona mas para chegar até á data de nascimento é um massacre e mais não digo...<br> :date: __2021-07-17 21:34:32__
@@ -283,7 +285,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Para que fazer uma app se apenas o que faz e nos redireccionar para o website? Inútil, complicada, sem design...<br> :date: __2021-07-08 22:15:13__
 
 > Fraquinha, N S<br> :date: __2021-07-08 21:16:43__
-
-> Péssima aplicação!<br> :date: __2021-07-08 18:17:41__
 
 

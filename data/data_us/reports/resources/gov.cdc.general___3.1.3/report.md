@@ -300,6 +300,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
 
+> ProVaxxers and those promoting KalergiPlan are the parasite.<br> :date: __2021-07-21 19:30:42__
+
 > Wear your masks people!!! It's common sense. Delta and Delta Plus variants will soon come. See Dr John Campbell on you tube. Your welcome!<br> :date: __2021-06-30 07:37:29__
 
 > Don't remember checking out<br> :date: __2021-06-20 15:56:29__
@@ -317,7 +319,5 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > This app is the definition of the cdc. It's late on news, it's not consistent on anything, and work like biden's brains, coumo's hands, and harris' knees.<br> :date: __2021-03-31 11:08:12__
 
 > Doesn't do anything. Blank screen.<br> :date: __2021-03-29 06:02:16__
-
-> I can't believe this app<br> :date: __2021-03-17 07:24:17__
 
 

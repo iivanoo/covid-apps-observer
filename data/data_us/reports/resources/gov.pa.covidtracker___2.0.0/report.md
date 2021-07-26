@@ -142,6 +142,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Lightweight and no problems... Pops up every day for a check in and never bothers me any other time. Never a single technical issue and I have been running it for over 6 months.<br> :date: __2021-07-19 15:26:55__
+
 > It Keeps Everybody Ahware of The Virous<br> :date: __2021-07-19 00:02:15__
 
 > It worked fine until yesterday; Blue screen others mentioned. Will re install once you give a news worthy all clear, Til then.<br> :date: __2021-07-18 10:23:47__
@@ -159,8 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Awesome application that was released by the gov.. which is pretty dope on their par<br> :date: __2021-07-06 15:57:24__
 
 > Great for keeping track of cases in PA, breaks down each county, also uses Bluetooth to alert you if someone else who has the app downloaded and marked themselves as being sick or having covid, has been in close proximity to you<br> :date: __2021-07-05 14:43:27__
-
-> Good game 10/10 would play again<br> :date: __2021-06-21 10:17:34__
 
 
 
@@ -254,6 +254,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
+> App didn't work. Coworker got covid the app didn't alert me to anything!<br> :date: __2021-07-23 01:09:51__
+
 > #a11y fail. Check in and all other screens no longer work with talkback running. App is uninstalled. You have a fiend in Pennsylvania!<br> :date: __2021-07-18 04:50:16__
 
 > App was fine now just blue screen after a nrief display of the first screen.<br> :date: __2021-07-18 01:41:08__
@@ -271,7 +273,5 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Does not work on my new phone. After a few seconds screen turns dark blue and does not display any information.<br> :date: __2021-07-11 02:35:01__
 
 > Screen turns blue obviously it's out of commission for now<br> :date: __2021-07-10 23:32:19__
-
-> What happened? I went to check the latest update on the new cases and it goes back off. Please fix! It's not working!<br> :date: __2021-07-10 20:18:48__
 
 

@@ -190,6 +190,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.ascent.phr 5 reviews"/>
 </p>
 
+> Excellent app really informative and helpful go to health app everyone should try<br> :date: __2021-07-22 11:07:27__
+
 > This app is excellent not only can you repeat your prescriptions but it has a wellness checks that check on you weekly. A++++++++++++<br> :date: __2021-07-11 19:28:55__
 
 > great<br> :date: __2021-06-29 11:41:28__
@@ -207,8 +209,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > Excellent service. Easy to use, and convenient<br> :date: __2021-06-22 10:18:48__
 
 > very useful to manage your communication<br> :date: __2021-06-21 12:00:37__
-
-> Fiinally a way to have your medical history at YOUR finger tips rather than EVERYONE else's finger tips, bar you!!!<br> :date: __2021-06-20 17:48:42__
 
 
 
@@ -246,6 +246,8 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="3_star_reviews_wordcloud.png" alt="com.ascent.phr 3 reviews"/>
 </p>
 
+> maintaining connection is terrible you need to re sign in every other page<br> :date: __2021-07-22 12:13:02__
+
 > not optimised for android accessible settings<br> :date: __2021-06-27 10:29:39__
 
 > Unimpressive<br> :date: __2021-06-09 10:11:22__
@@ -263,8 +265,6 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > my GP service is not fully functional but good for repeat prescriptions<br> :date: __2021-04-22 08:02:42__
 
 > hard to log in with biometrics<br> :date: __2021-04-13 19:41:35__
-
-> Good, but the app freezes quite a lot. The full DNA results actually caused more questions that couldn't be answered due to a lack of clarity in the original answers. The questions around daily health involve a community question and if you aren't community minded in their opinion your score hits the floor. People can be happy without being involved in community. I use it daily just to register my covid status. Would I be using it otherwise, probably not.<br> :date: __2021-03-21 11:53:58__
 
 
 
@@ -302,7 +302,11 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.ascent.phr 1 reviews"/>
 </p>
 
-> Really bad app, I decided to register as a new user and it didn't allow me saying that I already have an account. I have never used it before so no chance they've got my information. Also when I tried to log in afterwards it didn't work showing values like 'unidentified' and 'object [Object]'. I would contact support but not knowing what the app can do (as a new user), makes me feel this is pointless.<br> :date: __2021-07-18 13:28:30__
+> Really bad app, I decided to register as a new user and it didn't allow me saying that I already have an account. I have never used it before so no chance they've got my information. Also when I tried to log in afterwards it didn't work showing values like 'unidentified' and 'object [Object]'. I would contact support but not knowing what the app can do (as a new user), makes me feel this is pointless.<br> :date: __2021-07-22 15:35:19__
+
+> Very bad app<br> :date: __2021-07-20 19:38:16__
+
+> Done the latest update only to get a blank screen yet again .<br> :date: __2021-07-20 13:17:41__
 
 > I log in using fingerprint it gives me a welcome screen and asks what I would like to be called and my sex at birth why? Then when I try to access services it asks me to log in yet again.<br> :date: __2021-07-18 11:31:22__
 
@@ -317,9 +321,5 @@ The Evergreen Life PHR app has been installed by more than **100000** times. At 
 > This is really helpful<br> :date: __2021-06-30 13:22:00__
 
 > Never remembers password have to reset every time<br> :date: __2021-06-29 09:02:52__
-
-> Doesn't go past the loading screen<br> :date: __2021-06-21 17:26:15__
-
-> It doesn't recognise the password anymore, even it just been reseted. And fingerprint scanner is not accepted. If is not solved quickly i will have to use another app. I have diabetes and i need to login often.<br> :date: __2021-06-14 14:23:41__
 
 

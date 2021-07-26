@@ -215,6 +215,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="2_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 2 reviews"/>
 </p>
 
+> Ok<br> :date: __2021-07-20 04:21:06__
+
 > Not sure what this is but never used it.<br> :date: __2021-06-25 12:17:18__
 
 > The last time my app worked was 12/27/20, with no exposure detected, it'll be a really good app if it worked.<br> :date: __2021-03-21 19:24:07__
@@ -232,8 +234,6 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > I had the app for a few months, but I never got a notification. Either COVID didn't exist where I was, or people are not using the app properly. Looking at the other reviews I'm going to go with people aren't using the app properly with no fault of their own. If it's difficult to get a pin on the app then people will be less likely to log their positive results.<br> :date: __2021-01-27 17:45:33__
 
 > Looked like it was working until last update. Now it says the last time it checked for exposure was December 26th, a month ago?<br> :date: __2021-01-25 13:31:44__
-
-> I am confused. I was thinking this app would check for exposures on a routine basis but my last check was back in December and I see no way of manually requesting a check. Am I missing something??<br> :date: __2021-01-21 04:03:05__
 
 
 

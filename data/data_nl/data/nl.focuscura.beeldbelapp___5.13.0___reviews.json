@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOHCEnCBwN_LkpxBpUbXKyXFQOa_3JJdP7FRd3R7nd7lse5G3awKOcz1GjhXAGy5HpZlkvW_Kv_vL7dagQ",
+        "userName": "An Koks",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyfoLb10aNRQ8n2xmJNaQS65-hS-Pq9wzX8MC84=mo",
+        "content": "Duidelijk en makkelijk in gebruik.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.13.0",
+        "at": "2021-07-21 10:59:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEhd3Gd0NZ2-GMRCVS0HQHeFqhk5h5v7WOvzPqrON7hGANJ0B38vgXIZy1q_5i59TwliRtQRJevOiOTKA",
+        "userName": "Piet Thissen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyaOXbkMRI3u8KrkM35tX6WO5yAJ8aVuY6MCog=mo",
+        "content": "Nu kan ik thuis mijn hartslag en bloeddruk meten.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "5.13.0",
+        "at": "2021-07-21 08:56:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOH5TJz6O_XQRG3IuRhfCeMlMAjWZRuEr6_7WRBQX43o-Zrnv5FwWjHCAIcxlHq4mvjcIEOL9Fgzu-leRw",
         "userName": "Rita Nijs",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxuymromvO1DPBoOhmjQ_aZDwypoGT2vyJKpu1F=mo",
@@ -29,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw7gFCUabXVit9HCHLmlkyOAgkrvBCReMh7-2SP=mo",
         "content": "had ik al gedaan bij vorive week",
         "score": 3,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "5.13.0",
         "at": "2021-07-19 07:51:22",
         "replyContent": null,
@@ -41,7 +65,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwbMm0ltPDwPGtBhWtqQBI2tZoKiFW83B2O6S5e=mo",
         "content": "Prima app",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "5.13.0",
         "at": "2021-07-19 07:40:52",
         "replyContent": null,
@@ -11972,30 +11996,6 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.21.6",
         "at": "2020-05-05 12:26:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGFDVhSnlM7r92DY7pjf8T1YeIEFbfcVrQLcB8AKtdVrsrnhFb2mYfMoZlstR92v4qKiZfxgobq7DVTNA",
-        "userName": "Henk Mos",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiVHPTuiwu9WU-7ERSzKQ2xg5dQZAUteHZqMBVmq3M",
-        "content": "Je moet ieder item apart verzenden. Veel geklik dus. Verder ok.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-05 11:55:29",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGMd4hEt0ODPzqGfaky9K5_qjSjgkSMqwJeIkfufhkR_A8Fp7Vl0PQlQaP5F9BNW1CDvo-ANrgHKVFH7Q",
-        "userName": "Elly Beuker",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzYgOnqXs90bgsLJpAASniwEFNBl3zWrRhNLYKh=mo",
-        "content": "Goed functioneel",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "4.21.6",
-        "at": "2020-05-05 11:55:11",
         "replyContent": null,
         "repliedAt": null
     }

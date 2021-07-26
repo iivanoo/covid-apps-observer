@@ -191,6 +191,16 @@ The myColorado app has been installed by more than **100000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="com.soc.mycolorado 5 reviews"/>
 </p>
 
+> Convenient to have these documents available in a safe format.<br> :date: __2021-07-23 19:06:56__
+
+> Great and security is great #nomorephysicalid<br> :date: __2021-07-23 04:28:51__
+
+> Very handy app to have<br> :date: __2021-07-23 02:33:46__
+
+> Thanks Colorado<br> :date: __2021-07-20 03:18:54__
+
+> Can you Digg itt<br> :date: __2021-07-20 02:35:40__
+
 > Really good..<br> :date: __2021-07-17 23:01:57__
 
 > Better then ID .Me<br> :date: __2021-07-17 10:29:59__
@@ -201,16 +211,6 @@ The myColorado app has been installed by more than **100000** times. At this tim
 
 > It is nice so far<br> :date: __2021-07-15 03:13:50__
 
-> Works great for me I don't know why other people are having problems with the app, it works wonders for me !<br> :date: __2021-07-14 05:25:33__
-
-> Great app<br> :date: __2021-07-13 02:39:30__
-
-> Useful and very easy to use.<br> :date: __2021-07-12 04:06:53__
-
-> Easy and complete for all licenses.<br> :date: __2021-07-11 02:10:05__
-
-> Don't listen to the bad reviews! My experience with this app is amazing and it works perfectly. So nice to not need to carry around my ID. (plus I'm not 21 and don't smoke so haven't had any problems with it not being accepted)<br> :date: __2021-07-08 02:13:48__
-
 
 
 #### 4-star reviews
@@ -218,6 +218,8 @@ The myColorado app has been installed by more than **100000** times. At this tim
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.soc.mycolorado 4 reviews"/>
 </p>
+
+> Digital version of my ID, pretty cool.<br> :date: __2021-07-22 18:30:29__
 
 > Ok ?<br> :date: __2021-06-23 00:51:12__
 
@@ -236,8 +238,6 @@ The myColorado app has been installed by more than **100000** times. At this tim
 > After some initial troubles the app is now stable and very efficient. More features are being added and it is a useful tool for residents.<br> :date: __2021-06-04 23:26:39__
 
 > Fixed the camera issue with an update, works fine now. Lots of redirects but otherwise great.<br> :date: __2021-05-28 23:27:06__
-
-> Won't upload my fishing license<br> :date: __2021-05-26 19:11:27__
 
 
 
@@ -275,6 +275,8 @@ The myColorado app has been installed by more than **100000** times. At this tim
 <img src="2_star_reviews_wordcloud.png" alt="com.soc.mycolorado 2 reviews"/>
 </p>
 
+> Clunky. Took multiple attempts to log in only for the app to fail multiple times. Could not find my recorda and told me to email. What's the point of an app that can't submit a request to the administrator within it.<br> :date: __2021-07-22 19:53:02__
+
 > App won't accept username, and will not let me log in, even though username fits their parameters. Cannot rate the rest of the app, since it will not let me create an account.<br> :date: __2021-07-17 16:47:36__
 
 > Log in tedious and time consuming waiting for confirmation codes in messages that don't auto enter.<br> :date: __2021-07-16 23:13:33__
@@ -293,8 +295,6 @@ The myColorado app has been installed by more than **100000** times. At this tim
 
 > This app worked perfectly for a while, but now I'm met with "certificate errors" and am unable to view my ID or even get to the login page.<br> :date: __2021-06-21 06:47:57__
 
-> App keeps crashing when opening insurance section.<br> :date: __2021-06-19 22:00:54__
-
 
 
 #### 1-star reviews
@@ -303,24 +303,24 @@ The myColorado app has been installed by more than **100000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="com.soc.mycolorado 1 reviews"/>
 </p>
 
-> Garbage app. Can't even create an account without error codes for problems I don't have. Password has everything it needs; a number, symbol, upper and lower case number. App will give you error code saying you dont meet requirements. I hope they didnt put a dime of tax dollars into this hot dumpster fire of app. Nice idea. Aaaaaaaaawwwwffuuuuuuuuuul execution.<br> :date: __2021-07-17 07:25:25__
+> I verify myself then It just goes back to login screen<br> :date: __2021-07-23 10:54:40__
 
-> Installed just fine, however to use it you have to upload a "face map" that doesn't seem to work. I have changed lighting and angel......... Seems broken, possibly phone camera incomparably.<br> :date: __2021-07-17 00:36:42__
+> Tried to create an account and it won't scan my license. I spent a solid 5 minutes trying to get it to scan (changed lighting, background, etc) and nothing. So it's pretty useless.<br> :date: __2021-07-22 20:29:09__
 
-> The app updated and forgot my credentials; that makes it real handy when you're trying to show identification... Even video games can use SSO to ensure you can log in quickly every time, don't you think an app with such an important purpose as proving one's identity should be able to do that?!<br> :date: __2021-07-16 16:18:41__
+> Difficult to get started, I've spent over 30 minutes trying to get it to accept my username or password in the initial setup. My username and password fit the required parameters, but it requires more than that for both username and password. Once I figured that out and got it working I now have a username I'll never remember and a password that I'm also probably going to forget. With how difficult this was to get started I wouldn't be shocked if I delete it during my next login attempt.<br> :date: __2021-07-21 20:29:27__
 
-> I put in the year for the fishing / hunting license and then I'm able to view license for about 5 seconds and then it disappears<br> :date: __2021-07-16 16:14:50__
+> Loses documents that have been uploaded, deactivates your account randomly without any notice, can't reset password, help desk support is incompetent.<br> :date: __2021-07-21 16:24:44__
 
-> I thought it would be a great place to keep things as we move our physical credentials into the digital age. Bottom line, if you don't login to this app at least every 90 days, your account is scrubbed and you have to start from scratch. This is not worth my time involved to set everything up all over again.<br> :date: __2021-07-15 22:46:42__
+> Waste of time. Doesn't scan the barcode, does not offer any help. I wouldn't even bother looking at it. Plus, the support team was absolutely no help.<br> :date: __2021-07-20 18:14:25__
 
-> Junk doesn't work can't even login... Stay clear just carry your ID allot easier then trying to get this to work...<br> :date: __2021-07-15 04:08:05__
+> Set up a digital ID just for the app to no be able to pull it up this app is trash<br> :date: __2021-07-20 13:40:44__
 
-> Yes no one reads reviews, and this app sucks balls 😒<br> :date: __2021-07-14 02:21:32__
+> Just don't do it.<br> :date: __2021-07-20 02:16:49__
 
-> Every time I need to use it it needs an update??<br> :date: __2021-07-13 23:43:20__
+> It would have been a great experience if it WORKED.<br> :date: __2021-07-20 00:34:03__
 
-> This app is trash. Everytime I try to take a picture of the back of my ID. It forecloses.<br> :date: __2021-07-13 23:20:35__
+> My driver's license won't come up. I get a message that says let verify you for your first time and then a blank white page just stays up. I really needed to show my license and my physical license wasn't accepted because it had a crack in it. I was depending on the digital copy and it never showed up. I also couldn't get any help on app<br> :date: __2021-07-19 23:15:36__
 
-> Having same issues like everyone else. Not able to login. Tried using the forgot password and user name but none of them work. I haven't received any emails for the past couple of weeks. It worked great before but not sure what happened.<br> :date: __2021-07-12 23:42:16__
+> Great idea but this app doesn't work on android at least. I got registered and logged in without issue, but then when I try to view my digital ID it says "For your security, let's verify your identity before you access your digital ID for the first time" so you click ok, it goes to a white screen, and does nothing.<br> :date: __2021-07-19 19:37:43__
 
 

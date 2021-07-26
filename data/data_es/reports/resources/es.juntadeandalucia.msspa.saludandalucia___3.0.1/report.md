@@ -140,25 +140,25 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <img src="5_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 5 reviews"/>
 </p>
 
-> Estupenda aplicacion. Muy práctica<br> :date: __2021-07-19 08:26:36__
+> Muy buema aplicacion y sencilla<br> :date: __2021-07-23 10:00:37__
 
-> Útil,<br> :date: __2021-07-19 03:35:22__
+> Mencanta<br> :date: __2021-07-22 15:07:25__
 
-> Muy buen app<br> :date: __2021-07-18 22:07:08__
+> Muy buena<br> :date: __2021-07-22 08:46:28__
 
-> Muy buena aplicación, sobre todo de cara a la vacunación.<br> :date: __2021-07-18 15:00:28__
+> Muy buena<br> :date: __2021-07-21 23:13:13__
 
-> Una app de categoría. Felicidades, un saludo cordial.<br> :date: __2021-07-18 13:17:35__
+> Excelente<br> :date: __2021-07-21 15:24:27__
 
-> Buenas<br> :date: __2021-07-17 22:39:23__
+> Muy positiva<br> :date: __2021-07-21 14:04:31__
 
-> Muy buena<br> :date: __2021-07-17 17:07:05__
+> Buena aplicación<br> :date: __2021-07-20 22:29:23__
 
-> Guena<br> :date: __2021-07-17 16:32:57__
+> Buena<br> :date: __2021-07-20 12:37:45__
 
-> Muy bien<br> :date: __2021-07-17 16:20:18__
+> Para una buena información<br> :date: __2021-07-19 21:13:37__
 
-> Buen servicio.<br> :date: __2021-07-17 15:35:51__
+> Muy buena<br> :date: __2021-07-19 21:03:51__
 
 
 
@@ -167,6 +167,10 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 4 reviews"/>
 </p>
+
+> Bienn<br> :date: __2021-07-22 08:25:09__
+
+> Buena ⁹ Un poco complicada<br> :date: __2021-07-20 23:02:12__
 
 > Puedes oopoo opción l yo, b ni uv h hu ospññ lo<br> :date: __2021-07-19 08:50:27__
 
@@ -184,10 +188,6 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 
 > Una aplicación muy completa aunque a veces faltan informe<br> :date: __2021-07-15 16:18:05__
 
-> Pues a la primera !!perfecta!he metido mis datos y ya tengo el certificado.Lo q no me deja es sacar el de mi marido ...lo tiene q hacer en su móvil?<br> :date: __2021-07-12 10:00:26__
-
-> Fácil de usar.<br> :date: __2021-07-12 01:20:26__
-
 
 
 #### 3-star reviews
@@ -195,6 +195,14 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 3 reviews"/>
 </p>
+
+> La aplicación en sí está bien, solo deja poner AN y no cambiarlo a 11, para aquellas personas que tengan este problema entren en ClicSalud+ en Google acceder con vuestros datos personales y cuando esteis dentro buscad "datos administrativos" Hay os saldrá vuestro AN para aquellas personas que le empiece su tarjeta en 11. Copiais ese número y pegais en esta aplicación a la hora de descargar el certificado y listo. Después de muchos intentos he podido conseguirlo de esa manera.<br> :date: __2021-07-22 21:48:15__
+
+> No está bastante detallado.<br> :date: __2021-07-21 22:25:22__
+
+> En la nueva versión, la V. 3.0.1, no puedo imprimir mis citas. Se supone que al darle a imprimir debe descargar un pdf o dar la opción de descargar, pero no lo hace. He probado en terminales de Huawei y Xiaomi, y ninguno consigue imprimir ni guardar pdf de las citas médicas. Con la versión anterior sí podía hacerlo.<br> :date: __2021-07-21 17:26:52__
+
+> No puedo acceder a la app para el certificado xque mi número de la seguridad social empieza por 47 y en la app sale AN, solución?? Gracias<br> :date: __2021-07-20 11:01:28__
 
 > Algunas veces fallan<br> :date: __2021-07-16 22:55:29__
 
@@ -208,14 +216,6 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 
 > Útil, lo malo es tener que abrir el navegador para hacer algunas gestiones<br> :date: __2021-06-09 18:12:00__
 
-> No se puede acceder a todas las prestaciones que se ofrecen .<br> :date: __2021-06-09 08:02:08__
-
-> Es buena, pero no da opcion donde pone AN a poner los dos primeros números de la tarjeta sanitaria<br> :date: __2021-06-03 16:38:27__
-
-> Sería de agradecer que al identificarse, los datos introducidos se viesen más oscuros. Actualmente el texto se transparenta y a veces cuesta verlo.<br> :date: __2021-05-06 16:42:17__
-
-> Cuesta coger cita<br> :date: __2021-04-22 19:12:36__
-
 
 
 #### 2-star reviews
@@ -223,6 +223,12 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 2 reviews"/>
 </p>
+
+> Tiene muchas funcionalidades pero no puedo entrar de ninguna manera. Me sale que mis datos no son válidos, cuando con exactamente los mismos datos me he registrado en salud responde y en mi centro de salud me han confirmado esos datos como los que están en la base de datos.<br> :date: __2021-07-22 14:41:04__
+
+> Ni siquiera me deja poner mis datos para iniciar sesión por más que la instalo y desinstalo, me da directamente error o se queda cargando eternamente.<br> :date: __2021-07-22 10:32:04__
+
+> La versión anterior iba mucho mejor, ahora no aparece la posibilidad de entrar con Clave Permanente.... No he conseguido entrar, de ninguna manera, un rollazo tener que ir al ordenador para ver cuando toca recoger la próxima medicación.<br> :date: __2021-07-19 23:33:44__
 
 > Da mucho fallo<br> :date: __2021-07-17 15:30:51__
 
@@ -238,12 +244,6 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 
 > Va fatal la aplicación,no me deja entrar<br> :date: __2021-07-03 23:40:41__
 
-> Creo k si<br> :date: __2021-07-02 14:43:18__
-
-> No puedo descargar el certificado<br> :date: __2021-06-25 21:47:09__
-
-> No me reconoce la tarjeta sanitaria dando error continuamente.<br> :date: __2021-06-25 15:56:25__
-
 
 
 #### 1-star reviews
@@ -252,24 +252,24 @@ The Salud Andalucía app has been installed by more than **500000** times. At th
 <img src="1_star_reviews_wordcloud.png" alt="es.juntadeandalucia.msspa.saludandalucia 1 reviews"/>
 </p>
 
-> Se me ha actualizado la app y ahora no me deja poner el número de la tarjeta sanitaria, vamos cada vez peor.<br> :date: __2021-07-19 12:58:32__
+> Introduciendo los datos para el certificado covid me dice que los datos son erróneos y están contrastados con la seguridad social<br> :date: __2021-07-23 21:22:41__
 
-> No funciona nunca. Cada vez que intentó acceder me pide que inicie sesión una y otra vez y no hay manera.<br> :date: __2021-07-19 12:17:36__
+> Es una M.... de aplicación. Repito, una auténtica M...... diez minutos saltando de un sitio a otro, con mucha información sobre todo lo útil que es la aplicación y no he sido capaz de llegar a un sitio para obtener el certificado. Simplemente no existe. Ya está borrada.<br> :date: __2021-07-23 20:40:49__
 
-> Desde que la he actualizado no me deja iniciar sesión<br> :date: __2021-07-19 10:23:40__
+> Da fallo constantemente al iniciar la sesión deja mucho que desear una aplicación de un organismo público.<br> :date: __2021-07-23 16:41:03__
 
-> Si antes era engorroso, ahora actualizado es imposible sacar certificado. Ya verifique tfno con primera dosis, y conseguí con mucha dificultad sacar certificado. Ahora con la segunda dosis puesta, intento y da error diciendo que he superado el número máximo de verificaciones del tfno, o algo parecido, intento verificarlo y no hay manera con datos personales. Con clave permanente da error, mientras que si me sirve en otros organismos.<br> :date: __2021-07-19 00:53:48__
+> No te permite solicitar el justificante de ILT, ni modificar citas. Es una aplicacion pobre<br> :date: __2021-07-23 15:41:55__
 
-> Muy mala, falla como el propio Sistema Andaluz de Salud.<br> :date: __2021-07-19 00:37:01__
+> Introduzco N Tarjeta,DNI,Fecha Nac y DNI, y Número Móvil ( ya casi en el borde inferior de la pantallay no aparece la tecla de confirmar ni nada,parece como si no saliera la pantalla completa.Y lo he probado en 2 móviles ( android) La desinstale y volví a instalar. A alguien le ocurre lo mismo? La única forma es reducir mucho el Tamaño Letra (Configuración) y os saldrá Aceptar. Un gran error que la pantalla no se desplace. Eso sí,cada vez que entras hay que meter los datos, no recuerda el Usuar<br> :date: __2021-07-23 13:12:38__
 
-> Llevo mas de medio mes para que me deje iniciar sesión y no me deja,esto que es?<br> :date: __2021-07-19 00:21:39__
+> No funciona. En los tiempos que corren y que siempre de errores a la hora de autentificarse. Seguro que en otras comunidades funcionan perfectamente.<br> :date: __2021-07-23 13:04:38__
 
-> Tras la última actualización, ya no se ven las pruebas de imagen. Pesima app.<br> :date: __2021-07-18 19:12:43__
+> Imposible meter el núm.. de teléfono, en la casilla por estar ocupado por "otra barra" para que te envíen la verificación. Vaya desastre!! No sirve para todos los teléfonos, y en el centro de salud te remiten una y mil veces a la misma pagina y desde el teléfono móvil. ¿Y los abuelos...? que hacen con los abuelos que no tienen la misma habilidades...si los mas jóvenes tenemos cantidad de problemas...según el teléfono que se tenga...falla una cosa u otra...hay que tener ultimo modelo.<br> :date: __2021-07-22 19:16:00__
 
-> Soy de muface y no me acepta el número de tarjeta para padir el certificado<br> :date: __2021-07-18 15:46:03__
+> Mala, muy mala.<br> :date: __2021-07-22 18:43:18__
 
-> No consigo el certificado covid habiendo pasado el covid junto a mi mujer, he de decir que ella lo consiguió sin problema, por favor actualicen sus bases de datos<br> :date: __2021-07-18 15:08:56__
+> De pena<br> :date: __2021-07-22 18:16:40__
 
-> La aplicación siempre da error!!!<br> :date: __2021-07-18 13:44:18__
+> Es la peor app que podría haber encontrado y tras del echo para poder sacar el certificado de vacuna se nececita.. pero no sirve para nada.. siempre que voy a entrar dice que hay un problema.. me toca desistalarla e instalarla varias veces para poder acceder a ella<br> :date: __2021-07-22 15:16:10__
 
 

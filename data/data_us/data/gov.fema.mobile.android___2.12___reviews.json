@@ -1,5 +1,29 @@
 [
     {
+        "reviewId": "gp:AOqpTOFYo0y4tZuXYE-qv8eG3HCF1rN8yXQGxIIdGeMDS26e6FTMhe6FrKuaydYcj6_cykHt929-gv4Xkx6PCNI",
+        "userName": "Sharon Buetow",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwcBgftiIMljExSMr0bfc2LRx5zhQh1MSO1AtYr=mo",
+        "content": "App works great, however, you can only set 5 locations on it. 2 sets of parents, my location and 3 kids - who do I not care about enough???",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.12",
+        "at": "2021-07-23 05:02:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEcBPH1O6ZLJSDH_Vwfo8zfPa2LtTUiT9q4Qt01ZbivaBce-HfKvCKAkLw3h9ihCQ0vCOUTnVP9S1YAQfQ",
+        "userName": "Tucker Ranch Private Campground & Wild Life Refuge",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjTJktxrrvqkozoZIpjKjk5QyTpxCtLe51bgLSC3Q",
+        "content": "It's ok but not good for emergency situations. The app only works with wifi . It does not work on cellular data alone; when it's most needed.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.12",
+        "at": "2021-07-22 01:36:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEPh5P-guXmbilfCvVgB7sF21Lw9M9r-Ki2sYXqVDLO18jncHf6dEQMtlcx7ucGxWFabGh1TCEHUa3Xxj0",
         "userName": "Richelle Wiley",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiYJIfQBMPFVX5gSr6p6QrGegS7L5tZCELYvs_41w",
@@ -29,7 +53,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GggO0zB0-FS3aCnfX8WY5O7XXQvnouLWlylBPQGWKw",
         "content": "Love how accurate and timely this app has been! With all the recent brief thunderstorms and flash flood warnings, this app has always given me the notification at the same moment the NWS is broadcasting the alert on the TV. Thank you for having all the customized options for up to 5 towns and a wide variety of alerts notification. Perfect app to stay informed on important alerts, right from the source",
         "score": 5,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "2.12",
         "at": "2021-07-11 14:26:00",
         "replyContent": null,
@@ -65,7 +89,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlU0xUjAxP-j2TLp7KX6iLaxLOK6WEptVq57tm=mo",
         "content": "Too many redundant alert messages! Plus same info comes through phone text messages too. PIA!",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 9,
         "reviewCreatedVersion": "2.12",
         "at": "2021-07-06 23:21:58",
         "replyContent": null,
@@ -77,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzn5oRUBhSX5uFdigqBvGLF5a6GJ5jMb0h2yeoN=mo",
         "content": "UPDATE: UNINSTALLING. 5:14 Alerts stuck and coming every few seconds! Need more control over types of alerts. Don't need to be woken from deep sleep at 3 am for fog warning, for instance. Fog won't harm me when safe in bed in sturdy house unless I hurt myself being startled in my sleep by loud notification.",
         "score": 1,
-        "thumbsUpCount": 29,
+        "thumbsUpCount": 31,
         "reviewCreatedVersion": "2.12",
         "at": "2021-07-05 12:07:04",
         "replyContent": null,
@@ -432,20 +456,8 @@
         "repliedAt": null
     },
     {
-        "reviewId": "gp:AOqpTOHsUNr0W8G3WXtf8DcJd8mBnfTt2DS7_5LUXA0JsEbrbQvjCxDRxL-S1sz6ywRL7lQAPx_4Ec8B04-qQ1o",
-        "userName": "Mike Lane",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gik08mENI02tRw8dfDudOXboWDF925oRbksGdrs0Q",
-        "content": "Just wonderful",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.11.2",
-        "at": "2021-03-28 14:51:53",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
         "reviewId": "gp:AOqpTOFCqEn10ZCyl45GGwpvXioyAMoAXI-0ppCizzy9b83HDBA1oIJINlmsakHAUGrmq5ft8jqXleHSq-t0ZKk",
-        "userName": "Danusia Kmie\u0107",
+        "userName": "Diane Kmie\u0107",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzK_Pp1TTPa3R6NhmHQXLs4Vdz0n9nTm2tfKSIE=mo",
         "content": "My name is DIANE KMIEC (not A Google User)!!! 3/27/21: I MUST UNINSTALL. I have received NO ALERTS or EMERGENCY data since the 1st days. Very alarmed that \"FEMA\" can't even get through to send me Emergency Alerts! **** I installed this. I hope it works as it should because my phone has been modified to stop me from receiving ANY Emergency alerts. (I believe that's illegal.) I am so desperate to receive Emergency Alerts that I'm downloading an outside app for it!",
         "score": 1,
@@ -2845,8 +2857,8 @@
     },
     {
         "reviewId": "gp:AOqpTOGHx4-1ptPZzZ0unid1orlUx_eLQhY1vgLo1xH3RrEjhlQmjPIEpB6Kd11YRoUWeqjzZm-vZEHvnx2_Ft4",
-        "userName": "C.M. De Vries",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhOVNTHN74e96raVGUW6bNgpTmXqQEgyMceqhJIFw",
+        "userName": "C.M. De",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgpScNuXlfGYRPj9lLY7mp6IPBqOZdpPN1rGwGHnkY",
         "content": "Not helpful at all with covid-19",
         "score": 1,
         "thumbsUpCount": 4,
@@ -3578,7 +3590,7 @@
     {
         "reviewId": "gp:AOqpTOGGwYDqW-zQAzEX0VxWpRMndS6KMqDrtzBg7NiCO-swG3rAWxh-5IDmaJBOk9dYxtCsEpCUyw7ucfliECI",
         "userName": "Joe's Travel Guide",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhYx3rJNB5ke0llyGKzYG4gopkk0U0_V6Bk8PBRU6E",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh6vB86Sw-D7aTQqpW9I02j9g7yHpboVCqHaff4QOQ",
         "content": "Excellent, well thought-out and very easy to use!",
         "score": 5,
         "thumbsUpCount": 13,
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 8,
         "reviewCreatedVersion": "1.0.1",
         "at": "2011-08-27 00:14:45",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "lg:AOqpTOEkRKfhTFHhEWjT41L02tsH3wmTHlE6uKRIVvKswaAGylvqKDSQ_7bFRxb55ASxQfNQ5suXfomc1OIq2SE",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Shows every indication of a hasty, slow, iphone port. Difficult to use in the best of conditions.",
-        "score": 2,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "1.0.1",
-        "at": "2011-08-27 00:08:01",
         "replyContent": null,
         "repliedAt": null
     }

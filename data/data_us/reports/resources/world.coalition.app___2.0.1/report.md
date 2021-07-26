@@ -142,6 +142,8 @@ The Coalition App | #StopCovid19 app has been installed by more than **1000** ti
 <img src="5_star_reviews_wordcloud.png" alt="world.coalition.app 5 reviews"/>
 </p>
 
+> 👍<br> :date: __2021-07-23 09:22:08__
+
 > It's a shame more people aren't downloading this app! It's also a problem when I search Google play store for COVID-19 apps and they only show 2 apps that aren't even for my area. I appreciate you and your team for helping with the issue 🙏<br> :date: __2020-07-29 18:18:00__
 
 > Good concept and technology behind. Only a minor downside with some phone models draining the battwry but I see they are working to fix the issues.<br> :date: __2020-04-30 06:18:54__

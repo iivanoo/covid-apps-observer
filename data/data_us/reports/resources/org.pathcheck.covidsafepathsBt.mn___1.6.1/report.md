@@ -239,7 +239,7 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 
 > This app gives very vague information about potential exposure. It caused me to be quarantined for exposure to a neighbor whom I rarely ever see. That placed me closer to that neighbor than I normally would be. After testing negative on the 6th day, I decided to remove the app from my phone.<br> :date: __2021-02-18 14:08:36__
 
-> Downloads multiples files every day, there is no settings I have limited data and there is no download with confirmation to see if we want to wait on the updates. It's downloads showing in notifications bar. This behavior is not acceptable to me...as I have Limited data each month. Give us the option to download these files for the app when we are ina Wi-Fi spot..I don't want to use my cellular data all the time, give us the ability to stop auto downloads till we get to wifi spot. Thanks<br> :date: __2021-02-04 04:32:02__
+> Gives a notification for 'checking exposures' that doesn't go away and you can't dismiss the notification. Would like to have the app, but I don't want it if it has this annoying bug.<br> :date: __2021-01-18 17:25:50__
 
 
 
@@ -248,6 +248,8 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
+
+> Stop asking me to install this via Google Play Services!!!!!!!!!! Downloads multiples files every day, there is no settings I have limited data, there's no option to wait on the updates. I have Limited data each month. Give us the option to download these files for the app when we are ina Wi-Fi spot..I don't want to use my cellular data all the time, give us the ability to stop auto downloads till we get to wifi spot.<br> :date: __2021-07-23 06:51:52__
 
 > The app just doesn't work very well and doesn't have a friendly user interface. Don't get if around 60+ years old.<br> :date: __2021-07-17 03:20:55__
 
@@ -266,7 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > It keeps checking exposures every 2 minutes<br> :date: __2021-04-27 17:39:43__
 
 > It does not work<br> :date: __2021-04-13 21:23:16__
-
-> Useless. If you have covid you will know by... being sick!<br> :date: __2021-04-13 20:00:19__
 
 

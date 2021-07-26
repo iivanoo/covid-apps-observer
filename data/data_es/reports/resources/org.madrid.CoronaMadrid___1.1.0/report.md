@@ -262,6 +262,10 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> No funciona ni se abre, Oneplus 5t<br> :date: __2021-07-22 08:54:13__
+
+> No sirve para nada<br> :date: __2021-07-19 16:27:00__
+
 > Tomadura de pelo. No tiene nada que ver con el Nombre de la App. Sólo recoje tuhs datos íntimos. Dudo que tenga nada que ver con la Consejeria de Salud.<br> :date: __2021-07-01 15:05:38__
 
 > Una tontería de aplicación<br> :date: __2021-06-06 22:09:40__
@@ -277,9 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > No me enviaba el código de registro. Después de 55 minutos, me han llegado 4. Al ir a meterlos, no me acepta ninguno y cuando intento pedir uno nuevo, me dice que he superado el máximo de intentos. La desinstalo ahora mismo, porque vaya basura.<br> :date: __2021-02-15 19:24:26__
 
 > Mal no sirve<br> :date: __2021-02-06 23:32:08__
-
-> No tiene aviso de zonas confinadas. Entonces no me sirve para nada<br> :date: __2021-02-03 23:09:26__
-
-> Leo que están retrasando la introducción de Radar Covid por culpa de esta app.<br> :date: __2021-02-02 13:13:29__
 
 

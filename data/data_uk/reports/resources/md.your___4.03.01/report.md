@@ -324,6 +324,8 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 <img src="1_star_reviews_wordcloud.png" alt="md.your 1 reviews"/>
 </p>
 
+> Wasnt into it<br> :date: __2021-07-19 20:53:28__
+
 > They lied it costs money<br> :date: __2021-03-09 09:11:56__
 
 > never downloaded this. no clue how it ended up in my app list<br> :date: __2020-12-30 20:13:04__
@@ -341,7 +343,5 @@ The Healthily: Self-Care & Health Journal app has been installed by more than **
 > Inappropriate question (unrelated to headaches). Uninstalled app<br> :date: __2020-09-19 21:23:47__
 
 > Unable to register with email address. Keep on receiving error message, even after uninstall and reinstall.<br> :date: __2020-09-16 18:03:27__
-
-> Not working , dead app. Airtel provider<br> :date: __2020-08-07 12:26:46__
 
 

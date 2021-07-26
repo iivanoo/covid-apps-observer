@@ -171,6 +171,8 @@ The BizkaiUp – Bizkaia en tu móvil. Playas, agenda... app has been installed 
 <img src="4_star_reviews_wordcloud.png" alt="com.lantik.bizkaiup 4 reviews"/>
 </p>
 
+> Todavía podría mejorar en interfaz y accesibilidad para ciegos.<br> :date: __2021-07-20 14:25:52__
+
 > No sale el mapa de playas<br> :date: __2020-07-18 16:23:05__
 
 

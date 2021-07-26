@@ -147,25 +147,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 5 reviews"/>
 </p>
 
-> Really good app !!<br> :date: __2021-07-18 20:40:31__
+> Best<br> :date: __2021-07-23 18:52:39__
 
-> Excellent! Got pinged and the weather ever since has been fantastic. 10 days "unofficial" holiday during a heatwave. Happy Days!<br> :date: __2021-07-18 19:39:19__
+> very good site stop Making things political<br> :date: __2021-07-23 16:05:10__
 
-> Seems to work. Would be nice to have a widget for a quick check in. Also the risk level is shown for your home area, it would be nice if you could check the area you're in as well. After being pinged I think it would be a good idea to have a option to have a history for isolation instructions to be able to give proof to an employer after the event.<br> :date: __2021-07-18 19:16:44__
+> helpful needed<br> :date: __2021-07-23 13:02:27__
 
-> Help keeping me safe, already alerted to isolate which helps myself, my friends and family<br> :date: __2021-07-18 19:15:08__
+> It's a safe idea 💡 everyone should have it.<br> :date: __2021-07-23 08:47:20__
 
-> Just as good as the nhs app<br> :date: __2021-07-18 13:59:35__
+> Stop blaming the messenger. if you get pinged its because you came on contact with ris. the virus is the prob not the app<br> :date: __2021-07-23 07:59:52__
 
-> this app does what it says it should do<br> :date: __2021-07-18 13:17:21__
+> Power by reydereyes ingodwetrust control all system....<br> :date: __2021-07-23 02:59:37__
 
-> Very useful...<br> :date: __2021-07-18 11:58:59__
+> It's a good idea<br> :date: __2021-07-22 23:28:07__
 
-> Edited: App actually a lot better. Deleted today as I have self selected myself for the boris and rishi pilot<br> :date: __2021-07-18 09:45:40__
+> this is good let's hope more use it.<br> :date: __2021-07-22 22:19:33__
 
-> This app is really working using Bluetooth and letting the public know if someone got the cronavirus in the UK and alert them to self isolated idmeadely to stop the spread and protect the public so that we can get back to normal good app<br> :date: __2021-07-18 07:17:08__
+> The app is looking good and if it helps to keep the virus in check then we are on to a winner, it doesn't drain my phone battery and helps us to stay on top to keep us all safer, with the Delta strain I have been told to scan the places I go into, but since I have everything delivered to my home & walk for excersise. I stay out of shops etc, to minimise any chance of getting infected, staying safe is what matters, right ?<br> :date: __2021-07-22 18:30:24__
 
-> Great app!<br> :date: __2021-07-18 02:06:01__
+> very good app. keep you safe and aware of what's around you . if they interfere with the sensitivity I will stop using.<br> :date: __2021-07-22 14:05:36__
 
 
 
@@ -174,6 +174,12 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 4 reviews"/>
 </p>
+
+> Was fine til it was actually needed at which time, despite hubby and i living together, when i tested positive it didn’t notify his phone and he struggled to prove need yo isolate to employer<br> :date: __2021-07-23 18:42:53__
+
+> It would be really useful to be able to manually add where you've been if theres no QR to scan to check in. E.g busy beaches, areas etc Not everywhere has one<br> :date: __2021-07-20 23:21:06__
+
+> I want a ping.... Feels like I'm missing out.... I want to self isolate...<br> :date: __2021-07-20 04:20:54__
 
 > It pinged me despite never being near to anyone for more than a few seconds.<br> :date: __2021-07-17 21:12:34__
 
@@ -189,12 +195,6 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 
 > Good<br> :date: __2021-07-13 14:49:32__
 
-> This app needs to be updated, and fixed to make it more efficient and worth while to use. Needs to be less false readings. So people don't have to self isolate as much.<br> :date: __2021-07-12 17:54:06__
-
-> ok good fir checking in<br> :date: __2021-07-11 13:50:15__
-
-> Hey. Can you please give me some guidence as of what happens to EU citizens who have UK settled status, but were vaccinated in their EU home country, by a WHO approved vaccine, which they have all the proof of, but circumstances might bring that they will need the NHS Covid pass when they restart work in the UK? Are they going to be forced to have a 3rd and 4th vaccine? I appreciate your help.<br> :date: __2021-07-10 23:17:16__
-
 
 
 #### 3-star reviews
@@ -203,25 +203,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="3_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 3 reviews"/>
 </p>
 
-> It would be good if you could do Lateral Flow Test results via the Application.<br> :date: __2021-07-19 10:25:03__
+> It notifies me to turn on the app every day even if I'm not online. It should let me decide when I'm going out and stop wasting my battery when I'm not.<br> :date: __2021-07-23 18:19:17__
 
-> good<br> :date: __2021-07-18 15:16:05__
+> This is a great app for skyving off work with pay since I installed it I've been pinged 30,000 times even though I don't go out much and live in the country.<br> :date: __2021-07-22 21:34:58__
 
-> How do I get to be part of the random trial which allows me to not self-isolate if I've been in contact with someone? Can't find that function on here.<br> :date: __2021-07-18 13:09:23__
+> Can give out false positives thru Bluetooth. A bit null and void if you're double jabbed anyway.<br> :date: __2021-07-22 15:42:28__
 
-> We're all finefine.<br> :date: __2021-07-18 12:50:59__
+> Poppleton km. Ll<br> :date: __2021-07-22 12:44:32__
 
-> Vital for control of the virus but no longer relevant. Deleting.<br> :date: __2021-07-18 09:54:22__
+> Too sensitive, people get pinged by the app when they have been sat in their cars side by side<br> :date: __2021-07-21 19:35:14__
 
-> Exposure time would be great to have as I could determine if I was exposed on my journey to / from work or in the workplace itself<br> :date: __2021-07-17 15:39:20__
+> could it work better? it's what we have.<br> :date: __2021-07-21 19:32:28__
 
-> to sensitive I have been pinged twice once for my next door neighbour through a wall ?? and another time when I had not been close to anybody but had been in a hospital building.<br> :date: __2021-07-16 12:28:01__
+> a very good idea to make sure people do self isolate and get the infection rate down<br> :date: __2021-07-21 19:22:17__
 
-> App has stopped working, all I get is front blue page. I have tried re installing it but it's still not working. Click on app but it just pings you out after a couple of seconds.<br> :date: __2021-07-16 08:34:48__
+> Not leaving Bluetooth on constantly. I don't want the extra rf exposure (particularly the resonant frequency of human cells - 2.4ghz). Bluetooth's security record is also very poor. I might be persuaded to ignore the security issue and turn it on whilst out or when my GPS location does not match home! It should certainly open with bluetooth off. GPS with high accuracy mode turned "OFF" is reliable to 3m outdoors and can give location usage confidently away from high rise buildings.<br> :date: __2021-07-21 10:47:25__
 
-> Had an alert notifying me that I had been a close contact with a positive case for 15 mins or more, told to isolate for 10 days, less than an hour later the app has reverted back to a green active interface and did this twice, I cannot now isolate as I have nothing to show work and I'm left quite baffled and without any help or advice.<br> :date: __2021-07-15 14:44:17__
+> Don't quite understand why we have to check in to venues when the app already knows where we are by tracking our location.<br> :date: __2021-07-21 00:45:53__
 
-> I find the check in qr code fails a lot.<br> :date: __2021-07-14 11:42:14__
+> App hasn't been updated to the latest advice today. My husband's Apple phone has, but mine was updated the 6th.<br> :date: __2021-07-19 15:14:19__
 
 
 
@@ -231,25 +231,25 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="2_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 2 reviews"/>
 </p>
 
-> As of today we can remove this app from our phones<br> :date: __2021-07-19 09:04:43__
+> Outside of the QR code scans this app may be a security risk to your personal information, having your Bluetooth on 24\7 allows hackers to access, your contacts, messages, previous locations and banking info. But I see nothing about this being sorted, you say your app is safe but is the service (Bluetooth) it's not about the apps security but BLUETOOTHS security with Bluetooth active someone can scan your DEVICE not your APP. Especially if you use contactless from your phone and have NFC on too<br> :date: __2021-07-23 19:40:09__
 
-> Uninstalled it. If Boris isn't going to isolate, why should I?<br> :date: __2021-07-18 10:50:47__
+> I have 2 phones one work and one personal, pinged on my phone and told to isolate. Surely the work phone should have received a ping as well? As it has been in close proximity to the other phone? The App doesn't know I'm the same person? Thanks for responding to the query - the article doesn't cover my scenario as i have, As I had both phones in the same pocket pretty much all the time. I use one for scanning it at work and one for personal stuff. so i know both work. Does the notification only count at the start for the neighbouring device? So if i left one phone somewhere else for a period of time then put it back into proximity with the other, it wouldn't alert. and if so what would be the isolation duration if one phone was counting down the isolation period, would the other start from 10 days or the remaining period on the first phone?<br> :date: __2021-07-23 16:49:38__
 
-> Inaccurate, poorly designed and the claim of how many lives have been saved is plucked from advocates dreamland. This is a criminal waste of money and has devestated livelyhoods<br> :date: __2021-07-18 10:41:48__
+> Had a notification on Sunday 18th to isolate for 5 days, I followed instructions and stayed at home. Isolation ended on Thursday 22nd July @ 23:59 woke up the following morning to another notification to isolate for 1 day.... how can this be possible when I have literally had no contact with anyone and stayed at home the whole time?<br> :date: __2021-07-23 06:34:25__
 
-> I Have uninstalled the App now, what's the point if the person telling you to do as it says does not even follow the instructions given by it (Boris)<br> :date: __2021-07-18 10:25:47__
+> No consistency, destroys battery life, QR doesn't always work and these ill-judged isolations are destroying industries.<br> :date: __2021-07-22 14:36:45__
 
-> Hubby and I got pinged 5 days AFTER visiting Bristol. But our son and his girlfriend who we spent the day with did not!!<br> :date: __2021-07-17 17:50:08__
+> waste of time. but needed for pubs<br> :date: __2021-07-21 15:57:39__
 
-> My Bluetooth has been off and I've just had a notification saying I have to isolate for 9 days... when I clicked notification it said I needed to enable Bluetooth for the app to work...what do I do? Spoken to 119 and they are as clueless as I am<br> :date: __2021-07-17 13:43:06__
+> Got a text from Track and Trace saying I had been in contact with someone who had tested positive and that I needed to self isolate, however the app says nothing about this. Bit of a delay in getting the text too, received on 19th July and 10 days isolation finishes 21st July. As I am double jabbed and have no symptoms this delay in being contacted is personally less of a concern, but for anyone else probably not helpful in reducing the spread of covid.<br> :date: __2021-07-21 10:42:11__
 
-> Is this the app for getting a covid pass? And if so, how??<br> :date: __2021-07-15 22:29:26__
+> Not for under 16?! My 14 year old son has tested positive but guidance states this app is for 16+. I wish you'd let those that send the PCR results by text /email know. I'm being bombarded with reminders because he hasn't submitted the codes to the NHS app. They have his date of birth so surely you would think they know he shouldn't have the app!!!<br> :date: __2021-07-21 10:31:55__
 
-> In theory it's a good app and I've always been supportive of it, until this week when I got 'pinged'. I know exactly when and where the 'contact' took place however I was over 6m away from the guy apart from one occasion when I walked past him so would have been about 1.5m away for about 3 seconds. This leaves me questioning the accuracy of the app so have uninstalled and relying on lateral flow testing<br> :date: __2021-07-15 19:56:47__
+> Trying to enter a lateral flow result but it says I need the code sent in the email received after I've reported the result to Gov.uk but there's no code! None of these apps are joined up. Extremely poorly designed and frustrating to use. It's no surprise people are deleting the apps. Utterly rubbish to use.<br> :date: __2021-07-20 15:49:06__
 
-> Unsure what to make of it.. yesterday the app informed me I have to isolate for 7 days, 3 hours later when I was showing a family member the app had reverted to "Your app is active and scanning" with zero record of the previous isolation warnings<br> :date: __2021-07-15 12:08:50__
+> My app is giving me a different isolation end date to what the test and trace texts are?!?<br> :date: __2021-07-19 20:25:35__
 
-> Latest update seems to have fixed the battery drain issue which means Bluetooth stays enabled. Still incredibly basic for so much money spent.<br> :date: __2021-07-15 10:28:16__
+> I get a pop up saying new virus alerts in a venue in my area so you click it and it doesn't go anywhere, just opens the app, what a waste of time this app is<br> :date: __2021-07-19 18:10:26__
 
 
 
@@ -259,24 +259,24 @@ The NHS COVID-19 app has been installed by more than **10000000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="uk.nhs.covid19.production 1 reviews"/>
 </p>
 
-> The reason I have been pinged is because a contact has tested positive. They got symptoms on the 14th and I saw them on the 10th. They caught it from a person they came into contact with on 11th. Your official test and trace team did not want my details as they only go back 48 hours, so please explain when they entered their positive test from the 15th that I have been pinged when there is no way that I could have caught it from this person.<br> :date: __2021-07-19 11:49:16__
+> worst app ever used<br> :date: __2021-07-23 20:04:08__
 
-> Nit been outland telling me to isollate<br> :date: __2021-07-19 11:31:36__
+> Bluetooth isn't a good way to judge this as it doesn't know how far away you are. I was at a venue and we were social distanced but I got told to self isolate because your technology is insufficient and my Bluetooth clearly has more than a 2m range, like most modern phones! You have made me stay off work because you can't come up with a decent app! I should never have installed it! No point trying to help if you screw people over with a poor app!<br> :date: __2021-07-23 19:56:18__
 
-> Pointless<br> :date: __2021-07-19 10:51:43__
+> Lmao need I say more<br> :date: __2021-07-23 19:50:27__
 
-> The rules have changed today but the app still showsold info about restrictions<br> :date: __2021-07-19 10:32:27__
+> So frustrating that I can't enter my previous test results from April as it doesn't recognise the number and no-one is available to help.<br> :date: __2021-07-23 16:14:38__
 
-> Great if you want some time off work<br> :date: __2021-07-19 10:21:02__
+> Absolutely useless app designed by an absolutely useless Government. Why is there check out feature? Why did my app do nothing for months and then all of a sudden I'm being 'pinged' to tell me to self isolate?! Hell would need to freeze over before I let an app tell me what do. Here's an idea if you get 'pinged'... Delete the app!! Problem solved :)<br> :date: __2021-07-23 15:34:03__
 
-> It's not upto date and gives fault information, it pings even if you haven't been near anyone<br> :date: __2021-07-19 10:20:39__
+> Not sure this actually works I've been home all weekend and now I've had a notification saying I've had contact with someone with covid and have to isolate for 8 days when I've had no contact with anyone. Your response was not helpful ad I said I had been home all weekend no contact with anyone and somehow it says I have been hence why I said it doesn't work please read the feedback more carefully<br> :date: __2021-07-23 15:07:24__
 
-> A sham of an app. People isolating when they don't even know who they came in contact with. 2 vaccines and people are still being told to isolate until they get a clear test. A man made virus that came from a lab funded by the government. Shops closing, people losing their livelihood, mental health problems at an all time high. As someone who works in the health sector I will not be silent about this. So many false reviews on this garbage "project".<br> :date: __2021-07-19 09:47:17__
+> Don't worry guys, you can't get the app until you're 16, so you obviously can't be exposed to covid until you turn 16. So all us minors who are worrying and trying to protect ourselves and our familys are wasting our time, the NHS thinks we can't even get it! What a joke. They responded to me, and I still very much hold my opinion. Getting covid is not a decision, what the heck? Its a LIFE THREATENING disease, which both myself and most of my family are very vulnerable too. Age is irrelevant.<br> :date: __2021-07-23 15:06:35__
 
-> I'm confused as to why the status doesn't change on the app. We're not in lockdown and "Freedom Day" has supposedly arrived yet the app is exactly the same, saying we're in lockdown.<br> :date: __2021-07-19 09:11:04__
+> How is this rated a 4.3 app?? All you have to do is read the reviews and look at the stars it's clear this rating HS been edited<br> :date: __2021-07-23 15:00:30__
 
-> If the government do whatever they like then they can get stuffed if they think I am going to get pinged willy-nilly, including through walls, while they allow cases to run rampant. Goodbye app.<br> :date: __2021-07-19 08:15:28__
+> Common sense of checking out of a venue & ability to timecheck, last year very few pings The last month has been horrendous... I went into petrol station at 6 am out by 06.20 2 customer & 2 staff inside. Yet got a ping ...the traffic flow into a busy petrol station. Then got one for supermarket....then another. With majority vaccinated, daily flow testing..surely can upgrade this app to correlate...<br> :date: __2021-07-23 13:15:53__
 
-> Someone in my household is positive competed the Pcr test entered results on app, rest of household app is still on green 3 days later<br> :date: __2021-07-19 07:50:30__
+> What's the point of this s#itty app ?? UNINSTALLED .<br> :date: __2021-07-23 12:51:21__
 
 

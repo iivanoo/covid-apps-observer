@@ -209,25 +209,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="au.gov.nsw.service 5 reviews"/>
 </p>
 
-> Yeah definitely<br> :date: __2021-07-19 09:50:31__
+> Easy to use means I use it always<br> :date: __2021-07-23 11:35:38__
 
-> Nice easy<br> :date: __2021-07-18 15:09:55__
+> Cool app<br> :date: __2021-07-23 05:21:19__
 
-> Best gov app ive eva used<br> :date: __2021-07-18 14:21:43__
+> You have to go to recent,at the top of your screen to check out,press RECENT and the check out icon will appear.!<br> :date: __2021-07-23 04:31:26__
 
-> Easy to use.<br> :date: __2021-07-18 09:18:53__
+> I'm having trouble checking out at my place of employment ,is it an Android issue?as other work colleagues with iPhones are able. #edited* issue seems to have been fixed thanks developers👍<br> :date: __2021-07-23 03:17:16__
 
-> Awesome<br> :date: __2021-07-17 10:52:54__
+> Very simple and easy 👍<br> :date: __2021-07-23 00:09:45__
 
-> Fastest and easiest way to safe covid sign in, also combines all your services nsw needs in one convenient app. Roads and maritime, you can check your rego, licences etc. But this app is pretty much a necessity while these uncertain Covid 'check in' times are present and also ahead of us.<br> :date: __2021-07-16 17:45:04__
+> Good.<br> :date: __2021-07-22 20:59:05__
 
-> Good<br> :date: __2021-07-16 04:16:42__
+> Can not do the nsw app.<br> :date: __2021-07-22 12:36:09__
 
-> Great service<br> :date: __2021-07-15 06:45:43__
+> Very good and helpful 👍<br> :date: __2021-07-22 10:34:56__
 
-> So easy to use<br> :date: __2021-07-15 06:20:09__
+> It finally works for on the Covid check in. Needs some work on the sign in sign out as I sign in to the shopping centre then sign in to a store I'm unable to sign out off shopping centre but am able to sign out off stores.<br> :date: __2021-07-22 08:06:45__
 
-> The app actually surprised me -- a good thing for a change. I opened the Service NSW app for a different reason altogether. Then from one thing to something else, and here we are. But truly, I may have done a bit more research today than expected. But all round I'm happier than a pig in ... good app anyway.<br> :date: __2021-07-15 02:17:02__
+> Easy to use<br> :date: __2021-07-21 11:33:02__
 
 
 
@@ -237,6 +237,18 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="au.gov.nsw.service 4 reviews"/>
 </p>
 
+> It's really good to have this app on your smartphone or PC but one thing to be improve is, scanning of number plate doesn't function well and can't get the job done. Please fix this as I need this function every day. Thanks for servicing NSW<br> :date: __2021-07-23 16:19:31__
+
+> Good app with the best of intentions. 5 stars if an option to turn off the authentication screen could be added. Annoying that I have to unlock my phone, then unlock the app before I can Check In/Check Out. The double-authentication is quite redundant considering other "sensitive" apps like PayPal, MyTelstra etc simply retain your credentials between phone restarts. 22/07/21 EDIT: Bug with "nested" check-ins? I checked in at the entrance to a shopping mall, then checked in/out of the various shops I visited. When leaving the mall I couldn't do a final check-out. The Check-in history shows "(check out pending)" with no way to access it.<br> :date: __2021-07-22 05:41:39__
+
+> Just a minor problem which might not be able to fix On Sunday I tried to check out of a business and it didn't work and needed to check in to the next shop Later that day I was checked into the 1st business again even though I had not scanned in for checking in and I was about 4 km from there and had checked into another shop for essentials I noticed yesterday that it tried to do this again to me but was able to quickly get out of the app Is there a way to delete this check in<br> :date: __2021-07-22 03:41:29__
+
+> Good to navigate and find what your looking for<br> :date: __2021-07-21 10:58:47__
+
+> Not bad or good 2<br> :date: __2021-07-20 07:17:21__
+
+> Inputting birthdate should be made easier<br> :date: __2021-07-20 03:00:10__
+
 > happy with the app QR great although I keep forgetting to logout<br> :date: __2021-07-19 07:38:09__
 
 > As a retailer, we don't know if people are signing in or not, the app should have a ding sound that can be heard to indicate it's been signed in etc please<br> :date: __2021-07-19 05:16:43__
@@ -244,18 +256,6 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 > Very easy to use<br> :date: __2021-07-18 14:40:31__
 
 > If you go to a shopping centre and scan in at the front door, and then scan in when you go in a store it will let you scan out for the store, but will not let you scan out when you leave the shopping centre. As you can't get back to the first scanned in. And says scan out pending in history.<br> :date: __2021-07-17 08:32:11__
-
-> Quick and easy to check in and out. 4 stars because it needs Off-line caching of check-in and check-out for times when mobile data is unavailable or service NSW have technical issues. Also needing to sign in to the app to check-in and out gets tedious too.<br> :date: __2021-07-17 03:21:23__
-
-> Quite pleasing and very practical, there's a lot of room for growth.🙂🤔😎<br> :date: __2021-07-16 09:00:29__
-
-> The QR scanner is not working properly. It appears to be only working sometimes and is better with larger images.<br> :date: __2021-07-16 04:03:43__
-
-> I have installed this on a Tablet, half of the writing is missing, the top half makes it very hard to read<br> :date: __2021-07-15 13:22:37__
-
-> Much better with the history button<br> :date: __2021-07-15 06:28:37__
-
-> Very good ,convenient.<br> :date: __2021-07-15 01:00:21__
 
 
 
@@ -265,25 +265,25 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="3_star_reviews_wordcloud.png" alt="au.gov.nsw.service 3 reviews"/>
 </p>
 
+> Can't check out of 2 places, say u go into a shopping centre, check in and go to another shop inside that shopping centre check in u can check out of that shop u just came out but can't check out of the shopping centre when u leave and sometimes when I check in to another place it comes up the last place I checked in and I have to go back to the check in screen and do it again the qld check in app has a way faster check in system open, scan, check in now done no check out b.s<br> :date: __2021-07-23 14:13:52__
+
+> Takes too many clicks to check in. I've signed out so that I don't need to authenticate every time I check in, but now I don't have check-in history. Can't the authentication be only for parts of the app that need it like the driver's license?<br> :date: __2021-07-23 06:47:23__
+
+> Mostassistingthank ton Thoughts k<br> :date: __2021-07-21 09:00:21__
+
+> Would be great if COVID check-in had offline functionality. Reception is horrible in some shopping centers and check-ins are being skipped when customers can't sign into the app. Fingerprint Auth dialog is very buggy. Sometimes leaving a blank white box after successful scan.<br> :date: __2021-07-21 00:29:14__
+
+> Why do I have to enter a pin number everytime I open this app it just slows things down.<br> :date: __2021-07-20 11:00:44__
+
+> Please add the ability for an employee to check-in at the start of their day/shift, and then check-out at the end, instead of constantly being reminded to check out when they know they'll still be there for hours and hours.<br> :date: __2021-07-20 05:32:16__
+
+> Hi Team,I c other people with the same issue ,I'll wait for the fix, there is a problem with the Check in and out, I checked in to the shopping centre and then Woolies but when I checked out from Woolies it cleared the shopping centre and now in the history it says that I haven't checked out from the centre and no way to check out.<br> :date: __2021-07-20 03:48:34__
+
 > Can't add my digital license?!!<br> :date: __2021-07-19 12:57:25__
 
 > As others have mentioned, need to improve the check out function. So many pending check outs which can't be done due to being over ridden by another check in within the complex (i.e shopping centre then store within shopping centre). Being able to check out 2 most recent check ins would be a huge improvement.<br> :date: __2021-07-18 21:25:57__
 
 > You cant check out of a venue if you jave alreay checked in somewhere else. You need to allow users to check out venues listed in the history<br> :date: __2021-07-18 15:18:53__
-
-> Ever since, they forced me to update (think it was 2 updates ago). The camera now works poorly when trying to activate the QR code. It takes a lot of fiddling around and sometimes won't work. Before these updates, I only had to put it near the code and would be activated. Nokia 5.1 Android 10.<br> :date: __2021-07-17 09:47:09__
-
-> It's all right but quite temperamental, doesn't always work and sometimes takes multiple attempts<br> :date: __2021-07-17 04:31:50__
-
-> Does this app work on Android GO?<br> :date: __2021-07-16 03:22:43__
-
-> I'm having trouble checking out at my place of employment ,is it an Android issue?as other work colleagues with iPhones are able<br> :date: __2021-07-16 02:05:52__
-
-> Checked in at a Stockland shopping centre this morning then checked in via another QR code at Woolies. Even after checking out when leaving Woolies, there appears to be no option to check out of Stockland shopping centre. I can see it in the history as "check out pending" but no option to check out<br> :date: __2021-07-15 05:55:50__
-
-> Because<br> :date: __2021-07-15 02:29:30__
-
-> Hi the service nsw app is very good but the problem I have is when I go to other stores that are in one place or plazas to go from one to another and I cannot sign in to history on the app to same the places I have been can you fix it thanks.<br> :date: __2021-07-14 04:07:45__
 
 
 
@@ -293,7 +293,17 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="2_star_reviews_wordcloud.png" alt="au.gov.nsw.service 2 reviews"/>
 </p>
 
-> Most of the time it works OK but it has some serious bugs. 1, there has been many times I've checked in, then when I get back to the app to check out, it's not there. As if I never checked in! 2, There is an instance I can't check out believe it or not! Checked into 2 placrs & can't check out of one of them! Still pending from 9+ hours ago that I left & I can't do anything. 3, There is an instance the app completely logs out after checking in. Great :-(<br> :date: __2021-07-19 12:48:25__
+> It's not scanning at all it only worked three times since I installed it.<br> :date: __2021-07-23 21:21:04__
+
+> There is something wrong with the app, it keeps checking me into a place I went to weeks ago every time I open the app to scan a new QR code.<br> :date: __2021-07-21 01:32:27__
+
+> Have trouble logging into the app. Biometrics feature fails and pin says incorrect everytime. Pin needs to be reset everytime to log into the app<br> :date: __2021-07-21 01:11:18__
+
+> An absolute embarrassment that this app is supposed to keep us safe. Just another example of politicians giving import jobs to mates rather than competent people.<br> :date: __2021-07-20 10:04:31__
+
+> Most of the time it works OK but it has some serious bugs. 1, there has been many times I've checked in, then when I get back to the app to check out, it's not there. As if I never checked in! And yes I did get the Green Tick. 2, There is an instance I can't check out believe it or not! Checked into 2 placrs & can't check out of one of them! Still pending from 9+ hours ago that I left & I can't do anything. 3, There is an instance the app completely logs out after checking in. Great :-(<br> :date: __2021-07-20 02:27:15__
+
+> Very disappointed for the disfunctional check out system. Check in to a shopping center, check in to a shop inside of the shopping center, check out from the shop,,,,and then you can't check out from the shopping center anymore. A very common sense issue, why haven't fixed<br> :date: __2021-07-20 01:54:29__
 
 > I lost the QR Scanner from my mobile and can't find it now. Also this app says I checked in at Bega Nov 2020?? I haven't been to Bega for abt 15 years !!!<br> :date: __2021-07-18 16:54:24__
 
@@ -301,17 +311,7 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 
 > Consistently being checked in to places I have already been once scanning new check in codes<br> :date: __2021-07-16 23:29:15__
 
-> Needs to handle nested check-ins. If you check-in to a shopping centre, then check-in to a shop inside the centre, I can check-out of the shop, but there's no way to check-out of the shopping centre, so my history is littered with pending check-outs! I'm sure this would make life (more) difficult for the contact tracers!!<br> :date: __2021-07-16 23:15:10__
-
 > Pain in the bum having to put pin in each time, A dedicated check in and out app where i can open and scan without typing pin and hitting a button would be faster<br> :date: __2021-07-16 10:08:00__
-
-> Main problem is being unable to check out from more than one venue. Many users have reported this problem going back at least two weeks and it's still not fixed. How much longer? Also, don't see the need for a PIN and I'm rarely able to get the app to recognise the QR on the first try - it usually takes three tries.<br> :date: __2021-07-16 05:44:55__
-
-> Working in a health field, I help a lot of the older population with QR Check in. There's an amount of this technologically less competent, neglected demographic that face a problem; they do not have mobile internet access. A solution would to allow the QR scan data to work offline. So when they get home and connect to their wifi, their QR check in and out data gets uploaded. I'm no app developer, but maybe work with all NSW businesses and collect an offline database of QR code for this app? ❤<br> :date: __2021-07-15 07:54:20__
-
-> Sometimes it works. Other times it does not work. Service Vic is much better. How about using their technology.<br> :date: __2021-07-13 11:20:02__
-
-> Check out function is rubbish. immediately after you check in at a venue the check out page pops up. By the time you do your shopping etc, the check out page has disappeared and unable to check out. Few hours later when you check in at nother venue 20km away, check out page from the previous venue pops up. Can not check in till you check out from the previous place which gives you a back you back check in/out kilometres away. Just go with check in and it'll give you a starting point/ location.<br> :date: __2021-07-13 03:51:35__
 
 
 
@@ -321,24 +321,24 @@ The Service NSW app has been installed by more than **1000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="au.gov.nsw.service 1 reviews"/>
 </p>
 
-> Same problem as Andrew. Once you forget your password you can't get back to the check in screen.<br> :date: __2021-07-19 05:45:39__
+> I have been unable to check in to certain places as it does not recognize my mobile phone number when trying to input my information. I have checked all of the information/troubleshooting websites asking for my details to confirm if there is an error but unable to get anywhere. I contacted the help line number which stated available 24/7, went through the process of what my enquiry and was and told that they are only available 7am to 7pm Mon to Fri. How am I supposed to go and do essential grocery shopping if I can not check in. I just need to confirm what mobile phone number has been recorded. I have to login at a screening station at work which accepts my mobile but when using the qr code, again mobile phone does not match. What I am suposed to do.<br> :date: __2021-07-23 12:39:46__
 
-> Dreadful<br> :date: __2021-07-19 04:37:33__
+> Won't let my log in<br> :date: __2021-07-23 08:18:56__
 
-> How to even use this app to visit shops? Do I even need to log into my account yes or no? It's confusing! Especially for users who have a learning disability<br> :date: __2021-07-18 19:23:43__
+> Been to Service Nsw centre, back to shop where I purchased phone and local library techheads. No-one able to download NSW check in app onto my phone. Told to buy another phone! Very angry but not surprised...government botch up once again.<br> :date: __2021-07-23 07:56:51__
 
-> Have to use a free third party scanning app and then get directed to official Check In screen. Sometimes the QR codes are not readable; possibly from poorly lit venues or with strong lighting reflecting off the laminated posters. If you use a notepad sign in [eg libraries] instead you don't have a Check Out time option. This does not assist the tracer teams for accuracy. It seems a recent update has switched from using a convenient number pad to the alpha-numeric keyboard for typing the PIN. Not impressed.<br> :date: __2021-07-18 14:28:58__
+> My local service centre in Miranda, where you go for disability services, has no disability access. Shame on you Service NSW.<br> :date: __2021-07-23 03:54:26__
 
-> A check in within a check within a check in.. How the hell do you supposed to do that? Can't wait until we have to check in and out of shopping centre toilets. Isn't that the real hotspot anyway where everyone has their bits and spits out<br> :date: __2021-07-18 11:55:31__
+> It doesn't download<br> :date: __2021-07-22 12:49:28__
 
-> Even though it showed me the tick at my last sign in, it wasn't there to sign out.<br> :date: __2021-07-18 09:58:00__
+> You can't use discover voucher for food when you it says you can?. Can service NSW please fix the problem.<br> :date: __2021-07-22 07:47:09__
 
-> *Nothing changed, I still can't get into this app. Haven't heard from anyone. Have given all info I can. Very frustrating as it keeps saying my email is not valid when logging in and when I try to create an account, it says that email already in use. Can't get in at all. I've uninstalled and re installed, I've checked local time on clock. Don't know what else to do. Well here I am in July, over 2 months after initial complaint. I've heard nothing and still can't use it. Unbelievable!!<br> :date: __2021-07-17 13:15:14__
+> Frustrating<br> :date: __2021-07-22 06:10:17__
 
-> 3 times now I have tried to log in and this garbage app has claimed it needed to update and 4 HOURS LATER each time I have got sick of the impotent spinning pinwheel of not-updated-yet and shut it off. This kind of public policy incompetence is so typical of clueless conservative governments. If you had a zero star rating I would give it that. This stupidity undermines the lockdown and frankly threatens lives on that basis you incompetant nincompoops - with the emphasis heavily on the poops!<br> :date: __2021-07-17 10:35:10__
+> Don't work in commercial venues it's adhoc I've tried all I've been asked by the app and still not working.<br> :date: __2021-07-21 11:28:55__
 
-> Having trouble resetting my password one minute account is there then nothing no digital licence etc<br> :date: __2021-07-17 08:37:02__
+> The app doesn't recognise my password, doesn't let me to change or reset my password. It wasn't like this until two weeks ago. All my efforts are now to no avail.<br> :date: __2021-07-21 02:51:17__
 
-> App won't upgrade on huawei P40 as it does not support Google play.. Need to provide a third party download. Thanks for response. I am using my old phone tethered to my new Huawei p40 in order to upgrade, use and even comment on your app. Could you please provide a http version for scanning for those of us caught up in the Trump vs China Google disaster, cheers.<br> :date: __2021-07-17 06:37:19__
+> Tells me my details don't match when using the pre-filled information about my drivers license that Service NSW Pre-fill with my license details. Keep getting g told to send a screen shot and nothing changes.. How about you get Serv NSW to re-enter my details in to the system instead?<br> :date: __2021-07-20 10:11:17__
 
 

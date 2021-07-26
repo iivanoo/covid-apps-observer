@@ -285,6 +285,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="1_star_reviews_wordcloud.png" alt="com.goodsam.responder 1 reviews"/>
 </p>
 
+> I work with the NHS in various roles, also previously an Event First Aider, but unable to register. I wasted a lot of time trying to sort this out. Contacting local organisations is better until the admin improves<br> :date: __2021-07-19 13:18:38__
+
 > Don't get me wrong here, I use this app to volunteer to assist in vaccination shifts. However lately, you have vaccination centres and pharmacists located in the same area when your volunteering to do these shifts. Wouldn't it have been a better idea to have one area for centres and a separate one for pharmacists. Having all of them in the same area, not only makes this app confusing. It also makes it hard to find out the venues where you volunteer at.<br> :date: __2021-07-01 15:01:05__
 
 > Very buggy with locations and 2nd alerts for the same event.<br> :date: __2021-07-01 07:50:17__
@@ -302,7 +304,5 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Doesn't pick up shifts within 25. Only when I'm in a big city and not from home base! Even though I live closer to the shifts being offered! Live in Skelton (North East Yorkshire). Don't get anything at all even for shifts at Redcar - though can see shifs at Redcar when I'm in Middlesbrough!<br> :date: __2021-05-19 17:05:11__
 
 > Attempted to register as a registered responder and 4 weeks later still waiting for it to be reviewed/approved. Nil other way to contact them.<br> :date: __2021-04-28 02:32:18__
-
-> I've been logged in for over 1000 hours and never had a notification, even though I have all notification settings turned on. I've just gone into messages to find loads saying I've not responded to a request. How can I respond if the app isn't notifying me?<br> :date: __2021-03-28 09:16:49__
 
 

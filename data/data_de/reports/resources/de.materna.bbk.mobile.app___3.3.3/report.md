@@ -154,25 +154,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="5_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 5 reviews"/>
 </p>
 
-> Funktioniert die App auch ohne Internet ? Wenn wird bald Krieg haben wird bestimmt das Internet zuerst angegriffen oder wenn die Chinesen Mal wieder ein neuen Virus in die Welt setzten ist das schon von Vorteil eine Notfall App ohne Internet zu besitzen.<br> :date: __2021-07-19 00:16:34__
+> Sehr hilfreiche App, funktioniert aber seit dem letzten Update nicht mehr. Versucht ganze Zeit die Orte zu aktualisieren (in der App/ der Ladekreis dreht sich) aber führt zu nichts. Gerade jetzt bei dem aktuellen Starkregen wäre die App wichtig! Galaxy S20 FE 5G Android 11 Edit: Ja, ich hatte es über WLan und mobile Daten versucht, hat aber auch nicht funktioniert. Hab die App daraufhin deinstalliert und neu herunter geladen, jetzt klappts wieder! Danke :)<br> :date: __2021-07-23 14:14:55__
 
-> Schon lange in Nutzung. Die von mir gewählten Einstellungen haben bislang fast immer die entsprechende Info gesendet :-)<br> :date: __2021-07-18 22:22:32__
+> Funktioniert. Corona Infos könnten noch genauer und Ortsspezifischer sein. Was darf ich denn nun in Hinterdupfingen. Muss ich mich wieder testen lassen beim Reinsitzen ins Café? UV Warnung wäre noch toll. Daten gibt's vom DWD<br> :date: __2021-07-23 13:13:09__
 
-> Top!<br> :date: __2021-07-18 16:38:21__
+> Sehr gute Info's<br> :date: __2021-07-23 12:21:25__
 
-> Ich habe heute von der App erfahren, in Verbindung mit einem Bericht zur Flutkatastrophe in Deutschland. Ich habe sie installiert um besser über Gefahrenlagen informiert zu sein.<br> :date: __2021-07-18 14:07:14__
+> Hab nur gute Erfahrungen gemacht. Ob Corona, Wetterprobleme o wie vor kurzem, Probleme mit dem Trinkwasser. NINA meldet.<br> :date: __2021-07-22 10:36:41__
 
-> Funktioniert einwandfrei<br> :date: __2021-07-18 11:56:17__
+> tolle idee danke<br> :date: __2021-07-22 03:57:09__
 
-> Keine Warnung<br> :date: __2021-07-17 23:42:10__
+> Bitte ladet euch diese App die Entwickler haben sehr gute Arbeit bei der App geleistet👍💓<br> :date: __2021-07-22 00:59:34__
 
-> Bis jetzt nur gute Erfahrungen 💋<br> :date: __2021-07-17 22:05:41__
+> Top<br> :date: __2021-07-21 20:25:59__
 
-> Ich finde es toll frühzeitig gewarnt zu werden<br> :date: __2021-07-17 19:06:59__
+> Gute App<br> :date: __2021-07-21 19:48:58__
 
-> Finde ich gut<br> :date: __2021-07-17 18:31:05__
+> Eine alternative (optional auswählbare) Kartenansicht und Visualisierung mittels OSM (Open Street Map) wäre gut. Cell Broadcast in Deutschland wäre auch noch eine Option für das BBK!<br> :date: __2021-07-20 22:46:33__
 
-> Während der aktuellen Hochwasserkatastrophe in Erftstadt war ich immer gut informiert und konnte mir Bekannter unmittelbar Betroffene informieren.<br> :date: __2021-07-17 17:13:15__
+> Gute App. Erstaunlich das nur 10% der Bevölkerung diese App auf einem Handy hat. Mich hat sie bis jetzt immer gewarnt vor Gewitter vor Hagel und Hochwasser. Die jetzt hier Kritik wegen Jahrhunderthochwasser kann ich überhaupt nicht nachvollziehen. Es gibt Leute Dennis WhatsApp oder Facebook lieber wie eine Katastrophen App<br> :date: __2021-07-20 22:29:13__
 
 
 
@@ -182,25 +182,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="4_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 4 reviews"/>
 </p>
 
-> Soweit so gut. Macht ihr Ding und gut das wir sowas haben. Die Hochwasser/Pegel-Meldungen allerdings naja: die Push-Benachrichtigung sagt nur "es liegen Meldungen vor" per Klick (funktioniert aktuell nicht auf meinem Pixel, hatte ich bereits gemeldet) wird man dann aufs Hochwasser Portal geleitet (Desktop-Ansicht obwohl Mobile-Version der Seite existiert), also ranzoomen.. und dann eine PDF herunterladen in der dann meist auf Seite 2 oder erst im zweiten Paragraphen die eigentliche Meldung ist.<br> :date: __2021-07-19 10:42:50__
+> Hoffentlich setzt sich so etwas als Standard durch. Meldungen sind manchmal verwirrend.<br> :date: __2021-07-23 07:39:05__
 
-> Finde ich gut<br> :date: __2021-07-19 09:19:58__
+> Verbesserungsvorschlag. Es wäre schön, wenn die unterschiedlichen Gefahrenstufen auch unterschiedlich einstellbar wären. z.B. -Gefahreninformation: nur Pop up, mit oder ohne Ton -Gefahr: Ton + Pop up -Extreme Gefahr: makanter Ton + Pop up (auch bei Einstellung "bitte nicht stören" ) -Neuste Meldung (beim aktuellen Standort) sollte als erstes angezeigt werden.<br> :date: __2021-07-22 19:42:14__
 
-> Grundsätzlich ok. Nur was, wenn das Mobilfunknetz ausfällt? Wie weit ist die App in der Bevölkerung bekannt und verbreitet? Melden alle Gebietskörperschaften und andere Behörden/ Institutionen zuverlässig ihre Informationen und Daten?<br> :date: __2021-07-19 08:25:49__
+> Prinzipiell ist die NINA WarnApp nicht schlecht. Als extrem störend empfinde ich die penetranten Corona Meldungen. Diese sollte man abschalten können. Mich interessieren Corona Infos nicht im Geringsten. Danke.<br> :date: __2021-07-22 17:45:24__
 
-> Ich würde mir wünschen, dass auch "Badeverbote" an der Ostsee / Nordsee angezeigt werden. DLRG / Wasserwacht<br> :date: __2021-07-18 21:31:03__
+> Die App hat zu meiner Zufriedenheit beim Hochwasser gewarnt. Sogar Nachts wo ich geschlafen habe, hat sie mich geweckt und ich konnte nochmals nach dem Rechten schauen. So hatte ich das Hochwasser im Blick gehabt<br> :date: __2021-07-22 16:41:41__
 
-> Es wäre gut, wenn die App noch etwas übersichtlicher gestaltet wäre: Ich habe z. B. als Orte sowohl Kochel, wo ich wohne, als auch den "Aktuellen Standort" gewählt. Jetzt bekomme ich aber meist alle Meldungen zweimal. Kann NINA nicht merken, wenn ich in Kochel bin? Dann würde doch unter "Aktueller Standort" der Hinweis "Ist Kochel" reichen. Martin Schöttler<br> :date: __2021-07-18 19:49:29__
+> hat ja gut funktioniert euer warnen über die app , nämlich gar nicht ⚠️⚠️da fragt man sich wofür man die App überhaupt benutzt wenn man über die Medien besser versorgt wird als über diese app<br> :date: __2021-07-22 13:33:34__
 
-> Teilweise Probleme mit der Push-Benachrichtung, manchmal tut es manchmal nicht. An besten ab und an die App aufmachen und gucken.<br> :date: __2021-07-18 19:45:43__
+> Bekomme zuverlässig Unwetterwarnungen. Manchmal hängt es, aber dies wird stetig verbessert. Kann es nur empfehlen.<br> :date: __2021-07-22 06:54:19__
 
-> Gute sache<br> :date: __2021-07-18 17:02:19__
+> Vor einem halben Jahr funktionierte es. Jetzt bekomme ich zwar Push Nachrichten mit aktuellen Warnungen, jedoch die Übersicht beim Öffnen der App bei gewählten Standorten ist leer. Ich bekomme konstant die Warnung. Es konnte keine Verbindung zum Server hergestellt werden via Wifi. Mobil geht. Welche Udp/tcp Ports müssen im Router freigegeben sein? Router: Telekom Speedport smart 3 (Hat kein upnp) Handy: Moto G4, Android 7.0 (In die Jahre gekommen)<br> :date: __2021-07-21 21:10:00__
 
-> Klappt im Grunde fast immer. Fast immer ist aber im Katastrophenfall nicht gut genug.<br> :date: __2021-07-18 14:14:10__
+> Vor den heutigen Bombenfund in Rheine wurde nicht gewarnt<br> :date: __2021-07-21 19:07:41__
 
-> Zuviele Warnungen (die IMMER das gleiche) beinhalten, sind auch schlecht. Das führt nur zur Deaktivierung, wie nun bei mir! (Alle 30 Minuten eine Aktualisierung über Flüsse, welche auf der anderen Seite des Bundeslandes sind, obwohl ich die andere Seite in der App eingestellt habe. Vielleicht sollte man Überschwemmungen ganz abschalten. Ich wohne sehr weit oben)<br> :date: __2021-07-18 11:44:34__
+> Telefonische Erreichbarkeit während der Erreichbarkeitszeiten katastrophal bis nicht vorhanden. Aktuell unsinnige tägliche Hochwasser Meldungen ohne konkreten Bezug. In Dortmund ist seit Tagen keine Hochwasser Situation und ich habe Dortmund als Meldepunkt erfasst. Wenn man tel. jemanden erreicht wird das Telefonat einfach mitten im Satz beendet. Noch drei weitere Tage und ich muss die App wohl oder übel deinstallieren. ;(<br> :date: __2021-07-21 17:41:14__
 
-> Sehr gute App! Funktioniert zuverlässig, auch im Wlan. Top! Würde mir nur wünschen, Meldungen auch entfernen zu können, wenn mir andere wichtiger sind. Hier wäre es zB die Covid-19-Meldungen. Mich interessieren eher Unwetter, chemische Stoffe in Luft & Wasser, etc.. Aber ansonsten sehr solide, bin soweit zufrieden. :)<br> :date: __2021-07-17 23:10:59__
+> Ich finde die App an und für sich sehr gut. Leider muss ich sagen dass seit dem letzten Update die länderübergreifenden links nicht mehr zu öffnen sind. Das ist eigentlich schade.. Denn ich bekomme dauernd Infos zum Hochwasser und kann nichts einsehen. Deshalb nur 4 Sterne... Bitte beheben. Dankeschön<br> :date: __2021-07-21 16:53:48__
 
 
 
@@ -210,25 +210,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="3_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 3 reviews"/>
 </p>
 
-> Leider funktionieren die weiterleitenden Links für Sachsen nicht. Dabei wäre es gut, im Notfall informiert zu werden.<br> :date: __2021-07-19 12:41:10__
+> Warum bekomme ich immer die Meldung: Es konnte keine Verbindung zum Server aufgebaut werden? Die Meldung kommt nur, wenn ich im WLAN bin. Ich habe eine Fritzbox- und einen TP-Link-Router mit derselben SSID am laufen. Die anderen Apps laufen anstandslos, nur Nina schafft es nicht. Wenn nur ein Router aktiv ist, geht die Verbindung.<br> :date: __2021-07-23 20:16:55__
 
-> Ich finde die App eigentlich super und würde auch gerne 5 Sterne vergeben aber bei mir steht Corona immer ganz oben, obwohl ich nach Datum sortiert habe. Die Hochwassermeldung steht ganz unten, was ich sehr schade finde. Ich würde die Corona Warnung gerne deaktivieren aber das geht leider nicht. Schade, denn mittlerweile weiß doch bestimmt jeder das es das Virus in Deutschland gibt und da brauche ich auch keine Warnung mehr, die vor 1 1/2 Jahren erstellt wurde.<br> :date: __2021-07-19 11:56:05__
+> Seit Jahren installiert und grundsätzlich zufrieden. Aber beim aktuellen Hochwasser kamen für den Kreis Euskirchen die Warnungen spät und spärlich. Leider benötigt jede App eine Internetverbindung, die nicht mehr funktionsfähig war. Wahrscheinlich nicht einmal für die auslösende Dienststelle vom Kreis. So etwas darf NICHT passieren. Bitte prüfen Sie einmal warum nicht gewarnt wurde! Es sollte mit offenen Karten gespielt werden.<br> :date: __2021-07-22 19:48:04__
 
-> Update: Pukte Abzug da die App unabhängig der Bedrohungslage nur ein standard notification Ton abspielen. Währe vorteilhaft das wenn die 4 apokalyptischen Reiter kommen ein ordentlicher Alarm einstellbar ist und nicht das selbe wie eine Hitzewarnung oder SMS ton kommt. Der Inhalt der Benachrichtigungen ist auch weiterhin weniger Informativ als es sein sollte.<br> :date: __2021-07-19 11:15:31__
+> Google ist schlecht, hier werden abgegebene Rezensionen nicht mehr angezigt oder wurden gelöscht, für Hochwasserinformationen muss man unter Einstellungen die Benachrichtigungen auf anschalten, diese sind im Vergleich zu Unwetterwarnungen nicht automatisch angeschalten.<br> :date: __2021-07-22 18:20:38__
 
-> Derzeit fehlt die Verlinkung zum Länderübergreifenden Hochwasserportal bei mir (Thüringen). Ich bitte um eine kurze Info diesbezüglich und danke vorab. Ich hab diese App schon länger und bin sonst sehr zufrieden.<br> :date: __2021-07-19 10:14:29__
+> Es wäre gut, wenn die App noch etwas übersichtlicher gestaltet wäre: Ich habe z. B. als Orte sowohl Kochel, wo ich wohne, als auch den "Aktuellen Standort" gewählt. Jetzt bekomme ich aber meist alle Meldungen zweimal. Kann NINA nicht merken, wenn ich in Kochel bin? Dann würde doch unter "Aktueller Standort" der Hinweis "Ist Kochel" reichen. Martin Schöttler<br> :date: __2021-07-22 09:34:48__
 
-> Schade, dass es keinen Link zum Länderübergreifenden Hochwasserportal gibt, bzw. dass er nicht funktioniert!<br> :date: __2021-07-19 08:56:39__
+> Es muss wirklch nicht sein, dass hier jeden Vormittag um 09:00 Uhr MEZ Hochwasseralarm gesendet wird, obwohl gar keine Hochwassergefahr in der Region besteht. Kein Wunder, dass Nutzer wie ich dann die Push Meldung einfach abschalten. Da muss unbedingt mal was gegen getan werden. Sonst ist die App ganz okay.<br> :date: __2021-07-22 09:02:54__
 
-> App warnt zwar vor Wetterextremen, gibt Informationen zu Blindgängern und auch wieder Entwarnung.Manchmal gibt es aber Meldungen auf Sperrbildschirm, ohne dass ein Widget-Icon erscheint.Man sieht nur einen grünen Punkt auf dem Nina-Icon. Dieser Punkt scheint nur zu verschwinden, wenn man alle betreffenden neuen Meldungen gelesen hat.Da man nicht erkennen kann, welche Meldungen schon gelesen wurden, ist das schwierig. Ich wünsche mir Hinweis,was nicht gelesen ist,damit der Punkt verschwindet!<br> :date: __2021-07-18 19:23:37__
+> Als ich in Baden-Württemberg wohnte, klappte es. Unwetterwarnungen kamen, selbst ein Brand wurde gemeldet oder Probleme mit der Wasserversorgung. Jetzt wohne ich in Niedersachsen, Kreis Holzminden. Dort klappt es nicht so gut. Ich habe meinen alten Wohnort noch gespeichert, dort gibt es immer wieder aktuelle Informationen. Liegt es an der App oder an dem Bundesland?<br> :date: __2021-07-22 07:40:56__
 
-> Die App selbst ist nicht schlecht, aber die Aktualisierung mit neuen Meldungen läuft der Realität manchmal zwei Tage hinterher. So wurde die Evakuierung nach Hochwassergefahr für Bergheim schon vor zwei Tagen aufgehoben, während NINA noch gestern davor gewarnt hat, in die evakuierten Häuser zurück zu kehren. Die Entwarnung durch NINA erfolgte erst heute. Das ist absolut unbrauchbar!<br> :date: __2021-07-18 13:13:06__
+> Seit der letzten Aktualisierung funktioniert der Link zum "landesweiten Hochwasserportal" nicht mehr<br> :date: __2021-07-22 06:39:55__
 
-> Es würde den Informatonsfluss/ die Alarmierung erheblich erleichtern, wenn der Link zum "länderübergreifenden Hochwasserportal" wieder funktionieren würde ( mindestens seit gestern out of order) - warum checkt eine so wichtige Funktionalität in dieser angespannten Situation niemand?<br> :date: __2021-07-18 12:34:20__
+> Vielleicht ein Verbesserung für die Entwickler. Der akustischer Alarm für die Alarmierung sollte unabhängig der eingestellten Lautstärke vom Smartphone in voller Lautstärke erfolgen. Ist anscheinend nicht bei Android Version 10 möglich. Nicht Stören kann man bei der Nina App unterbinden. Ich nutze meistens nur die Vibration und bekomme dadurch eine Alarmierung sicherlich nicht mit, besonders Nachts.<br> :date: __2021-07-21 21:25:47__
 
-> Heute installier über mobile Daten. Getestet und ernüchtert. Weitere Informationen zur Hochwasserwarnung funktionieren nicht. Der Datumslinks für die Pegelstände führt einem zum Tastaturfeld des Telefons und kopiert das Datum als Telefonnummer. Der Link Länderübergreifendes Hochwasserportal ist ohne Funktion. Schade, aber so taugt die App nichts. Hoffentlich wird der Bug schnell behoben.<br> :date: __2021-07-18 12:01:31__
+> Wunderbar die Hochwasser Portal Information wenn in der Region nicht einmal steht welcher Fluss Talsperre da überhaupt den hohen Pegel hat. Jetzt soll jeder noch rum googeln im hochwasser Portal..ältere Menschen können das nicht.<br> :date: __2021-07-21 11:30:04__
 
-> Die App selbst ist in Ordnung. Aber die App kann nur so gut sein wie die Daten, die von den diversen Behörden eingepflegt werden und da sieht es leider nicht so toll aus. In Donauwörth z. B. Ist das Trinkwasser zum wiederholten Mal in den letzten 1,5 Jahren nicht verwendbar. In weniger als der Hälfte der Fälle wurde das überhaupt gemeldet. Die Hochwasserinformationen für Baden-Württemberg und Bayern kommen als Meldungen auf Landesebene. Was soll das dem Nutzer bringen? NICHTS!<br> :date: __2021-07-18 11:12:31__
+> Hallo. Nun erhalte ich z.B. vor ca. 5 Min. die Warnung Hochwasserpegel werden überschritten, in NRW. Wo? Nun soll ich im Ernstfall übers Internet, falls vorhanden, heraus finden welche Region betroffen ist. Da fühle ich mich nicht gewarnt? VG<br> :date: __2021-07-21 10:35:46__
 
 
 
@@ -238,25 +238,25 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="2_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 2 reviews"/>
 </p>
 
-> So habe ich mir die App nicht vorgestellt. 90 Prozent Corona-Zeug und das bei einer Inzidenz unter 1! Warum kann man das nicht ausblenden? Mich interessieren Wetterereignisse, Bombenfunde, Evakuierungen... Einen weiteren Ort hinzufügen, funktioniert nicht. So kann ich entweder nur Wohnort oder nur Arbeitsort anzeigen lassen. Eine Erweiterung des Radius des Anzeigegebietes um Gemeinden oder Landkreis ist auch nicht möglich. Schade. So macht die App für mich persönlich keinen Sinn.<br> :date: __2021-07-19 09:02:52__
+> 1.Widersprüchliche Angaben bei raketeneinschlag mit Chemiestoffen. "Verseuchte Luft ist nur mit spz. Messgerät en nachweisbar, aber achten Sie auf gerüche" ja was denn nun? Geht oder geht nicht. 2. Immer auf vollen accu beim mobile achten heisst im klartext immer laden. So macht man accus in kurzer Zeit kaputt. Danke dafür .<br> :date: __2021-07-22 16:16:53__
 
-> Hier in Sachsen gib es zwar eine allgemeine Hochwasserwarnung aber keine ausreichendem Details. Und dann lässt sich der Link zum Hochwasserportal noch nicht mal anklicken.<br> :date: __2021-07-18 14:15:33__
+> Hallo, die App ist an sich eine gute Sache. Die warnt zwar, aber bei den Benachrichtigungen (diverse Einstellungen ausprobiert) funktionieren nicht zuverlässig wenn es WIRLICH EILIG IST. Dafür kriegt man für weniger als 1cm Schneefall, beim kleinsten Windhauch und ganz normalen Regen schon Warnungen. Das ist für mich zuviel Warnung - das nervt und wird folglich nicht mehr wahrgenommen oder abgeschaltet.<br> :date: __2021-07-22 11:42:47__
 
-> Keine Hinweise auf zusammengebrochen Infrastruktur, verwüstet Orte etc.<br> :date: __2021-07-18 13:09:23__
+> Ich wünsche mir einen eigenen "Sirenen-Ton" aus der App, den ich als "Override" für alle Benachrichtigungseinstellungen einstellen kann. So wäre sichergestellt, das wenn ich mein Handy auf Lautlos oder sogar im "bitte nicht stören-Modus" habe, die Warnung trotzdem laut und deutlich ankommt. Die Begründung - man würde zuviel Berechtigungen benötigen, zieht nicht. Ich möchte vor Gefahr für Leib und Leben gewarnt werden unabhängig davon, ob ich gerade ansonsten nicht gestört werden möchte. Das geht bei anderen Apps wie SMS Alarm auch. Bitte, bitte einbauen! Auf Reichsbedenkenträger die wegen Berechtigungen jedes mal Motzen "sch... ich! Achso... die Warnungen bzw. dieser Override sollte separat für die Schutzengelfunktion ("aktueller Standort") und beobachtete Regionen steuerbar sein.<br> :date: __2021-07-22 11:27:03__
 
-> Zu unübersichtlich, ständig neue Meldungen und keine Archivfunktion um Meldungen nach dem Lesen in den Hintergrund zu schieben. Warnung, Entwarnung, Gefahr, daneben die Corona Informationen des Landes, wer und wie soll man da den Überblick behalten? Grundsätzlich eine gute und wichtige App-Idee aber die Funktionalität und Bedienbarkeit müsste nochmal grundlegend in Richtung Nutzerfreundlichkeit und Übersichtlichkeit bearbeitet werden.<br> :date: __2021-07-18 12:45:01__
+> Nutzlos... Benachrichtigungen kommen oft zu spät an. Wird deinstalliert...<br> :date: __2021-07-22 10:09:16__
 
-> Extrem nervend und bewirkt damit das Gegenteil von dem, was sie soll... Ständig sich wiederholende Warnungen/Entwarnungen kommen teils im Minutentakt. Das wirklich Wichtige übersieht man dann irgendwann. Ausserdem unterschiedliche Warnungen auf 2 Handys am gleichen Ort und mit gleichen Einstellungen... Deinstalliere die App jetzt.<br> :date: __2021-07-18 12:32:22__
+> Ich habe zum Glück noch keine Gefahrensituation erlebt. Ich habe aber im bei der Anzahl der Rechtschreibfehler in der App meine Bedenken in Bezug auf die Professionalität. Bitte überarbeiten!!!<br> :date: __2021-07-22 09:42:44__
 
-> Enttäuschend. Ich hatte die App schon ein Mal installiert und wurde prompt in Ernstfall nicht gewarnt. Nun habe ich sie wieder installiert wegen des Hochwassers und bin auch nicht gerade begeistert. Da ist viel Luft nach oben.<br> :date: __2021-07-18 12:30:02__
+> Warum funktioniert die Verlinkung zum Hochwasserportal nicht ?<br> :date: __2021-07-22 05:47:31__
 
-> Unzuverlässig. Warnt selten<br> :date: __2021-07-17 08:46:07__
+> Die Corona Hinweise verdecken wichtige neuen Meldungen. Warntöne funktionieren auch nicht mehr, trotz Abschalten der Energiespareinstellungen bei Benachrichtigungen.<br> :date: __2021-07-22 01:55:47__
 
-> Eigentlich eine tolle App. Dadurch dass sie immer den eingetragenen Ort vergisst, leider total unbrauchbar.<br> :date: __2021-07-16 16:46:56__
+> Hallo liebes NINA-HD Team. Ihr habt vor ein paar Tagen auf mein Problem geantwortet warum ich keine Benachrichtigung von der NINA App erhalte. Mir wurden einige Fragen gestellt, allerdings habe ich keine Möglichkeit gefunden wie ich hier im Google play Store auf Ihre Antworten reagieren bzw zurück antworten kann. Es wäre sehr nett von Ihnen wenn sie mir eine Möglichkeit nennen könnten mit Ihnen in Kontakt zu treten<br> :date: __2021-07-21 20:32:59__
 
-> Bisher eine sehr informative, von mir oft und gerne genutzte App. Seit dem letzten Update werden jedoch keine Corona-Inzidenzen für Landkreis und Bundesland mehr angezeigt. Update 16.07. Ich habe die automatische Standortsuche deaktiviert und meinen Wohnort manuell eingegeben. Jetzt werden die Daten wieder angezeigt.<br> :date: __2021-07-16 11:38:54__
+> Erster Eindruck: unübersichtlich und unkonkrete Angaben. Nach Eingabe einer PLZ und Freigabe des Standortes lese ich: Es werden Schwellwerte überschritten" Wo, welche Werte um wieviel lässt sich überhaupt nicht erkennen. Weder im Text noch auf der Karte. Damit ist so eine Warnung komplett unbrauchbar.<br> :date: __2021-07-21 19:46:52__
 
-> Leider bekomme Ich nur Stumme Meldungen. In meiner Stadt, ist eine akute Gefahr vom Trinkwasser. Leider habe ich es nur erfahren als ich, die App geöffnet habe. Alle Einstellungen sind in der App richtig... Sehr schade.<br> :date: __2021-07-16 09:25:06__
+> mehrmals täglich Benachrichtigung für nichts zZ. Warum gibt's zB für Hochwasser keine Unterteilung in Warnstufen. Lieber Sirenen statt Cell Broadcast ? Was würde wohl eher ankommen ? 🤔 App Daten etwa ? #Neuland Politik 😦<br> :date: __2021-07-21 16:21:10__
 
 
 
@@ -266,24 +266,24 @@ The NINA - Die Warn-App des BBK app has been installed by more than **1000000** 
 <img src="1_star_reviews_wordcloud.png" alt="de.materna.bbk.mobile.app 1 reviews"/>
 </p>
 
-> Der Link zum Hochwasserportal funktioniert während der Flutkatastrophe nicht. Bereits seit Tagen nicht.<br> :date: __2021-07-19 11:00:12__
+> Hallo, ich habe die App bis zum letzten Frühjahr installiert gehabt. Dann hat sie so unverhältnismäßig und menschenfeindlich aufgrund der Coronapandemie gewarnt, dass ich sie von meinem Handy entfernt habe!<br> :date: __2021-07-23 20:59:20__
 
-> Schlechteste App aller Zeiten. & wieder versagt!<br> :date: __2021-07-19 10:56:15__
+> Mein Ort konnte nicht bestimmt werden obwohl für corona mein Standort angezeigt wurde aber für alles andere nicht, und was bitte hat corona in der warnapp verloren dafür gibt es die corvid app<br> :date: __2021-07-23 20:57:14__
 
-> Hochwasserinformation ist unbrauchbar. Link zu den weiteren Informationen funktioniert nicht.<br> :date: __2021-07-19 10:51:17__
+> Die App warnt zu spät, gar nicht oder über Informationen, die den eigenen Standort/Stadt gar nicht betreffen. Da kann man besser aus dem Fenster schauen! Was auch schon vorgekommen ist, dass vor der Jahrhundertflut mit Tornados gewarnt wurde, es dann 5 Minuten genieselt hat und dann vor Blamage die Warnung direkt wieder entfernt wurde!<br> :date: __2021-07-23 18:45:28__
 
-> totaler Blödsinn !<br> :date: __2021-07-19 10:38:46__
+> Kann mich nicht registrieren<br> :date: __2021-07-23 15:26:10__
 
-> Und wieder, am WE Unwetterwarnungen noch und nöcher. DIE NINA hat sich auf meinem Smartphone NICHT gemeldet. Schrott! Hier gab es noch nie eine Warnung seitens NINA (trotz Neuinstallation usw.)<br> :date: __2021-07-19 10:20:20__
+> ...ohne ins Detail zu gehen kann ich mich den anderen Negativbewertungen voll umfänglich anschliessen. Dysfunktional ! Extrem schade angesichts der heutigen Situation.<br> :date: __2021-07-23 15:06:28__
 
-> macht mit Sirenengeheule (Nina-Warnton) auf total allgemeine Hinweise aufmerksam, die man schon Tage, teilweise Wochen) vorher überall finden kann. Selbst Hinweise auf lokale Ereignisse sind so allgemein gehalten, dass man keine konkrete Information herauslesen kann. so spät, dass alles längs vorbei ist. veraltete Corona Informationen z. Bsp. wird am7.2. noch auf die Landesverordnung gültig bis 31.01. Bezug genommen. Wenn man solche Beispiele findet, hat man kein Vertrauen in die übrigen Inhalte<br> :date: __2021-07-19 09:05:12__
+> Nina App, schwieg bei Hochwasserkatastrophe Sommer/ 2021! Werde diese angebliche Warnepp löschen<br> :date: __2021-07-23 14:53:11__
 
-> Gleich nach Installation wieder gelöscht. Was nutzt diese App wenn schon beim Start Fehler auftauchen?<br> :date: __2021-07-19 09:04:31__
+> unzuverlässig!<br> :date: __2021-07-23 12:54:09__
 
-> Nutzlos! Noch nie ein Probealarm mitbekommen da warte ich lieber auf Rauchzeichen die sind zuverlässiger! Jetzt habe ich diese App deinstalliert! Schrott!<br> :date: __2021-07-19 07:32:24__
+> Ich hab Probleme mit der Benachrichtigung, es löst kein alarm aus obwohl ich die Benachrichtigung aktiviert habe. Und nicht jeder Deutscher hat Internet für Warnungen, da wäre so etwas gut wie in der USA die Leute Emergency Broadcast SMS sendet.<br> :date: __2021-07-23 11:09:12__
 
-> .... wird nicht aktualisiert<br> :date: __2021-07-19 05:52:22__
+> Hatte die App lange Zeit benutzt. Seit Corona ist sie total überladen mit allgemeinen Corona-Infos von Bund, Land, Kreis und Stadt. Und das auch noch jeweils für den aktuellen Standort u. jeden einzelnen gespeicherten Ort - und obwohl ich in den Einstellungen Corona-Benachrichtigungen abgewählt habe. Hochwasserinfos kamen bei mir auf meinem Huawei nur verzögert an u. waren dann zu nichtssagend, wie hier von anderen Usern auch schon bemängelt wurde. Habe Nina daher jetzt deinstalliert.<br> :date: __2021-07-23 10:52:52__
 
-> Extrem oft bekommt man keine Warnung. Hbe dies vermehrt auch schon an den Support geschrieben... Aussagen sind immer nur: könnte am Handy liegen.<br> :date: __2021-07-19 00:53:50__
+> Funktioniert nicht keine Warnungen erhalten, keine Sirenentin<br> :date: __2021-07-23 10:26:53__
 
 

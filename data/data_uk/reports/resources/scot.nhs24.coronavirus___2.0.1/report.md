@@ -199,6 +199,10 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 <img src="1_star_reviews_wordcloud.png" alt="scot.nhs24.coronavirus 1 reviews"/>
 </p>
 
+> I wouldn't have this application at the moment because this pinging drama I've heard about this needs sorting<br> :date: __2021-07-23 20:12:02__
+
+> Seems to be for scottland only<br> :date: __2021-07-19 16:22:09__
+
 > Search for digital covid vaccination status impossible<br> :date: __2021-07-07 13:39:19__
 
 > Does not answer my question about Covid19 vaccination records<br> :date: __2021-05-28 12:58:38__
@@ -214,9 +218,5 @@ The NHS 24 : Covid-19 and flu information app has been installed by more than **
 > Wouldn't work<br> :date: __2020-10-04 23:13:02__
 
 > Big Brother is watching you!<br> :date: __2020-09-29 04:12:08__
-
-> I couldn't see anything about contact tracing if I came close to someone who tested positive. Just a lidt of symptoms<br> :date: __2020-09-28 21:45:06__
-
-> no use at all<br> :date: __2020-09-27 20:36:00__
 
 

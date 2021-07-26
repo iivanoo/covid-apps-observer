@@ -187,6 +187,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="5_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 5 reviews"/>
 </p>
 
+> Boa ferramenta<br> :date: __2021-07-22 14:13:35__
+
 > Facil<br> :date: __2021-07-02 12:04:49__
 
 > Muy útil. Para poder estar informado.<br> :date: __2021-06-23 20:52:58__
@@ -204,8 +206,6 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 > Siempre avisa de los cambios<br> :date: __2021-02-13 01:57:35__
 
 > Quiero protejerme espero que me sirba de algo<br> :date: __2021-02-08 19:41:42__
-
-> Muy buena<br> :date: __2021-01-23 10:05:27__
 
 
 
@@ -240,6 +240,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 3 reviews"/>
 </p>
+
+> Buena<br> :date: __2021-07-20 19:34:25__
 
 > Ahoramismo da error al iniciar sesión (en varios teléfonos)<br> :date: __2021-03-31 14:40:32__
 
@@ -291,6 +293,16 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> Perda de tempo<br> :date: __2021-07-23 13:21:00__
+
+> No me permite loguearme, se queda continuamente en "accediendo".<br> :date: __2021-07-23 10:10:15__
+
+> No he conseguido descargar el certificado. Seria bueno si funcionara bien<br> :date: __2021-07-22 22:25:04__
+
+> 𝚂𝚒 𝚍𝚎𝚜𝚌𝚊𝚛𝚐𝚊𝚜 𝚝𝚎 𝚎𝚜𝚝𝚘 𝚙𝚊𝚛𝚊 𝚜𝚘𝚕𝚒𝚌𝚒𝚝𝚊𝚛 𝚎𝚕 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚍𝚘 𝚍𝚎 𝚟𝚊𝚌𝚞𝚗𝚊𝚍𝚘, 𝚘𝚕𝚟𝚒𝚍𝚊𝚝𝚎, 𝚟𝚎𝚝𝚎 𝚊 𝚝𝚞 𝚊𝚖𝚋𝚞𝚕𝚊𝚝𝚘𝚛𝚒𝚘 𝚢 𝚙𝚒𝚍𝚎 𝚕𝚊 𝚌𝚕𝚊𝚟𝚎 𝚊𝚕𝚕í, 𝚎𝚜𝚝𝚘 𝚜𝚘𝚕𝚘 𝚟𝚊𝚕𝚎 𝚙𝚊𝚛𝚊 𝚙𝚎𝚛𝚍𝚎𝚛 𝚎𝚕 𝚝𝚒𝚎𝚖𝚙𝚘.<br> :date: __2021-07-22 17:40:33__
+
+> Sería muy difícil que la hicieran más inútil y complicada . Imposible descargar el certificado de vacunación Covid . Mala, mala , mala .<br> :date: __2021-07-22 11:54:30__
+
 > Bastante inútil<br> :date: __2021-07-18 00:11:15__
 
 > Poucas veces vin app máis inútil. E o de conseguir o certificado covid a través dela, simplemente mentira.<br> :date: __2021-07-13 13:11:41__
@@ -300,15 +312,5 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 > Unha merda<br> :date: __2021-07-10 00:17:42__
 
 > Pésima, soy de muface con clave365 y no me funcionó jamás. ¿Quien diseñó la aplicación? Porfavor contraten gente competente, que tenemos un 20% de paro....<br> :date: __2021-07-06 21:24:30__
-
-> No soy capaz de entrar para certificar la vacunación<br> :date: __2021-07-05 19:20:00__
-
-> No estoy de acuerdo en tener que dar acceso a todos mis archivos. Esos arcivos(documentos,videos,musica,etc.)son privados. Por este motivo no voy a descargar la aplicación.<br> :date: __2021-07-05 14:04:17__
-
-> Soy funcionario de muface, tengo chave365 y dni electronico, pero siempre que accedo me dice, no disponible, intentelo más tarde. Si la vacuna corresponde al sergas, que menos que me deje descargar el certificado. Por cierto en E-Saude tampoco me deja entrar. Me dice que soy un usuario no autorizado??? Vamos que tengo las 2 vacunas, me voy de viaje y no puedo obtener el certificado. Desinstalando.<br> :date: __2021-07-02 01:26:26__
-
-> No tiene donde poner tus datos para que te reconozca si estás o no vacunado.... Una pérdida de tiempo...<br> :date: __2021-07-01 10:13:56__
-
-> De las peores aplicaciones que he visto, siempre da el mismo mensaje intentelo mas tarde, penosa<br> :date: __2021-06-19 11:13:43__
 
 

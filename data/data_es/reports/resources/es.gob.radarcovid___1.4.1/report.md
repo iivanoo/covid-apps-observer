@@ -129,6 +129,16 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="5_star_reviews_wordcloud.png" alt="es.gob.radarcovid 5 reviews"/>
 </p>
 
+> Me acaba de comunicar un contacto, Primero desearle una pronta y buena recuperación a esta persona anónima, así como darle las gracias y felicitarla por su responsabilidad y solidaridad, GRACIAS<br> :date: __2021-07-23 15:11:51__
+
+> Magnifica<br> :date: __2021-07-23 00:54:49__
+
+> Me parece genial y todo es poco tal y como está la situación del virus, de nuevo,en éste momento. Gracias!!<br> :date: __2021-07-21 03:54:46__
+
+> Ninguna alerta por covid. Nos exponemos poco, sólo por variadas compras.<br> :date: __2021-07-20 10:34:05__
+
+> Muy interesante<br> :date: __2021-07-19 13:44:11__
+
 > Excepcional,es como Pokémon Go,pero encuentras gente posiblemente a punto de ser hospitalizada y supongo que esos pueden ser o legendarios o shinys,pero estoy orgulloso de haber "capturado" a 0 infectados Pd:nunca jamás la usaré<br> :date: __2021-07-18 01:41:03__
 
 > Ya me a dado covid :)<br> :date: __2021-07-16 14:26:27__
@@ -139,16 +149,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Yo lo que quiero es estar informada de los contagios y muertes en Algeciras, yo no tengo ningún tipo de síntomas gracias a Dios y además tengo la vacuna puesta faiser<br> :date: __2021-07-10 11:50:13__
 
-> De momento no la he usado. No puedo opinar.<br> :date: __2021-07-03 22:36:46__
-
-> Ya lo tengo descargado Radar cobid19. Y tengo puesto el Bluetooth y además tengo puesto la primera vacuna pfaiser el día 6 de este mes el martes que viene voy ya para ponerme la segunda vacuna y cómo funciona lo de Radar Cobid19 tengo puesto el Bluetooth y qué es lo que hace Radar cobid19 no lo entiendo<br> :date: __2021-07-02 22:36:31__
-
-> Mi parecer bien está aplicación pois tomando los cuidados debidos com esta aplicación tu puedes salir tranquilo se te acercas a alguien com el virus serás avisado en el momento<br> :date: __2021-07-01 22:23:09__
-
-> Alguno habrá puesto que tiene el covid a mi no me señala nada.<br> :date: __2021-07-01 15:32:15__
-
-> Muy buena aplicación para localizar si hay alguna persona con posibilidad de tener el covi<br> :date: __2021-07-01 00:09:00__
-
 
 
 #### 4-star reviews
@@ -156,6 +156,12 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="es.gob.radarcovid 4 reviews"/>
 </p>
+
+> Buena idea y app de sencillo manejo, muy intuitiva.<br> :date: __2021-07-21 19:50:50__
+
+> Muy bueno<br> :date: __2021-07-19 23:28:18__
+
+> Estoy ingresado por el corabirus en el hospital de santa catalina de Gerona<br> :date: __2021-07-19 18:21:08__
 
 > @@g<br> :date: __2021-07-06 12:21:39__
 
@@ -171,12 +177,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > La musica es increible, lo malo es que si te pasas el modo historia no puedes hacer nada mas y eso molesta porque me lo pasé todo en un día porque me encantaba el juego, pero seguro que lo metereis en una nueva actualización<br> :date: __2021-06-14 20:50:13__
 
-> En resumen: Estaria bien que se pudiese jugar con amigos en batallas multijador así más competividad. El modo historia de lo mejor bastante entretenido y con muchos momentos épicos que le dan el toque. Y molaria que metiesen eventos como el sida, ébola, covid1234 nueva plaga, etc<br> :date: __2021-06-04 22:57:48__
-
-> Pocaexpefiencia<br> :date: __2021-05-25 22:55:36__
-
-> Es un adelanto estar adelantado k sin solicitarlo ya hay app k detecte problemas d x igual indole pal resto d la humanidad k da tiempo a ponerce a salvo, gracias...<br> :date: __2021-05-25 08:23:11__
-
 
 
 #### 3-star reviews
@@ -184,6 +184,8 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="es.gob.radarcovid 3 reviews"/>
 </p>
+
+> Creo ke es práctico siempre y cuando las demás personas estén conectadas si no deja de ser tan útil como deberia<br> :date: __2021-07-23 17:46:38__
 
 > Hay mucho contagio a mi alrrededr<br> :date: __2021-07-18 10:31:06__
 
@@ -203,8 +205,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Esta muy bien<br> :date: __2021-06-19 16:28:01__
 
-> Muy bien<br> :date: __2021-06-19 00:42:15__
-
 
 
 #### 2-star reviews
@@ -212,6 +212,12 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <p align="center">
 <img src="2_star_reviews_wordcloud.png" alt="es.gob.radarcovid 2 reviews"/>
 </p>
+
+> A ver básicamente Ramón roqueta estás diciendo que el pasaporte covid debería estar en esta aplicación,para mí esta aplicación sin el pasaporte covid,está bien,porque nos deben dar derecho a elegir si queremos vacunarnos del covid o no,la libertad de expresión y decisión es un derecho humano,...<br> :date: __2021-07-22 14:14:59__
+
+> No funciona<br> :date: __2021-07-21 22:33:00__
+
+> Funciona cuando quiere<br> :date: __2021-07-20 15:18:49__
 
 > Como idea era buena, pero que la gente notifique su positivo voluntariamente, todavía no somos tan responsables. A ver si aprendemos de la pandemia.<br> :date: __2021-06-24 19:11:49__
 
@@ -227,12 +233,6 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 
 > Gavilan<br> :date: __2021-06-07 10:30:33__
 
-> Consume toda mi batería. La idea era muy buena, pero teniendo que usar GPS y bluetooth de esa manera no me dura nada. Demasiado esfuerzo para llevarla activa.<br> :date: __2021-06-04 16:45:38__
-
-> La aplicación está bien, pero la veo algo limitada para la situación actual, sería conveniente añadir una opción para declarar si tienes síntomas, ya que la aplicación solo sirve si oficialmente has dado positivo (cosa que está perfecto) pero hay muchas personas que aún no se han hecho una pcr y padecen síntomas de covid, pues opino que por prevención, sería útil añadir esta opción<br> :date: __2021-06-02 15:12:57__
-
-> Antes me funcionaba bien. Pero hace unos 10 días me dice que no funciona correctamente, la llevo usando desde el principio y nunca me había pasado. La desistalé y volví a instalar. Pero me sigue pasando.<br> :date: __2021-05-21 21:38:41__
-
 
 
 #### 1-star reviews
@@ -241,24 +241,24 @@ The Radar COVID app has been installed by more than **5000000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="es.gob.radarcovid 1 reviews"/>
 </p>
 
-> Por qué no usan la aplicación para incorporar de forma sencilla el pasaporte covid? Por lo demás, parece una aplicación que se ha hecho solo de cara a la opinión pública, para pasar el trámite. Es una pena.<br> :date: __2021-07-19 11:32:55__
+> Inútil esa aplicación, al dejar a la voluntad del posible afectado el hacerlo publico<br> :date: __2021-07-23 21:12:52__
 
-> Hubiera sido una buena herramienta de prevención. Pero, como de costumbre, vamos tarde y mal; debería ser una herramienta junto el pasaporte covid EU pero ni para la 5a ola de covid nos servirá. Un desastre.<br> :date: __2021-07-17 20:16:46__
+> Esto es una muerda engaña vovo<br> :date: __2021-07-23 19:12:58__
 
-> Basura, no deja activar el radar covid.<br> :date: __2021-07-17 17:13:25__
+> Esto es otro engaño para tontos... Otro kerer y no poder .. La app no funciona... La tengo instalada hace un año.. Ni suena, ni hace nada de nada.. Solo gastar batería y mas bateria..valla 🚮.<br> :date: __2021-07-23 07:12:41__
 
-> Funciona mal.<br> :date: __2021-07-17 16:50:43__
+> Una falsa , no vale ni nadie te da código para activar en caso de covid ni nada.<br> :date: __2021-07-22 18:18:14__
 
-> Absurda la aplicación, porque si tienes Covid y vas a salir a la calle no pones el código del positivo. Sería de utilidad si fuera Sanidad Pública quien notificara los positivos de oficio a la app. Mejor que inviertan el dinero que cuesta en mejorar la economía y ayudar a las pymes.<br> :date: __2021-07-17 09:44:14__
+> No lo usa nadie. El gobierno no lo ha potenciado.<br> :date: __2021-07-22 12:50:08__
 
-> No me deja activar el radar covid....<br> :date: __2021-07-16 13:26:47__
+> Me quitan el comentario, porqué? Aplicación falsa. Totalmente, han de eliminarla. Primero que todo la privacidad de la gente.<br> :date: __2021-07-22 12:16:55__
 
-> Me la acabo de instalar porque me obligan para viajar, pero no me deja activarla. El botón no responde.<br> :date: __2021-07-16 13:04:23__
+> No me dejaactuvarla<br> :date: __2021-07-22 03:24:27__
 
-> No se puede activar<br> :date: __2021-07-16 10:13:49__
+> Si no tienes el virus no te deja utilizarlo<br> :date: __2021-07-21 18:58:56__
 
-> La aplicación no funciona, no llegas a acceder a introducir el cogido. No permite activarla<br> :date: __2021-07-14 20:49:29__
+> Sinceramente no ha funcionado y la tengo desde el primer día que se empezó a utilizar, en casa hace exactamente 12 días, tememos un positivo en casa, esta aplicación, en ningún momento la detectó 😡😡😡.<br> :date: __2021-07-21 13:58:23__
 
-> No sirve para nada si la gente no anota sus positivos<br> :date: __2021-07-14 11:05:51__
+> No sirve para absolutamente nada. Al menos no lo hizo en su momento. Quise notificar que era positiva y no me dejaba. De eso hace 8 meses y 8 meses después sigue funcionando mal.<br> :date: __2021-07-21 01:10:27__
 
 

@@ -196,6 +196,12 @@ The Children’s Health VirtualVisit – Family Care 24/7 app has been installed
 <img src="5_star_reviews_wordcloud.png" alt="com.childrenstx.android.virtualvisit 5 reviews"/>
 </p>
 
+> Great clear picture and sound no problem<br> :date: __2021-07-23 17:54:44__
+
+> Good<br> :date: __2021-07-22 19:11:36__
+
+> Geat job<br> :date: __2021-07-22 18:54:00__
+
 > I love them<br> :date: __2021-06-25 20:21:44__
 
 > It was awesome!.<br> :date: __2021-06-23 16:26:35__
@@ -209,12 +215,6 @@ The Children’s Health VirtualVisit – Family Care 24/7 app has been installed
 > Super easy. Installed & using in just minutes!<br> :date: __2021-04-06 15:03:34__
 
 > Very goid<br> :date: __2021-03-17 21:49:34__
-
-> Great App. No issues! Love it!<br> :date: __2021-02-25 16:37:19__
-
-> Great!!<br> :date: __2021-02-16 20:24:18__
-
-> Dr was great explained everything<br> :date: __2021-02-13 16:56:46__
 
 
 

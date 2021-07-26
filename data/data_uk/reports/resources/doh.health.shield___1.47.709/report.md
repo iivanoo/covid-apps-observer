@@ -151,25 +151,25 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="doh.health.shield 5 reviews"/>
 </p>
 
-> Is good<br> :date: __2021-07-19 09:56:30__
+> Great walle... 👍<br> :date: __2021-07-23 17:46:12__
 
-> Good<br> :date: __2021-07-18 21:34:02__
+> Good<br> :date: __2021-07-23 15:35:22__
 
-> adnan ashraf<br> :date: __2021-07-18 18:49:27__
+> Excellent<br> :date: __2021-07-23 12:47:35__
 
-> Amazing app for UAE government<br> :date: __2021-07-18 16:16:40__
+> good<br> :date: __2021-07-23 11:32:54__
 
-> Good<br> :date: __2021-07-18 13:47:10__
+> Nice<br> :date: __2021-07-23 04:57:44__
 
-> Become slow now, please rectified<br> :date: __2021-07-18 04:12:34__
+> Good<br> :date: __2021-07-22 21:14:57__
 
-> Best<br> :date: __2021-07-18 02:15:09__
+> Gd<br> :date: __2021-07-22 19:05:25__
 
-> Uae<br> :date: __2021-07-17 20:14:32__
+> Quick action<br> :date: __2021-07-22 15:28:17__
 
-> Useful and informative.<br> :date: __2021-07-17 13:08:48__
+> Improved services<br> :date: __2021-07-22 14:56:24__
 
-> Nic<br> :date: __2021-07-17 11:35:09__
+> Not open<br> :date: __2021-07-22 09:59:19__
 
 
 
@@ -178,6 +178,12 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="doh.health.shield 4 reviews"/>
 </p>
+
+> Good app for COVID vaccination status as well as PCR test report.<br> :date: __2021-07-23 10:10:08__
+
+> Excellent<br> :date: __2021-07-21 17:29:55__
+
+> Good<br> :date: __2021-07-20 23:33:48__
 
 > Very slow 😑😣<br> :date: __2021-07-14 20:49:47__
 
@@ -192,12 +198,6 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 > Good<br> :date: __2021-07-08 18:31:38__
 
 > Helpful apps 👍👍<br> :date: __2021-07-02 14:46:12__
-
-> Very good app, its very helpful to show the status of vaccinated for everyone<br> :date: __2021-07-01 08:19:10__
-
-> ALHOSN<br> :date: __2021-06-30 19:21:53__
-
-> Good<br> :date: __2021-06-29 19:07:03__
 
 
 
@@ -263,24 +263,24 @@ The ALHOSN UAE app has been installed by more than **1000000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="doh.health.shield 1 reviews"/>
 </p>
 
-> Vaccination details not updated properly, tried to reach call center,gets disconnected everytime i select technical support. Tried to contact through email, it says recepient inbox is full. Please help to resolve this issue.<br> :date: __2021-07-19 11:26:48__
+> Mapa putangina ka nlang talaga ng bongang bonga. Yes..<br> :date: __2021-07-23 17:59:50__
 
-> I m tring to submit but it show me tri agn ltr<br> :date: __2021-07-19 10:00:24__
+> Cannot proceed the installation<br> :date: __2021-07-23 17:54:05__
 
-> I am facing issue. My latest PCR report came but not shown on this Aap . Don't know how to fix this<br> :date: __2021-07-18 22:53:06__
+> Varee nice<br> :date: __2021-07-23 09:12:59__
 
-> It doesn't show my test results .<br> :date: __2021-07-18 22:41:37__
+> My pcr result is not getting updated on the app. Made so many complaints. Pls help<br> :date: __2021-07-22 14:30:24__
 
-> Greetings. I am trying to use ALHOSN app but it's showing my number is not registered. Please assist me with this. Regards<br> :date: __2021-07-18 09:27:06__
+> Yb<br> :date: __2021-07-22 09:39:35__
 
-> Doesn't show my results even though the results has been sent to me via text, it still doesn't appear on the app<br> :date: __2021-07-17 14:25:20__
+> Hi Team the app is not updating my second dose its been a month now...when i try to reach thrgh call 30mins waiting and if i mail them mail is bouncing back..kindly check this mattet<br> :date: __2021-07-21 23:51:18__
 
-> Bad<br> :date: __2021-07-17 06:22:16__
+> i download many time but its not opening and i miss the corona vacine chance by this app<br> :date: __2021-07-21 21:44:58__
 
-> I am not able to add my son details ,please advice for solution...<br> :date: __2021-07-16 18:00:09__
+> Good app for all peoples and easy life<br> :date: __2021-07-21 08:55:38__
 
-> worst app ever !!!!!even the otp is not accepting<br> :date: __2021-07-16 17:32:31__
+> Alhosn is stopped working.<br> :date: __2021-07-21 06:33:32__
 
-> I make test yesterday... the results negative until now no any update on mobile app 🤔<br> :date: __2021-07-16 11:01:38__
+> It's very bad application sleeps very late<br> :date: __2021-07-20 17:45:14__
 
 

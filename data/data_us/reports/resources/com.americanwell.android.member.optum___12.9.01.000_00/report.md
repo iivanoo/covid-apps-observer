@@ -178,6 +178,8 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> SHANA HOLMAN IS THE DR TO ASK FOR. I had 2 male drs before her who wouldn't take a second to listen to me and just blew me off and told me just go to the Er Shana however was a blessing thank you Dr. Shana HOLMAN!<br> :date: __2021-07-22 02:41:03__
+
 > Was great, doctor was pleasant, listened and got us done quickly.<br> :date: __2021-07-18 02:44:14__
 
 > Awsome so much better than going to thr er the doctors are great very polite very efficent best dr appointment ive ever had now i have to go get my perscriptions so easy so convient i love this app.<br> :date: __2021-07-16 21:10:19__
@@ -195,8 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Quick and easy. Was done in 10 mins from the comfort of my home. Definitely recommend anyone who needs a quick doctor's visit.<br> :date: __2021-07-12 01:13:09__
 
 > Amazing crew and so easy to use. In this day and time it is nice to be able to handle the little things without venturing out and being exposed to more.<br> :date: __2021-07-10 18:40:04__
-
-> So comfortable and easy love this<br> :date: __2021-07-07 17:17:22__
 
 
 

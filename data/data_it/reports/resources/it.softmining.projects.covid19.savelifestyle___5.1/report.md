@@ -271,8 +271,6 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Non mi fa registrare<br> :date: __2021-06-25 11:17:15__
 
-> Inizialmente tutto ok,adesso non funziona più,premo sullo scudo per aggiornare la percentuale di contagio e rimane a zero,in una sala d'aspetto con 15 persone! così è inutile esattamente come immuni!<br> :date: __2021-04-22 08:52:53__
-
 > Disinstallata troppo invasiva<br> :date: __2021-02-12 14:06:24__
 
 > Stronzata vorrei sapere a cosa serve<br> :date: __2021-01-30 19:35:44__
@@ -289,6 +287,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 
 > Cosa significa quando mette 0,e poi un tot di numeri dopo?<br> :date: __2020-06-20 18:27:25__
 
+> Qusta app vale 2 stele<br> :date: __2020-06-17 18:12:17__
+
 
 
 #### 1-star reviews
@@ -296,6 +296,8 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="it.softmining.projects.covid19.savelifestyle 1 reviews"/>
 </p>
+
+> Inizialmente tutto ok,quando mi trovavo in ambiente con più persone la percentuale di rischio si aggiornava in automatico,adesso non funziona più,anche se premo sullo scudo per aggiornare la percentuale di contagio e rimane a zero,in una sala d'aspetto con 15 persone! così è inutile esattamente come immuni! l'aggiornamento l'ha resa ridicola,non serve assolutamente a niente,ne sto cercando un'altra valida,questa è solo da disinstallare.pessimo anche lo sviluppatore,che non interagisce.<br> :date: __2021-07-21 11:47:18__
 
 > Non rileva presenze e vibra sempre<br> :date: __2021-07-16 07:39:47__
 
@@ -314,7 +316,5 @@ The SM_Covid19 app has been installed by more than **50000** times. At this time
 > Non funziona<br> :date: __2020-11-17 22:27:14__
 
 > Poco attendibile visto che 2 cell. stessa marca stessa persona stesso ambiente,risultati molto diversi.<br> :date: __2020-11-11 09:55:51__
-
-> Come faccio entrare se ultimontasto rosso non si ttasforma in verde clicco ok ma non succede nulla cosa è un bidone?<br> :date: __2020-11-04 16:36:37__
 
 

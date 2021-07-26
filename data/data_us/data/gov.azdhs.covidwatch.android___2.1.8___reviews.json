@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOFkvmDpYOwE_4_lgu7CoPu0csKsufq_mlBFNXqw8IR3asvYB_qbnWSidtLmaAZtJWi4drQyXJ9_D2BraMU",
+        "userName": "Arnulfo Garcia",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwdfxmAIHCra0r0DV8kZtmXBbgWB9qJbS4MIBDo=mo",
+        "content": "Positive about march",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-22 16:52:28",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOFMiW4KXcyr1-0M3RUeikaUenRhatcdXYiRGYYg0MbSLIb5cAFMHxvdNKGg_XiqFmjDTdz94omIYzKWebs",
         "userName": "Chris Goede",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz0UoXONJV1-cZoFyt0PQwBBE8oS1yZy0mAEwTZ=mo",
@@ -89,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhFtkUgfQRxEa7POXP1MUSP__eqQStiKT0igJmq1xc",
         "content": "It's very basic and it doesn't allow you to enter information ...i.e...that you're vaccinated. It allows you to find a vaccination site but I don't need the app to do that. I thought it would show hot spot of high infection locations. Definitely needs a better development team.",
         "score": 1,
-        "thumbsUpCount": 22,
+        "thumbsUpCount": 23,
         "reviewCreatedVersion": "2.1.3",
         "at": "2021-05-01 20:00:59",
         "replyContent": "Thank you for your comment.",
@@ -245,7 +257,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJykQuX_av0UAr_bEismSmGh5nfvmgwc-9uMsJCZ=mo",
         "content": "Was hopeful for this, but this app is *extremely* limited. With only around 10K downloads (assuming these are still installed and running), there's no way it can function effectively for contact tracing. First, this had apparently been available since August 2020? No one knows about this app. Second, there needs to be a way for users to report their own exposures to those diagnosed covid positive, not just personal diagnoses - consider medical field workers: doctors, nurses, pharmacy.",
         "score": 1,
-        "thumbsUpCount": 40,
+        "thumbsUpCount": 42,
         "reviewCreatedVersion": "2.0.32",
         "at": "2021-03-05 20:29:24",
         "replyContent": "Hello, Thank you for your thoughtful feedback. We\u2019re excited for you to start using the app! We are currently in the process of working with the State of Arizona. Click here to learn more: https://www.wehealth.org/arizona",

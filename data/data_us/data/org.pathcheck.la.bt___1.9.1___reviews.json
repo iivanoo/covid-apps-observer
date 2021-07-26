@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOEsJEBgN5z9PRyEXhvXoxem6jPWooCN5aVZ2SkCA6d0HI1iR6n8wVyxZwuDu2Xp6k0ArTj4z-DTkd4ycns",
+        "userName": "Clint Ladner Jr",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwgNJA0SZRqyVq7KZh67V1vRX2OBBctGjJJvkw6=mo",
+        "content": "Privacy policy is not very clear, and very wordy.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.1",
+        "at": "2021-07-23 20:29:20",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHQCWZQqKWWRkI4RHz8zA4DlIFpcf8ncwi3sNmrcKGufr89CYEVOVI-hGAbf_mGKz6PMtc0bKfEY3Z8QNk",
         "userName": "Carlos Scorpeo",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzeVpG4zbQ4-GR3QA2abo5gcnxZk2tqEklk4kE=mo",
@@ -65,7 +77,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZDTe_ciCDk2ownGwTLchtMkXZNKoy0byfDVRH=mo",
         "content": "The way the app gathers information and alerts people about exposure, can cause problems with prevention. If a person is positive but doesn't report with code you won't receive an alert. False reality about being safe. But great concept, should have thought this more.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": null,
         "at": "2021-06-14 15:46:11",
         "replyContent": null,
@@ -185,7 +197,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgF2FL-wj7NgMzBkrdFT9o16ZXdfuByzc2cp3E7_Q",
         "content": "What's the purpose of the app if a person doesn't enter their positive results. It would be more useful if the state/hospitals/doctor office entered the information minus entered a person's personal information. The app doesn't work unless the other person has also downloaded the app and has it turned on. Great concept but poor outcome when put into place.",
         "score": 1,
-        "thumbsUpCount": 68,
+        "thumbsUpCount": 69,
         "reviewCreatedVersion": "1.9.1",
         "at": "2021-04-15 16:22:47",
         "replyContent": null,

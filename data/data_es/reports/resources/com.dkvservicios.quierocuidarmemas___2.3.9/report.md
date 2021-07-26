@@ -216,6 +216,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Hablé con la médico para hacer una consulta y la solucióno perfectamente<br> :date: __2021-07-20 07:28:56__
+
 > Muy buena, me han atendido por videollamada y ha sido muy cómodo y rápido. Han incluido la receta para solucionar el problema y me ha resultado todo muy fácil.<br> :date: __2021-07-19 09:25:20__
 
 > Mi experiencia con DKV es siempre genial. Esta App ha mejorado mucho el servicio y sobretodo me encanta la atención por chat. Veo muchos comentarios negativos y críticas pero yo, personalmente, no he tenido nunca ningún problema ni con la atención ni con la aplicación.<br> :date: __2021-07-16 16:01:23__
@@ -233,8 +235,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Muy rapidos en contestar<br> :date: __2021-06-14 10:43:52__
 
 > Todo genial 😊<br> :date: __2021-06-10 11:59:15__
-
-> Me encanta seguros DKV<br> :date: __2021-06-07 18:01:22__
 
 
 
@@ -271,6 +271,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 3 reviews"/>
 </p>
+
+> Ya me lo resoovieron gracias<br> :date: __2021-07-22 13:50:35__
 
 > Estaría bien poder ver tus recibos y el estado de los mismos de las cuotas del seguro<br> :date: __2021-07-02 11:10:43__
 
@@ -324,6 +326,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
 
+> Busco en el cuadro médico un doctor en Valladolid y me salen en Barcelona. Qué tengo que hacer para que me salga en Valladolid?<br> :date: __2021-07-23 01:52:08__
+
 > Lo más seguro que me cambie falla y no me lo cojen<br> :date: __2021-07-15 20:06:32__
 
 > Engañabobos lleno de ambigüedades. Te van a generar dolores de cabeza básicamente. Muy piratas.<br> :date: __2021-07-14 18:14:44__
@@ -341,7 +345,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > La aplicación tiene muchos usos, está muy bien planificado pero cuando uno está en las citas médicas las llamadas se cortan, esta es la 2vez que me pasa y no es problema de mi Internet, porque justo para evitar esa situación tengo el módem a mi lado literalmente a mi lado, luego sale conectando por buen rato, voy a la carpeta médica y el médico pone que me ha llamado 3 veces y que no he contestado y yo en shock, porque el sms que sale es que "el profesional a terminado la llamada. Entonces???<br> :date: __2021-06-01 17:47:08__
 
 > La peor APP que he usado. Me voy a dar de baja como asegurado. No consigo cita nunca ni me atienden, sólo se pasan el balón de uno a otro. Busquen otra aseguradora, se los recomiendo.<br> :date: __2021-05-31 13:32:24__
-
-> Acabo de bajar la aplicación y me da error 503. No puedo acceder<br> :date: __2021-05-25 12:14:05__
 
 

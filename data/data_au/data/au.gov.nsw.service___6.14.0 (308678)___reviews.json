@@ -1,5 +1,593 @@
 [
     {
+        "reviewId": "gp:AOqpTOF6VHXgMZe4d7WCPELOjvNbmwtB9_-hnsgZVnVinOx_RVk210Jl0xLMwD1tbsfULnR8uDGVep2zQ8umvUY",
+        "userName": "George Spring",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzEDfmSc1t-2URMcEsrhzzZJo2dX8eXf7UVPIAR=mo",
+        "content": "It's not scanning at all it only worked three times since I installed it.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 21:21:04",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEAAV8BxfDcygNeXiXicq0F1G4x8yRkHi3q40zCHi3gh0pFnuzw4GotKilTYD12Y_211tbl7amqZyq5huw",
+        "userName": "Aki Mate",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNzPn6sf4NbVaa1L_IKxKZZNvXBtlQz3t5TvOq",
+        "content": "It's really good to have this app on your smartphone or PC but one thing to be improve is, scanning of number plate doesn't function well and can't get the job done. Please fix this as I need this function every day. Thanks for servicing NSW",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 16:19:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFqFDnkm9f4r1qxaf8igXjZF5GLRjmNsAmuw_9Hh775JflTbLcCP326ZNTyG6sHG2eDlf28MBL3QVTsHM4",
+        "userName": "Jerry20104",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhiJ33WEI4f2JaZBWT4WlI23cQ481P591dpchyL",
+        "content": "Can't check out of 2 places, say u go into a shopping centre, check in and go to another shop inside that shopping centre check in u can check out of that shop u just came out but can't check out of the shopping centre when u leave and sometimes when I check in to another place it comes up the last place I checked in and I have to go back to the check in screen and do it again the qld check in app has a way faster check in system open, scan, check in now done no check out b.s",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 14:13:52",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHNdSU_692AhFuoCmvQ-aZ-Wz7NLs5DHSmyQUaphuWijw5vD92n_vv1QbcX1p1RojcB66rdgvz-xzWMEKw",
+        "userName": "Catherine Christensen",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzE58CRWjmkPAUYBDUp5DJeEb5aSn2XtQGmiUxb=mo",
+        "content": "I have been unable to check in to certain places as it does not recognize my mobile phone number when trying to input my information. I have checked all of the information/troubleshooting websites asking for my details to confirm if there is an error but unable to get anywhere. I contacted the help line number which stated available 24/7, went through the process of what my enquiry and was and told that they are only available 7am to 7pm Mon to Fri. How am I supposed to go and do essential grocery shopping if I can not check in. I just need to confirm what mobile phone number has been recorded. I have to login at a screening station at work which accepts my mobile but when using the qr code, again mobile phone does not match. What I am suposed to do.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 12:39:46",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOF7_HBFXHxwgUzSHI3F_0zrMbtKhmeuA-HkU9VyAQMSdgOcsTXaLwiL0a6Z0a17Zc5B-f9AgVWKqdxrbxA",
+        "userName": "Peter Groom",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz9du1ppNO86oInr0DedQn8uH5xRhvYdnu9qRv8=mo",
+        "content": "Easy to use means I use it always",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 11:35:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOE2IdEzIuqIygF8Zocb5nTehkPZqbdCiAbYJxnqYhdlAf4dFybO6MMNyvdhU--jQdA35s65sAAIVh1EBcM",
+        "userName": "Roslyn Abbott",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyQNkZjgYstPPLA1GWKp8GvNG8fDfgLgF686hZv=mo",
+        "content": "Won't let my log in",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-23 08:18:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEm_4mp1tATlALzeAVDF80Ak5vPK21GF5XSGvNJm3VPFRgw5LNArzecWvcAVTdTx2qM0CABwIAgDIExec4",
+        "userName": "Roslyn Lavis",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzUY650--MWl-gSYO52-0IlZUdxEh_0qQP45vh5=mo",
+        "content": "Been to Service Nsw centre, back to shop where I purchased phone and local library techheads. No-one able to download NSW check in app onto my phone. Told to buy another phone! Very angry but not surprised...government botch up once again.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.27.0 (139164)",
+        "at": "2021-07-23 07:56:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEZ1Zf03R6jx0lTbpkBwNEP3IEFScarTHn6ATWJuocca81PVBRJ_T4QjgJqKwvyOzHNPCnUIpbmACPYBHo",
+        "userName": "David Lattimore",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgleIYcg-FHAcnAtnC_zkf93Qlymq8QlGeNApKYRO8",
+        "content": "Takes too many clicks to check in. I've signed out so that I don't need to authenticate every time I check in, but now I don't have check-in history. Can't the authentication be only for parts of the app that need it like the driver's license?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 06:47:23",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFAQR4eTApLLdfAzkEy5-UcEjmw6Fl2Pe62uovgKXykXyraqHv5TfVlnoq6HyXUArzAIQ1dl2ugDh94ZZM",
+        "userName": "Deanna Gaites",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJziHRdabb1SsaNC1O0n-aln7W3Zy7x7QpC9cyJ-=mo",
+        "content": "Cool app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.12.0 (287628)",
+        "at": "2021-07-23 05:21:19",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGKJ4tukFom0WX9yYHHGKFxFPjmZw7MrlVF0szrGlWc2E2lxMEDMfAxzYhxt0_ol5mtp5I7KjtqxXCzyyQ",
+        "userName": "colin ewer",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuH8a8aF1VbylHcAzp9m61WyW9kRnmKshakFit",
+        "content": "You have to go to recent,at the top of your screen to check out,press RECENT and the check out icon will appear.!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 04:31:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG9evLoXOC6oN3ko1nid3KweFvtcoyEletsqhgJtWlCM732MhtfOlNgQ1Xp2z_7TugvNUTESBhourI2FaY",
+        "userName": "Keena Hudson",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhirBxnkl5n3puyl73oE649G0JJUBfFMzPp8trmAQg",
+        "content": "My local service centre in Miranda, where you go for disability services, has no disability access. Shame on you Service NSW.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "6.13.0 (296669)",
+        "at": "2021-07-23 03:54:26",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEecPM1mudFxB7aApxjjZOgcJEE4T_Wp6gv5s1Scjlc5AE-w68Vdp1szssCSU4VsQ8qczAUtk8hH7Ffu2Q",
+        "userName": "David T",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwU5DI7fc8x8Iyiw4FsAmDZ9HnITmQwzbAr1fMK=mo",
+        "content": "I'm having trouble checking out at my place of employment ,is it an Android issue?as other work colleagues with iPhones are able. #edited* issue seems to have been fixed thanks developers\ud83d\udc4d",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 03:17:16",
+        "replyContent": "Hello David, thank you for your feedback. When you tap the app, tap the COVID safe check-in tile, did you see a red dot on the recent? If yes, tap on the recent and check out. If you had checked in somewhere else before checking out from the 1 check-in, that becomes history and the feature to check items out from the history is being looked into.",
+        "repliedAt": "2021-07-20 04:34:26"
+    },
+    {
+        "reviewId": "gp:AOqpTOHwUK0eUpc6GQP_gXOOVJH7LdY91uVzSyM7zyqR4J928a41XvoYNUXhvkAovepLpeAdmZa2nnJ9JHvz-NA",
+        "userName": "Kevork Karadjian",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzKLM_Jmy3A7f8h4Qnke1OWbwg_JFJuQjLkbpPa=mo",
+        "content": "Very simple and easy \ud83d\udc4d",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-23 00:09:45",
+        "replyContent": "Hi Kevork Karadjian, thank you kindly for your beautiful review. We are super excited to hear that you enjoy using the app. Please keep the feedback coming.",
+        "repliedAt": "2021-07-23 03:47:31"
+    },
+    {
+        "reviewId": "gp:AOqpTOFEnmdHHbS9uIyM1n8nRPzQYww6b09cSekPm6tSBMFhyMF4VFJ11K6WIaN3Ks7X4ntc6J0ik0o5GobTMtw",
+        "userName": "Phyllis Waterfield",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgNnLzmkVx-OPJLNmVGhxblDN5I29ry40TcABe2wz8",
+        "content": "Good.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-22 20:59:05",
+        "replyContent": "Hello Phyllis, thank you for your nice review. We are happy to hear that you found the app good and enjoying using it. If would bump into any issues, we are here for you. Feel free to email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-23 03:48:34"
+    },
+    {
+        "reviewId": "gp:AOqpTOFUFbOWBPvyRDck7dfZc5Tk-V2YJUXkfrwCryXg5sE0fXi-zewPKqAGrl0xpW11BnRp_x5QFt_cFzEcS5M",
+        "userName": "P Monaghan",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxznsld7C8fxtznbCEvhZ2MRqfg0KnFfDZ2p5Hx=mo",
+        "content": "It doesn't download",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-22 12:49:28",
+        "replyContent": "Hi Monaghan, Apologies. Please check the network is firm or try switching it to Wi-Fi. Check device storage capacity, might need to free some space to download the app successfully. Uninstall the app, restart the device and reinstall the app from the google play store. If the issue persists, please email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-23 02:29:42"
+    },
+    {
+        "reviewId": "gp:AOqpTOEF9JMg7qXXbu84zZDGfbVVJj7LO68kI6PzAdIBT65IvEuI_dXffbB22dp5oa3-CYx-grxRi2YZ9a3YoHY",
+        "userName": "Helen Mulquin",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxPSBO2GzxBO_vQQ9bw25gZ7DoLZIkpRdzTlE03=mo",
+        "content": "Can not do the nsw app.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "4.32.1 (181861)",
+        "at": "2021-07-22 12:36:09",
+        "replyContent": "Hi Helen, Sorry for the inconvenience. Please check the network is firm or try switching it to Wi-Fi. Check device storage capacity, might need to free some space to download the app successfully. Uninstall the app, restart the device and reinstall the app from the google play store. If the issue persists, please email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-23 02:30:30"
+    },
+    {
+        "reviewId": "gp:AOqpTOHigaf551hw8ZWQskd0SsNDTY4JHBXNaK1N4tQzHwW7VpGkEW5lwyNjCTdkFQdsE_wJsu-Z5XpwZRTCkZg",
+        "userName": "Ali Jhon",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzgJ5ezckoQMWUutwWllwwQpXsQ1vO9NykcF2NN=mo",
+        "content": "Very good and helpful \ud83d\udc4d",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-22 10:34:56",
+        "replyContent": "Hi Ali, thank you so much for taking the time to leave us this feedback. We are glad to hear that you found the app helpful and enjoy using it. Please keep inspiring us to continue providing you with the best service.",
+        "repliedAt": "2021-07-23 02:32:40"
+    },
+    {
+        "reviewId": "gp:AOqpTOGOTDp3PpEyvPvJHVMcI1yvZEmylQf6RUn76QFuQKc8ejT29wwTL-eAizNy-IEITMNyvORljuqRVvHETRE",
+        "userName": "Daphne Jeffries",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXdWZHuOXcWpJsQhnUzdxh3UtMOKZOsW81UuL3x-o",
+        "content": "It finally works for on the Covid check in. Needs some work on the sign in sign out as I sign in to the shopping centre then sign in to a store I'm unable to sign out off shopping centre but am able to sign out off stores.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-22 08:06:45",
+        "replyContent": "Hi Daphne, thanks for your positive feedback. We appreciate you taking the time to leave this.",
+        "repliedAt": "2021-07-12 08:14:39"
+    },
+    {
+        "reviewId": "gp:AOqpTOEIbrILcgGZHKr-7RBmWTdAZ00QWuHhyjS9d4G1EeoRNynN8x1uuDyHIHw_0ezmD2vdh1qgarxQk0MDWFs",
+        "userName": "Cullen Marshall",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyg-hFXy2oQP6afmV1iRA0cC6HMiXj0fSXTfgfa=mo",
+        "content": "You can't use discover voucher for food when you it says you can?. Can service NSW please fix the problem.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-22 07:47:09",
+        "replyContent": "Hi Cullen, You are right. Dine vouchers are for the food and discover vouchers are for discovering. Where did it say that you can do that? Can you send us the picture to mobileapp@service.nsw.gov.au? Please know it's still the same. You can use the Dine vouchers for takeaway if you are under the stay-at-home order.",
+        "repliedAt": "2021-07-23 02:26:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOEk0LGblJ1xBTvq0pLZUuAbsjL2TjscRaD_c0lEA2jIXQkw4ZleRWjzksEh7ipnmIM4BEC9Msn2lJMQTic",
+        "userName": "Lulu Belle",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIaAI2HeIBzJX9KcA1TdL8ShdtoOakByFTm4MR=mo",
+        "content": "Frustrating",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.5.0 (231417)",
+        "at": "2021-07-22 06:10:17",
+        "replyContent": "Hi Lulu, Apologies. Please check the network is firm or try switching it to Wi-Fi. Check device storage capacity, might need to free some space to download the app successfully. Uninstall the app, restart the device and reinstall the app from the google play store. If the issue persists, please email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-22 07:30:05"
+    },
+    {
+        "reviewId": "gp:AOqpTOFZVQQLWyKmPioST3SaiLaY_RzxkD3s5iJ0Je1V0eBFWT44wKSGOdLVWoRAOzh030Mt7YOIxM3KbuocrxY",
+        "userName": "Wayne McAuliffe",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFbdeJRq1U1Q4R2mr6f3WWlWkjCyOA62aXw80c-hw",
+        "content": "Good app with the best of intentions. 5 stars if an option to turn off the authentication screen could be added. Annoying that I have to unlock my phone, then unlock the app before I can Check In/Check Out. The double-authentication is quite redundant considering other \"sensitive\" apps like PayPal, MyTelstra etc simply retain your credentials between phone restarts. 22/07/21 EDIT: Bug with \"nested\" check-ins? I checked in at the entrance to a shopping mall, then checked in/out of the various shops I visited. When leaving the mall I couldn't do a final check-out. The Check-in history shows \"(check out pending)\" with no way to access it.",
+        "score": 4,
+        "thumbsUpCount": 65,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-22 05:41:39",
+        "replyContent": "Hi Wayne, Checking items out from the history facility is not yet there in the app because the team is working on it. thank you",
+        "repliedAt": "2021-07-22 07:23:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOHbTdZD8JasFS6hSCvqwUv1jXoBMxUI8EaocbpymvHPE5qHhLxhgqWnUUOrrN2lqeE03ttFqPgFUrb0rrA",
+        "userName": "Mal Watts",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GieDZD9_4GylyTeGPzUSWQKumzcqO1gXpqUTdLj5g",
+        "content": "Just a minor problem which might not be able to fix On Sunday I tried to check out of a business and it didn't work and needed to check in to the next shop Later that day I was checked into the 1st business again even though I had not scanned in for checking in and I was about 4 km from there and had checked into another shop for essentials I noticed yesterday that it tried to do this again to me but was able to quickly get out of the app Is there a way to delete this check in",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-22 03:41:29",
+        "replyContent": "Hi Mal, thank you for sharing your experience with us, unfortunately, we haven't had this facility to delete check-ins in the app yet. Your feedback is shared with the team that improves services in the app. Also to check out from the history is being looked at by the team. thank you for your patience.",
+        "repliedAt": "2021-07-22 05:51:18"
+    },
+    {
+        "reviewId": "gp:AOqpTOFqJWLtQIbtyreYm8EH30GjUuRgxNDzNZs87E_zjrpoGwPSPNzVq4qTvd4_3HSTE9t5pBP8BRnnzfMAISk",
+        "userName": "Kerrie Berwick",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx3YJ1rFMPf33oP7DQwhFaLO3eZlc4iQsjAfxKa=mo",
+        "content": "Easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 11:33:02",
+        "replyContent": "Hi Kerrie, it's a pleasure receiving nice feedback from our app users. We feel encouraged to keep on working hard to provide you with the best service. Keep it coming.",
+        "repliedAt": "2021-07-22 05:36:14"
+    },
+    {
+        "reviewId": "gp:AOqpTOH1dHBm-J82V_w8i9_RGkh25vy7D9-f3Z8EzQOwVIu2aVd3eeQQM3wJkdTEwQKBnoq0hzNvpX5kYS8D0mw",
+        "userName": "John Freeman",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxB5Ayob1qd7xwZX428XzfkK_uWuOJ76sINWgGD=mo",
+        "content": "Don't work in commercial venues it's adhoc I've tried all I've been asked by the app and still not working.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 11:28:55",
+        "replyContent": "Hi John, Sorry to hear that. What was the error message? Please feel free to send the error screenshot to mobileapp@service.nsw.gov.au Happy to look into it for you.",
+        "repliedAt": "2021-07-22 05:37:32"
+    },
+    {
+        "reviewId": "gp:AOqpTOHDjAOBe2yFHRILwRLyevNtec_8NulJHt96aBazHIrLjWN3S6UwDm1olDdre5PbZB79Fn4S11bozHdrKUg",
+        "userName": "ivan Mcdonnell",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwWf2GXHaEzxsuM6yBQR2sK0_UtRjR8yiszDyqk=mo",
+        "content": "Good to navigate and find what your looking for",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 10:58:47",
+        "replyContent": "Hi Ivan, thank you for your feedback. We are pleased to hear that you enjoy using the app. Please keep the feedback coming.",
+        "repliedAt": "2021-07-22 05:34:29"
+    },
+    {
+        "reviewId": "gp:AOqpTOE6jhxzdH34YiCcB_SRuQcGz3Dg8f5E4LuSTeCVd8KC9fkG4iSMmTYFKS6kXBqP6GRDUe6FmG6NGXcVuoU",
+        "userName": "Phillip C",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQLeSfbZU9goD3czSFJfyyoShM5f6XcmMZHvfx=mo",
+        "content": "Excellent app! Very useful for checking in and easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 09:31:42",
+        "replyContent": "Hi Phillip, Apologies, The team is working on improving and making it clearer for our app users. If it's just to COVID safe-check in, you don't need to log in. Tap the app, tap the COVID safe check-in tile to use it as a guest check-in. If you had set up a service NSW account, you can also log in to use the COVID Safe check-in. It's up to you.",
+        "repliedAt": "2021-07-20 03:58:36"
+    },
+    {
+        "reviewId": "gp:AOqpTOFVnY3nFEDTRmi1wvUqbEprIYP7IP1gkUzWK5KmzATeWXIcMUxMjqzRbf0_c7Qwfz7VCtt7jJAaAWyv39A",
+        "userName": "Brian Wilkins",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy9Ij-YQzSu9qenJui7aaaeAdQ1-TFKiNc6jIzT=mo",
+        "content": "Mostassistingthank ton Thoughts k",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 09:00:21",
+        "replyContent": "Hi Brian, thank you for your download. The service NSW app is enhanced using our app users feedback. Feel free to share here your experience with the app.",
+        "repliedAt": "2021-07-22 01:36:16"
+    },
+    {
+        "reviewId": "gp:AOqpTOFIFBysJU_h7gd1kU2OL99O6Q8RZw2S5piylLu0qAfmVMWX52XaFGxe17topYsxuPdSxfOeLd7FsLbrZvk",
+        "userName": "Mark Paul",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxdqcrJ9D8OsAoz03lzjNOC9-VNxjrPevkzT43c=mo",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 08:27:50",
+        "replyContent": "Hi Mark, thank you for your review. We are pleased to hear that you enjoy using the app. keep us encouraged and keep the keep feedback coming.",
+        "repliedAt": "2021-07-22 01:34:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOHguY_OphTpklG1q21u_kq85l9OocmZB7sZvadElkydPifTM5IGJJfX--sgy5bI-yMVdOqRLSiPbphsKMA",
+        "userName": "Arnold Hamadeh",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgZ5WJbActKTsM5_YGFOUGVSieAjjMeadqsJ4jcoQ",
+        "content": "The app doesn't recognise my password, doesn't let me to change or reset my password. It wasn't like this until two weeks ago. All my efforts are now to no avail.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 02:51:17",
+        "replyContent": "Hi Arnold, sorry to hear that. If you are still getting this issue, What was the error message? Please send it to mobileapp@service.nsw.gov.au Happy to look into it. Please know you don't need to log in to check in as a guest.",
+        "repliedAt": "2021-07-21 08:30:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOHDt3jOfM8K1ZkGUM4sqODO2kAxenhFPOcCOpI2cXq8301Cq58FhzbPc_VrTdY5IQhYpYubg4YCKU1j_q4",
+        "userName": "Caroline Chau",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgW2VAzq4Z_wba5hY3Z28j13MjwNu9abZvJLir0",
+        "content": "There is something wrong with the app, it keeps checking me into a place I went to weeks ago every time I open the app to scan a new QR code.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-21 01:32:27",
+        "replyContent": "Hi Caroline, This is a known issue that the team have been trying to resolve. It's the device camera caching the old venue. To avoid this, please use the in app QR reader. please tap the app, tap the COVID safe check-in and scan the QR code to check-in If you still experience issues, please let us know in the email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-21 08:03:17"
+    },
+    {
+        "reviewId": "gp:AOqpTOG9pw6gKUJ7mYHzGAEvIsL6HUxd2tfW_IcNhqYTMol7NUkb2xoKlqyLj715tLtpMkaczN0tbor8Wt37WhM",
+        "userName": "Dan Lucas",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiZAY0ukU1UgcrJnX8teFARVJNJwgG0u7Io43pRJg",
+        "content": "Have trouble logging into the app. Biometrics feature fails and pin says incorrect everytime. Pin needs to be reset everytime to log into the app",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 01:11:18",
+        "replyContent": "Hi Dan, we are looking into this. Can we please have the error screenshot and other details such as your device type, service email at mobileapp@service.nsw.gov.au? We are here to help and in the meantime, you can log out of the app and use the guest check-in. Or the service web form is available for the check-in.",
+        "repliedAt": "2021-07-21 05:15:15"
+    },
+    {
+        "reviewId": "gp:AOqpTOEef0sdFD5FwufaR46wRI9KYMZPu_oGFjSu5FdVtmZertxr9z0jtzvKAR7OAFR_ZsBAwmstCiOxoszox94",
+        "userName": "Chris Le Brese",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxIeq2zwqFrJXauH_6DjLbOrUdSUSALKfGh9TY=mo",
+        "content": "Would be great if COVID check-in had offline functionality. Reception is horrible in some shopping centers and check-ins are being skipped when customers can't sign into the app. Fingerprint Auth dialog is very buggy. Sometimes leaving a blank white box after successful scan.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-21 00:29:14",
+        "replyContent": "Hi Chris, thank you for your feedback. Your feedback has been shared with the team. Please know check-in is more important than check-out. If to contact you was necessary, the contact tracers would reach out to you. Check out items from history is not available but the team is looking at it.",
+        "repliedAt": "2021-07-13 04:04:58"
+    },
+    {
+        "reviewId": "gp:AOqpTOGz36Qq7fTkcYfFJ38ghsBQWVfosSeIhjx-auKYafXUp02TnyjuhcmrwF_gfIPDPJ9Am69QwvZPX4R_v4A",
+        "userName": "Vanessa Buddle",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzc2q73Hsmw0c3150yRA3rpZjb_c8_5AQkM9wkJ=mo",
+        "content": "Great app. You can store your license on this app so you don't have to ever worry about forgetting your wallet \ud83d\ude1c",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 22:12:47",
+        "replyContent": "Hello Vanessa, We are super chuffed to hear you found the app great and enjoy using it. Thank you for your support. Please keep the feedback coming.",
+        "repliedAt": "2021-07-21 00:43:43"
+    },
+    {
+        "reviewId": "gp:AOqpTOG0Uf7QfgdDUuQ4MAeOnYD8QelZhItU7TElaEw4W5jVeyIyqPXp84ImkHQ9TkTz4zFBgSSIZJlsVf4d_Z0",
+        "userName": "Dennis Kwon",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgGpwhc6DRx9yjeLT0kBD4r1bwelcqpdybsaoAarQ",
+        "content": "DARK MODE",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 16:07:25",
+        "replyContent": "Hi Dennis, it's a pleasure hearing that you like the dark mode feature in the app. The app is improved using our app user's feedback. Keep the feedback coming.",
+        "repliedAt": "2021-07-21 00:42:15"
+    },
+    {
+        "reviewId": "gp:AOqpTOHzZ-pbFI0TSt_0IWA1sxB4mT7Ksb4Hr0zs_QVzgmO8-lbg3rJXMF5_NNI2DU98g025gBTMWgVRHLEpdzg",
+        "userName": "John Paton",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxXgRSFyS24GfOMq1Gus-MfNO3vDNp-GZUT5t1O=mo",
+        "content": "Very easy",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 11:51:18",
+        "replyContent": "Hi John, Thank you for your feedback. We are motivated to work even harder when hearing you enjoy using the app. Please keep the feedback coming.",
+        "repliedAt": "2021-07-21 00:41:17"
+    },
+    {
+        "reviewId": "gp:AOqpTOFsbfghA3gLJu8y17Tbubd5enQViI9qZ2CDnz-N3nQdZEp2NdzmSPlgQOh2PBQIxk4p7U6TPhVZNfp2k5s",
+        "userName": "Dave Jobs",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwCIcnAFgpxY56VxCqJ0DpbsxGzEYeqIL2_NuAE=mo",
+        "content": "Why do I have to enter a pin number everytime I open this app it just slows things down.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 11:00:44",
+        "replyContent": "Hi Dave, The app contains other important information of yours, eg- digital driver's licence, in the app and for us your security comes first. If you prefer not to PIN in every time, you can log out of the app and can use the guest check-in. To log out, tap the setting cog on the top right, log out, log out with another account and sign out. Ta",
+        "repliedAt": "2021-07-21 00:40:04"
+    },
+    {
+        "reviewId": "gp:AOqpTOGWNRc-D0aGVfFt3oNbPU9ChD5BTo_8_6Myi9mobJ7dREZtD2mnWdRrEuj9LKDFdL1d2SOFgNtGcaECluE",
+        "userName": "L.T. R.P.",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJybc2j8B5JstHPKtF1F6NZ63f28Xljl7j5PhEg-=mo",
+        "content": "Tells me my details don't match when using the pre-filled information about my drivers license that Service NSW Pre-fill with my license details. Keep getting g told to send a screen shot and nothing changes.. How about you get Serv NSW to re-enter my details in to the system instead?",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 10:11:17",
+        "replyContent": "Hi L.T. R.P. Please send us the error screenshot. We would like to investigate this for you. Can you also mention other details such as your device type, email for the service account and contact number at mobileapp@service.nsw.gov.au?",
+        "repliedAt": "2021-07-20 08:47:29"
+    },
+    {
+        "reviewId": "gp:AOqpTOE4391vALuYqkJmrnX8rW186B8DEqvJg6H4fp-dsFUC4lDDZpq_YAUph1Drc8WXvRNrDFJ5OG0GpF3TkEU",
+        "userName": "Morgan Robbie",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxRUTDhKlEMOu38CT78WKZPAVX2NlgxhUSEe0GP=mo",
+        "content": "An absolute embarrassment that this app is supposed to keep us safe. Just another example of politicians giving import jobs to mates rather than competent people.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 10:04:31",
+        "replyContent": "Hi Morgan, Apologies. We are here to help you, please feel free to share with us in the email mobileapp@service.nsw.gov.au. The screenshot will be helpful for us to help you better.",
+        "repliedAt": "2021-07-21 00:26:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOGKEggB0Cy2BXlrKh76uMN6j2pJMypYxvBTOlPQQkV5SNh_tX6QW2MaW2Mf_bUbxPcoxp-g3OnRz9s9Ujs",
+        "userName": "Dennis Doolan",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyfWOaEr20mKOHsqLM6YcE_LKpNqriWoovSpdXu=mo",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 09:41:01",
+        "replyContent": "Hello Dennis, thank you very much for your feedback. We feel inspired to hear when you are happy using the app. Please keep the feedback coming.",
+        "repliedAt": "2021-07-21 00:36:25"
+    },
+    {
+        "reviewId": "gp:AOqpTOHQIyKqg5IYLAgyurClB7_W0DvrNcpGUqvdfDwOW565rvCh20uH8z0BUoConHBw_BRxuzv0xLC3Fng-G6M",
+        "userName": "Eddie Jackson",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwoBhhF4FIB_Ba6xVFURKQ4l6df5e89Wg5v-7f1=mo",
+        "content": "Not bad or good 2",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.13.0 (296669)",
+        "at": "2021-07-20 07:17:21",
+        "replyContent": "Thanks for your review, Eddie. We use our app user's feedback to improve the app. If you would like to share more feedback, feel free to email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-05 02:51:39"
+    },
+    {
+        "reviewId": "gp:AOqpTOFGF5F_EkM4J7OAHxhAq6VSel0dj8av4s2l0r8kbCP8Pi_TIQ-HKUwNwG2pMNOehtuQ_UGFd_IqEQ0xDgg",
+        "userName": "Horst Drechsler",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgP9dtjkbZp6LDEhW6Fhl7c3TAOQ96xNJVlM_Ru",
+        "content": "Terrible",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.13.0 (296669)",
+        "at": "2021-07-20 07:09:35",
+        "replyContent": "Hi Horst, Sorry to hear that. If you would like help, you can share more about your experience in the email mobileapp@service.nsw.gov.au If the issue was with the app, we can certainly look into it for you. We will do our best. Thank you.",
+        "repliedAt": "2021-07-21 00:35:08"
+    },
+    {
+        "reviewId": "gp:AOqpTOGPfkm0dcfjAAOYKHE0BDaLMoH0t7c5d27ZFqPw8gKSNVOOyA-mw56HCLfkoYFMx-tPZvb-YsFdpBlzvbU",
+        "userName": "Andrew Rose",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWtgFi_d9ll11u3hUAN0CgJG1hZcvYEXLvahr9Kg",
+        "content": "Please add the ability for an employee to check-in at the start of their day/shift, and then check-out at the end, instead of constantly being reminded to check out when they know they'll still be there for hours and hours.",
+        "score": 3,
+        "thumbsUpCount": 20,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 05:32:16",
+        "replyContent": "Hi Andrew, Tap the app, tap the setting cog on the top right, you can set the check out reminders to after 5 hours. Thank you for your feedback. This has been shared with the team.",
+        "repliedAt": "2021-07-21 00:33:06"
+    },
+    {
+        "reviewId": "gp:AOqpTOE8Jy1xHSYSqu7tvDHLGmpRRl75sAHb1fmCe5aKYP1Cu2gTk1P-E5hNs335gq-I2YFE3AhQKwly9nLoOrY",
+        "userName": "An Other",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJz_R4oyUdMI-DymbhxspkhbqdcrTKIuYjTqj3ja=mo",
+        "content": "This chews thru my battery so quickly. It also hogs all of the memory, making my phone unusable.somthing that should be quick and easy to use, leaves me standing for 10mins trying to check in. Not all of us have the most top of the line phones. A lite\\light version should be available\\made.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 04:54:23",
+        "replyContent": "Hi An Other, thank you for sharing your experience with us. Your feedback has been shared with the team that improves the app base on your review. There are several options for you though, you can check in with logged in account, if you log out, you can use the guest check-in or can use the service web form, for this you need to uninstall the app.",
+        "repliedAt": "2021-07-21 01:01:35"
+    },
+    {
+        "reviewId": "gp:AOqpTOEIuXzcCMXEni_Aw4wmfr_r016IOV6PODzzGRRmL8kLjPKMZeN8Yja9fcoXd--zg_IsmETryHd3AzrvXs8",
+        "userName": "Shaun C",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyUw6S9SAtRuBLrLwfLNlD7eL07C7ZoDWEwPy3t=mo",
+        "content": "Totally useless.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 04:30:01",
+        "replyContent": "Hi Shaun C, sorry to hear that. Please let us know if we can be of any help with the app. You can email mobileapp@service.nsw.gov.au with the error screenshot. Happy to help.",
+        "repliedAt": "2021-07-21 05:13:28"
+    },
+    {
+        "reviewId": "gp:AOqpTOGNY-kjBuR59RusgcQNNdu6M1Nb_2R37g_6i6yUQD1vcfPj-5hFko5DRZ3V4fa1EuySABw56_0nukEh9Rk",
+        "userName": "Leo Curro",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjzDntqM1mW_pL2fTeQFxF9R_yDp4NR3giWM6iHzw",
+        "content": "Hi Team,I c other people with the same issue ,I'll wait for the fix, there is a problem with the Check in and out, I checked in to the shopping centre and then Woolies but when I checked out from Woolies it cleared the shopping centre and now in the history it says that I haven't checked out from the centre and no way to check out.",
+        "score": 3,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 03:48:34",
+        "replyContent": "Thank you, Leo Curro, for showing us support and we are grateful for taking time to give us 10 stars. We are pleased to know that you love the app. If you have queries, please call our team on 13 77 88 or we are here.",
+        "repliedAt": "2020-09-11 03:24:13"
+    },
+    {
+        "reviewId": "gp:AOqpTOGYwCA5DiAj7pyhcMowwZU7p73ds1x40c7scCEb2yVgjQ8wT0_6Tun-OXsfa496LHJXFm3wxI4Cip5jmOo",
+        "userName": "Robert Villamil",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0Gyl2r0Fm8Zh8fvfr99RZSguKu0MXSRnF6ofl=mo",
+        "content": "Inputting birthdate should be made easier",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 03:00:10",
+        "replyContent": "Hi Robert, Could you share more in the email, was it on the app or the service account? The app is enhanced with users feedback like yours. Please keep letting us know. mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-21 04:58:08"
+    },
+    {
+        "reviewId": "gp:AOqpTOEECvRUPr1gRPXC0gKvVKCbUDX3xCRkgBuPocu5l6xlxWZruwCpAfCjfScL8Cl-o0XOXmkWPz3BwQPClOg",
+        "userName": "Yusuf Islam",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCdtiQI4Z2NGxPia2brgkpGVBM4v8zr6-DbjkzCok",
+        "content": "Most of the time it works OK but it has some serious bugs. 1, there has been many times I've checked in, then when I get back to the app to check out, it's not there. As if I never checked in! And yes I did get the Green Tick. 2, There is an instance I can't check out believe it or not! Checked into 2 placrs & can't check out of one of them! Still pending from 9+ hours ago that I left & I can't do anything. 3, There is an instance the app completely logs out after checking in. Great :-(",
+        "score": 2,
+        "thumbsUpCount": 16,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 02:27:15",
+        "replyContent": "Hi Yusuf, Apologies. Please ensure to do a complete check-in until you see the green tick, if this is happening consistently even after checking in correctly, send us the screenshot. With the checking items out from the history, the team is working on it. Can you share more on app logging out completely Please email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 02:22:49"
+    },
+    {
+        "reviewId": "gp:AOqpTOFygEv8sdYXapP3Dcmt314nzz1Hh39AwayquOuhjEaQSNA2UtlwSQDRyF-yhq8-MVZEE3K_J9_et8quKDo",
+        "userName": "Matt B J",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj4SK2y0Tw829BoW3MoSAXCkmDnrvpiIJgg8heoLg",
+        "content": "Very disappointed for the disfunctional check out system. Check in to a shopping center, check in to a shop inside of the shopping center, check out from the shop,,,,and then you can't check out from the shopping center anymore. A very common sense issue, why haven't fixed",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "6.14.0 (308678)",
+        "at": "2021-07-20 01:54:29",
+        "replyContent": "Hello Matt B J, The facility to check items out from the previous check-in is not available because the team is working on it. Please know, check-in is more important than check out. By checking in, NSW health gets your data and if the contact is necessary, the contact tracers will contact you. Thank you for your patience.",
+        "repliedAt": "2021-07-21 04:56:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOGEchcBV-aK-o-Z-61uKq6VBfMc1cLE2JFD14cH-kGKQehLMMpUxkQzOTDF0ECMMEDDdtpOi4ZLimMGmXQ",
+        "userName": "Ken Digby",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiCbGTPqCO4QZNHimfwXjlDsV85zyJiwq_3jAse3w",
+        "content": "Good app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-19 19:48:21",
+        "replyContent": "Hi Ken, thank you for making our day! We are glad to hear that you enjoy using the app. Please keep the feedback coming.",
+        "repliedAt": "2021-07-20 00:55:56"
+    },
+    {
         "reviewId": "gp:AOqpTOGFBzttx1dWHcXc_JDXxjSI27kXL8zC_sEK_MXESwFh2TYouskbpMp5Ouj2vQmKlUH7S9pnuPvySpG4TyA",
         "userName": "Ezzatulla Asghari",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgA2PNAaHXvc-uLWrfPMjBXYpv0CaRSR_fvK7W5sQ",
@@ -8,20 +596,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-19 12:57:25",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEECvRUPr1gRPXC0gKvVKCbUDX3xCRkgBuPocu5l6xlxWZruwCpAfCjfScL8Cl-o0XOXmkWPz3BwQPClOg",
-        "userName": "Yusuf Islam",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgCdtiQI4Z2NGxPia2brgkpGVBM4v8zr6-DbjkzCok",
-        "content": "Most of the time it works OK but it has some serious bugs. 1, there has been many times I've checked in, then when I get back to the app to check out, it's not there. As if I never checked in! 2, There is an instance I can't check out believe it or not! Checked into 2 placrs & can't check out of one of them! Still pending from 9+ hours ago that I left & I can't do anything. 3, There is an instance the app completely logs out after checking in. Great :-(",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-19 12:48:25",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Ezzatulla, Apologies. Were you able to link it successfully via the Service NSW account with your driver's licence detail? We would like to look into it. Please send us the error screenshot at mobileapp@service.nsw.gov.au In the meantime, please continue carrying the plastic driver's licence with you.",
+        "repliedAt": "2021-07-20 00:58:43"
     },
     {
         "reviewId": "gp:AOqpTOGExY9XPKGQf8I6FEfxb2cPxWSb2tjm7ChuIYr491aFjK8VyBQZNbggGK8FI8aje9OVD-k7crx8OQH5NmI",
@@ -32,8 +608,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.29.1 (160894)",
         "at": "2021-07-19 09:50:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your feedback, Shane. To have the best experience with the app, please turn on the auto-update. The team fixes the bug, introduce new features and improve the functionality of the app weekly. If you need assistance with the app, feel free to email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 02:26:04"
     },
     {
         "reviewId": "gp:AOqpTOF1zpxlvjvvHW9yYjo7rdzRsyxV8QkyhczkUHlHu1B-BnmsG3_N3ojYvpR3T001R4hYQaOSgbBWGDPN-70",
@@ -44,8 +620,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-19 07:38:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you for your review, Barry. We are happy to hear you enjoy using the app. If you have checked in, that matters more. The NSW health gets your data and if the contact was necessary, the contact tracers will contact you.",
+        "repliedAt": "2021-07-20 02:28:36"
     },
     {
         "reviewId": "gp:AOqpTOHnkKNXzedWicaymNFT2JBOI-wDHBG2BTYPd4CTCnw5buSveFR84lYmLQEWtxPqsAvgdtQZl1FTllkH0uc",
@@ -56,8 +632,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-19 05:45:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Janet. Please know, to COVID safe check-in, you don't need to log in to the app. You can still check-in but as a guest. Please let us know if you need further help with the app. Happy to help. email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 02:31:02"
     },
     {
         "reviewId": "gp:AOqpTOFVriiR3k0zo0Bv7fD1zCgeH7dzcJQNLVW8zvDGABW9cRJLR0dnzHNtvhjTSI6Qwpg8b-WHdDtn8xKog7Y",
@@ -68,8 +644,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-19 05:16:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Regular tincan, thank you for your feedback. Your review has been shared with the team that improves the app using feedback such as yours. Please keep the feedback coming.",
+        "repliedAt": "2021-07-20 03:48:07"
     },
     {
         "reviewId": "gp:AOqpTOFVQA6kaQ_ga6Np3SPjHh5atWieSSH5RU7AlkVGzij6__XrHfWMIAbzUuj8q0VHjJ2F3BdGXItUg1ithuc",
@@ -80,8 +656,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-19 04:37:33",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Mark, We are sorry to hear about your experience. Please feel free to email mobileapp@service.nsw.gov.au if you need any further help with the app. Happy to help you",
+        "repliedAt": "2021-07-20 03:51:51"
     },
     {
         "reviewId": "gp:AOqpTOGP1sTr1rTRW9KZmxqsEM3Eg8fBC_UzdP3O5qO90JKie1uPkOx5R5d6lE-ssFogdwX-HtuVdXwKSG0oSwk",
@@ -92,20 +668,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 21:25:57",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOE6jhxzdH34YiCcB_SRuQcGz3Dg8f5E4LuSTeCVd8KC9fkG4iSMmTYFKS6kXBqP6GRDUe6FmG6NGXcVuoU",
-        "userName": "Phillip C",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQLeSfbZU9goD3czSFJfyyoShM5f6XcmMZHvfx=mo",
-        "content": "How to even use this app to visit shops? Do I even need to log into my account yes or no? It's confusing! Especially for users who have a learning disability",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-18 19:23:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Andrew, the team is looking into it. Thank you for your feedback. Please know though, check-in is more important than check out. By checking in, NSW health gets your data and if the contact is necessary, the contact tracers will contact you. Thank you for your patience.",
+        "repliedAt": "2021-07-20 03:53:00"
     },
     {
         "reviewId": "gp:AOqpTOE1IggYW1HoooSQCR9XoOFXXzgOsEyekboeseWTpSt-SiMow7ceEZ8IgtEjA3lwLXeA6ZfF0OI7jxVr6Xs",
@@ -116,8 +680,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 16:54:24",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Norma, Sorry about that. Have you tried to reinstall the app from the google play store? It could have been deleted if you had activated an auto-delete app that's not been used for a long or etc If you need further help, feel free to email mobileapp@service.nsw.gov.au or try searching in the search part by typing in the Service NSW app.",
+        "repliedAt": "2021-07-20 04:02:53"
     },
     {
         "reviewId": "gp:AOqpTOH7NvJhLWH60BLzmCce22aGm6wV0c7xsrlCsBaJztEQSWdoaQPWfahq_24OZkc5A9I2XOGWAYRqRpqHOlc",
@@ -128,8 +692,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 15:18:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Rebecca, This facility to check items out from the previous check-in is not available because the team is working on it. Please know, check-in is more important than check out. By checking in, NSW health gets your data and if the contact is necessary, the contact tracers will contact you. Thank you for your patience.",
+        "repliedAt": "2021-07-20 04:03:23"
     },
     {
         "reviewId": "gp:AOqpTOFWWA83XrpdhXQC51rJU2xiFEoBORz-zR1N_l956isBII1OCyYIYa8Hx15hZG8_WQJ82GoGRWICTHS7lVQ",
@@ -140,8 +704,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 15:09:55",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Zahoor, thank you kindly for your feedback. It's so good to hear that you enjoy using the app. Thank you for inspiring us to keep on working hard to deliver you the best service.",
+        "repliedAt": "2021-07-20 04:04:29"
     },
     {
         "reviewId": "gp:AOqpTOHGHKPoQlaW4sYdkPOyTI8q1_JRNFee41N5L7FwnD5XqJGttAQPncdnwcwdyV42kqr6L2iWzuQ3A1vAOh4",
@@ -152,8 +716,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.32.1 (181861)",
         "at": "2021-07-18 14:40:31",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Geoffrey, thank you for your feedback. To have the best experience with the app, please turn on the auto-update. The team improves the functionality of the app weekly.",
+        "repliedAt": "2021-07-20 04:28:29"
     },
     {
         "reviewId": "gp:AOqpTOE_NbK2zoJgmMTVDOiBHHr4UjyD2FYAdM89C83IWaX8-xjvPMzYlkLjT5nxm5oV8bJ7ONZq1-iO-pys7SM",
@@ -161,11 +725,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxtPNT0atj7SVzEG5enrg6ppMqZjCOb17g6VAr7=mo",
         "content": "Have to use a free third party scanning app and then get directed to official Check In screen. Sometimes the QR codes are not readable; possibly from poorly lit venues or with strong lighting reflecting off the laminated posters. If you use a notepad sign in [eg libraries] instead you don't have a Check Out time option. This does not assist the tracer teams for accuracy. It seems a recent update has switched from using a convenient number pad to the alpha-numeric keyboard for typing the PIN. Not impressed.",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 17,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 14:28:58",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Lewis, thank you. Your feedback is shared with the team. Please know when you check-in, the data is sent to the NSW health and if it was necessary, the contact tracers will contact you. Check in is more important than check out. If you need help, please send us the issue error screenshot to mobileapp@service.nsw.gov.au Happy to look into it.",
+        "repliedAt": "2021-07-21 03:55:15"
     },
     {
         "reviewId": "gp:AOqpTOElp1Jk73eenITxrPt6e6FfmiY7YVDKAqB0fnX2xKM4oGSZEhKtHoEJ5FS4aTEQ40HkM4wAJw10g83JHuA",
@@ -176,8 +740,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 14:21:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Shady, thank you kindly for your feedback. We are super excited to hear that you like using the app and encouraging us to keep on working hard to deliver you the best service always. Please keep the feedback coming.",
+        "repliedAt": "2021-07-21 04:40:28"
     },
     {
         "reviewId": "gp:AOqpTOFby6iRYFpdsD0kVWYEwwis5znQu7l2QeTfwdb3ij04Azcrz4FyXsTzUz6a_mlLil2A6W2cME5PiAphXf8",
@@ -200,8 +764,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 09:58:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Suzanne, Sorry about that. Does this happen still? Please know if you had used the guest check-in that day, it wouldn't appear in history. If not and still getting these issues, please send us the error screenshot to mobileapp@service.nsw.gov.au Happy to look into it for you.",
+        "repliedAt": "2021-07-21 04:47:41"
     },
     {
         "reviewId": "gp:AOqpTOFmnnEx3z21pita-fTgmWuAWh7aR3L_j7c172jnyu9bYRtnsTE957R54e0M-hHNooEMwkdncfopemA-Qhk",
@@ -212,8 +776,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 09:18:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Ed Hel, thank you for your kind feedback. We are indeed super happy to hear that you found the app easy to use and enjoy using it. Please keep the feedback coming.",
+        "repliedAt": "2021-07-21 04:48:43"
     },
     {
         "reviewId": "gp:AOqpTOGnG4xltxWodxUgOZ9hZJYpOwN4qLMvNKHj4qjpq-33VRcWAYqIrRKTMJPlUpfaV-IhLRpuQSoMAT7kA0Y",
@@ -224,8 +788,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-18 07:54:45",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Wanda, the facility to check items out from the previous check-in is not available because the team is working on it. Please know, check-in is more important than check out. By checking in, NSW health gets your data and if the contact is necessary, the contact tracers will contact you. Thank you for your patience.",
+        "repliedAt": "2021-07-21 04:49:24"
     },
     {
         "reviewId": "gp:AOqpTOEmC4KMicScwi73eP4UxKpX67kEqhg5mehL0CO96vWmCB_-hYnmOb2Xmovkn5skxezX0YkGnx1qQIQqcF0",
@@ -233,11 +797,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyh_MwI024CZY3crmn4Ecx1U_GvU-egXdNmHODO=mo",
         "content": "*Nothing changed, I still can't get into this app. Haven't heard from anyone. Have given all info I can. Very frustrating as it keeps saying my email is not valid when logging in and when I try to create an account, it says that email already in use. Can't get in at all. I've uninstalled and re installed, I've checked local time on clock. Don't know what else to do. Well here I am in July, over 2 months after initial complaint. I've heard nothing and still can't use it. Unbelievable!!",
         "score": 1,
-        "thumbsUpCount": 14,
+        "thumbsUpCount": 15,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 13:15:14",
-        "replyContent": "Hi Pamela, So sorry about that. Could we please get an error screenshot at mobileapp@service.nsw.gov.au? Happy to investigate this. Please know, in the meantime, for D&D vouchers, you can apply on the service website and printed vouchers or code can be used at the venues and for COVID check-in, you can check-in without logging in. TA",
-        "repliedAt": "2021-04-29 09:27:19"
+        "replyContent": "Hello Pamela, The team is doing the best they can. In the meantime, please know you can use the service guest check-in. Tap the app, tap the COVID safe check-in tile and scan the QR code. Or you can use the service web form to check-in, to use this, you will need to uninstall the app. We appreciate your patience.",
+        "repliedAt": "2021-07-20 09:23:34"
     },
     {
         "reviewId": "gp:AOqpTOHhQzQKAwtYdO3Nmd4QN5UwX14qAq3kNXjFIk34oK-UXzwOImZYUZiJlKbNUrmRyQnrbqyXf5jyTJiumRk",
@@ -248,8 +812,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 10:52:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi DjMc Ivory, thank you for your lovely feedback. We are super stoked to hear that you found the app awesome and enjoy using it. Please keep inspiring and keep the feedback coming.",
+        "repliedAt": "2021-07-21 04:50:31"
     },
     {
         "reviewId": "gp:AOqpTOECwj6Y_tsDRr6lO__iGT3oayaLtMPY_dELy8dkcDlwOFReif6LEwqvu1ucx8OCW_JU3vp9YfrR453V-2A",
@@ -260,8 +824,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.37.0 (196398)",
         "at": "2021-07-17 10:35:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jonathan, Apologies. Please check the network is firm or try switching it to Wi-Fi. Check device storage capacity, might need to free some space to download the app successfully. Uninstall the app, restart the device and reinstall the app from the google play store. If the issue persists, please email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-21 04:51:39"
     },
     {
         "reviewId": "gp:AOqpTOH3JzB0UoHuoDQvVNpoVgj-DG1Oznz68P0m6uUsBF2W4InsrS2JV5x9H0xWbCb13Mrmkydtl-mIH3v7-ac",
@@ -272,8 +836,8 @@
         "thumbsUpCount": 1,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 09:47:09",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Ian, Please ensure efficient light around the QR code or you can tap the app and try scanning the QR code via the in-app QR reader and see if this helps or not? If the network is poor, this could also lead to this issue or sometimes the traffic at the backend might be the cause. Experiencing this consistently? email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-21 04:55:12"
     },
     {
         "reviewId": "gp:AOqpTOGvRgJvr8Bcq_3fCiH-cSy3k2LlLh0F-bPcsfqW_lq4oThfQwTw7UYNyEw-YjLgq7luv3e88j_weNIRD3I",
@@ -284,8 +848,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 08:37:02",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Dianne, sorry for the experience. Can you please send us the error screenshot at mobileapp@service.nsw.gov.au? In the meantime, you can use the guest check-in, manual check-in should be provided or you can use the service webform to check-in.",
+        "repliedAt": "2021-07-21 04:11:10"
     },
     {
         "reviewId": "gp:AOqpTOFapIBX5RuO4Pia6p7HDYMV60EzH7FSkdS9fWyfPztoIDStDQzI0-f5eQTKqtirTnWSS_OBV6LlA9sPX8c",
@@ -296,8 +860,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 08:32:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Mick, The facility to check items out from the previous check-in is not available because the team is working on it. Please know, check-in is more important than check out. By checking in, NSW health gets your data and if the contact is necessary, the contact tracers will contact you. Thank you for your patience.",
+        "repliedAt": "2021-07-21 04:03:59"
     },
     {
         "reviewId": "gp:AOqpTOFZ5EFyj11LOAVQwGZ4Vo3M-YWtzwYM9EiuznT4LDqlhBgpmLnzK5uPSs0FlwyXlaKwTHrFlMgNd6D6E-8",
@@ -320,8 +884,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 06:08:11",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi David, Sorry. We made some security improvements to the app to better protect your personal information, and it seems we might have missed the mark with your device. If you would like, you can try the troubleshooting steps. Please email mobileapp@service.nsw.gov.au You can certainly use the guest check-in via the app.",
+        "repliedAt": "2021-07-21 04:03:07"
     },
     {
         "reviewId": "gp:AOqpTOH2khInirVoi90LAVWM2n0K7MJbqa667hQoQd9YEOt9ZrNrCNdfHMOJRlI1SG9nUPODyWqhl7Y1a3OI-Sw",
@@ -332,8 +896,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 06:07:01",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi James, Sorry about that. Feel free to email mobileapp@service.nsw.gov.au with an error screenshot. Happy to help you further.",
+        "repliedAt": "2021-07-21 03:59:22"
     },
     {
         "reviewId": "gp:AOqpTOGitHuEGS_sN4z5fvTvDC9ShLTjYQKkNTD_eVVkgJ4b4920Y_xYUJ3uiK3lQJWk1PQpuLKzJ2a0xTSaZ3c",
@@ -344,8 +908,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 05:34:30",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Kate, sorry to hear that. This is a known issue that the team have been trying to resolve. It's to do with the device camera caching the previous venue. To avoid this, please use the in-app QR code scanner. If you still experience this issue please email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 08:33:25"
     },
     {
         "reviewId": "gp:AOqpTOF_eTbEIo1g0xmqDlyZ9G5U-Rdoa7i1N4lq07XAjuZEvCc7VKBkvDKWCtfrWu5j3PrhhabKXAUwxEhaNl4",
@@ -356,8 +920,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 05:00:53",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jenny, if you prefer not to PIN in, you can certainly log out of the app and can use the guest check-in. The PIN is to protect your personal information in the app, such as your registration details or digital driver's licence and etc. The team is looking into improving the check-in & out experience.",
+        "repliedAt": "2021-07-20 08:37:51"
     },
     {
         "reviewId": "gp:AOqpTOGGPPkABdjakg61hSGyK5AowoUnuf2n0j0ZjVvJ39Vkg6DOxLOMl-uXGjSmYri7ozvsqNGmQk5NYO4cQvc",
@@ -368,8 +932,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-17 04:49:33",
-        "replyContent": "Thanks for the feedback Nick. Please check the network is firm or try switching it to WiFi. Check device storage capacity, might need to free some space to download the app successfully. Uninstall the app, restart the device and reinstall the app from google play-store. If the issue persists, please email mobileapp@service.nsw.gov.au",
-        "repliedAt": "2021-07-02 08:49:05"
+        "replyContent": "Hi Nick, have you emailed mobileapp@service.nsw.gov.au with that screenshot? We can email you with more troubleshooting steps. Please ensure that your device supports google services and downloading it from the google play store app.",
+        "repliedAt": "2021-07-20 09:03:06"
     },
     {
         "reviewId": "gp:AOqpTOHKoRjoOk2-X4RSQZ2XhALaKJ_ZcyJBQAQtEFRbQtfuKFL4DEApn53mhhEL5RHd1nRhH3DUsuSXsM3lOtM",
@@ -380,8 +944,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 04:31:50",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hello Ken, thank you for sharing your experience. These could be due to the traffic at the backend or the poor network. If the issues you were experiencing was consistent, please email mobileapp@service.nsw.gov.au with the error screenshot. Happy to look into it for you.",
+        "repliedAt": "2021-07-20 08:40:12"
     },
     {
         "reviewId": "gp:AOqpTOHH2ZGjf8Nbp1JMnE-osqGL1vIu1vh4EVJfNV-yCpfSSnVoSvSrWITnECeWH39utvJ376mvk75k22Zd6LY",
@@ -392,8 +956,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 04:23:39",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Lucy Brennan, We are sorry to hear that. Please ensure you are not using any invalid characters that the usual email won't accept. Check for any gaps or dots before and after email, special characters, missing out on important @ and etc. Still, the issue persists, can you email mobileapp@service.nsw.gov.au with an error screenshot?",
+        "repliedAt": "2021-07-20 08:58:27"
     },
     {
         "reviewId": "gp:AOqpTOHeXMDqo3dfIZdgitB3DDfsG4iYg_AblgjlmNdulbo7mOnJmM_C6KZ3dR42uum7Dnfi_80VNALn3ReX0PQ",
@@ -404,8 +968,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 03:21:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Ashley, Thank you for your feedback, your review for the app has been shared with the team. Please know, if you mean needing to sign in with the PIN< It's there to protect your other personal information in the app. You can sign out of the app, tap the setting cog, log out, log in with another account and sign out to use the guest check-in.",
+        "repliedAt": "2021-07-20 08:55:32"
     },
     {
         "reviewId": "gp:AOqpTOE-Jxs8PVxbvGmsX0FwhGHbZRTY56nGowwU1IxpfB_8t1qNZT3BvUWZiy8fAvjkhsdj-Yiwb1ONorjE8mE",
@@ -416,20 +980,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.0.0 (203758)",
         "at": "2021-07-17 03:10:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGWNRc-D0aGVfFt3oNbPU9ChD5BTo_8_6Myi9mobJ7dREZtD2mnWdRrEuj9LKDFdL1d2SOFgNtGcaECluE",
-        "userName": "L.T. R.P.",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJybc2j8B5JstHPKtF1F6NZ63f28Xljl7j5PhEg-=mo",
-        "content": "Tells me my details don't match when using the pre-filled information about my drivers license that Service NSW Pre-fill with my license details. I am not the only one having this issue. Not sure why you don't fix this glitch.",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-17 01:47:39",
-        "replyContent": "Hi L.T. R.P. Sorry to hear that. Please send us the error screenshot in mobileapp@service.nsw.gov.au You can also print out the vouchers from your service email. Venues accept the print vouchers and the vouchers code. We are happy to investigate this for you. Thanks for your patience.",
-        "repliedAt": "2021-06-21 07:34:22"
+        "replyContent": "Hi Ron, Sorry for the inconvenience. Please check the network is firm or try switching it to Wi-Fi. Check device storage capacity, might need to free some space to download the app successfully. Uninstall the app, restart the device and reinstall the app from the google play store. If the issue persists, please email mobileapp@service.nsw.gov.au\n",
+        "repliedAt": "2021-07-20 08:48:39"
     },
     {
         "reviewId": "gp:AOqpTOHaj31OfiiwrNbWPBuoOiZv4xxNlAkzZxV8NR6aDHewRfmvhrpjJo4CWmQL4nvj95rXCr-TyGFniFz3XwY",
@@ -440,8 +992,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-17 00:05:23",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi John, Sorry to hear that. You can link the driver's licence detail to the service website. If it's successful, try login into the app to see if the digital licence appears. If you need help, you can email mobileapp@service.nsw.gov.au with the error screenshot. To COVID safe check-in, you don't need to log in. You can use the guest check-in.",
+        "repliedAt": "2021-07-20 08:45:24"
     },
     {
         "reviewId": "gp:AOqpTOEaUpuxzFTAwQpB4JEBINMPFRPk1vk8zgyfX-Y2lLaAq5b-FNnVsWmKzZSKVLibFB_WypCFwCQE9Y2pgrk",
@@ -452,20 +1004,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 23:29:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGPfkm0dcfjAAOYKHE0BDaLMoH0t7c5d27ZFqPw8gKSNVOOyA-mw56HCLfkoYFMx-tPZvb-YsFdpBlzvbU",
-        "userName": "Andrew Rose",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWtgFi_d9ll11u3hUAN0CgJG1hZcvYEXLvahr9Kg",
-        "content": "Needs to handle nested check-ins. If you check-in to a shopping centre, then check-in to a shop inside the centre, I can check-out of the shop, but there's no way to check-out of the shopping centre, so my history is littered with pending check-outs! I'm sure this would make life (more) difficult for the contact tracers!!",
-        "score": 2,
-        "thumbsUpCount": 15,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-16 23:15:10",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Nic, Thank you for your feedback. This is a known issue that the team have been trying to resolve and it's to do the device camera caching the previous venue. To avoid this, you can use the in-app QR code scanner. You will need to open the app and tap on 'COVID Safe Check-in' to scan QR codes. If the issue persists, mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 08:42:18"
     },
     {
         "reviewId": "gp:AOqpTOFbDhngy8sHAxdoBEa2KdxvhPDFJzKdAIH2cZPiZ6fh_dXhzKza6a3cqE1Wn4_UHm7GDNydB24iZw8vs3Q",
@@ -476,8 +1016,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.25.0 (122787)",
         "at": "2021-07-16 17:45:04",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for taking the time to leave us your feedback, Sarah. Please ensure to turn on the auto-update, the team improves the app weekly. New features are introduced, bugs have been squashed and the overall functionality is enhanced every week. For assistance, feel free to email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 05:00:02"
     },
     {
         "reviewId": "gp:AOqpTOGoozy8KpQabvYCXN4aALN5ZxZUPLNtTDyiqoY0A6vp6qW4pUOiusahx-8WOEDCREKvLrfwbV4Z8d_23po",
@@ -485,23 +1025,11 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhPSXgdrmMLYX-SGvhlZdmaM7tvxKqghJg1X6TMHw",
         "content": "Poor. I only use it for scanning into places. The log-in doesn't work. I have a log on the main site but it doesn't work on this, making the entire app a useless waste of resources on my phone. I resent that I have to have something so useless installed & hogging up precious space just to enter certain places.",
         "score": 1,
-        "thumbsUpCount": 7,
+        "thumbsUpCount": 12,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 12:22:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFEpTPH3cuZ80hdIyyTK_ZFLot40-9tOkRYHNBVTkRnj1tyfaYFT7LBXKoyupmj4l8KH346n4k-10-vZoE",
-        "userName": "DANNY GATES",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7VjeeugC2BZ6l4Qjlb6cyPtfjeyexhDeFT-yMgQ",
-        "content": "Rubbish your app is rubbish I'm getting stuffed around like I always them on the web and I'm your silly stupid idiotic pile of rubbish app so get off your asses and fix it cos I got a job for you and I'm gonna dump for your app have you got you something a bad I'm going to uninstall it",
-        "score": 1,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-16 10:22:14",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Cincin, Sorry to hear about that. We would love to look into why you had an issue logging into the app. Of course, you can continue using the guest check-in or if you prefer using the Service web form, you can uninstall the app and can use the web form to check in. If you need help, email mobileapp@service.nsw.gov.au with an error screenshot.",
+        "repliedAt": "2021-07-20 06:01:42"
     },
     {
         "reviewId": "gp:AOqpTOF_WLg90Hn-34owTOvRfjh4gsyU-oriH37ZyAk6_3AAkMyCURWYn8Niq5eE-RP4b1bO6AnHKUEt55O87sE",
@@ -512,8 +1040,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 10:21:26",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Anthony, Please let us know in the email how we can help you. If you need to use the app for check-in, you don't need to login, you can use the guest check-in. Or if it's very complicated for you, you can uninstall the app and can use the service web form to check i. Happy to help further via mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 08:00:37"
     },
     {
         "reviewId": "gp:AOqpTOH0zWKGp2213Igqp-BUVKtFwS2QWR006ao_7xQO4An52PxxweOljW0Vt1p4aSLf-Z_WnSUXyghECBYoR8I",
@@ -524,8 +1052,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 10:08:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Benjamin, sorry to hear that. If you prefer checking in without a PIN, you can log out of the app and can use the guest check-in. PIN is there to protect your other important information in the app, such as your digital driver's licence or registration paper and etc..",
+        "repliedAt": "2021-07-20 07:53:11"
     },
     {
         "reviewId": "gp:AOqpTOFR5BWXD1REuR3KGOPlYsZNYF0TBSonYOmC2WTZ-phLCcIPHSOQyuBEyL1lxHn1F4Pnmiguo7iqsq4IAMg",
@@ -536,8 +1064,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.11.0 (277204)",
         "at": "2021-07-16 09:00:29",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Fiona, thank you for your feedback. Feel free to share yours as the team value our app user's feedback and use them to improve the app. If you would like to share more, email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 06:03:06"
     },
     {
         "reviewId": "gp:AOqpTOH1Yd8Uj6x2ibxXMY8TnLdCOtCyVuhnojoCHVQwtpbXwOPM7vBezIFSc0adAMjv7YiCXZogqenghg9Z_TM",
@@ -548,8 +1076,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": null,
         "at": "2021-07-16 07:05:59",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Tracey, Sorry for the inconvenience. Does this happen often with you? If you would like to check your contact number recorded in the service centre matches with the contact number you were trying to enter? You can call on 13 77 88 to check that. If this persists, please email mobileapp@service.nsw.gov.au with the error screenshot.",
+        "repliedAt": "2021-07-20 07:58:31"
     },
     {
         "reviewId": "gp:AOqpTOFtyy_q-YKaTF69dtgb3fVil1sl9AjjO5-kWq2CDyXLxd4ZtUHMhbcCRcJZrAQ3z2CNPWM9a6SnRe5S2cE",
@@ -557,7 +1085,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxMO0mQd5qdT_QuMn2JNPM3JWom0T7_co15W298=mo",
         "content": "Main problem is being unable to check out from more than one venue. Many users have reported this problem going back at least two weeks and it's still not fixed. How much longer? Also, don't see the need for a PIN and I'm rarely able to get the app to recognise the QR on the first try - it usually takes three tries.",
         "score": 2,
-        "thumbsUpCount": 11,
+        "thumbsUpCount": 29,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 05:44:55",
         "replyContent": "Hi Lisa, thank you for your feedback. The team is working on this facility to check items from the history. If you prefer not to PIN in, you can sign out of the app and can use the guest check-in. The PIN is there to protect your personal information in the app such as your driver's licence, WWCC, registration details and etc...",
@@ -572,8 +1100,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.5.0 (231417)",
         "at": "2021-07-16 04:16:42",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Magdy, thank you for your review. We are pleased to hear you enjoy using the app. Please keep the feedback coming.",
+        "repliedAt": "2021-07-20 07:24:59"
     },
     {
         "reviewId": "gp:AOqpTOEqrRZFmC96GQQXb_SjrSaZ3qyx7T5-YIcPalSdrEZsDrjP_OCwMQTIzrSdN_z4vjsDHpSaXGrAUFvXgCc",
@@ -596,8 +1124,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 04:12:00",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi HaViva64, Sorry to hear that. Could you email mobileapp@service.nsw.gov.au? We are happy to look into it for you. The error screenshot would be great.",
+        "repliedAt": "2021-07-20 04:54:37"
     },
     {
         "reviewId": "gp:AOqpTOHYxLSnPKI75cigCB6Sd2_wsydLmhT19JcfFNLAVdFp4Xb2uYcjP0lk-OSjA_usDdK8s_EpyNxT_162GD0",
@@ -608,8 +1136,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 04:03:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi David, thank you for sharing your experience with us. It could be due to the traffic or the location with a poor network range could lead to this issue. When you encounter issues with the check-in, could you switch the network to wifi and see if it works? Larger images? Do you mean the QR code? Please email mobileapp@service.nsw.gov.au",
+        "repliedAt": "2021-07-20 04:53:27"
     },
     {
         "reviewId": "gp:AOqpTOGckvZuvXWzBvXkZ2Sabxu04giI3Z7KWmWg8Jrw1E73ogrk6Fo9n5hdsz9NKhkG_uHvbc1L8zP4PJbfMV0",
@@ -620,8 +1148,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-16 03:22:43",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Jebus, The Service NSW app is optimised for Andriod mobile phones and if the device supports the google play services, you can try downloading the app from the play store and can you please let us know in the email? mobileapp@service.nsw.gov.au?",
+        "repliedAt": "2021-07-20 04:48:13"
     },
     {
         "reviewId": "gp:AOqpTOGQ-JBmlmjOsgCnKxYKcZfigSciGQlUFOY_LubAMSeK2hjM4FfxM3MmaGV4F-JacqPhUFg50EmQWrWSh7g",
@@ -632,20 +1160,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "4.31.0 (171374)",
         "at": "2021-07-16 03:01:51",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEecPM1mudFxB7aApxjjZOgcJEE4T_Wp6gv5s1Scjlc5AE-w68Vdp1szssCSU4VsQ8qczAUtk8hH7Ffu2Q",
-        "userName": "David T",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwU5DI7fc8x8Iyiw4FsAmDZ9HnITmQwzbAr1fMK=mo",
-        "content": "I'm having trouble checking out at my place of employment ,is it an Android issue?as other work colleagues with iPhones are able",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-16 02:05:52",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi Frank, Sorry for the inconvenience. Please check the network is firm or try switching it to Wi-Fi. Check device storage capacity, might need to free some space to download the app successfully. Uninstall the app, restart the device and reinstall the app from the google play store. If the issue persists, please email mobileapp@service.nsw.gov.au\n",
+        "repliedAt": "2021-07-20 04:37:15"
     },
     {
         "reviewId": "gp:AOqpTOEkHSuh1s3pjKwhyvMRMLQXqL21UBLAzy2R8SVThSpQafUClBP43paA58nhxLaIxjJO0NgILWATeSOpgVw",
@@ -737,7 +1253,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzHX0iHAVVj4qfJoR6Iyb9I7BTbVLnArS7mggwTrQ=mo",
         "content": "Working in a health field, I help a lot of the older population with QR Check in. There's an amount of this technologically less competent, neglected demographic that face a problem; they do not have mobile internet access. A solution would to allow the QR scan data to work offline. So when they get home and connect to their wifi, their QR check in and out data gets uploaded. I'm no app developer, but maybe work with all NSW businesses and collect an offline database of QR code for this app? \u2764",
         "score": 2,
-        "thumbsUpCount": 6,
+        "thumbsUpCount": 7,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-15 07:54:20",
         "replyContent": "Hi Kenny, We respect your work. Thank you for bringing this to our attention on behalf of the older people. We have shared this with the team that improves services in the app. Thank you.",
@@ -941,7 +1457,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gjq7--fg3D4iuZoFLymbuq70rW1fuDx3Q-iRY5F",
         "content": "i cant link my license always something wrong",
         "score": 1,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-14 14:45:47",
         "replyContent": "Thank you for your feedback, we are sorry to hear this. Please send us the error screenshots, contact number and the service email to mobileapp@service.nsw.gov.au and we may assist you.",
@@ -1565,7 +2081,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy15WYMqBOptbRvlr4YXc-UqGzY9mpbysALHkI0=mo",
         "content": "Thank God for us people who forget to sign out! Thank god we can enter the time we approximately left thank you!! The one problem is that when you are logged into Westfield and go and log into Kmart and log out of Kmart then you cannot log out of Westfield \ud83e\udd14 I am stil logged into Westfield \ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14",
         "score": 5,
-        "thumbsUpCount": 1,
+        "thumbsUpCount": 2,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-12 09:58:27",
         "replyContent": "Hi Michelle, please know check-in is more important than check-out. The NSW health gets your detail and if necessary, the contact tracers would contact you. Currently, checking out from the history is not available but the team is looking at it. Your feedback has been shared with the team. thank you for your patience.",
@@ -1781,7 +2297,7 @@
         "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
         "content": "If I forget to sign out then check in at another place it won't let me check out of the first one. Even if I go into the recent or history there's no way to check out, so it just sits there forever. And half the time it won't scan codes at all. Waiting for my phone to be fixed and am using a dodgy one until then. I feel bad for people who can only afford a cheaper phone as I have had nothing but problems with this app on this phone",
         "score": 1,
-        "thumbsUpCount": 32,
+        "thumbsUpCount": 33,
         "reviewCreatedVersion": "6.14.0 (308678)",
         "at": "2021-07-11 17:57:10",
         "replyContent": "Hi Google Play user, To check out from the history is not available but the team is looking at it. As long as you have checked in, NSW health has your records and if it was necessary, the contact tracers will contact you. Check-in is more important than check-out. Venues should provide you with manual check-in or they can with their device.",
@@ -1908,18 +2424,6 @@
         "repliedAt": "2021-07-12 07:34:48"
     },
     {
-        "reviewId": "gp:AOqpTOGOTDp3PpEyvPvJHVMcI1yvZEmylQf6RUn76QFuQKc8ejT29wwTL-eAizNy-IEITMNyvORljuqRVvHETRE",
-        "userName": "Daphne Jeffries",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgXdWZHuOXcWpJsQhnUzdxh3UtMOKZOsW81UuL3x-o",
-        "content": "It finally works for on the Covid check in.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-11 09:09:28",
-        "replyContent": "Hi Daphne, thanks for your positive feedback. We appreciate you taking the time to leave this.",
-        "repliedAt": "2021-07-12 08:14:39"
-    },
-    {
         "reviewId": "gp:AOqpTOFxYaNQG9lzSjYMmHpD9L-L6jkKf5_MbNke2D5gOUheYExf5L5S-SWKHocoHoC1y8H3YS6evIcDsqN7tOY",
         "userName": "phillip driver",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzJ4vgpI5hVrPeU3dpTTxByLUqAe_vfsvRLDE8d=mo",
@@ -1992,18 +2496,6 @@
         "repliedAt": "2021-07-12 08:18:34"
     },
     {
-        "reviewId": "gp:AOqpTOEef0sdFD5FwufaR46wRI9KYMZPu_oGFjSu5FdVtmZertxr9z0jtzvKAR7OAFR_ZsBAwmstCiOxoszox94",
-        "userName": "Chris Le Brese",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxIeq2zwqFrJXauH_6DjLbOrUdSUSALKfGh9TY=mo",
-        "content": "With shopping centers now requiring checking it would be good to have multi check ins for some sites. Go to Westfield woolies, checking to Westfield then woolies, I can't check back into Westfield's on the way out??",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-11 05:05:00",
-        "replyContent": "Hi Chris, thank you for your feedback. Your feedback has been shared with the team. Please know check-in is more important than check-out. If to contact you was necessary, the contact tracers would reach out to you. Check out items from history is not available but the team is looking at it.",
-        "repliedAt": "2021-07-13 04:04:58"
-    },
-    {
         "reviewId": "gp:AOqpTOE_9Ciq8zr7KTBwQycY2UZfV-cGLevfaW411GeHlh4P2t_AuxC9vIbVlNzEAsa_afIsbkcR5ZwK4VIyi4k",
         "userName": "Ian Comerford",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMD_hKJkQpm0tmMVLy1etpB-amshFsoca4B7XHkLU",
@@ -2014,18 +2506,6 @@
         "at": "2021-07-11 03:48:23",
         "replyContent": "Hello Ian, thanks. Check-in is more important than check-out. If it was necessary, the contact tracers would contact you. You can long-press the app to bring up COVID safe check-in feature. If you prefer using guest check-in, you can sign out of the app. Your review has been shared with the team. Checking out items from history is being looked at.",
         "repliedAt": "2021-07-13 03:51:16"
-    },
-    {
-        "reviewId": "gp:AOqpTOFZVQQLWyKmPioST3SaiLaY_RzxkD3s5iJ0Je1V0eBFWT44wKSGOdLVWoRAOzh030Mt7YOIxM3KbuocrxY",
-        "userName": "Wayne McAuliffe",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgFbdeJRq1U1Q4R2mr6f3WWlWkjCyOA62aXw80c-hw",
-        "content": "Good app with the best of intentions. 5 stars if an option to turn off the authentication screen could be added. Annoying that I have to unlock my phone, then unlock the app before I can Check In/Check Out. The double-authentication is quite redundant considering other \"sensitive\" apps like PayPal, MyTelstra etc simply retain your credentials between phone restarts. 11/07/21 EDIT: despite the developer's reply the app is *not* improved in the area described above.",
-        "score": 4,
-        "thumbsUpCount": 65,
-        "reviewCreatedVersion": "6.14.0 (308678)",
-        "at": "2021-07-11 03:38:04",
-        "replyContent": "Hi Wayne, thank you for your review. Authentication is used when you are logged in to your account. That's because you have other important details in the app, eg. driver's license. If you prefer not to use the auth, you can certainly sign out of the app and can use the guest check-in. Please know check-in is more important than check-out.",
-        "repliedAt": "2021-07-13 03:54:27"
     },
     {
         "reviewId": "gp:AOqpTOEjRkAm09bX7Kh08oZH2dYR6HNblFy8MNULyLjfw8k-wamvsT5rBFhVUdVWTb3qS-WcdHdGGfO_zd7cxhs",
@@ -2597,7 +3077,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx1Z6p0J3tTlHgowG0oYPg5yt3flQ0OW3_4BtfJ=mo",
         "content": "Why do i have to sign in everytime. A better option would be to tap the app and you go to qr code and checkin. If you want to do something else on the app then you sign in. Too much waiting for people in the long line to checkin. Come on make it quicker and more people will checkin. The latest update said it would be easier to checkout but not on my samsung s9.",
         "score": 2,
-        "thumbsUpCount": 16,
+        "thumbsUpCount": 20,
         "reviewCreatedVersion": "6.13.0 (296669)",
         "at": "2021-07-09 08:32:00",
         "replyContent": "Hi Glen, thank you for your feedback. If you prefer that, please sign out of the app, tap the setting cog on the top right, log out, tap sign out with another account and sign out. You can use the guest check-in. Please ensure to update the app to the latest version to avail of all the latest improvements in the app.",
@@ -2945,7 +3425,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwj_PPvEiBwDCnAY_-BdOsEp9PSkQoVtrOQbaGw=mo",
         "content": "Able to login in the past but once you forget the password, forget it don't even bother trying to reset. Password reset has been done so many times and gets really frustrating when you keep trying for the 6th, 7th times and after that you just lose hope. It takes you to the servicensw website to reset, but when you try to login on this app it won't let you.",
         "score": 1,
-        "thumbsUpCount": 34,
+        "thumbsUpCount": 35,
         "reviewCreatedVersion": "6.13.0 (296669)",
         "at": "2021-07-08 02:50:53",
         "replyContent": "Hi Terry, If the credentials that you use on the SNSW website works but don't in the app. Please try resetting the device time to network-provided time and give it another try. Please let us know how you go after doing that. Happy to assist you further via mobileapp@service.nsw.gov.au",
@@ -3972,18 +4452,6 @@
         "repliedAt": "2021-07-05 02:28:26"
     },
     {
-        "reviewId": "gp:AOqpTOHQIyKqg5IYLAgyurClB7_W0DvrNcpGUqvdfDwOW565rvCh20uH8z0BUoConHBw_BRxuzv0xLC3Fng-G6M",
-        "userName": "Eddie Jackson",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwoBhhF4FIB_Ba6xVFURKQ4l6df5e89Wg5v-7f1=mo",
-        "content": "Not bad or good 2",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.13.0 (296669)",
-        "at": "2021-07-02 11:16:43",
-        "replyContent": "Thanks for your review, Eddie. We use our app user's feedback to improve the app. If you would like to share more feedback, feel free to email mobileapp@service.nsw.gov.au",
-        "repliedAt": "2021-07-05 02:51:39"
-    },
-    {
         "reviewId": "gp:AOqpTOETbmxLCjkuaIv4mGUYBjfnT2_8sGFuO5Mq0FJQr_9157UqJ55Et4DKIPT6ZIVSC-kDcTLlpjYXwd6vkus",
         "userName": "Peter Hauser",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxvBjXsAsCd0o1iqNM52oF9s2SSFsPIahfSgECb=mo",
@@ -4001,7 +4469,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhhFcOisUIOctiSDZ_EmE7mgyjNZLsj6oxe8BWwQQ",
         "content": "Huge flaw with the QR code. Only lets you check in/out at one place at a time. You could, for example, check in to a shopping centre, then check in, then out at a store (within said centre), but unable to checkout of the shopping centre at all. Instead it will appear in history as 'pending'. How're you meant to prove you weren't at that location at that time? This desperately needs to be fixed.",
         "score": 1,
-        "thumbsUpCount": 121,
+        "thumbsUpCount": 132,
         "reviewCreatedVersion": "6.13.0 (296669)",
         "at": "2021-07-02 10:59:13",
         "replyContent": "Hi Tyler, thank you for sharing your experience with us. This is being looked at by our team.",
@@ -11530,473 +11998,5 @@
         "at": "2021-06-13 13:38:55",
         "replyContent": "Hi Jay, thank you so much for your feedback. We are indeed pleased to hear that you found the app easy and simple. We hope you continue enjoying using the app. If you would like to share more about your experience or need assistance, feel free to email us at mobileapp@service.nsw.gov.au Happy to help.",
         "repliedAt": "2021-06-16 06:01:18"
-    },
-    {
-        "reviewId": "gp:AOqpTOFPTxmf53JV9yLsW--aCjDdZsaTzYyWKrIDEmFtkb7pIlSFgNHpiwngwoxKct_Fm1JEGm5_S_1dDlVlEgo",
-        "userName": "David Vasey",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyxy2b-rmYejQ7VJZpGxezXUpYiCjfLLUnvMr5c=mo",
-        "content": "Takes too long to do QR code because you have to log in every time you use",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 10:54:29",
-        "replyContent": "Hi David, please know, you don't need to log in to COVID safe check-in. You would be asked to enter your details if you have a app downloaded on your phone. If not, you would be directed to use the webform to check-in. Please let me know if you experience any issues at mobileapp@service.nsw.gov.au Happy to help.",
-        "repliedAt": "2021-06-15 04:27:00"
-    },
-    {
-        "reviewId": "gp:AOqpTOGxqfq0CX1TPM_rmI4w2jpLMx8rWw2tQkjkUEZj6XsToaZU99HTMhgAYBiRTmNyjUyLN7PXT16uy2LDz7A",
-        "userName": "Ne P",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCceADM_zSxQEwRpQ8w2eQLSwsq-A0cf_cMjS25g",
-        "content": "This app wont accept my account. I've tried over & over, but it says I have incorrect email or password details. I've checked multiple times on the web page & know with 100% certainty my details are correct. I've changed my password through the app link just in case & it still only works through the website, I've even deleted the app and reinstalled - nothing. So frustrating. * Saw in a review below that changing the time would help & it worked - but come on - 10 mins??! Why?? Rating stands.",
-        "score": 1,
-        "thumbsUpCount": 44,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 10:20:52",
-        "replyContent": "Hi Ne P, Apologies for the experience you had with the app. We are pleased to know that you had it fixed now. Your review has been shared with the team.",
-        "repliedAt": "2021-06-16 06:08:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOFPNIUXQdFAjjZU3SU-GiMPc7tiacCfJfHw3yLHEqP4ejHVD70RIU4lvor1b4OsdJ29xg_qlOc-eMpBnjY",
-        "userName": "Susan Davis",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhXX7weznes7MatR3HUgvaQPeip8zVeMeOAKTji",
-        "content": "Awful, my QR code scanner hardly ever works, very annoying",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 08:43:03",
-        "replyContent": "Hi Susan, Sorry to hear about your experience. Can we please see the error screenshot in the email? mobileapp@service.nsw.gov.au We would love to look into it for you. We appreciate your patience.",
-        "repliedAt": "2021-06-16 06:11:01"
-    },
-    {
-        "reviewId": "gp:AOqpTOG6OPp3bKPOsfBkZzlsC79WeDZkQONi7QT8yELWRP940P47fk2fsjkEb4t8Tkk-avz_2w0DZPwEtwuch1Y",
-        "userName": "Bronwyn Green",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw4pEsD8X0d1sbBcrMieNTowaBjeUvddaKzc0Gy=mo",
-        "content": "Keeps turning off. Camera function goes on and as quickly goes off again. Does not work",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 06:43:41",
-        "replyContent": "Hi Bronwyn, Apologies for the experience you had with the app. We are happy to look into this for you. Can you share more about your experience and the screenshot in the email mobileapp@service.nsw.gov.au Thank you for your patience.",
-        "repliedAt": "2021-06-16 06:22:55"
-    },
-    {
-        "reviewId": "gp:AOqpTOHHYGBa7qOsk7OPJWd58ETLe-FVMef82R1XiaDq9YBQ2b4eFls5N32JlmAhZyvDSaWT84C6AjWMf4jasMc",
-        "userName": "Robert Candelori",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi1SfYM88ei8lFb5gNuiMSCf7z9xgUi5ERYhwtTSw",
-        "content": "It's a good app but I keep running into issues where if I login with the fingerprint reader on my Samsung S21 Ultra, the fingerprint overlay doesn't disappear and blocks me using the rest of the app. The only way to fix it is to force close the app and re-open which is frustrating.",
-        "score": 3,
-        "thumbsUpCount": 8,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 05:44:05",
-        "replyContent": "Hi Robert, Thank you and sorry to hear about your experience. This doesn't sound right. Are you still having this issue? Please share us in the email mobileapp@service.nsw.gov.au with the error screenshot, device type and the email you use for the service account. Thank you for your patience.",
-        "repliedAt": "2021-06-16 06:27:50"
-    },
-    {
-        "reviewId": "gp:AOqpTOH9yGhHYFarsRVi1nT2kSYnNZJGJrshfpNUx2o-8jK0YStcGPc01sn4FQlFbSZYU2CRpnrvHZbKxUV6T6k",
-        "userName": "Jacinta Fakatava",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gje2QwWmTiM6Q3gbEDm8qe23zRQUc1Cu0LEce21",
-        "content": "I enjoy the app, very useful but my issue is when I got a new phone I download the app and it keeps telling me wrong email and password which obviously is correct as I can log in through the internet just not the app. I've emailed but no reply",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 03:49:28",
-        "replyContent": "Hi Jacinta, We appreciate your patience. Please email us if you are having this issue still. If not, feel free to re-rate the app or leave us additional feedback. Thank you.",
-        "repliedAt": "2021-06-22 01:36:17"
-    },
-    {
-        "reviewId": "gp:AOqpTOEurG9UmE7UjdC8QbPtcat2MfLkZ4Xne8_aZP9iEdOS8-OYUP_c6PU2VcABciJp2AMHzzjurA9QqT4tiWY",
-        "userName": "Jennifer Allgood",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyh7t1jMgaB9A8L2LhfXSok4vOtSP7RykGInstK=mo",
-        "content": "I notice when you scan as you enter,app may still keep logged in to previous venue.You have to check screen and often you are already inside new venue.",
-        "score": 5,
-        "thumbsUpCount": 2,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 02:58:26",
-        "replyContent": "Hi Jennifer, This is a known issue and it's to do with the device camera. If you would like to know more, please feel free to email mobileapp@service.nsw.gov.au. The workaround for this is to tap the app and check in using the in-app QR code scanner instead of the device camera. thank you for your patience.",
-        "repliedAt": "2021-06-22 01:38:58"
-    },
-    {
-        "reviewId": "gp:AOqpTOHNCilu4_XmMM1GkgdC_piGqbONoByI_VS_Pgdp7iLqzt7p_kGh4wJLGi2GrnZLEOfl8L5Gencb_M5jt3Q",
-        "userName": "Neil Smith",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxLomVttF5RY4-vlZtj_WTqH9jhfwGlgVbcJyHy=mo",
-        "content": "You can change the colour of your app but there is no where on the app to update your mobile number or add your mobile number",
-        "score": 1,
-        "thumbsUpCount": 12,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 02:36:51",
-        "replyContent": "The app is improved using review like yours, Neil. The best is by ensuring to update your details with the service centre. You can visit the nearest service centre or can call on 13 77 88, by doing that, you will receive the codes that are sent to you. When updating it in the service account online, it doesn't seem to reflect in the system. Thanks.",
-        "repliedAt": "2021-06-15 06:32:27"
-    },
-    {
-        "reviewId": "gp:AOqpTOElNpM05iYN7YWSK291Ybyx0ItI9M1mc5nkc8T9e77sNSKAdmIGUOGOu_cHwtXpbE0o4WYUaaAxFOF6rg8",
-        "userName": "Catherine Watts",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwyG9F5FaaImplZDFZdk3qX380xtSxuFl_P_hfz=mo",
-        "content": "Great app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-13 02:25:02",
-        "replyContent": "Hi Catherine, thank you so much for making our day! Please keep us encouraged and keep the feedback coming.",
-        "repliedAt": "2021-06-22 01:40:12"
-    },
-    {
-        "reviewId": "gp:AOqpTOE2mFgeGhuJsBUGJuTNq5HR_7b1YvjZBk1XZqGbvJiwbpVKvd_MixNF4jTlzJw4xqI5fXTfw-5nDzJrkK4",
-        "userName": "Patrick Harris",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwj144Owe2jF08qeyWssA69fDh4TTOl1pAO-ZHt=mo",
-        "content": "Great",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 10:52:30",
-        "replyContent": "Hi Patrick, We value every feedback that we receive from our app users and make sure to acknowledge you as this really encourages our team to go beyond to provide you with the best service and use your feedback to enhance the app. Please keep the feedback coming.",
-        "repliedAt": "2021-06-22 01:42:19"
-    },
-    {
-        "reviewId": "gp:AOqpTOHqWMrY03hzLTR_Mlnlmv2bCRe0BPM62ZVx9FFZS6qJtubgXrTPWa7qwPp_CEfjaJpkm_3CibLh_9QPCJs",
-        "userName": "Trudy Anrep",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyKxTjIfdsLJ3PYqNuJAh6AtpY_3dYM7GsswJfm=mo",
-        "content": "Excellent, user friendly ,",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 09:27:47",
-        "replyContent": "Hi Trudy, thank you so much for making our day! Please keep us encouraged and keep the feedback coming.",
-        "repliedAt": "2021-06-22 01:43:04"
-    },
-    {
-        "reviewId": "gp:AOqpTOFlNrNmvO7sk412xDTVl3lgt7sSVq35NznTkvg2TEfyGUaTR8c2VR_VMaSVkVGXedp76lI8_Bqunur3ojI",
-        "userName": "Mark Clinghan",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwDDU-BVoxRB6FeTNdH9INR_kIvHLePgwZ4QmUN=mo",
-        "content": "Reliable",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 08:00:30",
-        "replyContent": "Hello Mark, We value every feedback that we receive from our app users and make sure to acknowledge you as this really pushes our team to go beyond to provide you with the best service and use your feedback to enhance the app. Please keep the feedback coming.",
-        "repliedAt": "2021-06-22 01:43:54"
-    },
-    {
-        "reviewId": "gp:AOqpTOEUviKIevh0G1g76XE3CNC0uZTn7j84GoVjsgcIRxlm-dDs33gXDZvvrX_4wXBuwuauWvAgHtRcvWGsLAk",
-        "userName": "David Austin",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxrAA4VQotaTLGd0gDOyPIrYKZ3e45YaTEYdmDk=mo",
-        "content": "No can do",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.4.1 (226211)",
-        "at": "2021-06-12 06:12:48",
-        "replyContent": "Hi David, thank you for your review. Feel free to email us if you would like to share more feedback on how we can improve the app or assistance, mobileapp@service.nsw.gov.au",
-        "repliedAt": "2021-06-22 01:45:09"
-    },
-    {
-        "reviewId": "gp:AOqpTOHcAJyvwQdH1XcrtvIVj-IpJzSIo7xO_hjJm-xB7kh-NGEUh1WsG4FpYEYgEGrmhSC4t3bCxOtG4Qwe3ns",
-        "userName": "Christine Grimmond",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgYXW-ozExsEigbiSAsDSxATTqKciWTCYCuFTs4xg",
-        "content": "I find the whole app very easy to use. And very informative.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 06:07:40",
-        "replyContent": "Hello Christine, thank you kindly for your review. We are super happy to have received beautiful feedback like yours. Encouraging us to keep on working hard to provide you with even better service every week. Keep the feedback coming.",
-        "repliedAt": "2021-06-22 01:46:59"
-    },
-    {
-        "reviewId": "gp:AOqpTOEjqohESAQffX0juaHkbnsTvzsuuXvrMWhnXd0DgF2eGvKY6dBdumlOG66kQDCEkxVbnMTKiSs4PQuy-u8",
-        "userName": "Pat leatinuu",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj_yHIWIGmXj3zGWBwBllZcRlyluZmfXaadhfAM9Q",
-        "content": "Terrible tells me my email is invalid when it is correct waste of time",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 05:54:54",
-        "replyContent": "Hi Pat, Could you please set the device time to network-provided time and see if it lets you log in? If it doesn't work, please email mobileapp@service.nsw.gov.au. We are happy to look into this for you. Thanks for your patience. Please know you don't need to log in to COVID safe check, printed D&D vouchers are accepted at the venues.",
-        "repliedAt": "2021-06-15 06:37:24"
-    },
-    {
-        "reviewId": "gp:AOqpTOEZsRvda_uWwJ1IY3QOF9cHiCXG1A_bVmulxUkoyj18H-FL98N9SFyQVnEOM0xaGJCD684gha8RYLeabKY",
-        "userName": "Valerie Nicholson",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjKnVrMo0kWb-hQ8CjwCoZQ0g3PnM20qbycDvqs",
-        "content": "Update being annoying as it is not going to address straight away but back to app?? Have to scan more than once.",
-        "score": 3,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 05:32:08",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFMVsM5ovEN2t4dg2-3gnBLd_wZ6nOR8cuBEz4LGfVFzNOHqzZvWDL-6XCuD-autLqR5xYA2YsYR51RakU",
-        "userName": "Carmen Popovic",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwV8yu3LjkmT3zOODSc9xRMzvQjoNyND1o4i8fT=mo",
-        "content": "Easy app no problem at all",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 05:18:27",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEuwL89e3sjJd3-4DJFHH2tV_0XeoV3sIfKSHZJIeEMbluSz3WYPxBdiVMEmhLxroreDiMEca1-9JdCL1Y",
-        "userName": "Paul Hughes",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhdEze69rXK8ryAkQ_19TixptB2tqC-i0eVGO42",
-        "content": "Easy to use.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.6.0 (236399)",
-        "at": "2021-06-12 05:05:22",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGl1vo_Ho0oG_yMeXE7HF9HI_0rDbVz5XlZIR3myx09V7kzyFDN5JBIMPpYJdWbI_sZeKp8wHXd_J7JaMs",
-        "userName": "walter langat",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyClfUEOWq-dpr698ipWndXD83K-p7bN2ybab5i=mo",
-        "content": "Best app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.1.0 (208544)",
-        "at": "2021-06-12 04:33:57",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEZMxAF_3OrUDsQEmShnWUxHr0qSpLO0bYNvy_nhx8cnif5eDyRSV9LUK5E_FsL1pe1XHqUOAzPq9T34O0",
-        "userName": "Sue Vale",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzf9rzHfylbByb0pVZBAzOce0jGlKq3-QKdcqVC=mo",
-        "content": "Very easy to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 03:59:28",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFK54Eqidodqe2ewCBkVuAy5Tgj2ACcyN52jSOsBt4PLC9vtup7YGZxrnl4l8UgBNHDC85e0UGV69PgYNU",
-        "userName": "Murray Rainey",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkAKJF6iFsQWYciEKYCaFhCqAX_qVncdih-rElSg",
-        "content": "Functions are intuitive",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.6.0 (236399)",
-        "at": "2021-06-12 03:53:42",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG3l7fSuTYLb8I2WW11Ih6S8YtM-FN7jkemXsM7DrXo75ojDTtINS4XQmk9ElmjTo8060hopI5s3X8iVjE",
-        "userName": "Mark Rushton",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwoSuor8Wt2UY_bZIYL59M_UgY6ZUbPj46vwovK=mo",
-        "content": "Haven't used why rate an app that's just been installed want to exit no option to get out",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 03:22:36",
-        "replyContent": "Hi Mark, thank you for downloading the app. The app is built with your security first in our mind. When you have time, you can browse the features we have in the app. The app is improved using your feedback. https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app Thank you.",
-        "repliedAt": "2021-06-15 06:44:28"
-    },
-    {
-        "reviewId": "gp:AOqpTOFRDCDNhLK_LhiloRyMSzql8VRDe8I9AqLy_HVqYzjLej5wi3mPGw-sIYGegJ9f7AGQUt1PD1MGF0iI71Q",
-        "userName": "The Bruce",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifaDgX6wNXt0I5lPT61sntGTMVCVBcVrVg21f1Bg",
-        "content": "Rubbish because your all corrupt, nothing else matters",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.2.2 (217709)",
-        "at": "2021-06-12 03:13:32",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFAN-y1otLAV3CedBwsKAGlhle-g_e9AFTjpPfs4eqQyC05znc9248KJzk9WmOVxYHWgxSVUYyfG4T0uF4",
-        "userName": "Linda Simmonds",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxaiaHWjQhenqB9F0h4eF2dpxZEM9R7bgrG4wc=mo",
-        "content": "Very good",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 02:58:08",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGpFNljhSr0Mw-mXazNhsaGzoitxYEI4IBb1JjcymIoteAClGupc0hQClRmWykGfbqHVPsGB_4ADLVCk0A",
-        "userName": "Pat Norris",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxeAYtUo7mtY8NgTsYZXhCvsDf9ISwmuThyWF39=mo",
-        "content": "Good",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 02:55:33",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEHcxh6RA5RljLxgPgas3fTi5mj7T3jMCpNjrPcwkUpH-tUlDCY302DO4rMvMfbgxnPjLZ4bphQdpIU_ZU",
-        "userName": "Barry Howland",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzpoRNnLlXe8_h9QONU_EbkirEUABUd-14nD1bY=mo",
-        "content": "User friendly",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 02:49:31",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHVZkZtxMSgPBSOgnL36aCiSM9U2iWf3IeB6jQfAgrO_4UqcO7SQ426QbhH278PCTv6xhPHBFDWebEXJLY",
-        "userName": "Rob Wilkinson",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxJX-DNjqpuVKYnYXAJao9LrIIuX1LwD5VB9rpI=mo",
-        "content": "Easy to use.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2021-06-12 02:42:38",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFnx0Ax4fOZ9diCw27hQFq-tp61fGQxW8GyPcYjgKAYcS9us0K6_grwTdNKFoFhn7Y59wwEMyibaWXKRuE",
-        "userName": "Chris Tomnia",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyYUZNhMlJRRoEod0RnVNFWEG2wRZJeVUEbbCBC=mo",
-        "content": "Really useful for easy access to NSW Gov services",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 02:29:24",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFvot1T1PW26dCVYABeNdC5qTKzyyhNx0YN572vNF6yn3bBWpx30hMKsAHpXow3D9bWicVqf2K4i4pvm08",
-        "userName": "Geoff Stephens",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi-CZbEYzybbHVYYfizlXnzYgOr_HSpucRh-dGC",
-        "content": "Privacy invasion",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 02:26:48",
-        "replyContent": "Hello Geoff, Thanks for sharing your thought. Your personal and sensitive information is encrypted and all network traffic from the app is also encrypted. Your data is not shared with any third party entities and we only share contact data with NSW Health if and only if you have visited a known hotspot.",
-        "repliedAt": "2021-06-15 06:49:40"
-    },
-    {
-        "reviewId": "gp:AOqpTOFfeNXTj5vO2rcMiW5AiBf9QZoVk4uSGMrJbhwmMpPBKfRozG6SRhluCVJ0yY_TV5Q48Twp8qplFxzoF84",
-        "userName": "Juanita Barnden",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiL7tZi9ZEyHBEGsmVta_y4JqWxTkMwYCCDJgAP8w",
-        "content": "Thank you",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 02:15:17",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOG8rnl0JnXqqbVF9qiOOHOSaC9o07DKB5SvNm3hiO9V6HSZNEksnbO3M6GqI70WwlyiWLvZp8K-u7mXK78",
-        "userName": "Jeff Hilder",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwBPFMLZKP-fpTKqhBE7TzGqoRdT0UMtWM4f88=mo",
-        "content": "Well thought out easy to use. So use it people!",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 02:04:52",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFyZ0spCnJf5eD0xMM4YJYUpmG9UJpXj1IcFRg85yKVHmyoUtguHYQ6quVXkUgEbbaLhJCQPyQHc-hXti4",
-        "userName": "Neville Taylor",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzFGbmFG3ORFA7m2o4fYsp-nDniOnXJqb2aeCnP=mo",
-        "content": "Yer pretty simple to use",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:59:58",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHYGpkzmsrvthHt39fnCbl92E7x_D6IUnAwVYO8SRQ3egfdhtOz7Nx9KAGaFcrF4Z0jYGfeJhAygehNsbU",
-        "userName": "Terry Yates",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxlBrRvJjSx4SkT0YV3pGH6J_ca_mil-LUwHwGg=mo",
-        "content": "No probs",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:58:47",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEFtMoTIAjsdv6jHrsXm2lt8Owf0dQqZxdyHFNTb99m2yVqgnZJpQ_9mhzcIhoV1W1zQ_vL4wddz1IkGbc",
-        "userName": "This Prank Sux",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxnVRwz92lWApDcf7PQXI6NGkndN5TkFe3tMCF0=mo",
-        "content": "Whilst the app has good intentions, I can not get the vouchers on my phone through the app, I also can not do the covid check in with it, it tells me to check the time on my phone.... the time is exactly the same as everybody else's. I think the app was intended for the more common type of phones such as Samsung, nokia and the such.",
-        "score": 3,
-        "thumbsUpCount": 16,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:57:17",
-        "replyContent": "Hi This Prank, thanks for sharing your experience with us. If you are logged in successfully in the app, where you can see your Digital driver licence and if you tap on the Vouchers you would see the digital vouchers as well. Or can print out vouchers from your email. Can you send COVID Check-in error screenshot to mobileapp@service.nsw.gov.au?",
-        "repliedAt": "2021-06-22 01:54:09"
-    },
-    {
-        "reviewId": "gp:AOqpTOEYRpxFIAWZAXjrQRbmTip0at3W4jYxC2f3avNu0ZWl6BIB-QeDyZbmT_79ione-1-NONkGV7uvXf5ce1Y",
-        "userName": "george mavrantonis",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy9rsXgotQt-b6OYaBRuh6B0ogbcKU_HRicpToo=mo",
-        "content": "Good all round app!",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:52:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEUsyhHxx5BZ03f5_l0cWyodj86igrstFGmN8zEJlkd3kg_6XPu0-RJs5FwE_IdSidFcy-WhUrzSRfzFT0",
-        "userName": "Macka McAteer",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxHBejq3DGqW-ahkjcX2NQlJfFBdZL5sHvgAmQk=mo",
-        "content": "Not very user friendly, takes too long to login etc.",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:51:30",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHvEmFFsoQ82Xcuu1Y7HBbyUtzI2-ke-CvUFCk9_X2nYVOvwvviPCpDgnq0xfhXixvUXfEyrtWgugVc7go",
-        "userName": "Archie B",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9tmKwwkcuOevwrU1jqGVMX0C0sZ517iI1FnFd=mo",
-        "content": "Very useful",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:47:50",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGdM47EFMrXkvWQdworza1SjEDDJ7zcUWFRvnPJsFk5ZTthhuAxiQMQl_8qLoEuzlnCmdckVlrEdS5DFfs",
-        "userName": "Greg Crump",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx9rXOgThZw-E_fdXkAeGWR8vz1ogZHk-g1OosE=mo",
-        "content": "A fantastix app and it should be mandatory for everyone who enters and oublic building, restaurant, bar, cafe, etc",
-        "score": 5,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:38:21",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFoQ3Dotl3CsPFFET9Ao-0sbwyBYO-pQmW_BiAzIElOaZ3s0yV9erhyI4_27gJxpK4MnLmXmDQRTKXN4ZI",
-        "userName": "Gunay Guldur",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy6b7FaqV8s14Q7aGfxZMXBeq22HyuT_30JmqbP=mo",
-        "content": "Great",
-        "score": 4,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "6.11.0 (277204)",
-        "at": "2021-06-12 01:38:06",
-        "replyContent": null,
-        "repliedAt": null
     }
 ]

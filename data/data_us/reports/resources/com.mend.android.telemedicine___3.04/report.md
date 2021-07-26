@@ -215,6 +215,8 @@ No recent reviews available with 2 stars.
 <img src="1_star_reviews_wordcloud.png" alt="com.mend.android.telemedicine 1 reviews"/>
 </p>
 
+> very bad might as well cancel your doctor's appointment because u won't connect when its time<br> :date: __2021-07-20 14:39:03__
+
 > All of a sudden it freezes constantly even on a solid internet connection please fix it was working perfect whatever you did in an update affected functionality<br> :date: __2021-07-12 23:00:45__
 
 > FRAUDULENT!!!!!!<br> :date: __2021-06-25 19:22:49__
@@ -232,7 +234,5 @@ No recent reviews available with 2 stars.
 > The app forces uses to use cameras. This may be efficient for most situations but for people using the app for therapy, some users are very self conscious about their appearance on camera and it makes users, such as myself, extremely uncomfortable.<br> :date: __2021-01-08 05:58:29__
 
 > To call this app awful is an understatement. I spent an hour trying to login and get the camera feature to work. Eventually I just called my Doctor and canceled the appointment due to this app being less helpful than a book of wet matches.<br> :date: __2020-06-29 17:17:21__
-
-> Have only gotten this to work once on my end, or it not working on there end. It tells me invited email, or password all the time even when I try to reset. Feeling like this is a waste of time. Doesn't work<br> :date: __2020-06-18 17:11:48__
 
 
