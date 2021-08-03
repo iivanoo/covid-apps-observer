@@ -170,6 +170,8 @@ The Meine Patientendaten app has been installed by more than **500** times. At t
 <img src="5_star_reviews_wordcloud.png" alt="de.my.patientdata 5 reviews"/>
 </p>
 
+> Sehr gute App mit den Daten von einem<br> :date: __2021-07-26 14:29:04__
+
 > Computertransfer von Infos zwischen Patient und Arzt ohne Internet. Super Sache.<br> :date: __2018-08-30 23:11:14__
 
 

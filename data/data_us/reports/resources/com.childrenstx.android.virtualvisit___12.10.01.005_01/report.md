@@ -196,6 +196,10 @@ The Children’s Health VirtualVisit – Family Care 24/7 app has been installed
 <img src="5_star_reviews_wordcloud.png" alt="com.childrenstx.android.virtualvisit 5 reviews"/>
 </p>
 
+> As usual it was great visit very happy with Dr Evans<br> :date: __2021-07-29 16:59:13__
+
+> Quick kind and efficent<br> :date: __2021-07-27 17:59:40__
+
 > Great clear picture and sound no problem<br> :date: __2021-07-23 17:54:44__
 
 > Good<br> :date: __2021-07-22 19:11:36__
@@ -211,10 +215,6 @@ The Children’s Health VirtualVisit – Family Care 24/7 app has been installed
 > Quick, easy to use, so much better than waiting for an appt or waiting in the er!<br> :date: __2021-05-21 20:00:04__
 
 > Excellent doctors, and so nice not to have to go to the ER!<br> :date: __2021-05-12 23:34:27__
-
-> Super easy. Installed & using in just minutes!<br> :date: __2021-04-06 15:03:34__
-
-> Very goid<br> :date: __2021-03-17 21:49:34__
 
 
 

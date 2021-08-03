@@ -223,6 +223,8 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <img src="2_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 2 reviews"/>
 </p>
 
+> Bluetooth is on - keeps telling me to turn on Bluetooth and restart the app or it won't work<br> :date: __2021-07-26 14:13:12__
+
 > Can't get it to connect with my phone<br> :date: __2021-07-19 15:54:03__
 
 > I have used this app for almost a year now and it was working perfectly, until i had to replace my phone now it will not work anymore. Unfortunately i now find that the app is now useless as it will not allow access to the exposure check's so i have no idea if i have been in contact with someone who may have put info on about a positive covid test. So i now find the app a total pain and now worth having anymore.<br> :date: __2021-07-14 11:15:28__
@@ -241,8 +243,6 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 
 > It doesn't provide any live longer Information.<br> :date: __2021-04-06 11:13:28__
 
-> Twice in three days I was contacted to isolate for 10 days despite never being in anyone's company inside or out within two meters I haven't even been near my own family. If passing someone on a pavement within seconds triggers the app for you to isolate then what's the point? They sell coffee at a door where people congregate on a pavement less than two meters to get past?<br> :date: __2021-03-13 10:03:34__
-
 
 
 #### 1-star reviews
@@ -250,6 +250,14 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.scot.covidtracker 1 reviews"/>
 </p>
+
+> Rubbish ping for no resin and drabs my battery don't and won't be using it now ever<br> :date: __2021-07-27 10:12:58__
+
+> Doesnt work, it cant verify the time and date on my phone?? 😂😂 total bollocks<br> :date: __2021-07-26 16:02:06__
+
+> Can't even start it. Check you're time and date. Considering its set from online. Well done 🤦🏻‍♂️<br> :date: __2021-07-26 14:31:38__
+
+> Keep saying check time & date so not allowing me to complete the registration.<br> :date: __2021-07-26 13:24:38__
 
 > Absolute Garbage<br> :date: __2021-07-22 16:05:11__
 
@@ -262,13 +270,5 @@ The Protect Scotland app has been installed by more than **500000** times. At th
 > Never told me of close incidents<br> :date: __2021-07-15 23:31:08__
 
 > I'll be keeping the app installed, but my phone automatically disables Bluetooth after a while of inactivity to save power, with no override available in my system settings, meaning the app is basically useless for its primary purpose for me. Thankfully my employer has provided me with a work phone which doesn't have this issue, and I know that the problem is really down to the device's operating system, but surely there must have been a better way to do this that doesn't rely on Bluetooth?<br> :date: __2021-07-15 14:56:36__
-
-> Very limited use for those us travel and work in England. Why can't Scottish politicians accept that Covid does not recognise borders. The NHS Covid 19 app has far superior functionality and information. Scottish public services and politicians are blinded by their anti-anglo ideals and are putting the Scottish public at risk. Very disappointed, frustrated and considering a move south of the border.<br> :date: __2021-07-10 12:24:16__
-
-> Not one exposure check in the last fortnight, used to get four or five a day.<br> :date: __2021-07-10 09:37:36__
-
-> Not a chance in hell would I install this...I wear a mask and keep my hands clean..been using public transport through out the pandemic and have NVR tested positive...it's a fkn farce.<br> :date: __2021-07-09 19:03:37__
-
-> Not compatible with English system so complete waste of time using it while on holiday<br> :date: __2021-07-09 18:37:42__
 
 

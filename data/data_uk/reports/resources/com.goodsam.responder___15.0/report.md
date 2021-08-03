@@ -229,6 +229,8 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 <img src="3_star_reviews_wordcloud.png" alt="com.goodsam.responder 3 reviews"/>
 </p>
 
+> Need the ability to filter future tasks, eg only show Saturdays, only show within 10km etc<br> :date: __2021-07-27 17:58:56__
+
 > Keep trying to register, won't accept id ,haven't got a passport or driving licence, tried uploading water bill and p60, took pictue of them side by side and still not accepted<br> :date: __2021-07-05 00:12:29__
 
 > App was working really well for me until about a week ago. Suddenly started eating data and won't display the part of my profile that allows me to go on and off duty. I have tried updating and reinstalling but still isn't working properly.<br> :date: __2021-06-05 23:34:06__
@@ -246,8 +248,6 @@ The GoodSAM Responder app has been installed by more than **100000** times. At t
 > Have not received actual work in months. Lots of alerts about people safeguarding but when called no action required. Also I'm supposed to be a driver but haven't seen a driver call since I initially registered.<br> :date: __2021-02-26 18:26:17__
 
 > This app worked very well with my previous Android 10. Since upgrading my phone to a new Android 10, I stopped getting sound notifications. I followed your FAQs, allowed all permissions, but I still don't get them as sound alert. I used to have a sound notification for a simulated task, but I don't get it now. Can you help please as I may miss request if I don't look on the screen...<br> :date: __2021-02-11 11:50:54__
-
-> Always crashes for no apparent reason. Had no alerts in thousands of hours. Crash report sent<br> :date: __2021-01-29 09:28:59__
 
 
 

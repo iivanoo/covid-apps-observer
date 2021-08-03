@@ -200,6 +200,8 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.teckelmedical.mediktor 5 reviews"/>
 </p>
 
+> bueno<br> :date: __2021-07-26 14:24:09__
+
 > Es una aplicación realmente fantástica, la he usado en varias ocasiones, tanto para mí como para mi familia, nunca se han equivocado. MUCHAS GRACIAS POR TAN EXCELENTE APP DE ORIENTACIÓN MÉDICA...!!!<br> :date: __2021-07-10 22:41:25__
 
 > Me encanta, me ayuda siempre. Yo usaba la página web pero me instalo la aplicación porque siempre uso el método.<br> :date: __2021-04-01 13:16:33__
@@ -217,8 +219,6 @@ The Mediktor app has been installed by more than **50000** times. At this time, 
 > Excelente, la recomiendo<br> :date: __2020-01-20 03:00:05__
 
 > Muy buena, son los mismo diagnóstico que me dio el Dr cuando me vio. Los felicito.<br> :date: __2020-01-07 20:20:51__
-
-> Antes de consultar a él doctor, use esta aplicación 2 veces y en las 2 veces acertó.<br> :date: __2019-12-19 01:37:43__
 
 
 

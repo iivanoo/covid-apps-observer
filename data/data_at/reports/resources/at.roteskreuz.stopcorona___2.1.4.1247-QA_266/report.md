@@ -176,6 +176,8 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 <img src="4_star_reviews_wordcloud.png" alt="at.roteskreuz.stopcorona 4 reviews"/>
 </p>
 
+> Die App erfüllt ihren Zweck, aber leider benutzt sie niemand. Man müsste Zusatzfunktionen hinzufügen, um Leute dazu zu bringen, diese App herunterzuladen, z.B. Test- und Impfzertifikate direkt in der App und das man sich sein Testergebnis in die App schicken lassen kann (wie in Deutschland)<br> :date: __2021-07-26 13:07:07__
+
 > Bringt halt nix, wenns keiner nutzt<br> :date: __2021-07-20 06:33:16__
 
 > Habs die App nicht installiert und werds auch nicht tun bis es nicht zuverlässig funktioniert! Quarantäne gehen nur auf Vermutung will keiner!<br> :date: __2021-05-13 18:19:38__
@@ -193,8 +195,6 @@ The Stopp Corona app has been installed by more than **100000** times. At this t
 > Super, dass man jetzt das Risiko und die Anzahl der überprüften Kontakte sieht.<br> :date: __2021-04-20 18:31:34__
 
 > Warum muss plötzlich der Standort aktiviert werden? Ich bekomme mehrmals täglich den Hinweis dass es sonst nicht funktioniert...<br> :date: __2021-03-26 06:24:26__
-
-> An sich gute App, leider benutzt das fast niemand<br> :date: __2021-03-24 11:52:48__
 
 
 

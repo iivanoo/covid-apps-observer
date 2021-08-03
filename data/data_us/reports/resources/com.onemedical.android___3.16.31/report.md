@@ -234,6 +234,10 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="com.onemedical.android 5 reviews"/>
 </p>
 
+> There when I need them!<br> :date: __2021-07-29 07:19:58__
+
+> Fast and effective.<br> :date: __2021-07-28 22:33:31__
+
 > Need an urgent consult about some symptoms<br> :date: __2021-07-20 18:08:33__
 
 > Access to super helpful medical help, fast and easy<br> :date: __2021-07-17 12:22:15__
@@ -250,10 +254,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 
 > Excellent care and service<br> :date: __2021-06-23 20:37:37__
 
-> Great and easy use<br> :date: __2021-06-23 05:39:44__
-
-> I actually downloaded the app to get my Covid Vaccine. I ended up really enjoying the service at the One Medical office in Beaverton, Oregon so much that I booked an appt the next month for birth control. It is easy to book on the app, read through documents if needed, cancel the appointment, reschedule, there's notification for reminders of your appointment day(s) ahead of time. I will also get an email and text message if I want. Super useful, and easy to use!<br> :date: __2021-06-22 08:42:45__
-
 
 
 #### 4-star reviews
@@ -261,6 +261,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.onemedical.android 4 reviews"/>
 </p>
+
+> Slow! But practitioner was pleasant.<br> :date: __2021-07-27 20:15:14__
 
 > Only one day<br> :date: __2021-01-26 20:08:39__
 
@@ -280,8 +282,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 
 > I enjoy the (mostly) user friendly design. Medical team responds quickly to questions and requests. I'm disappointed that the app does not correctly sort medical centers by distance from me. I've enabled location tracking, but it still defaults to downtown San Francisco as my location , so I have to scroll down dozens of entries to find the locations that are actually near me.<br> :date: __2020-01-15 00:16:56__
 
-> *Updating my review. The app team contacted me and after much back and forth got it working. The app now functions as promised.* I can't get the app to login. I can login to the website but I just keep getting a generic "something went wrong" error when trying to use the same credentials. There is no app support to contact to try and resolve this.<br> :date: __2019-11-05 11:59:47__
-
 
 
 #### 3-star reviews
@@ -289,6 +289,8 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.onemedical.android 3 reviews"/>
 </p>
+
+> Love the service but the app is now glitchy. Every time I get a notification and click the notification, the app is frozen and I can't do anything. I have to close it and reopen the app not from the notification and it works fine. It's a good service and app otherwise but please fix the bug. I have a Pixel 3a<br> :date: __2021-07-29 18:45:11__
 
 > Please make this app display a date and time on messages. It's so annoying that it just says the day of the week.<br> :date: __2021-06-17 23:34:35__
 
@@ -307,8 +309,6 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > Almost perfect. It works very well. The best of my medical apps. But unread and unread messages look almost exactly the same. The title can be bold, not bold, or grey. Hard to differentiate, even with the screen magnified.<br> :date: __2020-10-24 23:59:36__
 
 > Not good.<br> :date: __2020-10-05 21:30:43__
-
-> They removed the bluetooth connection and it no longer connects to blood pressure cuffs. They did this during the last software update. This was a good capability as you didn't have to manually input blood pressure readings. One Medical I.T. should consider restoring this capability.<br> :date: __2020-06-21 23:04:12__
 
 
 
@@ -346,6 +346,12 @@ The One Medical app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="com.onemedical.android 1 reviews"/>
 </p>
 
+> Terrible user interface, whenever try to upload my insurance card the quality of the picture is terrible and the image is extremely blurry.<br> :date: __2021-07-29 20:58:32__
+
+> acer laptop, core i5, updated win 10, plenty memory, minimal OTHER app usage... sole internet connect+ of cat5 cable direct to new FIOS modem and that direct to interface. bad bad bad. one med app. ugh. already have basilar migraine.my PCP and One Med team are awesomely fine...the app is awesomely NOT. no wish for developers reply ...just fix the thing. thanks...I[<CONDITIONAL TO ...] . . FIXING<br> :date: __2021-07-28 19:53:57__
+
+> $500 for a 30 minute appointment<br> :date: __2021-07-25 04:26:43__
+
 > I was suddenly logged out of the app and can't login despite going so far as resetting password and uninstall/reinstalling. I've restarted my phone as well. I just get the login screen with no messages to fix. I've contacted tech support and will update. Before this issue, I loved using the app.<br> :date: __2021-07-13 04:06:12__
 
 > App will not let me log in from my Android/ Pixel phone. It takes me back to log in page without erroring out. Please fix this. I can sign into website no problem. I complained over a month ago. Changing my password did not solve it. Reloading app did not solve it.<br> :date: __2021-07-03 06:15:05__
@@ -359,11 +365,5 @@ The One Medical app has been installed by more than **100000** times. At this ti
 > They bill me $380 for a 15 min call for minor symptoms (eczema). I asked for explanations and breakdown but the team doesn't reply to messages within 3 biz day as promised. I can find a person to call or ways to appeal. I feel like the service is designed intentionally to let you make uninformed appointments / decisions and hiding billing information. I didn't notice that I was billed outrageously until I received a bill in mail close to the due date. it's very hot or miss. Ask and be careful.<br> :date: __2021-06-18 00:46:55__
 
 > It's only a wrapper around Chrome, and one that won't let me log in with my known good password. I'll just open the site with Chrome directly.<br> :date: __2021-06-14 00:41:36__
-
-> SUCKS!<br> :date: __2021-06-13 15:39:37__
-
-> Usually love the app, but unable to login for the last 3 days. What's wrong<br> :date: __2021-06-11 21:48:42__
-
-> John Muir sent follow-up instructions after a mammogram and no one at One Medical bothered to read or act on them for 8 months.<br> :date: __2021-05-27 18:24:56__
 
 

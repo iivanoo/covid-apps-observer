@@ -181,6 +181,14 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="5_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 5 reviews"/>
 </p>
 
+> Quick and easy-to-use<br> :date: __2021-07-29 17:36:02__
+
+> Excellent App and Service<br> :date: __2021-07-29 03:18:46__
+
+> This is the best App for healthcare services. The doctors are very professional and kind.<br> :date: __2021-07-27 03:03:39__
+
+> Amazing!!!<br> :date: __2021-07-27 00:57:31__
+
 > Quick and easy! Very friendly<br> :date: __2021-07-22 15:56:50__
 
 > Very quick, easy and painless. Dr. Kim was very nice and helpful. It took 15 minutes and was 99% text. The call required a 5 second video just to verify my identity. My job's insurance offers it with $0 co-pay. I will use it again and I will recommend it to my coworkers.<br> :date: __2021-07-21 20:53:07__
@@ -192,14 +200,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > available 24hrs a day. detailed care plan<br> :date: __2021-07-17 05:20:21__
 
 > This was a great way to get the care I needed.<br> :date: __2021-07-15 18:07:36__
-
-> Works great. Can't speak to cost, it's free as a work benefit.<br> :date: __2021-07-13 17:41:13__
-
-> So simple and easy to use! Ask just the right questions to help with numerous situations!<br> :date: __2021-07-10 21:41:40__
-
-> Easy and effective. Glad to have the app.<br> :date: __2021-07-09 15:53:10__
-
-> So easy, fast, professional, love all the features!!<br> :date: __2021-07-08 23:41:01__
 
 
 
@@ -237,6 +237,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="3_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 3 reviews"/>
 </p>
 
+> Its fine.<br> :date: __2021-07-29 23:26:38__
+
 > They can't really do anything but extend prescriptions, which is useful but, they also want your entire medical history to do it though which is not needed.<br> :date: __2021-07-01 17:45:29__
 
 > One of the doctors I spoke with I feel doesn't know what she s talking about.<br> :date: __2021-06-23 05:39:12__
@@ -254,8 +256,6 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Completely useless. Three attempts, three disconnected sessions, no resolution of any kind, an hour of wasted time. Edit... increasing to three stars due to customer service response phone call. App still needs work.<br> :date: __2020-04-15 18:57:13__
 
 > Chat based telehealth has a lot of potential, and the app worked fine, but the doctor barely said anything. He didn't tell me his diagnosis, just said "I think we can treat this with strong topical antibiotics", and confirmed my pharmacy. I had to ask him what he was prescribing. He responded with 1 word (the medicine name), and them ended the chat - didn't tell me how to use it or how long it would take to heal or ask if I had any other questions, etc. Left me with little confidence.<br> :date: __2020-04-05 20:56:16__
-
-> Interface is not user friendly. But, with persistence you can manage it. I made a mistake filling out the create account form, my birthday was wrong. However, the form pointed me to my name, which it allowed me two tries and then I had to uninstall to get more attempts to get the information correct. I could understand a password. I have yet to use it to see a doctor. I hope that experience is better.<br> :date: __2020-04-02 18:41:33__
 
 
 
@@ -293,6 +293,8 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 <img src="1_star_reviews_wordcloud.png" alt="com.ninety8point6.patientapp 1 reviews"/>
 </p>
 
+> The application won't even let me sign in and keeps asking me to buy another subscription and I already paid $120.00. I contacted support 3 different ways ...phone, email and online chat. No success and I am tremendously disappointed.<br> :date: __2021-07-28 16:41:11__
+
 > This app was a great idea however the doctors on here have no compassion or have any patience with each person requesting a visit. They have massive egos and refuse to listen to the patients history and try and treat them. If they don't like the questions the patient has they end the conversation. I am disappointed that Banner Health is associated with this app.<br> :date: __2021-06-15 01:27:42__
 
 > Doctors dont actually help with any real problems. And just repeat what you tell them. So pretty much useless and you are better off using the internet.<br> :date: __2021-06-10 04:02:37__
@@ -310,7 +312,5 @@ The 98point6 app has been installed by more than **50000** times. At this time, 
 > Useless app. How can you possible do medical checks by texting? The doctor told me to go to a real doctor's office for treatment. Waste of my time.<br> :date: __2021-05-19 20:49:27__
 
 > They always tell me to go see my regular doctor. Waste of time.<br> :date: __2021-05-14 02:12:47__
-
-> No care dr. Didn't want to help just told me to go to urgent care. I explained no money for copay and no way to get there and she didn't act interested. They say that they are concerned about there patients care. You can say that you care but the actions of the physician says different. If this is there idea of care they need to rethink what care is and what is acceptable. if they think this is acceptable then I worry about others that use this site. No one reached out to me that is not true.<br> :date: __2021-05-12 05:42:34__
 
 

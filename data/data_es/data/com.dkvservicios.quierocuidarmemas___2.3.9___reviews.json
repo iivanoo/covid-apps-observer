@@ -1,5 +1,53 @@
 [
     {
+        "reviewId": "gp:AOqpTOEv7_Z6vm0CrjJQJYunn0s9WGPZfwFtD8kQnqaU9yUcU9jaLO28oNvgaMrr_MyUzxwmgrLRynJzTgvDkg",
+        "userName": "Mayte Vazquez",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyYijs3SjmZSbrsQ-YG8IsiuCkmww1mFI8S8IbB=mo",
+        "content": "Genial",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.9",
+        "at": "2021-07-29 11:24:15",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEsCcQUijw3IPyqiUUrqZsQSupd9wjmlmzJmIVLS5dgoNx_WsqTSTw0E6pnYGCyb_4muflHJlOo6iKGGg",
+        "userName": "Frederic Blay",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiSrFgOmfTsvIq5GY3V1wyzNNBmhy5JAnnzr_Kn1v0",
+        "content": "No carga. Se pueden poner estrellas negativas? Se las merecen todas",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.9",
+        "at": "2021-07-28 23:17:53",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEoHeFo0n8uQka5mSsljpEDhsTwJb2bqjHW9dfGiXmgu6MqH2gyeDsEM_ddiqGL6DpI5k01_B7wYzKwyg",
+        "userName": "Alberto Bel\u00f3n",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj2neJLQBCWy2Q9D46_t_sMCivhSFes-BvTPrPjlw",
+        "content": "Reescribo la rese\u00f1a porque ce han puesto en contacto para explicarme algo de lo dicho y es de agradecer y adem\u00e1s est\u00e1n solicionando las cosas. Me indican que la huella dactilar se desconfigura se cierras la app, y que de momento no se puede sincronizar con aGoogle fit. Vamos mejorando.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.9",
+        "at": "2021-07-27 22:44:59",
+        "replyContent": "Hola Alberto, por favor, comprueba que tienes la \u00faltima actualizaci\u00f3n de la APP, ya que resuelve algunos errores. Igualmente, puedes escribirnos en soporte@dkvservicios.com para revisar los fallos que comentas para poder solucionarlos. Muchas gracias.",
+        "repliedAt": "2021-07-21 14:54:57"
+    },
+    {
+        "reviewId": "gp:AOqpTOG_Oajw4GxE9ukSRjhcGlTcVMIPyYTMOeW3xC-0T-uKTKGe8y9pBuwBaD-PM6XuOcH-Are-_MBP9HRrJA",
+        "userName": "Israel Col\u00e1s",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjgG2Ow5f2x7rE-dInyOowhaS-YpaHd-F152bYqrw",
+        "content": "Gran atenci\u00f3n y muy r\u00e1pida",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.9",
+        "at": "2021-07-27 07:44:33",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGp7CxLT6RjWE22Z2ToTohz78XeKsUEv-ZfvjgDhBPQfeh87cYJ07lQM1KzJ8HYzC1t5Hhm_k0bUnu29w",
         "userName": "Jos\u00e9 Antonio L\u00f3pez L\u00f3pez",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzxNf_uI1pybTSiZxg3M3ewSdBJl3Kan8TDlVjh=mo",
@@ -106,18 +154,6 @@
         "at": "2021-07-11 16:38:15",
         "replyContent": "Hola Salvador, tomamos nota de tu comentario para seguir mejorando. Puedes dirigir tus propuestas de mejora a soporte@dkvservicios.com, donde tambi\u00e9n nos puedes indicar cu\u00e1ndo has tenido problemas con el cuadro m\u00e9dico para que podamos revisarlo. Muchas gracias.",
         "repliedAt": "2021-07-21 14:52:43"
-    },
-    {
-        "reviewId": "gp:AOqpTOEoHeFo0n8uQka5mSsljpEDhsTwJb2bqjHW9dfGiXmgu6MqH2gyeDsEM_ddiqGL6DpI5k01_B7wYzKwyg",
-        "userName": "Alberto Bel\u00f3n",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Ghj2neJLQBCWy2Q9D46_t_sMCivhSFes-BvTPrPjlw",
-        "content": "Fallan algunas cosas, la huella dactilar se descconfigura , al intentar poner una cuenta de Google fit no logro hacerlo, a ver si corrigen estos errores en Android y les dar\u00e9 m\u00e1s puntuaci\u00f3n. La interfaz de la app es bastante justa.",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "2.3.8",
-        "at": "2021-07-09 20:32:14",
-        "replyContent": "Hola Alberto, por favor, comprueba que tienes la \u00faltima actualizaci\u00f3n de la APP, ya que resuelve algunos errores. Igualmente, puedes escribirnos en soporte@dkvservicios.com para revisar los fallos que comentas para poder solucionarlos. Muchas gracias.",
-        "repliedAt": "2021-07-21 14:54:57"
     },
     {
         "reviewId": "gp:AOqpTOHox3swfJZGQyJ62hOTzKhWnwOBZsDemlg13XTmhNRB53P8JOwdnJhsXFuURHW_zYVt7fPH4ioDz141xg",
@@ -1321,8 +1357,8 @@
     },
     {
         "reviewId": "gp:AOqpTOEEXvli-KfPSO0BbM89KEzLNVSgodtNWTYRWcksNTYpP3YYXgkLtpM8JLJOnQNE_PkTbAuhqKX6EwXBkQ",
-        "userName": "Isabelo",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgbaK5rsUl4WCNMKBTe-KxNZU027pT48_Rfzjbuc-M",
+        "userName": "Beloisa",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiEZViimkbxPmI6IdLBYWthIm5rsyaCYYnmuMZQY8c",
         "content": "Al registrarme pongo mi fecha de nacimiento y la app pone otra distinta, luego quiero modificarla y no me deja.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -2426,7 +2462,7 @@
     {
         "reviewId": "gp:AOqpTOFxW-qO02rYFBxU9a8PEy6yLMW46PhXNkdyK4KlQSsiI9Qr80_OYxFlNqTTEuTK31Ft-x4GBeIC1A37jg",
         "userName": "Carmen T Aguirre Valencia",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiBA8rzQ24RmAgZrkBV0bFdC51b8oVMOsDWSmXSX5I",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhWZg4AVBs1aIVQRYoRw9QlLtcHYshELRzLf-1smRk",
         "content": "No funciona bien la aplicaci\u00f3n",
         "score": 2,
         "thumbsUpCount": 0,
@@ -3637,8 +3673,8 @@
     },
     {
         "reviewId": "gp:AOqpTOE1jyIZ5vt1dvAoXyrLeiObVbikr29boepNIEjNdmmwqWKHEZVirb9S5E5mDSW9V2iq31XQgW8zmaUfVw",
-        "userName": "Lily Bocur",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiuZ8PbnqpwxQczRMYTG3CkQSPRj16vZPje-epmjA",
+        "userName": "LILIANA Bucur",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhqtfAejTjGbtUG8GbPU3PxkX6C7Sjpfe9YHSRwNQ",
         "content": "Me ha dado posibilidad de estar m\u00e1s tranquila y pasar mejor de la maldita enfermedad \ud83d\ude0a",
         "score": 5,
         "thumbsUpCount": 1,
@@ -4693,7 +4729,7 @@
     },
     {
         "reviewId": "gp:AOqpTOF1AJQ02NFyZmPuZ3JMHXyx3H_S7UcVRko0t-Hjx-Nr1W_NjlKVY3LpcdYysqCIX5w2Qkznp9tzdrUdNQ",
-        "userName": "\u00c1gueda Sanchez",
+        "userName": "A S",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwEA3t6MiL41LD22XUdw08P9yju_jrrIoBQnThb=mo",
         "content": "Pr\u00e1ctica, de f\u00e1cil uso",
         "score": 5,

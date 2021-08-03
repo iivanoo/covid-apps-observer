@@ -188,6 +188,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="5_star_reviews_wordcloud.png" alt="gov.cdc.general 5 reviews"/>
 </p>
 
+> I really need this for me<br> :date: __2021-07-24 02:40:29__
+
 > Download this app!! This app is super functional and full of useful resources, especially related to the pandemic. Check it out!<br> :date: __2021-07-19 04:47:00__
 
 > Comprehensive information on pandemic in every major city in world!!!<br> :date: __2021-07-14 23:22:03__
@@ -205,8 +207,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > Relevant information right where I need it. Thanks for the great App. !!<br> :date: __2021-05-09 21:11:00__
 
 > Works fine<br> :date: __2021-05-04 02:46:42__
-
-> Excellent thanks<br> :date: __2021-04-01 14:53:52__
 
 
 
@@ -272,6 +272,8 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <img src="2_star_reviews_wordcloud.png" alt="gov.cdc.general 2 reviews"/>
 </p>
 
+> Pictures and words and graphs all cut off on right side. This makes the app unusable.<br> :date: __2021-07-27 22:59:34__
+
 > Can't open app<br> :date: __2021-05-10 17:55:50__
 
 > Slow and difficult to navigate<br> :date: __2021-04-22 21:32:17__
@@ -290,8 +292,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 
 > I downloaded this for coronavirus updates for my area no updated information. Some dates back to june 2 abd its July 6th.<br> :date: __2020-07-06 13:27:08__
 
-> No covid-19 disease case count?<br> :date: __2020-06-26 02:32:43__
-
 
 
 #### 1-star reviews
@@ -299,8 +299,6 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="gov.cdc.general 1 reviews"/>
 </p>
-
-> ProVaxxers and those promoting KalergiPlan are the parasite.<br> :date: __2021-07-21 19:30:42__
 
 > Wear your masks people!!! It's common sense. Delta and Delta Plus variants will soon come. See Dr John Campbell on you tube. Your welcome!<br> :date: __2021-06-30 07:37:29__
 
@@ -319,5 +317,7 @@ The CDC app has been installed by more than **500000** times. At this time, **19
 > This app is the definition of the cdc. It's late on news, it's not consistent on anything, and work like biden's brains, coumo's hands, and harris' knees.<br> :date: __2021-03-31 11:08:12__
 
 > Doesn't do anything. Blank screen.<br> :date: __2021-03-29 06:02:16__
+
+> I can't believe this app<br> :date: __2021-03-17 07:24:17__
 
 

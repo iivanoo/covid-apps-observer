@@ -1,5 +1,149 @@
 [
     {
+        "reviewId": "gp:AOqpTOG46TK0hFMIJ-QVg7fEgB7q_QSbfY3Om99oT11l2vjrUQRegi7s31SDy3TiCgM-sYoY_fMV0hC2I3R4yHI",
+        "userName": "Raya Corry-Fitton",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhCWy2N5doNXaK84K3JYDgAyBlXlmqQbX42LJXh",
+        "content": "A lot easier than trying to get through on the phone!",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-30 12:33:22",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEwADPj3FOaoUV35Znw_hzixMh8T7WKIC9mvZMw5EoklsnzGcjwRjpfYRdV6w6bolpeAd1FvvmI1jW6YsI",
+        "userName": "Thecla Geraghty",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgLHGaeH68xnQXHqv0LARk6ABJlc5UOT5gw601gJA",
+        "content": "The symptom checker has been fixed and the app is very useful",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-28 21:06:58",
+        "replyContent": "Hi, we apologize for any issue you might be having! Could you send details of what you are experiencing to our customer support at AskFirst@sensely.com? We'll get you up and running.",
+        "repliedAt": "2021-07-28 20:34:30"
+    },
+    {
+        "reviewId": "gp:AOqpTOFMAyoJQiORU7dDU3vss16m4-ITeDWhqwT4teJB8qMSnjW4R0onJA22M-UgyKT6LFTk7Rzq5EY-2pkK1g0",
+        "userName": "M Sanders",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxKhxhzgsl0R2oFv2-2-037aZDaGbffoH6SzwPq=mo",
+        "content": "I can barely see my phone - so app not useful. Why is it not available so I can see it on my large screen home computer? ----- Following this posting I was asked what device I was using. It was a phone - Galaxy A.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-28 20:40:12",
+        "replyContent": "Thanks for your response. We appreciate it. Can you tell us the device you are using at AskFirst@sensely.com? We will try to evaluate the issue and get back to you.",
+        "repliedAt": "2021-07-28 20:33:32"
+    },
+    {
+        "reviewId": "gp:AOqpTOEMcBjG4gtxtLQqXlP64PQm1jCFIpfAtr5faAaiHl_P38SdRD6Kox5EJ_a8mBsyYaPPj0Ta4YOCM975-yY",
+        "userName": "Alan Martin",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgM02tgZP7Ji8qAbL9GGjOjpymA80o0oLsl1nLWbhI",
+        "content": "Teething problems with registration now remedied by Support team.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-28 20:14:43",
+        "replyContent": "We're so glad we could help you with the registration issues. We apologize for the inconvenience. Contact us anytime.",
+        "repliedAt": "2021-07-28 20:32:23"
+    },
+    {
+        "reviewId": "gp:AOqpTOHfsHU9bBO0zPsBJEF9bAAFVWT9X_WymNDBEQ0nqe1RP2MYnpu6WppTcja5EacD6LpZ2ePV2zeCpVV121c",
+        "userName": "Neil Elliott",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzJ2ELqnFQ2Ur_-Vt4BlNZgUYaiYDbiT_4CUubz=mo",
+        "content": "All good",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-28 15:47:36",
+        "replyContent": "Thank you for your comment. Is there something else that we could do to deserve a five star rating from you? Let us know at AskFirst@sensely.com.",
+        "repliedAt": "2021-07-28 20:32:50"
+    },
+    {
+        "reviewId": "gp:AOqpTOE22qq0poY-9i62vddO9B19V2wpGJj9Krb7HLBaqH5SbvOKhd2r30UGNrdCihB_gsv3-mQnngSKflxuje4",
+        "userName": "noel curran",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gglb8bexZApSm-z-D_5H_f6SQxTckumLfOc1hvW",
+        "content": "Very easy to get to",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-28 14:03:39",
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-07-28 20:32:56"
+    },
+    {
+        "reviewId": "gp:AOqpTOEaaSKUQ-0TlfCkv6UB_tBRJV7JxuRldrTpAAObUsQwnz3_ad8A0h55b5YelIWETwNdWQvDXlN2U6Qys20",
+        "userName": "Penny Roberts",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgmeyyE76bllyBG_Dd3qOtvaiQwXHB2-jxLWjTecPw",
+        "content": "Easy to use",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-27 15:55:40",
+        "replyContent": "We're always working hard to improve the app. Thanks for your download and feedback.",
+        "repliedAt": "2021-07-28 20:33:03"
+    },
+    {
+        "reviewId": "gp:AOqpTOEJJGYtDoEtq2tnGuRIDTGdJLVOna_7FVE353yW_wTpw2qP3hYdh1smCZCTg7RHO-A1LuoehmgxJUk1ryQ",
+        "userName": "Susan Johnes",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GisbPHpg5Bk8me_4JdxPJg1fDSu3TVD5_8hp1R5uw",
+        "content": "Excellent",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-26 14:43:17",
+        "replyContent": "It is delightful to hear positive words and it\u2019s always a pleasure to serve our users.",
+        "repliedAt": "2021-07-28 20:33:12"
+    },
+    {
+        "reviewId": "gp:AOqpTOGjzT37mZBmcouB2tVbcnx6hmvuNz5Fy5D6gbJRnI_CHPHPsyI9pShAn_BRRDpf0WgBOh-ra3ZgzvxyNRE",
+        "userName": "Abiyah",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhnFjlzp59J7pDagucLuAILJp8euxX4JT7hufClacg",
+        "content": "What can I say? A wonderful app to use if you're unable to seek help from your local GP or pharmacy \ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-26 12:18:36",
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-07-28 20:33:21"
+    },
+    {
+        "reviewId": "gp:AOqpTOFcZH7Q6s3RG0wWsPRwAN_W_M4fT8Pdj_qlMXupu5RdN8-DhkpnUbyEVfLQB0NrcWeQV3UfBl3x_9eEBTI",
+        "userName": "Sue Draper",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiARHKxJw8cW3_yH51rLdz4GsPoX5GvX2APwEj7iQ",
+        "content": "Very good",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-26 10:54:46",
+        "replyContent": "Thanks for taking out time to rate us. It really helps us to keep going and delivering the best :)",
+        "repliedAt": "2021-07-28 20:34:11"
+    },
+    {
+        "reviewId": "gp:AOqpTOEmHIayGP0kD4YA6srkK8oIxf3tDFeAJU3pyG4-VZbLQKhd7JWc1lsXjtWFSjjwN6gc1iSImKBH0z3gTpg",
+        "userName": "Marika",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiyGR3RseDAcR34da8sdkAkPb8S56Vl6qQ61hNVLA",
+        "content": "Easy to use app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-26 09:45:14",
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-07-28 20:34:00"
+    },
+    {
+        "reviewId": "gp:AOqpTOHvWt6JHpKqn8ax2rj300TL8ldVD2bstNNGyc83KSGahBgyJyr5IBx5uKuboPT4HXXlwoz87MAXv2VDaKk",
+        "userName": "Leighton Davies",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gh7GvqUQfILQp_sqSRsmVwYJfLdzb5ee7sWb-lv",
+        "content": "Useful",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.10",
+        "at": "2021-07-24 11:24:57",
+        "replyContent": "Thank you for your comment. Is there something else that we could do to deserve a five star rating from you? Let us know at AskFirst@sensely.com.",
+        "repliedAt": "2021-07-28 20:33:54"
+    },
+    {
         "reviewId": "gp:AOqpTOFtJJvG_OpkVddg50eomgUGYUd4XGyewJkKMRCayW48R-55zxkILW7RV-wAvmGAckTbrsAKEfngtb02Tjg",
         "userName": "OJ Williams",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhK5kXXwj_zDoZqFpkiCsAq_NCUKXXl_61_r7Pnww",
@@ -8,20 +152,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.10",
         "at": "2021-07-22 20:57:56",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOEwADPj3FOaoUV35Znw_hzixMh8T7WKIC9mvZMw5EoklsnzGcjwRjpfYRdV6w6bolpeAd1FvvmI1jW6YsI",
-        "userName": "Thecla Geraghty",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgLHGaeH68xnQXHqv0LARk6ABJlc5UOT5gw601gJA",
-        "content": "Currently symptom checker not working",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.10",
-        "at": "2021-07-22 17:56:17",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Thank you so much for your review!",
+        "repliedAt": "2021-07-28 20:34:21"
     },
     {
         "reviewId": "gp:AOqpTOHPnF6PLNbm0Zh9h3U3Uef9UoxivIDGRAR2qJbJcCOQ8etu-jsbd8HzWeLQBhIuEdSCMFbcAUpLb_V7gpw",
@@ -32,8 +164,8 @@
         "thumbsUpCount": 0,
         "reviewCreatedVersion": "3.10",
         "at": "2021-07-22 15:10:54",
-        "replyContent": null,
-        "repliedAt": null
+        "replyContent": "Hi, if you are having trouble finding the app, please contact us at AskFirst@sensely.com. We will help you resolve the issue. Thank you!",
+        "repliedAt": "2021-07-28 20:34:45"
     },
     {
         "reviewId": "gp:AOqpTOGIYAZgvHPUApIdCgQAXZt1lFHVpaApJ2SvMBxIr8HuWxRiNstLjGHS5vv5shbmKdrJUYE2LmmTVo89OS0",
@@ -166,18 +298,6 @@
         "at": "2021-07-15 18:25:56",
         "replyContent": "We'll look into this issue for you. Please send us a note at AskFirst@sensely.com so that we can follow up.",
         "repliedAt": "2021-07-21 16:36:10"
-    },
-    {
-        "reviewId": "gp:AOqpTOEMcBjG4gtxtLQqXlP64PQm1jCFIpfAtr5faAaiHl_P38SdRD6Kox5EJ_a8mBsyYaPPj0Ta4YOCM975-yY",
-        "userName": "Alan Martin",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgM02tgZP7Ji8qAbL9GGjOjpymA80o0oLsl1nLWbhI",
-        "content": "Doesn't register with my NHS details. Unable to register with my NHS account. Basically it's useless.",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "3.10",
-        "at": "2021-07-15 18:08:02",
-        "replyContent": "Dear User, we regret the inconvenience caused. To help us understand the problem in detail, please share your contact details at AskFirst@sensely.com. We would be more than happy to assist you. Best Regards.",
-        "repliedAt": "2021-07-21 16:36:18"
     },
     {
         "reviewId": "gp:AOqpTOFaI6xHOqmB-jnjEK3CRgIFiAf0LzJyj952qu_uuBz8aWcaNnkLs46_9kmO7Je29XaX-jwjvJm0ClXh_pw",
@@ -1898,7 +2018,7 @@
     {
         "reviewId": "gp:AOqpTOEOrah-J-GLgfylRSP1Xp6secy7tnJqyNp3wYs81Jdx1PSHxe7T-i8joC2Bpq6Hp5p0gPK9Sf37p6T-jDs",
         "userName": "Bene Odimayo",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxTpiZKGeRxrvnvxGOkJAHTufGZIN08Gs0LKqaH=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiMVkHcvpolVDh6YAZi2Nj3eYkE5P8z0Su_-7r6nA",
         "content": "Good questions, good pace",
         "score": 5,
         "thumbsUpCount": 0,
@@ -10897,7 +11017,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGvWHbKevM8I1BRJ-Lx7CI43Bs8NZ9QidoG_H5lXUEHIGG5rf-YSXAZXOirwYZJ_VtpRplJSLwqiP2ICkg",
-        "userName": "V U",
+        "userName": "H A",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjoUKtItapa8ofU25IK6ZJuS3Qs0gOg7M774qHS_g",
         "content": "Signup form phone number problems. No place to enter phone number yet to complete signup you need to add your phone number.",
         "score": 1,
@@ -11878,125 +11998,5 @@
         "at": "2018-07-17 14:50:42",
         "replyContent": "Jay,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\u2028\n\nAsk NHS Support\nsupport@asknhs.co.uk",
         "repliedAt": "2018-07-17 17:53:06"
-    },
-    {
-        "reviewId": "gp:AOqpTOGR0234qPHG7LQ-NhpCWDUR0_pYuZ50xIyWgpcVsGTEZ56wiwWgTSy8iCKU0HrIq4sIk80Bs4br_LSZDX8",
-        "userName": "A Google user",
-        "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-        "content": "Useless app anytime I walk into the NHS with a problem (which is rarely) be \nthe local doctor or using some type of dental services I get fobbed off?! \nBe a nice a working app",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2018-07-15 02:43:55",
-        "replyContent": "Hello,\n\nThank you for providing feedback on the Ask NHS app. We are sorry to hear that you were not satisfied with your experience. We are continually working to improve, and we hope you will give the Ask NHS app a try again in the future.\n\nKind regards,\n\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-07-18 23:02:39"
-    },
-    {
-        "reviewId": "gp:AOqpTOHkFVCq6HtEBFX--lXim9uO_7NJpBBfhEGERlzMVSjjfgAD4HQeJ1yv2su2NwxPWKbSMYXu4xENqFhNgfk",
-        "userName": "claire coney",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhNZmaNInx-WIOL8Mhg-0CWOnpzf9Ywtol-zYOE",
-        "content": "It was so helpful",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-07-14 22:16:39",
-        "replyContent": "Claire,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\u2028\n\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-07-16 18:30:41"
-    },
-    {
-        "reviewId": "gp:AOqpTOGOvfT0XyIqZu8sjqSuGsYItmj9cuPjg0hauqLaer-rN4EBEZkNt6thFu1tlC1P-Okn1Xqg2xZabl2jiwA",
-        "userName": "Sarah Reading",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0-RVtqFQ4V--AUeJDzywUvCp4_bpPMym6nkaE=mo",
-        "content": "I can't enter any information that requires me to write anything as the \nkeyboard doesn't appear.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-07-14 21:33:54",
-        "replyContent": "Sarah, \n\nWe are pleased to inform you that we have released an update to the Ask NHS app that addresses the issue. Please visit the Play Store to download the update. We hope you will give the Ask NHS app a try again.\n\nBest Regards,\n\nThe Ask NHS Team\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-10-02 01:17:22"
-    },
-    {
-        "reviewId": "gp:AOqpTOFWQnba-z4GtjDrpEryJD7jVswZ360gpMiWQNBGANsD2f-MDiR6DWoxd2kPsJxn_OUpnm7tjSqyGXF5VJA",
-        "userName": "Wellesbourne Children and Families ministry",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjDbXte-9qVCKDk0Nsv7RWGOPy7CAytI_iwQxOL",
-        "content": "Absolutely awfully. This just hindered and delayed getting medical advice \nand should be removed until function and design is greatly improved else it \ncould actually endanger people",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2018-07-14 21:27:00",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOGC7oNg4oX2kmPbl_uAd8zcjJOIhcmkoHpqj0ZBOxY0sOXkBL5pj1X5sKsYKELwHv7a22KAZ9uqi_kopOg",
-        "userName": "Natalie Bickerton",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy_8NYFnxF48W65xA99OXd0OZqRxsoLCPF7PdZX=mo",
-        "content": "Good app",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-07-14 14:34:19",
-        "replyContent": "Natalie,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\u2028\n\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-07-16 18:30:50"
-    },
-    {
-        "reviewId": "gp:AOqpTOG0SzK9hOb3pmjcneU8_5Vt4qSYIvmQmNv3nrGYs4DaEp0aSRm5n8h6GPRVP4W4X5GxiLL7VW2XEaIrkhM",
-        "userName": "Chris Spencer",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjfhSwKJQstb3vhIcM8_0jUw5DHw6-M_1U53WPa",
-        "content": "A bit sluggish to create an account but the app works great",
-        "score": 3,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-07-14 14:29:32",
-        "replyContent": "Chris,\n\nThank you for providing feedback on the Ask NHS app. We are sorry to hear that you were not satisfied with your experience. We are continually working to improve, and we hope you will give the Ask NHS app a try again in the future.\n\nKind Regards,\n\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-07-18 23:04:47"
-    },
-    {
-        "reviewId": "gp:AOqpTOH2iMzMXLuW2_EDR9LDlIUO_JGYWrVa3_9ylNPyo9AGT78TBZ4vdq7VfxfYCMS492_wZsZuxMME9lJROy8",
-        "userName": "Richi Jennings",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQZCxjdAjp4sqHkpxshY86IWzne3ELDUBMs2fLZg",
-        "content": "No way to verify that this is a legitimate app. No clear connection to the NHS. Looks like a scam to steal personal information.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": null,
-        "at": "2018-07-12 11:19:15",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHvrjwwPLoYNc-6ZUqZay7823UZK00dJJgRtkmuNtQhRxkjLyYR-qHvlxy1V7foupBIYtQtEiRVPX3mNMw",
-        "userName": "Ryan Flanagan",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyhgNkG_EcWKB43IdEt8ZEa1Fkf7IYaWbGMv6y3=mo",
-        "content": "Terrible app. If its not crashing or taking ages to load it takes you to \nthe wrong pave or sugvests pages where people are complaining about the \nsame problem with no solution. What was wrong with the old phoneline? This \nwould have been good if it was designed properly.",
-        "score": 1,
-        "thumbsUpCount": 3,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-07-10 11:53:35",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOH8VkF_RKiE21cDNkBB8G_ioEDm9S4DQTkANtj7ihXn1AWxHOMddMx4qawydtOT57II17eLQhkklfJiDlU",
-        "userName": "Martin S",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gi5b-MxXRYMHSZ0ZdZJtR3aXvkDgOiJvnSmHsw8Qg",
-        "content": "The app is unusable as the fields you need to complete do not bring up the \nkeyboard to allow you to do this do it is not possible for patients to \ncreate an account, rendering the app useless.",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-07-10 10:17:21",
-        "replyContent": "Martin, \n\nWe are pleased to inform you that we have released an update to the Ask NHS app that addresses the issue. Please visit the Play Store to download the update. We hope you will give the Ask NHS app a try again.\n\nBest Regards,\n\nThe Ask NHS Team\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-10-02 01:21:54"
-    },
-    {
-        "reviewId": "gp:AOqpTOHULnDqQhhfs7oi_SgqhyRF5GX6NEMiIV2YSM-OU9mknuQsMrFYKhwe6qri-4iLhNbzsjBj1ckokP2mNxM",
-        "userName": "Joan Davies",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjrYShHAgFYaULUbCW_C2A0RY3n0Jk9ohNrHvedkg",
-        "content": "Fantastic",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.0.23",
-        "at": "2018-07-08 20:40:15",
-        "replyContent": "Joan,\n\nWe are pleased to hear you have enjoyed your experience using the Ask NHS app.  Please come back at any time if you would like to get self-care advice or look for your nearest pharmacy, urgent care centre, dentist, and other services. \n\nBest Regards,\u2028\n\nAsk NHS Support\nsupport@asknhs.co.uk",
-        "repliedAt": "2018-07-16 18:30:37"
     }
 ]

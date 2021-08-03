@@ -243,6 +243,8 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="gov.nc.dhhs.exposurenotification 1 reviews"/>
 </p>
 
+> So many sheep in NC God help us all. Just downloaded to tell all of you who have fallen for this tracking app for the scamdemic from CHINA the app was probably developed by the Communist CHINESE GOVERNMENT. LOL<br> :date: __2021-07-24 07:58:39__
+
 > A waste!!<br> :date: __2021-07-16 15:32:55__
 
 > Propogandas<br> :date: __2021-07-02 09:49:41__
@@ -260,7 +262,5 @@ The SlowCOVIDNC app has been installed by more than **100000** times. At this ti
 > We already past a year of when the virus posed a threat.<br> :date: __2021-05-30 22:49:25__
 
 > In a place where people think freedom and masks are related, do we expect people to use this and honestly report? Now with the mask mandate lifted for those who vaccinate, those who do not now have an excuse. In concept this app is fantastic, but I doubt any actual results.<br> :date: __2021-05-28 00:54:50__
-
-> Why would anyone submit their private medical information to these corrupt government bureaucrats makes no sense. This app allows all your information to be collected and stored. Also, it's pathetic that you lemmings think downloading this dysfunctional app will protect you from being exposed. All of you that were exposed in the comments are probably 100% recovered by now<br> :date: __2021-05-17 16:46:18__
 
 

@@ -1,5 +1,65 @@
 [
     {
+        "reviewId": "gp:AOqpTOHUjlSztMNJHqUfFZt0wcatsLc-9QGsQZDiBQc9cFMxKxVn94cTN7O_V-P6GWsHlV_HuwjQ_hOHXzuCmI8",
+        "userName": "Ivette Preston",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJw0pm9PhvI2miLaSNVynh8s8I-qboGdaJUmx1uM=mo",
+        "content": "Saved us a trip to the doctors office. Thankful for the online Dr.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.10.01.005_01",
+        "at": "2021-07-29 17:35:02",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHHo5VgZDnAoB8-iVdGmbsfBUy7O-J1rId2X9m7ASqsQckJxYeZN37AJtkqRsyQTIY9LoaD4uMuiAhRFq4",
+        "userName": "Travilla Meeks",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIAPiGbWMcUU5XEesQO36OhzdDEfr9IEGbTU3f=mo",
+        "content": "First time using was kind of nervous entering information, but everything worked out well. The system is very detailed about the wait time",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.10.01.005_01",
+        "at": "2021-07-29 02:35:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFl2S49uQjyp93fdYMf7yt_wgUAKxhhW7cUcKaM6aJo-6-JfZwber8BXBxVJMjJTjftKeltK4G6WW5m_YY",
+        "userName": "Zima22",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzDEQD5R7rqfh5A_TuaU7sTlBFJ9iUHbahog3rg=mo",
+        "content": "The app is nice, Great idea. But I was on hold for over 3 hrs with 4 different doctors and nurse practitioners. The first doctor never showed up, 2 nurse practitioners declined to see me and the 3rd didn't show up. I basically deleted the app and contacted my doctors office for an in person visit. The app was a waste of time.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.10.01.005_01",
+        "at": "2021-07-26 20:50:12",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHV08E67wbvyhfJEEl8isXizGKK7RwOG3Bd2n2Y8AOkyn-smbizm0akXPbNaCt_6SR5YWTZkpt7Os8l_rg",
+        "userName": "Angel Lantz",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj1n_tCXj7duJ-O4MZ7QEZmcQY5pL_fWb_6tLEMo0I",
+        "content": "Terrible. Waited for 3 hours to talk to a doctor for my sick son and finally gave up. I downloaded the livehealth app and got through in less than 5 minutes.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-25 20:03:01",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHt175gfvDxFfmz4hY9fkeT6Mq88wZp8I-vYJYOs0aL5s0OSMyf5CJfME7yuXY-hQnvKRRjiTAurixDelg",
+        "userName": "Keisha",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwxiZGuWq6MYr56sIuT3iOHqeUPofiGbjD-Vmlr=mo",
+        "content": "Very convenient in lieu of visting a physical location.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "12.10.01.005_01",
+        "at": "2021-07-25 17:01:51",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOGp98F_SO7Mellb2naSTAk0G0URnpyr8ptWIH_ndZDvoWLNvnBk1mFivZG-EvOA1uoKGxbuiMu1hz1VunI",
         "userName": "Robert L\u00ebwis",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5wEuL8xMEK_cbflVxcsRs5tQMltnR_zuao2nzfQ",
@@ -3314,7 +3374,7 @@
     {
         "reviewId": "gp:AOqpTOFgQoO3cmH6UkADOjA04LSaG2O1QBYxG-wRVyxPAaHkE0NWO1-jSzrhq9D0EUVg6ujlsVIcdeG0kZh5EZg",
         "userName": "Toya C",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjpdslwOQcuHkgjrqyycc38ZA1CU5gdEURDv7xhPQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg-_AsVr8oXBs96FAjm_VNfndpq8R5NVB7CylaFCQ",
         "content": "Great service and extremely convenient!!!!",
         "score": 5,
         "thumbsUpCount": 0,
@@ -5870,7 +5930,7 @@
     {
         "reviewId": "gp:AOqpTOHfIpphhR7hqhGtv7WqySLdzxhrfaN3V8wqAsJc9ucMFDIY_StU4L1whATqmdxPvATslakq0fnxwD1PHgU",
         "userName": "Jovana Vukasinovic Menkevich",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GifrngYuLIAoD2N26_rrzuDI5B34Rho2rDSFsa8UA",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gik1SJdJmn0kU_wjaD6XF0-kVF_8117g3yGvyvWn4s",
         "content": "I love how easy it is to get professional opinion and help for my newborn from the comfort of my home. After using this application I find it hard to go to the office :) because of all the wait.",
         "score": 5,
         "thumbsUpCount": 3,
@@ -6193,7 +6253,7 @@
     },
     {
         "reviewId": "gp:AOqpTOGXYuwFdTZ7HkcKPFxokULTO84p6NCkRAvYHPfrVe-Q14cXqX4mPwpgh8fz9ttnNbbJsqvKCLgUDayAjVg",
-        "userName": "Valentina Torrisi Stewart",
+        "userName": "Valentina Torrisi-Stewart",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjE31UHWKug7sknJUBuG6qvfa9k6AhwM_CDCEiNYA",
         "content": "GREAT\u2763\ufe0f",
         "score": 5,

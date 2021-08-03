@@ -213,6 +213,12 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.amwell 5 reviews"/>
 </p>
 
+> Very good I was able to speak to Dr Green and I loved her<br> :date: __2021-07-26 21:56:25__
+
+> SO EASY I CANT BELEIVE IT!...7/21 Dr. Francisca Onuoha is so nice, kind, smart and patient she is always the one I pick! Just love her. I wish she lived in Florida but she may be worth the drive if we lost video appointments LOL ...DR.<br> :date: __2021-07-26 02:10:43__
+
+> Amazing providers and so easy to use!<br> :date: __2021-07-23 22:56:18__
+
 > Pretty awesome!<br> :date: __2021-07-07 02:18:57__
 
 > Very slick the way it walks you through set-up, then their own video connection was rocks solid.<br> :date: __2021-07-03 19:01:47__
@@ -226,12 +232,6 @@ The Amwell: Doctor Visits 24/7 app has been installed by more than **1000000** t
 > Great<br> :date: __2021-06-23 03:18:37__
 
 > Cooler than sliced bread 🤔<br> :date: __2021-06-22 13:17:51__
-
-> great way to c a doc....luv it!<br> :date: __2021-06-22 11:17:57__
-
-> I suggest anybody using this it works very well very quick and the doctor was phenomenal. I would rate it a 10 if I could.☝️👍<br> :date: __2021-06-19 22:45:56__
-
-> Quick and easy<br> :date: __2021-06-18 19:12:03__
 
 
 

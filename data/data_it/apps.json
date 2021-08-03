@@ -4,21 +4,21 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "5.1",
-        "latest_crawl": 1627059900
+        "latest_crawl": 1627648004
     },
     {
         "id": "it.lispa.sire.app.mobile.allertalom",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.7.3",
-        "latest_crawl": 1627059910
+        "latest_crawl": 1627648009
     },
     {
         "id": "com.intellicare.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.19",
-        "latest_crawl": 1627059915
+        "latest_crawl": 1627648013
     },
     {
         "id": "com.siciliasicura.app",
@@ -32,7 +32,7 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.0.4",
-        "latest_crawl": 1627059924
+        "latest_crawl": 1627648019
     },
     {
         "id": "org.who.infoapp",
@@ -67,21 +67,21 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.6",
-        "latest_crawl": 1627060266
+        "latest_crawl": 1627648351
     },
     {
         "id": "eu.fbk.trec.apps.covid",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "0.4.15",
-        "latest_crawl": 1627060271
+        "latest_crawl": 1627648352
     },
     {
         "id": "it.adilife.covid19.app",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.1.5",
-        "latest_crawl": 1627060278
+        "latest_crawl": 1627648358
     },
     {
         "id": "it.pagopa.io.app",
@@ -110,13 +110,13 @@
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "2.0.0",
-        "latest_crawl": 1627060299
+        "latest_crawl": 1627648534
     },
     {
         "id": "it.oikos.pcaltalanga",
         "store_country": "it",
         "store_lang": "it",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1627060301
+        "latest_crawl": 1627648540
     }
 ]

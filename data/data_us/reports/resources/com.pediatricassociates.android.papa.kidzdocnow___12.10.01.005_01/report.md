@@ -188,6 +188,12 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 5 reviews"/>
 </p>
 
+> Saved us a trip to the doctors office. Thankful for the online Dr.<br> :date: __2021-07-29 17:35:02__
+
+> First time using was kind of nervous entering information, but everything worked out well. The system is very detailed about the wait time<br> :date: __2021-07-29 02:35:54__
+
+> Very convenient in lieu of visting a physical location.<br> :date: __2021-07-25 17:01:51__
+
 > Short waiting time. Quality audio and video. Definitely would rather use this instead of jumping in the car and driving to the doctors office.<br> :date: __2021-07-22 15:24:38__
 
 > Great experience!!!<br> :date: __2021-07-22 01:29:52__
@@ -201,12 +207,6 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 > I love the app<br> :date: __2021-07-12 11:57:16__
 
 > Fast and easy. The way of the future.<br> :date: __2021-07-07 22:08:51__
-
-> Good<br> :date: __2021-07-03 20:18:24__
-
-> Super convenient and easy to use.<br> :date: __2021-07-02 17:07:54__
-
-> There might be a wait, but absolutely love the care they give<br> :date: __2021-07-02 14:25:57__
 
 
 
@@ -276,6 +276,10 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 <img src="1_star_reviews_wordcloud.png" alt="com.pediatricassociates.android.papa.kidzdocnow 1 reviews"/>
 </p>
 
+> The app is nice, Great idea. But I was on hold for over 3 hrs with 4 different doctors and nurse practitioners. The first doctor never showed up, 2 nurse practitioners declined to see me and the 3rd didn't show up. I basically deleted the app and contacted my doctors office for an in person visit. The app was a waste of time.<br> :date: __2021-07-26 20:50:12__
+
+> Terrible. Waited for 3 hours to talk to a doctor for my sick son and finally gave up. I downloaded the livehealth app and got through in less than 5 minutes.<br> :date: __2021-07-25 20:03:01__
+
 > No respect to patient' appointment and time<br> :date: __2021-06-01 02:50:30__
 
 > Doesn't connect. Horrible tech support<br> :date: __2020-06-24 23:08:49__
@@ -291,9 +295,5 @@ The KidzDocNow app has been installed by more than **10000** times. At this time
 > Terrible. I have been in the waiting room for over an hour even though i had an app. A nurse assistant ask me a couple questions and then the nurse never talked to me and then I was just transferred to another dr. And I'm here still waiting. Bs<br> :date: __2020-02-07 05:32:04__
 
 > I rather physically take my children to the doctors office<br> :date: __2020-01-18 18:50:57__
-
-> The app is a great idea, but they do charge you for talking to the doctor most of them dont even know alot and for that i can take the time and go to the clinic<br> :date: __2019-11-13 07:59:07__
-
-> Overpriced. Classist. Our doctor's office plugs them. I downloaded the app and immediately deleted it when I saw there's a $59 copay even with insurance! Ridiculous.<br> :date: __2019-11-09 00:23:06__
 
 

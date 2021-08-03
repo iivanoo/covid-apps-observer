@@ -1,11 +1,59 @@
 [
     {
+        "reviewId": "gp:AOqpTOEoqMEa54DmZcF_aq3FplVy142wgzKjOuuTyWSQ17Q_KDe1221ErBpXIhMs41yTq1xo2Wl2p7BcSUaN3A",
+        "userName": "Francesca Isidori",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjNBlUb-7e6WMhqCFwhx58WP0cyR8ddXaD-RH_woH0",
+        "content": "Poco precisa",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-07-26 17:12:47",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGKaxrdysJT7tECR2tUJiQyVGOa3M6kuTO8FMOghmmantD29Q1_2frE_PyS_suxQ2vGg1uAuX0FH6Gr8Q",
+        "userName": "alessandra scoglio",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwZLycRmQgyCqxLrz2eWi31wBLNzYQOmCL4EDC1=mo",
+        "content": "Nella parte dedicata alle istruzioni ai cittadini, il link risulta rimosso. Poco utile avere l'allerta se poi mancano le istruzioni da seguire. Verificate che i link siano funzionanti",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-07-26 11:54:48",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFQ2MmU2n6daA_0kNVkxW0b86Cu4ZjrJZaREf9EAEOtPG98PJ_0_bhfMV6sh9qZyaLMdVOJcfZa8q4q_Q",
+        "userName": "jonlegnon jon",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwFlNgmoePRu5n4rdhu4TeXcxFEAq_TQf9b_V6C=mo",
+        "content": "pi\u00f9 lenta e malfunzionante di quest'app, c'\u00e8 solo quest'app",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-07-24 17:57:54",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFcYj3Xj4-xu7fwUCrz1wnhp_Q6tQcyQVMTXkdjWdtVsxA7N3QUblbaLNvv6Ds2yodM0E8ujRU_uOfJmQ",
+        "userName": "Mauree Gott",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gioifct87eRf4R4QIrr0Ecggub90e453J_6Dkc9",
+        "content": "Spesso la app su blocca all'apertura...",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.3",
+        "at": "2021-07-24 13:45:10",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOHYnXgkRMgHBjPa3GBumxzZJqyIS6e0Fy5VyjBUgxg3-e2RWrG4gkq8o26IjezDnZ8_SG1-1V_Hb6WbeA",
         "userName": "Matteo Ferrarese",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzC2HFPbj0_E5XPhoGJNOrTzO-f9Kn36sFHfbae=mo",
         "content": "Con l'ultimo aggiornamento si verifica un bug con \"lista zone\" e \"mappa\": Quando arriva un'allerta di qualisiasi entit\u00e0 (giallo rossa ecc, idro, vento ecc) l'app mostra sempre prima la lista zone e se voglio vedere la mappa questa risulta non visibile fino a quando mi sposto su un'altra categoria, a quel punto ricompare la mappa e tornando indietro viene caricata anche quella iniziale in allerta.(es allerta gialla per temporali>mappa bianca>mi sposto su allerta vento>torno su temporali>mappa)",
         "score": 2,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-07-15 12:48:38",
         "replyContent": null,
@@ -53,7 +101,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx2SExyOgK24E_gLo7f3uiBET8YwIDNS0nbc4Ct=mo",
         "content": "La disinstallo che non \u00e9 mai servita a niente. Ore 17 grandinata mega, ti arrivata in mattina il solito messaggio che non fa aprire l'app. Ma un servizio cone quello delle assicurazioni che ti avvisa all'istante in base a GPS o impostazioni da scegliere non ce l'avete? Che mi frega se fate una pappardella degli eventi della Lombardia, chi la legge? Poi la parte Covid stendiamo un velo pietoso. Soldi buttati",
         "score": 1,
-        "thumbsUpCount": 3,
+        "thumbsUpCount": 4,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-07-08 17:30:46",
         "replyContent": "Ciao,l'app permette di ricevere le allerte di Protezione Civile emesse dal Centro Funzionale Monitoraggio Rischi naturali, in previsione di eventi naturali con possibili danni sul territorio.Le notifiche sull\u2019emergenza permettono di ricevere aggiornamenti sul tema.Siamo spiacenti che la tua esperienza non sia stata all\u2019altezza delle tue aspettative",
@@ -137,7 +185,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgPizKW_V6b4nb44-Cjpn0xMW5TZw7hBdZ-01MOGA",
         "content": "Sempre stata un po' zoppicante ma adesso nn si apre nemmeno pi\u00f9. Mi \u00e8 arrivata una notifica, la avvio e... servizio attualmente nn disponibile, riprova pi\u00f9 tardi!! Penosa.",
         "score": 1,
-        "thumbsUpCount": 5,
+        "thumbsUpCount": 6,
         "reviewCreatedVersion": "1.7.3",
         "at": "2021-06-19 13:56:38",
         "replyContent": "Ciao Mauro, abbiamo inoltrato la segnalazione ai nostri sviluppatori, ti chiediamo maggiori dettagli in merito all'errore riscontrato invia screen e i passaggi seguiti a info.allertalom@ariaspa.it",
@@ -1513,7 +1561,7 @@
     },
     {
         "reviewId": "gp:AOqpTOFGoBUY3iiRRnq9-qKsIN4PgZcWU8VzsdoxqQXDweIdSRik9dfmo3yqDuzTTTXuNMXlhYSeQb8ZeozwLw",
-        "userName": "Antonio Pirrone",
+        "userName": "Toni Milano",
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgzUgknVLwGU9CpekHelA9e1iyCjcxCTjDFHba7kg",
         "content": "Un App molto ben sviluppata,ed utile per avere informazioni sicure sull'andamento della circolazione del Covid 19 nella tua citt\u00e0 e regioni italiane. Molto ben sviluppata,e di facile configurazione, fluida e completa di molte informazioni che possono essere utili. Con la possibilit\u00e0 di avere la situazione della circolazione del Coronavirus, tramite un sistema che ti mostra l'andamento della criticit\u00e0, durante le 24 ore della giornata. Con la legenda con i colori dell'incidenza dei contagi nelle",
         "score": 5,
@@ -1870,18 +1918,6 @@
         "at": "2020-08-28 17:17:22",
         "replyContent": "Grazie per la valutazione positiva!",
         "repliedAt": "2020-08-31 14:08:02"
-    },
-    {
-        "reviewId": "gp:AOqpTOElzrJmFfYChmGiT0A1tFsl4kZkl6d6M9mxcTinsqSTA1hN4vHDAVrD85O_cV5qEbjqmfnqp7xMcSi_qg",
-        "userName": "Nome Cognome",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwK7vXJb1BarBHwZM8jpL0Yj-eQl0X1nsGzY9Zs=mo",
-        "content": "Ottima, mi avvisa ogni volta che arriva un forte temporale.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.7.0",
-        "at": "2020-08-28 14:37:23",
-        "replyContent": "Grazie per averci lasciato il tuo feedback!",
-        "repliedAt": "2020-08-31 12:59:39"
     },
     {
         "reviewId": "gp:AOqpTOG6OpMYFlCy600pLtDWE6ry32hk_X-yA6NowChy0DPrnJq9yYsDr0K_gJ225YjAU_JBRXmCaAQ7xs7Ysg",
@@ -4406,7 +4442,7 @@
     {
         "reviewId": "gp:AOqpTOG2-LpbdOS3l23T92EPOT1wPY4A7IIO0njUiy0yzC_x2DBKq1azDlJHEoDwvu08a4uWDDzgTTX9qOsBaQ",
         "userName": "Carlo Dell'anna",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgL_wB7W87DZICw-mqeZ4uYI7ok0l0fFwo2zgVcDQ",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GibkXmrJcb_hpXbvpXyrQP4hYGC9Y1SrTsCLgAxkw",
         "content": "Ottima",
         "score": 5,
         "thumbsUpCount": 0,
@@ -8666,7 +8702,7 @@
     {
         "reviewId": "gp:AOqpTOHoF0D09orhmLYchixtqwBddqr0S8yQzaqQZaMaWdfXFb34BTwfFm5gZpnO0UNu0Nj67yDIbrtgG4S_NQ",
         "userName": "Dani Berg",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgkBL6u_3OmRpWD2399PT2yxI3_PhEdMZ0LSDZ_xg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhtLzjc5Q5y240DkVj4InHM9j3i5VGtBrgsxQvNrA",
         "content": "Visualizzo informazioni di tutti i tipi tranne quella relativa al virus. Non capisco l' utilit\u00e0 di questa applicazione se non mi informa di quello che succede intorno a me.",
         "score": 1,
         "thumbsUpCount": 0,
@@ -8810,7 +8846,7 @@
     {
         "reviewId": "gp:AOqpTOGAC1TQG4Uc3mi2cbebKGdCMOOMr17qSUjPKZ0uLO7t-OGIKImeOnJtY2GjQX95ASfwKEjCOi74pkKURQ",
         "userName": "Pierluigi Danesi",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gj5-Nh4CXk_0UObOSc286rNy0QQOW8K6WCf7B_OizM",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg28Lyxg31iLedeSFRy2sCHvoGdY9zgwGAI8Gcm928",
         "content": "Se la maggior parte delle volte nn funziona,dimostra che \u00e8 solo un app che si vuol far scaricare ma mal gestita!!?",
         "score": 3,
         "thumbsUpCount": 0,
@@ -11962,41 +11998,5 @@
         "at": "2020-04-16 17:45:24",
         "replyContent": "Ciao Luigi! Grazie della recensione!! Il nostro lavoro \u00e8 misurato anche in funzione delle vostre recensioni e valutazioni!!",
         "repliedAt": "2020-04-27 08:51:13"
-    },
-    {
-        "reviewId": "gp:AOqpTOG-cJZ27DVQpH8V7l707g5wWww7xvVrsuS3moEzHjdINAIXYaNqc5Cw7lfcJUWMcyn0vB79AARbqAKyLA",
-        "userName": "Andrea Coviello",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjIAP34gVOE-nJZdIYOjQrRobfh9lTIxhD7r5JKGw",
-        "content": "Ogni volta che la apro mi fa accettare la privacy e compilare un nuovo questionario sul coronavirus. Probabilmente server sovraccarichi, non riesce a salvare le informazioni. L'ho gi\u00e0 fatto tre volte oggi, ora la disinstallo, inutile se non dannosa. Aggiornamento del 16/4: sono passate settimane ma il problema rimane lo stesso, e non sono il solo a lamentarsene. Il pressappochismo con cui \u00e8 stata realizzata questa app \u00e8 agghiacciante, come possiamo dare fiducia a gente cos\u00ec?",
-        "score": 1,
-        "thumbsUpCount": 49,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:42:25",
-        "replyContent": "Ciao Andrea, ci piacerebbe migliorare la tua esperienza utente, scrivici a info.allertalom@ariaspa.it i tuoi suggerimenti e proveremo a soddisfare le tue richieste nei prossimi rilasci.",
-        "repliedAt": "2020-04-27 08:50:37"
-    },
-    {
-        "reviewId": "gp:AOqpTOFl56KFpKKULHGEhuvmy_TjDZdIwHyuDJ48EBOsn0D6SCayUKjmlts_5NfcxN_tCzxLH6ZOGdHXW7cLyg",
-        "userName": "marialuisa bosich",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwDUB3t_iIX8LtMynrcyB6S1liXh2nBrXWVleY7=mo",
-        "content": "App interessante ma incompleta per chi come me \u00e8 un volontario 118 e quindi si viene in contatto protetto con potenziali malati di covid 19",
-        "score": 2,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:41:51",
-        "replyContent": "Ciao Marialuisa, ci spiace che la tua esperienza con l'app non sia positiva. I suggerimenti per noi sono importantissimi e ci aiutano a migliorare il servizio offerto",
-        "repliedAt": "2020-04-27 08:47:19"
-    },
-    {
-        "reviewId": "gp:AOqpTOHcuK2VFtBUXLiXgD4xWuqs4rSKl6VW6xfQ_epEjhh-skBmIp-QS69aOTymatRAPN09OW9fnt7VpZrZ_Q",
-        "userName": "Giovanni Frignani",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhasldseA-trNEoFnvZ50PPZkiiTEESAqgh4Q-l",
-        "content": "Mi piasce voto 1",
-        "score": 1,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "1.5.0",
-        "at": "2020-04-16 17:40:24",
-        "replyContent": "Ciao, siamo spiacenti che la tua esperienza non corrisponda alle tue aspettative. Lavoreremo per migliorare!",
-        "repliedAt": "2020-04-27 08:46:44"
     }
 ]

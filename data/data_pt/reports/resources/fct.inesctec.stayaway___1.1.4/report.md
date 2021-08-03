@@ -249,6 +249,14 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="fct.inesctec.stayaway 1 reviews"/>
 </p>
 
+> Não consigo fazer o que pretendo,nao vale nada.<br> :date: __2021-07-29 20:24:14__
+
+> Após 1 ano de utilização é a APP mais inútil que já tive instalada. De todo o tempo utilizado nunca deu sinal de nada porque era somente útil se fosse usado em comunidade, coisa que não aconteceu porque foi inútil. Não obrigaram apresentação da mesma mas agora que os estrago está feito é que obrigam apresentar atestados disto e daquilo.<br> :date: __2021-07-29 13:06:21__
+
+> Não é nada útil<br> :date: __2021-07-28 22:18:36__
+
+> Sem utilidade, nem sequer pode armazenar o certificado de vacinação???<br> :date: __2021-07-24 05:50:36__
+
 > Horrível<br> :date: __2021-07-21 11:08:36__
 
 > Apareceu me que teve em contacto com um caso positivo ainda bem que era só o telemóvel e não eu<br> :date: __2021-07-19 18:31:51__
@@ -260,13 +268,5 @@ The STAYAWAY COVID app has been installed by more than **1000000** times. At thi
 > Desinstalei porque a app realmente não tem utilidade. Acho incrível que com uma pontuação de 2.6 na Play Stores, quem criou esta APP, não se preocupe em fazer chegar a opinião dos utilizadores, aos patrocinadores da mesma para tentarem perceber o que podem mudar. App criada e logo abandonada! Só para preencher espaço e dizerem que disponibilizam esta nulidade...<br> :date: __2021-07-15 01:49:08__
 
 > Se toda a gente do país tivesse está aplicação, e se os dados fossem mais rápidos, pois só 24h depois de a pessoa apanhar covid é que aparece o aviso. Isso torna a aplicação praticamente inútil. Eu ainda acho estúpido as pessoas que dão boas notas a está aplicação, dizerem que o problema é estar com a localização ativada, e que se fosse outras redes sociais não iria importar. Que ignorância e comparações idiotas 😒<br> :date: __2021-07-10 22:28:28__
-
-> Sem utilidade nenhuma. Um engodo validado pelo governo. Nunca está bem, requer o uso completo de todos os recursos de um smartphone, drenando energia, sem que funcione ou traga algo. Uma aplicação que requer a honestidade e boa vontade dos outros usuários. Quem teve ou tem covid ainda tem muito receio de dizer que teve. Quem tem, fica em isolamento, por isso para detectar teria de estar a infringir esse isolamento. E se já está a infringir, de certeza que não tem vontade em por na aplicação<br> :date: __2021-07-10 16:20:40__
-
-> Inutil<br> :date: __2021-07-10 13:32:46__
-
-> Não funciona<br> :date: __2021-07-09 18:43:55__
-
-> Esta aplicação é INÚTIL. Se permitisse o tratamento do certificado digital, possivelmente mereceria 2*. Vou desinstalar esta inutilidade que tem valor zero.<br> :date: __2021-07-09 11:24:37__
 
 

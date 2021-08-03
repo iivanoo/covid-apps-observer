@@ -197,6 +197,12 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="5_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 5 reviews"/>
 </p>
 
+> Very quick and easy<br> :date: __2021-07-29 15:52:38__
+
+> Fast, Easy to use. Friendly.<br> :date: __2021-07-27 20:15:25__
+
+> So easy to use, and so convemient!<br> :date: __2021-07-27 18:49:22__
+
 > Fast quick and complete appointments.<br> :date: __2021-07-22 18:43:07__
 
 > Good<br> :date: __2021-07-21 15:18:13__
@@ -210,12 +216,6 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Quick to get prescription in the comfort of my home!<br> :date: __2021-06-25 23:09:31__
 
 > Trifecta, of Treage Solutions!!!<br> :date: __2021-06-24 22:56:10__
-
-> Worked great, just like an in- person visit<br> :date: __2021-06-16 23:30:04__
-
-> Whereas my issue, I need to be seen by a doctor, anything like a cold, any issue that can be treated online, I very highly recommend.<br> :date: __2021-06-16 20:09:12__
-
-> No difference then going to the office<br> :date: __2021-06-12 14:58:20__
 
 
 
@@ -291,6 +291,8 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 <img src="1_star_reviews_wordcloud.png" alt="com.bcbsm.android.bcmi.onlinevisit 1 reviews"/>
 </p>
 
+> Frustrating error when you trying to see visit summary. No any proof of prescription been sent to pharmacy or not. Error in app: Preview for Visits Summaries is not available. Visit Summaries are available through the message center on your web account.<br> :date: __2021-07-29 18:32:21__
+
 > Look up numbers, lose place and have to start over. Worthless.<br> :date: __2021-06-08 16:39:17__
 
 > Terrible and extremely disappointing. I had a skin issue and sent photo ahead of time to clinician I selected. She didn't seem to know why I was needing help despite my stating it on questionnaire nor did she receive photo sent. We got cut off within about a minute, and she never called me back. It was a one hour waste of my time loading app, signing up account and filling out medical info, and waiting for appt to begin.<br> :date: __2021-04-08 00:11:27__
@@ -308,7 +310,5 @@ The BCBSM Online Visits app has been installed by more than **50000** times. At 
 > Had no video, even after several attemps.<br> :date: __2020-09-06 23:08:31__
 
 > Took a while to connect with the doctor. The appointment was really rushed and I was prescribed a medicine that didn't make sense. I called customer support to try to get info on why I was prescribed the certain medicine and was told I had to "take it or leave it or call a different doctor". Tried calling a different physician and the physician declined my call. I would rather go to ready care.<br> :date: __2020-07-03 21:36:58__
-
-> This tool has failed me twice now, trying again tomorrow. Your tech support said my end was fine, it on yours. It is not conducive to ones mental health to experience these failures when trying to get better. I could lose my job if I don't get to speak to a doctor soon.<br> :date: __2020-06-17 13:37:42__
 
 

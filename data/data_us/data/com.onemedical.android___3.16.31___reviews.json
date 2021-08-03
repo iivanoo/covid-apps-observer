@@ -1,5 +1,89 @@
 [
     {
+        "reviewId": "gp:AOqpTOE3Mssbck8X79B6GRXcWe5fMu36LQhJZMO5EFgZ7-SS2UoV_74EiQFFDsntI3Dih1k0eJj5UztqEc24JKE",
+        "userName": "ricardo espiritu",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgiUMmZkL_BzjVko1bBHrdHgh_8g5EoJ5Pe7j0w",
+        "content": "Terrible user interface, whenever try to upload my insurance card the quality of the picture is terrible and the image is extremely blurry.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.31",
+        "at": "2021-07-29 20:58:32",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOH93ECkjFnAQ_pzBUCR5oJbd4IoikHHjO78nx6YUAGQ0G94pW4tg5RPCmEvNMwgI30HWzfzgR5t2V_KEtU",
+        "userName": "Mint Iannucci",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgTKEvRhKAnlJ93nN45iDEwmq1DMTWI1km7Me5WjQ",
+        "content": "Love the service but the app is now glitchy. Every time I get a notification and click the notification, the app is frozen and I can't do anything. I have to close it and reopen the app not from the notification and it works fine. It's a good service and app otherwise but please fix the bug. I have a Pixel 3a",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.31",
+        "at": "2021-07-29 18:45:11",
+        "replyContent": "Hi there, so sorry to hear this. If you message these details to techsupport@onemedical.com our team can look into what is going on",
+        "repliedAt": "2021-07-29 18:52:19"
+    },
+    {
+        "reviewId": "gp:AOqpTOFh3vv7RMDsfaz5zbIfyhx8-qVe984Y6rmuaZjXjserSYdV7fMXP8bovaNi_6p9xqgJuRbxeYOBri-mnb8",
+        "userName": "Araceli Navarrete",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GigKHCoOZtY2zrtJ9j6mLMYkMeAZMnFMV_HbzjhxQ",
+        "content": "There when I need them!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.31",
+        "at": "2021-07-29 07:19:58",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEuc6bhMU4dF4SXXfO3VXbOJUla2ERTP0q3lezQOpvnMTGeLQvU6Dt9I3sT1WNFjacygvg-gBt1JeuPKwA",
+        "userName": "Emily Bragg",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhBK2Gj1V4irKCWwlcAy0oW5548Zjo5NH74kKEALw",
+        "content": "Fast and effective.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.31",
+        "at": "2021-07-28 22:33:31",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEzn_refewWSVUfOO6lvfPEr4adrhPDoOneJIts6GDSAKGcKMpuMc1Q79EnHT-NVHegXULViaYfLhcx40g",
+        "userName": "max max",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJy368h__3Z96qqmS8UIZbZ8afld1PMyQeST_1b6=mo",
+        "content": "acer laptop, core i5, updated win 10, plenty memory, minimal OTHER app usage... sole internet connect+ of cat5 cable direct to new FIOS modem and that direct to interface. bad bad bad. one med app. ugh. already have basilar migraine.my PCP and One Med team are awesomely fine...the app is awesomely NOT. no wish for developers reply ...just fix the thing. thanks...I[<CONDITIONAL TO ...] . . FIXING",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-28 19:53:57",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHS94WPKhWnklswbJsUL4Sx2-DJN9ACUsPV1qz2aMZYIO9fCZ94xZujKVYEMgMhoVWAWWYay_PgLBoTJBc",
+        "userName": "Melanie Murn",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxuRAjUFE2eCn6gFf9B5fCDlRzLug2u5cyeVbOU=mo",
+        "content": "Slow! But practitioner was pleasant.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.31",
+        "at": "2021-07-27 20:15:14",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEvGzWDQyHJnXAzSoB2cXuqQISgNiibXPhU3H2ymHf1FL8JwFLvWFCGIxFiegNHHk7dz8jpDlJ8waCxNuw",
+        "userName": "Andrew Davis",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GhwH-ea6xj13V6INaN1IF2BkkUETp4in6uRa6jt5yI",
+        "content": "$500 for a 30 minute appointment",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.16.31",
+        "at": "2021-07-25 04:26:43",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOE41bAXQwOGZ_U8cUz9DA1sb8Z-sAXdXI9LsCOeTDjaU9zaIcszl0rTQp05N3f0xrJhFR-Gl1K5_TuMz34",
         "userName": "Nicole Maclean",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJwH5cnJbIcg00lmJEElXvl3zxlushKAoLP1otMz=mo",
@@ -350,7 +434,7 @@
     {
         "reviewId": "gp:AOqpTOGXebUXkyeEnzs_ynlN-flAsSasT99dG2D7R6D2wDjXr4LmATYP86IgvF0GzHY9ZZ5edVAfRiC7r2SlFE8",
         "userName": "Maria Tuzzo Saliba",
-        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgVVAM87Gr_hU1msUBX4Wo77X2kDDmuZdEzoyWFEAI",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GiRJdQmYry35Mzlh3sx_HXOm6Xb8E9Fny7JbLU6RLw",
         "content": "I was able to call and speak with a Heath practioner late at night when I was in pain from an ulcer. But I couldn't find that service on the app on my computer",
         "score": 5,
         "thumbsUpCount": 0,
@@ -1532,18 +1616,6 @@
         "thumbsUpCount": 6,
         "reviewCreatedVersion": "3.16.6",
         "at": "2020-08-26 18:43:08",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOHS94WPKhWnklswbJsUL4Sx2-DJN9ACUsPV1qz2aMZYIO9fCZ94xZujKVYEMgMhoVWAWWYay_PgLBoTJBc",
-        "userName": "Melanie Murn",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxuRAjUFE2eCn6gFf9B5fCDlRzLug2u5cyeVbOU=mo",
-        "content": "Pleasant, efficient.",
-        "score": 5,
-        "thumbsUpCount": 0,
-        "reviewCreatedVersion": "3.16.5",
-        "at": "2020-08-22 01:04:23",
         "replyContent": null,
         "repliedAt": null
     },

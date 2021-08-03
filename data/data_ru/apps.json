@@ -4,14 +4,14 @@
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "3.14.1.7",
-        "latest_crawl": 1627070636
+        "latest_crawl": 1627659767
     },
     {
         "id": "ru.mos.app",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "2.4",
-        "latest_crawl": 1627070642
+        "latest_crawl": 1627659775
     },
     {
         "id": "org.who.infoapp",
@@ -25,7 +25,7 @@
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "2.0.1",
-        "latest_crawl": 1627070789
+        "latest_crawl": 1627659909
     },
     {
         "id": "de.xikolo.openwho",
@@ -39,21 +39,21 @@
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "3.0.0",
-        "latest_crawl": 1627070884
+        "latest_crawl": 1627660004
     },
     {
         "id": "com.minsvyaz.gosuslugi.stopcorona",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "1.1.2-gms",
-        "latest_crawl": 1627070893
+        "latest_crawl": 1627660014
     },
     {
         "id": "com.socmedica.coronastop",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "1.0.1",
-        "latest_crawl": 1627070898
+        "latest_crawl": 1627660017
     },
     {
         "id": "com.vjet.covid",
@@ -67,34 +67,34 @@
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "2.1.3",
-        "latest_crawl": 1627071373
+        "latest_crawl": 1627660025
     },
     {
         "id": "com.midkk",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "0.6",
-        "latest_crawl": 1627071486
+        "latest_crawl": 1627660028
     },
     {
         "id": "ru.talenttech.yaok",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "1.52",
-        "latest_crawl": 1627071488
+        "latest_crawl": 1627660030
     },
     {
         "id": "com.miacugra.telemed",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "1.14.77",
-        "latest_crawl": 1627071493
+        "latest_crawl": 1627660031
     },
     {
         "id": "com.minsvyaz.gosuslugi.exposurenotificationdroid",
         "store_country": "ru",
         "store_lang": "ru",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1627071500
+        "latest_crawl": 1627660040
     }
 ]

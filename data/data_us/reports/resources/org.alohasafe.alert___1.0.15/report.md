@@ -142,8 +142,6 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 
 > ssamyaccount.<br> :date: __2021-07-20 01:17:39__
 
-> Gratitude for help<br> :date: __2021-07-03 07:18:19__
-
 > Take Dam Let Use<br> :date: __2021-06-25 16:54:52__
 
 > It didn't dectect any virus so far.<br> :date: __2021-06-25 07:41:40__
@@ -159,6 +157,8 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 > Elpata<br> :date: __2021-03-06 05:23:14__
 
 > Good<br> :date: __2021-03-05 19:33:27__
+
+> Keeps me in peace of mind.<br> :date: __2021-03-02 03:43:03__
 
 
 
@@ -187,6 +187,8 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="org.alohasafe.alert 3 reviews"/>
 </p>
+
+> Nice concept but only 100,000 people have the app and there are 1.45 million (2020) people in hawaii so it is very unlikly you will get an alert.<br> :date: __2021-07-30 05:30:43__
 
 > Can't operate on my phone<br> :date: __2021-04-28 22:45:21__
 
@@ -232,6 +234,8 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 <img src="1_star_reviews_wordcloud.png" alt="org.alohasafe.alert 1 reviews"/>
 </p>
 
+> Not necessary for traveling to Maui. Not sure why they make it seem like it is, but not cool.<br> :date: __2021-07-28 21:05:42__
+
 > It requires Bluetooth to be on so it completely drains my phone battery.<br> :date: __2021-07-03 04:06:47__
 
 > I dont remember downloading these...<br> :date: __2021-07-03 03:58:26__
@@ -249,7 +253,5 @@ The AlohaSafe Alert app has been installed by more than **100000** times. At thi
 > Doesn't work. My partner and I kept bluetooth on always. When he got COVID he reported it to the app with the code and I never got notified from the app, despite the fact that we live together.<br> :date: __2021-04-05 03:27:04__
 
 > I cant get it to open.<br> :date: __2021-03-30 20:29:43__
-
-> Stupid<br> :date: __2021-02-03 18:15:43__
 
 

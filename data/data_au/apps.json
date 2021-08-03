@@ -4,7 +4,7 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "2.8",
-        "latest_crawl": 1627071561
+        "latest_crawl": 1627660106
     },
     {
         "id": "org.who.infoapp",
@@ -18,14 +18,14 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "1.4.10",
-        "latest_crawl": 1627071703
+        "latest_crawl": 1627660241
     },
     {
         "id": "com.myaus",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "48",
-        "latest_crawl": 1627071710
+        "latest_crawl": 1627660242
     },
     {
         "id": "de.xikolo.openwho",
@@ -60,21 +60,21 @@
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "1.1.6",
-        "latest_crawl": 1627072159
+        "latest_crawl": 1627660824
     },
     {
         "id": "com.healthengine.android",
         "store_country": "au",
         "store_lang": "en",
-        "latest_crawled_version": "7.8.2",
-        "latest_crawl": 1618735449
+        "latest_crawled_version": "7.12.0",
+        "latest_crawl": 1627660826
     },
     {
         "id": "au.com.vodafone.dreamlabapp",
         "store_country": "au",
         "store_lang": "en",
         "latest_crawled_version": "3.2.1.2909",
-        "latest_crawl": 1627072465
+        "latest_crawl": 1627660836
     },
     {
         "id": "au.gov.vic.premiersactiveapril",

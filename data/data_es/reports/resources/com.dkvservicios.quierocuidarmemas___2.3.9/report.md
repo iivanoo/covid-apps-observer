@@ -216,6 +216,10 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="5_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 5 reviews"/>
 </p>
 
+> Genial<br> :date: __2021-07-29 11:24:15__
+
+> Gran atención y muy rápida<br> :date: __2021-07-27 07:44:33__
+
 > Hablé con la médico para hacer una consulta y la solucióno perfectamente<br> :date: __2021-07-20 07:28:56__
 
 > Muy buena, me han atendido por videollamada y ha sido muy cómodo y rápido. Han incluido la receta para solucionar el problema y me ha resultado todo muy fácil.<br> :date: __2021-07-19 09:25:20__
@@ -231,10 +235,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Fue muy buena la consulta virtual, muy aclaratoria y continuaré con pruebas sugeridas por la Dra. para tener seguimiento de mi mejora posteriormente.<br> :date: __2021-06-17 11:23:38__
 
 > Muy buena<br> :date: __2021-06-14 18:36:10__
-
-> Muy rapidos en contestar<br> :date: __2021-06-14 10:43:52__
-
-> Todo genial 😊<br> :date: __2021-06-10 11:59:15__
 
 
 
@@ -272,6 +272,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <img src="3_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 3 reviews"/>
 </p>
 
+> Reescribo la reseña porque ce han puesto en contacto para explicarme algo de lo dicho y es de agradecer y además están solicionando las cosas. Me indican que la huella dactilar se desconfigura se cierras la app, y que de momento no se puede sincronizar con aGoogle fit. Vamos mejorando.<br> :date: __2021-07-27 22:44:59__
+
 > Ya me lo resoovieron gracias<br> :date: __2021-07-22 13:50:35__
 
 > Estaría bien poder ver tus recibos y el estado de los mismos de las cuotas del seguro<br> :date: __2021-07-02 11:10:43__
@@ -300,8 +302,6 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 
 > Se corta continuamente<br> :date: __2021-07-13 10:39:16__
 
-> Fallan algunas cosas, la huella dactilar se descconfigura , al intentar poner una cuenta de Google fit no logro hacerlo, a ver si corrigen estos errores en Android y les daré más puntuación. La interfaz de la app es bastante justa.<br> :date: __2021-07-09 20:32:14__
-
 > Al intentar pedir cita se cierra automáticamente la aplicación y no puedo hacer la gestión. La idea es buena, pero en la práctica aún no funcionan todas las opciones<br> :date: __2021-07-07 10:45:10__
 
 > Funciona regular<br> :date: __2021-06-29 23:25:16__
@@ -318,6 +318,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 
 > LLevo como 10 llamadas,no solo para la app quiero cuidarme mucho que no hace nada de lo que dicen en la informacion,en mi área cliente cuando intento abrir cuadro medico me da solo la opcion de fisioterapeuta ¡¡¡¡¡,en la pagina DKV Famedic,aun no he conseguido entrar y ya he pagado 2 meses de cuota y he puesto a soporte 3 correos y he llamado a 3/4 telefonos y nadie me soluciona nada,Madrid,Jerez,Barcelona etc etc.....muchas deficiencias en el soporte informatico,empezamos mal si no puedes localizar ya el medico al que acudir......<br> :date: __2020-12-08 14:29:12__
 
+> Muy mala app poco amigable<br> :date: __2020-11-23 09:59:56__
+
 
 
 #### 1-star reviews
@@ -325,6 +327,8 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="com.dkvservicios.quierocuidarmemas 1 reviews"/>
 </p>
+
+> No carga. Se pueden poner estrellas negativas? Se las merecen todas<br> :date: __2021-07-28 23:17:53__
 
 > Busco en el cuadro médico un doctor en Valladolid y me salen en Barcelona. Qué tengo que hacer para que me salga en Valladolid?<br> :date: __2021-07-23 01:52:08__
 
@@ -343,7 +347,5 @@ The DKV Quiero cuidarme Más: tu salud y médicos online app has been installed 
 > Atención al cliente NEFASTA. Te tienen de un teléfono de pago a otro como un bobo, con unos tiempos de espera RIDICULOS y después ENCIMA te cuelgan ellos y te dejan hablando SOLO.<br> :date: __2021-06-08 19:20:28__
 
 > La aplicación tiene muchos usos, está muy bien planificado pero cuando uno está en las citas médicas las llamadas se cortan, esta es la 2vez que me pasa y no es problema de mi Internet, porque justo para evitar esa situación tengo el módem a mi lado literalmente a mi lado, luego sale conectando por buen rato, voy a la carpeta médica y el médico pone que me ha llamado 3 veces y que no he contestado y yo en shock, porque el sms que sale es que "el profesional a terminado la llamada. Entonces???<br> :date: __2021-06-01 17:47:08__
-
-> La peor APP que he usado. Me voy a dar de baja como asegurado. No consigo cita nunca ni me atienden, sólo se pasan el balón de uno a otro. Busquen otra aseguradora, se los recomiendo.<br> :date: __2021-05-31 13:32:24__
 
 

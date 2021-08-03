@@ -202,6 +202,8 @@ The Leisure for Life app has been installed by more than **10000** times. At thi
 <img src="5_star_reviews_wordcloud.png" alt="com.innovatise.rctcbc 5 reviews"/>
 </p>
 
+> Grest easy to.use<br> :date: __2021-07-26 11:10:07__
+
 > My first ever time swimming at Abercynon today. What a wonderful welcome! The staff were incredibly friendly, well informed and proffesional. Sarah on reception was an absolute star!I spoke to her this afternoon over the telephone, I could not believe how helpful she was talking me through directions, and my options. So refreshing to meet such lovely people there today. "Salt of the earth" springs to mind. All staff were polite, respectful and patient. Thankyou all so much! Lauren Miller<br> :date: __2021-05-06 20:50:07__
 
 > Fantastic<br> :date: __2020-12-20 19:56:08__

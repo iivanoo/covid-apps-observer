@@ -254,6 +254,8 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 <img src="1_star_reviews_wordcloud.png" alt="com.intellicare.covid 1 reviews"/>
 </p>
 
+> E possibile che ogni volta che si installa un app, richiedete il permesso sulla scheda sd<br> :date: __2021-07-28 19:13:40__
+
 > Ottima idea, ma merita una segnalazione all'autorità per la protezione dei dati personali: perché deve poter accedere a foto e contenuti multimediali dell'utente, a chi interessano le mie foto con il gatto o i filmati mentre gioco con il cane del vicino ? E se non si concede l'accesso non puoi fruire del servizio di assistenza sanitaria. Ma chi approva la messa in linea di questi scalcinati e subdoli prodotti ?<br> :date: __2021-05-09 13:27:37__
 
 > L app chiede l abilitazione via sms ,clicco sul link ma poi l app non viene abilitata<br> :date: __2021-04-27 11:35:23__
@@ -271,7 +273,5 @@ The LAZIOdrCovid app has been installed by more than **100000** times. At this t
 > Non capisco a cosa possa servire un'app di pubblica utilità come questa quando poi non ha nessuna interazione con chi la installa (per ovvi motivi), tanto vale continuare a mandare messaggi al mio medico di base<br> :date: __2021-03-27 16:26:41__
 
 > NON FUNZIONA!!!!!!<br> :date: __2021-03-26 16:38:37__
-
-> non funziona, dovrebbe arrivare una email con un link per l'attivazione che non è mai arrivato.<br> :date: __2021-03-19 09:34:20__
 
 

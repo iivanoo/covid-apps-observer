@@ -1,0 +1,50 @@
+[
+    {
+        "name": "europa.eu",
+        "registrar": "Proximus nv/sa",
+        "registrant": "",
+        "registrar_country": "",
+        "registrant_country": "",
+        "creation_date": null,
+        "expiration_date": null,
+        "last_updated": null,
+        "status": "",
+        "statuses": [
+            ""
+        ],
+        "name_servers": "set()"
+    },
+    {
+        "name": "snomed.info",
+        "registrar": "GoDaddy.com, LLC",
+        "registrant": "IHTSDO",
+        "registrar_country": "",
+        "registrant_country": "GB",
+        "creation_date": "2001-09-13 05:40:58",
+        "expiration_date": "2025-09-13 05:40:58",
+        "last_updated": null,
+        "status": "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "statuses": [
+            "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+        ],
+        "name_servers": "{'ns-cloud-d3.googledomains.com', 'ns-cloud-d1.googledomains.com', 'ns-cloud-d4.googledomains.com', 'ns-cloud-d2.googledomains.com'}"
+    },
+    {
+        "name": "loinc.org",
+        "registrar": "Google LLC",
+        "registrant": "Contact Privacy Inc. Customer 124813267",
+        "registrar_country": "",
+        "registrant_country": "CA",
+        "creation_date": "2000-01-14 16:04:24",
+        "expiration_date": "2022-01-14 16:04:24",
+        "last_updated": null,
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "statuses": [
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+        ],
+        "name_servers": "{'ns-cloud-c1.googledomains.com', 'ns-cloud-c3.googledomains.com', 'ns-cloud-c2.googledomains.com', 'ns-cloud-c4.googledomains.com'}"
+    }
+]

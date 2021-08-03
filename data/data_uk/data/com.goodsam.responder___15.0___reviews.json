@@ -1,5 +1,17 @@
 [
     {
+        "reviewId": "gp:AOqpTOGWZnNIbQesnHVdByKmmLJouuEd8FHOt_s2W6pUVvtTtG80r6zdhJHC4MLkJ9sG8ZHV8xrXn1siuOzcQg",
+        "userName": "Paul Snell",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gg6i1LkDcXOqrJerk3yMxOyFmH2OQuaxpChGoqzwg",
+        "content": "Need the ability to filter future tasks, eg only show Saturdays, only show within 10km etc",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null,
+        "at": "2021-07-27 17:58:56",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
         "reviewId": "gp:AOqpTOEDOgYVNJeBQwZaubsd54MRHjUMD6MMQw9ak50g2kDTkQd-kz-ZI34DgJ4vTlauCFiOkfR581UDYsppQw",
         "userName": "Brian Grove",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyIIlK1HiwS1fM-5Kh2I6-Dl06rZ7xroyowuPhQ=mo",
@@ -17,7 +29,7 @@
         "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GjQZCxjdAjp4sqHkpxshY86IWzne3ELDUBMs2fLZg",
         "content": "App keeps stopping, despite setting the two \"don't kill me\" optimization settings under Battery. Symptom is on-duty persistent notification disappears, then no tasks until I re-run the app.",
         "score": 4,
-        "thumbsUpCount": 0,
+        "thumbsUpCount": 1,
         "reviewCreatedVersion": "15.0",
         "at": "2021-07-18 11:48:22",
         "replyContent": "Dear Richi, whether you are alerted/tasked or not depends on the roles you have applied for, the organisation which you have choose to be under and the nearby tasks/needs. There isn't much we can do as the technology provider to please you in this case, sorry about that.",
@@ -2330,7 +2342,7 @@
     {
         "reviewId": "gp:AOqpTOGkCwVkIngoBV1ztJo78dBA_QV87ONkq9NyLn0BsFbB5IAazOOS4cQq4wvJ7MZ8j0XJKNe8mZ4OC9q1XQ",
         "userName": "Claire Saunders",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyPEqVaHrVNzQCtxjC_JlKpZvYHy21roek-qTmC=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14GgK2UIAlWIqM9rEdiPm_a43pPajbNluOGJ2-od9sg",
         "content": "Well after not bothering to log on much over the summer due to never being called on, I received an email saying more people were needing help. Plus I felt I should do something to say thank you for early access to the Track and Trace app. I logged on half an hour ago and just had my first call! She's already received help from a neighbour but was very grateful for the call.",
         "score": 4,
         "thumbsUpCount": 0,
@@ -2918,7 +2930,7 @@
     {
         "reviewId": "gp:AOqpTOGWsQPucNCGsT_F_nfB6UFQGbq3EDsrqJ6SI6QSMr1QyilJTLLTpO_gUUCqtDRmS3hmUVSDqvCYRMiPsQ",
         "userName": "Elmsy",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJx7PyNjdl_lYpjwS20IRzibZ2-DXnX6J7Ljrt6ixIE=mo",
+        "userImage": "https://play-lh.googleusercontent.com/a-/AOh14Gim7KcF32XQl0wDeE-A8eFGFYK6az1yx9UPnpTNNow",
         "content": "Never had an issue with the app. I use the OHCA responder as not signed up for the NHS voluntary scheme. One glitch I do need help with. I cannot upload photo or position if a community defib. Have tried on 2 phones. Both have location and tags unlocked. But no joy. Any ideas. For those below who are not happy with the app. Keep trying. Be patient. This app has saved lives around the world. It was a steep climb for the design team to go from out of hospital cardiac arrest to what it is now",
         "score": 5,
         "thumbsUpCount": 4,
@@ -8557,7 +8569,7 @@
     },
     {
         "reviewId": "gp:AOqpTOEbzCtrjFgWFIwq_58W0-Oe7lTJBnCbTWQJWcoC5nBmFRaA_ODRu4RR3ErXl_DfkwbLwqlPq7KrVvnlsQ",
-        "userName": "Allison Fordyce",
+        "userName": "A FE",
         "userImage": "https://play-lh.googleusercontent.com/a/AATXAJyJjNryG42qiPkECD5s2putoS9W3DZtHbVrQZZw=mo",
         "content": "Downloaded app only to find it ' hiding' on my phone and cannot locate it despite vigorous effort. Infuriating reading all these reviews to find the NHS missing out on much-needed support due to a technicality.",
         "score": 2,
@@ -11984,18 +11996,6 @@
         "thumbsUpCount": 2,
         "reviewCreatedVersion": "6.9",
         "at": "2017-11-24 18:16:56",
-        "replyContent": null,
-        "repliedAt": null
-    },
-    {
-        "reviewId": "gp:AOqpTOFz98PZ0Jy4eOKmfiVxwLUdEqVc8TywTt_EqYne58T9_nSzUfq4nBFhjLYdawS3zhAAxUcOKCvlsfgZvg",
-        "userName": "David Hogan",
-        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJzQraIHTxdwXq52iUMd3loM04ONZf3K_vtnAMIE=mo",
-        "content": "Still very buggy unfortunately",
-        "score": 1,
-        "thumbsUpCount": 1,
-        "reviewCreatedVersion": "6.9",
-        "at": "2017-09-24 14:45:13",
         "replyContent": null,
         "repliedAt": null
     }

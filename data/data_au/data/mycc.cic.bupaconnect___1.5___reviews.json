@@ -1,0 +1,26 @@
+[
+    {
+        "reviewId": "gp:AOqpTOHRdYwqvJI3N9LnyCfUc2SEExobRNvyCS6fje5OE7VaptsrhEZyFkeFGVB00cWjGmvqRbw37G6zbSxkSg",
+        "userName": "Salman RaFii",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJxnaG67x6RIji_9eYJScyajKPRy5vAFBm6z5MAl=mo",
+        "content": "Good",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null,
+        "at": "2021-03-24 20:11:38",
+        "replyContent": null,
+        "repliedAt": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHbJEA87IbzhrModI9UInyF9AZIciE_GOY2ZP2CDqn_P6XKJ-GSN-mQ6NgiLnRoimPcLa5UiPiKxgdN3w",
+        "userName": "James Stewart",
+        "userImage": "https://play-lh.googleusercontent.com/a/AATXAJweeGVYmIkPKvWUFtTc90LnWwF2DTY2m6_JIQbP=mo",
+        "content": "Very good. James.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0",
+        "at": "2020-04-16 22:18:04",
+        "replyContent": null,
+        "repliedAt": null
+    }
+]

@@ -249,6 +249,10 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="org.pathcheck.covidsafepathsBt.mn 1 reviews"/>
 </p>
 
+> Installed itself on my phone - predatory junk.<br> :date: __2021-07-28 08:40:22__
+
+> Does not open on my OnePlus 9 Pro.<br> :date: __2021-07-27 18:10:28__
+
 > Stop asking me to install this via Google Play Services!!!!!!!!!! Downloads multiples files every day, there is no settings I have limited data, there's no option to wait on the updates. I have Limited data each month. Give us the option to download these files for the app when we are ina Wi-Fi spot..I don't want to use my cellular data all the time, give us the ability to stop auto downloads till we get to wifi spot.<br> :date: __2021-07-23 06:51:52__
 
 > The app just doesn't work very well and doesn't have a friendly user interface. Don't get if around 60+ years old.<br> :date: __2021-07-17 03:20:55__
@@ -264,9 +268,5 @@ The COVIDaware MN app has been installed by more than **100000** times. At this 
 > Tired of the constant notifications that it's checking for exposures with no option to turn that notification off without turning off exposure notifications. This is getting deleted.<br> :date: __2021-05-07 17:05:14__
 
 > There's a bug that occasionally causes this app to check for exposures about once a minute nonstop.<br> :date: __2021-04-29 07:23:17__
-
-> It keeps checking exposures every 2 minutes<br> :date: __2021-04-27 17:39:43__
-
-> It does not work<br> :date: __2021-04-13 21:23:16__
 
 

@@ -11,21 +11,21 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "4.1",
-        "latest_crawl": 1627068611
+        "latest_crawl": 1627657518
     },
     {
         "id": "cat.gencat.mobi.StopCovid19Cat",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.1.1",
-        "latest_crawl": 1627068618
+        "latest_crawl": 1627657522
     },
     {
         "id": "cat.gencat.mobi.confinApp",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.0",
-        "latest_crawl": 1627068620
+        "latest_crawl": 1627657529
     },
     {
         "id": "es.gva.responde",
@@ -39,14 +39,14 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.0",
-        "latest_crawl": 1627068625
+        "latest_crawl": 1627657536
     },
     {
         "id": "es.gva.coronavirus",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.2.0",
-        "latest_crawl": 1627068626
+        "latest_crawl": 1627657543
     },
     {
         "id": "es.gob.asistenciacovid19",
@@ -67,35 +67,35 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.6",
-        "latest_crawl": 1627068755
+        "latest_crawl": 1627657669
     },
     {
         "id": "es.gob.radarcovid",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.4.1",
-        "latest_crawl": 1627068759
+        "latest_crawl": 1627657672
     },
     {
         "id": "es.juntadeandalucia.msspa.saludandalucia",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "3.0.1",
-        "latest_crawl": 1627068761
+        "latest_crawl": 1627657679
     },
     {
         "id": "com.appandabout.defusing",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.9",
-        "latest_crawl": 1627068768
+        "latest_crawl": 1627657689
     },
     {
         "id": "com.dkvservicios.quierocuidarmemas",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.3.9",
-        "latest_crawl": 1627068773
+        "latest_crawl": 1627657691
     },
     {
         "id": "com.asist.prof.covid19.app",
@@ -107,21 +107,21 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.2.4",
-        "latest_crawl": 1627068856
+        "latest_crawl": 1627657777
     },
     {
         "id": "com.teckelmedical.mediktor",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "6.0.3",
-        "latest_crawl": 1627068857
+        "latest_crawl": 1627657786
     },
     {
         "id": "studiogenesis.es.emergenciatarragona",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.6",
-        "latest_crawl": 1627068867
+        "latest_crawl": 1627657787
     },
     {
         "id": "com.hepitracker.covid19",
@@ -138,27 +138,27 @@
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.1.7",
-        "latest_crawl": 1627068878
+        "latest_crawl": 1627657805
     },
     {
         "id": "com.lantik.bizkaiup",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "2.0.1",
-        "latest_crawl": 1627068882
+        "latest_crawl": 1627657813
     },
     {
         "id": "com.app_d45568.layout",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.3",
-        "latest_crawl": 1627068888
+        "latest_crawl": 1627657820
     },
     {
         "id": "gal.xunta.covidpass",
         "store_country": "es",
         "store_lang": "es",
         "latest_crawled_version": "1.0.5",
-        "latest_crawl": 1627068890
+        "latest_crawl": 1627657829
     }
 ]

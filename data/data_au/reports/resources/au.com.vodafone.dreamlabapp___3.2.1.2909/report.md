@@ -155,25 +155,25 @@ The DreamLab app has been installed by more than **1000000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 5 reviews"/>
 </p>
 
+> An amazing app where you can help find treatments for Cancer and Covid-19 and possibly help save lives. It hasn't affected my battery yet after 68 days worth of use. I only wish everyone used it on their phone.<br> :date: __2021-07-30 09:16:43__
+
+> Easy to set-up and then it does its thing without any further intervention. Great to know I am helping solve these difficult projects.<br> :date: __2021-07-29 23:49:24__
+
+> EXCEPTIONAL.<br> :date: __2021-07-29 14:46:15__
+
+> Fight #covid<br> :date: __2021-07-26 22:59:14__
+
+> Happy to help.<br> :date: __2021-07-24 17:03:19__
+
+> Great app to assist universities and other institutions with peer support.<br> :date: __2021-07-24 13:08:05__
+
+> Odd that there's a new project (AIRC Cell Identity Hunter) that says "Update to power", and yet, the newest version of the app is from the 23rd of November last year... Said project will remain at 0% until whatever version of the app it's expecting is actually pushed out.<br> :date: __2021-07-24 02:02:37__
+
 > Solar so good<br> :date: __2021-07-22 11:49:42__
 
 > The accrued satisfaction exceeds the frisson garnered from being a benfactrice, the essential progress in research is a reward that enriches everyone.<br> :date: __2021-07-21 13:22:29__
 
-> Very Good. What more can one say!<br> :date: __2021-07-14 09:23:01__
-
 > Number crunching for good causes whilst you sleep is great karma. Just be warned that all that processing does mean your battery won't charge as quick or even at all if using a low power charger.<br> :date: __2021-07-14 08:24:40__
-
-> Great app, there's just one problem I have to mention; on the Galaxy S20 when 120hz is enabled and a project is being powered, the app seems to force 60hz while my phone is plugged in, which is a little irritating. Would appreciate a fix.<br> :date: __2021-07-14 03:22:04__
-
-> Unobtrusive. Does good.<br> :date: __2021-07-13 22:13:47__
-
-> Awesome app, doesn't kill battery life as I expected it would. Only suggested improvement would be to allow exporting stats to gridcoin<br> :date: __2021-07-09 11:18:10__
-
-> If it helps - do it!<br> :date: __2021-07-08 12:55:26__
-
-> Amazing<br> :date: __2021-07-07 22:09:26__
-
-> So easy to use.<br> :date: __2021-07-04 23:16:36__
 
 
 
@@ -211,6 +211,10 @@ The DreamLab app has been installed by more than **1000000** times. At this time
 <img src="3_star_reviews_wordcloud.png" alt="au.com.vodafone.dreamlabapp 3 reviews"/>
 </p>
 
+> The app works well and is easy to get started with, my only concern is that my phone battery gets too hot during use even when it's already at 100%<br> :date: __2021-07-29 17:26:50__
+
+> Why can't this app keep running in background even after screen goes to sleep?<br> :date: __2021-07-28 02:24:06__
+
 > Thought I was doing a good thing, but it keeps defaulting back to tracking Corona and not the Cancer research that I want! Deleted it.<br> :date: __2021-06-28 17:19:01__
 
 > spectacular to be able to make a real contribution. If only the Damm app would STOP changing what I'm contributing too. I made my decision but apparently the app knows better.....<br> :date: __2021-06-25 22:49:37__
@@ -226,10 +230,6 @@ The DreamLab app has been installed by more than **1000000** times. At this time
 > Not sure, but i think these apps will kill your battery over time .<br> :date: __2021-05-01 21:44:25__
 
 > Been supporting the Covid-ai project for some time. No one explains how many stages are planned and stage 3 had those awkward 1 hr long calculations. No wonder Stage 4 only has 6.02% and 29k+ users, across 16 days. If there's even a Stage 5, don't expect much participance.<br> :date: __2021-04-16 17:28:48__
-
-> Getting worse. Great premise, but the app is unreliable. Being greeted by a notification saying " well done you powered this for 7 and a half hours and completed zero calculations" makes you wonder what the point is. It used to be much more reliable.<br> :date: __2021-04-06 11:56:46__
-
-> A really good app, shame it doesn't run all the time, using less power and slower processing when not in charge. Not keeping track of overall progress on Samsung S10. I have to clear everything to see how much progress has been made. Reported a while ago but still not fixed<br> :date: __2021-04-03 07:55:06__
 
 
 

@@ -150,6 +150,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="5_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 5 reviews"/>
 </p>
 
+> Buena app, se puede acceder fácilmente. Te da la información necesaria.<br> :date: __2021-07-24 20:13:44__
+
 > En Madrid es la app a tener en caso de sospecha por algún síntoma de COVID-19 ya que automatiza el contacto con el centro médico más cercano.<br> :date: __2021-07-08 13:48:26__
 
 > App muy sencilla de usar y recomendable en los tiempos que corren<br> :date: __2021-07-03 16:22:52__
@@ -167,8 +169,6 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Esta bien porque te dice si tienes posibilidad de tenerlo o no dependiendo de los síntomas<br> :date: __2021-05-12 11:04:15__
 
 > Muy buena app, fácil de usar y muy útil. La recomiendo.<br> :date: __2021-05-06 21:06:20__
-
-> Muy útil, todos deberíamos usarla<br> :date: __2021-03-24 19:24:04__
 
 
 
@@ -262,6 +262,8 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 <img src="1_star_reviews_wordcloud.png" alt="org.madrid.CoronaMadrid 1 reviews"/>
 </p>
 
+> La fecha de nacimiento se podría editar de otra manera<br> :date: __2021-07-26 11:35:15__
+
 > No funciona ni se abre, Oneplus 5t<br> :date: __2021-07-22 08:54:13__
 
 > No sirve para nada<br> :date: __2021-07-19 16:27:00__
@@ -279,7 +281,5 @@ The CoronaMadrid app has been installed by more than **50000** times. At this ti
 > Para poner fecha nacimiento tengo que recorrer mes a mes desde ahora.<br> :date: __2021-02-20 11:11:05__
 
 > No me enviaba el código de registro. Después de 55 minutos, me han llegado 4. Al ir a meterlos, no me acepta ninguno y cuando intento pedir uno nuevo, me dice que he superado el máximo de intentos. La desinstalo ahora mismo, porque vaya basura.<br> :date: __2021-02-15 19:24:26__
-
-> Mal no sirve<br> :date: __2021-02-06 23:32:08__
 
 

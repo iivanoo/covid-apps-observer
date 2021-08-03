@@ -4,7 +4,7 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.27.4",
-        "latest_crawl": 1627060375
+        "latest_crawl": 1627648607
     },
     {
         "id": "org.who.infoapp",
@@ -17,8 +17,8 @@
         "id": "nl.focuscura.beeldbelapp",
         "store_country": "nl",
         "store_lang": "nl",
-        "latest_crawled_version": "5.9.1",
-        "latest_crawl": 1621689650
+        "latest_crawled_version": "5.13.0",
+        "latest_crawl": 1627648750
     },
     {
         "id": "de.xikolo.openwho",
@@ -39,21 +39,21 @@
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.1.2",
-        "latest_crawl": 1627060897
+        "latest_crawl": 1627648857
     },
     {
         "id": "com.umcutrecht.covapp",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "1.9.0",
-        "latest_crawl": 1627060902
+        "latest_crawl": 1627648865
     },
     {
         "id": "com.everywhereim.cocorico",
         "store_country": "nl",
         "store_lang": "nl",
         "latest_crawled_version": "0.0.13",
-        "latest_crawl": 1627060908
+        "latest_crawl": 1627648874
     },
     {
         "id": "com.HetAmsterdamsFilmbedrijf.VRGorillaMobile360App",

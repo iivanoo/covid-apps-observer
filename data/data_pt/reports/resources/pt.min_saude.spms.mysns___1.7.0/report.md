@@ -154,7 +154,13 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="5_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 5 reviews"/>
 </p>
 
-> Gostava de activar o certificado como ja levei as vacinas O<br> :date: __2021-07-12 17:36:14__
+> Bom<br> :date: __2021-07-29 14:29:13__
+
+> Bom<br> :date: __2021-07-28 15:52:41__
+
+> Excelente<br> :date: __2021-07-26 16:06:48__
+
+> Gostava de activar o certificado como ja levei as vacinas a faser<br> :date: __2021-07-25 20:03:21__
 
 > Tudo ok ! Até conta as vacinas que já tomou antes!<br> :date: __2021-07-12 17:25:29__
 
@@ -167,12 +173,6 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Ok.<br> :date: __2021-07-07 14:42:14__
 
 > Boa ambiente na app<br> :date: __2021-07-02 19:30:43__
-
-> Excelente<br> :date: __2021-07-01 18:02:48__
-
-> Lenta na sua abertura, e de pouca utilidade. Não serve para consultar nada a não ser o número da saúde 24. Certamente o nome não corresponde à app. O que esperava era inserir o meu número de utente e ter acesso à informação médica pessoal.<br> :date: __2021-06-30 12:53:01__
-
-> Funciona bem e é bastante útil .<br> :date: __2021-06-28 21:17:51__
 
 
 
@@ -266,6 +266,8 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 <img src="1_star_reviews_wordcloud.png" alt="pt.min_saude.spms.mysns 1 reviews"/>
 </p>
 
+> Obrigado. Uma página e manda para o site. Também lá sei ir ter, logo desnecessária<br> :date: __2021-07-29 06:06:10__
+
 > Não percebo. Que aconteceu às receitas? Como saber quantas caixas são? Pela repetição do medicamento? Aparece o número de embalagens? Onde? E já não se recebem as receitas por email? Não percebo. A app foi alterada? Parece diferente. Antes não tinha estas dúvidas.<br> :date: __2021-07-19 23:31:20__
 
 > Darei melhor classificação quando a aplicação me permitir entrar(fazer logg um) aparentemente não podemos mudar de número de telemóvel, diz que o meu número está errado, quando inclusive para a vacinação covid19 é este número que consta para o meu número de utente, tenho sido contactado por este número...!!!<br> :date: __2021-07-19 11:31:32__
@@ -283,7 +285,5 @@ The MySNS app has been installed by more than **100000** times. At this time, **
 > Horrível<br> :date: __2021-07-10 11:33:57__
 
 > Para que fazer uma app se apenas o que faz e nos redireccionar para o website? Inútil, complicada, sem design...<br> :date: __2021-07-08 22:15:13__
-
-> Fraquinha, N S<br> :date: __2021-07-08 21:16:43__
 
 

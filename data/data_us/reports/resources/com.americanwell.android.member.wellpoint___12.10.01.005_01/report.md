@@ -186,6 +186,16 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 5 reviews"/>
 </p>
 
+> Super easy to set up a virtual visit and get a prescription<br> :date: __2021-07-30 15:03:11__
+
+> Doctor was really nice it was easier to talk to her and I would do this again if I needed to.<br> :date: __2021-07-29 07:50:04__
+
+> Very easy to navigate through and conveniently allows access to see all your appointments in one place. Communicatibg with you provider is super easy as well by sending a message directly within the app. Makes keeping up with appointments so much easier as it can be done anywhere!<br> :date: __2021-07-27 20:57:42__
+
+> No more waiting at the doctors office for simple health issues. And 24 hours!!!<br> :date: __2021-07-25 13:29:58__
+
+> So easy and fast. My primary care Doctor no longer takes my insurance and I ran out refills for a medication that I have taken 20+ years...still trying to find a new Doctor has been difficult. I answered some questions, verified my insurance and was then in a video chat with a doctor within 5 minutes or so. Explained my situation and she sent my rx with 2 refills over to my pharmacy and that was it. Saved me from having to go to an urgent care. Very happy...I highly recommend it!<br> :date: __2021-07-23 21:29:54__
+
 > I found the app simple and easy to use.<br> :date: __2021-07-23 19:54:08__
 
 > Good advice good advice and easy-to-follow knowledgeable<br> :date: __2021-07-23 12:54:24__
@@ -196,16 +206,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > Great app with a wide variety of healthcare providers<br> :date: __2021-07-19 19:59:24__
 
-> Time saving faster relief for common ailments<br> :date: __2021-07-16 17:11:47__
-
-> Great experience<br> :date: __2021-07-15 21:10:23__
-
-> Fast service, friendly doctors and affordable.<br> :date: __2021-07-15 01:40:36__
-
-> Excellent care, easy access and didn't have to miss work<br> :date: __2021-07-14 19:44:31__
-
-> Total lifesaver!<br> :date: __2021-07-14 07:45:51__
-
 
 
 #### 4-star reviews
@@ -213,6 +213,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 4 reviews"/>
 </p>
+
+> Some difficulty with signing in for appointments. Redundant with answering questions when starting and then the Ani assistant coming on and asking same questions. Staff chat will come on but not allow enough time to respond. Fantastic to be able to see therapist this way. Appreciate ability to send therapist messages between appointments. It helps like journaling and allows them to have information regarding what is going on in my life as stresses. Allows coverage of more issues in session<br> :date: __2021-07-29 17:11:02__
 
 > Really good. Had a little trouble with the app finding the available provider, but otherwise really beneficial. Prevented a trip to urgent care.<br> :date: __2021-07-19 02:39:18__
 
@@ -232,8 +234,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 
 > kept cutting off<br> :date: __2021-05-23 19:22:14__
 
-> Ok. Difficult to tell if the other person is not talking our that the audio has cut out. Consider a visual clue? (Doctor's mouth not always visible.)<br> :date: __2021-05-15 16:16:46__
-
 
 
 #### 3-star reviews
@@ -241,6 +241,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 3 reviews"/>
 </p>
+
+> This app gets the job done for what I need it for but it is broken for me. I don't understand why my "services" are basically LOCKED into "breastfeeding support". I have never used nor do I need this service, but it's the only one that appears. On the best of days it's annoying. On the worst of days just seeing it almost offends me. Is anyone else having this problem? Why can I not search other services? If I wasn't already pre scheduled with my therapist, I couldn't use this app.<br> :date: __2021-07-29 19:31:25__
 
 > I haven't used it much yet.<br> :date: __2021-07-16 16:29:03__
 
@@ -259,8 +261,6 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > The video call portion does not work. Even the provider told me to use a computer and the website because the Android app never works right. Good provider, terrible app.<br> :date: __2020-08-03 15:42:43__
 
 > I had a good experience with this I was impressed with it, real simple, easy after I stared at for a minute but I'm not good with this internet stuff. I just wish they had a psychiatrist a doctor of psychology. I need a therapist as well as a doctor, I'm in need of medicine & need to vent a well.<br> :date: __2020-07-28 19:00:33__
-
-> I'm pleased with the doctors available but the app has given me an issue with the audio each time I've used it. Is there a patch available?<br> :date: __2020-07-20 00:37:19__
 
 
 
@@ -298,6 +298,8 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 <img src="1_star_reviews_wordcloud.png" alt="com.americanwell.android.member.wellpoint 1 reviews"/>
 </p>
 
+> Unreliable and bare bones.<br> :date: __2021-07-26 03:28:14__
+
 > Can't load my insurance information. Once I filled in my insurance information and click submit it got stuck.<br> :date: __2021-07-16 18:11:54__
 
 > App Always needs update. Total garbage<br> :date: __2021-06-22 20:44:57__
@@ -315,7 +317,5 @@ The LiveHealth Online Mobile app has been installed by more than **500000** time
 > Don't waste your money, I paid $59 and they can't even prescribe medicine that you actually need. Go to a real doctor!<br> :date: __2021-04-24 22:05:37__
 
 > keeps crashing!<br> :date: __2021-04-23 05:07:19__
-
-> Big scam I have a sinus infection I know what allergies feels like this is not allergies doctor didn't listen to a thing I said told them I have tried nasal sprays, sudafed, and one of the meds I had listed was zytec and ill be damned if the idiot didn't turn around and tell me to use afrin nasal spray and zytec all I needed was antibiotics I have had this for 4 or 5 days and it is getting worse dont waste your money on this big scam all they want is for you to come back in a week<br> :date: __2021-04-10 19:37:11__
 
 

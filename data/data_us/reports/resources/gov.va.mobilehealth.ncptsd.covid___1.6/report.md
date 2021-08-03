@@ -140,6 +140,8 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 <img src="5_star_reviews_wordcloud.png" alt="gov.va.mobilehealth.ncptsd.covid 5 reviews"/>
 </p>
 
+> I love this app it's just what I needed to control my everyday life living with severe PTSD<br> :date: __2021-07-27 06:06:00__
+
 > Thank you for the app, it helped me managed my mood swings<br> :date: __2021-07-19 06:08:55__
 
 > Very well done app! Many many options within the app and favorites can ne choosen. I am a skeptic when it comes to online mindfulness apps. This one has worked for me.<br> :date: __2021-07-04 05:09:32__
@@ -157,8 +159,6 @@ The COVID Coach app has been installed by more than **10000** times. At this tim
 > This is an amazing app because it has so many mental health resources available whenever you need them. I've often thought about putting together an "emergency toolbox" for my mental health, and that's pretty much what this is. I hope it will continue to be available after the pandemic. My therapist recommended it as a handy tool.<br> :date: __2021-05-12 00:14:58__
 
 > I am a Veteran and this app is simply amazing. It is very easy to navigate. I like it!! 👌🏽❤<br> :date: __2021-05-11 23:58:23__
-
-> This app really helps. It offers good advices if needed. I really recommend this.<br> :date: __2021-04-27 03:24:16__
 
 
 

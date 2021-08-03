@@ -215,6 +215,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="4_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 4 reviews"/>
 </p>
 
+> Bien<br> :date: __2021-07-29 20:29:08__
+
 > Buena<br> :date: __2021-07-18 18:49:51__
 
 > Hostelería interior al 30% y exterior al 50%. Por favor dar la información correcta. Esto no es verdad. Interior al 50 y exterior al 75. Varias veces que lo actualizan y vuelven a ponerlo mal. Falla en lo básico.<br> :date: __2021-06-26 08:47:11__
@@ -265,6 +267,8 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="2_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 2 reviews"/>
 </p>
 
+> Non atopo o xeito de acceder con Chave365 non, polo tanto, de obter o certificado de vacinación.<br> :date: __2021-07-29 21:46:37__
+
 > He intentado acceder con Chave 365, pero no encuentro la manera de registrarme. Quizá lo hice mal la primera vez que la instalé, pero la he desistalado y vuelto a instalar no sé cuántas veces, y sólo me permite acceder, pero no registrarme. De esa manera, accedo como usuario anónimo, y no puedo descargar el certificado de vacunación (por ejemplo). Hay enlaces que te explican las ventajas de acceder con Chave 365, pero en ninguna parte te explican cómo hacerlo.<br> :date: __2021-07-09 20:20:09__
 
 > Pasa a estado anónimo constantemente.<br> :date: __2021-05-09 20:00:56__
@@ -283,8 +287,6 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 
 > Las restricciones cambiaron esta noche a las 12, y a pesar de haber recibido una notificación diciendo que había cambios en la app, al entrar sigue apareciendo la info de ayer 🤔<br> :date: __2020-12-23 08:30:25__
 
-> Tiene que mejorar No consigo que la app me indique zonas en las que hay brotes de contagios o zonas de riesgo, se limita a dar información sobre restricciones y recomendaciones que ya conozco muy bien. La desinstalo ahora mismo, esta app no me sirve para desplazarme con seguridad. Más adelante le daré una oportunidad<br> :date: __2020-12-01 00:01:22__
-
 
 
 #### 1-star reviews
@@ -293,24 +295,24 @@ The PassCOVID.gal app has been installed by more than **100000** times. At this 
 <img src="1_star_reviews_wordcloud.png" alt="gal.xunta.covidpass 1 reviews"/>
 </p>
 
+> No me deja descargar de como tengo la vacunación completa me pasa de una página a otra diciendo lo mismo<br> :date: __2021-07-29 21:07:31__
+
+> malisima<br> :date: __2021-07-29 17:25:21__
+
+> Una chapuza. Poco intuitiva para navegar como consecuencia de un diseño horroroso. Enlaces que no funcionan o desactualizados. De la obtención del certificado mejor no hablar<br> :date: __2021-07-29 11:31:27__
+
+> Mala<br> :date: __2021-07-28 18:52:48__
+
+> Realmente mala...5 minutos intentando acceder al certificado y te desespera...<br> :date: __2021-07-27 21:11:32__
+
+> As proporcions indicadas pra un concello como o de Forcarei con menos de 3500 habitantes parecenme realmente desproporcionadas e sen sentido.<br> :date: __2021-07-26 00:13:58__
+
+> Pésima. Xa costa atopar as cousas, para que logo te diga que vaias ao teu centro de saúde. E ameazan que si fas unha reseña teus datos se farán publicos. Só sirve para controlar a xente.<br> :date: __2021-07-24 14:18:01__
+
+> Esto es una basura de aplicación, imposible el certificado vaya truño<br> :date: __2021-07-24 13:21:30__
+
+> A miña Chave365 está vixente e activa pero, para PassCovid, é como si non existira. Remátase antes indo a un centro de saúde e esperar unha hora na cola.<br> :date: __2021-07-24 08:42:12__
+
 > Perda de tempo<br> :date: __2021-07-23 13:21:00__
-
-> No me permite loguearme, se queda continuamente en "accediendo".<br> :date: __2021-07-23 10:10:15__
-
-> No he conseguido descargar el certificado. Seria bueno si funcionara bien<br> :date: __2021-07-22 22:25:04__
-
-> 𝚂𝚒 𝚍𝚎𝚜𝚌𝚊𝚛𝚐𝚊𝚜 𝚝𝚎 𝚎𝚜𝚝𝚘 𝚙𝚊𝚛𝚊 𝚜𝚘𝚕𝚒𝚌𝚒𝚝𝚊𝚛 𝚎𝚕 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚍𝚘 𝚍𝚎 𝚟𝚊𝚌𝚞𝚗𝚊𝚍𝚘, 𝚘𝚕𝚟𝚒𝚍𝚊𝚝𝚎, 𝚟𝚎𝚝𝚎 𝚊 𝚝𝚞 𝚊𝚖𝚋𝚞𝚕𝚊𝚝𝚘𝚛𝚒𝚘 𝚢 𝚙𝚒𝚍𝚎 𝚕𝚊 𝚌𝚕𝚊𝚟𝚎 𝚊𝚕𝚕í, 𝚎𝚜𝚝𝚘 𝚜𝚘𝚕𝚘 𝚟𝚊𝚕𝚎 𝚙𝚊𝚛𝚊 𝚙𝚎𝚛𝚍𝚎𝚛 𝚎𝚕 𝚝𝚒𝚎𝚖𝚙𝚘.<br> :date: __2021-07-22 17:40:33__
-
-> Sería muy difícil que la hicieran más inútil y complicada . Imposible descargar el certificado de vacunación Covid . Mala, mala , mala .<br> :date: __2021-07-22 11:54:30__
-
-> Bastante inútil<br> :date: __2021-07-18 00:11:15__
-
-> Poucas veces vin app máis inútil. E o de conseguir o certificado covid a través dela, simplemente mentira.<br> :date: __2021-07-13 13:11:41__
-
-> Mala no, lo siguiente<br> :date: __2021-07-13 12:02:43__
-
-> Unha merda<br> :date: __2021-07-10 00:17:42__
-
-> Pésima, soy de muface con clave365 y no me funcionó jamás. ¿Quien diseñó la aplicación? Porfavor contraten gente competente, que tenemos un 20% de paro....<br> :date: __2021-07-06 21:24:30__
 
 

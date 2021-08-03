@@ -217,6 +217,12 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="3_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 3 reviews"/>
 </p>
 
+> Poco precisa<br> :date: __2021-07-26 17:12:47__
+
+> Nella parte dedicata alle istruzioni ai cittadini, il link risulta rimosso. Poco utile avere l'allerta se poi mancano le istruzioni da seguire. Verificate che i link siano funzionanti<br> :date: __2021-07-26 11:54:48__
+
+> Spesso la app su blocca all'apertura...<br> :date: __2021-07-24 13:45:10__
+
 > Sembra tornata a funzionare.<br> :date: __2021-06-23 10:19:38__
 
 > Ottimo<br> :date: __2021-04-22 15:51:52__
@@ -230,12 +236,6 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Il questionario emergenza covid non mi lascia aggiornare i miei dati personali, età anagrafica.<br> :date: __2021-04-19 21:19:02__
 
 > Utile ,mi tiene aggiornata.<br> :date: __2021-04-08 21:17:47__
-
-> Non è possibile cambiare l'età durante l'aggiornamento dei dati in un modulo già compilato<br> :date: __2021-03-12 15:22:58__
-
-> Ha funzionato sempre bene ma, da un paio di settimane il servizio risulta "non raggiungibile, riprova più tardi ". L'ho disinstallato e reinstallato ma, non cambia nulla.<br> :date: __2021-03-08 19:14:03__
-
-> Ottima okk<br> :date: __2020-12-01 18:32:58__
 
 
 
@@ -273,6 +273,8 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 <img src="1_star_reviews_wordcloud.png" alt="it.lispa.sire.app.mobile.allertalom 1 reviews"/>
 </p>
 
+> più lenta e malfunzionante di quest'app, c'è solo quest'app<br> :date: __2021-07-24 17:57:54__
+
 > Non mi arrivano le notifiche di allert<br> :date: __2021-07-11 09:47:58__
 
 > La disinstallo che non é mai servita a niente. Ore 17 grandinata mega, ti arrivata in mattina il solito messaggio che non fa aprire l'app. Ma un servizio cone quello delle assicurazioni che ti avvisa all'istante in base a GPS o impostazioni da scegliere non ce l'avete? Che mi frega se fate una pappardella degli eventi della Lombardia, chi la legge? Poi la parte Covid stendiamo un velo pietoso. Soldi buttati<br> :date: __2021-07-08 17:30:46__
@@ -290,7 +292,5 @@ The allertaLOM app has been installed by more than **500000** times. At this tim
 > Sempre stata un po' zoppicante ma adesso nn si apre nemmeno più. Mi è arrivata una notifica, la avvio e... servizio attualmente nn disponibile, riprova più tardi!! Penosa.<br> :date: __2021-06-19 13:56:38__
 
 > Arrivano le notifiche di allerta e quando si clicca sulla notifica non mostra niente solo pagina bianca<br> :date: __2021-06-19 13:40:22__
-
-> Sistematela!! O non si apre o quando si apre è poco chiara...<br> :date: __2021-06-19 13:40:18__
 
 

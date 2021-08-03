@@ -217,8 +217,6 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 
 > Mit dem Coronavierus-Pandamie haben die Stadt Herne von Dudda überhaupt die Menschen nicht geschützt,und sind sehr kräftig nach oben gekommen die Coronavierus,das ist fahrlässig mit den Menschen,und auch nicht verantwortlich für alle Menschen und sollte die Konsequenzen auch ziehen. Vielen Grüße Leschny<br> :date: __2020-08-20 10:34:11__
 
-> Ansich nicht schlecht aber komischerweise Beschwerden kann man nicht melden. Es wird immer angezeigt Fehler....<br> :date: __2020-08-10 16:20:41__
-
 > Grundsätzlich eine super Idee. Vor allem, dass viele alltägliche Themen enthalten, z.B. Stadtverwaltung. Warum ist der ärztliche Notdienst/Arztsuche unter Stadtverwaltung? Der Abfallkalender ist nicht im App-Format und wird viel zu klein dargestellt. Die Eingabe ist fast unmöglich. Bei Kultur und Freizeit finde ich es schwierig, die Angebote (nur) nach Karte auswählen zu können. Eine Auflistung nach Kategorie (z.B. Theater, Kino...) fände ich sinnvoll.<br> :date: __2020-04-21 09:42:33__
 
 > Mal ehrlich, sollte eine app nich erst zum download angeboten werden, wenn alles funktioniert, also so funktioniert, dass sie vernünftig auf einem Handy benutzt werdern kann?!? An den Programmierer - da ist noch jede Menge Luft nach oben 🤔<br> :date: __2020-04-18 12:12:03__
@@ -242,6 +240,8 @@ The Herne-App  - offizielle App der Stadt Herne app has been installed by more t
 <p align="center">
 <img src="1_star_reviews_wordcloud.png" alt="de.bluebox.herne_app 1 reviews"/>
 </p>
+
+> Mängel gemeldet per App, dies wurde nur auf erledigt gesetzt und mehr passiert nicht. Habe nichts anderes erwartet. Danke für keine Hilfe<br> :date: __2021-07-25 07:49:31__
 
 > Dreck App. Online Termine nicht mehr machbar. Nur noch Online bei Herne.de und auch nicht mehr Banhofstraße 38 sondern wieder bei Friedrich Ebertplatz 5. Ein Hinweis muss doch im App stehen. Man sucht aber vergeblich danach 😡😡😡<br> :date: __2021-05-10 11:28:22__
 

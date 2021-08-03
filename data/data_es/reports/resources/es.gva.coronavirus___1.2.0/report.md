@@ -195,6 +195,10 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="es.gva.coronavirus 1 reviews"/>
 </p>
 
+> Recién instalada. He querido averiguar , cuando les tocaría a mis hijas y la app no funciona. No me parece que sea de gran ayuda<br> :date: __2021-07-26 16:02:47__
+
+> Fatal , lo único bueno son los teléfonos que no se encuentran en ningún otro lado , pero da igual por qué no los contesta nadie Te dicen que te llamarán pero en una semana no llamo nadie ni a preguntar cómo seguíamos , cero interés preocupación y la app no ayuda a la puesta en contacto<br> :date: __2021-07-24 09:31:54__
+
 > Complicada<br> :date: __2021-06-09 08:55:05__
 
 > Podría estar incluida la opción en la app gva salud<br> :date: __2021-02-05 11:04:54__
@@ -210,9 +214,5 @@ The GVA Coronavirus app has been installed by more than **10000** times. At this
 > Super lento<br> :date: __2020-10-28 14:24:20__
 
 > Le he puesto mi numero de SIP y mi nacimiento,le pulso a acceder y no hace nada...<br> :date: __2020-10-25 19:44:56__
-
-> Me dice q los datos son erroneos y no me permite abrirla<br> :date: __2020-10-02 23:55:51__
-
-> No tengo ni idea de por qué no funciona la nacional Y además porqué , no informan de esta nueva aplicación y para que sirve Vergüenza siento de sus protocolos<br> :date: __2020-09-28 19:50:34__
 
 

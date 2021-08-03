@@ -178,6 +178,14 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 <img src="5_star_reviews_wordcloud.png" alt="com.americanwell.android.member.optum 5 reviews"/>
 </p>
 
+> Very helpful when too sick to get out of bed. Easy, short wait times.<br> :date: __2021-07-28 01:26:41__
+
+> Easy, convenient<br> :date: __2021-07-27 02:11:04__
+
+> A+<br> :date: __2021-07-26 20:15:48__
+
+> Very quick and a very capable healthcare provider met with me.<br> :date: __2021-07-24 01:47:37__
+
 > SHANA HOLMAN IS THE DR TO ASK FOR. I had 2 male drs before her who wouldn't take a second to listen to me and just blew me off and told me just go to the Er Shana however was a blessing thank you Dr. Shana HOLMAN!<br> :date: __2021-07-22 02:41:03__
 
 > Was great, doctor was pleasant, listened and got us done quickly.<br> :date: __2021-07-18 02:44:14__
@@ -189,14 +197,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Smooth and easy<br> :date: __2021-07-14 19:20:42__
 
 > Very good<br> :date: __2021-07-14 16:56:55__
-
-> So better than going into the doctor's office not that I don't like my doctor. Thank goodness for this app it was really clear video<br> :date: __2021-07-13 16:45:06__
-
-> I love this app it is amazing 5stars no doubt<br> :date: __2021-07-12 22:13:46__
-
-> Quick and easy. Was done in 10 mins from the comfort of my home. Definitely recommend anyone who needs a quick doctor's visit.<br> :date: __2021-07-12 01:13:09__
-
-> Amazing crew and so easy to use. In this day and time it is nice to be able to handle the little things without venturing out and being exposed to more.<br> :date: __2021-07-10 18:40:04__
 
 
 
@@ -247,8 +247,6 @@ The NowClinic app has been installed by more than **50000** times. At this time,
 > Image and sound freezing Does not seem to work with an IPAD<br> :date: __2020-04-09 21:05:50__
 
 > Problems with audio on Android<br> :date: __2019-11-03 22:04:50__
-
-> the process was very slow<br> :date: __2019-06-30 18:50:29__
 
 
 

@@ -238,6 +238,16 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.michigan.MiCovidExposure 1 reviews"/>
 </p>
 
+> Trash<br> :date: __2021-07-29 22:28:33__
+
+> It doesn't work. Literally no matter when I check it to see it is still stuck in February.<br> :date: __2021-07-29 16:47:13__
+
+> When the app was first introduced to the Michigan community through TV commercial they never mentioned needing some pin# to get notifications on if you had come in contact with an infected person. As stated in other rates here my phone hasn't had a check since April 21'. It would be a great tool if it really worked and if we knew we needed some pin#.<br> :date: __2021-07-29 02:14:27__
+
+> App doesn't update? The last time it checked for exposures was March 28, 2021 and it's July 27, 2021. What's the point if it doesn't work🤔 I have updated the app and it still show March 28, 2021<br> :date: __2021-07-27 14:38:44__
+
+> Covid was created by liberals and has a 99.7% survival rate. Move on and don't install this app. We have bigger issues in our country like DC! STOP BEING SHEEP!<br> :date: __2021-07-25 02:07:02__
+
 > Does not update, just usi g up space on my phone. Useless!<br> :date: __2021-07-22 15:41:32__
 
 > This is the perfect app for people who hate actual science and prefer to live in fear instead!<br> :date: __2021-07-20 08:25:49__
@@ -247,15 +257,5 @@ The MI COVID Alert app has been installed by more than **100000** times. At this
 > Ran by woke racist<br> :date: __2021-07-14 20:29:11__
 
 > Waste of space.<br> :date: __2021-07-08 03:22:29__
-
-> Covid isn't real<br> :date: __2021-07-06 08:02:32__
-
-> It was just a drain on my battery<br> :date: __2021-07-02 20:39:15__
-
-> Stops working. I install it and it works for a period of time then stops. This is the 3rd time I installed it. Today I checked it and said last checked June 3, today is June 25<br> :date: __2021-06-23 15:42:42__
-
-> Covids a hoax the state developers should work on fixing actual issues. Like the unemployment systems that have been overwhelmed and need optimization from the influx caused by terrible policy decisions. Also the app doesn't even work.<br> :date: __2021-06-21 18:40:42__
-
-> Doesn't work anymore. Says it hasn't checked for exposure in over 4 months, despite that option being always enabled and my Bluetooth being always on.<br> :date: __2021-06-20 14:05:45__
 
 

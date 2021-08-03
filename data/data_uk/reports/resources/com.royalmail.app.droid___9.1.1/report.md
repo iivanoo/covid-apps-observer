@@ -167,25 +167,25 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="5_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 5 reviews"/>
 </p>
 
-> fast delivery great postie thanks<br> :date: __2021-07-23 14:29:12__
+> Never had any problems and the staff are very helpful<br> :date: __2021-07-30 11:52:38__
 
-> Awesome<br> :date: __2021-07-23 13:39:14__
+> good app<br> :date: __2021-07-30 10:57:03__
 
-> tracking system very easy to use and follow<br> :date: __2021-07-23 10:51:57__
+> excellent service. had to change delivery day. not a problem to do.<br> :date: __2021-07-29 16:26:08__
 
-> very useful and saves me so much hassle 🙂<br> :date: __2021-07-22 21:30:54__
+> I guess it could be revamped, but overall no issues with it.<br> :date: __2021-07-29 15:46:38__
 
-> Love Royal mail<br> :date: __2021-07-22 16:03:47__
+> helpful<br> :date: __2021-07-29 14:51:57__
 
-> Royal Mail are the best and the app has all the information you need.<br> :date: __2021-07-22 13:11:17__
+> works with no issues so far.<br> :date: __2021-07-29 11:56:58__
 
-> Great App<br> :date: __2021-07-22 07:56:20__
+> Simple, functional.....it works!!!<br> :date: __2021-07-29 09:38:47__
 
-> This is a great app for taking care of all my deliveries.<br> :date: __2021-07-21 01:22:28__
+> Lovely App! Thanks 😊.<br> :date: __2021-07-29 00:04:22__
 
-> great<br> :date: __2021-07-20 13:04:08__
+> enjoyed<br> :date: __2021-07-28 23:35:07__
 
-> has been great for tracking my parcels and redelivery if needed. quick easy and also gives option to receive notifications.<br> :date: __2021-07-20 12:54:24__
+> Excellent Service,,!!!<br> :date: __2021-07-28 13:58:57__
 
 
 
@@ -194,6 +194,10 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="4_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 4 reviews"/>
 </p>
+
+> Hard to track parcel you told me you d<br> :date: __2021-07-28 16:22:21__
+
+> Good stuff * * * * *<br> :date: __2021-07-26 10:34:50__
 
 > it's a very good service and helpful indeed<br> :date: __2021-07-23 13:54:38__
 
@@ -211,10 +215,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Great app. can track and trace my packages very quickly and easily !!<br> :date: __2021-07-10 11:49:46__
 
-> quick and easy to track a package<br> :date: __2021-07-08 08:29:38__
-
-> filling in details and getting the app to accept ie took 12 attempts to get telephone number acceptd before continuing to next line. Total frustration when the objective is to SAVE TIME.<br> :date: __2021-07-07 12:59:57__
-
 
 
 #### 3-star reviews
@@ -222,6 +222,10 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <p align="center">
 <img src="3_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 3 reviews"/>
 </p>
+
+> Keeps getting redelivery addresses mixed up. Very dissapointing.<br> :date: __2021-07-29 19:05:52__
+
+> waiting in for a four hour delivery window. half an hour before it expires get a text to say not coming. doesn't matter, the world still turns but annoying.<br> :date: __2021-07-26 10:45:50__
 
 > Delivery card contained delivery officer initial and duty# but no reference #. The system isn't joined up as it didn't allow me to provide that info. It got me to install the app and grab my personal info of course... ? App simply indicated an error when I tried to schedule a redelivery date but gave no reason. Update: useful to find priority post boxes for Covid tests. Even then it's a GUI screwup as it's ambiguously under "find a drop off location" from which PO collects - like a postbox.<br> :date: __2021-07-22 15:42:40__
 
@@ -239,10 +243,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Already had a Royal Mail account from having bought stamps some years back and so it was fairly easy installing and setting up. setting up a redelivery was fairly easy and a tracking number in a text message opens seamlessly in the app. Great thus far.<br> :date: __2021-07-11 10:27:47__
 
-> quite buggy at times<br> :date: __2021-07-06 13:17:00__
-
-> Logs me out almost every time which is frustrating, on a few occasions transactions have failed yet I still got charged for postage. No email confirmations or anything. It is easy to use and navigate through but its somewhat buggy and needs a bit more stability in regards to making payments and logging in.<br> :date: __2021-07-01 01:56:41__
-
 
 
 #### 2-star reviews
@@ -251,13 +251,17 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="2_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 2 reviews"/>
 </p>
 
+> App is fine, but didn't like how you inverted the checkboxes for not receiving spam from you. Obviously you did it to trick people, who click through the account creation, without reading. I also believe it goes against GDPR rules, as it should be a user action to opt-in into receiving messages, and at the moment you have to click to opt-out.<br> :date: __2021-07-30 09:57:51__
+
+> There needs to be more options in regards to redelivery options and also once you booking a redelivery it doesn't update the history of redelivery. The app can do much better if there's proper ways taken to manage it.<br> :date: __2021-07-26 19:57:42__
+
+> a bit of a black hole on information. I keep getting messages when items are "sent" by people but in reality that doesn't mean royal mail actually have the item, or that it's moving anywhere. no where near as good as DPD, who are the market leaders in app delivery information.<br> :date: __2021-07-24 16:54:29__
+
 > I was able to track progress every step of the way from Italy until the item was passed to Royal Mail, then apart from an apology, nothing. I'll have to cross my fingers and hope it gets delivered.<br> :date: __2021-07-23 10:12:20__
 
 > I was told the parcel was to be delivered on Tues 20th and made arrangements to be in, when in fact it was actually delivered on thurs 22nd.<br> :date: __2021-07-22 16:15:22__
 
 > track and trace is pointless. when you enter your track and trace number , it just replies, we haven't tried to deliver your item yet so we can't track it...🤣🤣🤣🤣<br> :date: __2021-07-22 10:44:32__
-
-> Had first requested redelivery.Found difficult to find without app.And in Covid mode extremely lengthy process arranging services like redelivery for inform aged real pergatory!Does not ever update at all basically ap is a shambles.<br> :date: __2021-07-19 14:21:24__
 
 > live tracking (like amazon) would be great. also I recieved a notification today (19th) to say my package has been delivered .... on the 17th. Correct date but what's the point telling me two days later!<br> :date: __2021-07-19 11:32:59__
 
@@ -267,10 +271,6 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 
 > Had arranged redirection to PO but an attempt was made to deliver to house. The app shows the instruction clearly. Very annoying. Don't dare risk Nother arrangement. Would be good to know when ordering if it is going via Royal Mail so we could order elsewhere.<br> :date: __2021-07-12 14:49:31__
 
-> Had a parcel redirected to local post office on Thursday so I could collect Saturday . Got an email saying that it would be their , so went do at 10 o'clock an the reference on the email is not recognised by post office .<br> :date: __2021-07-03 12:19:24__
-
-> Tracking never works! only ever tells me that an item has been delivered. Also now have to login everytime which is extremely annoying.<br> :date: __2021-07-02 10:35:05__
-
 
 
 #### 1-star reviews
@@ -279,24 +279,24 @@ The Royal Mail - Tracking, redelivery, prices app has been installed by more tha
 <img src="1_star_reviews_wordcloud.png" alt="com.royalmail.app.droid 1 reviews"/>
 </p>
 
-> This item has been sat in the local delivery office (less than 1.5 miles away!!!) for 3 days . It's not a big parcel and I have now received 3 different alerts that it's due for delivery. This is fairly typical of this service. Not impressed (which is also fairly typical). Private delivery services do much better - perhaps there is something to be learned from them ...???<br> :date: __2021-07-23 07:42:04__
+> Doesn't recognize either delivery number or QR code - basically useless.<br> :date: __2021-07-30 16:21:32__
 
-> Track something nah just an excuse why updates may not be available disappointing for a delivery service<br> :date: __2021-07-22 08:21:03__
+> I was assured my Delivery is on it way. now one entire day wasted. again this morning again I was assured it will be with me shortly and they don't know why I didn't receive yesterday it's now 13:20 making it 4 hours waiting.<br> :date: __2021-07-30 14:18:05__
 
-> Hardly a tracking app, when you can't track a parcel until its been delivered!<br> :date: __2021-07-21 18:19:19__
+> tracking not updated for over a week....pointless<br> :date: __2021-07-30 13:41:19__
 
-> Bad cannot even get my name inputted !<br> :date: __2021-07-21 16:48:36__
+> rubbish never has any info about your parcel always says try later....😡😡<br> :date: __2021-07-30 12:17:31__
 
-> says number not valid<br> :date: __2021-07-21 15:33:43__
+> The app doesn't know what's going on....Royal Mail's promise is to attempt delivery when you're asleep or not in... guaranteed...<br> :date: __2021-07-30 10:37:33__
 
-> no information on tracked parcel<br> :date: __2021-07-20 21:30:24__
+> Delivery is always late and never comes on guaranteed time.<br> :date: __2021-07-29 13:58:21__
 
-> Less functionality than the website if you don't have an account<br> :date: __2021-07-19 16:30:28__
+> pretend someone came to deliver and nobody there which is not true..strange behaviour<br> :date: __2021-07-29 08:35:04__
 
-> Next to useless.<br> :date: __2021-07-19 16:24:55__
+> my item left its original country 10 days ago and I have not received an update on where it is<br> :date: __2021-07-29 03:38:18__
 
-> never deliver on time always losing the parcels or letters the company don't deserve the name Royal Mail<br> :date: __2021-07-19 14:06:37__
+> never stays logged in<br> :date: __2021-07-28 09:15:19__
 
-> I have click and drop on my pc which work's fine. After installing app it refuses to recognise my log in details. If I try to re-register it says my email address is already registered!!?? Have tried changing password, re-installing app etc. Useless! Have given up and deleted app. A few months on and the app still doesn't recognise my login details so have deleted it again!!!<br> :date: __2021-07-19 12:26:07__
+> service of app is usually rubbish<br> :date: __2021-07-27 23:14:44__
 
 

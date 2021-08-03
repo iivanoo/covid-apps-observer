@@ -142,6 +142,8 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="5_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 5 reviews"/>
 </p>
 
+> Welcoming<br> :date: __2021-07-29 13:51:56__
+
 > Lightweight and no problems... Pops up every day for a check in and never bothers me any other time. Never a single technical issue and I have been running it for over 6 months.<br> :date: __2021-07-19 15:26:55__
 
 > It Keeps Everybody Ahware of The Virous<br> :date: __2021-07-19 00:02:15__
@@ -159,8 +161,6 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 > Very helpful to see any trends developing with infections and/or vaccines.too many ads tho!<br> :date: __2021-07-07 11:22:48__
 
 > Awesome application that was released by the gov.. which is pretty dope on their par<br> :date: __2021-07-06 15:57:24__
-
-> Great for keeping track of cases in PA, breaks down each county, also uses Bluetooth to alert you if someone else who has the app downloaded and marked themselves as being sick or having covid, has been in close proximity to you<br> :date: __2021-07-05 14:43:27__
 
 
 
@@ -254,9 +254,9 @@ The COVID Alert PA app has been installed by more than **100000** times. At this
 <img src="1_star_reviews_wordcloud.png" alt="gov.pa.covidtracker 1 reviews"/>
 </p>
 
-> App didn't work. Coworker got covid the app didn't alert me to anything!<br> :date: __2021-07-23 01:09:51__
+> Not sure what it's doing. Cannot have PA and NJ at same time so not sure it's useful for me. If I understood it then maybe I'd think it was great...but...dunno..... I keep it on tho, just in case!<br> :date: __2021-07-25 23:16:41__
 
-> #a11y fail. Check in and all other screens no longer work with talkback running. App is uninstalled. You have a fiend in Pennsylvania!<br> :date: __2021-07-18 04:50:16__
+> App didn't work. Coworker got covid the app didn't alert me to anything!<br> :date: __2021-07-23 01:09:51__
 
 > App was fine now just blue screen after a nrief display of the first screen.<br> :date: __2021-07-18 01:41:08__
 

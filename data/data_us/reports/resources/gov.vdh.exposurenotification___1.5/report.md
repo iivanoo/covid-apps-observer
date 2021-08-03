@@ -134,6 +134,8 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 <img src="5_star_reviews_wordcloud.png" alt="gov.vdh.exposurenotification 5 reviews"/>
 </p>
 
+> Out<br> :date: __2021-07-24 20:39:25__
+
 > This app gives me peace of mind. HE used it since July of 2020.<br> :date: __2021-07-21 16:11:06__
 
 > Lots of good information<br> :date: __2021-06-30 07:17:30__
@@ -151,8 +153,6 @@ The COVIDWISE app has been installed by more than **500000** times. At this time
 > Thank you for this excellent public service. If only more people worked together for the greater good of all we could achieve so much more together. 💜<br> :date: __2021-04-27 01:25:34__
 
 > Works in the background with no performance issues. Gives periodic updates regarding ongoing monitoring.<br> :date: __2021-04-22 20:07:07__
-
-> I wanted to pratically keep going thanks<br> :date: __2021-04-20 06:18:10__
 
 
 
